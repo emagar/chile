@@ -171,36 +171,93 @@ summary(bills)
 ####################################
 bills$syst <- vector("list", I) # new slot to receive structured info
 #
+bills$info$debug <- 0 # debug prep
+#
 # pick one case
-i <- 1
+i <- 77
 
-# loop over i start here
-tmp <- bills$hitos[[i]]
-tmp <- gsub(pattern = ",", replacement = "", tmp) # drop commas
-tmp <- tmp[-1] # drop line with titles
-N <- length(tmp) # number of hitos
-output <- data.frame(ses=character(N)) # initialize output object
-# format dates
-tmp2 <- sub(pattern = "^([0-9]{2}[ .A-Za-z]+[0-9]{4}).*", replacement = "\\1", tmp, perl = TRUE)
-tmp2 <- sub(pattern = " de ", replacement = "/", tmp2, perl = TRUE)
-tmp2 <- sub(pattern = "[. ][de ]*", replacement = "./", tmp2, perl = TRUE)
-tmp2 <- gsub(pattern = "Ene.", replacement = "1", x = tmp2)
-tmp2 <- gsub(pattern = "Feb.", replacement = "2", x = tmp2)
-tmp2 <- gsub(pattern = "Mar.", replacement = "3", x = tmp2)
-tmp2 <- gsub(pattern = "Abr.", replacement = "4", x = tmp2)
-tmp2 <- gsub(pattern = "May.", replacement = "5", x = tmp2)
-tmp2 <- gsub(pattern = "Jun.", replacement = "6", x = tmp2)
-tmp2 <- gsub(pattern = "Jul.", replacement = "7", x = tmp2)
-tmp2 <- gsub(pattern = "Ago.", replacement = "8", x = tmp2)
-tmp2 <- gsub(pattern = "Sep.", replacement = "9", x = tmp2)
-tmp2 <- gsub(pattern = "Oct.", replacement = "10", x = tmp2)
-tmp2 <- gsub(pattern = "Nov.", replacement = "11", x = tmp2)
-tmp2 <- gsub(pattern = "Dic.", replacement = "12", x = tmp2)
-output$date <- dmy(tmp2)
-#
-tmp <- sub(pattern = "^[0-9]{2}[ .A-Za-z]+[0-9]{4}(.*)", replacement = "\\1", tmp, perl = TRUE) # crops object
-tmp <- sub(pattern = "^[ ]+", replacement = "", tmp) # removes spaces at start
-#
+for (i in 1:200){
+    message(sprintf("loop %s of %s", i, I))
+    tmp <- bills$hitos[[i]]
+    tmp <- gsub(pattern = ",", replacement = "", tmp) # drop commas
+    tmp <- tmp[-1] # drop line with titles
+    N <- length(tmp) # number of hitos
+    output <- data.frame(rawText=tmp) # initialize output object
+                                        # format dates
+    tmp2 <- sub(pattern = "^([0-9]{2}[ .A-Za-z]+[0-9]{4}).*", replacement = "\\1", tmp, perl = TRUE)
+    tmp2 <- sub(pattern = " de ", replacement = "/", tmp2, perl = TRUE)
+    tmp2 <- sub(pattern = "[. ][de ]*", replacement = "./", tmp2, perl = TRUE)
+    tmp2 <- gsub(pattern = "Ene.", replacement = "1", x = tmp2)
+    tmp2 <- gsub(pattern = "Feb.", replacement = "2", x = tmp2)
+    tmp2 <- gsub(pattern = "Mar.", replacement = "3", x = tmp2)
+    tmp2 <- gsub(pattern = "Abr.", replacement = "4", x = tmp2)
+    tmp2 <- gsub(pattern = "May.", replacement = "5", x = tmp2)
+    tmp2 <- gsub(pattern = "Jun.", replacement = "6", x = tmp2)
+    tmp2 <- gsub(pattern = "Jul.", replacement = "7", x = tmp2)
+    tmp2 <- gsub(pattern = "Ago.", replacement = "8", x = tmp2)
+    tmp2 <- gsub(pattern = "Sep.", replacement = "9", x = tmp2)
+    tmp2 <- gsub(pattern = "Oct.", replacement = "10", x = tmp2)
+    tmp2 <- gsub(pattern = "Nov.", replacement = "11", x = tmp2)
+    tmp2 <- gsub(pattern = "Dic.", replacement = "12", x = tmp2)
+    output$date <- dmy(tmp2, quiet = TRUE)
+                                        #
+    tmp <- sub(pattern = "^[0-9]{2}[ .A-Za-z]+[0-9]{4}(.*)", replacement = "\\1", tmp, perl = TRUE) # crops object
+    tmp <- sub(pattern = "^[ ]+", replacement = "", tmp) # removes spaces at start
+    output$ses <- (function(x){
+        pat <- "^(\\d[/ 0-9ª]*) .*"
+        ind <- grep(pat, x)
+        x <- gsub(pat, "\\1", x)
+        x[-ind] <- ""
+        x
+    })(tmp)
+                                        #
+    tmp <- sub(pattern = "^\\d[/ 0-9ª]* (.*)", replacement = "\\1", tmp, perl = TRUE) # crops object
+                                        # returns text up to first "/" with trámite name
+    output$tramite <- sub(pattern = "^(.*?)/.*", replacement = "\\1", tmp, perl = TRUE) # relies on non-greedy *?
+    output$tramite <- sub(pattern = "Primer trámite constitucional[ ]*"   , replacement = "1ero", output$tramite, perl = TRUE)
+    output$tramite <- sub(pattern = "Segundo trámite constitucional[ ]*"  , replacement = "2do", output$tramite, perl = TRUE)
+    output$tramite <- sub(pattern = "Tercer trámite constitucional[ ]*"   , replacement = "3ero", output$tramite, perl = TRUE)
+    output$tramite <- sub(pattern = ".*aprobaci[óo]n presidencial.*"      , replacement = "toPres", output$tramite, perl = TRUE)
+    output$tramite <- sub(pattern = "Discusión veto.*"                    , replacement = "veto", output$tramite, perl = TRUE)
+    output$tramite <- sub(pattern = ".*Tribunal Constitucional.*"         , replacement = "tribunal", output$tramite, perl = TRUE)
+    output$tramite <- sub(pattern = ".*finalización.*"                    , replacement = "final", output$tramite, perl = TRUE)
+    output$tramite <- sub(pattern = "Archivado.*"                         , replacement = "onHold", output$tramite, perl = TRUE)
+    output$tramite <- sub(pattern = "Tramitación terminada.*"             , replacement = "ended", output$tramite, perl = TRUE)
+    output$tramite <- sub(pattern = "Comisión Mixta.*"                    , replacement = "conf", output$tramite, perl = TRUE)
+    output$tramite <- sub(pattern = "Disc[.] [Ii]nforme C[.]Mixta.*"      , replacement = "PostConf", output$tramite, perl = TRUE)
+    output$tramite <- sub(pattern = ".*insistencia.*"                     , replacement = "PostConf", output$tramite, perl = TRUE)
+                                        #
+    tmp <- sub(pattern = "^.*?/(.*)", replacement = "\\1", tmp, perl = TRUE) # crops object
+    tmp <- sub(pattern = "^[ ]+", replacement = "", tmp) # removes spaces at start
+    output$chamber <- sub(pattern = "^(Senado|C. Diputados).*", replacement = "\\1", tmp, perl = TRUE)
+    output$chamber <- sub(pattern = "^Senado"                                      , replacement = "sen", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = "^C. Diputados"                                , replacement = "dip", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = ".*Congreso Pleno.*"                           , replacement = "con", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = ".*Oficio.*"                                   , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = "^S[.]E[.] el [PV].*retira.*"                  , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = ".*S[.]E[.] el [PV].*retira.*"                 , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = "^Cuenta [Cc]omunicación.*"                    , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = "^Cuenta del [Mm]ensaje.*"                     , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = "^Cuenta (?:en el Senado )*(?:de[l]* )*(?:un )*oficio.*"  , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = "^Archivado Cuenta oficio.*"                   , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = ".*vuelve a [Cc]omisión.*"                     , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = ".*indicaciones.*"                             , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = ".*[Dd]iscusión particular.*"                     , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = "^Queda para.*"                                , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = "^Se rechaza el proyecto.*"                    , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = "^Cambia la tramitación.*"                     , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = "^Se suspende [la]{2} tramitación.*"           , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = "^Por acuerdo de la Sala.*"                    , replacement = ".", output$chamber, perl = TRUE)
+                                        #
+    tmp <- sub(pattern = "^(Senado|C. Diputados)[ ]+(.*)", replacement = "\\2", tmp, perl = TRUE) # crops object
+    output$actionRaw <- sub(pattern = "(.*)[ ]+Ver$", replacement = "\\1", tmp, perl = TRUE) # removes Ver (download procedure missed link 2 relevant docs.)
+                                        #
+    bills$info$debug[i] <-
+        max(sapply(output$chamber, function(x) nchar(x))) # counts the maximum n characters of string in output$chamber (shoud be 3) and plugs to info
+    #bills$syst[
+}
+
+bills$info$debug[1:202]
 
 #########################
 # systematize urgencias #
