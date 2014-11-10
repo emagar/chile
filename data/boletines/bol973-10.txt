@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 973-10","Legislatura: 325
+Fecha de ingreso: martes 04 de mayo de 1993
+Estado: Tramitación terminada (D.S. Nº 1.822 - D.Oficial 27/02/1995)
+Numero de boletín: 973-10
+Materia: Inversiones,Protección Recíproca De Inversiones
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 01:25:30
+* * Hitos de tramitación * *
+"emmStart Hitos 973-10","Fecha Sesión Etapa Sub-etapa Documento
+04 de May. de 1993 47ª / 325 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+04 de May. de 1993   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+01 de Jun. de 1993 1ª / 326 Primer trámite constitucional / Senado Primer informe de comisión Ver
+01 de Jun. de 1993 1ª / 326 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+02 de Jun. de 1993 2ª / 326 Primer trámite constitucional / Senado Discusión general Ver
+02 de Jun. de 1993 2ª / 326 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+08 de Jun. de 1993 5ª / 326 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+06 de Ago. de 1993   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+16 de Ago. de 1993   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Ago. de 1993 28ª / 326 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+28 de Sep. de 1993 2ª / 327 Segundo trámite constitucional / C. Diputados Discusión general Ver
+30 de Sep. de 1993   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+05 de Oct. de 1993 1ª / 327 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+05 de Oct. de 1993 1ª / 344 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 973-10","Fecha Etapa Informe Documento
+06 de Ago. de 1993 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+01 de Jun. de 1993 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 973-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 973-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 973-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 973-10","No record","Veto emmEnd"

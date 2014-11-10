@@ -1,0 +1,51 @@
+* * Bill summary * *
+"emmStart Summary 4922-05","Legislatura: 355
+Fecha de ingreso: martes 20 de marzo de 2007
+Estado: Comisión Mixta por rechazo de idea de legislar .
+Numero de boletín: 4922-05
+Materia: Depreciación
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 22:37:08
+* * Hitos de tramitación * *
+"emmStart Hitos 4922-05","Fecha Sesión Etapa Sub-etapa Documento
+20 de Mar. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de Mar. de 2007 4ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+21 de Mar. de 2007 5ª / 355 Tramitación terminada / Cuenta del Mensaje 14-355 que hace presente la urgencia Suma
+21 de Mar. de 2007 6ª / 355 Segundo trámite constitucional / Senado Primer informe de Comisión de Hacienda.
+21 de Mar. de 2007 6ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+22 de Mar. de 2007 7ª / 355 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+22 de Mar. de 2007   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+03 de Abr. de 2007 6ª / 355 Tramitación terminada / Cuenta del Mensaje 35-355 que retira y hace presente la urgencia Suma
+03 de Abr. de 2007 6ª / 355 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+09 de Abr. de 2007   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+10 de Abr. de 2007 9ª / 355 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Abr. de 2007 9ª / 355 Segundo trámite constitucional / Senado Iniciada la discusión general, queda pendiente. Ver
+11 de Abr. de 2007 10ª / 355 Tramitación terminada / Cuenta del Mensaje 83-355 que retira la urgencia Suma
+11 de Abr. de 2007 10ª / 355 Segundo trámite constitucional / Senado Terminada la discusión, queda para segunda discusión. Ver
+17 de Abr. de 2007 11ª / 355 Segundo trámite constitucional / Senado Discusión general. Rechazado Se designa a los miembros de la Comisión de Hacienda para integrar la Comisión Mixta que debe formarse. Ver
+17 de Abr. de 2007   Segundo trámite constitucional / Senado Oficio rechazo a Cámara de Origen Ver
+18 de Abr. de 2007 17ª / 355 Comisión Mixta por rechazo de idea de legislar / Senado Cuenta oficio rechazo de Cámara Revisora
+10 de May. de 2007   Comisión Mixta por rechazo de idea de legislar / Senado Oficio integrantes de Comisión Mixta Ver
+15 de May. de 2007 19ª / 355 Comisión Mixta por rechazo de idea de legislar / Senado Cuenta oficio integrantes de Comisión Mixta","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4922-05","Fecha Etapa Informe Documento
+09 de Abr. de 2007 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+21 de Mar. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4922-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+03 de Abr. de 2007 13 de Abr. de 2007 Suma 35-355 83-355
+21 de Mar. de 2007 03 de Abr. de 2007 Suma 14-355 35-355","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4922-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4922-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+7   65 1 5 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4922-05","No record","Veto emmEnd"

@@ -1,0 +1,48 @@
+* * Bill summary * *
+"emmStart Summary 2334-03","Legislatura: 339
+Fecha de ingreso: jueves 06 de mayo de 1999
+Estado: Archivado .
+Numero de boletín: 2334-03
+Materia: Servicios Eléctricos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 23:24:12
+* * Hitos de tramitación * *
+"emmStart Hitos 2334-03","Fecha Sesión Etapa Sub-etapa Documento
+06 de May. de 1999   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de May. de 1999 61ª / 339 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+07 de Sep. de 1999   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+14 de Oct. de 1999 4ª / 341 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Oct. de 1999 4ª / 341 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Oct. de 1999 4ª / 341 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de Jun. de 2000 4ª / 342 Primer trámite constitucional / C. Diputados Discusión general Ver
+11 de Jul. de 2000 12ª / 342 Primer trámite constitucional / C. Diputados Discusión general Ver
+12 de Jul. de 2000   Primer trámite constitucional / C. Diputados Oficio Nº 2955 a la Comisión de Minería, remite proyecto para que emita 2° informe
+10 de Jun. de 2010   Primer trámite constitucional / C. Diputados Archivado Comisión de Minería remite al archivo por estar más de dos años sin tramitación.
+10 de Jun. de 2010   Primer trámite constitucional / C. Diputados Desarchivado
+10 de Jun. de 2010   Primer trámite constitucional / C. Diputados Archivado Comisión de Minería remite al archivo por estar más de dos años sin tramitación.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2334-03","Fecha Etapa Informe Documento
+07 de Sep. de 1999 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2334-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2334-03","Nombre Región Distrito Partido
+Gabriel Ascencio Mansilla X Región de los Lagos N°58 Partido Demócrata Cristiano
+Tomás Jocelyn-Holt Letelier RM Región Metropolitana N°24 Partido Demócrata Cristiano
+Zarko Luksic Sandoval RM Región Metropolitana N°16 Partido Demócrata Cristiano
+Gutenberg Martínez Ocamica RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Jaime Mulet Martínez III Región de Atacama N°6 Partido Demócrata Cristiano
+Juan Núñez Valenzuela VI Región del Libertador Bernardo O' Higgins N°34 Partido Demócrata Cristiano
+Andrés Palma Irarrázabal RM Región Metropolitana N°25 Partido Demócrata Cristiano
+Ricardo Rincón González VI Región del Libertador Bernardo O' Higgins N°33 Partido Demócrata Cristiano
+Patricio Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2334-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2334-03","No record","Veto emmEnd"

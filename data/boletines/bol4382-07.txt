@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 4382-07","Legislatura: 354
+Fecha de ingreso: miércoles 02 de agosto de 2006
+Estado: Archivado .
+Numero de boletín: 4382-07 Refundido con: 5404-07,4497-07
+Materia: Elecciones,Reforma Constitucional,Parlamentarios,Presidente De La República De Chile
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 01:00:39
+* * Hitos de tramitación * *
+"emmStart Hitos 4382-07","Fecha Sesión Etapa Sub-etapa Documento
+02 de Ago. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Ago. de 2006 55ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+18 de Ago. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+30 de Sep. de 2008 82ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+09 de Jun. de 2010 36ª / 358 Primer trámite constitucional / C. Diputados Sala acuerda que esta moción, refundida con los boletines 4497-07 y 5404-07, vuelvan a la Comisión de Constitución para ser tratadas conjuntamente con el boletín N° 6946-07. Ver
+04 de Ago. de 2010 59ª / 358 Primer trámite constitucional / C. Diputados Archivado Oficio de la Comisión de Constitución, Legislación y Justicia, informa a la Sala remitir al archivo los proyectos de ley, contenidos en mociones refundidas, en razón de haberse legislado sobre la materia. EN TABLA. SE ARCHIVA Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4382-07","Fecha Etapa Informe Documento
+18 de Ago. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4382-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4382-07","Nombre Región Distrito Partido
+Ramón Barros Montero VI Región del Libertador Bernardo O' Higgins N°35 Unión Demócrata Independiente
+Eugenio Bauer Jouanne VI Región del Libertador Bernardo O' Higgins N°33 Unión Demócrata Independiente
+Sergio Bobadilla Muñoz VIII Región del Bío Bío N°45 Unión Demócrata Independiente
+Enrique Estay Peñaloza IX Región de la Araucanía N°49 Unión Demócrata Independiente
+Marcelo Forni Lobos V Región de Valparaíso N°11 Unión Demócrata Independiente
+Alejandro García-Huidobro Sanfuentes VI Región del Libertador Bernardo O' Higgins N°32 Unión Demócrata Independiente
+Javier Hernández Hernández X Región de los Lagos N°55 Unión Demócrata Independiente
+Juan Lobos Krause VIII Región del Bío Bío N°47 Unión Demócrata Independiente
+Iván Norambuena Farías VIII Región del Bío Bío N°46 Unión Demócrata Independiente
+Felipe Ward Edwards II Región de Antofagasta N°3 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4382-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+170 Votación General 4 1 0 8   Constitución Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4382-07","No record","Veto emmEnd"

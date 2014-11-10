@@ -1,0 +1,55 @@
+* * Bill summary * *
+"emmStart Summary 210-07","Legislatura: 321
+Fecha de ingreso: jueves 29 de noviembre de 1990
+Estado: Tramitación terminada (Ley Nº 19.131 - D.Oficial 08/04/1992)
+Numero de boletín: 210-07
+Materia: Consejo Nacional De Televisión
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 07:34:45
+* * Hitos de tramitación * *
+"emmStart Hitos 210-07","Fecha Sesión Etapa Sub-etapa Documento
+29 de Nov. de 1990   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+29 de Nov. de 1990 16ª / 321 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+23 de Jul. de 1991 20ª / 322 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones
+20 de Ago. de 1991 29ª / 322 Segundo trámite constitucional / Senado Se acuerda que el proyecto pase a la Comisión de Educación, una vez que sea informado por la Comisión de Transportes y Telecomunicaciones.
+10 de Oct. de 1991   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+16 de Oct. de 1991 4ª / 323 Segundo trámite constitucional / Senado Se acuerda que el proyecto sea informado únicamente por la Comisión de Transportes y Telecomunicaciones. Ver
+22 de Oct. de 1991 6ª / 323 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+19 de Nov. de 1991 13ª / 323 Segundo trámite constitucional / Senado Aprobado en general. Ver
+22 de Nov. de 1991   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+27 de Nov. de 1991 16ª / 323 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+28 de Nov. de 1991 18ª / 323 Segundo trámite constitucional / Senado Discusión particular. Aprobado en particular. Ver
+29 de Nov. de 1991   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+10 de Dic. de 1991 31ª / 323 Segundo trámite constitucional / Senado Cuenta de oficio de la Cámara de Diputados, mediante el cual solicita al Senado especificar las enmiendas que introdujera al proyecto. Pasa a la Comisión de Constitución, Legislación, Justicia y Rgto.
+18 de Dic. de 1991 28ª / 323 Segundo trámite constitucional / Senado Cuenta de informe de la Comisión de Constitución. Queda para Tabla.
+19 de Dic. de 1991 29ª / 323 Segundo trámite constitucional / Senado Se aprueba el informe de la Comisión de Constitución, Legislación, Justicia y Reglamento. Ver
+07 de Ene. de 1992   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+15 de Ene. de 1992   Segundo trámite constitucional / Senado Nuevo segundo informe de comisión. Aprobado. Ver
+15 de Ene. de 1992 34ª / 323 Segundo trámite constitucional / Senado Cuenta del Nuevo Informe de la Comisión de Transportes y Telecomunicaciones. Queda para Tabla.
+28 de Ene. de 1992 39ª / 323 Comisión Mixta por rechazo de modificaciones / Senado Cuenta de oficio de la Cámara de Diputados con el que comunica que ha rechazado las enmiendas del Senado, y designa a Diputados que integrarán la Comisión Mixta. Por acuerdo de Comités, se designa a los miembros de la Comisión de Transportes y Telecomunicaciones para que integren dicha Comisión Mixta.
+28 de Ene. de 1992   Comisión Mixta por rechazo de modificaciones / Senado Informe de Comisión Mixta Ver
+28 de Ene. de 1992 40ª / 323 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Cuenta de oficio de la Cámara de Diputados con el que comunica que ha aprobado la proposición de la Comisión Mixta.
+28 de Ene. de 1992 40ª / 323 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Discusión informe de Comisión Mixta
+28 de Ene. de 1992   Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Oficio aprobación de informe de Comisión Mixta a C.de Origen Ver
+29 de Abr. de 2003   Primer trámite constitucional / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 348","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 210-07","Fecha Etapa Informe Documento
+28 de Ene. de 1992 Comisión Mixta por rechazo de modificaciones Senado Informe de Comisión Mixta de Transportes y Telecomunicaciones Ver
+15 de Ene. de 1992 Segundo trámite constitucional Senado Nuevo segundo informe de comisión de Transportes y Telecomunicaciones Ver
+17 de Dic. de 1991 Segundo trámite constitucional Senado Primer informe complementario de Constitución, Legislación, Justicia y Reglamento Ver
+22 de Nov. de 1991 Segundo trámite constitucional Senado Segundo informe de comisión de Transportes y Telecomunicaciones Ver
+10 de Oct. de 1991 Segundo trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 210-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 210-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 210-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 210-07","No record","Veto emmEnd"

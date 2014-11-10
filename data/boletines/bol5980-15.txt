@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 5980-15","Legislatura: 356
+Fecha de ingreso: martes 29 de julio de 2008
+Estado: Tramitación terminada (Ley Nº 20.292 - D.Oficial 13/09/2008)
+Numero de boletín: 5980-15
+Materia: Concesiones De Radiodifusión,Telecomunicaciones
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 01:28:09
+* * Hitos de tramitación * *
+"emmStart Hitos 5980-15","Fecha Sesión Etapa Sub-etapa Documento
+29 de Jul. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+29 de Jul. de 2008 54ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones y a Comisión de Libertad de Expresión y Medios de Comunicación Ver
+12 de Ago. de 2008 60ª / 356 Primer trámite constitucional / C. Diputados Comisiones Unidas de Obras Públicas y Especial de Libertad de Expresión y Medios de Comuniación solicitan autorización para sesionar simultáneamente con la Sala los días miércoles de 9,30 a 11 horas. ACORDADO. Ver
+20 de Ago. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+21 de Ago. de 2008 68ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+21 de Ago. de 2008 68ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+21 de Ago. de 2008   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+02 de Sep. de 2008 47ª / 356 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones Ver
+10 de Sep. de 2008   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+11 de Sep. de 2008 53ª / 356 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+11 de Sep. de 2008 53ª / 356 Segundo trámite constitucional / Senado Discusión general Ver
+11 de Sep. de 2008   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+11 de Sep. de 2008   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+15 de Sep. de 2008 80ª / 356 Trámite finalización en Cámara de Origen / C. Diputados Senado comunica que ha aprobado el proyecto, en los mismos términos que la Cámara de Diputados. A S. E. LA PRESIDENTA DE LA REP. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5980-15","Fecha Etapa Informe Documento
+10 de Sep. de 2008 Segundo trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver
+20 de Ago. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión Unida de Obras Publicas, Transporte y Telecomunicaciones y Especial de Libertad de Expresión y Medios de Comunicación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5980-15","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5980-15","Nombre Región Distrito Partido
+Ministerio de Transporte y Telecomunicaciones      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5980-15","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+68   67 0 2 2 Aprobado Sala Ver detalle votación
+68 Texto propuesto por la Comisión de Transportes y Telecomunicaciones. 59 0 3 58 Aprobado Sala Ver detalle votación
+68 Indicación renovada de los señores Duarte y Saffirio, para agregar un número 5) nuevo, por el cual se añade al artículo 22 el siguiente inciso final, nuevo: ""A efectos del límite máximo de diez por ciento de participación de capital extranjero en la propiedad de una concesionaria de radiodifusión sonora establecido en el articulo 9°, inciso final, de la ley N° 19.733, se entenderá que es aplicable tanto a la sociedad que sea titular directo de la concesión, como a las personas o sociedades que ejerzan control sobre ella, ya sea mediante sociedades relacionadas, participación accionaria o cualquier figura contractual que manifieste dicho control, tanto en los supuestos de adquisición por adjudicación o por transferencia del titulo concesional como de las acciones o participaciones de la sociedad concesionaria."" 11 46 6 57 Rechazado Sala Ver detalle votación
+68 Indicación renovada por los señores Duarte y Saffirio, para incorporar en el número 1), que modifica el artículo 13 de la ley, una nueva letra c) por la cual se incorpora el siguiente inciso segundo, nuevo: ""Asimismo, la sociedad solicitante deberá acompañar una declaración jurada suscrita por su representante legal en la que se manifestará el porcentaje de su capital social correspondiente a capital extranjero. Si este porcentaje fuese superior al limite establecido en el articulo 9°, inciso final, de la Ley N° 19.733 la adjudicación de la concesión, en su caso, quedará sujeta al cumplimiento previa de la acreditación que se exige en dicho artículo."" 14 45 8 53 Rechazado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5980-15","No record","Veto emmEnd"

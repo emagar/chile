@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 850-08","Legislatura: 325
+Fecha de ingreso: jueves 05 de noviembre de 1992
+Estado: Tramitación terminada (Ley Nº 19.201 - D.Oficial 03/02/1993)
+Numero de boletín: 850-08
+Materia: Patentes Mineras
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 23:48:10
+* * Hitos de tramitación * *
+"emmStart Hitos 850-08","Fecha Sesión Etapa Sub-etapa Documento
+05 de Nov. de 1992 16ª / 325 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+05 de Nov. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+24 de Nov. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+24 de Nov. de 1992 13ª / 325 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Minería y Energía y a Comisión de Hacienda
+25 de Nov. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+26 de Nov. de 1992 14ª / 325 Tramitación terminada / Discusión general y particular. Aprobado en general y en particular, con modificaciones.
+26 de Nov. de 1992 14ª / 325 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+08 de Dic. de 1992   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+15 de Dic. de 1992 17ª / 325 Tramitación terminada / Se designa a los miembros de la Comisión de Minería para que integren la Comisión Mixta correspondiente.
+15 de Dic. de 1992 17ª / 325 Comisión Mixta por rechazo de modificaciones / Senado Cuenta oficio rechazo a modificaciones
+22 de Dic. de 1992   Comisión Mixta por rechazo de modificaciones / Senado Informe de Comisión Mixta Ver
+07 de Ene. de 1993 21ª / 325 Tramitación terminada / Discusión única. Se aprueba la proposición de la Comisión Mixta.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 850-08","Fecha Etapa Informe Documento
+22 de Dic. de 1992 Comisión Mixta por rechazo de modificaciones Senado Informe de Comisión Mixta de Minería y Energía Ver
+25 de Nov. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+24 de Nov. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Minería y Energía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 850-08","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 850-08","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 850-08","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 850-08","No record","Veto emmEnd"

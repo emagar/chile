@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 631-10","Legislatura: 323
+Fecha de ingreso: miércoles 18 de marzo de 1992
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 631-10
+Materia: Acuerdos Internacionales,Protección Recíproca De Inversiones
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 20:54:50
+* * Hitos de tramitación * *
+"emmStart Hitos 631-10","Fecha Sesión Etapa Sub-etapa Documento
+18 de Mar. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+18 de Mar. de 1992 55ª / 323 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+30 de Jun. de 1992   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de Jul. de 1992 15ª / 324 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+09 de Jul. de 1992   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+09 de Jul. de 1992 16ª / 324 Primer trámite constitucional / C. Diputados Discusión general Ver
+10 de Jul. de 1992 10ª / 324 Segundo trámite constitucional / Senado Cuenta de proyecto
+05 de Jun. de 2000   Segundo trámite constitucional / Senado Oficio Nº 33-342, de S.E., el Presidente de la República, con el cual retira de tramitación el presente proyecto. Ver
+07 de Jun. de 2000   Segundo trámite constitucional / Senado Oficio Nº16013. Oficio a la Cámara de Diputados transmitiendo comunicación del Presidente de la República en cuanto ha decidido retirar el proyecto de acuerdo. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 631-10","Fecha Etapa Informe Documento
+30 de Jun. de 1992 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 631-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+18 de Mar. de 1992   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 631-10","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 631-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 631-10","No record","Veto emmEnd"

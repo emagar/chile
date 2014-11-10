@@ -1,0 +1,34 @@
+* * Bill summary * *
+"emmStart Summary 5723-06","Legislatura: 355
+Fecha de ingreso: martes 15 de enero de 2008
+Estado: Primer trámite constitucional .
+Numero de boletín: 5723-06
+Materia: Casinos (Juegos De Azar)
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 22:31:31
+* * Hitos de tramitación * *
+"emmStart Hitos 5723-06","Fecha Sesión Etapa Sub-etapa Documento
+15 de Ene. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+15 de Ene. de 2008 131ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+04 de Mar. de 2008 137ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1415-355 que hace presente la urgencia Simple Ver
+08 de Abr. de 2008 14ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 83-356 que retira y hace presente la urgencia Simple Ver
+29 de Abr. de 2008 21ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 189-356 que retira la urgencia Simple Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5723-06","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5723-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+08 de Abr. de 2008 29 de Abr. de 2008 Simple 83-356 189-356
+04 de Mar. de 2008 08 de Abr. de 2008 Simple 1415-355 83-356","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5723-06","Nombre Región Distrito Partido
+Ministerio de Interior y Seguridad Públi      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5723-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5723-06","No record","Veto emmEnd"

@@ -1,0 +1,39 @@
+* * Bill summary * *
+"emmStart Summary 8322-11","Legislatura: 360
+Fecha de ingreso: miércoles 23 de mayo de 2012
+Estado: Segundo trámite constitucional .
+Numero de boletín: 8322-11
+Materia: Identificación Del Recién Nacido
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 10-11-2014 00:07:17
+* * Hitos de tramitación * *
+"emmStart Hitos 8322-11","Fecha Sesión Etapa Sub-etapa Documento
+23 de May. de 2012   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+08 de Jun. de 2012   Primer trámite constitucional / Senado Primer informe de comisión Ver
+12 de Jun. de 2012 24ª / 360 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+20 de Jun. de 2012 29ª / 360 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 06/07/2012 Ver
+10 de Jul. de 2012 33ª / 360 Primer trámite constitucional / Senado Discusión particular. Aprobado Por no haberse presentado indicaciones, se aprueba en particular en virtud del artículo 120 del Reglamento. Ver
+10 de Jul. de 2012   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+11 de Jul. de 2012 54ª / 360 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8322-11","Fecha Etapa Informe Documento
+12 de Jun. de 2012 Primer trámite constitucional Senado Primer informe de comisión de Salud Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8322-11","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8322-11","Nombre
+Francisco Chahuán Chahuán
+Guido Girardi Lavín
+Fulvio Rossi Ciocca
+Mariano Ruiz-Esquide Jara
+Gonzalo Uriarte Herrera","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8322-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8322-11","No record","Veto emmEnd"

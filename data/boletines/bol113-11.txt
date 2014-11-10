@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 113-11","Legislatura: 320
+Fecha de ingreso: miércoles 25 de julio de 1990
+Estado: Tramitación terminada (Ley Nº 19.035 - D.Oficial 07/02/1991)
+Numero de boletín: 113-11
+Materia: Isapres,Salud,Instituciones De Salud Previsional
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 30-10-2014 18:06:25
+* * Hitos de tramitación * *
+"emmStart Hitos 113-11","Fecha Sesión Etapa Sub-etapa Documento
+25 de Jul. de 1990   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+25 de Jul. de 1990 18ª / 320 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+03 de Oct. de 1990 8ª / 321 Primer trámite constitucional / C. Diputados Primer informe de comisión Ver Ver
+30 de Oct. de 1990 8ª / 321 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+06 de Nov. de 1990 10ª / 321 Primer trámite constitucional / C. Diputados Discusión general Ver
+09 de Nov. de 1990 10ª / 321 Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+13 de Nov. de 1990 12ª / 321 Segundo trámite constitucional / Senado Cuenta de proyecto
+29 de Nov. de 1990 27ª / 321 Segundo trámite constitucional / Senado Primer informe de comisión Ver
+12 de Dic. de 1990 27ª / 321 Segundo trámite constitucional / Senado Primer informe de comisión Ver
+19 de Dic. de 1990 27ª / 321 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+09 de Ene. de 1991 31ª / 321 Segundo trámite constitucional / Senado Discusión general Ver
+11 de Ene. de 1991 31ª / 321 Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen
+15 de Ene. de 1991 29ª / 321 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+15 de Ene. de 1991   Tramitación terminada / Oficio Nº765. comunica aprobación sin modificaciones a Cámara de Origen Ver
+29 de Abr. de 2003   Trámite finalización en Cámara de Origen / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 348
+02 de Dic. de 2003   Trámite finalización en Cámara de Origen / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 350","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 113-11","Fecha Etapa Informe Documento
+12 de Dic. de 1990 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+29 de Nov. de 1990 Segundo trámite constitucional Senado Primer informe de comisión de Salud Ver
+03 de Oct. de 1990 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 113-11","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 113-11","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 113-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 113-11","No record","Veto emmEnd"

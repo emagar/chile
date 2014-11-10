@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 412-07","Legislatura: 322
+Fecha de ingreso: martes 16 de julio de 1991
+Estado: Tramitación terminada (Ley Nº 19.223 - D.Oficial 07/06/1993)
+Numero de boletín: 412-07
+Materia: Delitos Informáticos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 16:57:03
+* * Hitos de tramitación * *
+"emmStart Hitos 412-07","Fecha Sesión Etapa Sub-etapa Documento
+16 de Jul. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+16 de Jul. de 1991 19ª / 322 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución Ver
+28 de Jul. de 1992 20ª / 324 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Constitución Ver
+04 de Ago. de 1992 24ª / 324 Primer trámite constitucional / C. Diputados Discusión general Ver
+18 de Ago. de 1992 31ª / 324 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+20 de Ago. de 1992 33ª / 324 Primer trámite constitucional / C. Diputados Discusión particular Ver
+20 de Ago. de 1992   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+01 de Sep. de 1992 21ª / 324 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+26 de Ene. de 1993 29ª / 325 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+27 de Ene. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+09 de Mar. de 1993 31ª / 325 Segundo trámite constitucional / Senado Discusión general Ver
+11 de Mar. de 1993 32ª / 325 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 12/04/1993 Ver
+14 de Abr. de 1993   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+20 de Abr. de 1993 44ª / 325 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+11 de May. de 1993 50ª / 325 Segundo trámite constitucional / Senado Discusión particular Ver
+11 de May. de 1993   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+13 de May. de 1993 74ª / 325 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+18 de May. de 1993 75ª / 325 Tercer trámite constitucional / C. Diputados Discusión única Ver
+18 de May. de 1993   Tercer trámite constitucional / C. Diputados Oficio aprobación de modificaciones a Cámara Revisora. Oficio Nº1228 de la CCDD Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 412-07","Fecha Etapa Informe Documento
+14 de Abr. de 1993 Segundo trámite constitucional Senado Segundo informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+27 de Ene. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 412-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 412-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 412-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 412-07","No record","Veto emmEnd"

@@ -1,0 +1,60 @@
+* * Bill summary * *
+"emmStart Summary 2566-06","Legislatura: 342
+Fecha de ingreso: miércoles 16 de agosto de 2000
+Estado: Tramitación terminada (Ley Nº 19.754 - D.Oficial 21/09/2001)
+Numero de boletín: 2566-06
+Materia: Municipios
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 03-11-2014 06:25:13
+* * Hitos de tramitación * *
+"emmStart Hitos 2566-06","Fecha Sesión Etapa Sub-etapa Documento
+16 de Ago. de 2000   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+16 de Ago. de 2000 17ª / 342 Primer trámite constitucional / Senado Cuenta de proyecto
+29 de Ago. de 2000   Primer trámite constitucional / Senado Primer informe de comisión Ver
+30 de Ago. de 2000 20ª / 342 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+06 de Sep. de 2000 22ª / 342 Primer trámite constitucional / Senado Discusión general Ver
+10 de Oct. de 2000   Primer trámite constitucional / Senado Boletín de indicaciones
+01 de Dic. de 2000   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+10 de Ene. de 2001 22ª / 343 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+10 de Ene. de 2001 22ª / 343 Primer trámite constitucional / Senado Discusión particular Ver
+16 de Ene. de 2001   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+17 de Ene. de 2001 36ª / 343 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación Y Desarrollo Social Ver
+16 de May. de 2001   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+19 de Jun. de 2001   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+19 de Jun. de 2001 7ª / 344 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+19 de Jun. de 2001 7ª / 344 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+19 de Jun. de 2001 7ª / 344 Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver Ver
+19 de Jun. de 2001 6ª / 344 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+19 de Jun. de 2001 6ª / 344 Tercer trámite constitucional / Senado Discusión única
+20 de Jun. de 2001   Tercer trámite constitucional / Senado Oficio aprobación de modificaciones a Cámara Revisora. (Oficio Nº 18393) Ver
+20 de Jun. de 2001   Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo Ver
+21 de Jun. de 2001 10ª / 344 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora. Cuenta en Cámara de Diputados de Oficio del Senado, comunica aprobación modificaciones.
+21 de Jun. de 2001 10ª / 344 Tercer trámite constitucional / Senado Cuenta oficio N? 18.393, que comunica aprobacion de modificaciones
+17 de Jul. de 2001   Trámite en Tribunal Constitucional / Senado Oficio al Tribunal Constitucional Ver
+07 de Ago. de 2001 18ª / 344 Trámite en Tribunal Constitucional / Senado Cuenta fallo del Tribunal Constitucional
+07 de Ago. de 2001   Trámite en Tribunal Constitucional / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2566-06","Fecha Etapa Informe Documento
+19 de Jun. de 2001 Segundo trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+16 de May. de 2001 Segundo trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver
+01 de Dic. de 2000 Primer trámite constitucional Senado Segundo informe de comisión de Gobierno, Descentralización y Regionalización Ver
+29 de Ago. de 2000 Primer trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2566-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+19 de Jun. de 2001   Suma 55-344  
+16 de Ago. de 2000   Simple 92-342  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2566-06","Nombre
+Ministerio de Hacienda
+Ministerio de Interior y Seguridad Públi
+Ministerio de Trabajo y Previsión Social","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2566-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2566-06","No record","Veto emmEnd"

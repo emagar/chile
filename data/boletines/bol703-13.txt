@@ -1,0 +1,39 @@
+* * Bill summary * *
+"emmStart Summary 703-13","Legislatura: 324
+Fecha de ingreso: martes 02 de junio de 1992
+Estado: Tramitación terminada (Ley Nº 19.176 - D.Oficial 26/11/1992)
+Numero de boletín: 703-13
+Materia: Instituto De Normalización Previsional (Chile)
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 21:50:29
+* * Hitos de tramitación * *
+"emmStart Hitos 703-13","Fecha Sesión Etapa Sub-etapa Documento
+02 de Jun. de 1992 1ª / 324 Primer trámite constitucional / Senado Cuenta de proyecto
+02 de Jun. de 1992   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+02 de Jul. de 1992 7ª / 324 Primer trámite constitucional / Senado Discusión general Ver
+02 de Jul. de 1992 7ª / 324 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+02 de Jul. de 1992 7ª / 324 Primer trámite constitucional / Senado Primer informe de comisión Ver
+14 de Jul. de 1992 10ª / 324 Tramitación terminada / Discusión general y particular. Aprobado en general y en particular. Ver
+15 de Jul. de 1992 7ª / 324 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+16 de Jul. de 1992 19ª / 324 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+03 de Nov. de 1992 7ª / 325 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+05 de Nov. de 1992 2ª / 344 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo
+    Trámite de aprobacion presidencial / Senado Ingreso de observaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 703-13","Fecha Etapa Informe Documento
+21 de Oct. de 1992 Segundo trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver
+02 de Jul. de 1992 Primer trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 703-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 703-13","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 703-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 703-13","No record","Veto emmEnd"

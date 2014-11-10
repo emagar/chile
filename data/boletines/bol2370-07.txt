@@ -1,0 +1,63 @@
+* * Bill summary * *
+"emmStart Summary 2370-07","Legislatura: 340
+Fecha de ingreso: martes 20 de julio de 1999
+Estado: Archivado .
+Numero de boletín: 2370-07
+Materia: Derecho A La Privacidad
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 23:48:14
+* * Hitos de tramitación * *
+"emmStart Hitos 2370-07","Fecha Sesión Etapa Sub-etapa Documento
+20 de Jul. de 1999   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de Jul. de 1999 21ª / 340 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+02 de Nov. de 1999   Primer trámite constitucional / C. Diputados S.E.El Presidente de la Republica incluye el proyecto en la Convocatoria Extraodinaria 341
+09 de May. de 2001   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de May. de 2001 61ª / 343 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+12 de Jun. de 2001 4ª / 344 Primer trámite constitucional / C. Diputados Discusión general Ver
+03 de Jul. de 2001 11ª / 344 Primer trámite constitucional / C. Diputados Discusión general Ver
+01 de Oct. de 2003 1ª / 350 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 38-350 que hace presente la urgencia Simple Ver
+04 de Nov. de 2003 14ª / 350 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 143-350 que retira y hace presente la urgencia Simple Ver
+03 de Dic. de 2003   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+09 de Dic. de 2003 30ª / 350 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 290-350 que retira y hace presente la urgencia Simple Ver
+09 de Dic. de 2003 28ª / 350 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+09 de Dic. de 2003 30ª / 350 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver
+09 de Dic. de 2003   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+16 de Dic. de 2003 19ª / 350 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+18 de May. de 2004 58ª / 350 Segundo trámite constitucional / Senado Cuenta del Mensaje 737-350 que retira la urgencia
+14 de Sep. de 2004   Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 352
+06 de Dic. de 2004 19ª / 352 Segundo trámite constitucional / Senado Cuenta Oficio Com. Constitución, solicita discusión en general y particular de proyecto.
+18 de Jul. de 2007   Segundo trámite constitucional / Senado Cuenta de la comunicación de la Comisión de Constitución, Legislación, Justicia y Reglamento, en que solicita el acuerdo de la Sala para proponer a la Cámara de Diputados el archivo del proyecto. Se accede a lo solicitado.
+19 de Jul. de 2007   Segundo trámite constitucional / Senado Archivado Sesión 55, de 19/07/2007","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2370-07","Fecha Etapa Informe Documento
+03 de Dic. de 2003 Primer trámite constitucional C.Diputados Segundo informe de comisión de Constitución, Legislación y Justicia Ver
+09 de May. de 2001 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2370-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+09 de Dic. de 2003   Simple 290-350  
+04 de Nov. de 2003 09 de Dic. de 2003 Simple 143-350 290-350
+01 de Oct. de 2003 04 de Nov. de 2003 Simple 38-350 143-350","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2370-07","Nombre Región Distrito Partido
+Sergio Aguiló Melo VII Región del Maule N°37 Partido Socialista
+Isabel Allende Bussi RM Región Metropolitana N°29 Partido Socialista
+Juan Bustos Ramírez V Región de Valparaíso N°12 Partido Socialista
+Aldo Cornejo González V Región de Valparaíso N°13 Partido Demócrata Cristiano
+Sergio Elgueta Barrientos X Región de los Lagos N°57 Partido Demócrata Cristiano
+Patricio Hales Dib RM Región Metropolitana N°19 Partido Por la Democracia
+Enrique Krauss Rusque RM Región Metropolitana N°22 Partido Demócrata Cristiano
+Juan Pablo Letelier Morel VI Región del Libertador Bernardo O' Higgins N°33 Partido Socialista
+Aníbal Pérez Lobos VI Región del Libertador Bernardo O' Higgins N°32 Partido Por la Democracia
+Fanny Pollarolo Villa II Región de Antofagasta N°3 Partido Socialista","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2370-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+30 10 84 0 0 2   Sala Ver detalle votación
+30 Menos el artículo 10 por ser norma orgánica constitucional 84 0 1 3   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2370-07","No record","Veto emmEnd"

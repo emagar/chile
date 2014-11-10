@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 1793-03","Legislatura: 332
+Fecha de ingreso: jueves 18 de enero de 1996
+Estado: Primer trámite constitucional .
+Numero de boletín: 1793-03
+Materia: Sistemas Telefónicos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 14:34:23
+* * Hitos de tramitación * *
+"emmStart Hitos 1793-03","Fecha Sesión Etapa Sub-etapa Documento
+18 de Ene. de 1996   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+18 de Ene. de 1996 44ª / 332 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+06 de Nov. de 1996 13ª / 334 Primer trámite constitucional / C. Diputados S.E el Pdte. de la Rep. incluye proy. en la legisl. extraord. 334 (mensaje 55-334) Ver
+11 de Ago. de 1997   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+13 de Ago. de 1997 32ª / 335 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+02 de Sep. de 1997 36ª / 335 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+07 de Oct. de 1997 4ª / 336 Primer trámite constitucional / C. Diputados Cuenta oficio 2.974 de la Corte Suprema Ver
+07 de Jul. de 1998   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+21 de Jul. de 1998 19ª / 338 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+21 de Jul. de 1998 19ª / 338 Primer trámite constitucional / C. Diputados Discusión particular. Oficio a la Com. de OOPP, por acuerdo de la Sala remite proyecto para informe. Ver Ver
+21 de Jul. de 1998 19ª / 338 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+15 de May. de 2003   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1793-03","Fecha Etapa Informe Documento
+15 de May. de 2003 Primer trámite constitucional C.Diputados Segundo informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+07 de Jul. de 1998 Primer trámite constitucional C.Diputados Segundo informe de comisión de Economía, Fomento y Desarrollo Ver
+11 de Ago. de 1997 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1793-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1793-03","Nombre Región Distrito Partido
+Maximiano Errázuriz Eguiguren Región N° Renovación Nacional
+Eugenio Tuma Zedan Región N° Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1793-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1793-03","No record","Veto emmEnd"

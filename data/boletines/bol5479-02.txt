@@ -1,0 +1,72 @@
+* * Bill summary * *
+"emmStart Summary 5479-02","Legislatura: 355
+Fecha de ingreso: martes 13 de noviembre de 2007
+Estado: Tramitación terminada (Ley Nº 20.303 - D.Oficial 04/12/2008)
+Numero de boletín: 5479-02
+Materia: Planta De Tropa Profesional,Fuerzas Armadas
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 05:09:19
+* * Hitos de tramitación * *
+"emmStart Hitos 5479-02","Fecha Sesión Etapa Sub-etapa Documento
+13 de Nov. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Nov. de 2007 100ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Defensa Nacional y a Comisión de Hacienda Ver
+17 de Ene. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+07 de Mar. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Mar. de 2008 1ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Defensa y de Hacienda. Ver
+19 de Mar. de 2008 7ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+02 de Abr. de 2008 11ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 69-356 que hace presente la urgencia Suma Ver
+02 de Abr. de 2008 11ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+02 de Abr. de 2008   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+08 de Abr. de 2008 8ª / 356 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Defensa Nacional y a Comisión de Hacienda, en su caso. Ver
+08 de Abr. de 2008 8ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 77-356 que retira y hace presente la urgencia Simple
+09 de May. de 2008   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+13 de May. de 2008 19ª / 356 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+13 de May. de 2008 19ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 243-356 que retira y hace presente la urgencia Simple
+14 de May. de 2008 21ª / 356 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 09/06/2008, a las 12 horas. Ver
+09 de Jun. de 2008   Segundo trámite constitucional / Senado Boletín de indicaciones
+12 de Jun. de 2008   Segundo trámite constitucional / Senado Segundo informe de comisión. Pasa a Comisión de Hacienda Ver
+17 de Jun. de 2008 27ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 421-356 que retira y hace presente la urgencia Simple
+09 de Jul. de 2008   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+09 de Jul. de 2008 35ª / 356 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+15 de Jul. de 2008 36ª / 356 Segundo trámite constitucional / Senado Discusión particular Ver
+15 de Jul. de 2008   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+29 de Jul. de 2008 54ª / 356 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver Ver
+29 de Jul. de 2008 54ª / 356 Tercer trámite constitucional / C. Diputados Cuenta del Mensaje 538-356 que retira y hace presente la urgencia Simple Ver
+29 de Jul. de 2008 54ª / 356 Tercer trámite constitucional / C. Diputados Discusión única Ver
+29 de Jul. de 2008   Tercer trámite constitucional / C. Diputados Oficio Nº 7587, que comunica aprobación de modificaciones Ver
+29 de Jul. de 2008   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+30 de Jul. de 2008 40ª / 356 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 7587, que comunica aprobación de modificaciones Ver
+31 de Jul. de 2008 56ª / 356 Trámite de aprobacion presidencial / C. Diputados P. de la Rep. comunica que no hará uso de la facultad que le confiere el inciso primero del artículo 73 de la Const. Pol. de la Rep. Ver
+31 de Jul. de 2008   Trámite de aprobacion presidencial / C. Diputados Oficio Nº7601 al Tribunal Constitucional Ver
+28 de Oct. de 2008 92ª / 356 Trámite de aprobacion presidencial / C. Diputados Cuenta oficio Nº 2437 del Tribunal Constitucional Ver Ver
+28 de Oct. de 2008   Trámite en Tribunal Constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5479-02","Fecha Etapa Informe Documento
+09 de Jul. de 2008 Segundo trámite constitucional Senado Segundo informe de comisión de Hacienda Ver
+12 de Jun. de 2008 Segundo trámite constitucional Senado Segundo informe de comisión de Defensa Nacional Ver
+09 de May. de 2008 Segundo trámite constitucional Senado Primer informe de comisión de Defensa Nacional Ver
+07 de Mar. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+17 de Ene. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Defensa Nacional Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5479-02","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+29 de Jul. de 2008   Simple 538-356  
+17 de Jun. de 2008 29 de Jul. de 2008 Simple 421-356 538-356
+13 de May. de 2008 16 de Jun. de 2008 Simple 243-356 421-356
+08 de Abr. de 2008 12 de May. de 2008 Simple 77-356 243-356
+02 de Abr. de 2008 04 de Abr. de 2008 Suma 69-356 77-356","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5479-02","Nombre Región Distrito Partido
+Ministerio de Defensa Nacional      
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5479-02","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+54 Modificaciones del Senado. 84 0 0 36 Aprobado Sala Ver detalle votación
+11   85 0 0 35 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5479-02","No record","Veto emmEnd"

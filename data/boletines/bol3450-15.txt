@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 3450-15","Legislatura: 350
+Fecha de ingreso: martes 20 de enero de 2004
+Estado: Archivado .
+Numero de boletín: 3450-15
+Materia: Cruce Indebido De Peatón
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 02:51:49
+* * Hitos de tramitación * *
+"emmStart Hitos 3450-15","Fecha Sesión Etapa Sub-etapa Documento
+20 de Ene. de 2004   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de Ene. de 2004 46ª / 350 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+22 de Nov. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+23 de Nov. de 2006 102ª / 354 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de Abr. de 2010 13ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+05 de May. de 2010   Tramitación terminada / Archivado Se accede al archivo por rechazo de simple mayoría en Comisión.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3450-15","Fecha Etapa Informe Documento
+22 de Nov. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3450-15","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3450-15","Nombre Región Distrito Partido
+Francisco Bayo Veloso IX Región de la Araucanía N°48 Renovación Nacional
+Mario Bertolino Rendic IV Región de Coquimbo N°7 Renovación Nacional
+Roberto Delmastro Naso X Región de los Lagos N°53 Independientes
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Carlos Hidalgo González V Región de Valparaíso N°15 Independientes
+Alfonso Vargas Lyng V Región de Valparaíso N°10 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3450-15","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+13   24 59 12 25 Rechazado Sala Ver detalle votación
+23 Votación General 2 5 0 6   Obras Públicas Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3450-15","No record","Veto emmEnd"

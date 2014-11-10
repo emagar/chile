@@ -1,0 +1,60 @@
+* * Bill summary * *
+"emmStart Summary 4826-07","Legislatura: 354
+Fecha de ingreso: martes 09 de enero de 2007
+Estado: Segundo trámite constitucional .
+Numero de boletín: 4826-07 Refundido con: 4840-09,4838-09
+Materia: Deudores,Juzgados De Policía Local
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 06-11-2014 12:51:06
+* * Hitos de tramitación * *
+"emmStart Hitos 4826-07","Fecha Sesión Etapa Sub-etapa Documento
+09 de Ene. de 2007   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+10 de Ene. de 2007 83ª / 354 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+10 de Abr. de 2007 9ª / 355 Primer trámite constitucional / Senado Por acuerdo de la Sala, se envía este proyecto a la Comisión de Obras Públicas.
+09 de Oct. de 2007   Primer trámite constitucional / Senado Primer informe de comisión Ver
+16 de Oct. de 2007 58ª / 355 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+30 de Oct. de 2007 60ª / 355 Primer trámite constitucional / Senado Discusión particular Ver
+30 de Oct. de 2007   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+31 de Oct. de 2007 95ª / 355 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver Ver
+01 de Abr. de 2008 10ª / 356 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 61-356 que hace presente la urgencia Suma Ver
+15 de Abr. de 2008 18ª / 356 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 138-356 que retira y hace presente la urgencia Suma Ver
+29 de Abr. de 2008 21ª / 356 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 165-356 que retira y hace presente la urgencia Suma Ver
+06 de May. de 2008 24ª / 356 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 208-356 que retira la urgencia Suma Ver
+31 de Jul. de 2008 56ª / 356 Segundo trámite constitucional / C. Diputados Comisión de Obras Públicas solicita acuerdo para sesionar simultáneamente con la Sala el día 6 de agosto del año en curso, de 11 a 13 hoas. ACORDADO. Ver
+20 de Ago. de 2008 67ª / 356 Segundo trámite constitucional / C. Diputados Comisión de Obras públicas solicita sesionar simultáneamente con la Sal el día jueves 21 de agosto, de 11 a 13 horas. NO HAY ACUERDO. Ver
+20 de Ago. de 2008 67ª / 356 Segundo trámite constitucional / C. Diputados Comisión de obras Públicas solicita sesionar simultáneamente con la Sala el día jueves 21 de agosto, de 11 a 13 horas. NO HAY ACUERDO. Ver
+02 de Sep. de 2008 69ª / 356 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 728-356 que hace presente la urgencia Suma Ver
+09 de Sep. de 2008 76ª / 356 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión. Primer informe de Comisión de Obras Públicas. EN TABLA. Ver
+15 de Sep. de 2008 80ª / 356 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 787-356 que retira y hace presente la urgencia Suma Ver
+30 de Sep. de 2008 82ª / 356 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 814-356 que retira y hace presente la urgencia Suma Ver
+01 de Oct. de 2008 83ª / 356 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+14 de Oct. de 2008 88ª / 356 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 895-356 que retira y hace presente la urgencia Suma Ver
+28 de Oct. de 2008 92ª / 356 Tramitación terminada / Cuenta del Mensaje 921-356 que retira y hace presente la urgencia Suma Ver
+06 de Nov. de 2008 97ª / 356 Tramitación terminada / Cuenta del Mensaje 990-356 que retira la urgencia Suma Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4826-07","Fecha Etapa Informe Documento
+09 de Oct. de 2007 Primer trámite constitucional Senado Primer informe de comisión de Obras Públicas Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4826-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+28 de Oct. de 2008 06 de Nov. de 2008 Suma 921-356 990-356
+14 de Oct. de 2008 28 de Oct. de 2008 Suma 895-356 921-356
+30 de Sep. de 2008 14 de Oct. de 2008 Suma 814-356 895-356
+15 de Sep. de 2008 30 de Sep. de 2008 Suma 787-356 814-356
+02 de Sep. de 2008 15 de Sep. de 2008 Suma 728-356 787-356
+29 de Abr. de 2008 06 de May. de 2008 Suma 165-356 208-356
+15 de Abr. de 2008 29 de Abr. de 2008 Suma 138-356 165-356
+01 de Abr. de 2008 15 de Abr. de 2008 Suma 61-356 138-356","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4826-07","Nombre
+José Antonio Gómez Urrutia
+Antonio Horvath Kiss","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4826-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4826-07","No record","Veto emmEnd"

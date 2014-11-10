@@ -1,0 +1,56 @@
+* * Bill summary * *
+"emmStart Summary 138-07","Legislatura: 320
+Fecha de ingreso: martes 04 de septiembre de 1990
+Estado: Tramitación terminada (Ley Nº 19.089 - D.Oficial 19/10/1991)
+Numero de boletín: 138-07
+Materia: Código Civil
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 05:47:56
+* * Hitos de tramitación * *
+"emmStart Hitos 138-07","Fecha Sesión Etapa Sub-etapa Documento
+04 de Sep. de 1990   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Sep. de 1990 29ª / 320 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+19 de Mar. de 1991 38ª / 321 Primer trámite constitucional / C. Diputados Discusión general Ver
+19 de Mar. de 1991 38ª / 321 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+19 de Mar. de 1991 38ª / 321 Primer trámite constitucional / C. Diputados Primer informe de comisión Ver Ver
+18 de Jun. de 1991 8ª / 322 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+18 de Jun. de 1991 8ª / 322 Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver Ver
+02 de Jul. de 1991 13ª / 322 Primer trámite constitucional / C. Diputados Discusión particular Ver
+03 de Jul. de 1991 13ª / 322 Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+09 de Jul. de 1991 15ª / 322 Segundo trámite constitucional / Senado Cuenta de proyecto
+09 de Jul. de 1991 15ª / 322 Trámite de aprobacion presidencial / C. Diputados Pasa a la Comisión de Constitución, Legislación, Justicia y Reglamento. Ver
+26 de Jul. de 1991   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+06 de Ago. de 1991 23ª / 322 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+06 de Ago. de 1991 23ª / 322 Segundo trámite constitucional / Senado Primer informe de comisión Ver
+08 de Ago. de 1991 25ª / 322 Segundo trámite constitucional / Senado Discusión general Ver
+12 de Ago. de 1991 25ª / 322 Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen
+12 de Ago. de 1991   Trámite de aprobacion presidencial / C. Diputados Oficio Nº1513. comunica aprobación con modificaciones que indica a cámara de origen Ver
+20 de Ago. de 1991 29ª / 322 Trámite de aprobacion presidencial / C. Diputados Cuenta de oficio de la CCDD, comunicando rechazo de las enmiendas del Senado y formación de Comisión Mixta. Se designa a los miembros de la Comisión de Constitución para que integren dicha Comisión Mixta. Ver
+04 de Sep. de 1991   Comisión Mixta por rechazo de modificaciones / Senado Informe de Comisión Mixta Ver
+03 de Oct. de 1991 2ª / 323 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Discusión informe de Comisión Mixta
+03 de Oct. de 1991 2ª / 323 Comisión Mixta por rechazo de modificaciones / Senado Cuenta oficio integrantes de Comisión Mixta
+03 de Oct. de 1991 2ª / 323 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Cuenta oficio aprobación de informe de Comisión Mixta
+03 de Oct. de 1991 2ª / 323 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Oficio aprobación de informe de Comisión Mixta a C.de Origen
+03 de Oct. de 1991   Trámite de aprobacion presidencial / C. Diputados Oficio Nº1619. comunica aprobación informe de Comisión Mixta a Cámara de origen Ver
+03 de Oct. de 1991   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+15 de Oct. de 1991 8ª / 323 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación de informe de Comisión Mixta Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 138-07","Fecha Etapa Informe Documento
+04 de Sep. de 1991 Comisión Mixta por rechazo de modificaciones Senado Informe de Comisión Mixta de Constitución, Legislación, Justicia y Reglamento Ver
+26 de Jul. de 1991 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+18 de Jun. de 1991 Primer trámite constitucional C.Diputados Segundo informe de comisión de Constitución, Legislación y Justicia Ver
+19 de Mar. de 1991 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 138-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 138-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 138-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 138-07","No record","Veto emmEnd"

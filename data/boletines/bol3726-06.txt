@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 3726-06","Legislatura: 352
+Fecha de ingreso: lunes 15 de noviembre de 2004
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 3726-06
+Materia: Gobierno Y Administración Regional
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 07:58:52
+* * Hitos de tramitación * *
+"emmStart Hitos 3726-06","Fecha Sesión Etapa Sub-etapa Documento
+15 de Nov. de 2004 19ª / 352 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+15 de Nov. de 2004 19ª / 352 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+15 de Nov. de 2004 19ª / 352 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 154-352 que hace presente la urgencia Discusión inmediata Ver
+15 de Nov. de 2004 19ª / 352 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 154-352 que hace presente la urgencia Discusión inmediata Ver
+15 de Nov. de 2004   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+15 de Nov. de 2004   Primer trámite constitucional / C. Diputados Primer informe de comisión. Certificado de la Comisión recaído en el proyecto (reemplaza al informe) Ver
+16 de Nov. de 2004 20ª / 352 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+16 de Nov. de 2004 20ª / 352 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 165-352 que retira la urgencia Discusión inmediata Ver
+16 de Nov. de 2004 21ª / 352 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 171-352 que hace presente la urgencia Discusión inmediata Ver
+16 de Nov. de 2004 22ª / 352 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+16 de Nov. de 2004   Primer trámite constitucional / C. Diputados Oficio Nº 5270 al Presidente de la República, comunica que el proyecto fue rechazado por no alcanzarse el quórum constitucional requerido.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3726-06","Fecha Etapa Informe Documento
+15 de Nov. de 2004 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3726-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+16 de Nov. de 2004   Discusión inmediata 171-352  
+15 de Nov. de 2004 16 de Nov. de 2004 Discusión inmediata 154-352 165-352","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3726-06","Nombre Región Distrito Partido
+Ministerio de Interior y Seguridad Públi      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3726-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+22   38 30 0 0 Rechazado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3726-06","No record","Veto emmEnd"

@@ -1,0 +1,30 @@
+* * Bill summary * *
+"emmStart Summary 3846-07","Legislatura: 352
+Fecha de ingreso: miércoles 20 de abril de 2005
+Estado: Primer trámite constitucional .
+Numero de boletín: 3846-07
+Materia: Gps, Véase,Procesados,Vigilancia Electrónica
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 18:05:15
+* * Hitos de tramitación * *
+"emmStart Hitos 3846-07","Fecha Sesión Etapa Sub-etapa Documento
+20 de Abr. de 2005   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de Abr. de 2005 68ª / 352 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3846-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3846-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3846-07","Nombre Región Distrito Partido
+Maximiano Errázuriz Eguiguren RM Región Metropolitana N°29 Renovación Nacional
+Pablo Lorenzini Basso VII Región del Maule N°38 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3846-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3846-07","No record","Veto emmEnd"

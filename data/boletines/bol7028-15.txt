@@ -1,0 +1,52 @@
+* * Bill summary * *
+"emmStart Summary 7028-15","Legislatura: 358
+Fecha de ingreso: miércoles 30 de junio de 2010
+Estado: Tramitación terminada (Ley Nº 20.474 - D.Oficial 15/11/2010)
+Numero de boletín: 7028-15 Refundido con: 6559-15
+Materia: Registro Nacional De Servicios De Transporte De Pasajeros,Inscripción De Vehículos
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 08-11-2014 23:25:57
+* * Hitos de tramitación * *
+"emmStart Hitos 7028-15","Fecha Sesión Etapa Sub-etapa Documento
+30 de Jun. de 2010   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+30 de Jun. de 2010 31ª / 358 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones
+03 de Ago. de 2010 38ª / 358 Primer trámite constitucional / Senado La Sala acuerda, a proposición de la Comisión de Transportes y Telecomunicaciones, refundir este proyecto con el Boletín N° 6559-15 (Moción del Senador Letelier).
+26 de Oct. de 2010 61ª / 358 Primer trámite constitucional / Senado Cuenta del Mensaje 411-358 que hace presente la urgencia Discusión inmediata
+27 de Oct. de 2010 62ª / 358 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 02/11/2010 Ver
+27 de Oct. de 2010   Primer trámite constitucional / Senado Primer informe de comisión Ver
+28 de Oct. de 2010   Primer trámite constitucional / Senado El Ejecutivo presentó el retiro de la urgencia.
+02 de Nov. de 2010 63ª / 358 Primer trámite constitucional / Senado Cuenta del Mensaje 436-358 que retira y hace presente la urgencia Discusión inmediata
+02 de Nov. de 2010   Primer trámite constitucional / Senado Boletín de indicaciones
+09 de Nov. de 2010 65ª / 358 Primer trámite constitucional / Senado Cuenta del Mensaje 462-358 que retira y hace presente la urgencia Discusión inmediata
+09 de Nov. de 2010   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+09 de Nov. de 2010 65ª / 358 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+09 de Nov. de 2010 65ª / 358 Primer trámite constitucional / Senado Discusión particular Ver
+09 de Nov. de 2010   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+10 de Nov. de 2010 98ª / 358 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+10 de Nov. de 2010 98ª / 358 Segundo trámite constitucional / C. Diputados Discusión general Ver
+10 de Nov. de 2010   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+10 de Nov. de 2010 66ª / 358 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+10 de Nov. de 2010   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7028-15","Fecha Etapa Informe Documento
+09 de Nov. de 2010 Primer trámite constitucional Senado Segundo informe de comisión de Transportes y Telecomunicaciones Ver
+27 de Oct. de 2010 Primer trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7028-15","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+09 de Nov. de 2010   Discusión inmediata 462-358  
+02 de Nov. de 2010 09 de Nov. de 2010 Discusión inmediata 436-358 462-358
+26 de Oct. de 2010 28 de Oct. de 2010 Discusión inmediata 411-358 436-358
+26 de Oct. de 2010 28 de Oct. de 2010 Discusión inmediata 411-358 436-358","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7028-15","Nombre
+Isabel Allende Bussi","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7028-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7028-15","No record","Veto emmEnd"

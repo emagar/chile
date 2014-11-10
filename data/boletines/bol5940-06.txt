@@ -1,0 +1,58 @@
+* * Bill summary * *
+"emmStart Summary 5940-06","Legislatura: 356
+Fecha de ingreso: miércoles 02 de julio de 2008
+Estado: Primer trámite constitucional .
+Numero de boletín: 5940-06
+Materia: Estatuto Especial De Gobierno Y Administración,Isla De Pascua (Chile)
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 01:00:36
+* * Hitos de tramitación * *
+"emmStart Hitos 5940-06","Fecha Sesión Etapa Sub-etapa Documento
+02 de Jul. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Jul. de 2008 46ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social y a Comisión de Hacienda Ver
+03 de Jul. de 2008 47ª / 356 Primer trámite constitucional / C. Diputados Comisión de Zonas Extremas solicita que proyecto le sea remitido por ser materia de su competencia. ACORDADO. Ver
+05 de Ago. de 2008 57ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 624-356 que hace presente la urgencia Simple Ver
+09 de Sep. de 2008 73ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 763-356 que retira y hace presente la urgencia Simple Ver
+14 de Oct. de 2008 88ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 896-356 que retira y hace presente la urgencia Simple Ver
+18 de Nov. de 2008 103ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1066-356 que retira y hace presente la urgencia Simple Ver
+06 de Ene. de 2009 119ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1249-356 que retira la urgencia Simple Ver
+07 de Ene. de 2009 120ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1275-356 que hace presente la urgencia Simple Ver
+03 de Mar. de 2009 131ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1433-356 que retira la urgencia Simple Ver
+03 de Mar. de 2009 131ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1452-356 que hace presente la urgencia Suma Ver
+18 de Mar. de 2009 4ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 36-357 que retira y hace presente la urgencia Simple Ver
+28 de Abr. de 2009 20ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 216-357 que retira y hace presente la urgencia Simple Ver
+06 de May. de 2009 25ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 295-357 que retira y hace presente la urgencia Suma Ver
+19 de May. de 2009 31ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 403-357 que retira y hace presente la urgencia Suma Ver
+20 de May. de 2009 32ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 427-357 que retira la urgencia Suma Ver
+02 de Jun. de 2009 34ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 491-357 que hace presente la urgencia Suma Ver
+03 de Jun. de 2009 35ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 512-357 que retira la urgencia Suma Ver
+30 de Nov. de 2010 104ª / 358 Primer trámite constitucional / C. Diputados Oficio N°161-2010. Oficio de la Comisión de Derechos Humanos, Nacionalidad y Ciudadanía, por el cual solicita el asentimiento de la Sala para que le sean remitido el proyecto de ley. Rechazado. Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5940-06","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5940-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+02 de Jun. de 2009 03 de Jun. de 2009 Suma 491-357 512-357
+19 de May. de 2009 20 de May. de 2009 Suma 403-357 427-357
+06 de May. de 2009 19 de May. de 2009 Suma 295-357 403-357
+28 de Abr. de 2009 06 de May. de 2009 Simple 216-357 295-357
+18 de Mar. de 2009 28 de Abr. de 2009 Simple 36-357 216-357
+03 de Mar. de 2009 18 de Mar. de 2009 Suma 1452-356 36-357
+07 de Ene. de 2009 03 de Mar. de 2009 Simple 1275-356 1433-356
+18 de Nov. de 2008 06 de Ene. de 2009 Simple 1066-356 1249-356
+14 de Oct. de 2008 18 de Nov. de 2008 Simple 896-356 1066-356
+09 de Sep. de 2008 14 de Oct. de 2008 Simple 763-356 896-356
+05 de Ago. de 2008 09 de Sep. de 2008 Simple 624-356 763-356","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5940-06","Nombre Región Distrito Partido
+Ministerio de Hacienda      
+Ministerio de Interior y Seguridad Públi      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5940-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5940-06","No record","Veto emmEnd"

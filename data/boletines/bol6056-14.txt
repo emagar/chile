@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 6056-14","Legislatura: 356
+Fecha de ingreso: jueves 04 de septiembre de 2008
+Estado: Segundo trámite constitucional .
+Numero de boletín: 6056-14
+Materia: Transparencia De Información,Bienes Raices,Compraventa De Bienes Raices,Oficinas De Información,Publicidad,Urbanismo Y Construcciones
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 02:21:16
+* * Hitos de tramitación * *
+"emmStart Hitos 6056-14","Fecha Sesión Etapa Sub-etapa Documento
+04 de Sep. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Sep. de 2008 72ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Vivienda y Desarrollo Urbano Ver
+16 de Abr. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+16 de Abr. de 2009 19ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Oct. de 2009 91ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver
+14 de Oct. de 2009   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+27 de Oct. de 2009 59ª / 357 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Vivienda y Urbanismo","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6056-14","Fecha Etapa Informe Documento
+16 de Abr. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Vivienda y Desarrollo Urbano Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6056-14","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6056-14","Nombre Región Distrito Partido
+Sergio Correa De la Cerda VII Región del Maule N°36 Unión Demócrata Independiente
+María Angélica Cristi Marfil RM Región Metropolitana N°24 Unión Demócrata Independiente
+Marta Isasi Barbieri I Región de Tarapacá N°2 Independientes
+José Antonio Kast Rist RM Región Metropolitana N°30 Unión Demócrata Independiente
+Juan Lobos Krause VIII Región del Bío Bío N°47 Unión Demócrata Independiente
+Claudia Nogueira Fernández RM Región Metropolitana N°19 Unión Demócrata Independiente
+Darío Paya Mira RM Región Metropolitana N°28 Unión Demócrata Independiente
+Marisol Turres Figueroa X Región de los Lagos N°57 Unión Demócrata Independiente
+Ignacio Urrutia Bonilla VII Región del Maule N°40 Unión Demócrata Independiente
+Felipe Ward Edwards II Región de Antofagasta N°3 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6056-14","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+92 Votación General 7 0 0 5   Vivienda Ver detalle votación
+91   76 0 1 43 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6056-14","No record","Veto emmEnd"

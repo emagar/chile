@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 3566-04","Legislatura: 351
+Fecha de ingreso: martes 22 de junio de 2004
+Estado: Archivado .
+Numero de boletín: 3566-04
+Materia: Premios Regionales,Premios Nacionales
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 04-11-2014 04:09:41
+* * Hitos de tramitación * *
+"emmStart Hitos 3566-04","Fecha Sesión Etapa Sub-etapa Documento
+22 de Jun. de 2004   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+22 de Jun. de 2004 6ª / 351 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+14 de Sep. de 2004   Primer trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 352
+05 de Ago. de 2009 39ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 873-357 que hace presente la urgencia Simple
+08 de Sep. de 2009 46ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 1078-357 que retira y hace presente la urgencia Simple
+09 de Sep. de 2009 47ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 1103-357 que retira la urgencia Simple
+02 de Jun. de 2010 23ª / 358 Primer trámite constitucional / Senado La Comisión, con arreglo a lo dispuesto en el inciso segundo del artículo 36 bis del Reglamento, dispone el archivo de este asunto (Oficio N° ED/14/2010).
+02 de Jun. de 2010   Primer trámite constitucional / Senado Archivado","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3566-04","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3566-04","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+08 de Sep. de 2009 09 de Sep. de 2009 Simple 1078-357 1103-357
+05 de Ago. de 2009 08 de Sep. de 2009 Simple 873-357 1078-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3566-04","Nombre
+Mario Ríos Santander
+José Antonio Viera-Gallo Quesney","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3566-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3566-04","No record","Veto emmEnd"

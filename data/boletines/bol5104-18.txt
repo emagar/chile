@@ -1,0 +1,51 @@
+* * Bill summary * *
+"emmStart Summary 5104-18","Legislatura: 355
+Fecha de ingreso: jueves 07 de junio de 2007
+Estado: Segundo trámite constitucional .
+Numero de boletín: 5104-18 Refundido con: 6638-05,6277-18,6008-18,3731-18,3732-18,4602-18,3972-18,4745-18,3659-18,3551-18,3536-18
+Materia: Jueces,Acuerdo En Matrimonio Civil,Escritura Pública,Matrimonio Civil
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 00:41:45
+* * Hitos de tramitación * *
+"emmStart Hitos 5104-18","Fecha Sesión Etapa Sub-etapa Documento
+07 de Jun. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+07 de Jun. de 2007 33ª / 355 Primer trámite constitucional / C. Diputados Cuena de proyecto. Pasa a Comisión de Familia. Ver
+18 de May. de 2010 27ª / 358 Primer trámite constitucional / C. Diputados Segundo informe de Comisión de Familia. A COMISIÓN DE CONSTITUCIÓN. Ver
+18 de May. de 2010   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+13 de Jul. de 2010 51ª / 358 Primer trámite constitucional / C. Diputados Cuenta, Oficio de la Comisión de Familia, por el cual solicita a la Sala, que fije un plazo a la Comisión de Constitución, Legislación y Justicia respecto del informe complementario que debe emitir sobre los proyectos refundidos. Pendiente decisión de Sala Ver
+28 de Sep. de 2010   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+28 de Sep. de 2010 79ª / 358 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+29 de Sep. de 2010 80ª / 358 Primer trámite constitucional / C. Diputados Discusión particular Ver
+29 de Sep. de 2010   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+05 de Oct. de 2010 57ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+03 de Nov. de 2010   Segundo trámite constitucional / Senado Cuenta oficio N° 165 de la Corte Suprema Ver
+09 de Nov. de 2010 65ª / 358 Segundo trámite constitucional / Senado Cuenta oficio N? 165 de la Corte Suprema","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5104-18","Fecha Etapa Informe Documento
+01 de Sep. de 2010 Primer trámite constitucional C.Diputados Segundo informe de comisión de Constitución, Legislación y Justicia Ver
+18 de May. de 2010 Primer trámite constitucional C.Diputados Segundo informe de comisión de Familia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5104-18","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5104-18","Nombre Región Distrito Partido
+Claudio Alvarado Andrade X Región de los Lagos N°58 Unión Demócrata Independiente
+Gonzalo Arenas Hödar IX Región de la Araucanía N°48 Unión Demócrata Independiente
+Ramón Barros Montero VI Región del Libertador Bernardo O' Higgins N°35 Unión Demócrata Independiente
+Sergio Bobadilla Muñoz VIII Región del Bío Bío N°45 Unión Demócrata Independiente
+Enrique Estay Peñaloza IX Región de la Araucanía N°49 Unión Demócrata Independiente
+Juan Lobos Krause VIII Región del Bío Bío N°47 Unión Demócrata Independiente
+Iván Norambuena Farías VIII Región del Bío Bío N°46 Unión Demócrata Independiente
+Darío Paya Mira RM Región Metropolitana N°28 Unión Demócrata Independiente
+Felipe Salaberry Soto RM Región Metropolitana N°25 Unión Demócrata Independiente
+Jorge Ulloa Aguillón VIII Región del Bío Bío N°43 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5104-18","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+104 Votación General 8 0 1 4   Familia Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5104-18","No record","Veto emmEnd"

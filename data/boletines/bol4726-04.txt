@@ -1,0 +1,56 @@
+* * Bill summary * *
+"emmStart Summary 4726-04","Legislatura: 354
+Fecha de ingreso: jueves 14 de diciembre de 2006
+Estado: Tramitación terminada (Ley Nº 20.158 - D.Oficial 29/12/2006)
+Numero de boletín: 4726-04
+Materia: Profesionales De La Educación,Beneficios
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 06:51:06
+* * Hitos de tramitación * *
+"emmStart Hitos 4726-04","Fecha Sesión Etapa Sub-etapa Documento
+14 de Dic. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+14 de Dic. de 2006 108ª / 354 Primer trámite constitucional / C. Diputados Cuenta agregada con el proyecto. Ver
+14 de Dic. de 2006 108ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión Unidas de Educación y Hacienda Ver
+19 de Dic. de 2006 109ª / 354 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 565-354 que hace presente la urgencia Discusión inmediata Ver
+20 de Dic. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión. y de Hacienda, Unidas. Ver
+20 de Dic. de 2006 110ª / 354 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+20 de Dic. de 2006 110ª / 354 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+20 de Dic. de 2006   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+20 de Dic. de 2006 79ª / 354 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+20 de Dic. de 2006 79ª / 354 Segundo trámite constitucional / Senado Por acuerdo de la Sala, el proyecto será informado por las Comisiones de Hacienda y de Educación, Cultura, Ciencia y Tecnología, unidas. Ver
+20 de Dic. de 2006   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+20 de Dic. de 2006 80ª / 354 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+20 de Dic. de 2006 80ª / 354 Segundo trámite constitucional / Senado Discusión general Ver
+21 de Dic. de 2006   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+21 de Dic. de 2006 111ª / 354 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver Ver
+21 de Dic. de 2006 111ª / 354 Tercer trámite constitucional / C. Diputados Discusión única Ver
+21 de Dic. de 2006   Tercer trámite constitucional / C. Diputados Oficio Nº 6557, que comunica aprobación de modificaciones Ver
+21 de Dic. de 2006   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+03 de Ene. de 2007 81ª / 354 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 6557, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4726-04","Fecha Etapa Informe Documento
+20 de Dic. de 2006 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda y de Educación, Cultura, Ciencia y Tecnología, unidas Ver
+20 de Dic. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4726-04","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+19 de Dic. de 2006   Discusión inmediata 565-354  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4726-04","Nombre Región Distrito Partido
+Ministerio de Educación      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4726-04","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+110   101 0 0 0 Aprobado Sala Ver detalle votación
+110 10, letras f), h), i), j) y k). 56 50 0 14 Aprobado Sala Ver detalle votación
+110 10, letra h), del mensaje, suprimida por la Comisión. 55 0 48 17 Aprobado Sala Ver detalle votación
+111 Modificación del Senado por la que incorpora un artículo 4° transitorio, nuevo. 45 33 0 42 Aprobado Sala Ver detalle votación
+110 3° transitorio. 56 50 1 13 Aprobado Sala Ver detalle votación
+110 4° transitorio. 48 50 1 21 Rechazado Sala Ver detalle votación
+110 13, letra f), subliteral i). 56 51 0 13 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4726-04","No record","Veto emmEnd"

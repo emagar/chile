@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 7220-07","Legislatura: 358
+Fecha de ingreso: jueves 16 de septiembre de 2010
+Estado: Segundo trámite constitucional .
+Numero de boletín: 7220-07
+Materia: Constitucion 1980,Comparecer Y Dar Antecedentes A Comisiones Investigadoras,Obligación De Comparecer
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 01:35:28
+* * Hitos de tramitación * *
+"emmStart Hitos 7220-07","Fecha Sesión Etapa Sub-etapa Documento
+16 de Sep. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+16 de Sep. de 2010 77ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+31 de May. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de Jun. de 2011 38ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+22 de Jun. de 2011 46ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+22 de Jun. de 2011   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+05 de Jul. de 2011 30ª / 359 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7220-07","Fecha Etapa Informe Documento
+31 de May. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7220-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7220-07","Nombre Región Distrito Partido
+Giovanni Calderón Bassi III Región de Atacama N°6 Unión Demócrata Independiente
+Eduardo Cerda García V Región de Valparaíso N°10 Partido Demócrata Cristiano
+Edmundo Eluchans Urenda V Región de Valparaíso N°14 Unión Demócrata Independiente
+Rodrigo González Torres V Región de Valparaíso N°14 Partido Por la Democracia
+María José Hoffmann Opazo V Región de Valparaíso N°15 Unión Demócrata Independiente
+Andrea Molina Oliva V Región de Valparaíso N°10 Unión Demócrata Independiente
+Gaspar Rivas Sánchez V Región de Valparaíso N°11 Renovación Nacional
+Marcelo Schilling Rodríguez V Región de Valparaíso N°12 Partido Socialista
+Arturo Squella Ovalle V Región de Valparaíso N°12 Unión Demócrata Independiente
+Víctor Torres Jeldes V Región de Valparaíso N°15 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7220-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+46   96 0 0 24 Aprobado Sala Ver detalle votación
+89 Votación General 10 0 0 3   Constitución Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7220-07","No record","Veto emmEnd"

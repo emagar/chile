@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 1127-11","Legislatura: 327
+Fecha de ingreso: martes 14 de diciembre de 1993
+Estado: Archivado .
+Numero de boletín: 1127-11
+Materia: Nombres De Hospitales
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 03:24:55
+* * Hitos de tramitación * *
+"emmStart Hitos 1127-11","Fecha Sesión Etapa Sub-etapa Documento
+14 de Dic. de 1993 22ª / 327 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver
+14 de Dic. de 1993   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+05 de Abr. de 1994   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de Abr. de 1994 9ª / 328 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+21 de Jul. de 1999 22ª / 340 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+21 de Jul. de 1999   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+03 de Ago. de 1999 18ª / 340 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Salud
+01 de Sep. de 1999   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+04 de Nov. de 1999 8ª / 341 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión. Queda para tabla.
+04 de Nov. de 1999 8ª / 341 Segundo trámite constitucional / Senado Discusión general Ver
+06 de Jun. de 2001   Segundo trámite constitucional / Senado Oficio a Cámara de Origen, solicita acuerdo para proceder archivo de proyecto Ver
+07 de Jun. de 2001 3ª / 344 Segundo trámite constitucional / Senado Cuenta Oficio del senado, solicita acuerdo para archivo.
+21 de May. de 2002   Archivado / Oficio Nº 19.889. a la Cámara de Diputados en el que se reitera la solicitud de acuerdo para proceder al archivo del proyecto Ver
+04 de Jun. de 2002 2ª / 347 Archivado / Cuenta Oficio del Senado, reitera solicitud de archivo de proyecto Ver
+04 de Jun. de 2002   Archivado / Oficio al Senado, comunica que accede a archivo solicitado Ver
+05 de Jun. de 2002 4ª / 347 Archivado / Cuenta Oficio Cámara de Diputados, accede a archivo solicitado.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1127-11","Fecha Etapa Informe Documento
+01 de Sep. de 1999 Segundo trámite constitucional Senado Primer informe de comisión de Salud Ver
+05 de Abr. de 0994 Primer trámite constitucional C.Diputados Primer informe de comisión de Salud Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1127-11","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+14 de Dic. de 1993   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1127-11","Nombre Región Distrito Partido
+Ministerio de Salud      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1127-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1127-11","No record","Veto emmEnd"

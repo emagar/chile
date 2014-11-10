@@ -1,0 +1,31 @@
+* * Bill summary * *
+"emmStart Summary 2227-07","Legislatura: 338
+Fecha de ingreso: miércoles 02 de septiembre de 1998
+Estado: Primer trámite constitucional .
+Numero de boletín: 2227-07
+Materia: Congreso Nacional,Funcionarios Públicos,Falsedad De Informes
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 22:16:42
+* * Hitos de tramitación * *
+"emmStart Hitos 2227-07","Fecha Sesión Etapa Sub-etapa Documento
+02 de Sep. de 1998   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Sep. de 1998 31ª / 338 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2227-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2227-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2227-07","Nombre Región Distrito Partido
+Arturo Longton Guerrero V Región de Valparaíso N°12 Renovación Nacional
+Waldo Mora Longa II Región de Antofagasta N°3 Partido Demócrata Cristiano
+Baldo Prokurica Prokurica III Región de Atacama N°6 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2227-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2227-07","No record","Veto emmEnd"

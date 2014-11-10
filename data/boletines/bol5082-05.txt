@@ -1,0 +1,53 @@
+* * Bill summary * *
+"emmStart Summary 5082-05","Legislatura: 355
+Fecha de ingreso: lunes 04 de junio de 2007
+Estado: Tramitación terminada (Ley Nº 20.210 - D.Oficial 31/07/2007)
+Numero de boletín: 5082-05
+Materia: Inversiones De Los Fondos De Pensiones,Inversiones En El Extranjero,Fondo De Pensiones,Inversiones
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 07-11-2014 00:29:30
+* * Hitos de tramitación * *
+"emmStart Hitos 5082-05","Fecha Sesión Etapa Sub-etapa Documento
+04 de Jun. de 2007   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+05 de Jun. de 2007 21ª / 355 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+05 de Jun. de 2007 21ª / 355 Primer trámite constitucional / Senado La Sala acuerda que el proyecto sea discutido por las Comisiones de Hacienda y de Trabajo y Previsión Social, unidas.
+12 de Jun. de 2007   Primer trámite constitucional / Senado Primer informe de comisión Ver
+12 de Jun. de 2007 24ª / 355 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+13 de Jun. de 2007 25ª / 355 Primer trámite constitucional / Senado Cuenta del Mensaje 320-355 que hace presente la urgencia Discusión inmediata Ver
+13 de Jun. de 2007 25ª / 355 Primer trámite constitucional / Senado Discusión general Ver
+13 de Jun. de 2007   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+19 de Jun. de 2007 38ª / 355 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver Ver
+03 de Jul. de 2007   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+04 de Jul. de 2007 45ª / 355 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 384-355 que hace presente la urgencia Suma Ver
+04 de Jul. de 2007 45ª / 355 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+04 de Jul. de 2007 45ª / 355 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+04 de Jul. de 2007   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+04 de Jul. de 2007 30ª / 355 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+04 de Jul. de 2007   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+10 de Jul. de 2007 31ª / 355 Trámite finalización en Cámara de Origen / Senado Cuenta del Oficio de la Presidenta de la República, en el que manifiesta que ha resuelto no hacer uso de la facultad del inciso primero del artículo 73 de la Constitución Política de la República (veto).
+10 de Jul. de 2007   Trámite en Tribunal Constitucional / Senado Oficio al Tribunal Constitucional Ver
+26 de Jul. de 2007   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+31 de Jul. de 2007 37ª / 355 Trámite en Tribunal Constitucional / Senado Cuenta oficio Nº 1239 del Tribunal Constitucional Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5082-05","Fecha Etapa Informe Documento
+03 de Jul. de 2007 Segundo trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+12 de Jun. de 2007 Primer trámite constitucional Senado Primer informe de comisión de Hacienda y de Trabajo y Previsión Social, unidas Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5082-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Jul. de 2007   Suma 384-355  
+13 de Jun. de 2007   Discusión inmediata 320-355  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5082-05","Nombre
+Ministerio de Hacienda
+Ministerio de Trabajo y Previsión Social","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5082-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+45   108 0 0 12 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5082-05","No record","Veto emmEnd"

@@ -1,0 +1,63 @@
+* * Bill summary * *
+"emmStart Summary 7848-08","Legislatura: 359
+Fecha de ingreso: jueves 04 de agosto de 2011
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 7848-08
+Materia: Seguridad Minera
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 11:55:51
+* * Hitos de tramitación * *
+"emmStart Hitos 7848-08","Fecha Sesión Etapa Sub-etapa Documento
+04 de Ago. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Ago. de 2011 65ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Minería y Energía y a Comisión de Hacienda Ver
+24 de Nov. de 2011 115ª / 359 Primer trámite constitucional / C. Diputados Oficio N°288-359. Oficio de S.E. el Presidente de la República por el cual formula indicaciones al proyecto. Ver Ver
+03 de Ene. de 2012 126ª / 359 Primer trámite constitucional / C. Diputados Primer informe de comisión Ver Ver
+06 de Mar. de 2012 140ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 604-359 que hace presente la urgencia Simple Ver
+03 de Abr. de 2012 8ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 36-360 que retira la urgencia Simple Ver
+03 de May. de 2012 21ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 86-360 que hace presente la urgencia Simple Ver
+14 de May. de 2012   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+15 de May. de 2012 27ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 101-360 que hace presente la urgencia Suma Ver
+15 de May. de 2012 27ª / 360 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+16 de May. de 2012 29ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 108-360 que retira la urgencia Suma Ver
+16 de May. de 2012 29ª / 360 Primer trámite constitucional / C. Diputados Sala acuerda enviar el proyecto a la Comisión de Minería por dos semanas Ver
+20 de Jun. de 2012 46ª / 360 Primer trámite constitucional / C. Diputados Oficio N°114-360. Oficio de S.E. el Presidente de la República por el cual formula indicaciones al proyecto. Ver Ver
+09 de Ago. de 2012 69ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 243-360 que hace presente la urgencia Suma Ver
+28 de Ago. de 2012 72ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 258-360 que hace presente la urgencia Suma Ver
+29 de Ago. de 2012   Primer trámite constitucional / C. Diputados Nuevo primer informe de comisión Ver
+04 de Sep. de 2012   Primer trámite constitucional / C. Diputados Oficio de la Comisión de Minería y Energía, en virtud de los dispuesto en el inciso segundo del artículo 77 de Constitución Política de la República, en relación con el artículo 16 de la ley N° 18.918, Orgánica Constitucional del Congreso Nacional, acordó remitir a la Excma. Corte Suprema a objeto de recabar su pronunciamiento, particularmente respecto de los artículos 61, 79 y 80 del artículo Primero del citado proyecto.
+05 de Sep. de 2012 76ª / 360 Primer trámite constitucional / C. Diputados Cuenta oficio Nº 14-2012 de la Corte Suprema Ver Ver
+06 de Sep. de 2012   Primer trámite constitucional / C. Diputados Nuevo primer informe de comisión Ver
+06 de Sep. de 2012 77ª / 360 Primer trámite constitucional / C. Diputados Cuenta nuevo primer informe Ver
+12 de Sep. de 2012 79ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+12 de Sep. de 2012   Primer trámite constitucional / C. Diputados Oficio rechazo al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7848-08","Fecha Etapa Informe Documento
+29 de Ago. de 2012 Primer trámite constitucional C.Diputados Nuevo primer informe de comisión de Minería y Energía Ver
+14 de May. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+29 de Dic. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Minería y Energía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7848-08","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+28 de Ago. de 2012   Suma 258-360  
+09 de Ago. de 2012   Suma 243-360  
+15 de May. de 2012 16 de May. de 2012 Suma 101-360 108-360
+03 de May. de 2012   Simple 86-360  
+06 de Mar. de 2012 03 de Abr. de 2012 Simple 604-359 36-360","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7848-08","Nombre Región Distrito Partido
+Ministerio de Hacienda      
+Ministerio de Justicia      
+Ministerio de Minería      
+Ministerio de Salud      
+Ministerio de Trabajo y Previsión Social      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7848-08","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+79   50 40 10 20 Rechazado Sala Ver detalle votación
+67 Votación General 9 0 0 4   Minería y Energía Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7848-08","No record","Veto emmEnd"

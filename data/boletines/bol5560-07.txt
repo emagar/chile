@@ -1,0 +1,56 @@
+* * Bill summary * *
+"emmStart Summary 5560-07","Legislatura: 355
+Fecha de ingreso: miércoles 12 de diciembre de 2007
+Estado: Tramitación terminada (Ley Nº 20.245 - D.Oficial 10/01/2008)
+Numero de boletín: 5560-07
+Materia: Leyes Procesales
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 07-11-2014 06:08:20
+* * Hitos de tramitación * *
+"emmStart Hitos 5560-07","Fecha Sesión Etapa Sub-etapa Documento
+12 de Dic. de 2007   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+12 de Dic. de 2007 75ª / 355 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+17 de Dic. de 2007   Primer trámite constitucional / Senado Primer informe de comisión Ver
+18 de Dic. de 2007 76ª / 355 Primer trámite constitucional / Senado Cuenta del Mensaje 1210-355 que retira y hace presente la urgencia Discusión inmediata
+18 de Dic. de 2007 76ª / 355 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+18 de Dic. de 2007 76ª / 355 Primer trámite constitucional / Senado Discusión general Ver
+18 de Dic. de 2007   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+19 de Dic. de 2007 119ª / 355 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución Ver
+19 de Dic. de 2007   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+20 de Dic. de 2007 121ª / 355 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 1233-355 que retira la urgencia Discusión inmediata Ver
+02 de Ene. de 2008 122ª / 355 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 1241-355 que hace presente la urgencia Discusión inmediata Ver
+02 de Ene. de 2008 122ª / 355 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Constitución. EN TABLA. Ver
+03 de Ene. de 2008 123ª / 355 Segundo trámite constitucional / C. Diputados Discusión única Ver
+03 de Ene. de 2008   Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver
+08 de Ene. de 2008 79ª / 355 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora Ver
+08 de Ene. de 2008 79ª / 355 Tercer trámite constitucional / Senado Cuenta del Mensaje 1302-355 que retira y hace presente la urgencia Discusión inmediata
+08 de Ene. de 2008 79ª / 355 Tercer trámite constitucional / Senado Discusión única
+08 de Ene. de 2008   Tercer trámite constitucional / Senado Oficio Nº 26/08, que comunica aprobación de modificaciones Ver
+08 de Ene. de 2008   Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo Ver
+09 de Ene. de 2008 126ª / 355 Tercer trámite constitucional / Senado Cuenta oficio Nº 26/08, que comunica aprobación de modificaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5560-07","Fecha Etapa Informe Documento
+19 de Dic. de 2007 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+17 de Dic. de 2007 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5560-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+08 de Ene. de 2008   Discusión inmediata 1302-355  
+02 de Ene. de 2008 07 de Ene. de 2008 Discusión inmediata 1241-355 1302-355
+18 de Dic. de 2007 20 de Dic. de 2007 Discusión inmediata 1210-355 1233-355
+12 de Dic. de 2007 17 de Dic. de 2007 Discusión inmediata 1194-355 1210-355","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5560-07","Nombre
+Ministerio de Justicia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5560-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+123   99 0 4 17 Aprobado Sala Ver detalle votación
+123 Indicación sustitutiva del artículo único. 100 0 2 18 Aprobado Sala Ver detalle votación
+125 Votación General 6 4 0 3   Constitución Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5560-07","No record","Veto emmEnd"

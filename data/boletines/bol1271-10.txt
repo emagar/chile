@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 1271-10","Legislatura: 329
+Fecha de ingreso: martes 05 de julio de 1994
+Estado: Tramitación terminada (D.S. Nº 1.063 - D.Oficial 27/09/1997)
+Numero de boletín: 1271-10
+Materia: Armas Nucleares
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 05:13:43
+* * Hitos de tramitación * *
+"emmStart Hitos 1271-10","Fecha Sesión Etapa Sub-etapa Documento
+05 de Jul. de 1994   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+06 de Jul. de 1994 10ª / 329 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+05 de Abr. de 1995 49ª / 330 Primer trámite constitucional / Senado Primer informe de comisión Ver
+05 de Abr. de 1995 49ª / 330 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Abr. de 1995 52ª / 330 Primer trámite constitucional / Senado Discusión general Ver
+12 de Abr. de 1995 52ª / 330 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+12 de Abr. de 1995   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+18 de Abr. de 1995 59ª / 330 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+16 de Jul. de 1996   Segundo trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+07 de Ago. de 1996   Segundo trámite constitucional / C. Diputados Primer informe de comisión
+08 de Abr. de 1997 58ª / 334 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+09 de Abr. de 1997 59ª / 334 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+09 de Abr. de 1997   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen
+15 de Abr. de 1997 40ª / 334 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+15 de Abr. de 1997 4ª / 344 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1271-10","Fecha Etapa Informe Documento
+16 de Jul. de 1996 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+05 de Abr. de 1995 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1271-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1271-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1271-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1271-10","No record","Veto emmEnd"

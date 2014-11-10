@@ -1,0 +1,61 @@
+* * Bill summary * *
+"emmStart Summary 6561-05","Legislatura: 357
+Fecha de ingreso: martes 09 de junio de 2009
+Estado: Tramitación terminada (Ley Nº 20.360 - D.Oficial 30/06/2009)
+Numero de boletín: 6561-05
+Materia: Bono Extraordinario,Familias De Bajos Ingresos
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 13:37:30
+* * Hitos de tramitación * *
+"emmStart Hitos 6561-05","Fecha Sesión Etapa Sub-etapa Documento
+09 de Jun. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+09 de Jun. de 2009 37ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+09 de Jun. de 2009 37ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 535-357 que hace presente la urgencia Discusión inmediata Ver
+09 de Jun. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+10 de Jun. de 2009 38ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+10 de Jun. de 2009   Primer trámite constitucional / C. Diputados Oficio N° 8150 a la Corte Suprema Ver
+10 de Jun. de 2009 38ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver
+10 de Jun. de 2009   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+10 de Jun. de 2009 25ª / 357 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+12 de Jun. de 2009   Tercer trámite constitucional / C. Diputados Respuesta de la Corte Suprema Ver
+16 de Jun. de 2009 26ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 565-357 que retira y hace presente la urgencia Discusión inmediata
+16 de Jun. de 2009   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+16 de Jun. de 2009 26ª / 357 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+17 de Jun. de 2009 28ª / 357 Segundo trámite constitucional / Senado Discusión general Ver
+17 de Jun. de 2009   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+18 de Jun. de 2009 44ª / 357 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+18 de Jun. de 2009 44ª / 357 Tercer trámite constitucional / C. Diputados Discusión única Ver
+18 de Jun. de 2009   Tercer trámite constitucional / C. Diputados Oficio N° 8170, que comunica aprobacion de modificaciones Ver
+18 de Jun. de 2009   Tercer trámite constitucional / C. Diputados Oficio N° 8169. Comunica el proyecto a S.E. la Presidenta de la República para efectos de que informe si hará uso del aartículo 73 de la Constitución, para proceder, en caso de no uso, a remitir el proyecto a control del Tribunal Constitucional por tener normas orgánicas constitucionales Ver
+18 de Jun. de 2009   Tercer trámite constitucional / C. Diputados Oficio N° 8173 al Tribunal Constitucional Ver
+24 de Jun. de 2009   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+30 de Jun. de 2009 45ª / 357 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio N° 3183 del Tribunal Constitucional Ver
+30 de Jun. de 2009   Trámite en Tribunal Constitucional / C. Diputados Ingreso fallo del Tribunal Constitucional Ver
+30 de Jun. de 2009 45ª / 357 Tercer trámite constitucional / C. Diputados P. de la Rep. comunica que no hará uso de la facultad del inciso primero del artículo 73, de la Const. Pol. de la Rep. AL TRIBUNAL CONSTITUCIONAL. Ver
+30 de Jun. de 2009 29ª / 357 Tercer trámite constitucional / C. Diputados Cuenta oficio N? 8170, que comunica aprobacion de modificaciones Ver
+30 de Jun. de 2009 45ª / 357 Tercer trámite constitucional / C. Diputados Cuenta oficio N? 133 de la Corte Suprema Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6561-05","Fecha Etapa Informe Documento
+16 de Jun. de 2009 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+09 de Jun. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6561-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+16 de Jun. de 2009   Discusión inmediata 565-357  
+09 de Jun. de 2009 16 de Jun. de 2009 Discusión inmediata 535-357 565-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6561-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6561-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+38   106 0 0 1 Aprobado Sala Ver detalle votación
+38   110 0 0 1 Aprobado Sala Ver detalle votación
+44   70 0 0 50 Aprobado Sala Ver detalle votación
+234 Votación General 11 0 0 2   Hacienda Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6561-05","No record","Veto emmEnd"

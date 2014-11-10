@@ -1,0 +1,54 @@
+* * Bill summary * *
+"emmStart Summary 6852-05","Legislatura: 358
+Fecha de ingreso: martes 16 de marzo de 2010
+Estado: Tramitación terminada (Ley N° 20.428 - D.Oficial 24/03/2010)
+Numero de boletín: 6852-05
+Materia: Familias De Bajos Ingresos
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 18:40:56
+* * Hitos de tramitación * *
+"emmStart Hitos 6852-05","Fecha Sesión Etapa Sub-etapa Documento
+16 de Mar. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+16 de Mar. de 2010 1ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda. Se remite el proyecto a la Corte Suprema. Ver
+16 de Mar. de 2010   Primer trámite constitucional / C. Diputados Oficio N° 8581 a la Corte Suprema Ver
+16 de Mar. de 2010 1ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 2-358 que hace presente la urgencia Discusión inmediata Ver
+17 de Mar. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Mar. de 2010 3ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de la Comisión de Hacienda. EN TABLA. Ver
+17 de Mar. de 2010 3ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+17 de Mar. de 2010   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+17 de Mar. de 2010 2ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+17 de Mar. de 2010   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+17 de Mar. de 2010 2ª / 358 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+17 de Mar. de 2010 2ª / 358 Segundo trámite constitucional / Senado Discusión general Ver
+17 de Mar. de 2010   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+18 de Mar. de 2010 4ª / 358 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+18 de Mar. de 2010   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo. Oficio de consulta para ejercer facultad de veto Ver
+18 de Mar. de 2010 4ª / 358 Trámite finalización en Cámara de Origen / C. Diputados P. de la Rep. comunica que no hará uso de la facultad del inciso primero del artículo 73 de la C. Pol de la Rep. AL TRIBUNAL CONSTITUCIONAL Ver
+18 de Mar. de 2010   Trámite en Tribunal Constitucional / C. Diputados Oficio al Tribunal Constitucional. Oficio N°8613 al Tribunal Constitucional Ver
+23 de Mar. de 2010 6ª / 358 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio N? 20 de la Corte Suprema Ver Ver
+24 de Mar. de 2010   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+25 de Mar. de 2010 8ª / 358 Trámite en Tribunal Constitucional / C. Diputados Cuenta fallo del Tribunal Constitucional. Cuenta oficio N° 4141 del Tribunal Constitucional Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6852-05","Fecha Etapa Informe Documento
+17 de Mar. de 2010 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+17 de Mar. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6852-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+16 de Mar. de 2010   Discusión inmediata 2-358  
+16 de Mar. de 2010   Discusión inmediata 01-358  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6852-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6852-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+3 con excepción del inciso tercero del artículo 1°, que tiene el carácter de norma orgánica constitucional. 114 0 0 6 Aprobado Sala Ver detalle votación
+3 inciso tercero del artículo 1°. 114 0 0 0 Aprobado Sala Ver detalle votación
+2 Votación General 12 0 1 0   Hacienda Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6852-05","No record","Veto emmEnd"

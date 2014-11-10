@@ -1,0 +1,59 @@
+* * Bill summary * *
+"emmStart Summary 2016-07","Legislatura: 334
+Fecha de ingreso: miércoles 16 de abril de 1997
+Estado: Tramitación terminada (Ley Nº 19.742 - D.Oficial 25/08/2001)
+Numero de boletín: 2016-07
+Materia: Cinematografía
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 17:29:41
+* * Hitos de tramitación * *
+"emmStart Hitos 2016-07","Fecha Sesión Etapa Sub-etapa Documento
+16 de Abr. de 1997   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+16 de Abr. de 1997 61ª / 334 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+16 de Abr. de 1997   Primer trámite constitucional / C. Diputados Cambio en Providencia - Comisiones: De Constitucion, De Educacion
+05 de Oct. de 1999   Primer trámite constitucional / C. Diputados S.E.El Presidente de la Republica incluye el proyecto en la Convocatoria Extraodinaria 341
+16 de Nov. de 1999   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+16 de Nov. de 1999   Primer trámite constitucional / C. Diputados Primer informe de comisión. Certificado de Comisión Ver
+17 de Nov. de 1999 17ª / 341 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+17 de Nov. de 1999 17ª / 341 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+17 de Nov. de 1999 17ª / 341 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+17 de Nov. de 1999   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+01 de Dic. de 1999 15ª / 341 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+10 de Abr. de 2001   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+11 de Abr. de 2001 36ª / 343 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+02 de May. de 2001 40ª / 343 Segundo trámite constitucional / Senado Discusión general Ver
+03 de May. de 2001   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+08 de May. de 2001 60ª / 343 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+05 de Jun. de 2001 1ª / 344 Tercer trámite constitucional / C. Diputados Discusión única Ver
+05 de Jun. de 2001   Tercer trámite constitucional / C. Diputados Oficio Nº 3359, que comunica aprobación de modificaciones Ver
+06 de Jun. de 2001 3ª / 344 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 3359, que comunica aprobación de modificaciones Ver
+10 de Jul. de 2001 0ª / 344 Congreso Pleno / Ratificación reforma constitucional
+10 de Jul. de 2001   Congreso Pleno / Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2016-07","Fecha Etapa Informe Documento
+10 de Abr. de 2001 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+16 de Nov. de 1999 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver
+16 de Nov. de 1999 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2016-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+05 de Jun. de 2001   Suma 18-344  
+08 de May. de 2001   Simple 441-343  
+10 de Abr. de 2001 08 de May. de 2001 Simple 391-343 441-343
+06 de Mar. de 2001 10 de Abr. de 2001 Simple 302-343 391-343
+06 de Jun. de 2000   Simple 18-342  
+04 de Abr. de 2000 11 de Abr. de 2000 Simple 352-341 382-341
+16 de Nov. de 1999   Discusión inmediata 212-341  
+09 de Nov. de 1999   Discusión inmediata 153-341  
+16 de Abr. de 1997 16 de Sep. de 1997 Sin urgencia 339-334 CADUCADO","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2016-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2016-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2016-07","No record","Veto emmEnd"

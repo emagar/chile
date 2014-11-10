@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 7073-06","Legislatura: 358
+Fecha de ingreso: jueves 15 de julio de 2010
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 7073-06
+Materia: Orgánica Constitucional De Municipalidades,Concejales,Incompatibilidad De Cargos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 23:56:03
+* * Hitos de tramitación * *
+"emmStart Hitos 7073-06","Fecha Sesión Etapa Sub-etapa Documento
+15 de Jul. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+15 de Jul. de 2010 54ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior y Regionalización Ver
+05 de Abr. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Abr. de 2011 9ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de Abr. de 2011 12ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+19 de Abr. de 2011 15ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+13 de Oct. de 2011   Primer trámite constitucional / C. Diputados Nuevo primer informe de comisión Ver
+18 de Oct. de 2011 97ª / 359 Primer trámite constitucional / C. Diputados Cuenta nuevo primer informe Ver
+20 de Dic. de 2011 123ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+20 de Dic. de 2011   Primer trámite constitucional / C. Diputados Oficio rechazo al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7073-06","Fecha Etapa Informe Documento
+13 de Oct. de 2011 Primer trámite constitucional C.Diputados Nuevo primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver
+05 de Abr. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7073-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7073-06","Nombre Región Distrito Partido
+Gabriel Ascencio Mansilla X Región de los Lagos N°58 Partido Demócrata Cristiano
+Fidel Espinoza Sandoval X Región de los Lagos N°56 Partido Socialista
+Luis Lemus Aracena IV Región de Coquimbo N°9 Partido Socialista
+Sergio Ojeda Uribe X Región de los Lagos N°55 Partido Demócrata Cristiano
+Marcela Sabat Fernández RM Región Metropolitana N°21 Renovación Nacional
+Marcelo Schilling Rodríguez V Región de Valparaíso N°12 Partido Socialista","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7073-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+123   35 57 10 18 Rechazado Sala Ver detalle votación
+36 Votación General 13 0 0 0   Gobierno Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7073-06","No record","Veto emmEnd"

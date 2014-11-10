@@ -1,0 +1,54 @@
+* * Bill summary * *
+"emmStart Summary 2680-06","Legislatura: 343
+Fecha de ingreso: martes 03 de abril de 2001
+Estado: Tramitación terminada (Ley Nº 19.778 - D.Oficial 10/12/2001)
+Numero de boletín: 2680-06
+Materia: Gobierno Y Administración Regional
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 08:25:30
+* * Hitos de tramitación * *
+"emmStart Hitos 2680-06","Fecha Sesión Etapa Sub-etapa Documento
+03 de Abr. de 2001   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Abr. de 2001 48ª / 343 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+05 de Abr. de 2001   Primer trámite constitucional / C. Diputados Of. Nº 402 de la Com. de Gobierno. Solicita que le proyecto sea tramitado a la Com. de Vivienda.
+05 de Abr. de 2001   Primer trámite constitucional / C. Diputados Of. Nº 3264 a la Com. de Vivienda, remite proyecto para su estudio
+07 de Jun. de 2001   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de Jun. de 2001 3ª / 344 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+20 de Jun. de 2001 8ª / 344 Primer trámite constitucional / C. Diputados Discusión general Ver
+20 de Jun. de 2001   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+03 de Jul. de 2001 9ª / 344 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Vivienda y Urbanismo
+19 de Jul. de 2001   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+01 de Ago. de 2001 17ª / 344 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+14 de Ago. de 2001 23ª / 344 Segundo trámite constitucional / Senado Discusión general Ver
+03 de Oct. de 2001 4ª / 345 Segundo trámite constitucional / Senado Discusión particular Ver
+03 de Oct. de 2001 4ª / 345 Segundo trámite constitucional / Senado Comunicación de las Comisiones unidas de Gobierno y Vivienda con la que señalan que fueron retiradas las indicaciones presentadas. Se da por aprobado en particular 1º inf. de Comisión de Vivienda, de acuerdo a artículo 120 del Reglamento del Senado.
+03 de Oct. de 2001   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+09 de Oct. de 2001 4ª / 345 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+09 de Oct. de 2001   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+30 de Oct. de 2001   Trámite en Tribunal Constitucional / C. Diputados Oficio al Tribunal Constitucional Ver
+20 de Nov. de 2001   Trámite en Tribunal Constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+20 de Nov. de 2001 18ª / 345 Trámite en Tribunal Constitucional / C. Diputados Cuenta fallo del Tribunal Constitucional Ver
+20 de Nov. de 2001   Trámite en Tribunal Constitucional / C. Diputados Ingreso fallo del Tribunal Constitucional Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2680-06","Fecha Etapa Informe Documento
+19 de Jul. de 2001 Segundo trámite constitucional Senado Primer informe de comisión de Vivienda y Urbanismo Ver
+07 de Jun. de 2001 Primer trámite constitucional C.Diputados Primer informe de comisión de Vivienda y Desarrollo Urbano Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2680-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+02 de Oct. de 2001   Simple 29-345  
+11 de Sep. de 2001   Simple 218-344  
+14 de Ago. de 2001 04 de Sep. de 2001 Simple 142-344 192-344
+14 de Ago. de 2001 04 de Sep. de 2001 Simple 142-344 192-344","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2680-06","Nombre Región Distrito Partido
+Ministerio de Interior y Seguridad Públi      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2680-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2680-06","No record","Veto emmEnd"

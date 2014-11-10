@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 3026-04","Legislatura: 347
+Fecha de ingreso: martes 20 de agosto de 2002
+Estado: Tramitación terminada (Ley Nº 20.059 - D.Oficial 01/10/2005)
+Numero de boletín: 3026-04
+Materia: Ministerios
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 03-11-2014 20:38:44
+* * Hitos de tramitación * *
+"emmStart Hitos 3026-04","Fecha Sesión Etapa Sub-etapa Documento
+20 de Ago. de 2002   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+20 de Ago. de 2002 22ª / 347 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+14 de Sep. de 2004   Primer trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 352
+29 de Jun. de 2005   Primer trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+07 de Jul. de 2005   Primer trámite constitucional / Senado Primer informe de comisión Ver
+12 de Jul. de 2005 14ª / 353 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+19 de Jul. de 2005 18ª / 353 Primer trámite constitucional / Senado Discusión general Ver
+19 de Jul. de 2005   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+20 de Jul. de 2005 21ª / 353 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver Ver
+16 de Ago. de 2005   Segundo trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+30 de Ago. de 2005   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+31 de Ago. de 2005 38ª / 353 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+31 de Ago. de 2005 38ª / 353 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+31 de Ago. de 2005   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+06 de Sep. de 2005 32ª / 353 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+06 de Sep. de 2005   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3026-04","Fecha Etapa Informe Documento
+30 de Ago. de 2005 Segundo trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+16 de Ago. de 2005 Segundo trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver
+07 de Jul. de 2005 Primer trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+29 de Jun. de 2005 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3026-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3026-04","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3026-04","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+38   66 0 1 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3026-04","No record","Veto emmEnd"

@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 6221-07","Legislatura: 356
+Fecha de ingreso: martes 02 de diciembre de 2008
+Estado: Segundo trámite constitucional .
+Numero de boletín: 6221-07
+Materia: Reforma Constitucional,Inconstitucionalidad De La Ley
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 04:17:16
+* * Hitos de tramitación * *
+"emmStart Hitos 6221-07","Fecha Sesión Etapa Sub-etapa Documento
+02 de Dic. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Dic. de 2008 110ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+31 de Mar. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+14 de Abr. de 2009 14ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+03 de Jun. de 2009 35ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+03 de Jun. de 2009   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+09 de Jun. de 2009 24ª / 357 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6221-07","Fecha Etapa Informe Documento
+31 de Mar. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6221-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6221-07","Nombre Región Distrito Partido
+Gonzalo Arenas Hödar IX Región de la Araucanía N°48 Unión Demócrata Independiente
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Alberto Cardemil Herrera RM Región Metropolitana N°22 Independientes
+Edmundo Eluchans Urenda V Región de Valparaíso N°15 Unión Demócrata Independiente
+Marcelo Forni Lobos V Región de Valparaíso N°11 Unión Demócrata Independiente
+Renán Fuentealba Vildósola IV Región de Coquimbo N°9 Partido Demócrata Cristiano
+Juan Carlos Latorre Carmona VI Región del Libertador Bernardo O' Higgins N°35 Partido Demócrata Cristiano
+Cristián Monckeberg Bruner RM Región Metropolitana N°23 Renovación Nacional
+José Miguel Ortiz Novoa VIII Región del Bío Bío N°44 Partido Demócrata Cristiano
+Marisol Turres Figueroa X Región de los Lagos N°57 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6221-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+35   84 0 0 36 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6221-07","No record","Veto emmEnd"

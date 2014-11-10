@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 7247-17","Legislatura: 358
+Fecha de ingreso: martes 05 de octubre de 2010
+Estado: Segundo trámite constitucional .
+Numero de boletín: 7247-17
+Materia: Nacionalización
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 01:54:30
+* * Hitos de tramitación * *
+"emmStart Hitos 7247-17","Fecha Sesión Etapa Sub-etapa Documento
+05 de Oct. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+05 de Oct. de 2010 83ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+10 de Mar. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+15 de Mar. de 2011 1ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+23 de Mar. de 2011 7ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+23 de Mar. de 2011   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+05 de Abr. de 2011 6ª / 359 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7247-17","Fecha Etapa Informe Documento
+10 de Mar. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7247-17","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7247-17","Nombre Región Distrito Partido
+Sergio Aguiló Melo VII Región del Maule N°37 Izquierda Ciudadana
+Fidel Espinoza Sandoval X Región de los Lagos N°56 Partido Socialista
+Javier Hernández Hernández X Región de los Lagos N°55 Unión Demócrata Independiente
+María José Hoffmann Opazo V Región de Valparaíso N°15 Unión Demócrata Independiente
+Tucapel Jiménez Fuentes RM Región Metropolitana N°27 Partido Por la Democracia
+Sergio Ojeda Uribe X Región de los Lagos N°55 Partido Demócrata Cristiano
+Denise Pascal Allende RM Región Metropolitana N°31 Partido Socialista
+Carlos Recondo Lavanderos X Región de los Lagos N°56 Unión Demócrata Independiente
+Víctor Torres Jeldes V Región de Valparaíso N°15 Partido Demócrata Cristiano
+Gonzalo Uriarte Herrera RM Región Metropolitana N°31 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7247-17","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+7   92 0 1 0 Aprobado Sala Ver detalle votación
+32 Votación General 5 0 0 8   Derechos Humanos Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7247-17","No record","Veto emmEnd"

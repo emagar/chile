@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 2954-07","Legislatura: 347
+Fecha de ingreso: martes 04 de junio de 2002
+Estado: Tramitación terminada (Ley Nº 19.860 - D.Oficial 18/03/2003)
+Numero de boletín: 2954-07
+Materia: Nacionalización
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 03-11-2014 19:19:39
+* * Hitos de tramitación * *
+"emmStart Hitos 2954-07","Fecha Sesión Etapa Sub-etapa Documento
+04 de Jun. de 2002   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+04 de Jun. de 2002 3ª / 347 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía
+24 de Jun. de 2002   Primer trámite constitucional / Senado Primer informe de comisión Ver
+02 de Jul. de 2002 10ª / 347 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+03 de Jul. de 2002 11ª / 347 Primer trámite constitucional / Senado Discusión general Ver
+03 de Jul. de 2002   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+09 de Jul. de 2002 14ª / 347 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+13 de Nov. de 2002   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+14 de Nov. de 2002 21ª / 348 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+08 de Ene. de 2003 40ª / 348 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+08 de Ene. de 2003   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+14 de Ene. de 2003 24ª / 348 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+14 de Ene. de 2003   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2954-07","Fecha Etapa Informe Documento
+13 de Nov. de 2002 Segundo trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+13 de Nov. de 2002 Primer trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+24 de Jun. de 2002 Primer trámite constitucional Senado Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2954-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2954-07","Nombre
+Andrés Zaldívar Larraín","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2954-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2954-07","No record","Veto emmEnd"

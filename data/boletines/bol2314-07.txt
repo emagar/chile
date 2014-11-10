@@ -1,0 +1,53 @@
+* * Bill summary * *
+"emmStart Summary 2314-07","Legislatura: 339
+Fecha de ingreso: miércoles 31 de marzo de 1999
+Estado: Tramitación terminada (Ley Nº 19.643 - D.Oficial 04/11/1999)
+Numero de boletín: 2314-07
+Materia: Reforma Constitucional,Tribunal Calificador De Elecciones,Poder Ejecutivo
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 23:11:01
+* * Hitos de tramitación * *
+"emmStart Hitos 2314-07","Fecha Sesión Etapa Sub-etapa Documento
+31 de Mar. de 1999   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+31 de Mar. de 1999 29ª / 339 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+10 de Jun. de 1999   Primer trámite constitucional / Senado Primer informe de comisión Ver
+15 de Jun. de 1999 5ª / 340 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+16 de Jun. de 1999 7ª / 340 Primer trámite constitucional / Senado Discusión general y particular pendiente. Ver
+22 de Jun. de 1999 8ª / 340 Primer trámite constitucional / Senado Discusión general Ver
+23 de Jun. de 1999   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+23 de Jun. de 1999 12ª / 340 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+23 de Jun. de 1999 12ª / 340 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+03 de Ago. de 1999   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+10 de Ago. de 1999 27ª / 340 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+10 de Ago. de 1999 27ª / 340 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+10 de Ago. de 1999   Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver
+11 de Ago. de 1999 21ª / 340 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+17 de Ago. de 1999 23ª / 340 Tercer trámite constitucional / Senado Discusión única
+18 de Ago. de 1999 23ª / 340 Tercer trámite constitucional / Senado Oficio aprobación de modificaciones de Ref.Constitucional Ver
+05 de Oct. de 1999   Congreso Pleno / S.E.El Presidente de la Republica incluye el proyecto en la Convocatoria Extraodinaria 341
+16 de Oct. de 1999 0ª / 341 Congreso Pleno / Ratificación reforma constitucional
+16 de Oct. de 1999   Congreso Pleno / Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2314-07","Fecha Etapa Informe Documento
+03 de Ago. de 1999 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+10 de Jun. de 1999 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2314-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+17 de Ago. de 1999   Suma 182-34  
+03 de Ago. de 1999 17 de Ago. de 1999 Suma 138-340 182-34
+01 de Jun. de 1999 03 de Ago. de 1999 Simple 8-340 138-340
+12 de May. de 1999 21 de May. de 1999 Suma 333-339 CADUCADO
+06 de Abr. de 1999 20 de Abr. de 1999 Simple 281-339 292-339
+31 de Mar. de 1999   Sin urgencia 281-339  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2314-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2314-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2314-07","No record","Veto emmEnd"

@@ -1,0 +1,51 @@
+* * Bill summary * *
+"emmStart Summary 400-15","Legislatura: 322
+Fecha de ingreso: martes 09 de julio de 1991
+Estado: Tramitación terminada (Ley Nº 19.277 - D.Oficial 20/01/1994)
+Numero de boletín: 400-15
+Materia: Telecomunicaciones
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 16:47:08
+* * Hitos de tramitación * *
+"emmStart Hitos 400-15","Fecha Sesión Etapa Sub-etapa Documento
+09 de Jul. de 1991 16ª / 322 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+09 de Jul. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+24 de Sep. de 1991   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+19 de Nov. de 1991 13ª / 323 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones
+14 de Sep. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+15 de Sep. de 1992 25ª / 324 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+08 de Oct. de 1992 2ª / 325 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 19/10/1992. Además, se acuerda que pase a la Comisión de Constitución para que se pronuncie respecto de las normas penales y las restricciones a los derechos individuales que contiene la iniciativa. Ver
+15 de Dic. de 1992 17ª / 325 Trámite finalización en Cámara de Origen / C. Diputados Cuenta de oficio de la Corte Suprema con el que remite su opinión acerca de la iniciativa. Ver
+18 de Ene. de 1993   Segundo trámite constitucional / Senado Segundo informe de comisión. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento Ver
+30 de Mar. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+30 de Mar. de 1993 37ª / 325 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión. de Transportes y Telecomunicaciones e informe de la Comisión de Constitución, Legislación, Justicia y Reglamento. Quedan para Tabla.
+31 de Mar. de 1993 38ª / 325 Segundo trámite constitucional / Senado Discusión particular Ver
+05 de Abr. de 1993   Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Oficio Nº3995. Oficio a la Cámara de Diputados comunicando la aprobación del proyecto, con modificaciones. Ver
+30 de Jun. de 1993 7ª / 326 Comisión Mixta por rechazo de modificaciones / Senado Cuenta oficio rechazo a modificaciones
+14 de Jul. de 1993 11ª / 326 Trámite finalización en Cámara de Origen / C. Diputados Cuenta de oficio complementario de la CCDD, con el que comunica rechazo de otras enmiendas, además de las señaladas en oficio anterior. Ver
+21 de Jul. de 1993   Comisión Mixta por rechazo de modificaciones / Senado Informe de Comisión Mixta Ver
+06 de Oct. de 1993 3ª / 327 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Cuenta oficio aprobación de informe de Comisión Mixta
+14 de Oct. de 1993 5ª / 327 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Discusión informe de Comisión Mixta
+15 de Oct. de 1993   Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Oficio aprobación de informe de Comisión Mixta a C.de Origen Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 400-15","Fecha Etapa Informe Documento
+21 de Jul. de 1993 Comisión Mixta por rechazo de modificaciones Senado Informe de Comisión Mixta de Transportes y Telecomunicaciones Ver
+30 de Mar. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+18 de Ene. de 1993 Segundo trámite constitucional Senado Segundo informe de comisión de Transportes y Telecomunicaciones Ver
+14 de Sep. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver
+24 de Sep. de 1991 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 400-15","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+09 de Jul. de 1991   Suma    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 400-15","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 400-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 400-15","No record","Veto emmEnd"

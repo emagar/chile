@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 3886-03","Legislatura: 353
+Fecha de ingreso: miércoles 08 de junio de 2005
+Estado: Tramitación terminada (Ley Nº 20.037 - D.Oficial 06/07/2005)
+Numero de boletín: 3886-03
+Materia: Registro De Pescadores Artesanales,Pesca Artesanal
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 04-11-2014 21:58:51
+* * Hitos de tramitación * *
+"emmStart Hitos 3886-03","Fecha Sesión Etapa Sub-etapa Documento
+08 de Jun. de 2005   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+08 de Jun. de 2005 3ª / 353 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Intereses Marítimos, Pesca y Acuicultura
+08 de Jun. de 2005   Primer trámite constitucional / Senado Primer informe de comisión Ver
+08 de Jun. de 2005 4ª / 353 Primer trámite constitucional / Senado Discusión general Ver
+08 de Jun. de 2005 4ª / 353 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+09 de Jun. de 2005   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+15 de Jun. de 2005 5ª / 353 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Pesca, Acuicultura e Intereses Marítimos Ver Ver
+15 de Jun. de 2005   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+15 de Jun. de 2005 6ª / 353 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Pesca. En estado de Tabla. Ver
+15 de Jun. de 2005 6ª / 353 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+15 de Jun. de 2005   Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver
+21 de Jun. de 2005 8ª / 353 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+22 de Jun. de 2005 9ª / 353 Tercer trámite constitucional / Senado Discusión única
+22 de Jun. de 2005   Tercer trámite constitucional / Senado Oficio Nº 25467, que comunica aprobación de modificaciones Ver
+22 de Jun. de 2005   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo. Oficio Nº 25466 Ver
+05 de Jul. de 2005 11ª / 353 Tercer trámite constitucional / Senado Cuenta oficio Nº 25467, que comunica aprobación de modificaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3886-03","Fecha Etapa Informe Documento
+15 de Jun. de 2005 Segundo trámite constitucional C.Diputados Primer informe de comisión de Pesca, Acuicultura e Intereses Marítimos Ver
+08 de Jun. de 2005 Primer trámite constitucional Senado Primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3886-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3886-03","Nombre
+Ministerio de Economía, Fomento y Turism","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3886-03","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+6   54 18 1 1 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3886-03","No record","Veto emmEnd"

@@ -1,0 +1,48 @@
+* * Bill summary * *
+"emmStart Summary 2156-04","Legislatura: 337
+Fecha de ingreso: martes 31 de marzo de 1998
+Estado: Tramitación terminada (Ley Nº 19.782 - D.Oficial 19/01/2002)
+Numero de boletín: 2156-04
+Materia: Monumentos
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 21:32:55
+* * Hitos de tramitación * *
+"emmStart Hitos 2156-04","Fecha Sesión Etapa Sub-etapa Documento
+31 de Mar. de 1998   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+31 de Mar. de 1998 3ª / 337 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+20 de Jul. de 1999   Primer trámite constitucional / Senado Primer informe de comisión
+21 de Jul. de 1999 17ª / 340 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+04 de Ago. de 1999 19ª / 340 Primer trámite constitucional / Senado Discusión general Ver
+01 de Sep. de 1999 27ª / 340 Primer trámite constitucional / Senado Cuenta nuevo primer informe
+01 de Sep. de 1999   Primer trámite constitucional / Senado Nuevo primer informe de comisión Ver
+01 de Sep. de 1999 27ª / 340 Primer trámite constitucional / Senado Discusión general Ver
+04 de Sep. de 1999   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+08 de Sep. de 1999 38ª / 340 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+01 de Ago. de 2000   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de Ago. de 2000 24ª / 342 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+08 de Ene. de 2002 23ª / 345 Segundo trámite constitucional / C. Diputados Discusión general Ver
+08 de Ene. de 2002   Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver
+09 de Ene. de 2002 22ª / 345 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+09 de Ene. de 2002 22ª / 345 Tercer trámite constitucional / Senado Discusión única
+09 de Ene. de 2002   Tercer trámite constitucional / Senado Oficio aprobación de modificaciones de Ref.Constitucional
+09 de Ene. de 2002   Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2156-04","Fecha Etapa Informe Documento
+01 de Ago. de 2000 Segundo trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver
+01 de Sep. de 1999 Primer trámite constitucional Senado Nuevo primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+14 de Jul. de 1999 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2156-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2156-04","Nombre
+Antonio Horvath Kiss","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2156-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2156-04","No record","Veto emmEnd"

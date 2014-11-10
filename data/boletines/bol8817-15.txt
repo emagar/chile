@@ -1,0 +1,75 @@
+* * Bill summary * *
+"emmStart Summary 8817-15","Legislatura: 360
+Fecha de ingreso: miércoles 06 de marzo de 2013
+Estado: Tramitación terminada (Ley Nº 20.695 - D.Oficial 14/10/2013)
+Numero de boletín: 8817-15
+Materia: Radiodifusión Comunitaria Ciudadana,Concesiones De Radiodifusión
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 06:04:00
+* * Hitos de tramitación * *
+"emmStart Hitos 8817-15","Fecha Sesión Etapa Sub-etapa Documento
+06 de Mar. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Mar. de 2013 135ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+12 de Mar. de 2013   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+20 de Mar. de 2013 6ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 25-361 que hace presente la urgencia Suma Ver
+21 de Mar. de 2013 7ª / 361 Primer trámite constitucional / C. Diputados Cuenta. Primer informe de la Comisión de Obras Públicas, Transportes y Telecomunicaciones recaído en el proyecto. Ver
+02 de Abr. de 2013 8ª / 361 Primer trámite constitucional / C. Diputados Discusión general Ver
+02 de Abr. de 2013   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+03 de Abr. de 2013 8ª / 361 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones
+10 de Abr. de 2013 13ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 56-361 que retira y hace presente la urgencia Suma
+10 de Abr. de 2013 13ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 56-361 que retira y hace presente la urgencia Suma
+30 de Abr. de 2013 18ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 74-361 que retira y hace presente la urgencia Suma
+14 de May. de 2013 23ª / 361 Segundo trámite constitucional / Senado La Sala autoriza a la Comisión de Transportes y Telecomunicaciones para discutir en general y en particular el proyecto en el primer informe.
+15 de May. de 2013 24ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 98-361 que retira y hace presente la urgencia Suma
+04 de Jun. de 2013 27ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 117-361 que retira y hace presente la urgencia Suma
+07 de Jun. de 2013   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+11 de Jun. de 2013 29ª / 361 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Jun. de 2013 30ª / 361 Segundo trámite constitucional / Senado Discusión general Ver
+12 de Jun. de 2013 30ª / 361 Segundo trámite constitucional / Senado Se solicita segunda discusión. Ver
+02 de Jul. de 2013 36ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 159-361 que retira y hace presente la urgencia Suma
+17 de Jul. de 2013 41ª / 361 Segundo trámite constitucional / Senado Discusión general Ver
+30 de Jul. de 2013 42ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 199-361 que retira la urgencia Suma
+30 de Jul. de 2013 42ª / 361 Segundo trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 05/08/2013 a las 12:00 en Secretaría.
+06 de Ago. de 2013 45ª / 361 Segundo trámite constitucional / Senado Discusión particular. Aprobado con modificaciones Por no haberse presentado indicaciones, se aprueba en particular en virtud del articulo 120 del Reglamento. Ver
+06 de Ago. de 2013   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+07 de Ago. de 2013 55ª / 361 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+29 de Ago. de 2013 65ª / 361 Tercer trámite constitucional / C. Diputados Discusión única. Aprobadas las modificaciones Ver
+29 de Ago. de 2013   Tercer trámite constitucional / C. Diputados Oficio N° 10.900, que comunica aprobacion de modificaciones Ver
+29 de Ago. de 2013   Tercer trámite constitucional / C. Diputados Oficio N° 10.899. Remite proyecto para promulgación. Ver
+03 de Sep. de 2013 51ª / 361 Tercer trámite constitucional / C. Diputados Cuenta oficio N° 10.900, que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8817-15","Fecha Etapa Informe Documento
+07 de Jun. de 2013 Segundo trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver
+01 de Abr. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8817-15","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+02 de Jul. de 2013 17 de Jul. de 2013 Suma 159-361 199-361
+04 de Jun. de 2013 21 de Jun. de 2013 Suma 117-361 159-361
+15 de May. de 2013 04 de Jun. de 2013 Suma 98-361 117-361
+30 de Abr. de 2013 15 de May. de 2013 Suma 74-361 98-361
+10 de Abr. de 2013 30 de Abr. de 2013 Suma 56-361 74-361
+20 de Mar. de 2013 10 de Abr. de 2013 Suma 25-361 56-361","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8817-15","Nombre Región Distrito Partido
+Sergio Bobadilla Muñoz VIII Región del Bío Bío N°45 Unión Demócrata Independiente
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Gustavo Hasbún Selume RM Región Metropolitana N°26 Unión Demócrata Independiente
+Issa Farid Kort Garriga VI Región del Libertador Bernardo O' Higgins N°32 Unión Demócrata Independiente
+Juan Carlos Latorre Carmona VI Región del Libertador Bernardo O' Higgins N°35 Partido Demócrata Cristiano
+Manuel Rojas Molina II Región de Antofagasta N°4 Unión Demócrata Independiente
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Partido Regionalista Independiente
+Joaquín Tuma Zedan IX Región de la Araucanía N°51 Partido Por la Democracia
+Pedro Velásquez Seguel IV Región de Coquimbo N°8 Independientes
+Mario Venegas Cárdenas IX Región de la Araucanía N°48 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8817-15","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+65   46 0 0 74 Aprobado Sala Ver detalle votación
+8   92 0 0 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8817-15","No record","Veto emmEnd"

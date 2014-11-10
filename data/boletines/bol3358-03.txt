@@ -1,0 +1,58 @@
+* * Bill summary * *
+"emmStart Summary 3358-03","Legislatura: 349
+Fecha de ingreso: jueves 11 de septiembre de 2003
+Estado: Tramitación terminada (Ley Nº 20.011 - D.Oficial 07/05/2005)
+Numero de boletín: 3358-03
+Materia: Bancos,Cuentas Corrientes
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 01:52:26
+* * Hitos de tramitación * *
+"emmStart Hitos 3358-03","Fecha Sesión Etapa Sub-etapa Documento
+11 de Sep. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+11 de Sep. de 2003 40ª / 349 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+14 de Abr. de 2004   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+14 de Abr. de 2004 74ª / 350 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+15 de Abr. de 2004 75ª / 350 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+15 de Abr. de 2004   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+20 de Abr. de 2004 51ª / 350 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Economía
+14 de Sep. de 2004   Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 352
+16 de Mar. de 2005 37ª / 352 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+23 de Mar. de 2005 39ª / 352 Segundo trámite constitucional / Senado Discusión general Ver
+23 de Mar. de 2005   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+05 de Abr. de 2005 57ª / 352 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver Ver
+05 de Abr. de 2005 57ª / 352 Tercer trámite constitucional / C. Diputados Discusión única Ver
+05 de Abr. de 2005   Tercer trámite constitucional / C. Diputados Oficio Nº 5473, que comunica aprobación de modificaciones Ver
+05 de Abr. de 2005   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo. Oficio Nº 5474 Ver
+06 de Abr. de 2005 42ª / 352 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 5473, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3358-03","Fecha Etapa Informe Documento
+16 de Mar. de 2005 Primer trámite constitucional Senado Primer informe de comisión de Economía Ver
+14 de Abr. de 2004 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3358-03","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+20 de Abr. de 2004   Sin urgencia    
+11 de Sep. de 2003   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3358-03","Nombre Región Distrito Partido
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Francisco Encina Moriamez IV Región de Coquimbo N°8 Partido Socialista
+Carlos Ignacio Kuschel Silva X Región de los Lagos N°57 Renovación Nacional
+Darío Molina Sanhueza IV Región de Coquimbo N°9 Unión Demócrata Independiente
+Sergio Ojeda Uribe X Región de los Lagos N°55 Partido Demócrata Cristiano
+Eduardo Saffirio Suárez IX Región de la Araucanía N°50 Partido Demócrata Cristiano
+Eugenio Tuma Zedan IX Región de la Araucanía N°51 Partido Por la Democracia
+Gonzalo Uriarte Herrera RM Región Metropolitana N°31 Unión Demócrata Independiente
+Ignacio Urrutia Bonilla VII Región del Maule N°40 Unión Demócrata Independiente
+Edmundo Villouta Concha IX Región de la Araucanía N°48 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3358-03","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+57   76 0 0 0 Aprobado Sala Ver detalle votación
+75   55 0 0 1   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3358-03","No record","Veto emmEnd"

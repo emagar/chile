@@ -1,0 +1,51 @@
+* * Bill summary * *
+"emmStart Summary 3776-13","Legislatura: 352
+Fecha de ingreso: miércoles 05 de enero de 2005
+Estado: Archivado .
+Numero de boletín: 3776-13
+Materia: Accidentes De Trabajo
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 11:11:34
+* * Hitos de tramitación * *
+"emmStart Hitos 3776-13","Fecha Sesión Etapa Sub-etapa Documento
+05 de Ene. de 2005   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+05 de Ene. de 2005 35ª / 352 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+05 de Jul. de 2005   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+20 de Jul. de 2005 22ª / 353 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+02 de Ago. de 2005 23ª / 353 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+16 de Ago. de 2005   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+30 de Ago. de 2005 34ª / 353 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+07 de Sep. de 2005 41ª / 353 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver
+07 de Sep. de 2005   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+04 de Oct. de 2005 38ª / 353 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social Ver
+09 de May. de 2006   Segundo trámite constitucional / Senado Oficio Nº28/2006. Solicita archivo Ver
+10 de May. de 2006 15ª / 354 Segundo trámite constitucional / Senado Cuenta de oficio N° T/28/2006 de la Comisión de Trabajo y Previsión Social, con el que propone a la Sala, al tenor de lo dispuesto en el inciso tercero del artículo 36 bis del Reglamento, el archivo de este PL. Se accede a lo solicitado, previo acuerdo de la CCDD.
+10 de May. de 2006   Segundo trámite constitucional / Senado Oficio Nº26894. Senado acuerda archivar proyecto previo acuerdo de la Cámara de Diputados. Ver
+17 de May. de 2006   Archivado / Oficio Nº 6177. Se accede a petición del H. Senado en orden a proceder a su archivo Ver
+17 de May. de 2006   Archivado / Oficio Nº 6177. Sala acuerda acceder a la solicitud de archivo del pryecto Ver
+06 de Jun. de 2006 19ª / 354 Archivado / Cuenta de oficio N° 6177 de la CCDD, con el que comunica que ha accedido a la solicitud de archivo. Se toma conocimiento y se manda archivar el documento junto a sus antecedentes.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3776-13","Fecha Etapa Informe Documento
+16 de Ago. de 2005 Primer trámite constitucional C.Diputados Segundo informe de comisión de Trabajo y Seguridad Social Ver
+05 de Jul. de 2005 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3776-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3776-13","Nombre Región Distrito Partido
+Adriana Muñoz D'Albora IV Región de Coquimbo N°9 Partido Por la Democracia
+Alejandro Navarro Brain VIII Región del Bío Bío N°45 Partido Socialista
+Fulvio Rossi Ciocca I Región de Tarapacá N°2 Independientes
+Eduardo Saffirio Suárez IX Región de la Araucanía N°50 Partido Demócrata Cristiano
+Carolina Tohá Morales RM Región Metropolitana N°22 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3776-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+41 Único. 60 0 0 0 Aprobado Sala Ver detalle votación
+23   90 0 0 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3776-13","No record","Veto emmEnd"

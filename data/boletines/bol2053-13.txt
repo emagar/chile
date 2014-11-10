@@ -1,0 +1,57 @@
+* * Bill summary * *
+"emmStart Summary 2053-13","Legislatura: 335
+Fecha de ingreso: miércoles 09 de julio de 1997
+Estado: Archivado .
+Numero de boletín: 2053-13
+Materia: Seguros,Sistema De Protección Por Cesantía
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 18:08:54
+* * Hitos de tramitación * *
+"emmStart Hitos 2053-13","Fecha Sesión Etapa Sub-etapa Documento
+09 de Jul. de 1997   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+09 de Jul. de 1997 17ª / 335 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+30 de Sep. de 1997 1ª / 336 Primer trámite constitucional / C. Diputados Presidente de la República incluye proyecto en convocatoria a actual Legislatura Extrordinaria Ver
+17 de Mar. de 1998   Primer trámite constitucional / C. Diputados S.E. el Pdte. de la República incluye el proyecto en la Legislatura Extraordinaria 337
+06 de Oct. de 1998   Primer trámite constitucional / C. Diputados S.E.El Presidente de la Republica incluye el proyecto en la Convocatoria Extraodinaria 339
+01 de Jun. de 1999   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+23 de Jun. de 1999   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+24 de Jun. de 1999 13ª / 340 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+24 de Jun. de 1999 13ª / 340 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+06 de Jul. de 1999   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+07 de Jul. de 1999   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+07 de Jul. de 1999   Primer trámite constitucional / C. Diputados S.E.El Presidente de la Republica incluye el proyecto en la Convocatoria Extraodinaria 341
+07 de Jul. de 1999 15ª / 340 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+07 de Jul. de 1999 15ª / 340 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver
+09 de Jul. de 1999   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+13 de Jul. de 1999 13ª / 340 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a las Comisiones de Hacienda y de Trabajo y Previsión Social, unidas
+02 de May. de 2000   Segundo trámite constitucional / Senado Oficio Nº 410-341. de S.E. el Presidente de la República con el cual solicita el archivo del proyecto. Ver
+02 de May. de 2000   Segundo trámite constitucional / Senado Cuenta del Mensaje de S.E. el Presidente de la República. Se accede, previo acuerdo de la Cámara
+02 de May. de 2000   Segundo trámite constitucional / Senado Oficio Nº 15.832. a la Cámara de Diputados solicitando acuerdo para proceder al archivo del proyecto. Ver
+03 de May. de 2000 46ª / 341 Segundo trámite constitucional / Senado Se solicita su archivo Cuenta Oficio del Senado, solicita acuerdo para archivo de proyecto.
+04 de May. de 2000   Segundo trámite constitucional / Senado Debate en Cámara de Diputados. Se accede a archivo solicitado.
+09 de May. de 2000   Segundo trámite constitucional / Senado Archivado Oficio de la Cámara, comunicando que ha accedido al archivo solicitado. Se manda a Archivar.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2053-13","Fecha Etapa Informe Documento
+07 de Jul. de 1999 Primer trámite constitucional C.Diputados Segundo informe de comisión de Hacienda Ver
+06 de Jul. de 1999 Primer trámite constitucional C.Diputados Segundo informe de comisión de Trabajo y Seguridad Social Ver
+23 de Jun. de 1999 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+01 de Jun. de 1999 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2053-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+06 de Jul. de 1999   Simple 16-340  
+06 de Jul. de 1999 24 de Jun. de 1999 Suma 89-340  
+15 de Oct. de 1998 06 de Jul. de 1999 Suma 89-340 63-340
+06 de Ene. de 1998 03 de Mar. de 1998 Simple 190-336 229-336","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2053-13","Nombre Región Distrito Partido
+Ministerio de Trabajo y Previsión Social      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2053-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2053-13","No record","Veto emmEnd"

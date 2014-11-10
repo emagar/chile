@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 311-07","Legislatura: 321
+Fecha de ingreso: martes 19 de marzo de 1991
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 311-07
+Materia: Urgencias Legislativas
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 14:27:05
+* * Hitos de tramitación * *
+"emmStart Hitos 311-07","Fecha Sesión Etapa Sub-etapa Documento
+19 de Mar. de 1991   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+19 de Mar. de 1991 38ª / 321 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+31 de Jul. de 1991 16ª / 329 Primer trámite constitucional / Senado Primer informe de comisión Ver
+07 de Ago. de 1991 24ª / 322 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+08 de Ago. de 1991 25ª / 322 Primer trámite constitucional / Senado Discusión general Ver
+02 de Ago. de 1994 16ª / 329 Tramitación terminada / Cuenta del Nuevo Informe de la Comisión de Constitución con el que propone el archivo del proyecto. La Sala acuerda postergar la resolución, y los antecedentes vuelven a la Comisión. Ver
+13 de Jun. de 1995 12ª / 331 Primer trámite constitucional / Senado Nuevo primer informe de comisión Ver
+05 de Jul. de 1995 12ª / 331 Primer trámite constitucional / Senado Cuenta nuevo primer informe. Queda para Tabla.
+13 de Jul. de 1995 17ª / 331 Primer trámite constitucional / Senado Discusión general Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 311-07","Fecha Etapa Informe Documento
+13 de Jun. de 1995 Primer trámite constitucional Senado Nuevo primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+31 de Jul. de 1991 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 311-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 311-07","Nombre
+Jorge Lavandero Illanes
+Ignacio Pérez Walker
+Sergio Romero Pizarro","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 311-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 311-07","No record","Veto emmEnd"

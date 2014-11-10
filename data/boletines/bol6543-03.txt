@@ -1,0 +1,63 @@
+* * Bill summary * *
+"emmStart Summary 6543-03","Legislatura: 357
+Fecha de ingreso: miércoles 03 de junio de 2009
+Estado: Segundo trámite constitucional .
+Numero de boletín: 6543-03
+Materia: Consumidores,Protección Del Consumidor
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 09:12:04
+* * Hitos de tramitación * *
+"emmStart Hitos 6543-03","Fecha Sesión Etapa Sub-etapa Documento
+20 de Dic. de 2007 121ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+03 de Jun. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Jun. de 2009 35ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+11 de Jun. de 2009 40ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 544-357 que hace presente la urgencia Suma Ver
+30 de Jun. de 2009 45ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 633-357 que retira y hace presente la urgencia Suma Ver
+14 de Jul. de 2009 52ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 732-357 que retira y hace presente la urgencia Suma Ver
+28 de Jul. de 2009 55ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 776-357 que retira y hace presente la urgencia Suma Ver
+28 de Jul. de 2009 55ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 776-357 que retira y hace presente la urgencia Suma Ver
+05 de Ago. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Ago. de 2009 61ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 885-357 que retira y hace presente la urgencia Suma Ver
+11 de Ago. de 2009 61ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Economía. EN TABLA. Ver
+20 de Ago. de 2009 72ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver
+20 de Ago. de 2009   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+01 de Sep. de 2009 44ª / 357 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Economía
+01 de Sep. de 2009 44ª / 357 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Economía
+01 de Sep. de 2009 44ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1011-357 que retira y hace presente la urgencia Simple
+01 de Sep. de 2009 44ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1011-357 que retira y hace presente la urgencia Simple
+08 de Sep. de 2009 46ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1097-357 que retira la urgencia Simple
+03 de Oct. de 2010   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+26 de Oct. de 2010 61ª / 358 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+30 de Nov. de 2010 70ª / 358 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 04/01/2011 Ver
+14 de Dic. de 2010 75ª / 358 Segundo trámite constitucional / Senado Por acuerdo de los Comités, ratificado por la Sala, se fija un plazo común para presentar indicaciones a este proyecto y a los Boletines N°s 6.973-03 y 7.047-03, hasta las 13 horas del lunes 10 de enero de 2011.
+11 de Ene. de 2011 85ª / 358 Segundo trámite constitucional / Senado Por acuerdo de los Comités, ratificado por la Sala, se abre un nuevo plazo para presentar indicaciones, hasta las 13 horas del lunes 7 de marzo de 2011.
+11 de Ene. de 2011   Segundo trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 07/03/2011 a las 13:00 en Secretaría.
+07 de Mar. de 2011   Segundo trámite constitucional / Senado Boletín de indicaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6543-03","Fecha Etapa Informe Documento
+03 de Oct. de 2010 Segundo trámite constitucional Senado Primer informe de comisión de Economía Ver
+05 de Ago. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6543-03","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+01 de Sep. de 2009 08 de Sep. de 2009 Simple 1011-357 1097-357
+11 de Ago. de 2009 01 de Sep. de 2009 Suma 885-357 1011-357
+28 de Jul. de 2009   Suma 776-357  
+14 de Jul. de 2009 28 de Jul. de 2009 Suma 732-357 776-357
+30 de Jun. de 2009 14 de Jul. de 2009 Suma 633-357 732-357
+11 de Jun. de 2009 30 de Jun. de 2009 Suma 544-357 633-357
+20 de Dic. de 2007 11 de Ago. de 2009 Suma 246-357 885-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6543-03","Nombre Región Distrito Partido
+Ministerio de Economía, Fomento y Turism      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6543-03","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+72 Aprobado en general y en particular, con excepción del artículo 2° 67 0 0 53 Aprobado Sala Ver detalle votación
+112 Votación General 6 0 0 6   Economía Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6543-03","No record","Veto emmEnd"

@@ -1,0 +1,33 @@
+* * Bill summary * *
+"emmStart Summary 5425-15","Legislatura: 355
+Fecha de ingreso: martes 30 de octubre de 2007
+Estado: Primer trámite constitucional .
+Numero de boletín: 5425-15
+Materia: Tránsito
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 04:30:05
+* * Hitos de tramitación * *
+"emmStart Hitos 5425-15","Fecha Sesión Etapa Sub-etapa Documento
+30 de Oct. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+30 de Oct. de 2007 93ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5425-15","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5425-15","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5425-15","Nombre Región Distrito Partido
+Alfonso De Urresti Longton XIV Región de los Ríos N°53 Partido Socialista
+Marcelo Díaz Díaz IV Región de Coquimbo N°7 Partido Socialista
+Eduardo Díaz Del Río IX Región de la Araucanía N°51 Partido Regionalista Independiente
+Marco Enríquez-Ominami Gumucio V Región de Valparaíso N°10 Independientes
+Clemira Pacheco Rivas VIII Región del Bío Bío N°45 Partido Socialista","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5425-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5425-15","No record","Veto emmEnd"

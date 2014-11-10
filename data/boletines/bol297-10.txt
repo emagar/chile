@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 297-10","Legislatura: 321
+Fecha de ingreso: martes 05 de marzo de 1991
+Estado: Tramitación terminada (D.S. Nº 830 - D.Oficial 15/10/1992)
+Numero de boletín: 297-10
+Materia: Acuerdos Internacionales
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 14:13:20
+* * Hitos de tramitación * *
+"emmStart Hitos 297-10","Fecha Sesión Etapa Sub-etapa Documento
+05 de Mar. de 1991   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+12 de Mar. de 1991 37ª / 321 Primer trámite constitucional / Senado Cuenta de proyecto
+19 de Mar. de 1991 38ª / 321 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+19 de Mar. de 1991 38ª / 321 Primer trámite constitucional / Senado Primer informe de comisión Ver
+20 de Mar. de 1991 39ª / 321 Primer trámite constitucional / Senado Discusión general Ver
+21 de Mar. de 1991 39ª / 321 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+03 de Abr. de 1991 41ª / 321 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+16 de Jun. de 1992   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen
+16 de Jun. de 1992 9ª / 324 Segundo trámite constitucional / C. Diputados Discusión general Ver
+16 de Jun. de 1992 9ª / 324 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+30 de Jun. de 1992 6ª / 324 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+26 de Jul. de 2000   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+26 de Jul. de 2000   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Ago. de 2000   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 297-10","Fecha Etapa Informe Documento
+26 de Jul. de 2000 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+19 de May. de 1992 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+19 de Mar. de 1991 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 297-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 297-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 297-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 297-10","No record","Veto emmEnd"

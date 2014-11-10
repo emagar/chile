@@ -1,0 +1,65 @@
+* * Bill summary * *
+"emmStart Summary 8369-04","Legislatura: 360
+Fecha de ingreso: miércoles 13 de junio de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8369-04
+Materia: Sistema De Financiamiento Para La Educación Superior
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 10-11-2014 00:40:25
+* * Hitos de tramitación * *
+"emmStart Hitos 8369-04","Fecha Sesión Etapa Sub-etapa Documento
+13 de Jun. de 2012   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+13 de Jun. de 2012 26ª / 360 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología y a Comisión de Hacienda
+19 de Jun. de 2012 27ª / 360 Primer trámite constitucional / Senado Cuenta del Mensaje 160-360 que hace presente la urgencia Simple
+18 de Jul. de 2012 36ª / 360 Primer trámite constitucional / Senado Cuenta del Mensaje 205-360 que retira y hace presente la urgencia Simple
+14 de Ago. de 2012 41ª / 360 Primer trámite constitucional / Senado Cuenta del Mensaje 255-360 que retira y hace presente la urgencia Simple
+12 de Sep. de 2012 50ª / 360 Primer trámite constitucional / Senado Cuenta del Mensaje 292-360 que retira y hace presente la urgencia Simple
+10 de Oct. de 2012 54ª / 360 Primer trámite constitucional / Senado Cuenta del Mensaje 313-360 que retira y hace presente la urgencia Simple
+07 de Nov. de 2012 60ª / 360 Primer trámite constitucional / Senado Cuenta del Mensaje 348-360 que retira y hace presente la urgencia Simple
+11 de Dic. de 2012 82ª / 360 Primer trámite constitucional / Senado Cuenta del Mensaje 390-360 que retira y hace presente la urgencia Simple
+08 de Ene. de 2013 92ª / 360 Primer trámite constitucional / Senado Cuenta del Mensaje 435-360 que retira y hace presente la urgencia Simple
+15 de Ene. de 2013   Primer trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+05 de Mar. de 2013 100ª / 360 Primer trámite constitucional / Senado Cuenta del Mensaje 462-360 que retira la urgencia Simple
+05 de Mar. de 2013 100ª / 360 Primer trámite constitucional / Senado Cuenta del Mensaje 467-360 que hace presente la urgencia Suma
+02 de Abr. de 2013 7ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 38-361 que retira y hace presente la urgencia Suma
+17 de Abr. de 2013 17ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 64-361 que retira y hace presente la urgencia Suma
+18 de Jun. de 2013 32ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 146-361 que retira y hace presente la urgencia Suma
+30 de Jul. de 2013 42ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 203-361 que retira y hace presente la urgencia Suma
+14 de Ago. de 2013 48ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 228-361 que retira y hace presente la urgencia Suma
+28 de Ago. de 2013 50ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 245-361 que retira y hace presente la urgencia Suma
+11 de Sep. de 2013 56ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 266-361 que retira y hace presente la urgencia Suma","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8369-04","Fecha Etapa Informe Documento
+15 de Ene. de 2013 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8369-04","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+11 de Sep. de 2013   Suma 266-361  
+28 de Ago. de 2013 11 de Sep. de 2013 Suma 245-361 266-361
+14 de Ago. de 2013 28 de Ago. de 2013 Suma 228-361 245-361
+30 de Jul. de 2013 14 de Ago. de 2013 Suma 203-361 228-361
+18 de Jun. de 2013 30 de Jul. de 2013 Suma 146-361 203-361
+17 de Abr. de 2013 18 de Jun. de 2013 Suma 64-361 146-361
+02 de Abr. de 2013 17 de Abr. de 2013 Suma 38-361 64-361
+05 de Mar. de 2013 02 de Abr. de 2013 Suma 467-360 38-361
+08 de Ene. de 2013 24 de Ene. de 2013 Simple 435-360 462-360
+11 de Dic. de 2012 08 de Ene. de 2013 Simple 390-360 435-360
+07 de Nov. de 2012 11 de Dic. de 2012 Simple 348-360 390-360
+10 de Oct. de 2012 07 de Nov. de 2012 Simple 313-360 348-360
+12 de Sep. de 2012 10 de Oct. de 2012 Simple 292-360 313-360
+14 de Ago. de 2012 12 de Sep. de 2012 Simple 255-360 292-360
+18 de Jul. de 2012 14 de Ago. de 2012 Simple 205-360 255-360
+19 de Jun. de 2012 18 de Jul. de 2012 Simple 160-360 205-360","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8369-04","Nombre
+Ministerio de Educación
+Ministerio de Hacienda","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8369-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8369-04","No record","Veto emmEnd"

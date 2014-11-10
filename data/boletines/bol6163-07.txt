@@ -1,0 +1,48 @@
+* * Bill summary * *
+"emmStart Summary 6163-07","Legislatura: 356
+Fecha de ingreso: jueves 16 de octubre de 2008
+Estado: Segundo trámite constitucional .
+Numero de boletín: 6163-07
+Materia: Ministros De Tribunal Constitucional,Tribunal Constitucional
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 03:36:20
+* * Hitos de tramitación * *
+"emmStart Hitos 6163-07","Fecha Sesión Etapa Sub-etapa Documento
+16 de Oct. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+16 de Oct. de 2008 91ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+03 de Nov. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+04 de Nov. de 2009 98ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de Abr. de 2010 13ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+11 de Ago. de 2010   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+18 de Ago. de 2010 65ª / 358 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+08 de Sep. de 2010 72ª / 358 Primer trámite constitucional / C. Diputados Discusión particular Ver
+08 de Sep. de 2010   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+14 de Sep. de 2010 52ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6163-07","Fecha Etapa Informe Documento
+11 de Ago. de 2010 Primer trámite constitucional C.Diputados Segundo informe de comisión de Constitución, Legislación y Justicia Ver
+03 de Nov. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6163-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6163-07","Nombre Región Distrito Partido
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Marcelo Díaz Díaz IV Región de Coquimbo N°7 Partido Socialista
+Marco Enríquez-Ominami Gumucio V Región de Valparaíso N°10 Independientes
+Renán Fuentealba Vildósola IV Región de Coquimbo N°9 Partido Demócrata Cristiano
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+José Miguel Ortiz Novoa VIII Región del Bío Bío N°44 Partido Demócrata Cristiano
+Mario Venegas Cárdenas IX Región de la Araucanía N°48 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6163-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+13   98 0 0 0 Aprobado Sala Ver detalle votación
+72 texto del proyecto propuesto por la Comisión. 98 0 0 22 Aprobado Sala Ver detalle votación
+251 Votación General 7 0 0 6   Constitución Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6163-07","No record","Veto emmEnd"

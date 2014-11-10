@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 8401-15","Legislatura: 360
+Fecha de ingreso: martes 03 de julio de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8401-15
+Materia: Seguro Obligatorio De Accidentes Personales
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 01:03:55
+* * Hitos de tramitación * *
+"emmStart Hitos 8401-15","Fecha Sesión Etapa Sub-etapa Documento
+03 de Jul. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Jul. de 2012 48ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8401-15","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8401-15","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8401-15","Nombre Región Distrito Partido
+Alfonso De Urresti Longton XIV Región de los Ríos N°53 Partido Socialista
+Marcos Espinosa Monardes II Región de Antofagasta N°3 Partido Radical Social Demócrata
+Tucapel Jiménez Fuentes RM Región Metropolitana N°27 Partido Por la Democracia
+Miodrag Marinovic Solo de Zaldívar XII Región de Magallanes y de la Antártica Chilena N°60 Independientes
+Sergio Ojeda Uribe X Región de los Lagos N°55 Partido Demócrata Cristiano
+José Pérez Arriagada VIII Región del Bío Bío N°47 Partido Radical Social Demócrata
+Jorge Sabag Villalobos VIII Región del Bío Bío N°42 Partido Demócrata Cristiano
+Guillermo Teillier Del Valle RM Región Metropolitana N°28 Partido Comunista
+Víctor Torres Jeldes V Región de Valparaíso N°15 Partido Demócrata Cristiano
+Ximena Vidal Lázaro RM Región Metropolitana N°25 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8401-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8401-15","No record","Veto emmEnd"

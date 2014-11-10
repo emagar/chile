@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 6089-24","Legislatura: 356
+Fecha de ingreso: miércoles 10 de septiembre de 2008
+Estado: Archivado .
+Numero de boletín: 6089-24
+Materia: Música Chilena
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 02:43:18
+* * Hitos de tramitación * *
+"emmStart Hitos 6089-24","Fecha Sesión Etapa Sub-etapa Documento
+10 de Sep. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Sep. de 2008 78ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de la Cultura y las Artes Ver
+15 de Abr. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de May. de 2009 23ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Abr. de 2010   Primer trámite constitucional / C. Diputados Archivado Solicitado por Comités Parlamentarios","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6089-24","Fecha Etapa Informe Documento
+15 de Abr. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de la Cultura y las Artes Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6089-24","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6089-24","Nombre Región Distrito Partido
+Pedro Araya Guerrero II Región de Antofagasta N°4 Independientes
+Alfonso De Urresti Longton XIV Región de los Ríos N°53 Partido Socialista
+Marco Enríquez-Ominami Gumucio V Región de Valparaíso N°10 Independientes
+Alvaro Escobar Rufatt RM Región Metropolitana N°20 Independientes
+Marcelo Forni Lobos V Región de Valparaíso N°11 Unión Demócrata Independiente
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Tucapel Jiménez Fuentes RM Región Metropolitana N°27 Partido Por la Democracia
+Esteban Valenzuela Van Treek VI Región del Libertador Bernardo O' Higgins N°32 Independientes","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6089-24","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+24 Votación General 0 5 0 8   Cultura Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6089-24","No record","Veto emmEnd"

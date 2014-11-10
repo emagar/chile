@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 8780-12","Legislatura: 360
+Fecha de ingreso: jueves 10 de enero de 2013
+Estado: Segundo trámite constitucional .
+Numero de boletín: 8780-12
+Materia: Análisis Del Impacto Ambiental,Medio Ambiente,Declaración De Impacto Ambiental
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 05:38:56
+* * Hitos de tramitación * *
+"emmStart Hitos 8780-12","Fecha Sesión Etapa Sub-etapa Documento
+10 de Ene. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Ene. de 2013 124ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver
+15 de May. de 2013   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+04 de Jun. de 2013 32ª / 361 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+20 de Jun. de 2013 41ª / 361 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general y particular a la vez Ver
+20 de Jun. de 2013   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+02 de Jul. de 2013 36ª / 361 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Medio Ambiente y Bienes Nacionales","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8780-12","Fecha Etapa Informe Documento
+15 de May. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8780-12","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8780-12","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Alfonso De Urresti Longton XIV Región de los Ríos N°53 Partido Socialista
+Edmundo Eluchans Urenda V Región de Valparaíso N°14 Unión Demócrata Independiente
+Javier Hernández Hernández X Región de los Lagos N°55 Unión Demócrata Independiente
+Andrea Molina Oliva V Región de Valparaíso N°10 Unión Demócrata Independiente
+Leopoldo Pérez Lahsen RM Región Metropolitana N°29 Renovación Nacional
+Marisol Turres Figueroa X Región de los Lagos N°57 Unión Demócrata Independiente
+Patricio Vallespín López X Región de los Lagos N°57 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8780-12","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+41   55 0 0 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8780-12","No record","Veto emmEnd"

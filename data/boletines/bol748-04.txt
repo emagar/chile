@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 748-04","Legislatura: 324
+Fecha de ingreso: jueves 16 de julio de 1992
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 748-04
+Materia: Educacion
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 22:25:58
+* * Hitos de tramitación * *
+"emmStart Hitos 748-04","Fecha Sesión Etapa Sub-etapa Documento
+16 de Jul. de 1992   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+16 de Jul. de 1992 11ª / 324 Primer trámite constitucional / Senado Cuenta de proyecto
+18 de May. de 1994 1ª / 329 Primer trámite constitucional / Senado Primer informe de comisión Ver
+31 de May. de 1994 1ª / 329 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+09 de Jun. de 1994 4ª / 329 Tramitación terminada / Discusión general pendiente. Ver
+14 de Jun. de 1994 5ª / 329 Primer trámite constitucional / Senado Discusión general. La Sala acuerda volverlo a Comisión para un nuevo informe. Ver
+10 de Ago. de 1994 23ª / 329 Primer trámite constitucional / Senado Nuevo primer informe de comisión Ver
+16 de Ago. de 1994 23ª / 329 Primer trámite constitucional / Senado Cuenta nuevo primer informe
+14 de Sep. de 1994 35ª / 329 Primer trámite constitucional / Senado Discusión general Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 748-04","Fecha Etapa Informe Documento
+10 de Ago. de 1994 Primer trámite constitucional Senado Nuevo primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+18 de May. de 1994 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 748-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 748-04","Nombre
+Eugenio Cantuarias Larrondo
+Sergio Díez Urzua
+Sergio Jarpa Reyes
+Enrique Larre Asenjo
+William Thayer Arteaga","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 748-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 748-04","No record","Veto emmEnd"

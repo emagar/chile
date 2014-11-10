@@ -1,0 +1,54 @@
+* * Bill summary * *
+"emmStart Summary 825-03","Legislatura: 325
+Fecha de ingreso: martes 20 de octubre de 1992
+Estado: Tramitación terminada (Ley Nº 19.245 - D.Oficial 04/09/1993)
+Numero de boletín: 825-03
+Materia: Proyectos Industriales,Jurel,Acuicultura,Desarrollo Del Jurel
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 23:27:32
+* * Hitos de tramitación * *
+"emmStart Hitos 825-03","Fecha Sesión Etapa Sub-etapa Documento
+20 de Oct. de 1992   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+20 de Oct. de 1992 5ª / 325 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Intereses Marítimos, Pesca y Acuicultura
+25 de Nov. de 1992 14ª / 325 Primer trámite constitucional / Senado Primer informe de comisión Ver
+26 de Nov. de 1992 14ª / 325 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+26 de Nov. de 1992 14ª / 325 Primer trámite constitucional / Senado Discusión general. Se acuerda volver el proyecto a Comisión para un nuevo informe. Ver
+19 de Ene. de 1993 27ª / 325 Primer trámite constitucional / Senado Nuevo primer informe de comisión Ver
+20 de Ene. de 1993 27ª / 325 Primer trámite constitucional / Senado Cuenta nuevo primer informe
+21 de Ene. de 1993 28ª / 325 Primer trámite constitucional / Senado Discusión general. Se aplaza la discusión. Ver
+24 de Mar. de 1993 36ª / 325 Tramitación terminada / Se acuerda enviarlo a Comisión para un informe complementario. Ver
+12 de Abr. de 1993 41ª / 325 Primer trámite constitucional / Senado Primer informe complementario Ver
+13 de Abr. de 1993 41ª / 325 Primer trámite constitucional / Senado Cuenta primer informe complementario
+11 de May. de 1993 50ª / 325 Tramitación terminada / Discusión general. Aprobado en general, se fija plazo para indicaciones hasta el 18 de mayo. Ver
+18 de May. de 1993   Primer trámite constitucional / Senado Boletín de indicaciones
+18 de May. de 1993   Primer trámite constitucional / Senado Boletín de indicaciones
+24 de May. de 1993 2ª / 326 Primer trámite constitucional / Senado Segundo informe de comisión Ver
+02 de Jun. de 1993 2ª / 326 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+08 de Jun. de 1993 3ª / 326 Primer trámite constitucional / Senado Discusión particular. Aprobado en particular. Ver
+09 de Jun. de 1993 3ª / 326 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+09 de Jun. de 1993   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+04 de Ago. de 1993   Primer trámite constitucional / Senado Primer informe de comisión Ver
+17 de Ago. de 1993 18ª / 326 Tercer trámite constitucional / Senado Discusión única. Se aprueban las modificaciones de la Cámara de Diputados.
+17 de Ago. de 1993 18ª / 344 Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo Ver
+17 de Ago. de 1993 18ª / 326 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 825-03","Fecha Etapa Informe Documento
+04 de Ago. de 1993 Primer trámite constitucional C.Diputados Primer informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+24 de May. de 1993 Primer trámite constitucional Senado Segundo informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver
+12 de Abr. de 1993 Primer trámite constitucional Senado Primer informe complementario de Intereses Marítimos, Pesca y Acuicultura Ver
+19 de Ene. de 1993 Primer trámite constitucional Senado Nuevo primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver
+25 de Nov. de 1992 Primer trámite constitucional Senado Primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 825-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 825-03","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 825-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 825-03","No record","Veto emmEnd"

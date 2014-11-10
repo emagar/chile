@@ -1,0 +1,54 @@
+* * Bill summary * *
+"emmStart Summary 5764-13","Legislatura: 356
+Fecha de ingreso: miércoles 12 de marzo de 2008
+Estado: Tramitación terminada (Ley Nº 20.287 - D.Oficial 17/09/2008)
+Numero de boletín: 5764-13
+Materia: Procedimiento Laboral
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 22:59:10
+* * Hitos de tramitación * *
+"emmStart Hitos 5764-13","Fecha Sesión Etapa Sub-etapa Documento
+12 de Mar. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Mar. de 2008 2ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+01 de Abr. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de Abr. de 2008 15ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+11 de Jun. de 2008 38ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+11 de Jun. de 2008   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+17 de Jun. de 2008 27ª / 356 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social Ver
+11 de Ago. de 2008   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+12 de Ago. de 2008 43ª / 356 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+13 de Ago. de 2008 44ª / 356 Segundo trámite constitucional / Senado Discusión general Ver
+13 de Ago. de 2008   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+14 de Ago. de 2008 64ª / 356 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver Ver
+19 de Ago. de 2008 65ª / 356 Tercer trámite constitucional / C. Diputados Discusión única Ver
+19 de Ago. de 2008   Tercer trámite constitucional / C. Diputados Oficio Nº 7643, que comunica aprobación de modificaciones Ver
+19 de Ago. de 2008   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+20 de Ago. de 2008 46ª / 356 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 7643, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5764-13","Fecha Etapa Informe Documento
+11 de Ago. de 2008 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver
+01 de Abr. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5764-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5764-13","Nombre Región Distrito Partido
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Alberto Cardemil Herrera RM Región Metropolitana N°22 Independientes
+Edmundo Eluchans Urenda V Región de Valparaíso N°15 Unión Demócrata Independiente
+Pablo Galilea Carrillo XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Renovación Nacional
+Cristián Monckeberg Bruner RM Región Metropolitana N°23 Renovación Nacional
+Nicolás Monckeberg Díaz VIII Región del Bío Bío N°42 Renovación Nacional
+Roberto Sepúlveda Hermosilla RM Región Metropolitana N°20 Renovación Nacional
+Marisol Turres Figueroa X Región de los Lagos N°57 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5764-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+65 Modificación propuesta por el Senado. 95 0 0 25 Aprobado Sala Ver detalle votación
+38   89 0 0 31 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5764-13","No record","Veto emmEnd"

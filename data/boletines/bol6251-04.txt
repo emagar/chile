@@ -1,0 +1,56 @@
+* * Bill summary * *
+"emmStart Summary 6251-04","Legislatura: 356
+Fecha de ingreso: miércoles 10 de diciembre de 2008
+Estado: Primer trámite constitucional .
+Numero de boletín: 6251-04
+Materia: Educación Pública
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 04:36:53
+* * Hitos de tramitación * *
+"emmStart Hitos 6251-04","Fecha Sesión Etapa Sub-etapa Documento
+10 de Dic. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Dic. de 2008 114ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Deportes y Recreación Ver
+07 de Ene. de 2009 120ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1282-356 que hace presente la urgencia Simple Ver
+03 de Mar. de 2009 131ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1433-356 que retira la urgencia Simple Ver
+03 de Mar. de 2009 131ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1446-356 que hace presente la urgencia Simple Ver
+07 de Abr. de 2009 9ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 120-357 que retira y hace presente la urgencia Simple Ver
+12 de May. de 2009 28ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 320-357 que retira y hace presente la urgencia Simple Ver
+16 de Jun. de 2009 41ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 559-357 que retira y hace presente la urgencia Simple Ver
+16 de Jun. de 2009 42ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 604-357 que retira y hace presente la urgencia Suma Ver
+30 de Jun. de 2009 45ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 631-357 que retira y hace presente la urgencia Suma Ver
+14 de Jul. de 2009 52ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 730-357 que retira y hace presente la urgencia Suma Ver
+28 de Jul. de 2009 55ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 774-357 que retira y hace presente la urgencia Suma Ver
+11 de Ago. de 2009 61ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 890-357 que retira y hace presente la urgencia Suma Ver
+18 de Ago. de 2009 67ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 956-357 que retira y hace presente la urgencia Simple Ver
+29 de Sep. de 2009 82ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1197-357 que retira y hace presente la urgencia Simple Ver
+27 de Oct. de 2009 92ª / 357 Primer trámite constitucional / C. Diputados Pasa a Comisión Cuenta del Mensaje 1351-357 que retira la urgencia Simple Ver
+06 de Ene. de 2010 115ª / 357 Primer trámite constitucional / C. Diputados Presidenta dela República retira de tramitación el proyecto ante el Congreso Nacional. (1726-357). Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6251-04","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6251-04","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+29 de Sep. de 2009 27 de Oct. de 2009 Simple 1197-357 1351-357
+18 de Ago. de 2009 28 de Sep. de 2009 Simple 956-357 1197-357
+11 de Ago. de 2009 18 de Ago. de 2009 Suma 890-357 956-357
+28 de Jul. de 2009 11 de Ago. de 2009 Suma 774-357 890-357
+14 de Jul. de 2009 28 de Jul. de 2009 Suma 730-357 774-357
+30 de Jun. de 2009 14 de Jul. de 2009 Suma 631-357 730-357
+16 de Jun. de 2009 30 de Jun. de 2009 Suma 604-357 631-357
+16 de Jun. de 2009 16 de Jun. de 2009 Simple 559-357 604-357
+12 de May. de 2009 16 de Jun. de 2009 Simple 320-357 559-357
+07 de Abr. de 2009 12 de May. de 2009 Simple 120-357 320-357
+03 de Mar. de 2009 07 de Abr. de 2009 Simple 1446-356 120-357
+07 de Ene. de 2009 03 de Mar. de 2009 Simple 1282-356 1433-356","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6251-04","Nombre Región Distrito Partido
+Ministerio de Educación      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6251-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6251-04","No record","Veto emmEnd"

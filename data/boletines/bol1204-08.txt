@@ -1,0 +1,63 @@
+* * Bill summary * *
+"emmStart Summary 1204-08","Legislatura: 329
+Fecha de ingreso: sábado 21 de mayo de 1994
+Estado: Archivado .
+Numero de boletín: 1204-08
+Materia: Codelco-Chile
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 04:25:33
+* * Hitos de tramitación * *
+"emmStart Hitos 1204-08","Fecha Sesión Etapa Sub-etapa Documento
+21 de May. de 1994   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+21 de May. de 1994 1ª / 329 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Minería y Energía Ver
+05 de Sep. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+05 de Dic. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Dic. de 1995 31ª / 332 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+05 de Dic. de 1995 31ª / 332 Primer trámite constitucional / C. Diputados Pendiente discusión. Ver
+06 de Dic. de 1995 32ª / 332 Primer trámite constitucional / C. Diputados Discusión general Ver
+23 de Ene. de 1996   Primer trámite constitucional / C. Diputados Segundo informe de comisión. Pasa a Comisión de Hacienda Ver
+05 de Mar. de 1996   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+05 de Mar. de 1996 49ª / 332 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+06 de Mar. de 1996 50ª / 332 Primer trámite constitucional / C. Diputados Pendiente discusión. Ver
+07 de Mar. de 1996 51ª / 332 Primer trámite constitucional / C. Diputados Discusión particular Ver
+07 de Mar. de 1996   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+13 de Mar. de 1996 40ª / 332 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Minería y a la de Hacienda, en su caso.
+10 de Sep. de 1996 3ª / 334 Segundo trámite constitucional / Senado Primer informe de comisión Ver
+01 de Oct. de 1996   Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 334
+03 de Oct. de 1996 3ª / 334 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión. Queda para tabla.
+05 de Nov. de 1996 7ª / 334 Segundo trámite constitucional / Senado Por acuerdo de Comités, ratificado por la Sala, se envía a la Comisión de Hacienda.
+05 de Jun. de 2000   Segundo trámite constitucional / Senado Oficio Nº 48-342. de S.E., el Presidente de la República, con el cual solicita el archivo del presente proyecto. Ver
+06 de Jun. de 2000   Segundo trámite constitucional / Senado Cuenta de Mensaje de S.E. el Presidente de la República solicitando archivo del proyecto. Se accede, previo acuerdo de la Cámara de Diputados.
+07 de Jun. de 2000   Segundo trámite constitucional / Senado Oficio Nº 16.013, a la Cámara de Diputados solicitando acuerdo de ésta, para archivar el proyecto. Ver
+22 de Jun. de 2000 8ª / 342 Segundo trámite constitucional / Senado Cuenta en Cámara de Diputados a oficio del Senado, en que pide acuerdo para archivo solicitado por Pdte Rep.
+06 de Jul. de 2000   Segundo trámite constitucional / Senado Oficio al Senado, comunica rechazo a archivo solicitado. Ver
+12 de Jul. de 2000 10ª / 342 Segundo trámite constitucional / Senado Rechazada solicitud de archivo Oficio 2928 de la Cámara de Diputados, rechazando la solicitud de archivo.
+13 de Mar. de 2002   Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 346
+19 de Jun. de 2002 9ª / 347 Segundo trámite constitucional / Senado Se solicita su archivo Cuenta oficio Comisión de Hacienda, propone archivo proyecto, de conformidad a lo dispuesto en el inc. tercero, art. 36 bis Rgto, previo acuerdo Cámara
+19 de Jun. de 2002   Segundo trámite constitucional / Senado Oficio Nº 20.097. Oficio del Senado, comunica envío al archivo de proyecto Ver
+20 de Jun. de 2002 10ª / 347 Segundo trámite constitucional / Senado Cuenta Oficio del Senado, comunica envío al archivo de proyecto
+20 de Jun. de 2002   Segundo trámite constitucional / Senado Oficio al Senado, comunica que accede a archivo solicitado Ver
+02 de Jul. de 2002 10ª / 347 Segundo trámite constitucional / Senado Archivado Cuenta oficio de la Cámara de Diputados, comunica que accedió al archivo solicitado. Se manda archivar esta iniciativa.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1204-08","Fecha Etapa Informe Documento
+10 de Sep. de 1996 Segundo trámite constitucional Senado Primer informe de comisión de Minería y Energía Ver
+05 de Mar. de 1996 Primer trámite constitucional C.Diputados Segundo informe de comisión de Hacienda Ver
+23 de Ene. de 1996 Primer trámite constitucional C.Diputados Segundo informe de comisión de Minería y Energía Ver
+05 de Dic. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+05 de Sep. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Minería y Energía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1204-08","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+21 de May. de 1994   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1204-08","Nombre Región Distrito Partido
+Ministerio de Minería      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1204-08","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1204-08","No record","Veto emmEnd"

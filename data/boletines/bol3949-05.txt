@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 3949-05","Legislatura: 353
+Fecha de ingreso: miércoles 10 de agosto de 2005
+Estado: Archivado .
+Numero de boletín: 3949-05
+Materia: Consejo Superior De Empresas Públicas,Empresas
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 05-11-2014 07:09:13
+* * Hitos de tramitación * *
+"emmStart Hitos 3949-05","Fecha Sesión Etapa Sub-etapa Documento
+10 de Ago. de 2005   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+10 de Ago. de 2005 24ª / 353 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+16 de Ago. de 2005 26ª / 353 Primer trámite constitucional / Senado Cuenta de comunicación de los miembros de la Comisión de Hacienda, mediante la cual solicitan a la Sala que autorice a esa Comisión para discutir el PL en general y en particular, con motivo de su primer informe. La Sala acuerda acceder a lo solicitado.
+30 de Nov. de 2005   Primer trámite constitucional / Senado Primer informe de comisión Ver
+14 de Dic. de 2005 49ª / 353 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+04 de Ene. de 2006 56ª / 353 Primer trámite constitucional / Senado Queda para segunda discusión. Ver
+07 de Mar. de 2006 60ª / 353 Primer trámite constitucional / Senado Discusión general Ver
+07 de Mar. de 2006   Tramitación terminada / Archivado Por rechazo en general del proyecto de ley.
+08 de Mar. de 2006   Primer trámite constitucional / Senado Oficio rechazo al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3949-05","Fecha Etapa Informe Documento
+30 de Nov. de 2005 Primer trámite constitucional Senado Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3949-05","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3949-05","Nombre
+Ministerio de Hacienda","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3949-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3949-05","No record","Veto emmEnd"

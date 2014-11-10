@@ -1,0 +1,34 @@
+* * Bill summary * *
+"emmStart Summary 4303-14","Legislatura: 354
+Fecha de ingreso: miércoles 05 de julio de 2006
+Estado: Primer trámite constitucional .
+Numero de boletín: 4303-14
+Materia: Extracción De Áridos,Pozos Lastreros
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 00:04:01
+* * Hitos de tramitación * *
+"emmStart Hitos 4303-14","Fecha Sesión Etapa Sub-etapa Documento
+05 de Jul. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+05 de Jul. de 2006 45ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Vivienda y Desarrollo Urbano Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4303-14","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4303-14","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4303-14","Nombre Región Distrito Partido
+Isabel Allende Bussi RM Región Metropolitana N°29 Partido Socialista
+Gonzalo Duarte Leiva RM Región Metropolitana N°26 Partido Demócrata Cristiano
+Francisco Encina Moriamez IV Región de Coquimbo N°8 Partido Socialista
+Ramón Farías Ponce RM Región Metropolitana N°30 Partido Por la Democracia
+José Antonio Kast Rist RM Región Metropolitana N°30 Unión Demócrata Independiente
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4303-14","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4303-14","No record","Veto emmEnd"

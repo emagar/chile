@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 8217-05","Legislatura: 360
+Fecha de ingreso: jueves 22 de marzo de 2012
+Estado: Tramitación terminada (Ley Nº 20.598 - D.Oficial 05/07/2012)
+Numero de boletín: 8217-05
+Materia: Banco Central De Chile,Fondo Monetario Internacional
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 22:52:13
+* * Hitos de tramitación * *
+"emmStart Hitos 8217-05","Fecha Sesión Etapa Sub-etapa Documento
+22 de Mar. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+22 de Mar. de 2012 7ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+13 de Abr. de 2012   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Abr. de 2012 16ª / 360 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+18 de Abr. de 2012 18ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 69-360 que hace presente la urgencia Suma Ver
+18 de Abr. de 2012 18ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+18 de Abr. de 2012   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+08 de May. de 2012 15ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 76-360 que retira y hace presente la urgencia Suma
+09 de May. de 2012   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+15 de May. de 2012 17ª / 360 Segundo trámite constitucional / Senado Discusión general Ver
+15 de May. de 2012   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+16 de May. de 2012 29ª / 360 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+16 de May. de 2012   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8217-05","Fecha Etapa Informe Documento
+09 de May. de 2012 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+13 de Abr. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8217-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+08 de May. de 2012   Suma 76-360  
+18 de Abr. de 2012 03 de May. de 2012 Suma 69-360 76-360","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8217-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8217-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+18   87 14 4 15 Aprobado Sala Ver detalle votación
+169 Votación General 9 0 1 3   Hacienda Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8217-05","No record","Veto emmEnd"

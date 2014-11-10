@@ -1,0 +1,34 @@
+* * Bill summary * *
+"emmStart Summary 3227-15","Legislatura: 348
+Fecha de ingreso: miércoles 30 de abril de 2003
+Estado: Primer trámite constitucional .
+Numero de boletín: 3227-15
+Materia: Sistemas Telefónicos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 00:34:51
+* * Hitos de tramitación * *
+"emmStart Hitos 3227-15","Fecha Sesión Etapa Sub-etapa Documento
+30 de Abr. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+30 de Abr. de 2003 71ª / 348 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3227-15","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3227-15","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3227-15","Nombre Región Distrito Partido
+Francisco Bayo Veloso IX Región de la Araucanía N°48 Renovación Nacional
+Mario Bertolino Rendic IV Región de Coquimbo N°7 Renovación Nacional
+Roberto Delmastro Naso X Región de los Lagos N°53 Independientes
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Carlos Hidalgo González V Región de Valparaíso N°15 Independientes
+Alfonso Vargas Lyng V Región de Valparaíso N°10 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3227-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3227-15","No record","Veto emmEnd"

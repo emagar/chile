@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 211-05","Legislatura: 321
+Fecha de ingreso: jueves 29 de noviembre de 1990
+Estado: Tramitación terminada (Ley Nº 19.128 - D.Oficial 07/02/1992)
+Numero de boletín: 211-05
+Materia: Exiliados,Exonerados Politicos
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 07:35:35
+* * Hitos de tramitación * *
+"emmStart Hitos 211-05","Fecha Sesión Etapa Sub-etapa Documento
+29 de Nov. de 1990 16ª / 321 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+29 de Nov. de 1990   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+21 de Mar. de 1991   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+21 de Ago. de 1991 31ª / 322 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a la Comisión de Hacienda.
+10 de Ene. de 1992 36ª / 323 Segundo trámite constitucional / Senado Primer informe de comisión Ver
+22 de Ene. de 1992 36ª / 323 Segundo trámite constitucional / Senado Discusión general Ver
+22 de Ene. de 1992 36ª / 323 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+23 de Ene. de 1992 36ª / 323 Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen
+23 de Ene. de 1992   Tramitación terminada / Oficio Nº1990. comunica aprobación con modificaciones a Cámara de origen Ver
+28 de Ene. de 1992 49ª / 323 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+28 de Ene. de 1992   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+28 de Ene. de 1992 49ª / 323 Tercer trámite constitucional / C. Diputados Discusión única Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 211-05","Fecha Etapa Informe Documento
+10 de Ene. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+21 de Mar. de 1991 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 211-05","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 211-05","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 211-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 211-05","No record","Veto emmEnd"

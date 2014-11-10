@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 1943-07","Legislatura: 334
+Fecha de ingreso: martes 19 de noviembre de 1996
+Estado: Tramitación terminada (Ley Nº 19.519 - D.Oficial 16/09/1997)
+Numero de boletín: 1943-07
+Materia: Ministerio Público
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 16:36:34
+* * Hitos de tramitación * *
+"emmStart Hitos 1943-07","Fecha Sesión Etapa Sub-etapa Documento
+19 de Nov. de 1996   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+19 de Nov. de 1996 9ª / 334 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+08 de Abr. de 1997   Primer trámite constitucional / Senado Primer informe de comisión Ver
+09 de Abr. de 1997 39ª / 334 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+15 de Abr. de 1997 40ª / 334 Primer trámite constitucional / Senado Discusión general Ver
+06 de May. de 1997   Primer trámite constitucional / Senado Boletín de indicaciones
+13 de May. de 1997 53ª / 334 Primer trámite constitucional / Senado Segundo informe de comisión Ver
+20 de May. de 1997 53ª / 334 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+03 de Jun. de 1997 1ª / 335 Primer trámite constitucional / Senado Discusión particular Ver
+04 de Jun. de 1997 1ª / 335 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+05 de Jun. de 1997 5ª / 335 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+11 de Jun. de 1997   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Jun. de 1997 9ª / 335 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+17 de Jun. de 1997 10ª / 335 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+17 de Jun. de 1997   Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver
+18 de Jun. de 1997 8ª / 335 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+01 de Jul. de 1997 10ª / 335 Tercer trámite constitucional / Senado Discusión única
+01 de Jul. de 1997 10ª / 335 Tercer trámite constitucional / Senado Oficio aprobación de modificaciones de Ref.Constitucional
+30 de Ago. de 1997 28ª / 335 Congreso Pleno / Oficio de ley al Ejecutivo Ver Ver
+30 de Ago. de 1997 0ª / 335 Congreso Pleno / Ratificación reforma constitucional","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1943-07","Fecha Etapa Informe Documento
+11 de Jun. de 1997 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+13 de May. de 1997 Primer trámite constitucional Senado Segundo informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+08 de Abr. de 1997 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1943-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1943-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1943-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1943-07","No record","Veto emmEnd"

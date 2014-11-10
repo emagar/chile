@@ -1,0 +1,33 @@
+* * Bill summary * *
+"emmStart Summary 8559-03","Legislatura: 360
+Fecha de ingreso: lunes 03 de septiembre de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8559-03
+Materia: Protección De Datos Personales,Datos Personales,Sistema De Eliminación De Datos
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 10-11-2014 03:01:49
+* * Hitos de tramitación * *
+"emmStart Hitos 8559-03","Fecha Sesión Etapa Sub-etapa Documento
+03 de Sep. de 2012   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+04 de Sep. de 2012 45ª / 360 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Economía
+01 de Oct. de 2013 58ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 279-361 que hace presente la urgencia Suma","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8559-03","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8559-03","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+01 de Oct. de 2013   Suma 279-361  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8559-03","Nombre
+Carlos Bianchi Chelech
+Antonio Horvath Kiss
+Baldo Prokurica Prokurica","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8559-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8559-03","No record","Veto emmEnd"

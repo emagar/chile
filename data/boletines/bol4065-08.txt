@@ -1,0 +1,71 @@
+* * Bill summary * *
+"emmStart Summary 4065-08","Legislatura: 353
+Fecha de ingreso: martes 17 de enero de 2006
+Estado: Tramitación terminada (Ley Nº 20.235 - D.Oficial 31/12/2007)
+Numero de boletín: 4065-08
+Materia: Personas Competentes,Comisión Calificadora De Competencias De Recursos Y Reservas Mineras
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 18:23:00
+* * Hitos de tramitación * *
+"emmStart Hitos 4065-08","Fecha Sesión Etapa Sub-etapa Documento
+17 de Ene. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+17 de Ene. de 2006 68ª / 353 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Minería y Energía Ver
+11 de Oct. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Oct. de 2006 86ª / 354 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+12 de Oct. de 2006 86ª / 354 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+12 de Oct. de 2006   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+17 de Oct. de 2006 61ª / 354 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Minería y Energía Ver
+22 de Dic. de 2006   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+03 de Ene. de 2007 81ª / 354 Segundo trámite constitucional / Senado Cuenta del Mensaje 602-354 que hace presente la urgencia Simple
+03 de Ene. de 2007 81ª / 354 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+09 de Ene. de 2007 82ª / 354 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 22/01/2007 Ver
+17 de Ene. de 2007 85ª / 354 Segundo trámite constitucional / Senado Se acuerda ampliar el plazo de indicaciones hasta las 12 horas del lunes 12/03/2007.
+06 de Mar. de 2007 89ª / 354 Segundo trámite constitucional / Senado Cuenta del Mensaje 671-354 que retira la urgencia Simple
+12 de Mar. de 2007   Segundo trámite constitucional / Senado Boletín de indicaciones
+14 de Mar. de 2007 1ª / 355 Segundo trámite constitucional / Senado Se acuerda nuevo plazo de indicaciones hasta las 12 horas del lunes 09/04/2007.
+17 de Abr. de 2007 11ª / 355 Segundo trámite constitucional / Senado Cuenta del Mensaje 94-355 que hace presente la urgencia Simple
+05 de Jun. de 2007 21ª / 355 Segundo trámite constitucional / Senado Cuenta del Mensaje 263-355 que retira y hace presente la urgencia Simple
+03 de Jul. de 2007 29ª / 355 Segundo trámite constitucional / Senado Cuenta del Mensaje 407-355 que retira y hace presente la urgencia Simple
+04 de Jul. de 2007 30ª / 355 Segundo trámite constitucional / Senado Se acuerda abrir nuevo plazo de indicaciones hasta las 12 horas del lunes 23/07/2007.
+23 de Jul. de 2007   Segundo trámite constitucional / Senado Boletín de indicaciones
+07 de Ago. de 2007 40ª / 355 Segundo trámite constitucional / Senado Cuenta del Mensaje 541-355 que retira y hace presente la urgencia Simple
+11 de Sep. de 2007 51ª / 355 Segundo trámite constitucional / Senado Cuenta del Mensaje 703-355 que retira y hace presente la urgencia Simple
+02 de Oct. de 2007 53ª / 355 Segundo trámite constitucional / Senado Cuenta del Mensaje 728-355 que retira la urgencia Simple
+11 de Oct. de 2007   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+16 de Oct. de 2007 58ª / 355 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+17 de Oct. de 2007 59ª / 355 Segundo trámite constitucional / Senado Discusión particular Ver
+17 de Oct. de 2007   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+30 de Oct. de 2007 93ª / 355 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver Ver
+04 de Dic. de 2007   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+04 de Dic. de 2007 111ª / 355 Tercer trámite constitucional / C. Diputados Discusión única Ver
+04 de Dic. de 2007   Tercer trámite constitucional / C. Diputados Oficio Nº 7138, que comunica aprobación de modificaciones Ver
+05 de Dic. de 2007 73ª / 355 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 7138, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4065-08","Fecha Etapa Informe Documento
+11 de Oct. de 2007 Segundo trámite constitucional Senado Segundo informe de comisión de Minería y Energía Ver
+22 de Dic. de 2006 Segundo trámite constitucional Senado Primer informe de comisión de Minería y Energía Ver
+11 de Oct. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Minería y Energía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4065-08","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+11 de Sep. de 2007 25 de Sep. de 2007 Simple 703-355 728-355
+07 de Ago. de 2007 10 de Sep. de 2007 Simple 541-355 703-355
+03 de Jul. de 2007 06 de Ago. de 2007 Simple 407-355 541-355
+05 de Jun. de 2007 03 de Jul. de 2007 Simple 263-355 407-355
+17 de Abr. de 2007 05 de Jun. de 2007 Simple 94-355 263-355
+03 de Ene. de 2007 28 de Feb. de 2007 Simple 602-354 671-354","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4065-08","Nombre Región Distrito Partido
+Ministerio de Minería      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4065-08","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+86   76 1 0 0 Aprobado Sala Ver detalle votación
+111 Modificaciones introducidas en el Senado. 103 0 0 17 Aprobado Sala Ver detalle votación
+18 Votación General 6 0 0 7   Minería y Energía Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4065-08","No record","Veto emmEnd"

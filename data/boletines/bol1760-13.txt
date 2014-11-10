@@ -1,0 +1,62 @@
+* * Bill summary * *
+"emmStart Summary 1760-13","Legislatura: 332
+Fecha de ingreso: miércoles 29 de noviembre de 1995
+Estado: Tramitación terminada (Ley Nº 19.591 - D.Oficial 09/11/1998)
+Numero de boletín: 1760-13
+Materia: Maternidad,Protección A La Maternidad
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 14:11:57
+* * Hitos de tramitación * *
+"emmStart Hitos 1760-13","Fecha Sesión Etapa Sub-etapa Documento
+29 de Nov. de 1995   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+29 de Nov. de 1995 29ª / 332 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+03 de Ene. de 1996   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de Ene. de 1996 37ª / 332 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+05 de Mar. de 1996 49ª / 332 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+12 de Mar. de 1996   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+21 de Mar. de 1996 58ª / 332 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+03 de Abr. de 1996   Primer trámite constitucional / C. Diputados Discusión particular
+08 de Abr. de 1996   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora
+09 de Abr. de 1996 47ª / 332 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social
+05 de Nov. de 1996 7ª / 334 Segundo trámite constitucional / Senado S.E Incluye Proyecto en Convocatoria
+07 de May. de 1997   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+07 de May. de 1997 47ª / 334 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+16 de Jul. de 1997 17ª / 335 Segundo trámite constitucional / Senado Discusión general Ver
+06 de Ago. de 1997 17ª / 335 Segundo trámite constitucional / Senado Boletín de indicaciones
+14 de Abr. de 1998 7ª / 337 Segundo trámite constitucional / Senado S.E Incluye Proyecto en Convocatoria
+03 de Jun. de 1998   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+03 de Jun. de 1998 2ª / 338 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+09 de Jun. de 1998 3ª / 338 Segundo trámite constitucional / Senado Segunda Discusión Ver
+10 de Jun. de 1998 4ª / 338 Segundo trámite constitucional / Senado Discusión Pendiente Ver
+10 de Jun. de 1998 5ª / 338 Segundo trámite constitucional / Senado Discusión particular Ver
+10 de Jun. de 1998   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+17 de Jun. de 1998 9ª / 338 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora. Pasa a Comisión de Trabajo y Seguridad Social Ver
+22 de Jul. de 1998 20ª / 338 Tercer trámite constitucional / C. Diputados Oficio de la Comisión de Trabajo Oficio de la Comisión de Trabajo, solicita prórroga de 15 días a contar del 30-07-98 para informar el proyecto. Ver
+23 de Jul. de 1998   Tercer trámite constitucional / C. Diputados Oficio a la Comsión de Trabajo Oficio a la Comisión de Trabajo que concede prórroga solicitada.
+18 de Ago. de 1998   Tercer trámite constitucional / C. Diputados Informe de comisión Ver
+01 de Sep. de 1998 30ª / 338 Tercer trámite constitucional / C. Diputados Cuenta informe de comisión Ver
+06 de Oct. de 1998   Tercer trámite constitucional / C. Diputados S.E.El Presidente de la Republica incluye el proyecto en la Convocatoria Extraodinaria 339
+21 de Oct. de 1998 8ª / 339 Tercer trámite constitucional / C. Diputados Discusión única Ver
+21 de Oct. de 1998   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1760-13","Fecha Etapa Informe Documento
+18 de Ago. de 1998 Tercer trámite constitucional C.Diputados Informe de comisión de Trabajo y Seguridad Social Ver
+03 de Jun. de 1998 Segundo trámite constitucional Senado Segundo informe de comisión de Trabajo y Previsión Social Ver
+07 de May. de 1997 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver
+12 de Mar. de 1996 Primer trámite constitucional C.Diputados Segundo informe de comisión de Trabajo y Seguridad Social Ver
+03 de Ene. de 1996 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1760-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+29 de Nov. de 1995 16 de Sep. de 1998 Simple 47-332 CADUCADO","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1760-13","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1760-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1760-13","No record","Veto emmEnd"

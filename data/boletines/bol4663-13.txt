@@ -1,0 +1,62 @@
+* * Bill summary * *
+"emmStart Summary 4663-13","Legislatura: 354
+Fecha de ingreso: jueves 09 de noviembre de 2006
+Estado: Tramitación terminada (Ley N° 20.425 - D.Oficial 13/02/2010)
+Numero de boletín: 4663-13
+Materia: Remuneraciones
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 04:26:52
+* * Hitos de tramitación * *
+"emmStart Hitos 4663-13","Fecha Sesión Etapa Sub-etapa Documento
+09 de Nov. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+09 de Nov. de 2006 96ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+15 de Abr. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+29 de Abr. de 2008 21ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+03 de Jul. de 2008 47ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+03 de Jul. de 2008   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+08 de Jul. de 2008 34ª / 356 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social Ver
+23 de Dic. de 2008   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+06 de Ene. de 2009 82ª / 356 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+18 de Mar. de 2009 4ª / 357 Segundo trámite constitucional / Senado Discusión general. Queda pendiente Se cerró el debate, quedando pendiente la votación en general de este proyecto. Ver
+31 de Mar. de 2009 5ª / 357 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 13/04/2009 Ver
+13 de Abr. de 2009   Segundo trámite constitucional / Senado Boletín de indicaciones
+25 de Nov. de 2009   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+01 de Dic. de 2009 73ª / 357 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+02 de Dic. de 2009 74ª / 357 Segundo trámite constitucional / Senado Discusión particular Ver
+02 de Dic. de 2009   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+15 de Dic. de 2009 109ª / 357 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+12 de Ene. de 2010 117ª / 357 Tercer trámite constitucional / C. Diputados Discusión única Ver
+12 de Ene. de 2010   Tercer trámite constitucional / C. Diputados Oficio N° 8516, que comunica aprobacion de modificaciones Ver
+12 de Ene. de 2010   Trámite finalización en Cámara de Origen / C. Diputados Oficio N°8517. Oficio de Ley Promulgatorio Ver
+13 de Ene. de 2010 82ª / 357 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 8516, que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4663-13","Fecha Etapa Informe Documento
+25 de Nov. de 2009 Segundo trámite constitucional Senado Segundo informe de comisión de Trabajo y Previsión Social Ver
+23 de Dic. de 2008 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver
+15 de Abr. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4663-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4663-13","Nombre Región Distrito Partido
+Gonzalo Arenas Hödar IX Región de la Araucanía N°48 Unión Demócrata Independiente
+Julio Dittborn Cordúa RM Región Metropolitana N°23 Unión Demócrata Independiente
+Andrés Egaña Respaldiza VIII Región del Bío Bío N°44 Unión Demócrata Independiente
+Enrique Estay Peñaloza IX Región de la Araucanía N°49 Unión Demócrata Independiente
+Marcelo Forni Lobos V Región de Valparaíso N°11 Unión Demócrata Independiente
+Javier Hernández Hernández X Región de los Lagos N°55 Unión Demócrata Independiente
+Patricio Melero Abaroa RM Región Metropolitana N°16 Unión Demócrata Independiente
+Carlos Recondo Lavanderos X Región de los Lagos N°56 Unión Demócrata Independiente
+Felipe Salaberry Soto RM Región Metropolitana N°25 Unión Demócrata Independiente
+Felipe Ward Edwards II Región de Antofagasta N°3 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4663-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+117   70 0 0 50 Aprobado Sala Ver detalle votación
+47   61 0 0 59 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4663-13","No record","Veto emmEnd"

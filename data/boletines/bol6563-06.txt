@@ -1,0 +1,35 @@
+* * Bill summary * *
+"emmStart Summary 6563-06","Legislatura: 357
+Fecha de ingreso: jueves 11 de junio de 2009
+Estado: Primer trámite constitucional .
+Numero de boletín: 6563-06
+Materia: Candidatos Independientes,Cargos De Elección Popular
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 13:38:32
+* * Hitos de tramitación * *
+"emmStart Hitos 6563-06","Fecha Sesión Etapa Sub-etapa Documento
+11 de Jun. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+11 de Jun. de 2009 40ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6563-06","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6563-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6563-06","Nombre Región Distrito Partido
+René Alinco Bustos XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Partido Por la Democracia
+Francisco Encina Moriamez IV Región de Coquimbo N°8 Partido Socialista
+Maximiano Errázuriz Eguiguren RM Región Metropolitana N°29 Independientes
+Pablo Lorenzini Basso VII Región del Maule N°38 Partido Demócrata Cristiano
+Jaime Mulet Martínez III Región de Atacama N°6 Partido Regionalista Independiente
+Jorge Ulloa Aguillón VIII Región del Bío Bío N°43 Unión Demócrata Independiente
+Samuel Venegas Rubio V Región de Valparaíso N°15 Independientes","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6563-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6563-06","No record","Veto emmEnd"

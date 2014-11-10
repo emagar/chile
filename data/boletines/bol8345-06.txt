@@ -1,0 +1,58 @@
+* * Bill summary * *
+"emmStart Summary 8345-06","Legislatura: 360
+Fecha de ingreso: miércoles 06 de junio de 2012
+Estado: Segundo trámite constitucional .
+Numero de boletín: 8345-06
+Materia: Sistema De Inscripción Electoral,Padrón Electoral,Servicio Electoral
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 00:22:58
+* * Hitos de tramitación * *
+"emmStart Hitos 8345-06","Fecha Sesión Etapa Sub-etapa Documento
+06 de Jun. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Jun. de 2012 38ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior y Regionalización Ver
+04 de Jul. de 2012 50ª / 360 Primer trámite constitucional / C. Diputados Oficio N°131-360. Oficio de S.E. el Presidente de la República por el cual formula indicaciones al proyecto. Ver Ver
+05 de Jul. de 2012 51ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 183-360 que hace presente la urgencia Suma Ver
+09 de Jul. de 2012   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+10 de Jul. de 2012 52ª / 360 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+11 de Jul. de 2012 54ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+11 de Jul. de 2012   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+17 de Jul. de 2012 35ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 198-360 que retira y hace presente la urgencia Discusión inmediata
+17 de Jul. de 2012 35ª / 360 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización
+31 de Jul. de 2012 37ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 218-360 que retira y hace presente la urgencia Discusión inmediata
+14 de Ago. de 2012 41ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 242-360 que retira y hace presente la urgencia Suma
+02 de Oct. de 2012 51ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 298-360 que retira y hace presente la urgencia Suma
+17 de Oct. de 2012 56ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 321-360 que retira y hace presente la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8345-06","Fecha Etapa Informe Documento
+09 de Jul. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8345-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+17 de Oct. de 2012   Simple 321-360  
+02 de Oct. de 2012 17 de Oct. de 2012 Suma 298-360 321-360
+14 de Ago. de 2012 01 de Oct. de 2012 Suma 242-360 298-360
+31 de Jul. de 2012 14 de Ago. de 2012 Discusión inmediata 218-360 242-360
+17 de Jul. de 2012 31 de Jul. de 2012 Discusión inmediata 198-360 218-360
+05 de Jul. de 2012 17 de Jul. de 2012 Suma 183-360 198-360","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8345-06","Nombre Región Distrito Partido
+Germán Becker Alvear IX Región de la Araucanía N°50 Renovación Nacional
+Enrique Estay Peñaloza IX Región de la Araucanía N°49 Unión Demócrata Independiente
+María José Hoffmann Opazo V Región de Valparaíso N°15 Unión Demócrata Independiente
+José Antonio Kast Rist RM Región Metropolitana N°30 Unión Demócrata Independiente
+Patricio Melero Abaroa RM Región Metropolitana N°16 Unión Demócrata Independiente
+Celso Morales Muñoz VII Región del Maule N°36 Unión Demócrata Independiente
+Joel Rosales Guzmán VIII Región del Bío Bío N°47 Unión Demócrata Independiente
+Ernesto Silva Méndez RM Región Metropolitana N°23 Unión Demócrata Independiente
+Carlos Vilches Guzmán III Región de Atacama N°5 Unión Demócrata Independiente
+Felipe Ward Edwards II Región de Antofagasta N°3 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8345-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+54   90 0 0 2 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8345-06","No record","Veto emmEnd"

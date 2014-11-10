@@ -1,0 +1,53 @@
+* * Bill summary * *
+"emmStart Summary 6377-04","Legislatura: 356
+Fecha de ingreso: martes 20 de enero de 2009
+Estado: Tramitación terminada (Ley Nº 20.616 - D.Oficial 08/09/2012)
+Numero de boletín: 6377-04
+Materia: Area Metropolitana De Santiago (Chile),Monumentos,Pedro León Gallo Goyenechea
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 08-11-2014 06:08:27
+* * Hitos de tramitación * *
+"emmStart Hitos 6377-04","Fecha Sesión Etapa Sub-etapa Documento
+20 de Ene. de 2009   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+20 de Ene. de 2009 87ª / 356 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+12 de May. de 2009   Primer trámite constitucional / Senado Primer informe de comisión Ver
+13 de May. de 2009 17ª / 357 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+19 de May. de 2009 19ª / 357 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 04/06/2009 Ver
+04 de Jun. de 2009   Primer trámite constitucional / Senado Boletín de indicaciones
+20 de Jul. de 2009   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+28 de Jul. de 2009 35ª / 357 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+29 de Jul. de 2009 36ª / 357 Primer trámite constitucional / Senado Discusión particular Ver
+29 de Jul. de 2009   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+30 de Jul. de 2009 57ª / 357 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de la Cultura y las Artes Ver
+06 de Jun. de 2012   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de Jul. de 2012 48ª / 360 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+17 de Jul. de 2012 56ª / 360 Segundo trámite constitucional / C. Diputados Discusión general Ver
+17 de Jul. de 2012   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+18 de Jul. de 2012 36ª / 360 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+18 de Jul. de 2012   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6377-04","Fecha Etapa Informe Documento
+06 de Jun. de 2012 Segundo trámite constitucional C.Diputados Primer informe de comisión de la Cultura y las Artes Ver
+20 de Jul. de 2009 Primer trámite constitucional Senado Segundo informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+12 de May. de 2009 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6377-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6377-04","Nombre
+José Antonio Gómez Urrutia
+Ricardo Núñez Muñoz
+Baldo Prokurica Prokurica
+Adolfo Zaldívar Larraín","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6377-04","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+56   87 0 0 0 Aprobado Sala Ver detalle votación
+56   88 0 0 32 Aprobado Sala Ver detalle votación
+77 Votación General 7 0 0 6   Cultura Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6377-04","No record","Veto emmEnd"

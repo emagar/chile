@@ -1,0 +1,50 @@
+* * Bill summary * *
+"emmStart Summary 4694-24","Legislatura: 354
+Fecha de ingreso: jueves 23 de noviembre de 2006
+Estado: Tramitación terminada (Ley Nº 20.188 - D.Oficial 17/05/2007)
+Numero de boletín: 4694-24
+Materia: Homenajes,Monumentos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 06:29:11
+* * Hitos de tramitación * *
+"emmStart Hitos 4694-24","Fecha Sesión Etapa Sub-etapa Documento
+23 de Nov. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+23 de Nov. de 2006 102ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión Especial de la Cultura y las Artes Ver
+08 de Mar. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+13 de Mar. de 2007 1ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de Mar. de 2007 1ª / 355 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+13 de Mar. de 2007   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+14 de Mar. de 2007 3ª / 355 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología Ver
+09 de Abr. de 2007   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+10 de Abr. de 2007 9ª / 355 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+11 de Abr. de 2007 10ª / 355 Segundo trámite constitucional / Senado Discusión general Ver
+17 de Abr. de 2007   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+18 de Abr. de 2007 17ª / 355 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver Ver
+18 de Abr. de 2007   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4694-24","Fecha Etapa Informe Documento
+09 de Abr. de 2007 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+08 de Mar. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de la Cultura y las Artes Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4694-24","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4694-24","Nombre Región Distrito Partido
+Germán Becker Alvear IX Región de la Araucanía N°50 Renovación Nacional
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Roberto Delmastro Naso XIV Región de los Ríos N°53 Renovación Nacional
+Pablo Galilea Carrillo XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Renovación Nacional
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Amelia Herrera Silva V Región de Valparaíso N°12 Renovación Nacional
+Marta Isasi Barbieri I Región de Tarapacá N°2 Independientes
+Alfonso Vargas Lyng V Región de Valparaíso N°10 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4694-24","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+1   90 0 0 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4694-24","No record","Veto emmEnd"

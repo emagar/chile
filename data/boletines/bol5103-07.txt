@@ -1,0 +1,59 @@
+* * Bill summary * *
+"emmStart Summary 5103-07","Legislatura: 355
+Fecha de ingreso: miércoles 06 de junio de 2007
+Estado: Tramitación terminada (Ley Nº 20.236 - D.Oficial 27/12/2007)
+Numero de boletín: 5103-07
+Materia: Fiscales,Defensoria Penal Publica,Defensor Penal Público,Protección A Fiscales,Ministerio Público
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 07-11-2014 00:41:14
+* * Hitos de tramitación * *
+"emmStart Hitos 5103-07","Fecha Sesión Etapa Sub-etapa Documento
+06 de Jun. de 2007   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+06 de Jun. de 2007 22ª / 355 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+25 de Jun. de 2007   Primer trámite constitucional / Senado Primer informe de comisión Ver
+03 de Jul. de 2007 29ª / 355 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+04 de Jul. de 2007 30ª / 355 Primer trámite constitucional / Senado Discusión general. Se acuerda volverlo a Comisión. Ver
+13 de Ago. de 2007   Primer trámite constitucional / Senado Nuevo primer informe de comisión Ver
+14 de Ago. de 2007 43ª / 355 Primer trámite constitucional / Senado Cuenta nuevo primer informe
+28 de Ago. de 2007 44ª / 355 Primer trámite constitucional / Senado Discusión general Ver
+28 de Ago. de 2007   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+30 de Ago. de 2007 71ª / 355 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver Ver
+12 de Sep. de 2007   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Oct. de 2007 79ª / 355 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Constitución,. Ver
+11 de Oct. de 2007 89ª / 355 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+17 de Oct. de 2007   Segundo trámite constitucional / C. Diputados Segundo informe de comisión Ver
+30 de Oct. de 2007 93ª / 355 Segundo trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+20 de Nov. de 2007 106ª / 355 Segundo trámite constitucional / C. Diputados Discusión particular Ver Ver
+20 de Nov. de 2007   Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver
+21 de Nov. de 2007 69ª / 355 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora Ver
+11 de Dic. de 2007 74ª / 355 Tercer trámite constitucional / Senado Discusión única
+11 de Dic. de 2007   Tercer trámite constitucional / Senado Oficio Nº 1609/07, que comunica aprobación de modificaciones Ver
+11 de Dic. de 2007   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+12 de Dic. de 2007 115ª / 355 Tercer trámite constitucional / Senado Cuenta oficio Nº 1609/07, que comunica aprobación de modificaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5103-07","Fecha Etapa Informe Documento
+17 de Oct. de 2007 Segundo trámite constitucional C.Diputados Segundo informe de comisión de Constitución, Legislación y Justicia Ver
+12 de Sep. de 2007 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+13 de Ago. de 2007 Primer trámite constitucional Senado Nuevo primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+25 de Jun. de 2007 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5103-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5103-07","Nombre
+Soledad Alvear Valenzuela
+Alberto Espina Otero
+José Antonio Gómez Urrutia
+Hernán Larraín Fernández
+Pedro Muñoz Aburto","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5103-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+106 único. 91 0 0 29 Aprobado Sala Ver detalle votación
+89   68 0 0 52 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5103-07","No record","Veto emmEnd"

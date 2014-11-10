@@ -1,0 +1,78 @@
+* * Bill summary * *
+"emmStart Summary 4149-18","Legislatura: 354
+Fecha de ingreso: miércoles 12 de abril de 2006
+Estado: Segundo trámite constitucional .
+Numero de boletín: 4149-18 Refundido con: 3810-18
+Materia: Cambio De Apellidos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 22:18:36
+* * Hitos de tramitación * *
+"emmStart Hitos 4149-18","Fecha Sesión Etapa Sub-etapa Documento
+12 de Abr. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Abr. de 2006 12ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Familia Ver
+17 de Ago. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+28 de Ago. de 2007 67ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+30 de Ago. de 2007 71ª / 355 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+03 de Ene. de 2008 123ª / 355 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+14 de Ene. de 2008   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+15 de Ene. de 2008 130ª / 355 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+10 de Abr. de 2008   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+10 de Abr. de 2008 17ª / 356 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver
+16 de Abr. de 2008 13ª / 356 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento Ver
+16 de Abr. de 2008 13ª / 356 Segundo trámite constitucional / Senado La Sala acuerda cambiar la tramitación dada a este proyecto, enviándolo a la Comisión de Derechos Humanos, Nacionalidad y Ciudadanía.
+18 de Jun. de 2008 28ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 441-356 que hace presente la urgencia Simple Ver
+29 de Jul. de 2008 38ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 603-356 que retira la urgencia Simple
+13 de Ago. de 2008   Segundo trámite constitucional / Senado Oficio Nº007/2008 a la Corte Suprema Ver
+16 de Sep. de 2008   Segundo trámite constitucional / Senado   Ver
+30 de Sep. de 2008 55ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 837-356 que hace presente la urgencia Simple
+04 de Nov. de 2008 64ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 976-356 que retira y hace presente la urgencia Simple
+03 de Dic. de 2008 76ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 1154-356 que retira y hace presente la urgencia Simple
+23 de Dic. de 2008 81ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 1250-356 que retira la urgencia Simple
+07 de Ene. de 2009 83ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 1330-356 que hace presente la urgencia Simple
+30 de Ene. de 2009 90ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 1432-356 que retira la urgencia Simple
+03 de Mar. de 2009 91ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 1498-356 que hace presente la urgencia Simple
+31 de Mar. de 2009 5ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 90-357 que retira y hace presente la urgencia Suma
+14 de Abr. de 2009 9ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 178-357 que retira y hace presente la urgencia Suma
+28 de Abr. de 2009 12ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 236-357 que retira y hace presente la urgencia Suma
+12 de May. de 2009 16ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 301-357 que retira la urgencia Suma
+12 de May. de 2009   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+13 de May. de 2009 17ª / 357 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+20 de May. de 2009 21ª / 357 Segundo trámite constitucional / Senado Discusión general Ver
+20 de May. de 2009 21ª / 357 Segundo trámite constitucional / Senado La Sala acuerda enviar este proyecto a la Comisión de Constitución, Legislación, Justicia y Reglamento para que emita un nuevo primer informe.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4149-18","Fecha Etapa Informe Documento
+12 de May. de 2009 Segundo trámite constitucional Senado Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+14 de Ene. de 2008 Primer trámite constitucional C.Diputados Segundo informe de comisión de Familia Ver
+17 de Ago. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de Familia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4149-18","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+28 de Abr. de 2009 11 de May. de 2009 Suma 236-357 301-357
+14 de Abr. de 2009 24 de Abr. de 2009 Suma 178-357 236-357
+31 de Mar. de 2009 14 de Abr. de 2009 Suma 90-357 178-357
+03 de Mar. de 2009 30 de Mar. de 2009 Simple 1498-356 90-357
+07 de Ene. de 2009 29 de Ene. de 2009 Simple 1330-356 1432-356
+03 de Dic. de 2008 23 de Dic. de 2008 Simple 1154-356 1250-356
+04 de Nov. de 2008 02 de Dic. de 2008 Simple 976-356 1154-356
+30 de Sep. de 2008 03 de Nov. de 2008 Simple 837-356 976-356
+18 de Jun. de 2008 29 de Jul. de 2008 Simple 441-356 603-356","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4149-18","Nombre Región Distrito Partido
+Sergio Aguiló Melo VII Región del Maule N°37 Partido Socialista
+Juan Bustos Ramírez V Región de Valparaíso N°12 Partido Socialista
+Alvaro Escobar Rufatt RM Región Metropolitana N°20 Independientes
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Marta Isasi Barbieri I Región de Tarapacá N°2 Independientes
+Tucapel Jiménez Fuentes RM Región Metropolitana N°27 Partido Por la Democracia
+Adriana Muñoz D'Albora IV Región de Coquimbo N°9 Partido Por la Democracia
+María Antonieta Saa Díaz RM Región Metropolitana N°17 Partido Por la Democracia
+Ximena Vidal Lázaro RM Región Metropolitana N°25 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4149-18","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4149-18","No record","Veto emmEnd"

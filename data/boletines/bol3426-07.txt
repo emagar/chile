@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 3426-07","Legislatura: 350
+Fecha de ingreso: miércoles 03 de diciembre de 2003
+Estado: Tramitación terminada (Ley Nº 19.957 - D.Oficial 27/07/2004)
+Numero de boletín: 3426-07
+Materia: Nacionalización
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 04-11-2014 02:36:21
+* * Hitos de tramitación * *
+"emmStart Hitos 3426-07","Fecha Sesión Etapa Sub-etapa Documento
+03 de Dic. de 2003   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+03 de Dic. de 2003 15ª / 350 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía
+05 de Mar. de 2004   Primer trámite constitucional / Senado Primer informe de comisión Ver
+09 de Mar. de 2004 37ª / 350 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Mar. de 2004 38ª / 350 Primer trámite constitucional / Senado Discusión general Ver
+10 de Mar. de 2004   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+11 de Mar. de 2004 58ª / 350 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+16 de Jun. de 2004   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+22 de Jun. de 2004 7ª / 351 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+24 de Jun. de 2004 10ª / 351 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+24 de Jun. de 2004   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+30 de Jun. de 2004   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+06 de Jul. de 2004 8ª / 351 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3426-07","Fecha Etapa Informe Documento
+16 de Jun. de 2004 Segundo trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+05 de Mar. de 2004 Primer trámite constitucional Senado Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3426-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3426-07","Nombre
+Juan Antonio Coloma Correa
+Alberto Espina Otero
+Enrique Silva Cimma
+Gabriel Valdés Subercaseaux
+José Antonio Viera-Gallo Quesney","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3426-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+10   58 0 0 0   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3426-07","No record","Veto emmEnd"

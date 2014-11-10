@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 5380-07","Legislatura: 355
+Fecha de ingreso: jueves 04 de octubre de 2007
+Estado: Archivado .
+Numero de boletín: 5380-07
+Materia: Obstrucción A La Justicia
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 03:57:50
+* * Hitos de tramitación * *
+"emmStart Hitos 5380-07","Fecha Sesión Etapa Sub-etapa Documento
+04 de Oct. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Oct. de 2007 83ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+10 de Jun. de 2010   Primer trámite constitucional / C. Diputados Archivado Constitución remite al archivo por estar más de dos años sin tramitación.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5380-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5380-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5380-07","Nombre Región Distrito Partido
+Juan Bustos Ramírez V Región de Valparaíso N°12 Partido Socialista
+Francisco Encina Moriamez IV Región de Coquimbo N°8 Partido Socialista
+Alvaro Escobar Rufatt RM Región Metropolitana N°20 Independientes
+Ramón Farías Ponce RM Región Metropolitana N°30 Partido Por la Democracia
+Tucapel Jiménez Fuentes RM Región Metropolitana N°27 Partido Por la Democracia
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+Clemira Pacheco Rivas VIII Región del Bío Bío N°45 Partido Socialista
+Denise Pascal Allende RM Región Metropolitana N°31 Partido Socialista
+Alejandro Sule Fernández VI Región del Libertador Bernardo O' Higgins N°33 Partido Radical Social Demócrata","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5380-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5380-07","No record","Veto emmEnd"

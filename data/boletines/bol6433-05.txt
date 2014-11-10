@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 6433-05","Legislatura: 357
+Fecha de ingreso: miércoles 01 de abril de 2009
+Estado: Tramitación terminada (Ley Nº 20.342 - D.Oficial 27/04/2009)
+Numero de boletín: 6433-05
+Materia: Bonificación Por Atención De Calidad,Atención De Público,Servicio De Registro Civil E Identificacion
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 07:35:06
+* * Hitos de tramitación * *
+"emmStart Hitos 6433-05","Fecha Sesión Etapa Sub-etapa Documento
+01 de Abr. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+01 de Abr. de 2009 7ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+01 de Abr. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Abr. de 2009 8ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+02 de Abr. de 2009 8ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+02 de Abr. de 2009   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+07 de Abr. de 2009 7ª / 357 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+07 de Abr. de 2009 7ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 145-357 que hace presente la urgencia Suma
+07 de Abr. de 2009 7ª / 357 Segundo trámite constitucional / Senado La Sala acuerda, a solicitud de la Senadora Matthei, que este proyecto sea discutido por la Comisión en general y en particular en su primer informe.
+14 de Abr. de 2009   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+14 de Abr. de 2009 9ª / 357 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+15 de Abr. de 2009 11ª / 357 Segundo trámite constitucional / Senado Discusión general Ver
+15 de Abr. de 2009   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+16 de Abr. de 2009 19ª / 357 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+16 de Abr. de 2009   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6433-05","Fecha Etapa Informe Documento
+14 de Abr. de 2009 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+01 de Abr. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6433-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+07 de Abr. de 2009   Suma 145-357  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6433-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6433-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+8   68 0 0 0 Aprobado Sala Ver detalle votación
+219 Votación General 7 0 0 6   Hacienda Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6433-05","No record","Veto emmEnd"

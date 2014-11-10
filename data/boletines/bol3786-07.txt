@@ -1,0 +1,61 @@
+* * Bill summary * *
+"emmStart Summary 3786-07","Legislatura: 352
+Fecha de ingreso: miércoles 19 de enero de 2005
+Estado: Tramitación terminada (Ley Nº 20.207 - D.Oficial 31/08/2007)
+Numero de boletín: 3786-07 Refundido con: 3799-07
+Materia: Menores,Delitos Sexuales
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 12:00:02
+* * Hitos de tramitación * *
+"emmStart Hitos 3786-07","Fecha Sesión Etapa Sub-etapa Documento
+19 de Ene. de 2005 43ª / 352 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+19 de Ene. de 2005   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+22 de Mar. de 2005 54ª / 352 Primer trámite constitucional / C. Diputados P. de la Rep. comunica que incluye proyecto en la Convocatoria a la actual Legislatura 352. (386-352) Ver
+15 de Jun. de 2005   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+22 de Jun. de 2005 9ª / 353 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+06 de Jul. de 2005 13ª / 353 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+13 de Jul. de 2005   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+13 de Jul. de 2005 16ª / 353 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+18 de Abr. de 2007   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+18 de Abr. de 2007 12ª / 355 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+08 de May. de 2007 15ª / 355 Segundo trámite constitucional / Senado Se acuerda volverlo a Comisión para un nuevo informe. Ver
+08 de Jun. de 2007   Segundo trámite constitucional / Senado Nuevo primer informe de comisión Ver
+13 de Jun. de 2007 25ª / 355 Segundo trámite constitucional / Senado Cuenta nuevo primer informe
+19 de Jun. de 2007 26ª / 355 Segundo trámite constitucional / Senado Discusión general Ver
+19 de Jun. de 2007   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+20 de Jun. de 2007 39ª / 355 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver Ver
+05 de Jul. de 2007 46ª / 355 Tercer trámite constitucional / C. Diputados Discusión única Ver
+05 de Jul. de 2007   Tercer trámite constitucional / C. Diputados Oficio Nº 6894, que comunica aprobación de modificaciones Ver
+05 de Jul. de 2007   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+10 de Jul. de 2007 31ª / 355 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 6894, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3786-07","Fecha Etapa Informe Documento
+08 de Jun. de 2007 Segundo trámite constitucional Senado Nuevo primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+18 de Abr. de 2007 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+15 de Jun. de 2005 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3786-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3786-07","Nombre Región Distrito Partido
+Rodrigo Alvarez Zenteno XII Región de Magallanes y de la Antártica Chilena N°60 Unión Demócrata Independiente
+Francisco Bayo Veloso IX Región de la Araucanía N°48 Renovación Nacional
+Mario Bertolino Rendic IV Región de Coquimbo N°7 Renovación Nacional
+Roberto Delmastro Naso X Región de los Lagos N°53 Independientes
+Pablo Galilea Carrillo XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Renovación Nacional
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Arturo Longton Guerrero V Región de Valparaíso N°12 Renovación Nacional
+Nicolás Monckeberg Díaz VIII Región del Bío Bío N°42 Renovación Nacional
+Alfonso Vargas Lyng V Región de Valparaíso N°10 Renovación Nacional
+Carlos Vilches Guzmán III Región de Atacama N°5 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3786-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+46   78 0 0 42 Aprobado Sala Ver detalle votación
+13   80 0 0 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3786-07","No record","Veto emmEnd"

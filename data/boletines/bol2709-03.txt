@@ -1,0 +1,33 @@
+* * Bill summary * *
+"emmStart Summary 2709-03","Legislatura: 343
+Fecha de ingreso: jueves 17 de mayo de 2001
+Estado: Archivado .
+Numero de boletín: 2709-03
+Materia: Agua Potable
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 09:35:18
+* * Hitos de tramitación * *
+"emmStart Hitos 2709-03","Fecha Sesión Etapa Sub-etapa Documento
+17 de May. de 2001 66ª / 343 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+17 de May. de 2001   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+16 de Oct. de 2003 10ª / 350 Archivado / Se solicita archivo de proyecto. Oficio de Comisión de Economía. Queda en tabla. Se accede al archivo solicitado","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2709-03","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2709-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2709-03","Nombre Región Distrito Partido
+Francisco Encina Moriamez IV Región de Coquimbo N°8 Partido Socialista
+Juan Núñez Valenzuela VI Región del Libertador Bernardo O' Higgins N°34 Partido Demócrata Cristiano
+Aníbal Pérez Lobos VI Región del Libertador Bernardo O' Higgins N°32 Partido Por la Democracia
+Salvador Urrutia Cárdenas I Región de Tarapacá N°1 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2709-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2709-03","No record","Veto emmEnd"

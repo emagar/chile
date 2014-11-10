@@ -1,0 +1,39 @@
+* * Bill summary * *
+"emmStart Summary 4045-13","Legislatura: 353
+Fecha de ingreso: miércoles 09 de noviembre de 2005
+Estado: Segundo trámite constitucional .
+Numero de boletín: 4045-13 Refundido con: 4123-13
+Materia: Finiquito Del Contrato De Trabajo
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 08:26:19
+* * Hitos de tramitación * *
+"emmStart Hitos 4045-13","Fecha Sesión Etapa Sub-etapa Documento
+09 de Nov. de 2005 58ª / 353 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+09 de Nov. de 2005   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+11 de Sep. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Sep. de 2006 74ª / 354 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+12 de Sep. de 2006 74ª / 354 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+12 de Sep. de 2006   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+13 de Sep. de 2006 55ª / 354 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4045-13","Fecha Etapa Informe Documento
+11 de Sep. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4045-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4045-13","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Carlos Abel Jarpa Wevar VIII Región del Bío Bío N°41 Partido Radical Social Demócrata
+Pedro Muñoz Aburto XII Región de Magallanes y de la Antártica Chilena N°60 Partido Socialista
+Alberto Robles Pantoja III Región de Atacama N°6 Partido Radical Social Demócrata","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4045-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+74   113 0 0 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4045-13","No record","Veto emmEnd"

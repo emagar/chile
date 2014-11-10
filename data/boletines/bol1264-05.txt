@@ -1,0 +1,50 @@
+* * Bill summary * *
+"emmStart Summary 1264-05","Legislatura: 329
+Fecha de ingreso: martes 05 de julio de 1994
+Estado: Tramitación terminada (Ley Nº 19.339 - D.Oficial 05/10/1994)
+Numero de boletín: 1264-05
+Materia: Bienes Raices Agrícolas
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 05:09:16
+* * Hitos de tramitación * *
+"emmStart Hitos 1264-05","Fecha Sesión Etapa Sub-etapa Documento
+05 de Jul. de 1994 17ª / 329 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+05 de Jul. de 1994   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Jul. de 1994   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+14 de Jul. de 1994   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+14 de Jul. de 1994 22ª / 329 Primer trámite constitucional / C. Diputados Discusión general Ver
+14 de Jul. de 1994 22ª / 329 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+19 de Jul. de 1994 14ª / 329 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+20 de Jul. de 1994   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+21 de Jul. de 1994 15ª / 329 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+02 de Ago. de 1994 16ª / 329 Segundo trámite constitucional / Senado Discusión general. Aprobado en general , se abrió plazo para indicaciones hasta el lunes 8 de agosto. Ver
+08 de Ago. de 1994   Segundo trámite constitucional / Senado Boletín de indicaciones
+08 de Ago. de 1994   Segundo trámite constitucional / Senado Boletín de indicaciones
+31 de Ago. de 1994   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+31 de Ago. de 1994 28ª / 329 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión. Queda para tabla.
+01 de Sep. de 1994 29ª / 329 Segundo trámite constitucional / Senado Discusión particular Ver
+06 de Sep. de 1994   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+06 de Sep. de 1994 37ª / 329 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+08 de Sep. de 1994 38ª / 329 Tercer trámite constitucional / C. Diputados Discusión única Ver
+08 de Sep. de 1994   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+13 de Sep. de 1994 33ª / 329 Tramitación terminada / Cuenta en el Senado del oficio de la Cámara de Diputados en que comunica que aprobó modificaciones del Senado.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1264-05","Fecha Etapa Informe Documento
+31 de Ago. de 1994 Segundo trámite constitucional Senado Segundo informe de comisión de Hacienda Ver
+20 de Jul. de 1994 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+13 de Jul. de 1994 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1264-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+05 de Jul. de 1994   Suma    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1264-05","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1264-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1264-05","No record","Veto emmEnd"

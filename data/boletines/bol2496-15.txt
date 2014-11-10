@@ -1,0 +1,60 @@
+* * Bill summary * *
+"emmStart Summary 2496-15","Legislatura: 341
+Fecha de ingreso: miércoles 03 de mayo de 2000
+Estado: Tramitación terminada (Ley Nº 19.700 - D.Oficial 16/11/2000)
+Numero de boletín: 2496-15
+Materia: Taxis
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 01:06:04
+* * Hitos de tramitación * *
+"emmStart Hitos 2496-15","Fecha Sesión Etapa Sub-etapa Documento
+03 de May. de 2000   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de May. de 2000 46ª / 341 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+25 de Sep. de 2000   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de Oct. de 2000 1ª / 343 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+04 de Oct. de 2000 2ª / 343 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+04 de Oct. de 2000 2ª / 343 Primer trámite constitucional / C. Diputados Cuenta Oficio Nº 413 de la Comisión de OO.PP. Solicita devolver proyecto a la Comisión para su reestudio Ver
+04 de Oct. de 2000   Primer trámite constitucional / C. Diputados Oficio Nº 3081 a la Comisión de OO.PP. Remite proyecto para su reestudio
+11 de Oct. de 2000   Primer trámite constitucional / C. Diputados Nuevo primer informe de comisión Ver
+12 de Oct. de 2000 6ª / 343 Primer trámite constitucional / C. Diputados Cuenta nuevo primer informe Ver
+17 de Oct. de 2000   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+17 de Oct. de 2000 7ª / 343 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+17 de Oct. de 2000 5ª / 343 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Obras Públicas
+18 de Oct. de 2000   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+18 de Oct. de 2000 6ª / 343 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+18 de Oct. de 2000 6ª / 343 Segundo trámite constitucional / Senado Discusión general Ver
+30 de Oct. de 2000   Segundo trámite constitucional / Senado Boletín de indicaciones
+31 de Oct. de 2000 7ª / 343 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+31 de Oct. de 2000 7ª / 343 Segundo trámite constitucional / Senado Discusión particular Ver
+31 de Oct. de 2000   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen
+02 de Nov. de 2000 10ª / 343 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+03 de Nov. de 2000 11ª / 343 Tercer trámite constitucional / C. Diputados Discusión única Ver
+03 de Nov. de 2000 11ª / 343 Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver Ver
+03 de Nov. de 2000   Tercer trámite constitucional / C. Diputados Oficio Nº 3133, que comunica aprobación de modificaciones Ver
+07 de Nov. de 2000 8ª / 343 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 3133, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2496-15","Fecha Etapa Informe Documento
+31 de Oct. de 2000 Primer trámite constitucional Senado Segundo informe de comisión de Transportes y Telecomunicaciones Ver
+18 de Oct. de 2000 Segundo trámite constitucional Senado Primer informe de comisión de Obras Públicas Ver
+11 de Oct. de 2000 Primer trámite constitucional C.Diputados Nuevo primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+25 de Sep. de 2000 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2496-15","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+03 de Nov. de 2000   Discusión inmediata 96-343  
+11 de Oct. de 2000   Discusión inmediata 60-343  
+11 de Oct. de 2000   Suma 47-343  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2496-15","Nombre Región Distrito Partido
+Francisco Encina Moriamez IV Región de Coquimbo N°8 Partido Socialista
+Juan Pablo Letelier Morel VI Región del Libertador Bernardo O' Higgins N°33 Partido Socialista
+Aníbal Pérez Lobos VI Región del Libertador Bernardo O' Higgins N°32 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2496-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2496-15","No record","Veto emmEnd"

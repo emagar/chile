@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 8842-10","Legislatura: 361
+Fecha de ingreso: jueves 14 de marzo de 2013
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 8842-10
+Materia: Convenio Seguridad Social Chile-Reino Unido Gran Bretaña E Irlanda Del Norte(13 Marzo 2012:Santiago De Chile)
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 10-11-2014 06:21:11
+* * Hitos de tramitación * *
+"emmStart Hitos 8842-10","Fecha Sesión Etapa Sub-etapa Documento
+19 de Mar. de 2013   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+19 de Mar. de 2013 3ª / 361 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+30 de Abr. de 2013   Primer trámite constitucional / Senado Primer informe de comisión Ver
+07 de May. de 2013 20ª / 361 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+04 de Sep. de 2013 53ª / 361 Primer trámite constitucional / Senado Discusión general Ver
+04 de Sep. de 2013   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+05 de Sep. de 2013 69ª / 361 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+10 de Sep. de 2013   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+01 de Oct. de 2013 75ª / 361 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+03 de Oct. de 2013 78ª / 361 Segundo trámite constitucional / C. Diputados Discusión general. Queda pendiente Ver
+08 de Oct. de 2013 79ª / 361 Segundo trámite constitucional / C. Diputados Discusión general. Aprobado en general y particular sin modificaciones Ver
+08 de Oct. de 2013   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+08 de Oct. de 2013 60ª / 361 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+08 de Oct. de 2013   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8842-10","Fecha Etapa Informe Documento
+10 de Sep. de 2013 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+07 de May. de 2013 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8842-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8842-10","Nombre
+Ministerio de Relaciones Exteriores
+Ministerio de Trabajo y Previsión Social","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8842-10","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+79   100 0 2 18 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8842-10","No record","Veto emmEnd"

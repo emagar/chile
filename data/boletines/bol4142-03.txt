@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 4142-03","Legislatura: 354
+Fecha de ingreso: jueves 06 de abril de 2006
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 4142-03
+Materia: Boletas De Compraventa,Impuesto Al Valor Agregado
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 22:14:52
+* * Hitos de tramitación * *
+"emmStart Hitos 4142-03","Fecha Sesión Etapa Sub-etapa Documento
+06 de Abr. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Abr. de 2006 10ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+14 de Jun. de 2006 36ª / 354 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Jun. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Oct. de 2006 82ª / 354 Primer trámite constitucional / C. Diputados Discusión general Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4142-03","Fecha Etapa Informe Documento
+14 de Jun. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4142-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4142-03","Nombre Región Distrito Partido
+Sergio Bobadilla Muñoz VIII Región del Bío Bío N°45 Unión Demócrata Independiente
+Francisco Chahuán Chahuán V Región de Valparaíso N°14 Renovación Nacional
+Marcela Cubillos Sigall RM Región Metropolitana N°21 Unión Demócrata Independiente
+Marcelo Forni Lobos V Región de Valparaíso N°11 Unión Demócrata Independiente
+Juan Lobos Krause VIII Región del Bío Bío N°47 Unión Demócrata Independiente
+Claudia Nogueira Fernández RM Región Metropolitana N°19 Unión Demócrata Independiente
+Darío Paya Mira RM Región Metropolitana N°28 Unión Demócrata Independiente
+Felipe Salaberry Soto RM Región Metropolitana N°25 Unión Demócrata Independiente
+Marisol Turres Figueroa X Región de los Lagos N°57 Unión Demócrata Independiente
+Felipe Ward Edwards II Región de Antofagasta N°3 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4142-03","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+82   39 40 1 0 Rechazado Sala Ver detalle votación
+9 Votación General 2 6 0 5   Economía Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4142-03","No record","Veto emmEnd"

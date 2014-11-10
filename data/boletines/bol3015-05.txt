@@ -1,0 +1,68 @@
+* * Bill summary * *
+"emmStart Summary 3015-05","Legislatura: 347
+Fecha de ingreso: martes 30 de julio de 2002
+Estado: Tramitación terminada (Ley Nº 19.840 - D.Oficial 23/11/2002)
+Numero de boletín: 3015-05
+Materia: Inversiones En El Extranjero,Fondos De Inversión Internacional,Inversiones
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 20:31:30
+* * Hitos de tramitación * *
+"emmStart Hitos 3015-05","Fecha Sesión Etapa Sub-etapa Documento
+30 de Jul. de 2002   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+30 de Jul. de 2002 21ª / 347 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+16 de Ago. de 2002   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+20 de Ago. de 2002 31ª / 347 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+20 de Ago. de 2002 31ª / 347 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+20 de Ago. de 2002   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+20 de Ago. de 2002 22ª / 347 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+02 de Sep. de 2002   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+03 de Sep. de 2002 25ª / 347 Segundo trámite constitucional / Senado Cuenta del informe de la Comisión de Hacienda.Queda para tabla.
+04 de Sep. de 2002 26ª / 347 Segundo trámite constitucional / Senado Discusión general Ver
+10 de Sep. de 2002 27ª / 347 Segundo trámite constitucional / Senado Discusión general Ver
+08 de Oct. de 2002 3ª / 347 Segundo trámite constitucional / Senado Por acuerdo de la Sala se abre un nuevo plazo para formular indicaciones, hasta las 12.00 horas del 9 de octubre en curso.
+10 de Oct. de 2002   Segundo trámite constitucional / Senado Boletín de indicaciones
+16 de Oct. de 2002   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+16 de Oct. de 2002 6ª / 348 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+29 de Oct. de 2002 7ª / 348 Segundo trámite constitucional / Senado Discusión particular Ver
+29 de Oct. de 2002   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+30 de Oct. de 2002 11ª / 348 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+05 de Nov. de 2002 13ª / 348 Tercer trámite constitucional / C. Diputados Discusión única Ver
+05 de Nov. de 2002   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+07 de Nov. de 2002   Tercer trámite constitucional / C. Diputados Oficio Nº 3983, que comunica aprobación de modificaciones Ver
+12 de Nov. de 2002 11ª / 348 Trámite finalización en Cámara de Origen / C. Diputados Cuenta, en el Senado, del oficio de aprobación de modificaciones, por la Cámara de Diputados Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3015-05","Fecha Etapa Informe Documento
+16 de Oct. de 2002 Segundo trámite constitucional Senado Segundo informe de comisión de Hacienda Ver
+02 de Sep. de 2002 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+16 de Ago. de 2002 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3015-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+29 de Oct. de 2002   Suma 87-348  
+15 de Oct. de 2002   Suma 71-348  
+08 de Oct. de 2002 15 de Oct. de 2002 Suma 61-348 71-348
+01 de Oct. de 2002 08 de Oct. de 2002 Suma 37-348 61-348
+03 de Sep. de 2002 29 de Oct. de 2002 Suma 218-397 87-348
+13 de Ago. de 2002 03 de Sep. de 2002 Suma 183-347 218-397
+30 de Jul. de 2002 13 de Ago. de 2002 Suma 154-347 183-347","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3015-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3015-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+31   103 0 0 1   Sala Ver detalle votación
+31 Nros. 1, 3 y 5 del artículo 1º 62 44 0 1   Sala Ver detalle votación
+31 Nº4 del artículo 1º 70 1 34 1   Sala Ver detalle votación
+31 1º Transitorio 61 46 0 0   Sala Ver detalle votación
+13 1º, Nº4 solo en lo referente al Nº8 del artículo 41-D 59 5 9 14   Sala Ver detalle votación
+13 1º, Nº1 64 14 14 1   Sala Ver detalle votación
+13 1º, Nº3 52 14 23 0   Sala Ver detalle votación
+13 1º, Nº4 solo en lo referente al Nº5 del artículo 41-D 59 2 28 1   Sala Ver detalle votación
+13 Todas las enmiendas con excepción del artículo 1º, Nros. 1 y 3 y el artículo 1º, Nº4, sólo en lo referente a los Nros. 5 y 8 del artículo 41-D propuesto 88 0 0 0   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3015-05","No record","Veto emmEnd"

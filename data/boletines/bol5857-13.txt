@@ -1,0 +1,52 @@
+* * Bill summary * *
+"emmStart Summary 5857-13","Legislatura: 356
+Fecha de ingreso: miércoles 07 de mayo de 2008
+Estado: Segundo trámite constitucional .
+Numero de boletín: 5857-13
+Materia: Permisos (Trabajo)
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 08-11-2014 00:02:19
+* * Hitos de tramitación * *
+"emmStart Hitos 5857-13","Fecha Sesión Etapa Sub-etapa Documento
+07 de May. de 2008   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+07 de May. de 2008 18ª / 356 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social
+03 de Jul. de 2012   Primer trámite constitucional / Senado Primer informe de comisión Ver
+03 de Jul. de 2012 30ª / 360 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Jul. de 2012 33ª / 360 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 30/07/2012 Ver
+30 de Jul. de 2012   Primer trámite constitucional / Senado Boletín de indicaciones
+08 de May. de 2013   Primer trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 13/05/2013 a las 16:00 en la Secretaría de la Comisión de Trabajo y Previsión Social
+13 de May. de 2013   Primer trámite constitucional / Senado Boletín de indicaciones
+12 de Jun. de 2013   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+12 de Jun. de 2013   Primer trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 12/06/2013 a las 17:00 en la Secretaría de la Comisión de Trabajo y Previsión Social
+13 de Jun. de 2013   Primer trámite constitucional / Senado Boletín de indicaciones
+18 de Jun. de 2013 32ª / 361 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+09 de Jul. de 2013 39ª / 361 Primer trámite constitucional / Senado Discusión particular Ver
+09 de Jul. de 2013   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+10 de Jul. de 2013 46ª / 361 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+05 de Ago. de 2014 51ª / 362 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 331-362 que hace presente la urgencia Simple Ver
+02 de Sep. de 2014 63ª / 362 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 436-362 que retira y hace presente la urgencia Simple Ver
+30 de Sep. de 2014 73ª / 362 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 578-362 que hace presente la urgencia Simple Ver
+21 de Oct. de 2014 83ª / 362 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 683-362 que hace presente la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5857-13","Fecha Etapa Informe Documento
+13 de Jun. de 2013 Primer trámite constitucional Senado Segundo informe de comisión de Trabajo y Previsión Social Ver
+03 de Jul. de 2012 Primer trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5857-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+21 de Oct. de 2014   Simple 683-362  
+30 de Sep. de 2014   Simple 578-362  
+02 de Sep. de 2014   Simple 436-362  
+05 de Ago. de 2014 02 de Sep. de 2014 Simple 331-362 436-362","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5857-13","Nombre
+Carlos Bianchi Chelech","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5857-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5857-13","No record","Veto emmEnd"

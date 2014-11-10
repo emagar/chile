@@ -1,0 +1,55 @@
+* * Bill summary * *
+"emmStart Summary 8624-07","Legislatura: 360
+Fecha de ingreso: miércoles 10 de octubre de 2012
+Estado: Segundo trámite constitucional .
+Numero de boletín: 8624-07
+Materia: Cuenta Pública ,Congreso Nacional
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 10-11-2014 03:46:56
+* * Hitos de tramitación * *
+"emmStart Hitos 8624-07","Fecha Sesión Etapa Sub-etapa Documento
+10 de Oct. de 2012   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+16 de Oct. de 2012 55ª / 360 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+04 de Oct. de 2013   Primer trámite constitucional / Senado Primer informe de comisión Ver
+08 de Oct. de 2013 60ª / 361 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Mar. de 2014 1ª / 362 Primer trámite constitucional / Senado Discusión general Ver
+01 de Abr. de 2014 4ª / 362 Primer trámite constitucional / Senado Discusión general. Aprobado en general .Se fija como plazo para presentar indicaciones el 21/04/2014. Ver
+21 de Abr. de 2014   Primer trámite constitucional / Senado Boletín de indicaciones
+22 de Abr. de 2014   Primer trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 12/05/2014 a las 12:00 en la Secretaría de la Comisión de Constitución, Legislación, Justicia y Reglamento
+04 de Jul. de 2014   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+09 de Jul. de 2014 30ª / 362 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+15 de Jul. de 2014 31ª / 362 Primer trámite constitucional / Senado Cuenta del Mensaje 259-362 que hace presente la urgencia Simple Ver
+22 de Jul. de 2014 33ª / 362 Primer trámite constitucional / Senado Discusión particular Ver
+22 de Jul. de 2014   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+23 de Jul. de 2014 49ª / 362 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+19 de Ago. de 2014 58ª / 362 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 401-362 que hace presente la urgencia Simple Ver
+09 de Sep. de 2014 66ª / 362 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 500-362 que hace presente la urgencia Simple Ver
+07 de Oct. de 2014 76ª / 362 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 627-362 que hace presente la urgencia Simple Ver
+04 de Nov. de 2014 86ª / 362 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 769-362 que hace presente la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8624-07","Fecha Etapa Informe Documento
+04 de Jul. de 2014 Primer trámite constitucional Senado Segundo informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+04 de Oct. de 2013 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8624-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Nov. de 2014   Simple 769-362  
+07 de Oct. de 2014   Simple 627-362  
+09 de Sep. de 2014   Simple 500-362  
+19 de Ago. de 2014   Simple 401-362  
+15 de Jul. de 2014   Simple 259-362  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8624-07","Nombre
+Camilo Escalona Medina
+Hernán Larraín Fernández
+Jovino Novoa Vásquez
+Andrés Zaldívar Larraín","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8624-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8624-07","No record","Veto emmEnd"

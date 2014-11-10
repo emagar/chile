@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 3820-07","Legislatura: 352
+Fecha de ingreso: martes 05 de abril de 2005
+Estado: Archivado .
+Numero de boletín: 3820-07
+Materia: Animales,Reforma Constitucional,Vegetales,Recursos De Germoplasma
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 17:49:07
+* * Hitos de tramitación * *
+"emmStart Hitos 3820-07","Fecha Sesión Etapa Sub-etapa Documento
+05 de Abr. de 2005   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+05 de Abr. de 2005 58ª / 352 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+05 de Abr. de 2005 58ª / 356 Primer trámite constitucional / C. Diputados Firma el proyecto el Diputado señor Accorsi, con fecha 9 de diciembre de 2008. Ver
+08 de Ago. de 2007 61ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 557-355 que hace presente la urgencia Simple Ver
+11 de Sep. de 2007 76ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 685-355 que retira y hace presente la urgencia Simple Ver
+02 de Oct. de 2007 79ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 725-355 que retira la urgencia Simple Ver
+09 de Jun. de 2009 37ª / 357 Archivado / Comisión de Constitución informa archivo de proyecto.
+09 de Jun. de 2009   Primer trámite constitucional / C. Diputados Archivado","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3820-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3820-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+11 de Sep. de 2007 02 de Oct. de 2007 Simple 685-355 725-355
+08 de Ago. de 2007 11 de Sep. de 2007 Simple 557-355 685-355","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3820-07","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Carlos Abel Jarpa Wevar VIII Región del Bío Bío N°41 Partido Radical Social Demócrata
+Sergio Ojeda Uribe X Región de los Lagos N°55 Partido Demócrata Cristiano
+Jaime Quintana Leal IX Región de la Araucanía N°49 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3820-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3820-07","No record","Veto emmEnd"

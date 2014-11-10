@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 308-08","Legislatura: 321
+Fecha de ingreso: jueves 14 de marzo de 1991
+Estado: Tramitación terminada (Ley Nº 19.137 - D.Oficial 12/05/1992)
+Numero de boletín: 308-08
+Materia: Pertenencias Mineras
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 14:23:12
+* * Hitos de tramitación * *
+"emmStart Hitos 308-08","Fecha Sesión Etapa Sub-etapa Documento
+14 de Mar. de 1991 36ª / 321 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+14 de Mar. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+16 de Jul. de 1991 18ª / 322 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Minería y Energía y a Comisión de Hacienda
+22 de Nov. de 1991   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+28 de Nov. de 1991   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+03 de Dic. de 1991 21ª / 323 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión. de Minería y Energía y de Hacienda. Quedan para Tabla.
+09 de Ene. de 1992   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+23 de Ene. de 1992 37ª / 323 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión. de Minería y Energía. Queda para Tabla.
+28 de Ene. de 1992   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+28 de Abr. de 1992 53ª / 323 Discusión veto en Cámara Revisora / Senado Cuenta oficio aprobación veto. Pasa a Comisión de Minería y Energía
+29 de Abr. de 1992   Discusión veto en Cámara Revisora / Senado Informe de comisión Ver
+29 de Abr. de 1992 54ª / 323 Discusión veto en Cámara Revisora / Senado Cuenta informe de comisión. de Minería. Queda para Tabla.
+29 de Abr. de 1992   Discusión veto en Cámara Revisora / Senado Oficio aprobación veto a Cámara de Origen Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 308-08","Fecha Etapa Informe Documento
+29 de Abr. de 1992 Discusión veto en Cámara Revisora Senado Informe de comisión de Minería y Energía Ver
+09 de Ene. de 1992 Segundo trámite constitucional Senado Segundo informe de comisión de Minería y Energía Ver
+28 de Nov. de 1991 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+22 de Nov. de 1991 Segundo trámite constitucional Senado Primer informe de comisión de Minería y Energía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 308-08","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+14 de Mar. de 1991   Simple    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 308-08","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 308-08","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 308-08","No record","Veto emmEnd"

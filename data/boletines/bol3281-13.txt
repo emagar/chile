@@ -1,0 +1,64 @@
+* * Bill summary * *
+"emmStart Summary 3281-13","Legislatura: 349
+Fecha de ingreso: miércoles 09 de julio de 2003
+Estado: Tramitación terminada (Ley Nº 19.945 - D.Oficial 25/05/2004)
+Numero de boletín: 3281-13
+Materia:
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 01:06:15
+* * Hitos de tramitación * *
+"emmStart Hitos 3281-13","Fecha Sesión Etapa Sub-etapa Documento
+09 de Jul. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+09 de Jul. de 2003 15ª / 349 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+15 de Jul. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+29 de Jul. de 2003 20ª / 349 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+31 de Jul. de 2003 23ª / 349 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+31 de Jul. de 2003   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+06 de Ago. de 2003 20ª / 349 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social
+10 de Oct. de 2003   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+14 de Oct. de 2003 3ª / 350 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+15 de Oct. de 2003 4ª / 350 Segundo trámite constitucional / Senado Discusión general Ver
+04 de Nov. de 2003   Segundo trámite constitucional / Senado Boletín de indicaciones
+11 de Dic. de 2003   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+16 de Dic. de 2003 19ª / 350 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+06 de Ene. de 2004 22ª / 350 Segundo trámite constitucional / Senado Discusión particular Ver
+06 de Ene. de 2004   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+07 de Ene. de 2004 39ª / 350 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+17 de Mar. de 2004 61ª / 350 Tercer trámite constitucional / C. Diputados Discusión única Ver
+17 de Mar. de 2004   Tercer trámite constitucional / C. Diputados Oficio Nº 4835, que comunica aprobación de modificaciones Ver
+17 de Mar. de 2004   Trámite de aprobacion presidencial / C. Diputados Oficio al Ejecutivo, comunica proyecto aprobado para los efectos del artículo 70 de la Constitución Política del Estado. Ver
+30 de Mar. de 2004 64ª / 350 Trámite de aprobacion presidencial / C. Diputados Cuenta Oficio Nº 542-350 de S.E. el Presidente de la República, manifiesta que ha resuelto no hacer uso de la facultad que le confiere el inciso primero del artículo 70 de la Constitución Política de la República. Ver Ver
+30 de Mar. de 2004   Trámite en Tribunal Constitucional / C. Diputados Oficio Nº 4848 al Tribunal Constitucional Ver
+30 de Mar. de 2004 41ª / 350 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 4835, que comunica aprobación de modificaciones Ver
+13 de Abr. de 2004 71ª / 350 Trámite en Tribunal Constitucional / C. Diputados Cuenta Oficio Tribunal Constitucional, remite sentencia recaída en proyecto. Ver Ver
+13 de Abr. de 2004   Trámite en Tribunal Constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3281-13","Fecha Etapa Informe Documento
+11 de Dic. de 2003 Segundo trámite constitucional Senado Segundo informe de comisión de Trabajo y Previsión Social Ver
+10 de Oct. de 2003 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver
+15 de Jul. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3281-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3281-13","Nombre Región Distrito Partido
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Juan Bustos Ramírez V Región de Valparaíso N°12 Partido Socialista
+Pedro Muñoz Aburto XII Región de Magallanes y de la Antártica Chilena N°60 Partido Socialista
+Adriana Muñoz D'Albora IV Región de Coquimbo N°9 Partido Por la Democracia
+Carlos Olivares Zepeda RM Región Metropolitana N°18 Partido Demócrata Cristiano
+José Miguel Ortiz Novoa VIII Región del Bío Bío N°44 Partido Demócrata Cristiano
+Edgardo Riveros Marín RM Región Metropolitana N°30 Partido Demócrata Cristiano
+Rodolfo Seguel Molina RM Región Metropolitana N°28 Partido Demócrata Cristiano
+Boris Tapia Martínez VII Región del Maule N°36 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3281-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+61   100 0 0 0 Aprobado Sala Ver detalle votación
+23   66 0 0 0   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3281-13","No record","Veto emmEnd"

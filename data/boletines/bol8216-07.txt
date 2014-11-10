@@ -1,0 +1,60 @@
+* * Bill summary * *
+"emmStart Summary 8216-07","Legislatura: 360
+Fecha de ingreso: jueves 22 de marzo de 2012
+Estado: Tramitación terminada (Ley Nº 20.779 - D.Oficial 17/09/2014)
+Numero de boletín: 8216-07 Refundido con: 8609-07
+Materia: Circunstancias Agravantes ,Homicidio Simple
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 22:51:51
+* * Hitos de tramitación * *
+"emmStart Hitos 8216-07","Fecha Sesión Etapa Sub-etapa Documento
+22 de Mar. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+22 de Mar. de 2012 7ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+13 de Jun. de 2013 38ª / 361 Primer trámite constitucional / C. Diputados Oficio de la Comisión de Constitución, Legislación y Justicia, por el cual solicita el acuerdo de la Sala, de conformidad con el artículo 17 A de la Ley Orgánica Constitucional del Congreso Nacional, para refundir los Boletines N°s . 8216-07 y 8609-07. Ver
+19 de Jun. de 2013   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Jul. de 2013 42ª / 361 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+11 de Jul. de 2013 47ª / 361 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general y particular a la vez . Ver
+11 de Jul. de 2013   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+17 de Jul. de 2013 41ª / 361 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+02 de Sep. de 2014   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+02 de Sep. de 2014 42ª / 362 Segundo trámite constitucional / Senado Cuenta del Mensaje 452-362 que hace presente la urgencia Suma
+03 de Sep. de 2014 44ª / 362 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+03 de Sep. de 2014 44ª / 362 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 05/09/2014 Ver
+05 de Sep. de 2014   Segundo trámite constitucional / Senado Boletín de indicaciones
+08 de Sep. de 2014   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+09 de Sep. de 2014 45ª / 362 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+10 de Sep. de 2014 47ª / 362 Segundo trámite constitucional / Senado Cuenta del Mensaje 521-362 que retira y hace presente la urgencia Discusión inmediata Ver
+10 de Sep. de 2014 47ª / 362 Segundo trámite constitucional / Senado Discusión particular Ver
+10 de Sep. de 2014   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+11 de Sep. de 2014 69ª / 362 Tercer trámite constitucional / C. Diputados Oficio del Senado por el cual comunica aprobación de proyecto con enmiendas (1034/SEC/14) Ver
+11 de Sep. de 2014 69ª / 362 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+11 de Sep. de 2014 69ª / 362 Tercer trámite constitucional / C. Diputados Discusión única. Aprobadas las modificaciones Ver
+11 de Sep. de 2014   Tercer trámite constitucional / C. Diputados Oficio N° 11.468, que comunica al Senado aprobación de modificaciones. Ver
+11 de Sep. de 2014   Tercer trámite constitucional / C. Diputados Oficio N° 11.469, que comunica a la Presidenta de la República la aprobación del proyecto de ley, para promulgación. Ver
+23 de Sep. de 2014 48ª / 362 Tercer trámite constitucional / C. Diputados Cuenta oficio N? 11.468, que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8216-07","Fecha Etapa Informe Documento
+08 de Sep. de 2014 Segundo trámite constitucional Senado Segundo informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+02 de Sep. de 2014 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+26 de Jun. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8216-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+10 de Sep. de 2014   Discusión inmediata 521-362  
+02 de Sep. de 2014 10 de Sep. de 2014 Suma 452-362 521-362","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8216-07","Nombre Región Distrito Partido
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Marcelo Díaz Díaz IV Región de Coquimbo N°7 Partido Socialista
+Felipe Harboe Bascuñán RM Región Metropolitana N°22 Partido Por la Democracia
+Cristián Monckeberg Bruner RM Región Metropolitana N°23 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8216-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+47   50 0 0 70 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8216-07","No record","Veto emmEnd"

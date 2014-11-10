@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 1284-10","Legislatura: 329
+Fecha de ingreso: martes 12 de julio de 1994
+Estado: Tramitación terminada (D.S. Nº 48 - D.Oficial 26/04/1995)
+Numero de boletín: 1284-10
+Materia: Visas
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 05:23:22
+* * Hitos de tramitación * *
+"emmStart Hitos 1284-10","Fecha Sesión Etapa Sub-etapa Documento
+12 de Jul. de 1994 12ª / 329 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+12 de Jul. de 1994   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+08 de Sep. de 1994 32ª / 329 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+08 de Sep. de 1994 32ª / 329 Primer trámite constitucional / Senado Primer informe de comisión Ver
+13 de Sep. de 1994 33ª / 329 Primer trámite constitucional / Senado Discusión general Ver
+15 de Sep. de 1994 33ª / 329 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+04 de Oct. de 1994 1ª / 330 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+05 de Dic. de 1994   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+06 de Dic. de 1994 22ª / 330 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de Dic. de 1994 24ª / 330 Segundo trámite constitucional / C. Diputados Discusión general Ver
+19 de Dic. de 1994   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+20 de Dic. de 1994 28ª / 330 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+21 de Dic. de 1994 28ª / 344 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1284-10","Fecha Etapa Informe Documento
+05 de Dic. de 1994 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+08 de Sep. de 1994 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1284-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1284-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1284-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1284-10","No record","Veto emmEnd"

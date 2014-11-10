@@ -1,0 +1,59 @@
+* * Bill summary * *
+"emmStart Summary 6989-13","Legislatura: 358
+Fecha de ingreso: martes 15 de junio de 2010
+Estado: Tramitación terminada (Ley N° 20.449 - D.Oficial 03/07/2010)
+Numero de boletín: 6989-13
+Materia: Ingreso Mínimo Mensual,Reajuste Ingreso Mínimo Mensual
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 22:58:30
+* * Hitos de tramitación * *
+"emmStart Hitos 6989-13","Fecha Sesión Etapa Sub-etapa Documento
+15 de Jun. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+15 de Jun. de 2010 39ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social y a Comisión de Hacienda Ver
+15 de Jun. de 2010 39ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 163-358 que hace presente la urgencia Discusión inmediata Ver
+16 de Jun. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Jun. de 2010 41ª / 358 Primer trámite constitucional / C. Diputados Primer informe de Comisión de Hacienda. EN ESTADO DE TABLA. Ver
+17 de Jun. de 2010 41ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 164-358 que retira la urgencia Discusión inmediata Ver
+29 de Jun. de 2010 42ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 176-358 que hace presente la urgencia Discusión inmediata Ver
+29 de Jun. de 2010 42ª / 358 Primer trámite constitucional / C. Diputados aprobado en general y particular Ver
+29 de Jun. de 2010   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+29 de Jun. de 2010 30ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+30 de Jun. de 2010   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+30 de Jun. de 2010 31ª / 358 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+30 de Jun. de 2010 31ª / 358 Segundo trámite constitucional / Senado Discusión general Ver
+30 de Jun. de 2010   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+01 de Jul. de 2010 46ª / 358 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+01 de Jul. de 2010 46ª / 358 Tercer trámite constitucional / C. Diputados Discusión única Ver
+01 de Jul. de 2010   Tercer trámite constitucional / C. Diputados Oficio N° 8845, que comunica aprobacion de modificaciones Ver
+01 de Jul. de 2010   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+06 de Jul. de 2010 32ª / 358 Tercer trámite constitucional / C. Diputados Cuenta oficio N? 8845, que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6989-13","Fecha Etapa Informe Documento
+30 de Jun. de 2010 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+29 de Jun. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver
+16 de Jun. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6989-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+29 de Jun. de 2010   Discusión inmediata 176-358  
+15 de Jun. de 2010 17 de Jun. de 2010 Discusión inmediata 163-358 164-358","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6989-13","Nombre Región Distrito Partido
+Ministerio de Hacienda      
+Ministerio de Trabajo y Previsión Social      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6989-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+10 Votación General 7 6 0 0   Trabajo Ver detalle votación
+46 Modificación del Senado por la cual se introducen los artículos 2°, 3° y 4° referidos a asignación familiar, subsidio familiar y financiamiento del mayor gasto fiscal. 78 34 2 6 Aprobado Sala Ver detalle votación
+42   110 1 1 8 Aprobado Sala Ver detalle votación
+42 inciso segundo del artículo único, conjuntamente con una indicación de S.E. el Presidente de la República para reemplazar el guarismo “$126.909” por “$128.402”. 58 55 0 7 Aprobado Sala Ver detalle votación
+42 inciso tercero del artículo único, conjuntamente con una indicación de S.E. el Presidente de la República para reemplazar el guarismo “$109.660” por “$110.950”. 80 31 3 6 Aprobado Sala Ver detalle votación
+46 Cierre del debate. 64 43 4 9 Aprobado Sala Ver detalle votación
+42 inciso primero del artículo único, con una indicación de S.E. el Presidente de la República para reemplazar el guarismo “$170.000” por “$172.000”. 58 54 1 7 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6989-13","No record","Veto emmEnd"

@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 947-13","Legislatura: 325
+Fecha de ingreso: martes 30 de marzo de 1993
+Estado: Tramitación terminada (Ley Nº 19.299 - D.Oficial 12/03/1994)
+Numero de boletín: 947-13
+Materia: Subsidios
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 01:05:28
+* * Hitos de tramitación * *
+"emmStart Hitos 947-13","Fecha Sesión Etapa Sub-etapa Documento
+29 de Mar. de 1993 57ª / 325 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+29 de Mar. de 1993   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+24 de Nov. de 1993 17ª / 327 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social
+04 de Ene. de 1994   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+11 de Ene. de 1994   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+18 de Ene. de 1994 25ª / 327 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+25 de Ene. de 1994 29ª / 327 Segundo trámite constitucional / Senado Discusión general Ver
+25 de Ene. de 1994   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+25 de Ene. de 1994   Segundo trámite constitucional / Senado Oficio Nº5302. comunica aprobación con modificaciones a Cámara de origen Ver
+26 de Ene. de 1994 32ª / 327 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio Nº 1547, de la Cámata, comunicando aprobación de enmiendas propuestas por el Senado Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 947-13","Fecha Etapa Informe Documento
+11 de Ene. de 1994 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+04 de Ene. de 1994 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 947-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 947-13","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 947-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 947-13","No record","Veto emmEnd"

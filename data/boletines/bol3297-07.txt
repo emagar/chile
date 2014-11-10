@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 3297-07","Legislatura: 349
+Fecha de ingreso: martes 29 de julio de 2003
+Estado: Archivado .
+Numero de boletín: 3297-07
+Materia: Código Penal
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 01:15:51
+* * Hitos de tramitación * *
+"emmStart Hitos 3297-07","Fecha Sesión Etapa Sub-etapa Documento
+29 de Jul. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+29 de Jul. de 2003 20ª / 349 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+07 de Oct. de 2003 1ª / 350 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+09 de Jun. de 2009   Segundo trámite constitucional / Senado Archivado
+09 de Jun. de 2009 37ª / 357 Archivado / Comisión de Constitución archiva proyecto.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3297-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3297-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+29 de Jul. de 2003   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3297-07","Nombre Región Distrito Partido
+Ramón Barros Montero VI Región del Libertador Bernardo O' Higgins N°35 Unión Demócrata Independiente
+Eugenio Bauer Jouanne VI Región del Libertador Bernardo O' Higgins N°33 Unión Demócrata Independiente
+Rosa González Román I Región de Tarapacá N°1 Unión Demócrata Independiente
+Javier Hernández Hernández X Región de los Lagos N°55 Unión Demócrata Independiente
+Juan Masferrer Pellizzari VI Región del Libertador Bernardo O' Higgins N°34 Unión Demócrata Independiente
+Iván Norambuena Farías VIII Región del Bío Bío N°46 Unión Demócrata Independiente
+Víctor Pérez Varela VIII Región del Bío Bío N°47 Unión Demócrata Independiente
+Pablo Prieto Lorca VII Región del Maule N°37 Unión Demócrata Independiente
+Ignacio Urrutia Bonilla VII Región del Maule N°40 Unión Demócrata Independiente
+Gastón Von Mühlenbrock Zamora X Región de los Lagos N°54 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3297-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3297-07","No record","Veto emmEnd"

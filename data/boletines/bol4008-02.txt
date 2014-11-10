@@ -1,0 +1,48 @@
+* * Bill summary * *
+"emmStart Summary 4008-02","Legislatura: 353
+Fecha de ingreso: jueves 06 de octubre de 2005
+Estado: Primer trámite constitucional .
+Numero de boletín: 4008-02
+Materia: Remuneraciones En El Exterior
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 05-11-2014 07:48:55
+* * Hitos de tramitación * *
+"emmStart Hitos 4008-02","Fecha Sesión Etapa Sub-etapa Documento
+06 de Oct. de 2005   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+11 de Oct. de 2005 40ª / 353 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Defensa Nacional y a Comisión de Hacienda
+04 de Nov. de 2005   Primer trámite constitucional / Senado Primer informe de comisión Ver
+08 de Nov. de 2005 46ª / 353 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+09 de Nov. de 2005 47ª / 353 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 12/12/2005 Ver
+13 de Dic. de 2005 48ª / 353 Primer trámite constitucional / Senado Se acuerda nuevo plazo de indicaciones hasta las 12 horas del martes 20 de diciembre en curso.
+20 de Dic. de 2005   Primer trámite constitucional / Senado Boletín de indicaciones
+17 de Ene. de 2007 85ª / 354 Primer trámite constitucional / Senado Se acuerda abrir nuevo plazo de indicaciones hasta las 12 horas del lunes 19/03/2007.
+20 de Mar. de 2007 4ª / 355 Primer trámite constitucional / Senado Se acuerda ampliar el plazo de indicaciones hasta las 12 horas del lunes 09/04/2007.
+04 de Mar. de 2008 88ª / 355 Primer trámite constitucional / Senado Cuenta del Mensaje 1434-355 que hace presente la urgencia Simple
+08 de Abr. de 2008 8ª / 356 Primer trámite constitucional / Senado Cuenta del Mensaje 112-356 que retira y hace presente la urgencia Simple
+13 de May. de 2008 19ª / 356 Primer trámite constitucional / Senado Cuenta del Mensaje 262-356 que retira y hace presente la urgencia Simple
+17 de Jun. de 2008 27ª / 356 Primer trámite constitucional / Senado Cuenta del Mensaje 425-356 que retira y hace presente la urgencia Simple
+29 de Jul. de 2008 38ª / 356 Primer trámite constitucional / Senado Cuenta del Mensaje 607-356 que retira la urgencia Simple
+16 de Mar. de 2010   Primer trámite constitucional / Senado Con esta fecha, y en conformidad con lo dispuesto en el inciso segundo del artículo 36 bis del Reglamento del Senado, la Comisión dispone el archivo de este asunto.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4008-02","Fecha Etapa Informe Documento
+04 de Nov. de 2005 Primer trámite constitucional Senado Primer informe de comisión de Defensa Nacional Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4008-02","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+17 de Jun. de 2008 29 de Jul. de 2008 Simple 425-356 607-356
+13 de May. de 2008 16 de Jun. de 2008 Simple 262-356 425-356
+08 de Abr. de 2008 12 de May. de 2008 Simple 112-356 262-356
+04 de Mar. de 2008 07 de Abr. de 2008 Simple 1434-355 112-356","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4008-02","Nombre
+Ministerio de Defensa Nacional
+Ministerio de Hacienda","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4008-02","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4008-02","No record","Veto emmEnd"

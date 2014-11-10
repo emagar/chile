@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 2109-11","Legislatura: 336
+Fecha de ingreso: martes 21 de octubre de 1997
+Estado: Tramitación terminada (Ley Nº 19.546 - D.Oficial 02/02/1998)
+Numero de boletín: 2109-11
+Materia: Atencion Primaria De La Salud
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 21:05:12
+* * Hitos de tramitación * *
+"emmStart Hitos 2109-11","Fecha Sesión Etapa Sub-etapa Documento
+21 de Oct. de 1997   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+21 de Oct. de 1997 9ª / 336 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver
+18 de Nov. de 1997   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+25 de Nov. de 1997   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+25 de Nov. de 1997 18ª / 336 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+25 de Nov. de 1997 18ª / 336 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+25 de Nov. de 1997   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+16 de Dic. de 1997 20ª / 336 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Salud
+17 de Dic. de 1997 21ª / 336 Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+17 de Dic. de 1997 21ª / 336 Segundo trámite constitucional / Senado Primer informe de comisión Ver
+17 de Dic. de 1997 21ª / 336 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+17 de Dic. de 1997 21ª / 336 Segundo trámite constitucional / Senado Discusión general Ver
+17 de Dic. de 1997 21ª / 336 Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen
+06 de Ene. de 1998 21ª / 336 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+07 de Ene. de 1998 22ª / 336 Tercer trámite constitucional / C. Diputados Discusión única Ver
+07 de Ene. de 1998   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2109-11","Fecha Etapa Informe Documento
+17 de Dic. de 1997 Segundo trámite constitucional Senado Primer informe de comisión de Salud Ver
+17 de Dic. de 1997 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+25 de Nov. de 1997 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+18 de Nov. de 1997 Primer trámite constitucional C.Diputados Primer informe de comisión de Salud Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2109-11","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2109-11","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2109-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2109-11","No record","Veto emmEnd"

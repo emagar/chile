@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 874-10","Legislatura: 325
+Fecha de ingreso: miércoles 09 de diciembre de 1992
+Estado: Tramitación terminada (D.S. Nº 30 - D.Oficial 12/05/1995)
+Numero de boletín: 874-10
+Materia: Unión Postal Universal
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 00:07:11
+* * Hitos de tramitación * *
+"emmStart Hitos 874-10","Fecha Sesión Etapa Sub-etapa Documento
+09 de Dic. de 1992 15ª / 325 Primer trámite constitucional / Senado Cuenta de proyecto
+09 de Dic. de 1992   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+18 de Ago. de 1994 25ª / 329 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+18 de Ago. de 1994 25ª / 329 Primer trámite constitucional / Senado Primer informe de comisión Ver
+30 de Ago. de 1994 26ª / 329 Primer trámite constitucional / Senado Discusión general. Aprobado en general y en particular. Ver
+30 de Ago. de 1994 26ª / 329 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+06 de Sep. de 1994 36ª / 329 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+13 de Sep. de 1994   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Oct. de 1994 4ª / 344 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+11 de Oct. de 1994 4ª / 330 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 874-10","Fecha Etapa Informe Documento
+13 de Sep. de 1994 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+18 de Ago. de 1994 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 874-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 874-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 874-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 874-10","No record","Veto emmEnd"

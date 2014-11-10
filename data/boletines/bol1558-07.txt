@@ -1,0 +1,53 @@
+* * Bill summary * *
+"emmStart Summary 1558-07","Legislatura: 330
+Fecha de ingreso: jueves 06 de abril de 1995
+Estado: Archivado .
+Numero de boletín: 1558-07
+Materia: Código De Procedimiento Penal
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 10:40:17
+* * Hitos de tramitación * *
+"emmStart Hitos 1558-07","Fecha Sesión Etapa Sub-etapa Documento
+06 de Abr. de 1995   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Abr. de 1995 55ª / 330 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+15 de Jul. de 1997   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+15 de Jul. de 1997   Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión
+23 de Jul. de 1997 25ª / 335 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+23 de Jul. de 1997   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+23 de Jul. de 1997   Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión
+13 de Ago. de 1997 32ª / 335 Primer trámite constitucional / C. Diputados Discusión particular Ver
+13 de Ago. de 1997   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+26 de Ago. de 1997 26ª / 335 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+13 de Mar. de 2002   Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 346
+17 de Jun. de 2002   Segundo trámite constitucional / Senado Oficio NºL-Nº 61/02 Comisión de Constitución. Propone archivo. Ver
+18 de Jun. de 2002 7ª / 347 Segundo trámite constitucional / Senado Cuenta. Oficio Com. de Constitución acuerda solicitar su archivo
+19 de Jun. de 2002   Segundo trámite constitucional / Senado Oficio al Senado, comunica acuerdo de archivo de proyecto. Ver
+02 de Jul. de 2002 10ª / 347 Segundo trámite constitucional / Senado Archivado Cuenta del oficio de la Cámara de Diputados en que se comunica que se acordó acceder al archivo solicitado.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1558-07","Fecha Etapa Informe Documento
+23 de Jul. de 1997 Primer trámite constitucional C.Diputados Segundo informe de comisión de Constitución, Legislación y Justicia Ver
+15 de Jul. de 1997 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1558-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1558-07","Nombre Región Distrito Partido
+Claudio Alvarado Andrade Región N° Unión Demócrata Independiente
+Carlos Bombal Otaegui Región N°22 Unión Demócrata Independiente
+Alberto Cardemil Herrera Región N° Renovación Nacional
+Andrés Chadwick Piñera Región N°33 Unión Demócrata Independiente
+Sergio Elgueta Barrientos Región N°57 Partido Demócrata Cristiano
+Luis Valentín Ferrada Valenzuela Región N° Renovación Nacional
+Rubén Gajardo Chacón Región N°4 Partido Demócrata Cristiano
+Víctor Pérez Varela Región N°47 Unión Demócrata Independiente
+Jorge Ulloa Aguillón Región N°43 Unión Demócrata Independiente
+José Antonio Viera-Gallo Quesney Región N°44 Partido Socialista","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1558-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1558-07","No record","Veto emmEnd"

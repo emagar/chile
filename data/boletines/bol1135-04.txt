@@ -1,0 +1,52 @@
+* * Bill summary * *
+"emmStart Summary 1135-04","Legislatura: 327
+Fecha de ingreso: miércoles 05 de enero de 1994
+Estado: Tramitación terminada (Ley Nº 19.305 - D.Oficial 23/04/1994)
+Numero de boletín: 1135-04
+Materia: Universidades Estatales,Universidades
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 03:31:20
+* * Hitos de tramitación * *
+"emmStart Hitos 1135-04","Fecha Sesión Etapa Sub-etapa Documento
+05 de Ene. de 1994 20ª / 327 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+05 de Ene. de 1994 20ª / 327 Primer trámite constitucional / Senado Ingreso de proyecto Ver
+12 de Ene. de 1994 24ª / 327 Primer trámite constitucional / Senado Primer informe de comisión Ver
+13 de Ene. de 1994 24ª / 327 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+19 de Ene. de 1994 27ª / 327 Primer trámite constitucional / Senado Discusión general Ver
+24 de Ene. de 1994   Primer trámite constitucional / Senado Boletín de indicaciones
+25 de Ene. de 1994 32ª / 327 Primer trámite constitucional / Senado Segundo informe de comisión Ver
+26 de Ene. de 1994 32ª / 327 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+05 de Abr. de 1994 4ª / 328 Primer trámite constitucional / Senado Discusión particular Ver
+06 de Abr. de 1994 6ª / 328 Primer trámite constitucional / Senado Nuevo segundo informe de comisión Ver
+12 de Abr. de 1994 6ª / 328 Primer trámite constitucional / Senado Cuenta nuevo segundo informe
+13 de Abr. de 1994 7ª / 328 Primer trámite constitucional / Senado Discusión particular Ver
+13 de Abr. de 1994 7ª / 328 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+14 de Abr. de 1994 12ª / 328 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+14 de Abr. de 1994   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+19 de Abr. de 1994 13ª / 328 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+19 de Abr. de 1994 13ª / 328 Segundo trámite constitucional / C. Diputados Discusión general Ver
+19 de Abr. de 1994   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+20 de Abr. de 1994 9ª / 328 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+21 de Abr. de 1994 9ª / 344 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1135-04","Fecha Etapa Informe Documento
+14 de Abr. de 1994 Segundo trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver
+06 de Abr. de 1994 Primer trámite constitucional Senado Nuevo segundo informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+25 de Ene. de 1994 Primer trámite constitucional Senado Segundo informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+12 de Ene. de 1994 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1135-04","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+18 de Ene. de 1994 09 de Mar. de 1994 Suma 180194 090394
+08 de Oct. de 1992 05 de Abr. de 1994 Suma 220394 050494","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1135-04","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1135-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1135-04","No record","Veto emmEnd"

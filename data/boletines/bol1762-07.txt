@@ -1,0 +1,51 @@
+* * Bill summary * *
+"emmStart Summary 1762-07","Legislatura: 332
+Fecha de ingreso: martes 05 de diciembre de 1995
+Estado: Tramitación terminada (Ley Nº 19.448 - D.Oficial 20/02/1996)
+Numero de boletín: 1762-07
+Materia: Elecciones,Elecciones Municipales
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 14:13:27
+* * Hitos de tramitación * *
+"emmStart Hitos 1762-07","Fecha Sesión Etapa Sub-etapa Documento
+05 de Dic. de 1995   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+05 de Dic. de 1995 31ª / 332 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+06 de Dic. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+06 de Dic. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+06 de Dic. de 1995 33ª / 332 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+06 de Dic. de 1995 33ª / 332 Primer trámite constitucional / C. Diputados Pendiente Discusión. Ver
+06 de Dic. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+06 de Dic. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Dic. de 1995 34ª / 332 Primer trámite constitucional / C. Diputados Discusión general Ver
+12 de Dic. de 1995   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+12 de Dic. de 1995 23ª / 332 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión Constitución, Legislación, Justicia y Reglamento y Gobierno, Descentralización y Regionalización
+13 de Dic. de 1995   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+13 de Dic. de 1995 24ª / 332 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+13 de Dic. de 1995 24ª / 332 Segundo trámite constitucional / Senado Discusión general Ver
+13 de Dic. de 1995   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+14 de Dic. de 1995 36ª / 332 Tercer trámite constitucional / C. Diputados Discusión única Ver
+14 de Dic. de 1995 36ª / 332 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+14 de Dic. de 1995   Tercer trámite constitucional / C. Diputados Oficio aprobación de modificaciones de Ref.Constitucional Ver
+12 de Mar. de 1996 39ª / 332 Congreso Pleno / Cuenta oficio aprobacion modificaciones
+12 de Mar. de 1996 39ª / 332 Congreso Pleno / Ratificación reforma constitucional
+12 de Mar. de 1996   Congreso Pleno / Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1762-07","Fecha Etapa Informe Documento
+13 de Dic. de 1995 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento y de Gobierno, Descentralización y Regionalización, unidas Ver
+06 de Dic. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+06 de Dic. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1762-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+05 de Dic. de 1995   Discusión inmediata    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1762-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1762-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1762-07","No record","Veto emmEnd"

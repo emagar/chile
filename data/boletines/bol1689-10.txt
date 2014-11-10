@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 1689-10","Legislatura: 331
+Fecha de ingreso: miércoles 06 de septiembre de 1995
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 1689-10
+Materia: Acuerdos Internacionales,Organización Mundial Del Turismo
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 12:21:13
+* * Hitos de tramitación * *
+"emmStart Hitos 1689-10","Fecha Sesión Etapa Sub-etapa Documento
+06 de Sep. de 1995   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+06 de Sep. de 1995 32ª / 331 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+12 de Ago. de 1997   Primer trámite constitucional / Senado Primer informe de comisión Ver
+12 de Ago. de 1997 24ª / 335 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+13 de Ago. de 1997 25ª / 335 Primer trámite constitucional / Senado Discusión general Ver
+13 de Ago. de 1997   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+20 de Ago. de 1997 35ª / 335 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+17 de Jun. de 1998   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Jun. de 1998 9ª / 338 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+18 de Jun. de 1998 10ª / 338 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+18 de Jun. de 1998   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+30 de Jun. de 1998   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+30 de Jun. de 1998 9ª / 338 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1689-10","Fecha Etapa Informe Documento
+17 de Jun. de 1998 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+12 de Ago. de 1997 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1689-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+06 de Sep. de 1995 16 de Sep. de 1998 Sin urgencia   CADUCADO","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1689-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1689-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1689-10","No record","Veto emmEnd"

@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 720-07","Legislatura: 324
+Fecha de ingreso: martes 09 de junio de 1992
+Estado: Archivado .
+Numero de boletín: 720-07
+Materia: Constitucion 1980,Elecciones
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 22:03:39
+* * Hitos de tramitación * *
+"emmStart Hitos 720-07","Fecha Sesión Etapa Sub-etapa Documento
+09 de Jun. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+15 de Oct. de 1992 6ª / 324 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+22 de Oct. de 1992 6ª / 325 Segundo trámite constitucional / Senado Cuenta de proyecto
+22 de Dic. de 1992 19ª / 325 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+22 de Dic. de 1992 19ª / 325 Segundo trámite constitucional / Senado Primer informe de comisión Ver
+05 de Ene. de 1993 20ª / 325 Segundo trámite constitucional / Senado Queda para segunda discusión.
+12 de Ene. de 1993 22ª / 325 Segundo trámite constitucional / Senado Discusión general. Rechazado en general el proyecto. Se acuerda designar a los miembros de la Comisión de Constitución, Legislación, Justicia y Reglamento para que integren la Comisión Mixta que corresponde formar.
+14 de Ene. de 1993 22ª / 325 Segundo trámite constitucional / Senado Oficio rechazo a Cámara de Origen Ver
+19 de Ene. de 1993 42ª / 325 Segundo trámite constitucional / Senado Cuenta oficio rechazo de Cámara Revisora Ver
+13 de Jul. de 2010   Tramitación terminada / Archivado Proyecto rechazado. Of. 3831, de 14-01-1993, del Senado, comunica rechazo del proyecto.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 720-07","Fecha Etapa Informe Documento
+22 de Dic. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 720-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+15 de Oct. de 1992   Simple    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 720-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 720-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 720-07","No record","Veto emmEnd"

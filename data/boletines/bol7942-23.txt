@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 7942-23","Legislatura: 359
+Fecha de ingreso: martes 27 de septiembre de 2011
+Estado: Segundo trámite constitucional .
+Numero de boletín: 7942-23
+Materia: Riesgos Del Juego,Casinos (Juegos De Azar)
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 13:37:35
+* * Hitos de tramitación * *
+"emmStart Hitos 7942-23","Fecha Sesión Etapa Sub-etapa Documento
+27 de Sep. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+27 de Sep. de 2011 85ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión Desarrollo del Turismo Ver
+04 de Nov. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de Nov. de 2011 105ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+10 de Nov. de 2011 107ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+10 de Nov. de 2011   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7942-23","Fecha Etapa Informe Documento
+04 de Nov. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión Desarrollo del Turismo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7942-23","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7942-23","Nombre Región Distrito Partido
+Pedro Pablo Alvarez-Salamanca Ramírez VII Región del Maule N°38 Unión Demócrata Independiente
+Gonzalo Arenas Hödar IX Región de la Araucanía N°48 Unión Demócrata Independiente
+María Angélica Cristi Marfil RM Región Metropolitana N°24 Unión Demócrata Independiente
+Romilio Gutiérrez Pino VII Región del Maule N°39 Unión Demócrata Independiente
+Gustavo Hasbún Selume RM Región Metropolitana N°26 Unión Demócrata Independiente
+Javier Hernández Hernández X Región de los Lagos N°55 Unión Demócrata Independiente
+Issa Farid Kort Garriga VI Región del Libertador Bernardo O' Higgins N°32 Unión Demócrata Independiente
+Celso Morales Muñoz VII Región del Maule N°36 Unión Demócrata Independiente
+David Sandoval Plaza XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Unión Demócrata Independiente
+Enrique Van Rysselberghe Herrera VIII Región del Bío Bío N°44 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7942-23","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+107   63 0 3 54 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7942-23","No record","Veto emmEnd"

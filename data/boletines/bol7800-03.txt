@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 7800-03","Legislatura: 359
+Fecha de ingreso: martes 19 de julio de 2011
+Estado: Primer trámite constitucional .
+Numero de boletín: 7800-03
+Materia: Ofertas De Servicios
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 11:19:37
+* * Hitos de tramitación * *
+"emmStart Hitos 7800-03","Fecha Sesión Etapa Sub-etapa Documento
+19 de Jul. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+19 de Jul. de 2011 58ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7800-03","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7800-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7800-03","Nombre Región Distrito Partido
+Pedro Pablo Alvarez-Salamanca Ramírez VII Región del Maule N°38 Unión Demócrata Independiente
+Gonzalo Arenas Hödar IX Región de la Araucanía N°48 Unión Demócrata Independiente
+Giovanni Calderón Bassi III Región de Atacama N°6 Unión Demócrata Independiente
+Alejandro García-Huidobro Sanfuentes VI Región del Libertador Bernardo O' Higgins N°32 Unión Demócrata Independiente
+María José Hoffmann Opazo V Región de Valparaíso N°15 Unión Demócrata Independiente
+Celso Morales Muñoz VII Región del Maule N°36 Unión Demócrata Independiente
+Manuel Rojas Molina II Región de Antofagasta N°4 Unión Demócrata Independiente
+Marisol Turres Figueroa X Región de los Lagos N°57 Unión Demócrata Independiente
+Ignacio Urrutia Bonilla VII Región del Maule N°40 Unión Demócrata Independiente
+Felipe Ward Edwards II Región de Antofagasta N°3 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7800-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7800-03","No record","Veto emmEnd"

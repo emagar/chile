@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 4080-06","Legislatura: 353
+Fecha de ingreso: martes 24 de enero de 2006
+Estado: Segundo trámite constitucional .
+Numero de boletín: 4080-06
+Materia: Descanso Familiar
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 18:33:37
+* * Hitos de tramitación * *
+"emmStart Hitos 4080-06","Fecha Sesión Etapa Sub-etapa Documento
+24 de Ene. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+24 de Ene. de 2006 71ª / 353 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+11 de Ago. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+16 de Ago. de 2006 63ª / 354 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+16 de Ago. de 2006 63ª / 354 Primer trámite constitucional / C. Diputados Primer informe de Comisión. Ver
+22 de Ago. de 2006 67ª / 354 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+22 de Ago. de 2006   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+22 de Ago. de 2006   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+29 de Ago. de 2006 45ª / 354 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4080-06","Fecha Etapa Informe Documento
+11 de Ago. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4080-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4080-06","Nombre Región Distrito Partido
+Nicolás Monckeberg Díaz VIII Región del Bío Bío N°42 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4080-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+67   87 0 0 2 Aprobado Sala Ver detalle votación
+67 único, con indicación del señor Montes para agregar el siguiente artículo, nuevo: ""Incorpórase, en el artículo 2° de la ley N°19.973, a continuación del guarismo ""18"", la expresión ""y 19"". 77 3 2 1 Aprobado Sala Ver detalle votación
+15 Votación General 9 0 0 4   Gobierno Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4080-06","No record","Veto emmEnd"

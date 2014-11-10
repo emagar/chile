@@ -1,0 +1,57 @@
+* * Bill summary * *
+"emmStart Summary 2347-15","Legislatura: 340
+Fecha de ingreso: martes 08 de junio de 1999
+Estado: Tramitación terminada (Ley Nº 19.635 - D.Oficial 30/09/1999)
+Numero de boletín: 2347-15
+Materia: Transporte
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 23:33:05
+* * Hitos de tramitación * *
+"emmStart Hitos 2347-15","Fecha Sesión Etapa Sub-etapa Documento
+08 de Jun. de 1999   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+08 de Jun. de 1999   Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones
+30 de Jul. de 1999   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+04 de Ago. de 1999   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+04 de Ago. de 1999   Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión
+10 de Ago. de 1999 29ª / 340 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+11 de Ago. de 1999   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+17 de Ago. de 1999 23ª / 340 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones
+01 de Sep. de 1999   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+01 de Sep. de 1999   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+07 de Sep. de 1999 28ª / 340 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+07 de Sep. de 1999 28ª / 340 Segundo trámite constitucional / Senado Discusión general Ver
+08 de Sep. de 1999   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+09 de Sep. de 1999 39ª / 340 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+09 de Sep. de 1999 39ª / 340 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+09 de Sep. de 1999   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2347-15","Fecha Etapa Informe Documento
+01 de Sep. de 1999 Segundo trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver
+01 de Sep. de 1999 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+04 de Ago. de 1999 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+30 de Jul. de 1999 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2347-15","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+    Suma 26-340  
+01 de Sep. de 1999   Suma 227-340  
+31 de Ago. de 1999 01 de Sep. de 1999 Discusión inmediata 212-340 227-340
+17 de Ago. de 1999 31 de Ago. de 1999 Simple 183-340 212-340
+06 de Ago. de 1999 04 de Ago. de 1999 Suma 126-340 139-340
+04 de Ago. de 1999   Suma 73-340  
+04 de Ago. de 1999   Suma 73-340  
+04 de Ago. de 1999   Suma 73-340  
+03 de Ago. de 1999 04 de Ago. de 1999 Suma 139-340 183-340
+07 de Jul. de 1999 17 de Ago. de 1999 Suma 73-340 126-340
+07 de Jul. de 1999 04 de Ago. de 1999 Suma 126-340 126-340","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2347-15","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2347-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2347-15","No record","Veto emmEnd"

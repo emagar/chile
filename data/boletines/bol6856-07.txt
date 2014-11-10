@@ -1,0 +1,56 @@
+* * Bill summary * *
+"emmStart Summary 6856-07","Legislatura: 358
+Fecha de ingreso: miércoles 17 de marzo de 2010
+Estado: Tramitación terminada (Ley N° 20.436 - D.Oficial 23/04/2010)
+Numero de boletín: 6856-07
+Materia: Zonas De Catástrofe,Actuaciones Judiciales,Muerte Presunta
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 08-11-2014 18:43:33
+* * Hitos de tramitación * *
+"emmStart Hitos 6856-07","Fecha Sesión Etapa Sub-etapa Documento
+17 de Mar. de 2010   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+17 de Mar. de 2010 2ª / 358 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento. Se remite el proyecto a la Corte Suprema.
+17 de Mar. de 2010 2ª / 358 Primer trámite constitucional / Senado Cuenta del Mensaje 13-358 que hace presente la urgencia Suma
+17 de Mar. de 2010   Primer trámite constitucional / Senado Oficio N°103/SEC/10 a la Corte Suprema Ver
+24 de Mar. de 2010 5ª / 358 Primer trámite constitucional / Senado Previo acuerdo de Comités, ratificado por la Sala, se autoriza a la Comisión de Constitución, Legislación, Justicia y Reglamento para discutir este asunto tanto en general, cuanto en particular, facultándola para sesionar en paralelo con la Sala e informarlo verbalmente o mediante certificado, sin perjuicio de emitir posteriormente el informe respectivo. Además, se acordó incluir este proyecto en la Tabla de la sesión ordinaria del día de hoy, martes 24 de marzo.
+24 de Mar. de 2010   Primer trámite constitucional / Senado Primer informe de comisión Ver
+24 de Mar. de 2010 5ª / 358 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+24 de Mar. de 2010 5ª / 358 Primer trámite constitucional / Senado Discusión general Ver
+24 de Mar. de 2010   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+25 de Mar. de 2010 8ª / 358 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a la Comisión de Constitución y a la Excma Corte Suprema, de conformidad con lo dispuesto en los artículos 77 de la Constitución Política de la República y 16 de la ley N° 18.918. Ver
+25 de Mar. de 2010   Segundo trámite constitucional / C. Diputados Oficio N°8625. Oficio de consulta a la Corte Suprema enviado por la Cámara de Diputados Ver
+25 de Mar. de 2010   Segundo trámite constitucional / C. Diputados Oficio de respuesta de la Corte Suprema a consulta enviada por el Senado Ver
+25 de Mar. de 2010   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+06 de Abr. de 2010 9ª / 358 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión. En tabla Ver
+06 de Abr. de 2010 9ª / 358 Segundo trámite constitucional / C. Diputados P. de la Rep. retira y hace presente la urgencia de ""discusión inmediata"". (19-358). A SUS ANTECEDENTES Ver
+06 de Abr. de 2010 9ª / 358 Segundo trámite constitucional / C. Diputados Cuenta oficio N° 27 de la Corte Suprema, responde consulta efectuada por la Cámara de Diputados Ver Ver
+06 de Abr. de 2010 9ª / 358 Segundo trámite constitucional / C. Diputados Discusión general Ver
+06 de Abr. de 2010   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+06 de Abr. de 2010 6ª / 358 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+06 de Abr. de 2010   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo. Oficio de consulta para ejercer facultad de veto Ver
+07 de Abr. de 2010   Trámite de aprobacion presidencial / Senado Oficio N°164/SEC/10 al Tribunal Constitucional Ver
+19 de Abr. de 2010   Trámite en Tribunal Constitucional / Senado Oficio de ley al Ejecutivo Ver
+20 de Abr. de 2010 10ª / 358 Trámite en Tribunal Constitucional / Senado Cuenta fallo del Tribunal Constitucional Ver
+21 de Abr. de 2010 17ª / 358 Trámite en Tribunal Constitucional / Senado Cuenta fallo del Tribunal Constitucional. Cuenta en Cámara de Diputados de oficio N° 4249 del Tribunal Constitucional","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6856-07","Fecha Etapa Informe Documento
+25 de Mar. de 2010 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+24 de Mar. de 2010 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6856-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+17 de Mar. de 2010 06 de Abr. de 2010 Suma 13-358 19-358","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6856-07","Nombre
+Ministerio de Justicia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6856-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+9   108 0 0 12 Aprobado Sala Ver detalle votación
+3 Votación General 11 0 0 2   Constitución Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6856-07","No record","Veto emmEnd"

@@ -1,0 +1,33 @@
+* * Bill summary * *
+"emmStart Summary 2345-07","Legislatura: 340
+Fecha de ingreso: martes 08 de junio de 1999
+Estado: Archivado .
+Numero de boletín: 2345-07
+Materia: Código Penal
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 23:31:29
+* * Hitos de tramitación * *
+"emmStart Hitos 2345-07","Fecha Sesión Etapa Sub-etapa Documento
+08 de Jun. de 1999   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+08 de Jun. de 1999 3ª / 340 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+13 de Mar. de 2002   Primer trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 346
+22 de Abr. de 2002   Primer trámite constitucional / Senado Archivado Inciso segundo, artículo 36 bis del Reglamento
+22 de Abr. de 2002   Archivado / Oficio Nº 30/02. Propone el archivo de boletines que indica Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2345-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2345-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2345-07","Nombre
+Fernando Cordero Rusque
+Jorge Martínez Busch","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2345-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2345-07","No record","Veto emmEnd"

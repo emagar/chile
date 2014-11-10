@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 898-09","Legislatura: 325
+Fecha de ingreso: jueves 07 de enero de 1993
+Estado: Tramitación terminada (Ley Nº 19.252 - D.Oficial 20/10/1993)
+Numero de boletín: 898-09
+Materia: Concesiones,Confiscacion De Bienes,Obras Públicas,Sistema De Concesión De Obras Públicas
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 00:25:36
+* * Hitos de tramitación * *
+"emmStart Hitos 898-09","Fecha Sesión Etapa Sub-etapa Documento
+07 de Ene. de 1993 21ª / 325 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Obras Públicas
+07 de Ene. de 1993   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+06 de Abr. de 1993 39ª / 325 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+06 de Abr. de 1993 39ª / 325 Primer trámite constitucional / Senado Primer informe de comisión Ver
+21 de Abr. de 1993 45ª / 325 Primer trámite constitucional / Senado Discusión general Ver
+06 de May. de 1993   Primer trámite constitucional / Senado Boletín de indicaciones
+01 de Jun. de 1993 1ª / 326 Primer trámite constitucional / Senado Segundo informe de comisión Ver
+01 de Jun. de 1993 1ª / 326 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+09 de Jun. de 1993 4ª / 326 Primer trámite constitucional / Senado Discusión particular Ver
+09 de Jun. de 1993 4ª / 326 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+15 de Jun. de 1993 7ª / 326 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+01 de Jul. de 1993   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Oct. de 1993 1ª / 327 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+06 de Oct. de 1993 1ª / 344 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+    Trámite de aprobacion presidencial / Senado Ingreso de observaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 898-09","Fecha Etapa Informe Documento
+01 de Jul. de 1993 Segundo trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+01 de Jun. de 1993 Primer trámite constitucional Senado Segundo informe de comisión de Obras Públicas Ver
+06 de Abr. de 1993 Primer trámite constitucional Senado Primer informe de comisión de Obras Públicas Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 898-09","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 898-09","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 898-09","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 898-09","No record","Veto emmEnd"

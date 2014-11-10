@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 1413-07","Legislatura: 330
+Fecha de ingreso: martes 25 de octubre de 1994
+Estado: Tramitación terminada (Ley Nº 19.422 - D.Oficial 13/11/1995)
+Numero de boletín: 1413-07
+Materia: Adulterio
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 08:46:53
+* * Hitos de tramitación * *
+"emmStart Hitos 1413-07","Fecha Sesión Etapa Sub-etapa Documento
+25 de Oct. de 1994   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+25 de Oct. de 1994 8ª / 330 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+05 de Abr. de 1995 49ª / 330 Primer trámite constitucional / Senado Primer informe de comisión Ver
+05 de Abr. de 1995 49ª / 330 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Abr. de 1995 52ª / 330 Primer trámite constitucional / Senado Discusión general Ver
+12 de Abr. de 1995 52ª / 330 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+18 de Abr. de 1995 59ª / 330 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+05 de Sep. de 1995   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Sep. de 1995 33ª / 331 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+04 de Oct. de 1995 2ª / 332 Segundo trámite constitucional / C. Diputados Discusión general Ver
+04 de Oct. de 1995   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+10 de Oct. de 1995 4ª / 332 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+10 de Oct. de 1995 4ª / 332 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1413-07","Fecha Etapa Informe Documento
+05 de Sep. de 1995 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+05 de Abr. de 1995 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1413-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1413-07","Nombre
+Sebastian Piñera Echeñique","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1413-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1413-07","No record","Veto emmEnd"

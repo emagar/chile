@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 6050-08","Legislatura: 356
+Fecha de ingreso: martes 02 de septiembre de 2008
+Estado: Primer trámite constitucional .
+Numero de boletín: 6050-08
+Materia: Combustibles
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 02:16:41
+* * Hitos de tramitación * *
+"emmStart Hitos 6050-08","Fecha Sesión Etapa Sub-etapa Documento
+02 de Sep. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Sep. de 2008 69ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Minería y Energía Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6050-08","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6050-08","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6050-08","Nombre Región Distrito Partido
+Alfonso De Urresti Longton XIV Región de los Ríos N°53 Partido Socialista
+Marcos Espinosa Monardes II Región de Antofagasta N°3 Partido Radical Social Demócrata
+Guido Girardi Briere RM Región Metropolitana N°18 Partido Por la Democracia
+Joaquín Godoy Ibáñez V Región de Valparaíso N°13 Renovación Nacional
+Tucapel Jiménez Fuentes RM Región Metropolitana N°27 Partido Por la Democracia
+Juan Lobos Krause VIII Región del Bío Bío N°47 Unión Demócrata Independiente
+José Pérez Arriagada VIII Región del Bío Bío N°47 Partido Radical Social Demócrata
+Alberto Robles Pantoja III Región de Atacama N°6 Partido Radical Social Demócrata
+Alejandro Sule Fernández VI Región del Libertador Bernardo O' Higgins N°33 Partido Radical Social Demócrata
+Patricio Vallespín López X Región de los Lagos N°57 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6050-08","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6050-08","No record","Veto emmEnd"

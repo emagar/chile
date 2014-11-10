@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 56-04","Legislatura: 320
+Fecha de ingreso: martes 29 de mayo de 1990
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 56-04
+Materia: Educacion,Ayuda Estatal A La Educación
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 30-10-2014 16:27:26
+* * Hitos de tramitación * *
+"emmStart Hitos 56-04","Fecha Sesión Etapa Sub-etapa Documento
+29 de May. de 1990   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+29 de May. de 1990 2ª / 320 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+02 de Jun. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+08 de Jun. de 1993 3ª / 326 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+15 de Jun. de 1993 5ª / 326 Segundo trámite constitucional / Senado Discusión general Ver
+16 de Jun. de 1993   Segundo trámite constitucional / Senado Oficio rechazo a Cámara de Origen Ver
+30 de Jun. de 1993 7ª / 326 Comisión Mixta por rechazo de idea de legislar / Senado Cuenta oficio integrantes de Comisión Mixta
+10 de Sep. de 1993   Comisión Mixta por rechazo de idea de legislar / Senado Oficio Nº5033. Oficio a Cámara de Diputados informando que la Comisión Mixta no ha podido constituirse por falta de quórum. Ver
+15 de Sep. de 1993   Comisión Mixta por rechazo de idea de legislar / Senado Informe de Comisión Mixta Ver
+18 de Ene. de 1994 25ª / 327 Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / Senado Cuenta oficio aprobación de informe de Comisión Mixta
+25 de Ene. de 1994 29ª / 327 Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / Senado Oficio rechazo de informe de Comisión Mixta a C.de Origen Ver
+25 de Ene. de 1994 29ª / 327 Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / Senado Discusión informe de Comisión Mixta
+03 de Oct. de 1995   Trámite finalización en Cámara de Origen / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 332
+29 de Abr. de 2003   Trámite finalización en Cámara de Origen / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 348
+05 de Jun. de 2003 3ª / 349 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio rechazo de informe de Comisión Mixta Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 56-04","Fecha Etapa Informe Documento
+15 de Sep. de 1993 Comisión Mixta por rechazo de idea de legislar Senado Informe de Comisión Mixta de Educación, Cultura, Ciencia y Tecnología Ver
+02 de Jun. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 56-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 56-04","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 56-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 56-04","No record","Veto emmEnd"

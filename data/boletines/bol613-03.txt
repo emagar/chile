@@ -1,0 +1,51 @@
+* * Bill summary * *
+"emmStart Summary 613-03","Legislatura: 323
+Fecha de ingreso: miércoles 11 de marzo de 1992
+Estado: Tramitación terminada (Ley Nº 19.148 - D.Oficial 09/07/1992)
+Numero de boletín: 613-03
+Materia: Superintendencia De Electricidad Y Combustibles
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 20:39:51
+* * Hitos de tramitación * *
+"emmStart Hitos 613-03","Fecha Sesión Etapa Sub-etapa Documento
+06 de May. de 1991 71ª / 323 Primer trámite constitucional / C. Diputados Discusión general Ver
+11 de Mar. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+11 de Mar. de 1992 53ª / 323 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+27 de Mar. de 1992   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+15 de Abr. de 1992 66ª / 324 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión
+12 de May. de 1992   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+14 de May. de 1992 75ª / 323 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+19 de May. de 1992 26ª / 323 Primer trámite constitucional / C. Diputados Discusión particular Ver
+19 de May. de 1992   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+20 de May. de 1992 61ª / 323 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Economía y a Comisión de Hacienda
+16 de Jun. de 1992 5ª / 324 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+16 de Jun. de 1992 5ª / 324 Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen
+16 de Jun. de 1992 5ª / 324 Segundo trámite constitucional / Senado Discusión general Ver
+16 de Jun. de 1992 5ª / 324 Segundo trámite constitucional / Senado Primer informe de comisión Ver
+16 de Jun. de 1992 5ª / 324 Segundo trámite constitucional / Senado Primer informe de comisión
+16 de Jun. de 1992 5ª / 324 Segundo trámite constitucional / Senado Por acuerdo de la Sala se discutirá en esta sesión, informándose oralmente por la Comisión de Hacienda. Discusión general y particular. Aprobado con modificaciones.
+16 de Jun. de 1992   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+17 de Jun. de 1992 10ª / 324 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+30 de Jun. de 1992 11ª / 324 Tercer trámite constitucional / C. Diputados Discusión única Ver
+02 de Jul. de 1992 7ª / 324 Tramitación terminada / Cuenta oficio Nº 802, de la Cámara, comunicando aprobación de enmiendas propuestas por el senado","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 613-03","Fecha Etapa Informe Documento
+16 de Jun. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+12 de May. de 1992 Primer trámite constitucional C.Diputados Segundo informe de comisión de Economía, Fomento y Desarrollo Ver
+27 de Mar. de 1992 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 613-03","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+11 de Mar. de 1992   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 613-03","Nombre Región Distrito Partido
+Ministerio de Economía, Fomento y Turism      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 613-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 613-03","No record","Veto emmEnd"

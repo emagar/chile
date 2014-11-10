@@ -1,0 +1,48 @@
+* * Bill summary * *
+"emmStart Summary 5177-04","Legislatura: 355
+Fecha de ingreso: viernes 06 de julio de 2007
+Estado: Tramitación terminada (Ley Nº 20.617 - D.Oficial 08/09/2012)
+Numero de boletín: 5177-04
+Materia: Monumentos,Ernesto Ayala Oliva
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 07-11-2014 01:32:15
+* * Hitos de tramitación * *
+"emmStart Hitos 5177-04","Fecha Sesión Etapa Sub-etapa Documento
+06 de Jul. de 2007   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+10 de Jul. de 2007 31ª / 355 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+20 de May. de 2008   Primer trámite constitucional / Senado Primer informe de comisión Ver
+20 de May. de 2008 22ª / 356 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Jun. de 2008 25ª / 356 Primer trámite constitucional / Senado Discusión general Ver
+10 de Jun. de 2008   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+12 de Jun. de 2008 39ª / 356 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de la Cultura y las Artes Ver Ver
+06 de Jun. de 2012   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de Jul. de 2012 48ª / 360 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+17 de Jul. de 2012 56ª / 360 Segundo trámite constitucional / C. Diputados Discusión general Ver
+17 de Jul. de 2012   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+18 de Jul. de 2012 36ª / 360 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+18 de Jul. de 2012   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5177-04","Fecha Etapa Informe Documento
+06 de Jun. de 2012 Segundo trámite constitucional C.Diputados Primer informe de comisión de la Cultura y las Artes Ver
+20 de May. de 2008 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5177-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5177-04","Nombre
+Soledad Alvear Valenzuela
+José García Ruminot
+Pablo Longueira Montes
+Roberto Muñoz Barra
+Jaime Orpis Bouchon","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5177-04","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+56   54 0 1 0 Aprobado Sala Ver detalle votación
+77 Votación General 7 0 0 6   Cultura Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5177-04","No record","Veto emmEnd"

@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 1073-05","Legislatura: 326
+Fecha de ingreso: martes 17 de agosto de 1993
+Estado: Tramitación terminada (Ley Nº 19.243 - D.Oficial 01/09/1993)
+Numero de boletín: 1073-05
+Materia: Aguinaldo De Fiestas Patrias
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 02:42:15
+* * Hitos de tramitación * *
+"emmStart Hitos 1073-05","Fecha Sesión Etapa Sub-etapa Documento
+17 de Ago. de 1993   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+17 de Ago. de 1993 29ª / 326 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+18 de Ago. de 1993   Primer trámite constitucional / C. Diputados Eximido del trámite ante Comisión
+18 de Ago. de 1993 30ª / 326 Primer trámite constitucional / C. Diputados Discusión general Ver
+18 de Ago. de 1993   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+18 de Ago. de 1993 19ª / 326 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+18 de Ago. de 1993   Segundo trámite constitucional / Senado Eximido del trámite ante Comisión
+18 de Ago. de 1993 19ª / 326 Segundo trámite constitucional / Senado Discusión general Ver
+18 de Ago. de 1993   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+20 de Ago. de 1993   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+31 de Ago. de 1993 31ª / 326 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1073-05","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1073-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+17 de Ago. de 1993   Discusión inmediata    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1073-05","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1073-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1073-05","No record","Veto emmEnd"

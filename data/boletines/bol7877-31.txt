@@ -1,0 +1,50 @@
+* * Bill summary * *
+"emmStart Summary 7877-31","Legislatura: 359
+Fecha de ingreso: jueves 18 de agosto de 2011
+Estado: Segundo trámite constitucional .
+Numero de boletín: 7877-31 Refundido con: 7720-31
+Materia: Bienes Inembargables,Código De Procedimiento Civil
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 12:15:41
+* * Hitos de tramitación * *
+"emmStart Hitos 7877-31","Fecha Sesión Etapa Sub-etapa Documento
+18 de Ago. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+18 de Ago. de 2011 74ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Superación de la Pobreza, Planificación y Desarrollo Social Ver
+15 de Nov. de 2011 108ª / 359 Primer trámite constitucional / C. Diputados Oficio de la Comisión de Superación de la Pobreza, Planificación y Desarrollo Social, por el cual solicita a V.E., si lo tiene a bien, se sirva recabar el acuerdo de la Sala de la Corporación, en orden a refundir la moción (Boletín N° 7.877-31), con la moción (Boletín N° 7.720-31). Ver
+17 de Nov. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+21 de Nov. de 2011 111ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+24 de Nov. de 2011 115ª / 359 Tramitación terminada / Cuenta del Mensaje 437-359 que hace presente la urgencia Simple
+29 de Nov. de 2011 117ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+29 de Nov. de 2011   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+03 de Ene. de 2012 85ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 520-359 que retira y hace presente la urgencia Simple
+10 de Ene. de 2012 87ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 533-359 que retira la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7877-31","Fecha Etapa Informe Documento
+17 de Nov. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Superación de la Pobreza, Planificación y Desarrollo Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7877-31","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+03 de Ene. de 2012 09 de Ene. de 2012 Simple 520-359 533-359
+03 de Ene. de 2012 09 de Ene. de 2012 Simple 520-359 533-359","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7877-31","Nombre Región Distrito Partido
+Pedro Araya Guerrero II Región de Antofagasta N°4 Partido Regionalista Independiente
+Pepe Auth Stewart RM Región Metropolitana N°20 Partido Por la Democracia
+Pedro Browne Urrejola RM Región Metropolitana N°28 Renovación Nacional
+Fuad Chahín Valenzuela IX Región de la Araucanía N°49 Partido Demócrata Cristiano
+Juan Carlos Latorre Carmona VI Región del Libertador Bernardo O' Higgins N°35 Partido Demócrata Cristiano
+Alberto Robles Pantoja III Región de Atacama N°6 Partido Radical Social Demócrata
+Jorge Sabag Villalobos VIII Región del Bío Bío N°42 Partido Demócrata Cristiano
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Partido Regionalista Independiente
+Víctor Torres Jeldes V Región de Valparaíso N°15 Partido Demócrata Cristiano
+Matías Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7877-31","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+46 Votación General 5 0 0 8   Superación de la Pobreza Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7877-31","No record","Veto emmEnd"

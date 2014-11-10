@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 7546-11","Legislatura: 359
+Fecha de ingreso: martes 22 de marzo de 2011
+Estado: Primer trámite constitucional .
+Numero de boletín: 7546-11
+Materia: Tabaco
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 05:20:57
+* * Hitos de tramitación * *
+"emmStart Hitos 7546-11","Fecha Sesión Etapa Sub-etapa Documento
+22 de Mar. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+22 de Mar. de 2011 5ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7546-11","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7546-11","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7546-11","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Pedro Araya Guerrero II Región de Antofagasta N°4 Partido Regionalista Independiente
+Juan Luis Castro González VI Región del Libertador Bernardo O' Higgins N°32 Partido Socialista
+Andrea Molina Oliva V Región de Valparaíso N°10 Unión Demócrata Independiente
+Manuel Monsalve Benavides VIII Región del Bío Bío N°46 Partido Socialista
+Marco Antonio Núñez Lozano V Región de Valparaíso N°11 Partido Por la Democracia
+Alberto Robles Pantoja III Región de Atacama N°6 Partido Radical Social Demócrata
+Karla Rubilar Barahona RM Región Metropolitana N°17 Renovación Nacional
+Guillermo Teillier Del Valle RM Región Metropolitana N°28 Partido Comunista
+Víctor Torres Jeldes V Región de Valparaíso N°15 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7546-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7546-11","No record","Veto emmEnd"

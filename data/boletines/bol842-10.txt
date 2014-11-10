@@ -1,0 +1,52 @@
+* * Bill summary * *
+"emmStart Summary 842-10","Legislatura: 325
+Fecha de ingreso: miércoles 28 de octubre de 1992
+Estado: Archivado .
+Numero de boletín: 842-10
+Materia: Arancel Consular
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 23:43:23
+* * Hitos de tramitación * *
+"emmStart Hitos 842-10","Fecha Sesión Etapa Sub-etapa Documento
+30 de Jun. de 1992 11ª / 325 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+28 de Oct. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+31 de Mar. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+31 de Mar. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+06 de Abr. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión
+06 de Abr. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión
+23 de Abr. de 1997   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+29 de Abr. de 1997 63ª / 334 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+30 de Abr. de 1997 65ª / 334 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+03 de Jun. de 1997   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+11 de Jun. de 1997 7ª / 335 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+19 de Jun. de 1997 7ª / 335 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver
+19 de Jun. de 1997   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+01 de Jul. de 1997 10ª / 335 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+13 de Mar. de 2002   Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 346
+05 de Jun. de 2002 4ª / 347 Segundo trámite constitucional / Senado Se solicita su archivo Cuenta oficio C. de RREE. solicita oficiar Cámara para archivar proyecto
+11 de Jun. de 2002   Segundo trámite constitucional / Senado Oficio Nº19992. Oficio a la Cámara de Diputados proponiendo archivo del proyecto. Ver
+12 de Jun. de 2002 6ª / 347 Segundo trámite constitucional / Senado Cuenta de Oficio del Senado, solicita archivo de proyecto.
+12 de Jun. de 2002   Segundo trámite constitucional / Senado Oficio al Senado, accede a archivo de proyecto solicitado. Ver
+04 de Sep. de 2002 27ª / 347 Tramitación terminada / Archivado Cuenta oficio C. de Dip., comunica que accedió al archivo del proyecto.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 842-10","Fecha Etapa Informe Documento
+03 de Jun. de 1997 Primer trámite constitucional C.Diputados Segundo informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+03 de Jun. de 1997 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+23 de Abr. de 1997 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+31 de Mar. de 1993 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 842-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+30 de Jun. de 1992   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 842-10","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 842-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 842-10","No record","Veto emmEnd"

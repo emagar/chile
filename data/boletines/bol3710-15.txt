@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 3710-15","Legislatura: 352
+Fecha de ingreso: martes 02 de noviembre de 2004
+Estado: Primer trámite constitucional .
+Numero de boletín: 3710-15
+Materia: Transporte
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 07:49:04
+* * Hitos de tramitación * *
+"emmStart Hitos 3710-15","Fecha Sesión Etapa Sub-etapa Documento
+02 de Nov. de 2004 12ª / 352 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+02 de Nov. de 2004   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+16 de Nov. de 2006 99ª / 354 Primer trámite constitucional / C. Diputados Comisión de Vivienda solicita que le sea remitido el proyecto. Acordado. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3710-15","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3710-15","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3710-15","Nombre Región Distrito Partido
+Francisco Encina Moriamez IV Región de Coquimbo N°8 Partido Socialista
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Alejandro García-Huidobro Sanfuentes VI Región del Libertador Bernardo O' Higgins N°32 Unión Demócrata Independiente
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+Alejandro Navarro Brain VIII Región del Bío Bío N°45 Partido Socialista
+Carlos Olivares Zepeda RM Región Metropolitana N°18 Partido Demócrata Cristiano
+Alberto Robles Pantoja III Región de Atacama N°6 Partido Radical Social Demócrata
+Esteban Valenzuela Van Treek VI Región del Libertador Bernardo O' Higgins N°32 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3710-15","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+27 Votación General 4 0 1 8   Vivienda Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3710-15","No record","Veto emmEnd"

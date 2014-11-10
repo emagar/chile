@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 5339-06","Legislatura: 355
+Fecha de ingreso: jueves 13 de septiembre de 2007
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 5339-06
+Materia: Concejales,Inhabilidades Para Cargos Públicos,Alcaldes
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 03:28:15
+* * Hitos de tramitación * *
+"emmStart Hitos 5339-06","Fecha Sesión Etapa Sub-etapa Documento
+13 de Sep. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Sep. de 2007 78ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+13 de Dic. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+13 de Dic. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+13 de Dic. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de Dic. de 2007 117ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Gobierno Interior. Ver
+18 de Dic. de 2007 117ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Oct. de 2009 90ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver
+14 de Oct. de 2009 90ª / 357 Primer trámite constitucional / C. Diputados Proyecto rechazado. Tratándose de un proyecto iniciado en moción, siendo la Cámara de Diputados su origen, se procede a su archivo. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5339-06","Fecha Etapa Informe Documento
+13 de Dic. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5339-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5339-06","Nombre Región Distrito Partido
+Eugenio Bauer Jouanne VI Región del Libertador Bernardo O' Higgins N°33 Unión Demócrata Independiente
+Germán Becker Alvear IX Región de la Araucanía N°50 Renovación Nacional
+Mario Bertolino Rendic IV Región de Coquimbo N°7 Renovación Nacional
+Roberto Delmastro Naso XIV Región de los Ríos N°53 Renovación Nacional
+Gonzalo Duarte Leiva RM Región Metropolitana N°26 Partido Demócrata Cristiano
+Pablo Galilea Carrillo XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Renovación Nacional
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Marta Isasi Barbieri I Región de Tarapacá N°2 Independientes
+Osvaldo Palma Flores VII Región del Maule N°39 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5339-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+90   52 5 19 44 Rechazado Sala Ver detalle votación
+59 Votación General 7 2 1 3   Gobierno Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5339-06","No record","Veto emmEnd"

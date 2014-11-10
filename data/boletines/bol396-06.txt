@@ -1,0 +1,62 @@
+* * Bill summary * *
+"emmStart Summary 396-06","Legislatura: 322
+Fecha de ingreso: martes 02 de julio de 1991
+Estado: Tramitación terminada (Ley Nº 19.388 - D.Oficial 30/05/1995)
+Numero de boletín: 396-06
+Materia: Rentas Municipales,Servicio De Impuestos Internos (Chile),Impuestos
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 16:44:01
+* * Hitos de tramitación * *
+"emmStart Hitos 396-06","Fecha Sesión Etapa Sub-etapa Documento
+02 de Jul. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Jul. de 1991 13ª / 322 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+21 de Jul. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+23 de Nov. de 1993 16ª / 327 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización y de hacienda en su caso.
+12 de Jul. de 1994   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de hacienda Ver
+29 de Ago. de 1994   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+01 de Sep. de 1994 29ª / 329 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+08 de Sep. de 1994 32ª / 329 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 13/09/1994 Ver
+13 de Sep. de 1994   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Gobierno y Hacienda unidas. Ver
+14 de Sep. de 1994   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+14 de Sep. de 1994 35ª / 329 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+14 de Sep. de 1994 35ª / 329 Segundo trámite constitucional / Senado Discusión particular Ver
+15 de Sep. de 1994   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+05 de Oct. de 1994   Comisión Mixta por rechazo de modificaciones / Senado Oficio integrantes de Comisión Mixta Ver
+05 de Oct. de 1994 2ª / 330 Comisión Mixta por rechazo de modificaciones / Senado Cuenta oficio rechazo a modificaciones
+19 de Oct. de 1994   Comisión Mixta por rechazo de modificaciones / Senado Informe de Comisión Mixta Ver
+25 de Oct. de 1994 8ª / 330 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Cuenta oficio aprobación de informe de Comisión Mixta
+03 de Nov. de 1994 11ª / 330 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Discusión informe de Comisión Mixta
+08 de Nov. de 1994   Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Oficio aprobación de informe de Comisión Mixta a C.de Origen Ver
+17 de Nov. de 1994 18ª / 330 Tramitación terminada / Cuenta de oficio del Tribunal Constitucional con el que remite copia del requerimiento presentado por diversos señores Senadores respecto de la letra a, del Nº 10, del artículo 2º del proyecto, y de la resolución recaída en él.
+07 de Dic. de 1994 25ª / 330 Discusión veto en Cámara Revisora / Senado Cuenta oficio Nº Rol Nº 203 del Tribunal Constitucional
+11 de Ene. de 1995 34ª / 330 Discusión veto en Cámara Revisora / Senado Cuenta oficio aprobación veto. Pasa a Comisión de Gobierno, Descentralización y Regionalización y a Comisión de Hacienda
+17 de Mar. de 1995   Discusión veto en Cámara Revisora / Senado Informe de comisión Ver
+22 de Mar. de 1995   Discusión veto en Cámara Revisora / Senado Oficio aprobación veto a Cámara de Origen Ver
+22 de Mar. de 1995   Discusión veto en Cámara Revisora / Senado Informe de comisión Ver
+22 de Mar. de 1995 47ª / 330 Discusión veto en Cámara Revisora / Senado Cuenta informe de comisión","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 396-06","Fecha Etapa Informe Documento
+22 de Mar. de 1995 Discusión veto en Cámara Revisora Senado Informe de comisión de Hacienda Ver
+17 de Mar. de 1995 Discusión veto en Cámara Revisora Senado Informe de comisión de Gobierno, Descentralización y Regionalización Ver
+28 de Dic. de 1994 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver
+19 de Oct. de 1994 Comisión Mixta por rechazo de modificaciones Senado Informe de Comisión Mixta de Gobierno, Descentralización y Regionalización Ver
+14 de Sep. de 1994 Segundo trámite constitucional Senado Segundo informe de comisión de Gobierno, Descentralización y Regionalización y de Hacienda, unidas Ver
+13 de Sep. de 1994 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+29 de Ago. de 1994 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+12 de Jul. de 1994 Segundo trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver
+21 de Jul. de 1993 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 396-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+02 de Jul. de 1991   Simple    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 396-06","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 396-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 396-06","No record","Veto emmEnd"

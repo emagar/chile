@@ -1,0 +1,56 @@
+* * Bill summary * *
+"emmStart Summary 6418-07","Legislatura: 357
+Fecha de ingreso: miércoles 18 de marzo de 2009
+Estado: Primer trámite constitucional .
+Numero de boletín: 6418-07
+Materia: Voto Voluntario,Inscripción Electoral
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 08-11-2014 07:26:09
+* * Hitos de tramitación * *
+"emmStart Hitos 6418-07","Fecha Sesión Etapa Sub-etapa Documento
+18 de Mar. de 2009   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+18 de Mar. de 2009 4ª / 357 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento y a Comisión de Hacienda, en su caso. Se remite el proyecto a la Corte Suprema.
+18 de Mar. de 2009   Primer trámite constitucional / Senado Oficio N°186/09 a la Corte Suprema Ver
+13 de Abr. de 2009   Primer trámite constitucional / Senado Primer informe de comisión Ver
+14 de Abr. de 2009 9ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 184-357 que retira y hace presente la urgencia Suma Ver
+14 de Abr. de 2009 9ª / 357 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+15 de Abr. de 2009 11ª / 357 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 27/04/2009 Ver
+28 de Abr. de 2009   Primer trámite constitucional / Senado Boletín de indicaciones
+28 de Abr. de 2009 12ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 240-357 que retira y hace presente la urgencia Simple
+29 de Abr. de 2009 13ª / 357 Primer trámite constitucional / Senado Cuenta oficio N? 72 de la Corte Suprema Ver
+02 de Jun. de 2009 22ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 505-357 que retira la urgencia Simple Ver
+06 de Ene. de 2010   Primer trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 11/01/2010 a las 12:00 en la Secretaría de la Comisión de Constitución, Legislación, Justicia y Reglamento
+12 de Ene. de 2010 81ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 1784-357 que hace presente la urgencia Discusión inmediata
+19 de Ene. de 2010 83ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 1836-357 que retira y hace presente la urgencia Discusión inmediata
+09 de Mar. de 2010 86ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 1933-357 que retira la urgencia Discusión inmediata
+18 de May. de 2010 20ª / 358 Primer trámite constitucional / Senado Por acuerdo de los Comités, ratificado por la Sala, se abre un nuevo plazo para presentar indicaciones, hasta las 12:00 horas del lunes 7 de junio, en la Secretaría de la Comisión de Constitución, Legislación, Justicia y Reglamento.
+15 de Jun. de 2010 27ª / 358 Primer trámite constitucional / Senado Cuenta del Mensaje 160-358 que hace presente la urgencia Simple
+14 de Jun. de 2011 25ª / 359 Primer trámite constitucional / Senado Por acuerdo de los Comités, ratificado por la Sala, se dispone que el proyecto será conocido en su segundo informe por las Comisiones de Gobierno, Descentralización y Regionalización y de Constitución, Legislación, Justicia y Reglamento, unidas.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6418-07","Fecha Etapa Informe Documento
+13 de Abr. de 2009 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6418-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+15 de Jun. de 2010   Simple 160-358  
+19 de Ene. de 2010 09 de Mar. de 2010 Discusión inmediata 1836-357 1933-357
+12 de Ene. de 2010 18 de Ene. de 2010 Discusión inmediata 1784-357 1836-357
+28 de Abr. de 2009 02 de Jun. de 2009 Simple 240-357 505-357
+14 de Abr. de 2009 24 de Abr. de 2009 Suma 184-357 240-357
+18 de Mar. de 2009 14 de Abr. de 2009 Simple 1440-356 184-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6418-07","Nombre
+Ministerio de Hacienda
+Ministerio de Interior y Seguridad Públi
+Ministerio de Justicia
+Ministerio de Relaciones Exteriores
+Ministerio Secretaría General de la Presidencia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6418-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6418-07","No record","Veto emmEnd"

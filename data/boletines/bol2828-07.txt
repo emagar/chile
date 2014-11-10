@@ -1,0 +1,51 @@
+* * Bill summary * *
+"emmStart Summary 2828-07","Legislatura: 345
+Fecha de ingreso: martes 13 de noviembre de 2001
+Estado: Tramitación terminada (Ley Nº 19.829 - D.Oficial 08/10/2002)
+Numero de boletín: 2828-07
+Materia: Cohecho
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 16:59:24
+* * Hitos de tramitación * *
+"emmStart Hitos 2828-07","Fecha Sesión Etapa Sub-etapa Documento
+13 de Nov. de 2001   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Nov. de 2001 16ª / 345 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+05 de Jun. de 2002   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Jul. de 2002 11ª / 347 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+03 de Jul. de 2002 12ª / 347 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+03 de Jul. de 2002   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+09 de Jul. de 2002 12ª / 347 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+26 de Ago. de 2002   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+03 de Sep. de 2002 25ª / 347 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+04 de Sep. de 2002 26ª / 347 Segundo trámite constitucional / Senado Discusión general Ver
+04 de Sep. de 2002   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+05 de Sep. de 2002 38ª / 347 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+10 de Sep. de 2002 39ª / 347 Tercer trámite constitucional / C. Diputados Discusión única Ver
+10 de Sep. de 2002   Tercer trámite constitucional / C. Diputados Oficio Nº 3926, que comunica aprobación de modificaciones Ver
+11 de Sep. de 2002   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+11 de Sep. de 2002 28ª / 347 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 3926, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2828-07","Fecha Etapa Informe Documento
+26 de Ago. de 2002 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+05 de Jun. de 2002 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2828-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+13 de Ago. de 2002   Simple 190-347  
+04 de Jun. de 2002 13 de Ago. de 2002 Simple 30-347 190-347
+14 de May. de 2002   Simple 117-346  
+09 de Abr. de 2002 14 de May. de 2002 Simple 50-346 117-346","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2828-07","Nombre Región Distrito Partido
+Ministerio de Justicia      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2828-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+12   70 0 0 1   Sala Ver detalle votación
+39   60 0 0 0   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2828-07","No record","Veto emmEnd"

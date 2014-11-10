@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 5740-18","Legislatura: 355
+Fecha de ingreso: martes 04 de marzo de 2008
+Estado: Segundo trámite constitucional .
+Numero de boletín: 5740-18 Refundido con: 8162-32
+Materia: Maltrato Al Adulto Mayor,Adulto Mayor
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 22:43:06
+* * Hitos de tramitación * *
+"emmStart Hitos 5740-18","Fecha Sesión Etapa Sub-etapa Documento
+04 de Mar. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Mar. de 2008 137ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Familia Ver
+03 de Jun. de 2010 33ª / 358 Primer trámite constitucional / C. Diputados Comisión de Familia solicita que proyecto sea remitido a la Comisión del Adulto Mayor. ACORDADO. Ver
+28 de Jul. de 2010 56ª / 358 Primer trámite constitucional / C. Diputados Cuenta Oficio de Comisión Especial del Adulto Mayor por la que informa a la Sala que otorgará prioridad para la discusión y votación del proyectos de ley que le ha sido remitido por la Sala. Ver
+15 de May. de 2013 28ª / 361 Primer trámite constitucional / C. Diputados Refunde proyectos de ley Ver
+20 de May. de 2013   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+22 de May. de 2013 30ª / 361 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+23 de May. de 2013 31ª / 361 Primer trámite constitucional / C. Diputados Discusión general. Queda pendiente . Ver
+20 de Jun. de 2013 41ª / 361 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general y particular a la vez Ver
+20 de Jun. de 2013   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+02 de Jul. de 2013 36ª / 361 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5740-18","Fecha Etapa Informe Documento
+20 de May. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión Especial del Adulto Mayor Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5740-18","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5740-18","Nombre Región Distrito Partido
+Alvaro Escobar Rufatt RM Región Metropolitana N°20 Independientes
+Carlos Abel Jarpa Wevar VIII Región del Bío Bío N°41 Partido Radical Social Demócrata
+Tucapel Jiménez Fuentes RM Región Metropolitana N°27 Partido Por la Democracia
+Clemira Pacheco Rivas VIII Región del Bío Bío N°45 Partido Socialista
+Denise Pascal Allende RM Región Metropolitana N°31 Partido Socialista
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Independientes","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5740-18","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+41   57 0 0 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5740-18","No record","Veto emmEnd"

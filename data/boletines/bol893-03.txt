@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 893-03","Legislatura: 325
+Fecha de ingreso: miércoles 16 de diciembre de 1992
+Estado: Tramitación terminada (Ley Nº 19.282 - D.Oficial 04/01/1994)
+Numero de boletín: 893-03
+Materia: Productos Agrícolas
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 00:21:58
+* * Hitos de tramitación * *
+"emmStart Hitos 893-03","Fecha Sesión Etapa Sub-etapa Documento
+16 de Dic. de 1992   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+16 de Dic. de 1992 18ª / 325 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Economía
+22 de Dic. de 1992   Primer trámite constitucional / Senado Primer informe de comisión Ver
+22 de Dic. de 1992 19ª / 325 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+22 de Dic. de 1992 19ª / 325 Primer trámite constitucional / Senado Discusión general Ver
+22 de Dic. de 1992   Primer trámite constitucional / Senado Eximido del trámite ante Comisión Derivado a Comisión de Agricultura Ver
+29 de Dic. de 1992   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+29 de Dic. de 1992   Primer trámite constitucional insistido / Senado Oficio de ley a Cámara Revisora Ver
+20 de Ene. de 1993   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+31 de Ago. de 1993   Segundo trámite constitucional / C. Diputados Segundo informe de comisión Ver
+14 de Sep. de 1993 25ª / 326 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora. Pasa a Comisión de Economía
+03 de Nov. de 1993   Tercer trámite constitucional / Senado Informe de comisión Ver
+23 de Nov. de 1993 16ª / 327 Tercer trámite constitucional / Senado Cuenta informe de comisión
+24 de Nov. de 1993 17ª / 327 Tercer trámite constitucional / Senado Discusión única
+24 de Nov. de 1993   Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo Ver
+01 de Dic. de 1993   Trámite finalización en Cámara de Origen / Senado Oficio Nº5243. comunica proyecto aprobado por Congreso Nacional al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 893-03","Fecha Etapa Informe Documento
+03 de Nov. de 1993 Tercer trámite constitucional Senado Informe de comisión de Economía Ver
+31 de Ago. de 1993 Segundo trámite constitucional C.Diputados Segundo informe de comisión de Economía, Fomento y Desarrollo Ver
+20 de Ene. de 1993 Segundo trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver
+22 de Dic. de 1992 Primer trámite constitucional Senado Primer informe de comisión de Economía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 893-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 893-03","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 893-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 893-03","No record","Veto emmEnd"

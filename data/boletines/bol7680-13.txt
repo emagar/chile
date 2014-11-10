@@ -1,0 +1,31 @@
+* * Bill summary * *
+"emmStart Summary 7680-13","Legislatura: 359
+Fecha de ingreso: martes 31 de mayo de 2011
+Estado: Primer trámite constitucional .
+Numero de boletín: 7680-13
+Materia: Cajas De Compensación
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 09-11-2014 07:38:07
+* * Hitos de tramitación * *
+"emmStart Hitos 7680-13","Fecha Sesión Etapa Sub-etapa Documento
+31 de May. de 2011   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+31 de May. de 2011 21ª / 359 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7680-13","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7680-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7680-13","Nombre
+Carlos Bianchi Chelech
+Antonio Horvath Kiss
+Baldo Prokurica Prokurica","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7680-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7680-13","No record","Veto emmEnd"

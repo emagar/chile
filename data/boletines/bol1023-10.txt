@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 1023-10","Legislatura: 326
+Fecha de ingreso: miércoles 23 de junio de 1993
+Estado: Tramitación terminada (D.S. Nº 166 - D.Oficial 17/05/1994)
+Numero de boletín: 1023-10
+Materia: Inversiones,Protección Recíproca De Inversiones
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 02:05:08
+* * Hitos de tramitación * *
+"emmStart Hitos 1023-10","Fecha Sesión Etapa Sub-etapa Documento
+23 de Jun. de 1993   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+23 de Jun. de 1993 11ª / 326 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+09 de Ago. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Ago. de 1993 28ª / 326 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+28 de Sep. de 1993 2ª / 327 Primer trámite constitucional / C. Diputados Discusión general Ver
+30 de Sep. de 1993   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+05 de Oct. de 1993 1ª / 327 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+15 de Nov. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+16 de Nov. de 1993 14ª / 327 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+23 de Nov. de 1993   Tramitación terminada / Oficio Nº5222. comunica aprobación sin modificaciones a Cámara de origen Ver
+23 de Nov. de 1993 16ª / 327 Segundo trámite constitucional / Senado Discusión general Ver
+23 de Nov. de 1993   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+24 de Nov. de 1993   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+14 de Dic. de 1993 21ª / 327 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1023-10","Fecha Etapa Informe Documento
+15 de Nov. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+09 de Ago. de 1993 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1023-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1023-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1023-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1023-10","No record","Veto emmEnd"

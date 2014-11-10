@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 3339-05","Legislatura: 349
+Fecha de ingreso: miércoles 03 de septiembre de 2003
+Estado: Tramitación terminada (Ley Nº 19.905 - D.Oficial 02/10/2003)
+Numero de boletín: 3339-05
+Materia: Bono De Reconocimiento
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 01:41:35
+* * Hitos de tramitación * *
+"emmStart Hitos 3339-05","Fecha Sesión Etapa Sub-etapa Documento
+03 de Sep. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Sep. de 2003 36ª / 349 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+04 de Sep. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Sep. de 2003 38ª / 349 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+09 de Sep. de 2003 38ª / 349 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+09 de Sep. de 2003   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+09 de Sep. de 2003 32ª / 349 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+10 de Sep. de 2003 34ª / 349 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Sep. de 2003 34ª / 349 Segundo trámite constitucional / Senado Discusión general Ver
+10 de Sep. de 2003   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+11 de Sep. de 2003 40ª / 349 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3339-05","Fecha Etapa Informe Documento
+04 de Sep. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3339-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+03 de Sep. de 2003   Suma    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3339-05","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3339-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+38   77 0 0 1   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3339-05","No record","Veto emmEnd"

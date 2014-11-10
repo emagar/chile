@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 2174-07","Legislatura: 337
+Fecha de ingreso: miércoles 20 de mayo de 1998
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 2174-07
+Materia: Código De Justicia Militar
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 21:42:53
+* * Hitos de tramitación * *
+"emmStart Hitos 2174-07","Fecha Sesión Etapa Sub-etapa Documento
+20 de May. de 1998   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de May. de 1998 25ª / 337 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia
+18 de Jun. de 1998   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+01 de Jul. de 1998 12ª / 338 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+01 de Jul. de 1998 12ª / 338 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+04 de Ago. de 1998 22ª / 338 Primer trámite constitucional / C. Diputados Discusión general Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2174-07","Fecha Etapa Informe Documento
+18 de Jun. de 1998 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2174-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2174-07","Nombre Región Distrito Partido
+Sergio Aguiló Melo VII Región del Maule N°37 Partido Socialista
+Juan Bustos Ramírez V Región de Valparaíso N°12 Partido Socialista
+Sergio Elgueta Barrientos X Región de los Lagos N°57 Partido Demócrata Cristiano
+Patricio Hales Dib RM Región Metropolitana N°19 Partido Por la Democracia
+Juan Pablo Letelier Morel VI Región del Libertador Bernardo O' Higgins N°33 Partido Socialista","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2174-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2174-07","No record","Veto emmEnd"

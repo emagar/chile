@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 5700-12","Legislatura: 355
+Fecha de ingreso: jueves 10 de enero de 2008
+Estado: Segundo trámite constitucional .
+Numero de boletín: 5700-12
+Materia: Análisis Del Impacto Ambiental,Autorizacion Ambiental Provisoria
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 13:13:35
+* * Hitos de tramitación * *
+"emmStart Hitos 5700-12","Fecha Sesión Etapa Sub-etapa Documento
+10 de Ene. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Ene. de 2008 129ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver
+12 de Mar. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de Mar. de 2008 4ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Recursos Naturales. EN ESTADO DE TABLA. Ver
+15 de May. de 2008 30ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+15 de May. de 2008   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+20 de May. de 2008 22ª / 356 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Medio Ambiente y Bienes Nacionales Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5700-12","Fecha Etapa Informe Documento
+12 de Mar. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5700-12","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5700-12","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Guillermo Ceroni Fuentes VII Región del Maule N°40 Partido Por la Democracia
+Alejandro García-Huidobro Sanfuentes VI Región del Libertador Bernardo O' Higgins N°32 Unión Demócrata Independiente
+Guido Girardi Briere RM Región Metropolitana N°18 Partido Por la Democracia
+Tucapel Jiménez Fuentes RM Región Metropolitana N°27 Partido Por la Democracia
+Juan Lobos Krause VIII Región del Bío Bío N°47 Unión Demócrata Independiente
+Osvaldo Palma Flores VII Región del Maule N°39 Renovación Nacional
+Denise Pascal Allende RM Región Metropolitana N°31 Partido Socialista
+Roberto Sepúlveda Hermosilla RM Región Metropolitana N°20 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5700-12","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+30   51 0 1 68 Aprobado Sala Ver detalle votación
+30 Texto del proyecto, conjuntamente con la indicación de los diputados Vallespín, Saffirio, Meza, Bauer, Accorsi, Girardi y Galilea, y la diputada señora Denise Pascal, para agregar el siguiente inciso final en el artículo 15 de la ley N°19.300: ""Cuando el estudio de impacto ambiental se refiera a proyectos o actividades que deben ser implementados de manera urgente para atender necesidades impostergables derivadas de calamidades públicas, así como a servicios que no pueden paralizarse sin serio perjuicio para el país, el plazo de evaluación se reducirá a la mitad, ordenándose todos los trámites proporcionalmente a ese nuevo plazo. La calificación de urgencia para la evaluación será realizada por el Director Ejecutivo a petición del interesado. El reglamento determinará los requisitos, formas y condiciones necesarios para la solicitud, la aprobación y su debida publicidad."". 54 0 2 64 Aprobado Sala Ver detalle votación
+63 Votación General 8 0 0 5   Recursos Naturales Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5700-12","No record","Veto emmEnd"

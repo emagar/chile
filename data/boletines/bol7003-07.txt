@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 7003-07","Legislatura: 358
+Fecha de ingreso: jueves 17 de junio de 2010
+Estado: Segundo trámite constitucional .
+Numero de boletín: 7003-07
+Materia: Tarjetas De Telefonía,Extravío De Celulares
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 23:09:15
+* * Hitos de tramitación * *
+"emmStart Hitos 7003-07","Fecha Sesión Etapa Sub-etapa Documento
+17 de Jun. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+17 de Jun. de 2010 41ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Seguridad Ciudadana y Drogas y a Comisión de Constitución, Legislación y Justicia Ver
+08 de Sep. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+15 de Sep. de 2010 76ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+09 de Ago. de 2011 66ª / 359 Primer trámite constitucional / C. Diputados Oficio N°77/11. Oficio de la Comisión de Seguridad Ciudadana y Drogas, por el cual solicita el acuerdo de la Sala, para que se fije plazo a la Comisión de Constitución, Legislación y Justicia para que informe el proyecto, actualmente en esta Comisión. Ver Ver
+18 de Oct. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Nov. de 2011 102ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+23 de Nov. de 2011 114ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+23 de Nov. de 2011   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7003-07","Fecha Etapa Informe Documento
+18 de Oct. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+08 de Sep. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión Especial de Seguridad Ciudadana y Drogas Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7003-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7003-07","Nombre Región Distrito Partido
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Juan Luis Castro González VI Región del Libertador Bernardo O' Higgins N°32 Partido Socialista
+Marcelo Díaz Díaz IV Región de Coquimbo N°7 Partido Socialista
+Edmundo Eluchans Urenda V Región de Valparaíso N°14 Unión Demócrata Independiente
+Fidel Espinoza Sandoval X Región de los Lagos N°56 Partido Socialista
+Felipe Harboe Bascuñán RM Región Metropolitana N°22 Partido Por la Democracia
+Cristián Monckeberg Bruner RM Región Metropolitana N°23 Renovación Nacional
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+María Antonieta Saa Díaz RM Región Metropolitana N°17 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7003-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+12 Votación General 7 0 0 6   Seguridad y Drogas Ver detalle votación
+114   95 3 0 22 Aprobado Sala Ver detalle votación
+114   93 3 0 24 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7003-07","No record","Veto emmEnd"

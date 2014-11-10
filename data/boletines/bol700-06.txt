@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 700-06","Legislatura: 324
+Fecha de ingreso: martes 02 de junio de 1992
+Estado: Tramitación terminada (Ley Nº 19.146 - D.Oficial 24/06/1992)
+Numero de boletín: 700-06
+Materia: Elecciones,Tribunales Electorales Regionales
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 21:48:03
+* * Hitos de tramitación * *
+"emmStart Hitos 700-06","Fecha Sesión Etapa Sub-etapa Documento
+02 de Jun. de 1992 2ª / 324 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+02 de Jun. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+09 de Jun. de 1992 3ª / 324 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento y a Comisión de Hacienda
+09 de Jun. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+10 de Jun. de 1992 4ª / 324 Segundo trámite constitucional / Senado Por acuerdo de Comités, se agrega a la Tabla de esta sesión. Discusión general y particular. Aprobado en general y en particular.
+10 de Jun. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+10 de Jun. de 1992 4ª / 324 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+11 de Jun. de 1992   Segundo trámite constitucional / Senado Oficio a la Cámara comunicando aprobación
+16 de Jun. de 1992   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 700-06","Fecha Etapa Informe Documento
+10 de Jun. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+09 de Jun. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 700-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+02 de Jun. de 1992   Discusión inmediata    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 700-06","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 700-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 700-06","No record","Veto emmEnd"

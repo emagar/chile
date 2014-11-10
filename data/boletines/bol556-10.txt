@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 556-10","Legislatura: 323
+Fecha de ingreso: miércoles 04 de diciembre de 1991
+Estado: Tramitación terminada (D.S. Nº 677 - D.Oficial 07/09/1992)
+Numero de boletín: 556-10
+Materia: Acuerdos Internacionales
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 19:23:18
+* * Hitos de tramitación * *
+"emmStart Hitos 556-10","Fecha Sesión Etapa Sub-etapa Documento
+04 de Dic. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Dic. de 1991 29ª / 324 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+31 de Mar. de 1992   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+01 de Abr. de 1992   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Trabajo y Seguridad Social Ver
+15 de Abr. de 1992 66ª / 323 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+28 de Abr. de 1992 68ª / 323 Primer trámite constitucional / C. Diputados Discusión general Ver
+29 de Abr. de 1992   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora
+05 de May. de 1992 55ª / 323 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social y, a la de Relaciones Exteriores.
+12 de May. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Relaciones Exteriores Ver
+13 de May. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+13 de May. de 1992 59ª / 323 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+13 de May. de 1992 59ª / 323 Segundo trámite constitucional / Senado Por acuerdo de Comités, se agrega a la Tabla de esta sesión. A petición del Comité Independiente, el proyecto queda para segunda discusión . Ver
+19 de May. de 1992 60ª / 323 Segundo trámite constitucional / Senado Aprobado en general y particular sin modificaciones
+20 de May. de 1992   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+20 de May. de 1992   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+20 de May. de 1992   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+21 de May. de 1992 1ª / 324 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+22 de May. de 1992   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 556-10","Fecha Etapa Informe Documento
+13 de May. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+12 de May. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver
+31 de Mar. de 1992 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 556-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 556-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 556-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 556-10","No record","Veto emmEnd"

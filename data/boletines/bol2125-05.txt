@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 2125-05","Legislatura: 336
+Fecha de ingreso: martes 06 de enero de 1998
+Estado: Tramitación terminada (Ley Nº 19.559 - D.Oficial 16/04/1998)
+Numero de boletín: 2125-05
+Materia: Feriados
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 21:15:11
+* * Hitos de tramitación * *
+"emmStart Hitos 2125-05","Fecha Sesión Etapa Sub-etapa Documento
+06 de Ene. de 1998   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Ene. de 1998 21ª / 336 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+12 de Ene. de 1998   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+13 de Ene. de 1998 24ª / 336 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Ene. de 1998 25ª / 336 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+14 de Ene. de 1998   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+20 de Ene. de 1998 29ª / 336 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+28 de Ene. de 1998   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+17 de Mar. de 1998 1ª / 337 Segundo trámite constitucional / Senado Proyecto incluido en la Leg.Extraordinaria
+17 de Mar. de 1998 1ª / 337 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+18 de Mar. de 1998 2ª / 337 Segundo trámite constitucional / Senado Discusión general Ver
+18 de Mar. de 1998   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+19 de Mar. de 1998 3ª / 337 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+24 de Mar. de 1998 4ª / 337 Tercer trámite constitucional / C. Diputados Discusión única Ver
+24 de Mar. de 1998   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2125-05","Fecha Etapa Informe Documento
+28 de Ene. de 1998 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+12 de Ene. de 1998 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2125-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+17 de Mar. de 1998 16 de Sep. de 1998 Sin urgencia 171-336 CADUCADO","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2125-05","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2125-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2125-05","No record","Veto emmEnd"

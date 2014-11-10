@@ -1,0 +1,56 @@
+* * Bill summary * *
+"emmStart Summary 103-13","Legislatura: 320
+Fecha de ingreso: martes 17 de julio de 1990
+Estado: Tramitación terminada (Ley Nº 19.010 - D.Oficial 29/11/1990)
+Numero de boletín: 103-13
+Materia: Derecho Del Trabajo
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 30-10-2014 17:50:40
+* * Hitos de tramitación * *
+"emmStart Hitos 103-13","Fecha Sesión Etapa Sub-etapa Documento
+17 de Jul. de 1990   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+17 de Jul. de 1990 17ª / 320 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento y de Trabajo y Prevención Social, unidas
+08 de Ago. de 1990 23ª / 320 Primer trámite constitucional / Senado Primer informe de comisión Ver
+08 de Ago. de 1990 23ª / 320 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+08 de Ago. de 1990 23ª / 320 Primer trámite constitucional / Senado Discusión general Ver
+08 de Ago. de 1990   Primer trámite constitucional / Senado Boletín de indicaciones
+20 de Ago. de 1990 23ª / 320 Primer trámite constitucional / Senado Segundo informe de comisión Ver
+21 de Ago. de 1990 25ª / 320 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+21 de Ago. de 1990 25ª / 320 Primer trámite constitucional / Senado Discusión particular Ver
+21 de Ago. de 1990 25ª / 320 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+28 de Ago. de 1990 27ª / 320 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo Ver
+10 de Oct. de 1990   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+16 de Oct. de 1990 6ª / 321 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+16 de Oct. de 1990 7ª / 321 Segundo trámite constitucional / C. Diputados Discusión general Ver
+31 de Oct. de 1990   Segundo trámite constitucional / C. Diputados Segundo informe de comisión Ver
+06 de Nov. de 1990 10ª / 321 Segundo trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+06 de Nov. de 1990 10ª / 321 Segundo trámite constitucional / C. Diputados Discusión particular Ver
+13 de Nov. de 1990 10ª / 321 Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver Ver
+14 de Nov. de 1990 13ª / 321 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+15 de Nov. de 1990 14ª / 321 Tercer trámite constitucional / Senado Informe de comisión Ver
+15 de Nov. de 1990 14ª / 321 Tercer trámite constitucional / Senado Cuenta informe de comisión
+15 de Nov. de 1990 14ª / 321 Tercer trámite constitucional / Senado Discusión única
+21 de Nov. de 1990 14ª / 321 Trámite finalización en Cámara de Origen / Senado Oficio de Ley al Ejecutivo Ver
+22 de Nov. de 1990   Tercer trámite constitucional / Senado Oficio Nº 623, a la Cámara de Diputados, en el que comunica aprobación de modificaciones Ver
+27 de Nov. de 1990 15ª / 321 Trámite finalización en Cámara de Origen / Senado Cuenta oficio N? 623, que comunica aprobacion de modificaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 103-13","Fecha Etapa Informe Documento
+15 de Nov. de 1990 Tercer trámite constitucional Senado Informe de comisión de Trabajo y Previsión Social Ver
+31 de Oct. de 1990 Segundo trámite constitucional C.Diputados Segundo informe de comisión de Trabajo y Seguridad Social Ver
+10 de Oct. de 1990 Segundo trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver
+20 de Ago. de 1990 Primer trámite constitucional Senado Segundo informe de comisión de Constitución, Legislación, Justicia y Reglamento y de Trabajo y Prevención Social, unidas Ver
+08 de Ago. de 1990 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento y de Trabajo y Prevención Social, unidas Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 103-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 103-13","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 103-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 103-13","No record","Veto emmEnd"

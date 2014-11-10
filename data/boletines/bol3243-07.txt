@@ -1,0 +1,54 @@
+* * Bill summary * *
+"emmStart Summary 3243-07","Legislatura: 348
+Fecha de ingreso: martes 20 de mayo de 2003
+Estado: Archivado .
+Numero de boletín: 3243-07
+Materia: Rayados En Propiedades,Graffiti
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 00:44:47
+* * Hitos de tramitación * *
+"emmStart Hitos 3243-07","Fecha Sesión Etapa Sub-etapa Documento
+20 de May. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de May. de 2003 82ª / 348 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+09 de Jun. de 2004   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de May. de 2005   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+10 de May. de 2005 72ª / 352 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+05 de Jul. de 2005 11ª / 353 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+02 de Ago. de 2005   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+03 de Ago. de 2005 26ª / 353 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión. de Constitución. Ver
+17 de Ago. de 2005 33ª / 353 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver
+17 de Ago. de 2005   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+30 de Ago. de 2005 29ª / 353 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento Ver
+30 de Jul. de 2008 40ª / 356 Segundo trámite constitucional / Senado Se solicita su archivo Cuenta de una comunicación de la Comisión de Constitución, Legislación, Justicia y Reglamento, en que propone a la Sala el archivo del proyecto, previo acuerdo de la Cámara de Diputados. Se accede a lo solicitado.
+30 de Jul. de 2008   Segundo trámite constitucional / Senado Oficio Nº924/SEC/08. Comunica que el Senado ha accedido, a solicitud de la Comisión de Constitución, Legislación, Justicia y Reglamento, en orden a disponer el archivo del proyecto. Ver
+05 de Ago. de 2008 57ª / 356 Segundo trámite constitucional / Senado Archivado Senado solicita archivo. ACORDADO.
+06 de Ago. de 2008 42ª / 356 Archivado / Cuenta Oficio de la Cámara de Diputados, con el que informa que ha accedido a la petición formulada por el Senado, en orden a archivar el proyecto de ley.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3243-07","Fecha Etapa Informe Documento
+02 de Ago. de 2005 Primer trámite constitucional C.Diputados Segundo informe de comisión de Constitución, Legislación y Justicia Ver
+03 de May. de 2005 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+09 de Jun. de 2004 Primer trámite constitucional C.Diputados Primer informe de comisión Especial de Seguridad Ciudadana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3243-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3243-07","Nombre Región Distrito Partido
+Gabriel Ascencio Mansilla X Región de los Lagos N°58 Partido Demócrata Cristiano
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Zarko Luksic Sandoval RM Región Metropolitana N°16 Partido Demócrata Cristiano
+María Eugenia Mella Gajardo V Región de Valparaíso N°10 Partido Demócrata Cristiano
+Sergio Ojeda Uribe X Región de los Lagos N°55 Partido Demócrata Cristiano
+Edgardo Riveros Marín RM Región Metropolitana N°30 Partido Demócrata Cristiano
+Eduardo Saffirio Suárez IX Región de la Araucanía N°50 Partido Demócrata Cristiano
+Exequiel Silva Ortíz X Región de los Lagos N°53 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3243-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+33 Articulado propuesto en el proyecto. 52 2 2 2 Aprobado Sala Ver detalle votación
+11   77 3 4 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3243-07","No record","Veto emmEnd"

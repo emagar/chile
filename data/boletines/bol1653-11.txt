@@ -1,0 +1,35 @@
+* * Bill summary * *
+"emmStart Summary 1653-11","Legislatura: 331
+Fecha de ingreso: miércoles 12 de julio de 1995
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 1653-11
+Materia: Información De Productos Farmacéuticos,Información Sobre Alternativas Farmacéuticas,Productos Monodrogas
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 11:55:00
+* * Hitos de tramitación * *
+"emmStart Hitos 1653-11","Fecha Sesión Etapa Sub-etapa Documento
+12 de Jul. de 1995   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+12 de Jul. de 1995 16ª / 331 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Salud
+09 de Jun. de 1998   Primer trámite constitucional / Senado Primer informe de comisión Ver
+16 de Jun. de 1998 6ª / 338 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+08 de Jul. de 1998 12ª / 338 Primer trámite constitucional / Senado Segunda Discusión Ver
+14 de Jul. de 1998 13ª / 338 Primer trámite constitucional / Senado Se declara inadmisible Ver
+21 de Jul. de 1998   Tramitación terminada / Oficio Nº 12.671 al Ministro de Salud comunicándole que el proyecto fue declarado inadmisible. Se le remiten antecedentes de la iniciativa para que analice posibilidad de recoger sus planteamientos. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1653-11","Fecha Etapa Informe Documento
+09 de Jun. de 1998 Primer trámite constitucional Senado Primer informe de comisión de Salud Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1653-11","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1653-11","Nombre
+Sebastian Piñera Echeñique","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1653-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1653-11","No record","Veto emmEnd"

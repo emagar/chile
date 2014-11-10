@@ -1,0 +1,53 @@
+* * Bill summary * *
+"emmStart Summary 5378-03","Legislatura: 355
+Fecha de ingreso: jueves 04 de octubre de 2007
+Estado: Segundo trámite constitucional .
+Numero de boletín: 5378-03 Refundido con: 5868-03,5542-03,5558-03,5424-03
+Materia: Control De Identidad,Verificación De Identidad,Proveedores,Tarjetas De Crédito,Sistema Biométrico Dactilar
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 03:56:30
+* * Hitos de tramitación * *
+"emmStart Hitos 5378-03","Fecha Sesión Etapa Sub-etapa Documento
+04 de Oct. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Oct. de 2007 83ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+06 de Ene. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de Ene. de 2009 120ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Economía, Fomento y Desarrollo. EN ESTADO DE TABLA. Ver
+03 de Mar. de 2009 131ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+17 de Mar. de 2009 3ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+16 de Jun. de 2009   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+16 de Jun. de 2009 42ª / 357 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+30 de Jul. de 2009 57ª / 357 Primer trámite constitucional / C. Diputados Discusión particular Ver
+04 de Ago. de 2009   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+04 de Ago. de 2009 37ª / 357 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Economía","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5378-03","Fecha Etapa Informe Documento
+16 de Jun. de 2009 Primer trámite constitucional C.Diputados Segundo informe de comisión de Economía, Fomento y Desarrollo Ver
+06 de Ene. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5378-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5378-03","Nombre Región Distrito Partido
+Guillermo Ceroni Fuentes VII Región del Maule N°40 Partido Por la Democracia
+Gonzalo Duarte Leiva RM Región Metropolitana N°26 Partido Demócrata Cristiano
+Rodrigo González Torres V Región de Valparaíso N°14 Partido Por la Democracia
+Jorge Insunza Gregorio de las Heras RM Región Metropolitana N°28 Partido Por la Democracia
+Antonio Leal Labrín III Región de Atacama N°5 Partido Por la Democracia
+José Pérez Arriagada VIII Región del Bío Bío N°47 Partido Radical Social Demócrata
+Fulvio Rossi Ciocca I Región de Tarapacá N°2 Partido Socialista
+María Antonieta Saa Díaz RM Región Metropolitana N°17 Partido Por la Democracia
+Eugenio Tuma Zedan IX Región de la Araucanía N°51 Partido Por la Democracia
+Esteban Valenzuela Van Treek VI Región del Libertador Bernardo O' Higgins N°32 Independientes","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5378-03","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+57   77 0 0 43 Aprobado Sala Ver detalle votación
+57 Letra e) del N° 5 del artículo único. 39 26 7 48 Aprobado Sala Ver detalle votación
+3   96 0 0 24 Aprobado Sala Ver detalle votación
+76 Votación General 6 0 0 7   Economía Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5378-03","No record","Veto emmEnd"

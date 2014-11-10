@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 5496-07","Legislatura: 355
+Fecha de ingreso: martes 20 de noviembre de 2007
+Estado: Tramitación terminada (Ley Nº 20.277 - D.Oficial 28/06/2008)
+Numero de boletín: 5496-07
+Materia: Nacionalización
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 07-11-2014 05:22:18
+* * Hitos de tramitación * *
+"emmStart Hitos 5496-07","Fecha Sesión Etapa Sub-etapa Documento
+20 de Nov. de 2007   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+20 de Nov. de 2007 67ª / 355 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía
+12 de Mar. de 2008   Primer trámite constitucional / Senado Primer informe de comisión Ver
+18 de Mar. de 2008 3ª / 356 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+02 de Abr. de 2008 7ª / 356 Primer trámite constitucional / Senado Discusión general Ver
+03 de Abr. de 2008   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+03 de Abr. de 2008 13ª / 356 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver Ver
+10 de Abr. de 2008   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+15 de Abr. de 2008 18ª / 356 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+11 de Jun. de 2008 38ª / 356 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+11 de Jun. de 2008   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+17 de Jun. de 2008 27ª / 356 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+17 de Jun. de 2008   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5496-07","Fecha Etapa Informe Documento
+10 de Abr. de 2008 Segundo trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+12 de Mar. de 2008 Primer trámite constitucional Senado Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5496-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5496-07","Nombre
+Nelson Ávila Contreras
+Carlos Bianchi Chelech
+Camilo Escalona Medina
+Carlos Ignacio Kuschel Silva","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5496-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+38   61 0 3 56 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5496-07","No record","Veto emmEnd"

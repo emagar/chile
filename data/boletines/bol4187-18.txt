@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 4187-18","Legislatura: 354
+Fecha de ingreso: jueves 04 de mayo de 2006
+Estado: Archivado .
+Numero de boletín: 4187-18 Refundido con: 4153-18
+Materia: Propiedad De Bienes En Convivientes,Convivencia
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 22:42:59
+* * Hitos de tramitación * *
+"emmStart Hitos 4187-18","Fecha Sesión Etapa Sub-etapa Documento
+04 de May. de 2006 20ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Familia Ver
+04 de May. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+30 de Jun. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+30 de Jun. de 2009 46ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+30 de Jun. de 2009 46ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Familia. EN TABLA. Ver
+27 de Oct. de 2009 92ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1353-357 que hace presente la urgencia Suma Ver
+28 de Oct. de 2009 95ª / 357 Tramitación terminada / Cuenta del Mensaje 1426-357 que retira y hace presente la urgencia Simple
+18 de Nov. de 2009 106ª / 357 Tramitación terminada / Cuenta del Mensaje 1587-357 que retira la urgencia Simple
+05 de May. de 2010 19ª / 358 Archivado / Se accede al archivo por rechazo de simple mayoría en Comisión.
+10 de Ago. de 2010 61ª / 358 Archivado / Oficio de la Diputada señora Vidal, doña Ximena, quien solicita el desarchivo del proyecto. Pendiente.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4187-18","Fecha Etapa Informe Documento
+30 de Jun. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Familia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4187-18","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+28 de Oct. de 2009 18 de Nov. de 2009 Simple 1426-357 1587-357
+27 de Oct. de 2009 28 de Oct. de 2009 Suma 1353-357 1426-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4187-18","Nombre Región Distrito Partido
+Germán Becker Alvear IX Región de la Araucanía N°50 Renovación Nacional
+Maximiano Errázuriz Eguiguren RM Región Metropolitana N°29 Independientes","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4187-18","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+99 Votación General 0 11 0 2   Familia Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4187-18","No record","Veto emmEnd"

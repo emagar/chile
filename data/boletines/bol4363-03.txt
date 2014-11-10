@@ -1,0 +1,66 @@
+* * Bill summary * *
+"emmStart Summary 4363-03","Legislatura: 354
+Fecha de ingreso: martes 01 de agosto de 2006
+Estado: Tramitación terminada (Ley Nº 20.202 - D.Oficial 03/08/2007)
+Numero de boletín: 4363-03
+Materia: Fondo De Garantía Para Pequeñas Empresas
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 00:46:29
+* * Hitos de tramitación * *
+"emmStart Hitos 4363-03","Fecha Sesión Etapa Sub-etapa Documento
+01 de Ago. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+01 de Ago. de 2006 53ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. A comisión de Economía y a la de Hacienda, en lo que corresponda. Ver
+03 de Oct. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+04 de Oct. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+04 de Oct. de 2006 79ª / 354 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+04 de Oct. de 2006 79ª / 354 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+04 de Oct. de 2006   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+10 de Oct. de 2006 59ª / 354 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Economía y a Comisión de Hacienda
+05 de Ene. de 2007   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+16 de Ene. de 2007 84ª / 354 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+16 de Ene. de 2007 84ª / 355 Segundo trámite constitucional / Senado Por acuerdo de Comités, ratificado por la Sala, este proyecto se discutirá en general solamente con el informe de la Comisión de Economía. En la discusión en particular será también analizado por la Comisión de Hacienda.
+06 de Mar. de 2007 89ª / 354 Segundo trámite constitucional / Senado Cuenta del Mensaje 690-354 que hace presente la urgencia Simple
+06 de Mar. de 2007 89ª / 354 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 19/03/2007 Ver
+20 de Mar. de 2007 4ª / 355 Segundo trámite constitucional / Senado Se acuerda amplar el plazo de indicaciones hasta las 12 horas del lunes 02/04/2007.
+02 de Abr. de 2007   Segundo trámite constitucional / Senado Boletín de indicaciones
+10 de Abr. de 2007 9ª / 355 Segundo trámite constitucional / Senado Cuenta del Mensaje 75-355 que retira y hace presente la urgencia Simple
+03 de May. de 2007   Segundo trámite constitucional / Senado Segundo informe de comisión. Pasa a Comisión de Hacienda Ver
+15 de May. de 2007 19ª / 355 Segundo trámite constitucional / Senado Cuenta del Mensaje 200-355 que retira y hace presente la urgencia Simple
+05 de Jun. de 2007   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+05 de Jun. de 2007 21ª / 355 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+06 de Jun. de 2007 22ª / 355 Segundo trámite constitucional / Senado Discusión particular Ver
+06 de Jun. de 2007   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+07 de Jun. de 2007 33ª / 355 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver Ver
+14 de Jun. de 2007 37ª / 355 Tercer trámite constitucional / C. Diputados Discusión única Ver
+14 de Jun. de 2007   Tercer trámite constitucional / C. Diputados Oficio Nº 6856, que comunica aprobación de modificaciones Ver
+14 de Jun. de 2007   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+20 de Jun. de 2007 27ª / 355 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 6856, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4363-03","Fecha Etapa Informe Documento
+05 de Jun. de 2007 Segundo trámite constitucional Senado Segundo informe de comisión de Hacienda Ver
+03 de May. de 2007 Segundo trámite constitucional Senado Segundo informe de comisión de Economía Ver
+05 de Ene. de 2007 Segundo trámite constitucional Senado Primer informe de comisión de Economía Ver
+04 de Oct. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver
+03 de Oct. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4363-03","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+15 de May. de 2007   Simple 200-355  
+10 de Abr. de 2007 14 de May. de 2007 Simple 75-355 200-355
+06 de Mar. de 2007 10 de Abr. de 2007 Simple 690-354 75-355","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4363-03","Nombre Región Distrito Partido
+Ministerio de Economía, Fomento y Turism      
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4363-03","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+79   100 0 0 0 Aprobado Sala Ver detalle votación
+37 Modificaciones del Senado. 81 0 0 39 Aprobado Sala Ver detalle votación
+17 Votación General 9 0 0 4   Economía Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4363-03","No record","Veto emmEnd"

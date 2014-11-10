@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 2512-07","Legislatura: 342
+Fecha de ingreso: martes 13 de junio de 2000
+Estado: Archivado .
+Numero de boletín: 2512-07
+Materia: Comunicaciones Electrónicas,Datos Personales
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 01:16:11
+* * Hitos de tramitación * *
+"emmStart Hitos 2512-07","Fecha Sesión Etapa Sub-etapa Documento
+13 de Jun. de 2000   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Jun. de 2000 4ª / 342 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+13 de Jun. de 2000   Primer trámite constitucional / C. Diputados Oficio Nº 2886 a la Corte Suprema, remite proyecto para consulta. Ver
+13 de Jul. de 2000 16ª / 342 Primer trámite constitucional / C. Diputados Cuenta Oficio de Corte Suprema, remite opinión solicitada. Ver Ver
+18 de Jul. de 2000 17ª / 342 Primer trámite constitucional / C. Diputados Oficio 274 del 12-07-00 de la Com. de Ciencias y Tec. solicita que proyecto se tramite en forma conjunta con Bol. 2395-19.EN TABLA. Ver
+05 de Oct. de 2000   Primer trámite constitucional / C. Diputados Oficio 3086 del 05-10-00 a Com. de Ciencias y Tecnología, Acuerda remitir el proyecto a esa Comisión
+05 de Oct. de 2000 3ª / 343 Primer trámite constitucional / C. Diputados Oficio 279-00 de la Com. de Ciencias y Tecnología, solicita que el proyecto se tramite en forma conjunto con Bol. 2571-19. En Tabla. Ver
+05 de Oct. de 2000   Primer trámite constitucional / C. Diputados Oficio 3087 del 05-10-00 a la Com. de Constitución. Comunica radicación de proyecto en Com. de Ciencias y Tecnología.
+19 de Mar. de 2003   Archivado / Cuenta Oficio de la Comisión de Ciencia y Tecnología. Solicita el archivo del proyecto, por haberse legislado sobre dichas materias. Queda en Tabla.
+19 de Mar. de 2003   Primer trámite constitucional / C. Diputados Se accede a la solicitud de archivo. Oficio a la Comisión comunicando aceptación de proposión de archivo.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2512-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2512-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+06 de Nov. de 2001   Simple 117-345  
+14 de Ago. de 2001   Simple 160-344  
+10 de Jul. de 2001 16 de Ago. de 2001 Simple 94-344 160-344","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2512-07","Nombre Región Distrito Partido
+Alberto Espina Otero RM Región Metropolitana N°21 Renovación Nacional
+Guido Girardi Lavín RM Región Metropolitana N°18 Partido Por la Democracia
+Patricio Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2512-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2512-07","No record","Veto emmEnd"

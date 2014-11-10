@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 343-06","Legislatura: 321
+Fecha de ingreso: martes 23 de abril de 1991
+Estado: Tramitación terminada (Ley Nº 19.273 - D.Oficial 09/12/1993)
+Numero de boletín: 343-06
+Materia: Extranjeros
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 15:50:21
+* * Hitos de tramitación * *
+"emmStart Hitos 343-06","Fecha Sesión Etapa Sub-etapa Documento
+23 de Abr. de 1991   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+24 de Abr. de 1991 47ª / 321 Primer trámite constitucional / Senado Primer informe de comisión Ver
+24 de Abr. de 1991 47ª / 321 Primer trámite constitucional / Senado Cuenta de proyecto
+05 de Sep. de 1991 36ª / 322 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Sep. de 1991 38ª / 322 Primer trámite constitucional / Senado Discusión general Ver
+12 de Sep. de 1991 38ª / 322 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+17 de Sep. de 1991 41ª / 322 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+14 de Sep. de 1993 38ª / 326 Comisión Mixta por rechazo de modificaciones / C. Diputados Oficio integrantes de Comisión Mixta Ver
+14 de Sep. de 1993 26ª / 326 Tercer trámite constitucional / Senado Discusión única
+15 de Sep. de 1993 26ª / 326 Comisión Mixta por rechazo de idea de legislar / C. Diputados Cuenta oficio rechazo de Cámara Revisora. y designación de Diputados que integrarán Comisión Mixta. La Sala acuerda designar a los miembros de la Comisión de Gobierno para que integren la referida Comisión Mixta. Ver
+04 de Nov. de 1993 12ª / 327 Comisión Mixta por rechazo de modificaciones / C. Diputados Informe de Comisión Mixta Ver Ver
+09 de Nov. de 1993 12ª / 327 Disc. informe C.Mixta por rechazo de modific. en C. Origen / Senado Cuenta informe Comisión Mixta
+23 de Nov. de 1993 16ª / 327 Comisión Mixta por rechazo de modificaciones / C. Diputados Cuenta oficio integrantes de Comisión Mixta Ver
+24 de Nov. de 1993 17ª / 327 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación de informe de Comisión Mixta
+24 de Nov. de 1993 17ª / 327 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+24 de Nov. de 1993 17ª / 327 Disc. informe C.Mixta por rechazo de modific. en C. Origen / Senado Discusión informe de Comisión Mixta
+24 de Nov. de 1993 17ª / 327 Disc. informe C.Mixta por rechazo de modific. en C. Origen / Senado Oficio aprobación de informe de Comisión Mixta a C. Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 343-06","Fecha Etapa Informe Documento
+04 de Nov. de 1993 Comisión Mixta por rechazo de modificaciones Senado Informe de Comisión Mixta Comisión Mixta para Boletín Nº 343-06 Ver
+24 de Abr. de 1991 Primer trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 343-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 343-06","Nombre
+Olga Feliu Segovia
+Sergio Fernández Fernández
+Vicente Huerta Celis
+Santiago Sinclair Oyaneder","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 343-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 343-06","No record","Veto emmEnd"

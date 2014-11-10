@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 4162-07","Legislatura: 354
+Fecha de ingreso: viernes 21 de abril de 2006
+Estado: Primer trámite constitucional .
+Numero de boletín: 4162-07
+Materia: Amnistia
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 05-11-2014 22:27:10
+* * Hitos de tramitación * *
+"emmStart Hitos 4162-07","Fecha Sesión Etapa Sub-etapa Documento
+02 de May. de 2006   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+02 de May. de 2006 11ª / 354 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+14 de Ago. de 2007 43ª / 355 Primer trámite constitucional / Senado La Sala ratifica acuerdo de Comités de enviarlo a la Comisión de Derechos Humanos, Nacionalidad y Ciudadanía.
+15 de Mar. de 2010   Primer trámite constitucional / Senado Archivado Secretario de la Comisión comunica archivo en virtud del inciso segundo del artículo 36 bis del Reglamento de la Corporación.
+28 de Ene. de 2014 90ª / 361 Primer trámite constitucional / Senado Desarchivado Se acuerda su desarchivo por la Sala. Sesión 90. Especial. Sigue su tramitación en la Comisión de Derechos Humanos
+23 de Sep. de 2014 48ª / 362 Primer trámite constitucional / Senado Cuenta del Mensaje 525-362 que hace presente la urgencia Suma
+30 de Sep. de 2014 50ª / 362 Primer trámite constitucional / Senado Cuenta del Mensaje 587-362 que retira y hace presente la urgencia Simple
+21 de Oct. de 2014 57ª / 362 Primer trámite constitucional / Senado Cuenta del Mensaje 687-362 que retira y hace presente la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4162-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4162-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+21 de Oct. de 2014   Simple 687-362  
+30 de Sep. de 2014 21 de Oct. de 2014 Simple 587-362 687-362
+23 de Sep. de 2014 30 de Sep. de 2014 Suma 525-362 587-362","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4162-07","Nombre
+Guido Girardi Lavín
+Juan Pablo Letelier Morel
+Alejandro Navarro Brain
+Mariano Ruiz-Esquide Jara","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4162-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4162-07","No record","Veto emmEnd"

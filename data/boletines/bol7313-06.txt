@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 7313-06","Legislatura: 358
+Fecha de ingreso: martes 16 de noviembre de 2010
+Estado: Primer trámite constitucional .
+Numero de boletín: 7313-06
+Materia: Plebiscito,Municipios
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 02:34:59
+* * Hitos de tramitación * *
+"emmStart Hitos 7313-06","Fecha Sesión Etapa Sub-etapa Documento
+16 de Nov. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+16 de Nov. de 2010 101ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior y Regionalización Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7313-06","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7313-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7313-06","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Pedro Araya Guerrero II Región de Antofagasta N°4 Partido Regionalista Independiente
+Gabriel Ascencio Mansilla X Región de los Lagos N°58 Partido Demócrata Cristiano
+Alfonso De Urresti Longton XIV Región de los Ríos N°53 Partido Socialista
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+María José Hoffmann Opazo V Región de Valparaíso N°15 Unión Demócrata Independiente
+Miodrag Marinovic Solo de Zaldívar XII Región de Magallanes y de la Antártica Chilena N°60 Independientes
+Fernando Meza Moncada IX Región de la Araucanía N°52 Partido Radical Social Demócrata
+Marcela Sabat Fernández RM Región Metropolitana N°21 Renovación Nacional
+Guillermo Teillier Del Valle RM Región Metropolitana N°28 Partido Comunista","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7313-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7313-06","No record","Veto emmEnd"

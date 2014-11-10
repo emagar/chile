@@ -1,0 +1,54 @@
+* * Bill summary * *
+"emmStart Summary 1400-06","Legislatura: 330
+Fecha de ingreso: martes 11 de octubre de 1994
+Estado: Tramitación terminada (Ley Nº 19.436 - D.Oficial 29/12/1995)
+Numero de boletín: 1400-06
+Materia: Comunas
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 06:27:51
+* * Hitos de tramitación * *
+"emmStart Hitos 1400-06","Fecha Sesión Etapa Sub-etapa Documento
+11 de Oct. de 1994 5ª / 330 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+11 de Oct. de 1994   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+15 de Dic. de 1994   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+17 de Ene. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Ene. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Ene. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Ene. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Mar. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Mar. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Mar. de 1995 42ª / 330 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+07 de Mar. de 1995 44ª / 330 Primer trámite constitucional / C. Diputados Discusión general Ver
+08 de Mar. de 1995   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+08 de Mar. de 1995 42ª / 330 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización
+03 de Oct. de 1995   Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 332
+29 de Nov. de 1995   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+29 de Nov. de 1995   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+29 de Nov. de 1995 20ª / 332 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+29 de Nov. de 1995 20ª / 332 Segundo trámite constitucional / Senado Discusión general Ver
+13 de Dic. de 1995   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+13 de Dic. de 1995 35ª / 332 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+13 de Dic. de 1995 35ª / 332 Tercer trámite constitucional / C. Diputados Discusión única Ver
+13 de Dic. de 1995   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1400-06","Fecha Etapa Informe Documento
+29 de Nov. de 1995 Segundo trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver
+29 de Nov. de 1995 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+02 de Mar. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+17 de Ene. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+15 de Dic. de 1994 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1400-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+11 de Oct. de 1994   Simple    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1400-06","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1400-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1400-06","No record","Veto emmEnd"

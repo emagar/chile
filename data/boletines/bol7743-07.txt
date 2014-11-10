@@ -1,0 +1,35 @@
+* * Bill summary * *
+"emmStart Summary 7743-07","Legislatura: 359
+Fecha de ingreso: martes 21 de junio de 2011
+Estado: Primer trámite constitucional .
+Numero de boletín: 7743-07
+Materia: Menores
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 09-11-2014 08:24:12
+* * Hitos de tramitación * *
+"emmStart Hitos 7743-07","Fecha Sesión Etapa Sub-etapa Documento
+21 de Jun. de 2011   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+21 de Jun. de 2011 27ª / 359 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía
+11 de Jul. de 2012   Primer trámite constitucional / Senado Primer informe de comisión Ver
+11 de Jul. de 2012 34ª / 360 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+11 de Jul. de 2012 34ª / 360 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+29 de Ago. de 2012 44ª / 360 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 10/09/2012 Ver
+10 de Sep. de 2012   Primer trámite constitucional / Senado Boletín de indicaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7743-07","Fecha Etapa Informe Documento
+11 de Jul. de 2012 Primer trámite constitucional Senado Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7743-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7743-07","Nombre
+Juan Pablo Letelier Morel","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7743-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7743-07","No record","Veto emmEnd"

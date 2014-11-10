@@ -1,0 +1,61 @@
+* * Bill summary * *
+"emmStart Summary 3880-14","Legislatura: 352
+Fecha de ingreso: miércoles 18 de mayo de 2005
+Estado: Comisión Mixta por rechazo de modificaciones .
+Numero de boletín: 3880-14
+Materia: Construcción Costera
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 04-11-2014 21:55:49
+* * Hitos de tramitación * *
+"emmStart Hitos 3880-14","Fecha Sesión Etapa Sub-etapa Documento
+18 de May. de 2005   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+07 de Jun. de 2005 1ª / 353 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Vivienda y Urbanismo
+13 de Abr. de 2009   Primer trámite constitucional / Senado Primer informe de comisión Ver
+14 de Abr. de 2009 9ª / 357 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+29 de Abr. de 2009 13ª / 357 Primer trámite constitucional / Senado El Comité Unión Demócrata Independiente solicita segunda discusión. Ver
+05 de May. de 2009 14ª / 357 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 01/06/2009 Ver
+01 de Jun. de 2009   Primer trámite constitucional / Senado Boletín de indicaciones
+08 de Jul. de 2009   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+15 de Jul. de 2009 34ª / 357 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+28 de Jul. de 2009 35ª / 357 Primer trámite constitucional / Senado Discusión particular Ver
+28 de Jul. de 2009   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+30 de Jul. de 2009 57ª / 357 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Vivienda y Desarrollo Urbano Ver
+15 de Jun. de 2010 39ª / 358 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 162-358 que hace presente la urgencia Simple Ver
+16 de Ago. de 2010   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Ago. de 2010 64ª / 358 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+09 de Sep. de 2010 74ª / 358 Segundo trámite constitucional / C. Diputados Discusión general Ver
+09 de Sep. de 2010   Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver
+15 de Sep. de 2010 53ª / 358 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+28 de Sep. de 2010 55ª / 358 Tercer trámite constitucional / Senado Discusión única
+28 de Sep. de 2010   Tercer trámite constitucional / Senado Oficio rechazo modificaciones a Cámara Revisora Ver
+29 de Sep. de 2010 80ª / 358 Comisión Mixta por rechazo de modificaciones / C. Diputados Cuenta oficio rechazo a modificaciones Ver
+29 de Sep. de 2010   Comisión Mixta por rechazo de modificaciones / C. Diputados Oficio integrantes de Comisión Mixta Ver
+05 de Oct. de 2010 57ª / 358 Comisión Mixta por rechazo de modificaciones / C. Diputados Cuenta oficio integrantes de Comisión Mixta Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3880-14","Fecha Etapa Informe Documento
+16 de Ago. de 2010 Segundo trámite constitucional C.Diputados Primer informe de comisión de Vivienda y Desarrollo Urbano Ver
+08 de Jul. de 2009 Primer trámite constitucional Senado Segundo informe de comisión de Vivienda y Urbanismo Ver
+13 de Abr. de 2009 Primer trámite constitucional Senado Primer informe de comisión de Vivienda y Urbanismo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3880-14","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+15 de Jun. de 2010   Simple 162-358  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3880-14","Nombre
+Antonio Horvath Kiss
+Baldo Prokurica Prokurica
+Hosaín Sabag Castillo
+Ramón Vega Hidalgo
+José Antonio Viera-Gallo Quesney","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3880-14","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+11 Votación General 8 0 0 5   Vivienda Ver detalle votación
+11 Votación General 8 0 0 5   Vivienda Ver detalle votación
+74   64 0 15 41 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3880-14","No record","Veto emmEnd"

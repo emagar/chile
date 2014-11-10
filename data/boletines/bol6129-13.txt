@@ -1,0 +1,54 @@
+* * Bill summary * *
+"emmStart Summary 6129-13","Legislatura: 356
+Fecha de ingreso: jueves 02 de octubre de 2008
+Estado: Segundo trámite constitucional .
+Numero de boletín: 6129-13
+Materia: Código Del Trabajo,Contrato Individual De Trabajo,Antecedentes Económicos,Datos Personales
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 03:12:03
+* * Hitos de tramitación * *
+"emmStart Hitos 6129-13","Fecha Sesión Etapa Sub-etapa Documento
+02 de Oct. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Oct. de 2008 84ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+18 de Ago. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+01 de Sep. de 2009 73ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+01 de Oct. de 2009 84ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver
+08 de Oct. de 2009 87ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver
+27 de Oct. de 2009   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+18 de Nov. de 2009 106ª / 357 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+13 de Ene. de 2010 118ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1809-357 que hace presente la urgencia Suma Ver
+13 de Ene. de 2010 118ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver
+13 de Ene. de 2010   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+19 de Ene. de 2010 83ª / 357 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social
+09 de Mar. de 2010 86ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1933-357 que retira la urgencia Suma","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6129-13","Fecha Etapa Informe Documento
+27 de Oct. de 2009 Primer trámite constitucional C.Diputados Segundo informe de comisión de Trabajo y Seguridad Social Ver
+18 de Ago. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6129-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+13 de Ene. de 2010 09 de Mar. de 2010 Suma 1809-357 1933-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6129-13","Nombre Región Distrito Partido
+Sergio Aguiló Melo VII Región del Maule N°37 Partido Socialista
+Marcelo Díaz Díaz IV Región de Coquimbo N°7 Partido Socialista
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Antonio Leal Labrín III Región de Atacama N°5 Partido Por la Democracia
+Adriana Muñoz D'Albora IV Región de Coquimbo N°9 Partido Por la Democracia
+José Miguel Ortiz Novoa VIII Región del Bío Bío N°44 Partido Demócrata Cristiano
+Alberto Robles Pantoja III Región de Atacama N°6 Partido Radical Social Demócrata
+Ximena Valcarce Becerra XV Región Arica y Parinacota N°1 Renovación Nacional
+Ximena Vidal Lázaro RM Región Metropolitana N°25 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6129-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+87   43 1 8 68 Aprobado Sala Ver detalle votación
+118 Inidcación para reempazar la frase "" a traves de terceros"" del 2) del artículo único, por ""a traves de terceros dependientes del empleador"". 73 0 1 0 Aprobado Sala Ver detalle votación
+118 Con excepción de la frase ""a través de terceros"" del 2) del artículo único. 76 0 1 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6129-13","No record","Veto emmEnd"

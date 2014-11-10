@@ -1,0 +1,35 @@
+* * Bill summary * *
+"emmStart Summary 2982-11","Legislatura: 347
+Fecha de ingreso: martes 02 de julio de 2002
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 2982-11
+Materia: Plan Auge,Programa Chile Solidario
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 19:36:49
+* * Hitos de tramitación * *
+"emmStart Hitos 2982-11","Fecha Sesión Etapa Sub-etapa Documento
+02 de Jul. de 2002   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Jul. de 2002 11ª / 347 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver
+13 de Ago. de 2003 29ª / 349 Tramitación terminada / Cuenta Oficio Nº 189-349 de S. E. El Presidente de la República por el cual retira el proyecto. Se devolvieron antecedentes. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2982-11","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2982-11","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+14 de Ene. de 2003   Simple 375-348  
+10 de Dic. de 2002 14 de Ene. de 2003 Simple 266-348 375-348
+05 de Nov. de 2002 10 de Dic. de 2002 Simple 142-348 266-348
+02 de Jul. de 2002 06 de Ago. de 2002 Simple 94-347 163-347
+02 de Jul. de 2002 16 de Jul. de 2002 Simple 86-347 128-347","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2982-11","Nombre Región Distrito Partido
+Ministerio de Salud      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2982-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2982-11","No record","Veto emmEnd"

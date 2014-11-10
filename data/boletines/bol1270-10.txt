@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 1270-10","Legislatura: 329
+Fecha de ingreso: miércoles 06 de julio de 1994
+Estado: Tramitación terminada (D.S. Nº 301 - D.Oficial 11/11/2006)
+Numero de boletín: 1270-10
+Materia: Acuerdos Internacionales
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 05:13:03
+* * Hitos de tramitación * *
+"emmStart Hitos 1270-10","Fecha Sesión Etapa Sub-etapa Documento
+06 de Jul. de 1994   Primer trámite constitucional / Senado Ingreso de proyecto. de acuerdo Ver
+06 de Jul. de 1994 10ª / 329 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+18 de Ene. de 1995   Primer trámite constitucional / Senado Primer informe de comisión Ver
+18 de Ene. de 1995 38ª / 330 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+02 de Mar. de 1995   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+02 de Mar. de 1995 40ª / 330 Primer trámite constitucional / Senado Discusión general. Discusión general y particular. Aprobado en general y en particular. Ver
+07 de Mar. de 1995 43ª / 330 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+04 de Abr. de 1995   Segundo trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+30 de May. de 1995   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+30 de May. de 1995 2ª / 331 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+01 de Jun. de 1995 4ª / 331 Segundo trámite constitucional / C. Diputados Discusión general Ver
+01 de Jun. de 1995   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+06 de Jun. de 1995 4ª / 331 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora. Se manda comunicar a S.E. el Presidente de la República
+06 de Jun. de 1995   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1270-10","Fecha Etapa Informe Documento
+30 de May. de 1995 Segundo trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+04 de Abr. de 1995 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+18 de Ene. de 1995 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1270-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+06 de Jul. de 1994 16 de Sep. de 1998 Sin urgencia   CADUCADO","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1270-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1270-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1270-10","No record","Veto emmEnd"

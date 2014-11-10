@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 1002-10","Legislatura: 326
+Fecha de ingreso: martes 01 de junio de 1993
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 1002-10
+Materia: Tránsito
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 01:48:18
+* * Hitos de tramitación * *
+"emmStart Hitos 1002-10","Fecha Sesión Etapa Sub-etapa Documento
+01 de Jun. de 1993   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+01 de Jun. de 1993 1ª / 326 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+10 de Ago. de 1993 16ª / 326 Primer trámite constitucional / Senado Primer informe de comisión
+11 de Ago. de 1993 17ª / 326 Primer trámite constitucional / Senado Discusión general Ver
+11 de Ago. de 1993 17ª / 326 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+11 de Ago. de 1993 17ª / 326 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+17 de Ago. de 1993 28ª / 326 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+01 de Jun. de 1996   Segundo trámite constitucional / C. Diputados Primer informe de comisión
+04 de Jun. de 1996   Tramitación terminada / S.E. el Pdte. de la Rep. retira el proyecto de su tramitación.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1002-10","Fecha Etapa Informe Documento
+10 de Ago. de 1993 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1002-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1002-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1002-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1002-10","No record","Veto emmEnd"

@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 7335-07","Legislatura: 358
+Fecha de ingreso: miércoles 01 de diciembre de 2010
+Estado: Insistencia .
+Numero de boletín: 7335-07
+Materia: Votación En El Exterior
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 09-11-2014 02:50:19
+* * Hitos de tramitación * *
+"emmStart Hitos 7335-07","Fecha Sesión Etapa Sub-etapa Documento
+01 de Dic. de 2010   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+01 de Dic. de 2010 72ª / 358 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+01 de Dic. de 2010 72ª / 358 Primer trámite constitucional / Senado Cuenta del Mensaje 517-358 que hace presente la urgencia Simple
+04 de Ene. de 2011 81ª / 358 Primer trámite constitucional / Senado Cuenta del Mensaje 616-358 que retira y hace presente la urgencia Simple
+01 de Mar. de 2011 90ª / 358 Primer trámite constitucional / Senado Cuenta del Mensaje 714-358 que retira y hace presente la urgencia Simple
+15 de Mar. de 2011 1ª / 359 Primer trámite constitucional / Senado Cuenta del Mensaje 6-359 que retira y hace presente la urgencia Suma
+08 de Abr. de 2011   Primer trámite constitucional / Senado Primer informe de comisión Ver
+13 de Abr. de 2011 9ª / 359 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+03 de May. de 2011 13ª / 359 Primer trámite constitucional / Senado Discusión general Ver
+02 de Nov. de 2011   Insistencia / C. Diputados Oficio N°429-359 del Ejecutivo en que solicita envío del proyecto de reforma constitucional sobre voto de chilenos en el extranjero a la Cámara de Diputados Ver
+02 de Nov. de 2011 65ª / 359 Insistencia / C. Diputados Oficio insistencia a Cámara Revisora. Cuenta en Senado de Oficio insistencia a Cámara de Diputados. Ver Ver
+03 de Nov. de 2011 104ª / 359 Insistencia / C. Diputados Cuenta proyecto de ley insistido. Pasa a Comisión de Constitución, Legislación y Justicia Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7335-07","Fecha Etapa Informe Documento
+13 de Abr. de 2011 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7335-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+15 de Mar. de 2011   Suma 6-359  
+01 de Mar. de 2011 15 de Mar. de 2011 Simple 714-358 6-359
+04 de Ene. de 2011 01 de Mar. de 2011 Simple 616-358 714-358
+01 de Dic. de 2010 03 de Ene. de 2011 Simple 509-358 616-358
+01 de Dic. de 2010   Simple 517-358  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7335-07","Nombre
+Ministerio de Interior y Seguridad Públi
+Ministerio Secretaría General de la Presidencia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7335-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7335-07","No record","Veto emmEnd"

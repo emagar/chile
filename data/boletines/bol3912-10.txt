@@ -1,0 +1,35 @@
+* * Bill summary * *
+"emmStart Summary 3912-10","Legislatura: 353
+Fecha de ingreso: martes 05 de julio de 2005
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 3912-10
+Materia: Acuerdos Internacionales,Convenios De Cooperación Científica Y Técnica
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 06:44:39
+* * Hitos de tramitación * *
+"emmStart Hitos 3912-10","Fecha Sesión Etapa Sub-etapa Documento
+22 de Jun. de 2005 10ª / 353 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+05 de Jul. de 2005 11ª / 353 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+05 de Jul. de 2005   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Jul. de 2005   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+13 de Jul. de 2005 16ª / 353 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Relaciones Exteriores. Ver
+10 de Ene. de 2006   Tramitación terminada /  
+18 de Ene. de 2006   Tramitación terminada / Oficio Nº471-353. Oficio de S.E. Presidente de la República retirando proyecto de tramitación Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3912-10","Fecha Etapa Informe Documento
+12 de Jul. de 2005 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3912-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3912-10","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3912-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3912-10","No record","Veto emmEnd"

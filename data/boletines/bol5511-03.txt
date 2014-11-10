@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 5511-03","Legislatura: 355
+Fecha de ingreso: jueves 22 de noviembre de 2007
+Estado: Primer trámite constitucional .
+Numero de boletín: 5511-03
+Materia: Servicios Eléctricos,Tabaco
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 05:32:03
+* * Hitos de tramitación * *
+"emmStart Hitos 5511-03","Fecha Sesión Etapa Sub-etapa Documento
+22 de Nov. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+22 de Nov. de 2007 110ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+05 de Mar. de 2008 138ª / 355 Primer trámite constitucional / C. Diputados Sala acuerda que proyecto sea visto por Comisión de Economía, y luego por Comisión de Minería. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5511-03","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5511-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5511-03","Nombre Región Distrito Partido
+Marcelo Díaz Díaz IV Región de Coquimbo N°7 Partido Socialista
+Francisco Encina Moriamez IV Región de Coquimbo N°8 Partido Socialista
+Rodrigo González Torres V Región de Valparaíso N°14 Partido Por la Democracia
+Tucapel Jiménez Fuentes RM Región Metropolitana N°27 Partido Por la Democracia
+Antonio Leal Labrín III Región de Atacama N°5 Partido Por la Democracia
+Pablo Lorenzini Basso VII Región del Maule N°38 Partido Demócrata Cristiano
+Jaime Mulet Martínez III Región de Atacama N°6 Partido Regionalista Independiente
+Alejandro Sule Fernández VI Región del Libertador Bernardo O' Higgins N°33 Partido Radical Social Demócrata
+Eugenio Tuma Zedan IX Región de la Araucanía N°51 Partido Por la Democracia
+Samuel Venegas Rubio V Región de Valparaíso N°15 Independientes","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5511-03","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+80 Votación General 5 0 1 7   Economía Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5511-03","No record","Veto emmEnd"

@@ -1,0 +1,51 @@
+* * Bill summary * *
+"emmStart Summary 6438-03","Legislatura: 357
+Fecha de ingreso: jueves 02 de abril de 2009
+Estado: Primer trámite constitucional .
+Numero de boletín: 6438-03 Refundido con: 6439-07
+Materia: Delitos,Libre Competencia
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 07:37:47
+* * Hitos de tramitación * *
+"emmStart Hitos 6438-03","Fecha Sesión Etapa Sub-etapa Documento
+02 de Abr. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Abr. de 2009 8ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+15 de Abr. de 2009   Primer trámite constitucional / C. Diputados Comisión de Constitución soliciita que proyecto que le sea remitido el proyecto
+18 de Ago. de 2009 67ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 953-357 que hace presente la urgencia Suma Ver
+01 de Sep. de 2009 73ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1048-357 que retira y hace presente la urgencia Suma Ver
+08 de Sep. de 2009 76ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1094-357 que retira y hace presente la urgencia Simple Ver
+13 de Oct. de 2009 88ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1306-357 que retira y hace presente la urgencia Simple Ver
+18 de Nov. de 2009 106ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1587-357 que retira la urgencia Simple Ver
+21 de Dic. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+21 de Dic. de 2009 112ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Economía. SALA ACUERDA ENVIARLO A COMISIÓN DE CONSTITUCIÓN. Ver
+06 de Ene. de 2010 115ª / 357 Primer trámite constitucional / C. Diputados Comisión de Constitución solicita plazo de 30 días para analizar el proyecto. CONCEDIDO. Ver
+25 de Mar. de 2010 8ª / 358 Primer trámite constitucional / C. Diputados Comisión de Constitución solicita prórroga de 60 días para el cumplimiento de su mandato. ACORDADO. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6438-03","Fecha Etapa Informe Documento
+21 de Dic. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6438-03","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+13 de Oct. de 2009 18 de Nov. de 2009 Simple 1306-357 1587-357
+08 de Sep. de 2009 13 de Oct. de 2009 Simple 1094-357 1306-357
+01 de Sep. de 2009 08 de Sep. de 2009 Suma 1048-357 1094-357
+18 de Ago. de 2009 01 de Sep. de 2009 Suma 953-357 1048-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6438-03","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Ramón Farías Ponce RM Región Metropolitana N°30 Partido Por la Democracia
+Felipe Harboe Bascuñán RM Región Metropolitana N°22 Partido Por la Democracia
+Marco Antonio Núñez Lozano V Región de Valparaíso N°11 Partido Por la Democracia
+María Antonieta Saa Díaz RM Región Metropolitana N°17 Partido Por la Democracia
+Gabriel Silber Romo RM Región Metropolitana N°16 Partido Demócrata Cristiano
+Patricio Vallespín López X Región de los Lagos N°57 Partido Demócrata Cristiano
+Ximena Vidal Lázaro RM Región Metropolitana N°25 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6438-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6438-03","No record","Veto emmEnd"

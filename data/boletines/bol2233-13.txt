@@ -1,0 +1,48 @@
+* * Bill summary * *
+"emmStart Summary 2233-13","Legislatura: 338
+Fecha de ingreso: martes 08 de septiembre de 1998
+Estado: Tramitación terminada (Ley Nº 19.619 - D.Oficial 02/08/1999)
+Numero de boletín: 2233-13
+Materia: Mutuales De Seguridad
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 22:21:24
+* * Hitos de tramitación * *
+"emmStart Hitos 2233-13","Fecha Sesión Etapa Sub-etapa Documento
+08 de Sep. de 1998   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+08 de Sep. de 1998 32ª / 338 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+06 de Oct. de 1998   Primer trámite constitucional / C. Diputados S.E.El Presidente de la Republica incluye el proyecto en la Convocatoria Extraodinaria 339
+13 de Oct. de 1998   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+04 de Nov. de 1998   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+10 de Nov. de 1998 14ª / 339 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+01 de Dic. de 1998   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+01 de Dic. de 1998 23ª / 339 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+15 de Dic. de 1998 11ª / 339 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión De Hacienda y de Trabajo y Previsión Social Unidas
+19 de May. de 1999   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+08 de Jun. de 1999 3ª / 340 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+23 de Jun. de 1999 9ª / 340 Segundo trámite constitucional / Senado Discusión general Ver
+06 de Jul. de 1999   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+07 de Jul. de 1999 15ª / 340 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+13 de Jul. de 1999 17ª / 340 Tercer trámite constitucional / C. Diputados Discusión única Ver
+13 de Jul. de 1999   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2233-13","Fecha Etapa Informe Documento
+19 de May. de 1999 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda y de Trabajo y Previsión Social, unidas Ver
+04 de Nov. de 1998 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+13 de Oct. de 1998 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2233-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+10 de Nov. de 1998 02 de Mar. de 1999 Simple 101198 211-339
+06 de Oct. de 1998 10 de Nov. de 1998 Simple 8-339 101198
+08 de Sep. de 1998 16 de Sep. de 1998 Sin urgencia 115-338 CADUCADO","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2233-13","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2233-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2233-13","No record","Veto emmEnd"

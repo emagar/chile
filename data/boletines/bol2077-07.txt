@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 2077-07","Legislatura: 335
+Fecha de ingreso: martes 26 de agosto de 1997
+Estado: Tramitación terminada (Ley Nº 19.544 - D.Oficial 31/12/1997)
+Numero de boletín: 2077-07
+Materia: Tribunales De Justicia,Magistrados De Tribunales De Justicia
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 18:23:42
+* * Hitos de tramitación * *
+"emmStart Hitos 2077-07","Fecha Sesión Etapa Sub-etapa Documento
+26 de Jul. de 1997   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+26 de Jul. de 1997 26ª / 335 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+21 de Oct. de 1997   Primer trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+21 de Oct. de 1997   Primer trámite constitucional / Senado Primer informe de comisión Ver
+21 de Oct. de 1997 7ª / 336 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+22 de Oct. de 1997 8ª / 336 Primer trámite constitucional / Senado Discusión general Ver
+22 de Oct. de 1997   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+04 de Nov. de 1997 12ª / 336 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+04 de Nov. de 1997   Segundo trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+18 de Nov. de 1997   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de Nov. de 1997 15ª / 336 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+18 de Nov. de 1997 16ª / 336 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+18 de Nov. de 1997   Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver
+25 de Nov. de 1997 15ª / 336 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+25 de Nov. de 1997 17ª / 336 Tercer trámite constitucional / Senado Discusión única
+25 de Nov. de 1997   Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2077-07","Fecha Etapa Informe Documento
+18 de Nov. de 1997 Segundo trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+04 de Nov. de 1997 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+21 de Oct. de 1997 Primer trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+21 de Oct. de 1997 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2077-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2077-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2077-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2077-07","No record","Veto emmEnd"

@@ -1,0 +1,65 @@
+* * Bill summary * *
+"emmStart Summary 3404-04","Legislatura: 350
+Fecha de ingreso: martes 04 de noviembre de 2003
+Estado: Tramitación terminada (Ley Nº 19.961 - D.Oficial 14/08/2004)
+Numero de boletín: 3404-04
+Materia: Educacion
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 02:22:43
+* * Hitos de tramitación * *
+"emmStart Hitos 3404-04","Fecha Sesión Etapa Sub-etapa Documento
+04 de Nov. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Nov. de 2003 14ª / 350 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+20 de Abr. de 2004 76ª / 350 Tramitación terminada / Cuenta del Mensaje 640-350 que retira la urgencia Simple
+20 de Abr. de 2004   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+07 de May. de 2004   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de May. de 2004 82ª / 350 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+20 de May. de 2004 90ª / 350 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general (Queda pendiente discusión) Ver Ver
+16 de Jun. de 2004 5ª / 351 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+16 de Jun. de 2004   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+22 de Jun. de 2004 6ª / 351 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+07 de Jul. de 2004   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+19 de Jul. de 2004   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+20 de Jul. de 2004 13ª / 351 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión. Informes de la Comisión de Educación, Cultura, Ciencia y Tecnología y de la de Hacienda
+21 de Jul. de 2004 15ª / 351 Segundo trámite constitucional / Senado Discusión general Ver
+21 de Jul. de 2004   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+22 de Jul. de 2004 20ª / 351 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+03 de Ago. de 2004 21ª / 351 Tercer trámite constitucional / C. Diputados Cuenta del Mensaje 233-341 que hace presente la urgencia Suma Ver
+04 de Ago. de 2004 23ª / 351 Tercer trámite constitucional / C. Diputados Discusión única Ver
+04 de Ago. de 2004   Tercer trámite constitucional / C. Diputados Oficio Nº 5075, que comunica aprobación de modificaciones Ver
+04 de Ago. de 2004   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+10 de Ago. de 2004 19ª / 351 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 5075, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3404-04","Fecha Etapa Informe Documento
+19 de Jul. de 2004 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+07 de Jul. de 2004 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+07 de May. de 2004 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+20 de Abr. de 2004 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3404-04","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+03 de Ago. de 2004   Suma 233-341  
+13 de Jul. de 2004   Suma 173-351  
+22 de Jun. de 2004 06 de Jul. de 2004 Suma 86-351 145-351
+08 de Jun. de 2004 22 de Jun. de 2004 Suma 12-351 86-351
+19 de May. de 2004   Suma 741-350  
+04 de May. de 2004 12 de May. de 2004 Suma 659-350 722-350
+20 de Abr. de 2004 04 de May. de 2004 Suma 640-350 659-350
+06 de Abr. de 2004 20 de Abr. de 2004 Simple 581-350 640-350","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3404-04","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3404-04","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+5   97 0 1 0   Sala Ver detalle votación
+5 Inciso final de la letra b) del artículo 1º. 94 4 1 2   Sala Ver detalle votación
+23 Modificación del Senado al artículo 1º, letra a). 59 19 0 2 Aprobado Sala Ver detalle votación
+5 indicación de la Comisión de Hacienda al inciso séptimo que se agrega por la letra b) del artículo 1º 50 46 0 1   Sala Ver detalle votación
+5 Indicación de la Comisión de Hacienda que suprime el inciso octavo que se agrega por la letra b) del artículo 1º 51 47 0 1   Sala Ver detalle votación
+5 Indicación renovada al artículo 1º, letra a), inciso primero, que intercala, luego de la expresión ""instrumentos"", la frase ""niveles de aprendizaje de los alumnos"". 48 44 0 3   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3404-04","No record","Veto emmEnd"

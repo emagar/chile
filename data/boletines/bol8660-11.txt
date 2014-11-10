@@ -1,0 +1,59 @@
+* * Bill summary * *
+"emmStart Summary 8660-11","Legislatura: 360
+Fecha de ingreso: lunes 29 de octubre de 2012
+Estado: Tramitación terminada (Ley Nº 20.646 - D.Oficial 15/12/2012)
+Numero de boletín: 8660-11
+Materia: Establecimientos De Salud,Plantas Del Personal De La Salud,Funcionarios De La Salud,Asignación De Calidad En Atención
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 10-11-2014 04:12:11
+* * Hitos de tramitación * *
+"emmStart Hitos 8660-11","Fecha Sesión Etapa Sub-etapa Documento
+29 de Oct. de 2012   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+30 de Oct. de 2012 57ª / 360 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Salud y a la de Hacienda, en su caso.
+30 de Oct. de 2012 57ª / 360 Primer trámite constitucional / Senado Cuenta del Mensaje 330-360 que hace presente la urgencia Suma
+06 de Nov. de 2012 59ª / 360 Primer trámite constitucional / Senado Cuenta del Mensaje 340-360 que retira y hace presente la urgencia Discusión inmediata
+07 de Nov. de 2012   Primer trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+19 de Nov. de 2012 61ª / 360 Primer trámite constitucional / Senado Cuenta del Mensaje 359-360 que retira y hace presente la urgencia Discusión inmediata
+27 de Nov. de 2012   Primer trámite constitucional / Senado Primer informe de comisión Ver
+27 de Nov. de 2012 76ª / 360 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+27 de Nov. de 2012 76ª / 360 Primer trámite constitucional / Senado Cuenta del Mensaje 369-360 que retira y hace presente la urgencia Discusión inmediata
+28 de Nov. de 2012 79ª / 360 Primer trámite constitucional / Senado Discusión general Ver
+28 de Nov. de 2012   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+10 de Dic. de 2012 109ª / 360 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 387-360 que hace presente la urgencia Discusión inmediata Ver
+10 de Dic. de 2012 109ª / 360 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud y a Comisión de Hacienda Ver
+12 de Dic. de 2012   Segundo trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+12 de Dic. de 2012   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Dic. de 2012 112ª / 360 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+12 de Dic. de 2012 112ª / 360 Segundo trámite constitucional / C. Diputados Discusión general Ver
+13 de Dic. de 2012   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen. Oficio N° 10506. Oficio al Senado Ver
+13 de Dic. de 2012   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+18 de Dic. de 2012 87ª / 360 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8660-11","Fecha Etapa Informe Documento
+12 de Dic. de 2012 Segundo trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+12 de Dic. de 2012 Segundo trámite constitucional C.Diputados Primer informe de comisión de Salud Ver
+27 de Nov. de 2012 Primer trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+07 de Nov. de 2012 Primer trámite constitucional Senado Primer informe de comisión de Salud Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8660-11","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+10 de Dic. de 2012   Discusión inmediata 387-360  
+27 de Nov. de 2012   Discusión inmediata 369-360  
+19 de Nov. de 2012 27 de Nov. de 2012 Discusión inmediata 359-360 369-360
+06 de Nov. de 2012 19 de Nov. de 2012 Discusión inmediata 340-360 359-360
+30 de Oct. de 2012 05 de Nov. de 2012 Suma 330-360 340-360","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8660-11","Nombre
+Ministerio de Hacienda
+Ministerio de Salud","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8660-11","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+130 Votación General 10 0 0 3   Salud Ver detalle votación
+112   102 0 0 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8660-11","No record","Veto emmEnd"

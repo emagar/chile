@@ -1,0 +1,53 @@
+* * Bill summary * *
+"emmStart Summary 3107-05","Legislatura: 348
+Fecha de ingreso: jueves 17 de octubre de 2002
+Estado: Tramitación terminada (Ley Nº 19.853 - D.Oficial 11/02/2003)
+Numero de boletín: 3107-05
+Materia: Bonificacion Por Contratación De Mano De Obra
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 23:15:06
+* * Hitos de tramitación * *
+"emmStart Hitos 3107-05","Fecha Sesión Etapa Sub-etapa Documento
+17 de Oct. de 2002   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+17 de Oct. de 2002 9ª / 348 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+04 de Dic. de 2002   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+11 de Dic. de 2002   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Dic. de 2002 32ª / 348 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general y particular a la vez (el expediente no pasó por Of. de Partes, se vió sobre tabla por tanto no se dió cuenta de los informes) Ver Ver
+11 de Dic. de 2002   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+17 de Dic. de 2002 20ª / 348 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión Unidas de Hacienda y Economía
+17 de Dic. de 2002   Segundo trámite constitucional / Senado Primer informe de comisión. y Economía unidas Ver
+18 de Dic. de 2002 21ª / 348 Segundo trámite constitucional / Senado Cuenta. Informe de las Comisiones Unidas de Hacienda y Economía. Queda en tabla.
+18 de Dic. de 2002 21ª / 348 Segundo trámite constitucional / Senado Discusión única
+18 de Dic. de 2002   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+19 de Dic. de 2002 37ª / 348 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+19 de Dic. de 2002 37ª / 348 Tercer trámite constitucional / C. Diputados Discusión única Ver
+19 de Dic. de 2002   Tercer trámite constitucional / C. Diputados Oficio Nº 4062, que comunica aprobación de modificaciones Ver
+19 de Dic. de 2002   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+07 de Ene. de 2003 22ª / 348 Tramitación terminada / Cuenta, en el Senado, del oficio de la Cámara de Diputados, por la que ésta comunica que ha aprobado las modificaciones del Senado
+07 de Ene. de 2003 22ª / 348 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 4062, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3107-05","Fecha Etapa Informe Documento
+17 de Dic. de 2002 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+11 de Dic. de 2002 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+04 de Dic. de 2002 Primer trámite constitucional C.Diputados Primer informe de comisión Zonas Extremas Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3107-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+10 de Dic. de 2002 07 de Ene. de 2003 Discusión inmediata 289-348 327-348
+04 de Dic. de 2002   Discusión inmediata 309-348  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3107-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3107-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+32 2º 72 0 0 3   Sala Ver detalle votación
+37   44 1 1 0   Sala Ver detalle votación
+32 Indicación Comisión de Hacienda al art. 2º 36 38 0 2   Sala Ver detalle votación
+32   67 1 1 1   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3107-05","No record","Veto emmEnd"

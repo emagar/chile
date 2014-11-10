@@ -1,0 +1,55 @@
+* * Bill summary * *
+"emmStart Summary 6248-06","Legislatura: 356
+Fecha de ingreso: miércoles 10 de diciembre de 2008
+Estado: Primer trámite constitucional .
+Numero de boletín: 6248-06 Refundido con: 6255-06
+Materia: Encuestas
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 04:34:54
+* * Hitos de tramitación * *
+"emmStart Hitos 6248-06","Fecha Sesión Etapa Sub-etapa Documento
+10 de Dic. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Dic. de 2008 114ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+30 de Jun. de 2009 45ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 623-357 que hace presente la urgencia Simple Ver
+04 de Ago. de 2009 58ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 842-357 que retira y hace presente la urgencia Simple Ver
+07 de Ago. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Ago. de 2009 61ª / 357 Primer trámite constitucional / C. Diputados Cuenta de Primer informe de Comisión. (Refundido con Boletín N° 6255-06). EN TABLA. Ver
+11 de Ago. de 2009 61ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+08 de Sep. de 2009 76ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1070-357 que retira y hace presente la urgencia Simple Ver
+29 de Sep. de 2009 82ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1189-357 que retira la urgencia Simple Ver
+08 de Jun. de 2010 34ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+13 de Jul. de 2010   Primer trámite constitucional / C. Diputados Primer informe complementario Ver
+13 de Jul. de 2010 51ª / 358 Primer trámite constitucional / C. Diputados Cuenta primer informe complementario Ver
+28 de Jul. de 2010 56ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+03 de Ago. de 2010 58ª / 358 Primer trámite constitucional / C. Diputados CONTINUA DISCUSIÓN GENERAL DEL PROYECTO.RECHAZADO. Ver
+03 de Ago. de 2010 58ª / 358 Primer trámite constitucional / C. Diputados Discusión única Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6248-06","Fecha Etapa Informe Documento
+13 de Jul. de 2010 Primer trámite constitucional C.Diputados Primer informe complementario de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver
+07 de Ago. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6248-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+08 de Sep. de 2009 28 de Sep. de 2009 Simple 1070-357 1189-357
+04 de Ago. de 2009 07 de Sep. de 2009 Simple 842-357 1070-357
+30 de Jun. de 2009 04 de Ago. de 2009 Simple 623-357 842-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6248-06","Nombre Región Distrito Partido
+Pedro Araya Guerrero II Región de Antofagasta N°4 Independientes
+Eduardo Díaz Del Río IX Región de la Araucanía N°51 Partido Regionalista Independiente
+Alvaro Escobar Rufatt RM Región Metropolitana N°20 Independientes
+Jaime Mulet Martínez III Región de Atacama N°6 Partido Regionalista Independiente
+Carlos Olivares Zepeda RM Región Metropolitana N°18 Partido Regionalista Independiente
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Independientes
+Esteban Valenzuela Van Treek VI Región del Libertador Bernardo O' Higgins N°32 Independientes","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6248-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+58   52 24 28 16 Rechazado Sala Ver detalle votación
+114 Votación General 8 0 0 5   Gobierno Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6248-06","No record","Veto emmEnd"

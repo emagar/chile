@@ -1,0 +1,60 @@
+* * Bill summary * *
+"emmStart Summary 5987-04","Legislatura: 356
+Fecha de ingreso: martes 29 de julio de 2008
+Estado: Comisión Mixta por rechazo de idea de legislar .
+Numero de boletín: 5987-04
+Materia: Secreto Profesional
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 01:32:44
+* * Hitos de tramitación * *
+"emmStart Hitos 5987-04","Fecha Sesión Etapa Sub-etapa Documento
+29 de Jul. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+29 de Jul. de 2008 54ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Deportes y Recreación Ver
+05 de Ago. de 2008 57ª / 356 Primer trámite constitucional / C. Diputados Comisión de la Cultura y las Artes solicita acuerdo de la Corporación para que proyecto, actualmente en la Comisión de Educación, le sea remitido. ACORDADO. Ver
+21 de Ago. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Sep. de 2008 69ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+09 de Oct. de 2008 87ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+10 de Oct. de 2008   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+14 de Oct. de 2008 60ª / 356 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento Ver
+14 de Oct. de 2008 60ª / 356 Segundo trámite constitucional / Senado La Sala acuerda que el proyecto sea conocido por la Comisión de Educación, Cultura, Ciencia y Tecnología.
+08 de Ene. de 2009   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+13 de Ene. de 2009 84ª / 356 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+31 de Mar. de 2009 5ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 74-357 que hace presente la urgencia Simple
+31 de Mar. de 2009 5ª / 357 Segundo trámite constitucional / Senado La Sala acuerda enviar este proyecto, para informe, a la Comisión de Constitución.
+05 de May. de 2009 14ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 278-357 que retira y hace presente la urgencia Simple
+12 de May. de 2009 16ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 367-357 que retira la urgencia Simple
+28 de Jul. de 2009   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+29 de Jul. de 2009 36ª / 357 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+05 de Ago. de 2009 39ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 875-357 que hace presente la urgencia Simple
+02 de Sep. de 2009 45ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1060-357 que retira la urgencia Simple
+15 de Sep. de 2009 50ª / 357 Segundo trámite constitucional / Senado Discusión general Ver
+15 de Sep. de 2009   Segundo trámite constitucional / Senado Oficio rechazo a Cámara de Origen Ver
+16 de Sep. de 2009 81ª / 357 Comisión Mixta por rechazo de idea de legislar / Senado Cuenta oficio rechazo de Cámara Revisora
+16 de Sep. de 2009   Comisión Mixta por rechazo de idea de legislar / Senado Oficio N? 8331. Comunica Integración de Mixta a Cámara Revisora Ver
+29 de Sep. de 2009 52ª / 357 Comisión Mixta por rechazo de idea de legislar / Senado Cuenta oficio integrantes de Comisión Mixta
+29 de Sep. de 2009 52ª / 357 Comisión Mixta por rechazo de idea de legislar / Senado Cuenta oficio integrantes de Comisión Mixta","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5987-04","Fecha Etapa Informe Documento
+28 de Jul. de 2009 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+08 de Ene. de 2009 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+21 de Ago. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de la Cultura y las Artes Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5987-04","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+05 de Ago. de 2009 02 de Sep. de 2009 Simple 875-357 1060-357
+05 de May. de 2009 12 de May. de 2009 Simple 278-357 367-357
+31 de Mar. de 2009 04 de May. de 2009 Simple 74-357 278-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5987-04","Nombre Región Distrito Partido
+Ministerio de Educación      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5987-04","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+87   36 8 6 70 Aprobado Sala Ver detalle votación
+4 Votación General 4 0 0 9   Cultura Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5987-04","No record","Veto emmEnd"

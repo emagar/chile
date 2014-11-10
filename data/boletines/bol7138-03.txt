@@ -1,0 +1,65 @@
+* * Bill summary * *
+"emmStart Summary 7138-03","Legislatura: 358
+Fecha de ingreso: martes 17 de agosto de 2010
+Estado: Tramitación terminada (Ley Nº 20.714 - D.Oficial 24/01/2014)
+Numero de boletín: 7138-03
+Materia: Aysén (Chile),Bebidas Alcoholicas,Magallanes (Chile)
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 00:41:33
+* * Hitos de tramitación * *
+"emmStart Hitos 7138-03","Fecha Sesión Etapa Sub-etapa Documento
+17 de Ago. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+17 de Ago. de 2010 64ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+09 de Sep. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+14 de Sep. de 2010 75ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+28 de Sep. de 2010 79ª / 358 Primer trámite constitucional / C. Diputados Comités acuerdan retirar el proyecto de la tabla Ver
+07 de Oct. de 2010 86ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+13 de Dic. de 2010   Primer trámite constitucional / C. Diputados Nuevo primer informe de comisión Ver
+14 de Dic. de 2010 111ª / 358 Primer trámite constitucional / C. Diputados Cuenta nuevo primer informe Ver
+16 de Dic. de 2010 116ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+28 de Dic. de 2010   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+04 de Ene. de 2011 121ª / 358 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+05 de Ene. de 2011 122ª / 358 Primer trámite constitucional / C. Diputados Discusión particular Ver
+05 de Ene. de 2011   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+11 de Ene. de 2011 85ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Economía
+03 de Sep. de 2013   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+03 de Sep. de 2013 51ª / 361 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+09 de Oct. de 2013 62ª / 361 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija plazo para presentar indicaciones el 18/11/2013 a las 12:00 hras. en Secretaría Ver
+19 de Nov. de 2013 70ª / 361 Segundo trámite constitucional / Senado Discusión particular Ver
+19 de Nov. de 2013 70ª / 361 Segundo trámite constitucional / Senado Discusión particular Ver
+19 de Nov. de 2013   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+20 de Nov. de 2013 88ª / 361 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+27 de Nov. de 2013 94ª / 361 Tercer trámite constitucional / C. Diputados Discusión única. Aprobadas las modificaciones . Ver
+27 de Nov. de 2013   Tercer trámite constitucional / C. Diputados Oficio N° 11.007, que comunica aprobacion de modificaciones Ver
+27 de Nov. de 2013   Tercer trámite constitucional / C. Diputados Oficio N° 11.008, oficio al Presidente de la República, remite proyecto para promulgación. Ver
+28 de Nov. de 2013 75ª / 361 Tercer trámite constitucional / C. Diputados Cuenta oficio N? 11.007, que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7138-03","Fecha Etapa Informe Documento
+03 de Sep. de 2013 Segundo trámite constitucional Senado Primer informe de comisión de Economía Ver
+28 de Dic. de 2010 Primer trámite constitucional C.Diputados Segundo informe de comisión de Economía, Fomento y Desarrollo Ver
+13 de Dic. de 2010 Primer trámite constitucional C.Diputados Nuevo primer informe de comisión de Economía, Fomento y Desarrollo Ver
+09 de Sep. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7138-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7138-03","Nombre Región Distrito Partido
+Gabriel Ascencio Mansilla X Región de los Lagos N°58 Partido Demócrata Cristiano
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Miodrag Marinovic Solo de Zaldívar XII Región de Magallanes y de la Antártica Chilena N°60 Independientes
+David Sandoval Plaza XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Unión Demócrata Independiente
+Pedro Velásquez Seguel IV Región de Coquimbo N°8 Independientes","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7138-03","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+116   49 30 14 27 Aprobado Sala Ver detalle votación
+122 único. 78 13 12 17 Aprobado Sala Ver detalle votación
+122 transitorio. 69 20 10 21 Aprobado Sala Ver detalle votación
+94   67 5 3 0 Aprobado Sala Ver detalle votación
+19 Votación General 6 1 2 4   Economía Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7138-03","No record","Veto emmEnd"

@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 8641-07","Legislatura: 360
+Fecha de ingreso: jueves 18 de octubre de 2012
+Estado: Archivado .
+Numero de boletín: 8641-07
+Materia: Juez De Garantia,Código Procesal Penal,Fortalecimiento De La Justicia Penal,Exclusión De Prueba
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 03:59:17
+* * Hitos de tramitación * *
+"emmStart Hitos 8641-07","Fecha Sesión Etapa Sub-etapa Documento
+18 de Oct. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+18 de Oct. de 2012 92ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+23 de Abr. de 2014   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de May. de 2014 21ª / 362 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+05 de Jun. de 2014 30ª / 362 Primer trámite constitucional / C. Diputados Discusión general. Queda pendiente Ver
+02 de Sep. de 2014 63ª / 362 Primer trámite constitucional / C. Diputados Discusión general. Rechazado Ver
+02 de Sep. de 2014   Primer trámite constitucional / C. Diputados Archivado .Se archiva el proyecto en consideración a que la Sala de la Cámara de Diputados ha rechazado la idea de legislar sobre la iniciativa.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8641-07","Fecha Etapa Informe Documento
+23 de Abr. de 2014 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8641-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8641-07","Nombre Región Distrito Partido
+Pedro Pablo Alvarez-Salamanca Ramírez VII Región del Maule N°38 Unión Demócrata Independiente
+Eugenio Bauer Jouanne VI Región del Libertador Bernardo O' Higgins N°33 Unión Demócrata Independiente
+Sergio Bobadilla Muñoz VIII Región del Bío Bío N°45 Unión Demócrata Independiente
+Alberto Cardemil Herrera RM Región Metropolitana N°22 Renovación Nacional
+María Angélica Cristi Marfil RM Región Metropolitana N°24 Unión Demócrata Independiente
+Gustavo Hasbún Selume RM Región Metropolitana N°26 Unión Demócrata Independiente
+Javier Hernández Hernández X Región de los Lagos N°55 Unión Demócrata Independiente
+Cristian Letelier Aguilar RM Región Metropolitana N°31 Independientes
+Felipe Salaberry Soto RM Región Metropolitana N°25 Unión Demócrata Independiente
+Ignacio Urrutia Bonilla VII Región del Maule N°40 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8641-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+63   39 57 3 21 Rechazado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8641-07","No record","Veto emmEnd"

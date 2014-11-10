@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 3306-07","Legislatura: 349
+Fecha de ingreso: jueves 31 de julio de 2003
+Estado: Archivado .
+Numero de boletín: 3306-07
+Materia: Fraude
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 01:21:19
+* * Hitos de tramitación * *
+"emmStart Hitos 3306-07","Fecha Sesión Etapa Sub-etapa Documento
+31 de Jul. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+31 de Jul. de 2003 23ª / 349 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+09 de Jun. de 2010   Primer trámite constitucional / C. Diputados Archivado Constitución remite al archivo. Dos años sin tramitación.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3306-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3306-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+31 de Jul. de 2003   Sin urgencia    
+31 de Jul. de 2003   Sin urgencia    
+31 de Jul. de 2003   Sin urgencia    
+31 de Jul. de 2003   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3306-07","Nombre Región Distrito Partido
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Juan Bustos Ramírez V Región de Valparaíso N°12 Partido Socialista
+Patricio Hales Dib RM Región Metropolitana N°19 Partido Por la Democracia
+Eduardo Saffirio Suárez IX Región de la Araucanía N°50 Partido Demócrata Cristiano
+Exequiel Silva Ortíz X Región de los Lagos N°53 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3306-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3306-07","No record","Veto emmEnd"

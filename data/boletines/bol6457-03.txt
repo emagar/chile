@@ -1,0 +1,33 @@
+* * Bill summary * *
+"emmStart Summary 6457-03","Legislatura: 357
+Fecha de ingreso: jueves 09 de abril de 2009
+Estado: Primer trámite constitucional .
+Numero de boletín: 6457-03
+Materia: Fiscalía Nacional Económica (Chile),Multas,Acuerdos Conciliatorios
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 07:49:51
+* * Hitos de tramitación * *
+"emmStart Hitos 6457-03","Fecha Sesión Etapa Sub-etapa Documento
+09 de Abr. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+09 de Abr. de 2009 13ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6457-03","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6457-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6457-03","Nombre Región Distrito Partido
+Marcelo Díaz Díaz IV Región de Coquimbo N°7 Partido Socialista
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Adriana Muñoz D'Albora IV Región de Coquimbo N°9 Partido Por la Democracia
+Denise Pascal Allende RM Región Metropolitana N°31 Partido Socialista
+Roberto Sepúlveda Hermosilla RM Región Metropolitana N°20 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6457-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6457-03","No record","Veto emmEnd"

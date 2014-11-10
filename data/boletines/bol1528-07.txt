@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 1528-07","Legislatura: 330
+Fecha de ingreso: jueves 02 de marzo de 1995
+Estado: Tramitación terminada (Ley Nº 19.412 - D.Oficial 12/09/1995)
+Numero de boletín: 1528-07
+Materia: Código De Procedimiento Penal,Hurto,Robo
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 10:16:52
+* * Hitos de tramitación * *
+"emmStart Hitos 1528-07","Fecha Sesión Etapa Sub-etapa Documento
+02 de Mar. de 1995   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Mar. de 1995 42ª / 330 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+11 de Abr. de 1995 56ª / 330 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+11 de Abr. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+13 de Abr. de 1995 59ª / 330 Primer trámite constitucional / C. Diputados Discusión general Ver
+18 de Abr. de 1995   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora
+18 de Abr. de 1995 53ª / 330 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+02 de Ago. de 1995   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+02 de Ago. de 1995 23ª / 331 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+08 de Ago. de 1995 24ª / 331 Segundo trámite constitucional / Senado Discusión general Ver
+08 de Ago. de 1995   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+10 de Ago. de 1995 27ª / 331 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+23 de Ago. de 1995 31ª / 331 Tercer trámite constitucional / C. Diputados Discusión única Ver
+23 de Ago. de 1995   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1528-07","Fecha Etapa Informe Documento
+02 de Ago. de 1995 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+11 de Abr. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1528-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1528-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1528-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1528-07","No record","Veto emmEnd"

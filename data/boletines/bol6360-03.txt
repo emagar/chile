@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 6360-03","Legislatura: 356
+Fecha de ingreso: miércoles 14 de enero de 2009
+Estado: Primer trámite constitucional .
+Numero de boletín: 6360-03
+Materia: Consumidores,Hipótesis De Nulidad
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 05:57:04
+* * Hitos de tramitación * *
+"emmStart Hitos 6360-03","Fecha Sesión Etapa Sub-etapa Documento
+14 de Ene. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+14 de Ene. de 2009 123ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6360-03","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6360-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6360-03","Nombre Región Distrito Partido
+Gonzalo Duarte Leiva RM Región Metropolitana N°26 Partido Demócrata Cristiano
+Francisco Encina Moriamez IV Región de Coquimbo N°8 Partido Socialista
+Juan Carlos Latorre Carmona VI Región del Libertador Bernardo O' Higgins N°35 Partido Demócrata Cristiano
+Antonio Leal Labrín III Región de Atacama N°5 Partido Por la Democracia
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+Adriana Muñoz D'Albora IV Región de Coquimbo N°9 Partido Por la Democracia
+Denise Pascal Allende RM Región Metropolitana N°31 Partido Socialista
+Jaime Quintana Leal IX Región de la Araucanía N°49 Partido Por la Democracia
+María Antonieta Saa Díaz RM Región Metropolitana N°17 Partido Por la Democracia
+Eugenio Tuma Zedan IX Región de la Araucanía N°51 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6360-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6360-03","No record","Veto emmEnd"

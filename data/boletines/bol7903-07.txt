@@ -1,0 +1,58 @@
+* * Bill summary * *
+"emmStart Summary 7903-07","Legislatura: 359
+Fecha de ingreso: martes 06 de septiembre de 2011
+Estado: Primer trámite constitucional .
+Numero de boletín: 7903-07
+Materia: Circunstancias Agravantes ,Código Penal
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 13:12:10
+* * Hitos de tramitación * *
+"emmStart Hitos 7903-07","Fecha Sesión Etapa Sub-etapa Documento
+06 de Sep. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Sep. de 2011 78ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+12 de Sep. de 2011 82ª / 359 Primer trámite constitucional / C. Diputados Oficio N°84-11. Oficio de la Comisión de Seguridad Ciudadana y Drogas, por el cual solicita el acuerdo de la Sala, para que le sea remitido el proyecto, actualmente en la Comisión de Constitución, Legislación y Justicia. Rechazado. Ver Ver
+27 de Sep. de 2011 85ª / 359 Primer trámite constitucional / C. Diputados Oficio N°1. Oficio de la Comisión de Constitución, Legislación y Justicia, por el cual solicita que el proyecto pase primero a la Comisión de Seguridad Ciudadana y Drogas y luego de informado, vuelva a ésta. Acordado. Ver Ver
+27 de Sep. de 2011 85ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 395-359 que hace presente la urgencia Suma Ver
+12 de Oct. de 2011 95ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 421-359 que hace presente la urgencia Suma Ver
+02 de Nov. de 2011 102ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 431-359 que hace presente la urgencia Suma Ver
+16 de Nov. de 2011 109ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 453-359 que hace presente la urgencia Suma Ver
+13 de Dic. de 2011 120ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 479-359 que hace presente la urgencia Suma Ver
+03 de Ene. de 2012 126ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 522-359 que hace presente la urgencia Suma Ver
+04 de Ene. de 2012 127ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 529-359 que hace presente la urgencia Simple Ver
+06 de Mar. de 2012 140ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 578-359 que retira la urgencias por receso legislativo Ver
+01 de Ago. de 2012 64ª / 360 Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Constitución, Legislación y Justicia Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7903-07","Fecha Etapa Informe Documento
+01 de Ago. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Seguridad Ciudadana y Drogas Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7903-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Ene. de 2012 31 de Ene. de 2012 Simple 529-359 578-359
+03 de Ene. de 2012   Suma 522-359  
+13 de Dic. de 2011   Suma 479-359  
+16 de Nov. de 2011   Suma 453-359  
+02 de Nov. de 2011   Suma 431-359  
+12 de Oct. de 2011   Suma 421-359  
+27 de Sep. de 2011   Suma 395-359  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7903-07","Nombre Región Distrito Partido
+María Angélica Cristi Marfil RM Región Metropolitana N°24 Unión Demócrata Independiente
+Felipe Harboe Bascuñán RM Región Metropolitana N°22 Partido Por la Democracia
+Cristian Letelier Aguilar RM Región Metropolitana N°31 Independientes
+Cristián Monckeberg Bruner RM Región Metropolitana N°23 Renovación Nacional
+Marcela Sabat Fernández RM Región Metropolitana N°21 Renovación Nacional
+Gabriel Silber Romo RM Región Metropolitana N°16 Partido Demócrata Cristiano
+Arturo Squella Ovalle V Región de Valparaíso N°12 Unión Demócrata Independiente
+Matías Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano
+Felipe Ward Edwards II Región de Antofagasta N°3 Unión Demócrata Independiente
+Mónica Zalaquett Said RM Región Metropolitana N°20 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7903-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+52 Votación General 4 1 0 8   Seguridad y Drogas Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7903-07","No record","Veto emmEnd"

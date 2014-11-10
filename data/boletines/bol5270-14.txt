@@ -1,0 +1,75 @@
+* * Bill summary * *
+"emmStart Summary 5270-14","Legislatura: 355
+Fecha de ingreso: martes 28 de agosto de 2007
+Estado: Tramitación terminada (Ley Nº 20.251 - D.Oficial 04/03/2008)
+Numero de boletín: 5270-14
+Materia: Viviendas Sociales,Permiso De Edificacion
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 02:38:32
+* * Hitos de tramitación * *
+"emmStart Hitos 5270-14","Fecha Sesión Etapa Sub-etapa Documento
+28 de Ago. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+28 de Ago. de 2007 67ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Vivienda y Desarrollo Urbano Ver
+02 de Oct. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Oct. de 2007 79ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Vivienda y Desarrollo Urbano Ver
+10 de Oct. de 2007 88ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 834-355 que hace presente la urgencia Simple Ver
+16 de Oct. de 2007 90ª / 355 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+13 de Nov. de 2007 100ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1022-355 que retira y hace presente la urgencia Simple Ver
+04 de Dic. de 2007 111ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1135 que retira y hace presente la urgencia Suma Ver
+06 de Dic. de 2007   Primer trámite constitucional / C. Diputados Primer informe complementario Ver
+06 de Dic. de 2007 113ª / 355 Primer trámite constitucional / C. Diputados Cuenta primer informe complementario Ver
+06 de Dic. de 2007 113ª / 355 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+06 de Dic. de 2007   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+11 de Dic. de 2007 74ª / 355 Segundo trámite constitucional / Senado Cuenta del Mensaje 1173-355 que retira y hace presente la urgencia Simple
+11 de Dic. de 2007 74ª / 355 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Vivienda y Urbanismo
+19 de Dic. de 2007   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+19 de Dic. de 2007 77ª / 355 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+19 de Dic. de 2007 77ª / 355 Segundo trámite constitucional / Senado Discusión general Ver
+19 de Dic. de 2007   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+20 de Dic. de 2007 121ª / 355 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver Ver
+20 de Dic. de 2007 121ª / 355 Tercer trámite constitucional / C. Diputados Discusión única Ver
+20 de Dic. de 2007   Tercer trámite constitucional / C. Diputados Oficio Nº 7196, que comunica aprobación de modificaciones Ver
+20 de Dic. de 2007   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo. Comunica proyecto aprobado por el Congreso Nacional para ejercer la facultad del artículo 73 de la Constitución Ver
+02 de Ene. de 2008 78ª / 355 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 7196, que comunica aprobación de modificaciones Ver
+08 de Ene. de 2008 124ª / 355 Trámite de aprobacion presidencial / C. Diputados P. de la Rep. comunica que no hará uso de la facultad que le confiere el inciso primero del art. 73, de la C. Pol. de la Re. AL TRIBUNAL CONSTITUCIONAL. Ver
+08 de Ene. de 2008   Trámite en Tribunal Constitucional / C. Diputados Oficio al Tribunal Constitucional Ver
+29 de Ene. de 2008   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+04 de Mar. de 2008 137ª / 355 Tramitación terminada / Cuenta oficio Nº 1740 del Tribunal Constitucional Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5270-14","Fecha Etapa Informe Documento
+19 de Dic. de 2007 Segundo trámite constitucional Senado Primer informe de comisión de Vivienda y Urbanismo Ver
+06 de Dic. de 2007 Primer trámite constitucional C.Diputados Primer informe complementario de Vivienda y Desarrollo Urbano Ver
+02 de Oct. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de Vivienda y Desarrollo Urbano Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5270-14","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+11 de Dic. de 2007   Simple 1173-355  
+04 de Dic. de 2007 10 de Dic. de 2007 Suma 1135 1173-355
+13 de Nov. de 2007 04 de Dic. de 2007 Simple 1022-355 1135
+10 de Oct. de 2007 13 de Nov. de 2007 Simple 834-355 1022-355","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5270-14","Nombre Región Distrito Partido
+Sergio Bobadilla Muñoz VIII Región del Bío Bío N°45 Unión Demócrata Independiente
+Alvaro Escobar Rufatt RM Región Metropolitana N°20 Independientes
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Jorge Insunza Gregorio de las Heras RM Región Metropolitana N°28 Partido Por la Democracia
+Marta Isasi Barbieri I Región de Tarapacá N°2 Independientes
+Juan Carlos Latorre Carmona VI Región del Libertador Bernardo O' Higgins N°35 Partido Demócrata Cristiano
+Manuel Monsalve Benavides VIII Región del Bío Bío N°46 Partido Socialista
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+Gonzalo Uriarte Herrera RM Región Metropolitana N°31 Unión Demócrata Independiente
+Mario Venegas Cárdenas IX Región de la Araucanía N°48 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5270-14","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+50 Votación General 4 0 0 9   Vivienda Ver detalle votación
+50 Votación General 4 0 0 3   Vivienda Ver detalle votación
+113   91 0 0 29 Aprobado Sala Ver detalle votación
+121 Modificaciones introducidas en el Senado. 85 0 0 35 Aprobado Sala Ver detalle votación
+113 1° transitorio, inciso quinto, y 3° transitorio, inciso tercero. 88 0 0 32 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5270-14","No record","Veto emmEnd"

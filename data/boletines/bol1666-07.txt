@@ -1,0 +1,31 @@
+* * Bill summary * *
+"emmStart Summary 1666-07","Legislatura: 331
+Fecha de ingreso: miércoles 02 de agosto de 1995
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 1666-07
+Materia: Código De Comercio,Contratos De Seguro
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 12:04:26
+* * Hitos de tramitación * *
+"emmStart Hitos 1666-07","Fecha Sesión Etapa Sub-etapa Documento
+02 de Ago. de 1995   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+02 de Ago. de 1995 23ª / 331 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+05 de Jun. de 2000   Primer trámite constitucional / Senado Oficio Nº 40-342. de S.E. el Presidente de la República con el que retira de tramitación el presente proyecto. Ver
+06 de Jun. de 2000   Tramitación terminada / Cuenta de l Mensaje de S.E. el Presidente de la República, retirando del Congreso Nacional este proyecto , queda retirado","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1666-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1666-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+02 de Ago. de 1995 16 de Sep. de 1998 Sin urgencia   CADUCADO","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1666-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1666-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1666-07","No record","Veto emmEnd"

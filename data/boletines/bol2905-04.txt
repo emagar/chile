@@ -1,0 +1,39 @@
+* * Bill summary * *
+"emmStart Summary 2905-04","Legislatura: 346
+Fecha de ingreso: martes 09 de abril de 2002
+Estado: Segundo trámite constitucional .
+Numero de boletín: 2905-04
+Materia: Monumentos Nacionales
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 03-11-2014 18:07:38
+* * Hitos de tramitación * *
+"emmStart Hitos 2905-04","Fecha Sesión Etapa Sub-etapa Documento
+09 de Abr. de 2002   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+10 de Abr. de 2002 8ª / 346 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+14 de Sep. de 2004   Primer trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 352
+05 de Dic. de 2006   Primer trámite constitucional / Senado Primer informe de comisión Ver
+05 de Dic. de 2006   Primer trámite constitucional / Senado Primer informe de comisión Ver
+06 de Dic. de 2006 75ª / 354 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+03 de Ene. de 2007 81ª / 354 Primer trámite constitucional / Senado Discusión general Ver
+03 de Ene. de 2007   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+04 de Ene. de 2007 115ª / 354 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión Especial de la Cultura y las Artes Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2905-04","Fecha Etapa Informe Documento
+05 de Dic. de 2006 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+17 de Oct. de 2006 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2905-04","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+10 de Abr. de 2002   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2905-04","Nombre
+Ricardo Núñez Muñoz","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2905-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2905-04","No record","Veto emmEnd"

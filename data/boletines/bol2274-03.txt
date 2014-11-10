@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 2274-03","Legislatura: 339
+Fecha de ingreso: martes 15 de diciembre de 1998
+Estado: Archivado .
+Numero de boletín: 2274-03
+Materia: Acuicultura
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 22:47:58
+* * Hitos de tramitación * *
+"emmStart Hitos 2274-03","Fecha Sesión Etapa Sub-etapa Documento
+15 de Dic. de 1998   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+15 de Dic. de 1998 11ª / 339 Primer trámite constitucional / Senado Cuenta de proyecto
+17 de May. de 1999   Primer trámite constitucional / Senado Primer informe de comisión Ver
+19 de May. de 1999 41ª / 339 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+01 de Jun. de 1999 1ª / 340 Primer trámite constitucional / Senado Acuerdo de Comités Se posterga su conocimiento en espera de indicación del Ejecutivo. Ver
+06 de Jun. de 2000 1ª / 342 Primer trámite constitucional / Senado Archivado Mensaje de S.E. el Presidente de la República solicitando el archivo del proyecto. Se accede a lo solicitado. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2274-03","Fecha Etapa Informe Documento
+17 de May. de 1999 Primer trámite constitucional Senado Primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2274-03","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+10 de Ago. de 1999 31 de Ago. de 1999 Simple 165-340 216-340
+06 de Jul. de 1999 10 de Ago. de 1999 Simple 81-340 165-340
+01 de Jun. de 1999 06 de Jul. de 1999 Simple 6-340 81-340
+04 de May. de 1999 21 de May. de 1999 Simple 279-339 CADUCADO
+06 de Abr. de 1999 04 de May. de 1999 Simple 279-339 279-339
+02 de Mar. de 1999 06 de Abr. de 1999 Simple 210-339 279-339
+05 de Ene. de 1999 02 de Mar. de 1999 Simple 175-339 210-339
+15 de Dic. de 1998 05 de Ene. de 1999 Simple 121-339 175-339","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2274-03","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2274-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2274-03","No record","Veto emmEnd"

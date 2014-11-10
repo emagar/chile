@@ -1,0 +1,39 @@
+* * Bill summary * *
+"emmStart Summary 4540-14","Legislatura: 354
+Fecha de ingreso: miércoles 13 de septiembre de 2006
+Estado: Primer trámite constitucional .
+Numero de boletín: 4540-14
+Materia: Ascensores,Condiciones Técnicas
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 02:56:06
+* * Hitos de tramitación * *
+"emmStart Hitos 4540-14","Fecha Sesión Etapa Sub-etapa Documento
+13 de Sep. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Sep. de 2006 77ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Vivienda y Desarrollo Urbano Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4540-14","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4540-14","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4540-14","Nombre Región Distrito Partido
+Pedro Araya Guerrero II Región de Antofagasta N°4 Independientes
+Gonzalo Duarte Leiva RM Región Metropolitana N°26 Partido Demócrata Cristiano
+Renán Fuentealba Vildósola IV Región de Coquimbo N°9 Partido Demócrata Cristiano
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Juan Carlos Latorre Carmona VI Región del Libertador Bernardo O' Higgins N°35 Partido Demócrata Cristiano
+Roberto León Ramírez VII Región del Maule N°36 Partido Demócrata Cristiano
+José Miguel Ortiz Novoa VIII Región del Bío Bío N°44 Partido Demócrata Cristiano
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Independientes
+Gabriel Silber Romo RM Región Metropolitana N°16 Partido Demócrata Cristiano
+Patricio Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4540-14","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+24 Votación General 5 0 0 8   Vivienda Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4540-14","No record","Veto emmEnd"

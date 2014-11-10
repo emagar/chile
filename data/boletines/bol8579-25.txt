@@ -1,0 +1,62 @@
+* * Bill summary * *
+"emmStart Summary 8579-25","Legislatura: 360
+Fecha de ingreso: martes 11 de septiembre de 2012
+Estado: Archivado .
+Numero de boletín: 8579-25
+Materia: Tipificación De Delitos,Hilo Curado
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 03:15:03
+* * Hitos de tramitación * *
+"emmStart Hitos 8579-25","Fecha Sesión Etapa Sub-etapa Documento
+11 de Sep. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+11 de Sep. de 2012 78ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Seguridad Ciudadana y Drogas Ver
+11 de Sep. de 2012 78ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 285-360 que hace presente la urgencia Suma Ver
+12 de Sep. de 2012 80ª / 360 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+12 de Sep. de 2012   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Sep. de 2012 80ª / 360 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. Cuenta. Informe de la Comisión de Seguridad Ciudadana y Drogas. Ver
+13 de Sep. de 2012 81ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+13 de Sep. de 2012   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+02 de Oct. de 2012 51ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 298-360 que retira y hace presente la urgencia Suma
+02 de Oct. de 2012 51ª / 360 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Salud
+17 de Oct. de 2012 56ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 321-360 que retira y hace presente la urgencia Simple
+30 de Jul. de 2013 42ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 203-361 que hace presente la urgencia Suma
+13 de Ago. de 2013 47ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 222-361 que retira y hace presente la urgencia Discusión inmediata
+27 de Ago. de 2013 49ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 237-361 que retira y hace presente la urgencia Discusión inmediata
+15 de Ene. de 2014   Segundo trámite constitucional / Senado Consulta sobre archivo
+15 de Ene. de 2014 114ª / 361 Segundo trámite constitucional / Senado Oficio N° 046/SEC/14. Solicita el acuerdo de la H. Cámara de Diputados para proceder al archivo del proyecto de ley. Acordado. Ver
+16 de Ene. de 2014   Archivado / Oficio N°11.106 al H. Senado, que comunica acuerdo para archivar proyecto Ver
+21 de Ene. de 2014 87ª / 361 Segundo trámite constitucional / Senado Archivado Cuenta Oficio de la Cámara de Diputados N° 11.106, por el que comunica que accedió a la solicitud de archivo.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8579-25","Fecha Etapa Informe Documento
+12 de Sep. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Seguridad Ciudadana y Drogas Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8579-25","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+27 de Ago. de 2013   Discusión inmediata 237-361  
+13 de Ago. de 2013 27 de Ago. de 2013 Discusión inmediata 222-361 237-361
+30 de Jul. de 2013 13 de Ago. de 2013 Suma 203-361 222-361
+17 de Oct. de 2012 30 de Jul. de 2013 Simple 321-360 CADUCADA
+02 de Oct. de 2012 17 de Oct. de 2012 Suma 298-360 321-360
+11 de Sep. de 2012 01 de Oct. de 2012 Suma 285-360 298-360","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8579-25","Nombre Región Distrito Partido
+Pepe Auth Stewart RM Región Metropolitana N°20 Partido Por la Democracia
+Mario Bertolino Rendic IV Región de Coquimbo N°7 Renovación Nacional
+Pedro Browne Urrejola RM Región Metropolitana N°28 Renovación Nacional
+Rosauro Martínez Labbé VIII Región del Bío Bío N°41 Renovación Nacional
+Cristián Monckeberg Bruner RM Región Metropolitana N°23 Renovación Nacional
+Leopoldo Pérez Lahsen RM Región Metropolitana N°29 Renovación Nacional
+David Sandoval Plaza XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Unión Demócrata Independiente
+Alejandro Santana Tirachini X Región de los Lagos N°58 Renovación Nacional
+Frank Sauerbaum Muñoz VIII Región del Bío Bío N°42 Renovación Nacional
+Matías Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8579-25","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+85 Votación General 7 0 0 6   Seguridad y Drogas Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8579-25","No record","Veto emmEnd"

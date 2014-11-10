@@ -1,0 +1,58 @@
+* * Bill summary * *
+"emmStart Summary 3719-04","Legislatura: 352
+Fecha de ingreso: jueves 11 de noviembre de 2004
+Estado: Tramitación terminada (Ley Nº 20.082 - D.Oficial 25/11/2005)
+Numero de boletín: 3719-04
+Materia: Monumentos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 07:54:59
+* * Hitos de tramitación * *
+"emmStart Hitos 3719-04","Fecha Sesión Etapa Sub-etapa Documento
+11 de Nov. de 2004 18ª / 352 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+11 de Nov. de 2004   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+11 de Ene. de 2005   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Ene. de 2005 39ª / 352 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de Ene. de 2005 40ª / 352 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+13 de Ene. de 2005   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+18 de Ene. de 2005 28ª / 352 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología Ver
+16 de Ago. de 2005   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+17 de Ago. de 2005 28ª / 353 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+30 de Ago. de 2005 29ª / 353 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 06/09/2005 Ver
+06 de Sep. de 2005   Segundo trámite constitucional / Senado Boletín de indicaciones
+04 de Oct. de 2005   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+05 de Oct. de 2005 39ª / 353 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+11 de Oct. de 2005 40ª / 353 Segundo trámite constitucional / Senado Discusión particular Ver
+12 de Oct. de 2005   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+18 de Oct. de 2005 52ª / 353 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver Ver
+09 de Nov. de 2005 58ª / 353 Tercer trámite constitucional / C. Diputados Discusión única Ver
+09 de Nov. de 2005   Tercer trámite constitucional / C. Diputados Oficio Nº 5935, que comunica aprobación de modificaciones Ver
+09 de Nov. de 2005   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+13 de Dic. de 2005 48ª / 353 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 5935, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3719-04","Fecha Etapa Informe Documento
+04 de Oct. de 2005 Segundo trámite constitucional Senado Segundo informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+16 de Ago. de 2005 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+11 de Ene. de 2005 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3719-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3719-04","Nombre Región Distrito Partido
+Pedro Pablo Alvarez-Salamanca Büchi VII Región del Maule N°38 Renovación Nacional
+Guillermo Ceroni Fuentes VII Región del Maule N°40 Partido Por la Democracia
+José Antonio Kast Rist RM Región Metropolitana N°30 Unión Demócrata Independiente
+Pablo Lorenzini Basso VII Región del Maule N°38 Partido Demócrata Cristiano
+Carlos Olivares Zepeda RM Región Metropolitana N°18 Partido Demócrata Cristiano
+Pablo Prieto Lorca VII Región del Maule N°37 Unión Demócrata Independiente
+Ignacio Urrutia Bonilla VII Región del Maule N°40 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3719-04","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+58 Enmiendas del Senado. 45 0 0 0 Aprobado Sala Ver detalle votación
+40   60 0 0 1 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3719-04","No record","Veto emmEnd"

@@ -1,0 +1,55 @@
+* * Bill summary * *
+"emmStart Summary 2623-03","Legislatura: 343
+Fecha de ingreso: martes 14 de noviembre de 2000
+Estado: Tramitación terminada (Ley Nº 19.951 - D.Oficial 26/06/2004)
+Numero de boletín: 2623-03
+Materia: Crédito De Dinero
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 07:05:17
+* * Hitos de tramitación * *
+"emmStart Hitos 2623-03","Fecha Sesión Etapa Sub-etapa Documento
+14 de Nov. de 2000   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+14 de Nov. de 2000 16ª / 343 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+14 de Nov. de 2000 16ª / 343 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+17 de Ene. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+21 de Ene. de 2003 45ª / 348 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+22 de Ene. de 2003 48ª / 348 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+22 de Ene. de 2003   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+04 de Mar. de 2003 28ª / 348 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+11 de Ago. de 2003   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+12 de Ago. de 2003 24ª / 349 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+27 de Ago. de 2003 29ª / 349 Segundo trámite constitucional / Senado Discusión general Ver
+08 de Sep. de 2003   Segundo trámite constitucional / Senado Boletín de indicaciones
+11 de Mar. de 2004   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+17 de Mar. de 2004 40ª / 350 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+11 de May. de 2004 55ª / 350 Segundo trámite constitucional / Senado Discusión particular Ver
+11 de May. de 2004   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+12 de May. de 2004 84ª / 350 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+18 de May. de 2004 87ª / 350 Tercer trámite constitucional / C. Diputados Discusión única Ver
+18 de May. de 2004   Tercer trámite constitucional / C. Diputados Oficio Nº 4948, que comunica aprobación de modificaciones Ver
+18 de May. de 2004   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+19 de May. de 2004 59ª / 350 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 4948, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2623-03","Fecha Etapa Informe Documento
+11 de Mar. de 2004 Segundo trámite constitucional Senado Segundo informe de comisión de Hacienda Ver
+11 de Ago. de 2003 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+17 de Ene. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2623-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2623-03","Nombre Región Distrito Partido
+Sergio Elgueta Barrientos X Región de los Lagos N°57 Partido Demócrata Cristiano
+Jaime Mulet Martínez III Región de Atacama N°6 Partido Demócrata Cristiano
+Eugenio Tuma Zedan IX Región de la Araucanía N°51 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2623-03","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+87   89 2 0 0   Sala Ver detalle votación
+48   88 0 0 0   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2623-03","No record","Veto emmEnd"

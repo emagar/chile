@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 4088-04","Legislatura: 353
+Fecha de ingreso: martes 24 de enero de 2006
+Estado: Tramitación terminada (Ley Nº 20.103 - D.Oficial 16/05/2006)
+Numero de boletín: 4088-04
+Materia: Jardines Infantiles
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 18:38:23
+* * Hitos de tramitación * *
+"emmStart Hitos 4088-04","Fecha Sesión Etapa Sub-etapa Documento
+24 de Ene. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+24 de Ene. de 2006 71ª / 353 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+07 de Mar. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de Mar. de 2006 75ª / 353 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+08 de Mar. de 2006 75ª / 353 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+08 de Mar. de 2006   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+21 de Mar. de 2006 3ª / 354 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Vivienda y Urbanismo Ver
+04 de Abr. de 2006   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+04 de Abr. de 2006 4ª / 354 Segundo trámite constitucional / Senado Cuenta del Mensaje 07-354 que hace presente la urgencia Suma
+05 de Abr. de 2006 5ª / 354 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+05 de Abr. de 2006 5ª / 354 Segundo trámite constitucional / Senado Discusión general Ver
+05 de Abr. de 2006   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+12 de Abr. de 2006 13ª / 354 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver Ver
+12 de Abr. de 2006   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4088-04","Fecha Etapa Informe Documento
+04 de Abr. de 2006 Segundo trámite constitucional Senado Primer informe de comisión de Vivienda y Urbanismo Ver
+07 de Mar. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4088-04","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Abr. de 2006   Suma 07-354  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4088-04","Nombre Región Distrito Partido
+Ministerio de Educación      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4088-04","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+75   85 0 0 1 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4088-04","No record","Veto emmEnd"

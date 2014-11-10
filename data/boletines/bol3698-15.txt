@@ -1,0 +1,57 @@
+* * Bill summary * *
+"emmStart Summary 3698-15","Legislatura: 352
+Fecha de ingreso: miércoles 06 de octubre de 2004
+Estado: Tramitación terminada (Ley Nº 20.149 - D.Oficial 23/01/2007)
+Numero de boletín: 3698-15
+Materia: Tipos Penales
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 07:41:20
+* * Hitos de tramitación * *
+"emmStart Hitos 3698-15","Fecha Sesión Etapa Sub-etapa Documento
+06 de Oct. de 2004   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Oct. de 2004 2ª / 352 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+05 de Ene. de 2005 35ª / 352 Primer trámite constitucional / C. Diputados S.E. el Presidente de la República incluye el proyecto en la actual Legislatura Extraordinaria de Sesiones 352 Ver
+21 de Jun. de 2005 7ª / 353 Primer trámite constitucional / C. Diputados Cuenta, Oficio de la Comisión de Constitución, Legislación y Justicia por el cual solicita que el proyecto le sea remitido por tratarse de una materia de su competencia. Se accede a lo solicitado Ver
+02 de Ago. de 2005   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Ago. de 2005 27ª / 353 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+07 de Sep. de 2005 41ª / 353 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general Pasa a segundo informe de Comisión de Constitución, Legislación y Justicia Ver Ver
+13 de Sep. de 2005 43ª / 353 Primer trámite constitucional / C. Diputados Discusión particular. Por haber sido retirada la indicación presentada al proyecto, se entiende aprobado en particular con la misma votación obtenida en general Ver Ver
+13 de Sep. de 2005   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+14 de Sep. de 2005 36ª / 353 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+08 de Nov. de 2006   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+14 de Nov. de 2006 68ª / 354 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+06 de Dic. de 2006 75ª / 354 Segundo trámite constitucional / Senado Discusión general Ver
+06 de Dic. de 2006   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+07 de Dic. de 2006 105ª / 354 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver Ver
+12 de Dic. de 2006 106ª / 354 Tercer trámite constitucional / C. Diputados Discusión única Ver
+12 de Dic. de 2006   Tercer trámite constitucional / C. Diputados Oficio Nº 6516, que comunica aprobación de modificaciones Ver
+12 de Dic. de 2006   Tercer trámite constitucional / C. Diputados Oficio Nº 6515, que comunica aprobación de modificaciones Ver
+12 de Dic. de 2006   Tercer trámite constitucional / C. Diputados Oficio Nº 6516, que comunica aprobación de modificaciones Ver
+13 de Dic. de 2006 77ª / 354 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 6515, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3698-15","Fecha Etapa Informe Documento
+08 de Nov. de 2006 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+02 de Ago. de 2005 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3698-15","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3698-15","Nombre Región Distrito Partido
+Eugenio Bauer Jouanne VI Región del Libertador Bernardo O' Higgins N°33 Unión Demócrata Independiente
+Julio Dittborn Cordúa RM Región Metropolitana N°23 Unión Demócrata Independiente
+Marcelo Forni Lobos V Región de Valparaíso N°11 Unión Demócrata Independiente
+Alejandro García-Huidobro Sanfuentes VI Región del Libertador Bernardo O' Higgins N°32 Unión Demócrata Independiente
+José Antonio Kast Rist RM Región Metropolitana N°30 Unión Demócrata Independiente
+Darío Molina Sanhueza IV Región de Coquimbo N°9 Unión Demócrata Independiente
+Gonzalo Uriarte Herrera RM Región Metropolitana N°31 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3698-15","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+106 Enmienda introducida por el Senado. 49 0 2 69 Aprobado Sala Ver detalle votación
+41   55 1 2 1 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3698-15","No record","Veto emmEnd"

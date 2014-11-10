@@ -1,0 +1,33 @@
+* * Bill summary * *
+"emmStart Summary 747-07","Legislatura: 324
+Fecha de ingreso: jueves 09 de julio de 1992
+Estado: Archivado .
+Numero de boletín: 747-07
+Materia: Colegios Profesionales
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 22:25:19
+* * Hitos de tramitación * *
+"emmStart Hitos 747-07","Fecha Sesión Etapa Sub-etapa Documento
+09 de Jul. de 1992 9ª / 324 Primer trámite constitucional / Senado Cuenta de proyecto
+09 de Jul. de 1992   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+21 de Jul. de 1994   Primer trámite constitucional / Senado Primer informe de comisión. Se propone el archivo del proyecto Ver
+02 de Ago. de 1994 16ª / 329 Primer trámite constitucional / Senado Cuenta de primer informe de comisión","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 747-07","Fecha Etapa Informe Documento
+21 de Jul. de 1994 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 747-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 747-07","Nombre
+José Ruiz De Giorgio
+Mariano Ruiz-Esquide Jara","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 747-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 747-07","No record","Veto emmEnd"

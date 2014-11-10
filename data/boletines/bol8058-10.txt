@@ -1,0 +1,53 @@
+* * Bill summary * *
+"emmStart Summary 8058-10","Legislatura: 359
+Fecha de ingreso: miércoles 23 de noviembre de 2011
+Estado: Tramitación terminada (D.S. Nº 23 - D.Oficial 22/06/2013)
+Numero de boletín: 8058-10
+Materia: Acuerdo De Asunción Sobre Restitución De Vehículos (7 De Diciembre 1999: Montevideo),Acuerdo De Asunción Sobre Embarcaciones Que Trasponen Ilegalmente Las Fronteras (7 De Diciembre 1999: Montevideo),Restitución De Vehículos
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 14:57:24
+* * Hitos de tramitación * *
+"emmStart Hitos 8058-10","Fecha Sesión Etapa Sub-etapa Documento
+23 de Nov. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+23 de Nov. de 2011 114ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+30 de Nov. de 2011 118ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 473-359 que hace presente la urgencia Simple Ver
+22 de Dic. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de Ene. de 2012 126ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 524-359 que hace presente la urgencia Simple Ver
+03 de Ene. de 2012 126ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+04 de Ene. de 2012 127ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+04 de Ene. de 2012   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+31 de Ene. de 2012 94ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 601-359 que retira la urgencias por receso legislativo
+07 de Mar. de 2012 95ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 611-359 que hace presente la urgencia Simple
+14 de Mar. de 2012   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+14 de Mar. de 2012 2ª / 360 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+04 de Abr. de 2012 7ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 41-360 que retira y hace presente la urgencia Simple
+08 de May. de 2012 15ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 75-360 que retira y hace presente la urgencia Simple Ver
+15 de May. de 2012 17ª / 360 Segundo trámite constitucional / Senado Discusión general Ver
+15 de May. de 2012   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+16 de May. de 2012 29ª / 360 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+16 de May. de 2012   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8058-10","Fecha Etapa Informe Documento
+14 de Mar. de 2012 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+22 de Dic. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8058-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+08 de May. de 2012   Simple 75-360  
+04 de Abr. de 2012 03 de May. de 2012 Simple 41-360 75-360
+07 de Mar. de 2012 04 de Abr. de 2012 Simple 611-359 41-360
+03 de Ene. de 2012 31 de Ene. de 2012 Simple 524-359 601-359
+30 de Nov. de 2011   Simple 473-359  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8058-10","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8058-10","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+127   103 0 0 17 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8058-10","No record","Veto emmEnd"

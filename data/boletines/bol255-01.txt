@@ -1,0 +1,55 @@
+* * Bill summary * *
+"emmStart Summary 255-01","Legislatura: 321
+Fecha de ingreso: jueves 10 de enero de 1991
+Estado: Tramitación terminada (Ley Nº 19.162 - D.Oficial 07/09/1992)
+Numero de boletín: 255-01
+Materia: Funcionamiento De Mataderos,Tipificación De Carnes,Ganadería,Mataderos
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 13:36:25
+* * Hitos de tramitación * *
+"emmStart Hitos 255-01","Fecha Sesión Etapa Sub-etapa Documento
+10 de Ene. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Ene. de 1991 28ª / 321 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+21 de Ago. de 1991   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de Sep. de 1991 34ª / 322 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+11 de Dic. de 1991   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+17 de Dic. de 1991 34ª / 323 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+18 de Dic. de 1991   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+07 de Ene. de 1992 30ª / 323 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Agricultura
+14 de Abr. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+15 de Abr. de 1992 52ª / 323 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión. de Agricultura. Queda para Tabla.
+28 de Abr. de 1992 52ª / 323 Segundo trámite constitucional / Senado Discusión general. Aprobado en general. Plazo para presentar indicaciones vence el día 11/05/1992. Ver
+12 de May. de 1992   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+19 de May. de 1992 60ª / 323 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+03 de Jun. de 1992 2ª / 324 Segundo trámite constitucional / Senado Discusión particular Ver
+05 de Jun. de 1992   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen
+10 de Jun. de 1992   Tercer trámite constitucional / C. Diputados Oficio rechazo modificaciones a Cámara Revisora
+10 de Jun. de 1992 7ª / 324 Tercer trámite constitucional / C. Diputados Discusión única Ver
+16 de Jun. de 1992 5ª / 324 Comisión Mixta por rechazo de modificaciones / Senado Cuenta oficio rechazo a modificaciones. del Senado, y designación de integrantes de Comisión Mixta. La Sala acuerda designar a los miembros de la Comisión de Agricultura para que integren la referida Comisión Mixta.
+17 de Jun. de 1992   Comisión Mixta por rechazo de modificaciones / Senado Oficio integrantes de Comisión Mixta Ver
+01 de Jul. de 1992   Comisión Mixta por rechazo de modificaciones / Senado Informe de Comisión Mixta Ver
+14 de Jul. de 1992 10ª / 324 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Cuenta oficio aprobación de informe de Comisión Mixta
+06 de Ago. de 1992 15ª / 324 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Discusión informe de Comisión Mixta","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 255-01","Fecha Etapa Informe Documento
+01 de Jul. de 1992 Comisión Mixta por rechazo de modificaciones Senado Informe de Comisión Mixta Comisión Mixta para Boletín Nº 255-01 Ver
+12 de May. de 1992 Segundo trámite constitucional Senado Segundo informe de comisión de Agricultura Ver
+14 de Abr. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Agricultura Ver
+11 de Dic. de 1991 Primer trámite constitucional C.Diputados Segundo informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+21 de Ago. de 1991 Primer trámite constitucional C.Diputados Primer informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 255-01","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+10 de Ene. de 1991   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 255-01","Nombre Región Distrito Partido
+Ministerio de Agricultura      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 255-01","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 255-01","No record","Veto emmEnd"

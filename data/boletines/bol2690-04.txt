@@ -1,0 +1,52 @@
+* * Bill summary * *
+"emmStart Summary 2690-04","Legislatura: 343
+Fecha de ingreso: martes 10 de abril de 2001
+Estado: Tramitación terminada (Ley Nº 19.758 - D.Oficial 13/09/2001)
+Numero de boletín: 2690-04
+Materia: Monumentos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 08:31:35
+* * Hitos de tramitación * *
+"emmStart Hitos 2690-04","Fecha Sesión Etapa Sub-etapa Documento
+10 de Abr. de 2001   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Abr. de 2001 52ª / 343 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+14 de Jun. de 2001 6ª / 344 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Jun. de 2001   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Jul. de 2001 16ª / 344 Primer trámite constitucional / C. Diputados Discusión general Ver
+17 de Jul. de 2001   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+17 de Jul. de 2001 14ª / 344 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+19 de Jul. de 2001   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+01 de Ago. de 2001 17ª / 344 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+14 de Ago. de 2001 22ª / 344 Segundo trámite constitucional / Senado Discusión general Ver
+14 de Ago. de 2001   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+14 de Ago. de 2001 27ª / 344 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+22 de Ago. de 2001 31ª / 344 Tercer trámite constitucional / C. Diputados Discusión única Ver
+22 de Ago. de 2001   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2690-04","Fecha Etapa Informe Documento
+19 de Jul. de 2001 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+14 de Jun. de 2001 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2690-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2690-04","Nombre Región Distrito Partido
+Gabriel Ascencio Mansilla X Región de los Lagos N°58 Partido Demócrata Cristiano
+Homero Gutiérrez Román VII Región del Maule N°37 Partido Demócrata Cristiano
+Enrique Krauss Rusque RM Región Metropolitana N°22 Partido Demócrata Cristiano
+Gutenberg Martínez Ocamica RM Región Metropolitana N°21 Partido Demócrata Cristiano
+José Pérez Arriagada VIII Región del Bío Bío N°47 Partido Radical Social Demócrata
+Fanny Pollarolo Villa II Región de Antofagasta N°3 Partido Socialista
+María Antonieta Saa Díaz RM Región Metropolitana N°17 Partido Por la Democracia
+Jorge Ulloa Aguillón VIII Región del Bío Bío N°43 Unión Demócrata Independiente
+Felipe Valenzuela Herrera II Región de Antofagasta N°4 Partido Socialista
+Sergio Velasco De la Cerda V Región de Valparaíso N°15 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2690-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2690-04","No record","Veto emmEnd"

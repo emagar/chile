@@ -1,0 +1,32 @@
+* * Bill summary * *
+"emmStart Summary 4086-10","Legislatura: 353
+Fecha de ingreso: martes 24 de enero de 2006
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 4086-10
+Materia: Extradición
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 18:37:13
+* * Hitos de tramitación * *
+"emmStart Hitos 4086-10","Fecha Sesión Etapa Sub-etapa Documento
+24 de Ene. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+24 de Ene. de 2006 71ª / 353 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+09 de Jul. de 2009 51ª / 357 Primer trámite constitucional / C. Diputados P. de la República retira de tramitación, el proyecto. Ver
+09 de Jul. de 2009   Tramitación terminada / P. de la Rep. retira de tramitación, el proyecto.
+09 de Jul. de 2009   Tramitación terminada / Oficio N?8213. Devuelve Mensaje Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4086-10","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4086-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4086-10","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4086-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4086-10","No record","Veto emmEnd"

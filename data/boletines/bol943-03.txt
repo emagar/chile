@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 943-03","Legislatura: 325
+Fecha de ingreso: martes 23 de marzo de 1993
+Estado: Tramitación terminada (Ley Nº 19.210 - D.Oficial 16/04/1993)
+Numero de boletín: 943-03
+Materia: Acuicultura
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 01:02:12
+* * Hitos de tramitación * *
+"emmStart Hitos 943-03","Fecha Sesión Etapa Sub-etapa Documento
+23 de Mar. de 1993   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+23 de Mar. de 1993 35ª / 325 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Intereses Marítimos, Pesca y Acuicultura
+24 de Mar. de 1993 36ª / 325 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+24 de Mar. de 1993 36ª / 325 Primer trámite constitucional / Senado Discusión general Ver
+24 de Mar. de 1993 36ª / 325 Primer trámite constitucional / Senado Primer informe de comisión Ver
+24 de Mar. de 1993 36ª / 325 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+29 de Mar. de 1993 57ª / 325 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+30 de Mar. de 1993   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+31 de Mar. de 1993 38ª / 325 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+31 de Mar. de 1993 58ª / 325 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+01 de Abr. de 1993 38ª / 325 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+    Trámite de aprobacion presidencial / Senado Ingreso de observaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 943-03","Fecha Etapa Informe Documento
+30 de Mar. de 1993 Segundo trámite constitucional C.Diputados Primer informe de comisión Unida de Agricultura y Recursos Naturales Ver
+24 de Mar. de 1993 Primer trámite constitucional Senado Primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 943-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 943-03","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 943-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 943-03","No record","Veto emmEnd"

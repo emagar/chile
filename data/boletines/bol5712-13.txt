@@ -1,0 +1,33 @@
+* * Bill summary * *
+"emmStart Summary 5712-13","Legislatura: 355
+Fecha de ingreso: martes 15 de enero de 2008
+Estado: Primer trámite constitucional .
+Numero de boletín: 5712-13
+Materia: Fuero Maternal,Mortinato
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 22:23:23
+* * Hitos de tramitación * *
+"emmStart Hitos 5712-13","Fecha Sesión Etapa Sub-etapa Documento
+15 de Ene. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+15 de Ene. de 2008 130ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5712-13","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5712-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5712-13","Nombre Región Distrito Partido
+Marcos Espinosa Monardes II Región de Antofagasta N°3 Partido Radical Social Demócrata
+Jorge Insunza Gregorio de las Heras RM Región Metropolitana N°28 Partido Por la Democracia
+Tucapel Jiménez Fuentes RM Región Metropolitana N°27 Partido Por la Democracia
+Gabriel Silber Romo RM Región Metropolitana N°16 Partido Demócrata Cristiano
+Alejandro Sule Fernández VI Región del Libertador Bernardo O' Higgins N°33 Partido Radical Social Demócrata","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5712-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5712-13","No record","Veto emmEnd"

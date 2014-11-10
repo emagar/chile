@@ -1,0 +1,53 @@
+* * Bill summary * *
+"emmStart Summary 2038-05","Legislatura: 335
+Fecha de ingreso: miércoles 04 de junio de 1997
+Estado: Tramitación terminada (Ley Nº 19.746 - D.Oficial 09/08/2001)
+Numero de boletín: 2038-05
+Materia: Banco Central De Chile
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 17:58:00
+* * Hitos de tramitación * *
+"emmStart Hitos 2038-05","Fecha Sesión Etapa Sub-etapa Documento
+04 de Jun. de 1997   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+04 de Jun. de 1997 2ª / 335 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+09 de Nov. de 1999   Primer trámite constitucional / Senado S.E.El Presidente de la Republica incluye el proyecto en la Convocatoria Extraodinaria 341
+30 de Mar. de 2000   Primer trámite constitucional / Senado Primer informe de comisión Ver
+04 de Abr. de 2000 27ª / 341 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Abr. de 2000 30ª / 341 Primer trámite constitucional / Senado Discusión general Ver
+04 de May. de 2000   Primer trámite constitucional / Senado Boletín de indicaciones
+01 de Ago. de 2000 13ª / 342 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+02 de Ago. de 2000 14ª / 342 Primer trámite constitucional / Senado Discusión particular Ver
+08 de Ago. de 2000   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+09 de Ago. de 2000 25ª / 342 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+08 de May. de 2001   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de May. de 2001 60ª / 343 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+12 de Jun. de 2001 4ª / 344 Segundo trámite constitucional / C. Diputados Discusión general Ver
+12 de Jun. de 2001   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+12 de Jun. de 2001 4ª / 344 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+13 de Jun. de 2001   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+03 de Jul. de 2001   Trámite en Tribunal Constitucional / Senado Oficio al Tribunal Constitucional Ver
+17 de Jul. de 2001 14ª / 344 Trámite en Tribunal Constitucional / Senado Ingreso fallo del Tribunal Constitucional Ver
+17 de Jul. de 2001 14ª / 344 Trámite en Tribunal Constitucional / Senado Cuenta fallo del Tribunal Constitucional
+17 de Jul. de 2001   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2038-05","Fecha Etapa Informe Documento
+08 de May. de 2001 Segundo trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+17 de Jul. de 2000 Segundo trámite constitucional Senado Segundo informe de comisión de Hacienda Ver
+30 de Mar. de 2000 Primer trámite constitucional Senado Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2038-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+02 de May. de 2000   Simple 407-341  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2038-05","Nombre
+Ricardo Hormazábal Sánchez
+Carlos Ominami Pascual","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2038-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2038-05","No record","Veto emmEnd"

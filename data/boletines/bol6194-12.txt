@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 6194-12","Legislatura: 356
+Fecha de ingreso: martes 11 de noviembre de 2008
+Estado: Archivado .
+Numero de boletín: 6194-12
+Materia: Medio Ambiente
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 03:58:51
+* * Hitos de tramitación * *
+"emmStart Hitos 6194-12","Fecha Sesión Etapa Sub-etapa Documento
+11 de Nov. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+11 de Nov. de 2008 98ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver
+10 de Dic. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+10 de Dic. de 2008 114ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+07 de Jul. de 2009 49ª / 357 Primer trámite constitucional / C. Diputados Archivado La Comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente, remite proyecto al archivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6194-12","Fecha Etapa Informe Documento
+10 de Dic. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6194-12","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6194-12","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Alejandro García-Huidobro Sanfuentes VI Región del Libertador Bernardo O' Higgins N°32 Unión Demócrata Independiente
+Guido Girardi Briere RM Región Metropolitana N°18 Partido Por la Democracia
+Antonio Leal Labrín III Región de Atacama N°5 Partido Por la Democracia
+Denise Pascal Allende RM Región Metropolitana N°31 Partido Socialista
+Alberto Robles Pantoja III Región de Atacama N°6 Partido Radical Social Demócrata
+María Antonieta Saa Díaz RM Región Metropolitana N°17 Partido Por la Democracia
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Independientes
+Esteban Valenzuela Van Treek VI Región del Libertador Bernardo O' Higgins N°32 Independientes
+Patricio Vallespín López X Región de los Lagos N°57 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6194-12","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+87 Votación General 8 0 0 5   Recursos Naturales Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6194-12","No record","Veto emmEnd"

@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 5839-07","Legislatura: 356
+Fecha de ingreso: martes 29 de abril de 2008
+Estado: Primer trámite constitucional .
+Numero de boletín: 5839-07
+Materia: Fondo Nacional Para La Representacion De Víctimas De Delito
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 23:50:20
+* * Hitos de tramitación * *
+"emmStart Hitos 5839-07","Fecha Sesión Etapa Sub-etapa Documento
+29 de Abr. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+29 de Abr. de 2008 21ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia y a Comisión de Hacienda Ver
+14 de May. de 2008 29ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 286-356 que hace presente la urgencia Simple Ver
+12 de Jun. de 2008 39ª / 356 Primer trámite constitucional / C. Diputados Comisón de Constitución solicita que proyecto sea remitido a la Comiisón de Seguridad Ciudadana. ACORDADO. Ver
+17 de Jun. de 2008 40ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 401-356 que retira y hace presente la urgencia Simple Ver
+29 de Jul. de 2008 54ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 549-356 que retira y hace presente la urgencia Simple Ver
+21 de Ago. de 2008 68ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 681-356 que retira la urgencia Simple Ver
+28 de Oct. de 2008 92ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 946-356 que hace presente la urgencia Simple Ver
+02 de Dic. de 2008 110ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1130-356 que retira y hace presente la urgencia Simple Ver
+09 de Dic. de 2008 113ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1167-356 que retira la urgencia Simple Ver
+22 de Abr. de 2014 16ª / 362 Primer trámite constitucional / C. Diputados Consulta sobre archivo . Cuenta del oficio de la Comisión de Seguridad Ciudadana, mediante el cual comunica que acordó el archivo del proyecto, de conformidad con lo establecido en el artículo 17 del Reglamento de la Corporación. Por tratarse de un mensaje, se requiere el acuerdo de S.E. la Presidenta de la República. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5839-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5839-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+02 de Dic. de 2008 09 de Dic. de 2008 Simple 1130-356 1167-356
+28 de Oct. de 2008 02 de Dic. de 2008 Simple 946-356 1130-356
+29 de Jul. de 2008 21 de Ago. de 2008 Simple 549-356 681-356
+17 de Jun. de 2008 29 de Jul. de 2008 Simple 401-356 549-356
+14 de May. de 2008 17 de Jun. de 2008 Simple 286-356 401-356","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5839-07","Nombre Región Distrito Partido
+Ministerio de Justicia      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5839-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5839-07","No record","Veto emmEnd"

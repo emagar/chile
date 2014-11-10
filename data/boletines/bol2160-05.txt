@@ -1,0 +1,54 @@
+* * Bill summary * *
+"emmStart Summary 2160-05","Legislatura: 337
+Fecha de ingreso: lunes 20 de abril de 1998
+Estado: Tramitación terminada (Ley Nº 19.578 - D.Oficial 29/07/1998)
+Numero de boletín: 2160-05
+Materia: Pensiones
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 21:35:53
+* * Hitos de tramitación * *
+"emmStart Hitos 2160-05","Fecha Sesión Etapa Sub-etapa Documento
+20 de Abr. de 1998   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+21 de Abr. de 1998 12ª / 337 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+12 de May. de 1998   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de Jun. de 1998   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Jun. de 1998 4ª / 338 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+09 de Jun. de 1998 4ª / 338 Primer trámite constitucional / C. Diputados Discusión general. Pendiente disc. del proyecto. Interv. los Dip. León (inf.Com.Trabajo), Jocelyn-Holt(inf.com.Hacienda), Lorenzini, Mesías, Errázuriz, A.Pérez, Dittborn, R.Martínez, Alvarado, Montes. Ver Ver
+09 de Jun. de 1998 5ª / 338 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+09 de Jun. de 1998   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+10 de Jun. de 1998 5ª / 338 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión De Hacienda y de Trabajo y Previsión Social Unidas
+20 de Jul. de 1998   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+21 de Jul. de 1998 15ª / 338 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+21 de Jul. de 1998 15ª / 338 Segundo trámite constitucional / Senado Discusión general Ver
+22 de Jul. de 1998   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+22 de Jul. de 1998 20ª / 338 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora. Pasa a Comisión de Hacienda Ver
+22 de Jul. de 1998   Tercer trámite constitucional / C. Diputados Informe de comisión Ver
+22 de Jul. de 1998 20ª / 338 Tercer trámite constitucional / C. Diputados Cuenta informe de comisión Ver
+22 de Jul. de 1998 20ª / 338 Tercer trámite constitucional / C. Diputados Discusión única Ver
+22 de Jul. de 1998   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2160-05","Fecha Etapa Informe Documento
+22 de Jul. de 1998 Tercer trámite constitucional C.Diputados Informe de comisión de Hacienda Ver
+20 de Jul. de 1998 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda y de Trabajo y Previsión Social, unidas Ver
+08 de Jun. de 1998 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+12 de May. de 1998 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2160-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+14 de Jul. de 1998 16 de Sep. de 1998 Suma 140798-338 CADUCADO
+30 de Jun. de 1998 14 de Jul. de 1998 Suma 300698-338 140798-338
+02 de Jun. de 1998 30 de Jun. de 1998 Suma 15-338 300698-338
+12 de May. de 1998 01 de Jun. de 1998 Simple 79-337 CADUCADO
+21 de Abr. de 1998 12 de May. de 1998 Simple 44-337 79-337","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2160-05","Nombre Región Distrito Partido
+Ministerio de Trabajo y Previsión Social      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2160-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2160-05","No record","Veto emmEnd"

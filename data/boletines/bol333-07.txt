@@ -1,0 +1,33 @@
+* * Bill summary * *
+"emmStart Summary 333-07","Legislatura: 321
+Fecha de ingreso: martes 09 de abril de 1991
+Estado: Archivado .
+Numero de boletín: 333-07
+Materia: Defensor Del Pueblo
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 15:32:42
+* * Hitos de tramitación * *
+"emmStart Hitos 333-07","Fecha Sesión Etapa Sub-etapa Documento
+09 de Abr. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+09 de Abr. de 1991 43ª / 321 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+17 de Jul. de 1991   Primer trámite constitucional / C. Diputados Comisión de Derechos Humanos solicita conocer el proyecto en los aspectos de su competencia.
+18 de Jul. de 1991 22ª / 322 Primer trámite constitucional / C. Diputados No se acoge. Ver
+16 de Mar. de 1994   Primer trámite constitucional / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 328
+04 de Oct. de 1994   Primer trámite constitucional / C. Diputados Se solicita su archivo Oficio 10 de la Com. de Constitución, solicita archivo del proyecto.
+02 de Dic. de 1994   Primer trámite constitucional / C. Diputados Archivado Oficio 2097 del Minist. Secretaría General de la Presidencia, acepta archivo del proyecto.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 333-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 333-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 333-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 333-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 333-07","No record","Veto emmEnd"

@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 2924-07","Legislatura: 346
+Fecha de ingreso: martes 07 de mayo de 2002
+Estado: Tramitación terminada (Ley Nº 19.815 - D.Oficial 11/07/2002)
+Numero de boletín: 2924-07
+Materia: Código Procesal Penal
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 03-11-2014 18:19:55
+* * Hitos de tramitación * *
+"emmStart Hitos 2924-07","Fecha Sesión Etapa Sub-etapa Documento
+07 de May. de 2002   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+07 de May. de 2002 12ª / 346 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+12 de Jun. de 2002   Primer trámite constitucional / Senado Primer informe de comisión Ver
+12 de Jun. de 2002 6ª / 347 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Jun. de 2002 6ª / 347 Primer trámite constitucional / Senado Discusión general Ver
+12 de Jun. de 2002   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+13 de Jun. de 2002 7ª / 347 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+18 de Jun. de 2002   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+19 de Jun. de 2002 9ª / 347 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+20 de Jun. de 2002 10ª / 347 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+26 de Jun. de 2002   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+02 de Jul. de 2002 10ª / 347 Trámite de aprobacion presidencial / Senado Cuenta del oficio de la Cámara de Diputados, comunica aprobación proyecto, en los mismos términos que el Senado. Se manda comunicar al P. de la República.
+02 de Jul. de 2002   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2924-07","Fecha Etapa Informe Documento
+18 de Jun. de 2002 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+12 de Jun. de 2002 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2924-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2924-07","Nombre
+Sergio Fernández Fernández","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2924-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+10   45 0 0 0   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2924-07","No record","Veto emmEnd"

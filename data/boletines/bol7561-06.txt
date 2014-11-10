@@ -1,0 +1,33 @@
+* * Bill summary * *
+"emmStart Summary 7561-06","Legislatura: 359
+Fecha de ingreso: martes 05 de abril de 2011
+Estado: Primer trámite constitucional .
+Numero de boletín: 7561-06
+Materia: Sistema De Reemplazo De Alcaldes,Municipios
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 05:31:53
+* * Hitos de tramitación * *
+"emmStart Hitos 7561-06","Fecha Sesión Etapa Sub-etapa Documento
+05 de Abr. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+05 de Abr. de 2011 9ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior y Regionalización Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7561-06","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7561-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7561-06","Nombre Región Distrito Partido
+Marcos Espinosa Monardes II Región de Antofagasta N°3 Partido Radical Social Demócrata
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Marta Isasi Barbieri I Región de Tarapacá N°2 Independientes
+Clemira Pacheco Rivas VIII Región del Bío Bío N°45 Partido Socialista
+Denise Pascal Allende RM Región Metropolitana N°31 Partido Socialista","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7561-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7561-06","No record","Veto emmEnd"

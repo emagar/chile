@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 1438-04","Legislatura: 330
+Fecha de ingreso: jueves 17 de noviembre de 1994
+Estado: Tramitación terminada (Ley Nº 19.512 - D.Oficial 30/08/1997)
+Numero de boletín: 1438-04 Refundido con: 1441-04
+Materia: Monumentos
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 09:06:25
+* * Hitos de tramitación * *
+"emmStart Hitos 1438-04","Fecha Sesión Etapa Sub-etapa Documento
+17 de Nov. de 1994   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+17 de Nov. de 1994 18ª / 330 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+11 de Ene. de 1995 34ª / 330 Primer trámite constitucional / Senado Primer informe de comisión Ver
+11 de Ene. de 1995 34ª / 330 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+18 de Ene. de 1995 38ª / 330 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+18 de Ene. de 1995 38ª / 330 Primer trámite constitucional / Senado Discusión general Ver
+02 de Mar. de 1995 42ª / 330 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+11 de Jun. de 1996   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+10 de Jul. de 1996 15ª / 333 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+10 de Jul. de 1997 18ª / 335 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+15 de Jul. de 1997   Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver
+16 de Jul. de 1997 17ª / 335 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+29 de Jul. de 1997 19ª / 335 Tercer trámite constitucional / Senado Discusión única. Aprobado Oficio Nº 11.358
+29 de Jul. de 1997 19ª / 335 Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1438-04","Fecha Etapa Informe Documento
+11 de Jun. de 1996 Segundo trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver
+11 de Ene. de 1995 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1438-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1438-04","Nombre
+Francisco Errázuriz Talavera
+Antonio Horvath Kiss
+Vicente Huerta Celis
+Roberto Muñoz Barra
+Beltrán Urenda Zegers","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1438-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1438-04","No record","Veto emmEnd"

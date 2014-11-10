@@ -1,0 +1,51 @@
+* * Bill summary * *
+"emmStart Summary 3964-14","Legislatura: 353
+Fecha de ingreso: martes 30 de agosto de 2005
+Estado: Tramitación terminada (Ley Nº 20.071 - D.Oficial 22/11/2005)
+Numero de boletín: 3964-14
+Materia: Registro Nacional De Revisores Independientes De Obras De Construcción (Chile),Revisores Independientes De Obras De Edificación
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 05-11-2014 07:18:27
+* * Hitos de tramitación * *
+"emmStart Hitos 3964-14","Fecha Sesión Etapa Sub-etapa Documento
+30 de Ago. de 2005   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+30 de Ago. de 2005 29ª / 353 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Vivienda y Urbanismo
+06 de Sep. de 2005   Primer trámite constitucional / Senado Primer informe de comisión Ver
+06 de Sep. de 2005 32ª / 353 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+06 de Sep. de 2005 32ª / 353 Primer trámite constitucional / Senado Cuenta del Mensaje 244-353 que hace presente la urgencia Suma
+07 de Sep. de 2005 34ª / 353 Primer trámite constitucional / Senado Discusión general Ver
+13 de Sep. de 2005   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+13 de Sep. de 2005 43ª / 353 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Vivienda y Desarrollo Urbano Ver Ver
+13 de Sep. de 2005 43ª / 353 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 262-353 que retira y hace presente la urgencia Suma Ver
+04 de Oct. de 2005 46ª / 353 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 286-353 que retira y hace presente la urgencia Suma Ver
+04 de Oct. de 2005   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+04 de Oct. de 2005 46ª / 353 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+18 de Oct. de 2005 52ª / 353 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 346-353 que retira y hace presente la urgencia Suma Ver
+18 de Oct. de 2005 53ª / 353 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+18 de Oct. de 2005   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+19 de Oct. de 2005 43ª / 353 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+19 de Oct. de 2005   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3964-14","Fecha Etapa Informe Documento
+04 de Oct. de 2005 Segundo trámite constitucional C.Diputados Primer informe de comisión de Vivienda y Desarrollo Urbano Ver
+06 de Sep. de 2005 Primer trámite constitucional Senado Primer informe de comisión de Vivienda y Urbanismo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3964-14","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+18 de Oct. de 2005   Suma 346-353  
+04 de Oct. de 2005 18 de Oct. de 2005 Suma 286-353 346-353
+13 de Sep. de 2005 04 de Oct. de 2005 Suma 262-353 286-353
+06 de Sep. de 2005 13 de Sep. de 2005 Suma 244-353 262-353","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3964-14","Nombre
+Ministerio de Vivienda y Urbanismo","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3964-14","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+53   77 1 0 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3964-14","No record","Veto emmEnd"

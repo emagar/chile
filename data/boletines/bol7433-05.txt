@@ -1,0 +1,61 @@
+* * Bill summary * *
+"emmStart Summary 7433-05","Legislatura: 358
+Fecha de ingreso: martes 11 de enero de 2011
+Estado: Tramitación terminada (Ley Nº 20.512 - D.Oficial 07/05/2011)
+Numero de boletín: 7433-05
+Materia: Franquicias Tributarias,Beneficios,Extranjeros,Zona Franca
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 04:03:53
+* * Hitos de tramitación * *
+"emmStart Hitos 7433-05","Fecha Sesión Etapa Sub-etapa Documento
+11 de Ene. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+11 de Ene. de 2011 124ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+11 de Ene. de 2011 124ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 639-358 que hace presente la urgencia Suma Ver
+01 de Mar. de 2011 131ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 696-358 que retira y hace presente la urgencia Suma Ver Ver
+08 de Mar. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de Mar. de 2011 134ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 745-358 que retira y hace presente la urgencia Discusión inmediata Ver
+09 de Mar. de 2011 135ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+10 de Mar. de 2011 137ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+10 de Mar. de 2011   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+15 de Mar. de 2011 1ª / 359 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+15 de Mar. de 2011 1ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 5-359 que retira y hace presente la urgencia Suma
+05 de Abr. de 2011 6ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 35-359 que retira y hace presente la urgencia Suma
+11 de Abr. de 2011   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+13 de Abr. de 2011 8ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 97-359 que retira y hace presente la urgencia Discusión inmediata
+13 de Abr. de 2011 8ª / 359 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+13 de Abr. de 2011 9ª / 359 Segundo trámite constitucional / Senado Discusión general Ver
+13 de Abr. de 2011   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+14 de Abr. de 2011 14ª / 359 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+19 de Abr. de 2011 15ª / 359 Tercer trámite constitucional / C. Diputados Discusión única Ver
+19 de Abr. de 2011   Tercer trámite constitucional / C. Diputados Oficio N° 9430, que comunica aprobacion de modificaciones Ver
+19 de Abr. de 2011   Trámite de aprobacion presidencial / C. Diputados Oficio N°9429. Oficio de ley al Ejecutivo Ver
+20 de Abr. de 2011 11ª / 359 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 9430, que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7433-05","Fecha Etapa Informe Documento
+12 de Abr. de 2011 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+08 de Mar. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7433-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+13 de Abr. de 2011   Discusión inmediata 97-359  
+05 de Abr. de 2011 13 de Abr. de 2011 Suma 35-359 97-359
+15 de Mar. de 2011 05 de Abr. de 2011 Suma 5-359 35-359
+08 de Mar. de 2011 15 de Mar. de 2011 Discusión inmediata 745-358 5-359
+01 de Mar. de 2011 08 de Mar. de 2011 Suma 696-358 745-358
+11 de Ene. de 2011   Suma 639-358  
+11 de Ene. de 2011 01 de Mar. de 2011 Suma 561-358 696-358","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7433-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7433-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+137   71 0 0 49 Aprobado Sala Ver detalle votación
+15 Enmiendas del Senado. 72 0 0 0 Aprobado Sala Ver detalle votación
+85 Votación General 12 0 0 1   Hacienda Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7433-05","No record","Veto emmEnd"

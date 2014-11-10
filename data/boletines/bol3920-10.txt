@@ -1,0 +1,39 @@
+* * Bill summary * *
+"emmStart Summary 3920-10","Legislatura: 353
+Fecha de ingreso: martes 12 de julio de 2005
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 3920-10
+Materia: Energía Nuclear,Acuerdos Internacionales
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 06:50:05
+* * Hitos de tramitación * *
+"emmStart Hitos 3920-10","Fecha Sesión Etapa Sub-etapa Documento
+12 de Jul. de 2005   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+14 de Jul. de 2005 14ª / 353 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+02 de Ago. de 2005   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Ago. de 2005 27ª / 353 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Sep. de 2005 45ª / 353 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+14 de Sep. de 2005   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+04 de Oct. de 2005 38ª / 353 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores Ver
+03 de Ene. de 2006 55ª / 353 Segundo trámite constitucional / Senado Oficio Nº470-353. Cuenta de Mensaje del Ejecutivo comunicando retiro del proyecto del Congreso Nacional. Queda retirado, se manda comunicar a la CCDD, y archivar el documento junto a sus antecedentes. Ver
+04 de Ene. de 2006   Segundo trámite constitucional / Senado Oficio Nº 26292. Oficio de S.E. Presidente de la República retirando proyecto de tramitación Ver
+10 de Ene. de 2006 65ª / 353 Segundo trámite constitucional / Senado Cuenta en Cámara de Diputados de oficio del Senado, en que comunica que tomó conocimiento de solicitud del P. de la R. para retirar el proyecto.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3920-10","Fecha Etapa Informe Documento
+02 de Ago. de 2005 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3920-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3920-10","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3920-10","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+45   80 0 0 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3920-10","No record","Veto emmEnd"

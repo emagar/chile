@@ -1,0 +1,52 @@
+* * Bill summary * *
+"emmStart Summary 1047-07","Legislatura: 326
+Fecha de ingreso: martes 03 de agosto de 1993
+Estado: Tramitación terminada (Ley Nº 19.400 - D.Oficial 06/09/1995)
+Numero de boletín: 1047-07
+Materia: Quiebra
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 02:22:02
+* * Hitos de tramitación * *
+"emmStart Hitos 1047-07","Fecha Sesión Etapa Sub-etapa Documento
+03 de Ago. de 1993 22ª / 326 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+03 de Ago. de 1993   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+23 de Ago. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+23 de Ago. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+23 de Ago. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+23 de Ago. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+14 de Dic. de 1993   Primer trámite constitucional / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 327
+16 de Mar. de 1994   Primer trámite constitucional / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 328
+02 de Nov. de 1994   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de Nov. de 1994 10ª / 330 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+03 de Nov. de 1994 10ª / 330 Primer trámite constitucional / C. Diputados Discusión general Ver
+03 de Nov. de 1994   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+08 de Nov. de 1994 12ª / 330 Segundo trámite constitucional / Senado Pasa a la Comisión de Constitución, Legislación, Justicia y Reglamento y a la de Hacienda, en su caso
+15 de Nov. de 1994   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+05 de Jun. de 1995   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+13 de Jun. de 1995 6ª / 331 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+21 de Jun. de 1995 9ª / 331 Segundo trámite constitucional / Senado Discusión general Ver
+22 de Jun. de 1995   Segundo trámite constitucional / Senado Oficio Nº8727. comunica aprobación con modificaciones a Cámara de origen Ver
+04 de Jul. de 1995 13ª / 331 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+02 de Ago. de 1995 23ª / 331 Tercer trámite constitucional / C. Diputados Discusión única Ver
+02 de Ago. de 1995   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1047-07","Fecha Etapa Informe Documento
+05 de Jun. de 1995 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+15 de Nov. de 1994 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+02 de Nov. de 1994 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+23 de Ago. de 1993 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+23 de Ago. de 1993 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1047-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1047-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1047-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1047-07","No record","Veto emmEnd"

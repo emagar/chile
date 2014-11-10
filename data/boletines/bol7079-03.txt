@@ -1,0 +1,35 @@
+* * Bill summary * *
+"emmStart Summary 7079-03","Legislatura: 358
+Fecha de ingreso: martes 27 de julio de 2010
+Estado: Primer trámite constitucional .
+Numero de boletín: 7079-03
+Materia: Servicios Domiciliarios,Comercio De Servicios
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 23:59:26
+* * Hitos de tramitación * *
+"emmStart Hitos 7079-03","Fecha Sesión Etapa Sub-etapa Documento
+27 de Jul. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+27 de Jul. de 2010 55ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7079-03","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7079-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7079-03","Nombre Región Distrito Partido
+Lautaro Carmona Soto III Región de Atacama N°5 Partido Comunista
+Fidel Espinoza Sandoval X Región de los Lagos N°56 Partido Socialista
+Luis Lemus Aracena IV Región de Coquimbo N°9 Partido Socialista
+Roberto León Ramírez VII Región del Maule N°36 Partido Demócrata Cristiano
+Clemira Pacheco Rivas VIII Región del Bío Bío N°45 Partido Socialista
+Denise Pascal Allende RM Región Metropolitana N°31 Partido Socialista
+Patricio Vallespín López X Región de los Lagos N°57 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7079-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7079-03","No record","Veto emmEnd"

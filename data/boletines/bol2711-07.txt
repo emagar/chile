@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 2711-07","Legislatura: 344
+Fecha de ingreso: martes 05 de junio de 2001
+Estado: Tramitación terminada (Ley Nº 19.763 - D.Oficial 20/10/2001)
+Numero de boletín: 2711-07
+Materia: Nacionalización
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 03-11-2014 09:36:56
+* * Hitos de tramitación * *
+"emmStart Hitos 2711-07","Fecha Sesión Etapa Sub-etapa Documento
+05 de Jun. de 2001   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+05 de Jun. de 2001 1ª / 344 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía
+20 de Jul. de 2001   Primer trámite constitucional / Senado Primer informe de comisión Ver
+31 de Jul. de 2001 16ª / 344 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+01 de Ago. de 2001   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+01 de Ago. de 2001 17ª / 344 Primer trámite constitucional / Senado Discusión general Ver
+07 de Ago. de 2001 23ª / 344 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+11 de Sep. de 2001   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Sep. de 2001 35ª / 344 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+02 de Oct. de 2001 1ª / 345 Segundo trámite constitucional / C. Diputados Discusión general Ver
+02 de Oct. de 2001   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+02 de Oct. de 2001 3ª / 345 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+02 de Oct. de 2001   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2711-07","Fecha Etapa Informe Documento
+11 de Sep. de 2001 Segundo trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+20 de Jul. de 2001 Primer trámite constitucional Senado Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2711-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2711-07","Nombre
+Andrés Zaldívar Larraín","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2711-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2711-07","No record","Veto emmEnd"

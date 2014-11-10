@@ -1,0 +1,61 @@
+* * Bill summary * *
+"emmStart Summary 1475-01","Legislatura: 330
+Fecha de ingreso: miércoles 21 de diciembre de 1994
+Estado: Tramitación terminada (Ley Nº19.492 - D.Oficial 03/02/1997)
+Numero de boletín: 1475-01
+Materia: Acuicultura
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 09:34:12
+* * Hitos de tramitación * *
+"emmStart Hitos 1475-01","Fecha Sesión Etapa Sub-etapa Documento
+21 de Dic. de 1994   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+21 de Dic. de 1994 29ª / 330 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión Unida de Agricultura y Recursos Naturales Ver
+05 de Ene. de 1995   Primer trámite constitucional / C. Diputados Eximido del trámite ante Comisión Unida de Agricultura y Recursos Naturales. Pasa a Comisión de Agricultura, Silvicultura y Desarrollo Rural
+02 de Mar. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Mar. de 1995 42ª / 330 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+07 de Mar. de 1995 43ª / 330 Primer trámite constitucional / C. Diputados Discusión general Ver
+14 de Mar. de 1995   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+14 de Mar. de 1995 46ª / 330 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+14 de Mar. de 1995 47ª / 330 Primer trámite constitucional / C. Diputados Discusión particular Ver
+15 de Mar. de 1995   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+15 de Mar. de 1995 44ª / 330 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Intereses Marítimos, Pesca y Acuicultura
+24 de Ago. de 1995   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+13 de Sep. de 1995 36ª / 331 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Oct. de 1995   Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 332
+17 de Oct. de 1995 6ª / 332 Segundo trámite constitucional / Senado Discusión general Ver
+04 de Ene. de 1996   Segundo trámite constitucional / Senado Nuevo primer informe de comisión Ver
+09 de Ene. de 1996 27ª / 332 Segundo trámite constitucional / Senado Cuenta nuevo primer informe
+24 de Ene. de 1996 35ª / 332 Segundo trámite constitucional / Senado Discusión general Ver
+18 de Mar. de 1996   Segundo trámite constitucional / Senado Boletín de indicaciones
+12 de Jun. de 1996   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+10 de Jul. de 1996 17ª / 333 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+16 de Jul. de 1996   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+16 de Jul. de 1996   Tramitación terminada / Oficio Nº10087. Oficio a la Cámara de Diputados comunicando aprobación del proyecto, con modificaciones. Ver
+16 de Jul. de 1996 19ª / 333 Segundo trámite constitucional / Senado Discusión particular Ver
+31 de Jul. de 1996   Comisión Mixta por rechazo de modificaciones / Senado Oficio integrantes de Comisión Mixta Ver
+31 de Jul. de 1996   Tramitación terminada / Oficio Nº10159. comunica integrantes de Comisión Mixta Ver
+09 de Dic. de 1996   Comisión Mixta por rechazo de modificaciones / Senado Informe de Comisión Mixta Ver
+07 de Ene. de 1997   Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Oficio aprobación de informe de Comisión Mixta a C.de Origen Ver
+07 de Ene. de 1997   Tramitación terminada / Oficio Nº10605. Oficio a la Cámara de Diputados comunicando la aprobación de la proposición de la Comisión Mixta. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1475-01","Fecha Etapa Informe Documento
+09 de Dic. de 1996 Comisión Mixta por rechazo de modificaciones Senado Informe de Comisión Mixta de Gobierno, Descentralización y Regionalización Ver
+12 de Jun. de 1996 Segundo trámite constitucional Senado Segundo informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver
+04 de Ene. de 1996 Segundo trámite constitucional Senado Nuevo primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver
+24 de Ago. de 1995 Segundo trámite constitucional Senado Primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver
+14 de Mar. de 1995 Primer trámite constitucional C.Diputados Segundo informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+02 de Mar. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1475-01","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1475-01","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1475-01","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1475-01","No record","Veto emmEnd"

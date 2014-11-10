@@ -1,0 +1,77 @@
+* * Bill summary * *
+"emmStart Summary 8149-09","Legislatura: 359
+Fecha de ingreso: miércoles 18 de enero de 2012
+Estado: Segundo trámite constitucional .
+Numero de boletín: 8149-09
+Materia: Fiscalización De Aguas
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 22:04:32
+* * Hitos de tramitación * *
+"emmStart Hitos 8149-09","Fecha Sesión Etapa Sub-etapa Documento
+18 de Ene. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+18 de Ene. de 2012 134ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones y a Comisión de Hacienda Ver
+06 de Mar. de 2012 140ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 603-359 que hace presente la urgencia Suma Ver
+21 de Mar. de 2012 6ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 22-360 que hace presente la urgencia Suma Ver
+04 de Abr. de 2012 10ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 38-360 que hace presente la urgencia Suma Ver
+18 de Abr. de 2012 18ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 71-360 que hace presente la urgencia Suma Ver
+19 de Abr. de 2012 19ª / 360 Primer trámite constitucional / C. Diputados Oficio N°101. Oficio de la Comisión de Agricultura, Silvicultura y Desarrollo Rural, por el cual solicita el acuerdo de la Sala, para que le sea remitido el proyecto. Acordado. Ver Ver
+19 de Abr. de 2012   Primer trámite constitucional / C. Diputados Oficio N°10.132 . Comunica a Comisión de Agricultura que se le remitirá el proyecto una vez informado por la Comisión de Obras Públicas Ver
+19 de Abr. de 2012   Primer trámite constitucional / C. Diputados Oficio N°10.133. Comunica a la Comisión de Obras Públicas, que una vez informado, el proyecto debe derivarse a la Comisión de Agricultura Ver
+03 de May. de 2012 21ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 86-360 que hace presente la urgencia Suma Ver
+04 de May. de 2012   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+08 de May. de 2012 22ª / 360 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+08 de May. de 2012 22ª / 360 Primer trámite constitucional / C. Diputados Oficio N°059-360. Oficio de S.E. el Presidente de la República por el cual formula indicación al proyecto. Ver Ver
+18 de May. de 2012   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+22 de May. de 2012 31ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 116-360 que hace presente la urgencia Suma Ver
+22 de May. de 2012 31ª / 360 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+05 de Jun. de 2012 36ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+05 de Jun. de 2012 36ª / 360 Segundo trámite constitucional / Senado Cuenta de acuerdo de los comités parlamentarios autorizando la presentación de 3 indicaciones al proyecto de ley.
+06 de Jun. de 2012 38ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+06 de Jun. de 2012   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+12 de Jun. de 2012 24ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 144-360 que retira y hace presente la urgencia Suma
+12 de Jun. de 2012 24ª / 360 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Obras Públicas y a Comisión de Hacienda, en su caso.
+04 de Jul. de 2012 31ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 185-360 que retira y hace presente la urgencia Suma
+18 de Jul. de 2012 36ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 204-360 que retira y hace presente la urgencia Suma
+31 de Jul. de 2012 37ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 210-360 que retira la urgencia Suma
+17 de Jul. de 2013 41ª / 361 Segundo trámite constitucional / Senado La Sala autoriza a la Comisión de Obras Públicas para discutir en general y en particular el proyecto durante el primer informe.
+16 de Sep. de 2013 57ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 274-361 que hace presente la urgencia Suma
+01 de Oct. de 2013 58ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 279-361 que retira y hace presente la urgencia Suma","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8149-09","Fecha Etapa Informe Documento
+15 de May. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+04 de May. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8149-09","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+01 de Oct. de 2013   Suma 279-361  
+16 de Sep. de 2013 01 de Oct. de 2013 Suma 274-361 279-361
+18 de Jul. de 2012 26 de Jul. de 2012 Suma 204-360 210-360
+04 de Jul. de 2012 18 de Jul. de 2012 Suma 185-360 204-360
+12 de Jun. de 2012 04 de Jul. de 2012 Suma 144-360 185-360
+22 de May. de 2012 12 de Jun. de 2012 Suma 116-360 144-360
+03 de May. de 2012   Suma 86-360  
+18 de Abr. de 2012   Suma 71-360  
+04 de Abr. de 2012   Suma 38-360  
+21 de Mar. de 2012   Suma 22-360  
+06 de Mar. de 2012   Suma 603-359  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8149-09","Nombre Región Distrito Partido
+Ministerio de Hacienda      
+Ministerio de Justicia      
+Ministerio de Obras Públicas      
+Ministerio del Medio Ambiente      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8149-09","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+38   104 1 2 13 Aprobado Sala Ver detalle votación
+38 Texto propuesto por la Comisión de Obras Públicas, Transportes y Telecomunicaciones más las adiciones o enmiendas introducidas por la Comisión de Agricultura, Silvicultura y Desarrollo Rural, que figuran en las páginas 20 y siguientes de su informe, con la salvedad del numeral 7) del artículo 1°, y de los numerales 1) y 2) del artículo 2°, por haber sido objeto de indicaciones 106 0 1 0 Aprobado Sala Ver detalle votación
+38 Indicación renovada de la diputada señora Pascal, para agregar un artículo 4° nuevo, cuyo texto se encuentra a fojas 13 del informe de la Comisión de Agricultura 49 53 4 14 Rechazado Sala Ver detalle votación
+38 Numeral 1) del artículo 2° con la indicación de las diputadas y de los diputados señores Chahín; Calderón; Pérez, don José; Latorre; Cardemil, Sepúlveda; Gutiérrez, don Hugo; Urrutia; Baltolu; Schilling; Muñoz; Barros y Lemus 105 0 1 14 Aprobado Sala Ver detalle votación
+38 Numeral 2) del artículo 2°, con las indicaciones de los diputados y diputadas Hasbún; Pascal, García, Latorre, Sepúlveda, Barros, Pérez, don José; Pérez, don Leopoldo, y Muñoz, la primera, y de las diputadas y diputados Chahín, Calderón, Pérez, don José, Latorre, Cardemil, Sepúlveda, Gutiérrez, don Hugo, Urrutia, Baltolu, Schilling, Muñoz, Barros y Lemus, la segunda 107 0 0 0 Aprobado Sala Ver detalle votación
+38 Indicación de los diputados y diputadas Hasbún; Pascal; García; Latorre; Sepúlveda; Barros; Pérez, don José; Pérez, don Leopoldo; y Muñoz que incorpora un nuevo numeral 1) al artículo 1°, pasando el actual a ser numeral 2 104 0 1 15 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8149-09","No record","Veto emmEnd"

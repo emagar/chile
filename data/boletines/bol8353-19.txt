@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 8353-19","Legislatura: 360
+Fecha de ingreso: martes 12 de junio de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8353-19
+Materia: Acceso A Información De Onemi
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 00:28:35
+* * Hitos de tramitación * *
+"emmStart Hitos 8353-19","Fecha Sesión Etapa Sub-etapa Documento
+12 de Jun. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Jun. de 2012 40ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Ciencias y Tecnología Ver
+07 de May. de 2014   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+19 de May. de 2014 26ª / 362 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+05 de Jun. de 2014 30ª / 362 Primer trámite constitucional / C. Diputados Sala acuerda remitir a Comisión para nuevo primer informe. Ver
+04 de Nov. de 2014 86ª / 362 Primer trámite constitucional / C. Diputados Cuenta oficio N° 736-362 de S. E. la Presidenta de la República por el cual formula indicaciones al proyecto. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8353-19","Fecha Etapa Informe Documento
+07 de May. de 2014 Primer trámite constitucional C.Diputados Primer informe de comisión de Ciencias y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8353-19","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8353-19","Nombre Región Distrito Partido
+Pedro Browne Urrejola RM Región Metropolitana N°28 Renovación Nacional
+Gustavo Hasbún Selume RM Región Metropolitana N°26 Unión Demócrata Independiente
+Juan Carlos Latorre Carmona VI Región del Libertador Bernardo O' Higgins N°35 Partido Demócrata Cristiano
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+Iván Moreira Barros RM Región Metropolitana N°27 Unión Demócrata Independiente
+Alberto Robles Pantoja III Región de Atacama N°6 Partido Radical Social Demócrata
+Manuel Rojas Molina II Región de Antofagasta N°4 Unión Demócrata Independiente
+David Sandoval Plaza XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Unión Demócrata Independiente
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Partido Regionalista Independiente
+Mónica Zalaquett Said RM Región Metropolitana N°20 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8353-19","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8353-19","No record","Veto emmEnd"

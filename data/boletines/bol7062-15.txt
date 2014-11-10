@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 7062-15","Legislatura: 358
+Fecha de ingreso: lunes 12 de julio de 2010
+Estado: Primer trámite constitucional .
+Numero de boletín: 7062-15
+Materia: Tarifas Eléctricas,Telecomunicaciones
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 08-11-2014 23:50:02
+* * Hitos de tramitación * *
+"emmStart Hitos 7062-15","Fecha Sesión Etapa Sub-etapa Documento
+12 de Jul. de 2010   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+13 de Jul. de 2010 34ª / 358 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones
+21 de Jun. de 2012   Primer trámite constitucional / Senado Primer informe de comisión Ver
+03 de Jul. de 2012 30ª / 360 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+14 de Ago. de 2012 41ª / 360 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 27/08/2012 Ver
+27 de Ago. de 2012   Primer trámite constitucional / Senado Boletín de indicaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7062-15","Fecha Etapa Informe Documento
+21 de Jun. de 2012 Primer trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7062-15","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7062-15","Nombre
+Francisco Chahuán Chahuán
+Guido Girardi Lavín
+Pedro Muñoz Aburto","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7062-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7062-15","No record","Veto emmEnd"

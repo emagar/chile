@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 5304-09","Legislatura: 355
+Fecha de ingreso: martes 04 de septiembre de 2007
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 5304-09
+Materia: Superintendencia De Obras Públicas
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 03:03:15
+* * Hitos de tramitación * *
+"emmStart Hitos 5304-09","Fecha Sesión Etapa Sub-etapa Documento
+04 de Sep. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Sep. de 2007 72ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+02 de Oct. de 2007 79ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 750-355 que hace presente la urgencia Simple Ver
+06 de Nov. de 2007 96ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 964-355 que hace presente la urgencia Simple Ver
+06 de Nov. de 2007 96ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 964-355 que retira y hace presente la urgencia Simple Ver
+07 de Nov. de 2007 97ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 990-355 que retira y hace presente la urgencia \""Suma\"" Ver
+14 de Nov. de 2007 103ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1058-355 que retira la urgencia Simple Ver
+05 de Jun. de 2008 35ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 346-356 que hace presente la urgencia Simple Ver
+08 de Jul. de 2008 48ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 497-356 que retira y hace presente la urgencia Simple Ver
+12 de Ago. de 2008 60ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 642-356 que retira y hace presente la urgencia Simple Ver
+02 de Sep. de 2008 69ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 726-356 que retira la urgencia Simple Ver
+02 de Dic. de 2008 110ª / 356 Tramitación terminada / Cuenta Oficio de Su Excelencia la Presidenta de la República, por el cual retira el proyecto.
+02 de Dic. de 2008   Tramitación terminada / Oficio al Ejecutivo, devuelve proyecto. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5304-09","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5304-09","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+12 de Ago. de 2008 02 de Sep. de 2008 Simple 642-356 726-356
+08 de Jul. de 2008 12 de Ago. de 2008 Simple 497-356 642-356
+05 de Jun. de 2008 08 de Jul. de 2008 Simple 346-356 497-356
+06 de Nov. de 2007 14 de Nov. de 2007 Simple 964-355 1058-355","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5304-09","Nombre Región Distrito Partido
+Ministerio de Hacienda      
+Ministerio de Obras Públicas      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5304-09","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5304-09","No record","Veto emmEnd"

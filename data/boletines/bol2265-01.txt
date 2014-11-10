@@ -1,0 +1,60 @@
+* * Bill summary * *
+"emmStart Summary 2265-01","Legislatura: 339
+Fecha de ingreso: jueves 10 de diciembre de 1998
+Estado: Archivado .
+Numero de boletín: 2265-01
+Materia: Servicio Nacional Forestal,Subsecretaría Nacional Forestal
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 22:44:17
+* * Hitos de tramitación * *
+"emmStart Hitos 2265-01","Fecha Sesión Etapa Sub-etapa Documento
+10 de Dic. de 1998   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Dic. de 1998   Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Agricultura, Silvicultura y Pesca
+15 de Jun. de 1999   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+16 de Jul. de 1999   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+20 de Jul. de 1999 21ª / 340 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+20 de Jul. de 1999 21ª / 340 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+20 de Jul. de 1999   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+21 de Jul. de 1999 17ª / 340 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión Unidas de Agricultura y de Medio Ambiente y Bienes Nacionales, unidas y a la Comisión de Hacienda, en su caso. Se manda poner en conocimiento de la Corte Suprema
+23 de Jul. de 1999   Segundo trámite constitucional / Senado Oficio Nº 14.700 a la Corte Suprema Ver
+03 de Ago. de 1999 18ª / 340 Segundo trámite constitucional / Senado Cuenta en el Senado del oficio 937 de la Corte Suprema. Ver
+05 de Oct. de 1999   Segundo trámite constitucional / Senado S.E.El Presidente de la Republica incluye el proyecto en la Convocatoria Extraodinaria 341
+13 de Mar. de 2002   Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 346
+12 de May. de 2003   Segundo trámite constitucional / Senado Primer informe de comisión. y de Medio Ambiente Unidas Ver
+15 de May. de 2003 52ª / 348 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Jun. de 2003 3ª / 349 Segundo trámite constitucional / Senado La Sala acuerda que el proyecto vuelva a la Comisiones de Agricultura y de Medio Ambiente y Bienes Nacionales, unidas, sin perjuicio de que sea visto por la Comisión de Hacienda.
+14 de Sep. de 2004   Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 352
+07 de Mar. de 2006 60ª / 353 Segundo trámite constitucional / Senado Oficio Nº554-353. Cuenta Mensaje del Ejecutivo con el que solicita archivo del PL. Se accede a lo solicitado, y se manda comunicar a la CCDD. Ver
+08 de Mar. de 2006   Segundo trámite constitucional / Senado Oficio Nº26390. Acoge solicitud de S.E. el Presidente de la Repúblca de archivar proyecto de ley. Ver
+14 de Mar. de 2006 2ª / 354 Archivado / Cuenta oficio del Senado en la Cámara de Diputados que comunica solicitud para archivo de proyecto
+17 de May. de 2006   Archivado / Oficio Nº 6180. Se accede a petición del Senado en orden a proceder a su archivo Ver
+18 de May. de 2006   Segundo trámite constitucional / Senado Archivado
+18 de May. de 2006 29ª / 354 Segundo trámite constitucional / Senado Sala acuerda el archivo. Ver
+06 de Jun. de 2006 19ª / 354 Archivado / Cuenta de oficio N° 6180 de la CCDD, con el que comunica que ha accedido a la solicitud de archivo. Se toma conocimiento y se manda archivar el documento junto a sus antecedentes.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2265-01","Fecha Etapa Informe Documento
+12 de May. de 2003 Segundo trámite constitucional Senado Primer informe de comisión de Agricultura Ver
+16 de Jul. de 1999 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+15 de Jun. de 1999 Primer trámite constitucional C.Diputados Primer informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2265-01","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+14 de Sep. de 1999   Simple 256-340  
+06 de Ago. de 1999   Suma 25-340  
+06 de Ago. de 1999 14 de Sep. de 1999 Suma 25-340 256-340
+06 de Ago. de 1999   Suma 125-340  
+06 de Ago. de 1999   Suma 76-340  
+20 de Jul. de 1999   Suma 38-340  
+02 de Sep. de 1997   Suma 25-340  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2265-01","Nombre Región Distrito Partido
+Ministerio de Agricultura      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2265-01","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2265-01","No record","Veto emmEnd"

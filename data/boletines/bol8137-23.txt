@@ -1,0 +1,48 @@
+* * Bill summary * *
+"emmStart Summary 8137-23","Legislatura: 359
+Fecha de ingreso: martes 10 de enero de 2012
+Estado: Segundo trámite constitucional .
+Numero de boletín: 8137-23
+Materia: Casinos (Juegos De Azar),Guarderías Infantiles
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 15:55:10
+* * Hitos de tramitación * *
+"emmStart Hitos 8137-23","Fecha Sesión Etapa Sub-etapa Documento
+10 de Ene. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Ene. de 2012 129ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión Desarrollo del Turismo Ver
+18 de Mar. de 2013   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+21 de Mar. de 2013 7ª / 361 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+07 de May. de 2013 21ª / 361 Primer trámite constitucional / C. Diputados Discusión general. Queda pendiente . Ver
+07 de May. de 2013 21ª / 361 Primer trámite constitucional / C. Diputados La Sala acuerda enviar el proyecto a la Comisión de Trabajo y Seguridad Social Ver
+07 de May. de 2013 22ª / 361 Primer trámite constitucional / C. Diputados La Sala acordó dejar sin efecto el acuerdo de enviar a la Comisión de Trabajo y Seguridad Social Ver
+14 de May. de 2013 26ª / 361 Primer trámite constitucional / C. Diputados Discusión general. Queda pendiente . Ver
+16 de May. de 2013 29ª / 361 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general y particular. Ver
+16 de May. de 2013   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+22 de May. de 2013 26ª / 361 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8137-23","Fecha Etapa Informe Documento
+20 de Mar. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión Desarrollo del Turismo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8137-23","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8137-23","Nombre Región Distrito Partido
+Pepe Auth Stewart RM Región Metropolitana N°20 Partido Por la Democracia
+Guillermo Ceroni Fuentes VII Región del Maule N°40 Partido Por la Democracia
+Alfonso De Urresti Longton XIV Región de los Ríos N°53 Partido Socialista
+Cristina Girardi Lavín RM Región Metropolitana N°18 Partido Por la Democracia
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Luis Lemus Aracena IV Región de Coquimbo N°9 Partido Socialista
+Jorge Sabag Villalobos VIII Región del Bío Bío N°42 Partido Demócrata Cristiano
+René Saffirio Espinoza IX Región de la Araucanía N°50 Partido Demócrata Cristiano
+Marcelo Schilling Rodríguez V Región de Valparaíso N°12 Partido Socialista","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8137-23","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+29   53 0 1 66 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8137-23","No record","Veto emmEnd"

@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 1651-10","Legislatura: 331
+Fecha de ingreso: jueves 13 de julio de 1995
+Estado: Tramitación terminada (Ley Nº 19.458 - D.Oficial 12/06/1996)
+Numero de boletín: 1651-10
+Materia: Ministerio De Relaciones Exteriores
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 11:53:22
+* * Hitos de tramitación * *
+"emmStart Hitos 1651-10","Fecha Sesión Etapa Sub-etapa Documento
+13 de Jul. de 1995 18ª / 331 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+13 de Jul. de 1995   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+23 de Ago. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Sep. de 1995 33ª / 331 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+03 de Oct. de 1995   Primer trámite constitucional / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 332
+04 de Oct. de 1995   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+04 de Oct. de 1995 2ª / 332 Primer trámite constitucional / C. Diputados Discusión general Ver
+10 de Oct. de 1995 4ª / 332 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+17 de Ene. de 1996   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+17 de Ene. de 1996 31ª / 332 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+30 de Abr. de 1996 55ª / 332 Segundo trámite constitucional / Senado Discusión general Ver
+03 de May. de 1996   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+09 de May. de 1996 72ª / 332 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+09 de May. de 1996 72ª / 332 Tercer trámite constitucional / C. Diputados Discusión única Ver
+09 de May. de 1996   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1651-10","Fecha Etapa Informe Documento
+17 de Ene. de 1996 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+23 de Ago. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1651-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1651-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1651-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1651-10","No record","Veto emmEnd"

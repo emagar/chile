@@ -1,0 +1,55 @@
+* * Bill summary * *
+"emmStart Summary 5752-05","Legislatura: 355
+Fecha de ingreso: martes 04 de marzo de 2008
+Estado: Tramitación terminada (Ley Nº 20.259 - D.Oficial 25/03/2008)
+Numero de boletín: 5752-05
+Materia: Impuesto Al Combustible
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 22:52:09
+* * Hitos de tramitación * *
+"emmStart Hitos 5752-05","Fecha Sesión Etapa Sub-etapa Documento
+04 de Mar. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Mar. de 2008 137ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+04 de Mar. de 2008 137ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1470-355 que hace presente la urgencia Suma Ver
+05 de Mar. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+06 de Mar. de 2008 139ª / 355 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+06 de Mar. de 2008 139ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+06 de Mar. de 2008   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+11 de Mar. de 2008 1ª / 356 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+12 de Mar. de 2008 2ª / 356 Segundo trámite constitucional / Senado La Sala acuerda autorizar a la Comisión de Hacienda para discutir el proyecto en general y en particular en su primer informe.
+18 de Mar. de 2008   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+18 de Mar. de 2008   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+18 de Mar. de 2008 3ª / 356 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+19 de Mar. de 2008 4ª / 356 Segundo trámite constitucional / Senado Discusión general Ver
+19 de Mar. de 2008   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+20 de Mar. de 2008 9ª / 356 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver Ver
+20 de Mar. de 2008 9ª / 356 Tercer trámite constitucional / C. Diputados Discusión única Ver
+20 de Mar. de 2008   Tercer trámite constitucional / C. Diputados Oficio Nº 7351, que comunica aprobación de modificaciones Ver
+20 de Mar. de 2008   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+25 de Mar. de 2008   Segundo trámite constitucional / Senado Primer informe de comisión. Informe que complementa certificado (18/03/2008). Informe se dió cuenta en Sala en la sesión 8 del 08 de abril de 2008. Se manda agregar a sus antecedentes Ver
+25 de Mar. de 2008   Segundo trámite constitucional / Senado Primer informe de comisión. Informe que complementa certificado (18/03/2008). Informe se dió cuenta en Sala en la sesión 8 del 08 de abril de 2008. Se manda agregar a sus antecedentes Ver
+01 de Abr. de 2008 5ª / 356 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 7351, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5752-05","Fecha Etapa Informe Documento
+25 de Mar. de 2008 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+18 de Mar. de 2008 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+05 de Mar. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5752-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Mar. de 2008   Suma 1470-355  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5752-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5752-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+139   83 0 12 0 Aprobado Sala Ver detalle votación
+9 modificaciones del Senado a los números 1 y 5 del artículo 5°. 71 0 19 30 Aprobado Sala Ver detalle votación
+138 Votación General 11 0 1 1   Hacienda Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5752-05","No record","Veto emmEnd"

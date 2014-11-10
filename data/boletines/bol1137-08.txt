@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 1137-08","Legislatura: 327
+Fecha de ingreso: martes 18 de enero de 1994
+Estado: Archivado .
+Numero de boletín: 1137-08
+Materia: Codelco-Chile
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 03:32:58
+* * Hitos de tramitación * *
+"emmStart Hitos 1137-08","Fecha Sesión Etapa Sub-etapa Documento
+18 de Ene. de 1994 30ª / 327 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Minería y Energía Ver
+18 de Ene. de 1994   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+19 de Ene. de 1994   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+20 de Ene. de 1994 32ª / 327 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+20 de Ene. de 1994   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+20 de Ene. de 1994   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora
+20 de Ene. de 1994 32ª / 327 Primer trámite constitucional / C. Diputados Discusión general Ver
+25 de Ene. de 1994 29ª / 327 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Minería
+09 de Jul. de 1997 14ª / 335 Segundo trámite constitucional / Senado Se solicita su archivo S.E. el Presidente de la República solicita retiro o archivo del proyecto. Se solicita acuerdo de la Cámara de Diputados.
+15 de Jul. de 1997   Archivado / Oficio Nº11284. Oficio a la Cámara de Diputados solicitando acuerdo para archivar el proyecto. Ver
+17 de Jul. de 1997 29ª / 327 Segundo trámite constitucional / Senado Archivado Oficio de la Cámara de Diputados, con el que comunica que accedió al archivo solicitado. Se manda comunicar a S.E el Presidente de la República.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1137-08","Fecha Etapa Informe Documento
+20 de Ene. de 1994 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+19 de Ene. de 1994 Primer trámite constitucional C.Diputados Primer informe de comisión de Minería y Energía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1137-08","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+18 de Ene. de 1994   Discusión inmediata    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1137-08","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1137-08","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1137-08","No record","Veto emmEnd"

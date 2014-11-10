@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 8012-32","Legislatura: 359
+Fecha de ingreso: miércoles 02 de noviembre de 2011
+Estado: Segundo trámite constitucional .
+Numero de boletín: 8012-32
+Materia: Centros De Estadía Del Adulto Mayor,Adulto Mayor
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 14:24:10
+* * Hitos de tramitación * *
+"emmStart Hitos 8012-32","Fecha Sesión Etapa Sub-etapa Documento
+02 de Nov. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Nov. de 2011 103ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión Especial del Adulto Mayor Ver
+16 de Ene. de 2013   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+22 de Ene. de 2013 130ª / 360 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+07 de Mar. de 2013 136ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+07 de Mar. de 2013   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+12 de Mar. de 2013 1ª / 361 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8012-32","Fecha Etapa Informe Documento
+16 de Ene. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión Especial del Adulto Mayor Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8012-32","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8012-32","Nombre Región Distrito Partido
+Ramón Barros Montero VI Región del Libertador Bernardo O' Higgins N°35 Unión Demócrata Independiente
+Cristian Letelier Aguilar RM Región Metropolitana N°31 Independientes
+Javier Macaya Danús VI Región del Libertador Bernardo O' Higgins N°34 Unión Demócrata Independiente
+Patricio Melero Abaroa RM Región Metropolitana N°16 Unión Demócrata Independiente
+Andrea Molina Oliva V Región de Valparaíso N°10 Unión Demócrata Independiente
+Carlos Recondo Lavanderos X Región de los Lagos N°56 Unión Demócrata Independiente
+David Sandoval Plaza XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Unión Demócrata Independiente
+Ernesto Silva Méndez RM Región Metropolitana N°23 Unión Demócrata Independiente
+Gastón Von Mühlenbrock Zamora XIV Región de los Ríos N°54 Unión Demócrata Independiente
+Mónica Zalaquett Said RM Región Metropolitana N°20 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8012-32","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+136   63 0 2 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8012-32","No record","Veto emmEnd"

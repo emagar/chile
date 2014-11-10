@@ -1,0 +1,66 @@
+* * Bill summary * *
+"emmStart Summary 5924-06","Legislatura: 356
+Fecha de ingreso: martes 17 de junio de 2008
+Estado: Tramitación terminada (Ley Nº 20.355 - D.Oficial 25/06/2009)
+Numero de boletín: 5924-06
+Materia: Concejales,Municipios,Concejos Municipales
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 00:49:51
+* * Hitos de tramitación * *
+"emmStart Hitos 5924-06","Fecha Sesión Etapa Sub-etapa Documento
+17 de Jun. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+17 de Jun. de 2008 42ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+30 de Sep. de 2008 82ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 833-356 que hace presente la urgencia Simple Ver
+04 de Nov. de 2008 95ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 969-356 que retira y hace presente la urgencia Simple Ver
+04 de Dic. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Dic. de 2008 113ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Gobierno Interior. EN ESTADO DE TABLA. Ver
+09 de Dic. de 2008 113ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1169-356 que retira y hace presente la urgencia Simple Ver
+06 de Ene. de 2009 119ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1249-356 que retira la urgencia Simple Ver
+07 de Ene. de 2009 120ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1269-356 que hace presente la urgencia Simple Ver
+03 de Mar. de 2009 131ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1433-356 que retira la urgencia Simple Ver
+03 de Mar. de 2009 131ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1453-356 que hace presente la urgencia Simple Ver
+11 de Mar. de 2009 1ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+11 de Mar. de 2009   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+17 de Mar. de 2009 2ª / 357 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización
+20 de Abr. de 2009   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+28 de Abr. de 2009 12ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 222-357 que retira y hace presente la urgencia Suma
+28 de Abr. de 2009 12ª / 357 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+29 de Abr. de 2009 13ª / 357 Segundo trámite constitucional / Senado Discusión general Ver
+30 de Abr. de 2009   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+30 de Abr. de 2009 22ª / 357 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+05 de May. de 2009 23ª / 357 Tercer trámite constitucional / C. Diputados Discusión única Ver
+05 de May. de 2009   Tercer trámite constitucional / C. Diputados Oficio N° 8077, que comunica aprobacion de modificaciones Ver
+05 de May. de 2009   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+06 de May. de 2009 15ª / 357 Tercer trámite constitucional / C. Diputados Cuenta oficio N° 8077, que comunica aprobacion de modificaciones Ver
+12 de May. de 2009 28ª / 357 Tercer trámite constitucional / C. Diputados P. de la Rep. comunica que no hará uso de la facultad que le confiere el inciso primero del artículo 73 de la Constitución Política de la Repúb.ica. Ver
+12 de May. de 2009   Trámite en Tribunal Constitucional / C. Diputados Oficio al Tribunal Constitucional Ver
+03 de Jun. de 2009 35ª / 357 Trámite en Tribunal Constitucional / C. Diputados Cuenta oficio N? 3075 del Tribunal Constitucional Ver Ver
+03 de Jun. de 2009   Trámite en Tribunal Constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5924-06","Fecha Etapa Informe Documento
+20 de Abr. de 2009 Segundo trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver
+04 de Dic. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5924-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+28 de Abr. de 2009   Suma 222-357  
+03 de Mar. de 2009 24 de Abr. de 2009 Simple 1453-356 222-357
+07 de Ene. de 2009 03 de Mar. de 2009 Simple 1269-356 1433-356
+09 de Dic. de 2008 06 de Ene. de 2009 Simple 1169-356 1249-356
+04 de Nov. de 2008 09 de Dic. de 2008 Simple 969-356 1169-356
+30 de Sep. de 2008 04 de Nov. de 2008 Simple 833-356 969-356","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5924-06","Nombre Región Distrito Partido
+Ministerio de Interior y Seguridad Públi      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5924-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+23   103 0 0 17 Aprobado Sala Ver detalle votación
+1   77 0 0 43 Aprobado Sala Ver detalle votación
+90 Votación General 7 0 0 6   Gobierno Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5924-06","No record","Veto emmEnd"

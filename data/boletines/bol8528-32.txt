@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 8528-32","Legislatura: 360
+Fecha de ingreso: martes 28 de agosto de 2012
+Estado: Segundo trámite constitucional .
+Numero de boletín: 8528-32
+Materia: Código Civil,Violencia Contra El Adulto Mayor
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 02:38:34
+* * Hitos de tramitación * *
+"emmStart Hitos 8528-32","Fecha Sesión Etapa Sub-etapa Documento
+28 de Ago. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+28 de Ago. de 2012 72ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión Especial del Adulto Mayor Ver
+01 de Abr. de 2014 6ª / 362 Primer trámite constitucional / C. Diputados Por acuerdo de la Sala, con motivo de la modificación del artículo 213 del Reglamento de la Corporación, en lo relativo a la competencia de algunas comisiones, el proyecto se ha radicado en la Comisión de la Familia y Adulto Mayor. Ver
+16 de Jun. de 2014   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Jun. de 2014 35ª / 362 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Ago. de 2014 57ª / 362 Primer trámite constitucional / C. Diputados Discusión general. Queda pendiente Ver
+21 de Ago. de 2014 62ª / 362 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general y particular a la vez Ver
+21 de Ago. de 2014   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+02 de Sep. de 2014 42ª / 362 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8528-32","Fecha Etapa Informe Documento
+16 de Jun. de 2014 Primer trámite constitucional C.Diputados Primer informe de comisión de Familia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8528-32","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8528-32","Nombre Región Distrito Partido
+Giovanni Calderón Bassi III Región de Atacama N°6 Unión Demócrata Independiente
+María Angélica Cristi Marfil RM Región Metropolitana N°24 Unión Demócrata Independiente
+Enrique Estay Peñaloza IX Región de la Araucanía N°49 Unión Demócrata Independiente
+Javier Hernández Hernández X Región de los Lagos N°55 Unión Demócrata Independiente
+Leopoldo Pérez Lahsen RM Región Metropolitana N°29 Renovación Nacional
+Manuel Rojas Molina II Región de Antofagasta N°4 Unión Demócrata Independiente
+David Sandoval Plaza XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Unión Demócrata Independiente
+Ignacio Urrutia Bonilla VII Región del Maule N°40 Unión Demócrata Independiente
+Carlos Vilches Guzmán III Región de Atacama N°5 Unión Demócrata Independiente
+Gastón Von Mühlenbrock Zamora XIV Región de los Ríos N°54 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8528-32","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+62   65 0 0 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8528-32","No record","Veto emmEnd"

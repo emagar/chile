@@ -1,0 +1,32 @@
+* * Bill summary * *
+"emmStart Summary 856-07","Legislatura: 325
+Fecha de ingreso: jueves 12 de noviembre de 1992
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 856-07
+Materia: Abusos De Publicidad
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 23:52:49
+* * Hitos de tramitación * *
+"emmStart Hitos 856-07","Fecha Sesión Etapa Sub-etapa Documento
+12 de Nov. de 1992   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+12 de Nov. de 1992 10ª / 325 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+09 de Dic. de 1992 11ª / 325 Tramitación terminada / Cuenta Mensaje con el que se retira de tramitación el proyecto. Se manda archivar Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 856-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 856-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+17 de Nov. de 1992 09 de Dic. de 2019 Suma 171192 091292
+12 de Nov. de 1992   Suma    
+12 de Nov. de 1992   Simple    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 856-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 856-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 856-07","No record","Veto emmEnd"

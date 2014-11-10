@@ -1,0 +1,63 @@
+* * Bill summary * *
+"emmStart Summary 7262-06","Legislatura: 358
+Fecha de ingreso: miércoles 13 de octubre de 2010
+Estado: Tramitación terminada (Ley Nº 20.462 - D.Oficial 26/11/2010)
+Numero de boletín: 7262-06
+Materia: Zonas De Catástrofe,Comunas,Fondo Común Municipal
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 02:04:11
+* * Hitos de tramitación * *
+"emmStart Hitos 7262-06","Fecha Sesión Etapa Sub-etapa Documento
+13 de Oct. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Oct. de 2010 88ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior y Regionalización Ver
+13 de Oct. de 2010 88ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 381-358 que hace presente la urgencia Suma Ver
+28 de Oct. de 2010 92ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 432-358 que hace presente la urgencia Suma Ver
+29 de Oct. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+02 de Nov. de 2010 93ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+03 de Nov. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+04 de Nov. de 2010 96ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+09 de Nov. de 2010 97ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+09 de Nov. de 2010   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+09 de Nov. de 2010 65ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización y a Comisión de Hacienda, unidas.
+10 de Nov. de 2010   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+10 de Nov. de 2010 66ª / 358 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Nov. de 2010 66ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 475-358 que retira y hace presente la urgencia Suma Ver
+10 de Nov. de 2010 66ª / 358 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 15/11/2010 Ver
+15 de Nov. de 2010   Segundo trámite constitucional / Senado Boletín de indicaciones
+16 de Nov. de 2010 103ª / 358 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+16 de Nov. de 2010   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+16 de Nov. de 2010 68ª / 358 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+16 de Nov. de 2010 68ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 479-358 que retira y hace presente la urgencia Discusión inmediata
+17 de Nov. de 2010 69ª / 358 Segundo trámite constitucional / Senado Discusión particular Ver
+17 de Nov. de 2010   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+18 de Nov. de 2010   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7262-06","Fecha Etapa Informe Documento
+16 de Nov. de 2010 Segundo trámite constitucional Senado Segundo informe de comisión de Gobierno, Descentralización y Regionalización y de Hacienda, unidas Ver
+10 de Nov. de 2010 Segundo trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver
+03 de Nov. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+29 de Oct. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7262-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+16 de Nov. de 2010   Discusión inmediata 479-358  
+10 de Nov. de 2010 16 de Nov. de 2010 Suma 475-358 479-358
+28 de Oct. de 2010 10 de Nov. de 2010 Suma 432-358 475-358
+13 de Oct. de 2010   Suma 381-358  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7262-06","Nombre Región Distrito Partido
+Ministerio de Hacienda      
+Ministerio de Interior y Seguridad Públi      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7262-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+97   98 1 0 21 Aprobado Sala Ver detalle votación
+97 2°, conjuntamente con una indicación de los diputados Javier Macaya, Sergio Ojeda y Germán Becker, y de la diputada María José Hoffmann, para eliminar, en su inciso primero, la preposición ""por"" que sigue al guarismo ""2009"", y para sustituir, en el número 1 de su inciso segundo, la expresión ""según la siguiente regla"" por la frase ""la siguiente operación"". 96 1 1 22 Aprobado Sala Ver detalle votación
+97 Indicación de los diputados Sergio Ojeda, Aldo Cornejo, gabriel Ascencio, René Saffirio, Marcelo Schilling y Marcelo Díaz, para intercalar un nuevo artículo 6°, pasando los actuales artículos 6° y 7° a ser 7° y 8°, respectivamente. ""Artículo 6°.- El sistema de cálculo se hará sobre la base de la información que proporcione el Servicio de Tesorerías respecto de cada comuna beneficiada."". 76 10 3 31 Aprobado Sala Ver detalle votación
+23 Votación General 10 0 0 3   Gobierno Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7262-06","No record","Veto emmEnd"

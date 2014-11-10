@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 2330-10","Legislatura: 339
+Fecha de ingreso: martes 04 de mayo de 1999
+Estado: Tramitación terminada (D.S. Nº 1.427 - D.Oficial 06/12/1999)
+Numero de boletín: 2330-10
+Materia: Permisos (Trabajo)
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 23:21:35
+* * Hitos de tramitación * *
+"emmStart Hitos 2330-10","Fecha Sesión Etapa Sub-etapa Documento
+04 de May. de 1999   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+04 de May. de 1999 36ª / 339 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+07 de Jun. de 1999   Primer trámite constitucional / Senado Primer informe de comisión Ver
+15 de Jun. de 1999 5ª / 340 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+22 de Jun. de 1999 8ª / 340 Primer trámite constitucional / Senado Discusión general Ver
+23 de Jun. de 1999   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+24 de Jun. de 1999 13ª / 340 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+06 de Jul. de 1999   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+15 de Jul. de 1999 20ª / 340 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+11 de Ago. de 1999 28ª / 340 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+11 de Ago. de 1999   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+11 de Ago. de 1999 22ª / 340 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+23 de Ago. de 1999   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2330-10","Fecha Etapa Informe Documento
+06 de Jul. de 1999 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+07 de Jun. de 1999 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2330-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de May. de 1999   Sin urgencia 241-339  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2330-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2330-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2330-10","No record","Veto emmEnd"

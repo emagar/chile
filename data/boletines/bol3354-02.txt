@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 3354-02","Legislatura: 349
+Fecha de ingreso: miércoles 10 de septiembre de 2003
+Estado: Archivado .
+Numero de boletín: 3354-02
+Materia: Fuerzas Armadas
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 01:50:04
+* * Hitos de tramitación * *
+"emmStart Hitos 3354-02","Fecha Sesión Etapa Sub-etapa Documento
+10 de Sep. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Sep. de 2003 39ª / 349 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Defensa Nacional Ver
+03 de May. de 2005   Primer trámite constitucional / C. Diputados Oficio Nº 016-05 de la Comisión de Defensa. Solicita archivo Ver
+10 de May. de 2005 72ª / 352 Primer trámite constitucional / C. Diputados Cuenta de oficio Nº 016-05 con que Comisión de Defensa solicita el archivo del proyecto. En tabla. Ver
+10 de May. de 2005 72ª / 352 Primer trámite constitucional / C. Diputados Archivado Sala accede al archivo solicitado. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3354-02","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3354-02","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+10 de Sep. de 2003   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3354-02","Nombre Región Distrito Partido
+Pedro Araya Guerrero II Región de Antofagasta N°4 Partido Demócrata Cristiano
+Alejandro Navarro Brain VIII Región del Bío Bío N°45 Partido Socialista
+Jaime Quintana Leal IX Región de la Araucanía N°49 Partido Por la Democracia
+Felipe Salaberry Soto RM Región Metropolitana N°25 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3354-02","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3354-02","No record","Veto emmEnd"

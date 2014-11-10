@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 875-10","Legislatura: 325
+Fecha de ingreso: miércoles 09 de diciembre de 1992
+Estado: Tramitación terminada (D.S. Nº 1.963 - D.Oficial 06/05/1995)
+Numero de boletín: 875-10
+Materia: Biodiversidad
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 00:08:02
+* * Hitos de tramitación * *
+"emmStart Hitos 875-10","Fecha Sesión Etapa Sub-etapa Documento
+09 de Dic. de 1992   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+09 de Dic. de 1992 15ª / 325 Primer trámite constitucional / Senado Cuenta de proyecto
+31 de Ago. de 1994 28ª / 329 Primer trámite constitucional / Senado Discusión general. Aprobado en general y en particular. Ver
+31 de Ago. de 1994 27ª / 329 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+31 de Ago. de 1994 27ª / 329 Primer trámite constitucional / Senado Primer informe de comisión Ver
+31 de Ago. de 1994 28ª / 329 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+01 de Sep. de 1994 35ª / 329 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+01 de Sep. de 1994 29ª / 329 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+05 de Sep. de 1994 1ª / 344 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 875-10","Fecha Etapa Informe Documento
+31 de Ago. de 1994 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 875-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 875-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 875-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 875-10","No record","Veto emmEnd"

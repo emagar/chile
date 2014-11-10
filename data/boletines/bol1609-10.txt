@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 1609-10","Legislatura: 331
+Fecha de ingreso: martes 30 de mayo de 1995
+Estado: Tramitación terminada (D.S. Nº 935 - D.Oficial 31/08/1996)
+Numero de boletín: 1609-10
+Materia: Visas
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 11:20:12
+* * Hitos de tramitación * *
+"emmStart Hitos 1609-10","Fecha Sesión Etapa Sub-etapa Documento
+30 de May. de 1995 1ª / 331 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+30 de May. de 1995   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+19 de Jul. de 1995 19ª / 331 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+19 de Jul. de 1995 19ª / 331 Primer trámite constitucional / Senado Primer informe de comisión Ver
+20 de Jul. de 1995 20ª / 331 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+20 de Jul. de 1995 20ª / 331 Primer trámite constitucional / Senado Discusión general Ver
+01 de Ago. de 1995 22ª / 331 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+12 de Sep. de 1995   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de Oct. de 1995 1ª / 332 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de Jun. de 1996 7ª / 333 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+13 de Jun. de 1996 7ª / 333 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+13 de Jun. de 1996   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+19 de Jun. de 1996 9ª / 333 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+19 de Jun. de 1996   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1609-10","Fecha Etapa Informe Documento
+12 de Sep. de 1995 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+19 de Jul. de 1995 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1609-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1609-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1609-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1609-10","No record","Veto emmEnd"

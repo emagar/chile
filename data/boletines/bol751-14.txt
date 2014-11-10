@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 751-14","Legislatura: 324
+Fecha de ingreso: miércoles 08 de julio de 1992
+Estado: Tramitación terminada (Ley Nº 19.360 - D.Oficial 24/01/1995)
+Numero de boletín: 751-14
+Materia: Fondo De Compensación De Dividentos ,Compensación De Dividendos,Dividendos Hipotecarios,Leasing,Préstamos Hipotecarios
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 22:28:05
+* * Hitos de tramitación * *
+"emmStart Hitos 751-14","Fecha Sesión Etapa Sub-etapa Documento
+08 de Jul. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+28 de Jul. de 1992 20ª / 324 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+10 de Dic. de 1992   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+20 de Jul. de 1993 12ª / 326 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Vivienda y Urbanismo y a Comisión de Hacienda
+13 de Jun. de 1994   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+14 de Jul. de 1994   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+21 de Jul. de 1994 15ª / 329 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+11 de Ago. de 1994 22ª / 329 Segundo trámite constitucional / Senado Discusión general. Aprobado en general , se fija plazo para indicaciones hasta el 7 de octubre. Ver
+13 de Oct. de 1994   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+03 de Nov. de 1994 11ª / 330 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+15 de Nov. de 1994 16ª / 330 Segundo trámite constitucional / Senado Discusión particular. Aprobado con modificaciones Discusión particular. Aprobado en particular, con modificaciones. Ver
+16 de Nov. de 1994   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+16 de Nov. de 1994   Segundo trámite constitucional / Senado Oficio a la Cámara comunicando aprobación con modificaciones que indica
+20 de Dic. de 1994 28ª / 330 Tramitación terminada / oficio Nº 421, de la Cámara. comunicando aprobación enmiendas propuestas por el Senado","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 751-14","Fecha Etapa Informe Documento
+13 de Oct. de 1994 Segundo trámite constitucional Senado Segundo informe de comisión de Vivienda y Urbanismo Ver
+14 de Jul. de 1994 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+13 de Jun. de 1994 Segundo trámite constitucional Senado Primer informe de comisión de Vivienda y Urbanismo Ver
+10 de Dic. de 1992 Primer trámite constitucional C.Diputados Primer informe de comisión de Vivienda y Desarrollo Urbano Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 751-14","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+28 de Jul. de 1992   Simple    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 751-14","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 751-14","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 751-14","No record","Veto emmEnd"

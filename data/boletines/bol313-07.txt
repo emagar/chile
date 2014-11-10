@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 313-07","Legislatura: 321
+Fecha de ingreso: martes 19 de marzo de 1991
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 313-07
+Materia: Congreso Nacional,Urgencias Legislativas,Calificación De Urgencias
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 14:29:30
+* * Hitos de tramitación * *
+"emmStart Hitos 313-07","Fecha Sesión Etapa Sub-etapa Documento
+19 de Mar. de 1991 38ª / 321 Primer trámite constitucional / Senado Cuenta de proyecto
+19 de Mar. de 1991   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+22 de Ago. de 1995 28ª / 331 Primer trámite constitucional / Senado Primer informe de comisión Ver
+22 de Ago. de 1995 28ª / 331 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+16 de Jul. de 1996 19ª / 333 Primer trámite constitucional / Senado Discusión general Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 313-07","Fecha Etapa Informe Documento
+22 de Ago. de 1995 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 313-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 313-07","Nombre
+Jorge Lavandero Illanes
+Ignacio Pérez Walker
+Sebastian Piñera Echeñique
+Sergio Romero Pizarro","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 313-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 313-07","No record","Veto emmEnd"

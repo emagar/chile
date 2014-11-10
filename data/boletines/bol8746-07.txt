@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 8746-07","Legislatura: 360
+Fecha de ingreso: jueves 20 de diciembre de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8746-07
+Materia: Constitucion 1980,Explotación Del Litio
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 05:15:47
+* * Hitos de tramitación * *
+"emmStart Hitos 8746-07","Fecha Sesión Etapa Sub-etapa Documento
+20 de Dic. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de Dic. de 2012 117ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8746-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8746-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8746-07","Nombre Región Distrito Partido
+Pedro Araya Guerrero II Región de Antofagasta N°4 Partido Regionalista Independiente
+Alfonso De Urresti Longton XIV Región de los Ríos N°53 Partido Socialista
+Roberto Delmastro Naso XIV Región de los Ríos N°53 Independientes
+Ramón Farías Ponce RM Región Metropolitana N°30 Partido Por la Democracia
+Hugo Gutiérrez Gálvez I Región de Tarapacá N°2 Partido Comunista
+Sergio Ojeda Uribe X Región de los Lagos N°55 Partido Demócrata Cristiano
+Alberto Robles Pantoja III Región de Atacama N°6 Partido Radical Social Demócrata
+Manuel Rojas Molina II Región de Antofagasta N°4 Unión Demócrata Independiente
+David Sandoval Plaza XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Unión Demócrata Independiente
+Pedro Velásquez Seguel IV Región de Coquimbo N°8 Independientes","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8746-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8746-07","No record","Veto emmEnd"

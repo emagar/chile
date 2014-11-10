@@ -1,0 +1,62 @@
+* * Bill summary * *
+"emmStart Summary 6681-01","Legislatura: 357
+Fecha de ingreso: martes 01 de septiembre de 2009
+Estado: Tramitación terminada (Ley N° 20.411 - D.Oficial 29/12/2009)
+Numero de boletín: 6681-01
+Materia: Derecho De Aprovechamiento De Aguas,Restricción De Zonas Y Areas
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 15:05:46
+* * Hitos de tramitación * *
+"emmStart Hitos 6681-01","Fecha Sesión Etapa Sub-etapa Documento
+01 de Sep. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+01 de Sep. de 2009 73ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+08 de Sep. de 2009 76ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1090-357 que hace presente la urgencia Simple Ver
+29 de Sep. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+06 de Oct. de 2009 85ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1286-357 que retira y hace presente la urgencia Suma Ver
+06 de Oct. de 2009 85ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+07 de Oct. de 2009 86ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver
+07 de Oct. de 2009   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+13 de Oct. de 2009 57ª / 357 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Agricultura
+13 de Oct. de 2009 57ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1310-357 que retira y hace presente la urgencia Suma
+27 de Oct. de 2009 59ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1386-357 que retira y hace presente la urgencia Suma
+28 de Oct. de 2009   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+04 de Nov. de 2009 62ª / 357 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Nov. de 2009 63ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1537-357 que retira y hace presente la urgencia Suma Ver
+10 de Nov. de 2009 63ª / 357 Segundo trámite constitucional / Senado Discusión general Ver
+10 de Nov. de 2009   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+11 de Nov. de 2009 104ª / 357 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+18 de Nov. de 2009 106ª / 357 Tercer trámite constitucional / C. Diputados Cuenta del Mensaje 1587-357 que retira la urgencia Suma Ver
+25 de Nov. de 2009 108ª / 357 Tercer trámite constitucional / C. Diputados Cuenta del Mensaje 1617-357 que hace presente la urgencia Simple Ver
+15 de Dic. de 2009 109ª / 357 Tercer trámite constitucional / C. Diputados Cuenta del Mensaje 1675-357 que retira y hace presente la urgencia Suma Ver
+15 de Dic. de 2009 109ª / 357 Tercer trámite constitucional / C. Diputados Discusión única Ver
+15 de Dic. de 2009   Tercer trámite constitucional / C. Diputados Oficio N°8470, que comunica aprobacion de modificaciones Ver
+16 de Dic. de 2009 76ª / 357 Tercer trámite constitucional / C. Diputados Cuenta oficio que comunica aprobacion de modificaciones Ver
+18 de Dic. de 2009   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo. Oficio N°8469. Oficio de Ley para promulgación Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6681-01","Fecha Etapa Informe Documento
+03 de Nov. de 2009 Segundo trámite constitucional Senado Primer informe de comisión de Agricultura Ver
+29 de Sep. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6681-01","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+15 de Dic. de 2009   Suma 1675-357  
+25 de Nov. de 2009 15 de Dic. de 2009 Simple 1617-357 1675-357
+10 de Nov. de 2009 18 de Nov. de 2009 Suma 1537-357 1587-357
+27 de Oct. de 2009 10 de Nov. de 2009 Suma 1386-357 1537-357
+13 de Oct. de 2009 27 de Oct. de 2009 Suma 1310-357 1386-357
+06 de Oct. de 2009 13 de Oct. de 2009 Suma 1286-357 1310-357
+08 de Sep. de 2009 06 de Oct. de 2009 Simple 1090-357 1286-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6681-01","Nombre Región Distrito Partido
+Ministerio de Agricultura      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6681-01","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+86   91 0 2 0 Aprobado Sala Ver detalle votación
+109   63 0 0 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6681-01","No record","Veto emmEnd"

@@ -1,0 +1,56 @@
+* * Bill summary * *
+"emmStart Summary 3198-13","Legislatura: 348
+Fecha de ingreso: martes 04 de marzo de 2003
+Estado: Tramitación terminada (Ley Nº 20.607 - D.Oficial 08/08/2012)
+Numero de boletín: 3198-13
+Materia: Código Del Trabajo,Conductas De Acoso Laboral,Mobbing
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 00:16:06
+* * Hitos de tramitación * *
+"emmStart Hitos 3198-13","Fecha Sesión Etapa Sub-etapa Documento
+04 de Mar. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Mar. de 2003 50ª / 348 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+16 de Oct. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de Nov. de 2007 99ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. EN ESTADO DE TABLA. Ver
+08 de May. de 2008 26ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+08 de May. de 2008   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+13 de May. de 2008 19ª / 356 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social Ver
+13 de Oct. de 2008   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+14 de Oct. de 2008 60ª / 356 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+15 de Oct. de 2008 61ª / 356 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 03/11/2008 Ver
+03 de Nov. de 2008   Segundo trámite constitucional / Senado Boletín de indicaciones
+10 de Mar. de 2009 93ª / 356 Segundo trámite constitucional / Senado La Sala, previo acuerdo de los Comités, decide abrir un nuevo plazo para presentar indicaciones hasta las 12 horas del día 16 de marzo de 2009. Las indicaciones se presentarán en la Secretaría de la Comisión de Trabajo y Previsión Social.
+08 de May. de 2012   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+22 de May. de 2012 19ª / 360 Segundo trámite constitucional / Senado Discusión particular Ver
+22 de May. de 2012   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+23 de May. de 2012 33ª / 360 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+04 de Jul. de 2012 50ª / 360 Tercer trámite constitucional / C. Diputados Discusión única Ver
+05 de Jul. de 2012   Tercer trámite constitucional / C. Diputados Oficio N° 10250, que comunica aprobacion de modificaciones Ver
+05 de Jul. de 2012   Tercer trámite constitucional / C. Diputados Oficio N° 10249, al ejecutivo para promulgación. Ver
+10 de Jul. de 2012 33ª / 360 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 10250, que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3198-13","Fecha Etapa Informe Documento
+08 de May. de 2012 Segundo trámite constitucional Senado Segundo informe de comisión de Trabajo y Previsión Social Ver
+13 de Oct. de 2008 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver
+16 de Oct. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3198-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3198-13","Nombre Región Distrito Partido
+Fidel Espinoza Sandoval X Región de los Lagos N°56 Partido Socialista
+Enrique Jaramillo Becker X Región de los Lagos N°54 Partido Por la Democracia
+Adriana Muñoz D'Albora IV Región de Coquimbo N°9 Partido Por la Democracia
+Ximena Vidal Lázaro RM Región Metropolitana N°25 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3198-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+26   72 0 0 0 Aprobado Sala Ver detalle votación
+50   97 0 0 0 Aprobado Sala Ver detalle votación
+26 Texto propuesto por la Comisión en su informe, con las siguientes indicaciones: 1) Para reemplazar el artículo quinto, por el siguiente: “Articulo quinto.- Agrégase en el artículo 84 de la ley N° 18.834, Estatuto Administrativo, cuyo texto refundido se fija en el decreto con fuerza de ley N° 29, de 2005, del Ministerio de Hacienda, la siguiente letra m): “m) Realizar todo acto calificado como acoso laboral en conformidad a lo dispuesto en Código del Trabajo.”.”. 2) Para agregar el siguiente artículo sexto: “Articulo sexto.- Agrégase en el artículo 82 de la ley N° 18.883, la siguiente letra m): “m) Realizar todo acto calificado como acoso laboral en conformidad a lo dispuesto en Código del Trabajo.”.”. 74 0 0 46 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3198-13","No record","Veto emmEnd"

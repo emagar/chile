@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 3785-04","Legislatura: 352
+Fecha de ingreso: miércoles 12 de enero de 2005
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 3785-04
+Materia: Educación Preescolar
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 04-11-2014 11:58:57
+* * Hitos de tramitación * *
+"emmStart Hitos 3785-04","Fecha Sesión Etapa Sub-etapa Documento
+12 de Ene. de 2005   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+12 de Ene. de 2005 27ª / 352 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología. Esta iniciativa no podrá ser tratada mientras no sea incluida en la convocatoria a Legislatura Extraordinaria de sesiones del Congreso Nacional.
+18 de Ene. de 2005 28ª / 352 Primer trámite constitucional / Senado Cuenta del mensaje que incluye esta iniciativa en la Convocatoria a Legislatura Extraordinaria de Sesiones.
+23 de Mar. de 2005   Primer trámite constitucional / Senado Primer informe de comisión Ver
+05 de Abr. de 2005 41ª / 352 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Abr. de 2005 43ª / 352 Primer trámite constitucional / Senado Discusión general. Queda pendiente Se acuerda volverlo a la Comisión de Constitución, Legislación, Justicia y Reglamento para que emita un nuevo informe. Ver
+14 de Ago. de 2007 43ª / 355 Primer trámite constitucional / Senado Por acuerdo de Comités, ratificado por la Sala, a este proyecto se le cambia la tramitación dada el 12 de abril de 2005 y queda para tabla. Ver
+04 de Sep. de 2007 47ª / 355 Primer trámite constitucional / Senado Discusión general Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3785-04","Fecha Etapa Informe Documento
+23 de Mar. de 2005 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3785-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3785-04","Nombre
+Mariano Ruiz-Esquide Jara","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3785-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3785-04","No record","Veto emmEnd"

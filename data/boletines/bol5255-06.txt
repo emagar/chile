@@ -1,0 +1,34 @@
+* * Bill summary * *
+"emmStart Summary 5255-06","Legislatura: 355
+Fecha de ingreso: lunes 13 de agosto de 2007
+Estado: Primer trámite constitucional .
+Numero de boletín: 5255-06
+Materia: Candidatos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 02:26:57
+* * Hitos de tramitación * *
+"emmStart Hitos 5255-06","Fecha Sesión Etapa Sub-etapa Documento
+13 de Ago. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Ago. de 2007 63ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5255-06","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5255-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5255-06","Nombre Región Distrito Partido
+Gabriel Ascencio Mansilla X Región de los Lagos N°58 Partido Demócrata Cristiano
+Juan Bustos Ramírez V Región de Valparaíso N°12 Partido Socialista
+Guillermo Ceroni Fuentes VII Región del Maule N°40 Partido Por la Democracia
+Marcelo Díaz Díaz IV Región de Coquimbo N°7 Partido Socialista
+Edmundo Eluchans Urenda V Región de Valparaíso N°15 Unión Demócrata Independiente
+Osvaldo Palma Flores VII Región del Maule N°39 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5255-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5255-06","No record","Veto emmEnd"

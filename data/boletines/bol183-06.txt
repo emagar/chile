@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 183-06","Legislatura: 321
+Fecha de ingreso: martes 16 de octubre de 1990
+Estado: Tramitación terminada (Ley Nº 19.088 - D.Oficial 19/10/1991)
+Numero de boletín: 183-06
+Materia: Ministros De Fe
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 06:55:05
+* * Hitos de tramitación * *
+"emmStart Hitos 183-06","Fecha Sesión Etapa Sub-etapa Documento
+16 de Oct. de 1990 6ª / 321 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+16 de Oct. de 1990   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+08 de May. de 1991 49ª / 321 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a la Comisión de Gobierno, Descentralización y Regionalización.
+05 de Jun. de 1991   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+06 de Jun. de 1991 3ª / 322 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Jun. de 1991 5ª / 322 Segundo trámite constitucional / Senado Se remite el proyecto a la Comisión de Constitución, Legislación, Justicia y Reglamento. Ver
+06 de Ago. de 1991 23ª / 322 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+08 de Ago. de 1991 25ª / 322 Segundo trámite constitucional / Senado Discusión general Ver
+09 de Ago. de 1991   Segundo trámite constitucional / Senado Oficio Nº1507. comunica aprobación con modificaciones a Cámara de origen Ver
+20 de Ago. de 1991 29ª / 322 Comisión Mixta por rechazo de modificaciones / Senado Cuenta oficio integrantes de Comisión Mixta. Se designan a los integrantes de la Comisión Mixta.
+05 de Sep. de 1991   Comisión Mixta por rechazo de modificaciones / Senado Informe de Comisión Mixta Ver
+03 de Oct. de 1991 2ª / 323 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Discusión informe de Comisión Mixta
+03 de Oct. de 1991   Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Oficio Nº1618. comunica aprobación informe de Comisión Mixta a Cámara de origen Ver
+03 de Oct. de 1991 2ª / 323 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación de informe de Comisión Mixta Ver
+03 de Oct. de 1991   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 183-06","Fecha Etapa Informe Documento
+05 de Sep. de 1991 Comisión Mixta por rechazo de modificaciones Senado Informe de Comisión Mixta de Gobierno, Descentralización y Regionalización Ver
+25 de Jul. de 1991 Segundo trámite constitucional Senado Nuevo primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+05 de Jun. de 1991 Segundo trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 183-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 183-06","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 183-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 183-06","No record","Veto emmEnd"

@@ -1,0 +1,50 @@
+* * Bill summary * *
+"emmStart Summary 3814-03","Legislatura: 352
+Fecha de ingreso: miércoles 23 de marzo de 2005
+Estado: Segundo trámite constitucional .
+Numero de boletín: 3814-03
+Materia: Creditos,Fundamentación De Negativa De Crédito,Datos Personales
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 17:45:25
+* * Hitos de tramitación * *
+"emmStart Hitos 3814-03","Fecha Sesión Etapa Sub-etapa Documento
+23 de Mar. de 2005   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+23 de Mar. de 2005 55ª / 352 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+02 de May. de 2006 17ª / 354 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+02 de May. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+04 de Jul. de 2006 43ª / 354 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+01 de Ago. de 2006 53ª / 354 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+01 de Ago. de 2006   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+03 de Ago. de 2006 57ª / 354 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver
+03 de Ago. de 2006   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+09 de Ago. de 2006 42ª / 354 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Economía y por acuerdo de la Sala, posteriormente pasará a la Comisión de Hacienda. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3814-03","Fecha Etapa Informe Documento
+01 de Ago. de 2006 Primer trámite constitucional C.Diputados Segundo informe de comisión de Economía, Fomento y Desarrollo Ver
+02 de May. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3814-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3814-03","Nombre Región Distrito Partido
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Eliana Caraball Martínez RM Región Metropolitana N°27 Partido Demócrata Cristiano
+Pablo Lorenzini Basso VII Región del Maule N°38 Partido Demócrata Cristiano
+María Eugenia Mella Gajardo V Región de Valparaíso N°10 Partido Demócrata Cristiano
+Waldo Mora Longa II Región de Antofagasta N°3 Partido Demócrata Cristiano
+José Miguel Ortiz Novoa VIII Región del Bío Bío N°44 Partido Demócrata Cristiano
+Edgardo Riveros Marín RM Región Metropolitana N°30 Partido Demócrata Cristiano
+Eduardo Saffirio Suárez IX Región de la Araucanía N°50 Partido Demócrata Cristiano
+Exequiel Silva Ortíz X Región de los Lagos N°53 Partido Demócrata Cristiano
+Patricio Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3814-03","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+43   57 38 4 0 Aprobado Sala Ver detalle votación
+57 Texto contenido en el segundo informe de la Comisión de Economía. 51 40 1 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3814-03","No record","Veto emmEnd"

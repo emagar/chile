@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 2948-07","Legislatura: 347
+Fecha de ingreso: martes 04 de junio de 2002
+Estado: Tramitación terminada (Ley Nº 19.814 - D.Oficial 15/07/2002)
+Numero de boletín: 2948-07
+Materia: Alcoholes,Bebidas Alcoholicas
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 03-11-2014 18:33:37
+* * Hitos de tramitación * *
+"emmStart Hitos 2948-07","Fecha Sesión Etapa Sub-etapa Documento
+04 de Jun. de 2002   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+04 de Jun. de 2002 3ª / 347 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+04 de Jun. de 2002   Primer trámite constitucional / Senado Oficio a Corte Suprema Ver
+04 de Jun. de 2002   Primer trámite constitucional / Senado Primer informe de comisión Ver
+05 de Jun. de 2002 4ª / 347 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+11 de Jun. de 2002 5ª / 347 Primer trámite constitucional / Senado Cuenta de oficio Nº 1350, de la Corte Suprema, en el que emite su opinión sobre el proyecto. Ver
+11 de Jun. de 2002 5ª / 347 Primer trámite constitucional / Senado Discusión general Ver
+11 de Jun. de 2002   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+12 de Jun. de 2002 6ª / 347 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+12 de Jun. de 2002 6ª / 347 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+12 de Jun. de 2002   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+12 de Jun. de 2002 6ª / 347 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+12 de Jun. de 2002   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo. oficio de consulta para ejercer facultad de veto
+18 de Jun. de 2002 7ª / 347 Trámite finalización en Cámara de Origen / Senado Cuenta del Oficio Nº 65-347 de SE: el Presidente de la república, en el que comunica que no hará uso de la facultad del art. 70 de la Constitución. Ver
+02 de Jul. de 2002 10ª / 347 Trámite finalización en Cámara de Origen / Senado Cuenta del Oficio Nº 1.760, del Tribunal Constitucional, con el que remite copia de sentencia Ver
+02 de Jul. de 2002   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2948-07","Fecha Etapa Informe Documento
+04 de Jun. de 2002 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2948-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2948-07","Nombre
+Andrés Chadwick Piñera
+Juan Antonio Coloma Correa","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2948-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+6 Todos menos los Nros. 1,2 y 5 del artículo 1º y los artículos 2º, 3º y 5º 98 1 1 0   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2948-07","No record","Veto emmEnd"

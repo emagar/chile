@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 5214-12","Legislatura: 355
+Fecha de ingreso: jueves 19 de julio de 2007
+Estado: Archivado .
+Numero de boletín: 5214-12
+Materia: Análisis Del Impacto Ambiental,Medio Ambiente
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 01:57:08
+* * Hitos de tramitación * *
+"emmStart Hitos 5214-12","Fecha Sesión Etapa Sub-etapa Documento
+19 de Jul. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+19 de Jul. de 2007 55ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver
+02 de Ene. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+04 de Mar. de 2008 137ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+15 de May. de 2008 30ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+15 de May. de 2008   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+20 de May. de 2008 22ª / 356 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Medio Ambiente y Bienes Nacionales Ver
+05 de May. de 2010   Segundo trámite constitucional / Senado Oficio N°270/SEC/10. Solicita acuerdo de la Cámara de Diputados para proceder al archivo de la iniciativa. Ver
+11 de May. de 2010 16ª / 358 Segundo trámite constitucional / Senado Archivado Cámara de Diputados acepta el archivo.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5214-12","Fecha Etapa Informe Documento
+02 de Ene. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5214-12","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5214-12","Nombre Región Distrito Partido
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Alejandro García-Huidobro Sanfuentes VI Región del Libertador Bernardo O' Higgins N°32 Unión Demócrata Independiente
+Roberto León Ramírez VII Región del Maule N°36 Partido Demócrata Cristiano
+Osvaldo Palma Flores VII Región del Maule N°39 Renovación Nacional
+Denise Pascal Allende RM Región Metropolitana N°31 Partido Socialista
+Eduardo Saffirio Suárez IX Región de la Araucanía N°50 Partido Demócrata Cristiano
+Patricio Vallespín López X Región de los Lagos N°57 Partido Demócrata Cristiano
+Mario Venegas Cárdenas IX Región de la Araucanía N°48 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5214-12","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+30   56 0 1 0 Aprobado Sala Ver detalle votación
+59 Votación General 8 0 0 5   Recursos Naturales Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5214-12","No record","Veto emmEnd"

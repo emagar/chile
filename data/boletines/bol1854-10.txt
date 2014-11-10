@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 1854-10","Legislatura: 332
+Fecha de ingreso: martes 07 de mayo de 1996
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 1854-10
+Materia: Acuerdos Internacionales
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 15:34:41
+* * Hitos de tramitación * *
+"emmStart Hitos 1854-10","Fecha Sesión Etapa Sub-etapa Documento
+07 de May. de 1996   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+07 de May. de 1996 56ª / 332 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+09 de Jul. de 1997   Primer trámite constitucional / Senado Primer informe de comisión Ver
+09 de Jul. de 1997 14ª / 335 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Jul. de 1997 15ª / 335 Primer trámite constitucional / Senado Discusión general Ver
+10 de Jul. de 1997   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+16 de Jul. de 1997 21ª / 335 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+22 de Jul. de 1997   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Ago. de 1997 27ª / 335 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+02 de Sep. de 1997 37ª / 335 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+02 de Sep. de 1997   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+09 de Sep. de 1997 32ª / 335 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+09 de Sep. de 1997   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1854-10","Fecha Etapa Informe Documento
+22 de Jul. de 1997 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+09 de Jul. de 1997 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1854-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+07 de May. de 1996 16 de Sep. de 1998 Sin urgencia   CADUCADO","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1854-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1854-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1854-10","No record","Veto emmEnd"

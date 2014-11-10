@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 3269-07","Legislatura: 349
+Fecha de ingreso: martes 01 de julio de 2003
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 3269-07
+Materia: Drogas Y Estupefacientes
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 04-11-2014 00:58:17
+* * Hitos de tramitación * *
+"emmStart Hitos 3269-07","Fecha Sesión Etapa Sub-etapa Documento
+01 de Jul. de 2003   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+01 de Jul. de 2003 7ª / 349 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+10 de Ago. de 2004   Primer trámite constitucional / Senado Primer informe de comisión Ver
+11 de Ago. de 2004 20ª / 351 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+14 de Sep. de 2004   Primer trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 352
+04 de Ene. de 2005 23ª / 352 Primer trámite constitucional / Senado Discusión general Ver
+11 de Ene. de 2005 26ª / 352 Primer trámite constitucional / Senado Discusión general Ver
+19 de Ene. de 2005 30ª / 352 Primer trámite constitucional / Senado Discusión general Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3269-07","Fecha Etapa Informe Documento
+10 de Ago. de 2004 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3269-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3269-07","Nombre
+Nelson Ávila Contreras","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3269-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3269-07","No record","Veto emmEnd"

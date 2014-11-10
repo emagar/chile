@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 2234-04","Legislatura: 338
+Fecha de ingreso: martes 08 de septiembre de 1998
+Estado: Archivado .
+Numero de boletín: 2234-04
+Materia: Emblemas Nacionales
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 22:22:03
+* * Hitos de tramitación * *
+"emmStart Hitos 2234-04","Fecha Sesión Etapa Sub-etapa Documento
+08 de Sep. de 1998   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+08 de Sep. de 1998 32ª / 338 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+16 de Jul. de 2001   Primer trámite constitucional / C. Diputados Oficio Nº 23 de Comisión de Educación. Solicita archivo. Ver
+19 de Jul. de 2001 19ª / 344 Primer trámite constitucional / C. Diputados Cuenta oficio de Comisión de Educación, solicita archivo proyecto. Queda en Tabla. Ver
+19 de Jul. de 2005   Primer trámite constitucional / C. Diputados Oficio Nº 5726 a Comisión de Educación, comunica accede a archivo solicitado Ver
+19 de Jul. de 2005 20ª / 353 Primer trámite constitucional / C. Diputados Cuenta Oficio Comisión de Educación, solicita archivo de proyecto. En tabla, se accede al archivo solicitado Ver
+19 de Jul. de 2005   Primer trámite constitucional / C. Diputados Archivado","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2234-04","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2234-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2234-04","Nombre Región Distrito Partido
+Nelson Avila Contreras V Región de Valparaíso N°11 Partido Por la Democracia
+Homero Gutiérrez Román VII Región del Maule N°37 Partido Demócrata Cristiano
+Enrique Krauss Rusque RM Región Metropolitana N°22 Partido Demócrata Cristiano
+Rosauro Martínez Labbé VIII Región del Bío Bío N°41 Independientes
+José Pérez Arriagada VIII Región del Bío Bío N°47 Partido Radical Social Demócrata
+Jorge Ulloa Aguillón VIII Región del Bío Bío N°43 Unión Demócrata Independiente
+Felipe Valenzuela Herrera II Región de Antofagasta N°4 Partido Socialista
+Sergio Velasco De la Cerda V Región de Valparaíso N°15 Partido Demócrata Cristiano
+Edmundo Villouta Concha IX Región de la Araucanía N°48 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2234-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2234-04","No record","Veto emmEnd"

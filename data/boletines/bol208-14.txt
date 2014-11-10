@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 208-14","Legislatura: 321
+Fecha de ingreso: jueves 29 de noviembre de 1990
+Estado: Tramitación terminada (Ley Nº 19.063 - D.Oficial 01/07/1991)
+Numero de boletín: 208-14
+Materia: Ministerios
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 07:33:26
+* * Hitos de tramitación * *
+"emmStart Hitos 208-14","Fecha Sesión Etapa Sub-etapa Documento
+29 de Nov. de 1990 16ª / 321 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+29 de Nov. de 1990   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+19 de Dic. de 1990   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+19 de Mar. de 1991 38ª / 321 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a la Comisión de Vivienda y Urbanismo, y a la de Hacienda, en su caso.
+18 de Abr. de 1991   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+17 de May. de 1991   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+06 de Jun. de 1991 3ª / 322 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Jun. de 1991 5ª / 322 Segundo trámite constitucional / Senado Discusión general Ver
+13 de Jun. de 1991   Tramitación terminada / Oficio Nº1189. comunica aprobación sin modificaciones a Cámara de origen Ver
+18 de Jun. de 1991 8ª / 322 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+29 de Abr. de 2003   Trámite finalización en Cámara de Origen / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 348","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 208-14","Fecha Etapa Informe Documento
+17 de May. de 1991 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+18 de Abr. de 1991 Segundo trámite constitucional Senado Primer informe de comisión de Vivienda y Urbanismo Ver
+19 de Dic. de 1990 Primer trámite constitucional C.Diputados Primer informe de comisión de Vivienda y Desarrollo Urbano Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 208-14","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 208-14","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 208-14","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 208-14","No record","Veto emmEnd"

@@ -1,0 +1,62 @@
+* * Bill summary * *
+"emmStart Summary 3993-05","Legislatura: 353
+Fecha de ingreso: martes 04 de octubre de 2005
+Estado: Tramitación terminada (Ley Nº 20.083 - D.Oficial 29/11/2005)
+Numero de boletín: 3993-05
+Materia: Presupuesto Sector Público
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 07:39:41
+* * Hitos de tramitación * *
+"emmStart Hitos 3993-05","Fecha Sesión Etapa Sub-etapa Documento
+04 de Oct. de 2005   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Oct. de 2005 46ª / 353 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión Especial Mixta de Presupuesto Ver
+02 de Nov. de 2005 55ª / 353 Discusión Ley de Presupuesto en Cámara de Origen / C. Diputados Cuenta informe Comisión Mixta Ver
+02 de Nov. de 2005 55ª / 353 Discusión Ley de Presupuesto en Cámara de Origen / C. Diputados Discusión informe de Comisión Mixta Ver
+02 de Nov. de 2005   Discusión Ley de Presupuesto en Cámara de Origen / C. Diputados Oficio de ley a Cámara Revisora Ver
+08 de Nov. de 2005 46ª / 353 Discusión Ley de Presupuesto en Cámara Revisora / Senado Cuenta de proyecto, con informe de la Comisión Especial de Presupuesto
+08 de Nov. de 2005 46ª / 353 Discusión Ley de Presupuesto en Cámara Revisora / Senado Discusión informe de Comisión Mixta
+08 de Nov. de 2005   Discusión Ley de Presupuesto en Cámara Revisora / Senado Oficio modificaciones a Cámara de Origen Ver
+08 de Nov. de 2005 57ª / 353 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+08 de Nov. de 2005 57ª / 353 Tercer trámite constitucional / C. Diputados Discusión única Ver
+08 de Nov. de 2005   Tercer trámite constitucional / C. Diputados Oficio Nº 5929, que comunica aprobación de modificaciones Ver
+08 de Nov. de 2005   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+13 de Dic. de 2005 48ª / 353 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 5929, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3993-05","Fecha Etapa Informe Documento
+27 de Oct. de 2005 Primer trámite constitucional Senado Primer informe de comisión Especial Mixta de Presupuestos Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3993-05","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3993-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3993-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+55 Indicación Nº17, de los Diputados Alvarado, Álvarez, Dittborn y Forni, a la Partida 50, Capítulo 01, Programa 02, para suprimir la Glosa 06. 42 46 0 1 Rechazado Sala Ver detalle votación
+55 Indicación Nº19, de los Diputados Alvarado, Álvarez, Dittborn y Forni, a la Partida 50, Capítulo 01, Programa 03, para agregar el siguiente inciso final a la glosa 19 del programa denominado ""Programa contingencia contra el desempleo"", Subtítulo 24, Item 03, Sub item 120: ""La Dirección de Presupuestos informará trimestralmente a la Comisión de Hacienda de la Cámara de Diputados la distribución por comuna y por región de los recursos asignados en virtud de los programas de empleo con apoyo fiscal. Asimismo, informará a la misma Comisión el número de empleos directos creados por la aplicación de los programas. Finalmente, publicará toda la información estadística relevante acerca de todos los programas antes mencionados. Con todo, antes del mes de septiembre de cada año deberán informarse a la Comisión Permanente de Presupuestos los programas a que se refiere esta glosa."". 46 45 0 1 Aprobado Sala Ver detalle votación
+55 Indicación Nº1, de los Diputados Alvarado, Álvarez, Dittborn y Forni, a la Partida 01, Capítulo 01, Programa 01, para suprimir la glosa 01. 44 51 2 0 Rechazado Sala Ver detalle votación
+55 Resto de la Partida 01. 84 0 0 4 Aprobado Sala Ver detalle votación
+55 Indicación Nº3, de los Diputados Alvarado, Álvarez, Dittborn y Forni, a la Partida 05, Capítulo 05, Programa 01, para agregar al subtítulo 33, la glosa Nº21 siguiente: ""Los recursos del Fondo Nacional de Desarrollo Regional no podrán ser utilizados para viáticos, gastos de representación, o traslado. En consecuencia, estos gastos deberán atenerse a los límites establecidos en la glosa correspondiente a cada uno de los gobiernos regionales."" 48 50 1 0 Rechazado Sala Ver detalle votación
+55 Números 26 y 27 de la indicación Nº4, de los Diputados Alvarado, Álvarez, Dittborn y Forni, a la Partida 05, glosa 02. 86 4 2 2 Aprobado Sala Ver detalle votación
+55 Resto de la Partida 05. 91 0 0 2 Aprobado Sala Ver detalle votación
+55 Partida 08. 92 2 0 0 Aprobado Sala Ver detalle votación
+55 Indicación Nº7, de los Diputados Alvarado, Álvarez, Dittborn y Forni, a la Partida 09, Capítulo 01, Programa 11, glosa 02, para agregar la siguiente oración: ""Antes del mes de septiembre de cada año deberán informarse a la Comisión Permanente de Presupuestos los programas que se financian con cargo a esta asignación, los montos destinados a cada uno de ellos, sus objetivos, beneficiarios y los procesos de evaluación periódica que se lleven a cabo para analizar su impacto."" 85 7 1 2 Aprobado Sala Ver detalle votación
+55 Resto de la Partida 09. 94 0 0 0 Aprobado Sala Ver detalle votación
+55 Resto de la Partida 11. 80 0 0 0 Aprobado Sala Ver detalle votación
+55 Partida 12. 85 0 0 4 Aprobado Sala Ver detalle votación
+55 Partida 13. 77 0 5 5 Aprobado Sala Ver detalle votación
+55 Resto de la Partida 50. 83 0 0 1 Aprobado Sala Ver detalle votación
+55 Indicación Nº9, del Presidente de la República, a la Partida 09, Capítulo 01, Programa 30, glosa 04, letra c), para sustituir la frase ""que se asignarán a estudiantes que se matriculen en carreras técnicas de nivel superior, en las áreas prioritarias que determine el reglamento, en instituciones de educación superior oficialmente reconocidas por el Estado"", por ""que se asignarán a estudiantes que se matriculen en carreras técnicas y profesionales de nivel superior, en las áreas prioritarias que determine el reglamento, en instituciones de educación superior oficialmente reconocidas por el Estado. Para las carreras profesionales, éstas deberán estar acreditadas y ser impartidas por institutos profesionales."" 86 0 1 3 Aprobado Sala Ver detalle votación
+55 Indicación Nº10, del Presidente de la República, a la Partida 09, Capítulo 01, Programa 30, Glosa 4, penúltimo párrafo, para sustituir la frase ""Tratándose de los estudiantes de primer año que postulen a las becas de la letra c), ellos deberán haber obtenido un promedio de notas de educación media igual o superior a cinco"" por la frase ""Tratándose de los estudiantes de primer año que postulen a la beca de la letra c), en el caso de las carreras técnicas de nivel superior, ellos deberán haber obtenido un promedio de notas de educación media igual o superior a 5,0 y, para las carreras profesionales un promedio de notas de educación media igual o superior a 5,5."" 82 4 1 3 Aprobado Sala Ver detalle votación
+55 Indicación Nº11, del Presidente de la República, a la Partida 11, Capítulo 02, Programa 01, en el Subtítulo 15 Saldo Inicial de Caja sustituir la cantidad de ""12.945"" por ""50.945""; en el Subtítulo 22 Bienes y Servicios de Consumo sustituir la cantidad de ""2.910.156"" por ""2.948.156"", y como consecuencia de esta indicación cabe entender modificados los rubros superiores de agregación. 92 1 0 1 Aprobado Sala Ver detalle votación
+55 Partida 16. 84 0 0 2 Aprobado Sala Ver detalle votación
+55 Indicación Nº18, de los Diputados Alvarado, Álvarez, Dittborn y Forni, a la Partida 50, Capítulo 01, Programa 02, para eliminar la glosa 11. 44 41 2 0 Aprobado Sala Ver detalle votación
+55 Indicación Nº19, de los Diputados Alvarado, Álvarez, Dittborn y Forni, a la Partida 50, Capítulo 01, Programa 03, para agregar el siguiente inciso final a la glosa 19 del programa denominado ""Programa contingencia contra el desempleo"", Subtítulo 24, Item 03, Sub item 120: ""La Dirección de Presupuestos informará trimestralmente a la Comisión de Hacienda de la Cámara de Diputados la distribución por comuna y por región de los recursos asignados en virtud de los programas de empleo con apoyo fiscal. Asimismo, informará a la misma Comisión el número de empleos directos creados por la aplicación de los programas. Finalmente, publicará toda la información estadística relevante acerca de todos los programas antes mencionados. Con todo, antes del mes de septiembre de cada año deberán informarse a la Comisión Permanente de Presupuestos los programas a que se refiere esta glosa."". 45 45 0 1 Empate Sala Ver detalle votación
+55   101 0 0 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3993-05","No record","Veto emmEnd"

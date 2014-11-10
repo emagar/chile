@@ -1,0 +1,58 @@
+* * Bill summary * *
+"emmStart Summary 1656-13","Legislatura: 331
+Fecha de ingreso: miércoles 19 de julio de 1995
+Estado: Segundo trámite constitucional .
+Numero de boletín: 1656-13
+Materia: Administradoras De Fondos De Pensiones,Pensiones,Sistemas De Pensiones
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 11:57:10
+* * Hitos de tramitación * *
+"emmStart Hitos 1656-13","Fecha Sesión Etapa Sub-etapa Documento
+19 de Jul. de 1995   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+19 de Jul. de 1995 19ª / 331 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social
+03 de Oct. de 1995 1ª / 332 Primer trámite constitucional / Senado Presidente incluye proyecto en convocatoria a actual legislatura extraordinaria
+10 de Oct. de 1995 4ª / 332 Primer trámite constitucional / Senado Cambio en Providencia Comisiones: : C. De Trabajo y Pr: C. De Hacienda
+16 de Oct. de 1995   Primer trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+01 de Oct. de 1996 1ª / 334 Primer trámite constitucional / Senado Presidente incluye proyecto en convocatoria a actual legislatura extraordinaria
+29 de Oct. de 1996   Primer trámite constitucional / Senado Primer informe de comisión Ver
+29 de Oct. de 1996 5ª / 334 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+05 de Nov. de 1996 7ª / 334 Primer trámite constitucional / Senado Discusión General pendiente Ver
+06 de Nov. de 1996 8ª / 334 Primer trámite constitucional / Senado Discusión general Ver
+06 de Nov. de 1996 8ª / 334 Primer trámite constitucional / Senado Boletín de indicaciones
+14 de Ene. de 1997   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+15 de Ene. de 1997 25ª / 334 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+21 de Ene. de 1997 27ª / 334 Primer trámite constitucional / Senado Discusión particular Ver
+22 de Ene. de 1997   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+23 de Ene. de 1997 44ª / 334 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+30 de Sep. de 1997 1ª / 336 Segundo trámite constitucional / C. Diputados Presidente incluye proyecto en convocatoria a actual legislatura extraordinaria Ver
+17 de Mar. de 1998   Segundo trámite constitucional / C. Diputados S.E. el Pdte. de la República incluye el proyecto en la Legislatura Extraordinaria 337
+06 de Oct. de 1998   Segundo trámite constitucional / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 339
+05 de Oct. de 1999   Segundo trámite constitucional / C. Diputados S.E.El Presidente de la Republica incluye el proyecto en la Convocatoria Extraodinaria 341","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1656-13","Fecha Etapa Informe Documento
+14 de Ene. de 1997 Primer trámite constitucional Senado Segundo informe de comisión de Trabajo y Previsión Social Ver
+29 de Oct. de 1996 Primer trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+16 de Oct. de 1995 Primer trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1656-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+06 de Jun. de 2000   Simple 11-342  
+19 de Oct. de 1999 14 de Dic. de 1999 Simple 71-341 235-341
+06 de Oct. de 1999 15 de Oct. de 1999 Suma 42-341 70-341
+14 de Jul. de 1998 04 de Ago. de 1998 Simple 59-338 91-338
+08 de Jul. de 1997 22 de Jul. de 1997 Simple 107-335 131-335
+01 de Jul. de 1997 08 de Jul. de 1997 Suma 81-335 107-335
+09 de Abr. de 1997 29 de Abr. de 1997 Simple 329-334 365-334
+06 de Dic. de 1995 16 de Dic. de 1995 Suma 57890-329 CADUCADA","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1656-13","Nombre
+Ministerio de Trabajo y Previsión Social","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1656-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1656-13","No record","Veto emmEnd"

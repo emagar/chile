@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 5-15","Legislatura: 319
+Fecha de ingreso: martes 20 de marzo de 1990
+Estado: Tramitación terminada (Ley Nº 18.976 - D.Oficial 30/03/1990)
+Numero de boletín: 5-15
+Materia: Seguros
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 30-10-2014 12:48:38
+* * Hitos de tramitación * *
+"emmStart Hitos 5-15","Fecha Sesión Etapa Sub-etapa Documento
+20 de Mar. de 1990 2ª / 319 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+20 de Mar. de 1990 2ª / 319 Primer trámite constitucional / C. Diputados Discusión general Ver
+20 de Mar. de 1990 2ª / 319 Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+20 de Mar. de 1990   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+20 de Mar. de 1990   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de Mar. de 1990 2ª / 319 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+21 de Mar. de 1990 2ª / 319 Segundo trámite constitucional / Senado Cuenta de proyecto
+21 de Mar. de 1990 2ª / 319 Segundo trámite constitucional / Senado Discusión única
+21 de Mar. de 1990   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+21 de Mar. de 1990 3ª / 319 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+21 de Mar. de 1990 3ª / 319 Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5-15","Fecha Etapa Informe Documento
+20 de Mar. de 1990 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5-15","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5-15","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5-15","No record","Veto emmEnd"

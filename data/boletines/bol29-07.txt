@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 29-07","Legislatura: 319
+Fecha de ingreso: martes 24 de abril de 1990
+Estado: Tramitación terminada (Ley Nº 18.994 - D.Oficial 20/08/1990)
+Numero de boletín: 29-07
+Materia: Oficina Nacional De Retorno
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 30-10-2014 15:43:48
+* * Hitos de tramitación * *
+"emmStart Hitos 29-07","Fecha Sesión Etapa Sub-etapa Documento
+24 de Abr. de 1990   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+24 de Abr. de 1990 11ª / 319 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+30 de May. de 1990   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+19 de Jun. de 1990 8ª / 320 Primer trámite constitucional / C. Diputados Primer informe de comisión Ver Ver
+19 de Jun. de 1990 8ª / 320 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+19 de Jun. de 1990 8ª / 320 Primer trámite constitucional / C. Diputados Discusión general Ver
+20 de Jun. de 1990 11ª / 320 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía
+20 de Jun. de 1990 8ª / 320 Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+20 de Jul. de 1990 19ª / 320 Segundo trámite constitucional / Senado Primer informe de comisión Ver
+24 de Jul. de 1990 19ª / 320 Segundo trámite constitucional / Senado Primer informe de comisión Ver
+25 de Jul. de 1990 19ª / 320 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+31 de Jul. de 1990 20ª / 320 Segundo trámite constitucional / Senado Discusión general Ver
+31 de Jul. de 1990   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+07 de Ago. de 1990 22ª / 320 Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver Ver
+07 de Ago. de 1990 22ª / 320 Tercer trámite constitucional / C. Diputados Discusión única Ver
+07 de Ago. de 1990 22ª / 320 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 29-07","Fecha Etapa Informe Documento
+24 de Jul. de 1990 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+20 de Jul. de 1990 Segundo trámite constitucional Senado Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+19 de Jun. de 1990 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+30 de May. de 1990 Primer trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 29-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 29-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 29-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 29-07","No record","Veto emmEnd"

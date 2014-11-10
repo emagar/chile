@@ -1,0 +1,52 @@
+* * Bill summary * *
+"emmStart Summary 2040-17","Legislatura: 335
+Fecha de ingreso: jueves 12 de junio de 1997
+Estado: Tramitación terminada (Ley Nº 19.682 - D.Oficial 21/06/2000)
+Numero de boletín: 2040-17
+Materia: Nacionalización
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 17:59:20
+* * Hitos de tramitación * *
+"emmStart Hitos 2040-17","Fecha Sesión Etapa Sub-etapa Documento
+12 de Jun. de 1997   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Jun. de 1997 8ª / 335 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+10 de Jun. de 1998   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+16 de Jun. de 1998 8ª / 338 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+17 de Jun. de 1998 9ª / 338 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+17 de Jun. de 1998   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+30 de Jun. de 1998 9ª / 338 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía
+02 de May. de 2000 32ª / 341 Segundo trámite constitucional / Senado Cuenta de un oficio de S.E. el Presidente de la república, en el cual incluye el proyecto en la convocatoria a Legislatura Extraordinaria 341
+12 de May. de 2000   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+16 de May. de 2000 36ª / 341 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+16 de May. de 2000 36ª / 341 Segundo trámite constitucional / Senado Discusión general Ver
+17 de May. de 2000   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+19 de May. de 2000   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+06 de Jun. de 2000 1ª / 342 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2040-17","Fecha Etapa Informe Documento
+12 de May. de 2000 Segundo trámite constitucional Senado Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+10 de Jun. de 1998 Primer trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2040-17","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2040-17","Nombre Región Distrito Partido
+Andrés Chadwick Piñera Región N°33 Unión Demócrata Independiente
+Juan Antonio Coloma Correa Región N°31 Unión Demócrata Independiente
+Maximiano Errázuriz Eguiguren Región N° Renovación Nacional
+Alberto Espina Otero Región N°21 Renovación Nacional
+Alejandro García-Huidobro Sanfuentes Región N° Unión de Centro Progresista
+José María Hurtado Ruiz-Tagle Región N°35 Renovación Nacional
+Vicente Karelovic Vrandecic Región N° Independientes
+Juan Pablo Letelier Morel Región N°33 Partido Socialista
+Evelyn Matthei Fornet Región N°23 Unión Demócrata Independiente
+Aníbal Pérez Lobos Región N° Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2040-17","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2040-17","No record","Veto emmEnd"

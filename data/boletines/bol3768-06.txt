@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 3768-06","Legislatura: 352
+Fecha de ingreso: miércoles 15 de diciembre de 2004
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 3768-06
+Materia: Municipios
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 04-11-2014 11:02:19
+* * Hitos de tramitación * *
+"emmStart Hitos 3768-06","Fecha Sesión Etapa Sub-etapa Documento
+15 de Dic. de 2004   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+15 de Dic. de 2004 22ª / 352 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización y a Comisión de Hacienda
+24 de Ene. de 2005   Primer trámite constitucional / Senado Primer informe de comisión Ver
+02 de Mar. de 2005 32ª / 352 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+15 de Mar. de 2005 36ª / 352 Primer trámite constitucional / Senado Discusión general. Se acuerda volverlo a Comisión para discusión general y particular, en primer informe. Ver
+08 de Jul. de 2008 34ª / 356 Primer trámite constitucional / Senado Cuenta del Mensaje 509-356 que hace presente la urgencia Suma
+11 de Jul. de 2008   Primer trámite constitucional / Senado Nuevo primer informe de comisión Ver
+15 de Jul. de 2008 36ª / 356 Primer trámite constitucional / Senado Cuenta nuevo primer informe
+29 de Jul. de 2008 38ª / 356 Primer trámite constitucional / Senado Cuenta del Mensaje 552-356 que retira y hace presente la urgencia Suma
+29 de Jul. de 2008 38ª / 356 Primer trámite constitucional / Senado Cuenta del Mensaje 610-356 que retira la urgencia Suma
+29 de Jul. de 2008 38ª / 356 Primer trámite constitucional / Senado Por acuerdo de Comités, ratificado por la Sala, este proyecto será tratado en la semana próxima. Ver
+05 de Ago. de 2008 41ª / 356 Primer trámite constitucional / Senado Por acuerdo de Comités, se decide poner esta iniciativa en la Tabla de la sesión del día miércoles 6 de agosto de 2008. Ver
+06 de Ago. de 2008 42ª / 356 Primer trámite constitucional / Senado Discusión general. Queda pendiente El Comité Partido Demócrata Cristiano solicitó segunda discusión. Ver
+12 de Ago. de 2008 43ª / 356 Primer trámite constitucional / Senado Discusión general Ver
+13 de Ago. de 2008   Primer trámite constitucional / Senado Oficio rechazo al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3768-06","Fecha Etapa Informe Documento
+11 de Jul. de 2008 Primer trámite constitucional Senado Nuevo primer informe de comisión de Gobierno, Descentralización y Regionalización Ver
+24 de Ene. de 2005 Primer trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3768-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+29 de Jul. de 2008 29 de Jul. de 2008 Suma 552-356 610-356
+08 de Jul. de 2008 24 de Jul. de 2008 Suma 509-356 552-356","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3768-06","Nombre
+Ministerio de Hacienda
+Ministerio de Interior y Seguridad Públi","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3768-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3768-06","No record","Veto emmEnd"

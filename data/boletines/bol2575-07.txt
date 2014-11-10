@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 2575-07","Legislatura: 342
+Fecha de ingreso: miércoles 30 de agosto de 2000
+Estado: Tramitación terminada (Ley Nº 19.730 - D.Oficial 01/06/2001)
+Numero de boletín: 2575-07
+Materia: Multas,Técnica Legislativa
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 06:31:13
+* * Hitos de tramitación * *
+"emmStart Hitos 2575-07","Fecha Sesión Etapa Sub-etapa Documento
+30 de Ago. de 2000 31ª / 342 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+30 de Ago. de 2000   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Sep. de 2000 37ª / 342 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+12 de Sep. de 2000   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Nov. de 2000 14ª / 343 Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver Ver
+09 de Nov. de 2000 14ª / 343 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+14 de Nov. de 2000 10ª / 343 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+18 de Abr. de 2001   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+18 de Abr. de 2001 39ª / 343 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+08 de May. de 2001 42ª / 343 Segundo trámite constitucional / Senado Discusión general Ver
+09 de May. de 2001   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+10 de May. de 2001 62ª / 343 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+10 de May. de 2001   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2575-07","Fecha Etapa Informe Documento
+18 de Abr. de 2001 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+12 de Sep. de 2000 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2575-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2575-07","Nombre Región Distrito Partido
+Sergio Elgueta Barrientos X Región de los Lagos N°57 Partido Demócrata Cristiano
+Homero Gutiérrez Román VII Región del Maule N°37 Partido Demócrata Cristiano
+Baldo Prokurica Prokurica III Región de Atacama N°6 Renovación Nacional
+Víctor Reyes Alvarado X Región de los Lagos N°56 Partido Demócrata Cristiano
+Exequiel Silva Ortíz X Región de los Lagos N°53 Partido Demócrata Cristiano
+Edmundo Villouta Concha IX Región de la Araucanía N°48 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2575-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2575-07","No record","Veto emmEnd"

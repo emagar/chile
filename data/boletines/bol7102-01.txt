@@ -1,0 +1,84 @@
+* * Bill summary * *
+"emmStart Summary 7102-01","Legislatura: 358
+Fecha de ingreso: miércoles 04 de agosto de 2010
+Estado: Tramitación terminada (Ley Nº 20.488 - D.Oficial 03/01/2011)
+Numero de boletín: 7102-01
+Materia: Forestacion
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 00:14:21
+* * Hitos de tramitación * *
+"emmStart Hitos 7102-01","Fecha Sesión Etapa Sub-etapa Documento
+04 de Ago. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Ago. de 2010 59ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+10 de Ago. de 2010 61ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 241-358 que hace presente la urgencia Simple Ver
+14 de Sep. de 2010 75ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 308-358 que retira y hace presente la urgencia Simple Ver
+15 de Sep. de 2010 76ª / 358 Primer trámite constitucional / C. Diputados Oficio N°243-358. Oficio de S.E. el Presidente de la República por el cual formula indicación al proyecto. Ver Ver
+29 de Sep. de 2010 81ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 352-358 que retira y hace presente la urgencia Suma Ver
+05 de Oct. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+06 de Oct. de 2010 84ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de Oct. de 2010 88ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 389-358 que retira y hace presente la urgencia Suma Ver
+15 de Oct. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+26 de Oct. de 2010 90ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+27 de Oct. de 2010 91ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+27 de Oct. de 2010   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora. Oficio N°9067. Ver
+02 de Nov. de 2010 63ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Agricultura y a Comisión de Hacienda, en su caso.
+02 de Nov. de 2010 63ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 429-358 que retira y hace presente la urgencia Suma
+30 de Nov. de 2010 70ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 484-358 que retira y hace presente la urgencia Suma
+07 de Dic. de 2010   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+07 de Dic. de 2010 73ª / 358 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+07 de Dic. de 2010 73ª / 358 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 13/12/2010. Asimismo, la Sala acuerda que este proyecto en el segundo informe sea conocido por las Comisiones de Hacienda y de Agricultura unidas. Ver
+14 de Dic. de 2010 75ª / 358 Segundo trámite constitucional / Senado Por acuerdo de los Comités, ratificado por la Sala, se abre un nuevo plazo para presentar indicaciones, hasta las 17 horas del día de hoy, martes 14 de diciembre.
+14 de Dic. de 2010   Segundo trámite constitucional / Senado Boletín de indicaciones
+15 de Dic. de 2010 77ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 569-358 que retira y hace presente la urgencia Suma
+21 de Dic. de 2010   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+21 de Dic. de 2010 78ª / 358 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+21 de Dic. de 2010 78ª / 358 Segundo trámite constitucional / Senado Discusión particular Ver
+21 de Dic. de 2010   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+22 de Dic. de 2010 120ª / 358 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+22 de Dic. de 2010 120ª / 358 Tercer trámite constitucional / C. Diputados Discusión única Ver
+22 de Dic. de 2010   Tercer trámite constitucional / C. Diputados Oficio N° 9181, que comunica aprobacion de modificaciones Ver
+22 de Dic. de 2010   Tercer trámite constitucional / C. Diputados Oficio N°9180. Oficio de Ley al Presidente de la República Ver
+04 de Ene. de 2011 81ª / 358 Tercer trámite constitucional / C. Diputados Cuenta oficio N? 9181, que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7102-01","Fecha Etapa Informe Documento
+21 de Dic. de 2010 Segundo trámite constitucional Senado Segundo informe de comisión de Hacienda y de Agricultura, unidas Ver
+07 de Dic. de 2010 Segundo trámite constitucional Senado Primer informe de comisión de Agricultura Ver
+15 de Oct. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+05 de Oct. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7102-01","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+15 de Dic. de 2010   Suma 569-358  
+30 de Nov. de 2010 15 de Dic. de 2010 Suma 484-358 569-358
+02 de Nov. de 2010 30 de Nov. de 2010 Suma 429-358 484-358
+13 de Oct. de 2010 29 de Oct. de 2010 Suma 389-358 429-358
+29 de Sep. de 2010 13 de Oct. de 2010 Suma 352-358 389-358
+14 de Sep. de 2010 29 de Sep. de 2010 Simple 308-358 352-358
+10 de Ago. de 2010 14 de Sep. de 2010 Simple 241-358 308-358","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7102-01","Nombre Región Distrito Partido
+Ministerio de Agricultura      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7102-01","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+91 texto del proyecto aprobado por la Comisión de Agricultura, Silvicultura y Desarrollo Rural, que figura en las páginas 13 y siguientes de su informe, con las indicaciones de la Comisión de Hacienda, que inciden en el numeral 2 del artículo único, que figuran en la página 6 de su informe. Se exceptúa de esta votación el artículo segundo transitorio, cuya votación separada se solicitó. 77 0 7 36 Aprobado Sala Ver detalle votación
+91   78 0 8 1 Aprobado Sala Ver detalle votación
+120 Modificaciones del Senado. 63 48 0 9 Aprobado Sala Ver detalle votación
+91 segundo transitorio. 49 43 0 28 Aprobado Sala Ver detalle votación
+22 Sustituye inciso final del artículo 12, D.L. 701, de 1974. 10 0 0 3   Agricultura Ver detalle votación
+22 Agrega inciso tercero al artículo 12, D.L. 701, de 1974. 7 2 2 2   Agricultura Ver detalle votación
+22 Elimina inciso tercero del artículo 12, D.L. 701, de 1974. 1 8 2 2   Agricultura Ver detalle votación
+22 Modifica artículo 12, inciso segundo, D.L. 701, de 1974. 7 4 0 2   Agricultura Ver detalle votación
+22 Modifica artículo 12, inciso segundo, D.L. 701, de 1974. 5 6 0 2   Agricultura Ver detalle votación
+22 Modifica artículo 12, inciso primero, D.L. 701, de 1974. 8 0 3 2   Agricultura Ver detalle votación
+22 Modifica artículo 12, inciso primero, D.L. 701, de 1974. 3 8 0 2   Agricultura Ver detalle votación
+22 Agrega inciso tercero al artículo 36, nuevo, D.L. 701, de 1974. 10 0 0 3   Agricultura Ver detalle votación
+22 Modifica artículo 2° D.L. 701, de 1974. 9 0 2 2   Agricultura Ver detalle votación
+19 Votación General 6 1 2 4   Agricultura Ver detalle votación
+22 Agrega nuevo inciso final al artículo 12, D.L. 701, de 1974. 10 0 0 3   Agricultura Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7102-01","No record","Veto emmEnd"

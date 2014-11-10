@@ -1,0 +1,55 @@
+* * Bill summary * *
+"emmStart Summary 847-02","Legislatura: 325
+Fecha de ingreso: martes 03 de noviembre de 1992
+Estado: Tramitación terminada (Ley Nº 19.683 - D.Oficial 04/07/2000)
+Numero de boletín: 847-02
+Materia: Código De Justicia Militar
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 23:46:22
+* * Hitos de tramitación * *
+"emmStart Hitos 847-02","Fecha Sesión Etapa Sub-etapa Documento
+03 de Nov. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Nov. de 1992 13ª / 325 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+20 de Ene. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+28 de Sep. de 1993 1ª / 327 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+01 de Mar. de 1994 36ª / 327 Primer trámite constitucional / C. Diputados Discusión general Ver
+01 de Mar. de 1994   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+09 de Mar. de 1994 33ª / 327 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Defensa Nacional
+08 de Sep. de 1994   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+08 de Sep. de 1994   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+04 de Oct. de 1994 1ª / 330 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+05 de Oct. de 1994 2ª / 330 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+19 de Oct. de 1994 6ª / 330 Segundo trámite constitucional / Senado Discusión general Ver
+21 de Oct. de 1994   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen
+13 de Dic. de 1994 26ª / 330 Comisión Mixta por rechazo de modificaciones / Senado Cuenta oficio rechazo a modificaciones. Se designa a los miembros de la Comisión de Defensa Nacional para que integren la Comisión Mixta correspondiente.
+31 de Ago. de 1999 26ª / 340 Segundo trámite constitucional / Senado Discusión general Ver
+07 de Sep. de 1999   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+07 de Sep. de 1999   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+05 de Oct. de 1999 1ª / 341 Comisión Mixta por rechazo de modificaciones / Senado Informe de Comisión Mixta Ver
+05 de Oct. de 1999 1ª / 341 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Cuenta oficio aprobación de informe de Comisión Mixta
+06 de Jun. de 2000 1ª / 342 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Discusión informe de Comisión Mixta. Aprobado.
+07 de Jun. de 2000 1ª / 342 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Oficio aprobación de informe de Comisión Mixta a C.de Origen Ver
+08 de Jun. de 2000 3ª / 342 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación de informe de Comisión Mixta Ver
+08 de Jun. de 2000   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 847-02","Fecha Etapa Informe Documento
+05 de Oct. de 1999 Comisión Mixta por rechazo de modificaciones Senado Informe de Comisión Mixta Comisión Mixta para Boletín Nº 847-02 Ver
+07 de Sep. de 1999 Segundo trámite constitucional Senado Primer informe de comisión de Defensa Nacional Ver
+08 de Sep. de 1994 Segundo trámite constitucional Senado Primer informe de comisión de Defensa Nacional Ver
+20 de Ene. de 1993 Primer trámite constitucional C.Diputados Primer informe de comisión de Defensa Nacional Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 847-02","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+03 de Nov. de 1992   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 847-02","Nombre Región Distrito Partido
+Ministerio de Defensa Nacional      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 847-02","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 847-02","No record","Veto emmEnd"

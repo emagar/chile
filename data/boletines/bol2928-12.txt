@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 2928-12","Legislatura: 346
+Fecha de ingreso: miércoles 08 de mayo de 2002
+Estado: Tramitación terminada (Ley Nº 19.929 - D.Oficial 11/02/2004)
+Numero de boletín: 2928-12
+Materia: Contaminación
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 03-11-2014 18:22:25
+* * Hitos de tramitación * *
+"emmStart Hitos 2928-12","Fecha Sesión Etapa Sub-etapa Documento
+08 de May. de 2002   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+08 de May. de 2002 13ª / 346 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Medio Ambiente y Bienes Nacionales
+15 de May. de 2002 16ª / 346 Primer trámite constitucional / Senado Cuenta oficio 1.054 de la Corte Suprema
+05 de Mar. de 2003   Primer trámite constitucional / Senado Primer informe de comisión Ver
+05 de Mar. de 2003 30ª / 348 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+11 de Mar. de 2003 31ª / 348 Primer trámite constitucional / Senado Discusión general Ver
+11 de Mar. de 2003   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+13 de Mar. de 2003 57ª / 348 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver
+10 de Jul. de 2003   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Jul. de 2003 19ª / 349 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+19 de Nov. de 2003 23ª / 350 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+19 de Nov. de 2003   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+02 de Dic. de 2003 14ª / 350 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+02 de Dic. de 2003   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+09 de Dic. de 2003   Trámite en Tribunal Constitucional / Senado Oficio Nº 23252 al Tribunal Constitucional, remite proyecto para control de constitucionalidad Ver
+06 de Ene. de 2004 22ª / 350 Trámite en Tribunal Constitucional / Senado Cuenta Oficio Nº 2039, de Tribunal Constitucional, remite sentencia recaída en proyecto. Ver
+06 de Ene. de 2004   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2928-12","Fecha Etapa Informe Documento
+10 de Jul. de 2003 Segundo trámite constitucional C.Diputados Primer informe de comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver
+05 de Mar. de 2003 Primer trámite constitucional Senado Primer informe de comisión de Medio Ambiente y Bienes Nacionales Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2928-12","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2928-12","Nombre
+Antonio Horvath Kiss
+Baldo Prokurica Prokurica","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2928-12","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2928-12","No record","Veto emmEnd"

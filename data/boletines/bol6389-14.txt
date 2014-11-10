@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 6389-14","Legislatura: 356
+Fecha de ingreso: martes 03 de marzo de 2009
+Estado: Primer trámite constitucional .
+Numero de boletín: 6389-14
+Materia: Incendios,Urbanismo Y Construcciones
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 06:17:05
+* * Hitos de tramitación * *
+"emmStart Hitos 6389-14","Fecha Sesión Etapa Sub-etapa Documento
+03 de Mar. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Mar. de 2009 131ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Vivienda y Desarrollo Urbano Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6389-14","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6389-14","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6389-14","Nombre Región Distrito Partido
+Francisco Chahuán Chahuán V Región de Valparaíso N°14 Renovación Nacional
+Joaquín Godoy Ibáñez V Región de Valparaíso N°13 Renovación Nacional
+Rosauro Martínez Labbé VIII Región del Bío Bío N°41 Renovación Nacional
+Cristián Monckeberg Bruner RM Región Metropolitana N°23 Renovación Nacional
+Osvaldo Palma Flores VII Región del Maule N°39 Renovación Nacional
+Lily Pérez San Martín VII Región del Maule N°38 Renovación Nacional
+Roberto Sepúlveda Hermosilla RM Región Metropolitana N°20 Renovación Nacional
+Ximena Valcarce Becerra XV Región Arica y Parinacota N°1 Renovación Nacional
+Alfonso Vargas Lyng V Región de Valparaíso N°10 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6389-14","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+110 Votación General 0 6 0 6   Vivienda Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6389-14","No record","Veto emmEnd"

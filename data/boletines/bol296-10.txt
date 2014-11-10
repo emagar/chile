@@ -1,0 +1,33 @@
+* * Bill summary * *
+"emmStart Summary 296-10","Legislatura: 321
+Fecha de ingreso: martes 12 de marzo de 1991
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 296-10
+Materia: Acuerdos Internacionales
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 14:12:29
+* * Hitos de tramitación * *
+"emmStart Hitos 296-10","Fecha Sesión Etapa Sub-etapa Documento
+12 de Mar. de 1991   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+12 de Mar. de 1991 37ª / 321 Primer trámite constitucional / Senado Cuenta de proyecto
+06 de Ago. de 1992 15ª / 324 Primer trámite constitucional / Senado Cuenta del Mensaje del Ejecutivo con el que retira el proyecto. Queda retirado y se manda archivar.
+01 de Sep. de 1992 21ª / 324 Primer trámite constitucional / Senado Cuenta del Mensaje del Ejecutivo con el que reingresa el proyecto a tramitación legislativa.
+05 de Jun. de 2000   Primer trámite constitucional / Senado Oficio Nº 31-342. Oficio de S.E., el Presidente de la República, con el cual retira de tramitación el presente proyecto. Ver
+06 de Jun. de 2000 1ª / 342 Primer trámite constitucional / Senado Cuenta del oficio del Ejecutivo; en consecuencia queda retirado el proyecto.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 296-10","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 296-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+12 de Mar. de 1991 16 de Sep. de 1998 Sin urgencia   CADUCADO","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 296-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 296-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 296-10","No record","Veto emmEnd"

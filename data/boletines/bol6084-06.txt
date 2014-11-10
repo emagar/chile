@@ -1,0 +1,64 @@
+* * Bill summary * *
+"emmStart Summary 6084-06","Legislatura: 356
+Fecha de ingreso: lunes 15 de septiembre de 2008
+Estado: Segundo trámite constitucional .
+Numero de boletín: 6084-06
+Materia: Décima Region (Chile),Región De Los Lagos (Chile) 10,Rahue (Chile: Comuna)
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 02:40:09
+* * Hitos de tramitación * *
+"emmStart Hitos 6084-06","Fecha Sesión Etapa Sub-etapa Documento
+15 de Sep. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+15 de Sep. de 2008 80ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+28 de Abr. de 2009 20ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 211-357 que hace presente la urgencia Simple Ver
+20 de May. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+02 de Jun. de 2009 34ª / 357 Tramitación terminada / Cuenta del Mensaje 449-357 que retira y hace presente la urgencia Simple
+15 de Jun. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+16 de Jun. de 2009 41ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+30 de Jun. de 2009 45ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 636-357 que retira y hace presente la urgencia Simple Ver
+09 de Jul. de 2009 51ª / 357 Tramitación terminada / Cuenta del Mensaje 724-357 que retira y hace presente la urgencia Suma
+14 de Jul. de 2009 52ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver
+14 de Jul. de 2009   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+15 de Jul. de 2009 34ª / 357 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización y a Comisión de Hacienda, en su caso.
+28 de Jul. de 2009 35ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 789-357 que retira y hace presente la urgencia Simple
+01 de Sep. de 2009 44ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1033-357 que retira y hace presente la urgencia Simple
+01 de Sep. de 2009 44ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1033-357 que retira y hace presente la urgencia Simple
+06 de Oct. de 2009 54ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1277-357 que retira y hace presente la urgencia Simple
+27 de Oct. de 2009 59ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1390-357 que retira y hace presente la urgencia Suma
+04 de Nov. de 2009 62ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1481-357 que retira y hace presente la urgencia Simple
+17 de Nov. de 2009 69ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1592-357 que retira y hace presente la urgencia Suma
+05 de Ene. de 2010 79ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1760-357 que retira y hace presente la urgencia Simple
+19 de Ene. de 2010 83ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1891-357 que retira la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6084-06","Fecha Etapa Informe Documento
+15 de Jun. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+20 de May. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6084-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+05 de Ene. de 2010 19 de Ene. de 2010 Simple 1760-357 1891-357
+17 de Nov. de 2009 05 de Ene. de 2010 Suma 1592-357 1760-357
+04 de Nov. de 2009 17 de Nov. de 2009 Simple 1481-357 1592-357
+27 de Oct. de 2009 04 de Nov. de 2009 Suma 1390-357 1481-357
+06 de Oct. de 2009 27 de Oct. de 2009 Simple 1277-357 1390-357
+01 de Sep. de 2009 06 de Oct. de 2009 Simple 1033-357 1277-357
+28 de Jul. de 2009 01 de Sep. de 2009 Simple 789-357 1033-357
+09 de Jul. de 2009 28 de Jul. de 2009 Suma 724-357 789-357
+30 de Jun. de 2009 09 de Jul. de 2009 Simple 636-357 724-357
+02 de Jun. de 2009 30 de Jun. de 2009 Simple 449-357 636-357
+28 de Abr. de 2009 02 de Jun. de 2009 Simple 211-357 449-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6084-06","Nombre Región Distrito Partido
+Ministerio de Interior y Seguridad Públi      
+Ministerio de Trabajo y Previsión Social      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6084-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+52   96 0 1 23 Aprobado Sala Ver detalle votación
+104 Votación General 12 0 0 1   Gobierno Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6084-06","No record","Veto emmEnd"

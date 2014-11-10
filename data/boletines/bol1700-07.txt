@@ -1,0 +1,60 @@
+* * Bill summary * *
+"emmStart Summary 1700-07","Legislatura: 331
+Fecha de ingreso: miércoles 13 de septiembre de 1995
+Estado: Archivado .
+Numero de boletín: 1700-07
+Materia: Creditos,Cobranzas Extrajudiciales
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 12:29:29
+* * Hitos de tramitación * *
+"emmStart Hitos 1700-07","Fecha Sesión Etapa Sub-etapa Documento
+13 de Sep. de 1995   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Sep. de 1995 38ª / 331 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+25 de Oct. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de Nov. de 1995 13ª / 332 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+28 de Nov. de 1995 26ª / 332 Primer trámite constitucional / C. Diputados Discusión general Ver
+03 de Ene. de 1996   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+09 de Ene. de 1996 39ª / 332 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+11 de Ene. de 1996 41ª / 332 Primer trámite constitucional / C. Diputados Discusión particular Ver
+11 de Ene. de 1996   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+16 de Ene. de 1996 29ª / 332 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+09 de Sep. de 1997   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+10 de Sep. de 1997 34ª / 335 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+09 de Jun. de 1998 3ª / 338 Segundo trámite constitucional / Senado Discusión general pendiente Ver
+07 de Jul. de 1998 11ª / 338 Segundo trámite constitucional / Senado Discusión general Ver
+08 de Jul. de 1998   Segundo trámite constitucional / Senado Oficio rechazo a Cámara de Origen Ver
+09 de Jul. de 1998 15ª / 338 Comisión Mixta por rechazo de idea de legislar / Senado Cuenta oficio rechazo de Cámara Revisora
+14 de Jul. de 1998   Comisión Mixta por rechazo de idea de legislar / Senado Oficio integrantes de Comisión Mixta Ver
+15 de Jul. de 1998 14ª / 338 Comisión Mixta por rechazo de idea de legislar / Senado Cuenta oficio integrantes de Comisión Mixta
+13 de Jun. de 2000 3ª / 342 Comisión Mixta por rechazo de idea de legislar / Senado Oficio Nº L-Nº 29/00 de Comisión de Constitucuón. Solicita Archivo de boletín que indica. Se accede, previo acuerdo de la Cámara de Diputados. Ver
+14 de Jun. de 2000   Comisión Mixta por rechazo de idea de legislar / Senado Oficio Nº 16.232. Oficio a la Cámara de Diputados solicitando acuerdo para proceder al archivo del presente proyecto. Ver
+20 de Jun. de 2000 5ª / 342 Comisión Mixta por rechazo de idea de legislar / Senado Cuenta en Cámara de Diputados de oficio del Senado, solicita acuerdo para archivo de proyecto. En tabla, se accede al archivo solicitado.
+20 de Jun. de 2000   Comisión Mixta por rechazo de idea de legislar / Senado Oficio Nº 2894. Oficio de la Cámara de Diputados, accede a solicitud del Senado de archivar boletín que indica. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1700-07","Fecha Etapa Informe Documento
+09 de Sep. de 1997 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+03 de Ene. de 1996 Primer trámite constitucional C.Diputados Segundo informe de comisión de Constitución, Legislación y Justicia Ver
+25 de Oct. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1700-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1700-07","Nombre Región Distrito Partido
+Francisco Bartolucci Johnston Región N°13 Unión Demócrata Independiente
+Ramón Elizalde Hevia Región N°17 Partido Demócrata Cristiano
+Francisco Encina Moriamez Región N° Partido Socialista
+Luis Valentín Ferrada Valenzuela Región N° Renovación Nacional
+Rubén Gajardo Chacón Región N°4 Partido Demócrata Cristiano
+Aníbal Pérez Lobos Región N° Partido Por la Democracia
+Teodoro Ribera Neumann Región N°51 Renovación Nacional
+Eugenio Tuma Zedan Región N° Partido Por la Democracia
+Salvador Urrutia Cárdenas Región N° Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1700-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1700-07","No record","Veto emmEnd"

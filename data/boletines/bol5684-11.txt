@@ -1,0 +1,89 @@
+* * Bill summary * *
+"emmStart Summary 5684-11","Legislatura: 355
+Fecha de ingreso: jueves 03 de enero de 2008
+Estado: Tramitación terminada (Ley Nº 20.470 - D.Oficial 17/12/2010)
+Numero de boletín: 5684-11
+Materia: Código Sanitario,Disfunciones Visuales,Optómetra
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 13:03:46
+* * Hitos de tramitación * *
+"emmStart Hitos 5684-11","Fecha Sesión Etapa Sub-etapa Documento
+02 de Ene. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Ene. de 2008 122ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver
+29 de Jul. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Ago. de 2008 60ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+04 de Sep. de 2008 72ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+09 de Sep. de 2008 73ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+07 de Oct. de 2008   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+14 de Oct. de 2008 88ª / 356 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+09 de Dic. de 2008 113ª / 356 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver
+09 de Dic. de 2008   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+10 de Dic. de 2008 78ª / 356 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Salud
+16 de Mar. de 2010 1ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 7-358 que hace presente la urgencia Simple
+16 de Mar. de 2010 1ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 7-358 que hace presente la urgencia Suma
+20 de Abr. de 2010 10ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 052-358 que hace presente la urgencia Simple
+19 de May. de 2010 21ª / 358 Segundo trámite constitucional / Senado La Sala, a solicitud de la Comisión de Salud, autoriza que este proyecto se discuta en general y en particular en el primer informe.
+17 de Ago. de 2010 43ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 263-358 que retira y hace presente la urgencia Suma Ver
+31 de Ago. de 2010   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+31 de Ago. de 2010 45ª / 358 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+31 de Ago. de 2010 45ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 278-358 que retira y hace presente la urgencia Suma Ver
+01 de Sep. de 2010 46ª / 358 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 13/09/2010 Ver
+13 de Sep. de 2010   Segundo trámite constitucional / Senado Boletín de indicaciones
+28 de Sep. de 2010 55ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 321-358 que retira y hace presente la urgencia Suma
+12 de Oct. de 2010   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+12 de Oct. de 2010 59ª / 358 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+13 de Oct. de 2010 60ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 391-358 que retira y hace presente la urgencia Suma
+13 de Oct. de 2010 60ª / 358 Segundo trámite constitucional / Senado Discusión particular. Queda pendiente El Comité Partido Demócrata Cristiano solicita segunda discusión para este proyecto. Ver
+26 de Oct. de 2010 61ª / 358 Segundo trámite constitucional / Senado Discusión particular Ver
+26 de Oct. de 2010   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+27 de Oct. de 2010 91ª / 358 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+28 de Oct. de 2010 92ª / 358 Tercer trámite constitucional / C. Diputados Cuenta del Mensaje 423-358 que retira y hace presente la urgencia Suma Ver
+28 de Oct. de 2010 92ª / 358 Tercer trámite constitucional / C. Diputados Discusión única Ver
+28 de Oct. de 2010   Tercer trámite constitucional / C. Diputados Oficio N° 9071, que comunica aprobacion de modificaciones Ver
+28 de Oct. de 2010   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+02 de Nov. de 2010 63ª / 358 Tercer trámite constitucional / C. Diputados Cuenta oficio N? 9071, que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5684-11","Fecha Etapa Informe Documento
+12 de Oct. de 2010 Segundo trámite constitucional Senado Segundo informe de comisión de Salud Ver
+31 de Ago. de 2010 Segundo trámite constitucional Senado Primer informe de comisión de Salud Ver
+07 de Oct. de 2008 Primer trámite constitucional C.Diputados Segundo informe de comisión de Salud Ver
+29 de Jul. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Salud Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5684-11","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+28 de Oct. de 2010   Suma 423-358  
+13 de Oct. de 2010 28 de Oct. de 2010 Suma 391-358 423-358
+28 de Sep. de 2010 13 de Oct. de 2010 Suma 321-358 391-358
+31 de Ago. de 2010 27 de Sep. de 2010 Suma 278-358 321-358
+17 de Ago. de 2010 31 de Ago. de 2010 Suma 263-358 278-358
+20 de Abr. de 2010 17 de Ago. de 2010 Simple 052-358 263-358
+16 de Mar. de 2010   Suma 7-358  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5684-11","Nombre Región Distrito Partido
+María Angélica Cristi Marfil RM Región Metropolitana N°24 Unión Demócrata Independiente
+Juan Lobos Krause VIII Región del Bío Bío N°47 Unión Demócrata Independiente
+Jaime Mulet Martínez III Región de Atacama N°6 Partido Regionalista Independiente
+Marco Antonio Núñez Lozano V Región de Valparaíso N°11 Partido Por la Democracia
+Carlos Olivares Zepeda RM Región Metropolitana N°18 Partido Regionalista Independiente
+Fulvio Rossi Ciocca I Región de Tarapacá N°2 Partido Socialista
+Karla Rubilar Barahona RM Región Metropolitana N°17 Renovación Nacional
+Roberto Sepúlveda Hermosilla RM Región Metropolitana N°20 Renovación Nacional
+Ximena Valcarce Becerra XV Región Arica y Parinacota N°1 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5684-11","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+96 Votación General 9 0 0 4   Salud Ver detalle votación
+92 Modificaciones del Senado. 67 1 0 0 Aprobado Sala Ver detalle votación
+113 Indicación renovada de las diputadas Karla Rubilar y Ximena Valcarce, y de los diputados Joaquín Godoy, Julio Dittborn y Carlos Recondo, para reemplazar el artículo 113 bis propuesto por la Comisión de Salud por el siguiente: ""Artículo 113 bis.- Sin perjuicio de lo establecido, los profesionales de colaboración médica indicados en el artículo anterior y demás que señale el reglamento, podrán prescribir las ayudas técnicas, fármacos de uso tópico, los tratamientos básicos y otros que el mismo reglamento establezca, siempre que ello sea efectuado en el marco de acción de un equipo de salud. Cuando estos profesionales presten sus servicios a personas que presenten síntomas o antecedentes de patologías locales o sistémicas, deberán derivar de inmediato al paciente a un médico cirujano que haya certificado su especialidad correspondiente en conformidad a las normas vigentes, pudiendo colaborar con éste en la atención del enfermo para su rehabilitación si así se requiriese."" 67 8 4 0 Aprobado Sala Ver detalle votación
+113 Indicación renovada de las diputadas Karla Rubilar y Ximena Valcarce, y de los diputados Joaquín Godoy, Julio Dittborn y Carlos Recondo, para incorporar, en el Código Sanitario, el siguiente artículo 118 bis: ""Artículo 118 bis.- Los servicios profesionales del tecnólogo médico con mención en oftalmología y del optómetra comprenden la detección y compensación de los vicios de refracción ocular a través de su medida instrumental; la indicación, adaptación, verificación y control de las ayudas ópticas, la utilización de técnicas de reeducación, prevención e higiene visual, la evaluación, detección, tratamiento y prevención de las disfunciones visuales. Los tecnólogos médicos con mención en oftalmología y los optómetras al realizar el examen ocular podrán utilizar aquellos fármacos de uso tópico para el diagnóstico."" 81 0 1 0 Aprobado Sala Ver detalle votación
+113 Indicación renovada de las diputadas Karla Rubilar y Ximena Valcarce, y de los diputados Joaquín Godoy, Julio Dittborn y Carlos Recondo, para sustituir el artículo 128 del Código Sanitario por el siguiente: ""Artículo 128.- Sin perjuicio de lo señalado para la corrección de problemas de presbicia en personas mayores de cuarenta años, sólo en los establecimientos de óptica podrán fabricarse lentes con fuerza dióptrica de acuerdo con las prescripciones emitidas por los profesionales que corresponda. Los establecimientos de óptica podrán abrir locales destinados a la recepción y al despacho de recetas en que se prescriban estos lentes, bajo la responsabilidad técnica de la óptica pertinente."". 29 50 4 0 Rechazado Sala Ver detalle votación
+113 letra c) del artículo único. 77 1 2 0 Aprobado Sala Ver detalle votación
+113 transitorio. 77 0 1 0 Aprobado Sala Ver detalle votación
+73   66 0 3 0 Aprobado Sala Ver detalle votación
+113 letra b) del artículo único. 83 1 2 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5684-11","No record","Veto emmEnd"

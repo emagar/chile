@@ -1,0 +1,58 @@
+* * Bill summary * *
+"emmStart Summary 8767-06","Legislatura: 360
+Fecha de ingreso: lunes 07 de enero de 2013
+Estado: Primer trámite constitucional .
+Numero de boletín: 8767-06
+Materia: Institucionalidad Estadística Nacional
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 10-11-2014 05:31:00
+* * Hitos de tramitación * *
+"emmStart Hitos 8767-06","Fecha Sesión Etapa Sub-etapa Documento
+07 de Ene. de 2013   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+08 de Ene. de 2013 92ª / 360 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización y a la Comisión de Hacienda, en su caso. Se remite el proyecto a la Corte Suprema.
+08 de Ene. de 2013   Primer trámite constitucional / Senado Oficio N° 013/SEC/13 a la Corte Suprema Ver
+19 de Mar. de 2013 4ª / 361 Primer trámite constitucional / Senado Cuenta oficio N° 32-2013 de la Corte Suprema
+19 de Mar. de 2013 4ª / 361 Primer trámite constitucional / Senado Los Comités acuerdan cambiar el trámite dispuesto respecto de este proyecto y enviarlo a la Comisión de Economía, para ser informado por ésta y no por la Comisión de Gobierno, Descentralización y Regionalización.
+02 de Abr. de 2013 7ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 38-361 que hace presente la urgencia Suma
+17 de Abr. de 2013 17ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 64-361 que retira y hace presente la urgencia Suma
+08 de May. de 2013 21ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 88-361 que retira y hace presente la urgencia Suma
+11 de Jun. de 2013 29ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 129-361 que retira y hace presente la urgencia Simple
+09 de Jul. de 2013 39ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 183-361 que retira y hace presente la urgencia Simple
+07 de Ago. de 2013 46ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 218-361 que retira y hace presente la urgencia Simple
+03 de Sep. de 2013 51ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 257-361 que retira y hace presente la urgencia Simple
+01 de Oct. de 2013 58ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 280-361 que retira y hace presente la urgencia Simple
+30 de Oct. de 2013 66ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 326-361 que retira y hace presente la urgencia Simple
+26 de Nov. de 2013 72ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 351-361 que retira y hace presente la urgencia Suma
+10 de Dic. de 2013 78ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 381-361 que retira y hace presente la urgencia Suma","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8767-06","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8767-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+10 de Dic. de 2013   Suma 381-361  
+26 de Nov. de 2013 10 de Dic. de 2013 Suma 351-361 381-361
+30 de Oct. de 2013 26 de Nov. de 2013 Simple 326-361 351-361
+01 de Oct. de 2013 30 de Oct. de 2013 Simple 280-361 326-361
+03 de Sep. de 2013 01 de Oct. de 2013 Simple 257-361 280-361
+07 de Ago. de 2013 03 de Sep. de 2013 Simple 218-361 257-361
+09 de Jul. de 2013 07 de Ago. de 2013 Simple 183-361 218-361
+11 de Jun. de 2013 09 de Jul. de 2013 Simple 129-361 183-361
+08 de May. de 2013 11 de Jun. de 2013 Suma 88-361 129-361
+17 de Abr. de 2013 08 de May. de 2013 Suma 64-361 88-361
+02 de Abr. de 2013 17 de Abr. de 2013 Suma 38-361 64-361","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8767-06","Nombre
+Ministerio de Desarrollo Social
+Ministerio de Economía, Fomento y Turism
+Ministerio de Hacienda
+Ministerio de Trabajo y Previsión Social
+Ministerio Secretaría General de la Presidencia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8767-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8767-06","No record","Veto emmEnd"

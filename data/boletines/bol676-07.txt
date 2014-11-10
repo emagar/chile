@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 676-07","Legislatura: 323
+Fecha de ingreso: miércoles 29 de abril de 1992
+Estado: Tramitación terminada (Ley Nº 19.158 - D.Oficial 31/08/1992)
+Numero de boletín: 676-07
+Materia: Derechos Humanos,Derecho De Las Personas
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 21:29:17
+* * Hitos de tramitación * *
+"emmStart Hitos 676-07","Fecha Sesión Etapa Sub-etapa Documento
+28 de Abr. de 1992 68ª / 323 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+29 de Abr. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Jul. de 1992 7ª / 324 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+08 de Jul. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+14 de Jul. de 1992 10ª / 324 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+21 de Jul. de 1992 12ª / 324 Segundo trámite constitucional / Senado Se acuerda volveer el proyecto a la Comisión de Constitución, Legislación, Justicia y Reglamento, para nuevo informe.
+22 de Jul. de 1992   Segundo trámite constitucional / Senado Nuevo primer informe de comisión Ver
+23 de Jul. de 1992 13ª / 324 Segundo trámite constitucional / Senado Cuenta nuevo primer informe
+06 de Ago. de 1992 15ª / 324 Segundo trámite constitucional / Senado En Fácil Despacho, aprobado en general y en particular, con modificaciones.
+06 de Ago. de 1992   Segundo trámite constitucional / Senado Oficio a la Cámara comunicando aprobación con modificaciones que indica
+20 de Ago. de 1992 20ª / 324 Tramitación terminada / Cuenta oficio de la Cámara comunicando aprobación de modificaciones propuestas por el Senado","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 676-07","Fecha Etapa Informe Documento
+22 de Jul. de 1992 Segundo trámite constitucional Senado Nuevo primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+08 de Jul. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 676-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+28 de Abr. de 1992   Simple    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 676-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 676-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 676-07","No record","Veto emmEnd"

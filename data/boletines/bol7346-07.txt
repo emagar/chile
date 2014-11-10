@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 7346-07","Legislatura: 358
+Fecha de ingreso: martes 07 de diciembre de 2010
+Estado: Tramitación terminada (Ley N° 20.518 - D.Oficial 22/06/2011)
+Numero de boletín: 7346-07
+Materia: Nacionalización
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 09-11-2014 02:57:56
+* * Hitos de tramitación * *
+"emmStart Hitos 7346-07","Fecha Sesión Etapa Sub-etapa Documento
+07 de Dic. de 2010   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+07 de Dic. de 2010 73ª / 358 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía
+18 de Ene. de 2011   Primer trámite constitucional / Senado Primer informe de comisión Ver
+19 de Ene. de 2011 89ª / 358 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+01 de Mar. de 2011 90ª / 358 Primer trámite constitucional / Senado Discusión general Ver
+01 de Mar. de 2011   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+03 de Mar. de 2011 133ª / 358 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+28 de Abr. de 2011   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de May. de 2011 20ª / 359 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+31 de May. de 2011 35ª / 359 Segundo trámite constitucional / C. Diputados Discusión general Ver
+31 de May. de 2011   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+01 de Jun. de 2011 22ª / 359 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+01 de Jun. de 2011   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7346-07","Fecha Etapa Informe Documento
+28 de Abr. de 2011 Segundo trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+18 de Ene. de 2011 Primer trámite constitucional Senado Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7346-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7346-07","Nombre
+Antonio Horvath Kiss","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7346-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+35   78 0 6 36 Aprobado Sala Ver detalle votación
+37 Votación General 8 0 0 5   Derechos Humanos Ver detalle votación
+37 Votación General 8 0 0 5   Derechos Humanos Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7346-07","No record","Veto emmEnd"

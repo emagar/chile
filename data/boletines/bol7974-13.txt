@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 7974-13","Legislatura: 359
+Fecha de ingreso: martes 04 de octubre de 2011
+Estado: Tramitación terminada (Ley Nº 20.581 - D.Oficial 04/04/2012)
+Numero de boletín: 7974-13
+Materia: Ferrocarriles,Día Nacional Del Trabajador Ferroviario (6 De Octubre),Ferrocarriles Del Estado,Empresa De Los Ferrocarriles Del Estado,Ferroviarios
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 09-11-2014 13:57:00
+* * Hitos de tramitación * *
+"emmStart Hitos 7974-13","Fecha Sesión Etapa Sub-etapa Documento
+04 de Oct. de 2011   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+13 de Oct. de 2011   Primer trámite constitucional / Senado Primer informe de comisión Ver
+20 de Dic. de 2011 82ª / 359 Primer trámite constitucional / Senado Discusión general Ver
+20 de Dic. de 2011   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+21 de Dic. de 2011 124ª / 359 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+17 de Ene. de 2012   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+23 de Ene. de 2012 137ª / 359 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+08 de Mar. de 2012 142ª / 359 Segundo trámite constitucional / C. Diputados Discusión única Ver
+08 de Mar. de 2012   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+13 de Mar. de 2012 1ª / 360 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+13 de Mar. de 2012   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7974-13","Fecha Etapa Informe Documento
+17 de Ene. de 2012 Segundo trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver
+02 de Nov. de 2011 Primer trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7974-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7974-13","Nombre
+Isabel Allende Bussi
+Soledad Alvear Valenzuela
+Carlos Bianchi Chelech
+Eduardo Frei Ruiz-Tagle
+Pedro Muñoz Aburto","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7974-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+142   67 0 0 53 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7974-13","No record","Veto emmEnd"

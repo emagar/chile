@@ -1,0 +1,32 @@
+* * Bill summary * *
+"emmStart Summary 2400-07","Legislatura: 340
+Fecha de ingreso: jueves 09 de septiembre de 1999
+Estado: Primer trámite constitucional .
+Numero de boletín: 2400-07
+Materia: Parlamentarios,Poder Ejecutivo
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 00:06:54
+* * Hitos de tramitación * *
+"emmStart Hitos 2400-07","Fecha Sesión Etapa Sub-etapa Documento
+09 de Sep. de 1999   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+09 de Sep. de 1999 39ª / 340 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+09 de Sep. de 1999 39ª / 340 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+14 de Oct. de 1999   Primer trámite constitucional / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 341","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2400-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2400-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2400-07","Nombre Región Distrito Partido
+Zarko Luksic Sandoval RM Región Metropolitana N°16 Partido Demócrata Cristiano
+Jaime Orpis Bouchon RM Región Metropolitana N°25 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2400-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2400-07","No record","Veto emmEnd"

@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 880-10","Legislatura: 325
+Fecha de ingreso: miércoles 09 de diciembre de 1992
+Estado: Tramitación terminada (D.S. Nº1.377 - D.Oficial 21/02/1994)
+Numero de boletín: 880-10
+Materia: Permisos (Trabajo)
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 00:12:04
+* * Hitos de tramitación * *
+"emmStart Hitos 880-10","Fecha Sesión Etapa Sub-etapa Documento
+09 de Dic. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+09 de Dic. de 1992 28ª / 325 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+13 de Ene. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+06 de Abr. de 1993 39ª / 325 Tramitación terminada / Cuenta del proyecto de la Cámara de Diputados.
+06 de Abr. de 1993 39ª / 325 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+14 de Abr. de 1993 43ª / 325 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+21 de Abr. de 1993 45ª / 325 Tramitación terminada / Aprobado en general y particular.
+28 de Abr. de 1993   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+28 de Abr. de 1993   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 880-10","Fecha Etapa Informe Documento
+14 de Abr. de 1993 Segundo trámite constitucional Senado Segundo informe de comisión de Relaciones Exteriores Ver
+13 de Ene. de 1993 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 880-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 880-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 880-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 880-10","No record","Veto emmEnd"

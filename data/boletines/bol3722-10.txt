@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 3722-10","Legislatura: 352
+Fecha de ingreso: lunes 15 de noviembre de 2004
+Estado: Tramitación terminada (D.S. Nº 143 - D.Oficial 10/09/2005)
+Numero de boletín: 3722-10
+Materia: Tabaco
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 07:57:08
+* * Hitos de tramitación * *
+"emmStart Hitos 3722-10","Fecha Sesión Etapa Sub-etapa Documento
+15 de Nov. de 2004 19ª / 352 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+15 de Nov. de 2004 19ª / 352 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+15 de Nov. de 2004   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Ene. de 2005   Primer trámite constitucional / C. Diputados Primer informe de comisión. y de Salud Unidas. Ver
+11 de Ene. de 2005 37ª / 352 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de R.R.E.E. y de Salud. En Estado de Tabla. Ver
+12 de Ene. de 2005 39ª / 352 Primer trámite constitucional / C. Diputados Discusión única Ver
+12 de Ene. de 2005   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+18 de Ene. de 2005 28ª / 352 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores y a Comisión de Salud, unidas.
+01 de Mar. de 2005   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Salud Ver
+01 de Mar. de 2005 31ª / 352 Segundo trámite constitucional / Senado Se acuerda reemplazar el acuerdo que lo enviaba a Comisiones Unidas, autorizando su estudio separado de ambas Comisiones.
+15 de Mar. de 2005   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+15 de Mar. de 2005 36ª / 352 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+15 de Mar. de 2005 36ª / 352 Segundo trámite constitucional / Senado Cuenta del Mensaje 379-352 que hace presente la urgencia Suma
+22 de Mar. de 2005 38ª / 352 Segundo trámite constitucional / Senado Discusión general Ver
+23 de Mar. de 2005   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+23 de Mar. de 2005 56ª / 352 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver Ver
+23 de Mar. de 2005   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3722-10","Fecha Etapa Informe Documento
+15 de Mar. de 2005 Segundo trámite constitucional Senado Primer informe de comisión de Salud Ver
+01 de Mar. de 2005 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+04 de Ene. de 2005 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3722-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+15 de Mar. de 2005   Suma 379-352  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3722-10","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3722-10","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+39   61 0 1 1 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3722-10","No record","Veto emmEnd"

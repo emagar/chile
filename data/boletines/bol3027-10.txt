@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 3027-10","Legislatura: 347
+Fecha de ingreso: martes 20 de agosto de 2002
+Estado: Tramitación terminada (D.S. Nº 199 - D.Oficial 20/10/2003)
+Numero de boletín: 3027-10
+Materia: Doble Tributación,Evasión De Impuestos
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 20:39:23
+* * Hitos de tramitación * *
+"emmStart Hitos 3027-10","Fecha Sesión Etapa Sub-etapa Documento
+20 de Ago. de 2002   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de Ago. de 2002 31ª / 347 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+29 de Oct. de 2002   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Nov. de 2002 18ª / 348 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de Nov. de 2002 20ª / 348 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+13 de Nov. de 2002   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+19 de Nov. de 2002 13ª / 348 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+22 de Ene. de 2003   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+19 de Jun. de 2003   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+02 de Jul. de 2003 8ª / 349 Segundo trámite constitucional / Senado Discusión general Ver
+03 de Jul. de 2003   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+08 de Jul. de 2003 14ª / 349 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3027-10","Fecha Etapa Informe Documento
+19 de Jun. de 2003 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+22 de Ene. de 2003 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+29 de Oct. de 2002 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3027-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3027-10","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3027-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3027-10","No record","Veto emmEnd"

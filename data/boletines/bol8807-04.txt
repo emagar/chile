@@ -1,0 +1,48 @@
+* * Bill summary * *
+"emmStart Summary 8807-04","Legislatura: 360
+Fecha de ingreso: viernes 25 de enero de 2013
+Estado: Tramitación terminada (Ley Nº 20.747 - D.Oficial 07/05/2014)
+Numero de boletín: 8807-04
+Materia: Dia De Los Sewellinos Y Sewellinas (29 De Abril)
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 10-11-2014 05:58:04
+* * Hitos de tramitación * *
+"emmStart Hitos 8807-04","Fecha Sesión Etapa Sub-etapa Documento
+25 de Ene. de 2013   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+05 de Mar. de 2013 100ª / 360 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+13 de Jun. de 2013   Primer trámite constitucional / Senado Primer informe de comisión Ver
+18 de Jun. de 2013 32ª / 361 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+02 de Oct. de 2013 59ª / 361 Primer trámite constitucional / Senado Discusión general Ver
+02 de Oct. de 2013   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+03 de Oct. de 2013 78ª / 361 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de la Cultura y las Artes Ver
+10 de Abr. de 2014   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+15 de Abr. de 2014 12ª / 362 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+17 de Abr. de 2014 15ª / 362 Segundo trámite constitucional / C. Diputados Discusión general Ver
+17 de Abr. de 2014   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+22 de Abr. de 2014 11ª / 362 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+22 de Abr. de 2014   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8807-04","Fecha Etapa Informe Documento
+11 de Abr. de 2014 Segundo trámite constitucional C.Diputados Primer informe de comisión de la Cultura y las Artes Ver
+11 de Abr. de 2014 Segundo trámite constitucional C.Diputados Primer informe de comisión de Familia Ver
+13 de Jun. de 2013 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8807-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8807-04","Nombre
+Carlos Cantero Ojeda
+Alejandro García Huidobro Sanfuentes
+Juan Pablo Letelier Morel
+Jaime Quintana Leal
+Ignacio Walker Prieto","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8807-04","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+15   88 0 0 32 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8807-04","No record","Veto emmEnd"

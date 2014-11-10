@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 8773-05","Legislatura: 360
+Fecha de ingreso: miércoles 09 de enero de 2013
+Estado: Tramitación terminada (Ley N° 20.662 - D.Oficial 25/04/2013)
+Numero de boletín: 8773-05
+Materia: Actividad Hípica Nacional
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 05:34:01
+* * Hitos de tramitación * *
+"emmStart Hitos 8773-05","Fecha Sesión Etapa Sub-etapa Documento
+09 de Ene. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+09 de Ene. de 2013 123ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+15 de Ene. de 2013   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+15 de Ene. de 2013 126ª / 360 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+15 de Ene. de 2013 126ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 447-360 que hace presente la urgencia Suma Ver
+16 de Ene. de 2013 127ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 448-360 que retira la urgencia Suma Ver
+16 de Ene. de 2013 127ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+16 de Ene. de 2013   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+16 de Ene. de 2013 96ª / 360 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+23 de Ene. de 2013   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+23 de Ene. de 2013 99ª / 360 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+23 de Ene. de 2013 99ª / 360 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 11/03/2013 Ver
+12 de Mar. de 2013 1ª / 361 Segundo trámite constitucional / Senado Discusión particular. Aprobado sin modificaciones De conformidad al articulo 120 del Reglamento, al no haberse presentado indicaciones al proyecto, este se da por aprobado tambien en particular. Ver
+12 de Mar. de 2013   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+13 de Mar. de 2013 2ª / 361 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+14 de Mar. de 2013   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8773-05","Fecha Etapa Informe Documento
+23 de Ene. de 2013 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+15 de Ene. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8773-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+15 de Ene. de 2013 16 de Ene. de 2013 Suma 447-360 448-360","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8773-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8773-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+127   87 4 5 24 Aprobado Sala Ver detalle votación
+127 Con la indicación a los artículos 7° bis y primero transitorio. 87 2 8 23 Aprobado Sala Ver detalle votación
+237 Votación General 13 0 0 0   Hacienda Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8773-05","No record","Veto emmEnd"

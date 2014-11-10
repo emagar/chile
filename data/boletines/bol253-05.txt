@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 253-05","Legislatura: 321
+Fecha de ingreso: martes 08 de enero de 1991
+Estado: Tramitación terminada (Ley Nº 19.056 - D.Oficial 08/04/1991)
+Numero de boletín: 253-05
+Materia: Administracion Financiera ,Plantas Y Grados
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 13:35:00
+* * Hitos de tramitación * *
+"emmStart Hitos 253-05","Fecha Sesión Etapa Sub-etapa Documento
+08 de Ene. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+08 de Ene. de 1991 27ª / 321 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+23 de Ene. de 1991   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+24 de Ene. de 1991 33ª / 321 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+24 de Ene. de 1991 33ª / 321 Primer trámite constitucional / C. Diputados Discusión general Ver
+05 de Mar. de 1991 36ª / 321 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+14 de Mar. de 1991   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+19 de Mar. de 1991 38ª / 321 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+19 de Mar. de 1991 38ª / 321 Segundo trámite constitucional / Senado Discusión general. Aprobado en general . Vuelve a Comisión para segundo informe. Ver
+20 de Mar. de 1991   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+20 de Mar. de 1991 39ª / 321 Segundo trámite constitucional / Senado Discusión particular Ver
+20 de Mar. de 1991   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+09 de Abr. de 1991 42ª / 321 Tramitación terminada / Cuenta de oficio de la Cámara de Diputados con el que comunica que ha aprobado las enmiendas introducidas por el Senado.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 253-05","Fecha Etapa Informe Documento
+20 de Mar. de 1991 Segundo trámite constitucional Senado Segundo informe de comisión de Hacienda Ver
+14 de Mar. de 1991 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+23 de Ene. de 1991 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 253-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+08 de Ene. de 1991   Suma    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 253-05","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 253-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 253-05","No record","Veto emmEnd"

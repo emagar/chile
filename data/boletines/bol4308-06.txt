@@ -1,0 +1,60 @@
+* * Bill summary * *
+"emmStart Summary 4308-06","Legislatura: 354
+Fecha de ingreso: jueves 06 de julio de 2006
+Estado: Tramitación terminada (Ley Nº 20.457 - D.Oficial 06/09/2010)
+Numero de boletín: 4308-06
+Materia: Dia Del Huaso (1° De Septiembre)
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 00:07:39
+* * Hitos de tramitación * *
+"emmStart Hitos 4308-06","Fecha Sesión Etapa Sub-etapa Documento
+06 de Jul. de 2006 46ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+06 de Jul. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+11 de Ago. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+16 de Ago. de 2006 63ª / 354 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+22 de Ago. de 2006 66ª / 354 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+22 de Ago. de 2006   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+29 de Ago. de 2006 45ª / 354 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización Ver
+04 de May. de 2010   Segundo trámite constitucional / Senado Oficio N°249/SEC/10. Solicita acuerdo de la Cámara de Diputados para proceder al archivo de la iniciativa. Ver
+11 de May. de 2010 16ª / 358 Segundo trámite constitucional / Senado Cuenta Oficio Cámara de Diputados a solicitud para proceder al archivo de la iniciativa. NO HAY ACUERDO.
+04 de Ago. de 2010   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+04 de Ago. de 2010 40ª / 358 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+04 de Ago. de 2010 40ª / 358 Segundo trámite constitucional / Senado Discusión general Ver
+04 de Ago. de 2010   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+05 de Ago. de 2010 60ª / 358 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+12 de Ago. de 2010 63ª / 358 Tercer trámite constitucional / C. Diputados Discusión única. Discusión. Pendiente. Ver
+17 de Ago. de 2010 64ª / 358 Tercer trámite constitucional / C. Diputados Discusión única Ver
+17 de Ago. de 2010   Tercer trámite constitucional / C. Diputados Oficio N° 8941, que comunica aprobacion de modificaciones Ver
+17 de Ago. de 2010   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo. Oficio N° 8942. Oficio de ley a Presidente de la República Ver
+18 de Ago. de 2010 44ª / 358 Tramitación terminada / Cuenta oficio N° 8941, que comunica aprobacion de modificaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4308-06","Fecha Etapa Informe Documento
+04 de Ago. de 2010 Segundo trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver
+11 de Ago. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4308-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4308-06","Nombre Región Distrito Partido
+Germán Becker Alvear IX Región de la Araucanía N°50 Renovación Nacional
+Mario Bertolino Rendic IV Región de Coquimbo N°7 Renovación Nacional
+Alberto Cardemil Herrera RM Región Metropolitana N°22 Independientes
+Roberto Delmastro Naso XIV Región de los Ríos N°53 Renovación Nacional
+Pablo Galilea Carrillo XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Renovación Nacional
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Amelia Herrera Silva V Región de Valparaíso N°12 Renovación Nacional
+Marta Isasi Barbieri I Región de Tarapacá N°2 Independientes
+Sergio Ojeda Uribe X Región de los Lagos N°55 Partido Demócrata Cristiano
+Alfonso Vargas Lyng V Región de Valparaíso N°10 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4308-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+66   91 1 0 0 Aprobado Sala Ver detalle votación
+64 Modificación introducida por el Senado, consistente en fijar el Día del Huaso el 17 de septiembre de cada año y cambiarle la denominación a “Día del Huaso y de la Chilenidad”. 82 18 4 16 Aprobado Sala Ver detalle votación
+15 Votación General 10 0 0 3   Gobierno Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4308-06","No record","Veto emmEnd"

@@ -1,0 +1,48 @@
+* * Bill summary * *
+"emmStart Summary 216-12","Legislatura: 321
+Fecha de ingreso: martes 04 de diciembre de 1990
+Estado: Tramitación terminada (Ley Nº 19.072 - D.Oficial 19/08/1991)
+Numero de boletín: 216-12
+Materia: Fundación Pablo Neruda
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 07:38:53
+* * Hitos de tramitación * *
+"emmStart Hitos 216-12","Fecha Sesión Etapa Sub-etapa Documento
+04 de Dic. de 1990   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+05 de Dic. de 1990 21ª / 321 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Medio Ambiente y Bienes Nacionales
+20 de Mar. de 1991 39ª / 321 Primer trámite constitucional / Senado Primer informe de comisión Ver
+20 de Mar. de 1991 39ª / 321 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+20 de Mar. de 1991 39ª / 321 Primer trámite constitucional / Senado Discusión general Ver
+21 de Mar. de 1991 39ª / 321 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+03 de Abr. de 1991 41ª / 321 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+30 de Abr. de 1991   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+14 de May. de 1991 50ª / 321 Tercer trámite constitucional / Senado Discusión única
+14 de May. de 1991 50ª / 321 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+05 de Jun. de 1991 2ª / 322 Tercer trámite constitucional / Senado Oficio rechazo modificaciones a Cámara Revisora
+13 de Jun. de 1991 6ª / 322 Comisión Mixta por rechazo de modificaciones / C. Diputados Cuenta oficio integrantes de Comisión Mixta Ver
+09 de Jul. de 1991 15ª / 322 Comisión Mixta por rechazo de modificaciones / C. Diputados Informe de Comisión Mixta Ver Ver
+09 de Jul. de 1991 15ª / 322 Disc. informe C.Mixta por rechazo de modific. en C. Origen / Senado Cuenta informe Comisión Mixta. Queda para Tabla.
+11 de Jul. de 1991 17ª / 322 Disc. informe C.Mixta por rechazo de modific. en C. Origen / Senado Discusión informe de Comisión Mixta
+11 de Jul. de 1991 17ª / 322 Disc. informe C.Mixta por rechazo de modific. en C. Origen / Senado Oficio aprobación de informe de Comisión Mixta a C. Revisora Ver
+17 de Jul. de 1991 19ª / 322 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+17 de Jul. de 1991 20ª / 322 Disc. informe C.Mixta por rechazo de modif. C. Revisora / C. Diputados Oficio aprobación de informe de Comisión Mixta a C.de Origen Ver Ver
+17 de Jul. de 1991 19ª / 322 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación de informe de Comisión Mixta","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 216-12","Fecha Etapa Informe Documento
+09 de Jul. de 1991 Comisión Mixta por rechazo de modificaciones Senado Informe de Comisión Mixta Comisión Mixta para Boletín Nº 216-12 Ver
+30 de Abr. de 1991 Segundo trámite constitucional C.Diputados Primer informe de comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver
+20 de Mar. de 1991 Primer trámite constitucional Senado Primer informe de comisión de Medio Ambiente y Bienes Nacionales Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 216-12","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 216-12","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 216-12","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 216-12","No record","Veto emmEnd"

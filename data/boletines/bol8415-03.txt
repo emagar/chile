@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 8415-03","Legislatura: 360
+Fecha de ingreso: miércoles 04 de julio de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8415-03
+Materia: Cuentas Corrientes,Cuentas Bancarias,Cheques
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 01:14:55
+* * Hitos de tramitación * *
+"emmStart Hitos 8415-03","Fecha Sesión Etapa Sub-etapa Documento
+04 de Jul. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Jul. de 2012 50ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8415-03","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8415-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8415-03","Nombre Región Distrito Partido
+María Angélica Cristi Marfil RM Región Metropolitana N°24 Unión Demócrata Independiente
+Enrique Estay Peñaloza IX Región de la Araucanía N°49 Unión Demócrata Independiente
+Romilio Gutiérrez Pino VII Región del Maule N°39 Unión Demócrata Independiente
+Issa Farid Kort Garriga VI Región del Libertador Bernardo O' Higgins N°32 Unión Demócrata Independiente
+Carlos Recondo Lavanderos X Región de los Lagos N°56 Unión Demócrata Independiente
+Manuel Rojas Molina II Región de Antofagasta N°4 Unión Demócrata Independiente
+Joel Rosales Guzmán VIII Región del Bío Bío N°47 Unión Demócrata Independiente
+Jorge Ulloa Aguillón VIII Región del Bío Bío N°43 Unión Demócrata Independiente
+Carlos Vilches Guzmán III Región de Atacama N°5 Unión Demócrata Independiente
+Gastón Von Mühlenbrock Zamora XIV Región de los Ríos N°54 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8415-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8415-03","No record","Veto emmEnd"

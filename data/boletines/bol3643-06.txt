@@ -1,0 +1,51 @@
+* * Bill summary * *
+"emmStart Summary 3643-06","Legislatura: 351
+Fecha de ingreso: martes 31 de agosto de 2004
+Estado: Tramitación terminada (Ley Nº 19.973 - D.Oficial 10/09/2004)
+Numero de boletín: 3643-06
+Materia: Feriados
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 06:50:00
+* * Hitos de tramitación * *
+"emmStart Hitos 3643-06","Fecha Sesión Etapa Sub-etapa Documento
+31 de Ago. de 2004   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+31 de Ago. de 2004 35ª / 351 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+31 de Ago. de 2004   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+01 de Sep. de 2004 36ª / 351 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+01 de Sep. de 2004 36ª / 351 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+01 de Sep. de 2004   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+01 de Sep. de 2004 25ª / 351 Segundo trámite constitucional / Senado Discusión general Ver
+01 de Sep. de 2004 25ª / 351 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización
+01 de Sep. de 2004   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+02 de Sep. de 2004 37ª / 351 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+02 de Sep. de 2004   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3643-06","Fecha Etapa Informe Documento
+31 de Ago. de 2004 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3643-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3643-06","Nombre Región Distrito Partido
+Eugenio Bauer Jouanne VI Región del Libertador Bernardo O' Higgins N°33 Unión Demócrata Independiente
+Rodrigo González Torres V Región de Valparaíso N°14 Partido Por la Democracia
+Antonio Leal Labrín III Región de Atacama N°5 Partido Por la Democracia
+Pablo Lorenzini Basso VII Región del Maule N°38 Partido Demócrata Cristiano
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+Sergio Ojeda Uribe X Región de los Lagos N°55 Partido Demócrata Cristiano
+Carlos Olivares Zepeda RM Región Metropolitana N°18 Partido Demócrata Cristiano
+Carlos Vilches Guzmán III Región de Atacama N°5 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3643-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+36 1º 80 8 0 0 Aprobado Sala Ver detalle votación
+36 2º 82 3 1 0 Aprobado Sala Ver detalle votación
+36   79 8 0 0 Aprobado Sala Ver detalle votación
+36 Resolución de la Mesa que declara la inadmisibilidad del artículo 3º consignado en el informe. 62 18 2 1 Aprobado Sala Ver detalle votación
+36 Indicación para incorporar un artículo 3º, nuevo. 81 0 2 1 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3643-06","No record","Veto emmEnd"

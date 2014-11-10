@@ -1,0 +1,35 @@
+* * Bill summary * *
+"emmStart Summary 885-10","Legislatura: 325
+Fecha de ingreso: martes 15 de diciembre de 1992
+Estado: Tramitación terminada (D.S. Nº1.489 - D.Oficial 31/12/1992)
+Numero de boletín: 885-10
+Materia: Fondo Multilateral De Inversiones,Inversiones
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 00:16:08
+* * Hitos de tramitación * *
+"emmStart Hitos 885-10","Fecha Sesión Etapa Sub-etapa Documento
+15 de Dic. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+15 de Dic. de 1992 30ª / 325 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+15 de Dic. de 1992 17ª / 325 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+16 de Dic. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+16 de Dic. de 1992 17ª / 325 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+16 de Dic. de 1992 18ª / 325 Segundo trámite constitucional / Senado Discusión general Ver
+16 de Dic. de 1992   Segundo trámite constitucional / Senado Oficio Nº3763. Oficio a la Cámara de Diputados comunicando aprobación del proyecto de acuerdo en los mismos términos. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 885-10","Fecha Etapa Informe Documento
+16 de Dic. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 885-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+15 de Dic. de 1992   Discusión inmediata    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 885-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 885-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 885-10","No record","Veto emmEnd"

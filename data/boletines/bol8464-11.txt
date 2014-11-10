@@ -1,0 +1,35 @@
+* * Bill summary * *
+"emmStart Summary 8464-11","Legislatura: 360
+Fecha de ingreso: martes 31 de julio de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8464-11
+Materia: Código Sanitario,Exhibición Precios De Medicamentos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 01:52:43
+* * Hitos de tramitación * *
+"emmStart Hitos 8464-11","Fecha Sesión Etapa Sub-etapa Documento
+31 de Jul. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+31 de Jul. de 2012 61ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8464-11","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8464-11","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8464-11","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+María Angélica Cristi Marfil RM Región Metropolitana N°24 Unión Demócrata Independiente
+Cristian Letelier Aguilar RM Región Metropolitana N°31 Independientes
+Javier Macaya Danús VI Región del Libertador Bernardo O' Higgins N°34 Unión Demócrata Independiente
+Marisol Turres Figueroa X Región de los Lagos N°57 Unión Demócrata Independiente
+Matías Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano
+Mónica Zalaquett Said RM Región Metropolitana N°20 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8464-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8464-11","No record","Veto emmEnd"

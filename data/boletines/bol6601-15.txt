@@ -1,0 +1,35 @@
+* * Bill summary * *
+"emmStart Summary 6601-15","Legislatura: 357
+Fecha de ingreso: miércoles 08 de julio de 2009
+Estado: Primer trámite constitucional .
+Numero de boletín: 6601-15
+Materia: Estado De Ebriedad,Influencia Del Alcohol,Tránsito
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 14:05:28
+* * Hitos de tramitación * *
+"emmStart Hitos 6601-15","Fecha Sesión Etapa Sub-etapa Documento
+08 de Jul. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+08 de Jul. de 2009 50ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6601-15","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6601-15","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6601-15","Nombre Región Distrito Partido
+Claudio Alvarado Andrade X Región de los Lagos N°58 Unión Demócrata Independiente
+Francisco Chahuán Chahuán V Región de Valparaíso N°14 Renovación Nacional
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Alejandro García-Huidobro Sanfuentes VI Región del Libertador Bernardo O' Higgins N°32 Unión Demócrata Independiente
+Patricio Hales Dib RM Región Metropolitana N°19 Partido Por la Democracia
+Cristián Monckeberg Bruner RM Región Metropolitana N°23 Renovación Nacional
+Roberto Sepúlveda Hermosilla RM Región Metropolitana N°20 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6601-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6601-15","No record","Veto emmEnd"

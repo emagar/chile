@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 745-10","Legislatura: 322
+Fecha de ingreso: domingo 07 de julio de 1991
+Estado: Tramitación terminada (D.S. Nº 31 - D.Oficial 11/04/1995)
+Numero de boletín: 745-10
+Materia: Acuerdos Internacionales
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 22:23:42
+* * Hitos de tramitación * *
+"emmStart Hitos 745-10","Fecha Sesión Etapa Sub-etapa Documento
+07 de Jul. de 1992   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+07 de Jul. de 1992 8ª / 324 Primer trámite constitucional / Senado Cuenta de proyecto
+13 de Ene. de 1993 23ª / 325 Primer trámite constitucional / Senado Primer informe de comisión Ver
+14 de Ene. de 1993 23ª / 325 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+28 de Ene. de 1993 30ª / 325 Primer trámite constitucional / Senado Discusión general. Se acuerda enviarlo a la Comisión de Constitución, Legislación, Justicia y Reglamento. Ver
+08 de Jun. de 1994 5ª / 329 Primer trámite constitucional / Senado Primer informe de comisión Ver
+14 de Jun. de 1994 5ª / 329 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+16 de Jun. de 1994 6ª / 329 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+16 de Jun. de 1994 6ª / 329 Primer trámite constitucional / Senado Discusión general. y particular. Aprobado en general y particular. Ver
+21 de Jun. de 1994 12ª / 329 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+21 de Jul. de 1994 15ª / 329 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+21 de Jul. de 1994 15ª / 329 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 745-10","Fecha Etapa Informe Documento
+08 de Jun. de 1994 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+13 de Ene. de 1993 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 745-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 745-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 745-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 745-10","No record","Veto emmEnd"

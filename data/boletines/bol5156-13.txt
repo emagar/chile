@@ -1,0 +1,58 @@
+* * Bill summary * *
+"emmStart Summary 5156-13","Legislatura: 355
+Fecha de ingreso: jueves 21 de junio de 2007
+Estado: Tramitación terminada (Ley Nº 20.271 - D.Oficial 12/07/2008)
+Numero de boletín: 5156-13
+Materia: Choferes,Jornada De Trabajo,Locomoción Colectiva
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 07-11-2014 01:17:49
+* * Hitos de tramitación * *
+"emmStart Hitos 5156-13","Fecha Sesión Etapa Sub-etapa Documento
+21 de Jun. de 2007   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+21 de Jun. de 2007 28ª / 355 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social
+09 de Jul. de 2007   Primer trámite constitucional / Senado Primer informe de comisión Ver
+10 de Jul. de 2007 31ª / 355 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+11 de Jul. de 2007 33ª / 355 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 06/08/2007 Ver
+01 de Ago. de 2007 39ª / 355 Primer trámite constitucional / Senado Se acuerda ampliar el plazo de indicaciones hasta el miércoles 08/08/2007, a las 11 horas.
+07 de Ago. de 2007 40ª / 355 Primer trámite constitucional / Senado Se acuerda ampliar el plazo de indicaciones hasta las 12 horas del viernes 10/08/2007.
+10 de Ago. de 2007   Primer trámite constitucional / Senado Boletín de indicaciones
+06 de Nov. de 2007   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+06 de Nov. de 2007 62ª / 355 Primer trámite constitucional / Senado Cuenta del Mensaje 996-355 que hace presente la urgencia Simple
+06 de Nov. de 2007 62ª / 355 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+07 de Nov. de 2007 63ª / 355 Primer trámite constitucional / Senado Discusión particular Ver
+09 de Nov. de 2007   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+13 de Nov. de 2007 100ª / 355 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver Ver
+13 de Nov. de 2007 100ª / 355 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 1023-355 que retira y hace presente la urgencia Simple Ver
+21 de Nov. de 2007 108ª / 355 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 1086-355 que retira la urgencia Simple Ver
+13 de May. de 2008   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de Jun. de 2008 33ª / 356 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+05 de Jun. de 2008 35ª / 356 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+05 de Jun. de 2008   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+10 de Jun. de 2008 25ª / 356 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+10 de Jun. de 2008   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5156-13","Fecha Etapa Informe Documento
+13 de May. de 2008 Segundo trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver
+06 de Nov. de 2007 Primer trámite constitucional Senado Segundo informe de comisión de Trabajo y Previsión Social Ver
+09 de Jul. de 2007 Primer trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5156-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+13 de Nov. de 2007 21 de Nov. de 2007 Simple 1023-355 1086-355
+06 de Nov. de 2007 13 de Nov. de 2007 Simple 996-355 1023-355","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5156-13","Nombre
+Andrés Allamand Zavala
+Soledad Alvear Valenzuela
+Juan Pablo Letelier Morel
+Pedro Muñoz Aburto","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5156-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+35   78 0 1 41 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5156-13","No record","Veto emmEnd"

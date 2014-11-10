@@ -1,0 +1,72 @@
+* * Bill summary * *
+"emmStart Summary 7849-11","Legislatura: 359
+Fecha de ingreso: martes 09 de agosto de 2011
+Estado: Tramitación terminada (Ley Nº 20.673 - D.Oficial 07/06/2013)
+Numero de boletín: 7849-11
+Materia: Donaciones De Organos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 11:56:12
+* * Hitos de tramitación * *
+"emmStart Hitos 7849-11","Fecha Sesión Etapa Sub-etapa Documento
+09 de Ago. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+09 de Ago. de 2011 66ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver
+04 de Oct. de 2011 89ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 412-359 que hace presente la urgencia Simple Ver
+18 de Oct. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Nov. de 2011 102ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+03 de Nov. de 2011 104ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+08 de Nov. de 2011   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+15 de Nov. de 2011 68ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 451-359 que hace presente la urgencia Simple
+14 de Dic. de 2011 81ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 496-359 que retira y hace presente la urgencia Simple
+21 de Dic. de 2011 83ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 510-359 que retira y hace presente la urgencia Suma
+10 de Ene. de 2012 87ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 538-359 que retira y hace presente la urgencia Suma
+10 de Ene. de 2012 87ª / 359 Segundo trámite constitucional / Senado La Sala autoriza a la Comisión de Salud para discutir en general y en particular la iniciativa durante el primer informe.
+31 de Ene. de 2012 94ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 601-359 que retira la urgencias por receso legislativo Ver
+31 de Ene. de 2012   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+05 de Jun. de 2012 22ª / 360 Segundo trámite constitucional / Senado Discusión general Ver
+06 de Jun. de 2012 23ª / 360 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 18/06/2012 Ver
+18 de Jun. de 2012   Segundo trámite constitucional / Senado Boletín de indicaciones
+15 de Ene. de 2013   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+15 de Ene. de 2013 94ª / 360 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+30 de Abr. de 2013 18ª / 361 Segundo trámite constitucional / Senado Discusión particular Ver
+30 de Abr. de 2013   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+07 de May. de 2013 21ª / 361 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+09 de May. de 2013 25ª / 361 Tercer trámite constitucional / C. Diputados Discusión única Ver
+09 de May. de 2013   Tercer trámite constitucional / C. Diputados Oficio N° 10.720, que comunica aprobacion de modificaciones Ver
+09 de May. de 2013   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo. Oficio N° 10.719, al Ejecutivo para su promulgación. Ver
+14 de May. de 2013 23ª / 361 Tercer trámite constitucional / C. Diputados Cuenta oficio N° 10.720, que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7849-11","Fecha Etapa Informe Documento
+15 de Ene. de 2013 Segundo trámite constitucional Senado Segundo informe de comisión de Salud Ver
+31 de Ene. de 2012 Segundo trámite constitucional Senado Primer informe de comisión de Salud Ver
+18 de Oct. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Salud Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7849-11","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+10 de Ene. de 2012 31 de Ene. de 2012 Suma 538-359 601-359
+21 de Dic. de 2011 10 de Ene. de 2012 Suma 510-359 538-359
+14 de Dic. de 2011 21 de Dic. de 2011 Simple 496-359 510-359
+15 de Nov. de 2011 14 de Dic. de 2011 Simple 451-359 496-359
+04 de Oct. de 2011 04 de Nov. de 2011 Simple 412-359 CADUCADA","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7849-11","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Juan Luis Castro González VI Región del Libertador Bernardo O' Higgins N°32 Partido Socialista
+Javier Macaya Danús VI Región del Libertador Bernardo O' Higgins N°34 Unión Demócrata Independiente
+Manuel Monsalve Benavides VIII Región del Bío Bío N°46 Partido Socialista
+Marco Antonio Núñez Lozano V Región de Valparaíso N°11 Partido Por la Democracia
+Alberto Robles Pantoja III Región de Atacama N°6 Partido Radical Social Demócrata
+Karla Rubilar Barahona RM Región Metropolitana N°17 Renovación Nacional
+Víctor Torres Jeldes V Región de Valparaíso N°15 Partido Demócrata Cristiano
+Matías Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7849-11","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+25   59 0 0 61 Aprobado Sala Ver detalle votación
+104   86 3 3 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7849-11","No record","Veto emmEnd"

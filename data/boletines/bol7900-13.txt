@@ -1,0 +1,48 @@
+* * Bill summary * *
+"emmStart Summary 7900-13","Legislatura: 359
+Fecha de ingreso: jueves 01 de septiembre de 2011
+Estado: Tramitación terminada (Ley N° 20.538 - D.Oficial 16/09/2011)
+Numero de boletín: 7900-13 Refundido con: 7893-13
+Materia: Feriado Irrenunciable
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 13:10:11
+* * Hitos de tramitación * *
+"emmStart Hitos 7900-13","Fecha Sesión Etapa Sub-etapa Documento
+01 de Sep. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+01 de Sep. de 2011 77ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+06 de Sep. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión. Certificado Ver
+06 de Sep. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión. Certificado Ver
+06 de Sep. de 2011 78ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 365-359 que hace presente la urgencia Suma Ver
+06 de Sep. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+06 de Sep. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de Sep. de 2011 80ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+08 de Sep. de 2011 81ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+08 de Sep. de 2011   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+13 de Sep. de 2011 52ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 390-359 que retira y hace presente la urgencia Discusión inmediata
+13 de Sep. de 2011 52ª / 359 Segundo trámite constitucional / Senado Por acuerdo de los Comités, ratificado por la Sala, se exime el proyecto del trámite de Comisión y se incorpora en la Tabla de la sesión del día de hoy, como si fuera de Fácil Despacho.
+13 de Sep. de 2011 52ª / 359 Segundo trámite constitucional / Senado Discusión única
+13 de Sep. de 2011   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+14 de Sep. de 2011   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+14 de Sep. de 2011 84ª / 359 Tramitación terminada / Oficio N°1196/SEC/1. Oficio del H. Senado por el cual comunica que ha aprobado, en los mismos términos, los proyectos refundidos. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7900-13","Fecha Etapa Informe Documento
+06 de Sep. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver
+06 de Sep. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7900-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+13 de Sep. de 2011   Discusión inmediata 390-359  
+06 de Sep. de 2011 13 de Sep. de 2011 Suma 365-359 390-359","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7900-13","Nombre Región Distrito Partido
+Ministerio de Trabajo y Previsión Social      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7900-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+81   81 0 3 36 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7900-13","No record","Veto emmEnd"

@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 3253-11","Legislatura: 349
+Fecha de ingreso: miércoles 11 de junio de 2003
+Estado: Primer trámite constitucional .
+Numero de boletín: 3253-11
+Materia: Donaciones De Organos,Datos Personales
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 00:49:44
+* * Hitos de tramitación * *
+"emmStart Hitos 3253-11","Fecha Sesión Etapa Sub-etapa Documento
+11 de Jun. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+11 de Jun. de 2003 5ª / 349 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3253-11","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3253-11","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3253-11","Nombre Región Distrito Partido
+Sergio Aguiló Melo VII Región del Maule N°37 Partido Socialista
+Germán Becker Alvear IX Región de la Araucanía N°50 Renovación Nacional
+Patricio Hales Dib RM Región Metropolitana N°19 Partido Por la Democracia
+Carmen Ibáñez Soto V Región de Valparaíso N°13 Renovación Nacional
+Iván Moreira Barros RM Región Metropolitana N°27 Unión Demócrata Independiente
+Osvaldo Palma Flores VII Región del Maule N°39 Renovación Nacional
+Fulvio Rossi Ciocca I Región de Tarapacá N°2 Independientes
+María Antonieta Saa Díaz RM Región Metropolitana N°17 Partido Por la Democracia
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Partido Demócrata Cristiano
+Patricio Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3253-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3253-11","No record","Veto emmEnd"

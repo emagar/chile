@@ -1,0 +1,48 @@
+* * Bill summary * *
+"emmStart Summary 5822-05","Legislatura: 356
+Fecha de ingreso: miércoles 16 de abril de 2008
+Estado: Tramitación terminada (Ley Nº 20.265 - D.Oficial 23/05/2008)
+Numero de boletín: 5822-05
+Materia: Gas Natural Comprimido,Gas Licuado De Petróleo,Impuestos
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 23:40:17
+* * Hitos de tramitación * *
+"emmStart Hitos 5822-05","Fecha Sesión Etapa Sub-etapa Documento
+16 de Abr. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+16 de Abr. de 2008 19ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+07 de May. de 2008 25ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 214-356 que hace presente la urgencia Suma Ver
+07 de May. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de May. de 2008 26ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+08 de May. de 2008 26ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+08 de May. de 2008   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+13 de May. de 2008 19ª / 356 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+13 de May. de 2008 19ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 280-356 que retira y hace presente la urgencia Discusión inmediata
+14 de May. de 2008   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+14 de May. de 2008 20ª / 356 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+14 de May. de 2008 21ª / 356 Segundo trámite constitucional / Senado Discusión general Ver
+14 de May. de 2008   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+15 de May. de 2008 30ª / 356 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora. Senado comunica que aprobó el proyecto en los mismos términos que la Cámara de Diputados. A S. E. LA PRESIDENTA DE LA REPÚBLICA. (550). Ver
+15 de May. de 2008   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5822-05","Fecha Etapa Informe Documento
+14 de May. de 2008 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+07 de May. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5822-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+13 de May. de 2008   Discusión inmediata 280-356  
+07 de May. de 2008 13 de May. de 2008 Suma 214-356 280-356","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5822-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5822-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+26   66 0 0 54 Aprobado Sala Ver detalle votación
+155 Votación General 10 0 0 3   Hacienda Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5822-05","No record","Veto emmEnd"

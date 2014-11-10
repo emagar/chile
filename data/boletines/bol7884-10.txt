@@ -1,0 +1,59 @@
+* * Bill summary * *
+"emmStart Summary 7884-10","Legislatura: 359
+Fecha de ingreso: martes 30 de agosto de 2011
+Estado: Tramitación terminada (D.S. N° 73 - D.Oficial 23/10/2012)
+Numero de boletín: 7884-10
+Materia: Acuerdo Sobre Servicios Aéreos Chile-Emiratos Árabes Unidos
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 12:20:53
+* * Hitos de tramitación * *
+"emmStart Hitos 7884-10","Fecha Sesión Etapa Sub-etapa Documento
+30 de Ago. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+30 de Ago. de 2011 75ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+30 de Ago. de 2011 75ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 361-359 que hace presente la urgencia Suma Ver
+31 de Ago. de 2011 76ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 361-359 que retira la urgencia Suma Ver
+27 de Sep. de 2011 85ª / 359 Tramitación terminada / Cuenta del Mensaje 394-359 que hace presente la urgencia Suma
+04 de Oct. de 2011 89ª / 359 Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver Ver
+04 de Oct. de 2011 90ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 417-359 que hace presente la urgencia Simple Ver
+08 de Nov. de 2011 105ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 442-359 que hace presente la urgencia Simple Ver
+25 de Nov. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+29 de Nov. de 2011 117ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de Dic. de 2011 120ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 491-359 que hace presente la urgencia Simple Ver
+15 de Dic. de 2011 122ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+15 de Dic. de 2011   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+11 de Ene. de 2012 89ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 549-359 que retira y hace presente la urgencia Simple
+20 de Ene. de 2012   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+31 de Ene. de 2012 94ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 601-359 que retira la urgencias por receso legislativo
+14 de Mar. de 2012   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+04 de Abr. de 2012 7ª / 360 Segundo trámite constitucional / Senado Discusión general Ver
+04 de Abr. de 2012   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+10 de Abr. de 2012 12ª / 360 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+10 de Abr. de 2012   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7884-10","Fecha Etapa Informe Documento
+14 de Mar. de 2012 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+20 de Ene. de 2012 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+25 de Nov. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+27 de Sep. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7884-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+11 de Ene. de 2012 31 de Ene. de 2012 Simple 549-359 601-359
+13 de Dic. de 2011 11 de Ene. de 2012 Simple 491-359 549-359
+08 de Nov. de 2011   Simple 442-359  
+04 de Oct. de 2011   Simple 417-359  
+27 de Sep. de 2011   Suma 394-359  
+30 de Ago. de 2011 31 de Ago. de 2011 Suma 361-359 361-359","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7884-10","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7884-10","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+122   73 2 2 43 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7884-10","No record","Veto emmEnd"

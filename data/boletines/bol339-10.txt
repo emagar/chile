@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 339-10","Legislatura: 321
+Fecha de ingreso: martes 16 de abril de 1991
+Estado: Tramitación terminada (D.S. Nº 889 - D.Oficial 24/01/1994)
+Numero de boletín: 339-10
+Materia: Instituto Interamericano De Cooperacion Para La Agricultura
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 15:46:56
+* * Hitos de tramitación * *
+"emmStart Hitos 339-10","Fecha Sesión Etapa Sub-etapa Documento
+16 de Abr. de 1991 47ª / 321 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+16 de Abr. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+15 de Jul. de 1991   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+15 de Oct. de 1991   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+07 de Abr. de 1992 49ª / 323 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+10 de Jun. de 1992 4ª / 324 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión. Queda para Tabla.
+10 de Jun. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+14 de Jul. de 1992 10ª / 324 Segundo trámite constitucional / Senado Discusión única","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 339-10","Fecha Etapa Informe Documento
+10 de Jun. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+15 de Oct. de 1991 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 339-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 339-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 339-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 339-10","No record","Veto emmEnd"

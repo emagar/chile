@@ -1,0 +1,34 @@
+* * Bill summary * *
+"emmStart Summary 6022-07","Legislatura: 356
+Fecha de ingreso: jueves 07 de agosto de 2008
+Estado: Primer trámite constitucional .
+Numero de boletín: 6022-07
+Materia: Responsabilidad Penal
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 01:57:25
+* * Hitos de tramitación * *
+"emmStart Hitos 6022-07","Fecha Sesión Etapa Sub-etapa Documento
+07 de Ago. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+07 de Ago. de 2008 59ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6022-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6022-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6022-07","Nombre Región Distrito Partido
+Julio Dittborn Cordúa RM Región Metropolitana N°23 Unión Demócrata Independiente
+Gonzalo Duarte Leiva RM Región Metropolitana N°26 Partido Demócrata Cristiano
+Maximiano Errázuriz Eguiguren RM Región Metropolitana N°29 Independientes
+Carlos Abel Jarpa Wevar VIII Región del Bío Bío N°41 Partido Radical Social Demócrata
+Juan Carlos Latorre Carmona VI Región del Libertador Bernardo O' Higgins N°35 Partido Demócrata Cristiano
+Mario Venegas Cárdenas IX Región de la Araucanía N°48 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6022-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6022-07","No record","Veto emmEnd"

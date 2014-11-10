@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 245-10","Legislatura: 321
+Fecha de ingreso: viernes 04 de enero de 1991
+Estado: Tramitación terminada (D.S. Nº 622 - D.Oficial 04/09/1991)
+Numero de boletín: 245-10
+Materia: Acuerdos Internacionales
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 08:02:10
+* * Hitos de tramitación * *
+"emmStart Hitos 245-10","Fecha Sesión Etapa Sub-etapa Documento
+04 de Ene. de 1991   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+08 de Ene. de 1991 29ª / 321 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+05 de Mar. de 1991 36ª / 321 Primer trámite constitucional / Senado Discusión única
+06 de Mar. de 1991 36ª / 321 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+07 de Mar. de 1991 34ª / 321 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+19 de Mar. de 1991   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+21 de Mar. de 1991 40ª / 321 Segundo trámite constitucional / C. Diputados Discusión general Ver
+21 de Mar. de 1991 40ª / 321 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+21 de Mar. de 1991   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen
+09 de Abr. de 1991 42ª / 321 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+11 de Abr. de 1991 43ª / 321 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 245-10","Fecha Etapa Informe Documento
+19 de Mar. de 1991 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 245-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 245-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 245-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 245-10","No record","Veto emmEnd"

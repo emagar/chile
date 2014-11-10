@@ -1,0 +1,56 @@
+* * Bill summary * *
+"emmStart Summary 612-04","Legislatura: 323
+Fecha de ingreso: martes 10 de marzo de 1992
+Estado: Tramitación terminada (Ley Nº 19.184 - D.Oficial 05/12/1992)
+Numero de boletín: 612-04
+Materia: Profesionales De La Educación
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 20:39:01
+* * Hitos de tramitación * *
+"emmStart Hitos 612-04","Fecha Sesión Etapa Sub-etapa Documento
+10 de Mar. de 1992 52ª / 323 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+10 de Mar. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+15 de Abr. de 1992   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Jun. de 1992 3ª / 324 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología y a Comisión de Hacienda
+13 de Jul. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+21 de Jul. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+04 de Ago. de 1992 14ª / 324 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+06 de Ago. de 1992 15ª / 324 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 12/08/1992 Ver
+31 de Ago. de 1992   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+04 de Sep. de 1992   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+08 de Sep. de 1992 23ª / 324 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+08 de Sep. de 1992 23ª / 324 Segundo trámite constitucional / Senado Discusión particular Ver
+15 de Sep. de 1992   Tramitación terminada / Oficio Nº3554. Oficio a la Cámara de Diputados comunicándole la aprobación del proyecto con modificaciones. Ver
+16 de Sep. de 1992 26ª / 324 Comisión Mixta por rechazo de modificaciones / Senado Cuenta oficio rechazo a modificaciones. se designa a los señores Senadores miembros de Comisión de Educación, Cultura, Ciencia y Tecnología para que integren Comisión Mixta. Oficio 3566, a la Cámara, comunicando acuerdo anterior
+13 de Oct. de 1992 3ª / 325 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Cuenta oficio aprobación de informe de Comisión Mixta. queda para tabla. Se aprueba
+15 de Oct. de 1992   Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Oficio aprobación de informe de Comisión Mixta a C.de Origen Ver
+05 de Nov. de 1992 8ª / 325 Discusión veto en Cámara Revisora / Senado Cuenta oficio aprobación veto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología y a Comisión de Hacienda
+10 de Nov. de 1992   Discusión veto en Cámara Revisora / Senado Informe de comisión Ver
+10 de Nov. de 1992   Discusión veto en Cámara Revisora / Senado Informe de comisión Ver
+10 de Nov. de 1992 9ª / 325 Discusión veto en Cámara Revisora / Senado Se acuerda agregar a la Cuenta de esta sesión los informes de las Comisiones de Educación, Cultura, Ciencia y Tecnología y de Hacienda recaídos en las observaciones del Ejecutivo.
+12 de Nov. de 1992 10ª / 325 Discusión veto en Cámara Revisora / Senado Discusión veto
+17 de Nov. de 1992   Tramitación terminada / Oficio Nº3694. Oficio a la Cámara de Diputados comunicándole la aprobación de las observaciones formuladas por el Presidente de la República. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 612-04","Fecha Etapa Informe Documento
+10 de Nov. de 1992 Discusión veto en Cámara Revisora Senado Informe de comisión de Hacienda Ver
+10 de Nov. de 1992 Discusión veto en Cámara Revisora Senado Informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+07 de Oct. de 1992 Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. Senado Informe de comisión Comisión Mixta para Boletín Nº 612-04 Ver
+04 de Sep. de 1992 Segundo trámite constitucional Senado Segundo informe de comisión de Hacienda Ver
+31 de Ago. de 1992 Segundo trámite constitucional Senado Segundo informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+21 de Jul. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+13 de Jul. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+15 de Abr. de 1992 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 612-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 612-04","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 612-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 612-04","No record","Veto emmEnd"

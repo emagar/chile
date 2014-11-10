@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 670-03","Legislatura: 323
+Fecha de ingreso: miércoles 29 de abril de 1992
+Estado: Tramitación terminada (Ley Nº 19.255 - D.Oficial 02/11/1993)
+Numero de boletín: 670-03
+Materia: Promoción Del Turismo,Servicios Publicos,Turismo
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 21:24:44
+* * Hitos de tramitación * *
+"emmStart Hitos 670-03","Fecha Sesión Etapa Sub-etapa Documento
+29 de Abr. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+29 de Abr. de 1992 68ª / 323 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+04 de Sep. de 1992   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de Nov. de 1992 13ª / 325 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+25 de Nov. de 1992 25ª / 325 Primer trámite constitucional / C. Diputados Discusión general Ver
+25 de Nov. de 1992   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+26 de Nov. de 1992 14ª / 325 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Economía y de Hacienda
+30 de Mar. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+07 de Abr. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+13 de Abr. de 1993 41ª / 325 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión. de Economía y de Hacienda
+21 de Abr. de 1993 45ª / 325 Segundo trámite constitucional / Senado Discusión general. Rechazado y se designa a senadores miembros de Comisión de Economía para que integren Comisión Mixta Ver
+21 de Abr. de 1993   Comisión Mixta por rechazo de idea de legislar / Senado Oficio Nº4194. Oficio a la Cámara de Diputados comunicándole el rechazo del proyecto en general y designando a los Senadores miembros de la Comisión de Economía para que integren la Comisión Mixta. Ver
+11 de May. de 1993 50ª / 325 Comisión Mixta por rechazo de idea de legislar / Senado Cuenta oficio integrantes de Comisión Mixta
+07 de Sep. de 1993 22ª / 326 Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / Senado Cuenta oficio aprobación de informe de Comisión Mixta
+15 de Sep. de 1993 26ª / 326 Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / Senado Discusión informe de Comisión Mixta
+16 de Sep. de 1993   Tramitación terminada / Oficio Nº5046. Oficio a la Cámara de Diputados comunicándole la aprobación de la proposición de la Comisión Mixta. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 670-03","Fecha Etapa Informe Documento
+07 de Abr. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+30 de Mar. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Economía Ver
+04 de Sep. de 1992 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 670-03","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+29 de Abr. de 1992   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 670-03","Nombre Región Distrito Partido
+Ministerio de Economía, Fomento y Turism      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 670-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 670-03","No record","Veto emmEnd"

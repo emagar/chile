@@ -1,0 +1,39 @@
+* * Bill summary * *
+"emmStart Summary 368-10","Legislatura: 322
+Fecha de ingreso: martes 23 de julio de 1991
+Estado: Tramitación terminada (D.S. Nº 1.968 - D.Oficial 01/03/1999)
+Numero de boletín: 368-10
+Materia: Acuerdos Internacionales
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 16:22:49
+* * Hitos de tramitación * *
+"emmStart Hitos 368-10","Fecha Sesión Etapa Sub-etapa Documento
+04 de Jun. de 1991 4ª / 322 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+03 de Jul. de 1991   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Jul. de 1991 18ª / 322 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+16 de Jul. de 1991 20ª / 322 Primer trámite constitucional / C. Diputados Discusión general Ver
+23 de Jul. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+23 de Jul. de 1991 20ª / 322 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores Ver
+25 de Jul. de 1991   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+08 de Ago. de 1991 25ª / 322 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+13 de Ago. de 1991 26ª / 322 Segundo trámite constitucional / Senado Discusión única
+14 de Ago. de 1991   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+16 de Jul. de 1992   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 368-10","Fecha Etapa Informe Documento
+25 de Jul. de 1991 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+03 de Jul. de 1991 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 368-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 368-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 368-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 368-10","No record","Veto emmEnd"

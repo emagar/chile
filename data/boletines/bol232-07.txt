@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 232-07","Legislatura: 321
+Fecha de ingreso: martes 08 de enero de 1991
+Estado: Tramitación terminada (Ley Nº 19.038 - D.Oficial 01/02/1991)
+Numero de boletín: 232-07
+Materia: Sename (Chile),Menores
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 07:51:39
+* * Hitos de tramitación * *
+"emmStart Hitos 232-07","Fecha Sesión Etapa Sub-etapa Documento
+08 de Ene. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+08 de Ene. de 1991 26ª / 321 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+16 de Ene. de 1991 34ª / 321 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+16 de Ene. de 1991   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+17 de Ene. de 1991 35ª / 321 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+17 de Ene. de 1991 35ª / 321 Segundo trámite constitucional / Senado Discusión única
+17 de Ene. de 1991   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+29 de Abr. de 2003   Primer trámite constitucional / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 348","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 232-07","Fecha Etapa Informe Documento
+16 de Ene. de 1991 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 232-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+08 de Ene. de 1991   Suma    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 232-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 232-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 232-07","No record","Veto emmEnd"

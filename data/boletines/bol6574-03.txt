@@ -1,0 +1,35 @@
+* * Bill summary * *
+"emmStart Summary 6574-03","Legislatura: 357
+Fecha de ingreso: martes 30 de junio de 2009
+Estado: Primer trámite constitucional .
+Numero de boletín: 6574-03
+Materia: Tarjetas De Prepago
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 13:46:25
+* * Hitos de tramitación * *
+"emmStart Hitos 6574-03","Fecha Sesión Etapa Sub-etapa Documento
+30 de Jun. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+30 de Jun. de 2009 45ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6574-03","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6574-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6574-03","Nombre Región Distrito Partido
+Germán Becker Alvear IX Región de la Araucanía N°50 Renovación Nacional
+Roberto Delmastro Naso XIV Región de los Ríos N°53 Renovación Nacional
+Pablo Galilea Carrillo XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Renovación Nacional
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Marta Isasi Barbieri I Región de Tarapacá N°2 Independientes
+Alfonso Vargas Lyng V Región de Valparaíso N°10 Renovación Nacional
+Germán Verdugo Soto VII Región del Maule N°37 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6574-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6574-03","No record","Veto emmEnd"

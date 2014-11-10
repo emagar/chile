@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 1596-11","Legislatura: 330
+Fecha de ingreso: martes 16 de mayo de 1995
+Estado: Tramitación terminada (Ley Nº 19.405 - D.Oficial 31/08/1995)
+Numero de boletín: 1596-11
+Materia: Atencion Primaria De La Salud
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 11:10:01
+* * Hitos de tramitación * *
+"emmStart Hitos 1596-11","Fecha Sesión Etapa Sub-etapa Documento
+16 de May. de 1995 70ª / 330 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver
+16 de May. de 1995   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+16 de May. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+24 de May. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+30 de May. de 1995 2ª / 331 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+31 de May. de 1995 3ª / 331 Primer trámite constitucional / C. Diputados Discusión general Ver
+31 de May. de 1995   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+06 de Jun. de 1995 4ª / 331 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Salud y a la de Hacienda, en su caso.
+19 de Jul. de 1995   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+19 de Jul. de 1995   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+19 de Jul. de 1995 19ª / 331 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+20 de Jul. de 1995 20ª / 331 Segundo trámite constitucional / Senado Discusión general Ver
+20 de Jul. de 1995   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+01 de Ago. de 1995 22ª / 331 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+08 de Ago. de 1995 25ª / 331 Tercer trámite constitucional / C. Diputados Discusión única Ver
+08 de Ago. de 1995   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1596-11","Fecha Etapa Informe Documento
+19 de Jul. de 1995 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+19 de Jul. de 1995 Segundo trámite constitucional Senado Primer informe de comisión de Salud Ver
+24 de May. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+16 de May. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Salud Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1596-11","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+16 de May. de 1995   Suma    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1596-11","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1596-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1596-11","No record","Veto emmEnd"

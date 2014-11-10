@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 359-13","Legislatura: 322
+Fecha de ingreso: martes 21 de mayo de 1991
+Estado: Tramitación terminada (Ley Nº 19.073 - D.Oficial 31/07/1991)
+Numero de boletín: 359-13
+Materia: Reajustes
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 16:17:03
+* * Hitos de tramitación * *
+"emmStart Hitos 359-13","Fecha Sesión Etapa Sub-etapa Documento
+21 de May. de 1991 1ª / 322 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+21 de May. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+19 de Jun. de 1991   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Jul. de 1991 15ª / 322 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social y a Comisión de Hacienda
+15 de Jul. de 1991   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+16 de Jul. de 1991   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+17 de Jul. de 1991 19ª / 322 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión. de Trabajo y de Hacienda. Quedan para Tabla.
+17 de Jul. de 1991 19ª / 322 Segundo trámite constitucional / Senado Discusión única
+17 de Jul. de 1991   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+23 de Jul. de 1991 20ª / 322 Tercer trámite constitucional / C. Diputados Cuenta de oficio de la Cámara de Diputados con el que comunica que ha aprobado las enmiendas del Senado. Se manda a archivo. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 359-13","Fecha Etapa Informe Documento
+16 de Jul. de 1991 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+15 de Jul. de 1991 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver
+19 de Jun. de 1991 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 359-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+21 de May. de 1991   Simple    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 359-13","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 359-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 359-13","No record","Veto emmEnd"

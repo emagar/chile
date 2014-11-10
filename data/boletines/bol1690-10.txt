@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 1690-10","Legislatura: 331
+Fecha de ingreso: miércoles 06 de septiembre de 1995
+Estado: Tramitación terminada (D.S. Nº 2.137 - D.Oficial 13/02/1998)
+Numero de boletín: 1690-10
+Materia: Acuerdos Internacionales
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 12:21:52
+* * Hitos de tramitación * *
+"emmStart Hitos 1690-10","Fecha Sesión Etapa Sub-etapa Documento
+06 de Sep. de 1995   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+06 de Sep. de 1995 32ª / 331 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+09 de Jul. de 1997 14ª / 335 Primer trámite constitucional / Senado Primer informe de comisión Ver
+09 de Jul. de 1997 14ª / 335 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Jul. de 1997 15ª / 335 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+10 de Jul. de 1997 15ª / 335 Primer trámite constitucional / Senado Discusión general Ver
+16 de Jul. de 1997 21ª / 335 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+22 de Jul. de 1997   Segundo trámite constitucional / C. Diputados Primer informe de comisión
+05 de Ago. de 1997 27ª / 335 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+18 de Nov. de 1997 15ª / 336 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+18 de Nov. de 1997   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+25 de Nov. de 1997 15ª / 336 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+25 de Nov. de 1997 15ª / 336 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1690-10","Fecha Etapa Informe Documento
+22 de Jul. de 1997 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+09 de Jul. de 1997 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1690-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1690-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1690-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1690-10","No record","Veto emmEnd"

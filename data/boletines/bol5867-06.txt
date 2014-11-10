@@ -1,0 +1,55 @@
+* * Bill summary * *
+"emmStart Summary 5867-06","Legislatura: 356
+Fecha de ingreso: jueves 08 de mayo de 2008
+Estado: Tramitación terminada (Ley Nº 20.266 - D.Oficial 07/06/2008)
+Numero de boletín: 5867-06
+Materia: Dirección Regional Del Servicio Electoral,Región De Arica Y Parinacota (Chile) 15,Décimoquinta Región (Chile)
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 00:10:07
+* * Hitos de tramitación * *
+"emmStart Hitos 5867-06","Fecha Sesión Etapa Sub-etapa Documento
+08 de May. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+08 de May. de 2008 26ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social y a Comisión de Hacienda Ver
+08 de May. de 2008 26ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 217-356 que hace presente la urgencia Suma Ver
+13 de May. de 2008 27ª / 356 Primer trámite constitucional / C. Diputados P. de la Rep. retira y hace presente urgencia de \""discusión inmediata\"". A COMISIÓN DE GOBIERNO INTERIOR. Ver
+13 de May. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión. Eximido del trámite ante Comisión Derivado a Comisión de Hacienda Ver
+13 de May. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+14 de May. de 2008 28ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Gobierno Interior y Cerificado de la Comisión de Hacienda. Ver
+14 de May. de 2008 28ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+14 de May. de 2008   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+14 de May. de 2008 21ª / 356 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización y a Comisión de Hacienda, en su caso. Ver
+14 de May. de 2008 21ª / 356 Segundo trámite constitucional / Senado La Sala, a solicitud del Senador señor Bianchi, acuerda que esta iniciativa sea conocida por las Comisiones Unidas de Gobierno, Descentralización y Regionalización y de Hacienda.
+19 de May. de 2008   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+20 de May. de 2008 22ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 300-356 que retira y hace presente la urgencia Discusión inmediata
+20 de May. de 2008 22ª / 356 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+20 de May. de 2008 22ª / 356 Segundo trámite constitucional / Senado Discusión general Ver
+20 de May. de 2008   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+20 de May. de 2008   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo. Remite proyecto aprobado por el Congreso Nacional para ejercer la facultad de veto Ver
+03 de Jun. de 2008 33ª / 356 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver Ver
+03 de Jun. de 2008 33ª / 356 Trámite finalización en Cámara de Origen / C. Diputados Oficio Nº306-356. P, de la Rep. comunica que no hará uso de la facultad del inciso primero del artículo 73 de la Const. Pl. de la Rep. Ver
+03 de Jun. de 2008 33ª / 356 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio N? 1981 del Tribunal Constitucional Ver
+03 de Jun. de 2008 33ª / 356 Trámite en Tribunal Constitucional / C. Diputados Cuenta fallo del Tribunal Constitucional Ver Ver
+04 de Jun. de 2008   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5867-06","Fecha Etapa Informe Documento
+19 de May. de 2008 Segundo trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización y de Hacienda, unidas Ver
+13 de May. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+13 de May. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5867-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+20 de May. de 2008   Discusión inmediata 300-356  
+08 de May. de 2008 13 de May. de 2008 Suma 217-356 272-356","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5867-06","Nombre Región Distrito Partido
+Ministerio de Interior y Seguridad Públi      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5867-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+70 Votación General 11 0 0 2   Gobierno Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5867-06","No record","Veto emmEnd"

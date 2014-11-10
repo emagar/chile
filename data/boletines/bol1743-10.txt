@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 1743-10","Legislatura: 332
+Fecha de ingreso: martes 14 de noviembre de 1995
+Estado: Tramitación terminada (D.S. Nº 1.223 - D.Oficial 22/09/2000)
+Numero de boletín: 1743-10
+Materia: Visas
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 13:59:42
+* * Hitos de tramitación * *
+"emmStart Hitos 1743-10","Fecha Sesión Etapa Sub-etapa Documento
+14 de Nov. de 1995   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+14 de Nov. de 1995 13ª / 332 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+08 de Sep. de 1999   Primer trámite constitucional / Senado Primer informe de comisión Ver
+08 de Sep. de 1999 29ª / 340 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+14 de Sep. de 1999 32ª / 340 Primer trámite constitucional / Senado Discusión general Ver
+15 de Sep. de 1999   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+16 de Sep. de 1999 42ª / 340 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+20 de Jun. de 2000   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+20 de Jun. de 2000 5ª / 342 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+22 de Jun. de 2000 8ª / 342 Segundo trámite constitucional / C. Diputados Discusión general Ver
+22 de Jun. de 2000   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+04 de Jul. de 2000 7ª / 342 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+05 de Jul. de 2000 30ª / 344 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1743-10","Fecha Etapa Informe Documento
+20 de Jun. de 2000 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+08 de Sep. de 1999 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1743-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+14 de Nov. de 1995 16 de Sep. de 1998 Sin urgencia   CADUCADO","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1743-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1743-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1743-10","No record","Veto emmEnd"

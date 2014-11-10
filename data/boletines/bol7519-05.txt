@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 7519-05","Legislatura: 358
+Fecha de ingreso: miércoles 09 de marzo de 2011
+Estado: Tramitación terminada (Ley Nº 20.679 - D.Oficial 01/07/2013)
+Numero de boletín: 7519-05
+Materia: Cuentas De Ahorro Para Los Hijos
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 09-11-2014 05:02:40
+* * Hitos de tramitación * *
+"emmStart Hitos 7519-05","Fecha Sesión Etapa Sub-etapa Documento
+09 de Mar. de 2011   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+09 de Mar. de 2011 93ª / 358 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+15 de Mar. de 2011   Primer trámite constitucional / Senado Primer informe de comisión Ver
+16 de Mar. de 2011 3ª / 359 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+22 de Mar. de 2011 4ª / 359 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 05/04/2011 Ver
+13 de Abr. de 2011 8ª / 359 Primer trámite constitucional / Senado Discusión particular Ver
+13 de Abr. de 2011   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+14 de Abr. de 2011 14ª / 359 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+17 de May. de 2013   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+22 de May. de 2013 30ª / 361 Segundo trámite constitucional / C. Diputados Cuenta. Primer informe de la Comisión de Hacienda recaído en el proyecto. Ver
+22 de May. de 2013 30ª / 361 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+23 de May. de 2013 31ª / 361 Segundo trámite constitucional / C. Diputados Discusión general. Aprobado en general y particular sin modificaciones Ver
+23 de May. de 2013 31ª / 361 Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver Ver
+04 de Jun. de 2013 27ª / 361 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+04 de Jun. de 2013   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7519-05","Fecha Etapa Informe Documento
+17 de May. de 2013 Segundo trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+15 de Mar. de 2011 Primer trámite constitucional Senado Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7519-05","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7519-05","Nombre
+Isabel Allende Bussi
+Soledad Alvear Valenzuela
+Lily Pérez San Martín
+Ximena Rincón González","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7519-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+31   57 0 0 63 Aprobado Sala Ver detalle votación
+262 Votación General 8 0 0 5   Hacienda Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7519-05","No record","Veto emmEnd"

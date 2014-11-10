@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 8247-07","Legislatura: 360
+Fecha de ingreso: jueves 03 de mayo de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8247-07
+Materia: Constitucion 1980,Explotación Del Litio
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 23:12:21
+* * Hitos de tramitación * *
+"emmStart Hitos 8247-07","Fecha Sesión Etapa Sub-etapa Documento
+03 de May. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de May. de 2012 21ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8247-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8247-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8247-07","Nombre Región Distrito Partido
+Pedro Araya Guerrero II Región de Antofagasta N°4 Partido Regionalista Independiente
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Guillermo Ceroni Fuentes VII Región del Maule N°40 Partido Por la Democracia
+Marta Isasi Barbieri I Región de Tarapacá N°2 Independientes
+Cristián Monckeberg Bruner RM Región Metropolitana N°23 Renovación Nacional
+Ricardo Rincón González VI Región del Libertador Bernardo O' Higgins N°33 Partido Demócrata Cristiano
+Marcelo Schilling Rodríguez V Región de Valparaíso N°12 Partido Socialista
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Partido Regionalista Independiente
+Víctor Torres Jeldes V Región de Valparaíso N°15 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8247-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8247-07","No record","Veto emmEnd"

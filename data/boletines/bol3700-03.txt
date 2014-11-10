@@ -1,0 +1,48 @@
+* * Bill summary * *
+"emmStart Summary 3700-03","Legislatura: 352
+Fecha de ingreso: jueves 07 de octubre de 2004
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 3700-03
+Materia: Alcoholes,Bebidas Alcoholicas
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 07:41:51
+* * Hitos de tramitación * *
+"emmStart Hitos 3700-03","Fecha Sesión Etapa Sub-etapa Documento
+07 de Oct. de 2004   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+07 de Oct. de 2004 2ª / 352 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+19 de Oct. de 2004 8ª / 352 Primer trámite constitucional / C. Diputados Se acuerda que el proyecto una vez informado por la Comisión de Economía, pase a la de Salud (Of. 5210 y 5211 a los Presidentes de las Comisiones de Economía y Salud, respectivamente, comunica acuerdo de la Sala) Ver
+08 de Abr. de 2010   Primer trámite constitucional / C. Diputados Por acuerdo de la Corporación, -a petición del Diputado Tuma- queda sin efecto el acuerdo adoptado en sesión 8 de 19 de octubre de 2004. Por lo anterior, el proyecto será sólo estudiado por la Comisión de Economía (Oficios 8640 y 8639 a los Presidentes de las Comisiones de Economía y Salud, respectivamente)
+26 de Jul. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+27 de Jul. de 2010 55ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+29 de Jul. de 2010 57ª / 358 Primer trámite constitucional / C. Diputados Se devuelve el proyecto a la Comisión para nuevo primer informe. Ver
+29 de Jul. de 2010   Primer trámite constitucional / C. Diputados Oficio N° 8898. Nuevo primer informe Ver
+09 de Dic. de 2010   Primer trámite constitucional / C. Diputados Nuevo primer informe de comisión Ver
+14 de Dic. de 2010 111ª / 358 Primer trámite constitucional / C. Diputados Cuenta nuevo primer informe Ver
+16 de Dic. de 2010 116ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3700-03","Fecha Etapa Informe Documento
+09 de Dic. de 2010 Primer trámite constitucional C.Diputados Nuevo primer informe de comisión de Economía, Fomento y Desarrollo Ver
+26 de Jul. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3700-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3700-03","Nombre Región Distrito Partido
+José Antonio Galilea Vidaurre IX Región de la Araucanía N°49 Renovación Nacional
+Patricio Hales Dib RM Región Metropolitana N°19 Partido Por la Democracia
+Fernando Meza Moncada IX Región de la Araucanía N°52 Partido Radical Social Demócrata
+Pedro Muñoz Aburto XII Región de Magallanes y de la Antártica Chilena N°60 Partido Socialista
+Eduardo Saffirio Suárez IX Región de la Araucanía N°50 Partido Demócrata Cristiano
+Eugenio Tuma Zedan IX Región de la Araucanía N°51 Partido Por la Democracia
+Gonzalo Uriarte Herrera RM Región Metropolitana N°31 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3700-03","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+116   36 43 17 24 Rechazado Sala Ver detalle votación
+12 Votación General 7 3 1 2   Economía Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3700-03","No record","Veto emmEnd"

@@ -1,0 +1,65 @@
+* * Bill summary * *
+"emmStart Summary 3806-08","Legislatura: 352
+Fecha de ingreso: martes 15 de marzo de 2005
+Estado: Tramitación terminada (Ley Nº 20.018 - D.Oficial 19/05/2005)
+Numero de boletín: 3806-08
+Materia: Sector Eléctrico
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 17:40:38
+* * Hitos de tramitación * *
+"emmStart Hitos 3806-08","Fecha Sesión Etapa Sub-etapa Documento
+15 de Mar. de 2005 50ª / 352 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 376-352 que hace presente la urgencia Suma Ver
+15 de Mar. de 2005 50ª / 352 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Minería y Energía Ver
+15 de Mar. de 2005   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+05 de Abr. de 2005 57ª / 352 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 406-352 que retira y hace presente la urgencia Suma Ver
+08 de Abr. de 2005   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Abr. de 2005 62ª / 352 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+12 de Abr. de 2005 62ª / 352 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+12 de Abr. de 2005 62ª / 352 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 431-352 que retira y hace presente la urgencia Discusión inmediata Ver
+12 de Abr. de 2005   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+12 de Abr. de 2005 43ª / 352 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Minería y Energía Ver
+13 de Abr. de 2005 44ª / 352 Segundo trámite constitucional / Senado Cuenta del Mensaje 441-352, con el que se retira la urgencia y se hace presente, nuevamente, en el carácter de suma.
+19 de Abr. de 2005   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+19 de Abr. de 2005 45ª / 352 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+19 de Abr. de 2005 45ª / 352 Segundo trámite constitucional / Senado Cuenta del Mensaje 452-352 que retira la urgencia y la hace presente como Discusión inmediata
+20 de Abr. de 2005 47ª / 352 Segundo trámite constitucional / Senado Discusión general Ver
+21 de Abr. de 2005   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+03 de May. de 2005 69ª / 352 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver Ver
+03 de May. de 2005 69ª / 352 Tercer trámite constitucional / C. Diputados Cuenta del Mensaje 463-352 que retira y hace presente la urgencia Discusión inmediata Ver
+03 de May. de 2005 69ª / 352 Tercer trámite constitucional / C. Diputados Discusión única Ver
+03 de May. de 2005   Tercer trámite constitucional / C. Diputados Oficio Nº 5528, que comunica aprobación de modificaciones Ver
+03 de May. de 2005   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo. Nº 5527 Ver
+04 de May. de 2005 49ª / 352 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 5528, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3806-08","Fecha Etapa Informe Documento
+19 de Abr. de 2005 Segundo trámite constitucional Senado Primer informe de comisión de Minería y Energía Ver
+08 de Abr. de 2005 Primer trámite constitucional C.Diputados Primer informe de comisión de Minería y Energía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3806-08","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+03 de May. de 2005   Discusión inmediata 463-352  
+19 de Abr. de 2005 03 de May. de 2005 Discusión inmediata 452-352 463-352
+13 de Abr. de 2005 19 de Abr. de 2005 Suma 441-352 452-352
+12 de Abr. de 2005 13 de Abr. de 2005 Discusión inmediata 431-352 441-352
+05 de Abr. de 2005 05 de Abr. de 2005 Suma 406-352 431-352
+15 de Mar. de 2005 05 de Abr. de 2005 Suma 376-352 406-352","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3806-08","Nombre Región Distrito Partido
+Ministerio de Minería      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3806-08","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+62 Indicación de S.E. el Presidente de la República para agregar el siguiente artículo 7º transitorio, nuevo: ¿Artículo 7º transitorio.- Facúltase al Presidente de la República para que, dentro del plazo de un año contado desde la publicación de esta ley, mediante uno o más decretos con fuerza de ley expedidos a través del Ministerio de Economía, Fomento y Reconstrucción, introduzca en el decreto con fuerza de ley Nº 1, de 1982, del Ministerio de Minería, ley General de Servicios Eléctricos, las adecuaciones de referencias, denominaciones, expresiones y numeraciones que sean procedentes a consecuencia de las disposiciones de esta ley, en materia de régimen de precios de nudo y su cálculo, precio básico de la energía, precio básico de la potencia, peajes de subtransmisión, peajes de transmisión troncal, contratación de suministro de empresas concesionarias de servicio público de distribución y traspaso de costos de suministro a clientes de empresas concesionarias de servicio público de distribución. Esta facultad se limitará exclusivamente a efectuar las adecuaciones que permitan la comprensión armónica de las normas legales contenidas en el decreto con fuerza de ley N° 1 de 1982 referido con las disposiciones de la presente ley, y no podrá incorporar modificaciones ni derogar disposiciones diferentes de las que se desprenden de esta ley.¿ 103 0 0 1 Aprobado Sala Ver detalle votación
+62   104 0 0 1 Aprobado Sala Ver detalle votación
+62 Indicación del diputado señor Bertolino, para trasladar, como nuevo artículo 3º bis transitorio, el artículo 99 ter, contenido en el número 6 del artículo 1º del proyecto. 29 67 2 6 Rechazado Sala Ver detalle votación
+69   97 0 0 1 Aprobado Sala Ver detalle votación
+62 Indicación de S.E. el Presidente de la República para incorporar en la letra a) del artículo 1° transitorio, a continuación de la palabra ¿mencionado¿ y antes del punto y aparte, la expresión ¿en el artículo 7° transitorio¿. 106 0 0 1 Aprobado Sala Ver detalle votación
+62 Indicación del Diputado señor Bertolino, para agregar, en el artículo 1º transitorio, la siguiente letra c), nueva: ¿c) A los clientes no sometidos a regulación de precios que hayan suscrito contratos con anterioridad al 1 de abril de 2004 no les será aplicable lo establecido en el artículo 2º de esta ley.¿ 17 69 4 1 Rechazado Sala Ver detalle votación
+62 Indicación de S.E. el Presidente de la República para sustituir el artículo 4º transitorio por el siguiente: ¿Artículo 4º transitorio.- En el plazo de quince días a contar de la entrada en vigencia de esta ley, el Ministerio de Economía Fomento y Reconstrucción, previo informe de la Comisión Nacional de Energía, mediante decreto expedido bajo la fórmula ¿por orden del Presidente de la República¿, ajustará los precios de nudo vigentes, de manera de aplicar en su determinación la Banda de Precios de Mercado de acuerdo con lo dispuesto en el artículo 101 ter del D.F.L. Nº1 de 1982, del Ministerio de Minería, y fijará como precios de nudo los valores resultantes. Este ajuste se efectuará considerando exclusivamente los antecedentes que se tuvieron en cuenta en la fijación de los precios de nudo vigentes."" 103 0 0 2 Aprobado Sala Ver detalle votación
+62 Indicación de S.E. el Presidente de la República para agregar el siguiente artículo 3º, nuevo: ¿Artículo 3º.- Los importadores de gas natural en cualquier estado físico, deberán diversificar los aprovisionamientos de gas, de modo tal que la suma a nivel nacional de las importaciones provenientes de un mismo país de origen no sea superior a una proporción equivalente al 85%, conforme el procedimiento que señale el reglamento. La obligación del inciso anterior será exigible para todos los contratos que se celebren desde la entrada en vigencia de este artículo, con la excepción de los contratos que permitan al importador mantener los volúmenes de gas natural que tenía contratado a la misma fecha. La obligación señalada en el inciso primero de este artículo podrá cumplirse a nivel regional, considerando para estos efectos el gas natural extraído en la respectiva región."" 59 45 2 1 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3806-08","No record","Veto emmEnd"

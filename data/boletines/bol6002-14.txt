@@ -1,0 +1,33 @@
+* * Bill summary * *
+"emmStart Summary 6002-14","Legislatura: 356
+Fecha de ingreso: jueves 31 de julio de 2008
+Estado: Primer trámite constitucional .
+Numero de boletín: 6002-14
+Materia: Promesa De Compraventa,Urbanismo Y Construcciones
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 01:43:21
+* * Hitos de tramitación * *
+"emmStart Hitos 6002-14","Fecha Sesión Etapa Sub-etapa Documento
+31 de Jul. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+31 de Jul. de 2008 56ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Vivienda y Desarrollo Urbano Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6002-14","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6002-14","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6002-14","Nombre Región Distrito Partido
+Gonzalo Duarte Leiva RM Región Metropolitana N°26 Partido Demócrata Cristiano
+Jorge Insunza Gregorio de las Heras RM Región Metropolitana N°28 Partido Por la Democracia
+Manuel Monsalve Benavides VIII Región del Bío Bío N°46 Partido Socialista
+Fulvio Rossi Ciocca I Región de Tarapacá N°2 Partido Socialista
+Carolina Tohá Morales RM Región Metropolitana N°22 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6002-14","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6002-14","No record","Veto emmEnd"

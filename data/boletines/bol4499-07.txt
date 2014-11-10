@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 4499-07","Legislatura: 354
+Fecha de ingreso: jueves 07 de septiembre de 2006
+Estado: Segundo trámite constitucional .
+Numero de boletín: 4499-07 Refundido con: 4891-07,4701-07,7888-07,4115-07,8221-07
+Materia: Concejales,Reforma Constitucional,Reelección Presidente De La República,Reelección De Parlamentarios
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 02:26:45
+* * Hitos de tramitación * *
+"emmStart Hitos 4499-07","Fecha Sesión Etapa Sub-etapa Documento
+07 de Sep. de 2006 73ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+07 de Sep. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+11 de Sep. de 2012   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Sep. de 2012 79ª / 360 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+12 de Sep. de 2012 80ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+13 de Sep. de 2012 76ª / 360 Primer trámite constitucional / C. Diputados Oficio de la Comisión de Constitución, Legislación y Justicia, por el cual solicita el acuerdo de la Sala, de conformidad con el artículo 17 A de la Ley Orgánica Constitucional del Congreso Nacional, para refundir los Boletines N°s . 4115-07, 4499-07, 4701-07, 4891-07, 7888-07, 8221-07. ACORDADO. Ver
+03 de Oct. de 2012   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+09 de Oct. de 2012 86ª / 360 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+10 de Oct. de 2012 88ª / 360 Primer trámite constitucional / C. Diputados Discusión particular Ver
+10 de Oct. de 2012   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+16 de Oct. de 2012 55ª / 360 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4499-07","Fecha Etapa Informe Documento
+04 de Oct. de 2012 Primer trámite constitucional C.Diputados Segundo informe de comisión de Constitución, Legislación y Justicia Ver
+11 de Sep. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4499-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4499-07","Nombre Región Distrito Partido
+René Alinco Bustos XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Partido Por la Democracia
+Ramón Farías Ponce RM Región Metropolitana N°30 Partido Por la Democracia
+Tucapel Jiménez Fuentes RM Región Metropolitana N°27 Partido Por la Democracia
+Ximena Vidal Lázaro RM Región Metropolitana N°25 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4499-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4499-07","No record","Veto emmEnd"

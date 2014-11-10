@@ -1,0 +1,51 @@
+* * Bill summary * *
+"emmStart Summary 6628-06","Legislatura: 357
+Fecha de ingreso: miércoles 29 de julio de 2009
+Estado: Primer trámite constitucional .
+Numero de boletín: 6628-06
+Materia: Alcaldes,Parlamentarios,Presidente De La República De Chile,Elecciones Primarias
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 14:26:42
+* * Hitos de tramitación * *
+"emmStart Hitos 6628-06","Fecha Sesión Etapa Sub-etapa Documento
+29 de Jul. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+29 de Jul. de 2009 56ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+18 de Ago. de 2009 67ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 949-357 que hace presente la urgencia Suma Ver
+01 de Sep. de 2009 73ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 993-357 que retira y hace presente la urgencia Suma Ver
+15 de Sep. de 2009 79ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1164-357 que retira la urgencia Suma Ver
+29 de Sep. de 2009 82ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1185-357 que hace presente la urgencia Simple Ver
+06 de Oct. de 2009 85ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1287-357 que retira y hace presente la urgencia Suma Ver
+27 de Oct. de 2009 92ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1360-357 que retira y hace presente la urgencia Suma Ver
+10 de Nov. de 2009 100ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1525-357 que retira y hace presente la urgencia Simple Ver
+18 de Nov. de 2009 106ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1587-357 que retira la urgencia Simple Ver
+15 de Dic. de 2009 109ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1668-357 que hace presente la urgencia Simple Ver
+05 de Ene. de 2010 114ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1736-357 que retira y hace presente la urgencia Suma Ver
+19 de Ene. de 2010 120ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1822-357 que retira y hace presente la urgencia Suma Ver
+08 de Mar. de 2010 123ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1934-357 que retira la urgencia Suma Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6628-06","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6628-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+19 de Ene. de 2010 08 de Mar. de 2010 Suma 1822-357 1934-357
+15 de Dic. de 2009 05 de Ene. de 2010 Simple 1668-357 1736-357
+10 de Nov. de 2009 18 de Nov. de 2009 Simple 1525-357 1587-357
+27 de Oct. de 2009 10 de Nov. de 2009 Suma 1360-357 1525-357
+06 de Oct. de 2009 27 de Oct. de 2009 Suma 1287-357 1360-357
+29 de Sep. de 2009 06 de Oct. de 2009 Simple 1185-357 1287-357
+01 de Sep. de 2009 15 de Sep. de 2009 Suma 993-357 1164-357
+18 de Ago. de 2009 01 de Sep. de 2009 Suma 949-357 993-357
+05 de Ene. de 0010 19 de Ene. de 2010 Suma 1736-357 1822-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6628-06","Nombre Región Distrito Partido
+Ministerio de Interior y Seguridad Públi      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6628-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+127 Votación General 8 0 0 5   Gobierno Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6628-06","No record","Veto emmEnd"

@@ -1,0 +1,50 @@
+* * Bill summary * *
+"emmStart Summary 3881-05","Legislatura: 353
+Fecha de ingreso: martes 07 de junio de 2005
+Estado: Archivado .
+Numero de boletín: 3881-05
+Materia: Fundación Padre Alberto Hurtado,Beneficios Tributarios
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 21:56:12
+* * Hitos de tramitación * *
+"emmStart Hitos 3881-05","Fecha Sesión Etapa Sub-etapa Documento
+07 de Jun. de 2005 1ª / 353 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+07 de Jun. de 2005   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+21 de Jun. de 2005   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+22 de Jun. de 2005 9ª / 353 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Hacienda Ver
+05 de Jul. de 2005 11ª / 353 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 87-353 que hace presente la urgencia Simple Ver
+12 de Jul. de 2005 14ª / 353 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+12 de Jul. de 2005   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+13 de Jul. de 2005 16ª / 353 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+16 de Ago. de 2005 26ª / 353 Segundo trámite constitucional / Senado Cuenta del Mensaje 184-353 que retira y hace presente la urgencia Simple
+04 de Oct. de 2005 38ª / 353 Segundo trámite constitucional / Senado Cuenta del Mensaje 294-353 que retira y hace presente la urgencia Simple
+07 de Mar. de 2006 60ª / 353 Segundo trámite constitucional / Senado Oficio Nº554-353. Cuenta Mensaje del Ejecutivo con el que solicita archivo del PL. Se accede a lo solicitado, y se manda comunicar a la CCDD. Ver
+08 de Mar. de 2006   Segundo trámite constitucional / Senado Oficio Nº26390. Acoge solicitud de S.E. el Presidente de la Repúblca de archivar proyecto de ley. Ver
+14 de Mar. de 2006 2ª / 354 Archivado / Cuenta oficio del Senado en la Cámara de Diputados que comunica solicitud para archivo de proyecto
+18 de May. de 2006   Archivado / Oficio Nº 6180. Se accede a petición del Senado en orden a proceder a su archivo Ver
+18 de May. de 2006   Segundo trámite constitucional / Senado Archivado
+18 de May. de 2006 29ª / 354 Segundo trámite constitucional / Senado Sala acuerda el archivo.
+06 de Jun. de 2006 19ª / 354 Archivado / Cuenta de oficio N° 6180 de la CCDD, con el que comunica que ha accedido a la solicitud de archivo. Se toma conocimiento y se manda archivar el documento junto a sus antecedentes.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3881-05","Fecha Etapa Informe Documento
+21 de Jun. de 2005 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3881-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Oct. de 2005   Simple 294-353  
+16 de Ago. de 2005 04 de Oct. de 2005 Simple 184-353 294-353
+05 de Jul. de 2005 16 de Ago. de 2005 Simple 87-353 184-353","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3881-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3881-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+14 Texto del articulado con indicación del señor Longueira para reemplazar el inciso final del artículo único. 89 0 0 3 Aprobado Sala Ver detalle votación
+14   98 0 0 2 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3881-05","No record","Veto emmEnd"

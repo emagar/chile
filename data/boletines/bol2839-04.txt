@@ -1,0 +1,64 @@
+* * Bill summary * *
+"emmStart Summary 2839-04","Legislatura: 345
+Fecha de ingreso: martes 18 de diciembre de 2001
+Estado: Tramitación terminada (Ley Nº 19.820 - D.Oficial 09/08/2002)
+Numero de boletín: 2839-04
+Materia: Liceo Experimental Manuel De Salas (Santiago, Chile)
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 17:06:31
+* * Hitos de tramitación * *
+"emmStart Hitos 2839-04","Fecha Sesión Etapa Sub-etapa Documento
+18 de Dic. de 2001   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+18 de Dic. de 2001 20ª / 345 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+08 de Ene. de 2002 23ª / 345 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 181-345 que hace presente la urgencia Simple Ver
+05 de Mar. de 2002 32ª / 345 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 228-345 que retira la urgencia Simple Ver
+05 de Mar. de 2002   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+19 de Mar. de 2002 3ª / 346 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+20 de Mar. de 2002 4ª / 346 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+20 de Mar. de 2002   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+02 de Abr. de 2002 4ª / 346 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+09 de Abr. de 2002 7ª / 346 Segundo trámite constitucional / Senado Cuenta de segundo informe de la Comisión. Queda para tabla.
+30 de Abr. de 2002   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+30 de Abr. de 2002 11ª / 346 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+07 de May. de 2002 12ª / 346 Segundo trámite constitucional / Senado Discusión general Ver
+03 de Jun. de 2002   Segundo trámite constitucional / Senado Boletín de indicaciones
+18 de Jun. de 2002   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+18 de Jun. de 2002 7ª / 347 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+19 de Jun. de 2002 9ª / 347 Segundo trámite constitucional / Senado Discusión particular Ver
+19 de Jun. de 2002   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+20 de Jun. de 2002 10ª / 347 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+02 de Jul. de 2002 11ª / 347 Tercer trámite constitucional / C. Diputados Cuenta del Mensaje 33-347 que retira la urgencia Simple Ver
+02 de Jul. de 2002 11ª / 347 Trámite en Tribunal Constitucional / C. Diputados Cuenta oficio 1755 del Tribunal Constitucional Ver Ver
+17 de Jul. de 2002 18ª / 347 Trámite en Tribunal Constitucional / C. Diputados Cuenta oficio 1773 del Tribunal Constitucional Ver Ver
+17 de Jul. de 2002 18ª / 347 Tercer trámite constitucional / C. Diputados Discusión única Ver
+18 de Jul. de 2002   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2839-04","Fecha Etapa Informe Documento
+18 de Jun. de 2002 Segundo trámite constitucional Senado Segundo informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+30 de Abr. de 2002 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+05 de Mar. de 2002 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2839-04","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Jun. de 2002 02 de Jul. de 2002 Simple 33-347 33-347
+30 de Abr. de 2002   Simple 93-346  
+02 de Abr. de 2002 30 de Abr. de 2002 Simple 29-346 93-346
+19 de Mar. de 2002   Suma 21-346  
+08 de Ene. de 2002 05 de Mar. de 2002 Simple 181-345 228-345","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2839-04","Nombre Región Distrito Partido
+Ministerio de Educación      
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2839-04","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+4 Clausura del Debate 47 43 2 3   Sala Ver detalle votación
+18   60 19 11 2   Sala Ver detalle votación
+4 Indicación a artículos 1º y 2º 98 1 2 0   Sala Ver detalle votación
+4   53 44 3 1   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2839-04","No record","Veto emmEnd"

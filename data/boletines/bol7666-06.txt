@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 7666-06","Legislatura: 359
+Fecha de ingreso: martes 17 de mayo de 2011
+Estado: Tramitación terminada (Ley Nº 20.517 - D.Oficial 27/05/2011)
+Numero de boletín: 7666-06
+Materia: Feriado Puerto Natales (31 De Mayo 2011),Feriados
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 09-11-2014 07:27:45
+* * Hitos de tramitación * *
+"emmStart Hitos 7666-06","Fecha Sesión Etapa Sub-etapa Documento
+17 de May. de 2011   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+17 de May. de 2011 18ª / 359 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización
+18 de May. de 2011   Primer trámite constitucional / Senado Primer informe de comisión Ver
+18 de May. de 2011 19ª / 359 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+18 de May. de 2011 19ª / 359 Primer trámite constitucional / Senado Discusión general Ver
+18 de May. de 2011   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+19 de May. de 2011 34ª / 359 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior y Regionalización Ver
+19 de May. de 2011 34ª / 359 Segundo trámite constitucional / C. Diputados Discusión única Ver
+19 de May. de 2011   Segundo trámite constitucional / C. Diputados Oficio N°9485. Oficio de ley comunica aprobación mismos términos Ver
+19 de May. de 2011 20ª / 359 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+19 de May. de 2011   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7666-06","Fecha Etapa Informe Documento
+18 de May. de 2011 Primer trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7666-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7666-06","Nombre
+Carlos Bianchi Chelech
+Víctor Pérez Varela
+Hosaín Sabag Castillo","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7666-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+34   66 0 4 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7666-06","No record","Veto emmEnd"

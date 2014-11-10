@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 8455-07","Legislatura: 360
+Fecha de ingreso: martes 17 de julio de 2012
+Estado: Tramitación terminada (Ley Nº 20.677 - D.Oficial 25/06/2013)
+Numero de boletín: 8455-07
+Materia: Nacionalización,Massimo Tarenghi
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 10-11-2014 01:45:41
+* * Hitos de tramitación * *
+"emmStart Hitos 8455-07","Fecha Sesión Etapa Sub-etapa Documento
+17 de Jul. de 2012   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+17 de Jul. de 2012 35ª / 360 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía
+14 de Ago. de 2012   Primer trámite constitucional / Senado Primer informe de comisión Ver
+28 de Ago. de 2012 43ª / 360 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+04 de Sep. de 2012 45ª / 360 Primer trámite constitucional / Senado Por acuerdo de los Comités el proyecto es retirado de la Tabla. Ver
+31 de Oct. de 2012 58ª / 360 Primer trámite constitucional / Senado Discusión general Ver
+31 de Oct. de 2012   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+06 de Nov. de 2012 95ª / 360 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+04 de Abr. de 2013   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Abr. de 2013 11ª / 361 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+16 de May. de 2013 29ª / 361 Segundo trámite constitucional / C. Diputados Discusión general Ver
+16 de May. de 2013   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+22 de May. de 2013 26ª / 361 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+22 de May. de 2013   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8455-07","Fecha Etapa Informe Documento
+04 de Abr. de 2013 Segundo trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+14 de Ago. de 2012 Primer trámite constitucional Senado Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8455-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8455-07","Nombre
+Juan Pablo Letelier Morel","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8455-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+29   52 0 0 68 Aprobado Sala Ver detalle votación
+97 Votación General 7 0 0 6   Derechos Humanos Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8455-07","No record","Veto emmEnd"

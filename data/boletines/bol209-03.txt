@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 209-03","Legislatura: 321
+Fecha de ingreso: jueves 29 de noviembre de 1990
+Estado: Tramitación terminada (Ley Nº 19.090 - D.Oficial 16/11/1991)
+Numero de boletín: 209-03
+Materia: Industria Automotriz,Industrias
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 07:34:15
+* * Hitos de tramitación * *
+"emmStart Hitos 209-03","Fecha Sesión Etapa Sub-etapa Documento
+29 de Nov. de 1990   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+29 de Nov. de 1990 16ª / 321 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+28 de Ene. de 1991   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+14 de May. de 1991   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+14 de May. de 1991 55ª / 321 Primer trámite constitucional / C. Diputados Discusión general Ver
+14 de May. de 1991 55ª / 321 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+04 de Jun. de 1991 1ª / 322 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Economía y a Comisión de Hacienda
+02 de Ago. de 1991   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+04 de Sep. de 1991   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+10 de Sep. de 1991 37ª / 322 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Sep. de 1991 38ª / 322 Segundo trámite constitucional / Senado Discusión general Ver
+12 de Sep. de 1991 38ª / 322 Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen
+12 de Sep. de 1991   Tramitación terminada / Oficio Nº1599. comunica aprobación con modificaciones a Cámara de origen Ver
+17 de Sep. de 1991 41ª / 322 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+01 de Oct. de 1991   Tercer trámite constitucional / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 348
+01 de Oct. de 1991 4ª / 323 Tercer trámite constitucional / C. Diputados Discusión única Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 209-03","Fecha Etapa Informe Documento
+04 de Sep. de 1991 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+02 de Ago. de 1991 Segundo trámite constitucional Senado Primer informe de comisión de Economía Ver
+28 de Ene. de 1991 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 209-03","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+29 de Nov. de 1990   Simple    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 209-03","Nombre Región Distrito Partido
+Ministerio de Economía, Fomento y Turism      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 209-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 209-03","No record","Veto emmEnd"

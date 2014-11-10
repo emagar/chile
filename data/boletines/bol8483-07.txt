@@ -1,0 +1,34 @@
+* * Bill summary * *
+"emmStart Summary 8483-07","Legislatura: 360
+Fecha de ingreso: jueves 02 de agosto de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8483-07
+Materia: Constitucion 1980,Renovación Cámara De Diputados En Cinco Años
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 02:07:12
+* * Hitos de tramitación * *
+"emmStart Hitos 8483-07","Fecha Sesión Etapa Sub-etapa Documento
+02 de Ago. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Ago. de 2012 65ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8483-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8483-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8483-07","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Osvaldo Andrade Lara RM Región Metropolitana N°29 Partido Socialista
+Enrique Jaramillo Becker XIV Región de los Ríos N°54 Partido Por la Democracia
+Issa Farid Kort Garriga VI Región del Libertador Bernardo O' Higgins N°32 Unión Demócrata Independiente
+Pablo Lorenzini Basso VII Región del Maule N°38 Partido Demócrata Cristiano
+Jorge Tarud Daccarett VII Región del Maule N°39 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8483-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8483-07","No record","Veto emmEnd"

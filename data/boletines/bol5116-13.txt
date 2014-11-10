@@ -1,0 +1,62 @@
+* * Bill summary * *
+"emmStart Summary 5116-13","Legislatura: 355
+Fecha de ingreso: miércoles 13 de junio de 2007
+Estado: Tramitación terminada (Ley N° 20.539 - D.Oficial 06/10/2011)
+Numero de boletín: 5116-13
+Materia: Establecimientos Comerciales,Trabajo Nocturno,Establecimientos Industriales,Menores
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 00:49:46
+* * Hitos de tramitación * *
+"emmStart Hitos 5116-13","Fecha Sesión Etapa Sub-etapa Documento
+13 de Jun. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Jun. de 2007 35ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+02 de Jun. de 2011 37ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 246-359 que hace presente la urgencia Simple Ver
+07 de Jun. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+14 de Jun. de 2011 41ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+16 de Jun. de 2011 44ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+16 de Jun. de 2011   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+21 de Jun. de 2011 27ª / 359 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social
+05 de Jul. de 2011 30ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 311-359 que retira y hace presente la urgencia Simple
+29 de Jul. de 2011   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+03 de Ago. de 2011 40ª / 359 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 29/08/2011 Ver
+30 de Ago. de 2011 46ª / 359 Segundo trámite constitucional / Senado Discusión general Ver
+30 de Ago. de 2011   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+31 de Ago. de 2011 76ª / 359 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+12 de Sep. de 2011 82ª / 359 Tercer trámite constitucional / C. Diputados Discusión única Ver
+12 de Sep. de 2011   Tercer trámite constitucional / C. Diputados Oficio N° 9707, que comunica aprobacion de modificaciones Ver
+12 de Sep. de 2011   Tercer trámite constitucional / C. Diputados Oficio N°9706. Oficio de ley al Ejecutivo Ver
+14 de Sep. de 2011 54ª / 359 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 9707, que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5116-13","Fecha Etapa Informe Documento
+29 de Jul. de 2011 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver
+07 de Jun. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5116-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+05 de Jul. de 2011   Simple 311-359  
+02 de Jun. de 2011 05 de Jul. de 2011 Simple 246-359 311-359","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5116-13","Nombre Región Distrito Partido
+Sergio Aguiló Melo VII Región del Maule N°37 Partido Socialista
+Gabriel Ascencio Mansilla X Región de los Lagos N°58 Partido Demócrata Cristiano
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Jaime Mulet Martínez III Región de Atacama N°6 Partido Regionalista Independiente
+Adriana Muñoz D'Albora IV Región de Coquimbo N°9 Partido Por la Democracia
+Carlos Olivares Zepeda RM Región Metropolitana N°18 Partido Regionalista Independiente
+Eduardo Saffirio Suárez IX Región de la Araucanía N°50 Partido Demócrata Cristiano
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Independientes
+Mario Venegas Cárdenas IX Región de la Araucanía N°48 Partido Demócrata Cristiano
+Patricio Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5116-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+44   53 0 0 67 Aprobado Sala Ver detalle votación
+82   95 0 0 1 Aprobado Sala Ver detalle votación
+44 Resto del artículo único. 58 0 0 62 Aprobado Sala Ver detalle votación
+44 Indicación de los Diputados señores René Saffirio, Roberto León y Patricio Hales, y las diputadas Carolina Goic y Adriana Muñoz, para eliminar la frase “con excepción de aquellos en que únicamente trabajen miembros de la familia, bajo la autoridad de uno de ellos.”. 36 19 7 58 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5116-13","No record","Veto emmEnd"

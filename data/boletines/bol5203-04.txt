@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 5203-04","Legislatura: 355
+Fecha de ingreso: jueves 12 de julio de 2007
+Estado: Segundo trámite constitucional .
+Numero de boletín: 5203-04
+Materia: Genocidio
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 07-11-2014 01:49:19
+* * Hitos de tramitación * *
+"emmStart Hitos 5203-04","Fecha Sesión Etapa Sub-etapa Documento
+12 de Jul. de 2007   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+17 de Jul. de 2007 34ª / 355 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+10 de Ago. de 2007   Primer trámite constitucional / Senado Primer informe de comisión Ver
+14 de Ago. de 2007 43ª / 355 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+04 de Sep. de 2007 47ª / 355 Primer trámite constitucional / Senado Discusión general Ver
+04 de Sep. de 2007   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+05 de Sep. de 2007 74ª / 355 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión Especial de la Cultura y las Artes Ver Ver
+29 de Oct. de 2008   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+04 de Nov. de 2008 95ª / 356 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de la Cultura. EN ESTADO DE TABLA. Ver
+13 de May. de 2010 26ª / 358 Segundo trámite constitucional / C. Diputados Discusión general Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5203-04","Fecha Etapa Informe Documento
+29 de Oct. de 2008 Segundo trámite constitucional C.Diputados Primer informe de comisión de la Cultura y las Artes Ver
+10 de Ago. de 2007 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5203-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5203-04","Nombre
+Pedro Muñoz Aburto
+Ricardo Núñez Muñoz","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5203-04","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+26   93 0 3 24 Aprobado Sala Ver detalle votación
+10 Votación General 6 0 0 7   Cultura Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5203-04","No record","Veto emmEnd"

@@ -1,0 +1,56 @@
+* * Bill summary * *
+"emmStart Summary 6569-07","Legislatura: 357
+Fecha de ingreso: martes 16 de junio de 2009
+Estado: Tramitación terminada (Ley Nº 20.384 - D.Oficial 17/09/2009)
+Numero de boletín: 6569-07
+Materia: Elección Presidencial,Votación
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 08-11-2014 13:42:48
+* * Hitos de tramitación * *
+"emmStart Hitos 6569-07","Fecha Sesión Etapa Sub-etapa Documento
+16 de Jun. de 2009   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+16 de Jun. de 2009 26ª / 357 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+02 de Jul. de 2009   Primer trámite constitucional / Senado Primer informe de comisión Ver
+07 de Jul. de 2009 31ª / 357 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+28 de Jul. de 2009 35ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 784-357 que hace presente la urgencia Suma Ver
+28 de Jul. de 2009 35ª / 357 Primer trámite constitucional / Senado Discusión general Ver
+28 de Jul. de 2009   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+30 de Jul. de 2009 57ª / 357 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+30 de Jul. de 2009 57ª / 357 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+05 de Ago. de 2009   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Ago. de 2009 61ª / 357 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión. EN ESTADO DE TABLA. Ver
+11 de Ago. de 2009 61ª / 357 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 887-357 que retira y hace presente la urgencia suma Ver
+18 de Ago. de 2009 67ª / 357 Segundo trámite constitucional / C. Diputados Discusión general Ver
+18 de Ago. de 2009   Segundo trámite constitucional / C. Diputados Oficio N° 8287. Aprueba en los mismos términos Ver
+19 de Ago. de 2009 43ª / 357 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+19 de Ago. de 2009   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+27 de Ago. de 2009   Trámite en Tribunal Constitucional / Senado Oficio al Tribunal Constitucional Ver
+01 de Sep. de 2009   Trámite en Tribunal Constitucional / Senado Ingreso fallo del Tribunal Constitucional Ver
+08 de Sep. de 2009 76ª / 357 Trámite en Tribunal Constitucional / Senado Cuenta en Cámara de Diputados de oficio N° 3502 del Tribunal Constitucional
+08 de Sep. de 2009 46ª / 357 Trámite en Tribunal Constitucional / Senado Cuenta oficio N° 3501 del Tribunal Constitucional
+08 de Sep. de 2009   Trámite en Tribunal Constitucional / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6569-07","Fecha Etapa Informe Documento
+05 de Ago. de 2009 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+02 de Jul. de 2009 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6569-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+11 de Ago. de 2009   Simple 887-357  
+28 de Jul. de 2009 11 de Ago. de 2009 Suma 784-357 887-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6569-07","Nombre
+Soledad Alvear Valenzuela
+Andrés Chadwick Piñera
+Alberto Espina Otero
+José Antonio Gómez Urrutia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6569-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+237 Votación General 6 0 0 7   Constitución Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6569-07","No record","Veto emmEnd"

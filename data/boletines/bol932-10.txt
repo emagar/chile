@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 932-10","Legislatura: 325
+Fecha de ingreso: jueves 04 de marzo de 1993
+Estado: Tramitación terminada (D.S. Nº 1.578 - D.Oficial 28/02/1994)
+Numero de boletín: 932-10
+Materia: Visas
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 00:53:03
+* * Hitos de tramitación * *
+"emmStart Hitos 932-10","Fecha Sesión Etapa Sub-etapa Documento
+04 de Mar. de 1993 50ª / 325 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+04 de Mar. de 1993   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+31 de Mar. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+04 de May. de 1993 47ª / 325 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+09 de Jun. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+15 de Jun. de 1993 5ª / 326 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+30 de Jun. de 1993 7ª / 326 Segundo trámite constitucional / Senado Discusión general Ver
+30 de Jun. de 1993   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+01 de Jul. de 1993   Tramitación terminada / Oficio Nº4648. comunica aprobación sin modificaciones a Cámara de origen Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 932-10","Fecha Etapa Informe Documento
+09 de Jun. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+31 de Mar. de 1993 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 932-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 932-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 932-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 932-10","No record","Veto emmEnd"

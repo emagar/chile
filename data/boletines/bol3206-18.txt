@@ -1,0 +1,56 @@
+* * Bill summary * *
+"emmStart Summary 3206-18","Legislatura: 348
+Fecha de ingreso: jueves 13 de marzo de 2003
+Estado: Archivado .
+Numero de boletín: 3206-18
+Materia: Mujeres
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 00:21:27
+* * Hitos de tramitación * *
+"emmStart Hitos 3206-18","Fecha Sesión Etapa Sub-etapa Documento
+13 de Mar. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Mar. de 2003 57ª / 348 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Familia Ver
+08 de Jul. de 2004   Primer trámite constitucional / C. Diputados Oficio Nº 009/2004. Solicita traslado del proyecto a la Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social. Ver
+13 de Jul. de 2004   Primer trámite constitucional / C. Diputados Oficio Nº5025. Del Secretario General de la Cámara de Diputados. Accede al traslado del proyecto. Ver
+15 de Jul. de 2004   Primer trámite constitucional / C. Diputados Oficio Nº 017/2004. Remite proyecto a Comision de Gobierno Interior. Ver
+15 de Jul. de 2004   Primer trámite constitucional / C. Diputados Eximido del trámite ante Comisión Derivado a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+01 de Ago. de 2006 53ª / 354 Primer trámite constitucional / C. Diputados Pendiente solicitud de archivo. Ver
+19 de Oct. de 2006   Primer trámite constitucional / C. Diputados Oficio Nº60. Solicita a la Sala que se radique el proyecto en esta Comisión Ver
+31 de Oct. de 2006 91ª / 354 Primer trámite constitucional / C. Diputados Comisión de Familia solicita que se le remita el proyecto. Acordado. Ver
+31 de Oct. de 2006   Primer trámite constitucional / C. Diputados Oficio Nº 6443. Se accede a petición Comisión de Familia en orden a remitir el proyecto para su estudio Ver
+24 de Ene. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+06 de Mar. de 2007 125ª / 354 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de Ene. de 2010 118ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1812-357 que hace presente la urgencia Simple Ver
+19 de Ene. de 2010 120ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+08 de Mar. de 2010 123ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1934-357 que retira la urgencia Simple Ver
+12 de May. de 2010 24ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+15 de Oct. de 2014 81ª / 362 Primer trámite constitucional / C. Diputados Archivado . Cuenta oficio de la Comisión de Régimen Interno, Administración y Reglamento, por el cual informa que, de conformidad con lo establecido en el inciso segundo del artículo 18 del Reglamento, ha acordado remitir al archivo el proyecto.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3206-18","Fecha Etapa Informe Documento
+24 de Ene. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de Familia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3206-18","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+13 de Ene. de 2010 08 de Mar. de 2010 Simple 1812-357 1934-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3206-18","Nombre Región Distrito Partido
+Isabel Allende Bussi RM Región Metropolitana N°29 Partido Socialista
+Guido Girardi Lavín RM Región Metropolitana N°18 Partido Por la Democracia
+Rosa González Román I Región de Tarapacá N°1 Unión Demócrata Independiente
+Carmen Ibáñez Soto V Región de Valparaíso N°13 Renovación Nacional
+María Eugenia Mella Gajardo V Región de Valparaíso N°10 Partido Demócrata Cristiano
+Adriana Muñoz D'Albora IV Región de Coquimbo N°9 Partido Por la Democracia
+Fulvio Rossi Ciocca I Región de Tarapacá N°2 Independientes
+María Antonieta Saa Díaz RM Región Metropolitana N°17 Partido Por la Democracia
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Partido Demócrata Cristiano
+Carolina Tohá Morales RM Región Metropolitana N°22 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3206-18","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+32 Votación General 6 5 1 1   Familia Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3206-18","No record","Veto emmEnd"

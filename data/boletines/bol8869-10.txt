@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 8869-10","Legislatura: 361
+Fecha de ingreso: martes 09 de abril de 2013
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 8869-10
+Materia: Acuerdo Para Modificar El Tlc Chile-Canada (16 Abril 2012: Santiago De Chile)
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 10-11-2014 08:09:04
+* * Hitos de tramitación * *
+"emmStart Hitos 8869-10","Fecha Sesión Etapa Sub-etapa Documento
+09 de Abr. de 2013   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+09 de Abr. de 2013 9ª / 361 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores y a Comisión de Hacienda
+09 de Abr. de 2013 9ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 46-361 que hace presente la urgencia Simple
+08 de May. de 2013 21ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 87-361 que retira y hace presente la urgencia Simple
+15 de May. de 2013 24ª / 361 Tramitación terminada / Retirado por S E el Presidente de la República. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8869-10","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8869-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+08 de May. de 2013   Simple 87-361  
+09 de Abr. de 2013 08 de May. de 2013 Simple 170-360 87-361
+09 de Abr. de 2013   Simple 46-361  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8869-10","Nombre
+Ministerio de Hacienda
+Ministerio de Relaciones Exteriores","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8869-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8869-10","No record","Veto emmEnd"

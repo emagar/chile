@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 40-06","Legislatura: 319
+Fecha de ingreso: martes 08 de mayo de 1990
+Estado: Tramitación terminada (Ley Nº 18.982 - D.Oficial 25/05/1990)
+Numero de boletín: 40-06
+Materia: Organizaciones Comunitarias
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 30-10-2014 16:09:17
+* * Hitos de tramitación * *
+"emmStart Hitos 40-06","Fecha Sesión Etapa Sub-etapa Documento
+08 de May. de 1990 11ª / 319 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización
+08 de May. de 1990   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+09 de May. de 1990 12ª / 319 Primer trámite constitucional / Senado Primer informe de comisión Ver
+09 de May. de 1990 12ª / 319 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+09 de May. de 1990 12ª / 319 Primer trámite constitucional / Senado Discusión general Ver
+09 de May. de 1990 12ª / 319 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+09 de May. de 1990   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+10 de May. de 1990 19ª / 319 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+10 de May. de 1990 19ª / 319 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+10 de May. de 1990 19ª / 319 Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver Ver
+16 de May. de 1990 21ª / 319 Segundo trámite constitucional / C. Diputados Discusión general Ver
+16 de May. de 1990 21ª / 319 Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+30 de May. de 1990 2ª / 320 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+30 de May. de 1990 2ª / 320 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 40-06","Fecha Etapa Informe Documento
+10 de May. de 1990 Segundo trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver
+09 de May. de 1990 Primer trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 40-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 40-06","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 40-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 40-06","No record","Veto emmEnd"

@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 219-02","Legislatura: 321
+Fecha de ingreso: martes 04 de diciembre de 1990
+Estado: Tramitación terminada (Ley Nº 19.044 - D.Oficial 31/01/1991)
+Numero de boletín: 219-02
+Materia: Fuerzas Armadas
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 07:41:21
+* * Hitos de tramitación * *
+"emmStart Hitos 219-02","Fecha Sesión Etapa Sub-etapa Documento
+04 de Dic. de 1990   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+05 de Dic. de 1990 21ª / 321 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Defensa Nacional
+18 de Dic. de 1990 26ª / 321 Primer trámite constitucional / Senado Discusión general. Aprobado en general y en particular. Despachado. Ver
+18 de Dic. de 1990 26ª / 321 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+18 de Dic. de 1990 26ª / 321 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+18 de Dic. de 1990 26ª / 321 Primer trámite constitucional / Senado Primer informe de comisión Ver
+20 de Dic. de 1990 23ª / 321 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+05 de Mar. de 1991 36ª / 321 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+05 de Mar. de 1991 36ª / 321 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 219-02","Fecha Etapa Informe Documento
+18 de Dic. de 1990 Primer trámite constitucional Senado Primer informe de comisión de Defensa Nacional Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 219-02","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 219-02","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 219-02","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 219-02","No record","Veto emmEnd"

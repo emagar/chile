@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 2826-01","Legislatura: 345
+Fecha de ingreso: miércoles 07 de noviembre de 2001
+Estado: Tramitación terminada (Ley Nº 19.797 - D.Oficial 03/04/2002)
+Numero de boletín: 2826-01
+Materia: Clasificación De Ganado
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 03-11-2014 16:58:15
+* * Hitos de tramitación * *
+"emmStart Hitos 2826-01","Fecha Sesión Etapa Sub-etapa Documento
+07 de Nov. de 2001 13ª / 345 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Agricultura
+07 de Nov. de 2001   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+09 de Nov. de 2001   Primer trámite constitucional / Senado Primer informe de comisión Ver
+13 de Nov. de 2001 15ª / 345 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+13 de Nov. de 2001 15ª / 345 Primer trámite constitucional / Senado Discusión general Ver
+13 de Nov. de 2001   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+20 de Nov. de 2001 18ª / 345 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Agricultura, Silvicultura y Pesca Ver
+15 de Ene. de 2002   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+15 de Ene. de 2002 25ª / 345 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+23 de Ene. de 2002 30ª / 345 Segundo trámite constitucional / C. Diputados Discusión general Ver
+25 de Ene. de 2002   Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver
+05 de Mar. de 2002 28ª / 345 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+06 de Mar. de 2002 29ª / 345 Tercer trámite constitucional / Senado Discusión única
+06 de Mar. de 2002   Tercer trámite constitucional / Senado Oficio aprobación de modificaciones de Ref.Constitucional. Oficio 19.422 Ver
+06 de Mar. de 2002   Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo Ver
+13 de Mar. de 2002 2ª / 346 Tramitación terminada / Cuenta Oficio 19.422 del Senado, comunica aprobación de modificaciones. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2826-01","Fecha Etapa Informe Documento
+15 de Ene. de 2002 Segundo trámite constitucional C.Diputados Primer informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+09 de Nov. de 2001 Primer trámite constitucional Senado Primer informe de comisión de Agricultura Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2826-01","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+07 de Nov. de 2001   Simple 100-345  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2826-01","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2826-01","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2826-01","No record","Veto emmEnd"

@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 6642-07","Legislatura: 357
+Fecha de ingreso: jueves 06 de agosto de 2009
+Estado: Archivado .
+Numero de boletín: 6642-07
+Materia: Pena De Muerte,Código Penal
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 14:36:32
+* * Hitos de tramitación * *
+"emmStart Hitos 6642-07","Fecha Sesión Etapa Sub-etapa Documento
+06 de Ago. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Ago. de 2009 60ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+01 de Sep. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de Sep. de 2009 76ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Abr. de 2010   Primer trámite constitucional / C. Diputados Archivado Solicitado por Comités Parlamentarios.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6642-07","Fecha Etapa Informe Documento
+01 de Sep. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6642-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6642-07","Nombre Región Distrito Partido
+Sergio Correa De la Cerda VII Región del Maule N°36 Unión Demócrata Independiente
+María Angélica Cristi Marfil RM Región Metropolitana N°24 Unión Demócrata Independiente
+Andrés Egaña Respaldiza VIII Región del Bío Bío N°44 Unión Demócrata Independiente
+Marcelo Forni Lobos V Región de Valparaíso N°11 Unión Demócrata Independiente
+Alejandro García-Huidobro Sanfuentes VI Región del Libertador Bernardo O' Higgins N°32 Unión Demócrata Independiente
+Javier Hernández Hernández X Región de los Lagos N°55 Unión Demócrata Independiente
+Claudia Nogueira Fernández RM Región Metropolitana N°19 Unión Demócrata Independiente
+Marisol Turres Figueroa X Región de los Lagos N°57 Unión Demócrata Independiente
+Gastón Von Mühlenbrock Zamora XIV Región de los Ríos N°54 Unión Demócrata Independiente
+Felipe Ward Edwards II Región de Antofagasta N°3 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6642-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+241 Votación General 0 8 0 5   Constitución Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6642-07","No record","Veto emmEnd"

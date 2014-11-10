@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 8675-07","Legislatura: 360
+Fecha de ingreso: miércoles 07 de noviembre de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8675-07
+Materia: Interpelación,Fiscalización De Autoridades,Mecanismo De Fiscalización
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 04:22:44
+* * Hitos de tramitación * *
+"emmStart Hitos 8675-07","Fecha Sesión Etapa Sub-etapa Documento
+07 de Nov. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+07 de Nov. de 2012 96ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8675-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8675-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8675-07","Nombre Región Distrito Partido
+Pepe Auth Stewart RM Región Metropolitana N°20 Partido Por la Democracia
+Pedro Browne Urrejola RM Región Metropolitana N°28 Renovación Nacional
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Guillermo Ceroni Fuentes VII Región del Maule N°40 Partido Por la Democracia
+Aldo Cornejo González V Región de Valparaíso N°13 Partido Demócrata Cristiano
+Felipe Harboe Bascuñán RM Región Metropolitana N°22 Partido Por la Democracia
+Fernando Meza Moncada IX Región de la Araucanía N°52 Partido Radical Social Demócrata
+Alberto Robles Pantoja III Región de Atacama N°6 Partido Radical Social Demócrata
+Guillermo Teillier Del Valle RM Región Metropolitana N°28 Partido Comunista
+Joaquín Tuma Zedan IX Región de la Araucanía N°51 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8675-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8675-07","No record","Veto emmEnd"

@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 926-11","Legislatura: 325
+Fecha de ingreso: miércoles 03 de marzo de 1993
+Estado: Tramitación terminada (Ley Nº 19.230 - D.Oficial 16/07/1993)
+Numero de boletín: 926-11
+Materia: Beneficios
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 00:47:41
+* * Hitos de tramitación * *
+"emmStart Hitos 926-11","Fecha Sesión Etapa Sub-etapa Documento
+03 de Mar. de 1993 49ª / 325 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver
+03 de Mar. de 1993   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+22 de Mar. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda
+01 de Jun. de 1993 1ª / 326 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Salud
+08 de Jun. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+09 de Jun. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+09 de Jun. de 1993 4ª / 326 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+09 de Jun. de 1993 4ª / 326 Segundo trámite constitucional / Senado Discusión general Ver
+09 de Jun. de 1993   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+15 de Jun. de 1993 5ª / 326 Comisión Mixta por rechazo de modificaciones / Senado Cuenta oficio rechazo a modificaciones
+15 de Jun. de 1993   Primer trámite constitucional / C. Diputados Oficio Nº4390. comunica aprobación con modificaciones a Cámara de origen Ver
+16 de Jun. de 1993 6ª / 326 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Cuenta oficio rechazo de informe de Comisión Mixta
+16 de Jun. de 1993 6ª / 326 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Discusión informe de Comisión Mixta
+16 de Jun. de 1993   Comisión Mixta por rechazo de modificaciones / Senado Informe de Comisión Mixta Ver
+21 de Jun. de 1993   Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Oficio rechazo de informe de Comisión Mixta a C.de Origen. Oficio Nº4414. comunica rechazo de informe de Comisión Mixta a Cámara de origen Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 926-11","Fecha Etapa Informe Documento
+16 de Jun. de 1993 Comisión Mixta por rechazo de modificaciones Senado Informe de Comisión Mixta Comisión Mixta para Boletín Nº 926-11 Ver
+09 de Jun. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+08 de Jun. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Salud Ver
+22 de Ene. de 1993 Primer trámite constitucional C.Diputados Primer informe de comisión de Salud Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 926-11","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 926-11","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 926-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 926-11","No record","Veto emmEnd"

@@ -1,0 +1,56 @@
+* * Bill summary * *
+"emmStart Summary 1637-01","Legislatura: 331
+Fecha de ingreso: miércoles 21 de junio de 1995
+Estado: Tramitación terminada (Ley Nº 19.498 - D.Oficial 14/04/1997)
+Numero de boletín: 1637-01
+Materia: Fondo De Garantía Para Pequeñas Empresas,Pequeña Y Mediana Empresa
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 11:42:07
+* * Hitos de tramitación * *
+"emmStart Hitos 1637-01","Fecha Sesión Etapa Sub-etapa Documento
+21 de Jun. de 1995   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+21 de Jun. de 1995 9ª / 331 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Agricultura
+03 de Oct. de 1995   Primer trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 332
+06 de Dic. de 1995   Primer trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión Unidas de Hacienda y Economía Ver
+25 de Mar. de 1996   Primer trámite constitucional / Senado Primer informe de comisión Ver
+02 de Abr. de 1996 44ª / 332 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+03 de Abr. de 1996 46ª / 332 Primer trámite constitucional / Senado Discusión general Ver
+28 de Ago. de 1996 32ª / 333 Primer trámite constitucional / Senado Por acuerdo de la sala, se reabre el plazo para presentar indicaciones hasta el día martes 3 de Septiembre, a las 12:00 hrs.
+03 de Sep. de 1996   Primer trámite constitucional / Senado Boletín de indicaciones
+04 de Sep. de 1996   Primer trámite constitucional / Senado Segundo informe de comisión. Pasa a Comisión de Hacienda Ver
+01 de Oct. de 1996   Primer trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 334
+30 de Oct. de 1996   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+30 de Oct. de 1996 6ª / 334 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+05 de Nov. de 1996 7ª / 334 Primer trámite constitucional / Senado Discusión particular Ver
+05 de Nov. de 1996   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+07 de Nov. de 1996 14ª / 334 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+10 de Dic. de 1996   Segundo trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+23 de Dic. de 1996   Segundo trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+17 de Ene. de 1997   Primer trámite constitucional / Senado Primer informe de comisión Ver
+21 de Ene. de 1997 41ª / 334 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+06 de Mar. de 1997   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+06 de Mar. de 1997 49ª / 334 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+11 de Mar. de 1997 31ª / 334 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+11 de Mar. de 1997   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1637-01","Fecha Etapa Informe Documento
+17 de Ene. de 1997 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+10 de Dic. de 1996 Segundo trámite constitucional C.Diputados Primer informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+30 de Oct. de 1996 Primer trámite constitucional Senado Segundo informe de comisión de Hacienda Ver
+04 de Sep. de 1996 Primer trámite constitucional Senado Segundo informe de comisión de Economía y de Agricultura, unidas Ver
+25 de Mar. de 1996 Primer trámite constitucional Senado Primer informe de comisión de Hacienda y de Economía, unidas Ver
+06 de Dic. de 1995 Primer trámite constitucional Senado Primer informe de comisión de Agricultura Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1637-01","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1637-01","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1637-01","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1637-01","No record","Veto emmEnd"

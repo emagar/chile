@@ -1,0 +1,60 @@
+* * Bill summary * *
+"emmStart Summary 4329-01","Legislatura: 354
+Fecha de ingreso: miércoles 12 de julio de 2006
+Estado: Tramitación terminada (Ley Nº 20.176 - D.Oficial 17/04/2007)
+Numero de boletín: 4329-01
+Materia: Bolsas De Productos ,Productos Agrícolas
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 00:21:50
+* * Hitos de tramitación * *
+"emmStart Hitos 4329-01","Fecha Sesión Etapa Sub-etapa Documento
+12 de Jul. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Jul. de 2006 48ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+10 de Oct. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de Oct. de 2006 88ª / 354 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+18 de Oct. de 2006 88ª / 354 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+18 de Oct. de 2006   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+31 de Oct. de 2006 64ª / 354 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Agricultura Ver
+12 de Dic. de 2006   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+13 de Dic. de 2006 77ª / 354 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+03 de Ene. de 2007 81ª / 354 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 08/01/2007, a las 18 horas. Ver
+08 de Ene. de 2007   Segundo trámite constitucional / Senado Boletín de indicaciones
+09 de Ene. de 2007 82ª / 354 Segundo trámite constitucional / Senado Se acuerda abrir nuevo plazo de indicaciones hasta las 12 horas del lunes 22/01/2007.
+10 de Ene. de 2007 83ª / 354 Segundo trámite constitucional / Senado Se acuerda reducir el `plazo de indicaciones fijado en la sesión anterior, para el día Lunes 15/01/2007-
+15 de Ene. de 2007   Segundo trámite constitucional / Senado Boletín de indicaciones
+23 de Ene. de 2007   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+23 de Ene. de 2007 86ª / 354 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+24 de Ene. de 2007 88ª / 354 Segundo trámite constitucional / Senado Discusión particular Ver
+25 de Ene. de 2007   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+06 de Mar. de 2007 125ª / 354 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver Ver
+13 de Mar. de 2007 1ª / 355 Tercer trámite constitucional / C. Diputados Discusión única Ver
+13 de Mar. de 2007   Tercer trámite constitucional / C. Diputados Oficio Nº 6663, que comunica aprobación de modificaciones Ver
+13 de Mar. de 2007   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+14 de Mar. de 2007 3ª / 355 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 6663, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4329-01","Fecha Etapa Informe Documento
+23 de Ene. de 2007 Segundo trámite constitucional Senado Segundo informe de comisión de Agricultura Ver
+12 de Dic. de 2006 Segundo trámite constitucional Senado Primer informe de comisión de Agricultura Ver
+10 de Oct. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4329-01","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4329-01","Nombre Región Distrito Partido
+Ramón Barros Montero VI Región del Libertador Bernardo O' Higgins N°35 Unión Demócrata Independiente
+Enrique Jaramillo Becker XIV Región de los Ríos N°54 Partido Por la Democracia
+Rosauro Martínez Labbé VIII Región del Bío Bío N°41 Renovación Nacional
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Independientes
+Ignacio Urrutia Bonilla VII Región del Maule N°40 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4329-01","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+88   102 0 0 0 Aprobado Sala Ver detalle votación
+1 Modificaciones del Senado. 91 0 0 29 Aprobado Sala Ver detalle votación
+19 Votación General 8 0 0 5   Agricultura Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4329-01","No record","Veto emmEnd"

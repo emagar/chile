@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 7042-07","Legislatura: 358
+Fecha de ingreso: martes 06 de julio de 2010
+Estado: Tramitación terminada (Ley Nº 20.495 - D.Oficial 21/02/2011)
+Numero de boletín: 7042-07
+Materia: Nacionalización
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 08-11-2014 23:35:19
+* * Hitos de tramitación * *
+"emmStart Hitos 7042-07","Fecha Sesión Etapa Sub-etapa Documento
+06 de Jul. de 2010   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+06 de Jul. de 2010 32ª / 358 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía
+10 de Ago. de 2010   Primer trámite constitucional / Senado Primer informe de comisión Ver
+10 de Ago. de 2010 41ª / 358 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+11 de Ago. de 2010 42ª / 358 Primer trámite constitucional / Senado Discusión general Ver
+11 de Ago. de 2010   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+12 de Ago. de 2010 63ª / 358 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+15 de Dic. de 2010   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Ene. de 2011 122ª / 358 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de Ene. de 2011 126ª / 358 Segundo trámite constitucional / C. Diputados Discusión general Ver
+13 de Ene. de 2011   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+18 de Ene. de 2011 87ª / 358 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+18 de Ene. de 2011   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7042-07","Fecha Etapa Informe Documento
+15 de Dic. de 2010 Segundo trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+10 de Ago. de 2010 Primer trámite constitucional Senado Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7042-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7042-07","Nombre
+Francisco Chahuán Chahuán
+Eugenio Tuma Zedán","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7042-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+126   69 0 0 51 Aprobado Sala Ver detalle votación
+28 Votación General 7 0 0 6   Derechos Humanos Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7042-07","No record","Veto emmEnd"

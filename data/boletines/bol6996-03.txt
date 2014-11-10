@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 6996-03","Legislatura: 358
+Fecha de ingreso: jueves 17 de junio de 2010
+Estado: Primer trámite constitucional .
+Numero de boletín: 6996-03
+Materia: Seguridad En Transacciones,Uso De Pinpass
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 23:03:32
+* * Hitos de tramitación * *
+"emmStart Hitos 6996-03","Fecha Sesión Etapa Sub-etapa Documento
+17 de Jun. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+17 de Jun. de 2010 41ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6996-03","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6996-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6996-03","Nombre Región Distrito Partido
+Fuad Chahín Valenzuela IX Región de la Araucanía N°49 Partido Demócrata Cristiano
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Juan Carlos Latorre Carmona VI Región del Libertador Bernardo O' Higgins N°35 Partido Demócrata Cristiano
+Pablo Lorenzini Basso VII Región del Maule N°38 Partido Demócrata Cristiano
+Sergio Ojeda Uribe X Región de los Lagos N°55 Partido Demócrata Cristiano
+Ricardo Rincón González VI Región del Libertador Bernardo O' Higgins N°33 Partido Demócrata Cristiano
+René Saffirio Espinoza IX Región de la Araucanía N°50 Partido Demócrata Cristiano
+Víctor Torres Jeldes V Región de Valparaíso N°15 Partido Demócrata Cristiano
+Mario Venegas Cárdenas IX Región de la Araucanía N°48 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6996-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6996-03","No record","Veto emmEnd"

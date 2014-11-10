@@ -1,0 +1,67 @@
+* * Bill summary * *
+"emmStart Summary 6884-05","Legislatura: 358
+Fecha de ingreso: martes 13 de abril de 2010
+Estado: Tramitación terminada (Ley N° 20.444 - D.Oficial 28/05/2010)
+Numero de boletín: 6884-05
+Materia: Fondo Nacional De Reconstrucción,Donaciones
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 19:02:40
+* * Hitos de tramitación * *
+"emmStart Hitos 6884-05","Fecha Sesión Etapa Sub-etapa Documento
+13 de Abr. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Abr. de 2010 13ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+13 de Abr. de 2010 13ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 35-358 que hace presente la urgencia Suma Ver
+22 de Abr. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+22 de Abr. de 2010 18ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+22 de Abr. de 2010 18ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+22 de Abr. de 2010   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+04 de May. de 2010 14ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+04 de May. de 2010 14ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 065-358 que retira y hace presente la urgencia Suma
+04 de May. de 2010 14ª / 358 Segundo trámite constitucional / Senado La Sala acuerda que este proyecto sea analizado, en forma paralela a la Comisión de Hacienda , por la Comisión de Constitución, Legislación, Justicia y Reglamento, respecto de los artículos 1° inciso cuarto, 21 y 22.
+05 de May. de 2010   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+11 de May. de 2010   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+11 de May. de 2010 16ª / 358 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+11 de May. de 2010 16ª / 358 Segundo trámite constitucional / Senado Discusión general Ver
+12 de May. de 2010 18ª / 358 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 17/05/2010 Ver
+17 de May. de 2010   Segundo trámite constitucional / Senado Boletín de indicaciones
+18 de May. de 2010 20ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 105-358 que retira la urgencia Suma
+18 de May. de 2010 20ª / 358 Segundo trámite constitucional / Senado Por acuerdo de los Comités, ratificado por la Sala, se abre un nuevo plazo para presentar indicaciones, hasta las 17:00 horas del día de hoy, en la Secretaría de la Comisión de Hacienda.
+18 de May. de 2010 20ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 114-358 que hace presente la urgencia Discusión inmediata
+19 de May. de 2010   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+19 de May. de 2010 21ª / 358 Segundo trámite constitucional / Senado Cuenta segundo informe complementario
+19 de May. de 2010 21ª / 358 Segundo trámite constitucional / Senado Discusión particular Ver
+19 de May. de 2010   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+20 de May. de 2010 29ª / 358 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+20 de May. de 2010 29ª / 358 Tercer trámite constitucional / C. Diputados Discusión única Ver
+20 de May. de 2010   Tercer trámite constitucional / C. Diputados Oficio N° 8758, que comunica aprobacion de modificaciones Ver
+20 de May. de 2010   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+01 de Jun. de 2010 22ª / 358 Tercer trámite constitucional / C. Diputados Cuenta oficio N? 8758, que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6884-05","Fecha Etapa Informe Documento
+19 de May. de 2010 Segundo trámite constitucional Senado Segundo informe de comisión de Hacienda Ver
+11 de May. de 2010 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+05 de May. de 2010 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+22 de Abr. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6884-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+18 de May. de 2010   Discusión inmediata 114-358  
+04 de May. de 2010 12 de May. de 2010 Suma 065-358 105-358
+13 de Abr. de 2010 04 de May. de 2010 Suma 35-358 065-358","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6884-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6884-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+29 Modificaciones del Senado, con excepción de la recaída en el artículo 11. 82 9 0 29 Aprobado Sala Ver detalle votación
+29 Modificación del Senado para sustituir el artículo 11. 57 28 7 28 Aprobado Sala Ver detalle votación
+18   101 0 2 17 Aprobado Sala Ver detalle votación
+18 11 61 40 2 17 Aprobado Sala Ver detalle votación
+13 Votación General 10 0 3 0   Hacienda Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6884-05","No record","Veto emmEnd"

@@ -1,0 +1,48 @@
+* * Bill summary * *
+"emmStart Summary 5783-03","Legislatura: 356
+Fecha de ingreso: martes 01 de abril de 2008
+Estado: Segundo trámite constitucional .
+Numero de boletín: 5783-03
+Materia: Emisión De Contaminantes,Consumidores,Vehiculos,Protección Del Consumidor
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 23:12:51
+* * Hitos de tramitación * *
+"emmStart Hitos 5783-03","Fecha Sesión Etapa Sub-etapa Documento
+01 de Abr. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+01 de Abr. de 2008 10ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+08 de Abr. de 2008 15ª / 356 Primer trámite constitucional / C. Diputados Comisión de Recursos Naturales solicita que proyecto, actualmente en Comisión de Economía, le sea remitido. ACORDADO. Ver
+11 de Jun. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Jun. de 2008 40ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Recursos Naturales. EN ESTADO DE TABLA. Ver
+15 de Jul. de 2008 53ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+15 de Jul. de 2008   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+29 de Jul. de 2008 38ª / 356 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Medio Ambiente y Bienes Nacionales Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5783-03","Fecha Etapa Informe Documento
+11 de Jun. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5783-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5783-03","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Eugenio Bauer Jouanne VI Región del Libertador Bernardo O' Higgins N°33 Unión Demócrata Independiente
+Germán Becker Alvear IX Región de la Araucanía N°50 Renovación Nacional
+Joaquín Godoy Ibáñez V Región de Valparaíso N°13 Renovación Nacional
+Roberto León Ramírez VII Región del Maule N°36 Partido Demócrata Cristiano
+Juan Lobos Krause VIII Región del Bío Bío N°47 Unión Demócrata Independiente
+Cristián Monckeberg Bruner RM Región Metropolitana N°23 Renovación Nacional
+Osvaldo Palma Flores VII Región del Maule N°39 Renovación Nacional
+Denise Pascal Allende RM Región Metropolitana N°31 Partido Socialista
+Roberto Sepúlveda Hermosilla RM Región Metropolitana N°20 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5783-03","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+53 Indicación para eliminar el artículo 32 ter, contenido en el artículo único del proyecto. 68 12 5 35 Aprobado Sala Ver detalle votación
+53   82 0 0 38 Aprobado Sala Ver detalle votación
+67 Votación General 4 0 0 9   Recursos Naturales Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5783-03","No record","Veto emmEnd"

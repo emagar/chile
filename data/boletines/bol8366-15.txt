@@ -1,0 +1,75 @@
+* * Bill summary * *
+"emmStart Summary 8366-15","Legislatura: 360
+Fecha de ingreso: miércoles 13 de junio de 2012
+Estado: Tramitación terminada (Ley Nº 20.643 - D.Oficial 29/12/2012)
+Numero de boletín: 8366-15
+Materia: Torre Soporte De Antenas
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 00:38:43
+* * Hitos de tramitación * *
+"emmStart Hitos 8366-15","Fecha Sesión Etapa Sub-etapa Documento
+13 de Jun. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Jun. de 2012 42ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+11 de Jul. de 2012   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Jul. de 2012 55ª / 360 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+01 de Ago. de 2012 64ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 224-360 que hace presente la urgencia Suma Ver
+07 de Ago. de 2012 66ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+08 de Ago. de 2012   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+08 de Ago. de 2012 40ª / 360 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones
+14 de Ago. de 2012 41ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 254-360 que retira y hace presente la urgencia Suma
+28 de Ago. de 2012 72ª / 360 Segundo trámite constitucional / Senado Cuenta en Cámara de Diputados del oficio N°88-2012 de la Corte Suprema, por el cual remite opinión del proyecto. Ver
+28 de Ago. de 2012   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+28 de Ago. de 2012 43ª / 360 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+29 de Ago. de 2012 44ª / 360 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 30/08/2012 Ver
+30 de Ago. de 2012   Segundo trámite constitucional / Senado Boletín de indicaciones
+04 de Sep. de 2012 45ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 276-360 que retira y hace presente la urgencia Suma
+07 de Sep. de 2012   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+11 de Sep. de 2012 48ª / 360 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+02 de Oct. de 2012 51ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 298-360 que hace presente la urgencia Suma
+02 de Oct. de 2012 51ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 294-360 que retira la urgencia Suma
+02 de Oct. de 2012 51ª / 360 Segundo trámite constitucional / Senado Discusión particular Ver
+02 de Oct. de 2012   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+03 de Oct. de 2012 84ª / 360 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+09 de Oct. de 2012 86ª / 360 Tercer trámite constitucional / C. Diputados Discusión única Ver
+09 de Oct. de 2012   Tercer trámite constitucional / C. Diputados Oficio N° 10403, que comunica aprobacion de modificaciones Ver
+09 de Oct. de 2012   Tercer trámite constitucional / C. Diputados Oficio N° 10404. Oficio de ley al Ejecutivo (artículo 73 de la Constitución Política) Ver
+10 de Oct. de 2012 54ª / 360 Tercer trámite constitucional / C. Diputados Cuenta oficio N? 10403, que comunica aprobacion de modificaciones Ver
+18 de Oct. de 2012   Tercer trámite constitucional / C. Diputados Oficio N°325-360. Oficio de S. E. el Presidente de la República por el cual comunica que ha resuelto no hacer uso de la facultad que le confiere el inciso primero del artículo 73 de la Constitución Política de la República respecto del proyecto. Ver
+23 de Oct. de 2012   Tercer trámite constitucional / C. Diputados Oficio N° 10443 al Tribunal Constitucional Ver
+28 de Nov. de 2012 108ª / 360 Trámite en Tribunal Constitucional / C. Diputados Cuenta oficio N° 7954 del Tribunal Constitucional Ver Ver
+28 de Nov. de 2012   Trámite en Tribunal Constitucional / C. Diputados Oficio N° 10492. Oficio de ley al Ejecutivo, para promulgación del proyecto Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8366-15","Fecha Etapa Informe Documento
+07 de Sep. de 2012 Segundo trámite constitucional Senado Segundo informe de comisión de Transportes y Telecomunicaciones Ver
+28 de Ago. de 2012 Segundo trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver
+11 de Jul. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8366-15","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+02 de Oct. de 2012   Suma 298-360  
+04 de Sep. de 2012 12 de Sep. de 2012 Suma 276-360 294-360
+14 de Ago. de 2012 04 de Sep. de 2012 Suma 254-360 276-360
+01 de Ago. de 2012 14 de Ago. de 2012 Suma 224-360 254-360","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8366-15","Nombre Región Distrito Partido
+Gonzalo Arenas Hödar IX Región de la Araucanía N°48 Unión Demócrata Independiente
+Pepe Auth Stewart RM Región Metropolitana N°20 Partido Por la Democracia
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Gustavo Hasbún Selume RM Región Metropolitana N°26 Unión Demócrata Independiente
+Juan Carlos Latorre Carmona VI Región del Libertador Bernardo O' Higgins N°35 Partido Demócrata Cristiano
+Leopoldo Pérez Lahsen RM Región Metropolitana N°29 Renovación Nacional
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Partido Regionalista Independiente
+Ignacio Urrutia Bonilla VII Región del Maule N°40 Unión Demócrata Independiente
+Mario Venegas Cárdenas IX Región de la Araucanía N°48 Partido Demócrata Cristiano
+Mónica Zalaquett Said RM Región Metropolitana N°20 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8366-15","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+86   105 0 1 0 Aprobado Sala Ver detalle votación
+66   112 0 0 8 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8366-15","No record","Veto emmEnd"

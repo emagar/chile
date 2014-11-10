@@ -1,0 +1,57 @@
+* * Bill summary * *
+"emmStart Summary 8480-03","Legislatura: 360
+Fecha de ingreso: miércoles 01 de agosto de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8480-03
+Materia: Aporte De Capital,Sociedades Anónimas Abiertas
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 10-11-2014 02:05:04
+* * Hitos de tramitación * *
+"emmStart Hitos 8480-03","Fecha Sesión Etapa Sub-etapa Documento
+01 de Ago. de 2012   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+01 de Ago. de 2012 38ª / 360 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+08 de Ago. de 2012   Primer trámite constitucional / Senado Primer informe de comisión. Certificado Ver
+08 de Ago. de 2012   Primer trámite constitucional / Senado Primer informe de comisión. Certificado Ver
+08 de Ago. de 2012   Primer trámite constitucional / Senado Primer informe de comisión Ver
+08 de Ago. de 2012   Primer trámite constitucional / Senado Primer informe de comisión Ver
+08 de Ago. de 2012 40ª / 360 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+28 de Ago. de 2012 43ª / 360 Primer trámite constitucional / Senado Discusión general Ver
+28 de Ago. de 2012 43ª / 360 Primer trámite constitucional / Senado Se solicita segunda discusión. Ver
+29 de Ago. de 2012 44ª / 360 Primer trámite constitucional / Senado Discusión general Ver
+29 de Ago. de 2012 44ª / 360 Primer trámite constitucional / Senado Se soliicita aplazamiento de la votación. Ver
+05 de Sep. de 2012 47ª / 360 Primer trámite constitucional / Senado Se retira el proyecto de la Tabla. Ver
+15 de Jul. de 2014 31ª / 362 Primer trámite constitucional / Senado Cuenta del Mensaje 260-362 que hace presente la urgencia Simple Ver
+22 de Jul. de 2014 33ª / 362 Primer trámite constitucional / Senado Por acuerdo de Comités, se vuelve el proyecto a la Comisión de Hacienda a nuevo informe. Ver
+22 de Jul. de 2014 33ª / 362 Primer trámite constitucional / Senado Se solicita nuevo informe Ver
+12 de Ago. de 2014 37ª / 362 Primer trámite constitucional / Senado Cuenta del Mensaje 366-362 que retira y hace presente la urgencia Simple
+09 de Sep. de 2014 45ª / 362 Primer trámite constitucional / Senado Cuenta del Mensaje 499-362 que retira y hace presente la urgencia Simple
+07 de Oct. de 2014 52ª / 362 Primer trámite constitucional / Senado Cuenta del Mensaje 626-362 que retira y hace presente la urgencia Simple
+04 de Nov. de 2014 60ª / 362 Primer trámite constitucional / Senado Cuenta del Mensaje 762-362 que retira y hace presente la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8480-03","Fecha Etapa Informe Documento
+08 de Ago. de 2012 Primer trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+08 de Ago. de 2012 Primer trámite constitucional Senado Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8480-03","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Nov. de 2014   Simple 762-362  
+07 de Oct. de 2014 04 de Nov. de 2014 Simple 626-362 762-362
+09 de Sep. de 2014 07 de Oct. de 2014 Simple 499-362 626-362
+12 de Ago. de 2014 09 de Sep. de 2014 Simple 366-362 499-362
+15 de Jul. de 2014 12 de Ago. de 2014 Simple 260-362 366-362","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8480-03","Nombre
+Carlos Bianchi Chelech
+Carlos Ignacio Kuschel Silva
+Pedro Muñoz Aburto
+Jorge Pizarro Soto
+Ximena Rincón González","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8480-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8480-03","No record","Veto emmEnd"

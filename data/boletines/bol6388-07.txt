@@ -1,0 +1,50 @@
+* * Bill summary * *
+"emmStart Summary 6388-07","Legislatura: 356
+Fecha de ingreso: martes 03 de marzo de 2009
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 6388-07
+Materia: Trabajadores,Creditos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 06:16:44
+* * Hitos de tramitación * *
+"emmStart Hitos 6388-07","Fecha Sesión Etapa Sub-etapa Documento
+03 de Mar. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Mar. de 2009 131ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+15 de Abr. de 2009 17ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 196-357 que hace presente la urgencia Simple Ver
+30 de Abr. de 2009 22ª / 357 Primer trámite constitucional / C. Diputados P. de la Rep. retira urgencia que hiciera presente. Ver
+06 de May. de 2009 26ª / 357 Primer trámite constitucional / C. Diputados Cuenta, Oficio de la Comisión de Trabajo y Seguridad Social por el cual solicita el acuerdo de la Sala para que se le remita el proyecto para ser tratado conjuntamente con el que ""establece derechos a los trabajadores frente a la quiebra de la empresa"". (Bol. N° 6164-13), y una vez informados, pasen a la Comisión de Constitución. Ver
+07 de May. de 2009 27ª / 357 Primer trámite constitucional / C. Diputados Se acuerda enviarlo a la Comisión de Trabajo y Seguridad Social Ver
+30 de Jun. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+30 de Jul. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+04 de Nov. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+10 de Nov. de 2009 102ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Ene. de 2010 119ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6388-07","Fecha Etapa Informe Documento
+04 de Nov. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+30 de Jul. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6388-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+15 de Abr. de 2009   Simple 196-357  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6388-07","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Alfonso De Urresti Longton XIV Región de los Ríos N°53 Partido Socialista
+Gonzalo Duarte Leiva RM Región Metropolitana N°26 Partido Demócrata Cristiano
+Alvaro Escobar Rufatt RM Región Metropolitana N°20 Independientes
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Tucapel Jiménez Fuentes RM Región Metropolitana N°27 Partido Por la Democracia
+Denise Pascal Allende RM Región Metropolitana N°31 Partido Socialista
+Eduardo Saffirio Suárez IX Región de la Araucanía N°50 Partido Demócrata Cristiano
+Patricio Vallespín López X Región de los Lagos N°57 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6388-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+119 Aprobado el Informe que propone el rechazo del proyecto. 50 0 3 67 Rechazado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6388-07","No record","Veto emmEnd"

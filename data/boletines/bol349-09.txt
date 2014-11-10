@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 349-09","Legislatura: 321
+Fecha de ingreso: martes 14 de mayo de 1991
+Estado: Tramitación terminada (Ley Nº 19.145 - D.Oficial 25/06/1992)
+Numero de boletín: 349-09
+Materia: Aguas Subterráneas,Código De Aguas
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 16:05:33
+* * Hitos de tramitación * *
+"emmStart Hitos 349-09","Fecha Sesión Etapa Sub-etapa Documento
+14 de May. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+14 de May. de 1991 55ª / 321 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+19 de Nov. de 1991   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de Dic. de 1991   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+15 de Ene. de 1992 34ª / 323 Segundo trámite constitucional / Senado Cuenta de proyecto
+20 de Abr. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Agricultura Ver
+12 de May. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+19 de May. de 1992 60ª / 323 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+03 de Jun. de 1992 2ª / 324 Segundo trámite constitucional / Senado Discusión general Ver
+05 de Jun. de 1992 3ª / 324 Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen
+05 de Jun. de 1992   Tramitación terminada / Oficio Nº3199. comunica aprobación con modificaciones a Cámara de origen Ver
+09 de Jun. de 1992 6ª / 324 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+10 de Jun. de 1992 7ª / 324 Tercer trámite constitucional / C. Diputados Discusión única Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 349-09","Fecha Etapa Informe Documento
+12 de May. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Agricultura Ver
+20 de Abr. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Obras Públicas Ver
+18 de Dic. de 1991 Primer trámite constitucional C.Diputados Segundo informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+19 de Nov. de 1991 Primer trámite constitucional C.Diputados Primer informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 349-09","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+14 de May. de 1991   Simple    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 349-09","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 349-09","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 349-09","No record","Veto emmEnd"

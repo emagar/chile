@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 5550-24","Legislatura: 355
+Fecha de ingreso: jueves 13 de diciembre de 2007
+Estado: Segundo trámite constitucional .
+Numero de boletín: 5550-24
+Materia: Honores Públicos,Monumentos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 06:01:34
+* * Hitos de tramitación * *
+"emmStart Hitos 5550-24","Fecha Sesión Etapa Sub-etapa Documento
+13 de Dic. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Dic. de 2007 116ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión Especial de la Cultura y las Artes Ver
+02 de Jul. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+28 de Jul. de 2009 55ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+16 de Sep. de 2009 81ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver
+16 de Sep. de 2009   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+29 de Sep. de 2009 52ª / 357 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+29 de Sep. de 2009 52ª / 357 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5550-24","Fecha Etapa Informe Documento
+02 de Jul. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de la Cultura y las Artes Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5550-24","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5550-24","Nombre Región Distrito Partido
+Pedro Araya Guerrero II Región de Antofagasta N°4 Independientes
+Eduardo Díaz Del Río IX Región de la Araucanía N°51 Partido Regionalista Independiente
+Marcos Espinosa Monardes II Región de Antofagasta N°3 Partido Radical Social Demócrata
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Jaime Mulet Martínez III Región de Atacama N°6 Partido Regionalista Independiente
+Carlos Olivares Zepeda RM Región Metropolitana N°18 Partido Regionalista Independiente
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Independientes
+Alejandro Sule Fernández VI Región del Libertador Bernardo O' Higgins N°33 Partido Radical Social Demócrata","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5550-24","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+81   62 0 0 58 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5550-24","No record","Veto emmEnd"

@@ -1,0 +1,55 @@
+* * Bill summary * *
+"emmStart Summary 1024-01","Legislatura: 326
+Fecha de ingreso: miércoles 07 de julio de 1993
+Estado: Tramitación terminada (Ley Nº 19.316 - D.Oficial 29/08/1994)
+Numero de boletín: 1024-01
+Materia: Fomento A La Inversión Privada,Obras De Riego Y Drenaje,Drenaje
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 02:05:57
+* * Hitos de tramitación * *
+"emmStart Hitos 1024-01","Fecha Sesión Etapa Sub-etapa Documento
+07 de Jul. de 1993 12ª / 326 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+07 de Jul. de 1993   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Ago. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+04 de Nov. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+05 de Nov. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Nov. de 1993 14ª / 327 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+10 de Nov. de 1993 15ª / 327 Primer trámite constitucional / C. Diputados Discusión general Ver
+11 de Nov. de 1993   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+16 de Nov. de 1993 14ª / 327 Segundo trámite constitucional / Senado Cuenta. Pasa a las Comisiones de Obras Públicas y de Agricultura, unidas, y a la de Hacienda en su caso (suma urgencia) Ver
+22 de Ene. de 1994   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+24 de Ene. de 1994   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+25 de Ene. de 1994 29ª / 327 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+26 de Ene. de 1994 32ª / 327 Segundo trámite constitucional / Senado Discusión general Ver
+20 de Abr. de 1994   Segundo trámite constitucional / Senado Boletín de indicaciones
+16 de May. de 1994   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+17 de May. de 1994 14ª / 328 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+31 de May. de 1994 1ª / 329 Segundo trámite constitucional / Senado Discusión particular Ver
+01 de Jun. de 1994   Tramitación terminada / Oficio Nº5987. comunica aprobación con modificaciones a Cámara de origen Ver
+01 de Jun. de 1994   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+07 de Jun. de 1994 4ª / 329 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+14 de Jun. de 1994 9ª / 329 Tercer trámite constitucional / C. Diputados Discusión única Ver
+16 de Jun. de 1994   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1024-01","Fecha Etapa Informe Documento
+16 de May. de 1994 Segundo trámite constitucional Senado Segundo informe de comisión de Obras Públicas y de Agricultura, unidas Ver
+24 de Ene. de 1994 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+22 de Ene. de 1994 Segundo trámite constitucional Senado Primer informe de comisión de Obras Públicas y de Agricultura, unidas Ver
+05 de Nov. de 1993 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+04 de Nov. de 1993 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+04 de Ago. de 1993 Primer trámite constitucional C.Diputados Primer informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1024-01","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+07 de Jul. de 1993   Simple    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1024-01","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1024-01","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1024-01","No record","Veto emmEnd"

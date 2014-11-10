@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 3728-07","Legislatura: 352
+Fecha de ingreso: martes 16 de noviembre de 2004
+Estado: Tramitación terminada (Ley Nº 19.991 - D.Oficial 24/12/2004)
+Numero de boletín: 3728-07
+Materia: Corte Suprema De Justicia,Cortes De Apelaciones
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 04-11-2014 07:59:33
+* * Hitos de tramitación * *
+"emmStart Hitos 3728-07","Fecha Sesión Etapa Sub-etapa Documento
+16 de Nov. de 2004   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+16 de Nov. de 2004 13ª / 352 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento. Se remite el proyecto a la Corte Suprema.
+16 de Nov. de 2004   Primer trámite constitucional / Senado Oficio Nº 24351 a la Corte Suprema Ver
+17 de Nov. de 2004   Primer trámite constitucional / Senado Primer informe de comisión Ver
+17 de Nov. de 2004 15ª / 352 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+30 de Nov. de 2004 16ª / 352 Primer trámite constitucional / Senado Cuenta oficio Nº 5854 de la Corte Suprema Ver
+30 de Nov. de 2004 17ª / 352 Primer trámite constitucional / Senado Discusión general Ver
+30 de Nov. de 2004   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+01 de Dic. de 2004 26ª / 352 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+01 de Dic. de 2004 26ª / 352 Segundo trámite constitucional / C. Diputados Por acuerdo de la Sala se exime del trámite de Comisión y será tratado sobre tabla en la sesión del día de hoy. Ver
+01 de Dic. de 2004 26ª / 352 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+01 de Dic. de 2004   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+01 de Dic. de 2004 18ª / 352 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora. Se manda comunicar el proyecto a S.E. el Presidente de la República.
+01 de Dic. de 2004   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+06 de Dic. de 2004 19ª / 352 Trámite en Tribunal Constitucional / Senado Cuenta del mensaje en que S.E comunica que no observará esta iniciativa. Se toma conocimiento y se manda comunicar al Tribunal Constitucional.
+06 de Dic. de 2004   Trámite en Tribunal Constitucional / Senado Oficio al Tribunal Constitucional Ver
+14 de Dic. de 2004 20ª / 352 Trámite en Tribunal Constitucional / Senado Cuenta oficio Nº 2166 del Tribunal Constitucional Ver
+14 de Dic. de 2004   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3728-07","Fecha Etapa Informe Documento
+17 de Nov. de 2004 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3728-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3728-07","Nombre
+Ministerio de Justicia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3728-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+26   92 0 0 3 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3728-07","No record","Veto emmEnd"

@@ -1,0 +1,33 @@
+* * Bill summary * *
+"emmStart Summary 2806-17","Legislatura: 345
+Fecha de ingreso: miércoles 10 de octubre de 2001
+Estado: Primer trámite constitucional .
+Numero de boletín: 2806-17
+Materia: Nacionalización
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 16:44:11
+* * Hitos de tramitación * *
+"emmStart Hitos 2806-17","Fecha Sesión Etapa Sub-etapa Documento
+10 de Oct. de 2001   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Oct. de 2001 6ª / 345 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+19 de Jun. de 2002   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+06 de Ago. de 2002 24ª / 347 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+01 de Oct. de 2002 1ª / 348 Primer trámite constitucional / C. Diputados Discusión general Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2806-17","Fecha Etapa Informe Documento
+19 de Jun. de 2002 Primer trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2806-17","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2806-17","Nombre Región Distrito Partido
+Leopoldo Sánchez Grunert XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2806-17","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2806-17","No record","Veto emmEnd"

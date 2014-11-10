@@ -1,0 +1,48 @@
+* * Bill summary * *
+"emmStart Summary 6018-06","Legislatura: 356
+Fecha de ingreso: miércoles 06 de agosto de 2008
+Estado: Primer trámite constitucional .
+Numero de boletín: 6018-06
+Materia: Pueblos Originarios,Indigenas
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 01:54:48
+* * Hitos de tramitación * *
+"emmStart Hitos 6018-06","Fecha Sesión Etapa Sub-etapa Documento
+06 de Ago. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Ago. de 2008 58ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+02 de Sep. de 2008 69ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 733-356 que hace presente la urgencia Simple Ver
+07 de Oct. de 2008 85ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 852-356 que retira y hace presente la urgencia Simple Ver
+11 de Nov. de 2008 98ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1003-356 que retira y hace presente la urgencia Simple Ver
+16 de Dic. de 2008 116ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1213-356 que retira y hace presente la urgencia Simple Ver
+06 de Ene. de 2009 119ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1249-356 que retira la urgencia Simple Ver
+03 de Mar. de 2009 131ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1458-356 que hace presente la urgencia Simple Ver
+07 de Abr. de 2009 9ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 117-357 que retira y hace presente la urgencia Simple Ver
+12 de May. de 2009 28ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 317-357 que retira y hace presente la urgencia Simple Ver
+16 de Jun. de 2009 41ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 556-357 que retira y hace presente la urgencia Simple Ver
+07 de Jul. de 2009 49ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 712-357 que retira la urgencia Simple Ver
+13 de Mar. de 2012 1ª / 360 Primer trámite constitucional / C. Diputados Oficio N°4-2012. Oficio de la Comisión Especial sobre Pueblos Originarios, por el cual solicita el acuerdo de la Sala, para que le sea remitido el proyecto. Acordado Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6018-06","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6018-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+16 de Jun. de 2009 07 de Jul. de 2009 Simple 556-357 712-357
+12 de May. de 2009 16 de Jun. de 2009 Simple 317-357 556-357
+07 de Abr. de 2009 12 de May. de 2009 Simple 117-357 317-357
+03 de Mar. de 2009 07 de Abr. de 2009 Simple 1458-356 117-357
+16 de Dic. de 2008 06 de Ene. de 2009 Simple 1213-356 1249-356
+11 de Nov. de 2008 16 de Dic. de 2008 Simple 1003-356 1213-356
+07 de Oct. de 2008 11 de Nov. de 2008 Simple 852-356 1003-356
+02 de Sep. de 2008 07 de Oct. de 2008 Simple 733-356 852-356","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6018-06","Nombre Región Distrito Partido
+Ministerio de Interior y Seguridad Públi      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6018-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6018-06","No record","Veto emmEnd"

@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 7935-07","Legislatura: 359
+Fecha de ingreso: miércoles 14 de septiembre de 2011
+Estado: Archivado .
+Numero de boletín: 7935-07
+Materia: Constitucion 1980,Sistema De Reemplazo De Diputados Y Senadores
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 13:32:22
+* * Hitos de tramitación * *
+"emmStart Hitos 7935-07","Fecha Sesión Etapa Sub-etapa Documento
+14 de Sep. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+14 de Sep. de 2011 84ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+14 de Sep. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Oct. de 2011 94ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+15 de Nov. de 2011 108ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+16 de Nov. de 2011 109ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+03 de May. de 2012   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+08 de May. de 2012 22ª / 360 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+20 de Jun. de 2012 45ª / 360 Primer trámite constitucional / C. Diputados Discusión particular Ver
+01 de Ago. de 2012 63ª / 360 Primer trámite constitucional / C. Diputados Discusión particular Ver
+13 de Ago. de 2012 70ª / 360 Primer trámite constitucional / C. Diputados Discusión particular Ver
+28 de Nov. de 2012   Primer trámite constitucional / C. Diputados Primer informe complementario Ver
+12 de Dic. de 2012 111ª / 360 Primer trámite constitucional / C. Diputados Cuenta primer informe complementario Ver
+12 de Mar. de 2013 1ª / 361 Primer trámite constitucional / C. Diputados Discusión particular. Rechazado por falta de quorum. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7935-07","Fecha Etapa Informe Documento
+11 de Dic. de 2012 Primer trámite constitucional C.Diputados Primer informe complementario de Constitución, Legislación y Justicia Ver
+03 de May. de 2012 Primer trámite constitucional C.Diputados Segundo informe de comisión de Constitución, Legislación y Justicia Ver
+14 de Sep. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7935-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7935-07","Nombre Región Distrito Partido
+Alberto Cardemil Herrera RM Región Metropolitana N°22 Renovación Nacional
+Cristián Monckeberg Bruner RM Región Metropolitana N°23 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7935-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+109   83 6 9 22 Aprobado Sala Ver detalle votación
+1 Indicación renovada 50 50 5 15 Rechazado Sala Ver detalle votación
+1 Texto propuesto por Comisión de Constitución 57 38 11 14 Rechazado Sala Ver detalle votación
+124 Votación General 8 0 0 5   Constitución Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7935-07","No record","Veto emmEnd"

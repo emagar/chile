@@ -1,0 +1,67 @@
+* * Bill summary * *
+"emmStart Summary 7409-15","Legislatura: 358
+Fecha de ingreso: martes 04 de enero de 2011
+Estado: Primer trámite constitucional .
+Numero de boletín: 7409-15
+Materia: Licencias De Conducir
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 03:46:23
+* * Hitos de tramitación * *
+"emmStart Hitos 7409-15","Fecha Sesión Etapa Sub-etapa Documento
+04 de Ene. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Ene. de 2011 121ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+15 de Mar. de 2011 1ª / 359 Primer trámite constitucional / C. Diputados Oficio N°52/11. Oficio de la Comisión de Seguridad Ciudadana y Drogas, por el cual solicita el acuerdo de la Sala, para que le sea remitido el proyecto. Pendiente Ver Ver
+16 de Mar. de 2011 3ª / 359 Primer trámite constitucional / C. Diputados Rechazada la petición de la Comisión de Seguridad Ciudadana. Ver
+19 de Oct. de 2011 99ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 429-359 que hace presente la urgencia Simple Ver
+16 de Nov. de 2011 109ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 452-359 que hace presente la urgencia Simple Ver
+20 de Dic. de 2011 123ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 504-359 que hace presente la urgencia Simple Ver
+19 de Ene. de 2012 136ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 568-359 que hace presente la urgencia Simple Ver
+06 de Mar. de 2012 140ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 578-359 que retira la urgencias por receso legislativo Ver
+06 de Mar. de 2012 140ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 604-359 que hace presente la urgencia Simple Ver
+04 de Abr. de 2012 10ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 39-360 que hace presente la urgencia Simple Ver
+03 de May. de 2012 21ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 73-360 que hace presente la urgencia Simple Ver
+05 de Jun. de 2012 36ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 134-360 que hace presente la urgencia Simple Ver
+05 de Jul. de 2012 51ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 187-360 que hace presente la urgencia Simple Ver
+02 de Ago. de 2012 65ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 228-360 que hace presente la urgencia Simple Ver
+30 de Ago. de 2012 74ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 274-360 que hace presente la urgencia Simple Ver
+12 de Sep. de 2012 79ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 290-360 que hace presente la urgencia Simple Ver
+11 de Oct. de 2012 89ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 316-360 que hace presente la urgencia Simple Ver
+08 de Nov. de 2012 97ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 350-360 que hace presente la urgencia Simple Ver
+10 de Dic. de 2012 109ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 386-360 que hace presente la urgencia Simple Ver
+08 de Ene. de 2013 122ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 433-360 que hace presente la urgencia Simple Ver
+05 de Mar. de 2013 133ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 463-360 que retira la urgencia Simple Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7409-15","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7409-15","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+08 de Ene. de 2013 05 de Mar. de 2013 Simple 433-360 463-360
+10 de Dic. de 2012   Simple 386-360  
+08 de Nov. de 2012   Simple 350-360  
+11 de Oct. de 2012   Simple 316-360  
+12 de Sep. de 2012   Simple 290-360  
+30 de Ago. de 2012   Simple 274-360  
+02 de Ago. de 2012   Simple 228-360  
+05 de Jul. de 2012   Simple 187-360  
+05 de Jun. de 2012   Simple 134-360  
+03 de May. de 2012   Simple 73-360  
+04 de Abr. de 2012   Simple 39-360  
+06 de Mar. de 2012   Simple 604-359  
+19 de Ene. de 2012 31 de Ene. de 2012 Simple 568-359 578-359
+20 de Dic. de 2011   Simple 504-359  
+16 de Nov. de 2011   Simple 452-359  
+19 de Oct. de 2011   Simple 429-359  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7409-15","Nombre Región Distrito Partido
+Ministerio de Interior y Seguridad Públi      
+Ministerio de Justicia      
+Ministerio de Transporte y Telecomunicaciones      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7409-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7409-15","No record","Veto emmEnd"

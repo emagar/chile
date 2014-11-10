@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 1654-08","Legislatura: 331
+Fecha de ingreso: martes 01 de agosto de 1995
+Estado: Archivado .
+Numero de boletín: 1654-08
+Materia: Enami
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 11:55:39
+* * Hitos de tramitación * *
+"emmStart Hitos 1654-08","Fecha Sesión Etapa Sub-etapa Documento
+01 de Ago. de 1995   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+01 de Ago. de 1995 21ª / 331 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Minería
+04 de Sep. de 1998   Primer trámite constitucional / Senado Primer informe de comisión Ver
+08 de Sep. de 1998 28ª / 338 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+09 de Jun. de 1999 4ª / 340 Primer trámite constitucional / Senado Se solicita nuevo informe Por acuerdo de la Sala vuelve a Comisión para nuevo Informe
+13 de Mar. de 2002   Primer trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 346
+14 de Sep. de 2004   Primer trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 352
+13 de Sep. de 2006   Primer trámite constitucional / Senado Archivado La Comisión, de conformidad a lo prescrito por el inciso segundo del artículo 36 bis del Reglamento, archivó este proyecto.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1654-08","Fecha Etapa Informe Documento
+04 de Sep. de 1998 Primer trámite constitucional Senado Primer informe de comisión de Minería y Energía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1654-08","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1654-08","Nombre
+Ricardo Núñez Muñoz
+Carlos Ominami Pascual","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1654-08","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1654-08","No record","Veto emmEnd"

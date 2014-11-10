@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 5091-15","Legislatura: 355
+Fecha de ingreso: miércoles 06 de junio de 2007
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 5091-15
+Materia: Servicio De Buses Por El Metro
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 00:33:49
+* * Hitos de tramitación * *
+"emmStart Hitos 5091-15","Fecha Sesión Etapa Sub-etapa Documento
+06 de Jun. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Jun. de 2007 31ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+06 de Jun. de 2007 31ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 273-355 que hace presente la urgencia Suma Ver
+19 de Jun. de 2007 38ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 329-355 que retira y hace presente la urgencia Suma Ver
+04 de Jul. de 2007 45ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 412-355 que retira y hace presente la urgencia Suma Ver
+05 de Jul. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+10 de Jul. de 2007 47ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+11 de Jul. de 2007 48ª / 355 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+12 de Jul. de 2007 51ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 439-355 que retira la urgencia Suma Ver
+31 de Jul. de 2007 56ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 479-355 que hace presente la urgencia Suma Ver
+07 de Ago. de 2007 60ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 554-355 que retira la urgencia Suma Ver
+13 de Ago. de 2007 63ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 579-355 que hace presente la urgencia Suma Ver Ver
+14 de Ago. de 2007 65ª / 355 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+14 de Ago. de 2007   Primer trámite constitucional / C. Diputados Oficio rechazo al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5091-15","Fecha Etapa Informe Documento
+05 de Jul. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5091-15","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+13 de Ago. de 2007   Suma 579-355  
+31 de Jul. de 2007 07 de Ago. de 2007 Suma 479-355 554-355
+19 de Jun. de 0007 04 de Jul. de 2007 Suma 329-355 412-355
+06 de Jun. de 0007 19 de Jun. de 2007 Suma 273-355 329-355","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5091-15","Nombre Región Distrito Partido
+Ministerio de Transporte y Telecomunicaciones      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5091-15","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+65   60 41 0 19 Rechazado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5091-15","No record","Veto emmEnd"

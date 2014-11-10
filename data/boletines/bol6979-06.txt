@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 6979-06","Legislatura: 358
+Fecha de ingreso: martes 08 de junio de 2010
+Estado: Segundo trámite constitucional .
+Numero de boletín: 6979-06
+Materia: Sistema De Inscripción Electoral,Datos De Electores,Datos Personales
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 22:51:56
+* * Hitos de tramitación * *
+"emmStart Hitos 6979-06","Fecha Sesión Etapa Sub-etapa Documento
+08 de Jun. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+08 de Jun. de 2010 34ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+30 de Jun. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de Jul. de 2010 48ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+27 de Jul. de 2010 55ª / 358 Segundo trámite constitucional / Senado Discusión general. Queda pendiente.
+28 de Jul. de 2010 56ª / 358 Primer trámite constitucional / C. Diputados Aprobado en general y en particular, se remite el proyecto a la Cámara Revisora. Ver
+28 de Jul. de 2010   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+03 de Ago. de 2010 38ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6979-06","Fecha Etapa Informe Documento
+30 de Jun. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6979-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6979-06","Nombre Región Distrito Partido
+Pedro Araya Guerrero II Región de Antofagasta N°4 Partido Regionalista Independiente
+Gonzalo Arenas Hödar IX Región de la Araucanía N°48 Unión Demócrata Independiente
+Gabriel Ascencio Mansilla X Región de los Lagos N°58 Partido Demócrata Cristiano
+Guillermo Ceroni Fuentes VII Región del Maule N°40 Partido Por la Democracia
+Edmundo Eluchans Urenda V Región de Valparaíso N°14 Unión Demócrata Independiente
+Juan Carlos Latorre Carmona VI Región del Libertador Bernardo O' Higgins N°35 Partido Demócrata Cristiano
+Miodrag Marinovic Solo de Zaldívar XII Región de Magallanes y de la Antártica Chilena N°60 Independientes
+Sergio Ojeda Uribe X Región de los Lagos N°55 Partido Demócrata Cristiano
+Ricardo Rincón González VI Región del Libertador Bernardo O' Higgins N°33 Partido Demócrata Cristiano
+Patricio Vallespín López X Región de los Lagos N°57 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6979-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+56   96 10 0 14 Aprobado Sala Ver detalle votación
+19 Votación General 8 0 0 5   Constitución Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6979-06","No record","Veto emmEnd"

@@ -1,0 +1,31 @@
+* * Bill summary * *
+"emmStart Summary 8138-15","Legislatura: 359
+Fecha de ingreso: martes 10 de enero de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8138-15
+Materia: Tránsito,Sistema Electrónico De Cobro De Peajes
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 15:55:41
+* * Hitos de tramitación * *
+"emmStart Hitos 8138-15","Fecha Sesión Etapa Sub-etapa Documento
+10 de Ene. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Ene. de 2012 129ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8138-15","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8138-15","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8138-15","Nombre Región Distrito Partido
+Rosauro Martínez Labbé VIII Región del Bío Bío N°41 Renovación Nacional
+Gaspar Rivas Sánchez V Región de Valparaíso N°11 Renovación Nacional
+Alejandro Santana Tirachini X Región de los Lagos N°58 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8138-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8138-15","No record","Veto emmEnd"

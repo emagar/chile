@@ -1,0 +1,67 @@
+* * Bill summary * *
+"emmStart Summary 6274-19","Legislatura: 356
+Fecha de ingreso: miércoles 17 de diciembre de 2008
+Estado: Tramitación terminada (Ley Nº 20.709 - D.Oficial 23/12/2013)
+Numero de boletín: 6274-19
+Materia: Depósito Legal,Materiales Audiovisuales
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 04:52:20
+* * Hitos de tramitación * *
+"emmStart Hitos 6274-19","Fecha Sesión Etapa Sub-etapa Documento
+17 de Dic. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+17 de Dic. de 2008 117ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Ciencias y Tecnología Ver
+23 de Ago. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+23 de Ene. de 2012 137ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+11 de Abr. de 2012 13ª / 360 Primer trámite constitucional / C. Diputados Oficio N°34-360. Oficio de S.E. el Presidente de la República por el cual formula indicaciones al proyecto. Ver Ver
+17 de Abr. de 2012 16ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+18 de May. de 2012   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+12 de Jun. de 2012 40ª / 360 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+21 de Jun. de 2012 47ª / 360 Primer trámite constitucional / C. Diputados Discusión particular Ver
+22 de Jun. de 2012   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+03 de Jul. de 2012 30ª / 360 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+12 de Jun. de 2013 30ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 135-361 que hace presente la urgencia Suma
+01 de Ago. de 2013   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+06 de Ago. de 2013 45ª / 361 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+09 de Oct. de 2013 62ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 302-361 que retira y hace presente la urgencia Simple Ver
+09 de Oct. de 2013 62ª / 361 Segundo trámite constitucional / Senado Discusión general Ver
+09 de Oct. de 2013   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+10 de Oct. de 2013 82ª / 361 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+19 de Nov. de 2013 87ª / 361 Tercer trámite constitucional / C. Diputados Cuenta del Mensaje 239-361 que hace presente la urgencia Simple Ver
+19 de Nov. de 2013 87ª / 361 Tercer trámite constitucional / C. Diputados Discusión única. Aprobadas las modificaciones . Ver
+19 de Nov. de 2013   Tercer trámite constitucional / C. Diputados Oficio N° 10.974, que comunica aprobacion de modificaciones Ver
+19 de Nov. de 2013   Tercer trámite constitucional / C. Diputados Oficio N° 10.975, que remite proyecto para promulgación al Presidente de la República. Ver
+19 de Nov. de 2013 70ª / 361 Tercer trámite constitucional / C. Diputados Cuenta oficio N° 10.974, que comunica aprobacion de modificaciones Ver
+19 de Nov. de 2013 70ª / 361 Tercer trámite constitucional / C. Diputados Cuenta oficio N° 10.974, que comunica aprobacion de modificaciones Ver
+19 de Nov. de 2013 70ª / 361 Tercer trámite constitucional / C. Diputados Cuenta oficio N° 10.975, que comunica aprobacion de modificaciones Ver
+19 de Nov. de 2013 70ª / 361 Tercer trámite constitucional / C. Diputados Cuenta oficio N° 10.975, que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6274-19","Fecha Etapa Informe Documento
+01 de Ago. de 2013 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+15 de Jun. de 2012 Primer trámite constitucional C.Diputados Segundo informe de comisión de Ciencias y Tecnología Ver
+23 de Ene. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Ciencias y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6274-19","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+19 de Nov. de 2013   Simple 239-361  
+09 de Oct. de 2013   Simple 302-361  
+12 de Jun. de 2013 09 de Oct. de 2013 Suma 135-361 302-361","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6274-19","Nombre Región Distrito Partido
+Guillermo Ceroni Fuentes VII Región del Maule N°40 Partido Por la Democracia
+Rodrigo González Torres V Región de Valparaíso N°14 Partido Por la Democracia
+Patricio Hales Dib RM Región Metropolitana N°19 Partido Por la Democracia
+Jorge Insunza Gregorio de las Heras RM Región Metropolitana N°28 Partido Por la Democracia
+María Antonieta Saa Díaz RM Región Metropolitana N°17 Partido Por la Democracia
+Carolina Tohá Morales RM Región Metropolitana N°22 Partido Por la Democracia
+Ximena Vidal Lázaro RM Región Metropolitana N°25 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6274-19","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+87   91 0 0 29 Aprobado Sala Ver detalle votación
+47   82 0 0 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6274-19","No record","Veto emmEnd"

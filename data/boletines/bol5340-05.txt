@@ -1,0 +1,35 @@
+* * Bill summary * *
+"emmStart Summary 5340-05","Legislatura: 355
+Fecha de ingreso: jueves 13 de septiembre de 2007
+Estado: Primer trámite constitucional .
+Numero de boletín: 5340-05
+Materia: Juegos De Azar
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 03:28:45
+* * Hitos de tramitación * *
+"emmStart Hitos 5340-05","Fecha Sesión Etapa Sub-etapa Documento
+13 de Sep. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Sep. de 2007 78ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5340-05","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5340-05","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5340-05","Nombre Región Distrito Partido
+Germán Becker Alvear IX Región de la Araucanía N°50 Renovación Nacional
+Mario Bertolino Rendic IV Región de Coquimbo N°7 Renovación Nacional
+Roberto Delmastro Naso XIV Región de los Ríos N°53 Renovación Nacional
+Pablo Galilea Carrillo XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Renovación Nacional
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Marta Isasi Barbieri I Región de Tarapacá N°2 Independientes
+Alfonso Vargas Lyng V Región de Valparaíso N°10 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5340-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5340-05","No record","Veto emmEnd"

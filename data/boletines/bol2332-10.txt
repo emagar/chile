@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 2332-10","Legislatura: 339
+Fecha de ingreso: martes 04 de mayo de 1999
+Estado: Tramitación terminada (D.S. Nº 1.222 - D.Oficial 30/09/2000)
+Numero de boletín: 2332-10
+Materia: Turismo
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 23:22:53
+* * Hitos de tramitación * *
+"emmStart Hitos 2332-10","Fecha Sesión Etapa Sub-etapa Documento
+04 de May. de 1999   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+04 de May. de 1999 36ª / 339 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+07 de Jul. de 1999   Primer trámite constitucional / Senado Primer informe de comisión Ver
+13 de Jul. de 1999 13ª / 340 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+21 de Jul. de 1999 17ª / 340 Primer trámite constitucional / Senado Discusión general Ver
+23 de Jul. de 1999   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+03 de Ago. de 1999 23ª / 340 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+20 de Jun. de 2000 5ª / 342 Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver Ver
+20 de Jun. de 2000 5ª / 342 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+22 de Jun. de 2000 8ª / 342 Segundo trámite constitucional / C. Diputados Discusión general Ver
+22 de Jun. de 2000 8ª / 342 Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver Ver
+04 de Jul. de 2000 7ª / 342 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+05 de Jul. de 2000   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2332-10","Fecha Etapa Informe Documento
+20 de Jun. de 2000 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+07 de Jul. de 1999 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2332-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de May. de 1999   Sin urgencia 293-339  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2332-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2332-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2332-10","No record","Veto emmEnd"

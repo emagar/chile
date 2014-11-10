@@ -1,0 +1,30 @@
+* * Bill summary * *
+"emmStart Summary 4003-01","Legislatura: 353
+Fecha de ingreso: miércoles 05 de octubre de 2005
+Estado: Archivado .
+Numero de boletín: 4003-01
+Materia: Semilla Transgénica
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 07:45:37
+* * Hitos de tramitación * *
+"emmStart Hitos 4003-01","Fecha Sesión Etapa Sub-etapa Documento
+05 de Oct. de 2005 48ª / 353 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+05 de Oct. de 2005   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Abr. de 2014 11ª / 362 Primer trámite constitucional / C. Diputados Archivado . Cuenta oficio de la Comisión de Agricultura, Silvicultura y Desarrollo Rural, por el que comunica que acordó el archivo del proyecto, en virtud de lo dispuesto en el artículo 17 del Reglamento de la Corporación. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4003-01","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4003-01","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4003-01","Nombre Región Distrito Partido
+Maximiano Errázuriz Eguiguren RM Región Metropolitana N°29 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4003-01","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4003-01","No record","Veto emmEnd"

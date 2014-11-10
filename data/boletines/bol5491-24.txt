@@ -1,0 +1,69 @@
+* * Bill summary * *
+"emmStart Summary 5491-24","Legislatura: 355
+Fecha de ingreso: martes 20 de noviembre de 2007
+Estado: Segundo trámite constitucional .
+Numero de boletín: 5491-24
+Materia: Música Chilena,Folklore
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 05:18:30
+* * Hitos de tramitación * *
+"emmStart Hitos 5491-24","Fecha Sesión Etapa Sub-etapa Documento
+20 de Nov. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de Nov. de 2007 106ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión Especial de la Cultura y las Artes Ver
+18 de Mar. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+31 de Mar. de 2009 6ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+04 de Jun. de 2009 36ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+18 de Jun. de 2009 44ª / 357 Primer trámite constitucional / C. Diputados Discusión general. Vuelve a la Comisión de la Cultura y de las Artes para segundo informe, por haber recibido indicaciones Ver
+18 de Ago. de 2009 67ª / 357 Primer trámite constitucional / C. Diputados Diputada señora Cubillos, doña Marecela comunica que retira su patrocinio. Ver
+04 de Ago. de 2010   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+11 de Ago. de 2010 62ª / 358 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+31 de Ago. de 2010 67ª / 358 Primer trámite constitucional / C. Diputados Discusión particular Ver
+31 de Ago. de 2010   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+01 de Sep. de 2010 46ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+24 de Ene. de 2014   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+04 de Mar. de 2014 91ª / 361 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+22 de Abr. de 2014 11ª / 362 Segundo trámite constitucional / Senado Discusión general Ver
+23 de Abr. de 2014 13ª / 362 Segundo trámite constitucional / Senado Discusión general Ver
+20 de May. de 2014   Segundo trámite constitucional / Senado Nuevo primer informe de comisión Ver
+03 de Jun. de 2014 20ª / 362 Segundo trámite constitucional / Senado Cuenta nuevo primer informe
+17 de Jun. de 2014 25ª / 362 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 30/06/2014 Ver
+30 de Jun. de 2014   Segundo trámite constitucional / Senado Boletín de indicaciones
+08 de Jul. de 2014   Segundo trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 14/07/2014 a las 12:00 en la Secretaría de la Comisión de Educación, Cultura, Ciencia y Tecnología
+14 de Jul. de 2014   Segundo trámite constitucional / Senado Boletín de indicaciones
+28 de Oct. de 2014   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+05 de Nov. de 2014 61ª / 362 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5491-24","Fecha Etapa Informe Documento
+28 de Oct. de 2014 Segundo trámite constitucional Senado Segundo informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+20 de May. de 2014 Segundo trámite constitucional Senado Nuevo primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+24 de Ene. de 2014 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+04 de Ago. de 2010 Primer trámite constitucional C.Diputados Segundo informe de comisión de la Cultura y las Artes Ver
+18 de Mar. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de la Cultura y las Artes Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5491-24","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5491-24","Nombre Región Distrito Partido
+María Angélica Cristi Marfil RM Región Metropolitana N°24 Unión Demócrata Independiente
+Enrique Estay Peñaloza IX Región de la Araucanía N°49 Unión Demócrata Independiente
+Alejandro García-Huidobro Sanfuentes VI Región del Libertador Bernardo O' Higgins N°32 Unión Demócrata Independiente
+Javier Hernández Hernández X Región de los Lagos N°55 Unión Demócrata Independiente
+Juan Masferrer Pellizzari VI Región del Libertador Bernardo O' Higgins N°34 Unión Demócrata Independiente
+Manuel Rojas Molina II Región de Antofagasta N°4 Unión Demócrata Independiente
+Marisol Turres Figueroa X Región de los Lagos N°57 Unión Demócrata Independiente
+Ignacio Urrutia Bonilla VII Región del Maule N°40 Unión Demócrata Independiente
+Gastón Von Mühlenbrock Zamora XIV Región de los Ríos N°54 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5491-24","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+44   64 1 3 0 Aprobado Sala Ver detalle votación
+67 Indicación renovada para agregar el siguiente artículo 2°, pasando el actual artículo único a ser 1°: ""Artículo 2°.- Agrégase el siguiente artículo 15 bis a la ley N°19.928, sobre Fomento de la Música Nacional: ""Artículo 15 bis.- La radioemisora que faltare a las normas sobre porcentajes mínimos de emisión de música nacional, estatuidas en el artículo anterior, será sancionada con multa de cinco a cincuenta unidades tributarias mensuales, la que se duplicará en caso de reincidencia. El juicio a que se procediere en aplicación del inciso precedente se tramitará según las reglas del Título XI del Libro III del Código de Procedimiento Civil."". 51 28 20 0 Aprobado Sala Ver detalle votación
+67 Indicación renovada (2) que propone agregar, en el inciso primero del artículo 15 bis propuesto en la indicación precedente (1), el siguiente párrafo: ""A la emisora que faltare a las normas sobre porcentajes mínimos de emisión de música nacional por tres veces en un año calendario, se le caducará la concesión."" 24 62 17 0 Rechazado Sala Ver detalle votación
+67 Texto del proyecto en los términos propuestos por la Comisión de la Cultura y de las Artes en la página 6 de su segundo informe. 55 27 21 0 Aprobado Sala Ver detalle votación
+22 Votación General 4 0 0 9   Cultura Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5491-24","No record","Veto emmEnd"

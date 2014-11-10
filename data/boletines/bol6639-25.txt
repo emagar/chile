@@ -1,0 +1,68 @@
+* * Bill summary * *
+"emmStart Summary 6639-25","Legislatura: 357
+Fecha de ingreso: miércoles 05 de agosto de 2009
+Estado: Segundo trámite constitucional .
+Numero de boletín: 6639-25
+Materia: Seguridad Privada
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 14:34:52
+* * Hitos de tramitación * *
+"emmStart Hitos 6639-25","Fecha Sesión Etapa Sub-etapa Documento
+05 de Ago. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+05 de Ago. de 2009 59ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Seguridad Ciudadana y Drogas Ver
+15 de Dic. de 2009 109ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1669-357 que hace presente la urgencia Simple Ver
+05 de Ene. de 2010 114ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1742-357 que retira y hace presente la urgencia Suma Ver
+06 de Ene. de 2010 115ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1773-357 que retira y hace presente la urgencia Simple Ver
+20 de Ene. de 2010 121ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1877-357 que retira la urgencia Simple Ver
+28 de Oct. de 2010 92ª / 358 Primer trámite constitucional / C. Diputados Oficio N° 344-358. Oficio de S.E. el Presidente de la República por el cual formula indicación al proyecto. Ver Ver
+21 de Jun. de 2012 47ª / 360 Primer trámite constitucional / C. Diputados Oficio N°97-360. Oficio de S.E. el Presidente de la República por el cual formula indicación sustitutiva al proyecto. Ver Ver
+20 de Nov. de 2012 100ª / 360 Primer trámite constitucional / C. Diputados Oficio de la Comisión de Seguridad Ciudadana y Drogas, por el cual remite a la Excma. Corte Suprema, el texto del proyecto para que se pronuncie en virtud de lo dispuesto en el inciso segundo del artículo 77 de la Constitución Política de la República, y de lo señalado en el artículo 16 de la ley N° 18.918, Orgánica Constitucional del Congreso Nacional. Ver
+26 de Nov. de 2012 104ª / 360 Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver Ver
+16 de Ene. de 2013 128ª / 360 Primer trámite constitucional / C. Diputados Cuenta oficio Nº 52-2012 de la Corte Suprema Ver Ver
+18 de Jul. de 2013 49ª / 361 Primer trámite constitucional / C. Diputados Oficio N°139-361. Oficio de S.E. el Presidente de la República por el cual formula indicación al proyecto. Ver Ver
+24 de Jul. de 2013   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+30 de Jul. de 2013 50ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 199-361 que hace presente la urgencia Suma Ver
+30 de Jul. de 2013 50ª / 361 Primer trámite constitucional / C. Diputados Cuenta. Primer informe de la Comisión de Hacienda recaído en el proyecto. Ver
+14 de Ago. de 2013 60ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 226-361 que hace presente la urgencia Suma Ver
+27 de Ago. de 2013 62ª / 361 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general y particular a la vez Ver
+27 de Ago. de 2013   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+28 de Ago. de 2013 50ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 245-361 que retira y hace presente la urgencia Suma
+28 de Ago. de 2013 50ª / 361 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización, y a la de Hacienda, en su caso.
+03 de Sep. de 2013 51ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 258-361 que retira la urgencia Suma
+01 de Abr. de 2014 4ª / 362 Segundo trámite constitucional / Senado Cuenta del Mensaje 22-362 que hace presente la urgencia Simple
+06 de May. de 2014 14ª / 362 Segundo trámite constitucional / Senado Cuenta del Mensaje 68-362 que retira y hace presente la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6639-25","Fecha Etapa Informe Documento
+24 de Jul. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+26 de Nov. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Seguridad Ciudadana y Drogas Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6639-25","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+06 de May. de 2014   Simple 68-362  
+01 de Abr. de 2014 05 de May. de 2014 Simple 22-362 68-362
+28 de Ago. de 2013 03 de Sep. de 2013 Suma 245-361 258-361
+14 de Ago. de 2013 28 de Ago. de 2013 Suma 226-361 245-361
+30 de Jul. de 2013   Suma 199-361  
+06 de Ene. de 2010 20 de Ene. de 2010 Simple 1773-357 1877-357
+15 de Dic. de 2009 05 de Ene. de 2010 Simple 1669-357 1742-357
+05 de Ene. de 0010 06 de Ene. de 2010 Suma 1741-357 1773-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6639-25","Nombre Región Distrito Partido
+Ministerio de Interior y Seguridad Públi      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6639-25","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+42 Votación General 4 0 0 9   Seguridad y Drogas Ver detalle votación
+62 Artículos 3°, inciso cuarto; 7°, inciso primero; 8°, inciso primero; 16, inciso final; 41 inciso primero, y 42. 101 0 5 14 Aprobado Sala Ver detalle votación
+62 Artículo 65 101 0 5 14 Aprobado Sala Ver detalle votación
+62 Artículos 33 a 48 con la salvedad del inciso primero del artículo 41 y del artículo 42 65 39 1 15 Aprobado Sala Ver detalle votación
+62 Inciso primero del artículo 41 y artículo 42 90 15 1 14 Aprobado Sala Ver detalle votación
+62   60 12 4 1 Aprobado Sala Ver detalle votación
+62 Con la salvedad del artículo 65, por tratarse de una norma orgánica constitucional, y de los artículos 3°, inciso cuarto; 7°, inciso primero; 8°, inciso primero; 16, inciso final; 41 inciso primero, y 42 103 0 4 13 Aprobado Sala Ver detalle votación
+62 Normas de quorum simple con la salvedad de los artículos 33 a 48 88 15 2 15 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6639-25","No record","Veto emmEnd"

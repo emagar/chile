@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 5676-05","Legislatura: 355
+Fecha de ingreso: jueves 03 de enero de 2008
+Estado: Primer trámite constitucional .
+Numero de boletín: 5676-05
+Materia: Cuentas Corrientes,Tarjetas De Crédito
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 12:57:18
+* * Hitos de tramitación * *
+"emmStart Hitos 5676-05","Fecha Sesión Etapa Sub-etapa Documento
+03 de Ene. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Ene. de 2008 123ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5676-05","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5676-05","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5676-05","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Rodrigo González Torres V Región de Valparaíso N°14 Partido Por la Democracia
+Patricio Hales Dib RM Región Metropolitana N°19 Partido Por la Democracia
+Enrique Jaramillo Becker XIV Región de los Ríos N°54 Partido Por la Democracia
+Tucapel Jiménez Fuentes RM Región Metropolitana N°27 Partido Por la Democracia
+Jaime Quintana Leal IX Región de la Araucanía N°49 Partido Por la Democracia
+María Antonieta Saa Díaz RM Región Metropolitana N°17 Partido Por la Democracia
+Laura Soto González V Región de Valparaíso N°13 Partido Por la Democracia
+Carolina Tohá Morales RM Región Metropolitana N°22 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5676-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5676-05","No record","Veto emmEnd"

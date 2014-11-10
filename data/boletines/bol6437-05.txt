@@ -1,0 +1,53 @@
+* * Bill summary * *
+"emmStart Summary 6437-05","Legislatura: 357
+Fecha de ingreso: miércoles 01 de abril de 2009
+Estado: Tramitación terminada (Ley Nº 20.343 - D.Oficial 28/04/2009)
+Numero de boletín: 6437-05
+Materia: Medidas Económicas,Financiamiento De Proyectos
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 07:37:26
+* * Hitos de tramitación * *
+"emmStart Hitos 6437-05","Fecha Sesión Etapa Sub-etapa Documento
+01 de Abr. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+01 de Abr. de 2009 7ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda y a Comisión Especial PYMES Ver
+02 de Abr. de 2009 8ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 108-357 que hace presente la urgencia Suma Ver
+07 de Abr. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de Abr. de 2009 9ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+07 de Abr. de 2009 9ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+07 de Abr. de 2009   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+07 de Abr. de 2009 7ª / 357 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Economía y a Comisión de Hacienda, unidas.
+07 de Abr. de 2009 7ª / 357 Segundo trámite constitucional / Senado La Sala, previo acuerdo de los Comités, autoriza a las Comisiones de Economía y de Hacienda, unidas para discutir este proyecto de ley, tanto en general como en particular a la vez, durante el trámite de primer informe.
+14 de Abr. de 2009   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+14 de Abr. de 2009 9ª / 357 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+15 de Abr. de 2009 11ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 190-357 que retira y hace presente la urgencia Discusión inmediata
+15 de Abr. de 2009 11ª / 357 Segundo trámite constitucional / Senado Discusión general Ver
+15 de Abr. de 2009   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+16 de Abr. de 2009 19ª / 357 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+16 de Abr. de 2009 19ª / 357 Tercer trámite constitucional / C. Diputados Discusión única Ver
+16 de Abr. de 2009   Tercer trámite constitucional / C. Diputados Oficio N? 8041, que comunica aprobacion de modificaciones Ver
+16 de Abr. de 2009   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo. Oficio N? 8042 Ver
+28 de Abr. de 2009 12ª / 357 Tercer trámite constitucional / C. Diputados Cuenta oficio N? 8041, que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6437-05","Fecha Etapa Informe Documento
+14 de Abr. de 2009 Segundo trámite constitucional Senado Primer informe de comisión de Economía y de Hacienda, unidas Ver
+07 de Abr. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6437-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+15 de Abr. de 2009   Discusión inmediata 190-357  
+02 de Abr. de 2009 14 de Abr. de 2009 Suma 108-357 190-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6437-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6437-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+1 Votación General 11 0 0 13   Unidas Hac/Pymes Ver detalle votación
+9   103 0 0 17 Aprobado Sala Ver detalle votación
+19   74 0 0 2 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6437-05","No record","Veto emmEnd"

@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 564-07","Legislatura: 323
+Fecha de ingreso: martes 10 de diciembre de 1991
+Estado: Tramitación terminada (Ley Nº 19.126 - D.Oficial 07/02/1992)
+Numero de boletín: 564-07
+Materia: Armas
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 19:59:17
+* * Hitos de tramitación * *
+"emmStart Hitos 564-07","Fecha Sesión Etapa Sub-etapa Documento
+10 de Dic. de 1991   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+10 de Dic. de 1991 25ª / 323 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a la Comisión de Constitución, Legislación, Justicia y Reglamento y a la de Defensa Nacional, Unidas.
+19 de Dic. de 1991 29ª / 323 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+19 de Dic. de 1991 29ª / 323 Primer trámite constitucional / Senado Primer informe de comisión Ver
+19 de Dic. de 1991 29ª / 323 Primer trámite constitucional / Senado Discusión general Ver
+23 de Dic. de 1991 29ª / 323 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+07 de Ene. de 1992 38ª / 323 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+15 de Ene. de 1992   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+21 de Ene. de 1992 45ª / 323 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+23 de Ene. de 1992 48ª / 323 Segundo trámite constitucional / C. Diputados Discusión general Ver
+24 de Ene. de 1992   Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver
+28 de Ene. de 1992 39ª / 323 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+28 de Ene. de 1992 39ª / 323 Tercer trámite constitucional / Senado Discusión única
+28 de Ene. de 1992   Tercer trámite constitucional / Senado Oficio Nº 2232, que comunica aprobación de modificaciones Ver
+28 de Ene. de 1992 39ª / 323 Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo Ver
+29 de Ene. de 1992 50ª / 323 Tercer trámite constitucional / Senado Cuenta oficio N? 2232, que comunica aprobacion de modificaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 564-07","Fecha Etapa Informe Documento
+15 de Ene. de 1992 Segundo trámite constitucional C.Diputados Primer informe de comisión de Defensa Nacional Ver
+19 de Dic. de 1991 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento y de Defensa Nacional, unidas Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 564-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 564-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 564-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 564-07","No record","Veto emmEnd"

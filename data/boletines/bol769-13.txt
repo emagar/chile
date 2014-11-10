@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 769-13","Legislatura: 324
+Fecha de ingreso: martes 18 de agosto de 1992
+Estado: Tramitación terminada (Ley Nº 19.177 - D.Oficial 27/11/1992)
+Numero de boletín: 769-13
+Materia: Bono De Reconocimiento
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 22:42:31
+* * Hitos de tramitación * *
+"emmStart Hitos 769-13","Fecha Sesión Etapa Sub-etapa Documento
+10 de Dic. de 1991 31ª / 324 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+18 de Ago. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+15 de Sep. de 1992 25ª / 324 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social y a Comisión de Hacienda
+07 de Oct. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+14 de Oct. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+15 de Oct. de 1992 4ª / 325 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+03 de Nov. de 1992 7ª / 325 Segundo trámite constitucional / Senado Discusión general Ver
+09 de Nov. de 1992   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 769-13","Fecha Etapa Informe Documento
+14 de Oct. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+07 de Oct. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 769-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+10 de Dic. de 1991   Suma    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 769-13","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 769-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 769-13","No record","Veto emmEnd"

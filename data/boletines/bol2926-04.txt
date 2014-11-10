@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 2926-04","Legislatura: 346
+Fecha de ingreso: martes 07 de mayo de 2002
+Estado: Tramitación terminada (Ley Nº 19.808 - D.Oficial 07/06/2002)
+Numero de boletín: 2926-04
+Materia: Educacion
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 18:20:56
+* * Hitos de tramitación * *
+"emmStart Hitos 2926-04","Fecha Sesión Etapa Sub-etapa Documento
+07 de May. de 2002   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+07 de May. de 2002 17ª / 346 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+07 de May. de 2002   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+07 de May. de 2002   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de May. de 2002 19ª / 346 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+08 de May. de 2002 19ª / 346 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+08 de May. de 2002   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora
+08 de May. de 2002 13ª / 346 Segundo trámite constitucional / Senado Pasa a Comisión Unidas de Hacienda y Educación, Ciencia y Tecnología
+08 de May. de 2002   Segundo trámite constitucional / Senado Primer informe de comisión. Informe verbal de las Comisiones Unidas Ver
+08 de May. de 2002 14ª / 346 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión. (Informe Verbal)
+08 de May. de 2002 14ª / 346 Segundo trámite constitucional / Senado Discusión general Ver
+08 de May. de 2002   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+09 de May. de 2002 20ª / 346 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+09 de May. de 2002   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2926-04","Fecha Etapa Informe Documento
+08 de May. de 2002 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda y de Educación, Cultura, Ciencia y Tecnología, unidas Ver
+07 de May. de 2002 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+07 de May. de 2002 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2926-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2926-04","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2926-04","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+19   74 0 0 0   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2926-04","No record","Veto emmEnd"

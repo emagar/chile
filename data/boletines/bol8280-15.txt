@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 8280-15","Legislatura: 360
+Fecha de ingreso: martes 08 de mayo de 2012
+Estado: Segundo trámite constitucional .
+Numero de boletín: 8280-15
+Materia: Consumidores,Servicios Públicos De Telecomunicaciones,Prepago
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 23:36:47
+* * Hitos de tramitación * *
+"emmStart Hitos 8280-15","Fecha Sesión Etapa Sub-etapa Documento
+08 de May. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+08 de May. de 2012 22ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+05 de Jun. de 2012   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Jun. de 2012 36ª / 360 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+21 de Jun. de 2012 47ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+21 de Jun. de 2012   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+03 de Jul. de 2012 30ª / 360 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8280-15","Fecha Etapa Informe Documento
+05 de Jun. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8280-15","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8280-15","Nombre Región Distrito Partido
+Ramón Farías Ponce RM Región Metropolitana N°30 Partido Por la Democracia
+Gustavo Hasbún Selume RM Región Metropolitana N°26 Unión Demócrata Independiente
+Juan Carlos Latorre Carmona VI Región del Libertador Bernardo O' Higgins N°35 Partido Demócrata Cristiano
+Pablo Lorenzini Basso VII Región del Maule N°38 Partido Demócrata Cristiano
+Clemira Pacheco Rivas VIII Región del Bío Bío N°45 Partido Socialista
+Leopoldo Pérez Lahsen RM Región Metropolitana N°29 Renovación Nacional
+Ricardo Rincón González VI Región del Libertador Bernardo O' Higgins N°33 Partido Demócrata Cristiano
+Marcela Sabat Fernández RM Región Metropolitana N°21 Renovación Nacional
+Patricio Vallespín López X Región de los Lagos N°57 Partido Demócrata Cristiano
+Mario Venegas Cárdenas IX Región de la Araucanía N°48 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8280-15","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+47   85 0 0 35 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8280-15","No record","Veto emmEnd"

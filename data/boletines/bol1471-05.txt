@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 1471-05","Legislatura: 330
+Fecha de ingreso: miércoles 14 de diciembre de 1994
+Estado: Tramitación terminada (Ley Nº 19.361 - D.Oficial 30/12/1994)
+Numero de boletín: 1471-05
+Materia: Instituciones Financieras
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 09:31:05
+* * Hitos de tramitación * *
+"emmStart Hitos 1471-05","Fecha Sesión Etapa Sub-etapa Documento
+14 de Dic. de 1994 27ª / 330 Primer trámite constitucional / Senado Discusión única
+14 de Dic. de 1994 27ª / 330 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+14 de Dic. de 1994 27ª / 330 Primer trámite constitucional / Senado Cuenta de proyecto
+14 de Dic. de 1994   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+14 de Dic. de 1994   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+15 de Dic. de 1994 26ª / 330 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+15 de Dic. de 1994   Segundo trámite constitucional / C. Diputados Eximido del trámite ante Comisión
+15 de Dic. de 1994 26ª / 330 Segundo trámite constitucional / C. Diputados Discusión general Ver
+15 de Dic. de 1994   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+20 de Dic. de 1994 28ª / 330 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+20 de Dic. de 1994 28ª / 330 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+20 de Dic. de 1994   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+20 de Dic. de 1994   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1471-05","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1471-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+14 de Dic. de 1994   Discusión inmediata 14/12/1994  
+14 de Dic. de 1994   Discusión inmediata 141294  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1471-05","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1471-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1471-05","No record","Veto emmEnd"

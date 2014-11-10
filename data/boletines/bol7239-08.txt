@@ -1,0 +1,51 @@
+* * Bill summary * *
+"emmStart Summary 7239-08","Legislatura: 358
+Fecha de ingreso: miércoles 29 de septiembre de 2010
+Estado: Primer trámite constitucional .
+Numero de boletín: 7239-08
+Materia: Servicios De Gas,Región De Magallanes Y De La Antártica Chilena 12
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 09-11-2014 01:48:47
+* * Hitos de tramitación * *
+"emmStart Hitos 7239-08","Fecha Sesión Etapa Sub-etapa Documento
+29 de Sep. de 2010   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+29 de Sep. de 2010 56ª / 358 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Minería y Energía
+29 de Sep. de 2010 56ª / 358 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Minería y Energía
+26 de Oct. de 2010 61ª / 358 Primer trámite constitucional / Senado Cuenta del Mensaje 408-358 que hace presente la urgencia Simple
+30 de Nov. de 2010 70ª / 358 Primer trámite constitucional / Senado Cuenta del Mensaje 500-358 que hace presente la urgencia Simple
+04 de Ene. de 2011 81ª / 358 Primer trámite constitucional / Senado Cuenta del Mensaje 611-358 que retira y hace presente la urgencia Simple
+01 de Mar. de 2011 90ª / 358 Primer trámite constitucional / Senado Cuenta del Mensaje 710-358 que retira y hace presente la urgencia Simple
+05 de Abr. de 2011 6ª / 359 Primer trámite constitucional / Senado Cuenta del Mensaje 66-359 que retira y hace presente la urgencia Simple
+04 de May. de 2011 15ª / 359 Primer trámite constitucional / Senado Cuenta del Mensaje 169-359 que retira y hace presente la urgencia Simple
+31 de May. de 2011 21ª / 359 Primer trámite constitucional / Senado Cuenta del Mensaje 235-359 que retira y hace presente la urgencia Simple
+05 de Jul. de 2011 30ª / 359 Primer trámite constitucional / Senado Cuenta del Mensaje 311-359 que retira y hace presente la urgencia Simple
+03 de Ago. de 2011 40ª / 359 Primer trámite constitucional / Senado Cuenta del Mensaje 340-359 que retira y hace presente la urgencia Simple
+03 de Ago. de 2011 40ª / 359 Primer trámite constitucional / Senado La Sala acuerda, a solicitud del Senador Patricio Walker, que este proyecto sea conocido también por la Comisión Especial de Zonas Extremas.
+06 de Sep. de 2011 49ª / 359 Primer trámite constitucional / Senado Cuenta del Mensaje 372-359 que retira y hace presente la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7239-08","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7239-08","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+06 de Sep. de 2011   Simple 372-359  
+03 de Ago. de 2011 06 de Sep. de 2011 Simple 340-359 372-359
+05 de Jul. de 2011 03 de Ago. de 2011 Simple 311-359 340-359
+31 de May. de 2011 05 de Jul. de 2011 Simple 235-359 311-359
+04 de May. de 2011 31 de May. de 2011 Simple 169-359 235-359
+05 de Abr. de 2011 04 de May. de 2011 Simple 66-359 169-359
+01 de Mar. de 2011 05 de Abr. de 2011 Simple 710-358 66-359
+04 de Ene. de 2011 01 de Mar. de 2011 Simple 611-358 710-358
+30 de Nov. de 2010 03 de Ene. de 2011 Simple 500-358 611-358
+26 de Oct. de 2010   Simple 408-358  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7239-08","Nombre
+Ministerio de Minería","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7239-08","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7239-08","No record","Veto emmEnd"

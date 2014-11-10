@@ -1,0 +1,61 @@
+* * Bill summary * *
+"emmStart Summary 2339-06","Legislatura: 339
+Fecha de ingreso: miércoles 19 de mayo de 1999
+Estado: Tramitación terminada (Ley Nº 19.704 - D.Oficial 28/12/2000)
+Numero de boletín: 2339-06
+Materia: Rentas Municipales,Municipios
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 23:27:31
+* * Hitos de tramitación * *
+"emmStart Hitos 2339-06","Fecha Sesión Etapa Sub-etapa Documento
+19 de May. de 1999 68ª / 339 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+19 de May. de 1999   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+30 de Sep. de 1999   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+04 de Nov. de 1999   Primer trámite constitucional / C. Diputados S.E.El Presidente de la Republica incluye el proyecto en la Convocatoria Extraodinaria 341
+10 de Oct. de 2000   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+10 de Oct. de 2000 4ª / 343 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+10 de Oct. de 2000 4ª / 343 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+10 de Oct. de 2000   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+10 de Oct. de 2000 3ª / 343 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión Gobierno, Descentralización y Regionalización y de Hacienda, unidas
+15 de Nov. de 2000 11ª / 343 Segundo trámite constitucional / Senado Primer informe de comisión Ver
+15 de Nov. de 2000 11ª / 343 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+15 de Nov. de 2000 12ª / 343 Segundo trámite constitucional / Senado Discusión general Ver
+20 de Nov. de 2000   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+28 de Nov. de 2000 18ª / 343 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+28 de Nov. de 2000 18ª / 343 Tercer trámite constitucional / C. Diputados Discusión única Ver
+28 de Nov. de 2000   Tercer trámite constitucional / C. Diputados Oficio Nº 3143, que comunica aprobación de modificaciones Ver
+28 de Nov. de 2000 18ª / 343 Tercer trámite constitucional / C. Diputados Oficio al Ejecutivo, comunica proyecto aprobado para los efectos del artículo 70 de la Constitución Política del Estado. Ver Ver
+29 de Nov. de 2000 14ª / 343 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 3143, que comunica aprobación de modificaciones Ver
+30 de Nov. de 2000 21ª / 343 Trámite finalización en Cámara de Origen / C. Diputados Cuenta Oficio S.E. el Presidente de la República, manifiesta que ha resuelto no hacer uso de la facultad que le confiere el inciso primero del artículo 70 de la Constitución Política de la República. Ver
+30 de Nov. de 2000   Trámite en Tribunal Constitucional / C. Diputados Oficio Nº 3147 al Tribunal Constitucional, remite proyecto aprobado Ver
+05 de Dic. de 2000   Trámite en Tribunal Constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+13 de Dic. de 2000   Trámite en Tribunal Constitucional / C. Diputados Ingreso fallo del Tribunal Constitucional Ver
+13 de Dic. de 2000 26ª / 343 Trámite en Tribunal Constitucional / C. Diputados Cuenta fallo del Tribunal Constitucional Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2339-06","Fecha Etapa Informe Documento
+15 de Nov. de 2000 Segundo trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización y de Hacienda, unidas Ver
+10 de Oct. de 2000 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+30 de Sep. de 1999 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2339-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+14 de Nov. de 2000   Discusión inmediata 123-343  
+10 de Oct. de 2000   Discusión inmediata 39-343  
+03 de Oct. de 2000 04 de Oct. de 2000 Discusión inmediata 15-343 36-343
+17 de Ago. de 2000   Simple 163-342  
+17 de Ago. de 2000   Simple 164-342  
+11 de Jul. de 2000   Simple 110-342  
+06 de Jun. de 2000 11 de Jul. de 2000 Simple 4-342 110-342
+06 de Oct. de 1999 02 de Nov. de 1999 Simple 38-341 108-341
+19 de May. de 1999 02 de Nov. de 1999 Sin urgencia 318-339  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2339-06","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2339-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2339-06","No record","Veto emmEnd"

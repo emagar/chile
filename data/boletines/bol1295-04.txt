@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 1295-04","Legislatura: 329
+Fecha de ingreso: martes 02 de agosto de 1994
+Estado: Tramitación terminada (Ley Nº 19.463 - D.Oficial 05/08/1996)
+Numero de boletín: 1295-04
+Materia: Monumentos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 05:32:04
+* * Hitos de tramitación * *
+"emmStart Hitos 1295-04","Fecha Sesión Etapa Sub-etapa Documento
+02 de Ago. de 1994   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Ago. de 1994 25ª / 329 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+07 de Nov. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+14 de Nov. de 1995 16ª / 332 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+29 de Nov. de 1995 29ª / 332 Primer trámite constitucional / C. Diputados Discusión general Ver
+29 de Nov. de 1995   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+05 de Dic. de 1995 21ª / 332 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+04 de Jun. de 1996   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+04 de Jun. de 1996 3ª / 333 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+20 de Jun. de 1996 10ª / 333 Segundo trámite constitucional / Senado Discusión general Ver
+20 de Jun. de 1996   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+02 de Jul. de 1996 11ª / 333 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+02 de Jul. de 1996 11ª / 333 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+04 de Jul. de 1996 13ª / 333 Tercer trámite constitucional / C. Diputados Discusión única Ver
+05 de Jul. de 1996   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+09 de Jul. de 1996 15ª / 333 Tramitación terminada / Cuenta en el Senado del oficio de la Cámara de Diputados en que se comunica que ha aprobado las modificaciones introducidas por el Senado.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1295-04","Fecha Etapa Informe Documento
+04 de Jun. de 1996 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+07 de Nov. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1295-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1295-04","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1295-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1295-04","No record","Veto emmEnd"

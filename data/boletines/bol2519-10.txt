@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 2519-10","Legislatura: 342
+Fecha de ingreso: martes 20 de junio de 2000
+Estado: Tramitación terminada (D.S. Nº 378 - D.Oficial 12/06/2001)
+Numero de boletín: 2519-10
+Materia: Acuerdos Internacionales,Cambios Climáticos
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 01:20:45
+* * Hitos de tramitación * *
+"emmStart Hitos 2519-10","Fecha Sesión Etapa Sub-etapa Documento
+20 de Jun. de 2000   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de Jun. de 2000 5ª / 342 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+04 de Jul. de 2000   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Jul. de 2000 14ª / 342 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+29 de Ago. de 2000 30ª / 342 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+30 de Ago. de 2000 30ª / 342 Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver Ver
+30 de Ago. de 2000 20ª / 342 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+08 de Ene. de 2001   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+09 de Ene. de 2001 21ª / 343 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+16 de Ene. de 2001 23ª / 343 Segundo trámite constitucional / Senado Discusión general Ver
+16 de Ene. de 2001   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+17 de Ene. de 2001 36ª / 343 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+17 de Ene. de 2001   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2519-10","Fecha Etapa Informe Documento
+08 de Ene. de 2001 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+04 de Jul. de 2000 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2519-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2519-10","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2519-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2519-10","No record","Veto emmEnd"

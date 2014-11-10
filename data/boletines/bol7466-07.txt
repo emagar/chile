@@ -1,0 +1,51 @@
+* * Bill summary * *
+"emmStart Summary 7466-07","Legislatura: 358
+Fecha de ingreso: jueves 20 de enero de 2011
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 7466-07
+Materia: Sueldo Mínimo Regional,Constitucion 1980
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 04:26:49
+* * Hitos de tramitación * *
+"emmStart Hitos 7466-07","Fecha Sesión Etapa Sub-etapa Documento
+20 de Ene. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de Ene. de 2011 130ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+02 de Ago. de 2011 61ª / 359 Primer trámite constitucional / C. Diputados Oficio N°025. Cuenta Oficio de la Comisión de Zonas Extremas, por el cual solicita el acuerdo de la Sala, para que le sea remitido el proyecto actualmente en la Comisión de Constitución, Legislación y Justicia. La Sala Accede a la solicitud. Ver Ver
+23 de Nov. de 2011 114ª / 359 Primer trámite constitucional / C. Diputados Oficio N°1. Comunicación del Diputado Alinco, don René, mediante la cual informa que ha dado autorización a la Diputada Goic, doña Carolina, para que adhiera al proyecto. Ver Ver
+14 de Dic. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+22 de Dic. de 2011 125ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+10 de Abr. de 2012   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Abr. de 2012 16ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+23 de May. de 2012 33ª / 360 Primer trámite constitucional / C. Diputados Discusión única Ver
+29 de Ago. de 2012 73ª / 360 Primer trámite constitucional / C. Diputados Discusión única Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7466-07","Fecha Etapa Informe Documento
+13 de Abr. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+14 de Dic. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión Zonas Extremas Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7466-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7466-07","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Sergio Aguiló Melo VII Región del Maule N°37 Izquierda Ciudadana
+René Alinco Bustos XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Independientes
+Pedro Araya Guerrero II Región de Antofagasta N°4 Partido Regionalista Independiente
+Gabriel Ascencio Mansilla X Región de los Lagos N°58 Partido Demócrata Cristiano
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Marta Isasi Barbieri I Región de Tarapacá N°2 Independientes
+Tucapel Jiménez Fuentes RM Región Metropolitana N°27 Partido Por la Democracia
+Luis Lemus Aracena IV Región de Coquimbo N°9 Partido Socialista
+Miodrag Marinovic Solo de Zaldívar XII Región de Magallanes y de la Antártica Chilena N°60 Independientes","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7466-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+140 Remisión de proyecto a la Comisión de Constitución, Legislación y Justicia. 44 31 2 43 Aprobado Sala Ver detalle votación
+73   49 25 2 0 Rechazado Sala Ver detalle votación
+166 Votación General 2 5 2 4   Constitución Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7466-07","No record","Veto emmEnd"

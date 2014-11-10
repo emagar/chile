@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 128-06","Legislatura: 320
+Fecha de ingreso: martes 21 de agosto de 1990
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 128-06
+Materia: Congreso Nacional
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 05:39:50
+* * Hitos de tramitación * *
+"emmStart Hitos 128-06","Fecha Sesión Etapa Sub-etapa Documento
+21 de Ago. de 1990   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+21 de Ago. de 1990 25ª / 320 Primer trámite constitucional / Senado Cuenta de proyecto
+29 de Ago. de 1990 26ª / 320 Primer trámite constitucional / Senado Primer informe de comisión Ver
+30 de Ago. de 1990 27ª / 320 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+30 de Ago. de 1990   Tramitación terminada / Rechazado.
+30 de Ago. de 1990 27ª / 320 Primer trámite constitucional / Senado Discusión general Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 128-06","Fecha Etapa Informe Documento
+29 de Ago. de 1990 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 128-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 128-06","Nombre
+Jaime Gazmuri Mujica
+Jorge Lavandero Illanes
+Anselmo Sule Candia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 128-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 128-06","No record","Veto emmEnd"

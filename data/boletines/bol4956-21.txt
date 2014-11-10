@@ -1,0 +1,52 @@
+* * Bill summary * *
+"emmStart Summary 4956-21","Legislatura: 355
+Fecha de ingreso: miércoles 04 de abril de 2007
+Estado: Tramitación terminada (Ley Nº 20.187 - D.Oficial 02/05/2007)
+Numero de boletín: 4956-21
+Materia: Acuicultura,Pesca Artesanal
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 23:01:20
+* * Hitos de tramitación * *
+"emmStart Hitos 4956-21","Fecha Sesión Etapa Sub-etapa Documento
+04 de Abr. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Abr. de 2007 9ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 53-355 que hace presente la urgencia Suma Ver
+04 de Abr. de 2007 9ª / 355 Primer trámite constitucional / C. Diputados A la Comisión de Pesca, Acuicultura e Interese Marítimos. Ver
+12 de Abr. de 2007 15ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. Cuenta Primer informe de Comisión de Pesca. Ver
+12 de Abr. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Abr. de 2007 15ª / 355 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+13 de Abr. de 2007   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+17 de Abr. de 2007 11ª / 355 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Intereses Marítimos, Pesca y Acuicultura Ver
+17 de Abr. de 2007 11ª / 355 Segundo trámite constitucional / Senado Cuenta del Mensaje 99-355 que retira y hace presente la urgencia Suma
+18 de Abr. de 2007   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+18 de Abr. de 2007 12ª / 355 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+18 de Abr. de 2007 12ª / 355 Segundo trámite constitucional / Senado Discusión general Ver
+18 de Abr. de 2007   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+19 de Abr. de 2007 18ª / 355 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver Ver
+19 de Abr. de 2007 18ª / 355 Tercer trámite constitucional / C. Diputados Discusión única Ver
+19 de Abr. de 2007   Tercer trámite constitucional / C. Diputados Oficio Nº 6764, que comunica aprobación de modificaciones Ver
+19 de Abr. de 2007   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+02 de May. de 2007 14ª / 355 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 6764, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4956-21","Fecha Etapa Informe Documento
+18 de Abr. de 2007 Segundo trámite constitucional Senado Primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver
+12 de Abr. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de Pesca, Acuicultura e Intereses Marítimos Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4956-21","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+17 de Abr. de 2007   Suma 99-355  
+04 de Abr. de 2007 17 de Abr. de 2007 Suma 53-355 99-355","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4956-21","Nombre Región Distrito Partido
+Ministerio de Economía, Fomento y Turism      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4956-21","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+15   86 0 0 0 Aprobado Sala Ver detalle votación
+18 Modificaciones introducidas por el Senado. 58 0 0 62 Aprobado Sala Ver detalle votación
+34 Votación General 7 0 0 6   Pesca y Acuicultura Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4956-21","No record","Veto emmEnd"

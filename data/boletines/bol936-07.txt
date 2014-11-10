@@ -1,0 +1,32 @@
+* * Bill summary * *
+"emmStart Summary 936-07","Legislatura: 325
+Fecha de ingreso: jueves 11 de marzo de 1993
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 936-07
+Materia: Código Penal
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 00:56:19
+* * Hitos de tramitación * *
+"emmStart Hitos 936-07","Fecha Sesión Etapa Sub-etapa Documento
+11 de Mar. de 1993 32ª / 325 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+11 de Mar. de 1993   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+13 de Jul. de 1994 14ª / 329 Primer trámite constitucional / Senado Primer informe de comisión Ver
+14 de Jul. de 1994 13ª / 329 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+19 de Jul. de 1994 14ª / 329 Primer trámite constitucional / Senado Discusión general Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 936-07","Fecha Etapa Informe Documento
+13 de Jul. de 0094 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 936-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 936-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 936-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 936-07","No record","Veto emmEnd"

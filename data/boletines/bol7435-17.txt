@@ -1,0 +1,55 @@
+* * Bill summary * *
+"emmStart Summary 7435-17","Legislatura: 358
+Fecha de ingreso: martes 11 de enero de 2011
+Estado: Tramitación terminada (Ley Nº 20.496 - D.Oficial 05/02/2011)
+Numero de boletín: 7435-17
+Materia: Víctimas De Gobierno De Facto,Comisión Asesora Para La Calificacion De Detenidos Desaparecidos,Detenidos Desaparecidos,Prisión Política Y Tortura
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 04:04:36
+* * Hitos de tramitación * *
+"emmStart Hitos 7435-17","Fecha Sesión Etapa Sub-etapa Documento
+11 de Ene. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+11 de Ene. de 2011 124ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+11 de Ene. de 2011 124ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 644-358 que hace presente la urgencia Discusión inmediata Ver
+12 de Ene. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Ene. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+13 de Ene. de 2011 126ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de Ene. de 2011 126ª / 358 Primer trámite constitucional / C. Diputados Oficio N°587-358. Oficio de S.E. el Presidente de la República por el cual formula indicación al proyecto. Ver Ver
+13 de Ene. de 2011 126ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 657-358 que retira y hace presente la urgencia Discusión inmediata Ver
+18 de Ene. de 2011 127ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+18 de Ene. de 2011   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+18 de Ene. de 2011 87ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda y a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía
+19 de Ene. de 2011   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+19 de Ene. de 2011 89ª / 358 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+19 de Ene. de 2011 89ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 657-358 que retira y hace presente la urgencia Discusión inmediata
+19 de Ene. de 2011 89ª / 358 Segundo trámite constitucional / Senado Discusión general Ver
+19 de Ene. de 2011   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+20 de Ene. de 2011 130ª / 358 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+20 de Ene. de 2011   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7435-17","Fecha Etapa Informe Documento
+19 de Ene. de 2011 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+12 de Ene. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+12 de Ene. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7435-17","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+19 de Ene. de 2011   Discusión inmediata 657-358  
+13 de Ene. de 2011 19 de Ene. de 2011 Discusión inmediata 656-358 657-358
+11 de Ene. de 2011 13 de Ene. de 2011 Discusión inmediata 644-358 656-358","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7435-17","Nombre Región Distrito Partido
+Ministerio de Hacienda      
+Ministerio de Interior y Seguridad Públi      
+Ministerio Secretaría General de la Presidencia      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7435-17","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+127   94 0 1 25 Aprobado Sala Ver detalle votación
+30 Votación General 10 0 0 3   Derechos Humanos Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7435-17","No record","Veto emmEnd"

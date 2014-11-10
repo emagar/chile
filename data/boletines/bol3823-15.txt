@@ -1,0 +1,61 @@
+* * Bill summary * *
+"emmStart Summary 3823-15","Legislatura: 352
+Fecha de ingreso: martes 05 de abril de 2005
+Estado: Tercer trámite constitucional .
+Numero de boletín: 3823-15
+Materia: Tránsito
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 17:51:05
+* * Hitos de tramitación * *
+"emmStart Hitos 3823-15","Fecha Sesión Etapa Sub-etapa Documento
+05 de Abr. de 2005   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+05 de Abr. de 2005 58ª / 352 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+27 de Oct. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Nov. de 2006 92ª / 354 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+15 de Nov. de 2006   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+16 de Nov. de 2006 99ª / 354 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+28 de Nov. de 2006 71ª / 354 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones Ver
+11 de Jul. de 2014   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+15 de Jul. de 2014 32ª / 362 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+23 de Jul. de 2014 34ª / 362 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 11/08/2014 Ver
+11 de Ago. de 2014   Segundo trámite constitucional / Senado Boletín de indicaciones
+20 de Ago. de 2014   Segundo trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 01/09/2014 a las 12:00 en la Secretaría de la Comisión de Transportes y Telecomunicaciones
+01 de Sep. de 2014   Segundo trámite constitucional / Senado Boletín de indicaciones
+10 de Sep. de 2014   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+23 de Sep. de 2014 48ª / 362 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+24 de Sep. de 2014 49ª / 362 Segundo trámite constitucional / Senado Discusión particular Ver
+24 de Sep. de 2014   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+25 de Sep. de 2014 72ª / 362 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+25 de Sep. de 2014   Tercer trámite constitucional / C. Diputados Pasa a la Sala","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3823-15","Fecha Etapa Informe Documento
+10 de Sep. de 2014 Segundo trámite constitucional Senado Segundo informe de comisión de Transportes y Telecomunicaciones Ver
+11 de Jul. de 2014 Segundo trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver
+27 de Oct. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3823-15","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3823-15","Nombre Región Distrito Partido
+Rodrigo Alvarez Zenteno XII Región de Magallanes y de la Antártica Chilena N°60 Unión Demócrata Independiente
+Ramón Barros Montero VI Región del Libertador Bernardo O' Higgins N°35 Unión Demócrata Independiente
+Eugenio Bauer Jouanne VI Región del Libertador Bernardo O' Higgins N°33 Unión Demócrata Independiente
+Sergio Correa De la Cerda VII Región del Maule N°36 Unión Demócrata Independiente
+Marcelo Forni Lobos V Región de Valparaíso N°11 Unión Demócrata Independiente
+Alejandro García-Huidobro Sanfuentes VI Región del Libertador Bernardo O' Higgins N°32 Unión Demócrata Independiente
+Javier Hernández Hernández X Región de los Lagos N°55 Unión Demócrata Independiente
+José Antonio Kast Rist RM Región Metropolitana N°30 Unión Demócrata Independiente
+Carlos Recondo Lavanderos X Región de los Lagos N°56 Unión Demócrata Independiente
+Gastón Von Mühlenbrock Zamora X Región de los Lagos N°54 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3823-15","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+99   86 0 1 0 Aprobado Sala Ver detalle votación
+99 único, con indicación de los señores Samuel Venegas y Quintana para agregar el siguiente inciso sexto, nuevo, en el artículo 36 de la ley N°18.290, de Tránsito: ""Con todo, se declaran como inoponibles al comprador las multas empadronadas que no figuren en el certificado emitido por el Registro de Multas en el monento de la transferencia y que aparezcan con posterioridad gravando el vehículo, quedando radicada la responsabilidad sobre éstas en el anterior propietario o vendedor."" 87 0 2 0 Aprobado Sala Ver detalle votación
+11 Votación General 10 0 0 3   Obras Públicas Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3823-15","No record","Veto emmEnd"

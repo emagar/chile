@@ -1,0 +1,70 @@
+* * Bill summary * *
+"emmStart Summary 2628-13","Legislatura: 343
+Fecha de ingreso: martes 28 de noviembre de 2000
+Estado: Tramitación terminada (Ley Nº 19.795 - D.Oficial 28/02/2002)
+Numero de boletín: 2628-13
+Materia: Administradoras De Fondos De Pensiones
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 07:08:27
+* * Hitos de tramitación * *
+"emmStart Hitos 2628-13","Fecha Sesión Etapa Sub-etapa Documento
+28 de Nov. de 2000 18ª / 343 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+28 de Nov. de 2000   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+17 de Abr. de 2001   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de May. de 2001 60ª / 343 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+09 de May. de 2001 61ª / 343 Primer trámite constitucional / C. Diputados Discusión general Ver
+15 de May. de 2001 63ª / 343 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 463-343 que retira la urgencia Simple Ver
+29 de May. de 2001   Primer trámite constitucional / C. Diputados Oficio Nº 5-344. Indicación Sustitutiva del Ejecutivo Ver
+05 de Jun. de 2001 1ª / 344 Primer trámite constitucional / C. Diputados Se solicita nuevo informe Ver
+31 de Jul. de 2001   Primer trámite constitucional / C. Diputados Nuevo primer informe de comisión. Pasa a Comisión de Hacienda Ver
+14 de Ago. de 2001   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+14 de Ago. de 2001 27ª / 344 Primer trámite constitucional / C. Diputados Cuenta nuevo primer informe Ver
+21 de Ago. de 2001 28ª / 344 Primer trámite constitucional / C. Diputados Discusión general. Pendiente Discusión Ver
+21 de Ago. de 2001 29ª / 344 Primer trámite constitucional / C. Diputados Discusión general Ver
+21 de Ago. de 2001   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+22 de Ago. de 2001 25ª / 344 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión Hacienda y Trabajo y Previsión Social.
+18 de Ene. de 2002   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+22 de Ene. de 2002 25ª / 345 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+22 de Ene. de 2002 25ª / 345 Segundo trámite constitucional / Senado Discusión general Ver
+22 de Ene. de 2002   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+23 de Ene. de 2002 30ª / 345 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+23 de Ene. de 2002 30ª / 345 Tercer trámite constitucional / C. Diputados Discusión única Ver
+23 de Ene. de 2002   Tercer trámite constitucional / C. Diputados Oficio Nº 3635, que comunica aprobación de modificaciones Ver
+23 de Ene. de 2002   Tercer trámite constitucional / C. Diputados Oficio al Ejecutivo, comunica proyecto aprobado para los efectos del artículo 70 de la Constitución Política del Estado Ver
+23 de Ene. de 2002 31ª / 345 Trámite finalización en Cámara de Origen / C. Diputados Cuenta Oficio S.E. el Presidente de la República, manifiesta que ha resuelto no hacer uso de la facultad que le confiere el inciso primero del artículo 70 de la Constitución Política de la República. Ver
+23 de Ene. de 2002   Trámite en Tribunal Constitucional / C. Diputados Oficio Nº 3631 al Tribunal Constitucional Ver
+05 de Feb. de 2002   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+05 de Mar. de 2002 33ª / 345 Trámite en Tribunal Constitucional / C. Diputados Cuenta Oficio de Tribunal Constitucional, remite sentencia recaída en proyecto Ver Ver
+05 de Mar. de 2002 28ª / 345 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 3635, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2628-13","Fecha Etapa Informe Documento
+18 de Ene. de 2002 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda y de Trabajo y Previsión Social, unidas Ver
+14 de Ago. de 2001 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+31 de Jul. de 2001 Primer trámite constitucional C.Diputados Nuevo primer informe de comisión de Trabajo y Seguridad Social Ver
+17 de Abr. de 2001 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2628-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Sep. de 2002   Simple 170-345  
+15 de Ene. de 2002   Suma 202-345  
+08 de Ene. de 2002   Suma 27-345  
+04 de Sep. de 2001   Suma 197-344  
+14 de Ago. de 2001   Suma 153-344  
+07 de Ago. de 2001 14 de Ago. de 2001 Simple 140-344 153-344
+13 de Jun. de 2001 21 de Jun. de 2001 Suma 47-344 65-344
+05 de Jun. de 2001 13 de Jun. de 2001 Simple 20-344 47-344
+10 de Abr. de 2001 15 de May. de 2001 Simple 387-343 463-343
+06 de Mar. de 2001 10 de Abr. de 2001 Simple 295-343 387-343","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2628-13","Nombre Región Distrito Partido
+Ministerio de Hacienda      
+Ministerio de Trabajo y Previsión Social      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2628-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2628-13","No record","Veto emmEnd"

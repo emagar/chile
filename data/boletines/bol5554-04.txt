@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 5554-04","Legislatura: 355
+Fecha de ingreso: miércoles 05 de diciembre de 2007
+Estado: Tramitación terminada (Ley Nº 20.621 - D.Oficial 13/09/2012)
+Numero de boletín: 5554-04
+Materia: Monumentos
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 07-11-2014 06:04:04
+* * Hitos de tramitación * *
+"emmStart Hitos 5554-04","Fecha Sesión Etapa Sub-etapa Documento
+05 de Dic. de 2007   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+11 de Dic. de 2007 74ª / 355 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+12 de May. de 2009   Primer trámite constitucional / Senado Primer informe de comisión Ver
+13 de May. de 2009 17ª / 357 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+19 de May. de 2009 19ª / 357 Primer trámite constitucional / Senado Discusión general Ver
+19 de May. de 2009   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+20 de May. de 2009 33ª / 357 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de la Cultura y las Artes Ver
+06 de Jun. de 2012   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de Jul. de 2012 48ª / 360 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+17 de Jul. de 2012 56ª / 360 Segundo trámite constitucional / C. Diputados Discusión general Ver
+17 de Jul. de 2012   Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver
+18 de Jul. de 2012 36ª / 360 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+07 de Ago. de 2012 39ª / 360 Tercer trámite constitucional / Senado Discusión única
+07 de Ago. de 2012   Tercer trámite constitucional / Senado Oficio N° 805/SEC/12, que comunica aprobacion de modificaciones Ver
+07 de Ago. de 2012   Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo Ver
+08 de Ago. de 2012 68ª / 360 Tercer trámite constitucional / Senado Cuenta oficio N° 805/SEC/12, que comunica aprobacion de modificaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5554-04","Fecha Etapa Informe Documento
+06 de Jun. de 2012 Segundo trámite constitucional C.Diputados Primer informe de comisión de la Cultura y las Artes Ver
+12 de May. de 2009 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5554-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5554-04","Nombre
+Juan Antonio Coloma Correa
+Pablo Longueira Montes
+Jaime Orpis Bouchon","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5554-04","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+56   62 1 2 0 Aprobado Sala Ver detalle votación
+77 Votación General 4 0 3 6   Cultura Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5554-04","No record","Veto emmEnd"

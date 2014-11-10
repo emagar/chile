@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 1310-13","Legislatura: 329
+Fecha de ingreso: martes 02 de agosto de 1994
+Estado: Tramitación terminada (Ley Nº 19.357 - D.Oficial 24/12/1994)
+Numero de boletín: 1310-13
+Materia: Pensiones Asistenciales,Pensiones,Subsidios
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 05:43:02
+* * Hitos de tramitación * *
+"emmStart Hitos 1310-13","Fecha Sesión Etapa Sub-etapa Documento
+02 de Ago. de 1994 16ª / 329 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento, a la Comisión de Trabajo y Previsión Social y a la de Hacienda, en su caso.
+02 de Ago. de 1994   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+05 de Oct. de 1994 2ª / 330 Primer trámite constitucional / Senado Cuenta de primer informe de comisión. de Constitución, Legislación, Justicia y Reglamento, de la Comisión de Trabajo y Previsión Social y de la de Hacienda.
+18 de Oct. de 1994 5ª / 330 Primer trámite constitucional / Senado Discusión general Ver
+18 de Oct. de 1994 5ª / 344 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+20 de Oct. de 1994 8ª / 330 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+08 de Nov. de 1994   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+15 de Nov. de 1994   Primer trámite constitucional / Senado Primer informe de comisión Ver
+17 de Nov. de 1994   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Nov. de 1994 17ª / 330 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+21 de Nov. de 1994 18ª / 330 Segundo trámite constitucional / C. Diputados Discusión general Ver
+22 de Nov. de 1994   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+23 de Nov. de 1994 20ª / 330 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora. Se manda a comunicar a S.E. el Presidente de la República.
+24 de Nov. de 1994 4ª / 344 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1310-13","Fecha Etapa Informe Documento
+17 de Nov. de 1994 Segundo trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+15 de Nov. de 1994 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+08 de Nov. de 1994 Segundo trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver
+05 de Oct. de 1994 Primer trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+05 de Oct. de 1994 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+05 de Oct. de 1994 Primer trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1310-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+02 de Ago. de 1994   Suma 02/08/94  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1310-13","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1310-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1310-13","No record","Veto emmEnd"

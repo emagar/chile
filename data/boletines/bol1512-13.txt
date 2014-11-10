@@ -1,0 +1,39 @@
+* * Bill summary * *
+"emmStart Summary 1512-13","Legislatura: 330
+Fecha de ingreso: martes 17 de enero de 1995
+Estado: Archivado .
+Numero de boletín: 1512-13
+Materia: Fondo De Obras Sociales,Instituto De Normalización Previsional (Chile)
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 10:05:00
+* * Hitos de tramitación * *
+"emmStart Hitos 1512-13","Fecha Sesión Etapa Sub-etapa Documento
+17 de Ene. de 1995   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+17 de Ene. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Ene. de 1995 38ª / 330 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+17 de Ene. de 1995 39ª / 330 Primer trámite constitucional / C. Diputados Discusión general Ver
+17 de Ene. de 1995 39ª / 330 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+17 de Ene. de 1995   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora
+18 de Ene. de 1995 38ª / 330 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social
+09 de Jul. de 1997   Archivado / Oficio Nº40-335. Solicita el archivo del proyecto Ver
+09 de Jul. de 1997 14ª / 335 Segundo trámite constitucional / Senado Se solicita su archivo S.E. el Presidente de la República solicita retiro o archivo del proyecto. Se solicita acuerdo de la Cámara de Diputados.
+15 de Jul. de 1997   Archivado / Oficio Nº11284. Oficio a la Cámara de Diputados solicitando su autorización para archivar el proyecto. Ver
+17 de Jul. de 1997 38ª / 330 Segundo trámite constitucional / Senado Archivado Oficio de la Cámara de Diputados, con el que comunica que accedió al archivo solicitado.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1512-13","Fecha Etapa Informe Documento
+17 de Ene. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1512-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+17 de Ene. de 1995   Discusión inmediata    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1512-13","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1512-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1512-13","No record","Veto emmEnd"

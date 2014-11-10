@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 3221-02","Legislatura: 348
+Fecha de ingreso: martes 15 de abril de 2003
+Estado: Tramitación terminada (Ley Nº 19.898 - D.Oficial 11/09/2003)
+Numero de boletín: 3221-02
+Materia: Fuerza Aérea De Chile
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 04-11-2014 00:31:17
+* * Hitos de tramitación * *
+"emmStart Hitos 3221-02","Fecha Sesión Etapa Sub-etapa Documento
+15 de Abr. de 2002   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+09 de Oct. de 2002 40ª / 348 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Defensa Nacional
+05 de May. de 2003   Primer trámite constitucional / Senado Primer informe de comisión Ver
+06 de May. de 2003 46ª / 348 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+07 de May. de 2003 47ª / 348 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija plazo de indicaciones hasta el 03.06.03. Ver
+03 de Jun. de 2003 1ª / 349 Primer trámite constitucional / Senado Se fija nuevo plazo de indicaciones hasta el 10.06.03. Ver
+10 de Jun. de 2003 3ª / 349 Primer trámite constitucional / Senado Se fija nuevo plazo de indicaciones hasta el 13.06.03. Ver
+17 de Jun. de 2003 5ª / 349 Primer trámite constitucional / Senado Se fija nuevo plazo de indicaciones hasta el 08.07.03. Ver
+08 de Jul. de 2003 11ª / 349 Primer trámite constitucional / Senado Segundo informe de comisión Ver
+15 de Jul. de 2003 12ª / 349 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+15 de Jul. de 2003 12ª / 349 Primer trámite constitucional / Senado Discusión particular Ver
+15 de Jul. de 2003 12ª / 349 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+16 de Jul. de 2003 18ª / 349 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Defensa Nacional Ver
+29 de Jul. de 2003   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Ago. de 2003 24ª / 349 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+06 de Ago. de 2003 26ª / 349 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+07 de Ago. de 2003   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+07 de Ago. de 2003   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+12 de Ago. de 2003 23ª / 349 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3221-02","Fecha Etapa Informe Documento
+29 de Jul. de 2003 Segundo trámite constitucional C.Diputados Primer informe de comisión de Defensa Nacional Ver
+08 de Jul. de 2003 Primer trámite constitucional Senado Segundo informe de comisión de Defensa Nacional Ver
+05 de May. de 2003 Primer trámite constitucional Senado Primer informe de comisión de Defensa Nacional Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3221-02","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3221-02","Nombre
+Ministerio de Defensa Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3221-02","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3221-02","No record","Veto emmEnd"

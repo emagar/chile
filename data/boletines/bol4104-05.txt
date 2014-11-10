@@ -1,0 +1,64 @@
+* * Bill summary * *
+"emmStart Summary 4104-05","Legislatura: 354
+Fecha de ingreso: martes 21 de marzo de 2006
+Estado: Tramitación terminada (Ley Nº 20.138 - D.Oficial 14/12/2006)
+Numero de boletín: 4104-05
+Materia: Donaciones,Recargo Al Derecho De Embarque
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 18:48:51
+* * Hitos de tramitación * *
+"emmStart Hitos 4104-05","Fecha Sesión Etapa Sub-etapa Documento
+21 de Mar. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+21 de Mar. de 2006 4ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+04 de Abr. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Abr. de 2006 11ª / 354 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+11 de Abr. de 2006 11ª / 354 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+11 de Abr. de 2006   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+12 de Abr. de 2006 7ª / 354 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores y a Comisión de Hacienda Ver
+16 de Ago. de 2006 44ª / 354 Segundo trámite constitucional / Senado Cuenta del Mensaje 264-354 que hace presente la urgencia Simple
+31 de Ago. de 2006   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+05 de Sep. de 2006 48ª / 354 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+03 de Oct. de 2006 56ª / 354 Tramitación terminada / Cuenta del Mensaje 322-354 que retira la urgencia Simple
+03 de Oct. de 2006 56ª / 354 Tramitación terminada / Cuenta del Mensaje 334-354 que hace presente la urgencia Suma
+03 de Oct. de 2006 56ª / 354 Segundo trámite constitucional / Senado Se inicia la discusión del proyecto y queda pendiente. Ver
+04 de Oct. de 2006 58ª / 354 Segundo trámite constitucional / Senado Continúa la discusión del proyecto y se pone en votación indicación para enviarlo a la Comisión de Relaciones Exteriores. Por empate en esta votación, queda para ser definida en el Tiempo de Votaciones de la próxima sesión ordinaria. Ver
+10 de Oct. de 2006 59ª / 354 Segundo trámite constitucional / Senado Se rechaza la indicación para enviarlo a la Comisión de Relaciones Exteriores por producirse un nuevo empate: 14 votos a favor, 14 en contra y 1 pareo. En consecuencia, deberá votarse en general en la próxima sesión ordinaria. Ver
+11 de Oct. de 2006 60ª / 354 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 16/10/2006 Ver
+16 de Oct. de 2006   Segundo trámite constitucional / Senado Boletín de indicaciones
+17 de Oct. de 2006 61ª / 354 Tramitación terminada / Cuenta del Mensaje 364-354 que retira y hace presente la urgencia Suma
+19 de Oct. de 2006   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+31 de Oct. de 2006 64ª / 354 Tramitación terminada / Cuenta del Mensaje 399-354 que retira y hace presente la urgencia Suma
+31 de Oct. de 2006 64ª / 354 Segundo trámite constitucional / Senado Discusión particular Ver
+31 de Oct. de 2006 64ª / 354 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+31 de Oct. de 2006   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+02 de Nov. de 2006 92ª / 354 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver Ver
+07 de Nov. de 2006 93ª / 354 Tercer trámite constitucional / C. Diputados Discusión única Ver
+07 de Nov. de 2006   Tercer trámite constitucional / C. Diputados Oficio Nº 6461, que comunica aprobación de modificaciones Ver
+07 de Nov. de 2006   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+14 de Nov. de 2006 68ª / 354 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 6461, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4104-05","Fecha Etapa Informe Documento
+19 de Oct. de 2006 Segundo trámite constitucional Senado Segundo informe de comisión de Hacienda Ver
+31 de Ago. de 2006 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+04 de Abr. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4104-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+31 de Oct. de 2006   Suma 399-354  
+17 de Oct. de 2006 31 de Oct. de 2006 Suma 364-354 399-354
+03 de Oct. de 2006 17 de Oct. de 2006 Suma 334-354 364-354
+16 de Ago. de 2006 27 de Sep. de 2006 Simple 264-354 322-354","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4104-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4104-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+93   62 25 12 0 Aprobado Sala Ver detalle votación
+11   81 16 13 1 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4104-05","No record","Veto emmEnd"

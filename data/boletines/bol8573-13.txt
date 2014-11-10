@@ -1,0 +1,56 @@
+* * Bill summary * *
+"emmStart Summary 8573-13","Legislatura: 360
+Fecha de ingreso: jueves 06 de septiembre de 2012
+Estado: Segundo trámite constitucional .
+Numero de boletín: 8573-13
+Materia: Estatuto Orgánico De Las Mutualidades De Empleadores
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 03:11:28
+* * Hitos de tramitación * *
+"emmStart Hitos 8573-13","Fecha Sesión Etapa Sub-etapa Documento
+06 de Sep. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Sep. de 2012 77ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+05 de Mar. de 2013 133ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 464-360 que hace presente la urgencia Simple Ver
+02 de Abr. de 2013   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+04 de Abr. de 2013 10ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 43-361 que hace presente la urgencia Simple Ver
+29 de Abr. de 2013 19ª / 361 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+07 de May. de 2013 21ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 80-361 que hace presente la urgencia Simple Ver
+07 de May. de 2013 22ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 85-361 que hace presente la urgencia Suma Ver
+14 de May. de 2013 26ª / 361 Primer trámite constitucional / C. Diputados Discusión general Ver
+14 de May. de 2013   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+15 de May. de 2013 24ª / 361 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social. Se remite el proyecto a la Corte Suprema.
+15 de May. de 2013   Segundo trámite constitucional / Senado Oficio N° 392/SEC/13 a la Corte Suprema Ver
+04 de Jun. de 2013 27ª / 361 Segundo trámite constitucional / Senado Cuenta oficio N° 68-2013 de la Corte Suprema Ver
+18 de Jun. de 2013 32ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 146-361 que hace presente la urgencia Suma
+03 de Jul. de 2013 38ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 174-361 que retira y hace presente la urgencia Suma
+09 de Jul. de 2013 39ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 183-361 que retira y hace presente la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8573-13","Fecha Etapa Informe Documento
+02 de Abr. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8573-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+09 de Jul. de 2013   Simple 183-361  
+03 de Jul. de 2013 09 de Jul. de 2013 Suma 174-361 183-361
+18 de Jun. de 2013 03 de Jul. de 2013 Suma 146-361 174-361
+07 de May. de 2013   Simple 80-361  
+07 de May. de 2013 04 de Jun. de 2013 Suma 85-361 CADUCADA
+04 de Abr. de 2013   Simple 43-361  
+05 de Mar. de 2013   Simple 464-360  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8573-13","Nombre Región Distrito Partido
+Ministerio de Hacienda      
+Ministerio de Trabajo y Previsión Social      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8573-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+26 Con la salvedad, en particular, de los numerales 1, 24 y 30 del artículo único. 89 0 0 3 Aprobado Sala Ver detalle votación
+26 Numeral 30 45 47 1 27 Rechazado Sala Ver detalle votación
+26 Numeral 24 44 44 5 27 Rechazado Sala Ver detalle votación
+26 Numeral 1 con indicación renovada. 48 40 2 30 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8573-13","No record","Veto emmEnd"

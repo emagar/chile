@@ -1,0 +1,33 @@
+* * Bill summary * *
+"emmStart Summary 1893-07","Legislatura: 333
+Fecha de ingreso: miércoles 17 de julio de 1996
+Estado: Primer trámite constitucional .
+Numero de boletín: 1893-07
+Materia: Código Penal,Desacato
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 16:03:04
+* * Hitos de tramitación * *
+"emmStart Hitos 1893-07","Fecha Sesión Etapa Sub-etapa Documento
+17 de Jul. de 1996   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+17 de Jul. de 1996 18ª / 333 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1893-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1893-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1893-07","Nombre Región Distrito Partido
+Juan Pablo Letelier Morel Región N°33 Partido Socialista
+Pedro Muñoz Aburto Región N° Partido Socialista
+Alejandro Navarro Brain Región N° Partido Socialista
+Exequiel Silva Ortíz Región N° Partido Demócrata Cristiano
+Eugenio Tuma Zedan Región N° Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1893-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1893-07","No record","Veto emmEnd"

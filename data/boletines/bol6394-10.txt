@@ -1,0 +1,48 @@
+* * Bill summary * *
+"emmStart Summary 6394-10","Legislatura: 356
+Fecha de ingreso: miércoles 04 de marzo de 2009
+Estado: Tramitación terminada (D.S. N° 114 - D.Oficial 06/08/2010)
+Numero de boletín: 6394-10
+Materia: Animales,Tratados Internacionales
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 06:19:32
+* * Hitos de tramitación * *
+"emmStart Hitos 6394-10","Fecha Sesión Etapa Sub-etapa Documento
+04 de Mar. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Mar. de 2009 132ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+19 de Mar. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+05 de Jun. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Jun. de 2009 37ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+09 de Jun. de 2009 37ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Relaciones Exteriores, Asuntos Interparlamentarios y de Hacienda. Ver
+14 de Jul. de 2009 52ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver
+14 de Jul. de 2009   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+15 de Jul. de 2009 34ª / 357 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores y a Comisión de Hacienda, en su caso.
+19 de Ago. de 2009   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+18 de Nov. de 2009 71ª / 357 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+18 de Nov. de 2009   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+01 de Dic. de 2009 73ª / 357 Segundo trámite constitucional / Senado Discusión general Ver
+01 de Dic. de 2009   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+15 de Dic. de 2009 109ª / 357 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+16 de Dic. de 2009   Trámite finalización en Cámara de Origen / C. Diputados Oficio N°8467. Oficio de ley promulgatorio Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6394-10","Fecha Etapa Informe Documento
+18 de Nov. de 2009 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+19 de Ago. de 2009 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+05 de Jun. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+19 de Mar. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6394-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6394-10","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6394-10","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+52   90 0 0 30 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6394-10","No record","Veto emmEnd"

@@ -1,0 +1,55 @@
+* * Bill summary * *
+"emmStart Summary 2052-07","Legislatura: 335
+Fecha de ingreso: miércoles 09 de julio de 1997
+Estado: Tramitación terminada (Ley Nº 19.574 - D.Oficial 11/08/1998)
+Numero de boletín: 2052-07
+Materia: Multas,Juzgados De Policía Local
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 18:08:13
+* * Hitos de tramitación * *
+"emmStart Hitos 2052-07","Fecha Sesión Etapa Sub-etapa Documento
+09 de Jul. de 1997   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+09 de Jul. de 1997 17ª / 335 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+22 de Jul. de 1997   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+22 de Jul. de 1997 24ª / 335 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+05 de Ago. de 1997 27ª / 335 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+05 de Ago. de 1997   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+07 de Ago. de 1997 30ª / 335 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+13 de Ago. de 1997 32ª / 335 Primer trámite constitucional / C. Diputados Discusión particular Ver
+13 de Ago. de 1997   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+26 de Ago. de 1997 26ª / 335 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+09 de Sep. de 1997   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+10 de Sep. de 1997 34ª / 335 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+09 de Jun. de 1998 3ª / 338 Segundo trámite constitucional / Senado Discusión general pendiente Ver
+16 de Jun. de 1998 6ª / 338 Segundo trámite constitucional / Senado Discusión general Ver
+17 de Jun. de 1998   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+18 de Jun. de 1998 10ª / 338 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+30 de Jun. de 1998 11ª / 338 Tercer trámite constitucional / C. Diputados Discusión única Ver
+30 de Jun. de 1998   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+01 de Jul. de 1998 10ª / 338 Tramitación terminada / Cuenta en el Senado del oficio Nº 2.035, de la Cámara de Diputados, en que comunica que aprobado las enmiendas propuestas por el Senado.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2052-07","Fecha Etapa Informe Documento
+09 de Sep. de 1997 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+05 de Ago. de 1997 Primer trámite constitucional C.Diputados Segundo informe de comisión de Constitución, Legislación y Justicia Ver
+22 de Jul. de 1997 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2052-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2052-07","Nombre Región Distrito Partido
+Andrés Aylwin Azócar Región N°30 Partido Demócrata Cristiano
+Juan Antonio Coloma Correa Región N°31 Unión Demócrata Independiente
+Sergio Elgueta Barrientos Región N°57 Partido Demócrata Cristiano
+Rubén Gajardo Chacón Región N°4 Partido Demócrata Cristiano
+Francisco Huenchumilla Jaramillo Región N°50 Partido Demócrata Cristiano
+Sergio Ojeda Uribe Región N°55 Partido Demócrata Cristiano
+José Antonio Viera-Gallo Quesney Región N°44 Partido Socialista","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2052-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2052-07","No record","Veto emmEnd"

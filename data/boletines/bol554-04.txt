@@ -1,0 +1,35 @@
+* * Bill summary * *
+"emmStart Summary 554-04","Legislatura: 323
+Fecha de ingreso: martes 03 de diciembre de 1991
+Estado: Tramitación terminada (Ley Nº 19.105 - D.Oficial 12/12/1991)
+Numero de boletín: 554-04
+Materia: Crédito Universitario
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 19:21:40
+* * Hitos de tramitación * *
+"emmStart Hitos 554-04","Fecha Sesión Etapa Sub-etapa Documento
+03 de Dic. de 1991 21ª / 323 Primer trámite constitucional / Senado Cuenta de proyecto. Queda para tabla urgencia de discusión inmediata
+03 de Dic. de 1991   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+04 de Dic. de 1991 22ª / 323 Primer trámite constitucional / Senado Discusión única
+04 de Dic. de 1991 22ª / 323 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+04 de Dic. de 1991 29ª / 323 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+05 de Dic. de 1991 30ª / 324 Segundo trámite constitucional / C. Diputados Discusión única Ver
+05 de Dic. de 1991   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+11 de Dic. de 1991 26ª / 323 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora. Se manda comunicar al Presidente de la República.
+11 de Dic. de 1991 22ª / 323 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 554-04","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 554-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 554-04","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 554-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 554-04","No record","Veto emmEnd"

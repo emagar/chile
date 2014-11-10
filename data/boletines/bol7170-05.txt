@@ -1,0 +1,78 @@
+* * Bill summary * *
+"emmStart Summary 7170-05","Legislatura: 358
+Fecha de ingreso: miércoles 01 de septiembre de 2010
+Estado: Tramitación terminada (Ley Nº 20.469 - D.Oficial 21/10/2010)
+Numero de boletín: 7170-05
+Materia: Actividad Minera,Impuestos ,Royalty
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 01:04:03
+* * Hitos de tramitación * *
+"emmStart Hitos 7170-05","Fecha Sesión Etapa Sub-etapa Documento
+01 de Sep. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+01 de Sep. de 2010 69ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+01 de Sep. de 2010 69ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 292-358 que hace presente la urgencia Suma Ver
+15 de Sep. de 2010 76ª / 358 Primer trámite constitucional / C. Diputados Cuenta Oficio de S.E. el Presidente de la República por el cual formula indicación al proyecto. Ver Ver
+15 de Sep. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+15 de Sep. de 2010   Primer trámite constitucional / C. Diputados Primer informe complementario Ver
+15 de Sep. de 2010 76ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+15 de Sep. de 2010 76ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+15 de Sep. de 2010   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+28 de Sep. de 2010 55ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+28 de Sep. de 2010 55ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 331-358 que retira y hace presente la urgencia Suma
+05 de Oct. de 2010 57ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 372-358 que retira la urgencia Suma
+06 de Oct. de 2010 58ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 375-358 que hace presente la urgencia Discusión inmediata
+12 de Oct. de 2010   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+12 de Oct. de 2010 59ª / 358 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Oct. de 2010 59ª / 358 Segundo trámite constitucional / Senado Discusión general Ver
+12 de Oct. de 2010   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+13 de Oct. de 2010 88ª / 358 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+13 de Oct. de 2010 88ª / 358 Tercer trámite constitucional / C. Diputados Cuenta del Mensaje 385-358 que retira y hace presente la urgencia Discusión inmediata Ver
+13 de Oct. de 2010 88ª / 358 Tercer trámite constitucional / C. Diputados Discusión única Ver
+13 de Oct. de 2010   Tercer trámite constitucional / C. Diputados Oficio N° 9054, que comunica aprobacion de modificaciones Ver
+13 de Oct. de 2010   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo. Oficio N°9053. Oficio de Ley al Presidente de la República Ver
+26 de Oct. de 2010 61ª / 358 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 9054, que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7170-05","Fecha Etapa Informe Documento
+12 de Oct. de 2010 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+15 de Sep. de 2010 Primer trámite constitucional C.Diputados Primer informe complementario de Hacienda Ver
+15 de Sep. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7170-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+13 de Oct. de 2010   Discusión inmediata 385-358  
+06 de Oct. de 2010 13 de Oct. de 2010 Discusión inmediata 375-358 385-358
+28 de Sep. de 2010 05 de Oct. de 2010 Suma 331-358 372-358
+01 de Sep. de 2010 27 de Sep. de 2010 Suma 292-358 331-358","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7170-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      
+Ministerio de Minería      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7170-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+88 modificación del Senado recaída en el artículo 1° permanente, número 1), por la cual se sustituyen los numerales i) a x) de la letra c) del inciso tercero del artículo 64 bis de la ley sobre Impuesto a la Renta. 82 15 3 20 Aprobado Sala Ver detalle votación
+88 enmienda del Senado recaída en el inciso tercero del artículo primero transitorio. 77 22 1 20 Aprobado Sala Ver detalle votación
+88 enmiendas del Senado recaídas en el artículo segundo transitorio, incisos segundo y tercero. 73 22 4 21 Aprobado Sala Ver detalle votación
+88 enmienda del Senado por la cual se reemplaza el inciso primero del artículo tercero transitorio. 75 19 3 23 Aprobado Sala Ver detalle votación
+76 Inadmisibilidad de indicación consignada en la página 18 del informe de la Comisión de Hacienda. 57 54 0 9 Aprobado Sala Ver detalle votación
+76   57 54 0 9 Aprobado Sala Ver detalle votación
+88 enmienda del Senado mediante la cual se modifica el encabezamiento del artículo cuarto transitorio. 78 17 4 21 Aprobado Sala Ver detalle votación
+76 número 1 del artículo 1°, por el cual se sustituye el artículo 64 bis del decreto ley N°824, de 1974, que figura en las páginas 23 a 26 del informe de la Comisión de Hacienda. 56 55 0 9 Aprobado Sala Ver detalle votación
+76 número 2 del artículo 1°, por el cual se agrega el artículo 64 ter en el decreto ley N°824, de 1974, que figura en las páginas 26 y 27 del informe de la Comisión de Hacienda. 56 55 0 9 Aprobado Sala Ver detalle votación
+76 2° 56 55 0 9 Aprobado Sala Ver detalle votación
+76 3°, nuevo, incorporado mediante una indicación del Presidente de la República, por el cual se crea el Fondo de Inversión y Reconversión Regional. 96 6 3 15 Aprobado Sala Ver detalle votación
+76 4°, nuevo, que fue incorporado mediante una indicación del Presidente de la República. 90 6 7 17 Aprobado Sala Ver detalle votación
+76 5°, incorporado mediante una indicación de los diputados señores Accorsi, Lorenzini, Jaramillo, Montes, Ortiz y Robles, por el cual se impone al Servicio Nacional de Aduanas la obligación de analizar la composición de las exportaciones de concentrados de cobre y sus subproductos. 65 40 5 10 Aprobado Sala Ver detalle votación
+76 PRIMERO TRANSITORIO 56 55 0 9 Aprobado Sala Ver detalle votación
+76 SEGUNDO TRANSITORIO. 56 55 0 9 Aprobado Sala Ver detalle votación
+76 TERCERO TRANSITORIO. 56 55 0 9 Aprobado Sala Ver detalle votación
+76 CUARTO TRANSITORIO. 56 55 0 9 Aprobado Sala Ver detalle votación
+76 QUINTO TRANSITORIO. 56 55 0 9 Aprobado Sala Ver detalle votación
+76 sexto transitorio, nuevo, incorporado mediante indicación del Presidente de la República. 101 2 3 14 Aprobado Sala Ver detalle votación
+54 Votación General 7 6 0 0   Hacienda Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7170-05","No record","Veto emmEnd"

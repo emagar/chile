@@ -1,0 +1,68 @@
+* * Bill summary * *
+"emmStart Summary 3587-02","Legislatura: 351
+Fecha de ingreso: martes 06 de julio de 2004
+Estado: Tramitación terminada (Ley Nº 20.064 - D.Oficial 29/09/2005)
+Numero de boletín: 3587-02
+Materia: Carabineros De Chile
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 04:22:16
+* * Hitos de tramitación * *
+"emmStart Hitos 3587-02","Fecha Sesión Etapa Sub-etapa Documento
+06 de Jul. de 2004   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Jul. de 2004 11ª / 351 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Defensa Nacional Ver
+12 de Ago. de 2004   Primer trámite constitucional / C. Diputados Oficio Nº267-351. Indicación sustitutiva Ver
+09 de Nov. de 2004   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Nov. de 2004 18ª / 352 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Dic. de 2004 29ª / 352 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+14 de Dic. de 2004   Primer trámite constitucional / C. Diputados Boletín de indicaciones
+11 de Ene. de 2005   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+11 de Ene. de 2005 37ª / 352 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión. de Defensa Nacional. En Tabla. Ver
+19 de Ene. de 2005 43ª / 352 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver
+19 de Ene. de 2005   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+01 de Mar. de 2005 31ª / 352 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+25 de Abr. de 2005   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+04 de May. de 2005 49ª / 352 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de May. de 2005 50ª / 352 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 06/06/2005 Ver
+10 de May. de 2005 50ª / 352 Segundo trámite constitucional / Senado Cuenta del Mensaje 488-352 que hace presente la urgencia Simple
+06 de Jun. de 2005   Segundo trámite constitucional / Senado Boletín de indicaciones
+07 de Jun. de 2005 1ª / 353 Segundo trámite constitucional / Senado Cuenta del Mensaje 20-353 que hace presente la urgencia Simple
+12 de Jul. de 2005 14ª / 353 Segundo trámite constitucional / Senado Cuenta del Mensaje 113-352 que retira y hace presente la urgencia Simple
+16 de Ago. de 2005 26ª / 353 Segundo trámite constitucional / Senado Cuenta del Mensaje 181-352 que retira y hace presente la urgencia Simple
+02 de Sep. de 2005   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+06 de Sep. de 2005 32ª / 353 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+13 de Sep. de 2005 35ª / 353 Segundo trámite constitucional / Senado Discusión particular Ver
+13 de Sep. de 2005   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+13 de Sep. de 2005 44ª / 353 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+14 de Sep. de 2005 45ª / 353 Tercer trámite constitucional / C. Diputados Discusión única Ver
+14 de Sep. de 2005   Tercer trámite constitucional / C. Diputados Oficio Nº 5855, que comunica aprobación de modificaciones Ver
+14 de Sep. de 2005   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+04 de Oct. de 2005 38ª / 353 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 5855, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3587-02","Fecha Etapa Informe Documento
+02 de Sep. de 2005 Segundo trámite constitucional Senado Segundo informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+25 de Abr. de 2005 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+11 de Ene. de 2005 Primer trámite constitucional C.Diputados Segundo informe de comisión de Defensa Nacional Ver
+09 de Nov. de 2004 Primer trámite constitucional C.Diputados Primer informe de comisión de Defensa Nacional Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3587-02","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+16 de Ago. de 2005   Simple 181-352  
+12 de Jul. de 2005 16 de Ago. de 2005 Simple 113-352 181-352
+07 de Jun. de 2005 12 de Jul. de 2005 Simple 20-353 113-352
+10 de May. de 2005   Simple 488-352  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3587-02","Nombre Región Distrito Partido
+Ministerio de Defensa Nacional      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3587-02","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+43 Artículo 1º, número 2. 97 0 2 2 Aprobado Sala Ver detalle votación
+29   92 0 0 1 Aprobado Sala Ver detalle votación
+45 Modificaciones del Senado. 80 0 0 0 Aprobado Sala Ver detalle votación
+43 Artículo 2º, número 2. 98 1 2 3 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3587-02","No record","Veto emmEnd"

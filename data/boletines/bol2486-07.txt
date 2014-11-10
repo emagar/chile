@@ -1,0 +1,34 @@
+* * Bill summary * *
+"emmStart Summary 2486-07","Legislatura: 341
+Fecha de ingreso: jueves 13 de abril de 2000
+Estado: Primer trámite constitucional .
+Numero de boletín: 2486-07
+Materia: Parlamentarios
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 00:59:56
+* * Hitos de tramitación * *
+"emmStart Hitos 2486-07","Fecha Sesión Etapa Sub-etapa Documento
+13 de Abr. de 2000   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Abr. de 2000 41ª / 341 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+04 de Jul. de 2000   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+13 de Jul. de 2000 16ª / 342 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+17 de Oct. de 2000 7ª / 343 Primer trámite constitucional / C. Diputados Discusión general Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2486-07","Fecha Etapa Informe Documento
+04 de Jul. de 2000 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2486-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2486-07","Nombre Región Distrito Partido
+Roberto Delmastro Naso X Región de los Lagos N°53 Independientes
+Jaime Orpis Bouchon RM Región Metropolitana N°25 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2486-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2486-07","No record","Veto emmEnd"

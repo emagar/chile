@@ -1,0 +1,51 @@
+* * Bill summary * *
+"emmStart Summary 1867-06","Legislatura: 333
+Fecha de ingreso: martes 11 de junio de 1996
+Estado: Archivado .
+Numero de boletín: 1867-06
+Materia: Feriados
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 15:44:05
+* * Hitos de tramitación * *
+"emmStart Hitos 1867-06","Fecha Sesión Etapa Sub-etapa Documento
+11 de Jun. de 1996   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+11 de Jun. de 1996 5ª / 333 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización
+05 de Sep. de 1996   Primer trámite constitucional / Senado Primer informe de comisión Ver
+29 de Oct. de 1996 5ª / 334 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+30 de Jul. de 1997 20ª / 335 Primer trámite constitucional / Senado Discusión general Ver
+30 de Jul. de 1997   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+05 de Ago. de 1997 27ª / 335 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+13 de Ago. de 1997   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+19 de Ago. de 1997 33ª / 335 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+20 de Jul. de 1999 21ª / 340 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+04 de Ago. de 1999   Segundo trámite constitucional / C. Diputados Oficio rechazo a Cámara de Origen Ver
+10 de Ago. de 1999 20ª / 340 Comisión Mixta por rechazo de idea de legislar / C. Diputados Cuenta oficio rechazo de Cámara Revisora Ver
+10 de Ago. de 1999 20ª / 340 Comisión Mixta por rechazo de idea de legislar / C. Diputados Cuenta oficio integrantes de Comisión Mixta Ver
+18 de Jul. de 2000   Comisión Mixta por rechazo de idea de legislar / C. Diputados Oficio de la Comisión de Gobierno en el cual propone el archivo de la presente iniciativa Ver
+19 de Jul. de 2000 12ª / 342 Comisión Mixta por rechazo de idea de legislar / C. Diputados Cuenta del Oficio. A solicitud de la Comisión, la Sala del Senado accede al archivo de esta iniciativa, previo acuerdo de la Cámara de Diputados. Ver
+27 de Jul. de 2000   Comisión Mixta por rechazo de idea de legislar / C. Diputados Oficio Nº 16.444. A la Cámara de Diputados, solicitandole el acuerdo para proceder al archivo del presente proyecto. Ver
+02 de Ago. de 2000 20ª / 342 Comisión Mixta por rechazo de idea de legislar / C. Diputados Cuenta en Cámara de Diputados de Oficio del Senado, solicita acuerdo para archivo. Ver
+17 de Oct. de 2000   Comisión Mixta por rechazo de idea de legislar / C. Diputados Oficio Nº 16.969. A la Cámara de Diputados, solicitandole el acuerdo para proceder al archivo del presente proyecto. Ver
+18 de Oct. de 2000 8ª / 343 Comisión Mixta por rechazo de idea de legislar / C. Diputados Cuenta en Cámara de Diputados de Oficio del Senado, solicita acuerdo para archivo de proyecto. Ver
+19 de Oct. de 2000 9ª / 343 Comisión Mixta por rechazo de idea de legislar / C. Diputados Sala en Cámara de Diputados acuerda acceder a solicitud de archivo de proyecto. Oficio al Senado, comunica acuerdo para archivo de proyecto. Ver
+31 de Oct. de 2000 7ª / 343 Archivado / Cuenta en el Senado del oficio de la Cámara aceptando el archivo del proyecto. Ver
+    /  ","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1867-06","Fecha Etapa Informe Documento
+13 de Ago. de 1997 Segundo trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver
+05 de Sep. de 1096 Primer trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1867-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1867-06","Nombre
+Hernán Larraín Fernández","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1867-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1867-06","No record","Veto emmEnd"

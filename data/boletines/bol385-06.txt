@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 385-06","Legislatura: 322
+Fecha de ingreso: martes 18 de junio de 1991
+Estado: Tramitación terminada (Ley Nº 19.165 - D.Oficial 01/09/1992)
+Numero de boletín: 385-06
+Materia: Desempeño Humano
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 16:35:03
+* * Hitos de tramitación * *
+"emmStart Hitos 385-06","Fecha Sesión Etapa Sub-etapa Documento
+18 de Jun. de 1991 7ª / 322 Primer trámite constitucional / Senado Cuenta de proyecto
+04 de May. de 1992   Primer trámite constitucional / Senado Primer informe de comisión Ver
+05 de May. de 1992 55ª / 323 Primer trámite constitucional / Senado Primer informe de comisión Ver
+05 de May. de 1992 55ª / 323 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de May. de 1992 58ª / 323 Primer trámite constitucional / Senado Discusión general Ver
+02 de Jul. de 1992 7ª / 324 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+02 de Jul. de 1992 7ª / 324 Primer trámite constitucional / Senado Segundo informe de comisión Ver
+09 de Jul. de 1992 9ª / 324 Primer trámite constitucional / Senado Discusión particular Ver
+13 de Jul. de 1992 9ª / 324 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+14 de Jul. de 1992 17ª / 324 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+13 de Ago. de 1992 17ª / 324 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+20 de Ago. de 1992 20ª / 324 Tercer trámite constitucional / Senado Discusión única
+20 de Ago. de 1992 20ª / 324 Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo Ver
+20 de Ago. de 1992 20ª / 324 Tercer trámite constitucional / Senado Cuenta informe de comisión
+20 de Ago. de 1992 20ª / 324 Tercer trámite constitucional / Senado Informe de comisión Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 385-06","Fecha Etapa Informe Documento
+20 de Ago. de 1992 Tercer trámite constitucional Senado Informe de comisión de Gobierno, Descentralización y Regionalización Ver
+02 de Jul. de 1992 Primer trámite constitucional Senado Segundo informe de comisión de Gobierno, Descentralización y Regionalización Ver
+04 de May. de 1992 Primer trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 385-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 385-06","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 385-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 385-06","No record","Veto emmEnd"

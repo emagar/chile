@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 2576-07","Legislatura: 342
+Fecha de ingreso: miércoles 30 de agosto de 2000
+Estado: Tramitación terminada (Ley Nº 19.706 - D.Oficial 25/01/2001)
+Numero de boletín: 2576-07
+Materia: Amnistia
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 03-11-2014 06:31:53
+* * Hitos de tramitación * *
+"emmStart Hitos 2576-07","Fecha Sesión Etapa Sub-etapa Documento
+30 de Ago. de 2000 20ª / 342 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+30 de Ago. de 2000   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+14 de Nov. de 2000   Primer trámite constitucional / Senado Primer informe de comisión Ver
+14 de Nov. de 2000 10ª / 343 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+15 de Nov. de 2000 11ª / 343 Primer trámite constitucional / Senado Discusión general Ver
+15 de Nov. de 2000   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+28 de Nov. de 2000 18ª / 343 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+28 de Nov. de 2000   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+30 de Nov. de 2000 21ª / 343 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+12 de Dic. de 2000 24ª / 343 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+12 de Dic. de 2000   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+13 de Dic. de 2000   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+13 de Dic. de 2000 18ª / 343 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2576-07","Fecha Etapa Informe Documento
+28 de Nov. de 2000 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+14 de Nov. de 2000 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2576-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2576-07","Nombre
+Sergio Fernández Fernández
+Rafael Moreno Rojas
+Ricardo Núñez Muñoz
+Jorge Pizarro Soto
+Adolfo Zaldívar Larraín","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2576-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2576-07","No record","Veto emmEnd"

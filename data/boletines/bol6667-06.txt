@@ -1,0 +1,33 @@
+* * Bill summary * *
+"emmStart Summary 6667-06","Legislatura: 357
+Fecha de ingreso: miércoles 19 de agosto de 2009
+Estado: Primer trámite constitucional .
+Numero de boletín: 6667-06
+Materia: Participacion Politica,Juntas De Vecinos,Organizaciones Comunitarias
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 14:55:11
+* * Hitos de tramitación * *
+"emmStart Hitos 6667-06","Fecha Sesión Etapa Sub-etapa Documento
+19 de Ago. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+19 de Ago. de 2009 69ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6667-06","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6667-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6667-06","Nombre Región Distrito Partido
+Sergio Aguiló Melo VII Región del Maule N°37 Partido Socialista
+Marco Enríquez-Ominami Gumucio V Región de Valparaíso N°10 Independientes
+Alvaro Escobar Rufatt RM Región Metropolitana N°20 Independientes
+Tucapel Jiménez Fuentes RM Región Metropolitana N°27 Partido Por la Democracia
+Alejandro Sule Fernández VI Región del Libertador Bernardo O' Higgins N°33 Partido Radical Social Demócrata","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6667-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6667-06","No record","Veto emmEnd"

@@ -1,0 +1,39 @@
+* * Bill summary * *
+"emmStart Summary 886-07","Legislatura: 325
+Fecha de ingreso: martes 15 de diciembre de 1992
+Estado: Tramitación terminada (Ley Nº 19.292 - D.Oficial 11/02/1994)
+Numero de boletín: 886-07
+Materia: Amnistia
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 00:16:46
+* * Hitos de tramitación * *
+"emmStart Hitos 886-07","Fecha Sesión Etapa Sub-etapa Documento
+15 de Dic. de 1992   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+15 de Dic. de 1992 17ª / 325 Primer trámite constitucional / Senado Cuenta de proyecto
+13 de Jul. de 1993 10ª / 326 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+13 de Jul. de 1993 10ª / 326 Primer trámite constitucional / Senado Primer informe de comisión Ver
+21 de Jul. de 1993 13ª / 326 Primer trámite constitucional / Senado Discusión general Ver
+21 de Jul. de 1993 13ª / 326 Primer trámite constitucional / Senado Discusión general Ver
+02 de Ago. de 1993 13ª / 326 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+03 de Ago. de 1993 22ª / 326 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+31 de Ago. de 1993   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+26 de Ene. de 1994 31ª / 327 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+27 de Ene. de 1994 4ª / 344 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 886-07","Fecha Etapa Informe Documento
+31 de Ago. de 1993 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+13 de Jul. de 1993 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 886-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 886-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 886-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 886-07","No record","Veto emmEnd"

@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 1709-04","Legislatura: 332
+Fecha de ingreso: miércoles 04 de octubre de 1995
+Estado: Tramitación terminada (Ley Nº 19.565 - D.Oficial 08/06/1998)
+Numero de boletín: 1709-04
+Materia: Monumentos
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 13:19:15
+* * Hitos de tramitación * *
+"emmStart Hitos 1709-04","Fecha Sesión Etapa Sub-etapa Documento
+04 de Oct. de 1995   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+04 de Oct. de 1995 2ª / 332 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+31 de Jul. de 1996   Primer trámite constitucional / Senado Primer informe de comisión Ver
+06 de Ago. de 1996 25ª / 333 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+04 de Sep. de 1996 36ª / 333 Primer trámite constitucional / Senado Discusión general Ver
+05 de Sep. de 1996   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+05 de Sep. de 1996   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+10 de Sep. de 1996 35ª / 333 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+05 de Ago. de 1997   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Sep. de 1997 40ª / 335 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+12 de May. de 1998 19ª / 337 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+12 de May. de 1998   Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver
+13 de May. de 1998 15ª / 337 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+19 de May. de 1998 16ª / 337 Tercer trámite constitucional / Senado Discusión única
+19 de May. de 1998   Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo
+19 de May. de 1998   Tercer trámite constitucional / Senado Oficio Nº 12304, que comunica aprobación de modificaciones Ver
+02 de Jun. de 1998 1ª / 338 Tercer trámite constitucional / Senado Cuenta oficio N? 12304, que comunica aprobacion de modificaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1709-04","Fecha Etapa Informe Documento
+05 de Ago. de 1997 Segundo trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver
+31 de Jul. de 1996 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1709-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1709-04","Nombre
+Julio Lagos Cosgrove","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1709-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1709-04","No record","Veto emmEnd"

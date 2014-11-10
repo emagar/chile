@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 3513-10","Legislatura: 350
+Fecha de ingreso: martes 04 de mayo de 2004
+Estado: Tramitación terminada (D.S. N° 17 - D.Oficial 25/04/2006)
+Numero de boletín: 3513-10
+Materia: Acuerdos Internacionales
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 03:34:40
+* * Hitos de tramitación * *
+"emmStart Hitos 3513-10","Fecha Sesión Etapa Sub-etapa Documento
+04 de May. de 2004   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de May. de 2004 79ª / 350 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+30 de Ago. de 2005   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+31 de Ago. de 2005 38ª / 353 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+06 de Sep. de 2005 40ª / 353 Primer trámite constitucional / C. Diputados Discusión única Ver
+06 de Sep. de 2005   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+04 de Oct. de 2005 38ª / 353 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores Ver
+20 de Dic. de 2005   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+20 de Dic. de 2005 52ª / 353 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+21 de Dic. de 2005 53ª / 353 Segundo trámite constitucional / Senado Discusión general Ver
+21 de Dic. de 2005   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+27 de Dic. de 2005   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+10 de Ene. de 2006 65ª / 353 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3513-10","Fecha Etapa Informe Documento
+20 de Dic. de 2005 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+30 de Ago. de 2005 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3513-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3513-10","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3513-10","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+40   66 2 1 3 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3513-10","No record","Veto emmEnd"

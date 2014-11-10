@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 1886-10","Legislatura: 333
+Fecha de ingreso: miércoles 03 de julio de 1996
+Estado: Tramitación terminada (D.S. Nº 1.878 - D.Oficial 05/02/1999)
+Numero de boletín: 1886-10
+Materia: Unesco
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 15:58:15
+* * Hitos de tramitación * *
+"emmStart Hitos 1886-10","Fecha Sesión Etapa Sub-etapa Documento
+03 de Jul. de 1996   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+03 de Jul. de 1996 12ª / 333 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+01 de Sep. de 1997   Primer trámite constitucional / Senado Primer informe de comisión Ver
+02 de Sep. de 1997 29ª / 335 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+09 de Sep. de 1997 33ª / 335 Primer trámite constitucional / Senado Discusión general Ver
+09 de Sep. de 1997   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+30 de Sep. de 1997 1ª / 336 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+09 de Jun. de 1998   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Jun. de 1998 9ª / 338 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+30 de Jun. de 1998 11ª / 338 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+30 de Jun. de 1998   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+01 de Jul. de 1998   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+01 de Jul. de 1998 10ª / 338 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1886-10","Fecha Etapa Informe Documento
+09 de Jun. de 1998 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+01 de Sep. de 1997 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1886-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+02 de Jul. de 1996 16 de Sep. de 1996 Sin urgencia   CADUCADO","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1886-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1886-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1886-10","No record","Veto emmEnd"

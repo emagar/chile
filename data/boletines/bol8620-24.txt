@@ -1,0 +1,39 @@
+* * Bill summary * *
+"emmStart Summary 8620-24","Legislatura: 360
+Fecha de ingreso: jueves 11 de octubre de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8620-24
+Materia: Fomento Audiovisual,Cuotas De Pantalla
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 03:43:50
+* * Hitos de tramitación * *
+"emmStart Hitos 8620-24","Fecha Sesión Etapa Sub-etapa Documento
+11 de Oct. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+11 de Oct. de 2012 89ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Cultura Ver
+17 de Oct. de 2012 91ª / 360 Primer trámite constitucional / C. Diputados Comunicación del Diputado señor Godoy, por la cual informa que ha retirado su patrocinio al proyecto. Ver
+07 de Nov. de 2012 96ª / 360 Primer trámite constitucional / C. Diputados Cuenta. Comunicación del señor Diputado Kort, por el cual informa que ha retirado el patrocinio del proyecto. Ver
+01 de Ago. de 2013 52ª / 361 Primer trámite constitucional / C. Diputados Comunicación de la señora Diputada Nogueira, doña Claudia, por el cual informa que ha retirado el patrocinio del proyecto. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8620-24","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8620-24","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8620-24","Nombre Región Distrito Partido
+Alfonso De Urresti Longton XIV Región de los Ríos N°53 Partido Socialista
+Marcelo Díaz Díaz IV Región de Coquimbo N°7 Partido Socialista
+Ramón Farías Ponce RM Región Metropolitana N°30 Partido Por la Democracia
+María José Hoffmann Opazo V Región de Valparaíso N°15 Unión Demócrata Independiente
+Marcelo Schilling Rodríguez V Región de Valparaíso N°12 Partido Socialista
+Víctor Torres Jeldes V Región de Valparaíso N°15 Partido Demócrata Cristiano
+Ximena Vidal Lázaro RM Región Metropolitana N°25 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8620-24","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+104 Votación General 5 0 0 8   Cultura Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8620-24","No record","Veto emmEnd"

@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 4805-14","Legislatura: 354
+Fecha de ingreso: martes 09 de enero de 2007
+Estado: Primer trámite constitucional .
+Numero de boletín: 4805-14 Refundido con: 5062-14,6206-14,4954-14,4610-14,5277-14,6145-14
+Materia: Copropiedad Inmobiliaria
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 08:44:31
+* * Hitos de tramitación * *
+"emmStart Hitos 4805-14","Fecha Sesión Etapa Sub-etapa Documento
+09 de Ene. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+09 de Ene. de 2007 116ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Vivienda y Desarrollo Urbano Ver
+18 de Mar. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+31 de Mar. de 2009 6ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de VIvienda. EN ESTADO DE TABLA. Ver
+14 de May. de 2009 30ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+14 de Oct. de 2009 91ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1345-357 que hace presente la urgencia Simple Ver
+14 de Oct. de 2009 91ª / 357 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general Pasa a Segundo Informe. Ver
+03 de Nov. de 2009 97ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1460-357 que retira urgencia que hiciera presente Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4805-14","Fecha Etapa Informe Documento
+18 de Mar. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Vivienda y Desarrollo Urbano Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4805-14","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+03 de Nov. de 2009   Simple 1460-357  
+14 de Oct. de 2009 03 de Nov. de 2009 Simple 1345-357 1460-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4805-14","Nombre Región Distrito Partido
+Pedro Pablo Alvarez-Salamanca Büchi VII Región del Maule N°38 Renovación Nacional
+Francisco Chahuán Chahuán V Región de Valparaíso N°14 Renovación Nacional
+Fidel Espinoza Sandoval X Región de los Lagos N°56 Partido Socialista
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Jorge Insunza Gregorio de las Heras RM Región Metropolitana N°28 Partido Por la Democracia
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+Claudia Nogueira Fernández RM Región Metropolitana N°19 Unión Demócrata Independiente
+Roberto Sepúlveda Hermosilla RM Región Metropolitana N°20 Renovación Nacional
+Gonzalo Uriarte Herrera RM Región Metropolitana N°31 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4805-14","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+88 Votación General 8 0 0 4   Vivienda Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4805-14","No record","Veto emmEnd"

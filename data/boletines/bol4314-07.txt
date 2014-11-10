@@ -1,0 +1,52 @@
+* * Bill summary * *
+"emmStart Summary 4314-07","Legislatura: 354
+Fecha de ingreso: martes 11 de julio de 2006
+Estado: Archivado .
+Numero de boletín: 4314-07
+Materia: Reforma Constitucional,Dirigentes Gremiales Y Sindicales
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 00:11:46
+* * Hitos de tramitación * *
+"emmStart Hitos 4314-07","Fecha Sesión Etapa Sub-etapa Documento
+11 de Jul. de 2006 47ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+11 de Jul. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+17 de Jun. de 2008 42ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 445-356 que hace presente la urgencia Simple Ver
+01 de Jul. de 2008 45ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 474-356 que retira y hace presente la urgencia Suma Ver
+09 de Jul. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+14 de Jul. de 2008 52ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 515-356 que retira la urgencia Suma Ver
+14 de Jul. de 2008 52ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+31 de Mar. de 2009 6ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 63-357 que hace presente la urgencia Discusión inmediata Ver
+07 de Abr. de 2009 7ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+07 de Abr. de 2009   Archivado / Archivado
+07 de Oct. de 2014 76ª / 362 Primer trámite constitucional / C. Diputados Desarchivado. Cuenta oficio de la Comisión de Constitución, Legislación y Justicia, mediante el cual solicita el desarchivo de la moción. ACORDADO. Ver
+07 de Oct. de 2014   Primer trámite constitucional / C. Diputados Oficio N°11.512. Comunica desarchivo de proyectos Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4314-07","Fecha Etapa Informe Documento
+09 de Jul. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4314-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+31 de Mar. de 2009   Discusión inmediata 63-357  
+01 de Jul. de 2008 14 de Jul. de 2008 Suma 474-356 515-356
+17 de Jun. de 2008 01 de Jul. de 2008 Simple 445-356 474-356","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4314-07","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Sergio Aguiló Melo VII Región del Maule N°37 Partido Socialista
+Marco Enríquez-Ominami Gumucio V Región de Valparaíso N°10 Independientes
+Marcos Espinosa Monardes II Región de Antofagasta N°3 Partido Radical Social Demócrata
+Ramón Farías Ponce RM Región Metropolitana N°30 Partido Por la Democracia
+Tucapel Jiménez Fuentes RM Región Metropolitana N°27 Partido Por la Democracia
+Alejandro Sule Fernández VI Región del Libertador Bernardo O' Higgins N°33 Partido Radical Social Demócrata
+Raúl Sunico Galdames VIII Región del Bío Bío N°43 Partido Socialista","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4314-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+7   61 40 0 0 Rechazado Sala Ver detalle votación
+159 Votación General 4 1 0 8   Constitución Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4314-07","No record","Veto emmEnd"

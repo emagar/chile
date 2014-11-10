@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 8547-07","Legislatura: 360
+Fecha de ingreso: miércoles 29 de agosto de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8547-07
+Materia: Calificación De Urgencias
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 02:52:28
+* * Hitos de tramitación * *
+"emmStart Hitos 8547-07","Fecha Sesión Etapa Sub-etapa Documento
+29 de Ago. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+29 de Ago. de 2012 73ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8547-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8547-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8547-07","Nombre Región Distrito Partido
+Ramón Barros Montero VI Región del Libertador Bernardo O' Higgins N°35 Unión Demócrata Independiente
+Romilio Gutiérrez Pino VII Región del Maule N°39 Unión Demócrata Independiente
+Gustavo Hasbún Selume RM Región Metropolitana N°26 Unión Demócrata Independiente
+Issa Farid Kort Garriga VI Región del Libertador Bernardo O' Higgins N°32 Unión Demócrata Independiente
+Javier Macaya Danús VI Región del Libertador Bernardo O' Higgins N°34 Unión Demócrata Independiente
+Claudia Nogueira Fernández RM Región Metropolitana N°19 Unión Demócrata Independiente
+Felipe Salaberry Soto RM Región Metropolitana N°25 Unión Demócrata Independiente
+Carlos Vilches Guzmán III Región de Atacama N°5 Unión Demócrata Independiente
+Gastón Von Mühlenbrock Zamora XIV Región de los Ríos N°54 Unión Demócrata Independiente
+Felipe Ward Edwards II Región de Antofagasta N°3 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8547-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8547-07","No record","Veto emmEnd"

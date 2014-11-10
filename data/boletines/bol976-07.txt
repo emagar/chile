@@ -1,0 +1,55 @@
+* * Bill summary * *
+"emmStart Summary 976-07","Legislatura: 325
+Fecha de ingreso: miércoles 05 de mayo de 1993
+Estado: Tramitación terminada (Ley Nº 19.285 - D.Oficial 05/02/1994)
+Numero de boletín: 976-07
+Materia: Gendarmeria De Chile,Patronato Nacional De Reos
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 01:28:15
+* * Hitos de tramitación * *
+"emmStart Hitos 976-07","Fecha Sesión Etapa Sub-etapa Documento
+05 de May. de 1993 70ª / 325 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+05 de May. de 1993   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Jul. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+13 de Jul. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+13 de Jul. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+13 de Jul. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+01 de Nov. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Nov. de 1993 11ª / 327 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+03 de Nov. de 1993 13ª / 327 Primer trámite constitucional / C. Diputados Discusión general Ver
+04 de Nov. de 1993   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+09 de Nov. de 1993 12ª / 327 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+22 de Nov. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+22 de Nov. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+23 de Nov. de 1993 16ª / 327 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión. de Constitución, Legislación, Justicia y Reglamento y de la de Hacienda. Quedan para tabla
+24 de Nov. de 1993 17ª / 327 Segundo trámite constitucional / Senado Discusión general Ver
+14 de Dic. de 1993   Segundo trámite constitucional / Senado Nuevo primer informe de comisión Ver
+15 de Dic. de 1993 19ª / 327 Segundo trámite constitucional / Senado Cuenta nuevo primer informe
+04 de Ene. de 1994 20ª / 327 Segundo trámite constitucional / Senado Discusión general Ver
+05 de Ene. de 1994   Tramitación terminada / Oficio Nº5263. comunica aprobación con modificaciones a Cámara de origen Ver
+05 de Ene. de 1994   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+05 de Ene. de 1994 27ª / 327 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+12 de Ene. de 1994 28ª / 327 Tercer trámite constitucional / C. Diputados Discusión única Ver
+12 de Ene. de 1994   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 976-07","Fecha Etapa Informe Documento
+14 de Dic. de 1993 Segundo trámite constitucional Senado Nuevo primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+22 de Nov. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+22 de Nov. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+01 de Nov. de 1993 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+13 de Jul. de 1993 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+13 de Jul. de 1993 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 976-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 976-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 976-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 976-07","No record","Veto emmEnd"

@@ -1,0 +1,54 @@
+* * Bill summary * *
+"emmStart Summary 334-07","Legislatura: 321
+Fecha de ingreso: miércoles 10 de abril de 1991
+Estado: Tramitación terminada (Ley Nº 19.172 - D.Oficial 04/11/1992)
+Numero de boletín: 334-07
+Materia: Código Penal,Cooperación Eficaz (Derecho),Terrorismo
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 15:43:00
+* * Hitos de tramitación * *
+"emmStart Hitos 334-07","Fecha Sesión Etapa Sub-etapa Documento
+10 de Abr. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Abr. de 1991 44ª / 321 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+22 de Ago. de 1991 32ª / 322 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+22 de Ene. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+28 de Ene. de 1992 39ª / 323 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión. Queda para Tabla.
+10 de Mar. de 1992 42ª / 323 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 16/03/1992 Ver
+17 de Mar. de 1992   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+18 de Mar. de 1992 44ª / 323 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión. Queda para Tabla.
+18 de Mar. de 1992 44ª / 323 Segundo trámite constitucional / Senado Discusión particular Ver
+20 de Mar. de 1992   Discusión veto en Cámara Revisora / Senado Oficio Nº2294. Oficio a la Cámara de Diputados comunicando aprobación del proyecto, con modificaciones. Ver
+07 de Abr. de 1992 49ª / 323 Comisión Mixta por rechazo de modificaciones / Senado Cuenta oficio rechazo a modificaciones. y designación de integrantes de Comisión Mixta. Se designa a los miembros de la Comisión de Constitución para que integren la referida Comisión Mixta.
+08 de Abr. de 1992   Discusión veto en Cámara Revisora / Senado Oficio Nº3071. Oficio a la Cámara de Diputados tomando conocimiento de la formación de Comisión Mixta, designando a los Senadores miembros de la Comisión de Constitución para ello. Ver
+12 de May. de 1992   Comisión Mixta por rechazo de modificaciones / Senado Informe de Comisión Mixta Ver
+03 de Jun. de 1992 2ª / 324 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Cuenta oficio aprobación de informe de Comisión Mixta. Queda para Tabla.
+09 de Jun. de 1992 3ª / 324 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Discusión informe de Comisión Mixta
+10 de Jun. de 1992   Discusión veto en Cámara Revisora / Senado Oficio Nº3228. Oficio a la Cámara de Diputados comunicando la aprobación de la proposición de la Comisión Mixta. Ver
+21 de Jul. de 1992   Primer trámite constitucional / C. Diputados Nuevo primer informe de comisión Ver
+13 de Ago. de 1992 18ª / 324 Discusión veto en Cámara Revisora / Senado Cuenta oficio aprobación veto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+03 de Sep. de 1992   Discusión veto en Cámara Revisora / Senado Informe de comisión Ver
+08 de Sep. de 1992 23ª / 324 Discusión veto en Cámara Revisora / Senado Cuenta informe de comisión. Queda para Tabla.
+06 de Oct. de 1992 1ª / 325 Discusión veto en Cámara Revisora / Senado Discusión veto. Aprobado parcialmente las observaciones del Ejecutivo.
+08 de Oct. de 1992   Discusión veto en Cámara Revisora / Senado Oficio aprobación veto a Cámara de Origen Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 334-07","Fecha Etapa Informe Documento
+03 de Sep. de 1992 Discusión veto en Cámara Revisora Senado Informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+21 de Jul. de 1992 Primer trámite constitucional C.Diputados Nuevo primer informe de comisión de Constitución, Legislación y Justicia Ver
+12 de May. de 1992 Comisión Mixta por rechazo de modificaciones Senado Informe de Comisión Mixta de Constitución, Legislación, Justicia y Reglamento Ver
+17 de Mar. de 1992 Segundo trámite constitucional Senado Segundo informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+22 de Ene. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 334-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+10 de Abr. de 1991   Suma    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 334-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 334-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 334-07","No record","Veto emmEnd"

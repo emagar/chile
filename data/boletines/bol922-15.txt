@@ -1,0 +1,52 @@
+* * Bill summary * *
+"emmStart Summary 922-15","Legislatura: 325
+Fecha de ingreso: jueves 28 de enero de 1993
+Estado: Segundo trámite constitucional .
+Numero de boletín: 922-15
+Materia: Accidentes De Transito,Delito De Evasión Del Lugar De Accidente
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 00:44:36
+* * Hitos de tramitación * *
+"emmStart Hitos 922-15","Fecha Sesión Etapa Sub-etapa Documento
+28 de Ene. de 1993   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+28 de Ene. de 1993 47ª / 325 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+18 de Nov. de 1994   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Abr. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Abr. de 1995 57ª / 330 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de Abr. de 1995 58ª / 330 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+30 de Jul. de 1999   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+03 de Ago. de 1999 23ª / 340 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+03 de Ago. de 1999 23ª / 340 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver
+03 de Ago. de 1999   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+11 de Ago. de 1999 21ª / 340 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social
+03 de Ago. de 2000   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora
+01 de Sep. de 2000   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento Ver
+12 de Sep. de 2000   Segundo trámite constitucional / Senado A petición de la Comisión de Transportes y Telecomunicaciones la Sala acuerda que el proyecto sea informado por la Comisión de Constitución, Legislación, Justicia y Reglamento sólo con ocasión del segundo informe.
+12 de Sep. de 2000 23ª / 342 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+03 de Oct. de 2000 1ª / 343 Segundo trámite constitucional / Senado Discusión general Ver
+18 de Mar. de 2003 33ª / 348 Tramitación terminada / Cuenta del Mensaje 476-348 que hace presente la urgencia Simple
+29 de Abr. de 2003 42ª / 348 Tramitación terminada / Cuenta del Mensaje 555-348 que retira la urgencia Simple
+29 de Abr. de 2003 42ª / 348 Tramitación terminada / Cuenta del Mensaje 555-348 que hace presente la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 922-15","Fecha Etapa Informe Documento
+01 de Sep. de 2000 Segundo trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver
+30 de Jul. de 1999 Primer trámite constitucional C.Diputados Segundo informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+11 de Abr. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+18 de Nov. de 1994 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 922-15","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+29 de Abr. de 2003   Simple 555-348  
+18 de Mar. de 2003 29 de Abr. de 2003 Simple 476-348 555-348","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 922-15","Nombre Región Distrito Partido
+Octavio Jara Wolff Región N° Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 922-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 922-15","No record","Veto emmEnd"

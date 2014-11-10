@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 4515-05","Legislatura: 354
+Fecha de ingreso: martes 12 de septiembre de 2006
+Estado: Primer trámite constitucional .
+Numero de boletín: 4515-05
+Materia: Operaciones De Crédito,Endeudamiento
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 02:37:47
+* * Hitos de tramitación * *
+"emmStart Hitos 4515-05","Fecha Sesión Etapa Sub-etapa Documento
+12 de Sep. de 2006 74ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+12 de Sep. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+23 de Ene. de 2007 123ª / 354 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+23 de Ene. de 2007 123ª / 354 Primer trámite constitucional / C. Diputados Cuenta nuevo primer informe Ver
+08 de Mar. de 2007 128ª / 354 Primer trámite constitucional / C. Diputados Discusión general Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4515-05","Fecha Etapa Informe Documento
+19 de Ene. de 2007 Primer trámite constitucional C.Diputados Nuevo primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4515-05","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4515-05","Nombre Región Distrito Partido
+Isabel Allende Bussi RM Región Metropolitana N°29 Partido Socialista
+Marcelo Díaz Díaz IV Región de Coquimbo N°7 Partido Socialista
+Marco Enríquez-Ominami Gumucio V Región de Valparaíso N°10 Independientes
+Tucapel Jiménez Fuentes RM Región Metropolitana N°27 Partido Por la Democracia
+Antonio Leal Labrín III Región de Atacama N°5 Partido Por la Democracia
+Pablo Lorenzini Basso VII Región del Maule N°38 Partido Demócrata Cristiano
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+Raúl Sunico Galdames VIII Región del Bío Bío N°43 Partido Socialista
+Eugenio Tuma Zedan IX Región de la Araucanía N°51 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4515-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+50 Votación General 6 0 0 7   Hacienda Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4515-05","No record","Veto emmEnd"

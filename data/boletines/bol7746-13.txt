@@ -1,0 +1,64 @@
+* * Bill summary * *
+"emmStart Summary 7746-13","Legislatura: 359
+Fecha de ingreso: miércoles 22 de junio de 2011
+Estado: Tramitación terminada (Ley Nº 20.684 - D.Oficial 23/08/2013)
+Numero de boletín: 7746-13 Refundido con: 7467-13
+Materia: Código Del Trabajo,Finiquito Del Contrato De Trabajo,Plazo Para Finiquito Del Contrato De Trabajo
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 08:55:53
+* * Hitos de tramitación * *
+"emmStart Hitos 7746-13","Fecha Sesión Etapa Sub-etapa Documento
+22 de Jun. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+22 de Jun. de 2011 46ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+12 de Ene. de 2012 132ª / 359 Primer trámite constitucional / C. Diputados Oficio de la Comisión de Trabajo, por el cual solicita el acuerdo de la Sala, de conformidad con el artículo 17 A de la Ley Orgánica Constitucional del Congreso Nacional, para refundir los proyectos Boletines 7467-13 y 7746-13. Acordado. Ver
+17 de Abr. de 2012   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de May. de 2012 20ª / 360 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+15 de May. de 2012 27ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+22 de May. de 2012   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+05 de Jun. de 2012 36ª / 360 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+06 de Jun. de 2012 38ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 137-360 que hace presente la urgencia Simple Ver
+14 de Jun. de 2012 43ª / 360 Primer trámite constitucional / C. Diputados Discusión particular Ver
+19 de Jun. de 2012 44ª / 360 Primer trámite constitucional / C. Diputados Discusión particular Ver
+19 de Jun. de 2012   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+20 de Jun. de 2012 28ª / 360 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social
+23 de Nov. de 2012 73ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 366-360 que retira y hace presente la urgencia Suma
+13 de Mar. de 2013   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+19 de Mar. de 2013 4ª / 361 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+09 de Jul. de 2013 39ª / 361 Segundo trámite constitucional / Senado Discusión general Ver
+09 de Jul. de 2013   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+10 de Jul. de 2013 46ª / 361 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+11 de Jul. de 2013 47ª / 361 Tercer trámite constitucional / C. Diputados Discusión única Ver
+11 de Jul. de 2013   Tercer trámite constitucional / C. Diputados Oficio N°10.836. Para promulgación. Ver
+11 de Jul. de 2013   Tercer trámite constitucional / C. Diputados Oficio aprobación de modificaciones a Cámara Revisora Ver
+17 de Jul. de 2013 41ª / 361 Tercer trámite constitucional / C. Diputados Cuenta oficio N° 10.831, que comunica aprobacion de modificaciones Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7746-13","Fecha Etapa Informe Documento
+14 de Mar. de 2013 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver
+22 de May. de 2012 Primer trámite constitucional C.Diputados Segundo informe de comisión de Trabajo y Seguridad Social Ver
+17 de Abr. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7746-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+23 de Nov. de 2012   Suma 366-360  
+06 de Jun. de 2012 23 de Nov. de 2012 Simple 137-360 366-360","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7746-13","Nombre Región Distrito Partido
+Germán Becker Alvear IX Región de la Araucanía N°50 Renovación Nacional
+Pedro Browne Urrejola RM Región Metropolitana N°28 Renovación Nacional
+José Manuel Edwards Silva IX Región de la Araucanía N°51 Renovación Nacional
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Joaquín Godoy Ibáñez V Región de Valparaíso N°13 Renovación Nacional
+Nicolás Monckeberg Díaz RM Región Metropolitana N°18 Renovación Nacional
+Gaspar Rivas Sánchez V Región de Valparaíso N°11 Renovación Nacional
+Marcela Sabat Fernández RM Región Metropolitana N°21 Renovación Nacional
+Frank Sauerbaum Muñoz VIII Región del Bío Bío N°42 Renovación Nacional
+Germán Verdugo Soto VII Región del Maule N°37 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7746-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7746-13","No record","Veto emmEnd"

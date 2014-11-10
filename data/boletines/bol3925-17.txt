@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 3925-17","Legislatura: 353
+Fecha de ingreso: miércoles 13 de julio de 2005
+Estado: Segundo trámite constitucional .
+Numero de boletín: 3925-17
+Materia: Nacionalización
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 06:53:27
+* * Hitos de tramitación * *
+"emmStart Hitos 3925-17","Fecha Sesión Etapa Sub-etapa Documento
+13 de Jul. de 2005   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Jul. de 2005 16ª / 353 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+20 de Jul. de 2005   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Ago. de 2005 23ª / 353 Primer trámite constitucional / C. Diputados Primer informe de la Comisión de Derechos Humanos. Ver
+03 de Ago. de 2005 26ª / 353 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+03 de Ago. de 2005   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+09 de Ago. de 2005 22ª / 353 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+15 de Jun. de 2010   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+15 de Jun. de 2010 27ª / 358 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+06 de Jul. de 2010 32ª / 358 Segundo trámite constitucional / Senado Por acuerdo de los Comités, ratificado por la Sala, se retira el proyecto de la Tabla. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3925-17","Fecha Etapa Informe Documento
+15 de Jun. de 2010 Segundo trámite constitucional Senado Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+20 de Jul. de 2005 Primer trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3925-17","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3925-17","Nombre Región Distrito Partido
+Ramón Barros Montero VI Región del Libertador Bernardo O' Higgins N°35 Unión Demócrata Independiente
+Alejandro García-Huidobro Sanfuentes VI Región del Libertador Bernardo O' Higgins N°32 Unión Demócrata Independiente
+Javier Hernández Hernández X Región de los Lagos N°55 Unión Demócrata Independiente
+José Antonio Kast Rist RM Región Metropolitana N°30 Unión Demócrata Independiente
+Víctor Pérez Varela VIII Región del Bío Bío N°47 Unión Demócrata Independiente
+Pablo Prieto Lorca VII Región del Maule N°37 Unión Demócrata Independiente
+Carlos Recondo Lavanderos X Región de los Lagos N°56 Unión Demócrata Independiente
+Gonzalo Uriarte Herrera RM Región Metropolitana N°31 Unión Demócrata Independiente
+Ignacio Urrutia Bonilla VII Región del Maule N°40 Unión Demócrata Independiente
+Gastón Von Mühlenbrock Zamora X Región de los Lagos N°54 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3925-17","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+26   72 0 0 1 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3925-17","No record","Veto emmEnd"

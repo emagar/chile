@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 6404-07","Legislatura: 356
+Fecha de ingreso: martes 10 de marzo de 2009
+Estado: Tramitación terminada (Ley Nº 20.376 - D.Oficial 11/09/2009)
+Numero de boletín: 6404-07
+Materia: Nacionalización
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 08-11-2014 06:27:00
+* * Hitos de tramitación * *
+"emmStart Hitos 6404-07","Fecha Sesión Etapa Sub-etapa Documento
+10 de Mar. de 2009   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+11 de Mar. de 2009 1ª / 357 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía
+28 de Abr. de 2009   Primer trámite constitucional / Senado Primer informe de comisión Ver
+29 de Abr. de 2009 13ª / 357 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+05 de May. de 2009 14ª / 357 Primer trámite constitucional / Senado Discusión general Ver
+05 de May. de 2009   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+07 de May. de 2009 27ª / 357 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+01 de Jul. de 2009   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de Jul. de 2009 49ª / 357 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+06 de Ago. de 2009 60ª / 357 Segundo trámite constitucional / C. Diputados Discusión general Ver
+06 de Ago. de 2009   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+11 de Ago. de 2009 40ª / 357 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+11 de Ago. de 2009   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6404-07","Fecha Etapa Informe Documento
+01 de Jul. de 2009 Segundo trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+28 de Abr. de 2009 Primer trámite constitucional Senado Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6404-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6404-07","Nombre
+José García Ruminot
+Pedro Muñoz Aburto
+Roberto Muñoz Barra
+Jaime Orpis Bouchon
+Hosaín Sabag Castillo","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6404-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+60   66 0 0 54 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6404-07","No record","Veto emmEnd"

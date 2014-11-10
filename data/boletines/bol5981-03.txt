@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 5981-03","Legislatura: 356
+Fecha de ingreso: martes 29 de julio de 2008
+Estado: Primer trámite constitucional .
+Numero de boletín: 5981-03
+Materia: Consumidores
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 01:28:39
+* * Hitos de tramitación * *
+"emmStart Hitos 5981-03","Fecha Sesión Etapa Sub-etapa Documento
+29 de Jul. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+29 de Jul. de 2008 54ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5981-03","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5981-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5981-03","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Rodrigo González Torres V Región de Valparaíso N°14 Partido Por la Democracia
+Carlos Abel Jarpa Wevar VIII Región del Bío Bío N°41 Partido Radical Social Demócrata
+Tucapel Jiménez Fuentes RM Región Metropolitana N°27 Partido Por la Democracia
+Antonio Leal Labrín III Región de Atacama N°5 Partido Por la Democracia
+Fernando Meza Moncada IX Región de la Araucanía N°52 Partido Radical Social Demócrata
+Jaime Quintana Leal IX Región de la Araucanía N°49 Partido Por la Democracia
+María Antonieta Saa Díaz RM Región Metropolitana N°17 Partido Por la Democracia
+Eugenio Tuma Zedan IX Región de la Araucanía N°51 Partido Por la Democracia
+Samuel Venegas Rubio V Región de Valparaíso N°15 Independientes","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5981-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5981-03","No record","Veto emmEnd"

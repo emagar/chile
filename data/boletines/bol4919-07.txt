@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 4919-07","Legislatura: 355
+Fecha de ingreso: martes 20 de marzo de 2007
+Estado: Segundo trámite constitucional .
+Numero de boletín: 4919-07
+Materia: Código Civil,Código Penal,Régimen De Visitas
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 22:35:30
+* * Hitos de tramitación * *
+"emmStart Hitos 4919-07","Fecha Sesión Etapa Sub-etapa Documento
+20 de Mar. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de Mar. de 2007 4ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+06 de Nov. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+13 de Nov. de 2007 100ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+31 de Jul. de 2008   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+31 de Jul. de 2008 56ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+05 de Ago. de 2008 41ª / 356 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4919-07","Fecha Etapa Informe Documento
+06 de Nov. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4919-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4919-07","Nombre Región Distrito Partido
+Ramón Barros Montero VI Región del Libertador Bernardo O' Higgins N°35 Unión Demócrata Independiente
+María Angélica Cristi Marfil RM Región Metropolitana N°24 Unión Demócrata Independiente
+Edmundo Eluchans Urenda V Región de Valparaíso N°15 Unión Demócrata Independiente
+Enrique Estay Peñaloza IX Región de la Araucanía N°49 Unión Demócrata Independiente
+Cristián Monckeberg Bruner RM Región Metropolitana N°23 Renovación Nacional
+Carlos Olivares Zepeda RM Región Metropolitana N°18 Partido Regionalista Independiente
+Darío Paya Mira RM Región Metropolitana N°28 Unión Demócrata Independiente
+Carlos Recondo Lavanderos X Región de los Lagos N°56 Unión Demócrata Independiente
+Marisol Turres Figueroa X Región de los Lagos N°57 Unión Demócrata Independiente
+Gonzalo Uriarte Herrera RM Región Metropolitana N°31 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4919-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+56   41 0 5 74 Aprobado Sala Ver detalle votación
+114 Votación General 8 0 0 5   Constitución Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4919-07","No record","Veto emmEnd"

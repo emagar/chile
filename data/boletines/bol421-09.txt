@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 421-09","Legislatura: 322
+Fecha de ingreso: miércoles 24 de julio de 1991
+Estado: Tramitación terminada (Ley Nº 19.171 - D.Oficial 23/10/1992)
+Numero de boletín: 421-09
+Materia: Ministerio De Obras Públicas,Ministerios
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 17:04:50
+* * Hitos de tramitación * *
+"emmStart Hitos 421-09","Fecha Sesión Etapa Sub-etapa Documento
+24 de Jul. de 1991   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+24 de Jul. de 1991 21ª / 322 Primer trámite constitucional / Senado Cuenta de proyecto
+17 de Dic. de 1991 27ª / 323 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+17 de Dic. de 1991 27ª / 323 Primer trámite constitucional / Senado Primer informe de comisión Ver
+19 de Dic. de 1991 29ª / 323 Primer trámite constitucional / Senado Discusión general Ver
+19 de Dic. de 1991 29ª / 323 Tramitación terminada / Aprobado en general y en particular. Ver
+23 de Dic. de 1991 29ª / 323 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+07 de Ene. de 1992 38ª / 323 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+20 de May. de 1992 19ª / 323 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+31 de May. de 1992   Segundo trámite constitucional / C. Diputados Primer informe de comisión
+20 de Ago. de 1992 20ª / 324 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+03 de Sep. de 1992 22ª / 324 Tercer trámite constitucional / Senado Informe de comisión Ver
+03 de Sep. de 1992 22ª / 324 Tercer trámite constitucional / Senado Cuenta informe de comisión
+06 de Oct. de 1992 1ª / 325 Tramitación terminada / Discusión particular. Se aprueban las modificaciones de la Cámara de Diputados. Ver
+08 de Oct. de 1992 1ª / 325 Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 421-09","Fecha Etapa Informe Documento
+31 de May. de 2001 Segundo trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+03 de Sep. de 1992 Tercer trámite constitucional Senado Informe de comisión de Obras Públicas Ver
+17 de Dic. de 1991 Primer trámite constitucional Senado Primer informe de comisión de Obras Públicas Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 421-09","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 421-09","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 421-09","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 421-09","No record","Veto emmEnd"

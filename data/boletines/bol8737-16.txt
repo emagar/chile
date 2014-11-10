@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 8737-16","Legislatura: 360
+Fecha de ingreso: martes 18 de diciembre de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8737-16
+Materia: Cámara De Diputados,Reglamento De La Cámara De Diputados
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 05:08:37
+* * Hitos de tramitación * *
+"emmStart Hitos 8737-16","Fecha Sesión Etapa Sub-etapa Documento
+18 de Dic. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+19 de Dic. de 2012 116ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Régimen Interno, Administración y Reglamento Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8737-16","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8737-16","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8737-16","Nombre Región Distrito Partido
+Cristián Campos Jara VIII Región del Bío Bío N°43 Partido Por la Democracia
+Juan Luis Castro González VI Región del Libertador Bernardo O' Higgins N°32 Partido Socialista
+Marcos Espinosa Monardes II Región de Antofagasta N°3 Partido Radical Social Demócrata
+Cristian Letelier Aguilar RM Región Metropolitana N°31 Independientes
+Andrea Molina Oliva V Región de Valparaíso N°10 Unión Demócrata Independiente
+Sergio Ojeda Uribe X Región de los Lagos N°55 Partido Demócrata Cristiano
+Leopoldo Pérez Lahsen RM Región Metropolitana N°29 Renovación Nacional
+Marcela Sabat Fernández RM Región Metropolitana N°21 Renovación Nacional
+David Sandoval Plaza XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Unión Demócrata Independiente
+Ernesto Silva Méndez RM Región Metropolitana N°23 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8737-16","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8737-16","No record","Veto emmEnd"

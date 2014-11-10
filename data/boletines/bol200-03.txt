@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 200-03","Legislatura: 321
+Fecha de ingreso: jueves 08 de noviembre de 1990
+Estado: Tramitación terminada (Ley Nº 19.024 - D.Oficial 31/12/1990)
+Numero de boletín: 200-03
+Materia: Exportaciones
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 07:09:44
+* * Hitos de tramitación * *
+"emmStart Hitos 200-03","Fecha Sesión Etapa Sub-etapa Documento
+08 de Nov. de 1990   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+08 de Nov. de 1990 11ª / 321 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+27 de Nov. de 1990   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+04 de Dic. de 1990 17ª / 321 Primer trámite constitucional / C. Diputados Discusión general Ver
+04 de Dic. de 1990   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+04 de Dic. de 1990 17ª / 321 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+11 de Dic. de 1990 22ª / 321 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a la Comisión de Economía, Fomento y Reconstrucción, y a la de Hacienda, en su caso.
+19 de Dic. de 1990   Segundo trámite constitucional / Senado Primer informe de comisión. y de Hacienda Unidas Ver
+20 de Dic. de 1990 28ª / 321 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+20 de Dic. de 1990 28ª / 321 Segundo trámite constitucional / Senado Discusión general Ver
+20 de Dic. de 1990   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+20 de Dic. de 1990 24ª / 321 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+24 de Dic. de 1990   Trámite finalización en Cámara de Origen / C. Diputados  ","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 200-03","Fecha Etapa Informe Documento
+19 de Dic. de 1990 Segundo trámite constitucional Senado Primer informe de comisión de Economía Ver
+27 de Nov. de 1990 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 200-03","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+08 de Nov. de 1990   Simple    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 200-03","Nombre Región Distrito Partido
+Ministerio de Economía, Fomento y Turism      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 200-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 200-03","No record","Veto emmEnd"

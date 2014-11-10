@@ -1,0 +1,31 @@
+* * Bill summary * *
+"emmStart Summary 7500-03","Legislatura: 358
+Fecha de ingreso: martes 01 de marzo de 2011
+Estado: Primer trámite constitucional .
+Numero de boletín: 7500-03
+Materia: Recurso De Amparo Económico
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 09-11-2014 04:51:36
+* * Hitos de tramitación * *
+"emmStart Hitos 7500-03","Fecha Sesión Etapa Sub-etapa Documento
+01 de Mar. de 2011   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+01 de Mar. de 2011 90ª / 358 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Economía
+07 de Mar. de 2013   Primer trámite constitucional / Senado Archivado La Comisión, de acuerdo con lo prescrito por el inciso segundo del artículo 36 bis del Reglamento, archivó este proyecto.
+08 de Abr. de 2014   Primer trámite constitucional / Senado Desarchivado Por acuerdo de Sala. Sesión 6 Ordinaria.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7500-03","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7500-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7500-03","Nombre
+Francisco Chahuán Chahuán","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7500-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7500-03","No record","Veto emmEnd"

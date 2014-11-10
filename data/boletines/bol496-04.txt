@@ -1,0 +1,39 @@
+* * Bill summary * *
+"emmStart Summary 496-04","Legislatura: 322
+Fecha de ingreso: martes 17 de septiembre de 1991
+Estado: Tramitación terminada (Ley Nº 19.258 - D.Oficial 04/11/1993)
+Numero de boletín: 496-04
+Materia: Monumentos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 18:07:39
+* * Hitos de tramitación * *
+"emmStart Hitos 496-04","Fecha Sesión Etapa Sub-etapa Documento
+17 de Sep. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+17 de Sep. de 1991 41ª / 322 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+04 de Ago. de 1992   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+01 de Sep. de 1992 34ª / 324 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+22 de Oct. de 1992 9ª / 325 Primer trámite constitucional / C. Diputados Discusión general Ver
+03 de Nov. de 1992 7ª / 325 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+01 de Sep. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+07 de Sep. de 1993 22ª / 326 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión. Queda para tabla.
+08 de Sep. de 1993 24ª / 326 Segundo trámite constitucional / Senado Discusión general Ver
+10 de Sep. de 1993   Tramitación terminada / Oficio Nº5036. Oficio a la Cámara de Diputados comunicándole la aprobación del proyecto, con modificaciones. Ver
+19 de Oct. de 1993 6ª / 327 Tramitación terminada / Cuenta de oficio de la CCDD comunicando aprobación de modificaciones. Se toma conocimiento y se manda archivar.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 496-04","Fecha Etapa Informe Documento
+01 de Sep. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+04 de Ago. de 1992 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 496-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 496-04","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 496-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 496-04","No record","Veto emmEnd"

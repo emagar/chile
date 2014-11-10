@@ -1,0 +1,58 @@
+* * Bill summary * *
+"emmStart Summary 3637-07","Legislatura: 351
+Fecha de ingreso: martes 17 de agosto de 2004
+Estado: Tramitación terminada (Ley Nº 19.976 - D.Oficial 23/10/2004)
+Numero de boletín: 3637-07
+Materia: Poder Judicial
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 04-11-2014 06:46:37
+* * Hitos de tramitación * *
+"emmStart Hitos 3637-07","Fecha Sesión Etapa Sub-etapa Documento
+17 de Ago. de 2004   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+17 de Ago. de 2004 21ª / 351 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento. Se remite el proyecto a la Corte Suprema.
+17 de Ago. de 2004   Primer trámite constitucional / Senado Oficio Nº L 131/04. Comunicación de la Comisión de Constitución, con la que solicita discutir el proyecto, en general y particular a la vez. Ver
+17 de Ago. de 2004 21ª / 351 Primer trámite constitucional / Senado A petición de la Comisión, Sala autoriza la discusión en general y particular de esta iniciativa
+17 de Ago. de 2004   Primer trámite constitucional / Senado Oficio Nº 24069 a la Corte Suprema Ver
+18 de Ago. de 2004   Primer trámite constitucional / Senado Primer informe de comisión Ver
+18 de Ago. de 2004 22ª / 351 Primer trámite constitucional / Senado Cuenta del Mensaje 298-351 que retira la urgencia Suma
+18 de Ago. de 2004 22ª / 351 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+31 de Ago. de 2004 24ª / 351 Primer trámite constitucional / Senado Cuenta oficio Nº 4898 de la Corte Suprema Ver
+31 de Ago. de 2004 24ª / 351 Primer trámite constitucional / Senado Discusión general Ver
+01 de Sep. de 2004   Primer trámite constitucional / Senado Nuevo primer informe de comisión Ver
+01 de Sep. de 2004 25ª / 351 Primer trámite constitucional / Senado Discusión general Ver
+01 de Sep. de 2004 25ª / 351 Primer trámite constitucional / Senado Cuenta nuevo primer informe
+01 de Sep. de 2004   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+02 de Sep. de 2004 37ª / 351 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver Ver
+07 de Sep. de 2004   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Sep. de 2004 41ª / 351 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Sep. de 2004 42ª / 351 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+14 de Sep. de 2004   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+14 de Sep. de 2004 29ª / 351 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+15 de Sep. de 2004   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+15 de Sep. de 2004   Trámite en Tribunal Constitucional / Senado Oficio Nº005-352. del ejecutivo, informa que no hará uso de la facultad del artículo 70 de la Constitución Política del Estado. Ver
+15 de Sep. de 2004 30ª / 351 Trámite en Tribunal Constitucional / Senado Cuenta del oficio de S.E el Presidente de la República en el que comunica que no hará uso de la facultad que le confiere el inciso primero del artículo 70 de la Carta Fundamental.
+15 de Sep. de 2004   Trámite en Tribunal Constitucional / Senado Oficio al Tribunal Constitucional Ver
+05 de Oct. de 2004 1ª / 352 Trámite en Tribunal Constitucional / Senado Cuenta oficio Nº 2128 del Tribunal Constitucional Ver
+05 de Oct. de 2004   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3637-07","Fecha Etapa Informe Documento
+07 de Sep. de 2004 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+01 de Sep. de 2004 Primer trámite constitucional Senado Nuevo primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+18 de Ago. de 2004 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3637-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+31 de Ago. de 2004   Suma 323-351  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3637-07","Nombre
+Ministerio de Justicia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3637-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+42   91 1 1 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3637-07","No record","Veto emmEnd"

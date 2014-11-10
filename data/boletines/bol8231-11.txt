@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 8231-11","Legislatura: 360
+Fecha de ingreso: jueves 12 de abril de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8231-11
+Materia: Código Sanitario,Audífonos,Fonoaudiólogos,Tecnólogos Médicos,Audiometrías,Prescripción De Aparatos Audiológicos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 23:01:17
+* * Hitos de tramitación * *
+"emmStart Hitos 8231-11","Fecha Sesión Etapa Sub-etapa Documento
+12 de Abr. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Abr. de 2012 15ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver
+05 de Jun. de 2012   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+20 de Jun. de 2012 45ª / 360 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+02 de Ago. de 2012 65ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8231-11","Fecha Etapa Informe Documento
+05 de Jun. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Salud Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8231-11","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8231-11","Nombre Región Distrito Partido
+Javier Macaya Danús VI Región del Libertador Bernardo O' Higgins N°34 Unión Demócrata Independiente
+Karla Rubilar Barahona RM Región Metropolitana N°17 Renovación Nacional
+Víctor Torres Jeldes V Región de Valparaíso N°15 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8231-11","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+102 Votación General 5 4 1 3   Salud Ver detalle votación
+65   70 2 4 1 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8231-11","No record","Veto emmEnd"

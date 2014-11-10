@@ -1,0 +1,55 @@
+* * Bill summary * *
+"emmStart Summary 117-04","Legislatura: 320
+Fecha de ingreso: miércoles 01 de agosto de 1990
+Estado: Tramitación terminada (Ley Nº 19.074 - D.Oficial 28/08/1991)
+Numero de boletín: 117-04
+Materia: Grados Y Títulos En Exilio,Exiliados
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 30-10-2014 18:09:58
+* * Hitos de tramitación * *
+"emmStart Hitos 117-04","Fecha Sesión Etapa Sub-etapa Documento
+01 de Ago. de 1990   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+01 de Ago. de 1990 20ª / 322 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+10 de Oct. de 1990   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+13 de Nov. de 1990   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+05 de Dic. de 1990 21ª / 321 Segundo trámite constitucional / Senado Cuenta de proyecto
+14 de Mar. de 1991   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+19 de Mar. de 1991 38ª / 321 Segundo trámite constitucional / Senado Discusión general Ver
+19 de Mar. de 1991 38ª / 321 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+23 de Mar. de 1991   Segundo trámite constitucional / Senado Boletín de indicaciones
+16 de Abr. de 1991 44ª / 321 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+16 de Abr. de 1991 44ª / 321 Segundo trámite constitucional / Senado Discusión particular Ver
+16 de Abr. de 1991 44ª / 321 Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen
+16 de Abr. de 1991   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+14 de May. de 1991 50ª / 321 Comisión Mixta por rechazo de modificaciones / Senado Cuenta oficio integrantes de Comisión Mixta
+14 de May. de 1991   Tramitación terminada / Oficio Nº1025. comunica aprobación con modificaciones a Cámara de origen Ver
+13 de Jun. de 1991   Comisión Mixta por rechazo de modificaciones / Senado Informe de Comisión Mixta Ver
+19 de Jun. de 1991 8ª / 322 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Oficio aprobación de informe de Comisión Mixta a C.de Origen
+19 de Jun. de 1991 8ª / 322 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Discusión informe de Comisión Mixta
+19 de Jun. de 1991 8ª / 322 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Cuenta oficio aprobación de informe de Comisión Mixta
+20 de Jun. de 1991 11ª / 322 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación de informe de Comisión Mixta Ver
+29 de Abr. de 2003   Trámite finalización en Cámara de Origen / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 348
+02 de Dic. de 2003   Trámite finalización en Cámara de Origen / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 350","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 117-04","Fecha Etapa Informe Documento
+13 de Jun. de 1991 Comisión Mixta por rechazo de modificaciones Senado Informe de Comisión Mixta de Educación, Cultura, Ciencia y Tecnología Ver
+16 de Abr. de 1991 Segundo trámite constitucional Senado Segundo informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+14 de Mar. de 1991 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+13 de Nov. de 1990 Primer trámite constitucional C.Diputados Segundo informe de comisión de Educación, Deportes y Recreación Ver
+10 de Oct. de 1990 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 117-04","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+01 de Ago. de 1990   Simple    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 117-04","Nombre Región Distrito Partido
+Ministerio de Educación      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 117-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 117-04","No record","Veto emmEnd"

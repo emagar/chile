@@ -1,0 +1,63 @@
+* * Bill summary * *
+"emmStart Summary 2753-03","Legislatura: 344
+Fecha de ingreso: miércoles 11 de julio de 2001
+Estado: Tramitación terminada (Ley Nº 20.116 - D.Oficial 24/08/2006)
+Numero de boletín: 2753-03
+Materia: Acuicultura
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 03-11-2014 10:05:57
+* * Hitos de tramitación * *
+"emmStart Hitos 2753-03","Fecha Sesión Etapa Sub-etapa Documento
+11 de Jul. de 2001   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+11 de Jul. de 2001 13ª / 344 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Intereses Marítimos, Pesca y Acuicultura
+21 de Sep. de 2001   Primer trámite constitucional / Senado Primer informe de comisión Ver
+03 de Oct. de 2001 4ª / 345 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+09 de Oct. de 2001 5ª / 345 Primer trámite constitucional / Senado Discusión general Ver
+10 de Oct. de 2001   Primer trámite constitucional / Senado Of. del los HH. Senadores señores Horvath, Martínez, Ruiz De Giorgio, Stange y Zaldívar, don Adolfo, con la que solicitan la autorización de la Sala para que la Com. discuta no sólo en general sino que también en particular el proyecto. Se accede.
+13 de Mar. de 2002   Primer trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 346
+29 de Jul. de 2003   Primer trámite constitucional / Senado Nuevo primer informe de comisión Ver
+29 de Jul. de 2003 15ª / 349 Primer trámite constitucional / Senado Cuenta nuevo primer informe
+27 de Ago. de 2003 29ª / 349 Primer trámite constitucional / Senado A indicación del Comité UDI, queda para segunda discusión. Ver
+02 de Sep. de 2003 30ª / 349 Primer trámite constitucional / Senado Discusión general. Aprobado en general y particular a la vez Por no haberse presentado indicaciones, se da por aprobado en particular. Ver
+12 de Nov. de 2003   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+13 de Nov. de 2003 20ª / 350 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Pesca, Acuicultura e Intereses Marítimos Ver
+23 de Jun. de 2004   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de Jul. de 2004 13ª / 351 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+19 de Ago. de 2004 34ª / 351 Segundo trámite constitucional / C. Diputados Discusión general. Aprobado en general Pasa a Comisión de Pesca, Acuicultura e Intereses Marítimos. Ver Ver
+11 de May. de 2006 25ª / 354 Segundo trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+11 de May. de 2006 25ª / 354 Segundo trámite constitucional / C. Diputados Discusión particular Ver Ver
+11 de May. de 2006   Segundo trámite constitucional / C. Diputados Segundo informe de comisión Ver
+11 de May. de 2006   Tercer trámite constitucional / Senado Oficio Nº, que comunica aprobación de modificaciones Ver
+11 de May. de 2006   Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver
+16 de May. de 2006 16ª / 354 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora. Pasa a Comisión de Intereses Marítimos, Pesca y Acuicultura
+16 de Jun. de 2006   Tercer trámite constitucional / Senado Informe de comisión Ver
+21 de Jun. de 2006 27ª / 354 Tercer trámite constitucional / Senado Cuenta informe de comisión
+21 de Jun. de 2006 27ª / 354 Tercer trámite constitucional / Senado Discusión única
+21 de Jun. de 2006   Tercer trámite constitucional / Senado Oficio Nº 27248, que comunica aprobación de modificaciones Ver
+22 de Jun. de 2006 42ª / 354 Tercer trámite constitucional / Senado Cuenta oficio Nº 27248, que comunica aprobación de modificaciones
+22 de Jun. de 2006   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2753-03","Fecha Etapa Informe Documento
+16 de Jun. de 2006 Tercer trámite constitucional Senado Informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver
+11 de May. de 2006 Segundo trámite constitucional C.Diputados Segundo informe de comisión de Pesca, Acuicultura e Intereses Marítimos Ver
+23 de Jun. de 2004 Segundo trámite constitucional C.Diputados Primer informe de comisión de Pesca, Acuicultura e Intereses Marítimos Ver
+29 de Jul. de 2003 Primer trámite constitucional Senado Nuevo primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver
+21 de Sep. de 2001 Primer trámite constitucional Senado Primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2753-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2753-03","Nombre
+Antonio Horvath Kiss
+José Ruiz De Giorgio","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2753-03","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+34   52 1 1 0 Aprobado Sala Ver detalle votación
+25 Texto contenido en el segundo informe. 76 0 0 2 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2753-03","No record","Veto emmEnd"

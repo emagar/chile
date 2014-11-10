@@ -1,0 +1,48 @@
+* * Bill summary * *
+"emmStart Summary 863-06","Legislatura: 325
+Fecha de ingreso: miércoles 11 de noviembre de 1992
+Estado: Tramitación terminada (Ley Nº 19.194 - D.Oficial 09/01/1993)
+Numero de boletín: 863-06
+Materia: Gobierno Y Administración Regional
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 23:58:24
+* * Hitos de tramitación * *
+"emmStart Hitos 863-06","Fecha Sesión Etapa Sub-etapa Documento
+11 de Nov. de 1992 18ª / 325 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+11 de Nov. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Nov. de 1992   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+12 de Nov. de 1992   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de Nov. de 1992   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+19 de Nov. de 1992 12ª / 325 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización y a Comisión de Hacienda
+24 de Nov. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+25 de Nov. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+26 de Nov. de 1992 14ª / 325 Segundo trámite constitucional / Senado Discusión general Ver
+26 de Nov. de 1992 14ª / 325 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+30 de Nov. de 1992   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+09 de Dic. de 1992 27ª / 325 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Se designa a los miembros de la Comisión de Gobierno, Descentralización y Regionalización para que integren la Comisión Mixta correspondiente.
+10 de Dic. de 1992   Comisión Mixta por rechazo de modificaciones / Senado Informe de Comisión Mixta Ver
+15 de Dic. de 1992 17ª / 325 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Discusión informe de Comisión Mixta
+15 de Dic. de 1992 17ª / 325 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Cuenta oficio aprobación de informe de Comisión Mixta","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 863-06","Fecha Etapa Informe Documento
+10 de Dic. de 1992 Comisión Mixta por rechazo de modificaciones Senado Informe de Comisión Mixta de Gobierno, Descentralización y Regionalización Ver
+25 de Nov. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+24 de Nov. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver
+18 de Nov. de 1992 Primer trámite constitucional C.Diputados Segundo informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver
+12 de Nov. de 1992 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+12 de Nov. de 1992 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 863-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+11 de Nov. de 1992   Suma    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 863-06","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 863-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 863-06","No record","Veto emmEnd"

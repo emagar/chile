@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 8307-15","Legislatura: 360
+Fecha de ingreso: jueves 17 de mayo de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8307-15
+Materia: Caminos De Tierra Y Ripio,Taxis De Pasajeros,Modelos De Vehículos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 23:56:17
+* * Hitos de tramitación * *
+"emmStart Hitos 8307-15","Fecha Sesión Etapa Sub-etapa Documento
+17 de May. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+17 de May. de 2012 30ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+12 de Oct. de 2012   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+16 de Oct. de 2012 90ª / 360 Primer trámite constitucional / C. Diputados La Sala acuerda trasladar a la sesión del jueves 18 el proyecto, quedando en el último lugar de la Tabla Ver
+16 de Oct. de 2012 90ª / 360 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+30 de Oct. de 2012 93ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 328-360 que hace presente la urgencia Suma Ver
+31 de Oct. de 2012 94ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 335-360 que retira la urgencia Suma Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8307-15","Fecha Etapa Informe Documento
+12 de Oct. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8307-15","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+31 de Oct. de 2012 31 de Oct. de 2012 Suma 335-360 335-360","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8307-15","Nombre Región Distrito Partido
+Germán Becker Alvear IX Región de la Araucanía N°50 Renovación Nacional
+Mario Bertolino Rendic IV Región de Coquimbo N°7 Renovación Nacional
+José Manuel Edwards Silva IX Región de la Araucanía N°51 Renovación Nacional
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Joaquín Godoy Ibáñez V Región de Valparaíso N°13 Renovación Nacional
+Rosauro Martínez Labbé VIII Región del Bío Bío N°41 Renovación Nacional
+Gaspar Rivas Sánchez V Región de Valparaíso N°11 Renovación Nacional
+Alejandro Santana Tirachini X Región de los Lagos N°58 Renovación Nacional
+Frank Sauerbaum Muñoz VIII Región del Bío Bío N°42 Renovación Nacional
+Germán Verdugo Soto VII Región del Maule N°37 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8307-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8307-15","No record","Veto emmEnd"

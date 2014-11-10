@@ -1,0 +1,70 @@
+* * Bill summary * *
+"emmStart Summary 7973-07","Legislatura: 359
+Fecha de ingreso: martes 04 de octubre de 2011
+Estado: Tramitación terminada (Ley Nº 20.577 - D.Oficial 08/02/2012)
+Numero de boletín: 7973-07
+Materia: Comprobación Judicial De Muerte,Muerte Presunta
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 13:56:38
+* * Hitos de tramitación * *
+"emmStart Hitos 7973-07","Fecha Sesión Etapa Sub-etapa Documento
+04 de Oct. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Oct. de 2011 89ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia. Se remite el proyecto a la Corte Suprema. Ver
+04 de Oct. de 2011   Primer trámite constitucional / C. Diputados Oficio N°9737 a la Corte Suprema Ver
+04 de Oct. de 2011 90ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 416-359 que hace presente la urgencia Suma Ver
+05 de Oct. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Oct. de 2011 94ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+12 de Oct. de 2011 95ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+12 de Oct. de 2011   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+18 de Oct. de 2011 63ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 424-359 que retira y hace presente la urgencia Suma
+20 de Oct. de 2011 101ª / 359 Segundo trámite constitucional / Senado Cuenta en Cámara de Diputados del oficio Nº 160-2011 de la Corte Suprema Ver
+02 de Nov. de 2011 65ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 435-359 que retira y hace presente la urgencia Suma
+16 de Nov. de 2011 69ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 450-359 que retira y hace presente la urgencia Suma
+29 de Nov. de 2011 76ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 470-359 que retira y hace presente la urgencia Suma
+14 de Dic. de 2011 81ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 495-359 que retira y hace presente la urgencia Suma
+03 de Ene. de 2012 85ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 517-359 que retira y hace presente la urgencia Discusión inmediata
+10 de Ene. de 2012   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+10 de Ene. de 2012 87ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 535-359 que retira y hace presente la urgencia Discusión inmediata
+11 de Ene. de 2012 89ª / 359 Segundo trámite constitucional / Senado Discusión general Ver
+11 de Ene. de 2012   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+12 de Ene. de 2012 132ª / 359 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+17 de Ene. de 2012 133ª / 359 Tercer trámite constitucional / C. Diputados Cuenta del Mensaje 559-359 que hace presente la urgencia Discusión inmediata Ver
+18 de Ene. de 2012 134ª / 359 Tercer trámite constitucional / C. Diputados Discusión única Ver
+18 de Ene. de 2012   Tercer trámite constitucional / C. Diputados Oficio N° 9930, que comunica aprobacion de modificaciones Ver
+18 de Ene. de 2012   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo. Oficio de consulta para ejercer facultad de veto Ver
+19 de Ene. de 2012 136ª / 359 Tercer trámite constitucional / C. Diputados Cuenta Oficio N°567-359. Oficio de S. E. el Presidente de la República por el cual comunica que ha resuelto no hacer uso de la facultad que le confiere el inciso primero del artículo 73 de la Constitución Política de la República respecto del proyecto. Ver Ver
+19 de Ene. de 2012   Tercer trámite constitucional / C. Diputados Oficio N°9938 al Tribunal Constitucional Ver
+30 de Ene. de 2012   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+31 de Ene. de 2012 92ª / 359 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 9930, que comunica aprobacion de modificaciones Ver
+06 de Mar. de 2012 140ª / 359 Tramitación terminada / Cuenta oficio Nº 7133 del Tribunal Constitucional Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7973-07","Fecha Etapa Informe Documento
+10 de Ene. de 2012 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+11 de Oct. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7973-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+17 de Ene. de 2012   Discusión inmediata 559-359  
+10 de Ene. de 2012   Discusión inmediata 535-359  
+03 de Ene. de 2012 10 de Ene. de 2012 Discusión inmediata 517-359 535-359
+14 de Dic. de 2011 02 de Ene. de 2012 Suma 495-359 517-359
+29 de Nov. de 2011 14 de Dic. de 2011 Suma 470-359 495-359
+16 de Nov. de 2011 29 de Nov. de 2011 Suma 450-359 470-359
+02 de Nov. de 2011 16 de Nov. de 2011 Suma 435-359 450-359
+18 de Oct. de 2011 02 de Nov. de 2011 Suma 424-359 435-359
+04 de Oct. de 2011 18 de Oct. de 2011 Suma 416-359 424-359","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7973-07","Nombre Región Distrito Partido
+Ministerio de Justicia      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7973-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+95   96 0 0 24 Aprobado Sala Ver detalle votación
+134   92 0 0 28 Aprobado Sala Ver detalle votación
+95   92 0 0 28 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7973-07","No record","Veto emmEnd"

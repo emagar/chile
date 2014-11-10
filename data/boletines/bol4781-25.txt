@@ -1,0 +1,34 @@
+* * Bill summary * *
+"emmStart Summary 4781-25","Legislatura: 354
+Fecha de ingreso: martes 02 de enero de 2007
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 4781-25
+Materia: Tráfico De Drogas
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 08:26:25
+* * Hitos de tramitación * *
+"emmStart Hitos 4781-25","Fecha Sesión Etapa Sub-etapa Documento
+02 de Ene. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Ene. de 2007 112ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión Especial de Seguridad Ciudadana y Drogas Ver
+29 de Ago. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+04 de Sep. de 2007 72ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+30 de Jul. de 2008 55ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4781-25","Fecha Etapa Informe Documento
+29 de Ago. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión Especial de Seguridad Ciudadana y Drogas Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4781-25","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4781-25","Nombre Región Distrito Partido
+Joaquín Godoy Ibáñez V Región de Valparaíso N°13 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4781-25","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+55   1 80 2 37 Rechazado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4781-25","No record","Veto emmEnd"

@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 1436-07","Legislatura: 330
+Fecha de ingreso: miércoles 16 de noviembre de 1994
+Estado: Archivado .
+Numero de boletín: 1436-07
+Materia: Deuda Previsional
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 09:04:56
+* * Hitos de tramitación * *
+"emmStart Hitos 1436-07","Fecha Sesión Etapa Sub-etapa Documento
+16 de Nov. de 1994   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+16 de Nov. de 1994 17ª / 330 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+21 de Jun. de 1995   Primer trámite constitucional / Senado Primer informe de comisión Ver
+21 de Jun. de 1995 9ª / 331 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+05 de Jul. de 1995 12ª / 331 Primer trámite constitucional / Senado Discusión general Ver
+05 de Jul. de 1995   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+11 de Jul. de 1995 16ª / 331 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+25 de Mar. de 1998 5ª / 337 Segundo trámite constitucional / C. Diputados Com.de Constitución propone archivo de PL Se oficia al Senado. Ver
+05 de Ago. de 1998   Segundo trámite constitucional / C. Diputados Senado rechaza archivo de proyecto A petición del Comité de Renovación Nacional del Senado, la Sala rechaza el archivo solicitado.
+21 de Ago. de 2002   Segundo trámite constitucional / C. Diputados Oficio al Senado, solicita acuerdo para archivo de proyecto Ver
+21 de Ago. de 2002 23ª / 347 Segundo trámite constitucional / C. Diputados Se solicita su archivo Cuenta en Senado de Oficio de la Cámara, solicita acuerdo para archivar el proyecto. Ver
+03 de Sep. de 2002 36ª / 347 Segundo trámite constitucional / C. Diputados Cuenta en Cámara de Diputados de Oficio del Senado, comunica que accede a archivo solicitado Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1436-07","Fecha Etapa Informe Documento
+21 de Jun. de 1995 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1436-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1436-07","Nombre
+Julio Lagos Cosgrove","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1436-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1436-07","No record","Veto emmEnd"

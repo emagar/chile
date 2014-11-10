@@ -1,0 +1,70 @@
+* * Bill summary * *
+"emmStart Summary 2324-07","Legislatura: 339
+Fecha de ingreso: martes 20 de abril de 1999
+Estado: Archivado .
+Numero de boletín: 2324-07
+Materia: Seguridad Interior Del Estado
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 23:17:29
+* * Hitos de tramitación * *
+"emmStart Hitos 2324-07","Fecha Sesión Etapa Sub-etapa Documento
+20 de Abr. de 1999   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+21 de Abr. de 1999 56ª / 339 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+21 de Abr. de 1999 56ª / 339 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+21 de Abr. de 1999   Primer trámite constitucional / C. Diputados Oficio de Consulta a la Corte Suprema Ver
+05 de May. de 1999   Primer trámite constitucional / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 339
+02 de Jun. de 1999 3ª / 340 Primer trámite constitucional / C. Diputados Cuenta oficio 0531 de la Corte Suprema Ver Ver
+02 de Jun. de 1999 3ª / 340 Primer trámite constitucional / C. Diputados Cuenta oficio 0531 de la Corte Suprema Ver Ver
+21 de Jul. de 1999   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de Ago. de 1999 23ª / 340 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+19 de Ago. de 1999 33ª / 340 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+14 de Sep. de 1999   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+16 de Sep. de 1999 42ª / 340 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+05 de Oct. de 1999   Primer trámite constitucional / C. Diputados S.E.El Presidente de la Republica incluye el proyecto en la Convocatoria Extraodinaria 341
+06 de Oct. de 1999 3ª / 341 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver
+06 de Oct. de 1999 3ª / 341 Primer trámite constitucional / C. Diputados Cuenta oficio 1.338 de la Corte Suprema Ver Ver
+06 de Oct. de 1999   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+13 de Oct. de 1999 4ª / 341 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+16 de Oct. de 1999   Segundo trámite constitucional / Senado Oficio Nº15102 Consulta a la Corte Suprema Ver
+04 de Nov. de 1999 8ª / 341 Segundo trámite constitucional / Senado Cuenta oficio 1485/1999 de la Corte Suprema Ver
+13 de Mar. de 2002   Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 346
+05 de Abr. de 2002   Segundo trámite constitucional / Senado Oficio Nº19631. Oficio a la Cámara de Diputados solicitando acuerdo para el archivo del proyecto. Ver
+09 de Abr. de 2002 9ª / 346 Segundo trámite constitucional / Senado Cuenta en Cámara de Diputados de Oficio del Senado, solicita archivo de proyecto
+09 de Abr. de 2002   Segundo trámite constitucional / Senado Oficio al Senado, comunica que accede a archivo solicitado Ver
+10 de Abr. de 2002 8ª / 346 Archivado / Cuenta del oficio de la Cámara de Diputados en que comunica que ha accedido a la solicitud de archivo formulada por el Senado. Se archiva","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2324-07","Fecha Etapa Informe Documento
+14 de Sep. de 1999 Primer trámite constitucional C.Diputados Segundo informe de comisión de Constitución, Legislación y Justicia Ver
+21 de Jul. de 1999 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2324-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+15 de Dic. de 1999 04 de Ene. de 2000 Suma 262-41 277-341
+16 de Nov. de 1999 01 de Dic. de 1999 Suma 215-341 236-341
+04 de Nov. de 1999 16 de Nov. de 1999 Suma 111-341 215-341
+05 de Oct. de 1999   Simple 24-341  
+14 de Sep. de 1999 04 de Nov. de 1999 Suma 248-340 111-341
+17 de Ago. de 1999 31 de Ago. de 1999 Suma 180-340 205-340
+03 de Ago. de 1999   Simple 55-340  
+03 de Ago. de 1999 17 de Ago. de 1999 Simple 137-340 180-340","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2324-07","Nombre Región Distrito Partido
+Isabel Allende Bussi RM Región Metropolitana N°29 Partido Socialista
+Gabriel Ascencio Mansilla X Región de los Lagos N°58 Partido Demócrata Cristiano
+Juan Bustos Ramírez V Región de Valparaíso N°12 Partido Socialista
+Pía Guzmán Mena RM Región Metropolitana N°23 Renovación Nacional
+Francisco Huenchumilla Jaramillo IX Región de la Araucanía N°50 Partido Demócrata Cristiano
+Víctor Jeame Barrueto VIII Región del Bío Bío N°43 Partido Por la Democracia
+Antonio Leal Labrín III Región de Atacama N°5 Partido Por la Democracia
+Osvaldo Palma Flores VII Región del Maule N°39 Renovación Nacional
+Andrés Palma Irarrázabal RM Región Metropolitana N°25 Partido Demócrata Cristiano
+Exequiel Silva Ortíz X Región de los Lagos N°53 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2324-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2324-07","No record","Veto emmEnd"

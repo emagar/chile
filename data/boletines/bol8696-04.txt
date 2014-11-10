@@ -1,0 +1,65 @@
+* * Bill summary * *
+"emmStart Summary 8696-04","Legislatura: 360
+Fecha de ingreso: lunes 26 de noviembre de 2012
+Estado: Tramitación terminada (Ley N° 20.668 - D.Oficial 25/04/2013)
+Numero de boletín: 8696-04
+Materia: Sostenedores De Establecimientos Educacionales
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 04:38:11
+* * Hitos de tramitación * *
+"emmStart Hitos 8696-04","Fecha Sesión Etapa Sub-etapa Documento
+26 de Nov. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+26 de Nov. de 2012 104ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Deportes y Recreación Ver
+29 de Nov. de 2012   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Dic. de 2012 110ª / 360 Primer trámite constitucional / C. Diputados Cuenta del primer informe de la Comisión de Educación. Ver
+12 de Dic. de 2012 111ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 396-360 que hace presente la urgencia Suma Ver
+19 de Dic. de 2012 116ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+19 de Dic. de 2012   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+19 de Dic. de 2012 89ª / 360 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+08 de Ene. de 2013 92ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 430-360 que retira y hace presente la urgencia Discusión inmediata
+09 de Ene. de 2013   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+09 de Ene. de 2013 93ª / 360 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+15 de Ene. de 2013 94ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 438-360 que retira la urgencia Discusión inmediata Ver
+15 de Ene. de 2013 94ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 444-360 que hace presente la urgencia Discusión inmediata Ver
+15 de Ene. de 2013 94ª / 360 Segundo trámite constitucional / Senado Discusión general Ver
+15 de Ene. de 2013   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+16 de Ene. de 2013 127ª / 360 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+16 de Ene. de 2013   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+16 de Ene. de 2013 128ª / 360 Trámite de aprobacion presidencial / C. Diputados Oficio N°451-360. Oficio de S. E. el Presidente de la República por el cual comunica que ha resuelto no hacer uso de la facultad que le confiere el inciso primero del artículo 73 de la Constitución Política de la República respecto del proyecto. Ver Ver
+16 de Ene. de 2013   Trámite en Tribunal Constitucional / C. Diputados Oficio al Tribunal Constitucional Ver
+09 de Abr. de 2013 11ª / 361 Trámite en Tribunal Constitucional / C. Diputados Cuenta oficio N° 8472 del Tribunal Constitucional Ver Ver
+09 de Abr. de 2013   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8696-04","Fecha Etapa Informe Documento
+09 de Ene. de 2013 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+29 de Nov. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8696-04","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+15 de Ene. de 2013   Discusión inmediata 444-360  
+08 de Ene. de 2013 09 de Ene. de 2013 Discusión inmediata 430-360 438-360
+12 de Dic. de 2012 08 de Ene. de 2013 Suma 396-360 430-360
+27 de Nov. de 2012   Suma 368-360  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8696-04","Nombre Región Distrito Partido
+Ramón Barros Montero VI Región del Libertador Bernardo O' Higgins N°35 Unión Demócrata Independiente
+Germán Becker Alvear IX Región de la Araucanía N°50 Renovación Nacional
+Rodrigo González Torres V Región de Valparaíso N°14 Partido Por la Democracia
+Romilio Gutiérrez Pino VII Región del Maule N°39 Unión Demócrata Independiente
+María José Hoffmann Opazo V Región de Valparaíso N°15 Unión Demócrata Independiente
+Patricio Melero Abaroa RM Región Metropolitana N°16 Unión Demócrata Independiente
+Manuel Monsalve Benavides VIII Región del Bío Bío N°46 Partido Socialista
+Celso Morales Muñoz VII Región del Maule N°36 Unión Demócrata Independiente
+Mario Venegas Cárdenas IX Región de la Araucanía N°48 Partido Demócrata Cristiano
+Germán Verdugo Soto VII Región del Maule N°37 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8696-04","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+116   78 11 3 28 Aprobado Sala Ver detalle votación
+105 Votación General 7 0 0 6   Educación Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8696-04","No record","Veto emmEnd"

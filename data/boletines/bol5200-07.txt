@@ -1,0 +1,61 @@
+* * Bill summary * *
+"emmStart Summary 5200-07","Legislatura: 355
+Fecha de ingreso: martes 17 de julio de 2007
+Estado: Segundo trámite constitucional .
+Numero de boletín: 5200-07
+Materia: Maltrato Habitual,Violencia Intrafamiliar,Ministerio Público
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 01:47:20
+* * Hitos de tramitación * *
+"emmStart Hitos 5200-07","Fecha Sesión Etapa Sub-etapa Documento
+17 de Jul. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+17 de Jul. de 2007 52ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+31 de Jul. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+31 de Jul. de 2007 57ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 507-355 que hace presente la urgencia Simple Ver
+07 de Ago. de 2007 60ª / 355 Primer trámite constitucional / C. Diputados Primer informe de Comisión de Constitución. EN TABLA. Ver
+07 de Ago. de 2007 60ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de Ago. de 2007 64ª / 355 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+29 de Ago. de 2007   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+04 de Sep. de 2007 72ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 641-355 que retira y hace presente la urgencia Simple Ver
+04 de Sep. de 2007 72ª / 355 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+02 de Oct. de 2007 79ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 725-355 que retira la urgencia Simple Ver
+02 de Oct. de 2007 79ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 792-355 que hace presente la urgencia Simple Ver
+03 de Oct. de 2007 81ª / 355 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver
+03 de Oct. de 2007   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+09 de Oct. de 2007 56ª / 355 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento Ver
+13 de Nov. de 2007 64ª / 355 Segundo trámite constitucional / Senado Cuenta del Mensaje 1024-355 que retira y hace presente la urgencia Simple
+20 de Nov. de 2007   Segundo trámite constitucional / Senado   Ver
+18 de Dic. de 2007 76ª / 355 Segundo trámite constitucional / Senado Cuenta del Mensaje 1222-355 que retira y hace presente la urgencia Simple
+02 de Ene. de 2008 78ª / 355 Segundo trámite constitucional / Senado Cuenta del Mensaje 1274-355 que retira la urgencia Simple
+12 de Nov. de 2008 68ª / 356 Segundo trámite constitucional / Senado Cuenta de una comunicación de la Comisión de Constitución, Legislación, Justicia y Reglamento, mediante la cual solicita autorización para discutir la iniciativa también en particular durante el primer informe. Se accede a lo solicitado.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5200-07","Fecha Etapa Informe Documento
+29 de Ago. de 2007 Primer trámite constitucional C.Diputados Segundo informe de comisión de Constitución, Legislación y Justicia Ver
+31 de Jul. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5200-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+18 de Dic. de 2007 02 de Ene. de 2008 Simple 1222-355 1274-355
+13 de Nov. de 2007 17 de Dic. de 2007 Simple 1024-355 1222-355
+02 de Oct. de 2007 12 de Nov. de 2007 Simple 792-355 1024-355
+31 de Jul. de 2007 04 de Sep. de 2007 Simple 507-355 641-355","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5200-07","Nombre Región Distrito Partido
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Juan Bustos Ramírez V Región de Valparaíso N°12 Partido Socialista
+Guillermo Ceroni Fuentes VII Región del Maule N°40 Partido Por la Democracia
+Roberto León Ramírez VII Región del Maule N°36 Partido Demócrata Cristiano
+Adriana Muñoz D'Albora IV Región de Coquimbo N°9 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5200-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+81 2°, letra a). 109 0 0 11 Aprobado Sala Ver detalle votación
+64 Petición para omitir el segundo informe y votar las indicaciones en Sala. 57 32 0 31 Rechazado Sala Ver detalle votación
+64   89 0 0 31 Aprobado Sala Ver detalle votación
+81 2°, letra b). 105 0 0 15 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5200-07","No record","Veto emmEnd"

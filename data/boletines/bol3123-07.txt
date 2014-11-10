@@ -1,0 +1,56 @@
+* * Bill summary * *
+"emmStart Summary 3123-07","Legislatura: 348
+Fecha de ingreso: martes 12 de noviembre de 2002
+Estado: Tramitación terminada (Ley Nº 19.906 - D.Oficial 13/11/2003)
+Numero de boletín: 3123-07
+Materia: Terrorismo
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 23:25:07
+* * Hitos de tramitación * *
+"emmStart Hitos 3123-07","Fecha Sesión Etapa Sub-etapa Documento
+12 de Nov. de 2002   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Nov. de 2002 18ª / 348 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+03 de Mar. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+04 de Mar. de 2003 50ª / 348 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+11 de Mar. de 2003 54ª / 348 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+11 de Mar. de 2003   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+12 de Mar. de 2003 32ª / 348 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+06 de May. de 2003   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+06 de May. de 2003 46ª / 348 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+07 de May. de 2003 47ª / 348 Segundo trámite constitucional / Senado Discusión general Ver
+07 de May. de 2003   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+08 de May. de 2003 74ª / 348 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+14 de May. de 2003 77ª / 348 Tercer trámite constitucional / C. Diputados Discusión única Ver
+14 de May. de 2003   Tercer trámite constitucional / C. Diputados Oficio rechazo modificaciones a Cámara Revisora Ver
+20 de May. de 2003 55ª / 348 Comisión Mixta por rechazo de modificaciones / Senado Cuenta oficio rechazo a modificaciones
+26 de Ago. de 2003   Comisión Mixta por rechazo de modificaciones / Senado Informe de Comisión Mixta Ver
+27 de Ago. de 2003 33ª / 349 Disc. informe C.Mixta por rechazo de modific. en C. Origen / C. Diputados Cuenta informe Comisión Mixta Ver
+03 de Sep. de 2003 36ª / 349 Disc. informe C.Mixta por rechazo de modific. en C. Origen / C. Diputados Discusión informe de Comisión Mixta Ver
+05 de Sep. de 2003   Disc. informe C.Mixta por rechazo de modific. en C. Origen / C. Diputados Oficio aprobación de informe de Comisión Mixta a C. Revisora Ver
+10 de Sep. de 2003 34ª / 349 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Discusión informe de Comisión Mixta
+10 de Sep. de 2003   Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Oficio aprobación de informe de Comisión Mixta a C.de Origen Ver
+11 de Sep. de 2003 40ª / 349 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación de informe de Comisión Mixta Ver
+11 de Sep. de 2003   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3123-07","Fecha Etapa Informe Documento
+26 de Ago. de 2003 Comisión Mixta por rechazo de modificaciones Senado Informe de Comisión Mixta de Constitución, Legislación, Justicia y Reglamento Ver
+06 de May. de 2003 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+03 de Mar. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3123-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3123-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3123-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+77   0 82 0 1   Sala Ver detalle votación
+54 Indicación señor Paya y otros Indicación señora Guzmán y otros 84 0 0 0   Sala Ver detalle votación
+54   87 0 0 1   Sala Ver detalle votación
+36   88 0 0 1   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3123-07","No record","Veto emmEnd"

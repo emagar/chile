@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 2395-19","Legislatura: 340
+Fecha de ingreso: martes 07 de septiembre de 1999
+Estado: Archivado .
+Numero de boletín: 2395-19
+Materia: Internet
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 00:03:45
+* * Hitos de tramitación * *
+"emmStart Hitos 2395-19","Fecha Sesión Etapa Sub-etapa Documento
+07 de Sep. de 1999   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+07 de Sep. de 1999 37ª / 340 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Ciencias y Tecnología Ver
+11 de Abr. de 2002 11ª / 346 Primer trámite constitucional / C. Diputados Se solicita su archivo Cuenta Oficio de la Comisión de Ciencias y Tecnología, solicita archivo del proyecto. Ver
+16 de Jul. de 2002 17ª / 347 Primer trámite constitucional / C. Diputados Cuenta Oficio de la Comisión de Ciencia y Tecnología. Reitera la petición de archivo. Queda en Tabla. Ver
+19 de Mar. de 2003 59ª / 348 Archivado / Cuenta Oficio de la Comisión de Ciencia y Tecnología. Solicita el archivo del proyecto, por existir otro proyecto que legisla de mejor forma sobre la misma materia. Queda en Tabla. Se accede al archivo solicitado.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2395-19","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2395-19","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+06 de Nov. de 2001   Simple 117-345  
+14 de Ago. de 2001   Simple 160-344  
+10 de Jul. de 2001 16 de Ago. de 2001 Simple 94-344 160-344","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2395-19","Nombre Región Distrito Partido
+Guillermo Ceroni Fuentes VII Región del Maule N°40 Partido Por la Democracia
+Patricio Cornejo Vidaurrázaga V Región de Valparaíso N°11 Partido Demócrata Cristiano
+Carlos Abel Jarpa Wevar VIII Región del Bío Bío N°41 Partido Radical Social Demócrata
+Enrique Krauss Rusque RM Región Metropolitana N°22 Partido Demócrata Cristiano
+Juan Núñez Valenzuela VI Región del Libertador Bernardo O' Higgins N°34 Partido Demócrata Cristiano
+Carlos Olivares Zepeda RM Región Metropolitana N°18 Partido Demócrata Cristiano
+Víctor Reyes Alvarado X Región de los Lagos N°56 Partido Demócrata Cristiano
+Sergio Velasco De la Cerda V Región de Valparaíso N°15 Partido Demócrata Cristiano
+Carlos Vilches Guzmán III Región de Atacama N°5 Renovación Nacional
+Edmundo Villouta Concha IX Región de la Araucanía N°48 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2395-19","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2395-19","No record","Veto emmEnd"

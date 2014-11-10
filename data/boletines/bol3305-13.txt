@@ -1,0 +1,35 @@
+* * Bill summary * *
+"emmStart Summary 3305-13","Legislatura: 349
+Fecha de ingreso: jueves 31 de julio de 2003
+Estado: Primer trámite constitucional .
+Numero de boletín: 3305-13
+Materia: Creditos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 01:20:40
+* * Hitos de tramitación * *
+"emmStart Hitos 3305-13","Fecha Sesión Etapa Sub-etapa Documento
+31 de Jul. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+31 de Jul. de 2003 23ª / 349 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3305-13","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3305-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+31 de Jul. de 2003   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3305-13","Nombre Región Distrito Partido
+Julio Dittborn Cordúa RM Región Metropolitana N°23 Unión Demócrata Independiente
+Andrés Egaña Respaldiza VIII Región del Bío Bío N°44 Unión Demócrata Independiente
+Iván Norambuena Farías VIII Región del Bío Bío N°46 Unión Demócrata Independiente
+Víctor Pérez Varela VIII Región del Bío Bío N°47 Unión Demócrata Independiente
+Jorge Ulloa Aguillón VIII Región del Bío Bío N°43 Unión Demócrata Independiente
+Gonzalo Uriarte Herrera RM Región Metropolitana N°31 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3305-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3305-13","No record","Veto emmEnd"

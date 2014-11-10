@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 1912-10","Legislatura: 333
+Fecha de ingreso: miércoles 28 de agosto de 1996
+Estado: Tramitación terminada (D.S. Nº 1753 - D.Oficial 12/12/1997)
+Numero de boletín: 1912-10
+Materia: Acuerdos Internacionales
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 16:15:48
+* * Hitos de tramitación * *
+"emmStart Hitos 1912-10","Fecha Sesión Etapa Sub-etapa Documento
+28 de Ago. de 1996   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+28 de Ago. de 1996 30ª / 333 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+03 de Sep. de 1996   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+10 de Sep. de 1996 35ª / 333 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+06 de Nov. de 1996   Primer trámite constitucional / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 334
+14 de Nov. de 1996 17ª / 334 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+14 de Nov. de 1996   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+19 de Nov. de 1996 9ª / 334 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+09 de Jun. de 1997   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+11 de Jun. de 1997 4ª / 335 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+01 de Jul. de 1997 10ª / 335 Segundo trámite constitucional / Senado Discusión general Ver
+01 de Jul. de 1997   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+03 de Jul. de 1997 15ª / 335 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+08 de Jul. de 1997   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1912-10","Fecha Etapa Informe Documento
+09 de Jun. de 1997 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+03 de Sep. de 1996 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1912-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1912-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1912-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1912-10","No record","Veto emmEnd"

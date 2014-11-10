@@ -1,0 +1,62 @@
+* * Bill summary * *
+"emmStart Summary 2777-03","Legislatura: 344
+Fecha de ingreso: martes 04 de septiembre de 2001
+Estado: Tramitación terminada (Ley Nº 19.822 - D.Oficial 30/08/2002)
+Numero de boletín: 2777-03
+Materia: Industria Pesquera
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 03-11-2014 10:22:10
+* * Hitos de tramitación * *
+"emmStart Hitos 2777-03","Fecha Sesión Etapa Sub-etapa Documento
+04 de Sep. de 2001 26ª / 344 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Intereses Marítimos, Pesca y Acuicultura
+04 de Sep. de 2001   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+22 de Ene. de 2002 25ª / 345 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+22 de Ene. de 2002   Primer trámite constitucional / Senado Primer informe de comisión Ver
+23 de Ene. de 2002 27ª / 345 Primer trámite constitucional / Senado Discusión general. Queda pendiente (Queda para segunda discusión). Ver
+05 de Mar. de 2002 28ª / 345 Primer trámite constitucional / Senado Discusión general Ver
+06 de Mar. de 2002   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+12 de Mar. de 2002 1ª / 346 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Pesca, Acuicultura e Intereses Marítimos Ver
+10 de Abr. de 2002   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+16 de Abr. de 2002 12ª / 346 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+16 de Abr. de 2002 12ª / 346 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+08 de May. de 2002 13ª / 346 Tramitación terminada / Cuenta del Mensaje 111-346 que retira la urgencia Simple Ver
+08 de May. de 2002   Segundo trámite constitucional / C. Diputados Primer informe complementario Ver
+14 de May. de 2002 21ª / 346 Segundo trámite constitucional / C. Diputados Cuenta primer informe complementario Ver
+15 de May. de 2002 22ª / 346 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+16 de May. de 2002   Segundo trámite constitucional / C. Diputados Oficio rechazo a Cámara de Origen Ver
+21 de May. de 2002   Comisión Mixta por rechazo de idea de legislar / C. Diputados Oficio C. de Dip. comunica rechazo proyecto y designa Diputados que integrarán C. Mixta art- 67 C:P:
+21 de May. de 2002 1ª / 347 Comisión Mixta por rechazo de idea de legislar / C. Diputados Cuenta oficio rechazo de Cámara Revisora Ver
+27 de Jun. de 2002   Comisión Mixta por rechazo de idea de legislar / C. Diputados Informe de Comisión Mixta Ver
+03 de Jul. de 2002 11ª / 347 Comisión Mixta por rechazo de idea de legislar / C. Diputados Cuenta informe Comisión Mixta. Queda para tabla. Ver
+09 de Jul. de 2002 12ª / 347 Disc. informe C.Mixta por rechazo idea de legislar C. Origen / Senado Discusión informe de Comisión Mixta
+09 de Jul. de 2002   Disc. informe C.Mixta por rechazo idea de legislar C. Origen / Senado Oficio aprobación de informe de Comisión Mixta a C. Revisora Ver
+11 de Jul. de 2002 16ª / 347 Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / C. Diputados Cuenta oficio aprobación de informe de Comisión Mixta Ver
+17 de Jul. de 2002 18ª / 347 Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / C. Diputados Discusión informe de Comisión Mixta Ver
+18 de Jul. de 2002   Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / C. Diputados Oficio aprobación de informe de Comisión Mixta a C.de Origen Ver
+30 de Jul. de 2002 16ª / 347 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación de informe de Comisión Mixta
+30 de Jul. de 2002   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2777-03","Fecha Etapa Informe Documento
+27 de Jun. de 2002 Comisión Mixta por rechazo de idea de legislar Senado Informe de Comisión Mixta Comisión Mixta para Boletín Nº 2777-03 Ver
+08 de May. de 2002 Segundo trámite constitucional C.Diputados Primer informe complementario de Pesca, Acuicultura e Intereses Marítimos Ver
+10 de Abr. de 2002 Segundo trámite constitucional C.Diputados Primer informe de comisión de Pesca, Acuicultura e Intereses Marítimos Ver
+22 de Ene. de 2002 Primer trámite constitucional Senado Primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2777-03","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+03 de Abr. de 2002 08 de May. de 2002 Simple 34-346 111-346","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2777-03","Nombre
+Sergio Bitar Chacra
+Julio Lagos Cosgrove
+Andrés Zaldívar Larraín","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2777-03","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+22   47 23 10 0   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2777-03","No record","Veto emmEnd"

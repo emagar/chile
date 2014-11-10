@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 1875-04","Legislatura: 333
+Fecha de ingreso: jueves 20 de junio de 1996
+Estado: Tramitación terminada (Ley Nº 19.471 - D.Oficial 13/09/1996)
+Numero de boletín: 1875-04
+Materia: Educacion
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 15:50:02
+* * Hitos de tramitación * *
+"emmStart Hitos 1875-04","Fecha Sesión Etapa Sub-etapa Documento
+20 de Jun. de 1996   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de Jun. de 1996 10ª / 333 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+02 de Jul. de 1996   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+05 de Jul. de 1996   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Jul. de 1996 14ª / 347 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+09 de Jul. de 1996 14ª / 333 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+09 de Jul. de 1996   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+10 de Jul. de 1996 16ª / 333 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+30 de Jul. de 1996   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+31 de Jul. de 1996   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+31 de Jul. de 1996 23ª / 333 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+01 de Ago. de 1996 24ª / 333 Segundo trámite constitucional / Senado Discusión General Pendiente Ver
+14 de Ago. de 1996 29ª / 333 Segundo trámite constitucional / Senado Discusión general Ver
+14 de Ago. de 1996   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+27 de Ago. de 1996 29ª / 333 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+28 de Ago. de 1996 30ª / 333 Tercer trámite constitucional / C. Diputados Discusión única Ver
+28 de Ago. de 1996   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1875-04","Fecha Etapa Informe Documento
+31 de Jul. de 1996 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+30 de Jul. de 1996 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+05 de Jul. de 1996 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+02 de Jul. de 1996 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1875-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1875-04","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1875-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1875-04","No record","Veto emmEnd"

@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 853-10","Legislatura: 325
+Fecha de ingreso: martes 10 de noviembre de 1992
+Estado: Tramitación terminada (D.S. Nº 1.120 - D.Oficial 17/10/1994)
+Numero de boletín: 853-10
+Materia: Acuerdos Internacionales,Convención Sobre Materiales Nucleares
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 23:50:28
+* * Hitos de tramitación * *
+"emmStart Hitos 853-10","Fecha Sesión Etapa Sub-etapa Documento
+10 de Nov. de 1992   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+10 de Nov. de 1992 9ª / 325 Primer trámite constitucional / Senado Cuenta de proyecto
+10 de Nov. de 1992 9ª / 325 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores y a Comisión de Defensa Nacional
+13 de Oct. de 1993 4ª / 327 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+13 de Oct. de 1993 4ª / 327 Primer trámite constitucional / Senado Primer informe de comisión Ver
+13 de Oct. de 1993 4ª / 327 Primer trámite constitucional / Senado Primer informe de comisión Ver
+19 de Oct. de 1993 6ª / 327 Primer trámite constitucional / Senado Discusión general. y particular. Aprobado en general y en particular. Ver
+19 de Oct. de 1993 6ª / 327 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+02 de Nov. de 1993 11ª / 327 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+09 de Nov. de 1993   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Mar. de 1994 33ª / 327 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+09 de Mar. de 1994 33ª / 327 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 853-10","Fecha Etapa Informe Documento
+09 de Nov. de 1993 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+13 de Oct. de 1993 Primer trámite constitucional Senado Primer informe de comisión de Defensa Nacional Ver
+13 de Oct. de 1993 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 853-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 853-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 853-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 853-10","No record","Veto emmEnd"

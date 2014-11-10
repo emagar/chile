@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 3331-07","Legislatura: 349
+Fecha de ingreso: martes 02 de septiembre de 2003
+Estado: Archivado .
+Numero de boletín: 3331-07
+Materia: Armas
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 01:36:38
+* * Hitos de tramitación * *
+"emmStart Hitos 3331-07","Fecha Sesión Etapa Sub-etapa Documento
+02 de Sep. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Sep. de 2003 35ª / 349 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión De Seguridad Ciudadana Ver
+05 de May. de 2007 30ª / 355 Primer trámite constitucional / C. Diputados Comisión de Seguridad Ciudadana solicita el archivo del proyecto. NO HUBO PRONUNCIAMIENTO. Ver
+06 de Oct. de 2008   Primer trámite constitucional / C. Diputados Oficio Nº39-2008. Solicita archivo por haberse legislado sobre el tema Ver
+14 de Oct. de 2008 88ª / 356 Primer trámite constitucional / C. Diputados Comisión de Seguridad Ciudadana solicita archivo. ACORDADO. Ver
+14 de Oct. de 2008   Primer trámite constitucional / C. Diputados Archivado","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3331-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3331-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+02 de Sep. de 2003   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3331-07","Nombre Región Distrito Partido
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Juan Bustos Ramírez V Región de Valparaíso N°12 Partido Socialista
+Guillermo Ceroni Fuentes VII Región del Maule N°40 Partido Por la Democracia
+Fidel Espinoza Sandoval X Región de los Lagos N°56 Partido Socialista
+Zarko Luksic Sandoval RM Región Metropolitana N°16 Partido Demócrata Cristiano
+Eduardo Saffirio Suárez IX Región de la Araucanía N°50 Partido Demócrata Cristiano
+Rodolfo Seguel Molina RM Región Metropolitana N°28 Partido Demócrata Cristiano
+Patricio Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3331-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3331-07","No record","Veto emmEnd"

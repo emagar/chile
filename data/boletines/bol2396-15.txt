@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 2396-15","Legislatura: 340
+Fecha de ingreso: martes 07 de septiembre de 1999
+Estado: Tramitación terminada (Ley Nº 19.725 - D.Oficial 28/04/2001)
+Numero de boletín: 2396-15
+Materia: Licencias De Conducir
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 03-11-2014 00:04:24
+* * Hitos de tramitación * *
+"emmStart Hitos 2396-15","Fecha Sesión Etapa Sub-etapa Documento
+07 de Sep. de 1999   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+07 de Sep. de 1999 28ª / 340 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones
+06 de Sep. de 2000 22ª / 342 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+06 de Sep. de 2000   Primer trámite constitucional / Senado Primer informe de comisión Ver
+12 de Sep. de 2000 23ª / 342 Primer trámite constitucional / Senado Discusión general Ver
+12 de Sep. de 2000   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+13 de Sep. de 2000 39ª / 342 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+03 de Oct. de 2000   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+10 de Oct. de 2000 4ª / 343 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+15 de Mar. de 2001 44ª / 343 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+20 de Mar. de 2001 48ª / 343 Segundo trámite constitucional / C. Diputados Segundo informe de comisión Ver Ver
+03 de Abr. de 2001 48ª / 343 Segundo trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+05 de Abr. de 2001 50ª / 343 Segundo trámite constitucional / C. Diputados Discusión particular Ver Ver
+05 de Abr. de 2001 50ª / 343 Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver Ver
+10 de Abr. de 2001 35ª / 343 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+10 de Abr. de 2001   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2396-15","Fecha Etapa Informe Documento
+20 de Mar. de 2001 Segundo trámite constitucional C.Diputados Segundo informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+03 de Oct. de 2000 Segundo trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+06 de Sep. de 2000 Primer trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2396-15","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2396-15","Nombre
+Antonio Horvath Kiss","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2396-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2396-15","No record","Veto emmEnd"

@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 6145-14","Legislatura: 356
+Fecha de ingreso: miércoles 08 de octubre de 2008
+Estado: Primer trámite constitucional .
+Numero de boletín: 6145-14 Refundido con: 5062-14,6206-14,4954-14,4610-14,5277-14,4805-14
+Materia: Copropiedad Inmobiliaria
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 03:23:00
+* * Hitos de tramitación * *
+"emmStart Hitos 6145-14","Fecha Sesión Etapa Sub-etapa Documento
+08 de Oct. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+08 de Oct. de 2008 86ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Vivienda y Desarrollo Urbano Ver
+18 de Mar. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+31 de Mar. de 2009 6ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Vivienda. EN ESTADO DE TABLA. Ver
+14 de May. de 2009 30ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+14 de Oct. de 2009 91ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1345-357 que hace presente la urgencia Simple Ver
+14 de Oct. de 2009 91ª / 357 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general Pasa a Segundo Informe. Ver
+03 de Nov. de 2009 97ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1460-357 que retira urgencia que hiciera presente Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6145-14","Fecha Etapa Informe Documento
+18 de Mar. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Vivienda y Desarrollo Urbano Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6145-14","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+03 de Nov. de 2009   Simple 1460-357  
+14 de Oct. de 2009 03 de Nov. de 2009 Simple 1345-357 1460-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6145-14","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Guido Girardi Briere RM Región Metropolitana N°18 Partido Por la Democracia
+Rodrigo González Torres V Región de Valparaíso N°14 Partido Por la Democracia
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+Adriana Muñoz D'Albora IV Región de Coquimbo N°9 Partido Por la Democracia
+Jaime Quintana Leal IX Región de la Araucanía N°49 Partido Por la Democracia
+María Antonieta Saa Díaz RM Región Metropolitana N°17 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6145-14","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+88 Votación General 8 0 0 4   Vivienda Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6145-14","No record","Veto emmEnd"

@@ -1,0 +1,61 @@
+* * Bill summary * *
+"emmStart Summary 4250-06","Legislatura: 354
+Fecha de ingreso: martes 20 de junio de 2006
+Estado: Comisión Mixta por rechazo de idea de legislar .
+Numero de boletín: 4250-06
+Materia:
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 23:25:45
+* * Hitos de tramitación * *
+"emmStart Hitos 4250-06","Fecha Sesión Etapa Sub-etapa Documento
+20 de Jun. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de Jun. de 2006 39ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+08 de Ago. de 2006 58ª / 354 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 240-354 que hace presente la urgencia Simple Ver
+12 de Sep. de 2006 74ª / 354 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 307-354 que retira y hace presente la urgencia Simple Ver
+14 de Sep. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+03 de Oct. de 2006 78ª / 354 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 329-354 que hace presente la urgencia Suma Ver
+03 de Oct. de 2006 78ª / 354 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 321-354 que retira la urgencia Simple Ver
+10 de Oct. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Oct. de 2006 84ª / 354 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+11 de Oct. de 2006 84ª / 354 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+17 de Oct. de 2006 87ª / 354 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+17 de Oct. de 2006 87ª / 354 Tramitación terminada / Cuenta del Mensaje 361-354 que retira y hace presente la urgencia Suma
+17 de Oct. de 2006   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+18 de Oct. de 2006 63ª / 354 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización Ver
+31 de Oct. de 2006 64ª / 354 Tramitación terminada / Cuenta del Mensaje 401-354 que retira y hace presente la urgencia Suma
+03 de Nov. de 2006   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+08 de Nov. de 2006 67ª / 354 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+14 de Nov. de 2006 68ª / 354 Tramitación terminada / Cuenta del Mensaje 467-354 que retira la urgencia Suma
+06 de Dic. de 2006 75ª / 354 Segundo trámite constitucional / Senado Queda para segunda discusión. Ver
+20 de Dic. de 2006 79ª / 354 Segundo trámite constitucional / Senado Discusión general Ver
+21 de Dic. de 2006   Segundo trámite constitucional / Senado Oficio rechazo a Cámara de Origen Ver
+21 de Dic. de 2006   Comisión Mixta por rechazo de idea de legislar / Senado Oficio integrantes de Comisión Mixta Ver
+21 de Dic. de 2006 111ª / 354 Comisión Mixta por rechazo de idea de legislar / Senado Cuenta oficio rechazo de Cámara Revisora
+03 de Ene. de 2007 81ª / 354 Comisión Mixta por rechazo de idea de legislar / Senado Cuenta oficio integrantes de Comisión Mixta","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4250-06","Fecha Etapa Informe Documento
+03 de Nov. de 2006 Segundo trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver
+10 de Oct. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+14 de Sep. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4250-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+31 de Oct. de 2006 14 de Nov. de 2006 Suma 401-354 467-354
+17 de Oct. de 2006 31 de Oct. de 2006 Suma 361-354 401-354
+03 de Oct. de 2006 17 de Oct. de 2006 Suma 329-354 361-354
+12 de Sep. de 2006 03 de Oct. de 2006 Simple 307-354 321-354
+08 de Ago. de 2006 12 de Sep. de 2006 Simple 240-354 307-354","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4250-06","Nombre Región Distrito Partido
+Ministerio de Interior y Seguridad Públi      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4250-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+87   73 4 10 0 Aprobado Sala Ver detalle votación
+18 Votación General 8 0 1 4   Gobierno Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4250-06","No record","Veto emmEnd"

@@ -1,0 +1,33 @@
+* * Bill summary * *
+"emmStart Summary 6047-07","Legislatura: 356
+Fecha de ingreso: martes 02 de septiembre de 2008
+Estado: Primer trámite constitucional .
+Numero de boletín: 6047-07
+Materia: Acusación Constitucional,Reforma Constitucional
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 02:14:16
+* * Hitos de tramitación * *
+"emmStart Hitos 6047-07","Fecha Sesión Etapa Sub-etapa Documento
+02 de Sep. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Sep. de 2008 69ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6047-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6047-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6047-07","Nombre Región Distrito Partido
+Joaquín Godoy Ibáñez V Región de Valparaíso N°13 Renovación Nacional
+Cristián Monckeberg Bruner RM Región Metropolitana N°23 Renovación Nacional
+Nicolás Monckeberg Díaz VIII Región del Bío Bío N°42 Renovación Nacional
+Alfonso Vargas Lyng V Región de Valparaíso N°10 Renovación Nacional
+Germán Verdugo Soto VII Región del Maule N°37 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6047-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6047-07","No record","Veto emmEnd"

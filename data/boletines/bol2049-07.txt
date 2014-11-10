@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 2049-07","Legislatura: 335
+Fecha de ingreso: jueves 03 de julio de 1997
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 2049-07
+Materia: Reforma Constitucional,Voto Obligatorio
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 18:06:13
+* * Hitos de tramitación * *
+"emmStart Hitos 2049-07","Fecha Sesión Etapa Sub-etapa Documento
+03 de Jul. de 1997   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Jul. de 1997 15ª / 335 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+16 de Jul. de 1998   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+21 de Jul. de 1998 19ª / 338 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+18 de Ago. de 1998 27ª / 338 Primer trámite constitucional / C. Diputados Pendiente disc. del 1er. informe. Intervienen los Dip. Moreira (inf. Com. Constitución), I. Walker y Elgueta. Ver Ver
+15 de Sep. de 1998 36ª / 338 Primer trámite constitucional / C. Diputados Discusión general Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2049-07","Fecha Etapa Informe Documento
+16 de Jul. de 1998 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2049-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2049-07","Nombre Región Distrito Partido
+Francisco Bartolucci Johnston Región N°13 Unión Demócrata Independiente
+Sergio Correa De la Cerda Región N°36 Unión Demócrata Independiente
+Cristián Leay Morán Región N°19 Unión Demócrata Independiente
+Pablo Longueira Montes Región N°30 Unión Demócrata Independiente
+Juan Masferrer Pellizzari Región N°34 Unión Demócrata Independiente
+Patricio Melero Abaroa Región N°16 Unión Demócrata Independiente
+Iván Moreira Barros Región N° Unión Demócrata Independiente
+Jaime Orpis Bouchon Región N°25 Unión Demócrata Independiente
+Darío Paya Mira Región N° Unión Demócrata Independiente
+Víctor Pérez Varela Región N°47 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2049-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2049-07","No record","Veto emmEnd"

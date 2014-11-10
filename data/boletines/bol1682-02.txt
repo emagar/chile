@@ -1,0 +1,31 @@
+* * Bill summary * *
+"emmStart Summary 1682-02","Legislatura: 331
+Fecha de ingreso: martes 22 de agosto de 1995
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 1682-02
+Materia: Carabineros De Chile,Fuerzas Armadas
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 12:16:09
+* * Hitos de tramitación * *
+"emmStart Hitos 1682-02","Fecha Sesión Etapa Sub-etapa Documento
+22 de Ago. de 1995 28ª / 331 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Defensa Nacional
+22 de Ago. de 1995   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+03 de Oct. de 1995 14ª / 335 Primer trámite constitucional / Senado Se Incluye en la Convocatoria a la actual Legislatura Extraordinaria 332
+09 de Jul. de 1997 14ª / 335 Tramitación terminada / Oficio de S. E. el Presidente del República, solicitando el retiro del proyecto .Queda retirado el proyecto. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1682-02","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1682-02","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+22 de Ago. de 1995   Simple    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1682-02","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1682-02","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1682-02","No record","Veto emmEnd"

@@ -1,0 +1,31 @@
+* * Bill summary * *
+"emmStart Summary 8192-07","Legislatura: 360
+Fecha de ingreso: lunes 12 de marzo de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8192-07
+Materia: Violencia Intrafamiliar,Relación De Pareja
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 09-11-2014 22:35:26
+* * Hitos de tramitación * *
+"emmStart Hitos 8192-07","Fecha Sesión Etapa Sub-etapa Documento
+12 de Mar. de 2012   Primer trámite constitucional / Senado Ingreso de proyecto Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8192-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8192-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8192-07","Nombre
+Soledad Alvear Valenzuela
+Carlos Bianchi Chelech
+Lily Pérez San Martín
+Ximena Rincón González","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8192-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8192-07","No record","Veto emmEnd"

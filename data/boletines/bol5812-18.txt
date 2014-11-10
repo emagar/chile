@@ -1,0 +1,50 @@
+* * Bill summary * *
+"emmStart Summary 5812-18","Legislatura: 356
+Fecha de ingreso: martes 15 de abril de 2008
+Estado: Segundo trámite constitucional .
+Numero de boletín: 5812-18 Refundido con: 5706-18
+Materia: Reconocimiento De Paternidad,Código Civil
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 23:33:46
+* * Hitos de tramitación * *
+"emmStart Hitos 5812-18","Fecha Sesión Etapa Sub-etapa Documento
+15 de Abr. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+15 de Abr. de 2008 18ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Familia Ver
+23 de Jun. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+01 de Jul. de 2008 45ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Jul. de 2008 52ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+14 de Jul. de 2008   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+15 de Jul. de 2008 36ª / 356 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento Ver
+21 de Nov. de 2008   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+03 de Dic. de 2008 76ª / 356 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+07 de Ene. de 2009 83ª / 356 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 09/03/2009 Ver
+09 de Mar. de 2009   Segundo trámite constitucional / Senado Boletín de indicaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5812-18","Fecha Etapa Informe Documento
+21 de Nov. de 2008 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+23 de Jun. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Familia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5812-18","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5812-18","Nombre Región Distrito Partido
+Germán Becker Alvear IX Región de la Araucanía N°50 Renovación Nacional
+Juan Bustos Ramírez V Región de Valparaíso N°12 Partido Socialista
+Guillermo Ceroni Fuentes VII Región del Maule N°40 Partido Por la Democracia
+Roberto Delmastro Naso XIV Región de los Ríos N°53 Renovación Nacional
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Adriana Muñoz D'Albora IV Región de Coquimbo N°9 Partido Por la Democracia
+Clemira Pacheco Rivas VIII Región del Bío Bío N°45 Partido Socialista
+Osvaldo Palma Flores VII Región del Maule N°39 Renovación Nacional
+María Antonieta Saa Díaz RM Región Metropolitana N°17 Partido Por la Democracia
+Ximena Vidal Lázaro RM Región Metropolitana N°25 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5812-18","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+67 Votación General 6 0 0 7   Familia Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5812-18","No record","Veto emmEnd"

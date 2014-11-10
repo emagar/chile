@@ -1,0 +1,33 @@
+* * Bill summary * *
+"emmStart Summary 6006-21","Legislatura: 356
+Fecha de ingreso: martes 05 de agosto de 2008
+Estado: Primer trámite constitucional .
+Numero de boletín: 6006-21
+Materia: Recurso Pesquero Bentónico
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 01:46:36
+* * Hitos de tramitación * *
+"emmStart Hitos 6006-21","Fecha Sesión Etapa Sub-etapa Documento
+05 de Ago. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+05 de Ago. de 2008 57ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Pesca, Acuicultura e Intereses Marítimos Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6006-21","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6006-21","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6006-21","Nombre Región Distrito Partido
+Francisco Chahuán Chahuán V Región de Valparaíso N°14 Renovación Nacional
+Alfonso De Urresti Longton XIV Región de los Ríos N°53 Partido Socialista
+Marcelo Díaz Díaz IV Región de Coquimbo N°7 Partido Socialista
+José Miguel Ortiz Novoa VIII Región del Bío Bío N°44 Partido Demócrata Cristiano
+Patricio Vallespín López X Región de los Lagos N°57 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6006-21","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6006-21","No record","Veto emmEnd"

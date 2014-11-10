@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 6370-07","Legislatura: 356
+Fecha de ingreso: martes 20 de enero de 2009
+Estado: Primer trámite constitucional .
+Numero de boletín: 6370-07
+Materia: Desafuero,Código Procesal Penal,Sentencias
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 06:04:20
+* * Hitos de tramitación * *
+"emmStart Hitos 6370-07","Fecha Sesión Etapa Sub-etapa Documento
+20 de Ene. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de Ene. de 2009 126ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia. Se remite el proyecto a la Corte Suprema. Ver
+20 de Ene. de 2009   Primer trámite constitucional / C. Diputados Oficio N? 7909 a la Corte Suprema Ver
+31 de Mar. de 2009 6ª / 357 Primer trámite constitucional / C. Diputados Cuenta oficio N? 33 de la Corte Suprema Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6370-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6370-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6370-07","Nombre Región Distrito Partido
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Marcelo Díaz Díaz IV Región de Coquimbo N°7 Partido Socialista
+Edmundo Eluchans Urenda V Región de Valparaíso N°15 Unión Demócrata Independiente
+Cristián Monckeberg Bruner RM Región Metropolitana N°23 Renovación Nacional
+Jaime Quintana Leal IX Región de la Araucanía N°49 Partido Por la Democracia
+María Antonieta Saa Díaz RM Región Metropolitana N°17 Partido Por la Democracia
+Laura Soto González V Región de Valparaíso N°13 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6370-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+206 Votación General 5 0 0 8   Constitución Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6370-07","No record","Veto emmEnd"

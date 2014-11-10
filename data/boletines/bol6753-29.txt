@@ -1,0 +1,48 @@
+* * Bill summary * *
+"emmStart Summary 6753-29","Legislatura: 357
+Fecha de ingreso: miércoles 04 de noviembre de 2009
+Estado: Segundo trámite constitucional .
+Numero de boletín: 6753-29
+Materia: Deportes
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 15:57:12
+* * Hitos de tramitación * *
+"emmStart Hitos 6753-29","Fecha Sesión Etapa Sub-etapa Documento
+04 de Nov. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Nov. de 2009 99ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión Especial de Deportes Ver
+20 de Ene. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de Mar. de 2010 123ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+24 de Mar. de 2010 7ª / 358 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general Pasa a Segundo Informe a la Comisión Especial de Deportes Ver
+02 de Jun. de 2010   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+08 de Jun. de 2010 34ª / 358 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+10 de Jun. de 2010 38ª / 358 Primer trámite constitucional / C. Diputados Discusión particular Ver
+10 de Jun. de 2010   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+15 de Jun. de 2010 27ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6753-29","Fecha Etapa Informe Documento
+07 de Jun. de 2010 Primer trámite constitucional C.Diputados Segundo informe de comisión de Deportes Ver
+20 de Ene. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Deportes Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6753-29","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6753-29","Nombre Región Distrito Partido
+Gabriel Ascencio Mansilla X Región de los Lagos N°58 Partido Demócrata Cristiano
+Ramón Barros Montero VI Región del Libertador Bernardo O' Higgins N°35 Unión Demócrata Independiente
+Rodrigo González Torres V Región de Valparaíso N°14 Partido Por la Democracia
+Juan Lobos Krause VIII Región del Bío Bío N°47 Unión Demócrata Independiente
+Iván Norambuena Farías VIII Región del Bío Bío N°46 Unión Demócrata Independiente
+Manuel Rojas Molina II Región de Antofagasta N°4 Unión Demócrata Independiente
+Germán Verdugo Soto VII Región del Maule N°37 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6753-29","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+7   101 0 1 18 Aprobado Sala Ver detalle votación
+38 Texto contenido en el segundo informe. 79 0 0 41 Aprobado Sala Ver detalle votación
+5 Votación General 9 0 0 4   Especial Deportes Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6753-29","No record","Veto emmEnd"

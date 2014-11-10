@@ -1,0 +1,33 @@
+* * Bill summary * *
+"emmStart Summary 2636-03","Legislatura: 343
+Fecha de ingreso: jueves 30 de noviembre de 2000
+Estado: Archivado .
+Numero de boletín: 2636-03
+Materia: Facturas
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 07:13:39
+* * Hitos de tramitación * *
+"emmStart Hitos 2636-03","Fecha Sesión Etapa Sub-etapa Documento
+30 de Nov. de 2000 21ª / 343 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+30 de Nov. de 2000   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+16 de Oct. de 2003 10ª / 350 Archivado / Se solicita archivo de proyecto. Oficio de Comisión de Economía. Queda en tabla. Se accede al archivo solicitado","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2636-03","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2636-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2636-03","Nombre Región Distrito Partido
+Enrique Jaramillo Becker X Región de los Lagos N°54 Partido Por la Democracia
+Jaime Mulet Martínez III Región de Atacama N°6 Partido Demócrata Cristiano
+Juan Núñez Valenzuela VI Región del Libertador Bernardo O' Higgins N°34 Partido Demócrata Cristiano
+Eugenio Tuma Zedan IX Región de la Araucanía N°51 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2636-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2636-03","No record","Veto emmEnd"

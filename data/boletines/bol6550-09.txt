@@ -1,0 +1,35 @@
+* * Bill summary * *
+"emmStart Summary 6550-09","Legislatura: 357
+Fecha de ingreso: martes 09 de junio de 2009
+Estado: Primer trámite constitucional .
+Numero de boletín: 6550-09
+Materia: Tránsito
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 09:16:49
+* * Hitos de tramitación * *
+"emmStart Hitos 6550-09","Fecha Sesión Etapa Sub-etapa Documento
+09 de Jun. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+09 de Jun. de 2009 37ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6550-09","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6550-09","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6550-09","Nombre Región Distrito Partido
+Alfonso De Urresti Longton XIV Región de los Ríos N°53 Partido Socialista
+Marcelo Díaz Díaz IV Región de Coquimbo N°7 Partido Socialista
+Fidel Espinoza Sandoval X Región de los Lagos N°56 Partido Socialista
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+Jaime Quintana Leal IX Región de la Araucanía N°49 Partido Por la Democracia
+Jorge Sabag Villalobos VIII Región del Bío Bío N°42 Partido Demócrata Cristiano
+Samuel Venegas Rubio V Región de Valparaíso N°15 Independientes","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6550-09","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6550-09","No record","Veto emmEnd"

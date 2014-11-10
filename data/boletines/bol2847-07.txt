@@ -1,0 +1,63 @@
+* * Bill summary * *
+"emmStart Summary 2847-07","Legislatura: 345
+Fecha de ingreso: martes 18 de diciembre de 2001
+Estado: Tramitación terminada (Ley Nº 19.804 - D.Oficial 24/05/2002)
+Numero de boletín: 2847-07
+Materia: Dirección General De Investigaciones
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 03-11-2014 17:11:09
+* * Hitos de tramitación * *
+"emmStart Hitos 2847-07","Fecha Sesión Etapa Sub-etapa Documento
+18 de Dic. de 2001 18ª / 345 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+18 de Dic. de 2001   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+19 de Dic. de 2001 19ª / 345 Primer trámite constitucional / Senado Cuenta de oficio del Presidente de la República, con el que se incluye el proyecto en la convocatoria a Legislatura Extraordinaria.
+19 de Dic. de 2001   Primer trámite constitucional / Senado Primer informe de comisión Ver
+19 de Dic. de 2001 20ª / 345 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+19 de Dic. de 2001 20ª / 345 Primer trámite constitucional / Senado Discusión general Ver
+26 de Dic. de 2001   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+08 de Ene. de 2002 22ª / 345 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+08 de Ene. de 2002 23ª / 345 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 188-345 que hace presente la urgencia Simple Ver
+22 de Ene. de 2002 28ª / 345 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 211-345 que retira y hace presente la urgencia Suma Ver
+05 de Mar. de 2002 32ª / 345 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 254-345 que hace presente la urgencia Discusión inmediata Ver
+05 de Mar. de 2002 32ª / 345 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 228-345 que retira la urgencia Suma Ver
+12 de Mar. de 2002   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Mar. de 2002 1ª / 346 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de Mar. de 2002 2ª / 346 Segundo trámite constitucional / C. Diputados Discusión general. Rechazado Falta de quorum. Ver Ver
+20 de Mar. de 2002   Segundo trámite constitucional / C. Diputados Oficio rechazo a Cámara de Origen Ver
+02 de Abr. de 2002 4ª / 346 Comisión Mixta por rechazo de idea de legislar / C. Diputados Cuenta oficio C. de Dip., comunica rechazo proyecto y designa diputados que integrarán C. Mixta Ver
+02 de Abr. de 2002   Comisión Mixta por rechazo de idea de legislar / C. Diputados Oficio integrantes de Comisión Mixta Ver
+03 de Abr. de 2002 7ª / 346 Comisión Mixta por rechazo de idea de legislar / C. Diputados Cuenta oficio integrantes de Comisión Mixta Ver
+09 de Abr. de 2002   Comisión Mixta por rechazo de idea de legislar / C. Diputados Informe de Comisión Mixta Ver
+16 de Abr. de 2002 9ª / 346 Disc. informe C.Mixta por rechazo idea de legislar C. Origen / Senado Cuenta informe Comisión Mixta
+16 de Abr. de 2002 9ª / 346 Disc. informe C.Mixta por rechazo idea de legislar C. Origen / Senado Discusión informe de Comisión Mixta
+16 de Abr. de 2002   Disc. informe C.Mixta por rechazo idea de legislar C. Origen / Senado Oficio aprobación de informe de Comisión Mixta a C. Revisora Ver
+17 de Abr. de 2002 13ª / 346 Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / C. Diputados Cuenta oficio aprobación de informe de Comisión Mixta Ver
+17 de Abr. de 2002 13ª / 346 Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / C. Diputados Discusión informe de Comisión Mixta Ver
+17 de Abr. de 2002   Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / C. Diputados Oficio aprobación de informe de Comisión Mixta a C.de Origen Ver
+17 de Abr. de 2002 10ª / 346 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación de informe de Comisión Mixta
+17 de Abr. de 2002   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2847-07","Fecha Etapa Informe Documento
+09 de Abr. de 2002 Comisión Mixta por rechazo de idea de legislar Senado Informe de Comisión Mixta Comisión Mixta para Boletín Nº 2847-07 Ver
+12 de Mar. de 2002 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+19 de Dic. de 2001 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2847-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+02 de Abr. de 2002 10 de Abr. de 2002 Suma 31-346 54-346
+12 de Mar. de 2002 02 de Abr. de 2002 Suma 20-346 31-346
+05 de Mar. de 2002   Discusión inmediata 254-345  
+22 de Ene. de 2002 05 de Mar. de 2002 Suma 211-345 228-345
+08 de Ene. de 2002 22 de Ene. de 2002 Simple 188-345 211-345","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2847-07","Nombre
+Juan Hamilton Depassier","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2847-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2847-07","No record","Veto emmEnd"

@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 2121-04","Legislatura: 336
+Fecha de ingreso: martes 11 de noviembre de 1997
+Estado: Tramitación terminada (Ley Nº 19.550 - D.Oficial 03/02/1998)
+Numero de boletín: 2121-04
+Materia: Personal No Docente,Subvención A No Docentes
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 21:13:04
+* * Hitos de tramitación * *
+"emmStart Hitos 2121-04","Fecha Sesión Etapa Sub-etapa Documento
+11 de Nov. de 1997   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+18 de Nov. de 1997 13ª / 336 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+19 de Nov. de 1997   Primer trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+25 de Nov. de 1997   Primer trámite constitucional / Senado Primer informe de comisión Ver
+25 de Nov. de 1997 19ª / 336 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+13 de Ene. de 1998 26ª / 336 Primer trámite constitucional / Senado Discusión general Ver
+13 de Ene. de 1998 24ª / 336 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+13 de Ene. de 1998   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+14 de Ene. de 1998   Segundo trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+14 de Ene. de 1998   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+14 de Ene. de 1998 25ª / 336 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Ene. de 1998 25ª / 336 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+14 de Ene. de 1998   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+20 de Ene. de 1998 29ª / 336 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+20 de Ene. de 1998   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2121-04","Fecha Etapa Informe Documento
+14 de Ene. de 1998 Segundo trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver
+14 de Ene. de 1998 Segundo trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+25 de Nov. de 1997 Primer trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+19 de Nov. de 1997 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2121-04","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+13 de Ene. de 1998 16 de Sep. de 1998 Discusión inmediata 30017-336 CADUCADO
+18 de Nov. de 1997 16 de Dic. de 1997 Suma 103-336 30016-336","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2121-04","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2121-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2121-04","No record","Veto emmEnd"

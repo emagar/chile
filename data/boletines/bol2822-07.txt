@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 2822-07","Legislatura: 345
+Fecha de ingreso: martes 06 de noviembre de 2001
+Estado: Tramitación terminada (Ley Nº 19.789 - D.Oficial 30/01/2002)
+Numero de boletín: 2822-07
+Materia: Código De Procedimiento Penal
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 03-11-2014 16:55:09
+* * Hitos de tramitación * *
+"emmStart Hitos 2822-07","Fecha Sesión Etapa Sub-etapa Documento
+06 de Nov. de 2001 12ª / 345 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+06 de Nov. de 2001   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+14 de Nov. de 2001 16ª / 345 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+14 de Nov. de 2001   Primer trámite constitucional / Senado Primer informe de comisión Ver
+20 de Nov. de 2001 17ª / 345 Primer trámite constitucional / Senado Discusión general Ver
+20 de Nov. de 2001   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+18 de Dic. de 2001 20ª / 345 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento Ver
+09 de Ene. de 2002   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+15 de Ene. de 2002 25ª / 345 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+15 de Ene. de 2002 26ª / 345 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 198-345 que hace presente la urgencia Suma Ver
+16 de Ene. de 2002 27ª / 345 Segundo trámite constitucional / C. Diputados Discusión general Ver
+16 de Ene. de 2002   Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver
+16 de Ene. de 2002 24ª / 345 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+16 de Ene. de 2002 24ª / 345 Tercer trámite constitucional / Senado Discusión única
+16 de Ene. de 2002   Tercer trámite constitucional / Senado Oficio aprobación de modificaciones de Ref.Constitucional Ver
+16 de Ene. de 2002   Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2822-07","Fecha Etapa Informe Documento
+09 de Ene. de 2002 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+14 de Nov. de 2001 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2822-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+15 de Ene. de 2002   Suma 198-345  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2822-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2822-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2822-07","No record","Veto emmEnd"

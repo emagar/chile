@@ -1,0 +1,55 @@
+* * Bill summary * *
+"emmStart Summary 7100-07","Legislatura: 358
+Fecha de ingreso: martes 03 de agosto de 2010
+Estado: Tramitación terminada (Ley Nº 20.464 - D.Oficial 12/10/2010)
+Numero de boletín: 7100-07
+Materia: Organos Bicamerales
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 09-11-2014 00:13:29
+* * Hitos de tramitación * *
+"emmStart Hitos 7100-07","Fecha Sesión Etapa Sub-etapa Documento
+03 de Ago. de 2010   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+03 de Ago. de 2010 38ª / 358 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+04 de Ago. de 2010   Primer trámite constitucional / Senado Primer informe de comisión Ver
+04 de Ago. de 2010 40ª / 358 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+04 de Ago. de 2010 40ª / 358 Primer trámite constitucional / Senado Discusión general Ver
+04 de Ago. de 2010   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+05 de Ago. de 2010 60ª / 358 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+18 de Ago. de 2010   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+31 de Ago. de 2010 67ª / 358 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+01 de Sep. de 2010 68ª / 358 Segundo trámite constitucional / C. Diputados Discusión general Ver
+02 de Sep. de 2010   Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver
+07 de Sep. de 2010 47ª / 358 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+08 de Sep. de 2010 50ª / 358 Tercer trámite constitucional / Senado Discusión única
+08 de Sep. de 2010   Tercer trámite constitucional / Senado Oficio N° 734/SEC/10, que comunica aprobacion de modificaciones Ver
+08 de Sep. de 2010   Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo Ver
+09 de Sep. de 2010 74ª / 358 Tercer trámite constitucional / Senado Cuenta oficio Nº 734/SEC/10, que comunica aprobacion de modificaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7100-07","Fecha Etapa Informe Documento
+18 de Ago. de 2010 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+04 de Ago. de 2010 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7100-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7100-07","Nombre
+José García Ruminot
+Hernán Larraín Fernández
+Jorge Pizarro Soto
+Jaime Quintana Leal
+Ximena Rincón González","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7100-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+68   105 1 1 13 Aprobado Sala Ver detalle votación
+68 frase final del inciso segundo del artículo 66 A que se propone en el número 2 del artículo 1°, que expresa “Dicho procedimiento podrá contemplar la participación de una empresa especializada en selección de personal”, que figura en la página 13 del informe de la Comisión de Constitución. 53 53 0 14 Empate Sala Ver detalle votación
+68 frase final del inciso segundo del artículo 66 A que se propone en el número 2 del artículo 1°, que expresa “Dicho procedimiento podrá contemplar la participación de una empresa especializada en selección de personal”, que figura en la página 13 del informe de la Comisión de Constitución. 54 53 0 13 Aprobado Sala Ver detalle votación
+68 número 3 del artículo 2°, mediante el cual se agrega un artículo 6° transitorio en la ley N°20.447, que señala que “El primer Consejo Resolutivo de Asignaciones Parlamentarias será presidido por el ex senador que lo integre.” 54 53 3 10 Rechazado Sala Ver detalle votación
+34 Votación General 7 0 1 5   Constitución Ver detalle votación
+34 Votación General 7 0 1 5   Constitución Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7100-07","No record","Veto emmEnd"

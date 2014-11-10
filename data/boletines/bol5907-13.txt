@@ -1,0 +1,59 @@
+* * Bill summary * *
+"emmStart Summary 5907-13","Legislatura: 356
+Fecha de ingreso: martes 10 de junio de 2008
+Estado: Tramitación terminada (Ley Nº 20.764 - D.Oficial 18/07/2014)
+Numero de boletín: 5907-13
+Materia: Maternidad,Protección A La Maternidad,Paternidad
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 00:38:20
+* * Hitos de tramitación * *
+"emmStart Hitos 5907-13","Fecha Sesión Etapa Sub-etapa Documento
+10 de Jun. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Jun. de 2008 36ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+08 de Sep. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+30 de Sep. de 2009 83ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Oct. de 2009 90ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver
+03 de Nov. de 2009 97ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver
+03 de Nov. de 2009   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+10 de Nov. de 2009 63ª / 357 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social
+05 de May. de 2014   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+13 de May. de 2014 16ª / 362 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+11 de Jun. de 2014 24ª / 362 Segundo trámite constitucional / Senado Discusión general Ver
+11 de Jun. de 2014   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+12 de Jun. de 2014 34ª / 362 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+01 de Jul. de 2014 38ª / 362 Tercer trámite constitucional / C. Diputados Cuenta del Mensaje 237-362 que hace presente la urgencia Simple Ver
+08 de Jul. de 2014 42ª / 362 Tercer trámite constitucional / C. Diputados Discusión única Ver
+08 de Jul. de 2014   Tercer trámite constitucional / C. Diputados Oficio N° 11.364, que comunica aprobacion de modificaciones Ver
+08 de Jul. de 2014   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo. Oficio N° 11.363. Oficio al Ejecutivo, comunica aprobación del proyecto de ley por el Congreso Nacional. Ver
+09 de Jul. de 2014 30ª / 362 Tercer trámite constitucional / C. Diputados Cuenta oficio N° 11.364, que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5907-13","Fecha Etapa Informe Documento
+13 de May. de 2014 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver
+08 de Sep. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5907-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+01 de Jul. de 2014   Simple 237-362  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5907-13","Nombre Región Distrito Partido
+Sergio Aguiló Melo VII Región del Maule N°37 Partido Socialista
+Pedro Araya Guerrero II Región de Antofagasta N°4 Independientes
+Alfonso De Urresti Longton XIV Región de los Ríos N°53 Partido Socialista
+Gonzalo Duarte Leiva RM Región Metropolitana N°26 Partido Demócrata Cristiano
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Tucapel Jiménez Fuentes RM Región Metropolitana N°27 Partido Por la Democracia
+Denise Pascal Allende RM Región Metropolitana N°31 Partido Socialista
+Jorge Sabag Villalobos VIII Región del Bío Bío N°42 Partido Demócrata Cristiano
+Alejandro Sule Fernández VI Región del Libertador Bernardo O' Higgins N°33 Partido Radical Social Demócrata
+Mario Venegas Cárdenas IX Región de la Araucanía N°48 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5907-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+42   106 0 0 14 Aprobado Sala Ver detalle votación
+97   60 3 10 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5907-13","No record","Veto emmEnd"

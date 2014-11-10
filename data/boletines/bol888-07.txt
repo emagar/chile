@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 888-07","Legislatura: 325
+Fecha de ingreso: martes 15 de diciembre de 1992
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 888-07
+Materia: Elecciones,Inscripción Electoral,Municipios,Votación
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 00:18:24
+* * Hitos de tramitación * *
+"emmStart Hitos 888-07","Fecha Sesión Etapa Sub-etapa Documento
+15 de Dic. de 1992 17ª / 325 Primer trámite constitucional / Senado Cuenta de proyecto
+15 de Dic. de 1992   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+13 de Sep. de 1994 33ª / 329 Primer trámite constitucional / Senado Primer informe de comisión Ver
+13 de Sep. de 1994 33ª / 329 Primer trámite constitucional / Senado Discusión general Ver
+13 de Sep. de 1994 33ª / 329 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+13 de Sep. de 1994 33ª / 329 Primer trámite constitucional / Senado Discusión general Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 888-07","Fecha Etapa Informe Documento
+13 de Sep. de 1994 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 888-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 888-07","Nombre
+Nicolás Díaz Sánchez
+Arturo Frei Bolivar
+Mariano Ruiz-Esquide Jara","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 888-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 888-07","No record","Veto emmEnd"

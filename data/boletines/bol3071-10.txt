@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 3071-10","Legislatura: 348
+Fecha de ingreso: martes 01 de octubre de 2002
+Estado: Tramitación terminada (D.S. Nº248 - D.Oficial 17/12/2003)
+Numero de boletín: 3071-10
+Materia: Convención Sobre Los Derechos Del Niño (1989)
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 22:50:27
+* * Hitos de tramitación * *
+"emmStart Hitos 3071-10","Fecha Sesión Etapa Sub-etapa Documento
+01 de Oct. de 2002   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+01 de Oct. de 2002 1ª / 348 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+21 de Oct. de 2002   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+29 de Oct. de 2002 10ª / 348 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+29 de Oct. de 2002 10ª / 348 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+31 de Oct. de 2002 12ª / 348 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+31 de Oct. de 2002   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+05 de Nov. de 2002 9ª / 348 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+21 de Ene. de 2003   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+05 de Mar. de 2003 30ª / 348 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+11 de Mar. de 2003 31ª / 348 Segundo trámite constitucional / Senado Discusión general Ver
+11 de Mar. de 2003   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+12 de Mar. de 2003 55ª / 348 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+13 de Mar. de 2003   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3071-10","Fecha Etapa Informe Documento
+21 de Ene. de 2003 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+31 de Oct. de 2002 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3071-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3071-10","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3071-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3071-10","No record","Veto emmEnd"

@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 6082-15","Legislatura: 356
+Fecha de ingreso: martes 09 de septiembre de 2008
+Estado: Primer trámite constitucional .
+Numero de boletín: 6082-15
+Materia: Bicicletas
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 02:38:32
+* * Hitos de tramitación * *
+"emmStart Hitos 6082-15","Fecha Sesión Etapa Sub-etapa Documento
+09 de Sep. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+09 de Sep. de 2008 76ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6082-15","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6082-15","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6082-15","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Alfonso De Urresti Longton XIV Región de los Ríos N°53 Partido Socialista
+Marcos Espinosa Monardes II Región de Antofagasta N°3 Partido Radical Social Demócrata
+Claudia Nogueira Fernández RM Región Metropolitana N°19 Unión Demócrata Independiente
+Fulvio Rossi Ciocca I Región de Tarapacá N°2 Partido Socialista
+Gabriel Silber Romo RM Región Metropolitana N°16 Partido Demócrata Cristiano
+Carolina Tohá Morales RM Región Metropolitana N°22 Partido Por la Democracia
+Germán Verdugo Soto VII Región del Maule N°37 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6082-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6082-15","No record","Veto emmEnd"

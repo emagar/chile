@@ -1,0 +1,59 @@
+* * Bill summary * *
+"emmStart Summary 7245-11","Legislatura: 358
+Fecha de ingreso: martes 05 de octubre de 2010
+Estado: Tramitación terminada (Ley N° 20.533 - D.Oficial 13/09/2011)
+Numero de boletín: 7245-11
+Materia: Código Sanitario,Matrona,Anticonceptivos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 01:53:11
+* * Hitos de tramitación * *
+"emmStart Hitos 7245-11","Fecha Sesión Etapa Sub-etapa Documento
+05 de Oct. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+05 de Oct. de 2010 83ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver
+11 de Ene. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de Ene. de 2011 127ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+01 de Mar. de 2011 131ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+01 de Mar. de 2011   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+02 de Mar. de 2011 91ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Salud
+04 de May. de 2011   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+04 de May. de 2011 15ª / 359 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+31 de May. de 2011 18ª / 359 Segundo trámite constitucional / Senado Por acuerdo de los Comités, ratificado por la Sala, se retira el proyecto de la Tabla y se acuerda tratarlo en Fácil Despacho en la sesión del día miércoles 1 de junio. Ver
+01 de Jun. de 2011 22ª / 359 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 13/06/2011 Ver
+13 de Jun. de 2011   Segundo trámite constitucional / Senado Boletín de indicaciones
+27 de Jul. de 2011   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+02 de Ago. de 2011 37ª / 359 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+03 de Ago. de 2011 40ª / 359 Segundo trámite constitucional / Senado Discusión particular Ver
+09 de Ago. de 2011 41ª / 359 Segundo trámite constitucional / Senado Discusión particular Ver
+09 de Ago. de 2011   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+10 de Ago. de 2011 68ª / 359 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+18 de Ago. de 2011 74ª / 359 Tercer trámite constitucional / C. Diputados Discusión única Ver
+18 de Ago. de 2011   Tercer trámite constitucional / C. Diputados Oficio N° 9665, que comunica aprobacion de modificaciones Ver
+18 de Ago. de 2011   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+30 de Ago. de 2011 46ª / 359 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 9665, que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7245-11","Fecha Etapa Informe Documento
+27 de Jul. de 2011 Segundo trámite constitucional Senado Segundo informe de comisión de Salud Ver
+04 de May. de 2011 Segundo trámite constitucional Senado Primer informe de comisión de Salud Ver
+11 de Ene. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Salud Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7245-11","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7245-11","Nombre Región Distrito Partido
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Pablo Lorenzini Basso VII Región del Maule N°38 Partido Demócrata Cristiano
+Marco Antonio Núñez Lozano V Región de Valparaíso N°11 Partido Por la Democracia
+Víctor Torres Jeldes V Región de Valparaíso N°15 Partido Demócrata Cristiano
+Matías Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7245-11","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+31 Votación General 4 0 0 9   Salud Ver detalle votación
+74   72 4 2 42 Aprobado Sala Ver detalle votación
+131   77 8 13 22 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7245-11","No record","Veto emmEnd"

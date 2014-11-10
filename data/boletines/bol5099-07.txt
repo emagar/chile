@@ -1,0 +1,60 @@
+* * Bill summary * *
+"emmStart Summary 5099-07","Legislatura: 355
+Fecha de ingreso: miércoles 06 de junio de 2007
+Estado: Tramitación terminada (Ley Nº 20.199 - D.Oficial 16/06/2007)
+Numero de boletín: 5099-07
+Materia: Jueces De Garantía,Region Metropolitana De Santiago (Chile) 13,Decimotercera Región (Chile),Jueces De Tribunal Oral En Lo Penal
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 07-11-2014 00:39:15
+* * Hitos de tramitación * *
+"emmStart Hitos 5099-07","Fecha Sesión Etapa Sub-etapa Documento
+06 de Jun. de 2007   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+06 de Jun. de 2007 22ª / 355 Primer trámite constitucional / Senado Cuenta del Mensaje 279-355 que hace presente la urgencia Discusión inmediata
+06 de Jun. de 2007 22ª / 355 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento y a Comisión de Hacienda. Se remite el proyecto a la Corte Suprema.
+06 de Jun. de 2007   Primer trámite constitucional / Senado Oficio Nº 535/SEC/07 a la Corte Suprema Ver
+11 de Jun. de 2007   Primer trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+12 de Jun. de 2007   Primer trámite constitucional / Senado Primer informe de comisión Ver
+12 de Jun. de 2007 24ª / 355 Primer trámite constitucional / Senado Cuenta del Mensaje 297-355 que retira y hace presente la urgencia Discusión inmediata
+12 de Jun. de 2007 24ª / 355 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Jun. de 2007 24ª / 355 Primer trámite constitucional / Senado Discusión general Ver
+12 de Jun. de 2007   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+13 de Jun. de 2007 35ª / 355 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver Ver
+13 de Jun. de 2007 25ª / 355 Primer trámite constitucional / Senado Cuenta oficio Nº 183 de la Corte Suprema
+13 de Jun. de 2007   Segundo trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+13 de Jun. de 2007   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+14 de Jun. de 2007 37ª / 355 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión. Certificados de las Comisiones de Constitución y de Hacienda. EN TABLA. Ver
+14 de Jun. de 2007 37ª / 355 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+14 de Jun. de 2007   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+14 de Jun. de 2007   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+14 de Jun. de 2007   Trámite en Tribunal Constitucional / Senado Oficio al Tribunal Constitucional Ver
+19 de Jun. de 2007 26ª / 355 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+19 de Jun. de 2007 26ª / 355 Trámite de aprobacion presidencial / Senado Cuenta del Oficio de la Presidenta de la República, en el que manifiesta que ha resuelto no hacer uso de la facultad del inciso primero del artículo 73 de la Constitución Política de la República (veto).
+19 de Jun. de 2007 26ª / 355 Trámite en Tribunal Constitucional / Senado Ingreso fallo del Tribunal Constitucional Ver
+19 de Jun. de 2007 26ª / 355 Trámite en Tribunal Constitucional / Senado Cuenta fallo del Tribunal Constitucional
+19 de Jun. de 2007   Trámite en Tribunal Constitucional / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5099-07","Fecha Etapa Informe Documento
+13 de Jun. de 2007 Segundo trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+13 de Jun. de 2007 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+12 de Jun. de 2007 Primer trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+11 de Jun. de 2007 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5099-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+12 de Jun. de 2007   Discusión inmediata 297-355  
+06 de Jun. de 2007 11 de Jun. de 2007 Discusión inmediata 279-355 297-355","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5099-07","Nombre
+Ministerio de Hacienda
+Ministerio de Justicia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5099-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+37   90 0 0 30 Aprobado Sala Ver detalle votación
+82 Votación General 10 0 0 3   Constitución Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5099-07","No record","Veto emmEnd"

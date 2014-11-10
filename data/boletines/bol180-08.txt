@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 180-08","Legislatura: 321
+Fecha de ingreso: martes 09 de octubre de 1990
+Estado: Tramitación terminada (Ley Nº 19.125 - D.Oficial 10/02/1992)
+Numero de boletín: 180-08
+Materia: Empresas,Enami
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 06:52:37
+* * Hitos de tramitación * *
+"emmStart Hitos 180-08","Fecha Sesión Etapa Sub-etapa Documento
+09 de Oct. de 1990 4ª / 321 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+09 de Oct. de 1990   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+29 de Nov. de 1990 16ª / 321 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+29 de Nov. de 1990 16ª / 321 Primer trámite constitucional / C. Diputados Primer informe de comisión Ver Ver
+13 de Dic. de 1990 20ª / 321 Primer trámite constitucional / C. Diputados Discusión general Ver
+18 de Dic. de 1990 20ª / 321 Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver Ver
+18 de Dic. de 1990 26ª / 321 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a la Comisión de Minería y Energía.
+19 de Mar. de 1991 38ª / 321 Segundo trámite constitucional / Senado Primer informe de comisión Ver
+19 de Mar. de 1991 38ª / 321 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+19 de Mar. de 1991 38ª / 321 Segundo trámite constitucional / Senado Discusión general. En discusión. La Sala acuerda recabar informe de la Comisión de Economía. Ver
+22 de Ene. de 1992 38ª / 323 Segundo trámite constitucional / Senado Primer informe de comisión Ver
+23 de Ene. de 1992 38ª / 323 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+23 de Ene. de 1992 38ª / 323 Segundo trámite constitucional / Senado Discusión general Ver
+27 de Ene. de 1992   Segundo trámite constitucional / Senado Oficio Nº2016. comunica aprobación con modificaciones a Cámara de origen Ver
+28 de Ene. de 1992 49ª / 323 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+28 de Ene. de 1992 49ª / 323 Tercer trámite constitucional / C. Diputados Discusión única Ver
+29 de Abr. de 2003   Tercer trámite constitucional / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 348","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 180-08","Fecha Etapa Informe Documento
+22 de Ene. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Economía Ver
+19 de Mar. de 1991 Segundo trámite constitucional Senado Primer informe de comisión de Minería y Energía Ver
+29 de Nov. de 1990 Primer trámite constitucional C.Diputados Primer informe de comisión de Minería y Energía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 180-08","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 180-08","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 180-08","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 180-08","No record","Veto emmEnd"

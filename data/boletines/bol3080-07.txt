@@ -1,0 +1,57 @@
+* * Bill summary * *
+"emmStart Summary 3080-07","Legislatura: 348
+Fecha de ingreso: miércoles 02 de octubre de 2002
+Estado: Archivado .
+Numero de boletín: 3080-07
+Materia: Libertad Provisional
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 22:55:14
+* * Hitos de tramitación * *
+"emmStart Hitos 3080-07","Fecha Sesión Etapa Sub-etapa Documento
+02 de Oct. de 2002   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Oct. de 2002 2ª / 348 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+02 de Oct. de 2002   Primer trámite constitucional / C. Diputados Oficio Nº3945 a la Corte Suprema Ver
+20 de Nov. de 2002 24ª / 348 Primer trámite constitucional / C. Diputados Cuenta oficio N? 3124 de la Corte Suprema Ver
+20 de Nov. de 2002 24ª / 348 Primer trámite constitucional / C. Diputados Cuenta Oficio de Corte Suprema, remite opinión solicitada Ver Ver
+11 de Dic. de 2002   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de Ene. de 2003 38ª / 348 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+09 de Ene. de 2003 41ª / 348 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+09 de Ene. de 2003   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+14 de Ene. de 2003 24ª / 348 Segundo trámite constitucional / Senado Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+09 de Sep. de 2003   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+09 de Sep. de 2003 32ª / 349 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Sep. de 2003 34ª / 349 Segundo trámite constitucional / Senado Discusión general Ver
+14 de Oct. de 2003   Segundo trámite constitucional / Senado Boletín de indicaciones
+14 de Sep. de 2004   Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 352
+08 de Mar. de 2006 62ª / 353 Segundo trámite constitucional / Senado Oficio NºL/14/06. Cuenta de oficio de la Comisión de Constitución, Legislación, Justicia y Reglamento, con el que solicita recabar el acuerdo de la Honorable Cámara de Diputados para el archivo de este PL. Se accede a lo solicitado. Ver
+10 de Mar. de 2006   Segundo trámite constitucional / Senado Oficio Nº26401. Acoge archivo previo acuerdo de la Cámara de Diputados Ver
+14 de Mar. de 2006 1ª / 354 Archivado / Cuenta oficio del Senado comunica solicitud para archivo del proyecto.
+01 de Ago. de 2006 57ª / 354 Archivado / Senado solicita archivo. Aprobado.
+08 de Ago. de 2006 40ª / 354 Segundo trámite constitucional / Senado Cuenta del Oficio Nº 6300, de la Cámara de Diputados en el que se accede al archivo solicitado.(Artículo 36 bis, inciso 3º, Reglamento.) Ver
+08 de Ago. de 2006 40ª / 354 Archivado / Se archiva el proyecto. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3080-07","Fecha Etapa Informe Documento
+09 de Sep. de 2003 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+11 de Dic. de 2002 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3080-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3080-07","Nombre Región Distrito Partido
+Pedro Araya Guerrero II Región de Antofagasta N°4 Partido Demócrata Cristiano
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Jaime Jiménez Villavicencio RM Región Metropolitana N°31 Independientes
+Iván Paredes Fierro I Región de Tarapacá N°1 Independientes
+Edgardo Riveros Marín RM Región Metropolitana N°30 Partido Demócrata Cristiano
+Eduardo Saffirio Suárez IX Región de la Araucanía N°50 Partido Demócrata Cristiano
+Patricio Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3080-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+41   70 0 0 0   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3080-07","No record","Veto emmEnd"

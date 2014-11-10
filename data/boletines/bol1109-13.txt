@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 1109-13","Legislatura: 327
+Fecha de ingreso: miércoles 20 de octubre de 1993
+Estado: Tramitación terminada (Ley Nº 19.272 - D.Oficial 09/12/1993)
+Numero de boletín: 1109-13
+Materia:
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 03:10:51
+* * Hitos de tramitación * *
+"emmStart Hitos 1109-13","Fecha Sesión Etapa Sub-etapa Documento
+20 de Oct. de 1993 10ª / 327 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+20 de Oct. de 1993   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Nov. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Nov. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+10 de Nov. de 1993 15ª / 327 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+16 de Nov. de 1993 17ª / 327 Primer trámite constitucional / C. Diputados Discusión general Ver
+17 de Nov. de 1993   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+17 de Nov. de 1993 15ª / 327 Segundo trámite constitucional / Senado Cuenta de proyecto. Queda para tabla . Aprobado en general y particular, a la vez. Se oficia a la Cámara de Diputados. Ver
+23 de Nov. de 1993   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1109-13","Fecha Etapa Informe Documento
+09 de Nov. de 1993 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+03 de Nov. de 1993 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1109-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+20 de Oct. de 1993   Suma    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1109-13","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1109-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1109-13","No record","Veto emmEnd"

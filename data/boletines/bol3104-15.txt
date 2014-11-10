@@ -1,0 +1,58 @@
+* * Bill summary * *
+"emmStart Summary 3104-15","Legislatura: 348
+Fecha de ingreso: jueves 17 de octubre de 2002
+Estado: Archivado .
+Numero de boletín: 3104-15
+Materia: Registro De Vehículos Motorizados
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 23:12:58
+* * Hitos de tramitación * *
+"emmStart Hitos 3104-15","Fecha Sesión Etapa Sub-etapa Documento
+17 de Oct. de 2002   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+17 de Oct. de 2002 9ª / 348 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+17 de Jun. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de Jun. de 2003 9ª / 349 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+16 de Jul. de 2003 18ª / 349 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+18 de Jul. de 2003   Primer trámite constitucional / C. Diputados Oficio N° 4437, al Presidente Comisión OO.PP, remite proyecto para informe complementario.
+10 de Sep. de 2003   Primer trámite constitucional / C. Diputados Primer informe complementario Ver
+11 de Sep. de 2003 40ª / 349 Primer trámite constitucional / C. Diputados Cuenta primer informe complementario Ver
+16 de Oct. de 2003 10ª / 350 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+17 de Oct. de 2003   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora
+04 de Nov. de 2003 7ª / 350 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones
+14 de Sep. de 2004   Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 352
+09 de Mar. de 2005   Segundo trámite constitucional / Senado Oficio Nº 12/TT/2005, de la Comisión de Transportes y Telecomunicaciones del Senado, en el que propone el Archivo del proyecto. Ver
+15 de Mar. de 2005 36ª / 352 Segundo trámite constitucional / Senado Cuenta del oficio de la Comisión de Transporte y Telecomunicaciones mediante la cual solicita el archivo de esta iniciativa. Se accede a lo solicitado previa consulta a la Cámara de Diputados.
+16 de Mar. de 2005   Segundo trámite constitucional / Senado Oficio Nº 24975. Oficio a la Cámara de Diputados solicitando su acuerdo para proceder al archivo del proyecto. Ver
+16 de Mar. de 2005 52ª / 352 Segundo trámite constitucional / Senado Cuenta en Cámara de Diputados de Oficio del Senado, solicita acuerdo para archivo de proyecto.
+17 de Mar. de 2005 53ª / 352 Segundo trámite constitucional / Senado En Tabla en Cámara de Diputados solicitud de archivo, se accede al archivo solicitado. Oficio al Senado, comunica lo anterior.
+17 de Mar. de 2005   Segundo trámite constitucional / Senado Archivado
+22 de Mar. de 2005 38ª / 352 Archivado / Cuenta del oficio de la Cámara de Diputados en que comunica que accedido a la solicitud de archivo presentada por el Senado.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3104-15","Fecha Etapa Informe Documento
+10 de Sep. de 2003 Primer trámite constitucional C.Diputados Primer informe complementario de Obras Públicas, Transportes y Telecomunicaciones Ver
+17 de Jun. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3104-15","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3104-15","Nombre Región Distrito Partido
+Guillermo Ceroni Fuentes VII Región del Maule N°40 Partido Por la Democracia
+Fidel Espinoza Sandoval X Región de los Lagos N°56 Partido Socialista
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Patricio Hales Dib RM Región Metropolitana N°19 Partido Por la Democracia
+Enrique Jaramillo Becker X Región de los Lagos N°54 Partido Por la Democracia
+Jaime Jiménez Villavicencio RM Región Metropolitana N°31 Independientes
+Zarko Luksic Sandoval RM Región Metropolitana N°16 Partido Demócrata Cristiano
+Darío Paya Mira RM Región Metropolitana N°28 Unión Demócrata Independiente
+Ramón Pérez Opazo I Región de Tarapacá N°2 Independientes
+Esteban Valenzuela Van Treek VI Región del Libertador Bernardo O' Higgins N°32 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3104-15","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+10   63 0 0 0   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3104-15","No record","Veto emmEnd"

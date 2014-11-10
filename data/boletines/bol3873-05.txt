@@ -1,0 +1,52 @@
+* * Bill summary * *
+"emmStart Summary 3873-05","Legislatura: 352
+Fecha de ingreso: martes 17 de mayo de 2005
+Estado: Tramitación terminada (Ley Nº 20.028 - D.Oficial 30/06/2005)
+Numero de boletín: 3873-05
+Materia: Acciones (Bolsa),Becas
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 19:49:06
+* * Hitos de tramitación * *
+"emmStart Hitos 3873-05","Fecha Sesión Etapa Sub-etapa Documento
+17 de May. de 2005 76ª / 352 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 499-352 que hace presente la urgencia Discusión inmediata Ver
+17 de May. de 2005 76ª / 352 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+17 de May. de 2005   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+17 de May. de 2005   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de May. de 2005 77ª / 352 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. (Certificado de la Comisión de Hacienda) Ver
+17 de May. de 2005 77ª / 352 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+17 de May. de 2005   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+18 de May. de 2005 54ª / 352 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+18 de May. de 2005 54ª / 352 Segundo trámite constitucional / Senado Cuenta del Mensaje 502-352 que retira y hace presente la urgencia Suma
+07 de Jun. de 2005 1ª / 353 Segundo trámite constitucional / Senado Cuenta del Mensaje 22-353 que hace presente la urgencia Discusión inmediata
+10 de Jun. de 2005   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+14 de Jun. de 2005 5ª / 353 Segundo trámite constitucional / Senado Cuenta del Mensaje 38-353 que hace presente la urgencia Discusión inmediata
+14 de Jun. de 2005 5ª / 353 Segundo trámite constitucional / Senado Discusión general Ver
+14 de Jun. de 2005 5ª / 353 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+14 de Jun. de 2005   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+15 de Jun. de 2005 5ª / 353 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver Ver
+15 de Jun. de 2005   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3873-05","Fecha Etapa Informe Documento
+10 de Jun. de 2005 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+17 de May. de 2005 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3873-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+14 de Jun. de 2005   Discusión inmediata 38-353  
+07 de Jun. de 2005   Discusión inmediata 22-353  
+18 de May. de 2005 08 de Jun. de 2005 Suma 502-352 CADUCADA
+17 de May. de 2005   Discusión inmediata 494-352  
+17 de May. de 2005 18 de May. de 2005 Discusión inmediata 499-352 502-352","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3873-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3873-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+77   82 0 0 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3873-05","No record","Veto emmEnd"

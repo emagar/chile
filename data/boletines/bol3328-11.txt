@@ -1,0 +1,34 @@
+* * Bill summary * *
+"emmStart Summary 3328-11","Legislatura: 349
+Fecha de ingreso: martes 02 de septiembre de 2003
+Estado: Archivado .
+Numero de boletín: 3328-11
+Materia: Donaciones De Organos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 01:35:00
+* * Hitos de tramitación * *
+"emmStart Hitos 3328-11","Fecha Sesión Etapa Sub-etapa Documento
+02 de Sep. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Sep. de 2003 35ª / 349 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver
+06 de May. de 2010   Primer trámite constitucional / C. Diputados Archivado Comisión Salu remite al archivo(dos años sin tramitar).","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3328-11","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3328-11","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+02 de Sep. de 2003   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3328-11","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Guido Girardi Lavín RM Región Metropolitana N°18 Partido Por la Democracia
+Enrique Jaramillo Becker X Región de los Lagos N°54 Partido Por la Democracia
+Alberto Robles Pantoja III Región de Atacama N°6 Partido Radical Social Demócrata","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3328-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3328-11","No record","Veto emmEnd"

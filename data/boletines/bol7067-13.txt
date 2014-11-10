@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 7067-13","Legislatura: 358
+Fecha de ingreso: miércoles 14 de julio de 2010
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 7067-13
+Materia: Feriado De Bicentenario,Bicentenario Chileno 1810-2010,Feriados
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 23:52:15
+* * Hitos de tramitación * *
+"emmStart Hitos 7067-13","Fecha Sesión Etapa Sub-etapa Documento
+14 de Jul. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+14 de Jul. de 2010 52ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+17 de Ago. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+19 de Ago. de 2010 66ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+31 de Ago. de 2010 67ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7067-13","Fecha Etapa Informe Documento
+17 de Ago. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7067-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7067-13","Nombre Región Distrito Partido
+Pedro Browne Urrejola RM Región Metropolitana N°28 Renovación Nacional
+José Manuel Edwards Silva IX Región de la Araucanía N°51 Renovación Nacional
+Cristián Monckeberg Bruner RM Región Metropolitana N°23 Renovación Nacional
+Nicolás Monckeberg Díaz RM Región Metropolitana N°18 Renovación Nacional
+Leopoldo Pérez Lahsen RM Región Metropolitana N°29 Renovación Nacional
+Karla Rubilar Barahona RM Región Metropolitana N°17 Renovación Nacional
+Felipe Salaberry Soto RM Región Metropolitana N°25 Unión Demócrata Independiente
+Alejandro Santana Tirachini X Región de los Lagos N°58 Renovación Nacional
+Gonzalo Uriarte Herrera RM Región Metropolitana N°31 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7067-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+18 Votación General 2 9 2 0   Trabajo Ver detalle votación
+67   67 14 11 28 Aprobado Sala Ver detalle votación
+67 Indicación sustitutiva de la diputada Karla Rubilar y de los diputados Santana, Leopoldo Pérez, Browne, Auth, Chahín, Nicolás Monckeberg, Tuma y Araya, para sustituir el artículo único por el siguiente: “Artículo único.- Reemplázase en el inciso segundo del artículo 38 del Código del Trabajo la oración que se ubica a continuación de su punto seguido (.) por las siguientes: “Las horas trabajadas en dichos días se pagarán con un cincuenta por ciento de recargo, sin perjuicio de lo dispuesto en el inciso quinto de este artículo. Se considerará como base de cálculo la suma de la remuneración fija y la variable de dichas horas. Para la determinación de esta última se considerará el promedio de valor hora de los últimos tres meses o, en caso de ser menor, del tiempo en que el trabajador ha prestado servicios en la empresa.”. 45 36 12 27 Rechazado Sala Ver detalle votación
+67 Texto del artículo único que figura en la página 8 del informe de la Comisión de Trabajo y Seguridad Social. 31 57 12 20 Rechazado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7067-13","No record","Veto emmEnd"

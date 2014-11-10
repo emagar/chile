@@ -1,0 +1,29 @@
+* * Bill summary * *
+"emmStart Summary 4787-01","Legislatura: 354
+Fecha de ingreso: jueves 28 de diciembre de 2006
+Estado: Primer trámite constitucional .
+Numero de boletín: 4787-01
+Materia: Semillas
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 06-11-2014 08:30:39
+* * Hitos de tramitación * *
+"emmStart Hitos 4787-01","Fecha Sesión Etapa Sub-etapa Documento
+28 de Dic. de 2006   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+03 de Ene. de 2007 81ª / 354 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Agricultura","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4787-01","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4787-01","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4787-01","Nombre
+Alejandro Navarro Brain","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4787-01","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4787-01","No record","Veto emmEnd"

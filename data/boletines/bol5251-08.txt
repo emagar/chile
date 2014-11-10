@@ -1,0 +1,67 @@
+* * Bill summary * *
+"emmStart Summary 5251-08","Legislatura: 355
+Fecha de ingreso: lunes 06 de agosto de 2007
+Estado: Tramitación terminada (Ley Nº 20.220 - D.Oficial 14/09/2007)
+Numero de boletín: 5251-08
+Materia: Servicios Eléctricos,Garantía De Suministro Eléctrico
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 07-11-2014 02:24:58
+* * Hitos de tramitación * *
+"emmStart Hitos 5251-08","Fecha Sesión Etapa Sub-etapa Documento
+06 de Ago. de 2007   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+07 de Ago. de 2007 40ª / 355 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Minería y Energía
+07 de Ago. de 2007 40ª / 355 Primer trámite constitucional / Senado Cuenta del Mensaje 544-355 que hace presente la urgencia Discusión inmediata
+14 de Ago. de 2007 43ª / 355 Primer trámite constitucional / Senado Cuenta del Mensaje 582-355 que retira la urgencia Discusión inmediata
+14 de Ago. de 2007 43ª / 355 Primer trámite constitucional / Senado Cuenta del Mensaje 582-355 que hace presente la urgencia Suma
+28 de Ago. de 2007 44ª / 355 Primer trámite constitucional / Senado Cuenta del Mensaje 614-355 que retira y hace presente la urgencia Discusión inmediata
+31 de Ago. de 2007   Primer trámite constitucional / Senado Primer informe de comisión Ver
+04 de Sep. de 2007 47ª / 355 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+04 de Sep. de 2007 47ª / 355 Primer trámite constitucional / Senado Cuenta del Mensaje 644-355 que retira y hace presente la urgencia Discusión inmediata
+04 de Sep. de 2007 47ª / 355 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 04/09/2007 Ver
+05 de Sep. de 2007   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+05 de Sep. de 2007 49ª / 355 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+05 de Sep. de 2007 49ª / 355 Primer trámite constitucional / Senado Discusión particular Ver
+05 de Sep. de 2007   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+06 de Sep. de 2007 75ª / 355 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Minería y Energía Ver Ver
+11 de Sep. de 2007   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Sep. de 2007 76ª / 355 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 676-355 que retira y hace presente la urgencia Discusión inmediata Ver
+12 de Sep. de 2007 77ª / 355 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+12 de Sep. de 2007 77ª / 355 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+12 de Sep. de 2007   Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver
+12 de Sep. de 2007 52ª / 355 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora Ver
+12 de Sep. de 2007 52ª / 355 Tercer trámite constitucional / Senado Discusión única. Se aprueban las modificaciones de la Cámara de Diputados.
+12 de Sep. de 2007   Tercer trámite constitucional / Senado Oficio Nº 1208/07, que comunica aprobación de modificaciones Ver
+12 de Sep. de 2007   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+02 de Oct. de 2007 79ª / 355 Tercer trámite constitucional / Senado Cuenta oficio Nº 1208/07, que comunica aprobación de modificaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5251-08","Fecha Etapa Informe Documento
+11 de Sep. de 2007 Segundo trámite constitucional C.Diputados Primer informe de comisión de Minería y Energía Ver
+05 de Sep. de 2007 Primer trámite constitucional Senado Segundo informe de comisión de Minería y Energía Ver
+31 de Ago. de 2007 Primer trámite constitucional Senado Primer informe de comisión de Minería y Energía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5251-08","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+11 de Sep. de 2007   Discusión inmediata 676-355  
+04 de Sep. de 2007 11 de Sep. de 2007 Discusión inmediata 644-355 676-355
+28 de Ago. de 2007 31 de Ago. de 2007 Discusión inmediata 614-355 644-355
+14 de Ago. de 2007 24 de Ago. de 2007 Suma 582-355 614-355
+07 de Ago. de 2007 13 de Ago. de 2007 Discusión inmediata 544-355 582-355","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5251-08","Nombre
+Comisión Nacional de Energía
+Ministerio de Economía, Fomento y Turism","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5251-08","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+77   63 28 9 20 Aprobado Sala Ver detalle votación
+77 146 bis, contenido en el número 4 del artículo único. 65 35 4 16 Aprobado Sala Ver detalle votación
+77 3° transitorio consignado en el informe de la Comisión de Minería y Energía. 89 0 6 25 Aprobado Sala Ver detalle votación
+77 2° transitorio. 67 37 1 15 Aprobado Sala Ver detalle votación
+77 3° transitorio, con indicación de los señores Mulet, Encina, Aedo, Marcos Espinosa y García. 19 74 9 18 Rechazado Sala Ver detalle votación
+77 146 ter, contenido en el número 4 del artículo único. 92 0 1 27 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5251-08","No record","Veto emmEnd"

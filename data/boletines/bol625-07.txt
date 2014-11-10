@@ -1,0 +1,39 @@
+* * Bill summary * *
+"emmStart Summary 625-07","Legislatura: 323
+Fecha de ingreso: miércoles 11 de marzo de 1992
+Estado: Tramitación terminada (Ley Nº 19.241 - D.Oficial 28/08/1993)
+Numero de boletín: 625-07
+Materia: Secuestro,Menores
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 20:50:14
+* * Hitos de tramitación * *
+"emmStart Hitos 625-07","Fecha Sesión Etapa Sub-etapa Documento
+11 de Mar. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+11 de Mar. de 1992 53ª / 323 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+06 de Ago. de 1992 15ª / 324 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+05 de Abr. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+06 de Abr. de 1993 39ª / 325 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+21 de Abr. de 1993 46ª / 325 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 06/05/1993 Ver
+06 de Jul. de 1993 8ª / 326 Segundo trámite constitucional / Senado Por acuerdo de Comités se fija nuevo plazo de indicaciones hasta el 12 de julio.
+13 de Jul. de 1993   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+14 de Jul. de 1993 11ª / 326 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+21 de Jul. de 1993 13ª / 326 Segundo trámite constitucional / Senado Discusión particular Ver
+02 de Ago. de 1993   Segundo trámite constitucional / Senado Oficio Nº4790. Oficio a la Cámara de Diputados comunicándole la aprobación del proyecto, con modificaciones. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 625-07","Fecha Etapa Informe Documento
+13 de Jul. de 1993 Segundo trámite constitucional Senado Segundo informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+05 de Abr. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 625-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 625-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 625-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 625-07","No record","Veto emmEnd"

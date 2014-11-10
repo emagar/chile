@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 6969-01","Legislatura: 358
+Fecha de ingreso: miércoles 02 de junio de 2010
+Estado: Primer trámite constitucional .
+Numero de boletín: 6969-01
+Materia: Plaguicidas
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 08-11-2014 22:44:54
+* * Hitos de tramitación * *
+"emmStart Hitos 6969-01","Fecha Sesión Etapa Sub-etapa Documento
+02 de Jun. de 2010   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+02 de Jun. de 2010 23ª / 358 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Agricultura
+22 de Dic. de 2010   Primer trámite constitucional / Senado Primer informe de comisión Ver
+04 de Ene. de 2011 81ª / 358 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+05 de Ene. de 2011 84ª / 358 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 07/03/2011 Ver
+11 de Ene. de 2011 85ª / 358 Primer trámite constitucional / Senado Por acuerdo de los Comités, ratificado por la sala, se abre plazo para presentar indicaciones hasta las 13 horas del lunes 7 de marzo de 2011. Ver
+01 de Mar. de 2011   Primer trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 14/03/2011 a las 13:00 en Secretaría.
+15 de Mar. de 2011 1ª / 359 Primer trámite constitucional / Senado Por acuerdo de los Comités, ratificado por la Sala, se abre un nuevo plazo para presentar indicaciones, hasta las 16 horas del miércoles 16 de marzo de 2011.
+15 de Mar. de 2011   Primer trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 16/03/2011 a las 16:00 en Secretaría.
+17 de Mar. de 2011   Primer trámite constitucional / Senado Boletín de indicaciones
+19 de Abr. de 2011 10ª / 359 Primer trámite constitucional / Senado Por acuerdo de los comités, ratificado por la Sala, se abre un nuevo plazo para presentar indicaciones, hasta las 13 horas del lunes 2 de mayo, en la Secretaría de la Comisión de Agricultura.
+19 de Abr. de 2011   Primer trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 02/05/2011 a las 13:00 en la Secretaría de la Comisión de Agricultura","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6969-01","Fecha Etapa Informe Documento
+04 de Ene. de 2011 Primer trámite constitucional Senado Primer informe de comisión de Agricultura Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6969-01","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6969-01","Nombre
+Jorge Pizarro Soto
+Jaime Quintana Leal
+Ximena Rincón González
+Patricio Walker Prieto
+Ignacio Walker Prieto","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6969-01","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6969-01","No record","Veto emmEnd"

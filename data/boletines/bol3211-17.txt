@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 3211-17","Legislatura: 348
+Fecha de ingreso: miércoles 02 de abril de 2003
+Estado: Primer trámite constitucional .
+Numero de boletín: 3211-17
+Materia: Iglesias
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 00:24:35
+* * Hitos de tramitación * *
+"emmStart Hitos 3211-17","Fecha Sesión Etapa Sub-etapa Documento
+02 de Abr. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Abr. de 2003 62ª / 348 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+02 de Abr. de 2003   Primer trámite constitucional / C. Diputados Oficio de consulta a Corte Suprema Ver
+08 de Jul. de 2003 14ª / 349 Primer trámite constitucional / C. Diputados Cuenta Oficio Comisión Especial de Drogas, solicita remisión de proyecto. Queda en tabla. Ver
+03 de Sep. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión Especial sobre drogas Ver
+15 de Oct. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+28 de Oct. de 2003 11ª / 350 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3211-17","Fecha Etapa Informe Documento
+15 de Oct. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión Especial sobre Drogas Ver
+03 de Sep. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3211-17","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+08 de Jul. de 2003   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3211-17","Nombre Región Distrito Partido
+Pedro Araya Guerrero II Región de Antofagasta N°4 Partido Demócrata Cristiano
+Juan Bustos Ramírez V Región de Valparaíso N°12 Partido Socialista
+Antonio Leal Labrín III Región de Atacama N°5 Partido Por la Democracia
+Arturo Longton Guerrero V Región de Valparaíso N°12 Renovación Nacional
+Sergio Ojeda Uribe X Región de los Lagos N°55 Partido Demócrata Cristiano
+Osvaldo Palma Flores VII Región del Maule N°39 Renovación Nacional
+Alberto Robles Pantoja III Región de Atacama N°6 Partido Radical Social Demócrata
+Fulvio Rossi Ciocca I Región de Tarapacá N°2 Independientes","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3211-17","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3211-17","No record","Veto emmEnd"

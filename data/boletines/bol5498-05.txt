@@ -1,0 +1,52 @@
+* * Bill summary * *
+"emmStart Summary 5498-05","Legislatura: 355
+Fecha de ingreso: jueves 22 de noviembre de 2007
+Estado: Tramitación terminada (Ley Nº 20.233 - D.Oficial 06/12/2007)
+Numero de boletín: 5498-05
+Materia: Sector Público,Reajuste De Remuneraciones Sector Público
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 05:23:37
+* * Hitos de tramitación * *
+"emmStart Hitos 5498-05","Fecha Sesión Etapa Sub-etapa Documento
+22 de Nov. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+22 de Nov. de 2007 110ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+22 de Nov. de 2007 110ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1089-355 que hace presente la urgencia Discusión inmediata Ver
+22 de Nov. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+22 de Nov. de 2007 110ª / 355 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+22 de Nov. de 2007   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+22 de Nov. de 2007 71ª / 355 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+22 de Nov. de 2007   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+22 de Nov. de 2007 71ª / 355 Segundo trámite constitucional / Senado Discusión general Ver
+22 de Nov. de 2007   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+22 de Nov. de 2007 110ª / 355 Tercer trámite constitucional / C. Diputados Discusión única Ver
+22 de Nov. de 2007   Tercer trámite constitucional / C. Diputados Oficio Nº 7134, que comunica aprobación de modificaciones Ver
+04 de Dic. de 2007 111ª / 355 Trámite de aprobacion presidencial / C. Diputados P. de la Rep. comunica que no hará uso de la facultad del inciso primero del art. 73 de la Const. Pol. de la Rep. Ver
+04 de Dic. de 2007   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+05 de Dic. de 2007 112ª / 355 Trámite de aprobacion presidencial / C. Diputados Cuenta oficio Nº 1572 del Tribunal Constitucional Ver Ver
+05 de Dic. de 2007 73ª / 355 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 7134, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5498-05","Fecha Etapa Informe Documento
+22 de Nov. de 2007 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+22 de Nov. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5498-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+22 de Nov. de 2007   Discusión inmediata 1089-355  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5498-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5498-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+110   51 34 1 34 Aprobado Sala Ver detalle votación
+110 28, inciso tercero. 90 0 1 29 Aprobado Sala Ver detalle votación
+110 Indicación de los señores Lorenzini y otros al artículo 1°. 23 56 3 38 Rechazado Sala Ver detalle votación
+110 1°. 85 0 2 0 Aprobado Sala Ver detalle votación
+110 Enmienda del Senado consistente en la supresión del artículo 36. 64 3 1 52 Aprobado Sala Ver detalle votación
+121 Votación General 11 0 0 2   Hacienda Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5498-05","No record","Veto emmEnd"

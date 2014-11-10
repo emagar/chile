@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 6534-07","Legislatura: 357
+Fecha de ingreso: martes 02 de junio de 2009
+Estado: Primer trámite constitucional .
+Numero de boletín: 6534-07
+Materia: Comunicación Sexual,Código Penal
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 09:06:18
+* * Hitos de tramitación * *
+"emmStart Hitos 6534-07","Fecha Sesión Etapa Sub-etapa Documento
+02 de Jun. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Jun. de 2009 34ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+04 de Jun. de 2009 36ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 516-357 que hace presente la urgencia Simple Ver
+07 de Jul. de 2009 49ª / 357 Tramitación terminada / Cuenta del Mensaje 682-357 que hace presente la urgencia Simple
+07 de Jul. de 2009 49ª / 357 Primer trámite constitucional / C. Diputados P. de la R.retira y hace presente urgencia simple Ver
+11 de Ago. de 2009 61ª / 357 Tramitación terminada / Cuenta del Mensaje 895-357 que retira y hace presente la urgencia Simple
+11 de Ago. de 2009 61ª / 357 Primer trámite constitucional / C. Diputados P. de la Rep. retira y hace presente urgencia \""simple\"". A COMIISÓN DE CONSTITUCIÓN. Ver
+15 de Sep. de 2009 80ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1128-357 que retira y hace presente la urgencia Simple Ver
+29 de Sep. de 2009 82ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1188-357 que retira la urgencia Simple Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6534-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6534-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+15 de Sep. de 2009 28 de Sep. de 2009 Simple 1128-357 1188-357
+11 de Ago. de 2009 15 de Sep. de 2009 Simple 895-357 1128-357
+07 de Jul. de 2009 11 de Ago. de 2009 Simple 682-357 895-357
+04 de Jun. de 2009 07 de Jul. de 2009 Simple 516-357 682-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6534-07","Nombre Región Distrito Partido
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Patricio Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6534-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6534-07","No record","Veto emmEnd"

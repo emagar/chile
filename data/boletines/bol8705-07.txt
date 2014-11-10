@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 8705-07","Legislatura: 360
+Fecha de ingreso: martes 27 de noviembre de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8705-07
+Materia: Penas Sustitutivas De Libertad
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 04:45:04
+* * Hitos de tramitación * *
+"emmStart Hitos 8705-07","Fecha Sesión Etapa Sub-etapa Documento
+27 de Nov. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+27 de Nov. de 2012 106ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+12 de Dic. de 2012 111ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 394-360 que hace presente la urgencia Simple Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8705-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8705-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+12 de Dic. de 2012   Simple 394-360  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8705-07","Nombre Región Distrito Partido
+María Angélica Cristi Marfil RM Región Metropolitana N°24 Unión Demócrata Independiente
+José Manuel Edwards Silva IX Región de la Araucanía N°51 Renovación Nacional
+Gustavo Hasbún Selume RM Región Metropolitana N°26 Unión Demócrata Independiente
+María José Hoffmann Opazo V Región de Valparaíso N°15 Unión Demócrata Independiente
+Tucapel Jiménez Fuentes RM Región Metropolitana N°27 Partido Por la Democracia
+Issa Farid Kort Garriga VI Región del Libertador Bernardo O' Higgins N°32 Unión Demócrata Independiente
+Cristian Letelier Aguilar RM Región Metropolitana N°31 Independientes
+Arturo Squella Ovalle V Región de Valparaíso N°12 Unión Demócrata Independiente
+Enrique Van Rysselberghe Herrera VIII Región del Bío Bío N°44 Unión Demócrata Independiente
+Mónica Zalaquett Said RM Región Metropolitana N°20 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8705-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8705-07","No record","Veto emmEnd"

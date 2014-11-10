@@ -1,0 +1,60 @@
+* * Bill summary * *
+"emmStart Summary 3800-15","Legislatura: 352
+Fecha de ingreso: jueves 03 de marzo de 2005
+Estado: Tramitación terminada (Ley Nº 20.508 - D.Oficial 18/04/2011)
+Numero de boletín: 3800-15
+Materia: Cinturón De Seguridad,Transporte
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 17:37:07
+* * Hitos de tramitación * *
+"emmStart Hitos 3800-15","Fecha Sesión Etapa Sub-etapa Documento
+03 de Mar. de 2005   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Mar. de 2005 46ª / 352 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+02 de Ene. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+04 de Ene. de 2007 115ª / 354 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+08 de Mar. de 2007   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+08 de Mar. de 2007 128ª / 354 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+13 de Mar. de 2007 1ª / 355 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones Ver
+14 de Dic. de 2010 75ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 554-358 que hace presente la urgencia Simple
+12 de Ene. de 2011   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+18 de Ene. de 2011 87ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 652-358 que retira y hace presente la urgencia Simple
+18 de Ene. de 2011 87ª / 358 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+19 de Ene. de 2011 89ª / 358 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 14/03/2011 Ver
+01 de Mar. de 2011 90ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 698-358 que retira y hace presente la urgencia Simple Ver
+15 de Mar. de 2011 1ª / 359 Segundo trámite constitucional / Senado Al no presentarse indicaciones al texto aprobado en general y de conformidad al artículo 120 del Reglamento del Senado, se aprueba también en particular. Pasa a tercer trámite a la Cámara de Diputados.
+15 de Mar. de 2011 1ª / 359 Segundo trámite constitucional / Senado Discusión particular Ver
+15 de Mar. de 2011   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+16 de Mar. de 2011 3ª / 359 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+22 de Mar. de 2011 5ª / 359 Tercer trámite constitucional / C. Diputados Discusión única Ver
+22 de Mar. de 2011   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+23 de Mar. de 2011 5ª / 359 Tercer trámite constitucional / C. Diputados Cuenta oficio N° , que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3800-15","Fecha Etapa Informe Documento
+12 de Ene. de 2011 Segundo trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver
+02 de Ene. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3800-15","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+01 de Mar. de 2011   Simple 698-358  
+18 de Ene. de 2011 01 de Mar. de 2011 Simple 652-358 698-358
+14 de Dic. de 2010 18 de Ene. de 2011 Simple 554-358 652-358","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3800-15","Nombre Región Distrito Partido
+Rodrigo Alvarez Zenteno XII Región de Magallanes y de la Antártica Chilena N°60 Unión Demócrata Independiente
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Marcelo Forni Lobos V Región de Valparaíso N°11 Unión Demócrata Independiente
+Javier Hernández Hernández X Región de los Lagos N°55 Unión Demócrata Independiente
+Gonzalo Uriarte Herrera RM Región Metropolitana N°31 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3800-15","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+128   86 4 1 0 Aprobado Sala Ver detalle votación
+5 Enmiendas del Senado. 112 1 0 0 Aprobado Sala Ver detalle votación
+26 Votación General 8 0 2 3   Obras Públicas Ver detalle votación
+23 Votación General 4 3 0 6   Obras Públicas Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3800-15","No record","Veto emmEnd"

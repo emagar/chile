@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 811-13","Legislatura: 325
+Fecha de ingreso: jueves 08 de octubre de 1992
+Estado: Tramitación terminada (Ley Nº 19.240 - D.Oficial 08/09/1993)
+Numero de boletín: 811-13
+Materia: Plantas Y Grados
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 23:16:51
+* * Hitos de tramitación * *
+"emmStart Hitos 811-13","Fecha Sesión Etapa Sub-etapa Documento
+06 de Oct. de 1992 1ª / 325 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+08 de Oct. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+14 de Abr. de 1993 43ª / 325 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social y a Comisión de Hacienda
+21 de May. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+11 de Jun. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+15 de Jun. de 1993 5ª / 326 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+30 de Jun. de 1993 7ª / 326 Segundo trámite constitucional / Senado Discusión general. Aprobado en general se fija plazo para indicaciones hasta el 12 de julio. Ver
+13 de Jul. de 1993   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+14 de Jul. de 1993 11ª / 326 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+04 de Ago. de 1993 15ª / 326 Segundo trámite constitucional / Senado Discusión particular Ver
+10 de Ago. de 1993   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+18 de Ago. de 1993 19ª / 326 Tramitación terminada / Cuenta oficio Nº 1329, de la Cámara, comunicando aprobación de modificaciones propuestas por el Senado","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 811-13","Fecha Etapa Informe Documento
+13 de Jul. de 1993 Segundo trámite constitucional Senado Segundo informe de comisión de Hacienda Ver
+11 de Jun. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+21 de May. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 811-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 811-13","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 811-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 811-13","No record","Veto emmEnd"

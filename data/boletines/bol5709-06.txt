@@ -1,0 +1,72 @@
+* * Bill summary * *
+"emmStart Summary 5709-06","Legislatura: 355
+Fecha de ingreso: martes 15 de enero de 2008
+Estado: Segundo trámite constitucional .
+Numero de boletín: 5709-06
+Materia: Estatuto Administrativo,Licencia Médica
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 22:21:43
+* * Hitos de tramitación * *
+"emmStart Hitos 5709-06","Fecha Sesión Etapa Sub-etapa Documento
+15 de Ene. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+15 de Ene. de 2008 130ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+15 de Sep. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+16 de Sep. de 2008 81ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+16 de Sep. de 2008 81ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+16 de Sep. de 2008   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+30 de Sep. de 2008 55ª / 356 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización Ver
+07 de Jul. de 2009 31ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 714-357 que hace presente la urgencia Simple
+11 de Ago. de 2009 40ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 912-357 que retira y hace presente la urgencia Simple
+16 de Sep. de 2009 51ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1152-357 que retira y hace presente la urgencia Simple
+29 de Sep. de 2009 52ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1228-357 que retira y hace presente la urgencia Suma
+29 de Sep. de 2009 52ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1228-357 que retira y hace presente la urgencia Suma
+13 de Oct. de 2009 57ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1312-357 que retira y hace presente la urgencia Suma
+27 de Oct. de 2009 59ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1381-357 que retira y hace presente la urgencia Suma
+04 de Nov. de 2009 62ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1484-357 que retira y hace presente la urgencia Simple
+17 de Nov. de 2009 69ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1595-357 que retira la urgencia Simple
+15 de Dic. de 2009 75ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1691-357 que hace presente la urgencia Simple
+05 de Ene. de 2010 79ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1754-357 que retira y hace presente la urgencia Suma
+05 de Ene. de 2010 79ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1754-357 que hace presente la urgencia Simple
+19 de Ene. de 2010 83ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1888-357 que retira la urgencia Simple
+14 de Sep. de 2010   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+29 de Sep. de 2010 56ª / 358 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+29 de Sep. de 2010 56ª / 358 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+03 de Nov. de 2010 64ª / 358 Segundo trámite constitucional / Senado Discusión general. Se solicita informe complementario La Sala acuerda enviar este proyecto en consulta a la Comisión de Constitución, Legislación , Justicia y Reglamento para que informe respecto de la constitucionalidad del mismo. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5709-06","Fecha Etapa Informe Documento
+14 de Sep. de 2010 Segundo trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver
+15 de Sep. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5709-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+05 de Ene. de 2010 19 de Ene. de 2010 Simple 1754-357 1888-357
+15 de Dic. de 2009 05 de Ene. de 2010 Simple 1691-357 1754-357
+04 de Nov. de 2009 17 de Nov. de 2009 Simple 1484-357 1595-357
+27 de Oct. de 2009 04 de Nov. de 2009 Suma 1381-357 1484-357
+13 de Oct. de 2009 27 de Oct. de 2009 Suma 1312-357 1381-357
+29 de Sep. de 2009 13 de Oct. de 2009 Suma 1228-357 1312-357
+16 de Sep. de 2009 28 de Sep. de 2009 Simple 1152-357 1228-357
+11 de Ago. de 2009 16 de Sep. de 2009 Simple 912-357 1152-357
+07 de Jul. de 2009 11 de Ago. de 2009 Simple 714-357 912-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5709-06","Nombre Región Distrito Partido
+Gonzalo Duarte Leiva RM Región Metropolitana N°26 Partido Demócrata Cristiano
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Sergio Ojeda Uribe X Región de los Lagos N°55 Partido Demócrata Cristiano
+José Miguel Ortiz Novoa VIII Región del Bío Bío N°44 Partido Demócrata Cristiano
+Jorge Sabag Villalobos VIII Región del Bío Bío N°42 Partido Demócrata Cristiano
+Eduardo Saffirio Suárez IX Región de la Araucanía N°50 Partido Demócrata Cristiano
+Gabriel Silber Romo RM Región Metropolitana N°16 Partido Demócrata Cristiano
+Patricio Vallespín López X Región de los Lagos N°57 Partido Demócrata Cristiano
+Mario Venegas Cárdenas IX Región de la Araucanía N°48 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5709-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+81   58 0 0 62 Aprobado Sala Ver detalle votación
+83 Votación General 6 0 0 7   Gobierno Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5709-06","No record","Veto emmEnd"

@@ -1,0 +1,59 @@
+* * Bill summary * *
+"emmStart Summary 3376-15","Legislatura: 350
+Fecha de ingreso: miércoles 15 de octubre de 2003
+Estado: Segundo trámite constitucional .
+Numero de boletín: 3376-15
+Materia: Tránsito,Licencias De Conducir
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 02:05:23
+* * Hitos de tramitación * *
+"emmStart Hitos 3376-15","Fecha Sesión Etapa Sub-etapa Documento
+15 de Oct. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+15 de Oct. de 2003 9ª / 350 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+14 de Sep. de 2004   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Oct. de 2004 2ª / 352 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+20 de Oct. de 2004 11ª / 352 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+20 de Oct. de 2004   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+02 de Nov. de 2004 9ª / 352 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones Ver
+30 de Jun. de 2009 29ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 666-357 que retira y hace presente la urgencia Simple
+01 de Jul. de 2009 30ª / 357 Segundo trámite constitucional / Senado La Sala acuerda, a solicitud del Senador señor Girardi, autorizar a la Comisión de Transportes y Telecomunicaciones para discutir este proyecto en general y en particular en el primer informe.
+04 de Ago. de 2009 37ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 857-357 que retira y hace presente la urgencia Simple
+08 de Sep. de 2009 46ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1081-357 que retira y hace presente la urgencia Simple
+13 de Oct. de 2009 57ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1330-357 que retira y hace presente la urgencia Simple
+04 de Nov. de 2009 62ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1471-357 que retira la urgencia Simple
+19 de Oct. de 2011 64ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 426-359 que hace presente la urgencia Simple
+02 de Nov. de 2011 65ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 430-359 que retira la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3376-15","Fecha Etapa Informe Documento
+14 de Sep. de 2004 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3376-15","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+19 de Oct. de 2011 21 de Oct. de 2011 Simple 426-359 430-359
+13 de Oct. de 2009 04 de Nov. de 2009 Simple 1330-357 1471-357
+08 de Sep. de 2009 13 de Oct. de 2009 Simple 1081-357 1330-357
+04 de Ago. de 2009 08 de Sep. de 2009 Simple 857-357 1081-357
+30 de Jun. de 2009 04 de Ago. de 2009 Simple 666-357 857-357
+15 de Oct. de 2003 30 de Jun. de 2009 Sin urgencia   666-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3376-15","Nombre Región Distrito Partido
+Pedro Araya Guerrero II Región de Antofagasta N°4 Partido Demócrata Cristiano
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Guillermo Ceroni Fuentes VII Región del Maule N°40 Partido Por la Democracia
+Roberto Delmastro Naso X Región de los Lagos N°53 Independientes
+Fidel Espinoza Sandoval X Región de los Lagos N°56 Partido Socialista
+Zarko Luksic Sandoval RM Región Metropolitana N°16 Partido Demócrata Cristiano
+Fernando Meza Moncada IX Región de la Araucanía N°52 Partido Radical Social Demócrata
+Edgardo Riveros Marín RM Región Metropolitana N°30 Partido Demócrata Cristiano
+Felipe Salaberry Soto RM Región Metropolitana N°25 Unión Demócrata Independiente
+Rodolfo Seguel Molina RM Región Metropolitana N°28 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3376-15","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+11   35 2 3 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3376-15","No record","Veto emmEnd"

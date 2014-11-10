@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 1765-17","Legislatura: 332
+Fecha de ingreso: miércoles 06 de diciembre de 1995
+Estado: Tramitación terminada (Ley Nº 19.441 - D.Oficial 23/01/1996)
+Numero de boletín: 1765-17
+Materia: Corporación Nacional De Reparación Y Reconciliación,Reconciliación
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 14:15:37
+* * Hitos de tramitación * *
+"emmStart Hitos 1765-17","Fecha Sesión Etapa Sub-etapa Documento
+06 de Dic. de 1995 32ª / 332 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+06 de Dic. de 1995   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Dic. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+06 de Dic. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+06 de Dic. de 1995 33ª / 332 Primer trámite constitucional / C. Diputados Discusión general Ver
+06 de Dic. de 1995 33ª / 332 Primer trámite constitucional / C. Diputados Discusión general. Los Informes no pasarón por la Of. de Partes Ver
+12 de Dic. de 1995   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+12 de Dic. de 1995 23ª / 332 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía
+10 de Ene. de 1996   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+10 de Ene. de 1996   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+17 de Ene. de 1996   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+17 de Ene. de 1996 32ª / 332 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+17 de Ene. de 1996 32ª / 332 Segundo trámite constitucional / Senado Discusión general Ver
+17 de Ene. de 1996   Segundo trámite constitucional / Senado Oficio Nº9474. comunica aprobación del proyecto con modificaciones a Cámara de origen Ver
+18 de Ene. de 1996 44ª / 332 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+18 de Ene. de 1996 44ª / 332 Tercer trámite constitucional / C. Diputados Discusión única Ver
+18 de Ene. de 1996   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1765-17","Fecha Etapa Informe Documento
+17 de Ene. de 1996 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+16 de Ene. de 1996 Segundo trámite constitucional Senado Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+10 de Ene. de 1996 Segundo trámite constitucional Senado Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+06 de Dic. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+06 de Dic. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1765-17","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+06 de Dic. de 1995   Discusión inmediata    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1765-17","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1765-17","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1765-17","No record","Veto emmEnd"

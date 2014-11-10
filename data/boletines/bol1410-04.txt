@@ -1,0 +1,63 @@
+* * Bill summary * *
+"emmStart Summary 1410-04","Legislatura: 330
+Fecha de ingreso: jueves 20 de octubre de 1994
+Estado: Tramitación terminada (Ley Nº 19.556 - D.Oficial 19/03/1998)
+Numero de boletín: 1410-04
+Materia: Servicio De Bienestar Del Magisterio
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 08:44:45
+* * Hitos de tramitación * *
+"emmStart Hitos 1410-04","Fecha Sesión Etapa Sub-etapa Documento
+20 de Oct. de 1994   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de Oct. de 1994 8ª / 330 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+08 de Mar. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda
+03 de May. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+04 de May. de 1995 66ª / 330 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+04 de May. de 1995 66ª / 330 Primer trámite constitucional / C. Diputados Discusión general Ver
+09 de May. de 1995   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+09 de May. de 1995 58ª / 330 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+07 de Jun. de 1995   Segundo trámite constitucional / Senado Cambio en Providencia, por acuerdo de la Sala, de esta fecha, a petición Comisión de Educación Comisiones: : C. De Educacion, C: C. De Constitucion: C. De Hacienda
+13 de Mar. de 1996 40ª / 332 Segundo trámite constitucional / Senado Presidente de la República incluye proyecto en convocatoria a Legislatura Extraordinaria
+01 de Oct. de 1996 1ª / 334 Segundo trámite constitucional / Senado Presidente de la República incluye proyecto en convocatoria a Legislatura Extraordinaria
+12 de Mar. de 1997   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento Ver
+11 de Nov. de 1997   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+11 de Nov. de 1997 11ª / 336 Segundo trámite constitucional / Senado Presidente de la República incluye proyecto en convocatoria a Legislatura Extraordinaria
+18 de Nov. de 1997 13ª / 336 Segundo trámite constitucional / Senado Por acuerdo de la Sala, se exime el proyecto del trámite a la Comisión de trabajo y Previsión Social
+13 de Ene. de 1998   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+14 de Ene. de 1998 28ª / 336 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+21 de Ene. de 1998 32ª / 336 Segundo trámite constitucional / Senado Discusión general Ver
+03 de Mar. de 1998   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen
+03 de Mar. de 1998 31ª / 336 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+03 de Mar. de 1998 32ª / 336 Tercer trámite constitucional / C. Diputados Discusión única Ver
+03 de Mar. de 1998   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+17 de Mar. de 1998 1ª / 337 Trámite de aprobacion presidencial / C. Diputados S.E. el Pdte. de la República incluye el proyecto en la Legislatura Extraordinaria 337 Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1410-04","Fecha Etapa Informe Documento
+13 de Ene. de 1998 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+11 de Nov. de 1997 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+12 de Mar. de 1997 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+03 de May. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+08 de Mar. de 1095 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1410-04","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+19 de Mar. de 1996 02 de Abr. de 1996 Simple 56789-329 58743-290
+18 de Sep. de 1995 18 de Sep. de 1995 Simple 54134-330 CADUCADA
+31 de May. de 1995 01 de Jul. de 1995 Simple 20017 CADUCADA
+11 de Abr. de 1995 11 de May. de 1995 Simple 569-330 CADUCADA
+07 de Mar. de 1995 11 de Abr. de 1995 Simple 470-330 569-330
+10 de Ene. de 1995 10 de Feb. de 1995 Simple 403-30 CADUCADA
+13 de Dic. de 1994 10 de Ene. de 1995 Simple 287-330 403-30","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1410-04","Nombre Región Distrito Partido
+Ministerio de Educación      
+Ministerio de Trabajo y Previsión Social      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1410-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1410-04","No record","Veto emmEnd"

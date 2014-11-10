@@ -1,0 +1,58 @@
+* * Bill summary * *
+"emmStart Summary 6422-07","Legislatura: 357
+Fecha de ingreso: martes 31 de marzo de 2009
+Estado: Segundo trámite constitucional .
+Numero de boletín: 6422-07
+Materia: Derechos Humanos,Leyes Interpretativas
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 07:28:55
+* * Hitos de tramitación * *
+"emmStart Hitos 6422-07","Fecha Sesión Etapa Sub-etapa Documento
+31 de Mar. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+31 de Mar. de 2009 6ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+28 de Abr. de 2009 20ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 255-357 que hace presente la urgencia Suma Ver
+28 de Abr. de 2009 20ª / 357 Primer trámite constitucional / C. Diputados Por acuerdo de la Sala el proyecto pasa a la Comisión de Derechos Humanos, Nacionalidad y Ciudadanía. Ver
+05 de May. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de May. de 2009 23ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+06 de May. de 2009 25ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+06 de May. de 2009   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+15 de Jun. de 2011 26ª / 359 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+23 de Sep. de 2014 48ª / 362 Segundo trámite constitucional / Senado Cuenta del Mensaje 523-362 que hace presente la urgencia Suma
+07 de Oct. de 2014 52ª / 362 Segundo trámite constitucional / Senado Cuenta del Mensaje 631-362 que retira y hace presente la urgencia Suma
+21 de Oct. de 2014 57ª / 362 Segundo trámite constitucional / Senado Cuenta del Mensaje 688-362 que retira y hace presente la urgencia Suma
+04 de Nov. de 2014 60ª / 362 Segundo trámite constitucional / Senado Cuenta del Mensaje 764-362 que retira y hace presente la urgencia Suma","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6422-07","Fecha Etapa Informe Documento
+05 de May. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6422-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Nov. de 2014   Suma 764-362  
+21 de Oct. de 2014 04 de Nov. de 2014 Suma 688-362 764-362
+07 de Oct. de 2014 21 de Oct. de 2014 Suma 631-362 688-362
+23 de Sep. de 2014 07 de Oct. de 2014 Suma 523-362 631-362
+12 de May. de 2009 17 de Nov. de 2009 Simple 362-357 1595-357
+28 de Abr. de 2009 12 de May. de 2009 Suma 255-357 362-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6422-07","Nombre Región Distrito Partido
+Sergio Aguiló Melo VII Región del Maule N°37 Partido Socialista
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Alfonso De Urresti Longton XIV Región de los Ríos N°53 Partido Socialista
+Alvaro Escobar Rufatt RM Región Metropolitana N°20 Independientes
+Ramón Farías Ponce RM Región Metropolitana N°30 Partido Por la Democracia
+Patricio Hales Dib RM Región Metropolitana N°19 Partido Por la Democracia
+Tucapel Jiménez Fuentes RM Región Metropolitana N°27 Partido Por la Democracia
+Juan Carlos Latorre Carmona VI Región del Libertador Bernardo O' Higgins N°35 Partido Demócrata Cristiano
+Laura Soto González V Región de Valparaíso N°13 Partido Por la Democracia
+Raúl Sunico Galdames VIII Región del Bío Bío N°43 Partido Socialista","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6422-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+25   61 31 4 24 Aprobado Sala Ver detalle votación
+106 Votación General 7 0 0 6   Derechos Humanos Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6422-07","No record","Veto emmEnd"

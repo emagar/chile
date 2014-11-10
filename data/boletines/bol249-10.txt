@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 249-10","Legislatura: 321
+Fecha de ingreso: lunes 07 de enero de 1991
+Estado: Tramitación terminada (D.S. Nº 1.174 - D.Oficial 30/12/1993)
+Numero de boletín: 249-10
+Materia: Acuerdos Internacionales,Misión Diplomática
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 08:05:18
+* * Hitos de tramitación * *
+"emmStart Hitos 249-10","Fecha Sesión Etapa Sub-etapa Documento
+07 de Ene. de 1991   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+08 de Ene. de 1991 29ª / 321 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+07 de Abr. de 1992 49ª / 323 Primer trámite constitucional / Senado Cuenta de primer informe de comisión. Por acuerdo de Comités, se incluye en la Tabla de esta sesión.
+07 de Abr. de 1992 49ª / 323 Primer trámite constitucional / Senado Discusión general Ver
+08 de Abr. de 1992 50ª / 323 Primer trámite constitucional / Senado Discusión general Ver
+16 de Jun. de 1992 5ª / 324 Primer trámite constitucional / Senado Cuenta nuevo primer informe
+30 de Jun. de 1992 6ª / 324 Primer trámite constitucional / Senado Discusión general. Aprobado en general y en particular. Despachado. Ver
+02 de Jul. de 1992 7ª / 324 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+07 de Jul. de 1992 14ª / 324 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+01 de Sep. de 1992 34ª / 324 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+15 de Sep. de 1992   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen
+15 de Sep. de 1992 40ª / 324 Segundo trámite constitucional / C. Diputados Discusión general Ver
+08 de Oct. de 1992 2ª / 325 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+13 de Oct. de 1992   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 249-10","Fecha Etapa Informe Documento
+16 de Jun. de 1992 Primer trámite constitucional Senado Nuevo primer informe de comisión de Relaciones Exteriores Ver
+07 de Abr. de 1992 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+05 de Nov. de 1991 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 249-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 249-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 249-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 249-10","No record","Veto emmEnd"

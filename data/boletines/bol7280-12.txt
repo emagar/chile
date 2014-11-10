@@ -1,0 +1,39 @@
+* * Bill summary * *
+"emmStart Summary 7280-12","Legislatura: 358
+Fecha de ingreso: jueves 28 de octubre de 2010
+Estado: Primer trámite constitucional .
+Numero de boletín: 7280-12
+Materia: Restauración Ecológica,Medio Ambiente
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 02:16:37
+* * Hitos de tramitación * *
+"emmStart Hitos 7280-12","Fecha Sesión Etapa Sub-etapa Documento
+28 de Oct. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+28 de Oct. de 2010 92ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7280-12","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7280-12","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7280-12","Nombre Región Distrito Partido
+María Angélica Cristi Marfil RM Región Metropolitana N°24 Unión Demócrata Independiente
+Edmundo Eluchans Urenda V Región de Valparaíso N°14 Unión Demócrata Independiente
+Miodrag Marinovic Solo de Zaldívar XII Región de Magallanes y de la Antártica Chilena N°60 Independientes
+Fernando Meza Moncada IX Región de la Araucanía N°52 Partido Radical Social Demócrata
+Andrea Molina Oliva V Región de Valparaíso N°10 Unión Demócrata Independiente
+Leopoldo Pérez Lahsen RM Región Metropolitana N°29 Renovación Nacional
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Partido Regionalista Independiente
+Guillermo Teillier Del Valle RM Región Metropolitana N°28 Partido Comunista
+Patricio Vallespín López X Región de los Lagos N°57 Partido Demócrata Cristiano
+Pedro Velásquez Seguel IV Región de Coquimbo N°8 Independientes","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7280-12","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+43 Votación General 6 0 0 7   Recursos Naturales Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7280-12","No record","Veto emmEnd"

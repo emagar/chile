@@ -1,0 +1,34 @@
+* * Bill summary * *
+"emmStart Summary 1480-03","Legislatura: 330
+Fecha de ingreso: miércoles 21 de diciembre de 1994
+Estado: Archivado .
+Numero de boletín: 1480-03
+Materia: Acuicultura
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 09:38:55
+* * Hitos de tramitación * *
+"emmStart Hitos 1480-03","Fecha Sesión Etapa Sub-etapa Documento
+21 de Dic. de 1994   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+21 de Dic. de 1994 30ª / 330 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Intereses Marítimos, Pesca y Acuicultura
+17 de Jul. de 1995 23ª / 331 Primer trámite constitucional / Senado Primer informe de comisión Ver
+02 de Ago. de 1995 23ª / 331 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+08 de Ago. de 1995 24ª / 331 Primer trámite constitucional / Senado Discusión general. Archivado Por acuerdo de la Comisión ratificado por la sala, se manda a archivar el proyecto. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1480-03","Fecha Etapa Informe Documento
+17 de Jul. de 1995 Primer trámite constitucional Senado Primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1480-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1480-03","Nombre
+Sergio Fernández Fernández
+Santiago Sinclair Oyaneder","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1480-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1480-03","No record","Veto emmEnd"

@@ -1,0 +1,76 @@
+* * Bill summary * *
+"emmStart Summary 1309-13","Legislatura: 329
+Fecha de ingreso: jueves 04 de agosto de 1994
+Estado: Segundo trámite constitucional .
+Numero de boletín: 1309-13
+Materia: Permiso Maternal
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 05:42:39
+* * Hitos de tramitación * *
+"emmStart Hitos 1309-13","Fecha Sesión Etapa Sub-etapa Documento
+04 de Ago. de 1994   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Ago. de 1994 27ª / 329 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+02 de May. de 2000   Primer trámite constitucional / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 341
+07 de May. de 2002   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+14 de May. de 2002 21ª / 346 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de Jun. de 2002 7ª / 347 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+19 de Jun. de 2002 9ª / 347 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+09 de Jul. de 2002   Primer trámite constitucional / C. Diputados Segundo informe de comisión. Pasa a Comisión de Hacienda Ver
+02 de Abr. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de Abr. de 2003 63ª / 348 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+08 de Abr. de 2003 65ª / 348 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver
+09 de Abr. de 2003 66ª / 348 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver
+09 de Abr. de 2003   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+15 de Abr. de 2003 40ª / 348 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social
+10 de Oct. de 2003   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+14 de Oct. de 2003 3ª / 350 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+15 de Oct. de 2003 4ª / 350 Segundo trámite constitucional / Senado Por acuerdo de la Sala, pasa a la Comisión de Salud. Ver
+14 de Sep. de 2004   Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 352
+22 de Jun. de 2005   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+22 de Jun. de 2005 9ª / 353 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+05 de Jul. de 2005 11ª / 353 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 01/08/2005 Ver
+01 de Ago. de 2005   Segundo trámite constitucional / Senado Boletín de indicaciones
+03 de Ago. de 2005 21ª / 353 Segundo trámite constitucional / Senado Se acuerda abrir nuevo plazo de indicaciones hasta el martes 16 de agosto en curso, a las 12 horas.
+16 de Ago. de 2005   Segundo trámite constitucional / Senado Boletín de indicaciones
+17 de Ago. de 2005 28ª / 353 Segundo trámite constitucional / Senado Por acuerdo de la Sala pasa primero a Comisión de Salud y después a la Comisión de Trabajo.
+09 de Ene. de 2007 82ª / 354 Segundo trámite constitucional / Senado Se acuerda abrir nuevo plazo de indicaciones hasta las 12 horas del lunes 15/01/2007.
+15 de Ene. de 2007   Segundo trámite constitucional / Senado Boletín de indicaciones
+02 de Oct. de 2007 53ª / 355 Segundo trámite constitucional / Senado Cuenta del Mensaje 795-355 que hace presente la urgencia Simple
+06 de Nov. de 2007 62ª / 355 Segundo trámite constitucional / Senado Cuenta del Mensaje 982-355 que retira y hace presente la urgencia Simple
+11 de Dic. de 2007 74ª / 355 Segundo trámite constitucional / Senado Cuenta del Mensaje 1188-355 que retira y hace presente la urgencia Simple
+02 de Ene. de 2008 78ª / 355 Segundo trámite constitucional / Senado Cuenta del Mensaje 1277-355 que retira la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1309-13","Fecha Etapa Informe Documento
+22 de Jun. de 2005 Segundo trámite constitucional Senado Primer informe de comisión de Salud Ver
+10 de Oct. de 2003 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver
+02 de Abr. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+09 de Jul. de 2002 Primer trámite constitucional C.Diputados Segundo informe de comisión de Trabajo y Seguridad Social Ver
+07 de May. de 2002 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1309-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+11 de Dic. de 2007 02 de Ene. de 2008 Simple 1188-355 1277-355
+06 de Nov. de 2007 10 de Dic. de 2007 Simple 982-355 1188-355
+02 de Oct. de 2007 05 de Nov. de 2007 Simple 795-355 982-355","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1309-13","Nombre Región Distrito Partido
+Francisco Bayo Veloso Región N°48 Renovación Nacional
+Ramón Elizalde Hevia Región N°17 Partido Demócrata Cristiano
+Roberto León Ramírez Región N° Partido Demócrata Cristiano
+Marina Prochelle Aguilar Región N°55 Renovación Nacional
+Rodolfo Seguel Molina Región N°28 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1309-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+9   90 0 0 0   Sala Ver detalle votación
+66 1º, indicación Comisión de Hacienda 12 82 0 1   Sala Ver detalle votación
+66 3º 80 3 1 3   Sala Ver detalle votación
+66 2º 82 2 0 2   Sala Ver detalle votación
+66 Indicación renovada 49 38 3 2   Sala Ver detalle votación
+66 1º 88 4 0 1   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1309-13","No record","Veto emmEnd"

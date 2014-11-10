@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 1894-10","Legislatura: 333
+Fecha de ingreso: martes 16 de julio de 1996
+Estado: Tramitación terminada (D.S. Nº 213 - D.Oficial 24/04/1999)
+Numero de boletín: 1894-10
+Materia: Acuerdos Internacionales,Dialogo Político
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 16:03:53
+* * Hitos de tramitación * *
+"emmStart Hitos 1894-10","Fecha Sesión Etapa Sub-etapa Documento
+16 de Jul. de 1996   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+16 de Jul. de 1996 19ª / 333 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, a la de Economía y a la de Hacienda, en su caso.
+09 de Oct. de 1996 3ª / 334 Primer trámite constitucional / Senado S.E el Presidente de la República incluye proyecto en la Convocatoria a Legislatura Extraordinaria.
+30 de Oct. de 1996   Primer trámite constitucional / Senado Por acuerdo de la Sala , se exime del trámite de informe de Comisiones de Economía y de Hacienda, en su caso
+05 de Nov. de 1996   Primer trámite constitucional / Senado Primer informe de comisión Ver
+05 de Nov. de 1996 7ª / 334 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+03 de Dic. de 1996 12ª / 334 Primer trámite constitucional / Senado Discusión general Ver
+03 de Dic. de 1996   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+10 de Dic. de 1996 25ª / 334 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+07 de Ene. de 1997   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+15 de Ene. de 1997 39ª / 334 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+21 de Ene. de 1997 41ª / 334 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+21 de Ene. de 1997   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+22 de Ene. de 1997 28ª / 334 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+22 de Ene. de 1997   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1894-10","Fecha Etapa Informe Documento
+07 de Ene. de 1997 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+05 de Nov. de 1996 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1894-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+16 de Jul. de 1996 16 de Sep. de 1998 Sin urgencia   CADUCADO","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1894-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1894-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1894-10","No record","Veto emmEnd"

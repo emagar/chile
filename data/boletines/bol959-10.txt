@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 959-10","Legislatura: 325
+Fecha de ingreso: martes 13 de abril de 1993
+Estado: Tramitación terminada (D.S. Nº1.594 - D.Oficial 06/01/1996)
+Numero de boletín: 959-10
+Materia: Doble Tributación
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 01:14:45
+* * Hitos de tramitación * *
+"emmStart Hitos 959-10","Fecha Sesión Etapa Sub-etapa Documento
+13 de Abr. de 1993   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Abr. de 1993 62ª / 325 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+02 de Ago. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+14 de Jun. de 1994 5ª / 329 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+06 de Sep. de 1995   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+06 de Sep. de 1995 32ª / 331 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+07 de Sep. de 1995   Tramitación terminada / Oficio Nº9047. oficio comunicando aprobación sin modificaciones a Cámara de origen Ver
+07 de Sep. de 1995 33ª / 331 Segundo trámite constitucional / Senado Discusión general Ver
+07 de Sep. de 1995   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 959-10","Fecha Etapa Informe Documento
+06 de Sep. de 1995 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+02 de Ago. de 1993 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 959-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 959-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 959-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 959-10","No record","Veto emmEnd"

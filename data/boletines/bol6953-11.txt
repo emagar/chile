@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 6953-11","Legislatura: 358
+Fecha de ingreso: martes 01 de junio de 2010
+Estado: Primer trámite constitucional .
+Numero de boletín: 6953-11
+Materia: Educacion,Salud Pública,Licitación Pública
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 22:34:14
+* * Hitos de tramitación * *
+"emmStart Hitos 6953-11","Fecha Sesión Etapa Sub-etapa Documento
+01 de Jun. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+01 de Jun. de 2010 30ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6953-11","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6953-11","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6953-11","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Osvaldo Andrade Lara RM Región Metropolitana N°29 Partido Socialista
+Juan Luis Castro González VI Región del Libertador Bernardo O' Higgins N°32 Partido Socialista
+Rodrigo González Torres V Región de Valparaíso N°14 Partido Por la Democracia
+Roberto León Ramírez VII Región del Maule N°36 Partido Demócrata Cristiano
+Manuel Monsalve Benavides VIII Región del Bío Bío N°46 Partido Socialista
+Marco Antonio Núñez Lozano V Región de Valparaíso N°11 Partido Por la Democracia
+Clemira Pacheco Rivas VIII Región del Bío Bío N°45 Partido Socialista
+Alberto Robles Pantoja III Región de Atacama N°6 Partido Radical Social Demócrata
+Guillermo Teillier Del Valle RM Región Metropolitana N°28 Partido Comunista","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6953-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6953-11","No record","Veto emmEnd"

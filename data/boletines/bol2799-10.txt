@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 2799-10","Legislatura: 345
+Fecha de ingreso: martes 02 de octubre de 2001
+Estado: Tramitación terminada (D.S. Nº163 - D.Oficial 13/09/2002)
+Numero de boletín: 2799-10
+Materia: Acuerdos Internacionales,Terrorismo
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 03-11-2014 10:37:39
+* * Hitos de tramitación * *
+"emmStart Hitos 2799-10","Fecha Sesión Etapa Sub-etapa Documento
+02 de Oct. de 2001   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+02 de Oct. de 2001 3ª / 345 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+09 de Oct. de 2001   Primer trámite constitucional / Senado Primer informe de comisión Ver
+09 de Oct. de 2001 5ª / 345 Primer trámite constitucional / Senado Discusión general Ver
+09 de Oct. de 2001 5ª / 345 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+09 de Oct. de 2001   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+10 de Oct. de 2001 6ª / 345 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+30 de Oct. de 2001   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+31 de Oct. de 2001 12ª / 345 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+31 de Oct. de 2001 12ª / 345 Segundo trámite constitucional / C. Diputados Discusión general Ver
+31 de Oct. de 2001   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+31 de Oct. de 2001 11ª / 345 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+31 de Oct. de 2001   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2799-10","Fecha Etapa Informe Documento
+30 de Oct. de 2001 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+09 de Oct. de 2001 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2799-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+30 de Oct. de 2001   Suma 74-345  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2799-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2799-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2799-10","No record","Veto emmEnd"

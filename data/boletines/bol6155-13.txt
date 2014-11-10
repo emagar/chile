@@ -1,0 +1,61 @@
+* * Bill summary * *
+"emmStart Summary 6155-13","Legislatura: 356
+Fecha de ingreso: martes 14 de octubre de 2008
+Estado: Tramitación terminada (Ley N° 20.396 - D.Oficial 23/11/2009)
+Numero de boletín: 6155-13
+Materia: Inspección Del Trabajo
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 03:30:19
+* * Hitos de tramitación * *
+"emmStart Hitos 6155-13","Fecha Sesión Etapa Sub-etapa Documento
+14 de Oct. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+14 de Oct. de 2008 88ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+31 de Mar. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de Abr. de 2009 9ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Trabajo. EN ESTADO DE TABLA. Ver
+30 de Abr. de 2009 22ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+30 de Abr. de 2009   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+05 de May. de 2009 14ª / 357 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social
+22 de Jul. de 2009   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+29 de Jul. de 2009 36ª / 357 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Ago. de 2009 41ª / 357 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 31/08/2009 Ver
+31 de Ago. de 2009   Segundo trámite constitucional / Senado Boletín de indicaciones
+21 de Oct. de 2009   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+27 de Oct. de 2009 59ª / 357 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+27 de Oct. de 2009 59ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1371-357 que hace presente la urgencia Suma
+28 de Oct. de 2009 60ª / 357 Segundo trámite constitucional / Senado Discusión particular Ver
+28 de Oct. de 2009   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+03 de Nov. de 2009 96ª / 357 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+03 de Nov. de 2009 96ª / 357 Tercer trámite constitucional / C. Diputados Discusión única Ver
+03 de Nov. de 2009   Tercer trámite constitucional / C. Diputados Oficio Nº 8407, que comunica aprobacion de modificaciones Ver
+03 de Nov. de 2009   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+04 de Nov. de 2009 62ª / 357 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 8407, que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6155-13","Fecha Etapa Informe Documento
+21 de Oct. de 2009 Segundo trámite constitucional Senado Segundo informe de comisión de Trabajo y Previsión Social Ver
+22 de Jul. de 2009 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver
+31 de Mar. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6155-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+27 de Oct. de 2009   Suma 1371-357  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6155-13","Nombre Región Distrito Partido
+Germán Becker Alvear IX Región de la Araucanía N°50 Renovación Nacional
+Mario Bertolino Rendic IV Región de Coquimbo N°7 Renovación Nacional
+Roberto Delmastro Naso XIV Región de los Ríos N°53 Renovación Nacional
+Pablo Galilea Carrillo XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Renovación Nacional
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Marta Isasi Barbieri I Región de Tarapacá N°2 Independientes
+Alfonso Vargas Lyng V Región de Valparaíso N°10 Renovación Nacional
+Germán Verdugo Soto VII Región del Maule N°37 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6155-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+96   88 0 0 32 Aprobado Sala Ver detalle votación
+22   75 0 0 45 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6155-13","No record","Veto emmEnd"

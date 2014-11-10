@@ -1,0 +1,70 @@
+# used to clean content copied with  htmlfox from camara.cl search of boletin numbers
+
+rm(list = ls())
+wd <- "~/Dropbox/data/latAm/chile/data/"
+setwd(wd)
+
+raw <- readLines( "boletines.txt", encoding = "utf-8" )
+head(raw)
+
+## raw <- gsub(pattern = "\xe1",   replacement = "á", raw)
+## raw <- gsub(pattern = "&#225;", replacement = "á", raw)
+## raw <- gsub(pattern = "\xe9",   replacement = "é", raw)
+## raw <- gsub(pattern = "&#233;", replacement = "é", raw)
+## raw <- gsub(pattern = "\xed",   replacement = "í", raw)
+## raw <- gsub(pattern = "&#237;", replacement = "í", raw)
+## raw <- gsub(pattern = "\xf3",   replacement = "ó", raw)
+## raw <- gsub(pattern = "&#243;", replacement = "ó", raw)
+## raw <- gsub(pattern = "\xfa",   replacement = "ú", raw)
+## raw <- gsub(pattern = "&#250;", replacement = "ú", raw)
+## #raw <- gsub(pattern = "\", replacement = "ñ", raw)
+## raw <- gsub(pattern = "&#241;", replacement = "ñ", raw)
+## raw <- gsub(pattern = "&#176;", replacement = "°", raw)
+
+## writeLines(raw, "utf8.boletines.txt"    )
+
+reg <- grep(pattern = "\t<td>", raw, perl = TRUE) # locates lines with ingreso, título, estado
+#reg <- c(reg, reg+1) # next line in each has prmID
+#reg <- reg[order(reg)] # sorts
+
+raw.sm <- raw[reg]
+
+dat <- data.frame(ord=1:length(reg))
+
+tmp <- sub(pattern = ".*\t<td>(.*)</td><td>(.*)</td><td>(.*)</td><td>", replacement = "\\1", raw.sm)
+head(tmp)
+dat$dy <- as.numeric( sub(pattern = "([0-9]{1-2}) de .*", replacement = "\\1", tmp) )
+tmp2 <- sub(pattern = ".* de (.*) de.*", replacement = "\\1", tmp)
+    tmp2 <- sub(tmp2, pattern="[Ee]ne.", replacement="1")
+    tmp2 <- sub(tmp2, pattern="[Ff]eb.", replacement="2")
+    tmp2 <- sub(tmp2, pattern="[Mm]ar.", replacement="3")
+    tmp2 <- sub(tmp2, pattern="[Aa]br.", replacement="4")
+    tmp2 <- sub(tmp2, pattern="[Mm]ay.", replacement="5")
+    tmp2 <- sub(tmp2, pattern="[Jj]un.", replacement="6")
+    tmp2 <- sub(tmp2, pattern="[Jj]ul.", replacement="7")
+    tmp2 <- sub(tmp2, pattern="[Aa]go.", replacement="8")
+    tmp2 <- sub(tmp2, pattern="[Ss]ep.", replacement="9")
+    tmp2 <- sub(tmp2, pattern="[Oo]ct.", replacement="10")
+    tmp2 <- sub(tmp2, pattern="[Nn]ov.", replacement="11")
+    tmp2 <- sub(tmp2, pattern="[Dd]ic.", replacement="12")
+dat$mo <- as.numeric(tmp2); rm(tmp2)
+dat$yr <- as.numeric( sub(pattern = ".* de ([0-9]+)", replacement = "\\1", tmp) )
+#
+dat$titulo <- sub(pattern = ".*\t<td>(.*)</td><td>(.*)</td><td>(.*)</td><td>", replacement = "\\2", raw.sm)
+#
+dat$estado17oct2014 <- sub(pattern = ".*\t<td>(.*)</td><td>(.*)</td><td>(.*)</td><td>", replacement = "\\3", raw.sm)
+#
+# next line has prnID
+raw.sm <- raw[(reg+1)]
+dat$url <- sub(pattern = ".*<a href=\"(.*)\">", replacement = "\\1", raw.sm)
+head(dat$url)
+dat$prmID <- sub(pattern = ".*prmID=([0-9]+)&.*", replacement = "\\1", dat$url)
+dat$bolCom <- sub(pattern = ".*prmBL=(.*).*", replacement = "\\1", dat$url)
+dat$boletin <- as.numeric( sub(pattern = "(.*)-.*", replacement = "\\1", dat$bolCom) )
+dat$comision <- sub(pattern = ".*-(.*)", replacement = "\\1", dat$bolCom)
+
+rm(tmp)
+
+head(dat)
+
+write.csv(dat, file="boletines.csv")

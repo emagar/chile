@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 6829-01","Legislatura: 357
+Fecha de ingreso: lunes 08 de marzo de 2010
+Estado: Primer trámite constitucional .
+Numero de boletín: 6829-01
+Materia: Comercio Internacional,Flora Silvestre,Especies En Peligro
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 18:24:23
+* * Hitos de tramitación * *
+"emmStart Hitos 6829-01","Fecha Sesión Etapa Sub-etapa Documento
+08 de Mar. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+08 de Mar. de 2010 123ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Agricultura, Silvicultura y Desarrollo Rural. Se remite el proyecto a la Corte Suprema. Ver
+08 de Mar. de 2010   Primer trámite constitucional / C. Diputados Oficio N° 8565 a la Corte Suprema Ver
+06 de Abr. de 2010 9ª / 358 Primer trámite constitucional / C. Diputados Cuenta oficio N° 28 de la Corte Suprema Ver
+23 de Sep. de 2014 70ª / 362 Primer trámite constitucional / C. Diputados Cuenta oficio N° 360-362, por el cual S.E. la Presidenta de la República formula indicación sustitutiva al proyecto Ver Ver
+23 de Sep. de 2014   Primer trámite constitucional / C. Diputados Informe financiero correspondiente a la indicación sustitutiva Ver
+06 de Nov. de 2014 88ª / 362 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 789-362 que hace presente la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6829-01","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6829-01","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+06 de Nov. de 2014   Simple 789-362  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6829-01","Nombre Región Distrito Partido
+Ministerio de Agricultura      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6829-01","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+4 Votación General 4 0 0 9   Agricultura Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6829-01","No record","Veto emmEnd"

@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 1364-07","Legislatura: 329
+Fecha de ingreso: miércoles 14 de septiembre de 1994
+Estado: Tramitación terminada (Ley Nº 19.376 - D.Oficial 31/03/1995)
+Numero de boletín: 1364-07
+Materia: Nacionalización
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 04:59:53
+* * Hitos de tramitación * *
+"emmStart Hitos 1364-07","Fecha Sesión Etapa Sub-etapa Documento
+14 de Sep. de 1994 35ª / 329 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía
+14 de Sep. de 1994   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+08 de Nov. de 1994 12ª / 330 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+08 de Nov. de 1994 12ª / 330 Primer trámite constitucional / Senado Primer informe de comisión Ver
+23 de Nov. de 1994 21ª / 330 Primer trámite constitucional / Senado Discusión general Ver
+23 de Nov. de 1994 21ª / 330 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+06 de Dic. de 1994 22ª / 330 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+18 de Ene. de 1995   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Mar. de 1995 42ª / 330 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+07 de Mar. de 1995 43ª / 330 Segundo trámite constitucional / C. Diputados Discusión general Ver
+07 de Mar. de 1995   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+08 de Mar. de 1995 42ª / 330 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+08 de Mar. de 1995 42ª / 330 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1364-07","Fecha Etapa Informe Documento
+18 de Ene. de 1995 Segundo trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+08 de Nov. de 1994 Primer trámite constitucional Senado Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1364-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1364-07","Nombre
+Nicolás Díaz Sánchez","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1364-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1364-07","No record","Veto emmEnd"

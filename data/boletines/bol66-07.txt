@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 66-07","Legislatura: 320
+Fecha de ingreso: viernes 25 de mayo de 1990
+Estado: Tramitación terminada (Ley Nº 19.221 - D.Oficial 01/06/1993)
+Numero de boletín: 66-07
+Materia: Mayoría De Edad (Derecho Penal)
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 30-10-2014 16:36:30
+* * Hitos de tramitación * *
+"emmStart Hitos 66-07","Fecha Sesión Etapa Sub-etapa Documento
+25 de May. de 1990   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+30 de May. de 1990 2ª / 320 Primer trámite constitucional / Senado Cuenta de proyecto
+21 de Ago. de 1991 33ª / 322 Primer trámite constitucional / Senado Primer informe de comisión Ver
+27 de Ago. de 1991 33ª / 322 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Sep. de 1991 37ª / 322 Primer trámite constitucional / Senado Discusión general Ver
+12 de Sep. de 1991 38ª / 322 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+12 de Sep. de 1991 40ª / 322 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+09 de Dic. de 1992 27ª / 325 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+09 de Dic. de 1992 27ª / 325 Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver Ver
+28 de Ene. de 1993 47ª / 325 Segundo trámite constitucional / C. Diputados Discusión general Ver
+09 de Mar. de 1993 51ª / 325 Segundo trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+09 de Mar. de 1993 51ª / 325 Segundo trámite constitucional / C. Diputados Segundo informe de comisión Ver Ver
+01 de Abr. de 1993 59ª / 325 Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver
+01 de Abr. de 1993 59ª / 325 Segundo trámite constitucional / C. Diputados Discusión particular Ver
+06 de Abr. de 1993 39ª / 325 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+21 de Abr. de 1993 46ª / 325 Tercer trámite constitucional / Senado Discusión única
+21 de Abr. de 1993 46ª / 325 Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 66-07","Fecha Etapa Informe Documento
+09 de Mar. de 1993 Segundo trámite constitucional C.Diputados Segundo informe de comisión de Constitución, Legislación y Justicia Ver
+09 de Dic. de 1992 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+21 de Ago. de 1991 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 66-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 66-07","Nombre
+Sergio Fernández Fernández","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 66-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 66-07","No record","Veto emmEnd"

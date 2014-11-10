@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 692-03","Legislatura: 323
+Fecha de ingreso: miércoles 20 de mayo de 1992
+Estado: Tramitación terminada (Ley Nº 19.188 - D.Oficial 28/12/1992)
+Numero de boletín: 692-03
+Materia: Instituto Forestal
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 21:41:51
+* * Hitos de tramitación * *
+"emmStart Hitos 692-03","Fecha Sesión Etapa Sub-etapa Documento
+20 de May. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de May. de 1992 19ª / 323 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+18 de Ago. de 1992 31ª / 325 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+20 de Ago. de 1992   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+20 de Ago. de 1992 33ª / 324 Primer trámite constitucional / C. Diputados Discusión general Ver
+01 de Sep. de 1992 21ª / 324 Segundo trámite constitucional / Senado Cuenta de proyecto
+23 de Oct. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+19 de Nov. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+24 de Nov. de 1992 13ª / 325 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Dic. de 1992 16ª / 325 Tramitación terminada / Discusión general y particular. Aprobado en general y en particular.
+15 de Dic. de 1992   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen
+17 de Dic. de 1992 31ª / 325 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+17 de Jul. de 1999   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+25 de Ago. de 1999   Primer trámite constitucional / C. Diputados Cambio en Providencia - Comisiones: De Economia
+25 de Ago. de 1999   Primer trámite constitucional / C. Diputados Cambio en Providencia - Comisiones: De Agricultura","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 692-03","Fecha Etapa Informe Documento
+17 de Jul. de 1999 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver
+19 de Nov. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+23 de Oct. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Economía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 692-03","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+20 de May. de 1992   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 692-03","Nombre Región Distrito Partido
+Ministerio de Economía, Fomento y Turism      
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 692-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 692-03","No record","Veto emmEnd"

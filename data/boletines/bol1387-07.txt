@@ -1,0 +1,34 @@
+* * Bill summary * *
+"emmStart Summary 1387-07","Legislatura: 330
+Fecha de ingreso: martes 04 de octubre de 1994
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 1387-07
+Materia: Congreso Nacional
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 05:18:39
+* * Hitos de tramitación * *
+"emmStart Hitos 1387-07","Fecha Sesión Etapa Sub-etapa Documento
+04 de Oct. de 1994 1ª / 330 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+04 de Oct. de 1994   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+21 de Mar. de 1995   Primer trámite constitucional / Senado Primer informe de comisión Ver
+05 de Abr. de 1995 49ª / 330 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+11 de Abr. de 1995 51ª / 330 Primer trámite constitucional / Senado Discusión general. Rechazado Se aprueba el Informe que rechaza el proyecto. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1387-07","Fecha Etapa Informe Documento
+21 de Mar. de 1995 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1387-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1387-07","Nombre
+Francisco Errázuriz Talavera
+Antonio Horvath Kiss","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1387-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1387-07","No record","Veto emmEnd"

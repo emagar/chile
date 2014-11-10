@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 4468-06","Legislatura: 354
+Fecha de ingreso: martes 05 de septiembre de 2006
+Estado: Primer trámite constitucional .
+Numero de boletín: 4468-06
+Materia: Alcoholes,Casinos (Juegos De Azar)
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 02:02:46
+* * Hitos de tramitación * *
+"emmStart Hitos 4468-06","Fecha Sesión Etapa Sub-etapa Documento
+05 de Sep. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+05 de Sep. de 2006 69ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+21 de Ene. de 2009 128ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1419-356 que hace presente la urgencia Suma Ver
+03 de Mar. de 2009 131ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1433-356 que retira la urgencia Suma Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4468-06","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4468-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+21 de Ene. de 2009 03 de Mar. de 2009 Suma 1419-356 1433-356","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4468-06","Nombre Región Distrito Partido
+Rodrigo Alvarez Zenteno XII Región de Magallanes y de la Antártica Chilena N°60 Unión Demócrata Independiente
+Pedro Araya Guerrero II Región de Antofagasta N°4 Independientes
+Germán Becker Alvear IX Región de la Araucanía N°50 Renovación Nacional
+María Angélica Cristi Marfil RM Región Metropolitana N°24 Unión Demócrata Independiente
+Alfonso De Urresti Longton XIV Región de los Ríos N°53 Partido Socialista
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Carlos Abel Jarpa Wevar VIII Región del Bío Bío N°41 Partido Radical Social Demócrata
+Antonio Leal Labrín III Región de Atacama N°5 Partido Por la Democracia
+Manuel Rojas Molina II Región de Antofagasta N°4 Unión Demócrata Independiente
+Alejandro Sule Fernández VI Región del Libertador Bernardo O' Higgins N°33 Partido Radical Social Demócrata","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4468-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+99 Votación General 6 0 1 6   Gobierno Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4468-06","No record","Veto emmEnd"

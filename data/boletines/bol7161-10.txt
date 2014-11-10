@@ -1,0 +1,48 @@
+* * Bill summary * *
+"emmStart Summary 7161-10","Legislatura: 358
+Fecha de ingreso: miércoles 01 de septiembre de 2010
+Estado: Tramitación terminada (D.S. N° 41 - D.Oficial 12/01/2012)
+Numero de boletín: 7161-10
+Materia: Convencion Internacional Contra El Dopaje En El Deporte (18 Octubre 2005: Paris),Dopaje En El Deporte
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 00:57:50
+* * Hitos de tramitación * *
+"emmStart Hitos 7161-10","Fecha Sesión Etapa Sub-etapa Documento
+01 de Sep. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+01 de Sep. de 2010 68ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+28 de Sep. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+26 de Oct. de 2010 90ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+28 de Oct. de 2010 92ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+28 de Oct. de 2010   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+02 de Nov. de 2010 63ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+30 de Nov. de 2010 70ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 509-358 que hace presente la urgencia Suma
+14 de Dic. de 2010   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+15 de Dic. de 2010 77ª / 358 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+15 de Dic. de 2010 77ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 571-358 que retira y hace presente la urgencia Suma Ver
+21 de Dic. de 2010 78ª / 358 Segundo trámite constitucional / Senado Discusión general Ver
+21 de Dic. de 2010   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+22 de Dic. de 2010 120ª / 358 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+22 de Dic. de 2010   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7161-10","Fecha Etapa Informe Documento
+14 de Dic. de 2010 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+20 de Oct. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7161-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+15 de Dic. de 2010   Suma 571-358  
+30 de Nov. de 2010 15 de Dic. de 2010 Suma 509-358 571-358","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7161-10","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7161-10","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+92   69 0 0 51 Aprobado Sala Ver detalle votación
+24 Votación General 11 0 0 2   Relaciones Exteriores Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7161-10","No record","Veto emmEnd"

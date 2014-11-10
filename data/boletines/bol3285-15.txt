@@ -1,0 +1,58 @@
+* * Bill summary * *
+"emmStart Summary 3285-15","Legislatura: 349
+Fecha de ingreso: jueves 10 de julio de 2003
+Estado: Comisión Mixta por rechazo de modificaciones .
+Numero de boletín: 3285-15
+Materia: Vehiculos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 01:08:35
+* * Hitos de tramitación * *
+"emmStart Hitos 3285-15","Fecha Sesión Etapa Sub-etapa Documento
+10 de Jul. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Jul. de 2003 16ª / 349 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+14 de Sep. de 2004   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Oct. de 2004 2ª / 352 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+04 de Nov. de 2004 14ª / 352 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+04 de Nov. de 2004   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+10 de Nov. de 2004 12ª / 352 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones
+02 de Nov. de 2005   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+08 de Nov. de 2005 46ª / 353 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+09 de Nov. de 2005 47ª / 353 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 12/12/2005 Ver
+13 de Dic. de 2005 48ª / 353 Segundo trámite constitucional / Senado Aprobado Por no haberse presentado indicaciones, se da por aprobado en particular, con modificaciones Ver
+14 de Dic. de 2005   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+14 de Dic. de 2005 61ª / 353 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora. (Oficio 26.217). Ver
+14 de Dic. de 2005 61ª / 353 Tercer trámite constitucional / C. Diputados Discusión única Ver
+14 de Dic. de 2005   Tercer trámite constitucional / C. Diputados Oficio rechazo modificaciones a Cámara Revisora Ver
+20 de Dic. de 2005 51ª / 353 Comisión Mixta por rechazo de modificaciones / Senado Cuenta oficio rechazo a modificaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3285-15","Fecha Etapa Informe Documento
+02 de Nov. de 2005 Segundo trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver
+14 de Sep. de 2004 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3285-15","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3285-15","Nombre Región Distrito Partido
+Claudio Alvarado Andrade X Región de los Lagos N°58 Unión Demócrata Independiente
+Ramón Barros Montero VI Región del Libertador Bernardo O' Higgins N°35 Unión Demócrata Independiente
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Juan Bustos Ramírez V Región de Valparaíso N°12 Partido Socialista
+Marcela Cubillos Sigall RM Región Metropolitana N°21 Unión Demócrata Independiente
+Marcelo Forni Lobos V Región de Valparaíso N°11 Unión Demócrata Independiente
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Patricio Hales Dib RM Región Metropolitana N°19 Partido Por la Democracia
+Felipe Salaberry Soto RM Región Metropolitana N°25 Unión Demócrata Independiente
+Gonzalo Uriarte Herrera RM Región Metropolitana N°31 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3285-15","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+61 Modificaciones del Senado, con excepción de la supresión del Nº1 y Nº3 del artículo único. 72 0 0 0 Aprobado Sala Ver detalle votación
+14 Artículo único con indicación sustitutiva del número 4. 46 4 0 1 Aprobado Sala Ver detalle votación
+14   48 1 0 0 Aprobado Sala Ver detalle votación
+61 Supresión del Nº1 y Nº3 del artículo único. 2 68 1 2 Rechazado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3285-15","No record","Veto emmEnd"

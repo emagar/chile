@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 1887-10","Legislatura: 333
+Fecha de ingreso: miércoles 03 de julio de 1996
+Estado: Tramitación terminada (D.S. Nº 296 - D.Oficial 06/12/2006)
+Numero de boletín: 1887-10
+Materia: Organización Marítima Internacional
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 15:58:55
+* * Hitos de tramitación * *
+"emmStart Hitos 1887-10","Fecha Sesión Etapa Sub-etapa Documento
+03 de Jul. de 1996   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+03 de Jul. de 1996 12ª / 333 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+15 de Jul. de 1997   Primer trámite constitucional / Senado Primer informe de comisión Ver
+30 de Jul. de 1997 20ª / 335 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+05 de Ago. de 1997 21ª / 335 Primer trámite constitucional / Senado Discusión general Ver
+06 de Ago. de 1997   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+07 de Ago. de 1997 30ª / 335 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+03 de Sep. de 1997   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Mar. de 1998 1ª / 337 Segundo trámite constitucional / C. Diputados S.E. el Pdte. de la Rep. incluye el proyecto en la legisl. extraord. 337. (Mensaje 2-337) Ver
+18 de Mar. de 1998 2ª / 337 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+07 de Abr. de 1998 7ª / 337 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+07 de Abr. de 1998   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+14 de Abr. de 1998 7ª / 337 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+14 de Abr. de 1998   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1887-10","Fecha Etapa Informe Documento
+03 de Sep. de 1997 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+15 de Jul. de 1997 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1887-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+02 de Jul. de 1996 18 de Sep. de 1996 Sin urgencia   CADUCADO","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1887-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1887-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1887-10","No record","Veto emmEnd"

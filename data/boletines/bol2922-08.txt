@@ -1,0 +1,89 @@
+* * Bill summary * *
+"emmStart Summary 2922-08","Legislatura: 346
+Fecha de ingreso: martes 07 de mayo de 2002
+Estado: Tramitación terminada (Ley Nº 19.940 - D.Oficial 13/03/2004)
+Numero de boletín: 2922-08
+Materia: Servicios Eléctricos
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 18:19:12
+* * Hitos de tramitación * *
+"emmStart Hitos 2922-08","Fecha Sesión Etapa Sub-etapa Documento
+07 de May. de 2002   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+07 de May. de 2002 17ª / 346 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Minería y Energía Ver
+24 de Oct. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+28 de Oct. de 2003 11ª / 350 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+28 de Oct. de 2003 11ª / 350 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 114-350 que hace presente la urgencia Suma Ver
+28 de Oct. de 2003 11ª / 350 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+28 de Oct. de 2003   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+04 de Nov. de 2003 7ª / 350 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Minería
+04 de Nov. de 2003 7ª / 350 Segundo trámite constitucional / Senado Cuenta del Mensaje 115-350 que retira y hace presente la urgencia Simple
+03 de Dic. de 2003 26ª / 350 Segundo trámite constitucional / Senado Cuenta oficio 2565 de la Corte Suprema Ver
+10 de Dic. de 2003 18ª / 350 Segundo trámite constitucional / Senado Cuenta del Mensaje 116-350 que hace presente la urgencia Simple
+15 de Dic. de 2003   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+16 de Dic. de 2003 19ª / 350 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+17 de Dic. de 2003 21ª / 350 Segundo trámite constitucional / Senado Discusión general Ver
+06 de Ene. de 2004 22ª / 350 Segundo trámite constitucional / Senado Cuenta del Mensaje 364-350 que hace presente la urgencia Simple
+13 de Ene. de 2004   Segundo trámite constitucional / Senado Boletín de indicaciones
+15 de Ene. de 2004 29ª / 350 Segundo trámite constitucional / Senado Cuenta del Mensaje 365-350 que hace presente la urgencia Suma
+16 de Ene. de 2004   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+20 de Ene. de 2004 30ª / 350 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+21 de Ene. de 2004 32ª / 350 Segundo trámite constitucional / Senado Discusión particular Ver
+22 de Ene. de 2004   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+22 de Ene. de 2004 50ª / 350 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+22 de Ene. de 2004 50ª / 350 Tercer trámite constitucional / C. Diputados Discusión única Ver
+30 de Ene. de 2004   Trámite de aprobacion presidencial / C. Diputados Oficio Nº4781al Ejecutivo, comunica proyecto aprobado para los efectos del artículo 70 de la Constitución Política del Estado. Ver
+02 de Mar. de 2004   Tercer trámite constitucional / C. Diputados Oficio Nº 4780, que comunica aprobación de modificaciones Ver
+02 de Mar. de 2004 51ª / 350 Trámite de aprobacion presidencial / C. Diputados Cuenta Oficio S.E. el Presidente de la República, manifiesta que ha resuelto no hacer uso de la facultad que le confiere el inciso primero del artículo 70 de la Constitución Política de la República. Ver
+02 de Mar. de 2004   Trámite en Tribunal Constitucional / C. Diputados Oficio Nº4785 al Tribunal Constitucional Ver
+09 de Mar. de 2004 37ª / 350 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 4780, que comunica aprobación de modificaciones Ver
+11 de Mar. de 2004   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+16 de Mar. de 2004 59ª / 350 Trámite en Tribunal Constitucional / C. Diputados Cuenta oficio 2.049 del Tribunal Constitucional Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2922-08","Fecha Etapa Informe Documento
+16 de Ene. de 2004 Segundo trámite constitucional Senado Segundo informe de comisión de Minería y Energía Ver
+15 de Dic. de 2003 Segundo trámite constitucional Senado Primer informe de comisión de Minería y Energía Ver
+24 de Oct. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión de Minería y Energía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2922-08","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+08 de Abr. de 2009 28 de Oct. de 2003 Suma 112-350 114-350
+15 de Ene. de 2004 02 de Mar. de 2004 Suma 365-350 000-000
+06 de Ene. de 2004 15 de Ene. de 2004 Simple 364-350 365-350
+10 de Dic. de 2003 06 de Ene. de 2004 Simple 116-350 364-350
+04 de Nov. de 2003 10 de Dic. de 2003 Simple 115-350 116-350
+28 de Oct. de 2003 04 de Nov. de 2003 Suma 114-350 115-350","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2922-08","Nombre Región Distrito Partido
+Ministerio de Minería      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2922-08","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+11 Todos con excepción arts. 71-28, 71-40, ambos contenidos en el art. 1º, 104-6, inciso final, incluido en el art. 2º, y 134, inciso séptimo del art. 3º y los arts. 71-5 y 3º transitorio 90 0 3 0   Sala Ver detalle votación
+11 10 transitorio 46 42 1 3   Sala Ver detalle votación
+11 71-5, del art. 1º y art. 3º transitorio 47 44 1 0   Sala Ver detalle votación
+11 Indicación renovada al artículo 71-12 48 46 0 0   Sala Ver detalle votación
+11 Indicación renovada al art. 71-17 43 47 2 2   Sala Ver detalle votación
+11 71-17 58 3 32 0   Sala Ver detalle votación
+11 Indicación renovada art. 71-19 47 47 1 0   Sala Ver detalle votación
+11 71-19 57 2 34 1   Sala Ver detalle votación
+11 Indicación renovada art. 71-20 37 45 7 1   Sala Ver detalle votación
+11 71-20 60 33 1 0   Sala Ver detalle votación
+11 71-22 59 0 33 1   Sala Ver detalle votación
+11 Indicación renovada art. 71-23 43 48 1 0   Sala Ver detalle votación
+11 71-23 53 1 31 3   Sala Ver detalle votación
+11 Indicación renovada art. 71-27 36 55 1 0   Sala Ver detalle votación
+11 71-27 92 0 0 0   Sala Ver detalle votación
+11 Letra a) art. 71-30 78 14 2 1   Sala Ver detalle votación
+11 Indicación renovada agrega nuevo art. 71-30-1 21 70 3 0   Sala Ver detalle votación
+11 71-43, inciso cuarto 57 30 1 3   Sala Ver detalle votación
+50   84 0 2 2   Sala Ver detalle votación
+11 Nº5 del artículo 4º 57 31 1 2   Sala Ver detalle votación
+11 Nros. 18 al 23 del art. 4º 47 45 0 0   Sala Ver detalle votación
+11 Indicación renovada al art. 10 transitorio 33 52 1 2   Sala Ver detalle votación
+11 71-28 y 71-40, del art. 1º; 104-6, inciso final, del artículo 2º, y 134, inciso séptimo del artículo 3º 90 0 2 1   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2922-08","No record","Veto emmEnd"

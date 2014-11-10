@@ -1,0 +1,34 @@
+* * Bill summary * *
+"emmStart Summary 8525-18","Legislatura: 360
+Fecha de ingreso: martes 14 de agosto de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8525-18
+Materia: Maltrato Habitual
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 02:36:34
+* * Hitos de tramitación * *
+"emmStart Hitos 8525-18","Fecha Sesión Etapa Sub-etapa Documento
+14 de Ago. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+14 de Ago. de 2012 71ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Familia Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8525-18","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8525-18","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8525-18","Nombre Región Distrito Partido
+Germán Becker Alvear IX Región de la Araucanía N°50 Renovación Nacional
+Pedro Browne Urrejola RM Región Metropolitana N°28 Renovación Nacional
+José Manuel Edwards Silva IX Región de la Araucanía N°51 Renovación Nacional
+Cristián Monckeberg Bruner RM Región Metropolitana N°23 Renovación Nacional
+Nicolás Monckeberg Díaz RM Región Metropolitana N°18 Renovación Nacional
+Frank Sauerbaum Muñoz VIII Región del Bío Bío N°42 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8525-18","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8525-18","No record","Veto emmEnd"

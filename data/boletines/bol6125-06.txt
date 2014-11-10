@@ -1,0 +1,35 @@
+* * Bill summary * *
+"emmStart Summary 6125-06","Legislatura: 356
+Fecha de ingreso: jueves 02 de octubre de 2008
+Estado: Primer trámite constitucional .
+Numero de boletín: 6125-06
+Materia: Ministerio Del Interior,Huasco (Chile: Provincia),Cambio De Nombres
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 03:08:48
+* * Hitos de tramitación * *
+"emmStart Hitos 6125-06","Fecha Sesión Etapa Sub-etapa Documento
+02 de Oct. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Oct. de 2008 84ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6125-06","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6125-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6125-06","Nombre Región Distrito Partido
+Pedro Araya Guerrero II Región de Antofagasta N°4 Independientes
+Eduardo Díaz Del Río IX Región de la Araucanía N°51 Partido Regionalista Independiente
+Alvaro Escobar Rufatt RM Región Metropolitana N°20 Independientes
+Jaime Mulet Martínez III Región de Atacama N°6 Partido Regionalista Independiente
+Carlos Olivares Zepeda RM Región Metropolitana N°18 Partido Regionalista Independiente
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Independientes
+Esteban Valenzuela Van Treek VI Región del Libertador Bernardo O' Higgins N°32 Independientes","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6125-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6125-06","No record","Veto emmEnd"

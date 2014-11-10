@@ -1,0 +1,64 @@
+* * Bill summary * *
+"emmStart Summary 5699-03","Legislatura: 355
+Fecha de ingreso: miércoles 09 de enero de 2008
+Estado: Tramitación terminada (Ley Nº 20.479 - D.Oficial 04/01/2011)
+Numero de boletín: 5699-03
+Materia: Pescadores Artesanales
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 07-11-2014 13:13:12
+* * Hitos de tramitación * *
+"emmStart Hitos 5699-03","Fecha Sesión Etapa Sub-etapa Documento
+09 de Ene. de 2008   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+09 de Ene. de 2008 81ª / 355 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Intereses Marítimos, Pesca y Acuicultura
+09 de Ene. de 2008 81ª / 355 Primer trámite constitucional / Senado La Sala acuerda que el proyecto pase a la Comisión de Gobierno, Descentralización y Regionalización.
+23 de Ene. de 2008   Primer trámite constitucional / Senado Primer informe de comisión Ver
+23 de Ene. de 2008 87ª / 355 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+23 de Ene. de 2008 87ª / 355 Primer trámite constitucional / Senado Discusión general Ver
+25 de Ene. de 2008   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+05 de Mar. de 2008 138ª / 355 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Pesca, Acuicultura e Intereses Marítimos Ver Ver
+05 de Mar. de 2009   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+10 de Mar. de 2009 134ª / 356 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de pesca. EN ESTADO DE TABLA. Ver
+03 de Sep. de 2009 75ª / 357 Segundo trámite constitucional / C. Diputados Discusión general Ver
+03 de Sep. de 2009   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+08 de Sep. de 2009 46ª / 357 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+08 de Sep. de 2009   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+07 de Oct. de 2009   Trámite de aprobacion presidencial / Senado Ingreso de observaciones
+07 de Oct. de 2009 56ª / 357 Discusión veto en Cámara de Origen / Senado Cuenta de observaciones. Pasa a Comisión de Gobierno, Descentralización y Regionalización
+09 de Jun. de 2010   Discusión veto en Cámara de Origen / Senado Informe de comisión Ver
+15 de Jun. de 2010 27ª / 358 Discusión veto en Cámara de Origen / Senado Cuenta informe de comisión
+29 de Jun. de 2010 30ª / 358 Discusión veto en Cámara de Origen / Senado Discusión veto
+29 de Jun. de 2010   Discusión veto en Cámara de Origen / Senado Oficio aprobación veto a Cámara Revisora Ver
+30 de Jun. de 2010 44ª / 358 Discusión veto en Cámara Revisora / C. Diputados Cuenta oficio aprobación veto. Pasa a Comisión de Pesca, Acuicultura e Intereses Marítimos Ver
+05 de Nov. de 2010   Discusión veto en Cámara Revisora / C. Diputados Informe de comisión Ver
+05 de Nov. de 2010   Discusión veto en Cámara Revisora / C. Diputados Informe de comisión Ver
+09 de Nov. de 2010 97ª / 358 Discusión veto en Cámara Revisora / C. Diputados Cuenta informe de comisión Ver
+16 de Nov. de 2010 101ª / 358 Discusión veto en Cámara Revisora / C. Diputados Discusión veto Ver
+16 de Nov. de 2010   Discusión veto en Cámara Revisora / C. Diputados Oficio aprobación veto a Cámara de Origen Ver
+17 de Nov. de 2010 69ª / 358 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación veto
+22 de Nov. de 2010   Trámite finalización en Cámara de Origen / Senado Oficio resultado veto Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5699-03","Fecha Etapa Informe Documento
+05 de Nov. de 2010 Discusión veto en Cámara Revisora C.Diputados Informe de comisión de Pesca, Acuicultura e Intereses Marítimos Ver
+05 de Nov. de 2010 Discusión veto en Cámara Revisora C.Diputados Informe de comisión de Pesca, Acuicultura e Intereses Marítimos Ver
+09 de Jun. de 2010 Discusión veto en Cámara de Origen Senado Informe de comisión de Gobierno, Descentralización y Regionalización Ver
+05 de Mar. de 2009 Segundo trámite constitucional C.Diputados Primer informe de comisión de Pesca, Acuicultura e Intereses Marítimos Ver
+23 de Ene. de 2008 Primer trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5699-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5699-03","Nombre
+Jaime Orpis Bouchon","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5699-03","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+101 Observación del Presidente de la República. 95 0 0 25 Aprobado Sala Ver detalle votación
+94 Votación General 7 0 0 6   Pesca y Acuicultura Ver detalle votación
+26 Votación General 6 0 0 7   Pesca y Acuicultura Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5699-03","Fecha Mensaje Documento
+07 de Oct. de 2009 1267-357 Ver","Veto emmEnd"

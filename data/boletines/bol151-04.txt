@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 151-04","Legislatura: 320
+Fecha de ingreso: jueves 13 de septiembre de 1990
+Estado: Tramitación terminada (Ley Nº 19.206 - D.Oficial 18/03/1993)
+Numero de boletín: 151-04
+Materia: Becas
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 06:28:21
+* * Hitos de tramitación * *
+"emmStart Hitos 151-04","Fecha Sesión Etapa Sub-etapa Documento
+13 de Sep. de 1990   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Sep. de 1990 35ª / 320 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+06 de Ago. de 1991   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+20 de Ago. de 1991 31ª / 322 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+03 de Jun. de 1992 3ª / 324 Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver Ver
+03 de Jun. de 1992 2ª / 324 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+03 de Jun. de 1992 3ª / 324 Primer trámite constitucional / C. Diputados Discusión general Ver
+13 de Ene. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+20 de Ene. de 1993 27ª / 325 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+28 de Ene. de 1993 30ª / 325 Segundo trámite constitucional / Senado Discusión general Ver
+28 de Ene. de 1993 30ª / 325 Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen
+01 de Feb. de 1993 48ª / 325 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+01 de Feb. de 1993   Tramitación terminada / Oficio Nº3881. comunica aprobación sin modificaciones a Cámara de origen Ver
+05 de Feb. de 1993   Trámite finalización en Cámara de Origen / C. Diputados Oficio de Ley al Ejecutivo","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 151-04","Fecha Etapa Informe Documento
+13 de Ene. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+06 de Ago. de 1991 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 151-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 151-04","Nombre Región Distrito Partido
+Francisco Bartolucci Johnston Región N° Unión Demócrata Independiente
+Baldemar Carrasco Muñoz Región N° Partido Demócrata Cristiano
+Arturo Longton Guerrero Región N° Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 151-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 151-04","No record","Veto emmEnd"

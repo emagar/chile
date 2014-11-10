@@ -1,0 +1,78 @@
+* * Bill summary * *
+"emmStart Summary 8222-11","Legislatura: 360
+Fecha de ingreso: miércoles 04 de abril de 2012
+Estado: Tramitación terminada (Ley Nº 20.635 - D.Oficial 17/11/2012)
+Numero de boletín: 8222-11
+Materia: Información Comercial,Datos Personales,Prestadores Privados De Salud,Atención De Salud De Urgencia
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 22:54:24
+* * Hitos de tramitación * *
+"emmStart Hitos 8222-11","Fecha Sesión Etapa Sub-etapa Documento
+04 de Abr. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Abr. de 2012 10ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver
+17 de Abr. de 2012 26ª / 360 Primer trámite constitucional / C. Diputados Primer informe de comisión Ver Ver
+02 de May. de 2012 20ª / 360 Primer trámite constitucional / C. Diputados Oficio N°025-360. Oficio de S.E. el Presidente de la República por el cual formula indicación al proyecto. Ver Ver
+17 de May. de 2012 30ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+23 de May. de 2012 33ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 109-360 que hace presente la urgencia Suma Ver
+24 de May. de 2012 35ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+24 de May. de 2012   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+06 de Jun. de 2012 23ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 141-360 que retira y hace presente la urgencia Suma
+20 de Jun. de 2012 28ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 164-360 que retira y hace presente la urgencia Suma
+04 de Jul. de 2012 31ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 183-360 que retira y hace presente la urgencia Suma
+18 de Jul. de 2012 36ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 204-360 que retira y hace presente la urgencia Suma
+01 de Ago. de 2012 38ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 222-360 que retira y hace presente la urgencia Suma
+14 de Ago. de 2012 41ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 254-360 que retira y hace presente la urgencia Suma
+29 de Ago. de 2012 44ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 265-360 que retira y hace presente la urgencia Suma
+12 de Sep. de 2012 50ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 291-360 que retira y hace presente la urgencia Suma
+02 de Oct. de 2012 51ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 298-360 que retira y hace presente la urgencia Suma
+02 de Oct. de 2012   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+02 de Oct. de 2012 51ª / 360 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+03 de Oct. de 2012 52ª / 360 Segundo trámite constitucional / Senado Discusión general Ver
+03 de Oct. de 2012   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+04 de Oct. de 2012 85ª / 360 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+09 de Oct. de 2012 86ª / 360 Tercer trámite constitucional / C. Diputados Discusión única Ver
+09 de Oct. de 2012   Tercer trámite constitucional / C. Diputados Oficio N° 10405, que comunica aprobacion de modificaciones Ver
+09 de Oct. de 2012   Tercer trámite constitucional / C. Diputados Oficio N° 10406. Oficio de ley al Ejecutivo Ver
+10 de Oct. de 2012 54ª / 360 Tercer trámite constitucional / C. Diputados Cuenta oficio N? 10405, que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8222-11","Fecha Etapa Informe Documento
+02 de Oct. de 2012 Segundo trámite constitucional Senado Primer informe de comisión de Salud Ver
+17 de Abr. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Salud Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8222-11","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+02 de Oct. de 2012   Suma 298-360  
+12 de Sep. de 2012 01 de Oct. de 2012 Suma 291-360 298-360
+29 de Ago. de 2012 12 de Sep. de 2012 Suma 265-360 291-360
+14 de Ago. de 2012 29 de Ago. de 2012 Suma 254-360 265-360
+01 de Ago. de 2012 14 de Ago. de 2012 Suma 222-360 254-360
+18 de Jul. de 2012 01 de Ago. de 2012 Suma 204-360 222-360
+04 de Jul. de 2012 18 de Jul. de 2012 Suma 183-360 204-360
+20 de Jun. de 2012 04 de Jul. de 2012 Suma 164-360 183-360
+06 de Jun. de 2012 20 de Jun. de 2012 Suma 141-360 164-360
+23 de May. de 2012 06 de Jun. de 2012 Suma 109-360 141-360","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8222-11","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Felipe Harboe Bascuñán RM Región Metropolitana N°22 Partido Por la Democracia
+Issa Farid Kort Garriga VI Región del Libertador Bernardo O' Higgins N°32 Unión Demócrata Independiente
+Javier Macaya Danús VI Región del Libertador Bernardo O' Higgins N°34 Unión Demócrata Independiente
+Patricio Melero Abaroa RM Región Metropolitana N°16 Unión Demócrata Independiente
+Marco Antonio Núñez Lozano V Región de Valparaíso N°11 Partido Por la Democracia
+Karla Rubilar Barahona RM Región Metropolitana N°17 Renovación Nacional
+Marisol Turres Figueroa X Región de los Lagos N°57 Unión Demócrata Independiente
+Gastón Von Mühlenbrock Zamora XIV Región de los Ríos N°54 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8222-11","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+95 Votación General 12 0 0 1   Salud Ver detalle votación
+35   74 0 1 45 Aprobado Sala Ver detalle votación
+86   107 0 0 13 Aprobado Sala Ver detalle votación
+35 Indicación al artículo único del proyecto. 42 26 8 44 Aprobado Sala Ver detalle votación
+35   74 0 0 46 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8222-11","No record","Veto emmEnd"

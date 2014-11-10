@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 595-07","Legislatura: 323
+Fecha de ingreso: miércoles 08 de enero de 1992
+Estado: Tramitación terminada (Ley Nº 19.313 - D.Oficial 21/07/1994)
+Numero de boletín: 595-07
+Materia: Delincuentes
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 20:24:48
+* * Hitos de tramitación * *
+"emmStart Hitos 595-07","Fecha Sesión Etapa Sub-etapa Documento
+08 de Ene. de 1992   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+09 de Ene. de 1992 32ª / 323 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+05 de Nov. de 1992 9ª / 325 Primer trámite constitucional / Senado Primer informe de comisión Ver
+10 de Nov. de 1992 9ª / 325 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+17 de Nov. de 1992 11ª / 325 Tramitación terminada / Discusión general y particular. Aprobado sin modificaciones. Ver
+19 de Nov. de 1992 12ª / 325 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+24 de Nov. de 1992 23ª / 325 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+14 de Jun. de 1994   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+14 de Jun. de 1994 8ª / 329 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Jun. de 1994 9ª / 329 Segundo trámite constitucional / C. Diputados Discusión general Ver
+14 de Jun. de 1994   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+21 de Jun. de 1994 7ª / 329 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+22 de Jun. de 1994 7ª / 329 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 595-07","Fecha Etapa Informe Documento
+14 de Jun. de 1994 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+05 de Nov. de 1992 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 595-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 595-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 595-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 595-07","No record","Veto emmEnd"

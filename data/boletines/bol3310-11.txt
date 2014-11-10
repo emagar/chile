@@ -1,0 +1,58 @@
+* * Bill summary * *
+"emmStart Summary 3310-11","Legislatura: 349
+Fecha de ingreso: jueves 07 de agosto de 2003
+Estado: Tercer trámite constitucional .
+Numero de boletín: 3310-11 Refundido con: 2903-11
+Materia: Presbicia
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 01:23:20
+* * Hitos de tramitación * *
+"emmStart Hitos 3310-11","Fecha Sesión Etapa Sub-etapa Documento
+07 de Ago. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+07 de Ago. de 2003 27ª / 349 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver
+09 de Sep. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de Oct. de 2003 5ª / 350 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+30 de Oct. de 2003 13ª / 350 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+12 de Nov. de 2003 19ª / 350 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+12 de Nov. de 2003   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+19 de Nov. de 2003 13ª / 350 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Salud
+14 de Sep. de 2004   Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 352
+29 de Mar. de 2005   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+06 de Abr. de 2005 42ª / 352 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+03 de May. de 2005 48ª / 352 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 09/05/2005 Ver
+10 de May. de 2005 50ª / 352 Segundo trámite constitucional / Senado La Sala acuerda abrrir nuevo plazo de indicaciones hasta el lunes 16/052005.
+16 de May. de 2005   Segundo trámite constitucional / Senado Boletín de indicaciones
+18 de May. de 2005   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+18 de May. de 2005 54ª / 352 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+07 de Jun. de 2005 1ª / 353 Segundo trámite constitucional / Senado Discusión particular Ver
+08 de Jun. de 2005   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+08 de Jun. de 2005 4ª / 353 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver Ver
+15 de Jun. de 2005 5ª / 353 Tercer trámite constitucional / C. Diputados Discusión única Ver
+15 de Jun. de 2005   Tercer trámite constitucional / C. Diputados Oficio aprobación de modificaciones a Cámara Revisora. Oficio Nº 5624 Ver
+15 de Jun. de 2005   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+21 de Jun. de 2005 8ª / 353 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 5624, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3310-11","Fecha Etapa Informe Documento
+18 de May. de 2005 Segundo trámite constitucional Senado Segundo informe de comisión de Salud Ver
+29 de Mar. de 2005 Segundo trámite constitucional Senado Primer informe de comisión de Salud Ver
+09 de Sep. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión de Salud Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3310-11","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+07 de Ago. de 2003   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3310-11","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Sergio Aguiló Melo VII Región del Maule N°37 Partido Socialista
+Patricio Cornejo Vidaurrázaga V Región de Valparaíso N°11 Partido Demócrata Cristiano
+Waldo Mora Longa II Región de Antofagasta N°3 Partido Demócrata Cristiano
+Alberto Robles Pantoja III Región de Atacama N°6 Partido Radical Social Demócrata","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3310-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3310-11","No record","Veto emmEnd"

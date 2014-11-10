@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 1795-03","Legislatura: 332
+Fecha de ingreso: martes 23 de enero de 1996
+Estado: Archivado .
+Numero de boletín: 1795-03
+Materia: Pesca Artesanal
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 14:35:52
+* * Hitos de tramitación * *
+"emmStart Hitos 1795-03","Fecha Sesión Etapa Sub-etapa Documento
+23 de Ene. de 1996   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+23 de Ene. de 1996 45ª / 332 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+11 de Jul. de 2001   Primer trámite constitucional / C. Diputados Eximido del trámite ante Comisión de Agricultura, Silvicultura y Desarrollo Rural. Pasa a Comisión de Pesca, Acuicultura e Intereses Marítimos
+06 de Oct. de 2004   Archivado / Oficio Nº 86. Solicita archivo de Proyecto Ver
+12 de Oct. de 2004   Primer trámite constitucional / C. Diputados Archivado Solicitud de archivo de la Comisión de Pesca fue aceptada por la Sala.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1795-03","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1795-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1795-03","Nombre Región Distrito Partido
+Pedro Pablo Alvarez-Salamanca Büchi Región N°38 Renovación Nacional
+Sergio Correa De la Cerda Región N°36 Unión Demócrata Independiente
+José Antonio Galilea Vidaurre Región N°49 Renovación Nacional
+José García Ruminot Región N°50 Renovación Nacional
+Miguel Hernández Saffirio Región N° Partido Demócrata Cristiano
+Felipe Letelier Norambuena Región N° Partido Por la Democracia
+Alfonso Vargas Lyng Región N° Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1795-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1795-03","No record","Veto emmEnd"

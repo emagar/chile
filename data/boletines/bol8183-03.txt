@@ -1,0 +1,65 @@
+* * Bill summary * *
+"emmStart Summary 8183-03","Legislatura: 359
+Fecha de ingreso: lunes 05 de marzo de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8183-03
+Materia: Medicamentos,Propiedad Industrial
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 22:29:17
+* * Hitos de tramitación * *
+"emmStart Hitos 8183-03","Fecha Sesión Etapa Sub-etapa Documento
+05 de Mar. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Mar. de 2012 140ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo y a Comisión de Hacienda Ver
+06 de Mar. de 2012 140ª / 359 Primer trámite constitucional / C. Diputados La Sala acuerda que el proyecto sea tratado en Comisiones Unidas de Salud y de Economía, Fomento y Desarrollo y a la Comisión de Hacienda, en lo que corresponda. (Oficios 9961 y 9962 del 6.3.12 a los Presidentes de las Comisiones de Salud y de Economía, Fomento y Desarrollo, respectivamente, comunican acuerdo) Ver
+13 de Mar. de 2012 1ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 2-360 que hace presente la urgencia Discusión inmediata Ver
+21 de Mar. de 2012 5ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 20-360 que hace presente la urgencia Suma Ver
+04 de Abr. de 2012 10ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 38-360 que hace presente la urgencia Suma Ver
+18 de Abr. de 2012 18ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 71-360 que hace presente la urgencia Suma Ver
+03 de May. de 2012 21ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 86-360 que hace presente la urgencia Suma Ver
+22 de May. de 2012 31ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 116-360 que hace presente la urgencia Suma Ver
+05 de Jun. de 2012 36ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 130-360 que hace presente la urgencia Suma Ver
+06 de Jun. de 2012 38ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 140-360 que hace presente la urgencia Simple Ver
+05 de Jul. de 2012 51ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 187-360 que hace presente la urgencia Simple Ver
+02 de Ago. de 2012 65ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 228-360 que hace presente la urgencia Simple Ver
+30 de Ago. de 2012 74ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 274-360 que hace presente la urgencia Simple Ver
+12 de Sep. de 2012 79ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 290-360 que hace presente la urgencia Simple Ver
+11 de Oct. de 2012 89ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 316-360 que hace presente la urgencia Simple Ver
+08 de Nov. de 2012 97ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 350-360 que hace presente la urgencia Simple Ver
+10 de Dic. de 2012 109ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 386-360 que hace presente la urgencia Simple Ver
+06 de Mar. de 2013 135ª / 360 Primer trámite constitucional / C. Diputados Cuenta oficio N° 8365 del Tribunal Constitucional Ver Ver
+19 de Mar. de 2013 4ª / 361 Primer trámite constitucional / C. Diputados Cuenta oficio N° 8389 del Tribunal Constitucional Ver Ver
+10 de Abr. de 2013 13ª / 361 Primer trámite constitucional / C. Diputados Cuenta oficio N° 8419 del Tribunal Constitucional. Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8183-03","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8183-03","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+10 de Dic. de 2012   Simple 386-360  
+08 de Nov. de 2012   Simple 350-360  
+11 de Oct. de 2012   Simple 316-360  
+12 de Sep. de 2012   Simple 290-360  
+30 de Ago. de 2012   Simple 274-360  
+02 de Ago. de 2012   Simple 228-360  
+05 de Jul. de 2012   Simple 187-360  
+06 de Jun. de 2012   Simple 140-360  
+05 de Jun. de 2012   Suma 130-360  
+22 de May. de 2012   Suma 116-360  
+03 de May. de 2012   Suma 86-360  
+18 de Abr. de 2012   Suma 71-360  
+04 de Abr. de 2012   Suma 38-360  
+21 de Mar. de 2012   Suma 20-360  
+13 de Mar. de 2012   Discusión inmediata 2-360  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8183-03","Nombre Región Distrito Partido
+Ministerio de Economía, Fomento y Turism      
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8183-03","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+140 Remisión de proyecto a la Comisión de Salud. 56 16 0 48 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8183-03","No record","Veto emmEnd"

@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 8263-13","Legislatura: 360
+Fecha de ingreso: viernes 27 de abril de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8263-13
+Materia: Código Del Trabajo,Contrato De Teleoperadores
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 09-11-2014 23:25:25
+* * Hitos de tramitación * *
+"emmStart Hitos 8263-13","Fecha Sesión Etapa Sub-etapa Documento
+27 de Abr. de 2012   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+03 de Jul. de 2013   Primer trámite constitucional / Senado Primer informe de comisión Ver
+09 de Jul. de 2013 39ª / 361 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+07 de Ago. de 2013 46ª / 361 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 02/09/2013 Ver
+27 de Ago. de 2013   Primer trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 30/09/2013 a las 12:00 en Secretaría.
+30 de Sep. de 2013   Primer trámite constitucional / Senado Boletín de indicaciones
+01 de Oct. de 2013   Primer trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 14/10/2013 a las 12:00 en la Secretaría de la Comisión de Trabajo y Previsión Social
+14 de Oct. de 2013   Primer trámite constitucional / Senado Boletín de indicaciones
+01 de Jul. de 2014 27ª / 362 Primer trámite constitucional / Senado Cuenta del Mensaje 232-362 que hace presente la urgencia Simple
+23 de Jul. de 2014 34ª / 362 Primer trámite constitucional / Senado Cuenta del Mensaje 320-362 que retira y hace presente la urgencia Simple
+19 de Ago. de 2014 40ª / 362 Primer trámite constitucional / Senado Cuenta del Mensaje 399-362 que retira y hace presente la urgencia Simple
+09 de Sep. de 2014 45ª / 362 Primer trámite constitucional / Senado Cuenta del Mensaje 497-362 que retira y hace presente la urgencia Simple
+07 de Oct. de 2014 52ª / 362 Primer trámite constitucional / Senado Cuenta del Mensaje 624-362 que retira y hace presente la urgencia Simple
+04 de Nov. de 2014 60ª / 362 Primer trámite constitucional / Senado Cuenta del Mensaje 760-362 que retira y hace presente la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8263-13","Fecha Etapa Informe Documento
+09 de Jul. de 2013 Primer trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8263-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Nov. de 2014   Simple 760-362  
+07 de Oct. de 2014 04 de Nov. de 2014 Simple 624-362 760-362
+09 de Sep. de 2014 07 de Oct. de 2014 Simple 497-362 624-362
+19 de Ago. de 2014 09 de Sep. de 2014 Simple 399-362 497-362
+23 de Jul. de 2014 19 de Ago. de 2014 Simple 320-362 399-362
+01 de Jul. de 2014 23 de Jul. de 2014 Simple 232-362 320-362","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8263-13","Nombre
+Soledad Alvear Valenzuela
+Camilo Escalona Medina","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8263-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8263-13","No record","Veto emmEnd"

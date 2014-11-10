@@ -1,0 +1,56 @@
+* * Bill summary * *
+"emmStart Summary 1390-10","Legislatura: 330
+Fecha de ingreso: martes 04 de octubre de 1994
+Estado: Tramitación terminada (Ley Nº 19.466 - D.Oficial 31/08/1996)
+Numero de boletín: 1390-10
+Materia: Dirección General De Relaciones Económicas Internacionales
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 05:20:55
+* * Hitos de tramitación * *
+"emmStart Hitos 1390-10","Fecha Sesión Etapa Sub-etapa Documento
+04 de Oct. de 1994 2ª / 330 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+04 de Oct. de 1994   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Ene. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver
+08 de Jun. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+08 de Jun. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de Jun. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+10 de Jul. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+10 de Jul. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Jul. de 1995 16ª / 331 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de Jul. de 1995 18ª / 331 Primer trámite constitucional / C. Diputados Discusión general Ver
+13 de Jul. de 1995   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+18 de Jul. de 1995 18ª / 331 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+03 de Oct. de 1995   Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 332
+30 de Nov. de 1995   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Medio Ambiente y Bienes Nacionales Ver
+18 de Jun. de 1996   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+18 de Jun. de 1996   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+18 de Jun. de 1996 8ª / 333 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+02 de Jul. de 1996 12ª / 333 Segundo trámite constitucional / Senado Discusión general Ver
+02 de Jul. de 1996   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+09 de Jul. de 1996 14ª / 333 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+11 de Jul. de 1996 16ª / 333 Tercer trámite constitucional / C. Diputados Discusión única Ver
+12 de Jul. de 1996   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1390-10","Fecha Etapa Informe Documento
+18 de Jun. de 1996 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+18 de Jun. de 1996 Segundo trámite constitucional Senado Primer informe de comisión de Medio Ambiente y Bienes Nacionales Ver
+30 de Nov. de 1995 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+10 de Jul. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+08 de Jun. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver
+08 de Jun. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+03 de Ene. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1390-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Oct. de 1994   Simple    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1390-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1390-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1390-10","No record","Veto emmEnd"

@@ -1,0 +1,67 @@
+* * Bill summary * *
+"emmStart Summary 6476-07","Legislatura: 357
+Fecha de ingreso: martes 28 de abril de 2009
+Estado: Tramitación terminada (Ley Nº 20.371 - D.Oficial 25/08/2009)
+Numero de boletín: 6476-07
+Materia: Código Penal,Delitos Contra El Orden Y La Seguridad Publicos,Administración Pública
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 08:03:19
+* * Hitos de tramitación * *
+"emmStart Hitos 6476-07","Fecha Sesión Etapa Sub-etapa Documento
+28 de Abr. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+28 de Abr. de 2009 20ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia. Se remite el proyecto a la Corte Suprema. Ver
+28 de Abr. de 2009   Primer trámite constitucional / C. Diputados Oficio N° a la Corte Suprema Ver
+28 de Abr. de 2009 20ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 259-357 que hace presente la urgencia Suma Ver
+12 de May. de 2009 28ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 314-357 que retira y hace presente la urgencia Suma Ver
+02 de Jun. de 2009 34ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 442-357 que retira y hace presente la urgencia Suma Ver
+02 de Jun. de 2009 34ª / 357 Primer trámite constitucional / C. Diputados Cuenta oficio N° 111 de la Corte Suprema Ver Ver
+02 de Jun. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de Jun. de 2009 35ª / 357 Primer trámite constitucional / C. Diputados Primer informe de Comisión de Constitución. EN TABLA. Ver
+03 de Jun. de 2009 35ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+03 de Jun. de 2009   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+09 de Jun. de 2009 24ª / 357 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+09 de Jun. de 2009 24ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 528-357 que retira y hace presente la urgencia Suma
+16 de Jun. de 2009 26ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 601-357 que retira y hace presente la urgencia Discusión inmediata
+16 de Jun. de 2009   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+16 de Jun. de 2009 26ª / 357 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+30 de Jun. de 2009 29ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 641-357 que retira y hace presente la urgencia Discusión inmediata
+30 de Jun. de 2009 29ª / 357 Segundo trámite constitucional / Senado Discusión general Ver
+30 de Jun. de 2009   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+01 de Jul. de 2009 47ª / 357 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+02 de Jul. de 2009 48ª / 357 Tercer trámite constitucional / C. Diputados Cuenta del Mensaje 675-357 que retira y hace presente la urgencia Suma Ver
+07 de Jul. de 2009 49ª / 357 Tercer trámite constitucional / C. Diputados Discusión única Ver
+07 de Jul. de 2009   Tercer trámite constitucional / C. Diputados Oficio N° 8204, que comunica aprobacion de modificaciones Ver
+07 de Jul. de 2009   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+08 de Jul. de 2009 32ª / 357 Tercer trámite constitucional / C. Diputados Cuenta oficio N° 8204, que comunica aprobacion de modificaciones Ver
+14 de Jul. de 2009   Trámite de aprobacion presidencial / C. Diputados P. de la Rep. comunica que no hará uso de la facultad del inciso primero del artículo 73 de la C. Pol. de la Rep.
+14 de Jul. de 2009   Trámite en Tribunal Constitucional / C. Diputados Oficio al Tribunal Constitucional Ver
+06 de Ago. de 2009 60ª / 357 Trámite en Tribunal Constitucional / C. Diputados Cuenta oficio N° 3382 del Tribunal Constitucional Ver Ver
+06 de Ago. de 2009   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6476-07","Fecha Etapa Informe Documento
+16 de Jun. de 2009 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+02 de Jun. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6476-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+02 de Jul. de 2009   Suma 675-357  
+30 de Jun. de 2009 02 de Jul. de 2009 Discusión inmediata 641-357 675-357
+16 de Jun. de 2009 30 de Jun. de 2009 Discusión inmediata 601-357 641-357
+09 de Jun. de 2009 16 de Jun. de 2009 Suma 528-357 601-357
+02 de Jun. de 2009 09 de Jun. de 2009 Suma 442-357 528-357
+12 de May. de 2009 02 de Jun. de 2009 Suma 314-357 442-357
+28 de Abr. de 2009 12 de May. de 2009 Suma 259-357 314-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6476-07","Nombre Región Distrito Partido
+Ministerio de Justicia      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6476-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+49   87 2 0 0 Aprobado Sala Ver detalle votación
+35   82 0 0 38 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6476-07","No record","Veto emmEnd"

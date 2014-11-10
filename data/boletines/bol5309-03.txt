@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 5309-03","Legislatura: 355
+Fecha de ingreso: miércoles 05 de septiembre de 2007
+Estado: Archivado .
+Numero de boletín: 5309-03
+Materia: Sistema De Información De Datos Personales,Datos Personales
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 03:06:49
+* * Hitos de tramitación * *
+"emmStart Hitos 5309-03","Fecha Sesión Etapa Sub-etapa Documento
+05 de Sep. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+05 de Sep. de 2007 73ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+08 de May. de 2009   Primer trámite constitucional / C. Diputados Oficio N?293-357. Indicación Sustitutiva del Ejecutivo Ver
+24 de Abr. de 2014 19ª / 362 Primer trámite constitucional / C. Diputados Archivado . Cuenta del oficio de la Comisión de Economía, Fomento; Micro, Pequeña y Mediana Empresa, Protección de los Consumidores y Turismo, mediante el cual comunica a la Sala que acordó el archivo del proyecto, de conformidad con el artículo 17 del Reglamento. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5309-03","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5309-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5309-03","Nombre Región Distrito Partido
+Marco Enríquez-Ominami Gumucio V Región de Valparaíso N°10 Independientes
+Antonio Leal Labrín III Región de Atacama N°5 Partido Por la Democracia
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+Alberto Robles Pantoja III Región de Atacama N°6 Partido Radical Social Demócrata
+Eugenio Tuma Zedan IX Región de la Araucanía N°51 Partido Por la Democracia
+Patricio Vallespín López X Región de los Lagos N°57 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5309-03","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+99 Votación General 7 0 0 6   Economía Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5309-03","No record","Veto emmEnd"

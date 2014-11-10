@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 7358-07","Legislatura: 358
+Fecha de ingreso: martes 14 de diciembre de 2010
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 7358-07
+Materia: Actos Electorales En El Extranjero
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 09-11-2014 03:07:19
+* * Hitos de tramitación * *
+"emmStart Hitos 7358-07","Fecha Sesión Etapa Sub-etapa Documento
+14 de Dic. de 2010   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+14 de Dic. de 2010 75ª / 358 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento y a Comisión de Hacienda, en su caso.
+14 de Dic. de 2010 75ª / 358 Primer trámite constitucional / Senado Cuenta del Mensaje 518-358 que hace presente la urgencia Simple
+18 de Ene. de 2011 87ª / 358 Primer trámite constitucional / Senado Cuenta del Mensaje 654-358 que retira y hace presente la urgencia Simple
+01 de Mar. de 2011 90ª / 358 Primer trámite constitucional / Senado Cuenta del Mensaje 716-358 que retira y hace presente la urgencia Simple
+15 de Mar. de 2011   Tramitación terminada / Cuenta de Mensaje del Ejecutivo por el cual retira de tramitación el proyecto. Se toma conocimiento y queda retirado.
+05 de Abr. de 2011 9ª / 359 Tramitación terminada / Cuenta oficio N° 5692 del Tribunal Constitucional Ver Ver
+05 de Abr. de 2011 6ª / 359 Tramitación terminada / Cuenta oficio N° 5691 del Tribunal Constitucional Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7358-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7358-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+01 de Mar. de 2011   Simple 716-358  
+18 de Ene. de 2011 01 de Mar. de 2011 Simple 654-358 716-358
+14 de Dic. de 2010 18 de Ene. de 2011 Simple 518-358 654-358","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7358-07","Nombre
+Ministerio de Hacienda
+Ministerio de Interior y Seguridad Públi
+Ministerio de Relaciones Exteriores
+Ministerio Secretaría General de la Presidencia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7358-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7358-07","No record","Veto emmEnd"

@@ -1,0 +1,51 @@
+* * Bill summary * *
+"emmStart Summary 6531-14","Legislatura: 357
+Fecha de ingreso: miércoles 20 de mayo de 2009
+Estado: Tramitación terminada (Ley Nº 20.563 - D.Oficial 06/03/2012)
+Numero de boletín: 6531-14
+Materia: Bienes Raices,Regularización De La Construccion
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 09:04:10
+* * Hitos de tramitación * *
+"emmStart Hitos 6531-14","Fecha Sesión Etapa Sub-etapa Documento
+20 de May. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de May. de 2009 32ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Vivienda y Desarrollo Urbano Ver
+06 de Jul. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de Jul. de 2009 49ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+29 de Jul. de 2009 56ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver
+29 de Jul. de 2009   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+04 de Ago. de 2009 37ª / 357 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Vivienda y Urbanismo
+01 de Sep. de 2011   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+13 de Sep. de 2011 52ª / 359 Segundo trámite constitucional / Senado Por acuerdo de Comités, ratificado por la Sala, se retira el proyecto de la Tabla de la sesión del día de hoy y se incorpora en Fácil Despacho en la sesión del día de mañana. Ver
+14 de Sep. de 2011 54ª / 359 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 14/10/2011 Ver
+18 de Oct. de 2011   Segundo trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 04/11/2011 a las 13:00 en Secretaría.
+09 de Nov. de 2011 67ª / 359 Segundo trámite constitucional / Senado Discusión particular. Aprobado sin modificaciones Aprobado en particular en virtud del artículo 120 del Reglamento Ver
+09 de Nov. de 2011   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+15 de Nov. de 2011   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo. Oficio de consulta para ejercer facultad de veto Ver
+15 de Nov. de 2011 108ª / 359 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+05 de Dic. de 2011   Trámite en Tribunal Constitucional / C. Diputados Oficio al Tribunal Constitucional Ver
+13 de Dic. de 2011 120ª / 359 Trámite en Tribunal Constitucional / C. Diputados Cuenta Oficio N°476-359. Oficio de S. E. el Presidente de la República por el cual comunica que ha resuelto no hacer uso de la facultad que le confiere el inciso segundo del artículo 73 de la Constitución Política de la República respecto del proyecto. Ver Ver
+05 de Ene. de 2012 128ª / 359 Trámite en Tribunal Constitucional / C. Diputados Cuenta oficio Nº 7046 del Tribunal Constitucional Ver
+05 de Ene. de 2012   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6531-14","Fecha Etapa Informe Documento
+01 de Sep. de 2011 Segundo trámite constitucional Senado Primer informe de comisión de Vivienda y Urbanismo Ver
+06 de Jul. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Vivienda y Desarrollo Urbano Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6531-14","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6531-14","Nombre Región Distrito Partido
+Ministerio de Vivienda y Urbanismo      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6531-14","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+99 Votación General 9 0 0 3   Vivienda Ver detalle votación
+56 Artículo 4° e inciso primero del artículo 5°, que requieren quórum de ley orgáncia constitucional. 96 0 0 24 Aprobado Sala Ver detalle votación
+56 En general, con excepción del inciso final del artículo 4° y del inciso primero del artículo 5°, que requieren quórum de ley orgáncia constitucional. 98 0 0 22 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6531-14","No record","Veto emmEnd"

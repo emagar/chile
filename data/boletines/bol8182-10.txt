@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 8182-10","Legislatura: 359
+Fecha de ingreso: martes 06 de marzo de 2012
+Estado: Segundo trámite constitucional .
+Numero de boletín: 8182-10
+Materia: Enmiendas Al Estatuto De Roma Relativas Al Crimen De Agresión,Enmienda Art.8° De Estatuto De Roma,Conferencia De Revisión Del Estatuto De Roma De La Corte Penal Internacional (2010: Kampala, Uganda)
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 22:28:56
+* * Hitos de tramitación * *
+"emmStart Hitos 8182-10","Fecha Sesión Etapa Sub-etapa Documento
+06 de Mar. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Mar. de 2012 140ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+20 de Mar. de 2012   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+22 de Mar. de 2012 7ª / 360 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+10 de Abr. de 2012 12ª / 360 Primer trámite constitucional / C. Diputados La Sala acuerda remitir el proyecto a Comisión de Constitución para que se pronuncie sobre aspectos constitucionales Ver
+10 de Abr. de 2012   Primer trámite constitucional / C. Diputados Pasa a la Comisión de Constitución, Legislación y Justicia
+30 de Sep. de 2014   Primer trámite constitucional / C. Diputados Primer informe complementario Ver
+07 de Oct. de 2014 76ª / 362 Primer trámite constitucional / C. Diputados Cuenta primer informe complementario Ver
+07 de Oct. de 2014   Primer trámite constitucional / C. Diputados Pasa a la Sala
+08 de Oct. de 2014   Primer trámite constitucional / C. Diputados Oficio N°116-14 a la Corte Suprema Ver
+08 de Oct. de 2014 77ª / 362 Primer trámite constitucional / C. Diputados Cuenta oficio de la Comisión de Constitución, Legislación y Justicia, por el cual remite a la Corte Suprema, de conformidad con lo dispuesto en los artículos 77 de la Carta Fundamental y 16 de la ley N° 18.918, el informe correspondiente al proyecto de acuerdo. Ver
+14 de Oct. de 2014 80ª / 362 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 646-362 que hace presente la urgencia Simple Ver
+04 de Nov. de 2014 86ª / 362 Primer trámite constitucional / C. Diputados Discusión general
+04 de Nov. de 2014   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+05 de Nov. de 2014 61ª / 362 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8182-10","Fecha Etapa Informe Documento
+30 de Sep. de 2014 Primer trámite constitucional C.Diputados Primer informe complementario de Constitución, Legislación y Justicia Ver
+20 de Mar. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8182-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+14 de Oct. de 2014   Simple 646-362  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8182-10","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8182-10","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+86   75 0 18 1 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8182-10","No record","Veto emmEnd"

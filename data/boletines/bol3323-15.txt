@@ -1,0 +1,57 @@
+* * Bill summary * *
+"emmStart Summary 3323-15","Legislatura: 349
+Fecha de ingreso: miércoles 27 de agosto de 2003
+Estado: Segundo trámite constitucional .
+Numero de boletín: 3323-15
+Materia: Accidentes De Transito,Seguros
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 01:32:10
+* * Hitos de tramitación * *
+"emmStart Hitos 3323-15","Fecha Sesión Etapa Sub-etapa Documento
+27 de Ago. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+27 de Ago. de 2003 33ª / 349 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+27 de Ene. de 2004   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Mar. de 2004 51ª / 350 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+06 de Abr. de 2004 68ª / 350 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+06 de Abr. de 2004   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+07 de Abr. de 2004 45ª / 350 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones
+16 de Jun. de 2004   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+22 de Jun. de 2004 6ª / 351 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+11 de Ago. de 2004 20ª / 351 Segundo trámite constitucional / Senado Discusión general Ver
+07 de Sep. de 2004 26ª / 351 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 12/10/2004 Ver
+14 de Sep. de 2004   Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 352
+13 de Oct. de 2004   Segundo trámite constitucional / Senado Boletín de indicaciones
+14 de Jun. de 2006   Segundo trámite constitucional / Senado Se acuerda abrir nuevo plazo de indicaciones hasta las 12 horas del lunes 19/06/2006.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3323-15","Fecha Etapa Informe Documento
+16 de Jun. de 2004 Segundo trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver
+27 de Ene. de 2004 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3323-15","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+27 de Ago. de 2003   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3323-15","Nombre Región Distrito Partido
+Claudio Alvarado Andrade X Región de los Lagos N°58 Unión Demócrata Independiente
+Fidel Espinoza Sandoval X Región de los Lagos N°56 Partido Socialista
+Marcelo Forni Lobos V Región de Valparaíso N°11 Unión Demócrata Independiente
+Patricio Hales Dib RM Región Metropolitana N°19 Partido Por la Democracia
+Carmen Ibáñez Soto V Región de Valparaíso N°13 Renovación Nacional
+Zarko Luksic Sandoval RM Región Metropolitana N°16 Partido Demócrata Cristiano
+Fernando Meza Moncada IX Región de la Araucanía N°52 Partido Radical Social Demócrata
+Felipe Salaberry Soto RM Región Metropolitana N°25 Unión Demócrata Independiente
+Gonzalo Uriarte Herrera RM Región Metropolitana N°31 Unión Demócrata Independiente
+Ignacio Urrutia Bonilla VII Región del Maule N°40 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3323-15","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+68   74 1 2 1   Sala Ver detalle votación
+68 Indicación al artículo 128B 73 0 0 1   Sala Ver detalle votación
+68 Indicación al artículo 128A 77 0 1 3   Sala Ver detalle votación
+68   74 0 1 1   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3323-15","No record","Veto emmEnd"

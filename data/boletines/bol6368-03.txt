@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 6368-03","Legislatura: 356
+Fecha de ingreso: martes 20 de enero de 2009
+Estado: Primer trámite constitucional .
+Numero de boletín: 6368-03
+Materia: Embargo,Bloqueo,Sanciones
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 06:02:43
+* * Hitos de tramitación * *
+"emmStart Hitos 6368-03","Fecha Sesión Etapa Sub-etapa Documento
+20 de Ene. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de Ene. de 2009 127ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6368-03","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6368-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6368-03","Nombre Región Distrito Partido
+Gabriel Ascencio Mansilla X Región de los Lagos N°58 Partido Demócrata Cristiano
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Marcelo Díaz Díaz IV Región de Coquimbo N°7 Partido Socialista
+Rodrigo González Torres V Región de Valparaíso N°14 Partido Por la Democracia
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+Jaime Quintana Leal IX Región de la Araucanía N°49 Partido Por la Democracia
+Alberto Robles Pantoja III Región de Atacama N°6 Partido Radical Social Demócrata
+Eduardo Saffirio Suárez IX Región de la Araucanía N°50 Partido Demócrata Cristiano
+Eugenio Tuma Zedan IX Región de la Araucanía N°51 Partido Por la Democracia
+Patricio Vallespín López X Región de los Lagos N°57 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6368-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6368-03","No record","Veto emmEnd"

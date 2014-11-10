@@ -1,0 +1,59 @@
+* * Bill summary * *
+"emmStart Summary 2490-07","Legislatura: 341
+Fecha de ingreso: jueves 13 de abril de 2000
+Estado: Tramitación terminada (Ley Nº 19.761 - D.Oficial 08/11/2001)
+Numero de boletín: 2490-07
+Materia: Cobranzas Extrajudiciales
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 01:02:44
+* * Hitos de tramitación * *
+"emmStart Hitos 2490-07","Fecha Sesión Etapa Sub-etapa Documento
+13 de Abr. de 2000   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Abr. de 2000 41ª / 341 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión Constitución, Legislación y Justicia Ver
+25 de Ago. de 2000   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+29 de Ago. de 2000 30ª / 342 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+11 de Oct. de 2000 5ª / 343 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+11 de Oct. de 2000   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+17 de Oct. de 2000 5ª / 343 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Economía
+10 de Abr. de 2001   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+10 de Abr. de 2001 35ª / 343 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+03 de May. de 2001 41ª / 343 Segundo trámite constitucional / Senado Discusión general Ver
+03 de May. de 2001   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+08 de May. de 2001 60ª / 343 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+10 de May. de 2001 62ª / 343 Tercer trámite constitucional / C. Diputados Discusión única Ver
+16 de May. de 2001   Tercer trámite constitucional / C. Diputados Oficio rechazo modificaciones a Cámara Revisora. e integrantes Comisión Mixta. Ver
+05 de Jun. de 2001 1ª / 344 Comisión Mixta por rechazo de modificaciones / Senado Cuenta oficio rechazo a modificaciones
+06 de Jun. de 2001   Comisión Mixta por rechazo de modificaciones / Senado Oficio integrantes de Comisión Mixta. del Senado
+07 de Jun. de 2001 3ª / 344 Comisión Mixta por rechazo de modificaciones / Senado Cuenta Oficio del Senado, comunica que tomó conocimiento del rechazo de la Cámara de Diputados al proyecto, y del nombre de los señores diputados que integrarán la Comisión Mixta
+03 de Ago. de 2001   Comisión Mixta por rechazo de modificaciones / Senado Informe de Comisión Mixta Ver
+08 de Ago. de 2001 25ª / 344 Disc. informe C.Mixta por rechazo de modific. en C. Origen / C. Diputados Cuenta informe Comisión Mixta Ver
+14 de Ago. de 2001 27ª / 344 Disc. informe C.Mixta por rechazo de modific. en C. Origen / C. Diputados Discusión informe de Comisión Mixta Ver
+16 de Ago. de 2001   Disc. informe C.Mixta por rechazo de modific. en C. Origen / C. Diputados Oficio aprobación de informe de Comisión Mixta a C. Revisora Ver
+21 de Ago. de 2001 24ª / 344 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Cuenta oficio aprobación de informe de Comisión Mixta
+22 de Ago. de 2001 25ª / 344 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Discusión informe de Comisión Mixta
+22 de Ago. de 2001   Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Oficio aprobación de informe de Comisión Mixta a C.de Origen Ver
+04 de Sep. de 2001 32ª / 344 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación de informe de Comisión Mixta Ver
+04 de Sep. de 2001   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2490-07","Fecha Etapa Informe Documento
+03 de Ago. de 2001 Comisión Mixta por rechazo de modificaciones Senado Informe de Comisión Mixta de Economía Ver
+10 de Abr. de 2001 Segundo trámite constitucional Senado Primer informe de comisión de Economía Ver
+25 de Ago. de 2000 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2490-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2490-07","Nombre Región Distrito Partido
+Francisco Encina Moriamez IV Región de Coquimbo N°8 Partido Socialista
+Juan Núñez Valenzuela VI Región del Libertador Bernardo O' Higgins N°34 Partido Demócrata Cristiano
+Aníbal Pérez Lobos VI Región del Libertador Bernardo O' Higgins N°32 Partido Por la Democracia
+Eugenio Tuma Zedan IX Región de la Araucanía N°51 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2490-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2490-07","No record","Veto emmEnd"

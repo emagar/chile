@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 3456-03","Legislatura: 350
+Fecha de ingreso: jueves 22 de enero de 2004
+Estado: Archivado .
+Numero de boletín: 3456-03
+Materia: Protección Del Consumidor
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 02:55:36
+* * Hitos de tramitación * *
+"emmStart Hitos 3456-03","Fecha Sesión Etapa Sub-etapa Documento
+22 de Ene. de 2004   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+22 de Ene. de 2004 50ª / 350 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+06 de Abr. de 2006 10ª / 354 Primer trámite constitucional / C. Diputados Archivado Cuenta Oficio de Comisión de Economía, solicita archivo de proyecto. Sala accede al archivo solicitado. Ver
+06 de Abr. de 2006   Archivado / Oficio Nº 6101. Se accede a la petición de la Comisión de Economía para proceder a su archivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3456-03","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3456-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3456-03","Nombre Región Distrito Partido
+Claudio Alvarado Andrade X Región de los Lagos N°58 Unión Demócrata Independiente
+Marcelo Forni Lobos V Región de Valparaíso N°11 Unión Demócrata Independiente
+Alejandro García-Huidobro Sanfuentes VI Región del Libertador Bernardo O' Higgins N°32 Unión Demócrata Independiente
+Cristián Leay Morán RM Región Metropolitana N°19 Unión Demócrata Independiente
+Pablo Longueira Montes RM Región Metropolitana N°17 Unión Demócrata Independiente
+Patricio Melero Abaroa RM Región Metropolitana N°16 Unión Demócrata Independiente
+Iván Norambuena Farías VIII Región del Bío Bío N°46 Unión Demócrata Independiente
+Darío Paya Mira RM Región Metropolitana N°28 Unión Demócrata Independiente
+Carlos Recondo Lavanderos X Región de los Lagos N°56 Unión Demócrata Independiente
+Felipe Salaberry Soto RM Región Metropolitana N°25 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3456-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3456-03","No record","Veto emmEnd"

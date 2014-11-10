@@ -1,0 +1,58 @@
+* * Bill summary * *
+"emmStart Summary 3447-15","Legislatura: 350
+Fecha de ingreso: martes 13 de enero de 2004
+Estado: Tramitación terminada (Ley Nº 19.935 - D.Oficial 10/02/2004)
+Numero de boletín: 3447-15
+Materia: Peaje En Autopistas Concesionadas
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 02:49:50
+* * Hitos de tramitación * *
+"emmStart Hitos 3447-15","Fecha Sesión Etapa Sub-etapa Documento
+13 de Ene. de 2004   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Ene. de 2004 42ª / 350 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+14 de Ene. de 2004   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+14 de Ene. de 2004   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+14 de Ene. de 2004 43ª / 350 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Ene. de 2004 43ª / 350 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+14 de Ene. de 2004   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+15 de Ene. de 2004 29ª / 350 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transporte y Telecomunicaciones y Hacienda
+20 de Ene. de 2004   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+20 de Ene. de 2004   Segundo trámite constitucional / Senado Primer informe de comisión. (Certificado) Ver
+20 de Ene. de 2004 31ª / 350 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+20 de Ene. de 2004 31ª / 350 Segundo trámite constitucional / Senado Discusión particular Ver
+20 de Ene. de 2004   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+21 de Ene. de 2004 47ª / 350 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+22 de Ene. de 2004 50ª / 350 Tercer trámite constitucional / C. Diputados Discusión única Ver
+22 de Ene. de 2004   Tercer trámite constitucional / C. Diputados Oficio Nº 4779, que comunica aprobación de modificaciones Ver
+22 de Ene. de 2004   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+02 de Mar. de 2004 35ª / 350 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 4779, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3447-15","Fecha Etapa Informe Documento
+20 de Ene. de 2004 Segundo trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver
+20 de Ene. de 2004 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+14 de Ene. de 2004 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+14 de Ene. de 2004 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3447-15","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+02 de Mar. de 2004   Discusión inmediata 398-350  
+20 de Ene. de 2004   Discusión inmediata 435-350  
+13 de Ene. de 2004   Discusión inmediata 398-350  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3447-15","Nombre Región Distrito Partido
+Ministerio de Hacienda      
+Ministerio de Transporte y Telecomunicaciones      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3447-15","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+43   90 0 0 0   Sala Ver detalle votación
+43 1º, Nº2, Indicación Comisión de Hacienda 46 45 0 0   Sala Ver detalle votación
+50   85 1 0 2   Sala Ver detalle votación
+43 3 32 58 1 0   Sala Ver detalle votación
+43 3º, indicación señor Burgos 43 45 0 4   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3447-15","No record","Veto emmEnd"

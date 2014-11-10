@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 8784-04","Legislatura: 360
+Fecha de ingreso: lunes 14 de enero de 2013
+Estado: Segundo trámite constitucional .
+Numero de boletín: 8784-04
+Materia: Establecimientos Educacionales Subvencionados,Titularidad A Docentes
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 05:41:33
+* * Hitos de tramitación * *
+"emmStart Hitos 8784-04","Fecha Sesión Etapa Sub-etapa Documento
+14 de Ene. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+14 de Ene. de 2013 124ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Deportes y Recreación Ver
+22 de May. de 2013 30ª / 361 Primer trámite constitucional / C. Diputados Primer informe de comisión Ver Ver
+05 de Jun. de 2013 34ª / 361 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general y particular a la vez Ver
+05 de Jun. de 2013   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+18 de Jun. de 2013 32ª / 361 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento; para que informe sobre la admisibilidad del proyecto de ley.
+08 de Ago. de 2013   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+14 de Ago. de 2013 48ª / 361 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+03 de Sep. de 2013 51ª / 361 Segundo trámite constitucional / Senado Discusión única. Se rechaza el informe de la Comisión de Constitución, estableciéndose la admisibilidad del proyecto, que continuará su tramitación en la Comisión de Educación","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8784-04","Fecha Etapa Informe Documento
+08 de Ago. de 2013 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+14 de May. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8784-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8784-04","Nombre Región Distrito Partido
+Sergio Bobadilla Muñoz VIII Región del Bío Bío N°45 Unión Demócrata Independiente
+Lautaro Carmona Soto III Región de Atacama N°5 Partido Comunista
+Aldo Cornejo González V Región de Valparaíso N°13 Partido Demócrata Cristiano
+Marcos Espinosa Monardes II Región de Antofagasta N°3 Partido Radical Social Demócrata
+Cristina Girardi Lavín RM Región Metropolitana N°18 Partido Por la Democracia
+Rodrigo González Torres V Región de Valparaíso N°14 Partido Por la Democracia
+Manuel Monsalve Benavides VIII Región del Bío Bío N°46 Partido Socialista
+Alberto Robles Pantoja III Región de Atacama N°6 Partido Radical Social Demócrata
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Partido Regionalista Independiente
+Germán Verdugo Soto VII Región del Maule N°37 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8784-04","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+34   92 0 3 1 Aprobado Sala Ver detalle votación
+116 Votación General 9 0 1 3   Educación Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8784-04","No record","Veto emmEnd"

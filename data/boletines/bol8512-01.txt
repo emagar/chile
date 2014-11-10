@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 8512-01","Legislatura: 360
+Fecha de ingreso: lunes 13 de agosto de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8512-01
+Materia: Pueblos Originarios,Derechos De Agua Potable Rural
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 02:27:40
+* * Hitos de tramitación * *
+"emmStart Hitos 8512-01","Fecha Sesión Etapa Sub-etapa Documento
+13 de Ago. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Ago. de 2012 70ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+28 de Nov. de 2012 108ª / 360 Primer trámite constitucional / C. Diputados Cuenta del oficio de la Comisión de Recursos Hídricos, Desertificación y Sequía, por el cual solicita el acuerdo de la Sala, para que le sea remitido el proyecto. RECHAZADO. Ver
+28 de Nov. de 2012 108ª / 360 Primer trámite constitucional / C. Diputados Cuenta del oficio de la Comisión de Recursos Hídricos, Desertificación y Sequía, por el cual solicita el acuerdo de la Sala, para que le sea remitido el proyecto. RECHAZADO. Ver
+20 de Dic. de 2012 117ª / 360 Primer trámite constitucional / C. Diputados Oficio de la Comisión de Agricultura, Silvicultura y Desarrollo Rural, por el cual solicita el asentimiento de la Sala para remitir el proyecto a la Comisión de Recursos Hídricos, Desertificación y Sequía, ACORDADO. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8512-01","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8512-01","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8512-01","Nombre Región Distrito Partido
+Germán Becker Alvear IX Región de la Araucanía N°50 Renovación Nacional
+Alberto Cardemil Herrera RM Región Metropolitana N°22 Renovación Nacional
+Roberto Delmastro Naso XIV Región de los Ríos N°53 Independientes
+José Manuel Edwards Silva IX Región de la Araucanía N°51 Renovación Nacional
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Joaquín Godoy Ibáñez V Región de Valparaíso N°13 Renovación Nacional
+Leopoldo Pérez Lahsen RM Región Metropolitana N°29 Renovación Nacional
+Alejandro Santana Tirachini X Región de los Lagos N°58 Renovación Nacional
+Frank Sauerbaum Muñoz VIII Región del Bío Bío N°42 Renovación Nacional
+Germán Verdugo Soto VII Región del Maule N°37 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8512-01","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8512-01","No record","Veto emmEnd"

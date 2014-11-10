@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 4129-13","Legislatura: 354
+Fecha de ingreso: miércoles 29 de marzo de 2006
+Estado: Tramitación terminada (Ley Nº 20.118 - D.Oficial 25/08/2006)
+Numero de boletín: 4129-13
+Materia: Bomberos De Chile,Jornada De Trabajo
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 05-11-2014 19:07:00
+* * Hitos de tramitación * *
+"emmStart Hitos 4129-13","Fecha Sesión Etapa Sub-etapa Documento
+29 de Mar. de 2006   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+04 de Abr. de 2006 4ª / 354 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social
+17 de Jul. de 2006   Primer trámite constitucional / Senado Primer informe de comisión Ver
+18 de Jul. de 2006 34ª / 354 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+19 de Jul. de 2006 51ª / 354 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión Especial de Bomberos Ver Ver
+19 de Jul. de 2006 36ª / 354 Primer trámite constitucional / Senado Discusión general Ver
+19 de Jul. de 2006   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+20 de Jul. de 2006 52ª / 354 Segundo trámite constitucional / C. Diputados Discusión única Ver
+20 de Jul. de 2006   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+01 de Ago. de 2006 37ª / 354 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+01 de Ago. de 2006   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4129-13","Fecha Etapa Informe Documento
+17 de Jul. de 2006 Primer trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4129-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4129-13","Nombre
+José García Ruminot","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4129-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+52   84 0 0 1 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4129-13","No record","Veto emmEnd"

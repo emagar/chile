@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 419-05","Legislatura: 322
+Fecha de ingreso: martes 23 de julio de 1991
+Estado: Tramitación terminada (Ley Nº 19.149 - D.Oficial 06/07/1992)
+Numero de boletín: 419-05
+Materia: Comunas,Régimen Aduanero Preferencial
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 17:03:13
+* * Hitos de tramitación * *
+"emmStart Hitos 419-05","Fecha Sesión Etapa Sub-etapa Documento
+23 de Jul. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+23 de Jul. de 1991 23ª / 322 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+30 de Ago. de 1991   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+15 de Ene. de 1992 34ª / 323 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+31 de Mar. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+07 de Abr. de 1992 49ª / 323 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+14 de Abr. de 1992   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+28 de Abr. de 1992 53ª / 323 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+29 de Abr. de 1992   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+06 de May. de 1992 57ª / 323 Discusión veto en Cámara Revisora / Senado Cuenta de oficio de la CCDD con el que comunica aprobación de enmiendas del Senado.
+16 de Jun. de 1992   Discusión veto en Cámara Revisora / Senado Oficio aprobación veto a Cámara de Origen Ver
+16 de Jun. de 1992 5ª / 324 Discusión veto en Cámara Revisora / Senado Cuenta oficio aprobación veto. Pasa a Comisión de Hacienda","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 419-05","Fecha Etapa Informe Documento
+14 de Abr. de 1992 Segundo trámite constitucional Senado Segundo informe de comisión de Hacienda Ver
+31 de Mar. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+30 de Ago. de 1991 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 419-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+23 de Jul. de 1991   Simple    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 419-05","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 419-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 419-05","No record","Veto emmEnd"

@@ -1,0 +1,48 @@
+* * Bill summary * *
+"emmStart Summary 3040-04","Legislatura: 347
+Fecha de ingreso: martes 03 de septiembre de 2002
+Estado: Tramitación terminada (Ley Nº 20.144 - D.Oficial 30/12/2006)
+Numero de boletín: 3040-04
+Materia: Monumentos
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 03-11-2014 22:28:14
+* * Hitos de tramitación * *
+"emmStart Hitos 3040-04","Fecha Sesión Etapa Sub-etapa Documento
+03 de Sep. de 2002   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+03 de Sep. de 2002 25ª / 347 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+28 de Jul. de 2003   Primer trámite constitucional / Senado Primer informe de comisión Ver
+30 de Jul. de 2003 16ª / 349 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+05 de Ago. de 2003 19ª / 349 Primer trámite constitucional / Senado Discusión general Ver
+05 de Ago. de 2003   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+06 de Ago. de 2003 26ª / 349 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+09 de Ago. de 2006 60ª / 354 Segundo trámite constitucional / C. Diputados Comisión de la Cultura y las Artes solicita remisión del proyecto. Ver
+10 de Ago. de 2006 62ª / 354 Segundo trámite constitucional / C. Diputados Se acuerda enviarlo a la Comisión de la Cultura y las Artes. Ver
+09 de Nov. de 2006   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+15 de Nov. de 2006 98ª / 354 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+15 de Nov. de 2006   Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver
+16 de Nov. de 2006 99ª / 354 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+28 de Nov. de 2006 71ª / 354 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora Ver
+05 de Dic. de 2006 73ª / 354 Tercer trámite constitucional / Senado Discusión única
+05 de Dic. de 2006   Tercer trámite constitucional / Senado Oficio Nº 28781, que comunica aprobación de modificaciones Ver
+07 de Dic. de 2006   Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo Ver
+07 de Dic. de 2006 105ª / 354 Tercer trámite constitucional / Senado Cuenta oficio Nº 28781, que comunica aprobación de modificaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3040-04","Fecha Etapa Informe Documento
+09 de Nov. de 2006 Segundo trámite constitucional C.Diputados Primer informe de comisión de la Cultura y las Artes Ver
+28 de Jul. de 2003 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3040-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3040-04","Nombre
+Jorge Arancibia Reyes","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3040-04","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+99   90 0 0 1 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3040-04","No record","Veto emmEnd"

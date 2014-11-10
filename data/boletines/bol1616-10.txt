@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 1616-10","Legislatura: 331
+Fecha de ingreso: miércoles 31 de mayo de 1995
+Estado: Tramitación terminada (D.S. Nº 272 - D.Oficial 03/06/1997)
+Numero de boletín: 1616-10
+Materia: Convención Sobre Seguridad Nuclear,Seguridad Nuclear
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 11:25:37
+* * Hitos de tramitación * *
+"emmStart Hitos 1616-10","Fecha Sesión Etapa Sub-etapa Documento
+31 de May. de 1995   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+31 de May. de 1995 3ª / 331 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+10 de Ene. de 1996 28ª / 332 Primer trámite constitucional / Senado Por acuerdo de la sala , pasa a la comisión de medio ambiente y Bienes Nacionales Ver
+04 de Jun. de 1996 3ª / 333 Primer trámite constitucional / Senado Primer informe de comisión Ver
+04 de Jun. de 1996 3ª / 333 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+03 de Jul. de 1996 12ª / 333 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+03 de Jul. de 1996 12ª / 333 Primer trámite constitucional / Senado Discusión general Ver
+09 de Jul. de 1996 14ª / 333 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+03 de Sep. de 1996   Segundo trámite constitucional / C. Diputados Primer informe de comisión
+10 de Sep. de 1996 35ª / 333 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+16 de Oct. de 1996 8ª / 334 Segundo trámite constitucional / C. Diputados Discusión general Ver
+16 de Oct. de 1996   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen
+29 de Oct. de 1996 5ª / 334 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+29 de Oct. de 1996 5ª / 334 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1616-10","Fecha Etapa Informe Documento
+03 de Sep. de 1996 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+04 de Jun. de 1996 Primer trámite constitucional Senado Primer informe de comisión de Medio Ambiente y Bienes Nacionales Ver
+10 de Ene. de 1996 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1616-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1616-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1616-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1616-10","No record","Veto emmEnd"

@@ -1,0 +1,66 @@
+* * Bill summary * *
+"emmStart Summary 1902-17","Legislatura: 333
+Fecha de ingreso: jueves 01 de agosto de 1996
+Estado: Tramitación terminada (Ley Nº 19.717 - D.Oficial 14/02/2001)
+Numero de boletín: 1902-17
+Materia: Nacionalización
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 16:09:11
+* * Hitos de tramitación * *
+"emmStart Hitos 1902-17","Fecha Sesión Etapa Sub-etapa Documento
+01 de Ago. de 1996   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+01 de Ago. de 1996 22ª / 333 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+28 de Ago. de 1996   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+01 de Oct. de 1996 1ª / 334 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+31 de Ago. de 2000 32ª / 342 Primer trámite constitucional / C. Diputados Discusión general Ver
+31 de Ago. de 2000   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+05 de Sep. de 2000 21ª / 342 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía
+12 de Dic. de 2000   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+12 de Dic. de 2000 16ª / 343 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+19 de Dic. de 2000 19ª / 343 Segundo trámite constitucional / Senado Discusión general Ver
+21 de Dic. de 2000   Segundo trámite constitucional / Senado Oficio rechazo a Cámara de Origen Ver
+03 de Ene. de 2001   Comisión Mixta por rechazo de idea de legislar / Senado Oficio integrantes de Comisión Mixta Ver
+03 de Ene. de 2001 30ª / 343 Comisión Mixta por rechazo de idea de legislar / Senado Cuenta oficio rechazo de Cámara Revisora
+03 de Ene. de 2001 20ª / 343 Comisión Mixta por rechazo de idea de legislar / Senado Cuenta oficio integrantes de Comisión Mixta
+10 de Ene. de 2001   Comisión Mixta por rechazo de idea de legislar / Senado Informe de Comisión Mixta Ver
+16 de Ene. de 2001 35ª / 343 Disc. informe C.Mixta por rechazo idea de legislar C. Origen / C. Diputados Cuenta informe Comisión Mixta Ver
+17 de Ene. de 2001 36ª / 343 Disc. informe C.Mixta por rechazo idea de legislar C. Origen / C. Diputados Discusión informe de Comisión Mixta Ver
+17 de Ene. de 2001   Disc. informe C.Mixta por rechazo idea de legislar C. Origen / C. Diputados Oficio aprobación de informe de Comisión Mixta a C. Revisora Ver
+17 de Ene. de 2001 24ª / 343 Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / Senado Cuenta oficio aprobación de informe de Comisión Mixta
+23 de Ene. de 2001   Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / Senado Oficio aprobación de informe de Comisión Mixta a C.de Origen Ver
+23 de Ene. de 2001 25ª / 343 Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / Senado Discusión informe de Comisión Mixta
+24 de Ene. de 2001   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+06 de Mar. de 2001 39ª / 343 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación de informe de Comisión Mixta Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1902-17","Fecha Etapa Informe Documento
+10 de Ene. de 2001 Comisión Mixta por rechazo de idea de legislar Senado Informe de Comisión Mixta de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+12 de Dic. de 2000 Segundo trámite constitucional Senado Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+28 de Ago. de 1996 Primer trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1902-17","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+16 de Ene. de 2001   Suma 253-343  
+03 de Ene. de 2001 16 de Ene. de 2001 Suma 215-343 253-343
+05 de Dic. de 2000 03 de Ene. de 2001 Simple 165-343 215-343
+31 de Oct. de 2000 05 de Dic. de 2000 Simple 75-343 165-343","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1902-17","Nombre Región Distrito Partido
+Sergio Aguiló Melo Región N°37 Partido Socialista
+Gabriel Ascencio Mansilla Región N° Partido Demócrata Cristiano
+Andrés Aylwin Azócar Región N°30 Partido Demócrata Cristiano
+Guillermo Ceroni Fuentes Región N° Partido Por la Democracia
+Roberto León Ramírez Región N° Partido Demócrata Cristiano
+Jaime Naranjo Ortíz Región N°39 Partido Socialista
+Sergio Ojeda Uribe Región N°55 Partido Demócrata Cristiano
+Andrés Palma Irarrázabal Región N°25 Partido Demócrata Cristiano
+Rodolfo Seguel Molina Región N°28 Partido Demócrata Cristiano
+Erick Villegas González Región N° Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1902-17","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1902-17","No record","Veto emmEnd"

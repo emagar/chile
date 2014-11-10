@@ -1,0 +1,50 @@
+* * Bill summary * *
+"emmStart Summary 4720-15","Legislatura: 354
+Fecha de ingreso: miércoles 06 de diciembre de 2006
+Estado: Comisión Mixta por rechazo de idea de legislar .
+Numero de boletín: 4720-15
+Materia: Tránsito,Bicicletas
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 06-11-2014 06:47:17
+* * Hitos de tramitación * *
+"emmStart Hitos 4720-15","Fecha Sesión Etapa Sub-etapa Documento
+06 de Dic. de 2006   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+12 de Dic. de 2006 76ª / 354 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones
+16 de Mar. de 2007   Primer trámite constitucional / Senado Primer informe de comisión Ver
+21 de Mar. de 2007 5ª / 355 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+03 de Abr. de 2007 6ª / 355 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 16/04/2007 Ver
+16 de Abr. de 2007   Primer trámite constitucional / Senado Boletín de indicaciones
+10 de Oct. de 2007 57ª / 355 Primer trámite constitucional / Senado La Sala acuerda fijar un nuevo plazo para presentar indicaciones, hasta las 12 horas del día viernes 12 de octubre en curso.
+23 de Oct. de 2007   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+31 de Oct. de 2007 61ª / 355 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+06 de Nov. de 2007 62ª / 355 Primer trámite constitucional / Senado Discusión particular Ver
+06 de Nov. de 2007   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+07 de Nov. de 2007 98ª / 355 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver Ver
+18 de Ene. de 2011   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de Ene. de 2011 127ª / 358 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+01 de Mar. de 2011 131ª / 358 Segundo trámite constitucional / C. Diputados Discusión general Ver
+02 de Mar. de 2011   Segundo trámite constitucional / C. Diputados Oficio rechazo a Cámara de Origen Ver
+08 de Mar. de 2011 92ª / 358 Comisión Mixta por rechazo de idea de legislar / C. Diputados Cuenta oficio rechazo de Cámara Revisora Ver
+08 de Mar. de 2011   Comisión Mixta por rechazo de idea de legislar / C. Diputados Oficio N°231/SEC/11. Toma conocimiento del rechazo de la Cámara de Diputados y designa a los miembros de la Comisión de Transportes y Telecomunicaciones para que integren la Comisión Mixta. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4720-15","Fecha Etapa Informe Documento
+18 de Ene. de 2011 Segundo trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+23 de Oct. de 2007 Primer trámite constitucional Senado Segundo informe de comisión de Transportes y Telecomunicaciones Ver
+16 de Mar. de 2007 Primer trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4720-15","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4720-15","Nombre
+Jovino Novoa Vásquez","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4720-15","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+131   42 49 13 16 Rechazado Sala Ver detalle votación
+33 Votación General 8 2 0 3   Obras Públicas Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4720-15","No record","Veto emmEnd"

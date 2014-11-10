@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 5868-03","Legislatura: 356
+Fecha de ingreso: martes 13 de mayo de 2008
+Estado: Segundo trámite constitucional .
+Numero de boletín: 5868-03 Refundido con: 5542-03,5378-03,5558-03,5424-03
+Materia: Tarjetas De Crédito,Medidas De Seguridad
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 00:10:28
+* * Hitos de tramitación * *
+"emmStart Hitos 5868-03","Fecha Sesión Etapa Sub-etapa Documento
+13 de May. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de May. de 2008 27ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+06 de Ene. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de Ene. de 2009 120ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+03 de Mar. de 2009 131ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+17 de Mar. de 2009 3ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+16 de Jun. de 2009   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+16 de Jun. de 2009 42ª / 357 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+16 de Jun. de 2009 42ª / 357 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de Comisión de Economía. EN TABLA Ver
+30 de Jul. de 2009 57ª / 357 Primer trámite constitucional / C. Diputados Discusión particular Ver
+04 de Ago. de 2009   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+04 de Ago. de 2009 37ª / 357 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Economía","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5868-03","Fecha Etapa Informe Documento
+16 de Jun. de 2009 Primer trámite constitucional C.Diputados Segundo informe de comisión de Economía, Fomento y Desarrollo Ver
+06 de Ene. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5868-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5868-03","Nombre Región Distrito Partido
+Francisco Encina Moriamez IV Región de Coquimbo N°8 Partido Socialista
+Marco Enríquez-Ominami Gumucio V Región de Valparaíso N°10 Independientes
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Tucapel Jiménez Fuentes RM Región Metropolitana N°27 Partido Por la Democracia
+Adriana Muñoz D'Albora IV Región de Coquimbo N°9 Partido Por la Democracia
+Clemira Pacheco Rivas VIII Región del Bío Bío N°45 Partido Socialista
+Denise Pascal Allende RM Región Metropolitana N°31 Partido Socialista","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5868-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5868-03","No record","Veto emmEnd"

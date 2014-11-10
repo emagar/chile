@@ -1,0 +1,34 @@
+* * Bill summary * *
+"emmStart Summary 58-01","Legislatura: 320
+Fecha de ingreso: miércoles 30 de mayo de 1990
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 58-01
+Materia: Bolsas De Productos ,Productos Agrícolas
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 30-10-2014 16:28:59
+* * Hitos de tramitación * *
+"emmStart Hitos 58-01","Fecha Sesión Etapa Sub-etapa Documento
+16 de May. de 1990   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+30 de May. de 1990 2ª / 320 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Agricultura
+06 de Jun. de 1990 4ª / 320 Tramitación terminada / Cuenta del Retiro de la Moción por partes de los Senadores que la presentaron, en Virtud del art. 115 del reglamento del Senado. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 58-01","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 58-01","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 58-01","Nombre
+Alberto Cooper Valencia
+Sergio Jarpa Reyes
+Enrique Larre Asenjo
+Francisco Prat Alemparte
+Sergio Romero Pizarro","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 58-01","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 58-01","No record","Veto emmEnd"

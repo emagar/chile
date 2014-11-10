@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 2377-13","Legislatura: 340
+Fecha de ingreso: miércoles 11 de agosto de 1999
+Estado: Tramitación terminada (Ley Nº 19.739 - D.Oficial 06/07/2001)
+Numero de boletín: 2377-13
+Materia: Discriminación
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 23:52:41
+* * Hitos de tramitación * *
+"emmStart Hitos 2377-13","Fecha Sesión Etapa Sub-etapa Documento
+11 de Ago. de 1999   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+11 de Ago. de 1999 21ª / 340 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social
+18 de Abr. de 2000 31ª / 341 Primer trámite constitucional / Senado Discusión general Ver
+18 de Abr. de 2000 31ª / 341 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+18 de Abr. de 2000   Primer trámite constitucional / Senado Primer informe de comisión Ver
+18 de Abr. de 2000   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+02 de May. de 2000 44ª / 341 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+05 de Jun. de 2001 1ª / 344 Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver Ver
+05 de Jun. de 2001 1ª / 344 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de Jun. de 2001 5ª / 344 Segundo trámite constitucional / C. Diputados Discusión general Ver
+13 de Jun. de 2001 5ª / 344 Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver Ver
+19 de Jun. de 2001 6ª / 344 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+19 de Jun. de 2001   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2377-13","Fecha Etapa Informe Documento
+05 de Jun. de 2001 Segundo trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver
+18 de Abr. de 2000 Primer trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2377-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Abr. de 2000   Simple 346-341  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2377-13","Nombre
+Jaime Gazmuri Mujica
+José Antonio Viera-Gallo Quesney","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2377-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2377-13","No record","Veto emmEnd"

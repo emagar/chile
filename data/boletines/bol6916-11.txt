@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 6916-11","Legislatura: 358
+Fecha de ingreso: martes 04 de mayo de 2010
+Estado: Primer trámite constitucional .
+Numero de boletín: 6916-11
+Materia: Identificación Del Recién Nacido,Código Sanitario
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 19:35:47
+* * Hitos de tramitación * *
+"emmStart Hitos 6916-11","Fecha Sesión Etapa Sub-etapa Documento
+04 de May. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de May. de 2010 19ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver
+10 de Mar. de 2011   Primer trámite constitucional / C. Diputados Oficio N°7-2011. Oficio de la Comisión de Salud, con el que comunica que remite al archivo el proyecto. Ver
+10 de Mar. de 2011   Primer trámite constitucional / C. Diputados Archivado
+14 de Abr. de 2011 14ª / 359 Primer trámite constitucional / C. Diputados Desarchivado Oficio de la señora Diputada Molina, doña Andrea, quién solicita el desarchivo del proyecto. Aprobado. Ver
+19 de Jun. de 2012   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de Jul. de 2012 48ª / 360 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6916-11","Fecha Etapa Informe Documento
+19 de Jun. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Salud Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6916-11","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6916-11","Nombre Región Distrito Partido
+Pedro Pablo Alvarez-Salamanca Ramírez VII Región del Maule N°38 Unión Demócrata Independiente
+Ramón Barros Montero VI Región del Libertador Bernardo O' Higgins N°35 Unión Demócrata Independiente
+María Angélica Cristi Marfil RM Región Metropolitana N°24 Unión Demócrata Independiente
+Javier Macaya Danús VI Región del Libertador Bernardo O' Higgins N°34 Unión Demócrata Independiente
+Andrea Molina Oliva V Región de Valparaíso N°10 Unión Demócrata Independiente
+Iván Moreira Barros RM Región Metropolitana N°27 Unión Demócrata Independiente
+Marisol Turres Figueroa X Región de los Lagos N°57 Unión Demócrata Independiente
+Felipe Ward Edwards II Región de Antofagasta N°3 Unión Demócrata Independiente
+Mónica Zalaquett Said RM Región Metropolitana N°20 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6916-11","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+104 Votación General 10 0 0 3   Salud Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6916-11","No record","Veto emmEnd"

@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 1776-10","Legislatura: 332
+Fecha de ingreso: jueves 04 de enero de 1996
+Estado: Tramitación terminada (D.S. Nº 1.837 - D.Oficial 20/05/1997)
+Numero de boletín: 1776-10
+Materia: Permisos (Trabajo)
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 14:24:03
+* * Hitos de tramitación * *
+"emmStart Hitos 1776-10","Fecha Sesión Etapa Sub-etapa Documento
+04 de Ene. de 1996   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+04 de Ene. de 1996 26ª / 332 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+12 de Jun. de 1996 6ª / 333 Primer trámite constitucional / Senado Primer informe de comisión Ver
+12 de Jun. de 1996 6ª / 333 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+20 de Jun. de 1996 10ª / 333 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+20 de Jun. de 1996 10ª / 333 Primer trámite constitucional / Senado Discusión general Ver
+02 de Jul. de 1996 11ª / 333 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+02 de Jul. de 1996 11ª / 333 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+16 de Jul. de 1996   Segundo trámite constitucional / C. Diputados Primer informe de comisión
+27 de Ago. de 1996 29ª / 333 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de Nov. de 1996 16ª / 334 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+13 de Nov. de 1996   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen
+19 de Nov. de 1996 9ª / 334 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+19 de Nov. de 1996 9ª / 334 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1776-10","Fecha Etapa Informe Documento
+16 de Jul. de 1996 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+12 de Jun. de 1996 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1776-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1776-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1776-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1776-10","No record","Veto emmEnd"

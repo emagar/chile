@@ -1,0 +1,39 @@
+* * Bill summary * *
+"emmStart Summary 7969-24","Legislatura: 359
+Fecha de ingreso: martes 04 de octubre de 2011
+Estado: Primer trámite constitucional .
+Numero de boletín: 7969-24
+Materia: Día Del Trabajador Radial (21 De Septiembre)
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 13:54:28
+* * Hitos de tramitación * *
+"emmStart Hitos 7969-24","Fecha Sesión Etapa Sub-etapa Documento
+04 de Oct. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Oct. de 2011 89ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de la Cultura y las Artes Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7969-24","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7969-24","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7969-24","Nombre Región Distrito Partido
+Lautaro Carmona Soto III Región de Atacama N°5 Partido Comunista
+Alfonso De Urresti Longton XIV Región de los Ríos N°53 Partido Socialista
+Roberto Delmastro Naso XIV Región de los Ríos N°53 Independientes
+Carlos Abel Jarpa Wevar VIII Región del Bío Bío N°41 Partido Radical Social Demócrata
+Issa Farid Kort Garriga VI Región del Libertador Bernardo O' Higgins N°32 Unión Demócrata Independiente
+Iván Moreira Barros RM Región Metropolitana N°27 Unión Demócrata Independiente
+Leopoldo Pérez Lahsen RM Región Metropolitana N°29 Renovación Nacional
+Jorge Sabag Villalobos VIII Región del Bío Bío N°42 Partido Demócrata Cristiano
+Joaquín Tuma Zedan IX Región de la Araucanía N°51 Partido Por la Democracia
+Orlando Vargas Pizarro XV Región Arica y Parinacota N°1 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7969-24","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+122 Votación General 7 0 1 5   Cultura Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7969-24","No record","Veto emmEnd"

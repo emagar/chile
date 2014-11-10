@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 1286-02","Legislatura: 329
+Fecha de ingreso: martes 19 de julio de 1994
+Estado: Archivado .
+Numero de boletín: 1286-02
+Materia: Ministerio De Defensa,Ministerios,Subsecretaría De Investigaciones
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 05:24:51
+* * Hitos de tramitación * *
+"emmStart Hitos 1286-02","Fecha Sesión Etapa Sub-etapa Documento
+19 de Jul. de 1994   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+19 de Jul. de 1994 23ª / 329 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Defensa Nacional Ver
+20 de Jul. de 1994   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Ago. de 1994 25ª / 329 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+04 de Ago. de 1994 27ª / 329 Primer trámite constitucional / C. Diputados Discusión general Ver
+04 de Ago. de 1994   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora
+09 de Ago. de 1994 19ª / 329 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Defensa Nacional
+09 de Jul. de 1997   Segundo trámite constitucional / Senado Se solicita su archivo Cuenta del oficio de S.E. el Presidente de la República, con el que solicita el archivos del proyecto.
+09 de Jul. de 1997   Archivado / Oficio Nº40-335. Solicita archivo de proyecto de ley Ver
+15 de Jul. de 1997   Archivado / Oficio Nº11284. Oficio a la Cámara de Diputados solicitando autorización para archivar proyecto. Ver
+17 de Jul. de 1997 19ª / 329 Segundo trámite constitucional / Senado Archivado Oficio de la Cámara de Diputados, con el que comunica que ha accedido al archivo propuesto.
+23 de Jul. de 1997   Archivado / Oficio Nº11332. Oficio a S.E. el Presidente de la República comunicándole que se accedió al archivo de esta iniciativa de ley. Ver
+23 de Jul. de 1997   Archivado / Se remite oficio a S.E. el Presidente de la República comunicando que se accedió al archivo solicitado.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1286-02","Fecha Etapa Informe Documento
+20 de Jul. de 1994 Primer trámite constitucional C.Diputados Primer informe de comisión de Defensa Nacional Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1286-02","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+19 de Jul. de 1994   Suma    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1286-02","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1286-02","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1286-02","No record","Veto emmEnd"

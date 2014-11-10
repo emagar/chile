@@ -1,0 +1,62 @@
+* * Bill summary * *
+"emmStart Summary 8273-15","Legislatura: 360
+Fecha de ingreso: miércoles 02 de mayo de 2012
+Estado: Tramitación terminada (Ley Nº 20.694 - D.Oficial 16/10/2013)
+Numero de boletín: 8273-15
+Materia: Television Nacional De Chile
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 09-11-2014 23:31:32
+* * Hitos de tramitación * *
+"emmStart Hitos 8273-15","Fecha Sesión Etapa Sub-etapa Documento
+02 de May. de 2012   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+02 de Ago. de 2012   Primer trámite constitucional / Senado Primer informe de comisión Ver
+07 de Ago. de 2012 39ª / 360 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+29 de Ago. de 2012 44ª / 360 Primer trámite constitucional / Senado Discusión general Ver
+29 de Ago. de 2012 44ª / 360 Primer trámite constitucional / Senado Se solicita segunda discusión. Ver
+05 de Sep. de 2012 47ª / 360 Primer trámite constitucional / Senado Se retira el proyecto de la Tabla de esta sesión a solicitud del Ejecutivo. Ver
+11 de Sep. de 2012 48ª / 360 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 08/10/2012 Ver
+08 de Oct. de 2012   Primer trámite constitucional / Senado Boletín de indicaciones
+24 de Ene. de 2013   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+06 de Mar. de 2013 102ª / 360 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+11 de Jun. de 2013 29ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 127-361 que hace presente la urgencia Suma Ver
+12 de Jun. de 2013 30ª / 361 Primer trámite constitucional / Senado Se solicita segunda discusión. Ver
+12 de Jun. de 2013 30ª / 361 Primer trámite constitucional / Senado Discusión particular Ver
+18 de Jun. de 2013 32ª / 361 Primer trámite constitucional / Senado Discusión particular Ver
+02 de Jul. de 2013 36ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 159-361 que retira y hace presente la urgencia Suma
+09 de Jul. de 2013 39ª / 361 Primer trámite constitucional / Senado Discusión particular Ver
+09 de Jul. de 2013   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+10 de Jul. de 2013 46ª / 361 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+30 de Jul. de 2013 50ª / 361 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 199-361 que hace presente la urgencia Suma Ver
+08 de Ago. de 2013   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Ago. de 2013 57ª / 361 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Ago. de 2013 60ª / 361 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 224-361 que hace presente la urgencia Suma Ver
+28 de Ago. de 2013 64ª / 361 Segundo trámite constitucional / C. Diputados Discusión general. Aprobado en general y particular sin modificaciones Ver
+28 de Ago. de 2013   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+28 de Ago. de 2013 50ª / 361 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+28 de Ago. de 2013   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8273-15","Fecha Etapa Informe Documento
+09 de Ago. de 2013 Segundo trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+24 de Ene. de 2013 Primer trámite constitucional Senado Segundo informe de comisión de Transportes y Telecomunicaciones Ver
+02 de Ago. de 2012 Primer trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8273-15","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+14 de Ago. de 2013   Suma 224-361  
+30 de Jul. de 2013   Suma 199-361  
+02 de Jul. de 2013   Suma 159-361  
+11 de Jun. de 2013 21 de Jun. de 2013 Suma 127-361 159-361","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8273-15","Nombre
+Ministerio de Hacienda
+Ministerio Secretaría General de Gobierno","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8273-15","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+64   67 13 6 34 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8273-15","No record","Veto emmEnd"

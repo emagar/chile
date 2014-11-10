@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 991-13","Legislatura: 325
+Fecha de ingreso: jueves 13 de mayo de 1993
+Estado: Tramitación terminada (Ley Nº 19.228 - D.Oficial 02/07/1993)
+Numero de boletín: 991-13
+Materia: Pensiones Asistenciales,Asignacion Familiar,Subsidios
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 01:40:03
+* * Hitos de tramitación * *
+"emmStart Hitos 991-13","Fecha Sesión Etapa Sub-etapa Documento
+13 de May. de 1993   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+19 de May. de 1993 76ª / 325 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+02 de Jun. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Jun. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Jun. de 1993   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+09 de Jun. de 1993 6ª / 326 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+09 de Jun. de 1993 6ª / 326 Primer trámite constitucional / C. Diputados Discusión general Ver
+15 de Jun. de 1993 5ª / 326 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social y a la de Hacienda, en su caso
+16 de Jun. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+16 de Jun. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+16 de Jun. de 1993 6ª / 326 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+16 de Jun. de 1993 6ª / 326 Segundo trámite constitucional / Senado Discusión general Ver
+16 de Jun. de 1993   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+17 de Jun. de 1993   Tramitación terminada / Oficio Nº4401. comunica aprobación sin modificaciones a Cámara de origen Ver
+17 de Jun. de 1993   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+22 de Jun. de 1993 9ª / 326 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 991-13","Fecha Etapa Informe Documento
+16 de Jun. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+16 de Jun. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver
+09 de Jun. de 1993 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+02 de Jun. de 1993 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 991-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+19 de May. de 1993   Suma    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 991-13","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 991-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 991-13","No record","Veto emmEnd"

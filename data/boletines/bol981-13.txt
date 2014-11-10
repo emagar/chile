@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 981-13","Legislatura: 325
+Fecha de ingreso: martes 11 de mayo de 1993
+Estado: Tramitación terminada (Ley Nº 19.222 - D.Oficial 31/05/1993)
+Numero de boletín: 981-13
+Materia: Salario Mínimo
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 01:31:56
+* * Hitos de tramitación * *
+"emmStart Hitos 981-13","Fecha Sesión Etapa Sub-etapa Documento
+04 de Mar. de 1993 50ª / 325 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social y a Comisión de Hacienda Ver
+11 de May. de 1993   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de May. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+13 de May. de 1993 74ª / 325 Primer trámite constitucional / C. Diputados Discusión general Ver
+13 de May. de 1993 74ª / 325 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de May. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+13 de May. de 1993   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 981-13","Fecha Etapa Informe Documento
+13 de May. de 1993 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+12 de May. de 1993 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 981-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 981-13","Nombre Región Distrito Partido
+Ministerio de Trabajo y Previsión Social      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 981-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 981-13","No record","Veto emmEnd"

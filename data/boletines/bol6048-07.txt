@@ -1,0 +1,34 @@
+* * Bill summary * *
+"emmStart Summary 6048-07","Legislatura: 356
+Fecha de ingreso: martes 02 de septiembre de 2008
+Estado: Primer trámite constitucional .
+Numero de boletín: 6048-07
+Materia: Medio Ambiente
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 02:15:04
+* * Hitos de tramitación * *
+"emmStart Hitos 6048-07","Fecha Sesión Etapa Sub-etapa Documento
+02 de Sep. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Sep. de 2008 69ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6048-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6048-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6048-07","Nombre Región Distrito Partido
+Marco Enríquez-Ominami Gumucio V Región de Valparaíso N°10 Independientes
+Alvaro Escobar Rufatt RM Región Metropolitana N°20 Independientes
+Ramón Farías Ponce RM Región Metropolitana N°30 Partido Por la Democracia
+Guido Girardi Briere RM Región Metropolitana N°18 Partido Por la Democracia
+Enrique Jaramillo Becker XIV Región de los Ríos N°54 Partido Por la Democracia
+Tucapel Jiménez Fuentes RM Región Metropolitana N°27 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6048-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6048-07","No record","Veto emmEnd"

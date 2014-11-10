@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 7018-25","Legislatura: 358
+Fecha de ingreso: martes 29 de junio de 2010
+Estado: Segundo trámite constitucional .
+Numero de boletín: 7018-25
+Materia: Falsa Alarma De Emergencia
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 23:20:36
+* * Hitos de tramitación * *
+"emmStart Hitos 7018-25","Fecha Sesión Etapa Sub-etapa Documento
+29 de Jun. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+29 de Jun. de 2010 42ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Seguridad Ciudadana y Drogas Ver
+23 de Ene. de 2013   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+23 de Ene. de 2013 131ª / 360 Primer trámite constitucional / C. Diputados Cuenta. Primer informe de la Comisión de Seguridad Ciudadana y Drogas recaído en el proyecto. Ver
+07 de Mar. de 2013 136ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+07 de Mar. de 2013   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+12 de Mar. de 2013 1ª / 361 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7018-25","Fecha Etapa Informe Documento
+23 de Ene. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión de Seguridad Ciudadana y Drogas Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7018-25","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7018-25","Nombre Región Distrito Partido
+Pedro Pablo Alvarez-Salamanca Ramírez VII Región del Maule N°38 Unión Demócrata Independiente
+Sergio Bobadilla Muñoz VIII Región del Bío Bío N°45 Unión Demócrata Independiente
+Javier Hernández Hernández X Región de los Lagos N°55 Unión Demócrata Independiente
+Juan Lobos Krause VIII Región del Bío Bío N°47 Unión Demócrata Independiente
+Celso Morales Muñoz VII Región del Maule N°36 Unión Demócrata Independiente
+Claudia Nogueira Fernández RM Región Metropolitana N°19 Unión Demócrata Independiente
+Iván Norambuena Farías VIII Región del Bío Bío N°46 Unión Demócrata Independiente
+Carlos Recondo Lavanderos X Región de los Lagos N°56 Unión Demócrata Independiente
+Jorge Ulloa Aguillón VIII Región del Bío Bío N°43 Unión Demócrata Independiente
+Felipe Ward Edwards II Región de Antofagasta N°3 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7018-25","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+77 Votación General 5 0 0 8   Seguridad y Drogas Ver detalle votación
+136   61 0 2 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7018-25","No record","Veto emmEnd"

@@ -1,0 +1,39 @@
+* * Bill summary * *
+"emmStart Summary 5680-18","Legislatura: 355
+Fecha de ingreso: jueves 03 de enero de 2008
+Estado: Archivado .
+Numero de boletín: 5680-18
+Materia: Acoso Sexual,Código Penal
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 13:00:41
+* * Hitos de tramitación * *
+"emmStart Hitos 5680-18","Fecha Sesión Etapa Sub-etapa Documento
+02 de Ene. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Ene. de 2008 122ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Familia Ver
+12 de Ago. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Ago. de 2008 60ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Abr. de 2010   Primer trámite constitucional / C. Diputados Archivado Solicitado por Comités Parlamentarios.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5680-18","Fecha Etapa Informe Documento
+12 de Ago. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Familia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5680-18","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5680-18","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Guillermo Ceroni Fuentes VII Región del Maule N°40 Partido Por la Democracia
+Ramón Farías Ponce RM Región Metropolitana N°30 Partido Por la Democracia
+Rodrigo González Torres V Región de Valparaíso N°14 Partido Por la Democracia
+Marco Antonio Núñez Lozano V Región de Valparaíso N°11 Partido Por la Democracia
+María Antonieta Saa Díaz RM Región Metropolitana N°17 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5680-18","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+74 Votación General 0 7 0 6   Familia Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5680-18","No record","Veto emmEnd"

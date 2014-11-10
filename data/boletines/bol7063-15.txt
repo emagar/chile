@@ -1,0 +1,50 @@
+* * Bill summary * *
+"emmStart Summary 7063-15","Legislatura: 358
+Fecha de ingreso: martes 13 de julio de 2010
+Estado: Tramitación terminada (Ley Nº 20.461 - D.Oficial 08/09/2010)
+Numero de boletín: 7063-15
+Materia: Fondo De Fomento
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 23:50:41
+* * Hitos de tramitación * *
+"emmStart Hitos 7063-15","Fecha Sesión Etapa Sub-etapa Documento
+13 de Jul. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Jul. de 2010 51ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+13 de Jul. de 2010 51ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 208-358 que hace presente la urgencia Suma Ver
+29 de Jul. de 2010 57ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 228-358 que retira y hace presente la urgencia Suma Ver
+06 de Ago. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+10 de Ago. de 2010 61ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+11 de Ago. de 2010 62ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+11 de Ago. de 2010   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+17 de Ago. de 2010 43ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones
+17 de Ago. de 2010 43ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 262-358 que retira y hace presente la urgencia Suma
+18 de Ago. de 2010 44ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 268-358 que retira y hace presente la urgencia Discusión inmediata
+18 de Ago. de 2010   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+18 de Ago. de 2010 44ª / 358 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+18 de Ago. de 2010 44ª / 358 Segundo trámite constitucional / Senado Discusión general Ver
+18 de Ago. de 2010   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+19 de Ago. de 2010 66ª / 358 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7063-15","Fecha Etapa Informe Documento
+18 de Ago. de 2010 Segundo trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver
+06 de Ago. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7063-15","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+18 de Ago. de 2010   Discusión inmediata 268-358  
+17 de Ago. de 2010 18 de Ago. de 2010 Suma 262-358 268-358
+29 de Jul. de 2010 17 de Ago. de 2010 Suma 228-358 262-358
+13 de Jul. de 2010 29 de Jul. de 2010 Suma 208-358 228-358","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7063-15","Nombre Región Distrito Partido
+Ministerio de Transporte y Telecomunicaciones      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7063-15","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+62   96 0 0 24 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7063-15","No record","Veto emmEnd"

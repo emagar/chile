@@ -1,0 +1,30 @@
+* * Bill summary * *
+"emmStart Summary 1106-04","Legislatura: 327
+Fecha de ingreso: martes 19 de octubre de 1993
+Estado: Archivado .
+Numero de boletín: 1106-04
+Materia: Universidades Estatales,Universidades
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 03:08:15
+* * Hitos de tramitación * *
+"emmStart Hitos 1106-04","Fecha Sesión Etapa Sub-etapa Documento
+19 de Oct. de 1993   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+09 de Jul. de 1997 14ª / 335 Primer trámite constitucional / Senado Cuenta de proyecto. Archivado Oficio del Presidente de la República, con el que solicita el archivo del proyecto.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1106-04","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1106-04","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Ene. de 1994 09 de Mar. de 2019 Simple 040194 090394
+19 de Oct. de 1993 14 de Dic. de 2019 Simple 191093 141293","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1106-04","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1106-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1106-04","No record","Veto emmEnd"

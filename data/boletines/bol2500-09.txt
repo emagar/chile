@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 2500-09","Legislatura: 341
+Fecha de ingreso: miércoles 10 de mayo de 2000
+Estado: Archivado .
+Numero de boletín: 2500-09
+Materia: Agua Potable
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 01:07:53
+* * Hitos de tramitación * *
+"emmStart Hitos 2500-09","Fecha Sesión Etapa Sub-etapa Documento
+10 de May. de 2000 50ª / 341 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+10 de May. de 2000   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+14 de May. de 2002   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+16 de May. de 2002 24ª / 346 Primer trámite constitucional / C. Diputados Se solicita su archivo Cuenta Oficio Nº 34 de la Comisión de OOPP, solicitando el Archivo del Proyecto. Queda en tabla y se accede a archivo solicitado Ver
+16 de May. de 2002   Primer trámite constitucional / C. Diputados Archivado Of. Nº 3757 a la Com. de OOPP comunicando el archivo del proyecto.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2500-09","Fecha Etapa Informe Documento
+14 de May. de 2002 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2500-09","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2500-09","Nombre Región Distrito Partido
+Carlos Caminondo Saez X Región de los Lagos N°54 Renovación Nacional
+José Antonio Galilea Vidaurre IX Región de la Araucanía N°49 Renovación Nacional
+Pablo Galilea Carrillo XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Renovación Nacional
+Arturo Longton Guerrero V Región de Valparaíso N°12 Renovación Nacional
+Waldo Mora Longa II Región de Antofagasta N°3 Partido Demócrata Cristiano
+Osvaldo Palma Flores VII Región del Maule N°39 Renovación Nacional
+Baldo Prokurica Prokurica III Región de Atacama N°6 Renovación Nacional
+Felipe Valenzuela Herrera II Región de Antofagasta N°4 Partido Socialista
+Carlos Vilches Guzmán III Región de Atacama N°5 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2500-09","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2500-09","No record","Veto emmEnd"

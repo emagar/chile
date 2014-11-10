@@ -1,0 +1,59 @@
+* * Bill summary * *
+"emmStart Summary 7934-13","Legislatura: 359
+Fecha de ingreso: miércoles 14 de septiembre de 2011
+Estado: Segundo trámite constitucional .
+Numero de boletín: 7934-13
+Materia: Conductores De Taxies Colectivos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 13:31:57
+* * Hitos de tramitación * *
+"emmStart Hitos 7934-13","Fecha Sesión Etapa Sub-etapa Documento
+14 de Sep. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+14 de Sep. de 2011 84ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+13 de Dic. de 2011 120ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 489-359 que hace presente la urgencia Simple Ver
+12 de Ene. de 2012 132ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 551-359 que hace presente la urgencia Simple Ver
+06 de Mar. de 2012 140ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 578-359 que retira la urgencias por receso legislativo Ver
+08 de May. de 2012   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de May. de 2012 30ª / 360 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+21 de Jun. de 2012 47ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+22 de Jun. de 2012   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+03 de Jul. de 2012 30ª / 360 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social
+29 de Oct. de 2013 65ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 322-361 que hace presente la urgencia Simple
+19 de Nov. de 2013 70ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 341-361 que retira y hace presente la urgencia Simple
+19 de Nov. de 2013 70ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 341-361 que retira y hace presente la urgencia Simple
+26 de Nov. de 2013 72ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 353-361 que retira y hace presente la urgencia Simple
+14 de Ene. de 2014 85ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 429-361 que retira y hace presente la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7934-13","Fecha Etapa Informe Documento
+08 de May. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7934-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+14 de Ene. de 2014   Simple 429-361  
+26 de Nov. de 2013 14 de Ene. de 2014 Simple 353-361 429-361
+19 de Nov. de 2013 26 de Nov. de 2013 Simple 341-361 353-361
+29 de Oct. de 2013 19 de Nov. de 2013 Simple 322-361 341-361
+12 de Ene. de 2012 31 de Ene. de 2012 Simple 551-359 578-359
+13 de Dic. de 2011   Simple 489-359  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7934-13","Nombre Región Distrito Partido
+Mario Bertolino Rendic IV Región de Coquimbo N°7 Renovación Nacional
+María Angélica Cristi Marfil RM Región Metropolitana N°24 Unión Demócrata Independiente
+Gustavo Hasbún Selume RM Región Metropolitana N°26 Unión Demócrata Independiente
+Tucapel Jiménez Fuentes RM Región Metropolitana N°27 Partido Por la Democracia
+Issa Farid Kort Garriga VI Región del Libertador Bernardo O' Higgins N°32 Unión Demócrata Independiente
+Fernando Meza Moncada IX Región de la Araucanía N°52 Partido Radical Social Demócrata
+Nicolás Monckeberg Díaz RM Región Metropolitana N°18 Renovación Nacional
+Leopoldo Pérez Lahsen RM Región Metropolitana N°29 Renovación Nacional
+Felipe Salaberry Soto RM Región Metropolitana N°25 Unión Demócrata Independiente
+Mónica Zalaquett Said RM Región Metropolitana N°20 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7934-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+47   85 0 0 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7934-13","No record","Veto emmEnd"

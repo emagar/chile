@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 8342-15","Legislatura: 360
+Fecha de ingreso: miércoles 06 de junio de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8342-15
+Materia: Tránsito,Robo De Vehículos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 00:20:40
+* * Hitos de tramitación * *
+"emmStart Hitos 8342-15","Fecha Sesión Etapa Sub-etapa Documento
+06 de Jun. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Jun. de 2012 38ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8342-15","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8342-15","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8342-15","Nombre Región Distrito Partido
+Pepe Auth Stewart RM Región Metropolitana N°20 Partido Por la Democracia
+Gustavo Hasbún Selume RM Región Metropolitana N°26 Unión Demócrata Independiente
+Juan Carlos Latorre Carmona VI Región del Libertador Bernardo O' Higgins N°35 Partido Demócrata Cristiano
+Fernando Meza Moncada IX Región de la Araucanía N°52 Partido Radical Social Demócrata
+Clemira Pacheco Rivas VIII Región del Bío Bío N°45 Partido Socialista
+José Pérez Arriagada VIII Región del Bío Bío N°47 Partido Radical Social Demócrata
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Partido Regionalista Independiente
+Guillermo Teillier Del Valle RM Región Metropolitana N°28 Partido Comunista
+Víctor Torres Jeldes V Región de Valparaíso N°15 Partido Demócrata Cristiano
+Matías Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8342-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8342-15","No record","Veto emmEnd"

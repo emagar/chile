@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 890-10","Legislatura: 325
+Fecha de ingreso: jueves 17 de diciembre de 1992
+Estado: Tramitación terminada (D.S. Nº1.770 - D.Oficial 27/02/1995)
+Numero de boletín: 890-10
+Materia: Acuerdos Internacionales,Doble Tributación
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 00:19:52
+* * Hitos de tramitación * *
+"emmStart Hitos 890-10","Fecha Sesión Etapa Sub-etapa Documento
+17 de Dic. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+17 de Dic. de 1992 31ª / 325 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+04 de May. de 1993 47ª / 325 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores y a Comisión de Hacienda
+09 de Jun. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+02 de Jul. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+06 de Jul. de 1993 8ª / 326 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión. de Relaciones Exteriores y de Hacienda
+07 de Jul. de 1993 9ª / 326 Segundo trámite constitucional / Senado Discusión general Ver
+12 de Jul. de 1993   Segundo trámite constitucional / Senado Oficio Nº4713. Oficio a la Cámara de Diputados comunicando aprobación del proyecto de acuerdo en los mismos términos que esa Corporación. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 890-10","Fecha Etapa Informe Documento
+02 de Jul. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+09 de Jun. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 890-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 890-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 890-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 890-10","No record","Veto emmEnd"

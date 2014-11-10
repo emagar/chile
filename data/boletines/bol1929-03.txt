@@ -1,0 +1,34 @@
+* * Bill summary * *
+"emmStart Summary 1929-03","Legislatura: 334
+Fecha de ingreso: domingo 13 de octubre de 1996
+Estado: Archivado .
+Numero de boletín: 1929-03
+Materia: Responsabilidad Civil
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 16:26:53
+* * Hitos de tramitación * *
+"emmStart Hitos 1929-03","Fecha Sesión Etapa Sub-etapa Documento
+13 de Oct. de 1996   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+16 de Oct. de 1996 8ª / 334 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+13 de Jul. de 2000   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+01 de Ago. de 2000 19ª / 342 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+05 de Oct. de 2000 3ª / 343 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+16 de Oct. de 2003 10ª / 350 Archivado / Se solicita archivo de proyecto. Oficio de Comisión de Economía. Queda en tabla. Se accede al archivo solicitado","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1929-03","Fecha Etapa Informe Documento
+13 de Jul. de 2000 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1929-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1929-03","Nombre Región Distrito Partido
+Maximiano Errázuriz Eguiguren Región N° Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1929-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1929-03","No record","Veto emmEnd"

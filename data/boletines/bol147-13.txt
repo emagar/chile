@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 147-13","Legislatura: 320
+Fecha de ingreso: miércoles 12 de septiembre de 1990
+Estado: Tramitación terminada (Ley Nº 19.058 - D.Oficial 04/05/1991)
+Numero de boletín: 147-13
+Materia: Congreso Nacional
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 06:24:48
+* * Hitos de tramitación * *
+"emmStart Hitos 147-13","Fecha Sesión Etapa Sub-etapa Documento
+12 de Sep. de 1990 33ª / 320 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+12 de Sep. de 1990   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+29 de Nov. de 1990 16ª / 321 Primer trámite constitucional / C. Diputados Discusión general Ver
+29 de Nov. de 1990 16ª / 321 Primer trámite constitucional / C. Diputados Primer informe de comisión Ver Ver
+29 de Nov. de 1990 16ª / 321 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+04 de Dic. de 1990 16ª / 321 Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+05 de Dic. de 1990 21ª / 321 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social y a Comisión de Hacienda
+15 de Mar. de 1991   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+09 de Abr. de 1991   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+16 de Abr. de 1991 44ª / 321 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+23 de Abr. de 1991 46ª / 321 Segundo trámite constitucional / Senado Discusión general Ver
+24 de Abr. de 1991   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 147-13","Fecha Etapa Informe Documento
+09 de Abr. de 1991 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+15 de Mar. de 1991 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver
+29 de Nov. de 1990 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 147-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 147-13","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 147-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 147-13","No record","Veto emmEnd"

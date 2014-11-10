@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 4090-15","Legislatura: 353
+Fecha de ingreso: martes 24 de enero de 2006
+Estado: Primer trámite constitucional .
+Numero de boletín: 4090-15
+Materia: Alcoholismo,Tránsito,Licencias De Conducir
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 18:39:32
+* * Hitos de tramitación * *
+"emmStart Hitos 4090-15","Fecha Sesión Etapa Sub-etapa Documento
+24 de Ene. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+24 de Ene. de 2006 73ª / 353 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4090-15","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4090-15","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4090-15","Nombre Región Distrito Partido
+Gabriel Ascencio Mansilla X Región de los Lagos N°58 Partido Demócrata Cristiano
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Juan Bustos Ramírez V Región de Valparaíso N°12 Partido Socialista
+Fidel Espinoza Sandoval X Región de los Lagos N°56 Partido Socialista
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Patricio Hales Dib RM Región Metropolitana N°19 Partido Por la Democracia
+Enrique Jaramillo Becker X Región de los Lagos N°54 Partido Por la Democracia
+Iván Moreira Barros RM Región Metropolitana N°27 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4090-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4090-15","No record","Veto emmEnd"

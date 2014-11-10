@@ -1,0 +1,53 @@
+* * Bill summary * *
+"emmStart Summary 6027-06","Legislatura: 356
+Fecha de ingreso: martes 12 de agosto de 2008
+Estado: Tramitación terminada (Ley Nº 20.295 - D.Oficial 04/10/2008)
+Numero de boletín: 6027-06
+Materia: Votación,Chaitén
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 02:01:00
+* * Hitos de tramitación * *
+"emmStart Hitos 6027-06","Fecha Sesión Etapa Sub-etapa Documento
+12 de Ago. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Ago. de 2008 61ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+19 de Ago. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+20 de Ago. de 2008 67ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+02 de Sep. de 2008 69ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 683-356 que hace presente la urgencia Discusión inmediata Ver
+09 de Sep. de 2008 73ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 761-356 que retira y hace presente la urgencia Discusión inmediata Ver
+09 de Sep. de 2008 73ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+09 de Sep. de 2008   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+09 de Sep. de 2008 50ª / 356 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización Ver
+16 de Sep. de 2008   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+16 de Sep. de 2008 54ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 793-356 que retira y hace presente la urgencia Discusión inmediata
+16 de Sep. de 2008 54ª / 356 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+16 de Sep. de 2008 54ª / 356 Segundo trámite constitucional / Senado Discusión general Ver
+22 de Sep. de 2008   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+22 de Sep. de 2008   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo. Consulta acerca de ejercicio de la facultad de veto Ver
+30 de Sep. de 2008 82ª / 356 Trámite finalización en Cámara de Origen / C. Diputados P. de la Rep. comunica que no hará uso de la facultad del inciso primero el artículo 73, de la Const. Política de la Rep. AL TRIBUNAL CONSTITUCIONAL . Ver
+30 de Sep. de 2008 82ª / 356 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora. A S.E. LA PRESIDENTA DE LA REPUBLICA. Ver Ver
+02 de Oct. de 2008   Trámite en Tribunal Constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+07 de Oct. de 2008 85ª / 356 Tramitación terminada / Cuenta oficio Nº 2347 del Tribunal Constitucional Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6027-06","Fecha Etapa Informe Documento
+16 de Sep. de 2008 Segundo trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver
+19 de Ago. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6027-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+16 de Sep. de 2008   Discusión inmediata 793-356  
+09 de Sep. de 2008 12 de Sep. de 2008 Discusión inmediata 761-356 793-356
+02 de Sep. de 2008   Discusión inmediata 683-356  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6027-06","Nombre Región Distrito Partido
+Ministerio de Interior y Seguridad Públi      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6027-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+73   69 0 9 42 Aprobado Sala Ver detalle votación
+80 Votación General 8 0 0 5   Gobierno Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6027-06","No record","Veto emmEnd"

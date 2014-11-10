@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 515-07","Legislatura: 323
+Fecha de ingreso: martes 15 de octubre de 1991
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 515-07
+Materia: Alcoholes,Bebidas Alcoholicas
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 18:51:39
+* * Hitos de tramitación * *
+"emmStart Hitos 515-07","Fecha Sesión Etapa Sub-etapa Documento
+15 de Oct. de 1991 8ª / 324 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+15 de Oct. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Jul. de 1992   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de Jul. de 1992 14ª / 324 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Jul. de 1992 17ª / 324 Primer trámite constitucional / C. Diputados Discusión general Ver
+28 de Sep. de 1993   Primer trámite constitucional / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 327
+20 de Ene. de 1994   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+20 de Ene. de 1994 32ª / 327 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+20 de Ene. de 1994 32ª / 327 Primer trámite constitucional / C. Diputados Discusión particular. Rechazado Falta de quórum. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 515-07","Fecha Etapa Informe Documento
+20 de Ene. de 1994 Primer trámite constitucional C.Diputados Segundo informe de comisión de Constitución, Legislación y Justicia Ver
+06 de Jul. de 1992 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 515-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+15 de Oct. de 1991   Simple    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 515-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 515-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 515-07","No record","Veto emmEnd"

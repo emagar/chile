@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 732-10","Legislatura: 324
+Fecha de ingreso: martes 30 de junio de 1992
+Estado: Tramitación terminada (D.S. Nº 604 - D.Oficial 04/08/1995)
+Numero de boletín: 732-10
+Materia: Acuerdos Internacionales,Convenios De Cooperación Científica Y Técnica,Convenios De Cooperación Económica
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 22:13:43
+* * Hitos de tramitación * *
+"emmStart Hitos 732-10","Fecha Sesión Etapa Sub-etapa Documento
+30 de Jun. de 1992 6ª / 324 Primer trámite constitucional / Senado Cuenta de proyecto
+30 de Jun. de 1992   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+20 de Ago. de 1992 20ª / 324 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+20 de Ago. de 1992 20ª / 324 Primer trámite constitucional / Senado Primer informe de comisión Ver
+10 de Sep. de 1992 24ª / 324 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+10 de Sep. de 1992 24ª / 324 Tramitación terminada / Discusión general y particular. Aprobado en general y en particular. Ver
+15 de Sep. de 1992 42ª / 324 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+06 de Oct. de 1992   Segundo trámite constitucional / C. Diputados Primer informe de comisión
+14 de Oct. de 1992 5ª / 325 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+15 de Oct. de 1992 6ª / 325 Segundo trámite constitucional / C. Diputados Discusión general Ver
+15 de Oct. de 1992   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen
+20 de Oct. de 1992 5ª / 325 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+21 de Oct. de 1992 5ª / 325 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 732-10","Fecha Etapa Informe Documento
+06 de Oct. de 1992 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+20 de Ago. de 1992 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 732-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 732-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 732-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 732-10","No record","Veto emmEnd"

@@ -1,0 +1,83 @@
+* * Bill summary * *
+"emmStart Summary 3394-02","Legislatura: 350
+Fecha de ingreso: martes 28 de octubre de 2003
+Estado: Archivado .
+Numero de boletín: 3394-02
+Materia: Carabineros De Chile
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 02:16:29
+* * Hitos de tramitación * *
+"emmStart Hitos 3394-02","Fecha Sesión Etapa Sub-etapa Documento
+28 de Oct. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+28 de Oct. de 2003 11ª / 350 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Defensa Nacional Ver
+26 de Ene. de 2004   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Mar. de 2004   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Mar. de 2004 51ª / 350 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+04 de May. de 2004 79ª / 350 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+03 de Ago. de 2004 21ª / 351 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 236-351 que retira y hace presente la urgencia Suma Ver
+03 de Ago. de 2004   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+10 de Ago. de 2004 26ª / 351 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+10 de Ago. de 2004 27ª / 351 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver
+11 de Ago. de 2004   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+17 de Ago. de 2004 21ª / 351 Segundo trámite constitucional / Senado Cuenta del Mensaje 280-351 que retira y hace presente la urgencia Simple
+17 de Ago. de 2004 21ª / 351 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Defensa Nacional y a Comisión de Hacienda Ver
+14 de Sep. de 2004   Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 352
+07 de Mar. de 2006 60ª / 353 Segundo trámite constitucional / Senado Oficio Nº554-353. Cuenta Mensaje del Ejecutivo con el que solicita archivo del PL. Se accede a lo solicitado, y se manda comunicar a la CCDD. Ver
+08 de Mar. de 2006   Segundo trámite constitucional / Senado Oficio Nº26390. Acoge solicitud de S.E. el Presidente de la Repúblca de archivar proyecto de ley. Ver
+14 de Mar. de 2006 2ª / 354 Archivado / Cuenta oficio del Senado en la Cámara de Diputados que comunica solicitud para archivo de proyecto
+18 de May. de 2006 29ª / 354 Tramitación terminada / Cuenta del Mensaje 122-350 que hace presente la urgencia Simple
+18 de May. de 2006 29ª / 354 Tramitación terminada / Cuenta del Mensaje 427-350 que hace presente la urgencia Suma
+18 de May. de 2006   Archivado / Oficio Nº 6180. Se accede a petición del Senado en orden a proceder a su archivo Ver
+18 de May. de 2006   Segundo trámite constitucional / Senado Archivado
+18 de May. de 2006 29ª / 354 Segundo trámite constitucional / Senado Sala acuerda el archivo
+06 de Jun. de 2006 19ª / 354 Archivado / Cuenta de oficio N° 6180 de la CCDD, con el que comunica que ha accedido a la solicitud de archivo. Se toma conocimiento y se manda archivar el documento junto a sus antecedentes.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3394-02","Fecha Etapa Informe Documento
+03 de Ago. de 2004 Primer trámite constitucional C.Diputados Segundo informe de comisión de Defensa Nacional Ver
+02 de Mar. de 2004 Primer trámite constitucional C.Diputados Primer informe de comisión de Defensa Nacional Ver
+26 de Ene. de 2004 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3394-02","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+18 de May. de 2006 02 de Mar. de 2004 Suma 427-350 443-350
+18 de May. de 2006   Simple 122-350  
+17 de Ago. de 2004   Simple 280-351  
+03 de Ago. de 2004 17 de Ago. de 2004 Suma 236-351 280-351
+20 de Jul. de 2004 03 de Ago. de 2004 Suma 210-351 236-351
+13 de Jul. de 2004 20 de Jul. de 2004 Simple 170-351 210-351
+08 de Jun. de 2004 13 de Jul. de 2004 Simple 8-351 170-351
+04 de May. de 2004   Simple 682-350  
+04 de May. de 2004 04 de May. de 2004 Suma 677-350 682-350
+06 de Abr. de 2004 04 de May. de 2004 Simple 588-350 677-350
+02 de Mar. de 2004 06 de Abr. de 2004 Simple 476-350 588-350
+06 de Ene. de 2004 20 de Ene. de 2004 Suma 342-350 427-350
+16 de Dic. de 2003 06 de Ene. de 2004 Suma 307-350 342-350
+02 de Dic. de 2003 16 de Dic. de 2003 Suma 261-350 307-350
+11 de Nov. de 2003 02 de Dic. de 2003 Suma 199-350 261-350","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3394-02","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3394-02","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+79 Salvo, artículo 1° 54 48 1 1 Aprobado Sala Ver detalle votación
+27 Artículo segundo transitorio. 97 1 0 2 Aprobado Sala Ver detalle votación
+79   54 48 1 1 Aprobado Sala Ver detalle votación
+79 1º 53 49 0 0 Rechazado Sala Ver detalle votación
+27 Indicación renovada Nº1 del Presidente de la República que agrega un nuevo inciso segundo en el artículo 69, contemplado en el número 1 del artículo único 39 61 1 0 Rechazado Sala Ver detalle votación
+27 Artículo único, número 1. 98 1 0 2 Aprobado Sala Ver detalle votación
+27 Indicación renovada Nº2 del Presidente de la República que modifica el inciso segundo del artículo 70 del DFL Nº2, de 1968. 55 46 1 0 Aprobado Sala Ver detalle votación
+27 Artículo único, número 2. 99 1 0 1 Aprobado Sala Ver detalle votación
+27 Indicación renovada Nº3 del Presidente de la República que agrega un nuevo número por el cual se deroga el artículo 91 del DFL Nº2, de 1968. 56 46 0 0 Aprobado Sala Ver detalle votación
+27 Indicación renovada Nº4 del Ejecutivo, por la que se incorpora un número nuevo al artículo único mediante el cual se reemplaza el artículo 121 del DFL Nº2, de 1968. 55 45 0 1 Aprobado Sala Ver detalle votación
+27 Indicación renovada Nº5 del Ejecutivo, por la que se incorpora un número nuevo al artículo único mediante el cual se reemplaza el artículo 125 del DFL Nº2, de 1968. 56 45 0 0 Aprobado Sala Ver detalle votación
+27 Artículo único, número 3. 99 1 0 1 Aprobado Sala Ver detalle votación
+27 Indicación renovada Nº6 del Ejecutivo, por la que se incorpora un nuevo artículo 2º al proyecto, mediante el cual se deroga el inciso segundo del artículo 1º de la ley Nº19.195. 35 66 2 0 Rechazado Sala Ver detalle votación
+27 Artículo primero transitorio. 100 2 0 1 Aprobado Sala Ver detalle votación
+27 Indicación renovada Nº7 del Presidente de la República, por la que incorpora un nuevo artículo 2º transitorio. 56 45 0 0 Aprobado Sala Ver detalle votación
+79 1° 53 49 0 0 Rechazado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3394-02","No record","Veto emmEnd"

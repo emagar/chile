@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 1697-01","Legislatura: 331
+Fecha de ingreso: martes 12 de septiembre de 1995
+Estado: Archivado .
+Numero de boletín: 1697-01
+Materia: Clasificación De Ganado,Ganadería
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 12:27:01
+* * Hitos de tramitación * *
+"emmStart Hitos 1697-01","Fecha Sesión Etapa Sub-etapa Documento
+12 de Sep. de 1995   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Sep. de 1995 37ª / 331 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Agricultura, Silvicultura y Pesca Ver
+05 de Mar. de 2002   Primer trámite constitucional / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 339
+05 de Jun. de 2003 3ª / 349 Primer trámite constitucional / C. Diputados Cuenta oficio de Agricultura, solicita archivo proyecto. Queda en Tabla. Se accede al archivo solicitado. Ver
+05 de Jun. de 2003   Primer trámite constitucional / C. Diputados Archivado","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1697-01","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1697-01","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1697-01","Nombre Región Distrito Partido
+Pedro Pablo Alvarez-Salamanca Büchi Región N°38 Renovación Nacional
+José Antonio Galilea Vidaurre Región N°49 Renovación Nacional
+René Manuel García García Región N°52 Renovación Nacional
+Miguel Hernández Saffirio Región N° Partido Demócrata Cristiano
+José María Hurtado Ruiz-Tagle Región N°35 Renovación Nacional
+Harry Jürgensen Caesar Región N° Renovación Nacional
+Felipe Letelier Norambuena Región N° Partido Por la Democracia
+Juan Enrique Taladriz García Región N°53 Renovación Nacional
+Osvaldo Vega Vera Región N° Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1697-01","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1697-01","No record","Veto emmEnd"

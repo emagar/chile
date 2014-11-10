@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 131-04","Legislatura: 320
+Fecha de ingreso: martes 28 de agosto de 1990
+Estado: Tramitación terminada (Ley Nº 19.013 - D.Oficial 17/12/1990)
+Numero de boletín: 131-04
+Materia: Monumentos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 05:42:25
+* * Hitos de tramitación * *
+"emmStart Hitos 131-04","Fecha Sesión Etapa Sub-etapa Documento
+28 de Ago. de 1990   Primer trámite constitucional / C. Diputados Ingreso de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+28 de Ago. de 1990 27ª / 320 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+17 de Oct. de 1990   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+30 de Oct. de 1990 8ª / 321 Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+30 de Oct. de 1990 8ª / 321 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+30 de Oct. de 1990 8ª / 321 Primer trámite constitucional / C. Diputados Discusión general Ver
+06 de Nov. de 1990 9ª / 321 Segundo trámite constitucional / Senado Pasa a Comisión de Educación y Cultura.
+07 de Nov. de 1990   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+15 de Nov. de 1990 14ª / 321 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+28 de Nov. de 1990 18ª / 321 Segundo trámite constitucional / Senado Discusión general Ver
+29 de Nov. de 1990   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+29 de Nov. de 1990 16ª / 321 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+29 de Nov. de 1990 16ª / 321 Tercer trámite constitucional / C. Diputados Discusión única Ver
+29 de Nov. de 1990   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 131-04","Fecha Etapa Informe Documento
+07 de Nov. de 1990 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+17 de Oct. de 1990 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 131-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 131-04","Nombre Región Distrito Partido
+José García Ruminot Región N° Renovación Nacional
+José María Hurtado Ruiz-Tagle Región N° Renovación Nacional
+Ramón Pérez Opazo Región N° Renovación Nacional
+Marina Prochelle Aguilar Región N° Renovación Nacional
+Baldo Prokurica Prokurica Región N° Renovación Nacional
+Juan Enrique Taladriz García Región N° Renovación Nacional
+Carlos Vilches Guzmán Región N° Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 131-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 131-04","No record","Veto emmEnd"

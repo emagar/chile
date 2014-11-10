@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 5215-07","Legislatura: 355
+Fecha de ingreso: jueves 19 de julio de 2007
+Estado: Segundo trámite constitucional .
+Numero de boletín: 5215-07
+Materia: Código Penal,Pornografía
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 01:57:39
+* * Hitos de tramitación * *
+"emmStart Hitos 5215-07","Fecha Sesión Etapa Sub-etapa Documento
+19 de Jul. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+19 de Jul. de 2007 55ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+10 de Oct. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+16 de Oct. de 2007 90ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+08 de Nov. de 2007 99ª / 355 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+08 de Nov. de 2007   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+13 de Nov. de 2007 64ª / 355 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5215-07","Fecha Etapa Informe Documento
+10 de Oct. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5215-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5215-07","Nombre Región Distrito Partido
+Pedro Araya Guerrero II Región de Antofagasta N°4 Independientes
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Juan Bustos Ramírez V Región de Valparaíso N°12 Partido Socialista
+Guillermo Ceroni Fuentes VII Región del Maule N°40 Partido Por la Democracia
+Rodrigo González Torres V Región de Valparaíso N°14 Partido Por la Democracia
+Cristián Monckeberg Bruner RM Región Metropolitana N°23 Renovación Nacional
+María Antonieta Saa Díaz RM Región Metropolitana N°17 Partido Por la Democracia
+Laura Soto González V Región de Valparaíso N°13 Partido Por la Democracia
+Marisol Turres Figueroa X Región de los Lagos N°57 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5215-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+99   84 0 0 36 Aprobado Sala Ver detalle votación
+109 Votación General 5 0 0 8   Constitución Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5215-07","No record","Veto emmEnd"

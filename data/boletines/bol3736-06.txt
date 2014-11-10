@@ -1,0 +1,68 @@
+* * Bill summary * *
+"emmStart Summary 3736-06","Legislatura: 352
+Fecha de ingreso: martes 14 de diciembre de 2004
+Estado: Tramitación terminada (Ley Nº 20.008 - D.Oficial 22/03/2005)
+Numero de boletín: 3736-06
+Materia: Funcionarios Judiciales,Funcionarios Y Empleados Municipales
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 04-11-2014 08:04:24
+* * Hitos de tramitación * *
+"emmStart Hitos 3736-06","Fecha Sesión Etapa Sub-etapa Documento
+14 de Dic. de 2004   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+14 de Dic. de 2004 20ª / 352 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización y a Comisión de Hacienda, en su caso
+14 de Dic. de 2004   Primer trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+14 de Dic. de 2004   Primer trámite constitucional / Senado Oficio Nº24410 a la Corte Suprema Ver
+15 de Dic. de 2004   Primer trámite constitucional / Senado Primer informe de comisión Ver
+15 de Dic. de 2004 22ª / 352 Primer trámite constitucional / Senado Discusión general Ver
+15 de Dic. de 2004 22ª / 352 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+15 de Dic. de 2004   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+16 de Dic. de 2004 33ª / 352 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+16 de Dic. de 2004 33ª / 352 Segundo trámite constitucional / C. Diputados Presidente de la República retira urgencia. Ver
+04 de Ene. de 2005 34ª / 352 Segundo trámite constitucional / C. Diputados P. de la Rep. hace presente urgencia \""suma\"". Ver
+04 de Ene. de 2005 23ª / 352 Segundo trámite constitucional / C. Diputados Cuenta en el Senado de Oficio Nº 166 de la Corte Suprema Ver Ver
+12 de Ene. de 2005   Segundo trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+14 de Ene. de 2005   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de Ene. de 2005 41ª / 352 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Gobierno interior y de Hacienda Ver
+18 de Ene. de 2005 41ª / 352 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 295-352 que hace presente la urgencia Suma Ver
+18 de Ene. de 2005 41ª / 352 Segundo trámite constitucional / C. Diputados Discusión única Ver
+18 de Ene. de 2005   Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver
+18 de Ene. de 2005 28ª / 352 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+19 de Ene. de 2005 29ª / 352 Tercer trámite constitucional / Senado Discusión única
+20 de Ene. de 2005   Tercer trámite constitucional / Senado Oficio Nº 24882, que comunica aprobación de modificaciones Ver
+24 de Ene. de 2005   Tercer trámite constitucional / Senado Oficio Nº24891. Oficio al Presidente de la República comunicando aprobación del proyecto de ley , consultando si hará uso de la facultad establecida en el artículo 70 de la Carta Fundamental. Ver
+25 de Ene. de 2005   Trámite en Tribunal Constitucional / Senado Oficio al Tribunal Constitucional Ver
+01 de Mar. de 2005 31ª / 352 Trámite en Tribunal Constitucional / Senado Cuenta oficio Nº 2205 del Tribunal Constitucional Ver
+01 de Mar. de 2005 31ª / 352 Trámite en Tribunal Constitucional / Senado Cuenta oficio Nº 2200 del Tribunal Constitucional, solicita información sobre quorum de aprobación Ver
+01 de Mar. de 2005 31ª / 352 Trámite de aprobacion presidencial / Senado Oficio Nº319-352. S.E el Presidente de la República comunica que no observará esta iniciativa. Ver
+01 de Mar. de 2005   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+02 de Mar. de 2005 45ª / 352 Tercer trámite constitucional / Senado Cuenta oficio Nº 24882, que comunica aprobación de modificaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3736-06","Fecha Etapa Informe Documento
+14 de Ene. de 2005 Segundo trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+12 de Ene. de 2005 Segundo trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver
+15 de Dic. de 2004 Primer trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+14 de Dic. de 2004 Primer trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3736-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+18 de Ene. de 2005   Suma 295-352  
+04 de Ene. de 2005   Suma 254-352  
+14 de Dic. de 2004 16 de Dic. de 2004 Discusión inmediata 183-352 232-352","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3736-06","Nombre
+Ministerio de Hacienda
+Ministerio de Interior y Seguridad Públi
+Ministerio de Justicia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3736-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+41 Votación general del proyecto, con excepción de los incisos primero y segundo (números 1, 2 y 4) del artículo 1º, y de los números 2 y 3 del artículo 2º, que revisten carácter de orgánico constitucional. 88 0 0 1 Aprobado Sala Ver detalle votación
+41 Artículo 1º, incisos primero y segundo, números 1, 2 y 4, y artículo 2º, números 2 y 3. 88 0 0 1 Aprobado Sala Ver detalle votación
+41 Artículo 1º, incisos primero y segundo, números 1, 2 y 4, y artículo 2º, números 2 y 3. 88 0 0 1 Aprobado Sala Ver detalle votación
+41 Artículo 2º con la indicación de la Comisión de Hacienda, por la que se agrega un número 4, nuevo, en el inciso tercero del artículo 8º de la ley Nº15.231, orgánica de los juzgados de policía local. 88 0 0 1 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3736-06","No record","Veto emmEnd"

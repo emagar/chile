@@ -1,0 +1,51 @@
+* * Bill summary * *
+"emmStart Summary 8715-06","Legislatura: 360
+Fecha de ingreso: miércoles 28 de noviembre de 2012
+Estado: Tramitación terminada (Ley Nº 20.644 - D.Oficial 15/12/2012)
+Numero de boletín: 8715-06
+Materia: Elección De Consejeros Regionales
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 10-11-2014 04:52:35
+* * Hitos de tramitación * *
+"emmStart Hitos 8715-06","Fecha Sesión Etapa Sub-etapa Documento
+28 de Nov. de 2012   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+28 de Nov. de 2012 79ª / 360 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización
+28 de Nov. de 2012 79ª / 360 Primer trámite constitucional / Senado Cuenta del Mensaje 378-360 que hace presente la urgencia Discusión inmediata
+11 de Dic. de 2012   Primer trámite constitucional / Senado Primer informe de comisión Ver
+11 de Dic. de 2012 82ª / 360 Primer trámite constitucional / Senado Cuenta del Mensaje 388-360 que retira y hace presente la urgencia Discusión inmediata
+11 de Dic. de 2012 82ª / 360 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Dic. de 2012 83ª / 360 Primer trámite constitucional / Senado Discusión general Ver
+12 de Dic. de 2012 86ª / 360 Primer trámite constitucional / Senado Discusión general Ver
+12 de Dic. de 2012   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+12 de Dic. de 2012 112ª / 360 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior y Regionalización Ver
+12 de Dic. de 2012 112ª / 360 Segundo trámite constitucional / C. Diputados Cuenta de la comunicación del Diputado señor Marinovic, por la cual informa que, en virtud del artículo 5° B de la ley N° 18.918 Orgánica Constitucional del Congreso Nacional, se inhabilita para los efectos de la tramitación de este proyecto. Ver
+12 de Dic. de 2012   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Dic. de 2012 112ª / 360 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+12 de Dic. de 2012   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+13 de Dic. de 2012   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8715-06","Fecha Etapa Informe Documento
+12 de Dic. de 2012 Segundo trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver
+11 de Dic. de 2012 Primer trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8715-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+11 de Dic. de 2012   Discusión inmediata 388-360  
+28 de Nov. de 2012   Discusión inmediata 378-360  
+28 de Nov. de 2012 11 de Dic. de 2012 Discusión inmediata 450-360 388-360","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8715-06","Nombre
+Ministerio de Interior y Seguridad Públi
+Ministerio Secretaría General de la Presidencia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8715-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+112   96 2 4 18 Aprobado Sala Ver detalle votación
+112 Artículado 94 2 5 19 Aprobado Sala Ver detalle votación
+112 Indicación artículo único 16 79 5 20 Rechazado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8715-06","No record","Veto emmEnd"

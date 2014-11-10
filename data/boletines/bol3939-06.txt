@@ -1,0 +1,61 @@
+* * Bill summary * *
+"emmStart Summary 3939-06","Legislatura: 353
+Fecha de ingreso: martes 02 de agosto de 2005
+Estado: Tramitación terminada (Ley Nº 20.053 - D.Oficial 06/09/2005)
+Numero de boletín: 3939-06
+Materia: Control Del Gasto Electoral,Gasto Electoral
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 07:01:29
+* * Hitos de tramitación * *
+"emmStart Hitos 3939-06","Fecha Sesión Etapa Sub-etapa Documento
+02 de Ago. de 2005 23ª / 353 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+02 de Ago. de 2005   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Ago. de 2005 24ª / 353 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 156-353 que hace presente la urgencia Simple Ver
+10 de Ago. de 2005   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+10 de Ago. de 2005   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+10 de Ago. de 2005 29ª / 353 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+10 de Ago. de 2005 29ª / 353 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 164-353 que retira y hace presente la urgencia Suma Ver
+10 de Ago. de 2005 29ª / 353 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+16 de Ago. de 2005 30ª / 353 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+16 de Ago. de 2005   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+16 de Ago. de 2005 26ª / 353 Segundo trámite constitucional / Senado Cuenta del Mensaje 196-353 que retira y hace presente la urgencia Discusión inmediata
+16 de Ago. de 2005 26ª / 353 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización Ver
+17 de Ago. de 2005 28ª / 353 Segundo trámite constitucional / Senado Cuenta del Mensaje 200-353 que retira la urgencia Discusión inmediata
+17 de Ago. de 2005   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+17 de Ago. de 2005   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+17 de Ago. de 2005 28ª / 353 Segundo trámite constitucional / Senado Cuenta de certificados de la Comisión de Gobierno, Descentralización y Regionalización y de la Comisión de Hacienda. Queda para tabla.
+17 de Ago. de 2005 28ª / 353 Segundo trámite constitucional / Senado Discusión general Ver
+17 de Ago. de 2005   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+17 de Ago. de 2005   Trámite finalización en Cámara de Origen / C. Diputados Oficio al Ejecutivo, comunica proyecto aprobado para los efectos del artículo 70 de la Constitución Política del Estado Ver
+19 de Ago. de 2005   Trámite en Tribunal Constitucional / C. Diputados Oficio Nº 5797 al Tribunal Constitucional Ver
+30 de Ago. de 2005 34ª / 353 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver Ver
+30 de Ago. de 2005 34ª / 353 Trámite finalización en Cámara de Origen / C. Diputados Cuenta Oficio S.E. el Presidente de la República, manifiesta que ha resuelto no hacer uso de la facultad que le confiere el inciso primero del artículo 70 de la Constitución Política de la República. Ver
+31 de Ago. de 2005   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+06 de Sep. de 2005 39ª / 353 Trámite de aprobacion presidencial / C. Diputados Cuenta oficio Nº 2291 del Tribunal Constitucional Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3939-06","Fecha Etapa Informe Documento
+17 de Ago. de 2005 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+17 de Ago. de 2005 Segundo trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver
+10 de Ago. de 2005 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver
+10 de Ago. de 2005 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3939-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+16 de Ago. de 2005 17 de Ago. de 2005 Discusión inmediata 196-353 200-353
+10 de Ago. de 2005 16 de Ago. de 2005 Suma 164-353 196-353
+02 de Ago. de 2005 10 de Ago. de 2005 Simple 156-353 164-353","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3939-06","Nombre Región Distrito Partido
+Ministerio de Hacienda      
+Ministerio de Interior y Seguridad Públi      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3939-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+30 Proyecto de ley con la enmienda propuesta por la Comisión de Hacienda sobre la base de una indicacoón del Presidente de la República que agrega un inciso cuarto en el artículo 15 que se reemplaza por el número 9 del proyecto. 84 0 13 1 Aprobado Sala Ver detalle votación
+30   81 1 16 1 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3939-06","No record","Veto emmEnd"

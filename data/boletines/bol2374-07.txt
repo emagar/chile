@@ -1,0 +1,60 @@
+* * Bill summary * *
+"emmStart Summary 2374-07","Legislatura: 340
+Fecha de ingreso: miércoles 04 de agosto de 1999
+Estado: Tramitación terminada (Ley Nº 19.655 - D.Oficial 21/12/1999)
+Numero de boletín: 2374-07
+Materia: Código De Justicia Militar,Ministro En Visita
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 23:50:42
+* * Hitos de tramitación * *
+"emmStart Hitos 2374-07","Fecha Sesión Etapa Sub-etapa Documento
+04 de Ago. de 1999   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Ago. de 1999 25ª / 340 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+24 de Ago. de 1999   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+31 de Ago. de 1999 34ª / 340 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Sep. de 1999 40ª / 340 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+14 de Sep. de 1999   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+15 de Sep. de 1999 34ª / 340 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+05 de Oct. de 1999   Segundo trámite constitucional / Senado S.E.El Presidente de la Republica incluye el proyecto en la Convocatoria Extraodinaria 341
+04 de Nov. de 1999   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+04 de Nov. de 1999 8ª / 341 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+04 de Nov. de 1999 8ª / 341 Segundo trámite constitucional / Senado Discusión general Ver
+08 de Nov. de 1999   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+09 de Nov. de 1999 11ª / 341 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+09 de Nov. de 1999 11ª / 341 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+09 de Nov. de 1999 11ª / 341 Tercer trámite constitucional / C. Diputados Discusión única Ver
+09 de Nov. de 1999 11ª / 341 Tercer trámite constitucional / C. Diputados Discusión única Ver
+09 de Nov. de 1999   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2374-07","Fecha Etapa Informe Documento
+04 de Nov. de 1999 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+24 de Ago. de 1999 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2374-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+11 de Jul. de 2000   Suma 110-342  
+09 de Nov. de 1999   Discusión inmediata 187-341  
+19 de Oct. de 1999 04 de Nov. de 1999 Suma 81-341 110-342
+05 de Oct. de 1999 19 de Oct. de 1999 Suma 5101999 81-341
+08 de Sep. de 1999 05 de Oct. de 1999 Suma 232-340 5101999","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2374-07","Nombre Región Distrito Partido
+Sergio Aguiló Melo VII Región del Maule N°37 Partido Socialista
+Guillermo Ceroni Fuentes VII Región del Maule N°40 Partido Por la Democracia
+Sergio Elgueta Barrientos X Región de los Lagos N°57 Partido Demócrata Cristiano
+Enrique Jaramillo Becker X Región de los Lagos N°54 Partido Por la Democracia
+Carlos Abel Jarpa Wevar VIII Región del Bío Bío N°41 Partido Radical Social Demócrata
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+Adriana Muñoz D'Albora IV Región de Coquimbo N°9 Partido Por la Democracia
+Fanny Pollarolo Villa II Región de Antofagasta N°3 Partido Socialista
+Edgardo Riveros Marín RM Región Metropolitana N°30 Partido Demócrata Cristiano
+Laura Soto González V Región de Valparaíso N°14 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2374-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2374-07","No record","Veto emmEnd"

@@ -1,0 +1,74 @@
+* * Bill summary * *
+"emmStart Summary 2745-06","Legislatura: 344
+Fecha de ingreso: miércoles 04 de julio de 2001
+Estado: Tramitación terminada (Ley Nº 19.884 - D.Oficial 05/08/2003)
+Numero de boletín: 2745-06
+Materia: Gasto Electoral
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 03-11-2014 10:00:02
+* * Hitos de tramitación * *
+"emmStart Hitos 2745-06","Fecha Sesión Etapa Sub-etapa Documento
+04 de Jul. de 2001   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+04 de Jul. de 2001 11ª / 344 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización
+27 de Jul. de 2001   Primer trámite constitucional / Senado Primer informe de comisión Ver
+01 de Ago. de 2001 17ª / 344 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+21 de Ago. de 2001 24ª / 344 Primer trámite constitucional / Senado Discusión general Ver
+16 de Jul. de 2002 14ª / 347 Primer trámite constitucional / Senado Se acuerda abrir un nuevo plazo de indicaciones hasta el 05/08/2002 a las 18:00
+06 de Ago. de 2002 18ª / 347 Primer trámite constitucional / Senado Por acuerdo comités se amplía el plazo de indicaciones hasta el 07/08/2002 a las 18:00
+01 de Oct. de 2002 20ª / 348 Primer trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 348
+05 de Nov. de 2002 9ª / 348 Primer trámite constitucional / Senado Nuevo plazo de indicaciones: 11.11.02
+11 de Nov. de 2002   Primer trámite constitucional / Senado Boletín de indicaciones
+13 de May. de 2003   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+13 de May. de 2003 49ª / 348 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+14 de May. de 2003 50ª / 348 Primer trámite constitucional / Senado Discusión particular Ver
+14 de May. de 2003   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+15 de May. de 2003 78ª / 348 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+16 de May. de 2003   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+16 de May. de 2003 80ª / 348 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+16 de May. de 2003 80ª / 348 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+16 de May. de 2003   Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver
+20 de May. de 2003 55ª / 348 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+20 de May. de 2003 56ª / 348 Tercer trámite constitucional / Senado Discusión única
+20 de May. de 2003   Tercer trámite constitucional / Senado Oficio aprobación de modificaciones a Cámara Revisora Ver
+20 de May. de 2003   Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo, remite proyecto a efectos de ejercer facultad de veto Ver
+22 de May. de 2003   Trámite de aprobacion presidencial / Senado Oficio Nº614-348. Oficio de S. E. el Presidente de la República, con el que comunica que no hará uso de la facultad del artículo 70 de la Constitución Ver
+03 de Jun. de 2003 1ª / 349 Tercer trámite constitucional / Senado Cuenta oficio N? 349, que comunica aprobacion de modificaciones
+03 de Jun. de 2003   Trámite en Tribunal Constitucional / Senado Oficio al Tribunal Constitucional Ver
+01 de Jul. de 2003   Trámite en Tribunal Constitucional / Senado Ingreso fallo del Tribunal Constitucional Ver
+01 de Jul. de 2003 7ª / 349 Trámite en Tribunal Constitucional / Senado Cuenta fallo del Tribunal Constitucional
+01 de Jul. de 2003   Trámite en Tribunal Constitucional / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2745-06","Fecha Etapa Informe Documento
+16 de May. de 2003 Segundo trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+13 de May. de 2003 Primer trámite constitucional Senado Segundo informe de comisión de Gobierno, Descentralización y Regionalización y de Hacienda, unidas Ver
+27 de Jul. de 2001 Primer trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2745-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+06 de May. de 2003   Suma 565-348  
+14 de Ene. de 2003 05 de Mar. de 2003 Simple 381-348 437-348
+10 de Dic. de 2002 14 de Ene. de 2003 Simple 283-341 381-348
+05 de Nov. de 2002 10 de Dic. de 2002 Simple 131-348 283-341
+01 de Oct. de 2002 05 de Nov. de 2002 Simple 36-348 138-348
+13 de Ago. de 2002 05 de Nov. de 2002 Simple 189-347 131-348
+04 de Jun. de 2002 13 de Ago. de 2002 Simple 34-347 189-347
+16 de Abr. de 2002   Simple 73-346  
+05 de Mar. de 2002 16 de Abr. de 2002 Simple 245-345 73-346
+15 de Ene. de 2002 08 de Mar. de 2002 Simple 201-245 229-345
+08 de Ene. de 2002   Suma 167-345  
+31 de Oct. de 2001   Simple 104-345  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2745-06","Nombre
+Ministerio de Hacienda
+Ministerio de Interior y Seguridad Públi","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2745-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+80 Todo el articulado 98 0 1 0   Sala Ver detalle votación
+80   97 0 1 1   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2745-06","No record","Veto emmEnd"

@@ -1,0 +1,57 @@
+* * Bill summary * *
+"emmStart Summary 369-04","Legislatura: 322
+Fecha de ingreso: miércoles 05 de junio de 1991
+Estado: Tramitación terminada (Ley Nº 19.168 - D.Oficial 17/09/1992)
+Numero de boletín: 369-04
+Materia: Desarrollo Regional
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 16:23:38
+* * Hitos de tramitación * *
+"emmStart Hitos 369-04","Fecha Sesión Etapa Sub-etapa Documento
+05 de Jun. de 1991   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+05 de Jun. de 1991 2ª / 322 Primer trámite constitucional / Senado Cuenta de proyecto
+17 de Dic. de 1991 27ª / 323 Primer trámite constitucional / Senado Primer informe de comisión Ver
+17 de Dic. de 1991 27ª / 323 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+17 de Dic. de 1991 27ª / 323 Primer trámite constitucional / Senado Discusión general Ver
+19 de Dic. de 1991 29ª / 323 Primer trámite constitucional / Senado Segundo informe de comisión Ver
+19 de Dic. de 1991 29ª / 323 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+19 de Dic. de 1991 29ª / 323 Primer trámite constitucional / Senado Discusión particular Ver
+28 de Dic. de 1991 29ª / 323 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+07 de Ene. de 1992 38ª / 323 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+15 de Abr. de 1992   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de May. de 1992   Segundo trámite constitucional / C. Diputados Segundo informe de comisión Ver
+12 de May. de 1992 58ª / 323 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+13 de May. de 1992 59ª / 323 Tercer trámite constitucional / Senado Discusión única
+13 de May. de 1992 59ª / 323 Tercer trámite constitucional / Senado Oficio rechazo modificaciones a Cámara Revisora
+19 de May. de 1992 60ª / 323 Comisión Mixta por rechazo de modificaciones / C. Diputados Cuenta oficio integrantes de Comisión Mixta Ver
+10 de Jun. de 1992 4ª / 324 Comisión Mixta por rechazo de modificaciones / C. Diputados Informe de Comisión Mixta Ver Ver
+10 de Jun. de 1992 4ª / 324 Disc. informe C.Mixta por rechazo de modific. en C. Origen / Senado Cuenta informe Comisión Mixta
+30 de Jun. de 1992 6ª / 324 Disc. informe C.Mixta por rechazo de modific. en C. Origen / Senado Discusión informe de Comisión Mixta
+13 de Ago. de 1992 17ª / 324 Disc. informe C.Mixta por rechazo de modific. en C. Origen / Senado Informe de comisión. Consulta de la Sala sobre constitucionalidad del proyecto contenido en el informe de la Comisión Mixta. Ver
+13 de Ago. de 1992 17ª / 324 Disc. informe C.Mixta por rechazo de modific. en C. Origen / Senado Discusión informe de Comisión Mixta
+18 de Ago. de 1992 17ª / 324 Disc. informe C.Mixta por rechazo de modific. en C. Origen / Senado Oficio aprobación de informe de Comisión Mixta a C. Revisora
+03 de Sep. de 1992 22ª / 324 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación de informe de Comisión Mixta
+07 de Sep. de 1992 22ª / 324 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+    Trámite de aprobacion presidencial / Senado Ingreso de observaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 369-04","Fecha Etapa Informe Documento
+13 de Ago. de 1992 Disc. informe C.Mixta por rechazo de modific. en C. Origen Senado Informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+10 de Jun. de 1992 Comisión Mixta por rechazo de modificaciones Senado Informe de Comisión Mixta Comisión Mixta para Boletín Nº 369-04 Ver
+05 de May. de 1992 Segundo trámite constitucional C.Diputados Segundo informe de comisión de Educación, Deportes y Recreación Ver
+15 de Abr. de 1992 Segundo trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver
+19 de Dic. de 1991 Primer trámite constitucional Senado Segundo informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+17 de Dic. de 1991 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 369-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 369-04","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 369-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 369-04","No record","Veto emmEnd"

@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 601-10","Legislatura: 323
+Fecha de ingreso: miércoles 15 de enero de 1992
+Estado: Tramitación terminada (D.S.Nº 906 - D.Oficial 25/11/1993)
+Numero de boletín: 601-10
+Materia: Acuerdos Internacionales,Servicio De Impuestos Internos (Chile),Impuestos ,Impuesto A La Renta
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 20:29:45
+* * Hitos de tramitación * *
+"emmStart Hitos 601-10","Fecha Sesión Etapa Sub-etapa Documento
+15 de Ene. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+15 de Ene. de 1992 42ª / 323 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+10 de Jun. de 1992   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+03 de Nov. de 1992 7ª / 325 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores y a Comisión de Hacienda
+02 de Dic. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+15 de Dic. de 1992 17ª / 325 Tramitación terminada / A petición del Senador señor Alessandri, se exime de la Comisión de Hacienda.
+15 de Dic. de 1992 17ª / 325 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión. La Sala deja sin efecto trámite ante Comisión de Hacienda.
+16 de Dic. de 1992 18ª / 325 Tramitación terminada / Discusión general y particular. Aprobado sin modificaciones.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 601-10","Fecha Etapa Informe Documento
+02 de Dic. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+10 de Jun. de 1992 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 601-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 601-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 601-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 601-10","No record","Veto emmEnd"

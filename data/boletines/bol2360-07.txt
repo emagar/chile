@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 2360-07","Legislatura: 340
+Fecha de ingreso: martes 06 de julio de 1999
+Estado: Primer trámite constitucional .
+Numero de boletín: 2360-07
+Materia: Indigenas
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 23:42:23
+* * Hitos de tramitación * *
+"emmStart Hitos 2360-07","Fecha Sesión Etapa Sub-etapa Documento
+06 de Jul. de 1999   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Jul. de 1999 14ª / 340 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+06 de Jul. de 1999   Primer trámite constitucional / C. Diputados Eximido del trámite ante Comisión de Constitución, Legislación y Justicia. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía
+06 de Jul. de 2004 11ª / 351 Primer trámite constitucional / C. Diputados Cuenta Oficio Comisión de DD.HH., solicita archivo de proyecto por haber transcurrido el plazo de dos años sin que exista un pronunciamiento. En tabla, se rechaza solicitud. Se acoge solicitud para ser enviado a la Comisión de Verdad y Nuevo Trato que se formará próximamente. Ver
+12 de Ago. de 2004 30ª / 351 Primer trámite constitucional / C. Diputados Cuenta Oficio Comisión de DD.HH., solicita archivo de proyecto por haber transcurrido el plazo de dos años sin que exista un pronunciamiento. En tabla, se rechaza solicitud. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2360-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2360-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2360-07","Nombre Región Distrito Partido
+Juan Bustos Ramírez V Región de Valparaíso N°12 Partido Socialista
+Guillermo Ceroni Fuentes VII Región del Maule N°40 Partido Por la Democracia
+Sergio Elgueta Barrientos X Región de los Lagos N°57 Partido Demócrata Cristiano
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Miguel Hernández Saffirio IX Región de la Araucanía N°49 Partido Demócrata Cristiano
+Francisco Huenchumilla Jaramillo IX Región de la Araucanía N°50 Partido Demócrata Cristiano
+Juan Pablo Letelier Morel VI Región del Libertador Bernardo O' Higgins N°33 Partido Socialista
+Zarko Luksic Sandoval RM Región Metropolitana N°16 Partido Demócrata Cristiano
+Sergio Ojeda Uribe X Región de los Lagos N°55 Partido Demócrata Cristiano
+Eugenio Tuma Zedan IX Región de la Araucanía N°51 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2360-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2360-07","No record","Veto emmEnd"

@@ -1,0 +1,55 @@
+* * Bill summary * *
+"emmStart Summary 752-11","Legislatura: 324
+Fecha de ingreso: jueves 23 de julio de 1992
+Estado: Tramitación terminada (Ley Nº 19.284 - D.Oficial 14/01/1994)
+Numero de boletín: 752-11
+Materia: Integración Social De Discapacitados,Discapacitados
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 22:28:44
+* * Hitos de tramitación * *
+"emmStart Hitos 752-11","Fecha Sesión Etapa Sub-etapa Documento
+23 de Jul. de 1992 13ª / 324 Primer trámite constitucional / Senado Cuenta de proyecto
+23 de Jul. de 1992   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+24 de Nov. de 1992 14ª / 325 Primer trámite constitucional / Senado Primer informe de comisión Ver
+26 de Nov. de 1992 14ª / 325 Primer trámite constitucional / Senado Primer informe de comisión Ver
+26 de Nov. de 1992 14ª / 325 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+26 de Nov. de 1992 14ª / 325 Primer trámite constitucional / Senado Discusión general Ver
+07 de Ene. de 1993   Primer trámite constitucional / Senado Boletín de indicaciones
+19 de Jul. de 1993 12ª / 326 Primer trámite constitucional / Senado Segundo informe de comisión Ver
+20 de Jul. de 1993 12ª / 326 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+21 de Jul. de 1993 13ª / 326 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+21 de Jul. de 1993 13ª / 326 Primer trámite constitucional / Senado Discusión particular Ver
+03 de Ago. de 1993 23ª / 326 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+02 de Nov. de 1993   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+24 de Nov. de 1993 17ª / 327 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+14 de Dic. de 1993 18ª / 327 Tercer trámite constitucional / Senado Cuenta informe de comisión
+14 de Dic. de 1993 18ª / 327 Tercer trámite constitucional / Senado Informe de comisión Ver
+15 de Dic. de 1993 19ª / 327 Tercer trámite constitucional / Senado Discusión única
+21 de Dic. de 1993 19ª / 327 Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo Ver
+21 de Dic. de 1993 4ª / 344 Trámite en Tribunal Constitucional / Senado Oficio al Tribunal Constitucional Ver
+21 de Dic. de 1993   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+04 de Ene. de 1994 2ª / 344 Trámite en Tribunal Constitucional / Senado Oficio de ley al Ejecutivo Ver
+04 de Ene. de 1994 20ª / 327 Trámite en Tribunal Constitucional / Senado Cuenta fallo del Tribunal Constitucional
+    Trámite de aprobacion presidencial / Senado Ingreso de observaciones
+    Trámite en Tribunal Constitucional / Senado Ingreso fallo del Tribunal Constitucional","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 752-11","Fecha Etapa Informe Documento
+14 de Dic. de 1993 Tercer trámite constitucional Senado Informe de comisión de Salud Ver
+02 de Nov. de 1993 Segundo trámite constitucional C.Diputados Primer informe de comisión de Salud Ver
+19 de Jul. de 1993 Primer trámite constitucional Senado Segundo informe de comisión de Salud Ver
+26 de Nov. de 1992 Primer trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+24 de Nov. de 1992 Primer trámite constitucional Senado Primer informe de comisión de Salud Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 752-11","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 752-11","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 752-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 752-11","No record","Veto emmEnd"

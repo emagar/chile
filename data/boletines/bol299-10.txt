@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 299-10","Legislatura: 321
+Fecha de ingreso: martes 05 de marzo de 1991
+Estado: Tramitación terminada (D.S. Nº 152 - D.Oficial 16/04/1992)
+Numero de boletín: 299-10
+Materia: Acuerdos Internacionales
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 14:15:07
+* * Hitos de tramitación * *
+"emmStart Hitos 299-10","Fecha Sesión Etapa Sub-etapa Documento
+05 de Mar. de 1991   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+12 de Mar. de 1991 37ª / 321 Primer trámite constitucional / Senado Cuenta de proyecto
+09 de Abr. de 1991 42ª / 321 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+09 de Abr. de 1991 42ª / 321 Primer trámite constitucional / Senado Primer informe de comisión Ver
+24 de Abr. de 1991 47ª / 321 Primer trámite constitucional / Senado Discusión general Ver
+24 de Abr. de 1991 47ª / 321 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+30 de Abr. de 1991 49ª / 321 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+10 de Dic. de 1991   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de Dic. de 1991 36ª / 323 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+07 de Ene. de 1992   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen
+07 de Ene. de 1992 38ª / 323 Segundo trámite constitucional / C. Diputados Discusión general Ver
+08 de Ene. de 1992 30ª / 321 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+08 de Ene. de 1992   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 299-10","Fecha Etapa Informe Documento
+10 de Dic. de 1991 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+09 de Abr. de 1991 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 299-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 299-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 299-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 299-10","No record","Veto emmEnd"

@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 7855-13","Legislatura: 359
+Fecha de ingreso: martes 09 de agosto de 2011
+Estado: Segundo trámite constitucional .
+Numero de boletín: 7855-13 Refundido con: 7025-31 7025-31
+Materia: Empleos Para Discapacitados,Discapacitados
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 12:00:12
+* * Hitos de tramitación * *
+"emmStart Hitos 7855-13","Fecha Sesión Etapa Sub-etapa Documento
+09 de Ago. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+09 de Ago. de 2011 67ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+11 de Ago. de 2011 69ª / 359 Primer trámite constitucional / C. Diputados La Sala acordó que el proyecto sea remitido a la Comisión de Superación de la Pobreza, Planificación y Desarrollo Social. (Oficios 9646 y 9647 del 11.8.11 a los Presidentes de las Comisiones de Superación de la Pobreza, Planificación y Desarrollo Social y Trabajo y Seguridad Social, respectivamente, comunican acuerdo). Ver
+15 de Nov. de 2011 108ª / 359 Primer trámite constitucional / C. Diputados Oficio de la Comisión de Superación de la Pobreza, Planificación y Desarrollo Social, por el cual solicita a V.E., si lo tiene a bien, se sirva recabar el acuerdo de la Sala de la Corporación, en orden a refundir la moción (Boletín N° 7.025-31), con la moción (Boletín N° 7.855-13), Acordado. Ver
+03 de Sep. de 2012   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+04 de Sep. de 2012 75ª / 360 Primer trámite constitucional / C. Diputados Cuenta. Primer informe de la Comisión de Superación de Pobreza, Planificación y Desarrollo Social de los proyectos Refundidos 7025-31, 7855-13. Ver
+06 de Sep. de 2012 77ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+06 de Sep. de 2012   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+11 de Sep. de 2012 48ª / 360 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7855-13","Fecha Etapa Informe Documento
+03 de Sep. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Superación de la Pobreza, Planificación y Desarrollo Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7855-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7855-13","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Fuad Chahín Valenzuela IX Región de la Araucanía N°49 Partido Demócrata Cristiano
+María Angélica Cristi Marfil RM Región Metropolitana N°24 Unión Demócrata Independiente
+Fidel Espinoza Sandoval X Región de los Lagos N°56 Partido Socialista
+Carlos Abel Jarpa Wevar VIII Región del Bío Bío N°41 Partido Radical Social Demócrata
+Andrea Molina Oliva V Región de Valparaíso N°10 Unión Demócrata Independiente
+María Antonieta Saa Díaz RM Región Metropolitana N°17 Partido Por la Democracia
+Jorge Sabag Villalobos VIII Región del Bío Bío N°42 Partido Demócrata Cristiano
+Víctor Torres Jeldes V Región de Valparaíso N°15 Partido Demócrata Cristiano
+Mónica Zalaquett Said RM Región Metropolitana N°20 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7855-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+60 Votación General 5 0 0 8   Superación de la Pobreza Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7855-13","No record","Veto emmEnd"

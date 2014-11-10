@@ -1,0 +1,54 @@
+* * Bill summary * *
+"emmStart Summary 3051-07","Legislatura: 347
+Fecha de ingreso: martes 10 de septiembre de 2002
+Estado: Tramitación terminada (Ley Nº 19.875 - D.Oficial 28/05/2003)
+Numero de boletín: 3051-07
+Materia: Congreso Nacional,Comisión Especial Mixta De Presupuesto
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 03-11-2014 22:35:04
+* * Hitos de tramitación * *
+"emmStart Hitos 3051-07","Fecha Sesión Etapa Sub-etapa Documento
+10 de Sep. de 2002   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+10 de Sep. de 2002 27ª / 347 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+25 de Mar. de 2003   Primer trámite constitucional / Senado Primer informe de comisión Ver
+25 de Mar. de 2003 35ª / 348 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+26 de Mar. de 2003 36ª / 348 Primer trámite constitucional / Senado Discusión general. Terminada la primera discusión, apetición del Comité Demócrata Cristiano queda para segunda discusión. Ver
+01 de Abr. de 2003 37ª / 348 Primer trámite constitucional / Senado Discusión general Ver
+01 de Abr. de 2003   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+02 de Abr. de 2003 62ª / 348 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+02 de Abr. de 2003   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de Abr. de 2003 64ª / 348 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+08 de Abr. de 2003 64ª / 348 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+08 de Abr. de 2003   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+15 de Abr. de 2003 40ª / 348 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+15 de Abr. de 2003   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo. Oficio para ejercer facultad de veto Ver
+16 de Abr. de 2003 41ª / 348 Trámite finalización en Cámara de Origen / Senado Cuenta oficio Presidente de la República, comunica que no hará uso de derecho a que se refiere inciso primero artículo 70 Carta Fundamental. Se manda remitir el proyecto al Tribunal Constitucional.
+16 de Abr. de 2003   Trámite en Tribunal Constitucional / Senado Oficio al Tribunal Constitucional Ver
+29 de Abr. de 2003 42ª / 348 Trámite en Tribunal Constitucional / Senado Cuenta del Oficio Nº 1.865, del Tribunal Constitucional con el que remite sentencia recaída en este proyecto. Ver
+29 de Abr. de 2003   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3051-07","Fecha Etapa Informe Documento
+02 de Abr. de 2003 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+25 de Mar. de 2003 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3051-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+02 de Abr. de 2003   Suma 509-348  
+02 de Abr. de 2003 02 de Abr. de 2003 Suma 497-348 509-348
+25 de Mar. de 2003 02 de Abr. de 2003 Simple 493-348 497-348","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3051-07","Nombre
+Edgardo Boeninger Kausel
+Alejandro Foxley Rioseco
+José García Ruminot
+Evelyn Matthei Fornet
+Carlos Ominami Pascual","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3051-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3051-07","No record","Veto emmEnd"

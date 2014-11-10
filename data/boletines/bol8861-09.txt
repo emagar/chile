@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 8861-09","Legislatura: 361
+Fecha de ingreso: martes 02 de abril de 2013
+Estado: Tramitación terminada (Ley Nº 20.706 - D.Oficial 07/12/2013)
+Numero de boletín: 8861-09
+Materia: Indemnización Compensatoria ,Pago De Peajes,Peaje En Autopistas Concesionadas
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 10-11-2014 08:03:19
+* * Hitos de tramitación * *
+"emmStart Hitos 8861-09","Fecha Sesión Etapa Sub-etapa Documento
+02 de Abr. de 2013   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+02 de Abr. de 2013 7ª / 361 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Obras Públicas
+18 de Jun. de 2013   Primer trámite constitucional / Senado Primer informe de comisión Ver
+19 de Jun. de 2013 34ª / 361 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+19 de Jun. de 2013 34ª / 361 Primer trámite constitucional / Senado Discusión general Ver
+19 de Jun. de 2013   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+20 de Jun. de 2013 41ª / 361 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+08 de Oct. de 2013   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de Oct. de 2013 79ª / 361 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+10 de Oct. de 2013 82ª / 361 Segundo trámite constitucional / C. Diputados Discusión general. Aprobado en general y particular con modificaciones Ver
+10 de Oct. de 2013   Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver
+15 de Oct. de 2013 63ª / 361 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora. Pasa a Comisión de Obras Públicas
+29 de Oct. de 2013 65ª / 361 Tercer trámite constitucional / Senado Por acuerdo de Comités, ratificado por la Sala, el proyecto queda para Tabla, sin informe de la Comisión de Obras Públicas.
+30 de Oct. de 2013 66ª / 361 Tercer trámite constitucional / Senado Discusión única
+30 de Oct. de 2013   Tercer trámite constitucional / Senado Oficio N° 862/SEC/13, que comunica aprobacion de modificaciones Ver
+30 de Oct. de 2013   Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo Ver
+19 de Nov. de 2013 87ª / 361 Tercer trámite constitucional / Senado Cuenta oficio N° 862/SEC/13, que comunica aprobacion de modificaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8861-09","Fecha Etapa Informe Documento
+08 de Oct. de 2013 Segundo trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+18 de Jun. de 2013 Primer trámite constitucional Senado Primer informe de comisión de Obras Públicas Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8861-09","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8861-09","Nombre
+Soledad Alvear Valenzuela","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8861-09","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+82   57 0 0 63 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8861-09","No record","Veto emmEnd"

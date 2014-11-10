@@ -1,0 +1,48 @@
+* * Bill summary * *
+"emmStart Summary 4284-10","Legislatura: 354
+Fecha de ingreso: martes 04 de julio de 2006
+Estado: Tramitación terminada (D.S. N° 184 - D.Oficial 31/12/2007)
+Numero de boletín: 4284-10
+Materia: Tribunal Internacional Del Derecho Del Mar,Derecho Del Mar
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 23:50:20
+* * Hitos de tramitación * *
+"emmStart Hitos 4284-10","Fecha Sesión Etapa Sub-etapa Documento
+04 de Jul. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Jul. de 2006 43ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+05 de Sep. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+17 de Oct. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de Oct. de 2006 88ª / 354 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+02 de Nov. de 2006 92ª / 354 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+02 de Nov. de 2006   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+07 de Nov. de 2006 66ª / 354 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores y a Comisión de Hacienda Ver
+11 de Ene. de 2007   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+09 de Abr. de 2007   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+10 de Abr. de 2007 9ª / 355 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+11 de Abr. de 2007 10ª / 355 Segundo trámite constitucional / Senado Discusión general Ver
+11 de Abr. de 2007   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+12 de Abr. de 2007 15ª / 355 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver Ver
+13 de Abr. de 2007   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4284-10","Fecha Etapa Informe Documento
+09 de Abr. de 2007 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+11 de Ene. de 2007 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+17 de Oct. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+05 de Sep. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4284-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4284-10","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4284-10","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+92   98 0 0 0 Aprobado Sala Ver detalle votación
+25 Votación General 5 0 0 8   Relaciones Exteriores Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4284-10","No record","Veto emmEnd"

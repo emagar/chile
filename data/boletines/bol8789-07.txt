@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 8789-07","Legislatura: 360
+Fecha de ingreso: martes 22 de enero de 2013
+Estado: Primer trámite constitucional .
+Numero de boletín: 8789-07
+Materia: Constitucion 1980,Elecciones Parlamentarias,Domicilio Electoral
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 05:44:26
+* * Hitos de tramitación * *
+"emmStart Hitos 8789-07","Fecha Sesión Etapa Sub-etapa Documento
+22 de Ene. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+22 de Ene. de 2013 130ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+22 de Ene. de 2013 130ª / 360 Primer trámite constitucional / C. Diputados La Sala acuerda, remitir el proyecto en primer lugar para su informe a la Comisión de Gobierno Interior y Regionalización, y luego, a la Comisión de Constitución, Legislación y Justicia. (Oficios 10.584 y 10.585 del 22.1.13 a los Presidentes de las Comisiones de Gobierno Interior y Constitución, respectivamente, comunican acuerdo) Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8789-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8789-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8789-07","Nombre Región Distrito Partido
+Pepe Auth Stewart RM Región Metropolitana N°20 Partido Por la Democracia
+Germán Becker Alvear IX Región de la Araucanía N°50 Renovación Nacional
+Mario Bertolino Rendic IV Región de Coquimbo N°7 Renovación Nacional
+Pedro Browne Urrejola RM Región Metropolitana N°28 Renovación Nacional
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Fernando Meza Moncada IX Región de la Araucanía N°52 Partido Radical Social Demócrata
+Celso Morales Muñoz VII Región del Maule N°36 Unión Demócrata Independiente
+Sergio Ojeda Uribe X Región de los Lagos N°55 Partido Demócrata Cristiano
+Germán Verdugo Soto VII Región del Maule N°37 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8789-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8789-07","No record","Veto emmEnd"

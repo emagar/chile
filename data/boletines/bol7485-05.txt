@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 7485-05","Legislatura: 358
+Fecha de ingreso: martes 01 de marzo de 2011
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 7485-05
+Materia: Sistema De Alta Dirección Pública
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 09-11-2014 04:40:41
+* * Hitos de tramitación * *
+"emmStart Hitos 7485-05","Fecha Sesión Etapa Sub-etapa Documento
+01 de Mar. de 2011   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+01 de Mar. de 2011 90ª / 358 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+01 de Mar. de 2011 90ª / 358 Primer trámite constitucional / Senado Cuenta del Mensaje 736-358 que retira y hace presente la urgencia Simple
+05 de Abr. de 2011 6ª / 359 Primer trámite constitucional / Senado Cuenta del Mensaje 75-359 que retira y hace presente la urgencia Simple
+04 de May. de 2011 15ª / 359 Primer trámite constitucional / Senado Cuenta del Mensaje 176-359 que retira y hace presente la urgencia Simple
+31 de May. de 2011 21ª / 359 Primer trámite constitucional / Senado Cuenta del Mensaje 240-359 que retira y hace presente la urgencia Simple
+05 de Jul. de 2011 30ª / 359 Primer trámite constitucional / Senado Cuenta del Mensaje 309-359 que retira y hace presente la urgencia Suma
+20 de Jul. de 2011 36ª / 359 Primer trámite constitucional / Senado Cuenta Mensaje de S.E. el Presidente de la República, en que retira de tramitación el proyecto. Se toma conocimiento y queda retirado el proyecto.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7485-05","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7485-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+05 de Jul. de 2011   Suma 309-359  
+31 de May. de 2011 05 de Jul. de 2011 Simple 240-359 309-359
+04 de May. de 2011 31 de May. de 2011 Simple 176-359 240-359
+05 de Abr. de 2011 04 de May. de 2011 Simple 75-359 176-359
+01 de Mar. de 2011 01 de Mar. de 2011 Simple 216-358 736-358
+01 de Mar. de 2011 05 de Abr. de 2011 Simple 736-358 75-359","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7485-05","Nombre
+Ministerio de Hacienda","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7485-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7485-05","No record","Veto emmEnd"

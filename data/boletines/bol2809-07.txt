@@ -1,0 +1,57 @@
+* * Bill summary * *
+"emmStart Summary 2809-07","Legislatura: 345
+Fecha de ingreso: miércoles 17 de octubre de 2001
+Estado: Primer trámite constitucional .
+Numero de boletín: 2809-07
+Materia: Recurso De Amparo
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 16:46:28
+* * Hitos de tramitación * *
+"emmStart Hitos 2809-07","Fecha Sesión Etapa Sub-etapa Documento
+17 de Oct. de 2001   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+17 de Oct. de 2001 9ª / 345 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+17 de Oct. de 2001   Primer trámite constitucional / C. Diputados Oficio de Consulta a la Corte Suprema Ver
+08 de Ene. de 2002 22ª / 345 Primer trámite constitucional / C. Diputados Cuenta oficio 3057 de la Corte Suprema Ver Ver
+19 de Abr. de 2006 15ª / 354 Primer trámite constitucional / C. Diputados Comisión de Derechos Humanos solicita que se le remita el proyecto. Se accede Ver
+03 de May. de 2007   Primer trámite constitucional / C. Diputados Oficio Nº062-07 a la Corte Suprema Ver
+08 de Jun. de 2007   Primer trámite constitucional / C. Diputados Cuenta oficio Nº 177 de la Corte Suprema Ver
+05 de Dic. de 2007 112ª / 355 Primer trámite constitucional / C. Diputados Comisón de Constitución solicita asentimiento de la Corporación para que se le remita el proyecto, actualmente en la Comisión de Derechos Humanos. APROBADO. Ver
+11 de Dic. de 2007 114ª / 355 Primer trámite constitucional / C. Diputados Comisión de Derechos Humanos solicita que a la Comisión de Constitución se le fije un plazo para despachar proyecto, el que deberá ser remitido directamente a la Sala. APROBADO. Ver
+24 de Ene. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+15 de Abr. de 2008 18ª / 356 Primer trámite constitucional / C. Diputados Comisión de Constitución solicita autorización de la Sala para prorrogar en 60 días el plazo pára emitir su informe. ACORDADO. Ver
+01 de Jul. de 2008 45ª / 356 Primer trámite constitucional / C. Diputados Sala acuerda fijar plazo de 60 días a Comisión de Constitución para envío de proyecto a la Sala Ver
+02 de Jul. de 2008 46ª / 356 Primer trámite constitucional / C. Diputados Comisión de Constitución solicita plazo de 60 días para emitir informe. ACORDADO. Ver
+31 de Jul. de 2008 56ª / 356 Primer trámite constitucional / C. Diputados Comisión de Constitución solicita acuerdo para sesionar simultáneamente con la Sala el día 31 de julio de 11:30 a 13 horas. ACORDADO. Ver
+07 de Oct. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+29 de Oct. de 2008 93ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+29 de Oct. de 2008 93ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+05 de Nov. de 2008 96ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+18 de Nov. de 2008 103ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2809-07","Fecha Etapa Informe Documento
+07 de Oct. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+24 de Ene. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2809-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2809-07","Nombre Región Distrito Partido
+Francisco Bartolucci Johnston V Región de Valparaíso N°13 Unión Demócrata Independiente
+Juan Bustos Ramírez V Región de Valparaíso N°12 Partido Socialista
+Alberto Cardemil Herrera RM Región Metropolitana N°22 Renovación Nacional
+Sergio Elgueta Barrientos X Región de los Lagos N°57 Partido Demócrata Cristiano
+Zarko Luksic Sandoval RM Región Metropolitana N°16 Partido Demócrata Cristiano
+Gutenberg Martínez Ocamica RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Jaime Rocha Manrique VIII Región del Bío Bío N°46 Partido Radical Social Demócrata
+Laura Soto González V Región de Valparaíso N°14 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2809-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+103   79 0 0 0 Aprobado Sala Ver detalle votación
+43 Votación General 9 1 0 3   Derechos Humanos Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2809-07","No record","Veto emmEnd"

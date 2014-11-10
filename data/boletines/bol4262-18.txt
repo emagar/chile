@@ -1,0 +1,39 @@
+* * Bill summary * *
+"emmStart Summary 4262-18","Legislatura: 354
+Fecha de ingreso: miércoles 21 de junio de 2006
+Estado: Primer trámite constitucional .
+Numero de boletín: 4262-18
+Materia: Sename (Chile),Menores
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 23:33:56
+* * Hitos de tramitación * *
+"emmStart Hitos 4262-18","Fecha Sesión Etapa Sub-etapa Documento
+21 de Jun. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+21 de Jun. de 2006 41ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Familia Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4262-18","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4262-18","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4262-18","Nombre Región Distrito Partido
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Gonzalo Duarte Leiva RM Región Metropolitana N°26 Partido Demócrata Cristiano
+Pablo Galilea Carrillo XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Renovación Nacional
+Juan Carlos Latorre Carmona VI Región del Libertador Bernardo O' Higgins N°35 Partido Demócrata Cristiano
+Roberto León Ramírez VII Región del Maule N°36 Partido Demócrata Cristiano
+José Miguel Ortiz Novoa VIII Región del Bío Bío N°44 Partido Demócrata Cristiano
+Eduardo Saffirio Suárez IX Región de la Araucanía N°50 Partido Demócrata Cristiano
+Gabriel Silber Romo RM Región Metropolitana N°16 Partido Demócrata Cristiano
+Mario Venegas Cárdenas IX Región de la Araucanía N°48 Partido Demócrata Cristiano
+Patricio Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4262-18","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+10 Votación General 10 0 0 3   Familia Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4262-18","No record","Veto emmEnd"

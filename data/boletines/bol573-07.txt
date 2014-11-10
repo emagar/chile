@@ -1,0 +1,51 @@
+* * Bill summary * *
+"emmStart Summary 573-07","Legislatura: 323
+Fecha de ingreso: martes 07 de enero de 1992
+Estado: Tramitación terminada (Ley Nº 19.139 - D.Oficial 25/05/1992)
+Numero de boletín: 573-07
+Materia: Tribunales Penales,Juzgados De Letras,Juzgados
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 20:05:38
+* * Hitos de tramitación * *
+"emmStart Hitos 573-07","Fecha Sesión Etapa Sub-etapa Documento
+07 de Ene. de 1992 38ª / 324 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+07 de Ene. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+14 de Ene. de 1992   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+25 de Feb. de 1992   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+25 de Feb. de 1992 51ª / 323 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+30 de Mar. de 1992 59ª / 323 Primer trámite constitucional / C. Diputados Discusión general Ver
+31 de Mar. de 1992   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora
+01 de Abr. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+01 de Abr. de 1992 48ª / 323 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento y a la de Hacienda
+07 de Abr. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+07 de Abr. de 1992 49ª / 323 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión. Por acuerdo de Comités, el proyecto se agrega a la Tabla de esta sesión.
+07 de Abr. de 1992 49ª / 323 Segundo trámite constitucional / Senado Discusión general Ver
+07 de Abr. de 1992 49ª / 323 Tramitación terminada / Discusión general y particular. Aprobado, sin modificaciones.
+08 de Abr. de 1992   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+08 de Abr. de 1992   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+14 de Abr. de 1992 65ª / 323 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+14 de Abr. de 1992   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+29 de Abr. de 1992   Trámite en Tribunal Constitucional / C. Diputados Oficio al Tribunal Constitucional Ver
+06 de May. de 1992   Trámite en Tribunal Constitucional / C. Diputados Ingreso fallo del Tribunal Constitucional Ver
+06 de May. de 1992 71ª / 323 Trámite en Tribunal Constitucional / C. Diputados Cuenta fallo del Tribunal Constitucional Ver
+08 de May. de 1992   Trámite en Tribunal Constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 573-07","Fecha Etapa Informe Documento
+07 de Abr. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+01 de Abr. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+25 de Feb. de 1992 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+14 de Ene. de 1992 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 573-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 573-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 573-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 573-07","No record","Veto emmEnd"

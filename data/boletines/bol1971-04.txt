@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 1971-04","Legislatura: 334
+Fecha de ingreso: miércoles 15 de enero de 1997
+Estado: Tramitación terminada (Ley Nº 19.494 - D.Oficial 25/01/1997)
+Numero de boletín: 1971-04
+Materia: Educacion
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 16:58:54
+* * Hitos de tramitación * *
+"emmStart Hitos 1971-04","Fecha Sesión Etapa Sub-etapa Documento
+15 de Ene. de 1997   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+15 de Ene. de 1997 25ª / 334 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+15 de Ene. de 1997   Primer trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+15 de Ene. de 1997   Primer trámite constitucional / Senado Primer informe de comisión Ver
+16 de Ene. de 1997 26ª / 334 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+16 de Ene. de 1997 26ª / 334 Primer trámite constitucional / Senado Discusión general Ver
+16 de Ene. de 1997   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+21 de Ene. de 1997 41ª / 334 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+22 de Ene. de 1997   Segundo trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+22 de Ene. de 1997   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+22 de Ene. de 1997 42ª / 334 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+22 de Ene. de 1997 42ª / 334 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+22 de Ene. de 1997   Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver
+22 de Ene. de 1997 28ª / 334 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+22 de Ene. de 1997 28ª / 334 Tercer trámite constitucional / Senado Discusión única
+22 de Ene. de 1997   Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1971-04","Fecha Etapa Informe Documento
+22 de Ene. de 1997 Segundo trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+22 de Ene. de 1997 Segundo trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver
+15 de Ene. de 1997 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+15 de Ene. de 1997 Primer trámite constitucional Senado Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1971-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1971-04","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1971-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1971-04","No record","Veto emmEnd"

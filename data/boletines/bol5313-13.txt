@@ -1,0 +1,39 @@
+* * Bill summary * *
+"emmStart Summary 5313-13","Legislatura: 355
+Fecha de ingreso: martes 04 de septiembre de 2007
+Estado: Segundo trámite constitucional .
+Numero de boletín: 5313-13
+Materia: Jornada De Trabajo
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 07-11-2014 03:09:27
+* * Hitos de tramitación * *
+"emmStart Hitos 5313-13","Fecha Sesión Etapa Sub-etapa Documento
+04 de Sep. de 2007   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+05 de Sep. de 2007 49ª / 355 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social
+11 de Dic. de 2007   Primer trámite constitucional / Senado Primer informe de comisión Ver
+12 de Dic. de 2007 75ª / 355 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+18 de Dic. de 2007 76ª / 355 Primer trámite constitucional / Senado Discusión general Ver
+18 de Dic. de 2007   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+19 de Dic. de 2007 119ª / 355 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5313-13","Fecha Etapa Informe Documento
+11 de Dic. de 2007 Primer trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5313-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5313-13","Nombre
+Andrés Allamand Zavala
+Alberto Espina Otero
+José García Ruminot
+Baldo Prokurica Prokurica
+Sergio Romero Pizarro","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5313-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5313-13","No record","Veto emmEnd"

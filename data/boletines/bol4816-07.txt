@@ -1,0 +1,64 @@
+* * Bill summary * *
+"emmStart Summary 4816-07","Legislatura: 354
+Fecha de ingreso: miércoles 10 de enero de 2007
+Estado: Tramitación terminada (Ley Nº 20.214 - D.Oficial 22/09/2007)
+Numero de boletín: 4816-07
+Materia: Maltrato De Obra,Gendarmeria De Chile
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 12:43:44
+* * Hitos de tramitación * *
+"emmStart Hitos 4816-07","Fecha Sesión Etapa Sub-etapa Documento
+10 de Ene. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Ene. de 2007 117ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+17 de Abr. de 2007 16ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 89-355 que hace presente la urgencia Simple Ver
+08 de May. de 2007 22ª / 355 Primer trámite constitucional / C. Diputados Comisión de Constitución solicita sesioinar simulktánemante con la Sala el día jueves 10 de mayo, de 1045 a 12,45 horas. Aprobado. Ver
+15 de May. de 2007 27ª / 355 Primer trámite constitucional / C. Diputados Comisión de Constitución solicita asentimiento para sesionar simultáneamente con la Sala Ver
+15 de May. de 2007 27ª / 355 Primer trámite constitucional / C. Diputados Comisión de Constitución solicita asentimiento para sesionar simultáneamente con la Sala el día jueves 17 de mayo de 10,45 a 12, 45 hora. APROBADO. Ver
+16 de May. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Jun. de 2007 30ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 238-355 que retira y hace presente la urgencia Simple Ver
+05 de Jun. de 2007 30ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. Primer informe de la Comisión de Constitución. Ver
+07 de Jun. de 2007 33ª / 355 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+08 de Jun. de 2007   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+12 de Jun. de 2007 24ª / 355 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento Ver
+22 de Jun. de 2007   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+03 de Jul. de 2007 29ª / 355 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+04 de Jul. de 2007 30ª / 355 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 17/07/2007 Ver
+17 de Jul. de 2007 34ª / 355 Segundo trámite constitucional / Senado Cuenta del Mensaje 452-355 que retira y hace presente la urgencia Simple Ver
+17 de Jul. de 2007   Segundo trámite constitucional / Senado Boletín de indicaciones
+03 de Ago. de 2007   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+07 de Ago. de 2007 40ª / 355 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+14 de Ago. de 2007 42ª / 355 Segundo trámite constitucional / Senado Discusión particular Ver
+14 de Ago. de 2007   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+28 de Ago. de 2007 67ª / 355 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver Ver
+28 de Ago. de 2007 67ª / 355 Tercer trámite constitucional / C. Diputados Discusión única Ver
+29 de Ago. de 2007   Tercer trámite constitucional / C. Diputados Oficio Nº 6973, que comunica aprobación de modificaciones Ver
+29 de Ago. de 2007   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+04 de Sep. de 2007 47ª / 355 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 6973, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4816-07","Fecha Etapa Informe Documento
+03 de Ago. de 2007 Segundo trámite constitucional Senado Segundo informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+22 de Jun. de 2007 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+16 de May. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4816-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+17 de Jul. de 2007   Simple 452-355  
+05 de Jun. de 2007 17 de Jul. de 2007 Simple 238-355 452-355
+17 de Abr. de 2007 05 de Jun. de 2007 Simple 89-355 238-355","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4816-07","Nombre Región Distrito Partido
+Ministerio de Justicia      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4816-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+67 Enmiendas del Senado. 89 5 1 0 Aprobado Sala Ver detalle votación
+33   82 1 2 0 Aprobado Sala Ver detalle votación
+33 único en la forma propuesta en el informe de la Comisión de Legislación. 79 0 5 0 Aprobado Sala Ver detalle votación
+33 único del proyecto, con indicación de los señores Errázuriz y García-Huidobro, para agregar, a continuación de la expresión ""Gendarmería de Chile"" en los artículos 15 A, 15 B, 15 C y 15 D que se proponen, la frase ""o a cualquier persona que labore o colabore con los internos al interior de recintos penitenciarios"". 44 44 2 30 Rechazado Sala Ver detalle votación
+33 Exención del trámite de segundo informe, de conformidad con el artículo 130 del Reglamento. 68 15 2 35 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4816-07","No record","Veto emmEnd"

@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 1018-07","Legislatura: 326
+Fecha de ingreso: miércoles 16 de junio de 1993
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 1018-07
+Materia: Constitucion 1980,Corte Suprema De Justicia
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 02:01:29
+* * Hitos de tramitación * *
+"emmStart Hitos 1018-07","Fecha Sesión Etapa Sub-etapa Documento
+16 de Jun. de 1993   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+16 de Jun. de 1993 6ª / 326 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+05 de Jul. de 1995 12ª / 331 Primer trámite constitucional / Senado Primer informe de comisión Ver
+05 de Jul. de 1995 12ª / 331 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Oct. de 1995   Primer trámite constitucional / Senado Boletín de indicaciones
+10 de Oct. de 1995 4ª / 332 Tramitación terminada / Por acuerdo de la Sala, vuelve a Comisión. Ver
+24 de Oct. de 1995 9ª / 332 Primer trámite constitucional / Senado Segundo informe de comisión Ver
+24 de Oct. de 1995 9ª / 332 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+14 de Nov. de 1995 13ª / 332 Primer trámite constitucional / Senado Discusión particular Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1018-07","Fecha Etapa Informe Documento
+24 de Oct. de 1995 Primer trámite constitucional Senado Segundo informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+05 de Jul. de 1995 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1018-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1018-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1018-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1018-07","No record","Veto emmEnd"

@@ -1,0 +1,50 @@
+* * Bill summary * *
+"emmStart Summary 2665-18","Legislatura: 343
+Fecha de ingreso: jueves 18 de enero de 2001
+Estado: Archivado .
+Numero de boletín: 2665-18
+Materia: Acoso Sexual
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 08:15:40
+* * Hitos de tramitación * *
+"emmStart Hitos 2665-18","Fecha Sesión Etapa Sub-etapa Documento
+18 de Ene. de 2001   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+18 de Ene. de 2001 38ª / 343 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Familia Ver
+04 de Jun. de 2003   Primer trámite constitucional / C. Diputados Oficio Nº 006/2003. Solicita archivo. Ver
+05 de Jun. de 2003 3ª / 349 Primer trámite constitucional / C. Diputados Cuenta Oficio Comisión de Familia, solicita archivo. Ver
+05 de Jun. de 2003   Primer trámite constitucional / C. Diputados Archivado Oficio Nº 4342 a Com. de Familia, accede a archivo solicitado.
+08 de Jul. de 2004 13ª / 351 Primer trámite constitucional / C. Diputados Cuenta Oficio del Diputado señor Ceroni por el cual solicita autorización de la Sala en orden a disponer el desarchivo del proyecto. Se aprueba el desarchivo. Ver Ver
+28 de Ago. de 2007 67ª / 355 Primer trámite constitucional / C. Diputados Diputado señor Ceroni y Diputada señora Saa solicitan el desarchivo del proyecto. NO HAY ACUERDO. Ver
+11 de Ago. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Ago. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Ago. de 2008 60ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+05 de May. de 2010   Primer trámite constitucional / C. Diputados Archivado Se accede al awrchivo por rechazo de simple mayoría en Comisión.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2665-18","Fecha Etapa Informe Documento
+11 de Ago. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Familia Ver
+04 de Jun. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión de Familia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2665-18","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2665-18","Nombre Región Distrito Partido
+Juan Bustos Ramírez V Región de Valparaíso N°12 Partido Socialista
+Guillermo Ceroni Fuentes VII Región del Maule N°40 Partido Por la Democracia
+Sergio Elgueta Barrientos X Región de los Lagos N°57 Partido Demócrata Cristiano
+Maximiano Errázuriz Eguiguren RM Región Metropolitana N°29 Renovación Nacional
+Enrique Krauss Rusque RM Región Metropolitana N°22 Partido Demócrata Cristiano
+Luis Monge Sánchez IX Región de la Araucanía N°48 Independientes
+Jaime Mulet Martínez III Región de Atacama N°6 Partido Demócrata Cristiano
+Adriana Muñoz D'Albora IV Región de Coquimbo N°9 Partido Por la Democracia
+Marina Prochelle Aguilar X Región de los Lagos N°55 Independientes
+María Antonieta Saa Díaz RM Región Metropolitana N°17 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2665-18","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+74 Votación General 0 5 2 6   Familia Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2665-18","No record","Veto emmEnd"

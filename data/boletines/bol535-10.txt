@@ -1,0 +1,53 @@
+* * Bill summary * *
+"emmStart Summary 535-10","Legislatura: 323
+Fecha de ingreso: martes 19 de noviembre de 1991
+Estado: Tramitación terminada (Ley Nº 19.186 - D.Oficial 21/12/1992)
+Numero de boletín: 535-10
+Materia: Fundación Empresarial Comunidad Europea-Chile,Fundaciones Benéficas
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 19:06:46
+* * Hitos de tramitación * *
+"emmStart Hitos 535-10","Fecha Sesión Etapa Sub-etapa Documento
+19 de Nov. de 1991 23ª / 324 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+19 de Nov. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+05 de May. de 1992   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+03 de Jun. de 1992   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+16 de Jun. de 1992 9ª / 324 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+07 de Jul. de 1992 14ª / 324 Primer trámite constitucional / C. Diputados Discusión general Ver
+07 de Jul. de 1992   Primer trámite constitucional / C. Diputados Primer informe complementario. Pasa a Comisión de Hacienda Ver
+08 de Jul. de 1992 15ª / 324 Primer trámite constitucional / C. Diputados Cuenta primer informe complementario Ver
+08 de Jul. de 1992   Primer trámite constitucional / C. Diputados Primer informe complementario Ver
+08 de Jul. de 1992 15ª / 324 Primer trámite constitucional / C. Diputados Discusión general Ver
+09 de Jul. de 1992   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+14 de Jul. de 1992 10ª / 324 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión Relaciones Exteriores y Economía, Fomento y Reconstrucción, unidas. Además, a la Comisión de Hacienda, en su caso.
+10 de Nov. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+17 de Nov. de 1992 11ª / 325 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+17 de Nov. de 1992 11ª / 325 Segundo trámite constitucional / Senado Por acuerdo de Comités, se incorpora este proyecto en el Orden del Día de esta sesión. Ver
+17 de Nov. de 1992 11ª / 325 Segundo trámite constitucional / Senado Discusión general Ver
+19 de Nov. de 1992   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+24 de Nov. de 1992 23ª / 325 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+24 de Nov. de 1992 23ª / 325 Tercer trámite constitucional / C. Diputados Discusión única Ver
+24 de Nov. de 1992   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+26 de Nov. de 1992 14ª / 325 Tramitación terminada / Cuenta de oficio de la CCDD comunicando aprobación de modificaciones del Senado. Se toma conocimiento y se manda archivar.
+15 de Dic. de 1992 30ª / 325 Trámite de aprobacion presidencial / C. Diputados Cuenta oficio 657 del Tribunal Constitucional Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 535-10","Fecha Etapa Informe Documento
+10 de Nov. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+26 de Oct. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+07 de Jul. de 1992 Primer trámite constitucional C.Diputados Primer informe complementario de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+05 de May. de 1992 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 535-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+19 de Nov. de 1991   Simple    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 535-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 535-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 535-10","No record","Veto emmEnd"

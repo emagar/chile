@@ -1,0 +1,50 @@
+* * Bill summary * *
+"emmStart Summary 5784-14","Legislatura: 356
+Fecha de ingreso: jueves 27 de marzo de 2008
+Estado: Tramitación terminada (Ley Nº 20.340 - D.Oficial 25/04/2009)
+Numero de boletín: 5784-14
+Materia: Programas Habitacionales Estatales,Viviendas Sociales
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 07-11-2014 23:13:21
+* * Hitos de tramitación * *
+"emmStart Hitos 5784-14","Fecha Sesión Etapa Sub-etapa Documento
+27 de Mar. de 2008   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+01 de Abr. de 2008 5ª / 356 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Vivienda y Urbanismo
+03 de Jun. de 2008 23ª / 356 Primer trámite constitucional / Senado La Sala, por acuerdo de los Comités, autoriza a la Comisión de Vivienda y Urbanismo, para discutir en general y particular, en su primer informe, esta iniciativa de ley.
+05 de Dic. de 2008   Primer trámite constitucional / Senado Primer informe de comisión Ver
+09 de Dic. de 2008 77ª / 356 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+07 de Ene. de 2009 83ª / 356 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 19/01/2009 Ver
+20 de Ene. de 2009 87ª / 356 Primer trámite constitucional / Senado La Sala, previo acuerdo de los Comités, abre un nuevo plazo para presentar indicaciones hasta las 18 horas del día 20 de enero de 2009. Ver
+20 de Ene. de 2009   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+20 de Ene. de 2009 87ª / 356 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+21 de Ene. de 2009 89ª / 356 Primer trámite constitucional / Senado Discusión particular Ver
+21 de Ene. de 2009   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+22 de Ene. de 2009 130ª / 356 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Vivienda y Desarrollo Urbano Ver
+13 de Mar. de 2009   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Mar. de 2009 3ª / 357 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+18 de Mar. de 2009 4ª / 357 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+18 de Mar. de 2009   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+18 de Mar. de 2009 4ª / 357 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+18 de Mar. de 2009   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5784-14","Fecha Etapa Informe Documento
+13 de Mar. de 2009 Segundo trámite constitucional C.Diputados Primer informe de comisión de Vivienda y Desarrollo Urbano Ver
+20 de Ene. de 2009 Primer trámite constitucional Senado Segundo informe de comisión de Vivienda y Urbanismo Ver
+05 de Dic. de 2008 Primer trámite constitucional Senado Primer informe de comisión de Vivienda y Urbanismo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5784-14","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5784-14","Nombre
+Juan Pablo Letelier Morel
+Pedro Muñoz Aburto","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5784-14","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+4   82 0 0 38 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5784-14","No record","Veto emmEnd"

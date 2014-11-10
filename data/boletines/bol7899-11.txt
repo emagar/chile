@@ -1,0 +1,56 @@
+* * Bill summary * *
+"emmStart Summary 7899-11","Legislatura: 359
+Fecha de ingreso: jueves 01 de septiembre de 2011
+Estado: Segundo trámite constitucional .
+Numero de boletín: 7899-11
+Materia: Fondo Nacional De Salud,Licencia Médica
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 13:09:50
+* * Hitos de tramitación * *
+"emmStart Hitos 7899-11","Fecha Sesión Etapa Sub-etapa Documento
+01 de Sep. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+01 de Sep. de 2011 77ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver
+13 de Sep. de 2011 83ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 389-359 que hace presente la urgencia Suma Ver
+27 de Sep. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+28 de Sep. de 2011 86ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 399-359 que hace presente la urgencia Suma Ver
+12 de Oct. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+13 de Oct. de 2011 96ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de Oct. de 2011 96ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+13 de Oct. de 2011   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+18 de Oct. de 2011 63ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 424-359 que retira y hace presente la urgencia Suma
+02 de Nov. de 2011 102ª / 359 Segundo trámite constitucional / Senado Oficio N°43. Oficio de la Comisión de Superación de la Pobreza, Planificación y Desarrollo Social por el cual solicita se sirva recabar el acuerdo de la Sala para que se le remita el proyecto, actualmente en la Comisión de Salud. Ver
+02 de Nov. de 2011 65ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 435-359 que retira y hace presente la urgencia Suma
+24 de Nov. de 2011   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+07 de Mar. de 2012 95ª / 359 Segundo trámite constitucional / Senado Discusión general Ver
+16 de May. de 2012 18ª / 360 Segundo trámite constitucional / Senado Discusión general Ver
+16 de May. de 2012 18ª / 360 Segundo trámite constitucional / Senado Se soliicta aplazamiento de la votación. Ver
+22 de May. de 2012 19ª / 360 Segundo trámite constitucional / Senado Por acuerdo de Comités se retira el proyecto de la Tabla y se envía a la Comisión de Trabajo y Previsión Social. Ver
+22 de May. de 2012 19ª / 360 Segundo trámite constitucional / Senado Discusión general Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7899-11","Fecha Etapa Informe Documento
+24 de Nov. de 2011 Segundo trámite constitucional Senado Primer informe de comisión de Salud Ver
+12 de Oct. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+27 de Sep. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Salud Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7899-11","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+18 de Oct. de 2011 02 de Nov. de 2011 Suma 424-359 435-359
+28 de Sep. de 2011 18 de Oct. de 2011 Suma 399-359 424-359
+13 de Sep. de 2011   Suma 389-359  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7899-11","Nombre Región Distrito Partido
+Ministerio de Salud      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7899-11","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+96   47 33 3 0 Aprobado Sala Ver detalle votación
+96 El articulado, con excepción de los artículos 2° y 3° transitorios, y del último párrafo del literal g) del numeral 2 del artículo 1° permanente. 47 35 1 37 Aprobado Sala Ver detalle votación
+96 Artículo tercero transitorio. 43 35 1 41 Aprobado Sala Ver detalle votación
+96 Artículo segundo transitorio. 46 36 1 37 Aprobado Sala Ver detalle votación
+96 Último párrafo del literal g) del numeral 2 del artículo 1° permanente. 82 1 0 37 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7899-11","No record","Veto emmEnd"

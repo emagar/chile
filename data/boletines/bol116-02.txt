@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 116-02","Legislatura: 320
+Fecha de ingreso: martes 31 de julio de 1990
+Estado: Tramitación terminada (Ley Nº 19.002 - D.Oficial 24/10/1990)
+Numero de boletín: 116-02
+Materia: Servicio Hidrográfico Y Oceanográfico De La Armada De Chile,Instituto Hidrografico De La Armada De Chile
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 30-10-2014 18:09:08
+* * Hitos de tramitación * *
+"emmStart Hitos 116-02","Fecha Sesión Etapa Sub-etapa Documento
+31 de Jul. de 1990 20ª / 320 Primer trámite constitucional / Senado Cuenta de proyecto
+31 de Jul. de 1990   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+07 de Ago. de 1990 22ª / 320 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+07 de Ago. de 1990 22ª / 320 Primer trámite constitucional / Senado Primer informe de comisión Ver
+08 de Ago. de 1990 23ª / 320 Primer trámite constitucional / Senado Discusión general Ver
+08 de Ago. de 1990 23ª / 320 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+29 de Ago. de 1990   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+04 de Sep. de 1990 29ª / 320 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+12 de Sep. de 1990 33ª / 320 Segundo trámite constitucional / C. Diputados Discusión general Ver
+12 de Sep. de 1990 33ª / 320 Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+03 de Oct. de 1990 2ª / 321 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+03 de Oct. de 1990 2ª / 321 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+25 de Jul. de 1991 25ª / 322 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 116-02","Fecha Etapa Informe Documento
+29 de Ago. de 1990 Segundo trámite constitucional C.Diputados Primer informe de comisión de Defensa Nacional Ver
+07 de Ago. de 1990 Primer trámite constitucional Senado Primer informe de comisión de Defensa Nacional Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 116-02","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 116-02","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 116-02","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 116-02","No record","Veto emmEnd"

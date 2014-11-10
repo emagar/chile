@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 4546-07","Legislatura: 354
+Fecha de ingreso: martes 03 de octubre de 2006
+Estado: Segundo trámite constitucional .
+Numero de boletín: 4546-07
+Materia: Perros Domésticos,Código Penal
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 02:59:38
+* * Hitos de tramitación * *
+"emmStart Hitos 4546-07","Fecha Sesión Etapa Sub-etapa Documento
+03 de Oct. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Oct. de 2006 78ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+09 de Nov. de 2006 96ª / 354 Primer trámite constitucional / C. Diputados Comisión de Recursos Naturales solicita que proyecto le sea remitido. Sala acuerda que primero lo vea Constitución y luego Recursos Naturales. Ver
+09 de Nov. de 2006   Primer trámite constitucional / C. Diputados Oficio Nº 6468. Se acuerda remitir el proyecto a la Comisión de Recursos Naturales uva vez que haya sido informado por la de Constitución, Legislación y Justicia Ver
+21 de Nov. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver
+02 de May. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de May. de 2007 22ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+04 de Sep. de 2007 72ª / 355 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+04 de Sep. de 2007   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+11 de Sep. de 2007 51ª / 355 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4546-07","Fecha Etapa Informe Documento
+02 de May. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver
+21 de Nov. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4546-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4546-07","Nombre Región Distrito Partido
+Enrique Estay Peñaloza IX Región de la Araucanía N°49 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4546-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+72   86 0 2 32 Aprobado Sala Ver detalle votación
+38 Votación General 7 0 0 6   Recursos Naturales Ver detalle votación
+48 Votación General 8 0 0 5   Constitución Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4546-07","No record","Veto emmEnd"

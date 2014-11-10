@@ -1,0 +1,63 @@
+table ult dpub
+
+--------------+-----------
+              | Publicada 
+       ultacc |    0     1
+--------------+-----------
+    Archivado |  563      
+   En tramite |  719      
+  Inadmisible |    8      
+    Inconstit |    2      
+          Ley |   17   678
+    Rechazado |   71      
+Reglam. aprob |   25      
+     Retirado |   85      
+   Trat. intl |  270      
+--------------+-----------
+
+. *17 leyes no publicadas: vetos sin insistencia o tribunal las declara inconst
+> itucionales
+. log off
+
+. table dret dmen, row col missing
+
+----------+--------------------
+          |      dmensaje      
+   dretir |     0      1  Total
+----------+--------------------
+        0 |  1259   1094   2353
+        1 |    23     62     85
+          | 
+    Total |  1282   1156   2438
+----------+--------------------
+
+. log off
+
+
+. table dret dmen, c(freq mean durat sd durat min durat max durat) row col
+
+----------+-----------------------------
+          |           dmensaje          
+   dretir |        0         1     Total
+----------+-----------------------------
+        0 |     1259      1094      2353        Cell contents: freq
+          | 1353.122  682.8821  1041.501                       mean durat
+          | 831.3497   743.666  859.3433                       sd durat
+          |        2         4         2                       min durat
+          |     3531      3460      3531                       max durat
+          | 
+        1 |       23        62        85
+          | 947.3913  955.6451  953.4117
+          | 1118.281  1101.085  1099.075
+          |        8         0         0
+          |     3509      3496      3509
+          | 
+    Total |     1282      1156      2438
+          | 1345.842  697.5112   1038.43
+          | 838.5182   768.871   868.684
+          |        2         0         0
+          |     3531      3496      3531
+----------+-----------------------------
+
+. 
+log off

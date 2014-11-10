@@ -1,0 +1,30 @@
+* * Bill summary * *
+"emmStart Summary 1606-05","Legislatura: 331
+Fecha de ingreso: martes 30 de mayo de 1995
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 1606-05
+Materia: Fondo De Garantía Para Pequeñas Empresas,Pequeña Y Mediana Empresa
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 11:17:44
+* * Hitos de tramitación * *
+"emmStart Hitos 1606-05","Fecha Sesión Etapa Sub-etapa Documento
+30 de May. de 1995   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+30 de May. de 1995 2ª / 331 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+12 de Mar. de 2002   Tramitación terminada / S.E. el Presidente de la República retira el proyecto de su tramitación.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1606-05","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1606-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+30 de May. de 1995   Simple    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1606-05","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1606-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1606-05","No record","Veto emmEnd"

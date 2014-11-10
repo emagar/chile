@@ -1,0 +1,60 @@
+* * Bill summary * *
+"emmStart Summary 3014-13","Legislatura: 347
+Fecha de ingreso: martes 30 de julio de 2002
+Estado: Tramitación terminada (Ley Nº 20.178 - D.Oficial 25/04/2007)
+Numero de boletín: 3014-13
+Materia: Deportes
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 20:30:59
+* * Hitos de tramitación * *
+"emmStart Hitos 3014-13","Fecha Sesión Etapa Sub-etapa Documento
+30 de Jul. de 2002   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+30 de Jul. de 2002 21ª / 347 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+08 de Jul. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+29 de Jul. de 2003 20ª / 349 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+07 de Ago. de 2003 27ª / 349 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+12 de Ago. de 2003   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+12 de Ago. de 2003 23ª / 349 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social
+04 de Nov. de 2003   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+04 de Nov. de 2003 7ª / 350 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Nov. de 2003 11ª / 350 Segundo trámite constitucional / Senado Discusión general Ver
+09 de Dic. de 2003   Segundo trámite constitucional / Senado Boletín de indicaciones
+14 de Sep. de 2004   Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 352
+03 de Ene. de 2007   Segundo trámite constitucional / Senado Oficio Nº T/01/2007. Solicita reapertura del plazo para presentar indicaciones, hasta el día lunes 15 de enero del año en curso, a las 12:00 horas. Ver
+03 de Ene. de 2007 81ª / 354 Segundo trámite constitucional / Senado Cuenta de Oficio N°T/01/2007 de la Comisión de Trabajo y Previsión Social con el que solicita la reapertura de plazo de indicaciones hasta el 15 de enero de 2007, a las 12 horas. Se accede a lo solicitado.
+03 de Ene. de 2007 81ª / 354 Segundo trámite constitucional / Senado Se acuerda abrir nuevo plazo de indicaciones hasta las 12 horas del 15/01/07.
+16 de Ene. de 2007 84ª / 354 Segundo trámite constitucional / Senado Se acuerda abrir nuevo plazo de indicaciones hasta las 12 horas del lunes 22/01/2007, para ser emtregadas en la Secretaría de la Comisión.
+28 de Feb. de 2007   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+06 de Mar. de 2007 89ª / 354 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+07 de Mar. de 2007 90ª / 354 Segundo trámite constitucional / Senado Aprobadas las modificaciones, con excepción del artículo 150bisH, para discutir el cual,deberán destinarse 30 minutos en la próxima sesión. Ver
+13 de Mar. de 2007 1ª / 355 Segundo trámite constitucional / Senado Discusión particular Ver
+13 de Mar. de 2007   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+14 de Mar. de 2007 2ª / 355 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver Ver
+20 de Mar. de 2007 4ª / 355 Tercer trámite constitucional / C. Diputados Discusión única Ver
+20 de Mar. de 2007   Tercer trámite constitucional / C. Diputados Oficio Nº 6689, que comunica aprobación de modificaciones Ver
+20 de Mar. de 2007   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+21 de Mar. de 2007 5ª / 355 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 6689, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3014-13","Fecha Etapa Informe Documento
+28 de Feb. de 2007 Segundo trámite constitucional Senado Segundo informe de comisión de Trabajo y Previsión Social Ver
+04 de Nov. de 2003 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver
+08 de Jul. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3014-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3014-13","Nombre Región Distrito Partido
+Ministerio de Trabajo y Previsión Social      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3014-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+27   80 0 0 0   Sala Ver detalle votación
+4 Modificaciones introducidas en el Senado. 101 0 0 0 Aprobado Sala Ver detalle votación
+27 152-C, incisos primero y segundo 74 0 1 3   Sala Ver detalle votación
+27 Indicación Sr. Robles al artículo 152-C 28 44 4 0   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3014-13","No record","Veto emmEnd"

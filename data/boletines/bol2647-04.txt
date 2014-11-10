@@ -1,0 +1,48 @@
+* * Bill summary * *
+"emmStart Summary 2647-04","Legislatura: 343
+Fecha de ingreso: miércoles 03 de enero de 2001
+Estado: Tramitación terminada (Ley Nº 19.715 - D.Oficial 31/01/2001)
+Numero de boletín: 2647-04
+Materia: Profesionales De La Educación
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 03-11-2014 07:21:27
+* * Hitos de tramitación * *
+"emmStart Hitos 2647-04","Fecha Sesión Etapa Sub-etapa Documento
+03 de Ene. de 2001   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+03 de Ene. de 2001 20ª / 343 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+17 de Ene. de 2001   Primer trámite constitucional / Senado Primer informe de comisión Ver
+17 de Ene. de 2001   Primer trámite constitucional / Senado Primer informe de comisión Ver
+17 de Ene. de 2001 24ª / 343 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+17 de Ene. de 2001 24ª / 343 Primer trámite constitucional / Senado Discusión general Ver
+17 de Ene. de 2001 24ª / 343 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+17 de Ene. de 2001 37ª / 343 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+18 de Ene. de 2001 38ª / 343 Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver Ver
+18 de Ene. de 2001 38ª / 343 Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver Ver
+18 de Ene. de 2001 38ª / 343 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+18 de Ene. de 2001 38ª / 343 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+18 de Ene. de 2001   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+23 de Ene. de 2001 25ª / 343 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+23 de Ene. de 2001 25ª / 343 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2647-04","Fecha Etapa Informe Documento
+18 de Ene. de 2001 Segundo trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+18 de Ene. de 2001 Segundo trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver
+17 de Ene. de 2001 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+17 de Ene. de 2001 Primer trámite constitucional Senado Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2647-04","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+16 de Ene. de 2001   Suma 260-343  
+03 de Ene. de 2001 16 de Ene. de 2001 Suma 223-343 260-343","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2647-04","Nombre
+Ministerio de Educación","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2647-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2647-04","No record","Veto emmEnd"

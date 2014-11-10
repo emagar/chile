@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 181-02","Legislatura: 321
+Fecha de ingreso: miércoles 10 de octubre de 1990
+Estado: Tramitación terminada (Ley Nº 19.015 - D.Oficial 04/01/1991)
+Numero de boletín: 181-02
+Materia: Armas,Control De Armamentos
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 06:53:26
+* * Hitos de tramitación * *
+"emmStart Hitos 181-02","Fecha Sesión Etapa Sub-etapa Documento
+10 de Oct. de 1990   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+16 de Oct. de 1990 5ª / 321 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a la Comisión de Defensa Nacional.
+30 de Oct. de 1990 7ª / 321 Primer trámite constitucional / Senado Primer informe de comisión Ver
+30 de Oct. de 1990 7ª / 321 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+31 de Oct. de 1990 8ª / 321 Primer trámite constitucional / Senado Discusión general Ver
+06 de Nov. de 1990 10ª / 321 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+06 de Nov. de 1990 9ª / 321 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+05 de Dic. de 1990 21ª / 321 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+05 de Dic. de 1990 21ª / 321 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 181-02","Fecha Etapa Informe Documento
+30 de Oct. de 1990 Primer trámite constitucional Senado Primer informe de comisión de Defensa Nacional Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 181-02","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 181-02","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 181-02","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 181-02","No record","Veto emmEnd"

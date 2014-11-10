@@ -1,0 +1,63 @@
+* * Bill summary * *
+"emmStart Summary 2074-15","Legislatura: 335
+Fecha de ingreso: miércoles 13 de agosto de 1997
+Estado: Tramitación terminada (Ley Nº 19.593 - D.Oficial 17/11/1998)
+Numero de boletín: 2074-15
+Materia: Taxis
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 18:22:00
+* * Hitos de tramitación * *
+"emmStart Hitos 2074-15","Fecha Sesión Etapa Sub-etapa Documento
+13 de Ago. de 1997   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Ago. de 1997 32ª / 335 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+06 de Ene. de 1998 21ª / 336 Primer trámite constitucional / C. Diputados S.E. el Pdte. de la Rep. incluye el proy. en la legisl. extraord. 336. (Mensaje 194-336) Ver
+17 de Mar. de 1998   Primer trámite constitucional / C. Diputados S.E. el Pdte. de la República incluye el proyecto en la Legislatura Extraordinaria 337
+04 de Jun. de 1998   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Jun. de 1998 4ª / 338 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+10 de Jun. de 1998 7ª / 338 Primer trámite constitucional / C. Diputados Discusión general Ver
+10 de Jun. de 1998   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+16 de Jun. de 1998 6ª / 338 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+22 de Jul. de 1998   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Transportes y Telecomunicaciones Ver
+05 de Ago. de 1998   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+11 de Ago. de 1998 19ª / 338 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+06 de Oct. de 1998 1ª / 339 Segundo trámite constitucional / Senado S.E.El Presidente de la Republica incluye el proyecto en la Convocatoria Extraodinaria 339 Ver
+04 de Nov. de 1998   Segundo trámite constitucional / Senado Segunda Discusión
+10 de Nov. de 1998 7ª / 339 Segundo trámite constitucional / Senado Discusión general Ver
+11 de Nov. de 1998   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+11 de Nov. de 1998   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+12 de Nov. de 1998 16ª / 339 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+17 de Nov. de 1998   Tramitación terminada / LEY Nº 19.593 (D.O. del 17/11/1998)","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2074-15","Fecha Etapa Informe Documento
+05 de Ago. de 1998 Segundo trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver
+22 de Jul. de 1998 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+04 de Jun. de 1998 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2074-15","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+14 de Jul. de 1998 04 de Ago. de 1998 Suma 140798-338 040898
+30 de Jun. de 1998 14 de Jul. de 1998 Suma 300698-338 140798-338
+16 de Jun. de 1998 30 de Jun. de 1998 Suma 160698-338 300698-338
+02 de Jun. de 1998 12 de Jun. de 1998 Suma 13-338 CADUCADO
+02 de Sep. de 1997 08 de Sep. de 1997 Discusión inmediata 209-335 220-335","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2074-15","Nombre Región Distrito Partido
+Mariana Aylwin Oyarzún Región N° Partido Demócrata Cristiano
+Andrés Chadwick Piñera Región N°33 Unión Demócrata Independiente
+Rubén Gajardo Chacón Región N°4 Partido Demócrata Cristiano
+Harry Jürgensen Caesar Región N° Renovación Nacional
+Pablo Longueira Montes Región N°30 Unión Demócrata Independiente
+Carlos Montes Cisternas Región N°26 Partido Socialista
+José Miguel Ortiz Novoa Región N°44 Partido Demócrata Cristiano
+Andrés Palma Irarrázabal Región N°25 Partido Demócrata Cristiano
+Joaquín Palma Irarrázaval Región N°7 Partido Demócrata Cristiano
+Ramón Pérez Opazo Región N°2 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2074-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2074-15","No record","Veto emmEnd"

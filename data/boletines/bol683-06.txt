@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 683-06","Legislatura: 323
+Fecha de ingreso: martes 12 de mayo de 1992
+Estado: Archivado .
+Numero de boletín: 683-06
+Materia: Procedimiento Administrativo
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 21:34:12
+* * Hitos de tramitación * *
+"emmStart Hitos 683-06","Fecha Sesión Etapa Sub-etapa Documento
+12 de May. de 1992   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+12 de May. de 1992 58ª / 323 Primer trámite constitucional / Senado Cuenta de proyecto
+03 de Sep. de 1993   Primer trámite constitucional / Senado Primer informe de comisión Ver
+07 de Sep. de 1993 22ª / 326 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+05 de Oct. de 1993 1ª / 327 Primer trámite constitucional / Senado S.E el Presidente de la República incluye el proyecto en la Convocatoria a la Legislatura Extraordinaria Ver
+10 de Nov. de 1993 13ª / 327 Primer trámite constitucional / Senado Acuerdo de Comités. Por acuerdo de Comités ratificado por la sala, el proyecto se tratará en la sesión del día Martes 16 de Noviembre. Ver
+17 de Nov. de 1993 15ª / 327 Primer trámite constitucional / Senado Discusión general. Aprobado en general, se fija plazo para indicaciones hasta el 20 de diciembre. Ver
+17 de Nov. de 1993 15ª / 327 Primer trámite constitucional / Senado Boletín de indicaciones
+05 de Jun. de 2000   Primer trámite constitucional / Senado Oficio Nº 54-342. de S.E., el Presidente de la República, con el cual solicita el archivo del presente proyecto. Ver
+06 de Jun. de 2000 1ª / 342 Primer trámite constitucional / Senado Cuenta del Oficio del Ejecutivo.Se accede a lo solicitado.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 683-06","Fecha Etapa Informe Documento
+03 de Sep. de 1993 Primer trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 683-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Ene. de 1994 09 de Mar. de 2019 Simple 040194 090394
+14 de Dic. de 1993 04 de Ene. de 1994 Simple 141293 040194
+16 de Nov. de 1993 14 de Dic. de 1993 Simple 161196 141293
+08 de Jun. de 1993 07 de Jul. de 1993 Simple 080693 070793
+04 de May. de 1993 20 de May. de 1993 Simple 040593 CADUCADO
+12 de May. de 1992 16 de Sep. de 1998 Sin urgencia   CADUCADO","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 683-06","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 683-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 683-06","No record","Veto emmEnd"

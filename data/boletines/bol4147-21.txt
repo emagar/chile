@@ -1,0 +1,54 @@
+* * Bill summary * *
+"emmStart Summary 4147-21","Legislatura: 354
+Fecha de ingreso: martes 11 de abril de 2006
+Estado: Tramitación terminada (Ley Nº 20.106 - D.Oficial 29/04/2006)
+Numero de boletín: 4147-21
+Materia: Registro De Pescadores Artesanales,Pesca Artesanal
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 22:17:51
+* * Hitos de tramitación * *
+"emmStart Hitos 4147-21","Fecha Sesión Etapa Sub-etapa Documento
+11 de Abr. de 2006 11ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Pesca, Acuicultura e Intereses Marítimos Ver
+11 de Abr. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+18 de Abr. de 2006 14ª / 354 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+18 de Abr. de 2006 14ª / 354 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 65-354 que hace presente la urgencia Discusión inmediata Ver
+18 de Abr. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de Abr. de 2006 14ª / 354 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+18 de Abr. de 2006   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+18 de Abr. de 2006 8ª / 354 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Intereses Marítimos, Pesca y Acuicultura
+18 de Abr. de 2006   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+19 de Abr. de 2006 9ª / 354 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+19 de Abr. de 2006 9ª / 354 Segundo trámite constitucional / Senado Discusión general Ver
+19 de Abr. de 2006   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+20 de Abr. de 2006 16ª / 354 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver Ver
+20 de Abr. de 2006   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4147-21","Fecha Etapa Informe Documento
+18 de Abr. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Pesca, Acuicultura e Intereses Marítimos Ver
+18 de Abr. de 2006 Segundo trámite constitucional Senado Primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4147-21","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+18 de Abr. de 2006   Discusión inmediata 65-354  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4147-21","Nombre Región Distrito Partido
+Gabriel Ascencio Mansilla X Región de los Lagos N°58 Partido Demócrata Cristiano
+Alfonso De Urresti Longton XIV Región de los Ríos N°53 Partido Socialista
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Iván Norambuena Farías VIII Región del Bío Bío N°46 Unión Demócrata Independiente
+Clemira Pacheco Rivas VIII Región del Bío Bío N°45 Partido Socialista
+Carlos Recondo Lavanderos X Región de los Lagos N°56 Unión Demócrata Independiente
+Jorge Ulloa Aguillón VIII Región del Bío Bío N°43 Unión Demócrata Independiente
+Patricio Vallespín López X Región de los Lagos N°57 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4147-21","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+14 Indicaciones al artículo único: 1) Indicación sustitutiva del Ejecutivo, del siguiente tenor: ""Artículo único.- Suspéndese la vigencia del artículo 50 A de la Ley General de Pesca y Acuicultura, que establece el reemplazo de inscripciones en el Registro Pesquero Artesanal, hasta el 30 de abril de 2007, inclusive. Suspéndese, asimismo, la tramitación de las solicitudes de reemplazo presentadas entre la fecha de publicación de la ley N°19.849 y la de esta Ley."" 2) Indicación de los señores Fernando Meza, Jaime Quintana, Eduardo Díaz y Mario Venegas, para agregar el siguiente inciso segundo: ""Lo anterior no será aplicable a la Novena Región de la Araucanía"". 13 80 0 6 Rechazado Sala Ver detalle votación
+14   109 0 1 1 Aprobado Sala Ver detalle votación
+14 único propuesto por la Comisión. 108 0 0 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4147-21","No record","Veto emmEnd"

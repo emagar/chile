@@ -1,0 +1,54 @@
+* * Bill summary * *
+"emmStart Summary 2130-02","Legislatura: 336
+Fecha de ingreso: lunes 12 de enero de 1998
+Estado: Tramitación terminada (Ley Nº 19.586 - D.Oficial 25/09/1998)
+Numero de boletín: 2130-02
+Materia: Policía De Investigaciones De Chile
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 21:18:27
+* * Hitos de tramitación * *
+"emmStart Hitos 2130-02","Fecha Sesión Etapa Sub-etapa Documento
+12 de Ene. de 1998   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+13 de Ene. de 1998 26ª / 336 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Defensa Nacional
+18 de May. de 1998   Primer trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+22 de Jul. de 1998   Primer trámite constitucional / Senado Primer informe de comisión Ver
+04 de Ago. de 1998 17ª / 338 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+05 de Ago. de 1998 18ª / 338 Primer trámite constitucional / Senado Discusión general Ver
+11 de Ago. de 1998   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+12 de Ago. de 1998 26ª / 338 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Defensa Nacional Ver
+12 de Ago. de 1998 26ª / 338 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Defensa Nacional Ver
+02 de Sep. de 1998   Segundo trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+04 de Sep. de 1998   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de Sep. de 1998 32ª / 338 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+09 de Sep. de 1998 34ª / 338 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+09 de Sep. de 1998   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+09 de Sep. de 1998 29ª / 338 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+09 de Sep. de 1998   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2130-02","Fecha Etapa Informe Documento
+04 de Sep. de 1998 Segundo trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+02 de Sep. de 1998 Segundo trámite constitucional C.Diputados Primer informe de comisión de Defensa Nacional Ver
+22 de Jul. de 1998 Primer trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+18 de May. de 1998 Primer trámite constitucional Senado Primer informe de comisión de Defensa Nacional Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2130-02","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+01 de Sep. de 1998 16 de Sep. de 1998 Suma 134-338 CADUCADO
+04 de Ago. de 1998 01 de Sep. de 1998 Suma 040898 CADUCADO
+01 de Jul. de 1998 04 de Ago. de 1998 Simple 010798-338 040898
+02 de Jun. de 1998 01 de Jul. de 1998 Simple 020698-338 010798-338
+05 de May. de 1998 20 de May. de 1998 Simple 310398-337 CADUCADO
+31 de Mar. de 1998 05 de May. de 1998 Simple 310398-338 310398-337
+13 de Ene. de 1998 10 de Mar. de 1998 Simple 164-336 CADUCADO","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2130-02","Nombre
+Ministerio de Defensa Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2130-02","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2130-02","No record","Veto emmEnd"

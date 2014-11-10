@@ -1,0 +1,31 @@
+* * Bill summary * *
+"emmStart Summary 441-11","Legislatura: 322
+Fecha de ingreso: domingo 04 de agosto de 1991
+Estado: Tramitación terminada (Ley Nº 19.086 - D.Oficial 08/10/1991)
+Numero de boletín: 441-11
+Materia: Remuneraciones Sector Salud
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 17:22:01
+* * Hitos de tramitación * *
+"emmStart Hitos 441-11","Fecha Sesión Etapa Sub-etapa Documento
+04 de Ago. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+14 de Ago. de 1991 30ª / 322 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+12 de Sep. de 1991   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+12 de Sep. de 1991 39ª / 322 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 441-11","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 441-11","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+14 de Ago. de 1991   Suma    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 441-11","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 441-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 441-11","No record","Veto emmEnd"

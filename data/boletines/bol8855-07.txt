@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 8855-07","Legislatura: 361
+Fecha de ingreso: jueves 21 de marzo de 2013
+Estado: Segundo trámite constitucional .
+Numero de boletín: 8855-07
+Materia: Tribunal Calificador De Elecciones
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 07:59:09
+* * Hitos de tramitación * *
+"emmStart Hitos 8855-07","Fecha Sesión Etapa Sub-etapa Documento
+21 de Mar. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+21 de Mar. de 2013 7ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+05 de Abr. de 2013   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Abr. de 2013 11ª / 361 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+30 de Jul. de 2013 50ª / 361 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general y particular a la vez Ver
+30 de Jul. de 2013   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+31 de Jul. de 2013 43ª / 361 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8855-07","Fecha Etapa Informe Documento
+05 de Abr. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8855-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8855-07","Nombre Región Distrito Partido
+Pedro Araya Guerrero II Región de Antofagasta N°4 Partido Regionalista Independiente
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Giovanni Calderón Bassi III Región de Atacama N°6 Unión Demócrata Independiente
+Alberto Cardemil Herrera RM Región Metropolitana N°22 Renovación Nacional
+Edmundo Eluchans Urenda V Región de Valparaíso N°14 Unión Demócrata Independiente
+Felipe Harboe Bascuñán RM Región Metropolitana N°22 Partido Por la Democracia
+Pablo Lorenzini Basso VII Región del Maule N°38 Partido Demócrata Cristiano
+Arturo Squella Ovalle V Región de Valparaíso N°12 Unión Demócrata Independiente
+Marisol Turres Figueroa X Región de los Lagos N°57 Unión Demócrata Independiente
+Felipe Ward Edwards II Región de Antofagasta N°3 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8855-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+50   98 0 1 0 Aprobado Sala Ver detalle votación
+50   96 0 1 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8855-07","No record","Veto emmEnd"

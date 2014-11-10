@@ -1,0 +1,84 @@
+* * Bill summary * *
+"emmStart Summary 3691-05","Legislatura: 352
+Fecha de ingreso: martes 05 de octubre de 2004
+Estado: Tramitación terminada (Ley Nº 19.986 - D.Oficial 07/12/2004)
+Numero de boletín: 3691-05
+Materia: Presupuesto Sector Público
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 07:37:27
+* * Hitos de tramitación * *
+"emmStart Hitos 3691-05","Fecha Sesión Etapa Sub-etapa Documento
+05 de Oct. de 2004   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+05 de Oct. de 2004 1ª / 352 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión Especial Mixta de Presupuesto Ver
+12 de Nov. de 2004   Comisión Mixta Ley de Presupuesto / Senado Informe de comisión Ver
+15 de Nov. de 2004 19ª / 352 Discusión Ley de Presupuesto en Cámara de Origen / C. Diputados Cuenta informe Comisión Mixta Ver
+15 de Nov. de 2004 19ª / 352 Discusión Ley de Presupuesto en Cámara de Origen / C. Diputados Cuenta informe Comisión Mixta Ver
+15 de Nov. de 2004 19ª / 352 Discusión Ley de Presupuesto en Cámara de Origen / C. Diputados Discusión informe de Comisión Mixta Ver
+15 de Nov. de 2004 19ª / 352 Discusión Ley de Presupuesto en Cámara de Origen / C. Diputados Discusión informe de Comisión Mixta Ver
+15 de Nov. de 2004   Discusión Ley de Presupuesto en Cámara de Origen / C. Diputados Oficio de ley a Cámara Revisora Ver
+16 de Nov. de 2004 13ª / 352 Discusión Ley de Presupuesto en Cámara Revisora / Senado Cuenta oficio de la Cámara de Diputados en que comunica aprobación de informe de la Comisión Mixta de Presupuesto.
+16 de Nov. de 2004 13ª / 352 Discusión Ley de Presupuesto en Cámara Revisora / Senado Discusión informe de Comisión Mixta
+16 de Nov. de 2004   Discusión Ley de Presupuesto en Cámara Revisora / Senado Oficio modificaciones a Cámara de Origen Ver
+16 de Nov. de 2004 22ª / 352 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+16 de Nov. de 2004 22ª / 352 Tercer trámite constitucional / C. Diputados Discusión única Ver
+16 de Nov. de 2004   Tercer trámite constitucional / C. Diputados Oficio Nº 5268, que comunica aprobación de modificaciones Ver
+16 de Nov. de 2004 13ª / 352 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 5268, que comunica aprobación de modificaciones Ver
+16 de Nov. de 2004   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+17 de Nov. de 2004 15ª / 352 Tercer trámite constitucional / C. Diputados Cuenta en el Senado del oficio de la Cámara de Diputados en que comunica que ha aprobado las enmiendas propuestas por el Senado. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3691-05","Fecha Etapa Informe Documento
+12 de Nov. de 2004 Comisión Mixta Ley de Presupuesto Senado Informe de comisión Especial Mixta de Presupuestos Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3691-05","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3691-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3691-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+19 Resto de la Partida 05. 72 0 0 2 Aprobado Sala Ver detalle votación
+22   74 1 1 2 Aprobado Sala Ver detalle votación
+19 Indicación 23, sustitutiva del párrafo segundo de la glosa 11, partida 08, capítulo 08, programa 01. 36 40 2 4 Rechazado Sala Ver detalle votación
+19 Indicación 24, para introducir una nueva glosa 12 en partida 08 Ministerio de Hacienda, capítulo 08, programa 01, subtítulo 24, ítem 01 170. 55 17 4 3 Aprobado Sala Ver detalle votación
+19 Indicación 26, sustitutiva de la glosa 04 en la Partida 09 MInisterio de Educación, Capítulo 30, programa 01, becas educación superior. 38 46 0 2 Rechazado Sala Ver detalle votación
+19 Indicación 10, sustitutiva de la letra b) de la glosa 2, partida 08, capítulo 08, programa 01. 37 42 1 3 Rechazado Sala Ver detalle votación
+19 Indicación 16, aditiva de la glosa 08, partida 08, Ministerio de Hacienda. 82 0 1 3 Aprobado Sala Ver detalle votación
+19 Indicación 20, modificatoria de la glosa 10, partida 08, capítulo 08, programa 01. 37 39 3 2 Rechazado Sala Ver detalle votación
+19 Indicación 7, aditiva, en la glosa 10, ítem 397 del programa 01, capítulo 06, partida 07 Ministerio de Economía. 79 0 1 4 Aprobado Sala Ver detalle votación
+19 Indicación 8, para agregar una nueva glosa en la partida 07, capítulo 21, programa 01, ítem 345, Programa de Defensa Jurídica en el Exterior del Comité de Inversiones Extranjeras. 79 0 0 2 Aprobado Sala Ver detalle votación
+19 Votación en general del proyecto, dejándose constancia de que el artículo 3º reunió el quorum constitucional requerido. 90 0 0 0 Aprobado Sala Ver detalle votación
+19 Indicación Nº1, que agrega un inciso final al artículo 14. 84 0 1 5 Aprobado Sala Ver detalle votación
+19 14 80 0 0 2 Aprobado Sala Ver detalle votación
+19 Indicación 2, modifica la glosa 1 en la Partida 05 (Ministerio del Interior), Capítulo 01, Secretaría y Administración General, Programa 05, de Seguridad y Participación Ciudadana. 77 0 3 2 Aprobado Sala Ver detalle votación
+19 Indicación 9, aditiva de la glosa 02, partida 08, capítulo 08, programa 01. 41 12 3 9 Aprobado Sala Ver detalle votación
+19 Resto de la partida 08 Ministerio de Hacienda. 85 0 0 2 Aprobado Sala Ver detalle votación
+19 Resto de la partida 09 Ministerio de Educación. 80 0 2 3 Aprobado Sala Ver detalle votación
+19 Indicación 30, modificatoria de la glosa 01 en la partida 13 Ministerio de Agricultura, capítulo 01, programa 02 Investigación e Innovación Tecnológica. 73 8 2 3 Aprobado Sala Ver detalle votación
+19 Resto de la partida 13 Ministerio de Agricultura. 64 16 5 3 Aprobado Sala Ver detalle votación
+19 Indicación 31, sustitutiva de la glosa 02, partida 16 Ministerio de Salud, capítulo 05, programa 01 Central de Abastecimiento del Sistema Nacional de Servicios de Salud. 68 4 5 1 Aprobado Sala Ver detalle votación
+19 Resto de la partida 16 Ministerio de Salud. 81 0 0 0 Aprobado Sala Ver detalle votación
+19 Indicación 33, para agregar una nueva glosa en la partida 18 Ministerio de Vivienda y Urbanismo, capítulo 01, programa 01, subtítulo 29, ítem 07 Programas Informáticos. 59 3 1 10 Aprobado Sala Ver detalle votación
+19 Indicación 34, aditiva, Partida 18 Ministerio de Vivienda y Urbanismo, Capítulo 01, Programa 01, Subtítulo 24, glosa 06, ítem Transferencias Corrientes. 76 0 0 2 Aprobado Sala Ver detalle votación
+19 Indicación 35, Partida 18 Ministerio de Vivienda y Urbanismo, Capítulo 33, Subtítulo 10. 36 49 0 1 Rechazado Sala Ver detalle votación
+19 Resto de la Partida 23, Ministerio Público. 84 0 0 0 Aprobado Sala Ver detalle votación
+19 Indicación 4, aditiva, en la glosa 04 del Programa 01, capítulo 01, partida 07 Ministerio de Economía. 73 0 1 7 Aprobado Sala Ver detalle votación
+19 Indicación 11, aditiva de la letra c) de la glosa 02, en la partida 08 Ministerio de Hacienda. 81 0 1 1 Aprobado Sala Ver detalle votación
+19 Indicación 27, modificatoria de la glosa 07 en la partida 09 MInisterio de Educación, capítulo 30, programa 01 Fondos Solidarios de Crédito Universitario. 36 45 0 2 Rechazado Sala Ver detalle votación
+19 Indicación 28, sustitutiva del ítem 02-101, partida 11 Ministerio de Defensa Nacional, Capítulo 09, subtítulo 13, transferencias para gasto de capital. 36 48 0 0 Rechazado Sala Ver detalle votación
+19 Indicación 29, modificatoria del ítem 02 en la partida 11 Ministerio de Defensa Nacional, capítulo 09, subtítulo 31 iniciativas de inversión. 36 49 0 0 Rechazado Sala Ver detalle votación
+19 Partida 11, Ministerio de Defensa Nacional. 82 0 0 1 Aprobado Sala Ver detalle votación
+19 Resto de la partida 18 Ministerio de Vivienda y Urbanismo. 74 0 1 4 Aprobado Sala Ver detalle votación
+19 Indicación 38, aditiva, en la partida 19 Ministerio de Transportes y Telecomunicaciones, Capítulo 02, Programa 01, Subtítulo 05, ítem 002 programa de fortalecimiento de la estrategia digital en Chile. 76 2 1 3 Aprobado Sala Ver detalle votación
+19 Resto de la partida 19 MInisterio de Transportes y Telecomunicaciones. 77 0 2 2 Aprobado Sala Ver detalle votación
+19 Partida 22 Ministerio Secretaría General de la Presidencia. 78 1 0 3 Aprobado Sala Ver detalle votación
+19 Indicación 41, Partida 23 Ministerio Público, Capítulo 01, Programa 01, Subtítulo 29, ítem 06 Equipos Informáticos 76 2 1 3 Aprobado Sala Ver detalle votación
+19 Indicación 43, Partida 50 Tesoro Público, Capítulo 01, Programa 02, Subtítulo 24, ítem 01, glosa 02,09. 80 0 5 1 Aprobado Sala Ver detalle votación
+19 Resto de la partida 50 Tesoro Público. 81 0 2 2 Aprobado Sala Ver detalle votación
+19 Partida 06, Ministerio de Relaciones Exteriores. 84 0 0 1 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3691-05","No record","Veto emmEnd"

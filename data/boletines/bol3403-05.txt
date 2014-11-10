@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 3403-05","Legislatura: 350
+Fecha de ingreso: martes 04 de noviembre de 2003
+Estado: Archivado .
+Numero de boletín: 3403-05
+Materia: Juegos De Azar
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 02:22:04
+* * Hitos de tramitación * *
+"emmStart Hitos 3403-05","Fecha Sesión Etapa Sub-etapa Documento
+04 de Nov. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Nov. de 2003 14ª / 350 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+05 de May. de 2005   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+10 de May. de 2005 72ª / 352 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+20 de Dic. de 2005 62ª / 353 Primer trámite constitucional / C. Diputados Discusión general. Queda pendiente Pendiente la votación Ver Ver
+05 de May. de 2010   Primer trámite constitucional / C. Diputados Archivado Swe solicita archivo por rechazo de simple mayoría en Comisión.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3403-05","Fecha Etapa Informe Documento
+05 de May. de 2005 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3403-05","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3403-05","Nombre Región Distrito Partido
+Pedro Araya Guerrero II Región de Antofagasta N°4 Partido Demócrata Cristiano
+Eliana Caraball Martínez RM Región Metropolitana N°27 Partido Demócrata Cristiano
+Camilo Escalona Medina VIII Región del Bío Bío N°46 Partido Socialista
+Enrique Jaramillo Becker X Región de los Lagos N°54 Partido Por la Democracia
+María Eugenia Mella Gajardo V Región de Valparaíso N°10 Partido Demócrata Cristiano
+Sergio Ojeda Uribe X Región de los Lagos N°55 Partido Demócrata Cristiano
+José Miguel Ortiz Novoa VIII Región del Bío Bío N°44 Partido Demócrata Cristiano
+Alberto Robles Pantoja III Región de Atacama N°6 Partido Radical Social Demócrata
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Partido Demócrata Cristiano
+Patricio Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3403-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3403-05","No record","Veto emmEnd"

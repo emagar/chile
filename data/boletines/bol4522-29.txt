@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 4522-29","Legislatura: 354
+Fecha de ingreso: miércoles 13 de septiembre de 2006
+Estado: Segundo trámite constitucional .
+Numero de boletín: 4522-29 Refundido con: 4871-29,7230-29,7378-29,5519-29,4783-29,3455-04,6143-04
+Materia: Deportes,Reforma De Estatutos,Regimen De Garantia De Aportes En Deporte,Organizaciones Deportivas
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 02:42:33
+* * Hitos de tramitación * *
+"emmStart Hitos 4522-29","Fecha Sesión Etapa Sub-etapa Documento
+13 de Sep. de 2006 75ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión Especial de Deportes Ver
+13 de Sep. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+30 de Nov. de 2010   Primer trámite constitucional / C. Diputados Oficio N°088-2010. Oficio de la Comisión Especial de Deportes, por el cual solicita el acuerdo de la Sala para refundir 7 proyectos de ley. Bol. 3455-04, 4522-29, 4783-29, 4871-29, 5519-29, 6143-04 y 7230-29. Ver
+22 de Jun. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de Jul. de 2011 53ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+19 de Jul. de 2011 58ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 320-359 que hace presente la urgencia Simple Ver
+11 de Ago. de 2011 69ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+16 de Ago. de 2011   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+30 de Ago. de 2011 46ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 360-359 que retira y hace presente la urgencia Simple
+13 de Sep. de 2011 52ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 380-359 que retira la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4522-29","Fecha Etapa Informe Documento
+22 de Jun. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Deportes Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4522-29","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+30 de Ago. de 2011 13 de Sep. de 2011 Simple 360-359 380-359
+19 de Jul. de 2011 30 de Ago. de 2011 Simple 320-359 360-359","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4522-29","Nombre Región Distrito Partido
+Pedro Araya Guerrero II Región de Antofagasta N°4 Independientes
+Alfonso De Urresti Longton XIV Región de los Ríos N°53 Partido Socialista
+Rodrigo González Torres V Región de Valparaíso N°14 Partido Por la Democracia
+Amelia Herrera Silva V Región de Valparaíso N°12 Renovación Nacional
+Jorge Insunza Gregorio de las Heras RM Región Metropolitana N°28 Partido Por la Democracia
+Adriana Muñoz D'Albora IV Región de Coquimbo N°9 Partido Por la Democracia
+Iván Paredes Fierro XV Región Arica y Parinacota N°1 Partido Socialista
+Jaime Quintana Leal IX Región de la Araucanía N°49 Partido Por la Democracia
+Esteban Valenzuela Van Treek VI Región del Libertador Bernardo O' Higgins N°32 Independientes
+Samuel Venegas Rubio V Región de Valparaíso N°15 Independientes","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4522-29","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4522-29","No record","Veto emmEnd"

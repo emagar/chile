@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 278-09","Legislatura: 321
+Fecha de ingreso: jueves 17 de enero de 1991
+Estado: Tramitación terminada (Ley Nº 19.061 - D.Oficial 12/06/1991)
+Numero de boletín: 278-09
+Materia: Obras De Riego Y Drenaje
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 13:56:07
+* * Hitos de tramitación * *
+"emmStart Hitos 278-09","Fecha Sesión Etapa Sub-etapa Documento
+07 de May. de 1990   Comisión Mixta por rechazo de modificaciones / Senado Oficio integrantes de Comisión Mixta Ver
+17 de Ene. de 1991 30ª / 321 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+17 de Ene. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+15 de Mar. de 1991   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+21 de Mar. de 1991   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Abr. de 1991 42ª / 321 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Obras Públicas y a Comisión de Hacienda
+16 de Abr. de 1991   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+24 de Abr. de 1991   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+07 de May. de 1991 48ª / 321 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión. de Obras Públicas y de Hacienda. Queda para Tabla.
+08 de May. de 1991 49ª / 321 Segundo trámite constitucional / Senado Discusión única
+08 de May. de 1991   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+13 de May. de 1991   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+05 de Jun. de 1991 2ª / 322 Segundo trámite constitucional / Senado Cuenta de oficio de la Cámara, con el que comunica aprobación de las enmiendas. Se manda archivar. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 278-09","Fecha Etapa Informe Documento
+24 de Abr. de 1991 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+16 de Abr. de 1991 Segundo trámite constitucional Senado Primer informe de comisión de Obras Públicas Ver
+21 de Mar. de 1991 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+15 de Mar. de 1991 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 278-09","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+17 de Ene. de 1991   Simple    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 278-09","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 278-09","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 278-09","No record","Veto emmEnd"

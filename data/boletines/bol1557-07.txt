@@ -1,0 +1,35 @@
+* * Bill summary * *
+"emmStart Summary 1557-07","Legislatura: 330
+Fecha de ingreso: miércoles 05 de abril de 1995
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 1557-07
+Materia: Cuentas Corrientes
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 10:39:38
+* * Hitos de tramitación * *
+"emmStart Hitos 1557-07","Fecha Sesión Etapa Sub-etapa Documento
+05 de Abr. de 1995 49ª / 330 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+05 de Abr. de 1995   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+23 de May. de 1995   Primer trámite constitucional / Senado Primer informe de comisión Ver
+06 de Jun. de 1995 4ª / 331 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+07 de Jun. de 1995 24ª / 331 Primer trámite constitucional / Senado Discusión general. Segunda Discusión Ver
+20 de Jul. de 1995 20ª / 330 Tramitación terminada / Se acuerda el aplazamiento de la discusión. Ver
+08 de Ago. de 1995 24ª / 331 Primer trámite constitucional / Senado Discusión general Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1557-07","Fecha Etapa Informe Documento
+23 de May. de 1995 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1557-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1557-07","Nombre
+Miguel Otero Lathrop","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1557-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1557-07","No record","Veto emmEnd"

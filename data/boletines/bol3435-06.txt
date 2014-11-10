@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 3435-06","Legislatura: 350
+Fecha de ingreso: miércoles 10 de diciembre de 2003
+Estado: Primer trámite constitucional .
+Numero de boletín: 3435-06
+Materia: Municipios
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 02:42:26
+* * Hitos de tramitación * *
+"emmStart Hitos 3435-06","Fecha Sesión Etapa Sub-etapa Documento
+10 de Dic. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Dic. de 2003 32ª / 350 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+01 de Ago. de 2006 53ª / 354 Primer trámite constitucional / C. Diputados Pendiente solicitud de archivo. Ver
+04 de Ene. de 2007   Primer trámite constitucional / C. Diputados Oficio Nº 6580. Se acuerda acceder al archivo del proyecto solicitado por la Comisión Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3435-06","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3435-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3435-06","Nombre Región Distrito Partido
+Pablo Galilea Carrillo XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Renovación Nacional
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Lily Pérez San Martín RM Región Metropolitana N°26 Renovación Nacional
+Víctor Pérez Varela VIII Región del Bío Bío N°47 Unión Demócrata Independiente
+Carlos Recondo Lavanderos X Región de los Lagos N°56 Unión Demócrata Independiente
+Gonzalo Uriarte Herrera RM Región Metropolitana N°31 Unión Demócrata Independiente
+Gastón Von Mühlenbrock Zamora X Región de los Lagos N°54 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3435-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3435-06","No record","Veto emmEnd"

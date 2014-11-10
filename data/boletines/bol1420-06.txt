@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 1420-06","Legislatura: 330
+Fecha de ingreso: martes 25 de octubre de 1994
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 1420-06
+Materia: Parlamentarios,Partidos Políticos,Votación
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 08:52:27
+* * Hitos de tramitación * *
+"emmStart Hitos 1420-06","Fecha Sesión Etapa Sub-etapa Documento
+25 de Oct. de 1994   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+25 de Oct. de 1994 8ª / 330 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización
+17 de May. de 1995 63ª / 330 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+17 de May. de 1995 63ª / 330 Primer trámite constitucional / Senado Primer informe de comisión Ver
+30 de May. de 1995 2ª / 331 Tramitación terminada / Queda pendiente la discusión. Ver
+07 de Jun. de 1995 5ª / 331 Primer trámite constitucional / Senado Discusión general. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento Ver
+04 de Jul. de 1995   Primer trámite constitucional / Senado Primer informe de comisión Ver
+04 de Jul. de 1995 11ª / 331 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+18 de Oct. de 1995 7ª / 332 Primer trámite constitucional / Senado Discusión general Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1420-06","Fecha Etapa Informe Documento
+04 de Jul. de 1995 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+17 de May. de 1995 Primer trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1420-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1420-06","Nombre
+Eugenio Cantuarias Larrondo
+Ricardo Núñez Muñoz
+Mario Ríos Santander","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1420-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1420-06","No record","Veto emmEnd"

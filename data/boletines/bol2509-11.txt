@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 2509-11","Legislatura: 342
+Fecha de ingreso: jueves 08 de junio de 2000
+Estado: Archivado .
+Numero de boletín: 2509-11
+Materia: Medicina,Odontología
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 01:13:45
+* * Hitos de tramitación * *
+"emmStart Hitos 2509-11","Fecha Sesión Etapa Sub-etapa Documento
+08 de Jun. de 2000   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+08 de Jun. de 2000 3ª / 342 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver
+14 de Ago. de 2007 65ª / 355 Primer trámite constitucional / C. Diputados Comisión de Salud solicita archivo de proyecto. NO HUBO PRONUNCIAMIENTO. Ver
+06 de May. de 2010   Primer trámite constitucional / C. Diputados Archivado Comisión Salud solicita archivo por estar mas de dos años sin tramitación.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2509-11","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2509-11","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2509-11","Nombre Región Distrito Partido
+Sergio Aguiló Melo VII Región del Maule N°37 Partido Socialista
+Isabel Allende Bussi RM Región Metropolitana N°29 Partido Socialista
+Patricio Cornejo Vidaurrázaga V Región de Valparaíso N°11 Partido Demócrata Cristiano
+Tomás Jocelyn-Holt Letelier RM Región Metropolitana N°24 Partido Demócrata Cristiano
+Patricio Melero Abaroa RM Región Metropolitana N°16 Unión Demócrata Independiente
+Iván Moreira Barros RM Región Metropolitana N°27 Unión Demócrata Independiente
+Osvaldo Palma Flores VII Región del Maule N°39 Renovación Nacional
+Fanny Pollarolo Villa II Región de Antofagasta N°3 Partido Socialista
+Exequiel Silva Ortíz X Región de los Lagos N°53 Partido Demócrata Cristiano
+Salvador Urrutia Cárdenas I Región de Tarapacá N°1 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2509-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2509-11","No record","Veto emmEnd"

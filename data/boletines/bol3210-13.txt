@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 3210-13","Legislatura: 348
+Fecha de ingreso: miércoles 26 de marzo de 2003
+Estado: Tramitación terminada (Ley Nº 19.921 - D.Oficial 20/12/2003)
+Numero de boletín: 3210-13
+Materia: Feriados
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 04-11-2014 00:23:55
+* * Hitos de tramitación * *
+"emmStart Hitos 3210-13","Fecha Sesión Etapa Sub-etapa Documento
+26 de Mar. de 2003   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+26 de Mar. de 2003 36ª / 348 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social
+31 de Jul. de 2003   Primer trámite constitucional / Senado Primer informe de comisión Ver
+05 de Ago. de 2003 19ª / 349 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Ago. de 2003   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+12 de Ago. de 2003 24ª / 349 Primer trámite constitucional / Senado Discusión general Ver
+13 de Ago. de 2003 29ª / 349 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+14 de Oct. de 2003   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+28 de Oct. de 2003 11ª / 350 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de Nov. de 2003 20ª / 350 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+13 de Nov. de 2003   Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen. Oficio N°4636. Ver
+19 de Nov. de 2003 13ª / 350 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+02 de Dic. de 2003 14ª / 350 Tercer trámite constitucional / Senado Discusión única
+03 de Dic. de 2003   Tercer trámite constitucional / Senado Oficio aprobación de modificaciones de Ref.Constitucional Ver
+03 de Dic. de 2003   Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3210-13","Fecha Etapa Informe Documento
+14 de Oct. de 2003 Segundo trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver
+31 de Jul. de 2003 Primer trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3210-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3210-13","Nombre
+José Ruiz De Giorgio","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3210-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3210-13","No record","Veto emmEnd"

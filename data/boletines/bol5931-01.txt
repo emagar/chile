@@ -1,0 +1,39 @@
+* * Bill summary * *
+"emmStart Summary 5931-01","Legislatura: 356
+Fecha de ingreso: miércoles 18 de junio de 2008
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 5931-01
+Materia: Protección Fitosanitaria
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 08-11-2014 00:54:43
+* * Hitos de tramitación * *
+"emmStart Hitos 5931-01","Fecha Sesión Etapa Sub-etapa Documento
+18 de Jun. de 2008   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+01 de Jul. de 2008 31ª / 356 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Agricultura
+15 de Abr. de 2009   Primer trámite constitucional / Senado Primer informe de comisión Ver
+15 de Abr. de 2009 11ª / 357 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+29 de Abr. de 2009 13ª / 357 Primer trámite constitucional / Senado El Comité Unión Demócrata Independiente solicita segunda discusión. Ver
+05 de May. de 2009 14ª / 357 Primer trámite constitucional / Senado El Comité Partido Socialista solicita aplazamiento de la votación. Ver
+06 de May. de 2009 15ª / 357 Primer trámite constitucional / Senado Discusión general Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5931-01","Fecha Etapa Informe Documento
+15 de Abr. de 2009 Primer trámite constitucional Senado Primer informe de comisión de Agricultura Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5931-01","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5931-01","Nombre
+Camilo Escalona Medina
+Juan Pablo Letelier Morel
+Pedro Muñoz Aburto
+Jaime Naranjo Ortiz
+Alejandro Navarro Brain","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5931-01","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5931-01","No record","Veto emmEnd"

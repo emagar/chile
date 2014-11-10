@@ -1,0 +1,66 @@
+* * Bill summary * *
+"emmStart Summary 761-13","Legislatura: 324
+Fecha de ingreso: martes 04 de agosto de 1992
+Estado: Tramitación terminada (Ley Nº 19.234 - D.Oficial 12/08/1993)
+Numero de boletín: 761-13
+Materia: Exonerados Politicos
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 22:37:00
+* * Hitos de tramitación * *
+"emmStart Hitos 761-13","Fecha Sesión Etapa Sub-etapa Documento
+04 de Ago. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Ago. de 1992 23ª / 324 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+11 de Ago. de 1992   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+13 de Ago. de 1992   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+03 de Sep. de 1992   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de Sep. de 1992 37ª / 324 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+09 de Sep. de 1992 38ª / 324 Primer trámite constitucional / C. Diputados Discusión general Ver
+11 de Nov. de 1992   Primer trámite constitucional / C. Diputados Segundo informe de comisión. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+19 de Nov. de 1992   Primer trámite constitucional / C. Diputados Segundo informe de comisión. Pasa a Comisión de Hacienda Ver
+25 de Nov. de 1992   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+26 de Nov. de 1992 26ª / 325 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+09 de Dic. de 1992 27ª / 325 Primer trámite constitucional / C. Diputados Discusión particular Ver
+09 de Dic. de 1992 28ª / 325 Primer trámite constitucional / C. Diputados Discusión particular Ver
+10 de Dic. de 1992   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+15 de Dic. de 1992 17ª / 325 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social y a Comisión de Hacienda
+04 de May. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+11 de May. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+12 de May. de 1993 51ª / 325 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+18 de May. de 1993 52ª / 325 Segundo trámite constitucional / Senado Discusión general. Aprobado en general , se fija plazo para indicaciones hasta el 3 de junio. Ver
+05 de Jul. de 1993   Segundo trámite constitucional / Senado Segundo informe de comisión. Pasa a Comisión de Hacienda Ver
+12 de Jul. de 1993   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+13 de Jul. de 1993 10ª / 326 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+14 de Jul. de 1993 11ª / 326 Segundo trámite constitucional / Senado Discusión particular Ver
+15 de Jul. de 1993   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen. 4735 Ver
+20 de Jul. de 1993   Segundo trámite constitucional / Senado Oficio N° 4752 del 20-07-93 del Senado, complementario del 4735 Ver
+20 de Jul. de 1993 19ª / 326 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+20 de Jul. de 1993 20ª / 326 Tercer trámite constitucional / C. Diputados Cuenta Oficio N° 4752 del 20-07-93 del Senado, complementario del 4735 Ver
+20 de Jul. de 1993 20ª / 326 Tercer trámite constitucional / C. Diputados Discusión única Ver
+03 de Ago. de 1993 14ª / 326 Tramitación terminada / Cuenta oficio Nº 1297, de la Cámara, comunicando aprobación enmiendas propuestas por el Senado","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 761-13","Fecha Etapa Informe Documento
+12 de Jul. de 1993 Segundo trámite constitucional Senado Segundo informe de comisión de Hacienda Ver
+05 de Jul. de 1993 Segundo trámite constitucional Senado Segundo informe de comisión de Trabajo y Previsión Social Ver
+11 de May. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+04 de May. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver
+25 de Nov. de 1992 Primer trámite constitucional C.Diputados Segundo informe de comisión de Hacienda Ver
+19 de Nov. de 1992 Primer trámite constitucional C.Diputados Segundo informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+11 de Nov. de 1992 Primer trámite constitucional C.Diputados Segundo informe de comisión de Trabajo y Seguridad Social Ver
+03 de Sep. de 1992 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+13 de Ago. de 1992 Primer trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+11 de Ago. de 1992 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 761-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Ago. de 1992   Simple    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 761-13","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 761-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 761-13","No record","Veto emmEnd"

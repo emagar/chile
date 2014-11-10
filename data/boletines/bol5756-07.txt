@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 5756-07","Legislatura: 355
+Fecha de ingreso: jueves 06 de marzo de 2008
+Estado: Primer trámite constitucional .
+Numero de boletín: 5756-07
+Materia: Consentimiento Legal,Matrimonio Ante Entidades Religiosas De Derecho Público,Matrimonio Civil,Servicio De Registro Civil E Identificacion
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 22:54:07
+* * Hitos de tramitación * *
+"emmStart Hitos 5756-07","Fecha Sesión Etapa Sub-etapa Documento
+06 de Mar. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Mar. de 2008 139ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+28 de Oct. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+21 de Nov. de 2008 107ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Constitución. EN TABLA. Ver
+20 de Abr. de 2010 16ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+05 de May. de 2010 20ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+18 de May. de 2010 27ª / 358 Primer trámite constitucional / C. Diputados Comisión de Familia emite opinión respecto de las indicaciones efectuadas al proyecto. A COMISIÓN DE CONSTITUCIÓN. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5756-07","Fecha Etapa Informe Documento
+28 de Oct. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5756-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5756-07","Nombre Región Distrito Partido
+Ramón Barros Montero VI Región del Libertador Bernardo O' Higgins N°35 Unión Demócrata Independiente
+Eugenio Bauer Jouanne VI Región del Libertador Bernardo O' Higgins N°33 Unión Demócrata Independiente
+Sergio Bobadilla Muñoz VIII Región del Bío Bío N°45 Unión Demócrata Independiente
+Julio Dittborn Cordúa RM Región Metropolitana N°23 Unión Demócrata Independiente
+Edmundo Eluchans Urenda V Región de Valparaíso N°15 Unión Demócrata Independiente
+Marcelo Forni Lobos V Región de Valparaíso N°11 Unión Demócrata Independiente
+Felipe Ward Edwards II Región de Antofagasta N°3 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5756-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+20   106 0 1 13 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5756-07","No record","Veto emmEnd"

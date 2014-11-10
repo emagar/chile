@@ -1,0 +1,62 @@
+* * Bill summary * *
+"emmStart Summary 121-08","Legislatura: 320
+Fecha de ingreso: martes 14 de agosto de 1990
+Estado: Tramitación terminada (Ley Nº 19.203 - D.Oficial 24/02/1993)
+Numero de boletín: 121-08
+Materia: Servicios Eléctricos,Servicios Publicos
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 30-10-2014 18:18:28
+* * Hitos de tramitación * *
+"emmStart Hitos 121-08","Fecha Sesión Etapa Sub-etapa Documento
+14 de Ago. de 1990   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+21 de Ago. de 1990 25ª / 320 Primer trámite constitucional / Senado Cuenta de proyecto
+25 de Jul. de 1991 22ª / 322 Primer trámite constitucional / Senado Primer informe de comisión Ver
+25 de Jul. de 1991 22ª / 322 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+06 de Ago. de 1991 23ª / 322 Primer trámite constitucional / Senado Discusión general Ver
+08 de Ago. de 1991 25ª / 322 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+08 de Ago. de 1991 28ª / 322 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+10 de Sep. de 1992 39ª / 324 Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver Ver
+15 de Sep. de 1992 41ª / 324 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+15 de Sep. de 1992 41ª / 324 Segundo trámite constitucional / C. Diputados Discusión general Ver
+15 de Sep. de 1992 41ª / 324 Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+08 de Oct. de 1992 2ª / 325 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+13 de Oct. de 1992 2ª / 325 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+10 de Nov. de 1992 9ª / 325 Discusión veto en Cámara de Origen / Senado Cuenta de observaciones
+10 de Nov. de 1992   Trámite de aprobacion presidencial / Senado Ingreso de observaciones
+26 de Nov. de 1992 14ª / 325 Discusión veto en Cámara de Origen / Senado Informe de comisión Ver
+26 de Nov. de 1992 14ª / 325 Discusión veto en Cámara de Origen / Senado Cuenta informe de comisión
+10 de Dic. de 1992 16ª / 325 Discusión veto en Cámara de Origen / Senado Discusión veto
+15 de Dic. de 1992 17ª / 325 Discusión veto en Cámara de Origen / Senado Oficio aprobación veto a Cámara Revisora
+17 de Dic. de 1992 31ª / 325 Discusión veto en Cámara Revisora / C. Diputados Cuenta oficio aprobación veto Ver
+14 de Ene. de 1993 41ª / 325 Discusión veto en Cámara Revisora / C. Diputados Informe de comisión Ver Ver
+14 de Ene. de 1993 41ª / 325 Discusión veto en Cámara Revisora / C. Diputados Cuenta informe de comisión Ver
+19 de Ene. de 1993 42ª / 325 Discusión veto en Cámara Revisora / C. Diputados Oficio aprobación veto a Cámara de Origen Ver
+19 de Ene. de 1993 42ª / 325 Discusión veto en Cámara Revisora / C. Diputados Discusión veto Ver
+20 de Ene. de 1993 27ª / 325 Trámite finalización en Cámara de Origen / Senado Oficio resultado veto Ver
+20 de Ene. de 1993 27ª / 325 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación veto","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 121-08","Fecha Etapa Informe Documento
+14 de Ene. de 1993 Discusión veto en Cámara Revisora C.Diputados Informe de comisión de Minería y Energía Ver
+26 de Nov. de 1992 Discusión veto en Cámara de Origen Senado Informe de comisión de Minería y Energía Ver
+10 de Sep. de 1992 Segundo trámite constitucional C.Diputados Primer informe de comisión de Minería y Energía Ver
+25 de Jul. de 1991 Primer trámite constitucional Senado Primer informe de comisión de Minería y Energía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 121-08","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 121-08","Nombre
+Arturo Frei Bolivar
+Eduardo Frei Ruiz-Tagle
+Ricardo Hormazábal Sánchez
+Jorge Lavandero Illanes
+Sergio Páez Verdugo","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 121-08","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 121-08","Fecha Mensaje Documento
+10 de Nov. de 1992 185-325 Ver","Veto emmEnd"

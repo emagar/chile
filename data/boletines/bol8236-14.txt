@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 8236-14","Legislatura: 360
+Fecha de ingreso: martes 17 de abril de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8236-14
+Materia: Planificación Territorial
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 23:04:37
+* * Hitos de tramitación * *
+"emmStart Hitos 8236-14","Fecha Sesión Etapa Sub-etapa Documento
+17 de Abr. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+17 de Abr. de 2012 17ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Vivienda y Desarrollo Urbano Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8236-14","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8236-14","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8236-14","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Eduardo Cerda García V Región de Valparaíso N°10 Partido Demócrata Cristiano
+Alfonso De Urresti Longton XIV Región de los Ríos N°53 Partido Socialista
+Edmundo Eluchans Urenda V Región de Valparaíso N°14 Unión Demócrata Independiente
+Javier Hernández Hernández X Región de los Lagos N°55 Unión Demócrata Independiente
+Andrea Molina Oliva V Región de Valparaíso N°10 Unión Demócrata Independiente
+Celso Morales Muñoz VII Región del Maule N°36 Unión Demócrata Independiente
+Leopoldo Pérez Lahsen RM Región Metropolitana N°29 Renovación Nacional
+Guillermo Teillier Del Valle RM Región Metropolitana N°28 Partido Comunista
+Patricio Vallespín López X Región de los Lagos N°57 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8236-14","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8236-14","No record","Veto emmEnd"

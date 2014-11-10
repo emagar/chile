@@ -1,0 +1,51 @@
+* * Bill summary * *
+"emmStart Summary 1957-11","Legislatura: 334
+Fecha de ingreso: jueves 12 de diciembre de 1996
+Estado: Tramitación terminada (Ley Nº 19.490 - D.Oficial 03/01/1997)
+Numero de boletín: 1957-11
+Materia: Personal Del Sector Salud,Funcionarios De La Salud
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 16:48:03
+* * Hitos de tramitación * *
+"emmStart Hitos 1957-11","Fecha Sesión Etapa Sub-etapa Documento
+12 de Dic. de 1996   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Dic. de 1996 28ª / 334 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver
+16 de Dic. de 1996   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+17 de Dic. de 1996   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Dic. de 1996   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Dic. de 1996   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Dic. de 1996   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Dic. de 1996 30ª / 334 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+17 de Dic. de 1996 30ª / 334 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general y particular a la vez interv. los Dip. Walker (inf.Com.Salud), Longueira (inf.Com.Hda), Tohá, Melero, J.Palma, Bayo, S.Urrutia, Valcarce, Escalona, Avila, Errázuriz. Ver Ver
+17 de Dic. de 1996   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora
+18 de Dic. de 1996 17ª / 334 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Salud
+23 de Dic. de 1996   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+26 de Dic. de 1996   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+26 de Dic. de 1996 19ª / 334 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+26 de Dic. de 1996 19ª / 334 Segundo trámite constitucional / Senado Discusión general Ver
+26 de Dic. de 1996   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen
+27 de Dic. de 1996 33ª / 334 Tercer trámite constitucional / C. Diputados Discusión única Ver
+27 de Dic. de 1996 33ª / 334 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+27 de Dic. de 1996   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1957-11","Fecha Etapa Informe Documento
+26 de Dic. de 1996 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+23 de Dic. de 1996 Segundo trámite constitucional Senado Primer informe de comisión de Salud Ver
+17 de Dic. de 1996 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+17 de Dic. de 1996 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+16 de Dic. de 1996 Primer trámite constitucional C.Diputados Primer informe de comisión de Salud Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1957-11","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+12 de Dic. de 1996   Suma    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1957-11","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1957-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1957-11","No record","Veto emmEnd"

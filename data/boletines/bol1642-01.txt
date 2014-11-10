@@ -1,0 +1,31 @@
+* * Bill summary * *
+"emmStart Summary 1642-01","Legislatura: 331
+Fecha de ingreso: martes 04 de julio de 1995
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 1642-01
+Materia: Clasificación De Ganado,Industria De La Carne
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 11:46:07
+* * Hitos de tramitación * *
+"emmStart Hitos 1642-01","Fecha Sesión Etapa Sub-etapa Documento
+04 de Jul. de 1995   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+04 de Jul. de 1995 11ª / 331 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Agricultura
+28 de Jun. de 1996   Tramitación terminada / Oficio Nº223-333. Retira el proyecto de ley Ver
+28 de Ago. de 1996 32ª / 333 Tramitación terminada / Cuenta en el Senado del oficio de S.E. el Presidente de la República, con el que comunica que ha resuelto retirar el proyecto, artículo 132 del Reglamento del Senado. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1642-01","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1642-01","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Jul. de 1995   Simple    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1642-01","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1642-01","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1642-01","No record","Veto emmEnd"

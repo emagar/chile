@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 4794-19","Legislatura: 354
+Fecha de ingreso: miércoles 03 de enero de 2007
+Estado: Archivado .
+Numero de boletín: 4794-19
+Materia: Proveedores Extranjeros De Internet
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 08:35:53
+* * Hitos de tramitación * *
+"emmStart Hitos 4794-19","Fecha Sesión Etapa Sub-etapa Documento
+03 de Ene. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Ene. de 2007 114ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Ciencias y Tecnología Ver
+15 de Jun. de 2010 39ª / 358 Primer trámite constitucional / C. Diputados Comisión de Ciencia solicita archivo. (art. 17 del Reglamento). RECHAZADO). Ver
+15 de Jun. de 2010   Primer trámite constitucional / C. Diputados Archivado Comisión de Ciencia solicita archivo (art. 17 del Reglamento). ACORDADO.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4794-19","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4794-19","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4794-19","Nombre Región Distrito Partido
+Juan Carlos Latorre Carmona VI Región del Libertador Bernardo O' Higgins N°35 Partido Demócrata Cristiano
+Carlos Olivares Zepeda RM Región Metropolitana N°18 Partido Regionalista Independiente
+José Miguel Ortiz Novoa VIII Región del Bío Bío N°44 Partido Demócrata Cristiano
+Iván Paredes Fierro XV Región Arica y Parinacota N°1 Partido Socialista
+María Antonieta Saa Díaz RM Región Metropolitana N°17 Partido Por la Democracia
+Eduardo Saffirio Suárez IX Región de la Araucanía N°50 Partido Demócrata Cristiano
+Gabriel Silber Romo RM Región Metropolitana N°16 Partido Demócrata Cristiano
+Patricio Vallespín López X Región de los Lagos N°57 Partido Demócrata Cristiano
+Patricio Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4794-19","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+32 Votación General 5 0 0 8   Ciencia y Tecnología Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4794-19","No record","Veto emmEnd"

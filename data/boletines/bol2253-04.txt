@@ -1,0 +1,52 @@
+* * Bill summary * *
+"emmStart Summary 2253-04","Legislatura: 339
+Fecha de ingreso: martes 20 de octubre de 1998
+Estado: Tramitación terminada (Ley Nº 19.598 - D.Oficial 09/01/1999)
+Numero de boletín: 2253-04
+Materia: Profesionales De La Educación
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 22:35:52
+* * Hitos de tramitación * *
+"emmStart Hitos 2253-04","Fecha Sesión Etapa Sub-etapa Documento
+20 de Oct. de 1998 7ª / 339 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+20 de Oct. de 1998   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de Oct. de 1998   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+20 de Oct. de 1998   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+20 de Oct. de 1998   Segundo trámite constitucional / Senado S.E.El Presidente de la Republica incluye el proyecto en la Convocatoria Extraodinaria 339
+21 de Oct. de 1998 9ª / 339 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+21 de Oct. de 1998 8ª / 339 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+21 de Oct. de 1998   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+03 de Nov. de 1998 4ª / 339 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología y a la Comisión de Hacienda, en su caso
+11 de Nov. de 1998   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+18 de Nov. de 1998   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+01 de Dic. de 1998 10ª / 339 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión. de Educación, Cultura, Ciencia y Tecnología y de la Comisión de Hacienda.
+01 de Dic. de 1998 10ª / 339 Segundo trámite constitucional / Senado Discusión general Ver
+01 de Dic. de 1998   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+02 de Dic. de 1998   Tercer trámite constitucional / C. Diputados Discusión única
+02 de Dic. de 1998 24ª / 339 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+02 de Dic. de 1998   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2253-04","Fecha Etapa Informe Documento
+18 de Nov. de 1998 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+11 de Nov. de 1998 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+20 de Oct. de 1998 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver
+20 de Oct. de 1998 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2253-04","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+01 de Dic. de 1998   Suma 110-339  
+18 de Nov. de 1998 01 de Dic. de 1998 Suma 95-334 110-339
+04 de Nov. de 1998 18 de Nov. de 1998 Suma 57-339 95-334
+21 de Oct. de 1998 04 de Nov. de 1998 Discusión inmediata 211098 57-339
+20 de Oct. de 1998 21 de Oct. de 1998 Suma   211098","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2253-04","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2253-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2253-04","No record","Veto emmEnd"

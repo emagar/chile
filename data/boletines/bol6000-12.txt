@@ -1,0 +1,32 @@
+* * Bill summary * *
+"emmStart Summary 6000-12","Legislatura: 356
+Fecha de ingreso: miércoles 30 de julio de 2008
+Estado: Archivado .
+Numero de boletín: 6000-12
+Materia: Combustión A Leña,Calefacción A Leña,Leña
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 08-11-2014 01:41:54
+* * Hitos de tramitación * *
+"emmStart Hitos 6000-12","Fecha Sesión Etapa Sub-etapa Documento
+30 de Jul. de 2008   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+30 de Jul. de 2008 40ª / 356 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Medio Ambiente y Bienes Nacionales
+14 de Abr. de 2009 9ª / 357 Primer trámite constitucional / Senado Por acuerdo de Comités pasa a la Comisión de Minería y Energía
+12 de Mar. de 2014   Primer trámite constitucional / Senado Archivado Se archiva de conformidad al inciso segundo del artículo 36 bis del Reglamento.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6000-12","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6000-12","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6000-12","Nombre
+Antonio Horvath Kiss
+Hosaín Sabag Castillo","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6000-12","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6000-12","No record","Veto emmEnd"

@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 2468-05","Legislatura: 341
+Fecha de ingreso: martes 07 de marzo de 2000
+Estado: Tramitación terminada (Ley Nº 19.740 - D.Oficial 30/06/2001)
+Numero de boletín: 2468-05
+Materia: Banco Estado ,Retornados
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 00:48:39
+* * Hitos de tramitación * *
+"emmStart Hitos 2468-05","Fecha Sesión Etapa Sub-etapa Documento
+07 de Mar. de 2000   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+07 de Mar. de 2000 27ª / 341 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+21 de Nov. de 2000   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+28 de Nov. de 2000 18ª / 343 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+12 de Dic. de 2000 25ª / 343 Primer trámite constitucional / C. Diputados Discusión general Ver
+12 de Dic. de 2000   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+13 de Dic. de 2000 18ª / 343 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+12 de Jun. de 2001   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+19 de Jun. de 2001 6ª / 344 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+20 de Jun. de 2001 8ª / 344 Segundo trámite constitucional / Senado Discusión general Ver
+20 de Jun. de 2001   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+21 de Jun. de 2001 10ª / 344 Tercer trámite constitucional / C. Diputados Discusión única Ver
+21 de Jun. de 2001 10ª / 344 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+21 de Jun. de 2001   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2468-05","Fecha Etapa Informe Documento
+12 de Jun. de 2001 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+21 de Nov. de 2000 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2468-05","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2468-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2468-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2468-05","No record","Veto emmEnd"

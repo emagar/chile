@@ -1,0 +1,68 @@
+* * Bill summary * *
+"emmStart Summary 7203-02","Legislatura: 358
+Fecha de ingreso: jueves 09 de septiembre de 2010
+Estado: Tramitación terminada (Ley Nº 20.477 - D.Oficial 30/12/2010)
+Numero de boletín: 7203-02
+Materia: Justicia Militar,Sistema De Justicia Militar
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 01:25:12
+* * Hitos de tramitación * *
+"emmStart Hitos 7203-02","Fecha Sesión Etapa Sub-etapa Documento
+09 de Sep. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+09 de Sep. de 2010 74ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 299-358 que hace presente la urgencia Suma Ver
+09 de Sep. de 2010 74ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión Constitución y Defensa Ver
+15 de Sep. de 2010 76ª / 358 Primer trámite constitucional / C. Diputados Cuenta Oficio de S.E. el Presidente de la República por el cual formula indicación al proyecto. Ver Ver
+28 de Sep. de 2010 79ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 337-358 que hace presente la urgencia Discusión inmediata Ver
+29 de Sep. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+30 de Sep. de 2010 82ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+30 de Sep. de 2010 82ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+30 de Sep. de 2010   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+05 de Oct. de 2010 57ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento y a Comisión de Defensa Nacional
+05 de Oct. de 2010 57ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 370-358 que retira y hace presente la urgencia Discusión inmediata
+05 de Oct. de 2010 57ª / 358 Segundo trámite constitucional / Senado La Sala, a proposición de los Comités, acuerda que este proyecto sea conocido por las Comisiones de Constitución y Defensa Nacional, unidas.
+05 de Oct. de 2010   Segundo trámite constitucional / Senado Oficio N°792/SEC/10 a la Corte Suprema Ver
+06 de Oct. de 2010   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+06 de Oct. de 2010 58ª / 358 Segundo trámite constitucional / Senado Discusión general Ver
+06 de Oct. de 2010   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+07 de Oct. de 2010 86ª / 358 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+12 de Oct. de 2010 87ª / 358 Tercer trámite constitucional / C. Diputados Cuenta del Mensaje 377-358 que retira y hace presente la urgencia Discusión inmediata Ver
+12 de Oct. de 2010 59ª / 358 Tercer trámite constitucional / C. Diputados Cuenta oficio N? 152 de la Corte Suprema Ver Ver
+12 de Oct. de 2010 87ª / 358 Tercer trámite constitucional / C. Diputados Discusión única Ver
+12 de Oct. de 2010   Tercer trámite constitucional / C. Diputados Oficio N° 9045, que comunica aprobacion de modificaciones Ver
+12 de Oct. de 2010   Tercer trámite constitucional / C. Diputados Oficio N°9044. Oficio de ley al Ejecutivo del artículo 73 de la CPR Ver
+13 de Oct. de 2010 60ª / 358 Tercer trámite constitucional / C. Diputados Cuenta oficio N? 9045, que comunica aprobacion de modificaciones Ver
+26 de Oct. de 2010 90ª / 358 Tercer trámite constitucional / C. Diputados Oficio N° 384-358. Oficio de S. E. el Presidente de la República por el cual comunica que ha resuelto no hacer uso de la facultad que le confiere el inciso primero del artículo 73 de la Constitución Política de la República. Ver Ver
+26 de Oct. de 2010   Trámite en Tribunal Constitucional / C. Diputados Oficio al Tribunal Constitucional. Oficio N°9057 al Tribunal Constitucional Ver
+16 de Nov. de 2010 101ª / 358 Trámite en Tribunal Constitucional / C. Diputados Cuenta oficio Nº 5088 del Tribunal Constitucional Ver Ver
+16 de Nov. de 2010   Trámite en Tribunal Constitucional / C. Diputados Oficio N°9105. Oficio de ley al Presidente de la República Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7203-02","Fecha Etapa Informe Documento
+06 de Oct. de 2010 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento y de Defensa Nacional, unidas Ver
+29 de Sep. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión Constitución y Defensa Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7203-02","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+12 de Oct. de 2010   Discusión inmediata 377-358  
+05 de Oct. de 2010 12 de Oct. de 2010 Discusión inmediata 370-358 377-358
+09 de Sep. de 2010   Suma 299-358  
+28 de Ago. de 2010 05 de Oct. de 2010 Discusión inmediata 337-358 370-358","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7203-02","Nombre Región Distrito Partido
+Ministerio de Defensa Nacional      
+Ministerio de Interior y Seguridad Públi      
+Ministerio de Justicia      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7203-02","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+87 modificaciones del Senado. 93 0 0 1 Aprobado Sala Ver detalle votación
+82 indicación presentada por los diputados señores Jorge Burgos, Aldo Cornejo, Ricardo Rincón, José Miguel Ortiz y Guillermo Ceroni, para reemplazar el inciso segundo del artículo sexto transitorio por el siguiente: “Los procesos que se encuentren en la Corte Suprema en que existan sentenciados exclusivamente civiles serán resueltos por dicho tribunal superior, el cual se conformará sin la integración del Auditor General del Ejército o quien deba subrogarlo. Los casos de coautoría y coparticipación de civiles y militares se sustanciarán y fallarán conforme a las normas vigentes en el momento de iniciación del referido proceso.”. 90 5 2 23 Aprobado Sala Ver detalle votación
+82 Indicación aditiva de los señores Ricardo Rincón, Pedro Araya, Aldo Cornejo, Cristián Monckeberg, Alberto Cardemil y Guillermo Ceroni, por la cual se intercala un nuevo número 3) en el artículo 4° permanente, del siguiente tenor: ""3) Suprímese, en el inciso segundo del artículo 9°, la expresión “excepto el caso de que sean de competencia de los tribunales militares”, las dos veces que aparece."". 90 0 7 23 Aprobado Sala Ver detalle votación
+82 artículos 1° a 9° permanentes y 1°, 5°, 6° y 7° transitorios. 100 0 0 20 Aprobado Sala Ver detalle votación
+82 2° permanente. 91 0 9 20 Aprobado Sala Ver detalle votación
+82 Votación general, con excepción de los artículos 1° a 9° permanentes y de los artículos 1°, 5°, 6° y 7° transitorios. 96 0 1 23 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7203-02","No record","Veto emmEnd"

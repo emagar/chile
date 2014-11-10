@@ -1,0 +1,33 @@
+* * Bill summary * *
+"emmStart Summary 567-07","Legislatura: 323
+Fecha de ingreso: miércoles 11 de diciembre de 1991
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 567-07
+Materia: Seguridad Ciudadana,Fuerzas De Orden Y Seguridad
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 20:01:37
+* * Hitos de tramitación * *
+"emmStart Hitos 567-07","Fecha Sesión Etapa Sub-etapa Documento
+11 de Dic. de 1991 32ª / 324 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+11 de Dic. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+21 de Dic. de 1991   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de Ene. de 1992 38ª / 323 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+22 de Ene. de 1992 46ª / 323 Primer trámite constitucional / C. Diputados Discusión general. Rechazado No se alcanza quórum necesario para su aprobación. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 567-07","Fecha Etapa Informe Documento
+21 de Dic. de 1991 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 567-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+11 de Dic. de 1991   Simple    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 567-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 567-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 567-07","No record","Veto emmEnd"

@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 2854-06","Legislatura: 345
+Fecha de ingreso: martes 08 de enero de 2002
+Estado: Tramitación terminada (Ley Nº 19.790 - D.Oficial 01/02/2002)
+Numero de boletín: 2854-06
+Materia: Feriados
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 17:15:50
+* * Hitos de tramitación * *
+"emmStart Hitos 2854-06","Fecha Sesión Etapa Sub-etapa Documento
+08 de Ene. de 2002   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+08 de Ene. de 2002 22ª / 345 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+08 de Ene. de 2002 23ª / 345 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 182-345 que hace presente la urgencia Simple Ver
+08 de Ene. de 2002   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Ene. de 2002 24ª / 345 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+09 de Ene. de 2002 24ª / 345 Primer trámite constitucional / C. Diputados Discusión general Ver
+09 de Ene. de 2002   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+09 de Ene. de 2002 22ª / 345 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización
+15 de Ene. de 2002   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+15 de Ene. de 2002 23ª / 345 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+16 de Ene. de 2002 24ª / 345 Segundo trámite constitucional / Senado Discusión general Ver
+16 de Ene. de 2002   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen
+22 de Ene. de 2002 28ª / 345 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+22 de Ene. de 2002   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2854-06","Fecha Etapa Informe Documento
+15 de Ene. de 2002 Segundo trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver
+08 de Ene. de 2002 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2854-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+08 de Ene. de 2002   Simple 182-345  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2854-06","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2854-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2854-06","No record","Veto emmEnd"

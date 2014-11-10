@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 6934-07","Legislatura: 358
+Fecha de ingreso: miércoles 12 de mayo de 2010
+Estado: Primer trámite constitucional .
+Numero de boletín: 6934-07
+Materia: Constitucion 1980,Tratados Internacionales
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 22:21:21
+* * Hitos de tramitación * *
+"emmStart Hitos 6934-07","Fecha Sesión Etapa Sub-etapa Documento
+04 de May. de 2010 59ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+12 de May. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de May. de 2010 24ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+13 de Jul. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+29 de Jul. de 2010 57ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+04 de Ago. de 2010 59ª / 358 Primer trámite constitucional / C. Diputados Por acuerdo de Comités el proyecto vuelve a la Comisión de Constitución para nuevo informe Ver
+04 de Ago. de 2010   Primer trámite constitucional / C. Diputados Oficio N°8911. Nuevo primer informe Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6934-07","Fecha Etapa Informe Documento
+13 de Jul. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6934-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6934-07","Nombre Región Distrito Partido
+Pedro Araya Guerrero II Región de Antofagasta N°4 Partido Regionalista Independiente
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Guillermo Ceroni Fuentes VII Región del Maule N°40 Partido Por la Democracia
+Felipe Harboe Bascuñán RM Región Metropolitana N°22 Partido Por la Democracia
+Ricardo Rincón González VI Región del Libertador Bernardo O' Higgins N°33 Partido Demócrata Cristiano
+Marcelo Schilling Rodríguez V Región de Valparaíso N°12 Partido Socialista","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6934-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+25 Votación General 5 3 3 2   Constitución Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6934-07","No record","Veto emmEnd"

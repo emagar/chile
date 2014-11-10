@@ -1,0 +1,51 @@
+* * Bill summary * *
+"emmStart Summary 1313-03","Legislatura: 329
+Fecha de ingreso: jueves 04 de agosto de 1994
+Estado: Archivado .
+Numero de boletín: 1313-03
+Materia: Recursos Pesqueros,Acuicultura,Pescadores Artesanales
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 07:04:43
+* * Hitos de tramitación * *
+"emmStart Hitos 1313-03","Fecha Sesión Etapa Sub-etapa Documento
+04 de Ago. de 1994   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+04 de Ago. de 1994 18ª / 329 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Intereses Marítimos, Pesca y Acuicultura
+02 de Mar. de 1995   Primer trámite constitucional / Senado Primer informe de comisión Ver
+02 de Mar. de 1995 40ª / 336 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+15 de Mar. de 1995 45ª / 330 Primer trámite constitucional / Senado Discusión general Ver
+10 de Oct. de 1995   Primer trámite constitucional / Senado Nuevo primer informe de comisión Ver
+10 de Oct. de 1995 4ª / 332 Primer trámite constitucional / Senado Cuenta nuevo primer informe
+08 de Nov. de 1995 12ª / 332 Primer trámite constitucional / Senado Discusión general Ver
+08 de Nov. de 1995 12ª / 332 Primer trámite constitucional / Senado Boletín de indicaciones
+02 de Abr. de 1996   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+02 de Abr. de 1996 44ª / 332 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión. Queda para tabla.
+30 de Abr. de 1996 55ª / 332 Primer trámite constitucional / Senado Aprobado Ver
+30 de Abr. de 1996 55ª / 332 Segundo trámite constitucional / C. Diputados Segunda discusión Ver
+07 de May. de 1996 56ª / 332 Segundo trámite constitucional / C. Diputados Aprobado. Ver
+08 de May. de 1996   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+09 de May. de 1996 72ª / 332 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+11 de Jul. de 2001   Segundo trámite constitucional / C. Diputados Eximido del trámite ante Comisión de Agricultura, Silvicultura y Desarrollo Rural. Pasa a Comisión de Pesca, Acuicultura e Intereses Marítimos
+30 de Oct. de 2007 93ª / 355 Segundo trámite constitucional / C. Diputados Comisión de Pesca solicita archivo. NO HUBO PRONUNCIAMIENTO. Ver
+08 de Nov. de 2007 99ª / 355 Segundo trámite constitucional / C. Diputados Sala acuerda archivar el proyecto. Ver
+13 de Nov. de 2007 64ª / 355 Segundo trámite constitucional / C. Diputados Cuenta del oficio N° 7101, de la Cámara de Diputados, en que se solicita el acuerdo del Senado para archivar el proyecto. Se accede a lo solicitado. Ver
+14 de Nov. de 2007 103ª / 355 Archivado / Cuenta Oficio del senado por el cual accede a archivo de proyecto. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1313-03","Fecha Etapa Informe Documento
+02 de Abr. de 1996 Primer trámite constitucional Senado Segundo informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver
+10 de Oct. de 1995 Primer trámite constitucional Senado Nuevo primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver
+02 de Mar. de 1995 Primer trámite constitucional Senado Primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1313-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1313-03","Nombre
+Antonio Horvath Kiss","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1313-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1313-03","No record","Veto emmEnd"

@@ -1,0 +1,58 @@
+* * Bill summary * *
+"emmStart Summary 512-14","Legislatura: 323
+Fecha de ingreso: jueves 03 de octubre de 1991
+Estado: Tramitación terminada (Ley Nº 19.120 - D.Oficial 03/02/1992)
+Numero de boletín: 512-14
+Materia: Viviendas
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 18:49:56
+* * Hitos de tramitación * *
+"emmStart Hitos 512-14","Fecha Sesión Etapa Sub-etapa Documento
+03 de Oct. de 1991 6ª / 324 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+03 de Oct. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de Nov. de 1991   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+27 de Nov. de 1991 27ª / 323 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+17 de Dic. de 1991 35ª / 323 Primer trámite constitucional / C. Diputados Discusión general Ver
+17 de Dic. de 1991   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora
+18 de Dic. de 1991 28ª / 323 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Vivienda y Urbanismo
+19 de Dic. de 1991   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+19 de Dic. de 1991 29ª / 323 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+19 de Dic. de 1991 29ª / 323 Segundo trámite constitucional / Senado Discusión general Ver
+19 de Dic. de 1991   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+23 de Dic. de 1991   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+07 de Ene. de 1992 38ª / 323 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+08 de Ene. de 1992 39ª / 323 Tercer trámite constitucional / C. Diputados Discusión única Ver
+08 de Ene. de 1992   Tercer trámite constitucional / C. Diputados Oficio rechazo modificaciones a Cámara Revisora Ver
+09 de Ene. de 1992   Comisión Mixta por rechazo de modificaciones / Senado Informe de Comisión Mixta Ver
+09 de Ene. de 1992 32ª / 323 Comisión Mixta por rechazo de modificaciones / Senado Cuenta oficio rechazo a modificaciones
+09 de Ene. de 1992 32ª / 323 Comisión Mixta por rechazo de modificaciones / Senado Cuenta oficio integrantes de Comisión Mixta
+10 de Ene. de 1992   Comisión Mixta por rechazo de modificaciones / Senado Oficio integrantes de Comisión Mixta Ver
+15 de Ene. de 1992 42ª / 323 Disc. informe C.Mixta por rechazo de modific. en C. Origen / C. Diputados Cuenta informe Comisión Mixta Ver
+15 de Ene. de 1992 42ª / 323 Disc. informe C.Mixta por rechazo de modific. en C. Origen / C. Diputados Discusión informe de Comisión Mixta Ver
+15 de Ene. de 1992   Disc. informe C.Mixta por rechazo de modific. en C. Origen / C. Diputados Oficio aprobación de informe de Comisión Mixta a C. Revisora Ver
+15 de Ene. de 1992 34ª / 323 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Cuenta oficio aprobación de informe de Comisión Mixta
+15 de Ene. de 1992 34ª / 323 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Discusión informe de Comisión Mixta
+21 de Ene. de 1992   Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Oficio aprobación de informe de Comisión Mixta a C.de Origen
+21 de Ene. de 1992   Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Oficio aprobación de informe de Comisión Mixta a C.de Origen Ver
+22 de Ene. de 1992 46ª / 323 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación de informe de Comisión Mixta Ver
+22 de Ene. de 1992   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 512-14","Fecha Etapa Informe Documento
+09 de Ene. de 1992 Comisión Mixta por rechazo de modificaciones Senado Informe de Comisión Mixta de Vivienda y Urbanismo Ver
+19 de Dic. de 1991 Segundo trámite constitucional Senado Primer informe de comisión de Vivienda y Urbanismo Ver
+20 de Nov. de 1991 Primer trámite constitucional C.Diputados Primer informe de comisión de Vivienda y Desarrollo Urbano Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 512-14","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+03 de Oct. de 1991   Discusión inmediata    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 512-14","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 512-14","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 512-14","No record","Veto emmEnd"

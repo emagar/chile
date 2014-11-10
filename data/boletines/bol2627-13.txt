@@ -1,0 +1,55 @@
+* * Bill summary * *
+"emmStart Summary 2627-13","Legislatura: 343
+Fecha de ingreso: martes 28 de noviembre de 2000
+Estado: Tramitación terminada (Ley Nº 19.765 - D.Oficial 02/11/2001)
+Numero de boletín: 2627-13
+Materia: Estatuto De Capacitación Y Empleo
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 07:07:54
+* * Hitos de tramitación * *
+"emmStart Hitos 2627-13","Fecha Sesión Etapa Sub-etapa Documento
+28 de Nov. de 2000   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+28 de Nov. de 2000 18ª / 343 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+17 de Abr. de 2001   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Abr. de 2001   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Abr. de 2001 54ª / 343 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+08 de May. de 2001 60ª / 343 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+08 de May. de 2001   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+09 de May. de 2001 43ª / 343 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social
+16 de May. de 2001   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+16 de May. de 2001 46ª / 343 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+16 de May. de 2001 47ª / 343 Segundo trámite constitucional / Senado Discusión general Ver
+06 de Jun. de 2001   Segundo trámite constitucional / Senado Boletín de indicaciones
+16 de Jul. de 2001   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+23 de Ago. de 2001   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+04 de Sep. de 2001 26ª / 344 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+05 de Sep. de 2001 27ª / 344 Segundo trámite constitucional / Senado Discusión particular Ver
+05 de Sep. de 2001   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+11 de Sep. de 2001 35ª / 344 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+02 de Oct. de 2001 1ª / 345 Tercer trámite constitucional / C. Diputados Discusión única Ver
+02 de Oct. de 2001   Tercer trámite constitucional / C. Diputados Oficio Nº 3527, que comunica aprobación de modificaciones Ver
+02 de Oct. de 2001   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+03 de Oct. de 2001 4ª / 345 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 3527, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2627-13","Fecha Etapa Informe Documento
+23 de Ago. de 2001 Segundo trámite constitucional Senado Segundo informe de comisión de Hacienda Ver
+16 de Jul. de 2001 Segundo trámite constitucional Senado Segundo informe de comisión de Trabajo y Previsión Social Ver
+16 de May. de 2001 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver
+17 de Abr. de 2001 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver
+17 de Abr. de 2001 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2627-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+08 de May. de 2001   Suma 446-343  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2627-13","Nombre Región Distrito Partido
+Ministerio de Trabajo y Previsión Social      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2627-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2627-13","No record","Veto emmEnd"

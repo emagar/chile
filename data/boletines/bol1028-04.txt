@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 1028-04","Legislatura: 326
+Fecha de ingreso: miércoles 07 de julio de 1993
+Estado: Tramitación terminada (Ley Nº 19.289 - D.Oficial 14/12/1994)
+Numero de boletín: 1028-04
+Materia: Becas
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 02:08:26
+* * Hitos de tramitación * *
+"emmStart Hitos 1028-04","Fecha Sesión Etapa Sub-etapa Documento
+07 de Jul. de 1993 12ª / 326 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+07 de Jul. de 1993   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Ago. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+30 de Ago. de 1993 31ª / 326 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+29 de Sep. de 1993 3ª / 327 Primer trámite constitucional / C. Diputados Discusión general Ver
+22 de Nov. de 1993   Primer trámite constitucional / C. Diputados Primer informe complementario Ver
+23 de Nov. de 1993 20ª / 327 Primer trámite constitucional / C. Diputados Cuenta primer informe complementario Ver
+14 de Dic. de 1993 21ª / 327 Primer trámite constitucional / C. Diputados Discusión particular Ver
+14 de Dic. de 1993   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+15 de Dic. de 1993 19ª / 327 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+18 de Ene. de 1994   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+19 de Ene. de 1994 26ª / 327 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+25 de Ene. de 1994   Tramitación terminada / Oficio Nº5301. comunica aprobación con modificaciones a Cámara de origen Ver
+25 de Ene. de 1994 29ª / 327 Segundo trámite constitucional / Senado Discusión general Ver
+25 de Ene. de 1994   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+25 de Ene. de 1994 33ª / 327 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+25 de Ene. de 1994 33ª / 327 Tercer trámite constitucional / C. Diputados Discusión única Ver
+26 de Ene. de 1994   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1028-04","Fecha Etapa Informe Documento
+18 de Ene. de 1994 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+22 de Nov. de 1993 Primer trámite constitucional C.Diputados Primer informe complementario de Educación, Deportes y Recreación Ver
+10 de Ago. de 1993 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1028-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1028-04","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1028-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1028-04","No record","Veto emmEnd"

@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 4230-18","Legislatura: 354
+Fecha de ingreso: miércoles 14 de junio de 2006
+Estado: Archivado .
+Numero de boletín: 4230-18
+Materia: Código Civil,Derecho A Identidad ,Menores
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 23:11:24
+* * Hitos de tramitación * *
+"emmStart Hitos 4230-18","Fecha Sesión Etapa Sub-etapa Documento
+14 de Jun. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+14 de Jun. de 2006 36ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Familia Ver
+04 de Ago. de 2009 58ª / 357 Primer trámite constitucional / C. Diputados Cuenta Oficio Comisión de Familia que remite al archivo. (Art. 17 Reglto). Ver
+19 de Ago. de 2009   Primer trámite constitucional / C. Diputados Archivado Comisión de Familia remite proyecto al archivo, por tener mas de dos años sin tramitación.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4230-18","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4230-18","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4230-18","Nombre Región Distrito Partido
+Pedro Araya Guerrero II Región de Antofagasta N°4 Independientes
+Eduardo Díaz Del Río IX Región de la Araucanía N°51 Partido Regionalista Independiente
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Jaime Mulet Martínez III Región de Atacama N°6 Partido Regionalista Independiente
+Sergio Ojeda Uribe X Región de los Lagos N°55 Partido Demócrata Cristiano
+Carlos Olivares Zepeda RM Región Metropolitana N°18 Partido Regionalista Independiente
+Jorge Sabag Villalobos VIII Región del Bío Bío N°42 Partido Demócrata Cristiano
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Independientes
+Mario Venegas Cárdenas IX Región de la Araucanía N°48 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4230-18","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+67 Votación General 6 0 0 7   Familia Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4230-18","No record","Veto emmEnd"

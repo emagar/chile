@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 1020-07","Legislatura: 326
+Fecha de ingreso: martes 22 de junio de 1993
+Estado: Tramitación terminada (Ley Nº 19.351 - D.Oficial 23/11/1994)
+Numero de boletín: 1020-07
+Materia: Apoderados Y Vocales De Mesa,Votación
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 02:02:59
+* * Hitos de tramitación * *
+"emmStart Hitos 1020-07","Fecha Sesión Etapa Sub-etapa Documento
+22 de Jun. de 1993 9ª / 326 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+22 de Jun. de 1993   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+16 de Mar. de 1994   Primer trámite constitucional / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 328
+30 de May. de 1994   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+30 de May. de 1994 2ª / 329 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+07 de Jun. de 1994 4ª / 329 Primer trámite constitucional / C. Diputados Discusión general Ver
+08 de Jun. de 1994   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+09 de Jun. de 1994 4ª / 329 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+08 de Ago. de 1994   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+09 de Ago. de 1994 19ª / 329 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+07 de Sep. de 1994 31ª / 329 Segundo trámite constitucional / Senado Discusión general Ver
+09 de Sep. de 1994   Tramitación terminada / Oficio Nº6505. comunica aprobación con modifcaciones a Cámara de origen Ver
+09 de Sep. de 1994   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+13 de Sep. de 1994 39ª / 329 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+06 de Oct. de 1994 3ª / 330 Tercer trámite constitucional / C. Diputados Discusión única Ver
+07 de Oct. de 1994   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+11 de Oct. de 1994 4ª / 330 Tramitación terminada / Cuenta oficio Nº 302, de la Cámara, comunicando aprobación enmiendas propuestas por el senado
+25 de Oct. de 1994   Trámite en Tribunal Constitucional / C. Diputados Oficio al Tribunal Constitucional Ver
+31 de Oct. de 1994   Trámite en Tribunal Constitucional / C. Diputados Ingreso fallo del Tribunal Constitucional Ver
+03 de Nov. de 1994   Trámite en Tribunal Constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+08 de Nov. de 1994 11ª / 330 Trámite en Tribunal Constitucional / C. Diputados Cuenta fallo del Tribunal Constitucional Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1020-07","Fecha Etapa Informe Documento
+08 de Ago. de 1994 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+30 de May. de 1994 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1020-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1020-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1020-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1020-07","No record","Veto emmEnd"

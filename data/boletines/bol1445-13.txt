@@ -1,0 +1,52 @@
+* * Bill summary * *
+"emmStart Summary 1445-13","Legislatura: 330
+Fecha de ingreso: martes 22 de noviembre de 1994
+Estado: Tramitación terminada (Ley Nº 19.394 - D.Oficial 21/06/1995)
+Numero de boletín: 1445-13
+Materia: Accidentes De Trabajo
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 09:11:50
+* * Hitos de tramitación * *
+"emmStart Hitos 1445-13","Fecha Sesión Etapa Sub-etapa Documento
+22 de Nov. de 1994   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+23 de Nov. de 1994 18ª / 330 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+14 de Dic. de 1994   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+10 de Ene. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Ene. de 1995 35ª / 330 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+07 de Mar. de 1995 43ª / 330 Primer trámite constitucional / C. Diputados Discusión general Ver
+07 de Mar. de 1995   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+07 de Mar. de 1995   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+07 de Mar. de 1995 44ª / 330 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+07 de Mar. de 1995 44ª / 330 Primer trámite constitucional / C. Diputados Discusión particular Ver
+08 de Mar. de 1995   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+08 de Mar. de 1995 42ª / 330 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social
+11 de May. de 1995   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+11 de May. de 1995   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+13 de May. de 1995 61ª / 330 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+16 de May. de 1995 62ª / 330 Segundo trámite constitucional / Senado Discusión general Ver
+16 de May. de 1995   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+18 de May. de 1995 71ª / 330 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+30 de May. de 1995 2ª / 331 Tercer trámite constitucional / C. Diputados Discusión única Ver
+30 de May. de 1995   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1445-13","Fecha Etapa Informe Documento
+11 de May. de 1995 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+11 de May. de 1995 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver
+07 de Mar. de 1995 Primer trámite constitucional C.Diputados Segundo informe de comisión de Hacienda Ver
+07 de Mar. de 1995 Primer trámite constitucional C.Diputados Segundo informe de comisión de Trabajo y Seguridad Social Ver
+10 de Ene. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+14 de Dic. de 1994 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1445-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1445-13","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1445-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1445-13","No record","Veto emmEnd"

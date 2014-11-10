@@ -1,0 +1,30 @@
+* * Bill summary * *
+"emmStart Summary 1055-10","Legislatura: 326
+Fecha de ingreso: martes 03 de agosto de 1993
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 1055-10
+Materia: Tratado De Lima,Cumplimiento (Derecho)
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 02:28:19
+* * Hitos de tramitación * *
+"emmStart Hitos 1055-10","Fecha Sesión Etapa Sub-etapa Documento
+03 de Ago. de 1993   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Ago. de 1993 23ª / 326 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+10 de Ago. de 1993   Tramitación terminada / S.E. el Presidente de la República retira el proyecto del Congreso Nacional.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1055-10","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1055-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+03 de Ago. de 1993   Suma    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1055-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1055-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1055-10","No record","Veto emmEnd"

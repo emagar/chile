@@ -1,0 +1,54 @@
+* * Bill summary * *
+"emmStart Summary 680-07","Legislatura: 323
+Fecha de ingreso: miércoles 06 de mayo de 1992
+Estado: Tramitación terminada (Ley Nº 19.304 - D.Oficial 29/04/1994)
+Numero de boletín: 680-07
+Materia: Menores
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 21:32:13
+* * Hitos de tramitación * *
+"emmStart Hitos 680-07","Fecha Sesión Etapa Sub-etapa Documento
+06 de May. de 1992 57ª / 323 Primer trámite constitucional / Senado Cuenta de proyecto
+06 de May. de 1992   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+13 de Ago. de 1992 17ª / 324 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+13 de Ago. de 1992 17ª / 324 Primer trámite constitucional / Senado Primer informe de comisión Ver
+13 de Ago. de 1992 17ª / 324 Primer trámite constitucional / Senado Discusión general. Aprobado en general, se fija plazo para presentar indicaciones hasta el 19 de agosto. Ver
+19 de Ago. de 1992   Primer trámite constitucional / Senado Boletín de indicaciones
+05 de Ene. de 1993 20ª / 325 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+05 de Ene. de 1993 20ª / 325 Primer trámite constitucional / Senado Segundo informe de comisión Ver
+14 de Ene. de 1993 23ª / 325 Primer trámite constitucional / Senado Discusión particular. Aprobado en particular. Ver
+19 de Ene. de 1993 42ª / 325 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+17 de Ago. de 1993   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de Ene. de 1994 31ª / 327 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+25 de Ene. de 1994 29ª / 327 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+25 de Ene. de 1994 30ª / 327 Tercer trámite constitucional / Senado Discusión única. Aprobadas las modificaciones de la Cámara de Diputados.
+28 de Ene. de 1994 30ª / 327 Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo Ver
+03 de Feb. de 1994 30ª / 327 Trámite en Tribunal Constitucional / Senado Oficio al Tribunal Constitucional Ver
+09 de Mar. de 1994 33ª / 327 Trámite en Tribunal Constitucional / Senado Cuenta fallo del Tribunal Constitucional
+18 de Abr. de 1994 33ª / 327 Trámite en Tribunal Constitucional / Senado Oficio de ley al Ejecutivo Ver
+    Trámite en Tribunal Constitucional / Senado Ingreso fallo del Tribunal Constitucional
+    Trámite de aprobacion presidencial / Senado Ingreso de observaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 680-07","Fecha Etapa Informe Documento
+17 de Ago. de 1993 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+05 de Ene. de 1993 Primer trámite constitucional Senado Segundo informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+13 de Ago. de 1992 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 680-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 680-07","Nombre
+Nicolás Díaz Sánchez
+Máximo Pacheco Gómez
+Mario Papi Bayer
+Mariano Ruiz-Esquide Jara
+Hernán Vodanovic Schnake","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 680-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 680-07","No record","Veto emmEnd"

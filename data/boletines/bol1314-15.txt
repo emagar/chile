@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 1314-15","Legislatura: 329
+Fecha de ingreso: martes 09 de agosto de 1994
+Estado: Tramitación terminada (Ley Nº 19.330 - D.Oficial 22/08/1994)
+Numero de boletín: 1314-15
+Materia: Telecomunicaciones
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 07:05:25
+* * Hitos de tramitación * *
+"emmStart Hitos 1314-15","Fecha Sesión Etapa Sub-etapa Documento
+09 de Ago. de 1994 28ª / 329 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+09 de Ago. de 1994   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Ago. de 1994   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Ago. de 1994 23ª / 329 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+11 de Ago. de 1994 29ª / 329 Primer trámite constitucional / C. Diputados Discusión general Ver
+16 de Ago. de 1994   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+16 de Ago. de 1994 23ª / 329 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones
+17 de Ago. de 1994   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+17 de Ago. de 1994 24ª / 329 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+17 de Ago. de 1994 24ª / 329 Segundo trámite constitucional / Senado Discusión general Ver
+17 de Ago. de 1994   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+17 de Ago. de 1994   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+18 de Ago. de 1994 32ª / 329 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+18 de Ago. de 1994 32ª / 329 Tercer trámite constitucional / C. Diputados Discusión única Ver
+18 de Ago. de 1994   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1314-15","Fecha Etapa Informe Documento
+17 de Ago. de 1994 Segundo trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver
+10 de Ago. de 1994 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1314-15","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+09 de Ago. de 1994   Discusión inmediata    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1314-15","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1314-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1314-15","No record","Veto emmEnd"

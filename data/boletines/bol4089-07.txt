@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 4089-07","Legislatura: 353
+Fecha de ingreso: martes 24 de enero de 2006
+Estado: Archivado .
+Numero de boletín: 4089-07
+Materia: Congreso Nacional,Urgencias Legislativas
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 18:38:44
+* * Hitos de tramitación * *
+"emmStart Hitos 4089-07","Fecha Sesión Etapa Sub-etapa Documento
+24 de Ene. de 2006 72ª / 353 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+24 de Ene. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+09 de Jun. de 2009   Primer trámite constitucional / C. Diputados Archivado
+09 de Jun. de 2009 37ª / 357 Archivado / Comisión de Cosntitución archiva proyecto.
+09 de Jun. de 2009 37ª / 357 Archivado / Comisión de Constitución archiva proyecto.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4089-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4089-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4089-07","Nombre Región Distrito Partido
+Eugenio Bauer Jouanne VI Región del Libertador Bernardo O' Higgins N°33 Unión Demócrata Independiente
+Marcelo Forni Lobos V Región de Valparaíso N°11 Unión Demócrata Independiente
+Javier Hernández Hernández X Región de los Lagos N°55 Unión Demócrata Independiente
+Pablo Longueira Montes RM Región Metropolitana N°17 Unión Demócrata Independiente
+Patricio Melero Abaroa RM Región Metropolitana N°16 Unión Demócrata Independiente
+Iván Moreira Barros RM Región Metropolitana N°27 Unión Demócrata Independiente
+Darío Paya Mira RM Región Metropolitana N°28 Unión Demócrata Independiente
+Felipe Salaberry Soto RM Región Metropolitana N°25 Unión Demócrata Independiente
+Gonzalo Uriarte Herrera RM Región Metropolitana N°31 Unión Demócrata Independiente
+Ignacio Urrutia Bonilla VII Región del Maule N°40 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4089-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4089-07","No record","Veto emmEnd"

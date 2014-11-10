@@ -1,0 +1,34 @@
+* * Bill summary * *
+"emmStart Summary 8173-15","Legislatura: 359
+Fecha de ingreso: lunes 05 de marzo de 2012
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 8173-15
+Materia: Permiso De Circulacion
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 22:21:43
+* * Hitos de tramitación * *
+"emmStart Hitos 8173-15","Fecha Sesión Etapa Sub-etapa Documento
+05 de Mar. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Mar. de 2012 140ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+11 de Abr. de 2012 13ª / 360 Tramitación terminada / Oficio N°1. Comunicación de los señores Diputados Cerda; Ojeda; Rincón; Torres y Walker, por el cual informan que han retirado el patrocinio del proyecto. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8173-15","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8173-15","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8173-15","Nombre Región Distrito Partido
+Eduardo Cerda García V Región de Valparaíso N°10 Partido Demócrata Cristiano
+Sergio Ojeda Uribe X Región de los Lagos N°55 Partido Demócrata Cristiano
+Ricardo Rincón González VI Región del Libertador Bernardo O' Higgins N°33 Partido Demócrata Cristiano
+Víctor Torres Jeldes V Región de Valparaíso N°15 Partido Demócrata Cristiano
+Matías Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8173-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8173-15","No record","Veto emmEnd"

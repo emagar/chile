@@ -1,0 +1,31 @@
+* * Bill summary * *
+"emmStart Summary 8420-25","Legislatura: 360
+Fecha de ingreso: miércoles 04 de julio de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8420-25
+Materia: Delitos,Código Penal,Desorden Público
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 01:18:40
+* * Hitos de tramitación * *
+"emmStart Hitos 8420-25","Fecha Sesión Etapa Sub-etapa Documento
+04 de Jul. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Jul. de 2012 50ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Seguridad Ciudadana y Drogas Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8420-25","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8420-25","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8420-25","Nombre Región Distrito Partido
+Joaquín Godoy Ibáñez V Región de Valparaíso N°13 Renovación Nacional
+Cristián Monckeberg Bruner RM Región Metropolitana N°23 Renovación Nacional
+Marcela Sabat Fernández RM Región Metropolitana N°21 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8420-25","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8420-25","No record","Veto emmEnd"

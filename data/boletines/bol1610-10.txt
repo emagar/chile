@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 1610-10","Legislatura: 331
+Fecha de ingreso: martes 30 de mayo de 1995
+Estado: Tramitación terminada (D.S. Nº 725 - D.Oficial 21/08/1997)
+Numero de boletín: 1610-10
+Materia: Acuerdos Internacionales
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 11:21:01
+* * Hitos de tramitación * *
+"emmStart Hitos 1610-10","Fecha Sesión Etapa Sub-etapa Documento
+30 de May. de 1995 1ª / 331 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+30 de May. de 1995   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+04 de Ene. de 1996 38ª / 332 Primer trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+06 de Mar. de 1996 38ª / 332 Primer trámite constitucional / Senado Primer informe de comisión Ver
+07 de Mar. de 1996 38ª / 332 Primer trámite constitucional / Senado  
+30 de Abr. de 1996 55ª / 332 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+30 de Abr. de 1996 55ª / 332 Primer trámite constitucional / Senado Discusión general Ver
+07 de May. de 1996 70ª / 332 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+14 de May. de 1996   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+16 de Abr. de 1997   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+16 de Abr. de 1997 61ª / 334 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+16 de Abr. de 1997 61ª / 334 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+29 de Abr. de 1997 43ª / 334 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+29 de Abr. de 1997 43ª / 334 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1610-10","Fecha Etapa Informe Documento
+14 de May. de 1996 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+06 de Mar. de 1996 Primer trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+04 de Ene. de 1996 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1610-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1610-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1610-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1610-10","No record","Veto emmEnd"

@@ -1,0 +1,55 @@
+* * Bill summary * *
+"emmStart Summary 3384-07","Legislatura: 350
+Fecha de ingreso: martes 21 de octubre de 2003
+Estado: Tramitación terminada (Ley Nº 19.919 - D.Oficial 20/12/2003)
+Numero de boletín: 3384-07
+Materia: Reforma Procesal Penal
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 04-11-2014 02:10:57
+* * Hitos de tramitación * *
+"emmStart Hitos 3384-07","Fecha Sesión Etapa Sub-etapa Documento
+21 de Oct. de 2003   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+21 de Oct. de 2003 5ª / 350 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+21 de Oct. de 2003   Primer trámite constitucional / Senado Oficio de consulta a Corte Suprema Ver
+04 de Nov. de 2003 7ª / 350 Primer trámite constitucional / Senado Cuenta oficio 2257 de la Corte Suprema
+04 de Nov. de 2003 7ª / 350 Primer trámite constitucional / Senado Cuenta del Mensaje 145-350 que retira y hace presente la urgencia Suma
+04 de Nov. de 2003   Primer trámite constitucional / Senado Primer informe de comisión Ver
+04 de Nov. de 2003   Primer trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+05 de Nov. de 2003 8ª / 350 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+05 de Nov. de 2003 8ª / 350 Primer trámite constitucional / Senado Discusión general Ver
+05 de Nov. de 2003   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+11 de Nov. de 2003 17ª / 350 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+11 de Nov. de 2003   Segundo trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+14 de Nov. de 2003   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de Nov. de 2003 21ª / 350 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+18 de Nov. de 2003 21ª / 350 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+18 de Nov. de 2003   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+18 de Nov. de 2003 12ª / 350 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+18 de Nov. de 2003   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo. comunica proyecto aprobado para los efectos del artículo 70 de la Constitución Política del Estado Ver
+19 de Nov. de 2003   Trámite en Tribunal Constitucional / Senado Oficio Nº 23148 al Tribunal Constitucional, remite proyecto para control de constitucionalidad Ver
+02 de Dic. de 2003 14ª / 350 Trámite en Tribunal Constitucional / Senado Cuenta oficio Nº 2010 del Tribunal Constitucional Ver
+02 de Dic. de 2003   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3384-07","Fecha Etapa Informe Documento
+14 de Nov. de 2003 Segundo trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+11 de Nov. de 2003 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+04 de Nov. de 2003 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+04 de Nov. de 2003 Primer trámite constitucional Senado Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3384-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Nov. de 2003   Suma 145-350  
+21 de Oct. de 2003 04 de Nov. de 2003 Suma 88-350 145-350","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3384-07","Nombre
+Ministerio de Hacienda
+Ministerio de Justicia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3384-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3384-07","No record","Veto emmEnd"

@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 813-06","Legislatura: 325
+Fecha de ingreso: martes 06 de octubre de 1992
+Estado: Tramitación terminada (Ley Nº 19.174 - D.Oficial 12/11/1992)
+Numero de boletín: 813-06
+Materia: Coredes
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 23:18:39
+* * Hitos de tramitación * *
+"emmStart Hitos 813-06","Fecha Sesión Etapa Sub-etapa Documento
+06 de Oct. de 1992   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+06 de Oct. de 1992 1ª / 325 Primer trámite constitucional / Senado Cuenta de proyecto
+07 de Oct. de 1992   Primer trámite constitucional / Senado Primer informe de comisión Ver
+08 de Oct. de 1992 2ª / 325 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+08 de Oct. de 1992 2ª / 325 Primer trámite constitucional / Senado Primer informe de comisión Ver
+08 de Oct. de 1992 2ª / 325 Primer trámite constitucional / Senado Discusión general Ver
+08 de Oct. de 1992 2ª / 325 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+08 de Oct. de 1992 3ª / 325 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+13 de Oct. de 1992 3ª / 325 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+13 de Oct. de 1992 3ª / 344 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+03 de Nov. de 1992 7ª / 325 Trámite en Tribunal Constitucional / Senado Ingreso fallo del Tribunal Constitucional Ver
+03 de Nov. de 1992 7ª / 325 Trámite en Tribunal Constitucional / Senado Cuenta fallo del Tribunal Constitucional
+    Trámite de aprobacion presidencial / Senado Ingreso de observaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 813-06","Fecha Etapa Informe Documento
+08 de Oct. de 1992 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+07 de Oct. de 1992 Primer trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 813-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 813-06","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 813-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 813-06","No record","Veto emmEnd"

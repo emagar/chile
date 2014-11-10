@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 1333-03","Legislatura: 329
+Fecha de ingreso: martes 30 de agosto de 1994
+Estado: Tramitación terminada (Ley Nº 19.336 - D.Oficial 29/09/1994)
+Numero de boletín: 1333-03
+Materia: Libre Competencia
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 08:12:23
+* * Hitos de tramitación * *
+"emmStart Hitos 1333-03","Fecha Sesión Etapa Sub-etapa Documento
+30 de Ago. de 1994   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+30 de Ago. de 1994 33ª / 329 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+30 de Ago. de 1994   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+30 de Ago. de 1994 33ª / 329 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+30 de Ago. de 1994 33ª / 329 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general y particular a la vez Aprobado sin discusión Ver
+30 de Ago. de 1994   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+30 de Ago. de 1994 26ª / 329 Segundo trámite constitucional / Senado Discusión única
+31 de Ago. de 1994 27ª / 329 Segundo trámite constitucional / Senado Cuenta de proyecto. Eximido del trámite ante Comisión Se agrega a la tabla. Se aprueba en general y particular.
+01 de Sep. de 1994   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+01 de Sep. de 1994   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+06 de Sep. de 1994 36ª / 329 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1333-03","Fecha Etapa Informe Documento
+30 de Ago. de 1994 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1333-03","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+30 de Ago. de 1994   Sin urgencia 256-339  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1333-03","Nombre Región Distrito Partido
+Ministerio de Economía, Fomento y Turism      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1333-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1333-03","No record","Veto emmEnd"

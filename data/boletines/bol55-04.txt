@@ -1,0 +1,58 @@
+* * Bill summary * *
+"emmStart Summary 55-04","Legislatura: 320
+Fecha de ingreso: martes 29 de mayo de 1990
+Estado: Tramitación terminada (Ley Nº 19.101 - D.Oficial 11/12/1991)
+Numero de boletín: 55-04
+Materia: Educación Superior
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 30-10-2014 16:26:44
+* * Hitos de tramitación * *
+"emmStart Hitos 55-04","Fecha Sesión Etapa Sub-etapa Documento
+29 de May. de 1990   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+29 de May. de 1990 2ª / 320 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+05 de Sep. de 1990   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Sep. de 1990 32ª / 320 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+29 de Nov. de 1990   Primer trámite constitucional / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 321
+13 de Dic. de 1990 20ª / 321 Primer trámite constitucional / C. Diputados Discusión general Ver
+16 de Ene. de 1991   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+22 de Ene. de 1991 31ª / 321 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+23 de Ene. de 1991 32ª / 321 Primer trámite constitucional / C. Diputados Discusión particular Ver
+05 de Mar. de 1991 36ª / 321 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+25 de Jul. de 1991   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+08 de Ago. de 1991 25ª / 322 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+20 de Ago. de 1991 29ª / 322 Segundo trámite constitucional / Senado Discusión general Ver
+21 de Ago. de 1991   Segundo trámite constitucional / Senado Oficio rechazo a Cámara de Origen Ver
+27 de Ago. de 1991 33ª / 322 Comisión Mixta por rechazo de idea de legislar / Senado Cuenta oficio integrantes de Comisión Mixta
+10 de Sep. de 1991   Comisión Mixta por rechazo de idea de legislar / Senado Informe de Comisión Mixta Ver
+29 de Oct. de 1991 8ª / 323 Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / Senado Cuenta oficio aprobación de informe de Comisión Mixta
+12 de Nov. de 1991 10ª / 323 Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / Senado Discusión informe de Comisión Mixta
+13 de Nov. de 1991   Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Oficio aprobación de informe de Comisión Mixta a C.de Origen Ver
+14 de Nov. de 1991 22ª / 323 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación de informe de Comisión Mixta Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 55-04","Fecha Etapa Informe Documento
+10 de Sep. de 1991 Comisión Mixta por rechazo de idea de legislar Senado Informe de Comisión Mixta de Educación, Cultura, Ciencia y Tecnología Ver
+25 de Jul. de 1991 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+16 de Ene. de 1991 Primer trámite constitucional C.Diputados Segundo informe de comisión de Educación, Deportes y Recreación Ver
+05 de Sep. de 1990 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 55-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 55-04","Nombre Región Distrito Partido
+Baldemar Carrasco Muñoz Región N° Partido Demócrata Cristiano
+Sergio Elgueta Barrientos Región N° Partido Demócrata Cristiano
+Sergio Ojeda Uribe Región N° Partido Demócrata Cristiano
+José Miguel Ortiz Novoa Región N° Partido Demócrata Cristiano
+Sergio Pizarro Mackay Región N° Partido Demócrata Cristiano
+Víctor Reyes Alvarado Región N° Partido Demócrata Cristiano
+Edmundo Salas De la Fuente Región N° Partido Demócrata Cristiano
+Rodolfo Seguel Molina Región N° Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 55-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 55-04","No record","Veto emmEnd"

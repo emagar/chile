@@ -1,0 +1,57 @@
+* * Bill summary * *
+"emmStart Summary 5117-13","Legislatura: 355
+Fecha de ingreso: miércoles 13 de junio de 2007
+Estado: Segundo trámite constitucional .
+Numero de boletín: 5117-13
+Materia: Participación De Menores,Espectáculos Populares,Menores
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 00:50:08
+* * Hitos de tramitación * *
+"emmStart Hitos 5117-13","Fecha Sesión Etapa Sub-etapa Documento
+13 de Jun. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Jun. de 2007 35ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+02 de Jun. de 2011 37ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 247-359 que hace presente la urgencia Simple Ver
+05 de Jul. de 2011 50ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 310-359 que hace presente la urgencia Simple Ver
+12 de Jul. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Jul. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+20 de Jul. de 2011 59ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+21 de Jul. de 2011 60ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+09 de Ago. de 2011   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+16 de Ago. de 2011 70ª / 359 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+30 de Ago. de 2011 75ª / 359 Primer trámite constitucional / C. Diputados Discusión particular Ver
+30 de Ago. de 2011   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+31 de Ago. de 2011   Segundo trámite constitucional / Senado Oficio N°1141/SEC/1 a la Corte Suprema Ver
+04 de Oct. de 2011 59ª / 359 Segundo trámite constitucional / Senado Cuenta oficio N? 145-2011 de la Corte Suprema Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5117-13","Fecha Etapa Informe Documento
+09 de Ago. de 2011 Primer trámite constitucional C.Diputados Segundo informe de comisión de Trabajo y Seguridad Social Ver
+12 de Jul. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver
+12 de Jul. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5117-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+05 de Jul. de 2011 05 de Ago. de 2011 Simple 310-359 CADUCADA
+02 de Jun. de 2011 02 de Jul. de 2011 Simple 247-359 CADUCADA","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5117-13","Nombre Región Distrito Partido
+Sergio Aguiló Melo VII Región del Maule N°37 Partido Socialista
+Gabriel Ascencio Mansilla X Región de los Lagos N°58 Partido Demócrata Cristiano
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Jaime Mulet Martínez III Región de Atacama N°6 Partido Regionalista Independiente
+Adriana Muñoz D'Albora IV Región de Coquimbo N°9 Partido Por la Democracia
+Carlos Olivares Zepeda RM Región Metropolitana N°18 Partido Regionalista Independiente
+Eduardo Saffirio Suárez IX Región de la Araucanía N°50 Partido Demócrata Cristiano
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Independientes
+Mario Venegas Cárdenas IX Región de la Araucanía N°48 Partido Demócrata Cristiano
+Patricio Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5117-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+75 Articulado 98 0 0 0 Aprobado Sala Ver detalle votación
+60   73 0 0 47 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5117-13","No record","Veto emmEnd"

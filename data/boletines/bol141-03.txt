@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 141-03","Legislatura: 320
+Fecha de ingreso: miércoles 05 de septiembre de 1990
+Estado: Tramitación terminada (Ley Nº 18.999 - D.Oficial 22/09/1990)
+Numero de boletín: 141-03
+Materia: Acuicultura
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 05:50:26
+* * Hitos de tramitación * *
+"emmStart Hitos 141-03","Fecha Sesión Etapa Sub-etapa Documento
+05 de Sep. de 1990   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+05 de Sep. de 1990 30ª / 320 Tramitación terminada / Por acuerdo de la Sala se exime del trámite de Comisión. Se aprueba. Ver
+05 de Sep. de 1990 30ª / 320 Primer trámite constitucional / Senado Discusión única
+05 de Sep. de 1990 30ª / 320 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+05 de Sep. de 1990 30ª / 320 Primer trámite constitucional / Senado Cuenta de proyecto
+06 de Sep. de 1990 31ª / 320 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+12 de Sep. de 1990 31ª / 320 Tramitación terminada / Se aprueba la modificación de la Cámara de Diputados. Ver
+12 de Sep. de 1990 31ª / 320 Trámite de aprobacion presidencial / Senado Ingreso de observaciones
+12 de Sep. de 1990 31ª / 320 Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo Ver
+12 de Sep. de 1990 31ª / 320 Tercer trámite constitucional / Senado Discusión única
+12 de Sep. de 1990 31ª / 320 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+20 de Ago. de 1991   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+20 de Ago. de 1991 31ª / 322 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 141-03","Fecha Etapa Informe Documento
+20 de Ago. de 1991 Segundo trámite constitucional C.Diputados Primer informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 141-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 141-03","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 141-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 141-03","No record","Veto emmEnd"

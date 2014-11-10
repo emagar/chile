@@ -1,0 +1,50 @@
+* * Bill summary * *
+"emmStart Summary 3724-10","Legislatura: 352
+Fecha de ingreso: lunes 15 de noviembre de 2004
+Estado: Tramitación terminada (D.S. Nº 356 - D.Oficial 16/02/2005)
+Numero de boletín: 3724-10
+Materia: Doble Tributación
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 07:57:50
+* * Hitos de tramitación * *
+"emmStart Hitos 3724-10","Fecha Sesión Etapa Sub-etapa Documento
+15 de Nov. de 2004 19ª / 352 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+15 de Nov. de 2004 19ª / 352 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+15 de Nov. de 2004   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+30 de Nov. de 2004 24ª / 352 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 179-352 que hace presente la urgencia Suma Ver
+30 de Nov. de 2004   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+01 de Dic. de 2004   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+01 de Dic. de 2004 27ª / 352 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+02 de Dic. de 2004 28ª / 352 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+02 de Dic. de 2004   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+06 de Dic. de 2004 19ª / 352 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores y a Comisión de Hacienda
+14 de Dic. de 2004   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+15 de Dic. de 2004   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+15 de Dic. de 2004 21ª / 352 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+15 de Dic. de 2004 22ª / 352 Segundo trámite constitucional / Senado Discusión general Ver
+15 de Dic. de 2004   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+16 de Dic. de 2004 33ª / 352 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver Ver
+16 de Dic. de 2004   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3724-10","Fecha Etapa Informe Documento
+15 de Dic. de 2004 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+14 de Dic. de 2004 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+01 de Dic. de 2004 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+30 de Nov. de 2004 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3724-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+30 de Nov. de 2004   Suma 179-352  
+15 de Nov. de 2004   Suma 94-352  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3724-10","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3724-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3724-10","No record","Veto emmEnd"

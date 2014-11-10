@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 1144-02","Legislatura: 327
+Fecha de ingreso: martes 25 de enero de 1994
+Estado: Tramitación terminada (Ley Nº 19.318 - D.Oficial 06/08/1994)
+Numero de boletín: 1144-02
+Materia: Fuerzas Armadas,Planta De Oficiales De La Armada
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 03:38:06
+* * Hitos de tramitación * *
+"emmStart Hitos 1144-02","Fecha Sesión Etapa Sub-etapa Documento
+25 de Ene. de 1994   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+25 de Ene. de 1994 33ª / 328 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Defensa Nacional
+26 de Ene. de 1994   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+16 de Mar. de 1994   Primer trámite constitucional / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 328
+20 de Abr. de 1994   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+21 de Abr. de 1994 15ª / 328 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+21 de Abr. de 1994 15ª / 328 Primer trámite constitucional / C. Diputados Discusión general Ver
+26 de Abr. de 1994   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+03 de May. de 1994 10ª / 328 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Defensa Nacional y de Hacienda, en su caso.
+15 de Jun. de 1994   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+17 de Jun. de 1994   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+21 de Jun. de 1994 7ª / 329 Segundo trámite constitucional / Senado Discusión general Ver
+21 de Jun. de 1994 7ª / 329 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión. de Defensa Nacional y de la de Hacienda.
+22 de Jun. de 1994   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+23 de Jun. de 1994 15ª / 329 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+05 de Jul. de 1994 17ª / 329 Tercer trámite constitucional / C. Diputados Discusión única Ver
+06 de Jul. de 1994   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1144-02","Fecha Etapa Informe Documento
+17 de Jun. de 1994 Segundo trámite constitucional Senado Primer informe de comisión de Defensa Nacional Ver
+15 de Jun. de 1994 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+20 de Abr. de 1994 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+26 de Ene. de 1994 Primer trámite constitucional C.Diputados Primer informe de comisión de Defensa Nacional Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1144-02","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+25 de Ene. de 1994   Simple    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1144-02","Nombre Región Distrito Partido
+Ministerio de Defensa Nacional      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1144-02","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1144-02","No record","Veto emmEnd"

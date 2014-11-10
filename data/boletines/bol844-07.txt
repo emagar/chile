@@ -1,0 +1,57 @@
+* * Bill summary * *
+"emmStart Summary 844-07","Legislatura: 325
+Fecha de ingreso: martes 03 de noviembre de 1992
+Estado: Archivado .
+Numero de boletín: 844-07
+Materia: Aguas Servidas,Contaminación,Medio Ambiente
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 23:44:23
+* * Hitos de tramitación * *
+"emmStart Hitos 844-07","Fecha Sesión Etapa Sub-etapa Documento
+03 de Nov. de 1992   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+03 de Nov. de 1992 7ª / 325 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a la Comisión de Constitución, Legislación, Justicia y Reglamento y a la de Salud
+10 de Ago. de 1993   Primer trámite constitucional / Senado Primer informe de comisión Ver
+10 de Ago. de 1993 16ª / 326 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Ago. de 1993   Primer trámite constitucional / Senado Primer informe de comisión Ver
+31 de Ago. de 1993 20ª / 326 Primer trámite constitucional / Senado Discusión general. Aprobado en general, se fija plazo para indicaciones hasta el 7 de septiembre. Ver
+05 de Oct. de 1993 1ª / 327 Primer trámite constitucional / Senado S.E Incluye Proyecto en Convocatoria.
+10 de May. de 1994   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+10 de May. de 1994 12ª / 328 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+31 de May. de 1994   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+31 de May. de 1994 1ª / 329 Primer trámite constitucional / Senado Discusión particular. Aprobado en particular. Ver
+07 de Jun. de 1994   Segundo trámite constitucional / C. Diputados Cuenta de proyecto
+14 de Jun. de 1995   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+14 de Jun. de 1995 9ª / 331 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+23 de Jul. de 1997 25ª / 335 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+23 de Jul. de 1997 25ª / 335 Segundo trámite constitucional / C. Diputados Rechazada la idea de legislar. Intervienen los Diputados Wörner (inf. Com. Constitución) y Melero. Ver Ver
+19 de Ago. de 1997   Segundo trámite constitucional / C. Diputados Oficio rechazo a Cámara de Origen Ver
+26 de Ago. de 1997 26ª / 335 Comisión Mixta por rechazo de idea de legislar / C. Diputados Cuenta oficio integrantes de Comisión Mixta Ver
+13 de Jul. de 1999 13ª / 340 Comisión Mixta por rechazo de idea de legislar / C. Diputados Se acuerda solicitar a la Cámara de Diputados que actualice los miembros de la Comisión Mixta. Ver
+17 de Ago. de 1999 1ª / 342 Comisión Mixta por rechazo de idea de legislar / C. Diputados Informe de Comisión Mixta. Propone archivo del proyecto Ver Ver
+18 de Ago. de 1999 24ª / 340 Comisión Mixta por rechazo de idea de legislar / C. Diputados S.E. El Presidente de la República, y la Comisión Mixta, con las que solicitan el archivo del proyecto. Se accede a lo solicitado, previo acuerdo de la Cámara de Diputados. Ver
+17 de Oct. de 2000   Comisión Mixta por rechazo de idea de legislar / C. Diputados Oficio Nº 16.969. A la Cámara de Diputados, solicitandole el acuerdo para proceder al archivo del presente proyecto. Ver
+18 de Oct. de 2000 8ª / 343 Comisión Mixta por rechazo de idea de legislar / C. Diputados Cuenta en Cámara de Diputados de Oficio del Senado, solicita acuerdo para archivo de proyecto. Ver
+19 de Oct. de 2000   Comisión Mixta por rechazo de idea de legislar / C. Diputados Oficio al Senado, comunica que accede al archivo solicitado Ver
+31 de Oct. de 2000 7ª / 343 Comisión Mixta por rechazo de idea de legislar / C. Diputados Cuenta Oficio Nº 3115, de Cámara de Diputados, informando que accede a archivo solicitado. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 844-07","Fecha Etapa Informe Documento
+17 de Ago. de 1999 Comisión Mixta por rechazo de idea de legislar Senado Informe de Comisión Mixta Comisión Mixta para Boletín Nº 844-07 Ver
+14 de Jun. de 1995 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+10 de May. de 1994 Primer trámite constitucional Senado Segundo informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+10 de Ago. de 1993 Primer trámite constitucional Senado Primer informe de comisión de Salud Ver
+10 de Ago. de 1993 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 844-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+03 de Nov. de 1992 21 de May. de 1993 Simple   CADUCADO","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 844-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 844-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 844-07","No record","Veto emmEnd"

@@ -1,0 +1,65 @@
+* * Bill summary * *
+"emmStart Summary 1832-03","Legislatura: 332
+Fecha de ingreso: miércoles 10 de abril de 1996
+Estado: Archivado .
+Numero de boletín: 1832-03
+Materia: Distorsión De Precios,Importaciones
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 15:18:27
+* * Hitos de tramitación * *
+"emmStart Hitos 1832-03","Fecha Sesión Etapa Sub-etapa Documento
+10 de Abr. de 1996   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Abr. de 1996 63ª / 332 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+11 de Jun. de 1996   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+06 de Nov. de 1996   Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 334
+10 de Ene. de 1997   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+14 de Ene. de 1997 37ª / 334 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+04 de Mar. de 1997 47ª / 334 Primer trámite constitucional / C. Diputados Pendiente su discusión. Intervienen los Dip. Dupré (inf. Com. Ecocnomía), Jürgensen (inf. Com. Hacienda), Orpis y Tuma. Ver Ver
+05 de Mar. de 1997 48ª / 334 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+23 de Abr. de 1997   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+29 de Abr. de 1997 63ª / 334 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+30 de Abr. de 1997 65ª / 334 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver
+06 de May. de 1997   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora
+07 de May. de 1997 47ª / 334 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Economía
+17 de Jun. de 1997 6ª / 335 Segundo trámite constitucional / Senado S.E. el Presidente de la República incluye el proyecto en la Convocatoria a la Legislatura Extraordinaria.
+21 de Abr. de 1998 9ª / 337 Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 337
+06 de Oct. de 1998   Segundo trámite constitucional / Senado S.E.El Presidente de la Republica incluye el proyecto en la Convocatoria Extraodinaria 339
+05 de Oct. de 1999 1ª / 341 Segundo trámite constitucional / Senado S.E.El Presidente de la Republica incluye el proyecto en la Convocatoria Extraodinaria 341
+13 de Mar. de 2002   Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 346
+14 de Sep. de 2004   Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 352
+04 de May. de 2005   Segundo trámite constitucional / Senado Oficio Nº H/06 de Comisión de hacienda. Solicita archivo Ver
+10 de May. de 2005 50ª / 352 Segundo trámite constitucional / Senado A solicitud de la Comisión de Hacienda, el Senado aprueba su archivo, previa aceptación de la H.Cámara de Diputados.
+07 de Mar. de 2006 60ª / 353 Segundo trámite constitucional / Senado Oficio Nº554-353. Cuenta Mensaje del Ejecutivo con el que solicita archivo del PL. Se accede a lo solicitado, y se manda comunicar a la CCDD. Ver
+08 de Mar. de 2006   Segundo trámite constitucional / Senado Oficio Nº26390. Acoge solicitud de S.E. el Presidente de la Repúblca de archivar proyecto de ley. Ver
+14 de Mar. de 2006 2ª / 354 Archivado / Cuenta oficio del Senado en la Cámara de Diputados que comunica solicitud para archivo de proyecto
+18 de May. de 2006   Archivado / Oficio Nº 6180. Se accede a petición del Senado en orden a proceder a su archivo Ver
+18 de May. de 2006   Segundo trámite constitucional / Senado Archivado
+18 de May. de 2006 29ª / 354 Segundo trámite constitucional / Senado Sala acuerda el archivo.
+06 de Jun. de 2006 19ª / 354 Archivado / Cuenta de oficio N° 6180 de la CCDD, con el que comunica que ha accedido a la solicitud de archivo. Se toma conocimiento y se manda archivar el documento junto a sus antecedentes.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1832-03","Fecha Etapa Informe Documento
+23 de Abr. de 1997 Primer trámite constitucional C.Diputados Segundo informe de comisión de Economía, Fomento y Desarrollo Ver
+10 de Ene. de 1997 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+11 de Jun. de 1996 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1832-03","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+09 de May. de 2000   Simple 424-341  
+04 de Abr. de 2000 09 de May. de 2000 Simple 371-341 422-341
+04 de Abr. de 2000 09 de May. de 2000 Simple 358-341 424-341
+02 de Sep. de 1997 17 de Sep. de 1997 Simple 020997 CADUCADO
+29 de Jul. de 1997 02 de Sep. de 1997 Suma 200797 020997
+17 de Jun. de 1997 29 de Jul. de 1997 Simple 170697 200797
+10 de Abr. de 1996 14 de May. de 1996 Simple 434-332 540-332","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1832-03","Nombre Región Distrito Partido
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1832-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1832-03","No record","Veto emmEnd"

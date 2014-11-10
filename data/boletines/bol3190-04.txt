@@ -1,0 +1,64 @@
+* * Bill summary * *
+"emmStart Summary 3190-04","Legislatura: 348
+Fecha de ingreso: jueves 09 de enero de 2003
+Estado: Tramitación terminada (Ley Nº 19.873 - D.Oficial 29/05/2003)
+Numero de boletín: 3190-04
+Materia: Universidades
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 00:10:41
+* * Hitos de tramitación * *
+"emmStart Hitos 3190-04","Fecha Sesión Etapa Sub-etapa Documento
+09 de Ene. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+09 de Ene. de 2003 41ª / 348 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+14 de Ene. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+15 de Ene. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+16 de Ene. de 2003 44ª / 348 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+16 de Ene. de 2003 44ª / 348 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+16 de Ene. de 2003   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+21 de Ene. de 2003 26ª / 348 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión Unidas de Hacienda y Educación
+22 de Ene. de 2003 27ª / 348 Segundo trámite constitucional / Senado Informe verbal de Comisión de Hacienda y Educación, unidas
+22 de Ene. de 2003 27ª / 348 Segundo trámite constitucional / Senado Discusión general Ver
+22 de Ene. de 2003   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+23 de Ene. de 2003 49ª / 348 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+23 de Ene. de 2003 49ª / 348 Tercer trámite constitucional / C. Diputados Discusión única Ver
+23 de Ene. de 2003   Tercer trámite constitucional / C. Diputados Oficio rechazo modificaciones a Cámara Revisora Ver
+04 de Mar. de 2003 28ª / 348 Comisión Mixta por rechazo de modificaciones / Senado Cuenta oficio rechazo a modificaciones
+03 de Abr. de 2003 63ª / 348 Disc. informe C.Mixta por rechazo de modific. en C. Origen / C. Diputados Cuenta informe Comisión Mixta Ver
+03 de Abr. de 2003 63ª / 348 Disc. informe C.Mixta por rechazo de modific. en C. Origen / C. Diputados Discusión informe de Comisión Mixta Ver
+03 de Abr. de 2003   Disc. informe C.Mixta por rechazo de modific. en C. Origen / C. Diputados Oficio aprobación de informe de Comisión Mixta a C. Revisora Ver
+15 de Abr. de 2003 40ª / 348 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Cuenta oficio aprobación de informe de Comisión Mixta
+15 de Abr. de 2003 40ª / 348 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Discusión informe de Comisión Mixta
+15 de Abr. de 2003   Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Oficio aprobación de informe de Comisión Mixta a C.de Origen Ver
+16 de Abr. de 2003 68ª / 348 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación de informe de Comisión Mixta Ver
+16 de Abr. de 2003   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3190-04","Fecha Etapa Informe Documento
+02 de Abr. de 2003 Comisión Mixta por rechazo de idea de legislar Senado Informe de Comisión Mixta de Educación, Cultura, Ciencia y Tecnología Ver
+22 de Ene. de 2003 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda y de Educación, Cultura, Ciencia y Tecnología, unidas Ver
+15 de Ene. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+14 de Ene. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3190-04","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Mar. de 2003 15 de Abr. de 2003 Simple 453-348 536-348
+14 de Ene. de 2003   Discusión inmediata 385-348  
+09 de Oct. de 2002   Simple 536-348  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3190-04","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3190-04","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+44   81 0 0 0   Sala Ver detalle votación
+44 1º, con indicación del Ejecutivo 80 0 0 1   Sala Ver detalle votación
+44 2º 78 0 0 1   Sala Ver detalle votación
+44 2º Transitorio 69 0 0 0   Sala Ver detalle votación
+44 3º 65 0 7 4   Sala Ver detalle votación
+44 4º 73 0 0 4   Sala Ver detalle votación
+44 1º Transitorio 71 0 0 4   Sala Ver detalle votación
+63   71 0 0 0   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3190-04","No record","Veto emmEnd"

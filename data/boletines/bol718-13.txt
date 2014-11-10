@@ -1,0 +1,56 @@
+* * Bill summary * *
+"emmStart Summary 718-13","Legislatura: 324
+Fecha de ingreso: martes 09 de junio de 1992
+Estado: Tramitación terminada (Ley Nº 19.200 - D.Oficial 18/01/1993)
+Numero de boletín: 718-13
+Materia: Pensiones,Sistemas De Pensiones
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 22:02:00
+* * Hitos de tramitación * *
+"emmStart Hitos 718-13","Fecha Sesión Etapa Sub-etapa Documento
+09 de Jun. de 1992 6ª / 324 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+09 de Jun. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+05 de Oct. de 1992   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+21 de Oct. de 1992   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+22 de Oct. de 1992 9ª / 325 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+22 de Oct. de 1992 9ª / 325 Primer trámite constitucional / C. Diputados Discusión general Ver
+29 de Oct. de 1992   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+03 de Nov. de 1992 13ª / 325 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+04 de Nov. de 1992 15ª / 325 Primer trámite constitucional / C. Diputados Discusión particular Ver
+05 de Nov. de 1992   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+10 de Nov. de 1992 9ª / 325 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social y a Comisión de Hacienda
+20 de Nov. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+24 de Nov. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+09 de Dic. de 1992 15ª / 325 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+09 de Dic. de 1992 15ª / 325 Segundo trámite constitucional / Senado Discusión general. Aprobado en general , se fija plazo de indicaciones hasta el 15 de diciembre. Ver
+21 de Dic. de 1992   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+22 de Dic. de 1992 19ª / 325 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+22 de Dic. de 1992 19ª / 325 Segundo trámite constitucional / Senado Discusión particular Ver
+29 de Dic. de 1992   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+05 de Ene. de 1993 34ª / 325 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+07 de Ene. de 1993 36ª / 325 Tercer trámite constitucional / C. Diputados Discusión única Ver
+07 de Ene. de 1993   Tercer trámite constitucional / C. Diputados Oficio aprobación de modificaciones a Cámara Revisora
+12 de Ene. de 1993 22ª / 325 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 1103, de la Cámara, comunicando aprobación enmiendas propuestas por el senado Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 718-13","Fecha Etapa Informe Documento
+21 de Dic. de 1992 Segundo trámite constitucional Senado Segundo informe de comisión de Trabajo y Previsión Social Ver
+24 de Nov. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+20 de Nov. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver
+29 de Oct. de 1992 Primer trámite constitucional C.Diputados Segundo informe de comisión de Trabajo y Seguridad Social Ver
+21 de Oct. de 1992 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+05 de Oct. de 1992 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 718-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+09 de Jun. de 1992   Simple    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 718-13","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 718-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 718-13","No record","Veto emmEnd"

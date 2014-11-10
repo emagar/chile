@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 1495-03","Legislatura: 330
+Fecha de ingreso: jueves 05 de enero de 1995
+Estado: Archivado .
+Numero de boletín: 1495-03
+Materia: Corfo
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 09:51:46
+* * Hitos de tramitación * *
+"emmStart Hitos 1495-03","Fecha Sesión Etapa Sub-etapa Documento
+05 de Ene. de 1995   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+05 de Ene. de 1995 32ª / 330 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+16 de May. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+16 de May. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+21 de May. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+21 de May. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+21 de May. de 1995 1ª / 331 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+31 de May. de 1995 3ª / 331 Primer trámite constitucional / C. Diputados Discusión general Ver
+05 de Oct. de 1995   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora
+10 de Oct. de 1995 4ª / 332 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Economía
+19 de Jul. de 1996   Segundo trámite constitucional / Senado Primer informe de comisión. Se propone el archivo del proyecto. Ver
+31 de Jul. de 1996 23ª / 333 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+17 de Jul. de 1997 18ª / 335 Segundo trámite constitucional / Senado Discusión general. Se accede a lo propuesto por la Comisión, previo acuerdo de la Cámara de Diputados. Ver
+25 de Jul. de 1997   Archivado / Oficio Nº11328. Oficio a la Cámara de Diputados solicitando autorización para archivar el proyecto. Ver
+29 de Jul. de 1997 23ª / 333 Segundo trámite constitucional / Senado Archivado Oficio de la Cámara de Diputados, con el que comunica que accedió al archivo propuesto. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1495-03","Fecha Etapa Informe Documento
+19 de Jul. de 1996 Segundo trámite constitucional Senado Primer informe de comisión de Economía Ver
+21 de May. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver
+16 de May. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1495-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1495-03","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1495-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1495-03","No record","Veto emmEnd"

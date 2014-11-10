@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 1175-07","Legislatura: 328
+Fecha de ingreso: martes 22 de marzo de 1994
+Estado: Tramitación terminada (Ley Nº 19.322 - D.Oficial 12/09/1994)
+Numero de boletín: 1175-07
+Materia: Nacionalización
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 04:03:06
+* * Hitos de tramitación * *
+"emmStart Hitos 1175-07","Fecha Sesión Etapa Sub-etapa Documento
+22 de Mar. de 1994 2ª / 328 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía
+22 de Mar. de 1994   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+13 de Abr. de 1994 7ª / 328 Primer trámite constitucional / Senado Primer informe de comisión Ver
+13 de Abr. de 1994 7ª / 328 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+19 de Abr. de 1994 8ª / 328 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+19 de Abr. de 1994 8ª / 328 Primer trámite constitucional / Senado Discusión general Ver
+21 de Abr. de 1994 15ª / 328 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+22 de Jun. de 1994   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Jul. de 1994 17ª / 329 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+12 de Jul. de 1994 19ª / 329 Segundo trámite constitucional / C. Diputados Discusión general Ver
+12 de Jul. de 1994   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen
+14 de Jul. de 1994 13ª / 329 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+14 de Jul. de 1994 13ª / 329 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1175-07","Fecha Etapa Informe Documento
+22 de Jun. de 1994 Segundo trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+13 de Abr. de 1994 Primer trámite constitucional Senado Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1175-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1175-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1175-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1175-07","No record","Veto emmEnd"

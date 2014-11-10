@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 895-04","Legislatura: 325
+Fecha de ingreso: lunes 21 de diciembre de 1992
+Estado: Tramitación terminada (Ley Nº 19.326 - D.Oficial 29/08/1994)
+Numero de boletín: 895-04
+Materia: Monumentos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 00:23:36
+* * Hitos de tramitación * *
+"emmStart Hitos 895-04","Fecha Sesión Etapa Sub-etapa Documento
+21 de Dic. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+21 de Dic. de 1992 32ª / 325 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+10 de Mar. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Mar. de 1993 55ª / 325 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. Pasa a Comisión de Hacienda Ver
+18 de Mar. de 1993 56ª / 325 Primer trámite constitucional / C. Diputados Discusión general Ver
+23 de Mar. de 1993 35ª / 325 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+01 de Jun. de 1994   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+07 de Jun. de 1994 3ª / 329 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión. Cuenta informe de la Comisión. Queda para tabla.
+09 de Jun. de 1994 4ª / 329 Segundo trámite constitucional / Senado Discusión general Ver
+06 de Jul. de 1994   Segundo trámite constitucional / Senado Nuevo primer informe de comisión Ver
+14 de Jul. de 1994 13ª / 329 Segundo trámite constitucional / Senado Cuenta nuevo primer informe. cuenta nuevo primer informe
+19 de Jul. de 1994 14ª / 329 Segundo trámite constitucional / Senado Discusión general Ver
+20 de Jul. de 1994   Segundo trámite constitucional / Senado Oficio Nº6225. Oficio a la Cámara de Diputados comunicando la aprobación del proyecto, con modificaciones. Ver
+04 de Ago. de 1994 18ª / 329 Tramitación terminada / Cuenta oficio Nº 191, de la Cámara, comunicando aprobación modificaciones propuestas por el Senado","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 895-04","Fecha Etapa Informe Documento
+06 de Jul. de 1994 Segundo trámite constitucional Senado Nuevo primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+01 de Jun. de 1994 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+10 de Mar. de 1993 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 895-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 895-04","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 895-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 895-04","No record","Veto emmEnd"

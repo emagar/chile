@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 136-05","Legislatura: 320
+Fecha de ingreso: martes 04 de septiembre de 1990
+Estado: Tramitación terminada (Ley Nº 19.000 - D.Oficial 26/09/1990)
+Numero de boletín: 136-05
+Materia: Bienes Raices Agrícolas,Bienes Públicos
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 05:46:09
+* * Hitos de tramitación * *
+"emmStart Hitos 136-05","Fecha Sesión Etapa Sub-etapa Documento
+04 de Sep. de 1990 29ª / 320 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+04 de Sep. de 1990   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Sep. de 1990 31ª / 320 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+06 de Sep. de 1990 31ª / 320 Primer trámite constitucional / C. Diputados Discusión general Ver
+06 de Sep. de 1990 31ª / 320 Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+06 de Sep. de 1990 31ª / 320 Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+06 de Sep. de 1990 31ª / 320 Primer trámite constitucional / C. Diputados Primer informe de comisión Ver Ver
+12 de Sep. de 1990 31ª / 320 Segundo trámite constitucional / Senado Cuenta de proyecto
+12 de Sep. de 1990 31ª / 320 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Sep. de 1990 31ª / 320 Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen
+12 de Sep. de 1990 31ª / 320 Segundo trámite constitucional / Senado Primer informe de comisión Ver
+12 de Sep. de 1990 31ª / 320 Segundo trámite constitucional / Senado Discusión general Ver
+12 de Sep. de 1990 31ª / 320 Tramitación terminada / Aprobado.
+12 de Sep. de 1990   Tramitación terminada / Oficio Nº525. comunica aprobación sin modificaciones a Cámara de origen Ver
+13 de Sep. de 1990 35ª / 320 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+29 de Abr. de 2003   Trámite finalización en Cámara de Origen / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 348","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 136-05","Fecha Etapa Informe Documento
+12 de Sep. de 1990 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+06 de Sep. de 1990 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 136-05","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 136-05","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 136-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 136-05","No record","Veto emmEnd"

@@ -1,0 +1,33 @@
+* * Bill summary * *
+"emmStart Summary 7040-14","Legislatura: 358
+Fecha de ingreso: martes 06 de julio de 2010
+Estado: Primer trámite constitucional .
+Numero de boletín: 7040-14
+Materia: Bienes Raices,Beneficios,Hualpen (Chile),Talcahuano (Chile),Pobreza
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 23:33:51
+* * Hitos de tramitación * *
+"emmStart Hitos 7040-14","Fecha Sesión Etapa Sub-etapa Documento
+06 de Jul. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Jul. de 2010 47ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Vivienda y Desarrollo Urbano Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7040-14","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7040-14","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7040-14","Nombre Región Distrito Partido
+Sergio Bobadilla Muñoz VIII Región del Bío Bío N°45 Unión Demócrata Independiente
+Cristián Campos Jara VIII Región del Bío Bío N°43 Partido Por la Democracia
+Andrea Molina Oliva V Región de Valparaíso N°10 Unión Demócrata Independiente
+Iván Norambuena Farías VIII Región del Bío Bío N°46 Unión Demócrata Independiente
+Jorge Ulloa Aguillón VIII Región del Bío Bío N°43 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7040-14","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7040-14","No record","Veto emmEnd"

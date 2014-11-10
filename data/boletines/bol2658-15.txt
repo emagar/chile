@@ -1,0 +1,65 @@
+* * Bill summary * *
+"emmStart Summary 2658-15","Legislatura: 343
+Fecha de ingreso: jueves 18 de enero de 2001
+Estado: Tramitación terminada (Ley Nº 20.046 - D.Oficial 30/09/2005)
+Numero de boletín: 2658-15
+Materia: Licencias De Conducir
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 08:10:18
+* * Hitos de tramitación * *
+"emmStart Hitos 2658-15","Fecha Sesión Etapa Sub-etapa Documento
+18 de Ene. de 2001   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+18 de Ene. de 2001 38ª / 343 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+18 de Ene. de 2001   Primer trámite constitucional / C. Diputados Oficio a Corte Suprema, solicita opinión sobre proyecto. Ver
+04 de Abr. de 2001   Primer trámite constitucional / C. Diputados Oficio de respuesta de Corte Suprema Ver
+11 de Abr. de 2001 53ª / 343 Primer trámite constitucional / C. Diputados Cuenta Oficio de Corte Suprema, remite opinión solicitada. Ver
+24 de Oct. de 2001   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+30 de Oct. de 2001 10ª / 345 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+18 de Dic. de 2001 21ª / 345 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+18 de Dic. de 2001   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+19 de Dic. de 2001 19ª / 345 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones
+13 de Mar. de 2002   Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 346
+14 de Sep. de 2004   Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 352
+17 de Ene. de 2005   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+19 de Ene. de 2005 29ª / 352 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+08 de Mar. de 2005 33ª / 352 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 04/04/2005 Ver
+04 de Abr. de 2005   Segundo trámite constitucional / Senado Boletín de indicaciones
+07 de Jul. de 2005   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+13 de Jul. de 2005 16ª / 353 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+19 de Jul. de 2005 18ª / 353 Segundo trámite constitucional / Senado Discusión particular Ver
+19 de Jul. de 2005   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+20 de Jul. de 2005 21ª / 353 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver Ver
+02 de Ago. de 2005 24ª / 353 Tercer trámite constitucional / C. Diputados Discusión única Ver
+02 de Ago. de 2005   Tercer trámite constitucional / C. Diputados Oficio Nº 5756, que comunica aprobación de modificaciones Ver
+02 de Ago. de 2005   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+09 de Ago. de 2005 22ª / 353 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 5756, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2658-15","Fecha Etapa Informe Documento
+07 de Jul. de 2005 Segundo trámite constitucional Senado Segundo informe de comisión de Transportes y Telecomunicaciones Ver
+17 de Ene. de 2005 Segundo trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver
+24 de Oct. de 2001 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2658-15","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2658-15","Nombre Región Distrito Partido
+Claudio Alvarado Andrade X Región de los Lagos N°58 Unión Demócrata Independiente
+Rafael Arratia Valdebenito VI Región del Libertador Bernardo O' Higgins N°35 Partido Demócrata Cristiano
+Mario Bertolino Rendic IV Región de Coquimbo N°7 Renovación Nacional
+Eliana Caraball Martínez RM Región Metropolitana N°27 Partido Demócrata Cristiano
+Francisco Encina Moriamez IV Región de Coquimbo N°8 Partido Socialista
+Pablo Galilea Carrillo XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Renovación Nacional
+Miguel Hernández Saffirio IX Región de la Araucanía N°49 Partido Demócrata Cristiano
+Carlos Ignacio Kuschel Silva X Región de los Lagos N°57 Renovación Nacional
+Juan Pablo Letelier Morel VI Región del Libertador Bernardo O' Higgins N°33 Partido Socialista
+Edmundo Salas De la Fuente VIII Región del Bío Bío N°45 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2658-15","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+24   74 0 0 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2658-15","No record","Veto emmEnd"

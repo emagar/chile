@@ -1,0 +1,71 @@
+* * Bill summary * *
+"emmStart Summary 8612-02","Legislatura: 360
+Fecha de ingreso: martes 09 de octubre de 2012
+Estado: Segundo trámite constitucional .
+Numero de boletín: 8612-02
+Materia: Fuegos Artificiales,Comercialización De Fuegos Artificiales
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 03:39:26
+* * Hitos de tramitación * *
+"emmStart Hitos 8612-02","Fecha Sesión Etapa Sub-etapa Documento
+09 de Oct. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+09 de Oct. de 2012 86ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Defensa Nacional Ver
+10 de Dic. de 2012 109ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 386-360 que hace presente la urgencia Simple Ver
+11 de Dic. de 2012   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Dic. de 2012 111ª / 360 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+12 de Dic. de 2012   Segundo trámite constitucional / Senado Oficio N° 238-2012 a la Corte Suprema Ver
+13 de Dic. de 2012 113ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+13 de Dic. de 2012   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+18 de Dic. de 2012 87ª / 360 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Defensa Nacional
+08 de Ene. de 2013 92ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 435-360 que retira y hace presente la urgencia Simple
+15 de Ene. de 2013 94ª / 360 Segundo trámite constitucional / Senado Los Comités acuerdan autorizar a la Comisión para discutir en general y en particular el proyecto durante el primer informe.
+05 de Mar. de 2013 100ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 462-360 que retira la urgencia Simple
+05 de Mar. de 2013 100ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 466-360 que hace presente la urgencia Simple
+03 de Abr. de 2013 8ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 42-361 que retira y hace presente la urgencia Simple
+30 de Abr. de 2013 18ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 75-361 que retira y hace presente la urgencia Simple
+04 de Jun. de 2013 27ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 118-361 que retira y hace presente la urgencia Simple
+03 de Jul. de 2013 38ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 173-361 que retira y hace presente la urgencia Simple
+31 de Jul. de 2013 43ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 207-361 que retira y hace presente la urgencia Simple
+28 de Ago. de 2013 50ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 246-361 que retira y hace presente la urgencia Simple
+16 de Sep. de 2013 57ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 273-361 que retira y hace presente la urgencia Simple
+16 de Oct. de 2013 64ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 312-361 que retira y hace presente la urgencia Simple
+06 de Nov. de 2013 69ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 332-361 que retira y hace presente la urgencia Simple
+04 de Dic. de 2013 77ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 368-361 que retira y hace presente la urgencia Simple
+07 de Ene. de 2014 83ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 405-361 que retira y hace presente la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8612-02","Fecha Etapa Informe Documento
+11 de Dic. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Defensa Nacional Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8612-02","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+07 de Ene. de 2014   Simple 405-361  
+04 de Dic. de 2013 07 de Ene. de 2014 Simple 368-361 405-361
+06 de Nov. de 2013 04 de Dic. de 2013 Simple 332-361 368-361
+16 de Oct. de 2013 06 de Nov. de 2013 Simple 312-361 332-361
+16 de Sep. de 2013 16 de Oct. de 2013 Simple 273-361 312-361
+28 de Ago. de 2013 16 de Sep. de 2013 Simple 246-361 273-361
+31 de Jul. de 2013 28 de Ago. de 2013 Simple 207-361 246-361
+03 de Jul. de 2013 31 de Jul. de 2013 Simple 173-361 207-361
+04 de Jun. de 2013 03 de Jul. de 2013 Simple 118-361 173-361
+30 de Abr. de 2013 04 de Jun. de 2013 Simple 75-361 118-361
+03 de Abr. de 2013 30 de Abr. de 2013 Simple 42-361 75-361
+05 de Mar. de 2013 03 de Abr. de 2013 Simple 466-360 42-361
+08 de Ene. de 2013 24 de Ene. de 2013 Simple 435-360 462-360
+10 de Dic. de 2012 08 de Ene. de 2013 Simple 386-360 435-360","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8612-02","Nombre Región Distrito Partido
+Ministerio de Justicia      
+Ministerio de Salud      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8612-02","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+113 Salvo literal b) del artículo 1° 42 9 4 65 Aprobado Sala Ver detalle votación
+113 Solicitud de votación en particular 47 5 2 66 Aprobado Sala Ver detalle votación
+113 Indicación al literal b) del artículo 1° 32 26 1 61 Aprobado Sala Ver detalle votación
+85 Votación General 10 0 0 3   Defensa Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8612-02","No record","Veto emmEnd"

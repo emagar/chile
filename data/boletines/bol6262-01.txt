@@ -1,0 +1,52 @@
+* * Bill summary * *
+"emmStart Summary 6262-01","Legislatura: 356
+Fecha de ingreso: jueves 11 de diciembre de 2008
+Estado: Segundo trámite constitucional .
+Numero de boletín: 6262-01
+Materia: Creditos,Instituto De Desarrollo Agropecuario,Indap (Chile)
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 04:44:01
+* * Hitos de tramitación * *
+"emmStart Hitos 6262-01","Fecha Sesión Etapa Sub-etapa Documento
+11 de Dic. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+11 de Dic. de 2008 115ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Cuenta de proyecto. A COMISIÓN DE AGRICULTURA. Ver
+05 de Jul. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+13 de Jul. de 2010 51ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+27 de Jul. de 2010 55ª / 358 Primer trámite constitucional / C. Diputados Aprobado en general, nuevo informe de la Comisión de Agricultura, Silvicultura y Pesca. Ver
+03 de Ago. de 2010   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+10 de Ago. de 2010 61ª / 358 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+12 de Ago. de 2010 63ª / 358 Primer trámite constitucional / C. Diputados Discusión particular Ver
+12 de Ago. de 2010   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+17 de Ago. de 2010 43ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Agricultura","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6262-01","Fecha Etapa Informe Documento
+03 de Ago. de 2010 Primer trámite constitucional C.Diputados Segundo informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+05 de Jul. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6262-01","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6262-01","Nombre Región Distrito Partido
+Gonzalo Arenas Hödar IX Región de la Araucanía N°48 Unión Demócrata Independiente
+Ramón Barros Montero VI Región del Libertador Bernardo O' Higgins N°35 Unión Demócrata Independiente
+Eugenio Bauer Jouanne VI Región del Libertador Bernardo O' Higgins N°33 Unión Demócrata Independiente
+Enrique Estay Peñaloza IX Región de la Araucanía N°49 Unión Demócrata Independiente
+Alejandro García-Huidobro Sanfuentes VI Región del Libertador Bernardo O' Higgins N°32 Unión Demócrata Independiente
+Javier Hernández Hernández X Región de los Lagos N°55 Unión Demócrata Independiente
+Iván Moreira Barros RM Región Metropolitana N°27 Unión Demócrata Independiente
+Iván Norambuena Farías VIII Región del Bío Bío N°46 Unión Demócrata Independiente
+Gastón Von Mühlenbrock Zamora XIV Región de los Ríos N°54 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6262-01","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+55   88 6 5 21 Aprobado Sala Ver detalle votación
+63 Texto del proyecto contenido en el segundo informe. 74 0 0 46 Aprobado Sala Ver detalle votación
+13 Modifica Artículo 5 letra e) 5 0 0 8   Agricultura Ver detalle votación
+13 Votación General 5 0 0 8   Agricultura Ver detalle votación
+16 Modifica Artículo 5 letra m) 8 0 0 5   Agricultura Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6262-01","No record","Veto emmEnd"

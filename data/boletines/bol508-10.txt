@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 508-10","Legislatura: 323
+Fecha de ingreso: sábado 02 de noviembre de 1991
+Estado: Tramitación terminada (D.S. Nº 1.539 - D.Oficial 22/03/1994)
+Numero de boletín: 508-10
+Materia: Acuerdos Internacionales,Registros Publicos
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 18:46:30
+* * Hitos de tramitación * *
+"emmStart Hitos 508-10","Fecha Sesión Etapa Sub-etapa Documento
+01 de Oct. de 1991 1ª / 323 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+01 de Oct. de 1991   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+29 de Oct. de 1991 8ª / 323 Primer trámite constitucional / Senado Primer informe de comisión Ver
+29 de Oct. de 1991 8ª / 323 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Nov. de 1991 10ª / 323 Primer trámite constitucional / Senado Discusión general Ver
+13 de Nov. de 1991 10ª / 323 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+13 de Nov. de 1991 21ª / 323 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+12 de May. de 1992   Segundo trámite constitucional / C. Diputados Primer informe de comisión
+16 de Jun. de 1992 9ª / 324 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+16 de Jun. de 1992 9ª / 324 Segundo trámite constitucional / C. Diputados Discusión general Ver
+16 de Jun. de 1992   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen
+30 de Jun. de 1992 6ª / 324 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+01 de Jul. de 1992 6ª / 324 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 508-10","Fecha Etapa Informe Documento
+12 de May. de 1992 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+29 de Oct. de 1991 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 508-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 508-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 508-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 508-10","No record","Veto emmEnd"

@@ -1,0 +1,52 @@
+* * Bill summary * *
+"emmStart Summary 4392-03","Legislatura: 354
+Fecha de ingreso: jueves 03 de agosto de 2006
+Estado: Tramitación terminada (Ley Nº 20.122 - D.Oficial 28/09/2006)
+Numero de boletín: 4392-03
+Materia: Emisión De Contaminantes,Vehículos Internados,Zona Franca De Extensión
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 01:07:40
+* * Hitos de tramitación * *
+"emmStart Hitos 4392-03","Fecha Sesión Etapa Sub-etapa Documento
+03 de Ago. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Ago. de 2006 57ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión Zonas Extremas Ver
+08 de Ago. de 2006 58ª / 354 Tramitación terminada / Cuenta del Mensaje 241-354 que hace presente la urgencia Simple
+09 de Ago. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+16 de Ago. de 2006 63ª / 354 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+16 de Ago. de 2006 63ª / 354 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+16 de Ago. de 2006   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+29 de Ago. de 2006 45ª / 354 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones Ver
+30 de Ago. de 2006   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+30 de Ago. de 2006 47ª / 354 Segundo trámite constitucional / Senado Discusión general Ver
+30 de Ago. de 2006   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+30 de Ago. de 2006 47ª / 354 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+30 de Ago. de 2006   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+05 de Sep. de 2006 69ª / 354 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4392-03","Fecha Etapa Informe Documento
+30 de Ago. de 2006 Segundo trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver
+09 de Ago. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión Zonas Extremas Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4392-03","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+08 de Ago. de 2006   Simple 241-354  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4392-03","Nombre Región Distrito Partido
+René Alinco Bustos XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Partido Por la Democracia
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Pablo Lorenzini Basso VII Región del Maule N°38 Partido Demócrata Cristiano
+Iván Paredes Fierro XV Región Arica y Parinacota N°1 Partido Socialista
+Fulvio Rossi Ciocca I Región de Tarapacá N°2 Partido Socialista","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4392-03","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+11 Votación Particular 7 0 0 6   Zonas Extremas (E) Ver detalle votación
+9 Votación General 7 0 0 6   Zonas Extremas (E) Ver detalle votación
+63   98 0 0 2 Aprobado Sala Ver detalle votación
+63 Declaración de inadmisibilidad de la indicación de los Diputados Muñoz, doña Adriana; Quintana, Accorsi, Girardi, Núñez, Alinco, Jiménez; Soto, doña Laura; Tuma, Farías, Leal y Valenzela, para eliminar la coma después de la palabra ""Extensión"" e intercalar a continuación la frase ""o de conformidad con lo dispuesto en el artículo 39 de la ley N°19.284."". 64 37 1 1 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4392-03","No record","Veto emmEnd"

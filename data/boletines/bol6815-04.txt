@@ -1,0 +1,39 @@
+* * Bill summary * *
+"emmStart Summary 6815-04","Legislatura: 357
+Fecha de ingreso: martes 05 de enero de 2010
+Estado: Archivado .
+Numero de boletín: 6815-04
+Materia: Educación Pública
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 08-11-2014 18:14:12
+* * Hitos de tramitación * *
+"emmStart Hitos 6815-04","Fecha Sesión Etapa Sub-etapa Documento
+05 de Ene. de 2010   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+05 de Ene. de 2010 79ª / 357 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología y a Comisión de Hacienda, en su caso.
+06 de Ene. de 2010 80ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 1779-357 que hace presente la urgencia Suma
+19 de Ene. de 2010   Primer trámite constitucional / Senado Primer informe de comisión Ver
+19 de Ene. de 2010 83ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 1886-357 que retira la urgencia Suma Ver
+19 de Ene. de 2010 83ª / 357 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+24 de Mar. de 2010 5ª / 358 Primer trámite constitucional / Senado La Sala, previo acuerdo de Comités, dispone que este asunto vuelva a la Comisión de Educación, Cultura, Ciencia y Tecnología, para un nuevo primer informe. Ver
+20 de Mar. de 2014   Primer trámite constitucional / Senado Archivado En conformidad con lo dispuesto en el inciso segundo del artículo 36 bis del Reglamento, la Comisión dispone el archivo de este asunto (Oficio N° ED/19/2014).","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6815-04","Fecha Etapa Informe Documento
+19 de Ene. de 2010 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6815-04","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+06 de Ene. de 2010 19 de Ene. de 2010 Suma 1779-357 1886-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6815-04","Nombre
+Ministerio de Educación
+Ministerio de Hacienda
+Ministerio de Interior y Seguridad Públi","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6815-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6815-04","No record","Veto emmEnd"

@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 3260-07","Legislatura: 349
+Fecha de ingreso: martes 17 de junio de 2003
+Estado: Tramitación terminada (Ley Nº 19.890 - D.Oficial 08/08/2003)
+Numero de boletín: 3260-07
+Materia: Nacionalización
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 04-11-2014 00:54:07
+* * Hitos de tramitación * *
+"emmStart Hitos 3260-07","Fecha Sesión Etapa Sub-etapa Documento
+17 de Jun. de 2003   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+17 de Jun. de 2003 5ª / 349 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía
+18 de Jun. de 2003   Primer trámite constitucional / Senado Primer informe de comisión Ver
+01 de Jul. de 2003 7ª / 349 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+02 de Jul. de 2003 8ª / 349 Primer trámite constitucional / Senado Discusión general Ver
+03 de Jul. de 2003   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+09 de Jul. de 2003 15ª / 349 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Cíudadanía Ver
+09 de Jul. de 2003   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+16 de Jul. de 2003 18ª / 349 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+16 de Jul. de 2003 18ª / 349 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+17 de Jul. de 2003   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+18 de Jul. de 2003   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+29 de Jul. de 2003 15ª / 349 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3260-07","Fecha Etapa Informe Documento
+09 de Jul. de 2003 Segundo trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+18 de Jun. de 2003 Primer trámite constitucional Senado Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3260-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3260-07","Nombre
+Carmen Frei Ruiz-Tagle
+Jaime Gazmuri Mujica
+Hernán Larraín Fernández
+Enrique Silva Cimma
+Gabriel Valdés Subercaseaux","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3260-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3260-07","No record","Veto emmEnd"

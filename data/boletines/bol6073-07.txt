@@ -1,0 +1,48 @@
+* * Bill summary * *
+"emmStart Summary 6073-07","Legislatura: 356
+Fecha de ingreso: miércoles 03 de septiembre de 2008
+Estado: Segundo trámite constitucional .
+Numero de boletín: 6073-07 Refundido con: 5813-07
+Materia: Reclusión Nocturna
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 08-11-2014 02:32:47
+* * Hitos de tramitación * *
+"emmStart Hitos 6073-07","Fecha Sesión Etapa Sub-etapa Documento
+03 de Sep. de 2008   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+09 de Sep. de 2008 50ª / 356 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+31 de Mar. de 2009 5ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 75-357 que hace presente la urgencia Simple
+27 de Abr. de 2009   Primer trámite constitucional / Senado Primer informe de comisión Ver
+29 de Abr. de 2009 13ª / 357 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+05 de May. de 2009 14ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 277-357 que retira y hace presente la urgencia Simple Ver
+05 de May. de 2009 14ª / 357 Primer trámite constitucional / Senado La Sala acuerda volver este proyecto a la Comisión de Constitución para un nuevo informe que analice otras iniciativas que tratan la misma materia.
+12 de May. de 2009 16ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 373-357 que retira la urgencia Simple Ver
+30 de Jun. de 2009   Primer trámite constitucional / Senado Nuevo primer informe de comisión Ver
+07 de Jul. de 2009 31ª / 357 Primer trámite constitucional / Senado Cuenta nuevo primer informe
+28 de Jul. de 2009 35ª / 357 Primer trámite constitucional / Senado Discusión general. Aprobado en general y particular a la vez La Sala acuerda, asimismo, aprobar el Boletín N° 6.073-07 refundido con el Boletín N°5.813-07, iniciado este último por Moción del Senador señor Orpis. Ver
+28 de Jul. de 2009   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+30 de Jul. de 2009 57ª / 357 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6073-07","Fecha Etapa Informe Documento
+30 de Jun. de 2009 Primer trámite constitucional Senado Nuevo primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+27 de Abr. de 2009 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6073-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+05 de May. de 2009 12 de May. de 2009 Simple 277-357 373-357
+31 de Mar. de 2009 04 de May. de 2009 Simple 75-357 277-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6073-07","Nombre
+Andrés Allamand Zavala
+Andrés Chadwick Piñera
+Alberto Espina Otero
+José García Ruminot
+Hernán Larraín Fernández","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6073-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6073-07","No record","Veto emmEnd"

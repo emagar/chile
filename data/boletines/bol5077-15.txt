@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 5077-15","Legislatura: 355
+Fecha de ingreso: miércoles 13 de junio de 2007
+Estado: Primer trámite constitucional .
+Numero de boletín: 5077-15
+Materia: Autoridad Metropolitana De Transporte,Transporte
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 00:27:42
+* * Hitos de tramitación * *
+"emmStart Hitos 5077-15","Fecha Sesión Etapa Sub-etapa Documento
+13 de Jun. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Jun. de 2007 35ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+04 de Jul. de 2007 45ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 385-355 que hace presente la urgencia Simple Ver
+07 de Ago. de 2007 60ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 525-355 que retira y hace presente la urgencia Simple Ver
+09 de Ago. de 2007 62ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 576-355 que retira la urgencia Simple Ver
+04 de Mar. de 2008 137ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1432-355 que hace presente la urgencia Simple Ver
+01 de Abr. de 2008 10ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 39-356 que retira la urgencia Simple Ver
+30 de Sep. de 2008 82ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 840-356 que hace presente la urgencia Simple Ver
+04 de Nov. de 2008 95ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 971-356 que retira y hace presente la urgencia Simple Ver
+09 de Dic. de 2008 113ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1174-356 que retira y hace presente la urgencia Simple Ver
+06 de Ene. de 2009 119ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1249-356 que retira la urgencia Simple Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5077-15","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5077-15","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+09 de Dic. de 2008 06 de Ene. de 2009 Simple 1174-356 1249-356
+04 de Nov. de 2008 09 de Dic. de 2008 Simple 971-356 1174-356
+30 de Sep. de 2008 04 de Nov. de 2008 Simple 840-356 971-356
+04 de Mar. de 2008 01 de Abr. de 2008 Simple 1432-355 39-356
+07 de Ago. de 2007 09 de Ago. de 2007 Simple 525-355 576-355
+04 de Jul. de 2007 07 de Ago. de 2007 Simple 385-355 525-355","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5077-15","Nombre Región Distrito Partido
+Ministerio de Transporte y Telecomunicaciones      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5077-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5077-15","No record","Veto emmEnd"

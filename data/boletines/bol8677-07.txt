@@ -1,0 +1,79 @@
+* * Bill summary * *
+"emmStart Summary 8677-07","Legislatura: 360
+Fecha de ingreso: lunes 12 de noviembre de 2012
+Estado: Tramitación terminada (Ley Nº 20.685 - D.Oficial 20/08/2013)
+Numero de boletín: 8677-07
+Materia: Delitos Sexuales Contra Menores,Circunstancias Agravantes
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 10-11-2014 04:24:22
+* * Hitos de tramitación * *
+"emmStart Hitos 8677-07","Fecha Sesión Etapa Sub-etapa Documento
+12 de Nov. de 2012   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+19 de Nov. de 2012 61ª / 360 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+19 de Nov. de 2012 61ª / 360 Primer trámite constitucional / Senado Cuenta del Mensaje 352-360 que hace presente la urgencia Simple
+19 de Dic. de 2012 89ª / 360 Primer trámite constitucional / Senado Cuenta del Mensaje 410-360 que retira y hace presente la urgencia Simple
+16 de Ene. de 2013 96ª / 360 Primer trámite constitucional / Senado Cuenta del Mensaje 450-360 que retira y hace presente la urgencia Simple
+05 de Mar. de 2013 100ª / 360 Primer trámite constitucional / Senado Cuenta del Mensaje 462-360 que retira la urgencia Simple
+05 de Mar. de 2013 100ª / 360 Primer trámite constitucional / Senado Cuenta del Mensaje 466-360 que hace presente la urgencia Simple
+12 de Mar. de 2013 1ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 472-360 que retira y hace presente la urgencia Suma
+02 de Abr. de 2013 7ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 38-361 que retira y hace presente la urgencia Suma
+05 de Abr. de 2013   Primer trámite constitucional / Senado Primer informe de comisión Ver
+09 de Abr. de 2013 10ª / 361 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Abr. de 2013 13ª / 361 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 29/04/2013 Ver
+10 de Abr. de 2013 13ª / 361 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 29/04/2013 Ver
+17 de Abr. de 2013 17ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 64-361 que retira y hace presente la urgencia Suma
+29 de Abr. de 2013   Primer trámite constitucional / Senado Boletín de indicaciones
+30 de Abr. de 2013 18ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 74-361 que retira y hace presente la urgencia Suma
+06 de May. de 2013   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+08 de May. de 2013 21ª / 361 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+22 de May. de 2013 26ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 111-361 que retira y hace presente la urgencia Suma Ver
+22 de May. de 2013 26ª / 361 Primer trámite constitucional / Senado Discusión particular Ver
+22 de May. de 2013   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+23 de May. de 2013 31ª / 361 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+04 de Jun. de 2013 32ª / 361 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 114-361 que hace presente la urgencia Suma Ver
+02 de Jul. de 2013 42ª / 361 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 160-361 que hace presente la urgencia Suma Ver
+10 de Jul. de 2013 46ª / 361 Segundo trámite constitucional / C. Diputados Primer informe de comisión. Cuenta Informe de Comisión. Ver Ver
+10 de Jul. de 2013 46ª / 361 Segundo trámite constitucional / C. Diputados Discusión general. Aprobado en general y particular con modificaciones Ver
+10 de Jul. de 2013   Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver
+10 de Jul. de 2013 40ª / 361 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+17 de Jul. de 2013 41ª / 361 Tercer trámite constitucional / Senado Discusión única
+17 de Jul. de 2013   Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo Ver
+17 de Jul. de 2013   Tercer trámite constitucional / Senado Oficio N° 551/SEC/13, que comunica aprobacion de modificaciones Ver
+18 de Jul. de 2013 49ª / 361 Tercer trámite constitucional / Senado Cuenta oficio N° 551/SEC/13, que comunica aprobacion de modificaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8677-07","Fecha Etapa Informe Documento
+10 de Jul. de 2013 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+06 de May. de 2013 Primer trámite constitucional Senado Segundo informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+05 de Abr. de 2013 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8677-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+02 de Jul. de 2013   Suma 160-361  
+04 de Jun. de 2013   Suma 114-361  
+22 de May. de 2013   Suma 111-361  
+30 de Abr. de 2013 22 de May. de 2013 Suma 74-361 111-361
+17 de Abr. de 2013 30 de Abr. de 2013 Suma 64-361 74-361
+02 de Abr. de 2013 17 de Abr. de 2013 Suma 38-361 64-361
+12 de Mar. de 2013 02 de Abr. de 2013 Suma 472-360 38-361
+05 de Mar. de 2013 11 de Mar. de 2013 Simple 466-360 472-360
+16 de Ene. de 2013 24 de Ene. de 2013 Simple 450-360 462-360
+19 de Dic. de 2012 16 de Ene. de 2013 Simple 410-360 450-360
+19 de Nov. de 2012 19 de Dic. de 2012 Simple 236-360 410-360
+19 de Nov. de 2012   Simple 352-360  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8677-07","Nombre
+Ministerio de Interior y Seguridad Públi
+Ministerio de Justicia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8677-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+46   95 0 0 0 Aprobado Sala Ver detalle votación
+46 Artículo 3° 101 0 0 0 Aprobado Sala Ver detalle votación
+46 Artículo 2° 98 0 0 0 Aprobado Sala Ver detalle votación
+46 Artículo 1° 96 0 0 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8677-07","No record","Veto emmEnd"

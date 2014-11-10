@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 3332-07","Legislatura: 349
+Fecha de ingreso: martes 02 de septiembre de 2003
+Estado: Primer trámite constitucional .
+Numero de boletín: 3332-07
+Materia: Derecho Del Trabajo
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 01:37:18
+* * Hitos de tramitación * *
+"emmStart Hitos 3332-07","Fecha Sesión Etapa Sub-etapa Documento
+02 de Sep. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Sep. de 2003 35ª / 349 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+09 de Jun. de 2009   Primer trámite constitucional / C. Diputados Archivado
+09 de Jun. de 2009 37ª / 357 Archivado / Comisión de Constitución archiva proyecto.
+28 de Oct. de 2010 92ª / 358 Primer trámite constitucional / C. Diputados Desarchivado Oficio de los señores Diputados Alinco y Jiménez, quienes solicitan el desarchivo del proyecto . Acordado. Ver
+16 de Nov. de 2010   Primer trámite constitucional / C. Diputados Oficio de la Comisión de Trabajo, por el cual solicita el acuerdo de la Sala, para que le sea remitido el proyecto. Acordado.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3332-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3332-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+02 de Sep. de 2003   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3332-07","Nombre Región Distrito Partido
+Sergio Aguiló Melo VII Región del Maule N°37 Partido Socialista
+Juan Bustos Ramírez V Región de Valparaíso N°12 Partido Socialista
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+Pedro Muñoz Aburto XII Región de Magallanes y de la Antártica Chilena N°60 Partido Socialista
+Adriana Muñoz D'Albora IV Región de Coquimbo N°9 Partido Por la Democracia
+Alejandro Navarro Brain VIII Región del Bío Bío N°45 Partido Socialista
+José Pérez Arriagada VIII Región del Bío Bío N°47 Partido Radical Social Demócrata
+Fulvio Rossi Ciocca I Región de Tarapacá N°2 Independientes
+Rodolfo Seguel Molina RM Región Metropolitana N°28 Partido Demócrata Cristiano
+Boris Tapia Martínez VII Región del Maule N°36 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3332-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3332-07","No record","Veto emmEnd"

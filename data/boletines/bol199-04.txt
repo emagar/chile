@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 199-04","Legislatura: 321
+Fecha de ingreso: martes 06 de noviembre de 1990
+Estado: Tramitación terminada (Ley Nº 19.166 - D.Oficial 17/09/1992)
+Numero de boletín: 199-04
+Materia: Propiedad Intelectual
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 07:08:54
+* * Hitos de tramitación * *
+"emmStart Hitos 199-04","Fecha Sesión Etapa Sub-etapa Documento
+06 de Nov. de 1990   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Nov. de 1990 10ª / 321 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+21 de Ago. de 1991 32ª / 322 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Constitución Ver
+03 de Oct. de 1991 7ª / 323 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+17 de Dic. de 1991 34ª / 323 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión. de Constitución Ver
+19 de Dic. de 1991 37ª / 323 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver
+07 de Ene. de 1992 30ª / 323 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a las Comisiones de Educación y Cultura, y a la de Constitución, Legislación, Justicia y Reglamento.
+15 de Abr. de 1992 52ª / 323 Segundo trámite constitucional / Senado Se acuerda que el proyecto no pase a la Comisión de Constitución, Legislación, Justicia y Reglamento.
+21 de Abr. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+28 de Abr. de 1992 53ª / 323 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+29 de Abr. de 1992 54ª / 323 Segundo trámite constitucional / Senado Discusión general Ver
+08 de May. de 1992   Segundo trámite constitucional / Senado Boletín de indicaciones
+17 de Ago. de 1992   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+19 de Ago. de 1992 19ª / 324 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+20 de Ago. de 1992 20ª / 324 Segundo trámite constitucional / Senado Discusión particular Ver
+27 de Ago. de 1992   Segundo trámite constitucional / Senado Oficio Nº3497. comunica aprobación con modificaciones a Cámara de origen Ver
+01 de Sep. de 1992 34ª / 324 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+02 de Sep. de 1992 35ª / 324 Tercer trámite constitucional / C. Diputados Discusión única Ver
+29 de Abr. de 2003   Tercer trámite constitucional / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 348","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 199-04","Fecha Etapa Informe Documento
+17 de Ago. de 1992 Segundo trámite constitucional Senado Segundo informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+21 de Abr. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 199-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 199-04","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 199-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 199-04","No record","Veto emmEnd"

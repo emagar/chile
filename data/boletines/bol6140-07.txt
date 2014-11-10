@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 6140-07","Legislatura: 356
+Fecha de ingreso: miércoles 08 de octubre de 2008
+Estado: Segundo trámite constitucional .
+Numero de boletín: 6140-07
+Materia: Derecho De Alimentos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 03:19:54
+* * Hitos de tramitación * *
+"emmStart Hitos 6140-07","Fecha Sesión Etapa Sub-etapa Documento
+08 de Oct. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+08 de Oct. de 2008 86ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia. Se remite el proyecto a la Corte Suprema. Ver
+08 de Oct. de 2008   Primer trámite constitucional / C. Diputados Oficio Nº a la Corte Suprema Ver
+20 de Nov. de 2008 106ª / 356 Primer trámite constitucional / C. Diputados Cuenta oficio N° 188 de la Corte Suprema Ver Ver
+02 de Dic. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de Dic. de 2008 111ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+22 de Ene. de 2009 130ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+22 de Ene. de 2009   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+30 de Ene. de 2009 90ª / 356 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento y se manda poner en conocimiento de la Excelentísima Corte Suprema.
+30 de Ene. de 2009   Segundo trámite constitucional / Senado Oficio N?134/09 a la Corte Suprema Ver
+31 de Mar. de 2009 5ª / 357 Segundo trámite constitucional / Senado Cuenta oficio N? 42 de la Corte Suprema","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6140-07","Fecha Etapa Informe Documento
+02 de Dic. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6140-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6140-07","Nombre Región Distrito Partido
+Isabel Allende Bussi RM Región Metropolitana N°29 Partido Socialista
+Clemira Pacheco Rivas VIII Región del Bío Bío N°45 Partido Socialista
+Denise Pascal Allende RM Región Metropolitana N°31 Partido Socialista","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6140-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+130 Articulado del proyecto, con indicación de las diputadas Denise Pascal e Isabel Allende, para agregar en el número 1, a continuación de la expresión ""en el pago íntegro u oportuno de cualquiera de las cuotas"", la siguiente expresión: ""o de la modalidad de pago de la pensión que haya sido decretada por el Tribunal"". 60 0 2 0 Aprobado Sala Ver detalle votación
+130   64 0 0 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6140-07","No record","Veto emmEnd"

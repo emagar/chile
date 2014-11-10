@@ -1,0 +1,33 @@
+* * Bill summary * *
+"emmStart Summary 770-05","Legislatura: 324
+Fecha de ingreso: martes 18 de agosto de 1992
+Estado: Tramitación terminada (Ley Nº 19.163 - D.Oficial 02/09/1992)
+Numero de boletín: 770-05
+Materia: Aguinaldo De Fiestas Patrias
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 22:43:10
+* * Hitos de tramitación * *
+"emmStart Hitos 770-05","Fecha Sesión Etapa Sub-etapa Documento
+18 de Ago. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+18 de Ago. de 1992 31ª / 324 Primer trámite constitucional / C. Diputados Discusión única Ver
+18 de Ago. de 1992 31ª / 324 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+20 de Ago. de 1992 20ª / 324 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+20 de Ago. de 1992 20ª / 324 Segundo trámite constitucional / Senado Por acuerdo de Comités, se da Cuenta verbal del informe de la Comisión de Hacienda y se incluye en la Tabla de esta sesión. Discusión general y particular. Aprobado en general y en particular.
+25 de Ago. de 1992   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 770-05","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 770-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+18 de Ago. de 1992   Discusión inmediata    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 770-05","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 770-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 770-05","No record","Veto emmEnd"

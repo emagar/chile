@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 2970-03","Legislatura: 347
+Fecha de ingreso: miércoles 12 de junio de 2002
+Estado: Archivado .
+Numero de boletín: 2970-03
+Materia: Pesca Artesanal
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 03-11-2014 19:29:41
+* * Hitos de tramitación * *
+"emmStart Hitos 2970-03","Fecha Sesión Etapa Sub-etapa Documento
+12 de Jun. de 2002   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+12 de Jun. de 2002 6ª / 347 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Intereses Marítimos, Pesca y Acuicultura
+12 de Ago. de 2002   Primer trámite constitucional / Senado Primer informe de comisión Ver
+13 de Ago. de 2002 20ª / 347 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+21 de Ago. de 2002 23ª / 347 Primer trámite constitucional / Senado Discusión general Ver
+18 de Oct. de 2002   Primer trámite constitucional / Senado Boletín de indicaciones
+29 de Oct. de 2002 7ª / 348 Tramitación terminada / Cuenta del Mensaje 89-348 que hace presente la urgencia Suma Ver
+12 de Nov. de 2002 11ª / 348 Tramitación terminada / Cuenta del Mensaje 162-348 que retira la urgencia Suma Ver
+15 de Abr. de 2003   Primer trámite constitucional / Senado Se solicita su archivo Cuenta oficio Presidente de la Rep., solicita se disponga el archivo por razones que indica
+15 de Abr. de 2003 40ª / 348 Primer trámite constitucional / Senado Archivado Se dispone el archivo solicitado.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2970-03","Fecha Etapa Informe Documento
+13 de Ago. de 2002 Primer trámite constitucional Senado Primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2970-03","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+21 de Ene. de 2003 05 de Mar. de 2003 Suma 415-348 437-348
+07 de Ene. de 2003 21 de Ene. de 2003 Suma 347-348 415-348
+10 de Dic. de 2002 07 de Ene. de 2003 Suma 279-348 347-348
+12 de Nov. de 2002   Suma 162-348  
+29 de Oct. de 2002 12 de Nov. de 2002 Suma 89-348 162-348
+01 de Oct. de 2002 08 de Oct. de 2002 Simple 33-348 61-348
+03 de Sep. de 2002 29 de Oct. de 2002 Simple 220-347 89-348
+18 de Jun. de 2002 03 de Sep. de 2002 Simple 75-347 220-347","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2970-03","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2970-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2970-03","No record","Veto emmEnd"

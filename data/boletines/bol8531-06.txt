@@ -1,0 +1,35 @@
+* * Bill summary * *
+"emmStart Summary 8531-06","Legislatura: 360
+Fecha de ingreso: martes 21 de agosto de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8531-06 Refundido con: 8290-06
+Materia: Sufragio Por Dinero,Regalos Y Dádivas
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 10-11-2014 02:40:43
+* * Hitos de tramitación * *
+"emmStart Hitos 8531-06","Fecha Sesión Etapa Sub-etapa Documento
+21 de Ago. de 2012   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+28 de Ago. de 2012 42ª / 360 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización.
+02 de Oct. de 2012 51ª / 360 Primer trámite constitucional / Senado Cuenta del Mensaje 299-360 que hace presente la urgencia Simple
+31 de Oct. de 2012 58ª / 360 Primer trámite constitucional / Senado Cuenta del Mensaje 340-360 que retira y hace presente la urgencia Simple
+28 de Nov. de 2012 78ª / 360 Primer trámite constitucional / Senado Cuenta del Mensaje 376-360 que retira y hace presente la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8531-06","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8531-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+28 de Nov. de 2012   Simple 376-360  
+31 de Oct. de 2012 28 de Nov. de 2012 Simple 340-360 376-360
+02 de Oct. de 2012 31 de Oct. de 2012 Simple 299-360 340-360","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8531-06","Nombre
+Soledad Alvear Valenzuela","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8531-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8531-06","No record","Veto emmEnd"

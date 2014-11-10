@@ -1,0 +1,52 @@
+* * Bill summary * *
+"emmStart Summary 7523-24","Legislatura: 359
+Fecha de ingreso: martes 15 de marzo de 2011
+Estado: Segundo trámite constitucional .
+Numero de boletín: 7523-24
+Materia: Marín Millie, Gladys, 1941-2005,Monumentos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 05:05:36
+* * Hitos de tramitación * *
+"emmStart Hitos 7523-24","Fecha Sesión Etapa Sub-etapa Documento
+15 de Mar. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+15 de Mar. de 2011 1ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de la Cultura y las Artes Ver
+28 de Abr. de 2014   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+06 de May. de 2014 20ª / 362 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+15 de May. de 2014 25ª / 362 Primer trámite constitucional / C. Diputados Discusión general. Queda pendiente . Ver
+05 de Jun. de 2014 30ª / 362 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general y particular a la vez . Ver
+05 de Jun. de 2014   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+10 de Jun. de 2014 23ª / 362 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+02 de Sep. de 2014 42ª / 362 Segundo trámite constitucional / Senado Cuenta del Mensaje 419-362 que hace presente la urgencia Simple
+30 de Sep. de 2014 50ª / 362 Segundo trámite constitucional / Senado Cuenta del Mensaje 579-362 que retira y hace presente la urgencia Simple
+21 de Oct. de 2014 57ª / 362 Segundo trámite constitucional / Senado Cuenta del Mensaje 684-362 que retira y hace presente la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7523-24","Fecha Etapa Informe Documento
+28 de Abr. de 2014 Primer trámite constitucional C.Diputados Primer informe de comisión de la Cultura y las Artes Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7523-24","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+21 de Oct. de 2014   Simple 684-362  
+30 de Sep. de 2014 21 de Oct. de 2014 Simple 579-362 684-362
+02 de Sep. de 2014 30 de Sep. de 2014 Simple 419-362 579-362","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7523-24","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Sergio Aguiló Melo VII Región del Maule N°37 Izquierda Ciudadana
+Marcos Espinosa Monardes II Región de Antofagasta N°3 Partido Radical Social Demócrata
+Cristina Girardi Lavín RM Región Metropolitana N°18 Partido Por la Democracia
+Hugo Gutiérrez Gálvez I Región de Tarapacá N°2 Partido Comunista
+Gustavo Hasbún Selume RM Región Metropolitana N°26 Unión Demócrata Independiente
+Clemira Pacheco Rivas VIII Región del Bío Bío N°45 Partido Socialista
+Guillermo Teillier Del Valle RM Región Metropolitana N°28 Partido Comunista
+Patricio Vallespín López X Región de los Lagos N°57 Partido Demócrata Cristiano
+Orlando Vargas Pizarro XV Región Arica y Parinacota N°1 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7523-24","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+30   77 0 0 43 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7523-24","No record","Veto emmEnd"

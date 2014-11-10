@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 1706-05","Legislatura: 332
+Fecha de ingreso: martes 03 de octubre de 1995
+Estado: Tramitación terminada (Ley Nº 19.430 - D.Oficial 11/12/1995)
+Numero de boletín: 1706-05
+Materia: Presupuesto Sector Público
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 13:17:12
+* * Hitos de tramitación * *
+"emmStart Hitos 1706-05","Fecha Sesión Etapa Sub-etapa Documento
+06 de Sep. de 1995   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Sep. de 1995   Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión Especial Mixta de Presupuesto
+07 de Sep. de 1995   Tramitación terminada / Oficio Nº9044. comunica integrantes de Comisión Especial Mixta Ver
+21 de Nov. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+21 de Nov. de 1995 19ª / 332 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+21 de Nov. de 1995 19ª / 332 Primer trámite constitucional / C. Diputados Pendiente Discusión Ver
+21 de Nov. de 1995 20ª / 332 Primer trámite constitucional / C. Diputados Pendiente su discusión. Ver
+21 de Nov. de 1995 21ª / 332 Primer trámite constitucional / C. Diputados Pendiente su discusión. Ver
+22 de Nov. de 1995   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora
+22 de Nov. de 1995 22ª / 332 Primer trámite constitucional / C. Diputados Discusión general Ver
+22 de Nov. de 1995 16ª / 332 Segundo trámite constitucional / Senado Cuenta de proyecto
+22 de Nov. de 1995 17ª / 332 Segundo trámite constitucional / Senado Aprobado el proyecto con modificaciones.
+23 de Nov. de 1995   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+29 de Nov. de 1995 20ª / 332 Tramitación terminada / Cuenta del Oficio de la Cámara de Diputados con el que comunica que ha rechazado, con las excepciones que indica, las modificaciones propuestas por el Senado. Durante la sesión se da cuenta del oficio de la Cámara de Diputados en que comunica que ha dado su aprobación al informe de la Comisión Mixta. Discusión única. Aprobadas las proposiciones del informe de la Comisión Mixta.
+29 de Nov. de 1995 20ª / 332 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Oficio aprobación de informe de Comisión Mixta a C.de Origen Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1706-05","Fecha Etapa Informe Documento
+21 de Nov. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión Especial Mixta de Presupuesto Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1706-05","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1706-05","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1706-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1706-05","No record","Veto emmEnd"

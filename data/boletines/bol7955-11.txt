@@ -1,0 +1,39 @@
+* * Bill summary * *
+"emmStart Summary 7955-11","Legislatura: 359
+Fecha de ingreso: miércoles 28 de septiembre de 2011
+Estado: Primer trámite constitucional .
+Numero de boletín: 7955-11
+Materia: Sistema Privado De Salud
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 09-11-2014 13:45:54
+* * Hitos de tramitación * *
+"emmStart Hitos 7955-11","Fecha Sesión Etapa Sub-etapa Documento
+28 de Sep. de 2011   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+18 de Oct. de 2011   Primer trámite constitucional / Senado Primer informe de comisión Ver
+06 de Mar. de 2012 94ª / 359 Primer trámite constitucional / Senado Discusión general Ver
+07 de Mar. de 2012 95ª / 359 Primer trámite constitucional / Senado Discusión general. Queda pendiente Se solicita segunda discusión. Ver
+13 de Mar. de 2012 1ª / 360 Primer trámite constitucional / Senado Discusión general. Queda pendiente Se solicita aplazamiento de la votación. Ver
+14 de Mar. de 2012 2ª / 360 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 09/04/2012 Ver
+09 de Abr. de 2012   Primer trámite constitucional / Senado Boletín de indicaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7955-11","Fecha Etapa Informe Documento
+18 de Oct. de 2011 Primer trámite constitucional Senado Primer informe de comisión de Salud Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7955-11","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7955-11","Nombre
+Francisco Chahuán Chahuán
+Guido Girardi Lavín
+Juan Pablo Letelier Morel
+Fulvio Rossi Ciocca
+Mariano Ruiz-Esquide Jara","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7955-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7955-11","No record","Veto emmEnd"

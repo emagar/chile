@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 8769-07","Legislatura: 360
+Fecha de ingreso: martes 08 de enero de 2013
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 8769-07
+Materia: Juzgados De Policía Local
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 05:32:31
+* * Hitos de tramitación * *
+"emmStart Hitos 8769-07","Fecha Sesión Etapa Sub-etapa Documento
+08 de Ene. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+08 de Ene. de 2013 121ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia. Se remite el proyecto a la Corte Suprema. Ver
+08 de Ene. de 2013   Primer trámite constitucional / C. Diputados Oficio N° 10556 a la Corte Suprema Ver
+06 de Mar. de 2013 134ª / 360 Primer trámite constitucional / C. Diputados Cuenta oficio N° 23-2013 de la Corte Suprema Ver
+08 de Oct. de 2013 79ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 299-361 que hace presente la urgencia Suma Ver
+08 de Oct. de 2013   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+15 de Oct. de 2013 83ª / 361 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+16 de Oct. de 2013 84ª / 361 Primer trámite constitucional / C. Diputados Discusión general. Rechazado Ver
+16 de Oct. de 2013 84ª / 361 Primer trámite constitucional / C. Diputados Oficio rechazo al Ejecutivo Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8769-07","Fecha Etapa Informe Documento
+15 de Oct. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8769-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+08 de Oct. de 2013   Suma 299-361  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8769-07","Nombre Región Distrito Partido
+Ministerio de Interior y Seguridad Públi      
+Ministerio de Justicia      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8769-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+84   46 33 11 1 Rechazado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8769-07","No record","Veto emmEnd"

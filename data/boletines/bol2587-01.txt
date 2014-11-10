@@ -1,0 +1,57 @@
+* * Bill summary * *
+"emmStart Summary 2587-01","Legislatura: 342
+Fecha de ingreso: miércoles 13 de septiembre de 2000
+Estado: Tramitación terminada (Ley Nº 20.107 - D.Oficial 17/05/2006)
+Numero de boletín: 2587-01
+Materia: Acuicultura
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 06:39:46
+* * Hitos de tramitación * *
+"emmStart Hitos 2587-01","Fecha Sesión Etapa Sub-etapa Documento
+13 de Sep. de 2000 38ª / 342 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Pesca, Acuicultura e Intereses Marítimos Ver
+13 de Sep. de 2000   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Sep. de 2000   Primer trámite constitucional / C. Diputados Oficio Nº 3071, consulta a Corte Suprema. Ver
+04 de Oct. de 2000 2ª / 343 Primer trámite constitucional / C. Diputados Oficio Nº 2161de Corte Suprema, remite opinión solicitada. Ver Ver
+18 de Oct. de 2005   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de Oct. de 2005 53ª / 353 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+18 de Oct. de 2005 53ª / 353 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+18 de Oct. de 2005   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+19 de Oct. de 2005 43ª / 353 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Intereses Marítimos, Pesca y Acuicultura
+14 de Dic. de 2005   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+20 de Dic. de 2005 52ª / 353 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+04 de Ene. de 2006 56ª / 353 Segundo trámite constitucional / Senado Queda para segunda discusión. Ver
+07 de Mar. de 2006 60ª / 353 Segundo trámite constitucional / Senado Discusión general Ver
+07 de Mar. de 2006   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+08 de Mar. de 2006 75ª / 353 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver Ver
+21 de Mar. de 2006 4ª / 354 Tercer trámite constitucional / C. Diputados Discusión única Ver
+21 de Mar. de 2006   Tercer trámite constitucional / C. Diputados Oficio Nº 6068, que comunica aprobación de modificaciones Ver
+21 de Mar. de 2006   Tercer trámite constitucional / C. Diputados Oficio al Ejecutivo, comunica proyecto aprobado para los efectos del artículo 73 de la Constitución Política del Estado. Ver
+04 de Abr. de 2006   Trámite de aprobacion presidencial / C. Diputados P.de la Rep. comunica que no hará uso de la facultad que le confiere el inciso primero del artículo 73 de la Const. Pol. de la Rep. ( 3-354). Al Trib. Constitucional.
+04 de Abr. de 2006 4ª / 354 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 6068, que comunica aprobación de modificaciones Ver
+04 de Abr. de 2006   Trámite en Tribunal Constitucional / C. Diputados Oficio al Tribunal Constitucional Ver
+20 de Abr. de 2006 16ª / 354 Trámite en Tribunal Constitucional / C. Diputados Cuenta oficio Nº 55 del Tribunal Constitucional Ver Ver
+20 de Abr. de 2006   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+20 de Abr. de 2006   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2587-01","Fecha Etapa Informe Documento
+14 de Dic. de 2005 Segundo trámite constitucional Senado Primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver
+18 de Oct. de 2005 Primer trámite constitucional C.Diputados Primer informe de comisión de Pesca, Acuicultura e Intereses Marítimos Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2587-01","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2587-01","Nombre Región Distrito Partido
+Rafael Arratia Valdebenito VI Región del Libertador Bernardo O' Higgins N°35 Partido Demócrata Cristiano
+Roberto Delmastro Naso X Región de los Lagos N°53 Independientes","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2587-01","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+53   76 0 0 0 Aprobado Sala Ver detalle votación
+4   83 7 0 3 Aprobado Sala Ver detalle votación
+53 Indicación sustitutiva del artículo único, para reemplazar el inciso segundo del artículo 124 de la ley Nº18.892. 71 0 2 1 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2587-01","No record","Veto emmEnd"

@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 694-10","Legislatura: 319
+Fecha de ingreso: domingo 20 de mayo de 1990
+Estado: Tramitación terminada (D.S. Nº 827 - D.Oficial 31/08/1995)
+Numero de boletín: 694-10
+Materia: Acuerdos Internacionales,Areas Silvestres Protegidas
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 21:42:59
+* * Hitos de tramitación * *
+"emmStart Hitos 694-10","Fecha Sesión Etapa Sub-etapa Documento
+20 de May. de 1992 61ª / 323 Primer trámite constitucional / Senado Cuenta de proyecto
+20 de May. de 1992   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+14 de Ene. de 1993 23ª / 325 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+14 de Ene. de 1993 23ª / 325 Primer trámite constitucional / Senado Primer informe de comisión Ver
+28 de Ene. de 1993 30ª / 325 Tramitación terminada / Discusión general y particular. Aprobado en general y en particular. Ver
+01 de Feb. de 1993 1ª / 343 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+02 de Mar. de 1993 48ª / 325 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+12 de Jul. de 1993   Segundo trámite constitucional / C. Diputados Primer informe de comisión
+15 de Sep. de 1993 39ª / 326 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+28 de Sep. de 1993 2ª / 327 Segundo trámite constitucional / C. Diputados Discusión general Ver
+28 de Sep. de 1993   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen
+05 de Oct. de 1993 1ª / 327 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+05 de Oct. de 1993 1ª / 327 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 694-10","Fecha Etapa Informe Documento
+21 de Jul. de 1993 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+14 de Ene. de 1993 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 694-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 694-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 694-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 694-10","No record","Veto emmEnd"

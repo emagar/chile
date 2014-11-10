@@ -1,0 +1,64 @@
+* * Bill summary * *
+"emmStart Summary 7342-14","Legislatura: 358
+Fecha de ingreso: lunes 06 de diciembre de 2010
+Estado: Tramitación terminada (Ley Nº 20.579 - D.Oficial 07/03/2012)
+Numero de boletín: 7342-14
+Materia: División De Condominios,Viviendas Sociales
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 02:54:59
+* * Hitos de tramitación * *
+"emmStart Hitos 7342-14","Fecha Sesión Etapa Sub-etapa Documento
+06 de Dic. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Dic. de 2010 108ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Vivienda y Desarrollo Urbano Ver
+19 de Abr. de 2011 15ª / 359 Primer trámite constitucional / C. Diputados Oficio N°033-359. Oficio de S.E. el Presidente de la República por el cual formula indicación sustitutiva al proyecto. Ver Ver
+03 de Jun. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de Jun. de 2011 38ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Jun. de 2011 41ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+19 de Jul. de 2011   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+19 de Jul. de 2011 58ª / 359 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+17 de Ago. de 2011 72ª / 359 Primer trámite constitucional / C. Diputados Discusión particular Ver
+17 de Ago. de 2011   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+17 de Ago. de 2011 72ª / 359 Segundo trámite constitucional / Senado Por acuerdo de la Sala y a propuesta del Informe de la Comisión de Vivienda, se cambia el nombre.
+16 de Sep. de 2011   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+22 de Nov. de 2011 70ª / 359 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 12/12/2011 Ver
+20 de Dic. de 2011 82ª / 359 Segundo trámite constitucional / Senado Discusión particular. Aprobado sin modificaciones No se presentaron indicaciones Ver
+20 de Dic. de 2011   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+22 de Dic. de 2011 125ª / 359 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+22 de Dic. de 2011   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo. Oficio de consulta para ejercer facultad de veto Ver
+10 de Ene. de 2012 129ª / 359 Trámite de aprobacion presidencial / C. Diputados Oficio al Tribunal Constitucional. Control de constitucionalidad Ver
+10 de Ene. de 2012   Trámite en Tribunal Constitucional / C. Diputados Oficio al Tribunal Constitucional Ver
+10 de Ene. de 2012 129ª / 359 Trámite de aprobacion presidencial / C. Diputados Oficio N°531-359. Oficio de S. E. el Presidente de la República por el cual comunica que ha resuelto no hacer uso de la facultad que le confiere el inciso primero del artículo 73 de la Constitución Política de la República respecto del proyecto. Ver Ver
+30 de Ene. de 2012   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+06 de Mar. de 2012 140ª / 359 Trámite de aprobacion presidencial / C. Diputados Cuenta oficio Nº 7143 del Tribunal Constitucional Ver Ver
+12 de Jun. de 2012 41ª / 360 Tramitación terminada / Cuenta oficio N° 7384 del Tribunal Constitucional Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7342-14","Fecha Etapa Informe Documento
+16 de Sep. de 2011 Segundo trámite constitucional Senado Primer informe de comisión de Vivienda y Urbanismo Ver
+19 de Jul. de 2011 Primer trámite constitucional C.Diputados Segundo informe de comisión de Vivienda y Desarrollo Urbano Ver
+03 de Jun. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Vivienda y Desarrollo Urbano Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7342-14","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7342-14","Nombre Región Distrito Partido
+Osvaldo Andrade Lara RM Región Metropolitana N°29 Partido Socialista
+Pepe Auth Stewart RM Región Metropolitana N°20 Partido Por la Democracia
+Pedro Browne Urrejola RM Región Metropolitana N°28 Renovación Nacional
+Juan Luis Castro González VI Región del Libertador Bernardo O' Higgins N°32 Partido Socialista
+Ramón Farías Ponce RM Región Metropolitana N°30 Partido Por la Democracia
+Patricio Hales Dib RM Región Metropolitana N°19 Partido Por la Democracia
+Nicolás Monckeberg Díaz RM Región Metropolitana N°18 Renovación Nacional
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7342-14","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+28 Votación General 7 0 0 6   Vivienda Ver detalle votación
+28 Votación General 7 0 0 6   Vivienda Ver detalle votación
+72   99 0 0 21 Aprobado Sala Ver detalle votación
+41   101 0 0 19 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7342-14","No record","Veto emmEnd"

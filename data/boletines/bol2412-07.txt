@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 2412-07","Legislatura: 341
+Fecha de ingreso: miércoles 06 de octubre de 1999
+Estado: Tramitación terminada (Ley Nº 19.783 - D.Oficial 19/01/2002)
+Numero de boletín: 2412-07
+Materia: Nacionalización
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 03-11-2014 00:14:07
+* * Hitos de tramitación * *
+"emmStart Hitos 2412-07","Fecha Sesión Etapa Sub-etapa Documento
+06 de Oct. de 1999   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+06 de Oct. de 1999 3ª / 341 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía
+16 de May. de 2000   Primer trámite constitucional / Senado Primer informe de comisión Ver
+16 de May. de 2000 36ª / 341 Primer trámite constitucional / Senado Discusión general Ver
+16 de May. de 2000 36ª / 341 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+17 de May. de 2000   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+06 de Jun. de 2000 1ª / 342 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+11 de Sep. de 2001   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Sep. de 2001 35ª / 344 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+08 de Ene. de 2002 22ª / 345 Segundo trámite constitucional / C. Diputados Discusión general Ver
+09 de Ene. de 2002   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+09 de Ene. de 2002 22ª / 345 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+09 de Ene. de 2002   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2412-07","Fecha Etapa Informe Documento
+11 de Sep. de 2001 Segundo trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+16 de May. de 2000 Primer trámite constitucional Senado Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2412-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2412-07","Nombre
+Rafael Moreno Rojas","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2412-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2412-07","No record","Veto emmEnd"

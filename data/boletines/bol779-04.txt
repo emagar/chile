@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 779-04","Legislatura: 324
+Fecha de ingreso: jueves 20 de agosto de 1992
+Estado: Tramitación terminada (Ley Nº 19.314 - D.Oficial 25/07/1994)
+Numero de boletín: 779-04
+Materia: Monumentos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 22:50:48
+* * Hitos de tramitación * *
+"emmStart Hitos 779-04","Fecha Sesión Etapa Sub-etapa Documento
+20 de Ago. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de Ago. de 1992 33ª / 324 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+03 de Mar. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Mar. de 1993 51ª / 325 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. Pasa a Comisión de Hacienda Ver
+13 de Jul. de 1993 15ª / 326 Primer trámite constitucional / C. Diputados Discusión general Ver
+14 de Jul. de 1993 11ª / 326 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+01 de Jun. de 1994   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+07 de Jun. de 1994 3ª / 329 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+14 de Jun. de 1994 5ª / 329 Segundo trámite constitucional / Senado Discusión general y particular. Aprobado en general y en particular, con modificaciones.
+15 de Jun. de 1994   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+05 de Jul. de 1994 9ª / 329 Segundo trámite constitucional / Senado Cuenta oficio de la Cámara comunicando aprobación enmiendas propuestas por el Senado Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 779-04","Fecha Etapa Informe Documento
+01 de Jun. de 1994 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+03 de Mar. de 1993 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 779-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 779-04","Nombre Región Distrito Partido
+Claudio Huepe García Región N° Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 779-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 779-04","No record","Veto emmEnd"

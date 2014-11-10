@@ -1,0 +1,72 @@
+* * Bill summary * *
+"emmStart Summary 5076-15","Legislatura: 355
+Fecha de ingreso: martes 05 de junio de 2007
+Estado: Tramitación terminada (Ley Nº 20.223 - D.Oficial 18/10/2007)
+Numero de boletín: 5076-15
+Materia: Administrador Provisional Del Plan De Transporte Urbano De La Ciudad De Santiago,Transantiago
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 00:27:19
+* * Hitos de tramitación * *
+"emmStart Hitos 5076-15","Fecha Sesión Etapa Sub-etapa Documento
+05 de Jun. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+05 de Jun. de 2007 30ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+05 de Jun. de 2007 30ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 270-355 que hace presente la urgencia Simple Ver
+06 de Jun. de 2007 31ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 278-355 que retira y hace presente la urgencia Suma. A Comisión de O.OP.P. Ver
+19 de Jun. de 2007 38ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 330-355 que retira y hace presente la urgencia Suma Ver
+19 de Jun. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+21 de Jun. de 2007 42ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. Primer informe de Comisión de Obras Públicas. EN TABLA. Ver
+04 de Jul. de 2007 45ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 374-355 que retira y hace presente la urgencia Suma Ver Ver
+04 de Jul. de 2007 45ª / 355 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+04 de Jul. de 2007   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+04 de Jul. de 2007 30ª / 355 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones Ver
+17 de Jul. de 2007 34ª / 355 Segundo trámite constitucional / Senado Cuenta del Mensaje 441 que retira la urgencia Suma
+31 de Jul. de 2007 37ª / 355 Segundo trámite constitucional / Senado Cuenta del Mensaje 497-355 que hace presente la urgencia Simple
+06 de Ago. de 2007   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+07 de Ago. de 2007 40ª / 355 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+28 de Ago. de 2007 44ª / 355 Segundo trámite constitucional / Senado Cuenta del Mensaje 623-355 que retira y hace presente la urgencia Suma
+28 de Ago. de 2007 44ª / 355 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 03/09/2007 Ver
+03 de Sep. de 2007   Segundo trámite constitucional / Senado Boletín de indicaciones
+06 de Sep. de 2007   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+11 de Sep. de 2007 51ª / 355 Segundo trámite constitucional / Senado Cuenta del Mensaje 695-355 que retira y hace presente la urgencia Suma
+11 de Sep. de 2007 51ª / 355 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+12 de Sep. de 2007 52ª / 355 Segundo trámite constitucional / Senado Discusión particular Ver
+13 de Sep. de 2007   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+02 de Oct. de 2007 79ª / 355 Tercer trámite constitucional / C. Diputados Oficio del Senado comunica que aprobó proyecto, con enmiendas. EN TABLA. Ver
+02 de Oct. de 2007 79ª / 355 Tercer trámite constitucional / C. Diputados Cuenta del Mensaje 727-355 que retira la urgencia Suma Ver
+02 de Oct. de 2007 79ª / 355 Tercer trámite constitucional / C. Diputados Cuenta del Mensaje 761-355 que hace presente la urgencia Suma Ver
+02 de Oct. de 2007 79ª / 355 Tercer trámite constitucional / C. Diputados Discusión única Ver
+02 de Oct. de 2007   Tercer trámite constitucional / C. Diputados Oficio Nº 7024, que comunica aprobación de modificaciones Ver
+02 de Oct. de 2007   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+03 de Oct. de 2007 55ª / 355 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 7024, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5076-15","Fecha Etapa Informe Documento
+06 de Sep. de 2007 Segundo trámite constitucional Senado Segundo informe de comisión de Transportes y Telecomunicaciones Ver
+06 de Ago. de 2007 Segundo trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver
+19 de Jun. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5076-15","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+02 de Oct. de 2007   Suma 761-355  
+11 de Sep. de 2007 02 de Oct. de 2007 Suma 695-355 727-355
+28 de Ago. de 2007 11 de Sep. de 2007 Suma 623-355 695-355
+31 de Jul. de 2007 28 de Ago. de 2007 Simple 497-355 623-355
+04 de Jul. de 2007 12 de Jul. de 2007 Suma 374-355 441
+05 de Jun. de 2007 06 de Jun. de 2007 Simple 270-355 278-355
+19 de Jun. de 0007 04 de Jul. de 2007 Suma 330-355 374-355
+06 de Jun. de 0007 19 de Jun. de 2007 Suma 278-355 330-355","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5076-15","Nombre Región Distrito Partido
+Ministerio de Transporte y Telecomunicaciones      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5076-15","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+45 Texto del articulado. 73 0 37 10 Aprobado Sala Ver detalle votación
+45   101 0 9 10 Aprobado Sala Ver detalle votación
+79 Modificaciones introducidas por el Senado. 40 15 13 52 Aprobado Sala Ver detalle votación
+39 Votación General 10 0 3 0   Obras Públicas Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5076-15","No record","Veto emmEnd"

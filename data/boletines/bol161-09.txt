@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 161-09","Legislatura: 321
+Fecha de ingreso: martes 02 de octubre de 1990
+Estado: Tramitación terminada (Ley Nº 19.020 - D.Oficial 29/12/1990)
+Numero de boletín: 161-09
+Materia: Ministerio De Obras Públicas,Ministerios
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 06:36:42
+* * Hitos de tramitación * *
+"emmStart Hitos 161-09","Fecha Sesión Etapa Sub-etapa Documento
+02 de Oct. de 1990 1ª / 321 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+02 de Oct. de 1990   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Nov. de 1990 10ª / 321 Primer trámite constitucional / C. Diputados Primer informe de comisión Ver Ver
+06 de Nov. de 1990 10ª / 321 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+06 de Nov. de 1990 10ª / 321 Primer trámite constitucional / C. Diputados Primer informe de comisión Ver Ver
+13 de Nov. de 1990 12ª / 321 Primer trámite constitucional / C. Diputados Discusión general Ver
+14 de Nov. de 1990 12ª / 321 Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+15 de Nov. de 1990 14ª / 321 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a la Comisión de Obras Públicas, y a la de Hacienda, en su caso.
+29 de Nov. de 1990   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+12 de Dic. de 1990   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+12 de Dic. de 1990 24ª / 321 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Dic. de 1990 24ª / 321 Segundo trámite constitucional / Senado Discusión general Ver
+12 de Dic. de 1990   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+13 de Dic. de 1990 20ª / 321 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+13 de Dic. de 1990   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+13 de Dic. de 1990 20ª / 321 Tercer trámite constitucional / C. Diputados Discusión única Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 161-09","Fecha Etapa Informe Documento
+12 de Dic. de 1990 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+29 de Nov. de 1990 Segundo trámite constitucional Senado Primer informe de comisión de Obras Públicas Ver
+06 de Nov. de 1990 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+06 de Nov. de 1990 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 161-09","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 161-09","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 161-09","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 161-09","No record","Veto emmEnd"

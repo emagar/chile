@@ -1,0 +1,66 @@
+* * Bill summary * *
+"emmStart Summary 3491-07","Legislatura: 350
+Fecha de ingreso: miércoles 07 de abril de 2004
+Estado: Tramitación terminada (Ley N° 20352 - D.Oficial 30/05/2009)
+Numero de boletín: 3491-07 Refundido con: 2912-07
+Materia: Reforma Constitucional
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 04-11-2014 03:21:16
+* * Hitos de tramitación * *
+"emmStart Hitos 3491-07","Fecha Sesión Etapa Sub-etapa Documento
+07 de Abr. de 2004   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+07 de Abr. de 2004 47ª / 350 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+14 de Sep. de 2004   Primer trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 352
+11 de Oct. de 2005   Primer trámite constitucional / Senado Primer informe de comisión Ver
+11 de Oct. de 2005 40ª / 353 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+13 de Dic. de 2005 48ª / 353 Primer trámite constitucional / Senado Cuenta del Mensaje 449-353 que retira la urgencia Simple Ver
+29 de Ago. de 2006 45ª / 354 Primer trámite constitucional / Senado Se acuerda enviarlo a las Comisiones de Relaciones Exteriores y de Defensa Nacional, Unidas, para que opinen respecto del proyecto. Ver
+03 de Oct. de 2006 56ª / 354 Primer trámite constitucional / Senado Cuenta del Mensaje 341-354 que hace presente la urgencia Simple Ver
+07 de Nov. de 2006 66ª / 354 Primer trámite constitucional / Senado Cuenta del Mensaje 437-354 que retira y hace presente la urgencia Simple Ver
+12 de Dic. de 2006 76ª / 354 Primer trámite constitucional / Senado Cuenta del Mensaje 552-354 que retira y hace presente la urgencia Simple Ver
+16 de Ene. de 2007   Primer trámite constitucional / Senado Las Comisiones unidas comunican, mediante oficio N° RE/2/07, que acordaron reservar su pronunciamiento sobre el fondo de la materia para su discusión en Sala
+17 de Ene. de 2007   Primer trámite constitucional / Senado Oficio NºRe/02/2007. Da cuenta cumplimiento de mandato de Comités. Ver
+28 de Abr. de 2009 12ª / 357 Primer trámite constitucional / Senado La Sala, a solicitud del Senador señor Chadwick, acuerda enviar este proyecto a la Comisión de Constitución para un nuveo primer informe. Ver
+28 de Abr. de 2009 12ª / 357 Primer trámite constitucional / Senado La Sala, a solicitud del Senador señor Chadwick, acuerda enviar este proyecto a la Comisión de Constitución para un nuevo primer informe. Ver
+05 de May. de 2009 14ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 283-357 que hace presente la urgencia Suma Ver
+12 de May. de 2009 16ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 360-357 que retira y hace presente la urgencia Discusión inmediata Ver
+13 de May. de 2009 17ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 391-357 que retira y hace presente la urgencia Suma Ver
+18 de May. de 2009   Primer trámite constitucional / Senado Nuevo primer informe de comisión Ver
+19 de May. de 2009 19ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 409-357 que retira y hace presente la urgencia Discusión inmediata Ver
+19 de May. de 2009 19ª / 357 Primer trámite constitucional / Senado Cuenta nuevo primer informe
+19 de May. de 2009 19ª / 357 Primer trámite constitucional / Senado Discusión general Ver
+19 de May. de 2009   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+20 de May. de 2009 32ª / 357 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+20 de May. de 2009 33ª / 357 Segundo trámite constitucional / C. Diputados Certificado de la Comisión de Constitución. EN TABLA. Ver
+20 de May. de 2009   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+20 de May. de 2009 33ª / 357 Segundo trámite constitucional / C. Diputados Discusión única Ver
+20 de May. de 2009   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+25 de May. de 2009   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3491-07","Fecha Etapa Informe Documento
+20 de May. de 2009 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+18 de May. de 2009 Primer trámite constitucional Senado Nuevo primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+11 de Oct. de 2005 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3491-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+19 de May. de 2009   Discusión inmediata 409-357  
+13 de May. de 2009 18 de May. de 2009 Suma 391-357 409-357
+12 de May. de 2009 13 de May. de 2009 Discusión inmediata 360-357 391-357
+05 de May. de 2009 12 de May. de 2009 Suma 283-357 360-357
+12 de Dic. de 2006   Simple 552-354  
+07 de Nov. de 2006 12 de Dic. de 2006 Simple 437-354 552-354
+03 de Oct. de 2006 06 de Nov. de 2006 Simple 341-354 437-354","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3491-07","Nombre
+Jaime Naranjo Ortiz
+José Antonio Viera-Gallo Quesney","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3491-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3491-07","No record","Veto emmEnd"

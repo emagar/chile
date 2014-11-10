@@ -1,0 +1,32 @@
+* * Bill summary * *
+"emmStart Summary 8735-06","Legislatura: 360
+Fecha de ingreso: martes 18 de diciembre de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8735-06
+Materia: Consejeros Regionales
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 05:06:59
+* * Hitos de tramitación * *
+"emmStart Hitos 8735-06","Fecha Sesión Etapa Sub-etapa Documento
+18 de Dic. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+18 de Dic. de 2012 114ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior y Regionalización Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8735-06","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8735-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8735-06","Nombre Región Distrito Partido
+Germán Becker Alvear IX Región de la Araucanía N°50 Renovación Nacional
+Ramón Farías Ponce RM Región Metropolitana N°30 Partido Por la Democracia
+Cristián Monckeberg Bruner RM Región Metropolitana N°23 Renovación Nacional
+Sergio Ojeda Uribe X Región de los Lagos N°55 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8735-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8735-06","No record","Veto emmEnd"

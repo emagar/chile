@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 5763-05","Legislatura: 356
+Fecha de ingreso: martes 11 de marzo de 2008
+Estado: Tramitación terminada (Ley Nº 20.258 - D.Oficial 29/03/2008)
+Numero de boletín: 5763-05
+Materia: Petróleo Diesel,Empresas Generadoras Eléctricas,Impuestos
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 22:58:49
+* * Hitos de tramitación * *
+"emmStart Hitos 5763-05","Fecha Sesión Etapa Sub-etapa Documento
+11 de Mar. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+11 de Mar. de 2008 1ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda y de Minería, unidas Ver
+11 de Mar. de 2008 1ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1463-355 que hace presente la urgencia Discusión inmediata Ver
+11 de Mar. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Mar. de 2008 2ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. Unidas de Hacienda y Minería. EN TABLA. Ver
+12 de Mar. de 2008 2ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+12 de Mar. de 2008   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+12 de Mar. de 2008 2ª / 356 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+12 de Mar. de 2008 2ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 5-356 que retira y hace presente la urgencia Suma
+18 de Mar. de 2008   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+18 de Mar. de 2008 3ª / 356 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+18 de Mar. de 2008 3ª / 356 Segundo trámite constitucional / Senado La Sala acuerda que este proyecto lo discutirá tanto en general como en particular. Ver
+19 de Mar. de 2008 4ª / 356 Segundo trámite constitucional / Senado Discusión general. Aprobado en general y particular sin modificaciones Por acuerdo de Comités, ratificado por la Sala, este proyecto se tratará como si fuera de Fácil Despacho. Aprobado en general y particular sin modificaciones. Ver
+19 de Mar. de 2008   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+20 de Mar. de 2008 9ª / 356 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver Ver
+20 de Mar. de 2008   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5763-05","Fecha Etapa Informe Documento
+18 de Mar. de 2008 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+11 de Mar. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda y de Minería, unidas Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5763-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+12 de Mar. de 2008   Suma 5-356  
+11 de Mar. de 0008 12 de Mar. de 2008 Discusión inmediata 1463-355 5-356","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5763-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5763-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+1 Votación General 12 0 0 12   Unidas Hac/Minería Ver detalle votación
+2   94 1 0 25 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5763-05","No record","Veto emmEnd"

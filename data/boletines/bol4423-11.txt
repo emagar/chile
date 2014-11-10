@@ -1,0 +1,55 @@
+* * Bill summary * *
+"emmStart Summary 4423-11","Legislatura: 354
+Fecha de ingreso: miércoles 16 de agosto de 2006
+Estado: Tramitación terminada (Ley Nº 20.317 - D.Oficial 24/01/2009)
+Numero de boletín: 4423-11
+Materia: Isapres,Salud,Instituciones De Salud Previsional
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 06-11-2014 01:30:51
+* * Hitos de tramitación * *
+"emmStart Hitos 4423-11","Fecha Sesión Etapa Sub-etapa Documento
+16 de Ago. de 2006   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+16 de Ago. de 2006 44ª / 354 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Salud
+16 de Ago. de 2007   Primer trámite constitucional / Senado Primer informe de comisión Ver
+28 de Ago. de 2007 44ª / 355 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+04 de Sep. de 2007 47ª / 355 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 01/10/2007 Ver
+01 de Oct. de 2007   Primer trámite constitucional / Senado Boletín de indicaciones
+06 de Nov. de 2007   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+06 de Nov. de 2007 62ª / 355 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+13 de Nov. de 2007 64ª / 355 Primer trámite constitucional / Senado Se acuerda abrir nuevo plazo de indicaciones hasta las 12 horas del lunes 19/11/2007. Ver
+19 de Nov. de 2007   Primer trámite constitucional / Senado Boletín de indicaciones
+22 de Ene. de 2008   Primer trámite constitucional / Senado Nuevo segundo informe de comisión Ver
+23 de Ene. de 2008 87ª / 355 Primer trámite constitucional / Senado Cuenta nuevo segundo informe
+05 de Mar. de 2008 89ª / 355 Primer trámite constitucional / Senado Discusión particular Ver
+05 de Mar. de 2008   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+06 de Mar. de 2008 139ª / 355 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver Ver
+20 de Nov. de 2008   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Dic. de 2008 110ª / 356 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Salud. EN ESTADO DE TABLA. Ver
+11 de Dic. de 2008 115ª / 356 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+16 de Dic. de 2008 116ª / 356 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+16 de Dic. de 2008   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+17 de Dic. de 2008 80ª / 356 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+17 de Dic. de 2008   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4423-11","Fecha Etapa Informe Documento
+20 de Nov. de 2008 Segundo trámite constitucional C.Diputados Primer informe de comisión de Salud Ver
+22 de Ene. de 2008 Primer trámite constitucional Senado Nuevo segundo informe de comisión de Salud Ver
+06 de Nov. de 2007 Primer trámite constitucional Senado Segundo informe de comisión de Salud Ver
+16 de Ago. de 2007 Primer trámite constitucional Senado Primer informe de comisión de Salud Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4423-11","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4423-11","Nombre
+Soledad Alvear Valenzuela","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4423-11","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+130 Votación General 8 0 0 5   Salud Ver detalle votación
+116   94 0 1 25 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4423-11","No record","Veto emmEnd"

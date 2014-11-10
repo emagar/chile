@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 4692-13","Legislatura: 354
+Fecha de ingreso: jueves 23 de noviembre de 2006
+Estado: Segundo trámite constitucional .
+Numero de boletín: 4692-13
+Materia: Permisos Especiales Para Trabajadores,Menores
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 06:27:50
+* * Hitos de tramitación * *
+"emmStart Hitos 4692-13","Fecha Sesión Etapa Sub-etapa Documento
+23 de Nov. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+23 de Nov. de 2006 102ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+31 de Jul. de 2007 56ª / 355 Primer trámite constitucional / C. Diputados Proyecto es enviado a la Comisión de Familia. Ver
+09 de Abr. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+13 de Abr. de 2010 13ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. Primer informe de la Comisión de Familia. EN ESTADO DE TABLA. Ver
+05 de May. de 2010 20ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+05 de May. de 2010   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+11 de May. de 2010 16ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4692-13","Fecha Etapa Informe Documento
+09 de Abr. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Familia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4692-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4692-13","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Germán Becker Alvear IX Región de la Araucanía N°50 Renovación Nacional
+Pablo Galilea Carrillo XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Renovación Nacional
+Juan Lobos Krause VIII Región del Bío Bío N°47 Unión Demócrata Independiente
+Marco Antonio Núñez Lozano V Región de Valparaíso N°11 Partido Por la Democracia
+Alberto Robles Pantoja III Región de Atacama N°6 Partido Radical Social Demócrata
+Karla Rubilar Barahona RM Región Metropolitana N°17 Renovación Nacional
+Roberto Sepúlveda Hermosilla RM Región Metropolitana N°20 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4692-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+20   108 0 0 12 Aprobado Sala Ver detalle votación
+3 artículo único que modifica el actual 199 bis del Código del Trabajo. 10 0 0 3   Familia Ver detalle votación
+2 Votación General 13 0 0 0   Familia Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4692-13","No record","Veto emmEnd"

@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 2196-06","Legislatura: 338
+Fecha de ingreso: miércoles 08 de julio de 1998
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 2196-06
+Materia: Derecho A Sufragio,Voto Obligatorio
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 21:56:23
+* * Hitos de tramitación * *
+"emmStart Hitos 2196-06","Fecha Sesión Etapa Sub-etapa Documento
+08 de Jul. de 1998 14ª / 338 Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver Ver
+08 de Jul. de 1998 14ª / 338 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+14 de Jul. de 1998   Primer trámite constitucional / C. Diputados Oficio de la Com. de Constitución. Oficio 16-98 del 09-07-98 de la Com. de Constitución, solicita envío del proyecto para ser tramitado en esa Comisión.
+15 de Jul. de 1998   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+21 de Jul. de 1998 19ª / 338 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+15 de Sep. de 1998 36ª / 338 Primer trámite constitucional / C. Diputados Discusión general Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2196-06","Fecha Etapa Informe Documento
+15 de Jul. de 1998 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2196-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2196-06","Nombre Región Distrito Partido
+Eliana Caraball Martínez RM Región Metropolitana N°27 Partido Demócrata Cristiano
+Aldo Cornejo González V Región de Valparaíso N°13 Partido Demócrata Cristiano
+Sergio Elgueta Barrientos X Región de los Lagos N°57 Partido Demócrata Cristiano
+José Miguel Ortiz Novoa VIII Región del Bío Bío N°44 Partido Demócrata Cristiano
+Antonella Sciaraffia Estrada I Región de Tarapacá N°2 Partido Demócrata Cristiano
+Rodolfo Seguel Molina RM Región Metropolitana N°28 Partido Demócrata Cristiano
+Exequiel Silva Ortíz X Región de los Lagos N°53 Partido Demócrata Cristiano
+Ignacio Walker Prieto V Región de Valparaíso N°10 Partido Demócrata Cristiano
+Patricio Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2196-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2196-06","No record","Veto emmEnd"

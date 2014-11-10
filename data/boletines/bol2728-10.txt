@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 2728-10","Legislatura: 344
+Fecha de ingreso: martes 19 de junio de 2001
+Estado: Tramitación terminada (D.S. Nº 99 - D.Oficial 20/06/2002)
+Numero de boletín: 2728-10
+Materia: Discapacidad,Discriminación
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 09:47:43
+* * Hitos de tramitación * *
+"emmStart Hitos 2728-10","Fecha Sesión Etapa Sub-etapa Documento
+19 de Jun. de 2001   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+19 de Jun. de 2001 7ª / 344 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+14 de Ago. de 2001   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Sep. de 2001 35ª / 344 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+10 de Oct. de 2001 6ª / 345 Primer trámite constitucional / C. Diputados Discusión general Ver
+10 de Oct. de 2001   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+16 de Oct. de 2001 8ª / 345 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+14 de Nov. de 2001   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+14 de Nov. de 2001 16ª / 345 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+20 de Nov. de 2001 17ª / 345 Segundo trámite constitucional / Senado Discusión general Ver
+21 de Nov. de 2001   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+29 de Nov. de 2001   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+18 de Dic. de 2001 20ª / 345 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2728-10","Fecha Etapa Informe Documento
+14 de Nov. de 2001 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+14 de Ago. de 2001 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2728-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2728-10","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2728-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2728-10","No record","Veto emmEnd"

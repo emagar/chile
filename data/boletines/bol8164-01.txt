@@ -1,0 +1,29 @@
+* * Bill summary * *
+"emmStart Summary 8164-01","Legislatura: 359
+Fecha de ingreso: lunes 05 de marzo de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8164-01
+Materia: Terrenos Forestales
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 22:14:23
+* * Hitos de tramitación * *
+"emmStart Hitos 8164-01","Fecha Sesión Etapa Sub-etapa Documento
+05 de Mar. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Mar. de 2012 140ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Agricultura, Silvicultura y Desarrollo Rural Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8164-01","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8164-01","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8164-01","Nombre Región Distrito Partido
+José Pérez Arriagada VIII Región del Bío Bío N°47 Partido Radical Social Demócrata","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8164-01","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8164-01","No record","Veto emmEnd"

@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 640-10","Legislatura: 323
+Fecha de ingreso: jueves 26 de marzo de 1992
+Estado: Tramitación terminada (D.S. Nº 1.108 - D.Oficial 17/10/1997)
+Numero de boletín: 640-10
+Materia: Acuerdos Internacionales,Convenios De Cooperación Científica Y Técnica
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 21:01:25
+* * Hitos de tramitación * *
+"emmStart Hitos 640-10","Fecha Sesión Etapa Sub-etapa Documento
+26 de Mar. de 1992 58ª / 323 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+26 de Mar. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+05 de May. de 1992   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de Oct. de 1992 2ª / 325 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+18 de Nov. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+19 de Nov. de 1992 12ª / 325 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+24 de Nov. de 1992 13ª / 325 Segundo trámite constitucional / Senado Discusión general Ver
+25 de Nov. de 1992   Tramitación terminada / Oficio Nº3712. Oficio a la Cámara de Diputados comunicándole la aprobación del proyecto de acuerdo, en los mismos términos. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 640-10","Fecha Etapa Informe Documento
+19 de Nov. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+05 de May. de 1992 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 640-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 640-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 640-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 640-10","No record","Veto emmEnd"

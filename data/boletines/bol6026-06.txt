@@ -1,0 +1,55 @@
+* * Bill summary * *
+"emmStart Summary 6026-06","Legislatura: 356
+Fecha de ingreso: martes 12 de agosto de 2008
+Estado: Segundo trámite constitucional .
+Numero de boletín: 6026-06
+Materia: Coredes,Partidos Políticos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 02:00:39
+* * Hitos de tramitación * *
+"emmStart Hitos 6026-06","Fecha Sesión Etapa Sub-etapa Documento
+12 de Ago. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Ago. de 2008 60ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+09 de Sep. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+10 de Sep. de 2008 78ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de la Comisión de Gobierno Interior. EN ESTADO DE TABLA. Ver
+11 de Nov. de 2008 98ª / 356 Primer trámite constitucional / C. Diputados Discusión general. Queda pendiente. Ver Ver
+12 de Nov. de 2008 100ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1048-356 que hace presente la urgencia Suma Ver
+12 de Nov. de 2008 100ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+12 de Nov. de 2008   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+18 de Nov. de 2008 69ª / 356 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización Ver
+02 de Dic. de 2008 74ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 1133-356 que hace presente la urgencia Discusión inmediata
+03 de Dic. de 2008 76ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 1157-356 que retira la urgencia Discusión inmediata","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6026-06","Fecha Etapa Informe Documento
+09 de Sep. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6026-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+02 de Dic. de 2008 02 de Dic. de 2008 Discusión inmediata 1133-356 1157-356
+12 de Nov. de 2008   Suma 1048-356  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6026-06","Nombre Región Distrito Partido
+Germán Becker Alvear IX Región de la Araucanía N°50 Renovación Nacional
+Mario Bertolino Rendic IV Región de Coquimbo N°7 Renovación Nacional
+Roberto Delmastro Naso XIV Región de los Ríos N°53 Renovación Nacional
+Pablo Galilea Carrillo XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Renovación Nacional
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Alfonso Vargas Lyng V Región de Valparaíso N°10 Renovación Nacional
+Germán Verdugo Soto VII Región del Maule N°37 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6026-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+100   86 10 10 14 Aprobado Sala Ver detalle votación
+100 artículo 83 de la ley N°19.175, contenido en el artículo único del proyecto, con excepción de sus incisos segundo y tercero. 90 8 7 15 Aprobado Sala Ver detalle votación
+100 Inciso tercero del artículo 83 en los términos propuestos por la Comisión de Gobierno Interior. 89 6 8 17 Aprobado Sala Ver detalle votación
+100 Indicación de la Diputada Alejandra Sepúlveda y los Diputados Pedro Araya, Gabriel Ascencio, Álvaro Escobar, Marco Enríquez-Ominami, Tucapel Jiménez, Carlos Olivares y Esteban Valenzuela, para sustituir el inciso tercero del artículo 83 por el siguiente: ""No obstante lo dispuesto en el inciso anterior, cualquier ciudadano que reúna los requisitos para postular podrá declarar su propia candidatura, si cuenta con el patrocinio de un número no inferior al número de votos obtenido por el candidato del partido político que hubiere obtenido la menor votación en la provincia en la última elección municipal. Dicha información, con el número mínimo de patrocinantes la hará el director del Servicio Electoral, mediante resolución que se publicará en el Diario Oficial con 45 días de anticipación, a lo menos, al término del período de los anteriores consejeros regionales."". 25 65 9 0 Rechazado Sala Ver detalle votación
+100 Indicación de la Diputada Alejandra Sepúlveda y los Diputados Álvaro Escobar, Marco Enríquez-Ominami, Carlos Olivares e Iván Paredes para agregar el siguiente inciso final al artículo 83: ""Sin perjuicio de lo previsto en los incisos precedentes, no podrán ser designados como candidatos a consejeros regionales las personas que al tiempo de su designación tuvieren a su cónyuge, hijos, adoptados o parientes hasta el tercer grado de consanguinidad y segundo de afinidad inclusive, desempeñándose simultáneamente como diputados, senadores, intendentes y gobernadores, alcaldes y concejales por el distrito o circunscripción, provincia o región que corresponda al territorio por el que se le presenta. Las personas afectadas podrán ser designadas en otras regiones."". 69 2 19 30 Aprobado Sala Ver detalle votación
+100 Indicación de la Diputada Alejandra Sepúlveda y los Diputados Álvaro Escobar, Marco Enríquez-Ominami y Carlos Olivares, para agregar el siguiente inciso cuarto, nuevo, en el artículo 83: ""Los candidatos a consejeros regionales que sean presentados por un partido político deberán acreditar al momento de presentar su candidatura que su nominación se ha originado en un proceso de primarias realizadas al interior del partido político respectivo. En ningún caso se inscribirán las candidaturas a que se refiere este inciso que den cumplimiento a esta exigencia."". 21 66 10 23 Rechazado Sala Ver detalle votación
+100 Inciso segundo del artículo 83, con indicación de las Diputadas Isabel Allende y Denise Pascal y los Diputados Fidel Espinoza, Antonio Leal, Sergio Ojeda, Marcelo Schilling, Patricio Vallespín y Felipe Ward, para intercalar una oración con el objeto de que los partidos políticos puedan delegar en las directivas regionales las declaraciones de candidaturas. 84 7 7 22 Aprobado Sala Ver detalle votación
+82 Votación General 8 1 2 2   Gobierno Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6026-06","No record","Veto emmEnd"

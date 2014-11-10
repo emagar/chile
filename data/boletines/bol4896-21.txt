@@ -1,0 +1,35 @@
+* * Bill summary * *
+"emmStart Summary 4896-21","Legislatura: 355
+Fecha de ingreso: martes 13 de marzo de 2007
+Estado: Primer trámite constitucional .
+Numero de boletín: 4896-21
+Materia: Acuicultura
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 22:19:29
+* * Hitos de tramitación * *
+"emmStart Hitos 4896-21","Fecha Sesión Etapa Sub-etapa Documento
+13 de Mar. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Mar. de 2007 1ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Pesca, Acuicultura e Intereses Marítimos Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4896-21","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4896-21","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4896-21","Nombre Región Distrito Partido
+René Alinco Bustos XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Partido Por la Democracia
+Patricio Melero Abaroa RM Región Metropolitana N°16 Unión Demócrata Independiente
+Iván Norambuena Farías VIII Región del Bío Bío N°46 Unión Demócrata Independiente
+Carlos Recondo Lavanderos X Región de los Lagos N°56 Unión Demócrata Independiente
+Jorge Ulloa Aguillón VIII Región del Bío Bío N°43 Unión Demócrata Independiente
+Patricio Vallespín López X Región de los Lagos N°57 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4896-21","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+63 Votación General 6 0 0 7   Pesca y Acuicultura Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4896-21","No record","Veto emmEnd"

@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 1852-05","Legislatura: 332
+Fecha de ingreso: martes 07 de mayo de 1996
+Estado: Tramitación terminada (Ley Nº 19.457 - D.Oficial 25/05/1996)
+Numero de boletín: 1852-05
+Materia: Asignacion Familiar
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 15:33:22
+* * Hitos de tramitación * *
+"emmStart Hitos 1852-05","Fecha Sesión Etapa Sub-etapa Documento
+07 de May. de 1996 70ª / 332 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+07 de May. de 1996   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+07 de May. de 1996   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de May. de 1996   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de May. de 1996 71ª / 332 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+08 de May. de 1996   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de May. de 1996   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de May. de 1996 71ª / 332 Primer trámite constitucional / C. Diputados Discusión general Ver
+08 de May. de 1996   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+14 de May. de 1996 59ª / 332 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+14 de May. de 1996   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+14 de May. de 1996 59ª / 332 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+14 de May. de 1996 59ª / 332 Segundo trámite constitucional / Senado Discusión general Ver
+15 de May. de 1996   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+15 de May. de 1996   Tramitación terminada / Oficio Nº9764. comunica aprobación sin modificaciones a Cámara de origen Ver
+15 de May. de 1996   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+16 de May. de 1996 76ª / 332 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1852-05","Fecha Etapa Informe Documento
+14 de May. de 1996 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+08 de May. de 1996 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+07 de May. de 1996 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1852-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+07 de May. de 1996   Discusión inmediata    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1852-05","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1852-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1852-05","No record","Veto emmEnd"

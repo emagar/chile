@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 3737-14","Legislatura: 352
+Fecha de ingreso: martes 14 de diciembre de 2004
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 3737-14
+Materia: Leyes Interpretativas
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 08:04:46
+* * Hitos de tramitación * *
+"emmStart Hitos 3737-14","Fecha Sesión Etapa Sub-etapa Documento
+14 de Dic. de 2004 30ª / 352 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de la Vivienda y Desarrollo Urbano Ver
+14 de Dic. de 2004   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+22 de Jun. de 2005   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+19 de Jul. de 2005   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Ago. de 2005 23ª / 353 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. Primeros informes de Comisionbes de Vivienda y de Hacienda. Ver
+02 de Ago. de 2005 24ª / 353 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+16 de Ago. de 2005 30ª / 353 Primer trámite constitucional / C. Diputados Discusión general Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3737-14","Fecha Etapa Informe Documento
+19 de Jul. de 2005 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+22 de Jun. de 2005 Primer trámite constitucional C.Diputados Primer informe de comisión de Vivienda y Desarrollo Urbano Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3737-14","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3737-14","Nombre Región Distrito Partido
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Francisco Encina Moriamez IV Región de Coquimbo N°8 Partido Socialista
+Antonio Leal Labrín III Región de Atacama N°5 Partido Por la Democracia
+Juan Pablo Letelier Morel VI Región del Libertador Bernardo O' Higgins N°33 Partido Socialista
+Pablo Lorenzini Basso VII Región del Maule N°38 Partido Demócrata Cristiano
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+José Miguel Ortiz Novoa VIII Región del Bío Bío N°44 Partido Demócrata Cristiano
+Aníbal Pérez Lobos VI Región del Libertador Bernardo O' Higgins N°35 Partido Por la Democracia
+Alberto Robles Pantoja III Región de Atacama N°6 Partido Radical Social Demócrata
+Eduardo Saffirio Suárez IX Región de la Araucanía N°50 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3737-14","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+30   35 57 7 0 Rechazado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3737-14","No record","Veto emmEnd"

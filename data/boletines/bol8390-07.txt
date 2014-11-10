@@ -1,0 +1,31 @@
+* * Bill summary * *
+"emmStart Summary 8390-07","Legislatura: 360
+Fecha de ingreso: jueves 21 de junio de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8390-07
+Materia: Constitucion 1980,Edad Para Ser Elegido Senador,Senadores
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 10-11-2014 00:54:58
+* * Hitos de tramitación * *
+"emmStart Hitos 8390-07","Fecha Sesión Etapa Sub-etapa Documento
+21 de Jun. de 2012   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+03 de Jul. de 2012 30ª / 360 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8390-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8390-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8390-07","Nombre
+José Antonio Gómez Urrutia
+Ximena Rincón González
+Fulvio Rossi Ciocca","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8390-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8390-07","No record","Veto emmEnd"

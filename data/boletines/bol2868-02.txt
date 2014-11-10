@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 2868-02","Legislatura: 345
+Fecha de ingreso: martes 22 de enero de 2002
+Estado: Tramitación terminada (Ley Nº 19.867 - D.Oficial 12/05/2003)
+Numero de boletín: 2868-02
+Materia: Artes Marciales
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 03-11-2014 17:25:18
+* * Hitos de tramitación * *
+"emmStart Hitos 2868-02","Fecha Sesión Etapa Sub-etapa Documento
+22 de Ene. de 2002   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+22 de Ene. de 2002 25ª / 345 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Defensa Nacional
+12 de Nov. de 2002   Primer trámite constitucional / Senado Primer informe de comisión Ver
+12 de Nov. de 2002 11ª / 348 Primer trámite constitucional / Senado Se agrega a la Cuenta el informe de la Comisión de defensa Nacional.
+13 de Nov. de 2002   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+13 de Nov. de 2002 12ª / 348 Primer trámite constitucional / Senado Discusión general Ver
+13 de Nov. de 2002   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+14 de Nov. de 2002 21ª / 348 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Defensa Nacional Ver
+12 de Mar. de 2003   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Mar. de 2003 56ª / 348 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de Mar. de 2003 57ª / 348 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+13 de Mar. de 2003   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+14 de Mar. de 2003   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2868-02","Fecha Etapa Informe Documento
+12 de Mar. de 2003 Segundo trámite constitucional C.Diputados Primer informe de comisión de Defensa Nacional Ver
+12 de Nov. de 2002 Primer trámite constitucional Senado Primer informe de comisión de Defensa Nacional Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2868-02","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+14 de Nov. de 2002   Sin urgencia    
+14 de Nov. de 2002   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2868-02","Nombre
+Andrés Zaldívar Larraín","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2868-02","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2868-02","No record","Veto emmEnd"

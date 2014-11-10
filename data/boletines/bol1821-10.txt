@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 1821-10","Legislatura: 332
+Fecha de ingreso: martes 19 de marzo de 1996
+Estado: Segundo trámite constitucional .
+Numero de boletín: 1821-10
+Materia: Acuerdos Internacionales
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 15:09:48
+* * Hitos de tramitación * *
+"emmStart Hitos 1821-10","Fecha Sesión Etapa Sub-etapa Documento
+19 de Mar. de 1996   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+19 de Mar. de 1996 56ª / 332 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+30 de Abr. de 1996   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+22 de Jul. de 1997 23ª / 335 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+23 de Jul. de 1997 25ª / 335 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+23 de Jul. de 1997   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+29 de Jul. de 1997 19ª / 335 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores y a la de Hacienda, en su caso.
+13 de Mar. de 2002 1ª / 346 Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 346
+01 de Oct. de 2002 1ª / 348 Segundo trámite constitucional / Senado Cuenta del mensaje que incluye el proyecto en la convocatoria a Legislatura Extraordinaria.
+06 de Nov. de 2002 10ª / 348 Segundo trámite constitucional / Senado Cuenta oficio Comisión RREE., solicita acuerdo para archivo proyecto, previo asentimiento Cámara Diputados.
+14 de Sep. de 2004   Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 352","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1821-10","Fecha Etapa Informe Documento
+18 de Jul. de 1997 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+30 de Abr. de 1996 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1821-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+19 de Mar. de 1996   Sin urgencia 391-332  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1821-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1821-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1821-10","No record","Veto emmEnd"

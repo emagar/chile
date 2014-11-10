@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 6402-07","Legislatura: 356
+Fecha de ingreso: martes 10 de marzo de 2009
+Estado: Primer trámite constitucional .
+Numero de boletín: 6402-07
+Materia: Constitucion 1980,Cámara De Diputados,Senado
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 06:25:32
+* * Hitos de tramitación * *
+"emmStart Hitos 6402-07","Fecha Sesión Etapa Sub-etapa Documento
+10 de Mar. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Mar. de 2009 134ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6402-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6402-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6402-07","Nombre Región Distrito Partido
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Gonzalo Duarte Leiva RM Región Metropolitana N°26 Partido Demócrata Cristiano
+Edmundo Eluchans Urenda V Región de Valparaíso N°15 Unión Demócrata Independiente
+Nicolás Monckeberg Díaz VIII Región del Bío Bío N°42 Renovación Nacional
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+José Miguel Ortiz Novoa VIII Región del Bío Bío N°44 Partido Demócrata Cristiano
+Eduardo Saffirio Suárez IX Región de la Araucanía N°50 Partido Demócrata Cristiano
+Raúl Sunico Galdames VIII Región del Bío Bío N°43 Partido Socialista","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6402-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+208 Votación General 7 0 0 6   Constitución Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6402-07","No record","Veto emmEnd"

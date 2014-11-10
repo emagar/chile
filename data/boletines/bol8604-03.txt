@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 8604-03","Legislatura: 360
+Fecha de ingreso: miércoles 03 de octubre de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8604-03
+Materia: Telemarketing
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 03:34:11
+* * Hitos de tramitación * *
+"emmStart Hitos 8604-03","Fecha Sesión Etapa Sub-etapa Documento
+03 de Oct. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Oct. de 2012 84ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8604-03","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8604-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8604-03","Nombre Región Distrito Partido
+Gonzalo Arenas Hödar IX Región de la Araucanía N°48 Unión Demócrata Independiente
+Fuad Chahín Valenzuela IX Región de la Araucanía N°49 Partido Demócrata Cristiano
+José Manuel Edwards Silva IX Región de la Araucanía N°51 Renovación Nacional
+Felipe Harboe Bascuñán RM Región Metropolitana N°22 Partido Por la Democracia
+Gustavo Hasbún Selume RM Región Metropolitana N°26 Unión Demócrata Independiente
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+Ignacio Urrutia Bonilla VII Región del Maule N°40 Unión Demócrata Independiente
+Patricio Vallespín López X Región de los Lagos N°57 Partido Demócrata Cristiano
+Enrique Van Rysselberghe Herrera VIII Región del Bío Bío N°44 Unión Demócrata Independiente
+Mónica Zalaquett Said RM Región Metropolitana N°20 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8604-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8604-03","No record","Veto emmEnd"

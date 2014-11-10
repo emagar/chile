@@ -1,0 +1,30 @@
+* * Bill summary * *
+"emmStart Summary 252-10","Legislatura: 321
+Fecha de ingreso: martes 08 de enero de 1991
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 252-10
+Materia: Acuerdos Internacionales
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 13:34:08
+* * Hitos de tramitación * *
+"emmStart Hitos 252-10","Fecha Sesión Etapa Sub-etapa Documento
+08 de Ene. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+08 de Ene. de 1991 27ª / 321 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+06 de Oct. de 1992   Tramitación terminada / S.E. el Presidente de la República retira el proyecto de su tramitación.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 252-10","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 252-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+08 de Ene. de 1991   Simple    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 252-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 252-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 252-10","No record","Veto emmEnd"

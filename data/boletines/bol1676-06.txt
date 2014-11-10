@@ -1,0 +1,33 @@
+* * Bill summary * *
+"emmStart Summary 1676-06","Legislatura: 331
+Fecha de ingreso: martes 22 de agosto de 1995
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 1676-06
+Materia: Elecciones,Inscripción Electoral,Votación,Sistema De Registro Electoral Común
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 12:11:42
+* * Hitos de tramitación * *
+"emmStart Hitos 1676-06","Fecha Sesión Etapa Sub-etapa Documento
+22 de Ago. de 1995   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+22 de Ago. de 1995 28ª / 331 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización
+07 de Jul. de 1998   Primer trámite constitucional / Senado Primer informe de comisión Ver
+14 de Jul. de 1998 13ª / 338 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+01 de Sep. de 1998 25ª / 338 Tramitación terminada / Rechazado Rechazada la idea de legislar Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1676-06","Fecha Etapa Informe Documento
+07 de Jul. de 1998 Primer trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1676-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1676-06","Nombre
+Mario Ríos Santander","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1676-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1676-06","No record","Veto emmEnd"

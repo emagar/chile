@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 7539-11","Legislatura: 359
+Fecha de ingreso: miércoles 16 de marzo de 2011
+Estado: Primer trámite constitucional .
+Numero de boletín: 7539-11
+Materia: Contratos De Salud
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 05:15:41
+* * Hitos de tramitación * *
+"emmStart Hitos 7539-11","Fecha Sesión Etapa Sub-etapa Documento
+16 de Mar. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+16 de Mar. de 2011 3ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 25-359 que hace presente la urgencia Simple Ver
+16 de Mar. de 2011 3ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver
+19 de Abr. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de May. de 2011 20ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+03 de May. de 2011 21ª / 359 Primer trámite constitucional / C. Diputados La Cámara acuerda enviar el proyectoa Comisión de Hacienda. Ver
+07 de Jun. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Jun. de 2011 40ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+15 de Oct. de 2014 81ª / 362 Primer trámite constitucional / C. Diputados Consulta sobre archivo . Cuenta oficio de la Comisión de Régimen Interno, Administración y Reglamento, por el cual informa que, de conformidad con lo establecido en el inciso segundo del artículo 18 del Reglamento, ha acordado remitir al archivo el proyecto. EN VIRTUD DE LO DISPUESTO EN EL INCISO CUARTO DEL MISMO ARTÍCULO, SE SOLICITA EL ACUERDO DE LA PRESIDENTA DE LA REPÚBLICA, POR TRATARSE DE UN MENSAJE","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7539-11","Fecha Etapa Informe Documento
+07 de Jun. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+19 de Abr. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Salud Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7539-11","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+16 de Mar. de 2011   Simple 25-359  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7539-11","Nombre Región Distrito Partido
+Ministerio de Economía, Fomento y Turism      
+Ministerio de Hacienda      
+Ministerio de Salud      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7539-11","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+44 Votación General 7 6 0 0   Salud Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7539-11","No record","Veto emmEnd"

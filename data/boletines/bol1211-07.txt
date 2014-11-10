@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 1211-07","Legislatura: 329
+Fecha de ingreso: martes 31 de mayo de 1994
+Estado: Archivado .
+Numero de boletín: 1211-07
+Materia:
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 04:31:16
+* * Hitos de tramitación * *
+"emmStart Hitos 1211-07","Fecha Sesión Etapa Sub-etapa Documento
+31 de May. de 1994   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+31 de May. de 1994 1ª / 329 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social
+14 de Jun. de 1994   Primer trámite constitucional / Senado Primer informe de comisión Ver
+14 de Jun. de 1994 5ª / 329 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+16 de Jun. de 1994 6ª / 329 Segundo trámite constitucional / C. Diputados Discusión general y particular. Aprobado en general y en particular. Ver
+20 de Jun. de 1994   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+21 de Jun. de 1994   Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social
+21 de Jun. de 1994   Segundo trámite constitucional / C. Diputados Por acuerdo de la Sala el proyecto de radica en la Comisión de Trabajo
+17 de Mar. de 1998 1ª / 337 Segundo trámite constitucional / C. Diputados Oficio de la Com. de Trabajo solicita archivo de proyecto. Ver
+31 de Mar. de 1998 3ª / 337 Tercer trámite constitucional / Senado Cuenta en el Senado de la oficio de la Cámara de Diputados en que solicita el archivo del proyecto. Queda pendiente la petición de archivo.
+17 de Jun. de 1998 9ª / 338 Segundo trámite constitucional / C. Diputados Oficio del Senado comunica haber dejado pendiente proposición de archivo del proyecto. Ver
+17 de Jun. de 1998   Segundo trámite constitucional / C. Diputados Oficio Nº 12.415 a la Cámara de Diputados señalando que el Senado ha dejado pendiente su resolución acerca del archivo del proyecto. Ver
+02 de Jun. de 1999 3ª / 340 Segundo trámite constitucional / C. Diputados Cuenta del oficio de la Comisión solicitando el archivo del proyecto, de acuerdo a lo dispuesto en el inciso final del artículo 36 del Reglamento del Senado. La Sala rechaza la proposición de archivo. Ver
+08 de Jun. de 1999   Segundo trámite constitucional / C. Diputados Oficio Nº14.371. Oficio a la Cámara de Diputados indicando que el Senado ha rechazado la proposición de archivo. Ver
+04 de May. de 2010   Segundo trámite constitucional / C. Diputados Archivado Comisión de Traabajo remite al archivo, previo acuerdo del Senado.
+05 de May. de 2010 22ª / 358 Archivado / Oficio N°271/SEC/10. Accede a proposición de archivo de la Cámara de Diputados. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1211-07","Fecha Etapa Informe Documento
+14 de Jun. de 1994 Primer trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1211-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+31 de May. de 1994 16 de Sep. de 1998 Sin urgencia   CADUCADO","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1211-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1211-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1211-07","No record","Veto emmEnd"

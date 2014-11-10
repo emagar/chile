@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 6914-03","Legislatura: 358
+Fecha de ingreso: viernes 30 de abril de 2010
+Estado: Archivado .
+Numero de boletín: 6914-03
+Materia: Protesto Bancario
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 08-11-2014 19:34:19
+* * Hitos de tramitación * *
+"emmStart Hitos 6914-03","Fecha Sesión Etapa Sub-etapa Documento
+30 de Abr. de 2010   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+04 de May. de 2010 14ª / 358 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Economía
+11 de May. de 2010   Primer trámite constitucional / Senado Primer informe de comisión Ver
+11 de May. de 2010 16ª / 358 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+18 de May. de 2010 20ª / 358 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 31/05/2010 Ver
+31 de May. de 2010   Primer trámite constitucional / Senado Boletín de indicaciones
+29 de Ene. de 2014   Primer trámite constitucional / Senado Archivado Se archiva en virtud del inciso segundo del artículo 36 bis del Reglamento del Senado. Oficio de la Secretaría de la Comisión de Economía N° 678/E-2014","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6914-03","Fecha Etapa Informe Documento
+11 de May. de 2010 Primer trámite constitucional Senado Primer informe de comisión de Economía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6914-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6914-03","Nombre
+Andrés Allamand Zavala
+José García Ruminot
+Ricardo Lagos Weber
+Eugenio Tuma Zedán","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6914-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6914-03","No record","Veto emmEnd"

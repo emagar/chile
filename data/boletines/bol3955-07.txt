@@ -1,0 +1,62 @@
+* * Bill summary * *
+"emmStart Summary 3955-07","Legislatura: 353
+Fecha de ingreso: martes 16 de agosto de 2005
+Estado: Tramitación terminada (Ley Nº 20.193 - D.Oficial 30/07/2007)
+Numero de boletín: 3955-07
+Materia: Reforma Constitucional,Territorios Especiales,Archipiélago De Juan Fernández (Chile),Isla De Pascua (Chile)
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 05-11-2014 07:13:39
+* * Hitos de tramitación * *
+"emmStart Hitos 3955-07","Fecha Sesión Etapa Sub-etapa Documento
+16 de Ago. de 2005   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+16 de Ago. de 2005 26ª / 353 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización.
+18 de Abr. de 2006   Primer trámite constitucional / Senado Primer informe de comisión Ver
+18 de Abr. de 2006   Primer trámite constitucional / Senado Primer informe de comisión Ver
+19 de Abr. de 2006 9ª / 354 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+02 de May. de 2006   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+02 de May. de 2006 11ª / 354 Primer trámite constitucional / Senado Discusión general Ver
+03 de May. de 2006 19ª / 354 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 87-354 que hace presente la urgencia Discusión inmediata Ver
+03 de May. de 2006 19ª / 354 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver Ver
+04 de May. de 2006 20ª / 354 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 88-354 que retira la urgencia Discusión inmediata Ver
+16 de May. de 2006 26ª / 354 Segundo trámite constitucional / C. Diputados Sala de la Corporación acordó remitir proyecto a la Comisión Especial destinada a estudiar el cumplimiento y resultado de las distintas medidas legales y administrativas que se aplican a favor de las zonas extremas. Ver
+16 de May. de 2006 26ª / 354 Segundo trámite constitucional / C. Diputados Comisión de zonas extremas solicita se le remita el proyecto. Acordado. Ver
+10 de Abr. de 2007 18ª / 355 Segundo trámite constitucional / C. Diputados Comisión de Constitución solicita autorización para sesionar simultáneamente con la Sala el día jueves 03 de mayo de 10,45 a 12,45 horas. APROBADO. Ver
+17 de Abr. de 2007 16ª / 355 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 87-355 que hace presente la urgencia Suma Ver
+02 de May. de 2007 20ª / 355 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 149-355 que retira y hace presente la urgencia Suma Ver
+03 de May. de 2007   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+15 de May. de 2007 26ª / 355 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 192-355 que retira y hace presente la urgencia Suma Ver
+16 de May. de 2007   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Jun. de 2007 30ª / 355 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 236-355 que hace presente la urgencia Suma Ver
+05 de Jun. de 2007 30ª / 355 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+05 de Jun. de 2007 30ª / 355 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+06 de Jun. de 2007   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+06 de Jun. de 2007 22ª / 355 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+06 de Jun. de 2007   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3955-07","Fecha Etapa Informe Documento
+16 de May. de 2007 Segundo trámite constitucional C.Diputados Primer informe de comisión Zonas Extremas Ver
+03 de May. de 2007 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+18 de Abr. de 2006 Primer trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver
+18 de Abr. de 2006 Primer trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3955-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+05 de Jun. de 2007   Suma 236-355  
+15 de May. de 2007   Suma 192-355  
+02 de May. de 2007 15 de May. de 2007 Suma 149-355 192-355
+17 de Abr. de 2007 02 de May. de 2007 Suma 87-355 149-355
+03 de May. de 2006 04 de May. de 2006 Discusión inmediata 87-354 88-354","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3955-07","Nombre
+Ministerio de Interior y Seguridad Públi","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3955-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+34 Votación General 7 0 0 6   Zonas Extremas (E) Ver detalle votación
+30   100 1 0 19 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3955-07","No record","Veto emmEnd"

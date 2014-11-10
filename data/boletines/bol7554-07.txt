@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 7554-07","Legislatura: 359
+Fecha de ingreso: miércoles 23 de marzo de 2011
+Estado: Primer trámite constitucional .
+Numero de boletín: 7554-07
+Materia: Mociones,Constitucion 1980
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 05:26:39
+* * Hitos de tramitación * *
+"emmStart Hitos 7554-07","Fecha Sesión Etapa Sub-etapa Documento
+23 de Mar. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+23 de Mar. de 2011 7ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7554-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7554-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7554-07","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Gabriel Ascencio Mansilla X Región de los Lagos N°58 Partido Demócrata Cristiano
+Mario Bertolino Rendic IV Región de Coquimbo N°7 Renovación Nacional
+Juan Luis Castro González VI Región del Libertador Bernardo O' Higgins N°32 Partido Socialista
+Miodrag Marinovic Solo de Zaldívar XII Región de Magallanes y de la Antártica Chilena N°60 Independientes
+Andrea Molina Oliva V Región de Valparaíso N°10 Unión Demócrata Independiente
+Marco Antonio Núñez Lozano V Región de Valparaíso N°11 Partido Por la Democracia
+Alberto Robles Pantoja III Región de Atacama N°6 Partido Radical Social Demócrata
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Partido Regionalista Independiente
+Guillermo Teillier Del Valle RM Región Metropolitana N°28 Partido Comunista","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7554-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7554-07","No record","Veto emmEnd"

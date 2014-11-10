@@ -1,0 +1,34 @@
+* * Bill summary * *
+"emmStart Summary 6409-03","Legislatura: 357
+Fecha de ingreso: jueves 12 de marzo de 2009
+Estado: Primer trámite constitucional .
+Numero de boletín: 6409-03
+Materia: Tarjetas De Crédito,Contrato Telefónico,Contratos De Seguro,Seguros
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 06:29:48
+* * Hitos de tramitación * *
+"emmStart Hitos 6409-03","Fecha Sesión Etapa Sub-etapa Documento
+12 de Mar. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Mar. de 2009 2ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6409-03","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6409-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6409-03","Nombre Región Distrito Partido
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Roberto Delmastro Naso XIV Región de los Ríos N°53 Renovación Nacional
+Maximiano Errázuriz Eguiguren RM Región Metropolitana N°29 Independientes
+Carlos Olivares Zepeda RM Región Metropolitana N°18 Partido Regionalista Independiente
+Iván Paredes Fierro XV Región Arica y Parinacota N°1 Partido Socialista
+Ignacio Urrutia Bonilla VII Región del Maule N°40 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6409-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6409-03","No record","Veto emmEnd"

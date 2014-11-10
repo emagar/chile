@@ -1,0 +1,54 @@
+* * Bill summary * *
+"emmStart Summary 1285-10","Legislatura: 329
+Fecha de ingreso: martes 12 de julio de 1994
+Estado: Trámite de aprobacion presidencial .
+Numero de boletín: 1285-10
+Materia: Acuerdos Internacionales
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 05:24:11
+* * Hitos de tramitación * *
+"emmStart Hitos 1285-10","Fecha Sesión Etapa Sub-etapa Documento
+12 de Jul. de 1994   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+12 de Jul. de 1994 12ª / 329 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+07 de Dic. de 1994   Primer trámite constitucional / Senado Primer informe de comisión Ver
+07 de Dic. de 1994 25ª / 330 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+13 de Dic. de 1994 26ª / 330 Primer trámite constitucional / Senado Discusión general Ver
+13 de Dic. de 1994   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+15 de Dic. de 1994 26ª / 330 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+10 de Ene. de 1995   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+10 de Ene. de 1995   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Ene. de 1995   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Ene. de 1995   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Ene. de 1995   Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión
+18 de Ene. de 1995 40ª / 330 Segundo trámite constitucional / C. Diputados Discusión general Ver
+23 de Ene. de 1995   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+02 de Mar. de 1995 40ª / 336 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+02 de Mar. de 1995   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1285-10","Fecha Etapa Informe Documento
+17 de Ene. de 1995 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+10 de Ene. de 1995 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+07 de Dic. de 1994 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1285-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+03 de Ene. de 1995 16 de Sep. de 1998 Suma 367-330 CADUCADO
+06 de Dic. de 1994 03 de Ene. de 1995 Suma 061294 367-330
+15 de Nov. de 1994 06 de Dic. de 1994 Suma 151194 061294
+02 de Nov. de 1994 15 de Nov. de 1994 Suma 021194 151194
+20 de Oct. de 1994 02 de Nov. de 1994 Suma 201094 021194
+11 de Oct. de 1994 19 de Oct. de 1994 Simple 111094 CADUCADO
+30 de Ago. de 1994 10 de Oct. de 1994 Simple 300894 CADUCADO
+12 de Jul. de 1994 30 de Ago. de 1994 Simple 120794 CADUCADO
+12 de Jul. de 1994 16 de Sep. de 1998 Sin urgencia   CADUCADO","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1285-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1285-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1285-10","No record","Veto emmEnd"

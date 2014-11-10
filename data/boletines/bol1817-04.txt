@@ -1,0 +1,52 @@
+* * Bill summary * *
+"emmStart Summary 1817-04","Legislatura: 332
+Fecha de ingreso: jueves 14 de marzo de 1996
+Estado: Tramitación terminada (Ley Nº 19.621 - D.Oficial 21/08/1999)
+Numero de boletín: 1817-04
+Materia: Monumentos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 15:06:41
+* * Hitos de tramitación * *
+"emmStart Hitos 1817-04","Fecha Sesión Etapa Sub-etapa Documento
+14 de Mar. de 1996   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+14 de Mar. de 1996 54ª / 332 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+11 de Jun. de 1996   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Jun. de 1996 5ª / 333 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+11 de Jun. de 1996 5ª / 333 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+18 de Jun. de 1996 8ª / 333 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+18 de Jun. de 1996   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+19 de Jun. de 1996 9ª / 333 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+14 de Jul. de 1999   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+14 de Jul. de 1999 14ª / 340 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+14 de Jul. de 1999 15ª / 340 Segundo trámite constitucional / Senado Discusión general Ver
+20 de Jul. de 1999   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+21 de Jul. de 1999   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+21 de Jul. de 1999 22ª / 340 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1817-04","Fecha Etapa Informe Documento
+14 de Jul. de 1999 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+11 de Jun. de 1996 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1817-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1817-04","Nombre Región Distrito Partido
+Andrés Aylwin Azócar Región N°30 Partido Demócrata Cristiano
+Sergio Elgueta Barrientos Región N°57 Partido Demócrata Cristiano
+Jaime Estevez Valencia Región N°29 Partido Socialista
+Gutenberg Martínez Ocamica Región N°21 Partido Demócrata Cristiano
+Carlos Montes Cisternas Región N°26 Partido Socialista
+José Miguel Ortiz Novoa Región N°44 Partido Demócrata Cristiano
+Fanny Pollarolo Villa Región N° Partido Socialista
+Rodolfo Seguel Molina Región N°28 Partido Demócrata Cristiano
+Vicente Sota Barros Región N°31 Partido Por la Democracia
+Felipe Valenzuela Herrera Región N°4 Partido Socialista","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1817-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1817-04","No record","Veto emmEnd"

@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 1562-17","Legislatura: 330
+Fecha de ingreso: martes 11 de abril de 1995
+Estado: Tramitación terminada (Ley Nº 19.399 - D.Oficial 17/08/1995)
+Numero de boletín: 1562-17
+Materia: Nacionalización
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 10:43:25
+* * Hitos de tramitación * *
+"emmStart Hitos 1562-17","Fecha Sesión Etapa Sub-etapa Documento
+11 de Abr. de 1995 57ª / 330 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+11 de Abr. de 1995   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+19 de Abr. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de May. de 1995 67ª / 330 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+30 de May. de 1995 2ª / 331 Primer trámite constitucional / C. Diputados Discusión general Ver
+31 de May. de 1995   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+31 de May. de 1995 3ª / 331 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía
+05 de Jul. de 1995   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+05 de Jul. de 1995 12ª / 331 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+20 de Jul. de 1995 20ª / 331 Segundo trámite constitucional / Senado Discusión general Ver
+20 de Jul. de 1995   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+01 de Ago. de 1995   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+01 de Ago. de 1995 22ª / 331 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1562-17","Fecha Etapa Informe Documento
+05 de Jul. de 1995 Segundo trámite constitucional Senado Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+19 de Abr. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1562-17","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1562-17","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1562-17","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1562-17","No record","Veto emmEnd"

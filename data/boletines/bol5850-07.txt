@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 5850-07","Legislatura: 356
+Fecha de ingreso: martes 06 de mayo de 2008
+Estado: Archivado .
+Numero de boletín: 5850-07
+Materia: Culpabilidad,Declaración De Culpabilidad,Acusación Constitucional
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 07-11-2014 23:58:11
+* * Hitos de tramitación * *
+"emmStart Hitos 5850-07","Fecha Sesión Etapa Sub-etapa Documento
+06 de May. de 2008   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+06 de May. de 2008 17ª / 356 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+12 de Mar. de 2009   Primer trámite constitucional / Senado Primer informe de comisión Ver
+31 de Mar. de 2009 5ª / 357 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+29 de Abr. de 2009 13ª / 357 Primer trámite constitucional / Senado El Comité Partido Socialista solicita segunda discusión. Ver
+05 de May. de 2009 14ª / 357 Primer trámite constitucional / Senado La Sala, a petición del Senador Núñez, acuerda enviar este proyecto a la Comisión de Constitución para un nuevo primer informe.
+29 de Sep. de 2009 52ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 1206-357 que hace presente la urgencia Suma
+29 de Sep. de 2009 52ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 1206-357 que hace presente la urgencia Suma
+13 de Oct. de 2009 57ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 1319-357 que retira y hace presente la urgencia Suma
+27 de Oct. de 2009 59ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 1382-357 que retira y hace presente la urgencia Suma Ver
+10 de Nov. de 2009 63ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 1541-357 que retira y hace presente la urgencia Suma Ver
+17 de Nov. de 2009 69ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 1595-357 que retira la urgencia Suma Ver
+14 de Mar. de 2014   Primer trámite constitucional / Senado Archivado La Comisión lo ha archivado en virtud del artículo 36 bis, inciso segundo, del Reglamento del Senado.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5850-07","Fecha Etapa Informe Documento
+12 de Mar. de 2009 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5850-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+10 de Nov. de 2009 17 de Nov. de 2009 Suma 1541-357 1595-357
+27 de Oct. de 2009 10 de Nov. de 2009 Suma 1382-357 1541-357
+13 de Oct. de 2009 27 de Oct. de 2009 Suma 1319-357 1382-357
+29 de Sep. de 2009 13 de Oct. de 2009 Suma 1206-357 1319-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5850-07","Nombre
+Ricardo Núñez Muñoz
+Jorge Pizarro Soto","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5850-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5850-07","No record","Veto emmEnd"

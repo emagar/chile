@@ -1,0 +1,39 @@
+* * Bill summary * *
+"emmStart Summary 908-15","Legislatura: 325
+Fecha de ingreso: miércoles 27 de enero de 1993
+Estado: Tramitación terminada (Ley Nº 19.254 - D.Oficial 11/10/1993)
+Numero de boletín: 908-15
+Materia: Ministerio De Transporte Y Telecomunicasiones,Junta De Aeronáutica Civil,Ministerios,Plantas Y Grados
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 00:33:26
+* * Hitos de tramitación * *
+"emmStart Hitos 908-15","Fecha Sesión Etapa Sub-etapa Documento
+27 de Ene. de 1993   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+27 de Ene. de 1993 46ª / 325 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+13 de Jul. de 1993 10ª / 326 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones y a la de Hacienda. en su caso
+04 de Ago. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+17 de Ago. de 1993 18ª / 326 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+17 de Ago. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+18 de Ago. de 1993 19ª / 326 Segundo trámite constitucional / Senado Discusión general Ver
+18 de Ago. de 1993   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+31 de Ago. de 1993 20ª / 326 Segundo trámite constitucional / Senado Discusión general Ver
+01 de Sep. de 1993   Segundo trámite constitucional / Senado Oficio Nº4926. comunica aprobación con modificaciones a Cámara de origen Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 908-15","Fecha Etapa Informe Documento
+18 de Ago. de 1993 Segundo trámite constitucional Senado Segundo informe de comisión de Transportes y Telecomunicaciones Ver
+17 de Ago. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+04 de Ago. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 908-15","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 908-15","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 908-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 908-15","No record","Veto emmEnd"

@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 3032-06","Legislatura: 347
+Fecha de ingreso: miércoles 21 de agosto de 2002
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 3032-06
+Materia: Feriados
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 22:24:11
+* * Hitos de tramitación * *
+"emmStart Hitos 3032-06","Fecha Sesión Etapa Sub-etapa Documento
+21 de Ago. de 2002   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+21 de Ago. de 2002 32ª / 347 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+21 de Ago. de 2002   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+21 de Ago. de 2002 34ª / 347 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+03 de Sep. de 2002 36ª / 347 Primer trámite constitucional / C. Diputados Discusión general Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3032-06","Fecha Etapa Informe Documento
+21 de Ago. de 2002 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3032-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3032-06","Nombre Región Distrito Partido
+Germán Becker Alvear IX Región de la Araucanía N°50 Renovación Nacional
+Eliana Caraball Martínez RM Región Metropolitana N°27 Partido Demócrata Cristiano
+Alberto Cardemil Herrera RM Región Metropolitana N°22 Renovación Nacional
+Juan Pablo Letelier Morel VI Región del Libertador Bernardo O' Higgins N°33 Partido Socialista
+Pedro Muñoz Aburto XII Región de Magallanes y de la Antártica Chilena N°60 Partido Socialista
+José Pérez Arriagada VIII Región del Bío Bío N°47 Partido Radical Social Demócrata
+Víctor Manuel Rebolledo González IV Región de Coquimbo N°7 Partido Por la Democracia
+Edgardo Riveros Marín RM Región Metropolitana N°30 Partido Demócrata Cristiano
+Esteban Valenzuela Van Treek VI Región del Libertador Bernardo O' Higgins N°32 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3032-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+36   20 76 2 0   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3032-06","No record","Veto emmEnd"

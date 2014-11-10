@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 3031-07","Legislatura: 347
+Fecha de ingreso: martes 03 de septiembre de 2002
+Estado: Tramitación terminada (Ley Nº 19.836 - D.Oficial 08/11/2002)
+Numero de boletín: 3031-07
+Materia: Nacionalización
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 03-11-2014 22:23:31
+* * Hitos de tramitación * *
+"emmStart Hitos 3031-07","Fecha Sesión Etapa Sub-etapa Documento
+03 de Sep. de 2002   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+03 de Sep. de 2002 25ª / 347 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía
+10 de Sep. de 2002 27ª / 347 Primer trámite constitucional / Senado Cuenta del informe de la Comisión. Queda para tabla.
+11 de Sep. de 2002 29ª / 347 Primer trámite constitucional / Senado Discusión general Ver
+11 de Sep. de 2002   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+01 de Oct. de 2002 1ª / 348 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+02 de Oct. de 2002   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de Oct. de 2002 4ª / 348 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+09 de Oct. de 2002 5ª / 348 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+09 de Oct. de 2002   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+15 de Oct. de 2002 5ª / 348 Trámite finalización en Cámara de Origen / Senado Cuenta oficio C. de Dip., comunica aprobación, en los mismos términos en que lo hizo el Senado. Se manda comunicar al Presidente de la República.
+15 de Oct. de 2002   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3031-07","Fecha Etapa Informe Documento
+02 de Oct. de 2002 Segundo trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3031-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3031-07","Nombre
+Nelson Ávila Contreras
+Edgardo Boeninger Kausel
+Eduardo Frei Ruiz-Tagle
+Enrique Silva Cimma
+Andrés Zaldívar Larraín","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3031-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3031-07","No record","Veto emmEnd"

@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 2727-11","Legislatura: 344
+Fecha de ingreso: martes 12 de junio de 2001
+Estado: Archivado .
+Numero de boletín: 2727-11
+Materia: Salida De Tropas
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 09:47:20
+* * Hitos de tramitación * *
+"emmStart Hitos 2727-11","Fecha Sesión Etapa Sub-etapa Documento
+12 de Jun. de 2001   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Jun. de 2001 4ª / 344 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver
+06 de Nov. de 2001 13ª / 345 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 113-345 que retira y hace presente la urgencia Simple Ver
+19 de Nov. de 2002   Primer trámite constitucional / C. Diputados Boletin de Indicaciones, Mensaje Nº 210-348
+10 de Dic. de 2002   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Dic. de 2002 35ª / 348 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+17 de Dic. de 2002   Primer trámite constitucional / C. Diputados Boletín de indicaciones, Mensaje Nº 319-348
+18 de Dic. de 2002 36ª / 348 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+15 de Ene. de 2004 29ª / 350 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 437-348 que retira la urgencia Simple Ver
+07 de Mar. de 2006   Primer trámite constitucional / C. Diputados Se solicita su archivo El Ejecutivo solicita archivo.
+20 de Abr. de 2006   Primer trámite constitucional / C. Diputados Oficio Nº 6131. Se comunica acuerdo a S.E. la Presidenta de la República en orden a acceder al archivo del proyecto Ver
+20 de Abr. de 2006   Primer trámite constitucional / C. Diputados Archivado","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2727-11","Fecha Etapa Informe Documento
+10 de Dic. de 2002 Primer trámite constitucional C.Diputados Primer informe de comisión de Salud Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2727-11","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+15 de Ene. de 2003 13 de Nov. de 2003 Simple 391-348 436-348
+07 de Ene. de 2003 15 de Ene. de 2003 Simple 354-348 391-348
+19 de Nov. de 2002 07 de Ene. de 2003 Simple 216-348 354-348
+05 de Nov. de 2002 05 de Mar. de 2003 Simple 140-348 437-348
+06 de Nov. de 2001 19 de Nov. de 2002 Simple 113-345 216-348
+02 de Oct. de 2001 06 de Nov. de 2001 Simple 15-345 113-345","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2727-11","Nombre Región Distrito Partido
+Ministerio de Salud      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2727-11","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+36   85 0 0 0   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2727-11","No record","Veto emmEnd"

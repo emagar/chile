@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 668-01","Legislatura: 323
+Fecha de ingreso: miércoles 15 de abril de 1992
+Estado: Tramitación terminada (Ley Nº 19.283 - D.Oficial 05/01/1994)
+Numero de boletín: 668-01
+Materia:
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 21:23:19
+* * Hitos de tramitación * *
+"emmStart Hitos 668-01","Fecha Sesión Etapa Sub-etapa Documento
+15 de Abr. de 1992 66ª / 323 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+15 de Abr. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+28 de Oct. de 1992   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+04 de May. de 1993 47ª / 325 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Agricultura y a Comisión de Hacienda
+18 de May. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+05 de Ago. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+17 de Ago. de 1993 18ª / 326 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+31 de Ago. de 1993 20ª / 326 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 06/09/1993 Ver
+14 de Sep. de 1993   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+05 de Oct. de 1993 2ª / 327 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+13 de Oct. de 1993 4ª / 327 Segundo trámite constitucional / Senado Discusión particular Ver
+14 de Oct. de 1993 5ª / 327 Segundo trámite constitucional / Senado Discusión particular Ver
+19 de Oct. de 1993 7ª / 327 Segundo trámite constitucional / Senado Discusión particular. Queda pendiente Queda para segunda discusión. Ver
+03 de Nov. de 1993 11ª / 327 Segundo trámite constitucional / Senado Discusión particular Ver
+09 de Nov. de 1993   Segundo trámite constitucional / Senado Oficio Nº 5149, a la Cámara, comunicando aprobación con modificaciones que indica
+09 de Nov. de 1993   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+14 de Dic. de 1993 18ª / 327 Tramitación terminada / Cuenta oficio de la Cámara comunicando aprobación de modificaciones propuestas por el Senado","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 668-01","Fecha Etapa Informe Documento
+14 de Sep. de 1993 Segundo trámite constitucional Senado Segundo informe de comisión de Agricultura Ver
+05 de Ago. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+18 de May. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Agricultura Ver
+28 de Oct. de 1992 Primer trámite constitucional C.Diputados Primer informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 668-01","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 668-01","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 668-01","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 668-01","No record","Veto emmEnd"

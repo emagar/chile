@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 8090-13","Legislatura: 359
+Fecha de ingreso: jueves 15 de diciembre de 2011
+Estado: Primer trámite constitucional .
+Numero de boletín: 8090-13
+Materia: Sobreendeudamiento
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 15:20:07
+* * Hitos de tramitación * *
+"emmStart Hitos 8090-13","Fecha Sesión Etapa Sub-etapa Documento
+15 de Dic. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+15 de Dic. de 2011 122ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+24 de Abr. de 2014 19ª / 362 Primer trámite constitucional / C. Diputados Cuenta oficio de la Comisión de Desarrollo Social, Superación de la Pobreza y Planificación, mediante el cual solicita el acuerdo de la Sala para que se le remita el proyecto. RECHAZADO. Ver
+14 de May. de 2014 24ª / 362 Primer trámite constitucional / C. Diputados Cuenta del oficio de la Comisión de Desarrollo Social, Superación de la Pobreza y Planificación, mediante el cual solicita el acuerdo de la Sala para que se le remita el proyecto. ACORDADO. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8090-13","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8090-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8090-13","Nombre Región Distrito Partido
+Osvaldo Andrade Lara RM Región Metropolitana N°29 Partido Socialista
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Fuad Chahín Valenzuela IX Región de la Araucanía N°49 Partido Demócrata Cristiano
+Fidel Espinoza Sandoval X Región de los Lagos N°56 Partido Socialista
+Felipe Harboe Bascuñán RM Región Metropolitana N°22 Partido Por la Democracia
+Cristián Monckeberg Bruner RM Región Metropolitana N°23 Renovación Nacional
+Adriana Muñoz D'Albora IV Región de Coquimbo N°9 Partido Por la Democracia
+José Pérez Arriagada VIII Región del Bío Bío N°47 Partido Radical Social Demócrata
+Karla Rubilar Barahona RM Región Metropolitana N°17 Renovación Nacional
+David Sandoval Plaza XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8090-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8090-13","No record","Veto emmEnd"

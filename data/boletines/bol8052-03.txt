@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 8052-03","Legislatura: 359
+Fecha de ingreso: lunes 21 de noviembre de 2011
+Estado: Primer trámite constitucional .
+Numero de boletín: 8052-03
+Materia: Consumidores,Protección Del Consumidor,Protección Al Consumidor En Materias Financieras
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 14:52:41
+* * Hitos de tramitación * *
+"emmStart Hitos 8052-03","Fecha Sesión Etapa Sub-etapa Documento
+21 de Nov. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+21 de Nov. de 2011 112ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+10 de Ene. de 2012 129ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 540-359 que hace presente la urgencia Simple Ver
+06 de Mar. de 2012 140ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 578-359 que retira la urgencias por receso legislativo Ver
+24 de Abr. de 2014 19ª / 362 Primer trámite constitucional / C. Diputados Cuenta oficio de la Comisión de Desarrollo Social, Superación de la Pobreza y Planificación, mediante el cual solicita el acuerdo de la Sala para que se le remita el proyecto. RECHAZADO. Ver
+14 de May. de 2014 24ª / 362 Primer trámite constitucional / C. Diputados Cuenta del oficio de la Comisión de Desarrollo Social, Superación de la Pobreza y Planificación, mediante el cual solicita el acuerdo de la Sala para que se le remita el proyecto. ACORDADO. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8052-03","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8052-03","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+10 de Ene. de 2012 31 de Ene. de 2012 Simple 540-359 578-359","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8052-03","Nombre Región Distrito Partido
+Gonzalo Arenas Hödar IX Región de la Araucanía N°48 Unión Demócrata Independiente
+Pepe Auth Stewart RM Región Metropolitana N°20 Partido Por la Democracia
+Fuad Chahín Valenzuela IX Región de la Araucanía N°49 Partido Demócrata Cristiano
+José Manuel Edwards Silva IX Región de la Araucanía N°51 Renovación Nacional
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+Karla Rubilar Barahona RM Región Metropolitana N°17 Renovación Nacional
+Frank Sauerbaum Muñoz VIII Región del Bío Bío N°42 Renovación Nacional
+Patricio Vallespín López X Región de los Lagos N°57 Partido Demócrata Cristiano
+Pedro Velásquez Seguel IV Región de Coquimbo N°8 Independientes
+Mónica Zalaquett Said RM Región Metropolitana N°20 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8052-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8052-03","No record","Veto emmEnd"

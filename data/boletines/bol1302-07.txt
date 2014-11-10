@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 1302-07","Legislatura: 329
+Fecha de ingreso: martes 02 de agosto de 1994
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 1302-07
+Materia: Código Penal,Aborto
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 05:37:31
+* * Hitos de tramitación * *
+"emmStart Hitos 1302-07","Fecha Sesión Etapa Sub-etapa Documento
+02 de Ago. de 1994   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+02 de Ago. de 1994 16ª / 329 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+06 de Jun. de 1995   Primer trámite constitucional / Senado Primer informe de comisión Ver
+07 de Jun. de 1995 5ª / 331 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+20 de Jul. de 1995 20ª / 331 Primer trámite constitucional / Senado Discusión general pendiente Ver
+08 de Ago. de 1995 24ª / 331 Primer trámite constitucional / Senado Segunda Discusión Ver
+23 de Ago. de 1995 30ª / 331 Tramitación terminada / Por acuerdo de la Sala, se envía a la Comisión de Salud. Ver
+23 de Ago. de 1995 30ª / 331 Tramitación terminada / Por acuerdo de la Sala, se envía a la Comisión de Salud. Ver
+10 de Jun. de 1998   Primer trámite constitucional / Senado Primer informe de comisión Ver
+10 de Jun. de 1998 4ª / 338 Primer trámite constitucional / Senado Cuenta de primer informe de comisión. Queda para tabla
+15 de Jul. de 1998 14ª / 338 Primer trámite constitucional / Senado Discusión pendiente. Ver
+12 de Ago. de 1998 20ª / 338 Primer trámite constitucional / Senado Discusión pendiente. Ver
+01 de Sep. de 1998 25ª / 338 Primer trámite constitucional / Senado Segunda Discusión Ver
+15 de Sep. de 1998 30ª / 338 Tramitación terminada / Se dispone el archivo del proyecto. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1302-07","Fecha Etapa Informe Documento
+10 de Jun. de 1998 Primer trámite constitucional Senado Primer informe de comisión de Salud Ver
+06 de Jun. de 1995 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1302-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1302-07","Nombre
+Hernán Larraín Fernández","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1302-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1302-07","No record","Veto emmEnd"

@@ -1,0 +1,31 @@
+* * Bill summary * *
+"emmStart Summary 648-04","Legislatura: 323
+Fecha de ingreso: miércoles 01 de abril de 1992
+Estado: Archivado .
+Numero de boletín: 648-04
+Materia: Monumentos
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 21:07:47
+* * Hitos de tramitación * *
+"emmStart Hitos 648-04","Fecha Sesión Etapa Sub-etapa Documento
+01 de Abr. de 1992 48ª / 323 Primer trámite constitucional / Senado Cuenta de proyecto
+01 de Abr. de 1992   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+04 de Ago. de 1994   Primer trámite constitucional / Senado Primer informe de comisión Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 648-04","Fecha Etapa Informe Documento
+04 de Ago. de 1994 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 648-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 648-04","Nombre
+Carmen Frei Ruiz-Tagle","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 648-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 648-04","No record","Veto emmEnd"

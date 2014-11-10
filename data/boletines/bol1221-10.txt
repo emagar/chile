@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 1221-10","Legislatura: 329
+Fecha de ingreso: miércoles 08 de junio de 1994
+Estado: Tramitación terminada (D.S. Nº 520 - D.Oficial 03/08/1995)
+Numero de boletín: 1221-10
+Materia: Acuerdos Internacionales
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 04:37:50
+* * Hitos de tramitación * *
+"emmStart Hitos 1221-10","Fecha Sesión Etapa Sub-etapa Documento
+08 de Jun. de 1994 6ª / 329 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+08 de Jun. de 1994   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+14 de Jun. de 1994   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Jul. de 1994 16ª / 329 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+05 de Jul. de 1994 16ª / 329 Primer trámite constitucional / C. Diputados Discusión general Ver
+05 de Jul. de 1994   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+07 de Jul. de 1994 11ª / 329 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+17 de Ene. de 1995   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+17 de Ene. de 1995 35ª / 330 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+18 de Ene. de 1995 38ª / 330 Segundo trámite constitucional / Senado Discusión general. Aprobado en general y particular sin modificaciones Discusión general y particular. Aprobado en discusión general y particular. Ver
+19 de Ene. de 1995   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+23 de Ene. de 1995   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+02 de Mar. de 1995 42ª / 330 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1221-10","Fecha Etapa Informe Documento
+17 de Ene. de 1995 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+14 de Jun. de 1994 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1221-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1221-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1221-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1221-10","No record","Veto emmEnd"

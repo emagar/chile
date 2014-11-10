@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 119-02","Legislatura: 320
+Fecha de ingreso: miércoles 08 de agosto de 1990
+Estado: Tramitación terminada (Ley Nº 18.995 - D.Oficial 28/08/1990)
+Numero de boletín: 119-02
+Materia: Salida De Tropas,Tropas Extranjeras
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 30-10-2014 18:16:57
+* * Hitos de tramitación * *
+"emmStart Hitos 119-02","Fecha Sesión Etapa Sub-etapa Documento
+08 de Ago. de 1990   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+08 de Ago. de 1990 23ª / 320 Primer trámite constitucional / Senado Cuenta de proyecto
+14 de Ago. de 1990 24ª / 320 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+14 de Ago. de 1990 24ª / 320 Primer trámite constitucional / Senado Discusión general Ver
+14 de Ago. de 1990 24ª / 320 Primer trámite constitucional / Senado Primer informe de comisión Ver
+20 de Ago. de 1990 24ª / 320 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+21 de Ago. de 1990 25ª / 320 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+21 de Ago. de 1990 25ª / 320 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+21 de Ago. de 1990 25ª / 320 Segundo trámite constitucional / C. Diputados Discusión única Ver
+21 de Ago. de 1990 25ª / 320 Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver Ver
+22 de Ago. de 1990 25ª / 320 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 119-02","Fecha Etapa Informe Documento
+14 de Ago. de 1990 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores y de Defensa Nacional, unidas Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 119-02","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 119-02","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 119-02","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 119-02","No record","Veto emmEnd"

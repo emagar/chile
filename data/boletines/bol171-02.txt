@@ -1,0 +1,35 @@
+* * Bill summary * *
+"emmStart Summary 171-02","Legislatura: 321
+Fecha de ingreso: miércoles 03 de octubre de 1990
+Estado: Tramitación terminada (Ley Nº 19.017 - D.Oficial 01/01/1991)
+Numero de boletín: 171-02
+Materia: Marina De Chile
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 06:45:05
+* * Hitos de tramitación * *
+"emmStart Hitos 171-02","Fecha Sesión Etapa Sub-etapa Documento
+03 de Oct. de 1990   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+03 de Oct. de 1990 2ª / 321 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Defensa Nacional
+16 de Oct. de 1990   Primer trámite constitucional / Senado Primer informe de comisión Ver
+30 de Oct. de 1990 7ª / 321 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+31 de Oct. de 1990 8ª / 321 Primer trámite constitucional / Senado Discusión única
+05 de Dic. de 1990 21ª / 321 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+07 de Dic. de 1990   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 171-02","Fecha Etapa Informe Documento
+16 de Oct. de 1990 Primer trámite constitucional Senado Primer informe de comisión de Defensa Nacional Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 171-02","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 171-02","Nombre
+Ministerio de Defensa Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 171-02","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 171-02","No record","Veto emmEnd"

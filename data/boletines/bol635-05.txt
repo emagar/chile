@@ -1,0 +1,62 @@
+* * Bill summary * *
+"emmStart Summary 635-05","Legislatura: 323
+Fecha de ingreso: jueves 19 de marzo de 1992
+Estado: Tramitación terminada (Ley Nº 19.608 - D.Oficial 25/05/1999)
+Numero de boletín: 635-05
+Materia: Aduanas,Carabineros De Chile,Fuerzas Armadas,Pertrechos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 20:57:38
+* * Hitos de tramitación * *
+"emmStart Hitos 635-05","Fecha Sesión Etapa Sub-etapa Documento
+19 de Mar. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+19 de Mar. de 1992 57ª / 323 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+16 de Mar. de 1994   Primer trámite constitucional / C. Diputados S.E. el Pdte. de la Rep. incluye el proyecto en la legisl. extraord. 328.
+05 de Jul. de 1994   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Jul. de 1994 16ª / 329 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+07 de Jul. de 1994 18ª / 329 Primer trámite constitucional / C. Diputados Discusión general Ver
+13 de Jul. de 1994   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+16 de Jul. de 1997 21ª / 335 Primer trámite constitucional / C. Diputados Oficio de la Comisión de Hacienda. Oficio 118 del 09-07-97 de la Comisión de Hacienda, propone archivo del proyecto. Ver
+16 de Jul. de 1997   Primer trámite constitucional / C. Diputados Oficio a la Comisión de Hacienda. Oficio 1588 del 16-07-97 a la Comisión de Hacienda, acepta archivo del proyecto.
+15 de Jul. de 1998 17ª / 338 Primer trámite constitucional / C. Diputados Sol.Dip. A. Palma para desarchivo del proy. Ver
+16 de Jul. de 1998   Primer trámite constitucional / C. Diputados Oficio a la Comisión de Hacianda. Oficio a la Comisión de Hacianda, comunica desarchivo del proyecto.
+21 de Ago. de 1998   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+08 de Sep. de 1998 32ª / 338 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+16 de Sep. de 1998 39ª / 338 Primer trámite constitucional / C. Diputados Pendiente su votación. Ver Ver
+06 de Oct. de 1998   Primer trámite constitucional / C. Diputados S.E.El Presidente de la Republica incluye el proyecto en la Convocatoria Extraodinaria 339
+21 de Oct. de 1998   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+21 de Oct. de 1998 8ª / 339 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver
+03 de Nov. de 1998 4ª / 339 Segundo trámite constitucional / Senado Cuenta de proyecto
+05 de Mar. de 1999   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+05 de Abr. de 1999   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+06 de Abr. de 1999 30ª / 339 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+07 de Abr. de 1999 31ª / 339 Segundo trámite constitucional / Senado Discusión general Ver
+08 de Abr. de 1999   Tramitación terminada / Oficio Nº14071. Oficio a la Cámara de Diputados comunicándole la aprobación del proyecto, con modificaciones. Ver
+13 de Abr. de 1999 51ª / 339 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+21 de Abr. de 1999 56ª / 339 Tercer trámite constitucional / C. Diputados Discusión única Ver
+21 de Abr. de 1999 56ª / 339 Tercer trámite constitucional / C. Diputados Discusión única Ver
+22 de Abr. de 1999   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+04 de May. de 1999   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+04 de May. de 1999 36ª / 339 Tramitación terminada / cuenta oficio Nº 2338, de la Cámara, comunicando aprobación de modificaciones propuestas por el Senado","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 635-05","Fecha Etapa Informe Documento
+05 de Abr. de 1999 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+05 de Mar. de 1999 Segundo trámite constitucional Senado Primer informe de comisión de Defensa Nacional Ver
+21 de Ago. de 1998 Primer trámite constitucional C.Diputados Segundo informe de comisión de Hacienda Ver
+13 de Jul. de 1994 Primer trámite constitucional C.Diputados Segundo informe de comisión de Defensa Nacional Ver
+05 de Jul. de 1994 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 635-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+02 de Sep. de 1998 16 de Sep. de 1998 Simple 142-338 CADUCADO","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 635-05","Nombre Región Distrito Partido
+Andrés Palma Irarrázabal Región N° Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 635-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 635-05","No record","Veto emmEnd"

@@ -1,0 +1,62 @@
+* * Bill summary * *
+"emmStart Summary 6406-07","Legislatura: 357
+Fecha de ingreso: miércoles 11 de marzo de 2009
+Estado: Tramitación terminada (Ley Nº 20.357 - D.Oficial 18/07/2009)
+Numero de boletín: 6406-07
+Materia: Crímenes De Lesa Humanidad,Genocidio
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 08-11-2014 06:28:09
+* * Hitos de tramitación * *
+"emmStart Hitos 6406-07","Fecha Sesión Etapa Sub-etapa Documento
+11 de Mar. de 2009   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+11 de Mar. de 2009 1ª / 357 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+11 de Mar. de 2009 1ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 4-357 que hace presente la urgencia Suma
+19 de Mar. de 2009   Primer trámite constitucional / Senado Primer informe de comisión Ver
+31 de Mar. de 2009 5ª / 357 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+31 de Mar. de 2009 5ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 81-357 que retira y hace presente la urgencia Suma
+01 de Abr. de 2009 6ª / 357 Primer trámite constitucional / Senado Discusión en general. El Comité Renovación Nacional solicita segunda discusión respecto de esta iniciativa. Ver
+07 de Abr. de 2009 7ª / 357 Primer trámite constitucional / Senado Discusión general Ver
+08 de Abr. de 2009   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+08 de Abr. de 2009 12ª / 357 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, luego a Constitución. Ver
+15 de Abr. de 2009   Segundo trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+28 de Abr. de 2009 20ª / 357 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 251-357 que retira y hace presente la urgencia Discusión inmediata Ver
+29 de Abr. de 2009 21ª / 357 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 263-357 que retira y hace presente la urgencia Suma Ver
+05 de May. de 2009   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de May. de 2009 23ª / 357 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 282-357 que hace presente la urgencia Discusión inmediata Ver
+06 de May. de 2009 25ª / 357 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión. Primer informe de la Comisión de Derechos Humanos, Nacionalidad y Ciudadanía y Ceritificado de la Comisión de Constitución, Legislación y justicia. Ver
+06 de May. de 2009 25ª / 357 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+06 de May. de 2009   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+12 de May. de 2009 16ª / 357 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+12 de May. de 2009   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo. Oficio de consulta para ejercer la facultad de veto Ver
+02 de Jun. de 2009   Trámite en Tribunal Constitucional / Senado Oficio al Tribunal Constitucional Ver
+16 de Jun. de 2009 26ª / 357 Trámite en Tribunal Constitucional / Senado Cuenta oficio N° 3165 del Tribunal Constitucional Ver
+16 de Jun. de 2009   Trámite en Tribunal Constitucional / Senado Oficio N° 541/SEC/09. Oficio de ley al Ejecutivo Ver
+17 de Jun. de 2009 43ª / 357 Trámite en Tribunal Constitucional / Senado Cuenta oficio N? 3166 del Tribunal Constitucional","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6406-07","Fecha Etapa Informe Documento
+05 de May. de 2009 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+15 de Abr. de 2009 Segundo trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+19 de Mar. de 2009 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6406-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+05 de May. de 2009   Discusión inmediata 282-357  
+28 de Abr. de 2009 29 de Abr. de 2009 Discusión inmediata 251-357 263-357
+31 de Mar. de 2009 28 de Abr. de 2009 Suma 81-357 251-357
+11 de Mar. de 2009 30 de Mar. de 2009 Suma 4-357 81-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6406-07","Nombre
+Alberto Espina Otero
+José Antonio Gómez Urrutia
+Hernán Larraín Fernández
+Pedro Muñoz Aburto
+Mariano Ruiz-Esquide Jara","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6406-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6406-07","No record","Veto emmEnd"

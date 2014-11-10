@@ -1,0 +1,56 @@
+* * Bill summary * *
+"emmStart Summary 110-07","Legislatura: 320
+Fecha de ingreso: miércoles 25 de julio de 1990
+Estado: Archivado .
+Numero de boletín: 110-07
+Materia: Medio Ambiente
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 30-10-2014 18:03:54
+* * Hitos de tramitación * *
+"emmStart Hitos 110-07","Fecha Sesión Etapa Sub-etapa Documento
+25 de Jul. de 1990   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+25 de Jul. de 1990 18ª / 320 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+19 de Jun. de 1991   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+10 de Jul. de 1991 17ª / 322 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+10 de Sep. de 1991 38ª / 322 Tercer trámite constitucional / C. Diputados Pendiente discusión. Ver
+21 de Dic. de 1992 32ª / 325 Primer trámite constitucional / C. Diputados Discusión general Ver
+21 de Dic. de 1992   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+22 de Dic. de 1992 19ª / 325 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+26 de Jun. de 1995   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+05 de Jul. de 1995 12ª / 331 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+24 de Oct. de 1995 9ª / 332 Segundo trámite constitucional / Senado Discusión general. Se envía a comisión para primer informe Pasa a Com. Unidas de Constitución, Legislación, Justicia y Reglamento y Medio Ambiente Ver
+27 de Jul. de 1999 19ª / 340 Segundo trámite constitucional / Senado Primer informe de comisión Ver
+04 de Ago. de 1999 19ª / 340 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Ago. de 1999 20ª / 340 Segundo trámite constitucional / Senado Discusión general Ver
+11 de Ago. de 1999   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+17 de Ago. de 1999 31ª / 340 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+05 de Oct. de 1999   Tercer trámite constitucional / C. Diputados S.E.El Presidente de la Republica incluye el proyecto en la Convocatoria Extraodinaria 341
+02 de Nov. de 1999 8ª / 341 Tercer trámite constitucional / C. Diputados Discusión única Ver
+02 de Nov. de 1999 8ª / 341 Tercer trámite constitucional / C. Diputados Discusión única. Se solicita informe complementario Sobre constitucionalidad planteada durante el debate. Ver
+20 de Ago. de 2002   Tercer trámite constitucional / C. Diputados Oficio al Senado, solicita acuerdo archivo de proyecto Ver
+21 de Ago. de 2002   Tercer trámite constitucional / C. Diputados Archivado Cuenta oficio de Cámara de Diputados, comunica que acordó archivar el proyecto.
+03 de Sep. de 2002 36ª / 347 Tercer trámite constitucional / C. Diputados Cuenta Oficio del Senado, comunica que accede a archivo solicitado Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 110-07","Fecha Etapa Informe Documento
+27 de Jul. de 1999 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento y de Medio Ambiente y Bienes Nacionales, unidas Ver
+26 de Jun. de 1995 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+19 de Jun. de 1991 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 110-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 110-07","Nombre Región Distrito Partido
+Víctor Jeame Barrueto Región N° Partido Por la Democracia
+Juan Pablo Letelier Morel Región N° Partido Socialista
+Gutenberg Martínez Ocamica Región N° Partido Demócrata Cristiano
+Adriana Muñoz D'Albora Región N° Partido Socialista
+Sergio Velasco De la Cerda Región N° Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 110-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 110-07","No record","Veto emmEnd"

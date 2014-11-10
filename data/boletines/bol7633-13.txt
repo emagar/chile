@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 7633-13","Legislatura: 359
+Fecha de ingreso: martes 10 de mayo de 2011
+Estado: Segundo trámite constitucional .
+Numero de boletín: 7633-13
+Materia: Nulidad De Despidos,Recontratación De Cargo Por Sueldo Inferior
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 09-11-2014 06:24:04
+* * Hitos de tramitación * *
+"emmStart Hitos 7633-13","Fecha Sesión Etapa Sub-etapa Documento
+10 de May. de 2011   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+10 de May. de 2011 16ª / 359 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social
+29 de Jul. de 2011   Primer trámite constitucional / Senado Primer informe de comisión Ver
+09 de Ago. de 2011 41ª / 359 Primer trámite constitucional / Senado Discusión general Ver
+16 de Ago. de 2011 44ª / 359 Primer trámite constitucional / Senado Discusión general. Se solicita nuevo informe (nuevo primer informe de la Comisión de Trabajo y Previsión Social). Ver
+03 de Oct. de 2012   Primer trámite constitucional / Senado Nuevo primer informe de comisión Ver
+09 de Oct. de 2012 53ª / 360 Primer trámite constitucional / Senado Cuenta nuevo primer informe
+30 de Oct. de 2012 57ª / 360 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 12/11/2012 Ver
+12 de Nov. de 2012   Primer trámite constitucional / Senado Boletín de indicaciones
+14 de Mar. de 2013   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+19 de Mar. de 2013 4ª / 361 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+03 de Abr. de 2013 8ª / 361 Primer trámite constitucional / Senado Discusión particular Ver
+03 de Abr. de 2013   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+04 de Abr. de 2013 10ª / 361 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7633-13","Fecha Etapa Informe Documento
+14 de Mar. de 2013 Primer trámite constitucional Senado Segundo informe de comisión de Trabajo y Previsión Social Ver
+09 de Oct. de 2012 Primer trámite constitucional Senado Nuevo primer informe de comisión de Trabajo y Previsión Social Ver
+29 de Jul. de 2011 Primer trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7633-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7633-13","Nombre
+Camilo Escalona Medina
+Pedro Muñoz Aburto","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7633-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7633-13","No record","Veto emmEnd"

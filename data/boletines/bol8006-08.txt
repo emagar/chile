@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 8006-08","Legislatura: 359
+Fecha de ingreso: miércoles 02 de noviembre de 2011
+Estado: Primer trámite constitucional .
+Numero de boletín: 8006-08
+Materia: Explotación Minera,Desalinización De Agua
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 14:20:03
+* * Hitos de tramitación * *
+"emmStart Hitos 8006-08","Fecha Sesión Etapa Sub-etapa Documento
+02 de Nov. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Nov. de 2011 102ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Minería y Energía Ver
+07 de Ago. de 2012 66ª / 360 Primer trámite constitucional / C. Diputados Oficio N°1. Comunicación del Diputado señor Bertolino, por el cual informa el retiro de su patrocinio al proyecto. Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8006-08","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8006-08","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8006-08","Nombre Región Distrito Partido
+Ramón Barros Montero VI Región del Libertador Bernardo O' Higgins N°35 Unión Demócrata Independiente
+Hugo Gutiérrez Gálvez I Región de Tarapacá N°2 Partido Comunista
+Luis Lemus Aracena IV Región de Coquimbo N°9 Partido Socialista
+Roberto León Ramírez VII Región del Maule N°36 Partido Demócrata Cristiano
+Adriana Muñoz D'Albora IV Región de Coquimbo N°9 Partido Por la Democracia
+Alberto Robles Pantoja III Región de Atacama N°6 Partido Radical Social Demócrata
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Partido Regionalista Independiente
+Ignacio Urrutia Bonilla VII Región del Maule N°40 Unión Demócrata Independiente
+Carlos Vilches Guzmán III Región de Atacama N°5 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8006-08","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8006-08","No record","Veto emmEnd"

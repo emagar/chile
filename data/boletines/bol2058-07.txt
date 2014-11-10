@@ -1,0 +1,55 @@
+* * Bill summary * *
+"emmStart Summary 2058-07","Legislatura: 335
+Fecha de ingreso: martes 15 de julio de 1997
+Estado: Tramitación terminada (Ley Nº 19.541 - D.Oficial 22/12/1997)
+Numero de boletín: 2058-07
+Materia: Poder Judicial
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 18:11:34
+* * Hitos de tramitación * *
+"emmStart Hitos 2058-07","Fecha Sesión Etapa Sub-etapa Documento
+15 de Jul. de 1997   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+15 de Jul. de 1997 16ª / 335 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+26 de Ago. de 1997   Primer trámite constitucional / Senado Primer informe de comisión Ver
+26 de Ago. de 1997 26ª / 335 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+27 de Ago. de 1997 28ª / 335 Primer trámite constitucional / Senado Discusión general Ver
+01 de Sep. de 1997   Primer trámite constitucional / Senado Boletín de indicaciones
+02 de Sep. de 1997   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+03 de Sep. de 1997 30ª / 335 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+03 de Sep. de 1997 31ª / 335 Primer trámite constitucional / Senado Discusión particular Ver
+03 de Sep. de 1997   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+08 de Sep. de 1997 39ª / 336 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia
+30 de Sep. de 1997   Segundo trámite constitucional / C. Diputados S.E. el Pdte. de la República incluye el proyecto el la legislatura extraordinaria 336 (Mensaje 2-336)
+07 de Oct. de 1997   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de Oct. de 1997 4ª / 336 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+07 de Oct. de 1997 4ª / 336 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+07 de Oct. de 1997   Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver
+08 de Oct. de 1997 4ª / 336 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+14 de Oct. de 1997 5ª / 336 Tercer trámite constitucional / Senado Discusión única
+15 de Oct. de 1997   Tercer trámite constitucional / Senado Cuent Oficio aprobación modificaciones
+13 de Dic. de 1997   Congreso Pleno / Ratificación reforma constitucional
+13 de Dic. de 1997   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2058-07","Fecha Etapa Informe Documento
+07 de Oct. de 1997 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+02 de Sep. de 1997 Primer trámite constitucional Senado Segundo informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+26 de Ago. de 1997 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2058-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+07 de Oct. de 1997 16 de Sep. de 1998 Suma 19-336 CADUCADO
+26 de Ago. de 1997 07 de Oct. de 1997 Simple 260897-335 CADUCADO
+15 de Jul. de 1997 26 de Ago. de 1997 Simple 130-335 260897-335","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2058-07","Nombre
+Ministerio de Justicia
+Ministerio Secretaría General de la Presidencia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2058-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2058-07","No record","Veto emmEnd"

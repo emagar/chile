@@ -1,0 +1,33 @@
+* * Bill summary * *
+"emmStart Summary 8593-06","Legislatura: 360
+Fecha de ingreso: jueves 13 de septiembre de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8593-06
+Materia: Colectas,Resguardo A Colaboradores De Colectas
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 03:25:39
+* * Hitos de tramitación * *
+"emmStart Hitos 8593-06","Fecha Sesión Etapa Sub-etapa Documento
+13 de Sep. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Sep. de 2012 81ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior y Regionalización Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8593-06","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8593-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8593-06","Nombre Región Distrito Partido
+Pedro Browne Urrejola RM Región Metropolitana N°28 Renovación Nacional
+José Manuel Edwards Silva IX Región de la Araucanía N°51 Renovación Nacional
+Ricardo Rincón González VI Región del Libertador Bernardo O' Higgins N°33 Partido Demócrata Cristiano
+Alejandro Santana Tirachini X Región de los Lagos N°58 Renovación Nacional
+Mónica Zalaquett Said RM Región Metropolitana N°20 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8593-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8593-06","No record","Veto emmEnd"

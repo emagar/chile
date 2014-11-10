@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 2540-10","Legislatura: 342
+Fecha de ingreso: miércoles 05 de julio de 2000
+Estado: Tramitación terminada (D.S. Nº 2.209 - D.Oficial 16/02/2001)
+Numero de boletín: 2540-10
+Materia: Familiares De Diplomáticos,Permisos (Trabajo)
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 03-11-2014 06:06:14
+* * Hitos de tramitación * *
+"emmStart Hitos 2540-10","Fecha Sesión Etapa Sub-etapa Documento
+05 de Jul. de 2000   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+05 de Jul. de 2000 8ª / 342 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+20 de Jul. de 2000   Primer trámite constitucional / Senado Primer informe de comisión Ver
+01 de Ago. de 2000 13ª / 342 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+02 de Ago. de 2000 14ª / 342 Primer trámite constitucional / Senado Discusión general Ver
+02 de Ago. de 2000   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+08 de Ago. de 2000 24ª / 342 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+16 de Ago. de 2000   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+29 de Ago. de 2000 30ª / 342 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+12 de Oct. de 2000 6ª / 343 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+12 de Oct. de 2000   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+17 de Oct. de 2000 5ª / 343 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+18 de Oct. de 2000   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2540-10","Fecha Etapa Informe Documento
+16 de Ago. de 2000 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+20 de Jul. de 2000 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2540-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2540-10","Nombre
+Ministerio de Relaciones Exteriores","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2540-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2540-10","No record","Veto emmEnd"

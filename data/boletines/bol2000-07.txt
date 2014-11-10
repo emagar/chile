@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 2000-07","Legislatura: 334
+Fecha de ingreso: martes 06 de mayo de 1997
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 2000-07
+Materia: Parlamentarios
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 17:18:51
+* * Hitos de tramitación * *
+"emmStart Hitos 2000-07","Fecha Sesión Etapa Sub-etapa Documento
+19 de Mar. de 1997 54ª / 334 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+19 de Mar. de 1997   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+16 de Abr. de 1997   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+29 de Abr. de 1997 63ª / 334 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+29 de Abr. de 1997 63ª / 334 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+29 de Abr. de 1997 64ª / 334 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+29 de Abr. de 1997   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+06 de May. de 1997 45ª / 334 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+13 de May. de 1997   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+03 de Jun. de 1997 1ª / 335 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+17 de Jun. de 1997 6ª / 335 Segundo trámite constitucional / Senado Discusión general Ver
+18 de Jun. de 1997   Segundo trámite constitucional / Senado Oficio rechazo a Cámara de Origen Ver
+19 de Jun. de 1997 12ª / 335 Segundo trámite constitucional / Senado Cuenta oficio rechazo de Cámara Revisora","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2000-07","Fecha Etapa Informe Documento
+13 de May. de 1997 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+16 de Abr. de 1997 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2000-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2000-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2000-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2000-07","No record","Veto emmEnd"

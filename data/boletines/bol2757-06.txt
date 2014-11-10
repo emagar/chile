@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 2757-06","Legislatura: 344
+Fecha de ingreso: martes 17 de julio de 2001
+Estado: Tramitación terminada (Ley Nº 19.745 - D.Oficial 19/07/2001)
+Numero de boletín: 2757-06
+Materia: Elecciones,Parlamentarios
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 10:08:45
+* * Hitos de tramitación * *
+"emmStart Hitos 2757-06","Fecha Sesión Etapa Sub-etapa Documento
+17 de Jul. de 2001   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+17 de Jul. de 2001 17ª / 344 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización y Desarrollo Social Ver
+17 de Jul. de 2001   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Jul. de 2001 17ª / 344 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+17 de Jul. de 2001 17ª / 344 Primer trámite constitucional / C. Diputados Discusión general Ver
+17 de Jul. de 2001   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+17 de Jul. de 2001 14ª / 344 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+17 de Jul. de 2001   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+17 de Jul. de 2001 14ª / 344 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+17 de Jul. de 2001 14ª / 344 Segundo trámite constitucional / Senado Discusión general Ver
+17 de Jul. de 2001   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+17 de Jul. de 2001   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo
+17 de Jul. de 2001   Trámite finalización en Cámara de Origen / C. Diputados Oficio N°3428 al Tribunal Constitucional. Remite proyecto. Ver
+18 de Jul. de 2001   Trámite finalización en Cámara de Origen / C. Diputados Oficio N°1650 del Tribunal Constitucional. Remite sentencia Ver
+18 de Jul. de 2001 18ª / 344 Tramitación terminada / Cuenta Oficio del Tribunal Constitucional
+18 de Jul. de 2001 18ª / 344 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2757-06","Fecha Etapa Informe Documento
+17 de Jul. de 2001 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+17 de Jul. de 2001 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2757-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2757-06","Nombre Región Distrito Partido
+Ministerio de Interior y Seguridad Públi      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2757-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2757-06","No record","Veto emmEnd"

@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 7005-03","Legislatura: 358
+Fecha de ingreso: martes 29 de junio de 2010
+Estado: Primer trámite constitucional .
+Numero de boletín: 7005-03
+Materia: Empresas De Servicios De Distribución Domiciliaria
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 23:10:34
+* * Hitos de tramitación * *
+"emmStart Hitos 7005-03","Fecha Sesión Etapa Sub-etapa Documento
+29 de Jun. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+29 de Jun. de 2010 42ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7005-03","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7005-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7005-03","Nombre Región Distrito Partido
+Sergio Aguiló Melo VII Región del Maule N°37 Izquierda Ciudadana
+Gonzalo Arenas Hödar IX Región de la Araucanía N°48 Unión Demócrata Independiente
+Gabriel Ascencio Mansilla X Región de los Lagos N°58 Partido Demócrata Cristiano
+José Manuel Edwards Silva IX Región de la Araucanía N°51 Renovación Nacional
+Ramón Farías Ponce RM Región Metropolitana N°30 Partido Por la Democracia
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+René Saffirio Espinoza IX Región de la Araucanía N°50 Partido Demócrata Cristiano
+Joaquín Tuma Zedan IX Región de la Araucanía N°51 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7005-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7005-03","No record","Veto emmEnd"

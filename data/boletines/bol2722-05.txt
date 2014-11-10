@@ -1,0 +1,61 @@
+* * Bill summary * *
+"emmStart Summary 2722-05","Legislatura: 344
+Fecha de ingreso: jueves 07 de junio de 2001
+Estado: Tramitación terminada (Ley Nº 19.769 - D.Oficial 07/11/2001)
+Numero de boletín: 2722-05
+Materia: Inversiones
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 03-11-2014 09:44:34
+* * Hitos de tramitación * *
+"emmStart Hitos 2722-05","Fecha Sesión Etapa Sub-etapa Documento
+06 de Jun. de 2001   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+06 de Jun. de 2001 3ª / 344 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+12 de Jun. de 2001   Primer trámite constitucional / Senado Primer informe de comisión Ver
+13 de Jun. de 2001 5ª / 344 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+19 de Jun. de 2001 6ª / 344 Primer trámite constitucional / Senado Discusión general Ver
+25 de Jun. de 2001   Primer trámite constitucional / Senado Oficio de consulta a Corte Suprema Ver
+29 de Jun. de 2001   Primer trámite constitucional / Senado Oficio de respuesta de Corte Suprema Ver
+09 de Jul. de 2001   Primer trámite constitucional / Senado Boletín de indicaciones
+31 de Jul. de 2001   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+01 de Ago. de 2001 17ª / 344 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+07 de Ago. de 2001 18ª / 344 Primer trámite constitucional / Senado Discusión particular Ver
+08 de Ago. de 2001   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+14 de Ago. de 2001 26ª / 344 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+04 de Sep. de 2001   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+04 de Sep. de 2001 32ª / 344 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+11 de Sep. de 2001 36ª / 344 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+11 de Sep. de 2001   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+12 de Sep. de 2001   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+12 de Sep. de 2001 30ª / 344 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+02 de Oct. de 2001   Trámite en Tribunal Constitucional / Senado Oficio al Tribunal Constitucional Ver
+10 de Oct. de 2001   Trámite finalización en Cámara de Origen / Senado Oficio del Tribunal Constitucional con el que comunica sentencia. Ver
+17 de Oct. de 2001   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+31 de Oct. de 2001 11ª / 345 Trámite finalización en Cámara de Origen / Senado Cuenta oficio Nº 1.690 del Tribunal Constitucional","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2722-05","Fecha Etapa Informe Documento
+04 de Sep. de 2001 Segundo trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+31 de Jul. de 2001 Primer trámite constitucional Senado Segundo informe de comisión de Hacienda Ver
+12 de Jun. de 2001 Primer trámite constitucional Senado Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2722-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Sep. de 2001   Suma 192-344  
+14 de Ago. de 2001   Simple 154-344  
+14 de Ago. de 2001 04 de Sep. de 2001 Simple 142-344 192-344
+31 de Jul. de 2001 14 de Ago. de 2001 Suma 133-344 154-344
+17 de Jul. de 2001   Suma 113-344  
+03 de Jul. de 2001 17 de Jul. de 2001 Suma 73-344 113-344
+19 de Jun. de 2001 03 de Jul. de 2001 Suma 057-344 73-344
+06 de Jun. de 2001 19 de Jun. de 2001 Suma 034-344 057-344","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2722-05","Nombre
+Ministerio de Hacienda","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2722-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2722-05","No record","Veto emmEnd"

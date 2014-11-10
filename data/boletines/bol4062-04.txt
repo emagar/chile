@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 4062-04","Legislatura: 353
+Fecha de ingreso: martes 20 de diciembre de 2005
+Estado: Tramitación terminada (Ley Nº 20.095 - D.Oficial 02/02/2006)
+Numero de boletín: 4062-04
+Materia: Ministerio De Educación
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 14:57:44
+* * Hitos de tramitación * *
+"emmStart Hitos 4062-04","Fecha Sesión Etapa Sub-etapa Documento
+20 de Dic. de 2005   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de Dic. de 2005 63ª / 353 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+20 de Dic. de 2005 63ª / 353 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 476-353 que hace presente la urgencia Suma Ver
+20 de Dic. de 2005   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+21 de Dic. de 2005 64ª / 353 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+21 de Dic. de 2005 64ª / 353 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+21 de Dic. de 2005   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+03 de Ene. de 2006 54ª / 353 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+03 de Ene. de 2006 54ª / 353 Segundo trámite constitucional / Senado Cuenta del Mensaje 486-334 que retira y hace presente la urgencia Suma
+04 de Ene. de 2006   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+04 de Ene. de 2006 56ª / 353 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+04 de Ene. de 2006 56ª / 353 Segundo trámite constitucional / Senado Discusión general Ver
+05 de Ene. de 2006   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+10 de Ene. de 2006   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+10 de Feb. de 2006 65ª / 353 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4062-04","Fecha Etapa Informe Documento
+04 de Ene. de 2006 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+20 de Dic. de 2005 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4062-04","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+03 de Ene. de 2006   Suma 486-334  
+20 de Dic. de 2005 03 de Ene. de 2006 Suma 476-353 486-334","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4062-04","Nombre Región Distrito Partido
+Ministerio de Educación      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4062-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4062-04","No record","Veto emmEnd"

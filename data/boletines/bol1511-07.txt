@@ -1,0 +1,34 @@
+* * Bill summary * *
+"emmStart Summary 1511-07","Legislatura: 330
+Fecha de ingreso: martes 17 de enero de 1995
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 1511-07
+Materia: Información Administrativa,Administración Pública,Gestión Pública
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 10:04:11
+* * Hitos de tramitación * *
+"emmStart Hitos 1511-07","Fecha Sesión Etapa Sub-etapa Documento
+17 de Ene. de 1995   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+17 de Ene. de 1995   Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia
+03 de Oct. de 1995 1ª / 332 Primer trámite constitucional / C. Diputados S.E. el Pdte. de la Rep. incluye el proyecto en la legisl. extraordinaria 332. Ver
+25 de Mar. de 1998   Primer trámite constitucional / C. Diputados Se solicita su archivo Oficio 4-98 de la Com. de Constitución propone archivo del proyecto
+27 de Mar. de 1998   Primer trámite constitucional / C. Diputados Oficio 1902 a la Com. de Constitución comunica haber consultado al Pdte. de la Rep. respecto proposición de archivo
+31 de Mar. de 1998   Primer trámite constitucional / C. Diputados Oficio 1900 al Pdte. de la Rep. propone archivo del proyecto
+07 de Jun. de 2000 2ª / 342 Primer trámite constitucional / C. Diputados Cuenta Oficio del Ejecutivo, retira proyecto Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1511-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1511-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+17 de Ene. de 1995 16 de Sep. de 1998 Sin urgencia 387-330 CADUCADO","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1511-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1511-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1511-07","No record","Veto emmEnd"

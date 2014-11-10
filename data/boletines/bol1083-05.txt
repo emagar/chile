@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 1083-05","Legislatura: 326
+Fecha de ingreso: martes 07 de septiembre de 1993
+Estado: Tramitación terminada (Ley Nº 19.257 - D.Oficial 06/11/1993)
+Numero de boletín: 1083-05
+Materia: Casa De Moneda De Chile
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 02:49:37
+* * Hitos de tramitación * *
+"emmStart Hitos 1083-05","Fecha Sesión Etapa Sub-etapa Documento
+07 de Sep. de 1993 34ª / 326 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+07 de Sep. de 1993   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+28 de Sep. de 1993   Primer trámite constitucional / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 327
+29 de Sep. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+29 de Sep. de 1993 3ª / 327 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+29 de Sep. de 1993 3ª / 327 Primer trámite constitucional / C. Diputados Discusión general Ver
+29 de Sep. de 1993   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora
+05 de Oct. de 1993 1ª / 327 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+13 de Oct. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+14 de Oct. de 1993 5ª / 327 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+14 de Oct. de 1993 5ª / 327 Segundo trámite constitucional / Senado Discusión general Ver
+15 de Oct. de 1993   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+15 de Oct. de 1993   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+19 de Oct. de 1993 8ª / 327 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1083-05","Fecha Etapa Informe Documento
+13 de Oct. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+29 de Sep. de 1993 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1083-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+07 de Sep. de 1993   Suma    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1083-05","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1083-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1083-05","No record","Veto emmEnd"

@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 4184-03","Legislatura: 354
+Fecha de ingreso: miércoles 03 de mayo de 2006
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 4184-03
+Materia: Información Financiera
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 22:41:44
+* * Hitos de tramitación * *
+"emmStart Hitos 4184-03","Fecha Sesión Etapa Sub-etapa Documento
+03 de May. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de May. de 2006 19ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+13 de Sep. de 2006 76ª / 354 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de Sep. de 2006 76ª / 354 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+13 de Sep. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+13 de Sep. de 2006   Primer trámite constitucional / C. Diputados Oficio Nº 6386. Se acuerda remitir el proyecto a la Comisión de Hacienda Ver
+13 de Oct. de 2006   Primer trámite constitucional / C. Diputados Primer informe complementario Ver
+17 de Oct. de 2006 87ª / 354 Primer trámite constitucional / C. Diputados Cuenta primer informe complementario Ver
+07 de Abr. de 2010 11ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4184-03","Fecha Etapa Informe Documento
+13 de Oct. de 2006 Primer trámite constitucional C.Diputados Primer informe complementario de Hacienda Ver
+13 de Sep. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4184-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4184-03","Nombre Región Distrito Partido
+Gabriel Ascencio Mansilla X Región de los Lagos N°58 Partido Demócrata Cristiano
+Marco Enríquez-Ominami Gumucio V Región de Valparaíso N°10 Independientes
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4184-03","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+11   22 73 9 16 Rechazado Sala Ver detalle votación
+15 Votación General 8 0 2 3   Economía Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4184-03","No record","Veto emmEnd"

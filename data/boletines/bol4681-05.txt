@@ -1,0 +1,52 @@
+* * Bill summary * *
+"emmStart Summary 4681-05","Legislatura: 354
+Fecha de ingreso: martes 21 de noviembre de 2006
+Estado: Tramitación terminada (Ley Nº 20.143 - D.Oficial 13/12/2006)
+Numero de boletín: 4681-05
+Materia: Remuneraciones,Sector Público
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 06:19:55
+* * Hitos de tramitación * *
+"emmStart Hitos 4681-05","Fecha Sesión Etapa Sub-etapa Documento
+21 de Nov. de 2006 100ª / 354 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 495-354 que hace presente la urgencia Discusión inmediata Ver
+21 de Nov. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+21 de Nov. de 2006 100ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+21 de Nov. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+22 de Nov. de 2006 101ª / 354 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+22 de Nov. de 2006 101ª / 354 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+22 de Nov. de 2006   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+28 de Nov. de 2006   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+28 de Nov. de 2006 71ª / 354 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+28 de Nov. de 2006 71ª / 354 Tramitación terminada / Cuenta del Mensaje 506-354 que retira y hace presente la urgencia Discusión inmediata
+28 de Nov. de 2006 71ª / 354 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+28 de Nov. de 2006 71ª / 354 Segundo trámite constitucional / Senado Discusión general Ver
+28 de Nov. de 2006   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+05 de Dic. de 2006 103ª / 354 Trámite finalización en Cámara de Origen / C. Diputados P. de la Rep. comunica qu no hará uso de la faculñtad que le confiere el inciso primero del artíoculo 73 de la C. P. de la Rep. Ver
+05 de Dic. de 2006 103ª / 354 Trámite finalización en Cámara de Origen / C. Diputados Tribunal Constitucional remite copia de sentencia referida al proyecto. Ver
+13 de Jun. de 2007 35ª / 355 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio Nº 675-2006 del Tribunal Constitucional Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4681-05","Fecha Etapa Informe Documento
+28 de Nov. de 2006 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+21 de Nov. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4681-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+28 de Nov. de 2006   Discusión inmediata 506-354  
+21 de Nov. de 2006 27 de Nov. de 2006 Discusión inmediata 495-354 506-354","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4681-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4681-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+101 salvo inciso cuarto del artículo 35. 95 0 1 0 Aprobado Sala Ver detalle votación
+101 35, inciso cuarto. 97 0 0 0 Aprobado Sala Ver detalle votación
+101 1°. 89 2 4 0 Aprobado Sala Ver detalle votación
+101 35, inciso cuarto, con indicación para eliminar la frase ""cuyos montos no podrán ser superiores a los establecidos en el inciso segundo de este artículo"". 101 0 0 0 Aprobado Sala Ver detalle votación
+38 Votación General 9 0 1 3   Hacienda Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4681-05","No record","Veto emmEnd"

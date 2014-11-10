@@ -1,0 +1,55 @@
+* * Bill summary * *
+"emmStart Summary 2180-01","Legislatura: 338
+Fecha de ingreso: martes 09 de junio de 1998
+Estado: Tramitación terminada (Ley Nº 19.624 - D.Oficial 28/08/1999)
+Numero de boletín: 2180-01
+Materia: Acuicultura,Competencia (Derecho)
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 21:47:04
+* * Hitos de tramitación * *
+"emmStart Hitos 2180-01","Fecha Sesión Etapa Sub-etapa Documento
+09 de Jun. de 1998   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+09 de Jun. de 1998 5ª / 338 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+14 de Jul. de 1998   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+21 de Jul. de 1998 19ª / 338 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+23 de Jul. de 1998 21ª / 338 Primer trámite constitucional / C. Diputados Pendiente votación. Intervienen los Diputados Alvarez-Salamanca (inf. Com. Agricultura), Prokurika y Mora. Ver Ver
+23 de Jul. de 1998 21ª / 338 Primer trámite constitucional / C. Diputados Pendiente votación. Intervienen los Diputados Alvarez-Salamanca (inf. Com. Agricultura), Prokurika y Mora. Ver Ver
+03 de Ago. de 1998 22ª / 338 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+04 de Ago. de 1998   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+05 de Ago. de 1998 18ª / 338 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Intereses Marítimos, Pesca y Acuicultura
+09 de Sep. de 1998   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+15 de Sep. de 1998 30ª / 338 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+09 de Jun. de 1999 4ª / 340 Segundo trámite constitucional / Senado Discusión general Ver
+10 de Jun. de 1999   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+15 de Jun. de 1999 6ª / 340 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+16 de Jun. de 1999   Tercer trámite constitucional / C. Diputados Discusión única
+16 de Jun. de 1999   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+20 de Jul. de 1999   Trámite de aprobacion presidencial / C. Diputados Ingreso de observaciones
+20 de Jul. de 1999   Trámite en Tribunal Constitucional / C. Diputados Oficio al Tribunal Constitucional Ver
+03 de Ago. de 1999   Trámite en Tribunal Constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+04 de Ago. de 1999 24ª / 340 Trámite en Tribunal Constitucional / C. Diputados Ingreso fallo del Tribunal Constitucional Ver
+04 de Ago. de 1999 24ª / 340 Trámite en Tribunal Constitucional / C. Diputados Cuenta fallo del Tribunal Constitucional Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2180-01","Fecha Etapa Informe Documento
+09 de Sep. de 1998 Segundo trámite constitucional Senado Primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver
+14 de Jul. de 1998 Primer trámite constitucional C.Diputados Primer informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2180-01","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2180-01","Nombre Región Distrito Partido
+Pedro Pablo Alvarez-Salamanca Büchi VII Región del Maule N°38 Renovación Nacional
+Mario Bertolino Rendic IV Región de Coquimbo N°7 Renovación Nacional
+Arturo Longton Guerrero V Región de Valparaíso N°12 Renovación Nacional
+Waldo Mora Longa II Región de Antofagasta N°3 Partido Demócrata Cristiano
+Baldo Prokurica Prokurica III Región de Atacama N°6 Renovación Nacional
+Manuel Rojas Molina II Región de Antofagasta N°4 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2180-01","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2180-01","No record","Veto emmEnd"

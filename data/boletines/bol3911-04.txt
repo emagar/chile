@@ -1,0 +1,53 @@
+* * Bill summary * *
+"emmStart Summary 3911-04","Legislatura: 353
+Fecha de ingreso: miércoles 22 de junio de 2005
+Estado: Tramitación terminada (Ley Nº 20.147 - D.Oficial 30/12/2006)
+Numero de boletín: 3911-04
+Materia: Monumentos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 06:44:08
+* * Hitos de tramitación * *
+"emmStart Hitos 3911-04","Fecha Sesión Etapa Sub-etapa Documento
+22 de Jun. de 2005   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+22 de Jun. de 2005 10ª / 353 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+02 de Ago. de 2005   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Ago. de 2005 27ª / 353 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+05 de Oct. de 2005 48ª / 353 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+05 de Oct. de 2005   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+12 de Oct. de 2005 41ª / 353 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología Ver
+28 de Nov. de 2006 71ª / 354 Segundo trámite constitucional / Senado Cuenta de comunicación de la Comisión de Educación, Cultura, Ciencia y Tecnología en que solicita autorización de la Sala para discutir en general y en particular el PL, en su primer informe. Se accede a lo solicitado.
+29 de Nov. de 2006   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+29 de Nov. de 2006 72ª / 354 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+05 de Dic. de 2006 73ª / 354 Segundo trámite constitucional / Senado Discusión general Ver
+06 de Dic. de 2006   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+07 de Dic. de 2006 105ª / 354 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver Ver
+12 de Dic. de 2006 106ª / 354 Tercer trámite constitucional / C. Diputados Discusión única Ver
+12 de Dic. de 2006   Tercer trámite constitucional / C. Diputados Oficio Nº 6511, que comunica aprobación de modificaciones Ver
+12 de Dic. de 2006   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+13 de Dic. de 2006 77ª / 354 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 6511, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3911-04","Fecha Etapa Informe Documento
+29 de Nov. de 2006 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+02 de Ago. de 2005 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3911-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3911-04","Nombre Región Distrito Partido
+Francisco Encina Moriamez IV Región de Coquimbo N°8 Partido Socialista
+Camilo Escalona Medina VIII Región del Bío Bío N°46 Partido Socialista
+Adriana Muñoz D'Albora IV Región de Coquimbo N°9 Partido Por la Democracia
+José Miguel Ortiz Novoa VIII Región del Bío Bío N°44 Partido Demócrata Cristiano
+José Pérez Arriagada VIII Región del Bío Bío N°47 Partido Radical Social Demócrata
+Ximena Vidal Lázaro RM Región Metropolitana N°25 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3911-04","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+106 Modificaciones del Senado. 54 0 0 66 Aprobado Sala Ver detalle votación
+48   71 0 2 5 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3911-04","No record","Veto emmEnd"

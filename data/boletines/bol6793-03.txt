@@ -1,0 +1,51 @@
+* * Bill summary * *
+"emmStart Summary 6793-03","Legislatura: 357
+Fecha de ingreso: martes 15 de diciembre de 2009
+Estado: Tramitación terminada (Ley N° 20.445 - D.Oficial 21/07/2010)
+Numero de boletín: 6793-03
+Materia: Armadores,Pesca De Pez Espada
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 08-11-2014 16:25:18
+* * Hitos de tramitación * *
+"emmStart Hitos 6793-03","Fecha Sesión Etapa Sub-etapa Documento
+15 de Dic. de 2009   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+15 de Dic. de 2009 75ª / 357 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Intereses Marítimos, Pesca y Acuicultura
+12 de Ene. de 2010   Primer trámite constitucional / Senado Primer informe de comisión Ver
+13 de Ene. de 2010 82ª / 357 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+09 de Mar. de 2010 86ª / 357 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 05/04/2010 Ver
+05 de Abr. de 2010   Primer trámite constitucional / Senado Boletín de indicaciones
+21 de Abr. de 2010 12ª / 358 Primer trámite constitucional / Senado La Sala acuerda fijar un nuevo plazo para presentar indicaciones a este proyecto, hasta las 18 horas del día de hoy, miércoles 21 de abril, en la Secretaría de la Comisión de Intereses Marítimos, Pesca y Acuicultura.
+21 de Abr. de 2010   Primer trámite constitucional / Senado Boletín de indicaciones
+04 de May. de 2010   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+05 de May. de 2010 15ª / 358 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+11 de May. de 2010 16ª / 358 Primer trámite constitucional / Senado Discusión particular Ver
+11 de May. de 2010   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+12 de May. de 2010 24ª / 358 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Pesca, Acuicultura e Intereses Marítimos Ver
+20 de May. de 2010   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+01 de Jun. de 2010 30ª / 358 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+03 de Jun. de 2010 33ª / 358 Segundo trámite constitucional / C. Diputados Discusión general Ver
+03 de Jun. de 2010   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+08 de Jun. de 2010 24ª / 358 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+08 de Jun. de 2010   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6793-03","Fecha Etapa Informe Documento
+20 de May. de 2010 Segundo trámite constitucional C.Diputados Primer informe de comisión de Pesca, Acuicultura e Intereses Marítimos Ver
+04 de May. de 2010 Primer trámite constitucional Senado Segundo informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver
+12 de Ene. de 2010 Primer trámite constitucional Senado Primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6793-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6793-03","Nombre
+Ministerio de Economía, Fomento y Turism","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6793-03","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+33   84 1 0 0 Aprobado Sala Ver detalle votación
+9 Votación General 11 0 0 2   Pesca y Acuicultura Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6793-03","No record","Veto emmEnd"

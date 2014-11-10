@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 3199-11","Legislatura: 348
+Fecha de ingreso: martes 04 de marzo de 2003
+Estado: Archivado .
+Numero de boletín: 3199-11
+Materia: Tabaco
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 00:16:37
+* * Hitos de tramitación * *
+"emmStart Hitos 3199-11","Fecha Sesión Etapa Sub-etapa Documento
+04 de Mar. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Mar. de 2003 50ª / 348 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver
+04 de Abr. de 2006   Archivado / Oficio Nº 9-2006. Solicita archivo. Ver
+06 de Abr. de 2006 10ª / 354 Primer trámite constitucional / C. Diputados Archivado Cuenta Oficio de Comisión de Salud, solciita archivo de proyecto. Sala accede al archivo solicitado. Ver
+06 de Abr. de 2006   Archivado / Oficio Nº6100. Se accede a la petición de la Comisión de Salud para procedert a su archivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3199-11","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3199-11","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3199-11","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Sergio Aguiló Melo VII Región del Maule N°37 Partido Socialista
+Patricio Cornejo Vidaurrázaga V Región de Valparaíso N°11 Partido Demócrata Cristiano
+María Eugenia Mella Gajardo V Región de Valparaíso N°10 Partido Demócrata Cristiano
+Osvaldo Palma Flores VII Región del Maule N°39 Renovación Nacional
+Alberto Robles Pantoja III Región de Atacama N°6 Partido Radical Social Demócrata
+Fulvio Rossi Ciocca I Región de Tarapacá N°2 Independientes","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3199-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3199-11","No record","Veto emmEnd"

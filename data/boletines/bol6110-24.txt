@@ -1,0 +1,50 @@
+* * Bill summary * *
+"emmStart Summary 6110-24","Legislatura: 356
+Fecha de ingreso: martes 30 de septiembre de 2008
+Estado: Primer trámite constitucional .
+Numero de boletín: 6110-24
+Materia: Música Chilena,Conciertos,Eventos Musicales
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 02:58:32
+* * Hitos de tramitación * *
+"emmStart Hitos 6110-24","Fecha Sesión Etapa Sub-etapa Documento
+30 de Sep. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+30 de Sep. de 2008 82ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de la Cultura y las Artes Ver
+18 de Mar. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+31 de Mar. de 2009 6ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+01 de Oct. de 2009 84ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver
+03 de Nov. de 2010   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+11 de Nov. de 2010 99ª / 358 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+17 de Nov. de 2010 104ª / 358 Primer trámite constitucional / C. Diputados Discusión particular Ver
+05 de Nov. de 2014 87ª / 362 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 786-362 que hace presente la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6110-24","Fecha Etapa Informe Documento
+03 de Nov. de 2010 Primer trámite constitucional C.Diputados Segundo informe de comisión de la Cultura y las Artes Ver
+18 de Mar. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de la Cultura y las Artes Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6110-24","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+05 de Nov. de 2014   Simple 786-362  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6110-24","Nombre Región Distrito Partido
+Isabel Allende Bussi RM Región Metropolitana N°29 Partido Socialista
+Alfonso De Urresti Longton XIV Región de los Ríos N°53 Partido Socialista
+Marco Enríquez-Ominami Gumucio V Región de Valparaíso N°10 Independientes
+Alvaro Escobar Rufatt RM Región Metropolitana N°20 Independientes
+Ramón Farías Ponce RM Región Metropolitana N°30 Partido Por la Democracia
+Marta Isasi Barbieri I Región de Tarapacá N°2 Independientes
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+Claudia Nogueira Fernández RM Región Metropolitana N°19 Unión Demócrata Independiente
+Manuel Rojas Molina II Región de Antofagasta N°4 Unión Demócrata Independiente
+Patricio Vallespín López X Región de los Lagos N°57 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6110-24","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+84   42 0 0 78 Aprobado Sala Ver detalle votación
+10 Votación General 7 0 0 6   Cultura Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6110-24","No record","Veto emmEnd"

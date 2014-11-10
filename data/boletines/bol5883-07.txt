@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 5883-07","Legislatura: 356
+Fecha de ingreso: martes 03 de junio de 2008
+Estado: Primer trámite constitucional .
+Numero de boletín: 5883-07
+Materia: Protección A Las Personas,Reforma Constitucional,Protección De La Vida Privada,Datos Personales
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 00:21:50
+* * Hitos de tramitación * *
+"emmStart Hitos 5883-07","Fecha Sesión Etapa Sub-etapa Documento
+03 de Jun. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Jun. de 2008 33ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+05 de Jun. de 2008 35ª / 356 Primer trámite constitucional / C. Diputados Comisión de Economía, solicita que proyecto le sea remitido para realizar estudio de la materia. ACORDADO. Ver
+12 de Jun. de 2008 39ª / 356 Primer trámite constitucional / C. Diputados Comisión de Constitución solicita que proyecto, una vez informado por Comisión de Economía, sea devuelto a Comiisón de Constitución para su estudio. ACORDADO. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5883-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5883-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5883-07","Nombre Región Distrito Partido
+Pedro Araya Guerrero II Región de Antofagasta N°4 Independientes
+Gonzalo Arenas Hödar IX Región de la Araucanía N°48 Unión Demócrata Independiente
+Alberto Cardemil Herrera RM Región Metropolitana N°22 Independientes
+Francisco Chahuán Chahuán V Región de Valparaíso N°14 Renovación Nacional
+Edmundo Eluchans Urenda V Región de Valparaíso N°15 Unión Demócrata Independiente
+Cristián Monckeberg Bruner RM Región Metropolitana N°23 Renovación Nacional
+Nicolás Monckeberg Díaz VIII Región del Bío Bío N°42 Renovación Nacional
+Jaime Quintana Leal IX Región de la Araucanía N°49 Partido Por la Democracia
+Roberto Sepúlveda Hermosilla RM Región Metropolitana N°20 Renovación Nacional
+Patricio Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5883-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+73 Votación General 8 0 0 5   Economía Ver detalle votación
+73 Votación General 7 0 0 6   Economía Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5883-07","No record","Veto emmEnd"

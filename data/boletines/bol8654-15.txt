@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 8654-15","Legislatura: 360
+Fecha de ingreso: martes 30 de octubre de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8654-15
+Materia: Empresas Generadoras De Carga,Autocontrol De Pesaje
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 04:08:33
+* * Hitos de tramitación * *
+"emmStart Hitos 8654-15","Fecha Sesión Etapa Sub-etapa Documento
+30 de Oct. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+30 de Oct. de 2012 93ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+13 de Ago. de 2013 58ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 220-361 que hace presente la urgencia Suma Ver
+28 de Ago. de 2013 64ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 243-361 que hace presente la urgencia Suma Ver
+12 de Sep. de 2013 74ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 270-361 que hace presente la urgencia Suma Ver
+01 de Oct. de 2013 75ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 281-361 que hace presente la urgencia Simple Ver
+19 de Nov. de 2013 87ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 239-361 que hace presente la urgencia Simple Ver
+17 de Dic. de 2013 104ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 390-361 que hace presente la urgencia Simple Ver
+14 de Ene. de 2014 112ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 426-361 que hace presente la urgencia Simple Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8654-15","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8654-15","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+14 de Ene. de 2014   Simple 426-361  
+17 de Dic. de 2013   Simple 390-361  
+19 de Nov. de 2013   Simple 239-361  
+01 de Oct. de 2013   Simple 281-361  
+12 de Sep. de 2013   Suma 270-361  
+28 de Ago. de 2013   Suma 243-361  
+13 de Ago. de 2013   Suma 220-361  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8654-15","Nombre Región Distrito Partido
+Ministerio de Obras Públicas      
+Ministerio de Transporte y Telecomunicaciones      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8654-15","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+119 Votación General 10 0 0 3   Obras Públicas Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8654-15","No record","Veto emmEnd"

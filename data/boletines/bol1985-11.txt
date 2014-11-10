@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 1985-11","Legislatura: 334
+Fecha de ingreso: martes 04 de marzo de 1997
+Estado: Archivado .
+Numero de boletín: 1985-11
+Materia: Código Sanitario,Prescripciones Médicas
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 17:08:16
+* * Hitos de tramitación * *
+"emmStart Hitos 1985-11","Fecha Sesión Etapa Sub-etapa Documento
+04 de Mar. de 1997   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+04 de Mar. de 1997 29ª / 334 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Salud
+09 de Jun. de 1997   Primer trámite constitucional / Senado Primer informe de comisión Ver
+11 de Jun. de 1997 4ª / 335 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+30 de Jul. de 1997 20ª / 335 Primer trámite constitucional / Senado Aplazada la discusión Ver
+05 de Ago. de 1997 21ª / 335 Primer trámite constitucional / Senado Discusión general Ver
+13 de Ago. de 1997 25ª / 335 Primer trámite constitucional / Senado Boletín de indicaciones
+07 de Jul. de 1998   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+08 de Jul. de 1998 12ª / 338 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+14 de Jul. de 1998 13ª / 338 Primer trámite constitucional / Senado Discusión particular Ver
+15 de Jul. de 1998   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+16 de Jul. de 1998 18ª / 338 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver
+10 de Ago. de 1999   Segundo trámite constitucional / C. Diputados Se solicita su archivo Se solicita archivo del proyecto, previa consulta al Senado.
+18 de Ago. de 1999   Segundo trámite constitucional / C. Diputados Archivado El Senado accede a su archivo.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1985-11","Fecha Etapa Informe Documento
+07 de Jul. de 1998 Primer trámite constitucional Senado Segundo informe de comisión de Salud Ver
+09 de Jun. de 1997 Primer trámite constitucional Senado Primer informe de comisión de Salud Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1985-11","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1985-11","Nombre
+Mariano Ruiz-Esquide Jara","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1985-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1985-11","No record","Veto emmEnd"

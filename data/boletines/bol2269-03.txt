@@ -1,0 +1,54 @@
+* * Bill summary * *
+"emmStart Summary 2269-03","Legislatura: 339
+Fecha de ingreso: martes 01 de diciembre de 1998
+Estado: Tramitación terminada (Ley Nº 19.612 - D.Oficial 31/05/1999)
+Numero de boletín: 2269-03
+Materia: Distorsión De Precios,Importaciones
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 22:45:18
+* * Hitos de tramitación * *
+"emmStart Hitos 2269-03","Fecha Sesión Etapa Sub-etapa Documento
+01 de Dic. de 1998   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+01 de Dic. de 1998 23ª / 339 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+11 de Ene. de 1999   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+12 de Ene. de 1999   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+18 de Ene. de 1999   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+19 de Ene. de 1999 35ª / 339 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+21 de Ene. de 1999 37ª / 339 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+21 de Ene. de 1999   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+02 de Mar. de 1999 20ª / 339 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Economía y a la de Hacienda
+09 de Mar. de 1999 22ª / 339 Segundo trámite constitucional / Senado Cambio en Providencia - Comisiones: Unidas de Economía y de Hacienda
+14 de May. de 1999   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+18 de May. de 1999 40ª / 339 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+19 de May. de 1999 41ª / 339 Segundo trámite constitucional / Senado Discusión general Ver
+21 de May. de 1999   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+24 de May. de 1999   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+01 de Jun. de 1999 1ª / 340 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2269-03","Fecha Etapa Informe Documento
+14 de May. de 1999 Segundo trámite constitucional Senado Primer informe de comisión de Economía y de Hacienda, unidas Ver
+18 de Ene. de 1999 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+12 de Ene. de 1999 Primer trámite constitucional C.Diputados Primer informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+11 de Ene. de 1999 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2269-03","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+18 de May. de 1999 18 de May. de 1999 Suma 13041999 14041999
+18 de May. de 1999   Simple 18051999  
+18 de May. de 1999 16 de Mar. de 1999 Suma 30031999 13041999
+14 de Abr. de 1999 18 de May. de 1999 Simple 14041999 18051999
+30 de Mar. de 1999 14 de Abr. de 1999 Suma 16031999 30031999
+16 de Mar. de 1999 30 de Mar. de 1999 Suma 30031999 30031999
+02 de Mar. de 1999 18 de May. de 1999 Suma 02031999 16031999
+19 de Ene. de 1999 02 de Mar. de 1999 Suma 190-339 02031999","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2269-03","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2269-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2269-03","No record","Veto emmEnd"

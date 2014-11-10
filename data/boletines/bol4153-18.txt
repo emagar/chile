@@ -1,0 +1,55 @@
+* * Bill summary * *
+"emmStart Summary 4153-18","Legislatura: 354
+Fecha de ingreso: miércoles 12 de abril de 2006
+Estado: Archivado .
+Numero de boletín: 4153-18 Refundido con: 4187-18
+Materia: Convivencia,Presos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 22:21:26
+* * Hitos de tramitación * *
+"emmStart Hitos 4153-18","Fecha Sesión Etapa Sub-etapa Documento
+12 de Abr. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Abr. de 2006 13ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Familia Ver
+11 de Mar. de 2009 1ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1531-356 que hace presente la urgencia Simple Ver
+14 de Abr. de 2009 14ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 161-357 que hace presente la urgencia Simple Ver
+19 de May. de 2009 31ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 408-357 que retira y hace presente la urgencia Simple Ver
+30 de Jun. de 2009 45ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 637-357 que retira y hace presente la urgencia Simple Ver
+30 de Jun. de 2009 46ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+30 de Jun. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+30 de Jun. de 2009 46ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Familia. EN TABLA. Ver
+01 de Jul. de 2009 47ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 670-357 que retira la urgencia Simple Ver
+27 de Oct. de 2009 92ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1353-357 que hace presente la urgencia Suma Ver
+28 de Oct. de 2009 95ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1426-357 que retira y hace presente la urgencia Simple Ver
+18 de Nov. de 2009 106ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1587-357 que retira la urgencia Simple Ver
+05 de May. de 2010   Primer trámite constitucional / C. Diputados Archivado Se accede al archivo por rechazo de simple mayoría en Comisión.
+10 de Ago. de 2010 61ª / 358 Archivado / Oficio de la Diputada señora Vidal, doña Ximena, quien solicita el desarchivo del proyecto. Pendiente.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4153-18","Fecha Etapa Informe Documento
+30 de Jun. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Familia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4153-18","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+28 de Oct. de 2009 18 de Nov. de 2009 Simple 1426-357 1587-357
+27 de Oct. de 2009 28 de Oct. de 2009 Suma 1353-357 1426-357
+30 de Jun. de 2009 01 de Jul. de 2009 Simple 637-357 670-357
+19 de May. de 2009 30 de Jun. de 2009 Simple 408-357 637-357
+14 de Abr. de 2009 19 de May. de 2009 Simple 161-357 408-357
+11 de Mar. de 2009 14 de Abr. de 2009 Simple 1531-356 161-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4153-18","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Ramón Farías Ponce RM Región Metropolitana N°30 Partido Por la Democracia
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+Adriana Muñoz D'Albora IV Región de Coquimbo N°9 Partido Por la Democracia
+Laura Soto González V Región de Valparaíso N°13 Partido Por la Democracia
+Ximena Vidal Lázaro RM Región Metropolitana N°25 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4153-18","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+99 Votación General 3 8 0 2   Familia Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4153-18","No record","Veto emmEnd"

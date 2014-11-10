@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 7175-15","Legislatura: 358
+Fecha de ingreso: jueves 02 de septiembre de 2010
+Estado: Primer trámite constitucional .
+Numero de boletín: 7175-15
+Materia: Automovilistas,Chaleco Reflectante
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 01:07:40
+* * Hitos de tramitación * *
+"emmStart Hitos 7175-15","Fecha Sesión Etapa Sub-etapa Documento
+02 de Sep. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Sep. de 2010 70ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+12 de Jul. de 2011 54ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 318-359 que hace presente la urgencia Simple Ver
+27 de Sep. de 2011 85ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 397-359 que hace presente la urgencia Simple Ver
+02 de Nov. de 2011 102ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 432-359 que hace presente la urgencia Simple Ver
+13 de Dic. de 2011 120ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 481-359 que hace presente la urgencia Simple Ver
+12 de Ene. de 2012 132ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 551-359 que hace presente la urgencia Simple Ver
+06 de Mar. de 2012 140ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 578-359 que retira la urgencias por receso legislativo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7175-15","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7175-15","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+12 de Ene. de 2012 31 de Ene. de 2012 Simple 551-359 578-359
+13 de Dic. de 2011   Simple 481-359  
+02 de Nov. de 2011   Simple 432-359  
+27 de Sep. de 2011   Simple 397-359  
+12 de Jul. de 2011   Simple 318-359  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7175-15","Nombre Región Distrito Partido
+Pedro Pablo Alvarez-Salamanca Ramírez VII Región del Maule N°38 Unión Demócrata Independiente
+Alejandro García-Huidobro Sanfuentes VI Región del Libertador Bernardo O' Higgins N°32 Unión Demócrata Independiente
+Hugo Gutiérrez Gálvez I Región de Tarapacá N°2 Partido Comunista
+Gustavo Hasbún Selume RM Región Metropolitana N°26 Unión Demócrata Independiente
+Javier Hernández Hernández X Región de los Lagos N°55 Unión Demócrata Independiente
+Juan Lobos Krause VIII Región del Bío Bío N°47 Unión Demócrata Independiente
+Celso Morales Muñoz VII Región del Maule N°36 Unión Demócrata Independiente
+Iván Norambuena Farías VIII Región del Bío Bío N°46 Unión Demócrata Independiente
+Arturo Squella Ovalle V Región de Valparaíso N°12 Unión Demócrata Independiente
+Felipe Ward Edwards II Región de Antofagasta N°3 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7175-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7175-15","No record","Veto emmEnd"

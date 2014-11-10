@@ -1,0 +1,59 @@
+* * Bill summary * *
+"emmStart Summary 6922-13","Legislatura: 358
+Fecha de ingreso: martes 04 de mayo de 2010
+Estado: Tramitación terminada (Ley N° 20.446 - D.Oficial 03/07/2010)
+Numero de boletín: 6922-13
+Materia: Desastres ,Deuda Previsional
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 08-11-2014 19:38:13
+* * Hitos de tramitación * *
+"emmStart Hitos 6922-13","Fecha Sesión Etapa Sub-etapa Documento
+04 de May. de 2010   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+04 de May. de 2010 14ª / 358 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social y a Comisión de Hacienda, en su caso.
+04 de May. de 2010 14ª / 358 Primer trámite constitucional / Senado Cuenta del Mensaje 084-358 que hace presente la urgencia Suma
+12 de May. de 2010   Primer trámite constitucional / Senado Primer informe de comisión Ver
+12 de May. de 2010 18ª / 358 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de May. de 2010 18ª / 358 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 17/05/2010 Ver
+17 de May. de 2010   Primer trámite constitucional / Senado Boletín de indicaciones
+18 de May. de 2010   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+18 de May. de 2010 20ª / 358 Primer trámite constitucional / Senado Cuenta del Mensaje 113-358 que retira y hace presente la urgencia Suma
+18 de May. de 2010 20ª / 358 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión. de Hacienda y de Trabajo y Previsión Social, unidas
+18 de May. de 2010 20ª / 358 Primer trámite constitucional / Senado Discusión particular Ver
+18 de May. de 2010   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+19 de May. de 2010 28ª / 358 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+01 de Jun. de 2010 30ª / 358 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 141-358 que retira y hace presente la urgencia Suma Ver
+01 de Jun. de 2010   Segundo trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+04 de Jun. de 2010   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de Jun. de 2010 34ª / 358 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+09 de Jun. de 2010 36ª / 358 Segundo trámite constitucional / C. Diputados Discusión general Ver
+09 de Jun. de 2010   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+10 de Jun. de 2010   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+15 de Jun. de 2010 27ª / 358 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6922-13","Fecha Etapa Informe Documento
+04 de Jun. de 2010 Segundo trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+01 de Jun. de 2010 Segundo trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver
+18 de May. de 2010 Primer trámite constitucional Senado Segundo informe de comisión de Hacienda y de Trabajo y Previsión Social, unidas Ver
+12 de May. de 2010 Primer trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6922-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+01 de Jun. de 2010   Suma 141-358  
+18 de May. de 2010 01 de Jun. de 2010 Suma 113-358 141-358
+04 de May. de 2010   Suma 023-358  
+04 de May. de 2010 18 de May. de 2010 Suma 084-358 113-358","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6922-13","Nombre
+Ministerio de Hacienda
+Ministerio de Trabajo y Previsión Social","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6922-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+8 Votación General 10 0 0 3   Trabajo Ver detalle votación
+36   81 15 4 20 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6922-13","No record","Veto emmEnd"

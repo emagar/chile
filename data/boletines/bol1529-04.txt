@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 1529-04","Legislatura: 330
+Fecha de ingreso: jueves 02 de marzo de 1995
+Estado: Tramitación terminada (Ley Nº 19.407 - D.Oficial 31/08/1995)
+Numero de boletín: 1529-04
+Materia: Monumentos
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 10:17:42
+* * Hitos de tramitación * *
+"emmStart Hitos 1529-04","Fecha Sesión Etapa Sub-etapa Documento
+02 de Mar. de 1995   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+02 de Mar. de 1995 40ª / 330 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+05 de Abr. de 1995 49ª / 330 Primer trámite constitucional / Senado Primer informe de comisión Ver
+05 de Abr. de 1995 49ª / 330 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+11 de Abr. de 1995 51ª / 330 Primer trámite constitucional / Senado Discusión general Ver
+13 de Abr. de 1995 51ª / 330 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+13 de Abr. de 1995 58ª / 330 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+13 de Jun. de 1995   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+13 de Jun. de 1995   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Jul. de 1995   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Jul. de 1995   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Jul. de 1995 16ª / 331 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+01 de Ago. de 1995 22ª / 331 Segundo trámite constitucional / C. Diputados Discusión general Ver
+01 de Ago. de 1995   Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver
+02 de Ago. de 1995 23ª / 331 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+08 de Ago. de 1995 24ª / 331 Tercer trámite constitucional / Senado Discusión única
+08 de Ago. de 1995 24ª / 331 Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1529-04","Fecha Etapa Informe Documento
+11 de Jul. de 1995 Segundo trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver
+13 de Jun. de 1995 Segundo trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver
+05 de Abr. de 1995 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1529-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1529-04","Nombre
+Mariano Ruiz-Esquide Jara","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1529-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1529-04","No record","Veto emmEnd"

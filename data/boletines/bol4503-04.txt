@@ -1,0 +1,69 @@
+* * Bill summary * *
+"emmStart Summary 4503-04","Legislatura: 354
+Fecha de ingreso: jueves 07 de septiembre de 2006
+Estado: Tramitación terminada (Ley Nº 20.184 - D.Oficial 23/06/2007)
+Numero de boletín: 4503-04
+Materia: Administrador Provisional De Establecimientos Educacionales,Establecimientos Educacionales
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 02:29:24
+* * Hitos de tramitación * *
+"emmStart Hitos 4503-04","Fecha Sesión Etapa Sub-etapa Documento
+07 de Sep. de 2006 73ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+07 de Sep. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Oct. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Oct. de 2006 85ª / 354 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+12 de Oct. de 2006 86ª / 354 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+17 de Oct. de 2006   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+18 de Oct. de 2006 88ª / 354 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver
+18 de Oct. de 2006 88ª / 354 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+19 de Oct. de 2006   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+31 de Oct. de 2006 64ª / 354 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología Ver
+10 de Ene. de 2007   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+10 de Ene. de 2007 83ª / 354 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+23 de Ene. de 2007 86ª / 354 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 05/03/2007 Ver
+05 de Mar. de 2007   Segundo trámite constitucional / Senado Boletín de indicaciones
+29 de Mar. de 2007   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+03 de Abr. de 2007 6ª / 355 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+10 de Abr. de 2007 9ª / 355 Segundo trámite constitucional / Senado Discusión particular Ver
+10 de Abr. de 2007   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+11 de Abr. de 2007 13ª / 355 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver Ver
+12 de Abr. de 2007 15ª / 355 Tercer trámite constitucional / C. Diputados Discusión única Ver
+13 de Abr. de 2007   Tercer trámite constitucional / C. Diputados Oficio Nº 6752, que comunica aprobación de modificaciones Ver
+16 de Abr. de 2007   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+17 de Abr. de 2007 11ª / 355 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 6752, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4503-04","Fecha Etapa Informe Documento
+29 de Mar. de 2007 Segundo trámite constitucional Senado Segundo informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+10 de Ene. de 2007 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+17 de Oct. de 2006 Primer trámite constitucional C.Diputados Segundo informe de comisión de Educación, Deportes y Recreación Ver
+10 de Oct. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4503-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4503-04","Nombre Región Distrito Partido
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Gonzalo Duarte Leiva RM Región Metropolitana N°26 Partido Demócrata Cristiano
+Maximiano Errázuriz Eguiguren RM Región Metropolitana N°29 Independientes
+Adriana Muñoz D'Albora IV Región de Coquimbo N°9 Partido Por la Democracia
+Carlos Olivares Zepeda RM Región Metropolitana N°18 Partido Regionalista Independiente
+José Miguel Ortiz Novoa VIII Región del Bío Bío N°44 Partido Demócrata Cristiano
+Iván Paredes Fierro XV Región Arica y Parinacota N°1 Partido Socialista
+Eduardo Saffirio Suárez IX Región de la Araucanía N°50 Partido Demócrata Cristiano
+Gabriel Silber Romo RM Región Metropolitana N°16 Partido Demócrata Cristiano
+Patricio Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4503-04","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+88 con excepción del inciso tercero del artículo 52 bis. 97 0 0 0 Aprobado Sala Ver detalle votación
+88 Inciso tercero del artículo 52 bis. 74 22 0 0 Aprobado Sala Ver detalle votación
+86   80 0 0 0 Aprobado Sala Ver detalle votación
+86 Petición para omitir el segundo informe de Comisión y proceder inmediatamente a la discusión particular. 52 23 6 0 Rechazado Sala Ver detalle votación
+15 Modificaciones del Senado. 84 0 0 0 Aprobado Sala Ver detalle votación
+36 Votación General 9 0 0 4   Educación Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4503-04","No record","Veto emmEnd"

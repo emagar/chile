@@ -1,0 +1,39 @@
+* * Bill summary * *
+"emmStart Summary 315-03","Legislatura: 321
+Fecha de ingreso: martes 19 de marzo de 1991
+Estado: Tramitación terminada (Ley Nº 19.059 - D.Oficial 31/05/1991)
+Numero de boletín: 315-03
+Materia: Agua Potable,Aguas Servidas,Servicios Publicos
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 15:19:03
+* * Hitos de tramitación * *
+"emmStart Hitos 315-03","Fecha Sesión Etapa Sub-etapa Documento
+19 de Mar. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+19 de Mar. de 1991 38ª / 321 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+09 de Abr. de 1991   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Abr. de 1991 45ª / 321 Primer trámite constitucional / C. Diputados Discusión general Ver
+11 de Abr. de 1991   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+11 de Abr. de 1991 45ª / 321 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+16 de Abr. de 1991 44ª / 321 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Economía y a Comisión de Hacienda
+23 de Abr. de 1991 46ª / 321 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión. de Economía.
+24 de Abr. de 1991 47ª / 321 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión. de Hacienda. Queda para Tabla. En discusión, aprobado con enmiendas.
+24 de Abr. de 1991   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 315-03","Fecha Etapa Informe Documento
+09 de Abr. de 1991 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 315-03","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+19 de Mar. de 1991   Suma    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 315-03","Nombre Región Distrito Partido
+Ministerio de Economía, Fomento y Turism      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 315-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 315-03","No record","Veto emmEnd"

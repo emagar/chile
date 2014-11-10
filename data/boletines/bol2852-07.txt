@@ -1,0 +1,55 @@
+* * Bill summary * *
+"emmStart Summary 2852-07","Legislatura: 345
+Fecha de ingreso: martes 08 de enero de 2002
+Estado: Tramitación terminada (Ley Nº 19.805 - D.Oficial 22/05/2002)
+Numero de boletín: 2852-07
+Materia: Cortes De Apelaciones
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 03-11-2014 17:14:31
+* * Hitos de tramitación * *
+"emmStart Hitos 2852-07","Fecha Sesión Etapa Sub-etapa Documento
+08 de Ene. de 2002   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+08 de Ene. de 2002 21ª / 345 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+08 de Ene. de 2002   Primer trámite constitucional / Senado Oficio N°19265, a la Excelentísima Corte Suprema. Solicita parecer sobre el proyecto.
+11 de Ene. de 2002   Primer trámite constitucional / Senado Primer informe de comisión Ver
+16 de Ene. de 2002 24ª / 345 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+16 de Ene. de 2002   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+16 de Ene. de 2002   Primer trámite constitucional / Senado Primer informe de comisión Ver
+16 de Ene. de 2002 24ª / 345 Primer trámite constitucional / Senado Discusión general Ver
+22 de Ene. de 2002 28ª / 345 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+05 de Mar. de 2002 28ª / 345 Segundo trámite constitucional / C. Diputados Cuenta de oficio 3327 de la Corte Suprema, en Sesión del Senado. Ver
+05 de Abr. de 2002   Segundo trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+10 de Abr. de 2002   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+10 de Abr. de 2002 10ª / 346 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+10 de Abr. de 2002 10ª / 346 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+10 de Abr. de 2002   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+10 de Abr. de 2002 8ª / 346 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+10 de Abr. de 2002   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+16 de Abr. de 2002 9ª / 346 Trámite finalización en Cámara de Origen / Senado Cuenta del oficio del Presidente de la Rep., comunica que no hará uso de faculyad que le confiere inciso primero art. 70 Const. Pol. Se mandó remitir proyecto al Tribunal Constitucional.
+16 de Abr. de 2002   Trámite en Tribunal Constitucional / Senado Oficio al Tribunal Constitucional Ver
+26 de Abr. de 2002   Trámite en Tribunal Constitucional / Senado Ingreso fallo del Tribunal Constitucional
+26 de Abr. de 2002   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+30 de Abr. de 2002 11ª / 346 Trámite en Tribunal Constitucional / Senado Cuenta oficio 1.736 del Tribunal Constitucional","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2852-07","Fecha Etapa Informe Documento
+10 de Abr. de 2002 Segundo trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+05 de Abr. de 2002 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+16 de Ene. de 2002 Primer trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+11 de Ene. de 2002 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2852-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+12 de Mar. de 2002   Simple 10-346  
+05 de Mar. de 2002   Simple 242-345  
+08 de Ene. de 2002 08 de Mar. de 2002 Simple 183-345 229-345","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2852-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2852-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2852-07","No record","Veto emmEnd"

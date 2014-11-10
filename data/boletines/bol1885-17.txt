@@ -1,0 +1,57 @@
+* * Bill summary * *
+"emmStart Summary 1885-17","Legislatura: 333
+Fecha de ingreso: miércoles 03 de julio de 1996
+Estado: Tramitación terminada (Ley N° 20.441 - D.Oficial 01/06/2010)
+Numero de boletín: 1885-17
+Materia: Nacionalización
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 15:57:35
+* * Hitos de tramitación * *
+"emmStart Hitos 1885-17","Fecha Sesión Etapa Sub-etapa Documento
+03 de Jul. de 1996   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Jul. de 1996 12ª / 333 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+28 de Ago. de 1996   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Sep. de 1996 36ª / 333 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+02 de Sep. de 1997 37ª / 335 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+02 de Sep. de 1997   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+09 de Sep. de 1997 32ª / 335 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía
+10 de Mar. de 1998 35ª / 336 Segundo trámite constitucional / Senado Proyecto incluido en actual Leg.Extraord.
+17 de Mar. de 1998   Segundo trámite constitucional / Senado Proyecto incluido en actual Leg.Extraord.
+12 de May. de 1998   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+12 de May. de 1998 13ª / 337 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión. Documento reservado.
+19 de Ago. de 1998 24ª / 338 Segundo trámite constitucional / Senado Se acuerda volverlo a Comisión para un nuevo informe. Ver
+02 de May. de 2000 32ª / 341 Segundo trámite constitucional / Senado Cuenta de un oficio de S.E. el Presidente de la república, en el cual incluye el proyecto en la convocatoria a Legislatura Extraordinaria 341
+13 de Mar. de 2002   Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 346
+17 de Abr. de 2002   Segundo trámite constitucional / Senado Oficio NºDH/03/2002. Oficio a la Sala solicita archivo del proyecto Ver
+17 de Abr. de 2002   Segundo trámite constitucional / Senado Oficio Nº19712. Oficio a la Cámara de Diputados comunicando acuerdo del Senado para archivar el proyecto, previo acuerdo de esa Corporación. Ver
+18 de Abr. de 2002 14ª / 346 Segundo trámite constitucional / Senado Cuenta en Cámara de Diputados de Oficio del Senado. Accede a la solicitud en orden a archivar el proyecto.
+18 de Abr. de 2002   Segundo trámite constitucional / Senado Oficio al Senado, comunica que accede a archivo solicitado Ver
+30 de Abr. de 2002 11ª / 346 Archivado / Cuenta en el Senado del oficio de la Cámara de Diputados en que comunica que ha aceptado la solicitud de archivo de esta iniciativa.
+16 de Dic. de 2008 79ª / 356 Archivado / Los Comités acordaron desarchivar este proyecto de ley y enviarlo a la Comisión de Derechos Humanos, Nacionalidad y Ciudadanía para un nuevo primer informe.
+16 de Dic. de 2008   Segundo trámite constitucional / Senado Desarchivado
+04 de May. de 2010   Segundo trámite constitucional / Senado Nuevo primer informe de comisión Ver
+04 de May. de 2010 14ª / 358 Segundo trámite constitucional / Senado Cuenta nuevo primer informe
+05 de May. de 2010 15ª / 358 Segundo trámite constitucional / Senado Discusión general Ver
+05 de May. de 2010   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+06 de May. de 2010 22ª / 358 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+06 de May. de 2010   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1885-17","Fecha Etapa Informe Documento
+04 de May. de 2010 Segundo trámite constitucional Senado Nuevo primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+12 de May. de 1998 Segundo trámite constitucional Senado Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+28 de Ago. de 1996 Primer trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1885-17","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1885-17","Nombre Región Distrito Partido
+Luis Valentín Ferrada Valenzuela Región N° Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1885-17","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1885-17","No record","Veto emmEnd"

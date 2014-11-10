@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 1853-07","Legislatura: 332
+Fecha de ingreso: domingo 07 de abril de 1996
+Estado: Tramitación terminada (Ley Nº 19.456 - D.Oficial 13/05/1996)
+Numero de boletín: 1853-07
+Materia: Código De Procedimiento Penal,Código Penal,Multas,Procedimientos Ante Juzgados De Policía Local
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 15:34:02
+* * Hitos de tramitación * *
+"emmStart Hitos 1853-07","Fecha Sesión Etapa Sub-etapa Documento
+07 de Abr. de 1996   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+07 de May. de 1996 70ª / 332 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+07 de May. de 1996   Primer trámite constitucional / C. Diputados Primer informe de comisión
+07 de May. de 1996 70ª / 332 Primer trámite constitucional / C. Diputados Discusión única Ver
+07 de May. de 1996   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+07 de May. de 1996 56ª / 332 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+08 de May. de 1996   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+08 de May. de 1996 57ª / 332 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+08 de May. de 1996 58ª / 332 Segundo trámite constitucional / Senado Discusión general Ver
+08 de May. de 1996   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+08 de May. de 1996   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+09 de May. de 1996   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+09 de May. de 1996   Tramitación terminada / Oficio Nº9757. Oficio a la Cámara de Diputados comunicando aprobación del proyecto en los mismos términos. Ver
+14 de May. de 1996 73ª / 332 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1853-07","Fecha Etapa Informe Documento
+08 de May. de 1996 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1853-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+07 de May. de 1996   Discusión inmediata    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1853-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1853-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1853-07","No record","Veto emmEnd"

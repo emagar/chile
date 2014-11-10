@@ -1,0 +1,52 @@
+* * Bill summary * *
+"emmStart Summary 2375-07","Legislatura: 340
+Fecha de ingreso: jueves 05 de agosto de 1999
+Estado: Archivado .
+Numero de boletín: 2375-07
+Materia: Técnica Legislativa
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 23:51:13
+* * Hitos de tramitación * *
+"emmStart Hitos 2375-07","Fecha Sesión Etapa Sub-etapa Documento
+04 de Ago. de 1999   Primer trámite constitucional / C. Diputados Cuenta de proyecto
+05 de Ago. de 1999   Primer trámite constitucional / C. Diputados Ingreso de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+07 de Sep. de 1999   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+14 de Sep. de 1999 40ª / 340 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+05 de Oct. de 1999   Primer trámite constitucional / C. Diputados Discusión general. Incluye proyecto en legislatura extraord. 341
+05 de Oct. de 1999   Primer trámite constitucional / C. Diputados Discusión general
+06 de Oct. de 1999   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+13 de Oct. de 1999 4ª / 341 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+13 de Mar. de 2002   Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 346
+17 de Jun. de 2002   Segundo trámite constitucional / Senado Oficio Nº L 61/02. de La Comisión de Constitución, en el que propone el archivo del proyecto Ver
+18 de Jun. de 2002 7ª / 347 Segundo trámite constitucional / Senado Se solicita su archivo Cuenta oficio Comisión, propone a la Sala archivo proyecto, previo acuerdo de la Cámara de Diputados.
+18 de Jun. de 2002   Segundo trámite constitucional / Senado Oficio de archivo, previo acuerdo de Cámara de Diputados
+19 de Jun. de 2002 9ª / 347 Segundo trámite constitucional / Senado Cuenta en Cámara de Diputados de Oficio del Senado, solicita archivo de proyecto Ver
+19 de Jun. de 2002   Segundo trámite constitucional / Senado Oficio al Senado, comunica que accede a archivo solicitado Ver
+02 de Jul. de 2002 10ª / 347 Segundo trámite constitucional / Senado Archivado Cuenta oficio Cámara Diputados, comunica que accedió al archivo solicitado.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2375-07","Fecha Etapa Informe Documento
+07 de Sep. de 1999 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2375-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2375-07","Nombre Región Distrito Partido
+Alberto Cardemil Herrera RM Región Metropolitana N°22 Renovación Nacional
+Juan Antonio Coloma Correa RM Región Metropolitana N°31 Unión Demócrata Independiente
+Aldo Cornejo González V Región de Valparaíso N°13 Partido Demócrata Cristiano
+Sergio Elgueta Barrientos X Región de los Lagos N°57 Partido Demócrata Cristiano
+Pía Guzmán Mena RM Región Metropolitana N°23 Renovación Nacional
+Francisco Huenchumilla Jaramillo IX Región de la Araucanía N°50 Partido Demócrata Cristiano
+Enrique Krauss Rusque RM Región Metropolitana N°22 Partido Demócrata Cristiano
+Zarko Luksic Sandoval RM Región Metropolitana N°16 Partido Demócrata Cristiano
+Edgardo Riveros Marín RM Región Metropolitana N°30 Partido Demócrata Cristiano
+Laura Soto González V Región de Valparaíso N°14 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2375-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2375-07","No record","Veto emmEnd"

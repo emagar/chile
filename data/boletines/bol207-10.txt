@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 207-10","Legislatura: 321
+Fecha de ingreso: viernes 16 de noviembre de 1990
+Estado: Tramitación terminada (D.S. Nº 1.331 - D.Oficial 08/05/1991)
+Numero de boletín: 207-10
+Materia: Inmigrante Ilegal,Personas Indocumentadas,Indocumentado
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 07:32:37
+* * Hitos de tramitación * *
+"emmStart Hitos 207-10","Fecha Sesión Etapa Sub-etapa Documento
+16 de Nov. de 1990 14ª / 321 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+16 de Nov. de 1990   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+26 de Nov. de 1990 15ª / 321 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a la Comisión de Relaciones Exteriores.
+27 de Nov. de 1990   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+28 de Nov. de 1990 18ª / 321 Segundo trámite constitucional / Senado Discusión general. Aprobado en general y en particular. Ver
+28 de Nov. de 1990 18ª / 321 Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen
+28 de Nov. de 1990 18ª / 321 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+28 de Nov. de 1990   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+29 de Nov. de 1990   Tramitación terminada / Oficio Nº662. comunica aprobación sin modificaciones a Cámara de origen Ver
+04 de Dic. de 1990 17ª / 321 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 207-10","Fecha Etapa Informe Documento
+27 de Nov. de 1990 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 207-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 207-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 207-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 207-10","No record","Veto emmEnd"

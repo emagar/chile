@@ -1,0 +1,65 @@
+* * Bill summary * *
+"emmStart Summary 3247-14","Legislatura: 349
+Fecha de ingreso: martes 03 de junio de 2003
+Estado: Tramitación terminada (Ley Nº 19.939 - D.Oficial 13/02/2004)
+Numero de boletín: 3247-14
+Materia: Urbanismo Y Construcciones
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 00:47:00
+* * Hitos de tramitación * *
+"emmStart Hitos 3247-14","Fecha Sesión Etapa Sub-etapa Documento
+03 de Jun. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Jun. de 2003 1ª / 349 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de la Vivienda y Desarrollo Urbano Ver
+12 de Ago. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Ago. de 2003 28ª / 349 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+26 de Ago. de 2003 32ª / 349 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 199-349 que hace presente la urgencia Simple Ver
+27 de Ago. de 2003 33ª / 349 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+02 de Sep. de 2003 35ª / 349 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 222-349 que hace presente la urgencia Suma Ver
+03 de Sep. de 2003 36ª / 349 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+04 de Sep. de 2003   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+09 de Sep. de 2003 32ª / 349 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Vivienda y Urbanismo
+06 de Nov. de 2003   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+12 de Nov. de 2003 10ª / 350 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Nov. de 2003 11ª / 350 Segundo trámite constitucional / Senado Discusión general Ver
+09 de Dic. de 2003   Segundo trámite constitucional / Senado Boletín de indicaciones
+16 de Dic. de 2003   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+16 de Dic. de 2003 19ª / 350 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+16 de Dic. de 2003 19ª / 350 Segundo trámite constitucional / Senado Discusión particular Ver
+17 de Dic. de 2003   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+17 de Dic. de 2003 36ª / 350 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+06 de Ene. de 2004 38ª / 350 Tercer trámite constitucional / C. Diputados Discusión única. Aprobadas las modificaciones del Senado. Ver
+06 de Ene. de 2004 38ª / 350 Tercer trámite constitucional / C. Diputados Cuenta del Mensaje 339-350 que retira la urgencia Simple Ver
+06 de Ene. de 2004   Tercer trámite constitucional / C. Diputados Oficio Nº 4738, que comunica aprobación de modificaciones Ver
+08 de Ene. de 2004   Tercer trámite constitucional / C. Diputados Oficio Nº4739. al Ejecutivo, comunica proyecto aprobado para los efectos del artículo 70 de la Constitución Política del Estado. Ver
+13 de Ene. de 2004 42ª / 350 Tercer trámite constitucional / C. Diputados Cuenta Oficio S.E. el Presidente de la República, manifiesta que ha resuelto no hacer uso de la facultad que le confiere el inciso primero del artículo 70 de la Constitución Política de la República. Ver
+13 de Ene. de 2004 27ª / 350 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 4738, que comunica aprobación de modificaciones Ver
+30 de Ene. de 2004   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+02 de Mar. de 2004 51ª / 350 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio 2.046 del Tribunal Constitucional Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3247-14","Fecha Etapa Informe Documento
+16 de Dic. de 2003 Segundo trámite constitucional Senado Segundo informe de comisión de Vivienda y Urbanismo Ver
+06 de Nov. de 2003 Primer trámite constitucional Senado Primer informe de comisión de Vivienda y Urbanismo Ver
+06 de Nov. de 2003 Segundo trámite constitucional Senado Primer informe de comisión de Vivienda y Urbanismo Ver
+12 de Ago. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión de Vivienda y Desarrollo Urbano Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3247-14","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+06 de Ene. de 2004   Simple 339-350  
+12 de Nov. de 2003 06 de Ene. de 2004 Simple 209-350 339-350
+02 de Sep. de 2003   Suma 222-349  
+26 de Ago. de 2003   Simple 199-349  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3247-14","Nombre Región Distrito Partido
+Ministerio de Vivienda y Urbanismo      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3247-14","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+36   91 0 0 1   Sala Ver detalle votación
+38   77 7 3 2   Sala Ver detalle votación
+36   87 0 0 2   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3247-14","No record","Veto emmEnd"

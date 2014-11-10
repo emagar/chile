@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 1966-07","Legislatura: 334
+Fecha de ingreso: miércoles 08 de enero de 1997
+Estado: Primer trámite constitucional .
+Numero de boletín: 1966-07
+Materia: Reforma Constitucional
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 16:54:40
+* * Hitos de tramitación * *
+"emmStart Hitos 1966-07","Fecha Sesión Etapa Sub-etapa Documento
+08 de Ene. de 1997   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+08 de Ene. de 1997 36ª / 334 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1966-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1966-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1966-07","Nombre Región Distrito Partido
+Andrés Aylwin Azócar Región N°30 Partido Demócrata Cristiano
+Sergio Elgueta Barrientos Región N°57 Partido Demócrata Cristiano
+Homero Gutiérrez Román Región N° Partido Demócrata Cristiano
+Francisco Huenchumilla Jaramillo Región N°50 Partido Demócrata Cristiano
+Sergio Ojeda Uribe Región N°55 Partido Demócrata Cristiano
+Aníbal Pérez Lobos Región N° Partido Por la Democracia
+Baldo Prokurica Prokurica Región N°6 Renovación Nacional
+Raúl Urrutia Avila Región N°14 Renovación Nacional
+Ignacio Walker Prieto Región N° Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1966-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1966-07","No record","Veto emmEnd"

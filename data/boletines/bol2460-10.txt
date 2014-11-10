@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 2460-10","Legislatura: 341
+Fecha de ingreso: martes 25 de enero de 2000
+Estado: Tramitación terminada (D.S. Nº 910 - D.Oficial 08/07/2000)
+Numero de boletín: 2460-10
+Materia: Acuerdos Internacionales,Inversiones
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 00:43:42
+* * Hitos de tramitación * *
+"emmStart Hitos 2460-10","Fecha Sesión Etapa Sub-etapa Documento
+25 de Ene. de 2000   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+25 de Ene. de 2000 25ª / 341 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+14 de Mar. de 2000   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+21 de Mar. de 2000 33ª / 341 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+06 de Abr. de 2000 38ª / 341 Primer trámite constitucional / C. Diputados Discusión general Ver
+06 de Abr. de 2000   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+11 de Abr. de 2000 29ª / 341 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+24 de Abr. de 2000   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+03 de May. de 2000 33ª / 341 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+09 de May. de 2000 34ª / 341 Segundo trámite constitucional / Senado Discusión general Ver
+09 de May. de 2000   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+10 de May. de 2000   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+10 de May. de 2000 50ª / 341 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2460-10","Fecha Etapa Informe Documento
+24 de Abr. de 2000 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+14 de Mar. de 2000 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2460-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+25 de Ene. de 2000   Sin urgencia 293-341  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2460-10","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2460-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2460-10","No record","Veto emmEnd"

@@ -1,0 +1,54 @@
+* * Bill summary * *
+"emmStart Summary 3034-05","Legislatura: 347
+Fecha de ingreso: martes 03 de septiembre de 2002
+Estado: Tramitación terminada (Ley Nº 19.916 - D.Oficial 22/12/2003)
+Numero de boletín: 3034-05
+Materia: Servicio Nacional De Aduanas
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 22:25:30
+* * Hitos de tramitación * *
+"emmStart Hitos 3034-05","Fecha Sesión Etapa Sub-etapa Documento
+03 de Sep. de 2002   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Sep. de 2002 36ª / 347 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+05 de Nov. de 2002   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Nov. de 2002 14ª / 348 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+07 de Nov. de 2002 17ª / 348 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+08 de Nov. de 2002   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+12 de Nov. de 2002 11ª / 348 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+25 de Mar. de 2003 35ª / 348 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+25 de Mar. de 2003   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+01 de Abr. de 2003 37ª / 348 Segundo trámite constitucional / Senado Discusión general. Queda pendiente Se solicita segunda discusión Ver
+02 de Abr. de 2003 38ª / 348 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija plazo para indicaciones hasta el 14.04.03. Ver
+14 de Abr. de 2003   Segundo trámite constitucional / Senado Boletín de indicaciones
+10 de Jun. de 2003 3ª / 349 Segundo trámite constitucional / Senado Se fija nuevo plazo de indica ciones hasta el 17.06.03. Ver
+17 de Jun. de 2003   Segundo trámite constitucional / Senado Boletín de indicaciones
+01 de Ago. de 2003   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+06 de Ago. de 2003 20ª / 349 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+04 de Nov. de 2003 7ª / 350 Segundo trámite constitucional / Senado Cuenta segundo informe complementario
+05 de Nov. de 2003 8ª / 350 Segundo trámite constitucional / Senado Discusión particular Ver
+05 de Nov. de 2003   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+11 de Nov. de 2003 17ª / 350 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+12 de Nov. de 2003 19ª / 350 Tercer trámite constitucional / C. Diputados Discusión única Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3034-05","Fecha Etapa Informe Documento
+31 de Oct. de 2003 Segundo trámite constitucional Senado Segundo informe complementario de Hacienda Ver
+01 de Ago. de 2003 Segundo trámite constitucional Senado Segundo informe de comisión de Hacienda Ver
+25 de Mar. de 2003 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+05 de Nov. de 2002 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3034-05","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3034-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3034-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+19   87 0 0 1   Sala Ver detalle votación
+17   50 0 0 0   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3034-05","No record","Veto emmEnd"

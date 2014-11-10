@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 1230-10","Legislatura: 329
+Fecha de ingreso: jueves 09 de junio de 1994
+Estado: Tramitación terminada (D.S. Nº 1.011 - D.Oficial 02/09/1996)
+Numero de boletín: 1230-10
+Materia: Seguridad De Contenedores
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 04:43:59
+* * Hitos de tramitación * *
+"emmStart Hitos 1230-10","Fecha Sesión Etapa Sub-etapa Documento
+09 de Jun. de 1994 4ª / 329 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Medio Ambiente y Bienes Nacionales y a la de Relaciones Exteriores
+09 de Jun. de 1994   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+08 de Mar. de 1995 9ª / 331 Primer trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Relaciones Exteriores Ver
+21 de Jun. de 1995 9ª / 331 Primer trámite constitucional / Senado Primer informe de comisión Ver
+21 de Jun. de 1995 9ª / 331 Primer trámite constitucional / Senado Cuenta de primer informe de comisión. de Medio Ambiente y Bienes Nacionales y de Relaciones Exteriores. Quedan para tabla.
+05 de Jul. de 1995 12ª / 331 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+05 de Jul. de 1995 12ª / 331 Tramitación terminada / Discusión general y particular. Aprobado en general y en particular. Ver
+11 de Jul. de 1995 16ª / 331 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+08 de Ago. de 1995   Segundo trámite constitucional / C. Diputados Primer informe de comisión
+05 de Sep. de 1995 33ª / 331 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+19 de Jun. de 1996 9ª / 333 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+19 de Jun. de 1996   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen
+02 de Jul. de 1996 11ª / 333 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora. Se manda comunicar a S.E. el Presidente de la República.
+03 de Jul. de 1996   Trámite finalización en Cámara de Origen / Senado Oficio Nº9988. oficio al Ejecutivo comunicando proyecto aprobado por el Congreso Nacional Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1230-10","Fecha Etapa Informe Documento
+08 de Ago. de 1995 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+21 de Jun. de 1995 Primer trámite constitucional Senado Primer informe de comisión de Medio Ambiente y Bienes Nacionales Ver
+21 de Jun. de 1995 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1230-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1230-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1230-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1230-10","No record","Veto emmEnd"

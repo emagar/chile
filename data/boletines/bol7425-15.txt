@@ -1,0 +1,35 @@
+* * Bill summary * *
+"emmStart Summary 7425-15","Legislatura: 358
+Fecha de ingreso: martes 11 de enero de 2011
+Estado: Primer trámite constitucional .
+Numero de boletín: 7425-15
+Materia: Licencias De Conducir
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 03:57:42
+* * Hitos de tramitación * *
+"emmStart Hitos 7425-15","Fecha Sesión Etapa Sub-etapa Documento
+11 de Ene. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+11 de Ene. de 2011 124ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7425-15","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7425-15","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7425-15","Nombre Región Distrito Partido
+Guillermo Ceroni Fuentes VII Región del Maule N°40 Partido Por la Democracia
+Alfonso De Urresti Longton XIV Región de los Ríos N°53 Partido Socialista
+Marcos Espinosa Monardes II Región de Antofagasta N°3 Partido Radical Social Demócrata
+Ramón Farías Ponce RM Región Metropolitana N°30 Partido Por la Democracia
+Miodrag Marinovic Solo de Zaldívar XII Región de Magallanes y de la Antártica Chilena N°60 Independientes
+Iván Moreira Barros RM Región Metropolitana N°27 Unión Demócrata Independiente
+Marcela Sabat Fernández RM Región Metropolitana N°21 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7425-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7425-15","No record","Veto emmEnd"

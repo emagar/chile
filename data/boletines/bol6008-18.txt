@@ -1,0 +1,51 @@
+* * Bill summary * *
+"emmStart Summary 6008-18","Legislatura: 356
+Fecha de ingreso: martes 12 de agosto de 2008
+Estado: Segundo trámite constitucional .
+Numero de boletín: 6008-18 Refundido con: 6638-05,6277-18,5104-18,3731-18,3732-18,4602-18,3972-18,4745-18,3659-18,3551-18,3536-18
+Materia: Matrimonio Civil
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 01:48:13
+* * Hitos de tramitación * *
+"emmStart Hitos 6008-18","Fecha Sesión Etapa Sub-etapa Documento
+12 de Ago. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Ago. de 2008 61ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Familia Ver
+18 de May. de 2010 27ª / 358 Primer trámite constitucional / C. Diputados Segundo informe de Comisión de Familia. A COMISIÓN DE CONSTITUCIÓN. Ver
+18 de May. de 2010   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+13 de Jul. de 2010 51ª / 358 Primer trámite constitucional / C. Diputados Cuenta, Oficio de la Comisión de Familia, por el cual solicita a la Sala, que fije un plazo a la Comisión de Constitución, Legislación y Justicia respecto del informe complementario que debe emitir sobre los proyectos refundidos. Pendiente decisión de Sala Ver
+28 de Sep. de 2010   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+28 de Sep. de 2010 79ª / 358 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+29 de Sep. de 2010 80ª / 358 Primer trámite constitucional / C. Diputados Discusión particular Ver
+29 de Sep. de 2010   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+05 de Oct. de 2010 57ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+03 de Nov. de 2010   Segundo trámite constitucional / Senado Cuenta oficio N° 165 de la Corte Suprema Ver
+09 de Nov. de 2010 65ª / 358 Segundo trámite constitucional / Senado Cuenta oficio N? 165 de la Corte Suprema","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6008-18","Fecha Etapa Informe Documento
+01 de Sep. de 2010 Primer trámite constitucional C.Diputados Segundo informe de comisión de Constitución, Legislación y Justicia Ver
+18 de May. de 2010 Primer trámite constitucional C.Diputados Segundo informe de comisión de Familia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6008-18","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6008-18","Nombre Región Distrito Partido
+Guillermo Ceroni Fuentes VII Región del Maule N°40 Partido Por la Democracia
+Alvaro Escobar Rufatt RM Región Metropolitana N°20 Independientes
+Patricio Hales Dib RM Región Metropolitana N°19 Partido Por la Democracia
+Jorge Insunza Gregorio de las Heras RM Región Metropolitana N°28 Partido Por la Democracia
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+Adriana Muñoz D'Albora IV Región de Coquimbo N°9 Partido Por la Democracia
+Jaime Quintana Leal IX Región de la Araucanía N°49 Partido Por la Democracia
+María Antonieta Saa Díaz RM Región Metropolitana N°17 Partido Por la Democracia
+Gabriel Silber Romo RM Región Metropolitana N°16 Partido Demócrata Cristiano
+Carolina Tohá Morales RM Región Metropolitana N°22 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6008-18","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+104 Votación General 9 0 0 4   Familia Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6008-18","No record","Veto emmEnd"

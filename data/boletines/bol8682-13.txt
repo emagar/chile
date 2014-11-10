@@ -1,0 +1,63 @@
+* * Bill summary * *
+"emmStart Summary 8682-13","Legislatura: 360
+Fecha de ingreso: martes 13 de noviembre de 2012
+Estado: Tramitación terminada (Ley Nº 20.661 - D.Oficial 29/04/2013)
+Numero de boletín: 8682-13
+Materia: Beneficios,Trabajadores Portuarios
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 04:27:50
+* * Hitos de tramitación * *
+"emmStart Hitos 8682-13","Fecha Sesión Etapa Sub-etapa Documento
+13 de Nov. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Nov. de 2012 98ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social y a Comisión de Hacienda Ver
+14 de Nov. de 2012 99ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 357-360 que hace presente la urgencia Simple Ver
+27 de Nov. de 2012 105ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 367-360 que hace presente la urgencia Discusión inmediata Ver
+27 de Nov. de 2012   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+28 de Nov. de 2012 107ª / 360 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+28 de Nov. de 2012 108ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 379-360 que retira la urgencia Discusión inmediata Ver
+12 de Dic. de 2012   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+13 de Dic. de 2012 113ª / 360 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+19 de Dic. de 2012 116ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 408-360 que hace presente la urgencia Suma Ver
+02 de Ene. de 2013 118ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 419-360 que hace presente la urgencia Discusión inmediata Ver
+02 de Ene. de 2013 118ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+03 de Ene. de 2013   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+08 de Ene. de 2013 92ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 434-360 que retira y hace presente la urgencia Suma
+08 de Ene. de 2013 92ª / 360 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+05 de Mar. de 2013   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+05 de Mar. de 2013   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+05 de Mar. de 2013   Segundo trámite constitucional / Senado Primer informe de comisión. CERTIFICADO Ver
+05 de Mar. de 2013   Segundo trámite constitucional / Senado Primer informe de comisión. CERTIFICADO Ver
+05 de Mar. de 2013 100ª / 360 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+05 de Mar. de 2013 100ª / 360 Segundo trámite constitucional / Senado Discusión general Ver
+05 de Mar. de 2013   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+06 de Mar. de 2013 134ª / 360 Trámite finalización en Cámara de Origen / C. Diputados Trámite de finalización en Cámara de origen Ver
+06 de Mar. de 2013 134ª / 360 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+06 de Mar. de 2013   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8682-13","Fecha Etapa Informe Documento
+05 de Mar. de 2013 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+05 de Mar. de 2013 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+12 de Dic. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+27 de Nov. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8682-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+08 de Ene. de 2013   Suma 434-360  
+02 de Ene. de 2013 08 de Ene. de 2013 Discusión inmediata 419-360 434-360
+19 de Dic. de 2012   Suma 408-360  
+27 de Nov. de 2012 28 de Nov. de 2012 Discusión inmediata 367-360 379-360
+14 de Nov. de 2012   Simple 357-360  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8682-13","Nombre Región Distrito Partido
+Ministerio de Hacienda      
+Ministerio de Trabajo y Previsión Social      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8682-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+118   104 0 0 16 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8682-13","No record","Veto emmEnd"

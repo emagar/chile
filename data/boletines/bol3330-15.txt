@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 3330-15","Legislatura: 349
+Fecha de ingreso: martes 02 de septiembre de 2003
+Estado: Primer trámite constitucional .
+Numero de boletín: 3330-15
+Materia: Vehiculos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 01:35:59
+* * Hitos de tramitación * *
+"emmStart Hitos 3330-15","Fecha Sesión Etapa Sub-etapa Documento
+02 de Sep. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Sep. de 2003 35ª / 349 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3330-15","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3330-15","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+02 de Sep. de 2003   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3330-15","Nombre Región Distrito Partido
+Francisco Bayo Veloso IX Región de la Araucanía N°48 Renovación Nacional
+Germán Becker Alvear IX Región de la Araucanía N°50 Renovación Nacional
+Mario Bertolino Rendic IV Región de Coquimbo N°7 Renovación Nacional
+Roberto Delmastro Naso X Región de los Lagos N°53 Independientes
+José Antonio Galilea Vidaurre IX Región de la Araucanía N°49 Renovación Nacional
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Carlos Hidalgo González V Región de Valparaíso N°15 Independientes
+Alfonso Vargas Lyng V Región de Valparaíso N°10 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3330-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3330-15","No record","Veto emmEnd"

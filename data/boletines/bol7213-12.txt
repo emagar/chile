@@ -1,0 +1,59 @@
+* * Bill summary * *
+"emmStart Summary 7213-12","Legislatura: 358
+Fecha de ingreso: martes 14 de septiembre de 2010
+Estado: Tramitación terminada (Ley Nº 20.473 - D.Oficial 13/11/2010)
+Numero de boletín: 7213-12
+Materia: Fiscalizaciones,Medio Ambiente
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 09-11-2014 01:31:24
+* * Hitos de tramitación * *
+"emmStart Hitos 7213-12","Fecha Sesión Etapa Sub-etapa Documento
+14 de Sep. de 2010   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+14 de Sep. de 2010 52ª / 358 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Medio Ambiente y Bienes Nacionales. Se remite el proyecto a la Corte Suprema.
+14 de Sep. de 2010   Primer trámite constitucional / Senado Oficio N°752/SEC/10 a la Corte Suprema Ver
+28 de Sep. de 2010 55ª / 358 Primer trámite constitucional / Senado Cuenta del Mensaje 349-358 que hace presente la urgencia Suma
+05 de Oct. de 2010 57ª / 358 Primer trámite constitucional / Senado Cuenta oficio N° 150 de la Corte Suprema Ver
+05 de Oct. de 2010 57ª / 358 Primer trámite constitucional / Senado Cuenta del Mensaje 369-358 que retira y hace presente la urgencia Discusión inmediata
+05 de Oct. de 2010   Primer trámite constitucional / Senado Primer informe de comisión Ver
+05 de Oct. de 2010 57ª / 358 Primer trámite constitucional / Senado Discusión general Ver
+05 de Oct. de 2010   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+06 de Oct. de 2010 84ª / 358 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver
+06 de Oct. de 2010   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Oct. de 2010 87ª / 358 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+12 de Oct. de 2010 87ª / 358 Segundo trámite constitucional / C. Diputados Discusión única Ver
+12 de Oct. de 2010   Segundo trámite constitucional / C. Diputados Oficio N°9046. Oficio de Ley a Cámara de Origen Ver
+12 de Oct. de 2010 59ª / 358 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora. y Cuenta del Mensaje 381-358 que retira y hace presente la urgencia Discusión inmediata
+12 de Oct. de 2010 59ª / 358 Tercer trámite constitucional / Senado Discusión única
+12 de Oct. de 2010   Tercer trámite constitucional / Senado Oficio N° 821/SEC/10, que comunica aprobacion de modificaciones Ver
+12 de Oct. de 2010   Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo. Oficio de consulta para ejercer la facultad de veto Ver
+13 de Oct. de 2010 88ª / 358 Tercer trámite constitucional / Senado Cuenta oficio N? 821/SEC/10, que comunica aprobacion de modificaciones
+13 de Oct. de 2010   Trámite de aprobacion presidencial / Senado Oficio N°824/SEC/10 al Tribunal Constitucional Ver
+13 de Oct. de 2010 60ª / 358 Tercer trámite constitucional / Senado Cuenta Mensaje de S.E. El Presidente de la República, manifiesta que no hará uso de la facultad del artículo 73 de la Constitución Política.
+28 de Oct. de 2010   Trámite en Tribunal Constitucional / Senado Ingreso fallo del Tribunal Constitucional Ver
+02 de Nov. de 2010 63ª / 358 Trámite en Tribunal Constitucional / Senado Cuenta fallo del Tribunal Constitucional
+02 de Nov. de 2010   Trámite en Tribunal Constitucional / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7213-12","Fecha Etapa Informe Documento
+06 de Oct. de 2010 Segundo trámite constitucional C.Diputados Primer informe de comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver
+05 de Oct. de 2010 Primer trámite constitucional Senado Primer informe de comisión de Medio Ambiente y Bienes Nacionales Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7213-12","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+12 de Oct. de 2010   Discusión inmediata 381-358  
+05 de Oct. de 2010 12 de Oct. de 2010 Discusión inmediata 369-358 381-358
+28 de Sep. de 2010 05 de Oct. de 2010 Suma 349-358 369-358","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7213-12","Nombre
+CONAMA
+Ministerio de Justicia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7213-12","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+87 inciso cuarto del artículo único, conjuntamente con la indicación del diputado Guillermo Teillier para intercalar, a continuación de la expresión “La tramitación de estas causas”, la expresión “y de las acciones por daño ambiental”. 92 0 1 27 Aprobado Sala Ver detalle votación
+87   94 0 0 26 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7213-12","No record","Veto emmEnd"

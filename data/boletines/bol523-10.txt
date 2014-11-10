@@ -1,0 +1,35 @@
+* * Bill summary * *
+"emmStart Summary 523-10","Legislatura: 323
+Fecha de ingreso: miércoles 16 de octubre de 1991
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 523-10
+Materia: Acuerdos Internacionales,Límites Fronterizos,Zonas Fronterizas
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 18:57:53
+* * Hitos de tramitación * *
+"emmStart Hitos 523-10","Fecha Sesión Etapa Sub-etapa Documento
+16 de Oct. de 1991   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+16 de Oct. de 1991 4ª / 323 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+10 de Dic. de 1996 14ª / 334 Primer trámite constitucional / Senado S.E el Presidente de la república incluye el proyecto en la Convocatoria a Legislatura extraordinaria.
+06 de Oct. de 1998   Primer trámite constitucional / Senado S.E.El Presidente de la Republica incluye el proyecto en la Convocatoria Extraodinaria 339
+29 de Dic. de 1998   Tramitación terminada / Oficio Nº150-339. Mensaje de S.E. el Presidente de la República que comunica el retiro del proyecto del Congreso Nacional. Ver
+05 de Ene. de 1999 14ª / 339 Tramitación terminada / Cuenta de oficio de S.E. el Presidente de la República, comunicando retiro del proyecto. Se manda archivar. Ver
+    /  ","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 523-10","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 523-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+16 de Oct. de 1991 16 de Sep. de 1998 Sin urgencia   CADUCADO","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 523-10","Nombre
+Ministerio de Relaciones Exteriores","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 523-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 523-10","No record","Veto emmEnd"

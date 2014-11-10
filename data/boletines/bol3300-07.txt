@@ -1,0 +1,33 @@
+* * Bill summary * *
+"emmStart Summary 3300-07","Legislatura: 349
+Fecha de ingreso: miércoles 30 de julio de 2003
+Estado: Archivado .
+Numero de boletín: 3300-07
+Materia: Elecciones
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 01:17:32
+* * Hitos de tramitación * *
+"emmStart Hitos 3300-07","Fecha Sesión Etapa Sub-etapa Documento
+30 de Jul. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+30 de Jul. de 2003 21ª / 349 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+06 de Jul. de 2006   Archivado / Oficio Nº6252. Se accede al archivo Ver
+06 de Jul. de 2006   Primer trámite constitucional / C. Diputados Archivado","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3300-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3300-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+30 de Jul. de 2003   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3300-07","Nombre Región Distrito Partido
+Eugenio Tuma Zedan IX Región de la Araucanía N°51 Partido Por la Democracia
+Esteban Valenzuela Van Treek VI Región del Libertador Bernardo O' Higgins N°32 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3300-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3300-07","No record","Veto emmEnd"

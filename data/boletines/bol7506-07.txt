@@ -1,0 +1,51 @@
+* * Bill summary * *
+"emmStart Summary 7506-07","Legislatura: 358
+Fecha de ingreso: miércoles 02 de marzo de 2011
+Estado: Segundo trámite constitucional .
+Numero de boletín: 7506-07
+Materia: Código Procesal Penal,Denuncia (Derecho Procesal Penal),Denuncias
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 04:55:27
+* * Hitos de tramitación * *
+"emmStart Hitos 7506-07","Fecha Sesión Etapa Sub-etapa Documento
+02 de Mar. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Mar. de 2011 132ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+12 de May. de 2011 29ª / 359 Primer trámite constitucional / C. Diputados Oficio N°52-2011. Oficio de la Comisión Especial del Adulto Mayor, por el cual solicita el acuerdo de la Sala, para que le sea remitido el proyecto una vez despachado por la Comisión de Constitución. Aprobado Ver Ver
+07 de Sep. de 2011 80ª / 359 Primer trámite constitucional / C. Diputados Oficio de la Comisión Especial del Adulto Mayor, por el cual solicita el acuerdo de la Sala, para que le sea remitido el proyecto. Aprobado Ver
+17 de Ene. de 2012   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Ene. de 2012 133ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de Mar. de 2012 1ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+22 de Mar. de 2012   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+03 de Abr. de 2012 8ª / 360 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+10 de Abr. de 2012 12ª / 360 Primer trámite constitucional / C. Diputados Discusión particular Ver
+10 de Abr. de 2012   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7506-07","Fecha Etapa Informe Documento
+22 de Mar. de 2012 Primer trámite constitucional C.Diputados Segundo informe de comisión Especial del Adulto Mayor Ver
+17 de Ene. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión Especial del Adulto Mayor Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7506-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7506-07","Nombre Región Distrito Partido
+Joaquín Godoy Ibáñez V Región de Valparaíso N°13 Renovación Nacional
+Marta Isasi Barbieri I Región de Tarapacá N°2 Independientes
+Cristián Monckeberg Bruner RM Región Metropolitana N°23 Renovación Nacional
+Sergio Ojeda Uribe X Región de los Lagos N°55 Partido Demócrata Cristiano
+Leopoldo Pérez Lahsen RM Región Metropolitana N°29 Renovación Nacional
+Karla Rubilar Barahona RM Región Metropolitana N°17 Renovación Nacional
+Jorge Sabag Villalobos VIII Región del Bío Bío N°42 Partido Demócrata Cristiano
+Marcela Sabat Fernández RM Región Metropolitana N°21 Renovación Nacional
+Alejandro Santana Tirachini X Región de los Lagos N°58 Renovación Nacional
+Víctor Torres Jeldes V Región de Valparaíso N°15 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7506-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+12   102 0 0 0 Aprobado Sala Ver detalle votación
+1   99 0 0 21 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7506-07","No record","Veto emmEnd"

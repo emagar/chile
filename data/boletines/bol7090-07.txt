@@ -1,0 +1,29 @@
+* * Bill summary * *
+"emmStart Summary 7090-07","Legislatura: 358
+Fecha de ingreso: martes 03 de agosto de 2010
+Estado: Primer trámite constitucional .
+Numero de boletín: 7090-07
+Materia: Sistemas De Información,Funcionarios Públicos,Extraccion De Datos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 00:07:27
+* * Hitos de tramitación * *
+"emmStart Hitos 7090-07","Fecha Sesión Etapa Sub-etapa Documento
+03 de Ago. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Ago. de 2010 58ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7090-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7090-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7090-07","Nombre Región Distrito Partido
+Edmundo Eluchans Urenda V Región de Valparaíso N°14 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7090-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7090-07","No record","Veto emmEnd"

@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 4509-04","Legislatura: 354
+Fecha de ingreso: martes 12 de septiembre de 2006
+Estado: Archivado .
+Numero de boletín: 4509-04
+Materia: Proyecto Educativo,Establecimientos Educacionales
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 02:33:41
+* * Hitos de tramitación * *
+"emmStart Hitos 4509-04","Fecha Sesión Etapa Sub-etapa Documento
+12 de Sep. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Sep. de 2006 74ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+16 de May. de 2008   Archivado / Oficio Nº 353/2008. Solicitud de archivo. Ver
+20 de May. de 2008 32ª / 356 Archivado / Comisión de Educación solicita archivo de proyecto. ACORDADO.
+20 de May. de 2008   Primer trámite constitucional / C. Diputados Archivado","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4509-04","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4509-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4509-04","Nombre Región Distrito Partido
+Sergio Bobadilla Muñoz VIII Región del Bío Bío N°45 Unión Demócrata Independiente
+Gonzalo Duarte Leiva RM Región Metropolitana N°26 Partido Demócrata Cristiano
+Maximiano Errázuriz Eguiguren RM Región Metropolitana N°29 Independientes
+José Antonio Kast Rist RM Región Metropolitana N°30 Unión Demócrata Independiente
+Rosauro Martínez Labbé VIII Región del Bío Bío N°41 Renovación Nacional
+Carlos Olivares Zepeda RM Región Metropolitana N°18 Partido Regionalista Independiente
+Manuel Rojas Molina II Región de Antofagasta N°4 Unión Demócrata Independiente
+Roberto Sepúlveda Hermosilla RM Región Metropolitana N°20 Renovación Nacional
+Gabriel Silber Romo RM Región Metropolitana N°16 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4509-04","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+42 Votación General 7 0 0 6   Educación Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4509-04","No record","Veto emmEnd"

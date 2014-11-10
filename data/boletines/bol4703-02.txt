@@ -1,0 +1,53 @@
+* * Bill summary * *
+"emmStart Summary 4703-02","Legislatura: 354
+Fecha de ingreso: martes 05 de diciembre de 2006
+Estado: Tramitación terminada (Ley Nº 20.156 - D.Oficial 08/01/2007)
+Numero de boletín: 4703-02
+Materia: Planta De Oficiales De La Armada
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 06:35:35
+* * Hitos de tramitación * *
+"emmStart Hitos 4703-02","Fecha Sesión Etapa Sub-etapa Documento
+05 de Dic. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+05 de Dic. de 2006 103ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Defensa Nacional Ver
+05 de Dic. de 2006 103ª / 354 Tramitación terminada / Cuenta del Mensaje 514-354 que hace presente la urgencia Simple
+13 de Dic. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+14 de Dic. de 2006 108ª / 354 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Dic. de 2006 108ª / 354 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Dic. de 2006 108ª / 354 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+14 de Dic. de 2006   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+19 de Dic. de 2006 78ª / 354 Tramitación terminada / Cuenta del Mensaje 573-354 que retira y hace presente la urgencia Simple
+19 de Dic. de 2006 78ª / 354 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Defensa Nacional y a Comisión de Hacienda Ver
+20 de Dic. de 2006 79ª / 354 Segundo trámite constitucional / Senado Por acuerdo de la Sala, se exime al proyecto de su tramitación a la Comisión de Hacienda.
+20 de Dic. de 2006 79ª / 354 Segundo trámite constitucional / Senado Por acuerdo de la Sala, se exime al proyecto de su tramitación a la Comisión de Hacienda.
+20 de Dic. de 2006   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+20 de Dic. de 2006   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+20 de Dic. de 2006 79ª / 354 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+20 de Dic. de 2006 79ª / 354 Segundo trámite constitucional / Senado Discusión general Ver
+21 de Dic. de 2006   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+21 de Dic. de 2006 111ª / 354 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver Ver
+21 de Dic. de 2006   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4703-02","Fecha Etapa Informe Documento
+20 de Dic. de 2006 Segundo trámite constitucional Senado Primer informe de comisión de Defensa Nacional Ver
+20 de Dic. de 2006 Segundo trámite constitucional Senado Primer informe de comisión de Defensa Nacional Ver
+13 de Dic. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Defensa Nacional Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4703-02","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+19 de Dic. de 2006   Simple 573-354  
+05 de Dic. de 2006 19 de Dic. de 2006 Simple 514-354 573-354","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4703-02","Nombre Región Distrito Partido
+Ministerio de Defensa Nacional      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4703-02","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+108   87 0 0 1 Aprobado Sala Ver detalle votación
+25 Votación General 8 0 0 5   Defensa Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4703-02","No record","Veto emmEnd"

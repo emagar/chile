@@ -1,0 +1,53 @@
+* * Bill summary * *
+"emmStart Summary 2302-10","Legislatura: 339
+Fecha de ingreso: martes 02 de marzo de 1999
+Estado: Tramitación terminada (D.S. Nº 1.943 - D.Oficial 08/02/2000)
+Numero de boletín: 2302-10
+Materia: Doble Tributación
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 23:04:39
+* * Hitos de tramitación * *
+"emmStart Hitos 2302-10","Fecha Sesión Etapa Sub-etapa Documento
+02 de Mar. de 1999   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Mar. de 1999 38ª / 339 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+08 de Jun. de 1999   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+05 de Ago. de 1999   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+10 de Ago. de 1999 27ª / 340 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+10 de Ago. de 1999 27ª / 340 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+10 de Ago. de 1999   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+11 de Ago. de 1999 21ª / 340 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores y a la Comisión de Hacienda, en su caso.
+24 de Ago. de 1999   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+05 de Oct. de 1999   Segundo trámite constitucional / Senado S.E.El Presidente de la Republica incluye el proyecto en la Convocatoria Extraodinaria 341
+13 de Oct. de 1999   Segundo trámite constitucional / Senado Informe Verbal Ver
+13 de Oct. de 1999 4ª / 341 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+13 de Oct. de 1999 4ª / 341 Segundo trámite constitucional / Senado Discusión general Ver
+16 de Oct. de 1999   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen
+19 de Oct. de 1999 6ª / 341 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+20 de Oct. de 1999 7ª / 341 Tercer trámite constitucional / C. Diputados Discusión única Ver
+20 de Oct. de 1999 7ª / 341 Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+04 de Nov. de 1999 8ª / 341 Tramitación terminada / Cuenta en el Senado del oficio de la Cámara de Diputados en que se comunica la aprobación de la modificación propuesta por el Senado.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2302-10","Fecha Etapa Informe Documento
+13 de Oct. de 1999 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+24 de Ago. de 1999 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+05 de Ago. de 1999 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+08 de Jun. de 1999 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2302-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+05 de Oct. de 1999   Simple 31-341  
+14 de Sep. de 1999 05 de Oct. de 1999 Simple 254-340 31-341
+20 de Jul. de 1999 14 de Sep. de 1999 Simple 119-340 254-340
+02 de Mar. de 1999   Sin urgencia 195-339  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2302-10","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2302-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2302-10","No record","Veto emmEnd"

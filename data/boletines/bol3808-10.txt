@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 3808-10","Legislatura: 352
+Fecha de ingreso: miércoles 16 de marzo de 2005
+Estado: Tramitación terminada (DS Nº 168 - D.Oficial 28/08/2008)
+Numero de boletín: 3808-10
+Materia: Unión Postal Universal
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 17:41:29
+* * Hitos de tramitación * *
+"emmStart Hitos 3808-10","Fecha Sesión Etapa Sub-etapa Documento
+16 de Mar. de 2005 51ª / 352 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+16 de Mar. de 2005   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+19 de Abr. de 2005   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de May. de 2005 69ª / 352 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+08 de Jun. de 2005 4ª / 353 Primer trámite constitucional / C. Diputados Discusión única Ver
+08 de Jun. de 2005   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+15 de Jun. de 2005 6ª / 353 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+19 de Abr. de 2006   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+02 de May. de 2006 11ª / 354 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+03 de May. de 2006 12ª / 354 Segundo trámite constitucional / Senado Discusión general Ver
+03 de May. de 2006   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+04 de May. de 2006 20ª / 354 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver Ver
+04 de May. de 2006   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3808-10","Fecha Etapa Informe Documento
+19 de Abr. de 2006 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+19 de Abr. de 2005 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3808-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3808-10","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3808-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3808-10","No record","Veto emmEnd"

@@ -1,0 +1,51 @@
+* * Bill summary * *
+"emmStart Summary 609-14","Legislatura: 323
+Fecha de ingreso: martes 21 de enero de 1992
+Estado: Tramitación terminada (Ley Nº 19.179 - D.Oficial 26/11/1992)
+Numero de boletín: 609-14
+Materia: Ministerio De Vivienda Y Urbanismo,Ministerios
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 20:36:31
+* * Hitos de tramitación * *
+"emmStart Hitos 609-14","Fecha Sesión Etapa Sub-etapa Documento
+21 de Ene. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+29 de Ene. de 1992 50ª / 323 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+13 de Abr. de 1992   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+08 de May. de 1992   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+19 de May. de 1992 60ª / 323 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Vivienda y Urbanismo y a Comisión de Hacienda
+08 de Ago. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+18 de Ago. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+20 de Ago. de 1992 20ª / 324 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+01 de Sep. de 1992 21ª / 324 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 02/09/1992 Ver
+03 de Sep. de 1992   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+03 de Sep. de 1992   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+03 de Sep. de 1992   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+03 de Sep. de 1992   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+07 de Sep. de 1992   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+08 de Sep. de 1992 23ª / 324 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+08 de Sep. de 1992 23ª / 324 Segundo trámite constitucional / Senado Discusión particular Ver
+10 de Sep. de 1992   Tramitación terminada / Oficio Nº3542. Oficio a la Cámara de Diputados comunicándole la aprobación del proyecto, con modificaciones. Ver
+15 de Sep. de 1992 25ª / 324 Tramitación terminada / Cuenta oficio de la Cámara comunicando aprobación de enmiendas propuestas","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 609-14","Fecha Etapa Informe Documento
+07 de Sep. de 1992 Segundo trámite constitucional Senado Segundo informe de comisión de Hacienda Ver
+03 de Sep. de 1992 Segundo trámite constitucional Senado Segundo informe de comisión de Vivienda y Urbanismo Ver
+03 de Sep. de 1992 Segundo trámite constitucional Senado Segundo informe de comisión de Vivienda y Urbanismo Ver
+18 de Ago. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+08 de Ago. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Vivienda y Urbanismo Ver
+08 de May. de 1992 Primer trámite constitucional C.Diputados Segundo informe de comisión de Vivienda y Desarrollo Urbano Ver
+13 de Abr. de 1992 Primer trámite constitucional C.Diputados Primer informe de comisión de Vivienda y Desarrollo Urbano Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 609-14","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 609-14","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 609-14","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 609-14","No record","Veto emmEnd"

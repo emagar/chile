@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 6735-07","Legislatura: 357
+Fecha de ingreso: martes 27 de octubre de 2009
+Estado: Primer trámite constitucional .
+Numero de boletín: 6735-07
+Materia: Pacto De Union Civil
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 15:44:01
+* * Hitos de tramitación * *
+"emmStart Hitos 6735-07","Fecha Sesión Etapa Sub-etapa Documento
+27 de Oct. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+27 de Oct. de 2009 92ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia. Se remite el proyecto a la Corte Suprema. Ver
+28 de Oct. de 2009   Primer trámite constitucional / C. Diputados Oficio de consulta a la Corte Suprema Ver
+03 de Nov. de 2009 97ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1495-357 que hace presente la urgencia Simple Ver
+18 de Nov. de 2009 106ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1587-357 que retira la urgencia Simple Ver
+25 de Nov. de 2009 108ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1619-357 que hace presente la urgencia Simple Ver
+15 de Dic. de 2009 109ª / 357 Primer trámite constitucional / C. Diputados Cuenta oficio N° 3800 de la Corte Suprema Ver Ver
+15 de Dic. de 2009 109ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1676-357 que retira y hace presente la urgencia Simple Ver
+19 de Ene. de 2010 120ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1832-357 que retira y hace presente la urgencia Suma Ver
+20 de Ene. de 2010 121ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1878-357 que retira la urgencia Simple Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6735-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6735-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+19 de Ene. de 2010 20 de Ene. de 2010 Simple 1832-357 1878-357
+15 de Dic. de 2009 19 de Ene. de 2010 Simple 1676-357 1832-357
+25 de Nov. de 2009 15 de Dic. de 2009 Simple 1619-357 1676-357
+03 de Nov. de 2009 18 de Nov. de 2009 Simple 1495-357 1587-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6735-07","Nombre Región Distrito Partido
+Marcos Espinosa Monardes II Región de Antofagasta N°3 Partido Radical Social Demócrata
+Fulvio Rossi Ciocca I Región de Tarapacá N°2 Partido Socialista
+María Antonieta Saa Díaz RM Región Metropolitana N°17 Partido Por la Democracia
+Gabriel Silber Romo RM Región Metropolitana N°16 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6735-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6735-07","No record","Veto emmEnd"

@@ -1,0 +1,39 @@
+* * Bill summary * *
+"emmStart Summary 5570-12","Legislatura: 355
+Fecha de ingreso: martes 18 de diciembre de 2007
+Estado: Primer trámite constitucional .
+Numero de boletín: 5570-12
+Materia: Tierra De Hojas
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 06:35:02
+* * Hitos de tramitación * *
+"emmStart Hitos 5570-12","Fecha Sesión Etapa Sub-etapa Documento
+18 de Dic. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+18 de Dic. de 2007 117ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5570-12","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5570-12","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5570-12","Nombre Región Distrito Partido
+Juan Bustos Ramírez V Región de Valparaíso N°12 Partido Socialista
+Alvaro Escobar Rufatt RM Región Metropolitana N°20 Independientes
+Ramón Farías Ponce RM Región Metropolitana N°30 Partido Por la Democracia
+Guido Girardi Briere RM Región Metropolitana N°18 Partido Por la Democracia
+Juan Lobos Krause VIII Región del Bío Bío N°47 Unión Demócrata Independiente
+Marco Antonio Núñez Lozano V Región de Valparaíso N°11 Partido Por la Democracia
+Denise Pascal Allende RM Región Metropolitana N°31 Partido Socialista
+Jaime Quintana Leal IX Región de la Araucanía N°49 Partido Por la Democracia
+Roberto Sepúlveda Hermosilla RM Región Metropolitana N°20 Renovación Nacional
+Eugenio Tuma Zedan IX Región de la Araucanía N°51 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5570-12","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+62 Votación General 5 0 0 8   Recursos Naturales Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5570-12","No record","Veto emmEnd"

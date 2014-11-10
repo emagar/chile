@@ -1,0 +1,55 @@
+* * Bill summary * *
+"emmStart Summary 5097-07","Legislatura: 355
+Fecha de ingreso: miércoles 06 de junio de 2007
+Estado: Segundo trámite constitucional .
+Numero de boletín: 5097-07
+Materia: Código Penal,Inhabilitación Especial Perpetua,Inhabilitación Absoluta Temporal
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 00:38:04
+* * Hitos de tramitación * *
+"emmStart Hitos 5097-07","Fecha Sesión Etapa Sub-etapa Documento
+06 de Jun. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+26 de Jun. de 2007 31ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa Comisión de Constitución. Ver
+10 de Jul. de 2007 47ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 429-355 que hace presente la urgencia Simple Ver
+19 de Jul. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+31 de Jul. de 2007 56ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+02 de Ago. de 2007 59ª / 355 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+13 de Ago. de 2007 63ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 581-355 que retira y hace presente la urgencia Simple Ver
+13 de Sep. de 2007   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+02 de Oct. de 2007 79ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 725-355 que retira la urgencia Simple Ver
+02 de Oct. de 2007 79ª / 355 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+04 de Oct. de 2007 83ª / 355 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver
+04 de Oct. de 2007   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+09 de Oct. de 2007 56ª / 355 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento Ver
+26 de Sep. de 2008   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+14 de Oct. de 2008 60ª / 356 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+15 de Oct. de 2008 61ª / 356 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 27/10/2008 Ver
+28 de Oct. de 2008 62ª / 356 Segundo trámite constitucional / Senado La Sala acuerda un nuevo plazo para presentar indicaciones a este proyecto, hasta las 12 horas del día 3 de noviembre.
+03 de Nov. de 2008   Segundo trámite constitucional / Senado Boletín de indicaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5097-07","Fecha Etapa Informe Documento
+26 de Sep. de 2008 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+13 de Sep. de 2007 Primer trámite constitucional C.Diputados Segundo informe de comisión de Constitución, Legislación y Justicia Ver
+19 de Jun. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5097-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+13 de Ago. de 2007 02 de Oct. de 2007 Simple 581-355 725-355
+10 de Jul. de 2007 13 de Ago. de 2007 Simple 429-355 581-355","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5097-07","Nombre Región Distrito Partido
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Juan Bustos Ramírez V Región de Valparaíso N°12 Partido Socialista
+Renán Fuentealba Vildósola IV Región de Coquimbo N°9 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5097-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+59   71 21 5 0 Aprobado Sala Ver detalle votación
+83 único. 57 0 0 63 Aprobado Sala Ver detalle votación
+105 Votación General 5 0 0 8   Constitución Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5097-07","No record","Veto emmEnd"

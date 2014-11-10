@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 3219-10","Legislatura: 348
+Fecha de ingreso: martes 08 de abril de 2003
+Estado: Tramitación terminada (D.S. Nº176 - D.Oficial 03/09/2003)
+Numero de boletín: 3219-10
+Materia: Investigación Astronómica
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 00:30:17
+* * Hitos de tramitación * *
+"emmStart Hitos 3219-10","Fecha Sesión Etapa Sub-etapa Documento
+08 de Abr. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+08 de Abr. de 2003 65ª / 348 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+29 de Abr. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+06 de May. de 2003 72ª / 348 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+08 de May. de 2003 74ª / 348 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+08 de May. de 2003   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+13 de May. de 2003 49ª / 348 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+20 de May. de 2003   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+03 de Jun. de 2003 1ª / 349 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+04 de Jun. de 2003 2ª / 349 Segundo trámite constitucional / Senado A indicación del Comité UDI, queda para segunda discusión. Ver
+10 de Jun. de 2003 3ª / 349 Segundo trámite constitucional / Senado Discusión general Ver
+10 de Jun. de 2003   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+11 de Jun. de 2003   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+11 de Jun. de 2003 5ª / 349 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3219-10","Fecha Etapa Informe Documento
+20 de May. de 2003 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+29 de Abr. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3219-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3219-10","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3219-10","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+74   94 0 0 0   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3219-10","No record","Veto emmEnd"

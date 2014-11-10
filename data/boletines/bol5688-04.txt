@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 5688-04","Legislatura: 355
+Fecha de ingreso: jueves 03 de enero de 2008
+Estado: Primer trámite constitucional .
+Numero de boletín: 5688-04
+Materia: Carreras Profesionales,Orgánica Constitucional De Enseñanza
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 07-11-2014 13:06:22
+* * Hitos de tramitación * *
+"emmStart Hitos 5688-04","Fecha Sesión Etapa Sub-etapa Documento
+03 de Ene. de 2008   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+08 de Ene. de 2008 79ª / 355 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+17 de Mar. de 2008   Primer trámite constitucional / Senado Primer informe de comisión Ver
+18 de Mar. de 2008 3ª / 356 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+29 de Abr. de 2008 15ª / 356 Primer trámite constitucional / Senado Por acuerdo de Comités, ratificado por la Sala, este proyecto se retira del Orden del Día. Ver
+03 de Mar. de 2009 91ª / 356 Primer trámite constitucional / Senado Cuenta del Mensaje 1476-356 que hace presente la urgencia Simple
+07 de Abr. de 2009 7ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 129-357 que retira y hace presente la urgencia Simple
+12 de May. de 2009 16ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 341-357 que retira y hace presente la urgencia Simple
+16 de Jun. de 2009 26ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 579-357 que retira y hace presente la urgencia Simple Ver
+14 de Jul. de 2009 33ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 749-357 que retira la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5688-04","Fecha Etapa Informe Documento
+17 de Mar. de 2008 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5688-04","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+16 de Jun. de 2009 14 de Jul. de 2009 Simple 579-357 749-357
+12 de May. de 2009 15 de Jun. de 2009 Simple 341-357 579-357
+07 de Abr. de 2009 12 de May. de 2009 Simple 129-357 341-357
+03 de Mar. de 2009 07 de Abr. de 2009 Simple 1476-356 129-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5688-04","Nombre
+Ministerio de Economía, Fomento y Turism
+Ministerio de Educación","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5688-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5688-04","No record","Veto emmEnd"

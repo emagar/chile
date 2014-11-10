@@ -1,0 +1,54 @@
+* * Bill summary * *
+"emmStart Summary 1698-11","Legislatura: 331
+Fecha de ingreso: martes 12 de septiembre de 1995
+Estado: Tramitación terminada (Ley Nº 19.432 - D.Oficial 20/12/1995)
+Numero de boletín: 1698-11
+Materia: Becas
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 12:27:50
+* * Hitos de tramitación * *
+"emmStart Hitos 1698-11","Fecha Sesión Etapa Sub-etapa Documento
+12 de Sep. de 1995 37ª / 331 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver
+12 de Sep. de 1995   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Oct. de 1995   Primer trámite constitucional / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 332
+17 de Oct. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+09 de Nov. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Nov. de 1995 15ª / 332 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+09 de Nov. de 1995 15ª / 332 Primer trámite constitucional / C. Diputados Discusión general Ver
+09 de Nov. de 1995   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora
+14 de Nov. de 1995 13ª / 332 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Salud
+30 de Nov. de 1995   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+30 de Nov. de 1995   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+30 de Nov. de 1995   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+06 de Dic. de 1995   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+06 de Dic. de 1995   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+06 de Dic. de 1995   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+06 de Dic. de 1995 22ª / 332 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Dic. de 1995 23ª / 332 Segundo trámite constitucional / Senado Discusión general Ver
+12 de Dic. de 1995   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+12 de Dic. de 1995 34ª / 332 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+12 de Dic. de 1995 34ª / 332 Tercer trámite constitucional / C. Diputados Discusión única Ver
+13 de Dic. de 1995 34ª / 332 Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1698-11","Fecha Etapa Informe Documento
+06 de Dic. de 1995 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+06 de Dic. de 1995 Segundo trámite constitucional Senado Primer informe de comisión de Salud Ver
+30 de Nov. de 1995 Segundo trámite constitucional Senado Primer informe de comisión de Salud Ver
+30 de Nov. de 1995 Segundo trámite constitucional Senado Primer informe de comisión de Economía Ver
+09 de Nov. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+17 de Oct. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Salud Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1698-11","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+12 de Sep. de 1995   Suma 397-331  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1698-11","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1698-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1698-11","No record","Veto emmEnd"

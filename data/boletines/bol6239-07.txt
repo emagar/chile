@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 6239-07","Legislatura: 356
+Fecha de ingreso: jueves 04 de diciembre de 2008
+Estado: Archivado .
+Numero de boletín: 6239-07
+Materia: Constitucion 1980,Elección Presidencial
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 04:28:54
+* * Hitos de tramitación * *
+"emmStart Hitos 6239-07","Fecha Sesión Etapa Sub-etapa Documento
+04 de Dic. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Dic. de 2008 112ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+09 de Dic. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de Dic. de 2008 118ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Constitución. EN ESTADO DE TABLA. Ver
+15 de Oct. de 2014 81ª / 362 Primer trámite constitucional / C. Diputados Archivado . Cuenta oficio de la Comisión de Régimen Interno, Administración y Reglamento, por el cual informa que, de conformidad con lo establecido en el inciso segundo del artículo 18 del Reglamento, ha acordado remitir al archivo el proyecto.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6239-07","Fecha Etapa Informe Documento
+09 de Dic. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6239-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6239-07","Nombre Región Distrito Partido
+Mario Bertolino Rendic IV Región de Coquimbo N°7 Renovación Nacional
+Guillermo Ceroni Fuentes VII Región del Maule N°40 Partido Por la Democracia
+Francisco Chahuán Chahuán V Región de Valparaíso N°14 Renovación Nacional
+Edmundo Eluchans Urenda V Región de Valparaíso N°15 Unión Demócrata Independiente
+Maximiano Errázuriz Eguiguren RM Región Metropolitana N°29 Independientes
+Cristián Monckeberg Bruner RM Región Metropolitana N°23 Renovación Nacional
+María Antonieta Saa Díaz RM Región Metropolitana N°17 Partido Por la Democracia
+Marisol Turres Figueroa X Región de los Lagos N°57 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6239-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+193 Votación General 5 1 2 5   Constitución Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6239-07","No record","Veto emmEnd"

@@ -1,0 +1,31 @@
+* * Bill summary * *
+"emmStart Summary 5312-13","Legislatura: 355
+Fecha de ingreso: martes 04 de septiembre de 2007
+Estado: Primer trámite constitucional .
+Numero de boletín: 5312-13
+Materia: Empresas
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 07-11-2014 03:08:39
+* * Hitos de tramitación * *
+"emmStart Hitos 5312-13","Fecha Sesión Etapa Sub-etapa Documento
+04 de Sep. de 2007   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+05 de Sep. de 2007 49ª / 355 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5312-13","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5312-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5312-13","Nombre
+Camilo Escalona Medina
+Juan Pablo Letelier Morel
+Pedro Muñoz Aburto","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5312-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5312-13","No record","Veto emmEnd"

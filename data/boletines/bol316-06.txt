@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 316-06","Legislatura: 321
+Fecha de ingreso: miércoles 03 de abril de 1991
+Estado: Tramitación terminada (Ley Nº 19.123 - D.Oficial 08/02/1992)
+Numero de boletín: 316-06
+Materia: Derechos Humanos
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 15:19:32
+* * Hitos de tramitación * *
+"emmStart Hitos 316-06","Fecha Sesión Etapa Sub-etapa Documento
+03 de Abr. de 1991 41ª / 321 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+03 de Abr. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Ago. de 1991   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+29 de Oct. de 1991 8ª / 323 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía y a Comisión de Hacienda
+20 de Ene. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+21 de Ene. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+23 de Ene. de 1992   Segundo trámite constitucional / Senado Segundo informe de comisión. (Se da cuenta del mismo durante la discusión del proyecto) Ver
+23 de Ene. de 1992 38ª / 323 Segundo trámite constitucional / Senado Discusión general Ver
+27 de Ene. de 1992   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 316-06","Fecha Etapa Informe Documento
+23 de Ene. de 1992 Segundo trámite constitucional Senado Segundo informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+21 de Ene. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+20 de Ene. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+13 de Ago. de 1991 Primer trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 316-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+03 de Abr. de 1991   Simple    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 316-06","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 316-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 316-06","No record","Veto emmEnd"

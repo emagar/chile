@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 8706-05","Legislatura: 360
+Fecha de ingreso: martes 27 de noviembre de 2012
+Estado: Tramitación terminada (Ley Nº 20.642 - D.Oficial 11/12/2012)
+Numero de boletín: 8706-05
+Materia: Reajuste De Remuneraciones Sector Público
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 04:45:44
+* * Hitos de tramitación * *
+"emmStart Hitos 8706-05","Fecha Sesión Etapa Sub-etapa Documento
+27 de Nov. de 2012 105ª / 360 Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver Ver
+27 de Nov. de 2012 105ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+27 de Nov. de 2012 105ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 372-360 que hace presente la urgencia Discusión inmediata Ver
+27 de Nov. de 2012 106ª / 360 Primer trámite constitucional / C. Diputados Primer informe de comisión Ver Ver
+27 de Nov. de 2012 106ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+27 de Nov. de 2012   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+28 de Nov. de 2012   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+28 de Nov. de 2012 79ª / 360 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+28 de Nov. de 2012 79ª / 360 Segundo trámite constitucional / Senado Discusión general Ver
+28 de Nov. de 2012   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+28 de Nov. de 2012 108ª / 360 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+28 de Nov. de 2012 108ª / 360 Tercer trámite constitucional / C. Diputados Discusión única Ver
+29 de Nov. de 2012   Tercer trámite constitucional / C. Diputados Oficio N° 10496, que comunica aprobacion de modificaciones Ver
+29 de Nov. de 2012   Tercer trámite constitucional / C. Diputados Oficio N° 10497. Oficio de ley al Ejecutivo, para promulgación del proyecto Ver
+11 de Dic. de 2012 82ª / 360 Tercer trámite constitucional / C. Diputados Cuenta oficio N? 10496, que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8706-05","Fecha Etapa Informe Documento
+28 de Nov. de 2012 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+27 de Nov. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8706-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+27 de Nov. de 2012   Discusión inmediata 372-360  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8706-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      
+Ministerio de Trabajo y Previsión Social      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8706-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+106 Con la salvedad del artículo 34 98 0 1 21 Aprobado Sala Ver detalle votación
+106 Artículo 34 57 28 4 31 Rechazado Sala Ver detalle votación
+223 Votación General 12 0 1 0   Hacienda Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8706-05","No record","Veto emmEnd"

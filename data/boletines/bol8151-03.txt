@@ -1,0 +1,32 @@
+* * Bill summary * *
+"emmStart Summary 8151-03","Legislatura: 359
+Fecha de ingreso: miércoles 18 de enero de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8151-03
+Materia: Proveedores De Bienes Y Servicios
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 22:05:18
+* * Hitos de tramitación * *
+"emmStart Hitos 8151-03","Fecha Sesión Etapa Sub-etapa Documento
+18 de Ene. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+18 de Ene. de 2012 135ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8151-03","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8151-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8151-03","Nombre Región Distrito Partido
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Fuad Chahín Valenzuela IX Región de la Araucanía N°49 Partido Demócrata Cristiano
+Víctor Torres Jeldes V Región de Valparaíso N°15 Partido Demócrata Cristiano
+Matías Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8151-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8151-03","No record","Veto emmEnd"

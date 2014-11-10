@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 26-07","Legislatura: 319
+Fecha de ingreso: martes 17 de abril de 1990
+Estado: Tramitación terminada (Ley Nº 18.978 - D.Oficial 14/05/1990)
+Numero de boletín: 26-07
+Materia: Indulto
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 30-10-2014 15:41:23
+* * Hitos de tramitación * *
+"emmStart Hitos 26-07","Fecha Sesión Etapa Sub-etapa Documento
+17 de Abr. de 1990   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+17 de Abr. de 1990   Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+18 de Abr. de 1990   Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+18 de Abr. de 1990   Primer trámite constitucional / Senado Primer informe de comisión Ver
+18 de Abr. de 1990   Tramitación terminada / Oficio Nº85. Oficio a la Cámara de Diputados (Revisora) comunicando el proyecto que ha despachado. Ver
+23 de Abr. de 1990   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+23 de Abr. de 1990   Primer trámite constitucional / Senado Discusión general
+24 de Abr. de 1990 11ª / 319 Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver Ver
+24 de Abr. de 1990 11ª / 319 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+24 de Abr. de 1990 11ª / 319 Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver Ver
+25 de Abr. de 1990 12ª / 319 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+25 de Abr. de 1990 12ª / 319 Segundo trámite constitucional / C. Diputados Discusión general Ver
+26 de Abr. de 1990 12ª / 319 Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver Ver
+02 de May. de 1990 10ª / 319 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+02 de May. de 1990 10ª / 319 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+    Trámite de aprobacion presidencial / Senado Ingreso de observaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 26-07","Fecha Etapa Informe Documento
+25 de Abr. de 1990 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+24 de Abr. de 1990 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+18 de Abr. de 1990 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 26-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 26-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 26-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 26-07","No record","Veto emmEnd"

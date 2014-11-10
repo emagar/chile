@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 1769-10","Legislatura: 332
+Fecha de ingreso: miércoles 13 de diciembre de 1995
+Estado: Tramitación terminada (D.S. Nº 1.317 - D.Oficial 03/11/1998)
+Numero de boletín: 1769-10
+Materia: Traslado De Personas Condenadas
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 14:18:30
+* * Hitos de tramitación * *
+"emmStart Hitos 1769-10","Fecha Sesión Etapa Sub-etapa Documento
+13 de Dic. de 1995   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+13 de Dic. de 1995 24ª / 332 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+16 de Ene. de 1996 29ª / 332 Primer trámite constitucional / Senado S.E el Presidente de la República incluye proyecto en convocatoria a Legislatura Extraordinaria
+08 de May. de 1996   Primer trámite constitucional / Senado Por Acuerdo de Sala Queda sin efecto trámite de Comisión de Hacienda.
+08 de May. de 1996   Primer trámite constitucional / Senado Primer informe de comisión Ver
+08 de May. de 1996 57ª / 332 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+22 de May. de 1996 2ª / 333 Primer trámite constitucional / Senado Discusión general Ver
+22 de May. de 1996   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+04 de Jun. de 1996 3ª / 333 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+14 de Abr. de 1998 10ª / 337 Segundo trámite constitucional / C. Diputados S.E. el Pdte. de la Rep. incluye el proyecto en la legisl. extraord. 337 (Mensaje 35-337). Ver
+12 de May. de 1998   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+19 de May. de 1998 23ª / 337 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+20 de May. de 1998 25ª / 337 Segundo trámite constitucional / C. Diputados Discusión general Ver
+20 de May. de 1998   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+02 de Jun. de 1998 1ª / 338 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+03 de Jun. de 1998   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1769-10","Fecha Etapa Informe Documento
+12 de May. de 1998 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+08 de May. de 1996 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1769-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+12 de May. de 1998 16 de Sep. de 1998 Simple 74-337 CADUCADO
+21 de Abr. de 1998 12 de May. de 1998 Simple 50-337 74-337
+13 de Dic. de 1995 21 de May. de 1996 Sin urgencia   CADUCADO","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1769-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1769-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1769-10","No record","Veto emmEnd"

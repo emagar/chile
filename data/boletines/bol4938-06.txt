@@ -1,0 +1,52 @@
+* * Bill summary * *
+"emmStart Summary 4938-06","Legislatura: 355
+Fecha de ingreso: martes 03 de abril de 2007
+Estado: Segundo trámite constitucional .
+Numero de boletín: 4938-06
+Materia: Designación De Regiones
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 22:47:37
+* * Hitos de tramitación * *
+"emmStart Hitos 4938-06","Fecha Sesión Etapa Sub-etapa Documento
+03 de Abr. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Abr. de 2007 8ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+11 de Abr. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Abr. de 2007 14ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. Primer informe de la Comisiónd e Gobierno Interior. Ver
+02 de May. de 2007 19ª / 355 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+09 de May. de 2007   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+09 de May. de 2007 24ª / 355 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+09 de May. de 2007 24ª / 355 Primer trámite constitucional / C. Diputados Segundo informe de la Comisión de Gobierno Interior. Ver
+05 de Jun. de 2007 30ª / 355 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver
+06 de Jun. de 2007   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+06 de Jun. de 2007 22ª / 355 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización Ver
+11 de May. de 2010 16ª / 358 Segundo trámite constitucional / Senado Cuenta Oficio Cámara de Diputados a solicitud para proceder al archivo de la iniciativa. NO HAY ACUERDO","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4938-06","Fecha Etapa Informe Documento
+09 de May. de 2007 Primer trámite constitucional C.Diputados Segundo informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver
+11 de Abr. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4938-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4938-06","Nombre Región Distrito Partido
+Eugenio Bauer Jouanne VI Región del Libertador Bernardo O' Higgins N°33 Unión Demócrata Independiente
+Alfonso De Urresti Longton XIV Región de los Ríos N°53 Partido Socialista
+Gonzalo Duarte Leiva RM Región Metropolitana N°26 Partido Demócrata Cristiano
+Alvaro Escobar Rufatt RM Región Metropolitana N°20 Independientes
+Ramón Farías Ponce RM Región Metropolitana N°30 Partido Por la Democracia
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Sergio Ojeda Uribe X Región de los Lagos N°55 Partido Demócrata Cristiano
+Manuel Rojas Molina II Región de Antofagasta N°4 Unión Demócrata Independiente
+Felipe Ward Edwards II Región de Antofagasta N°3 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4938-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+19   97 2 1 0 Aprobado Sala Ver detalle votación
+30 Texto contenido en el segundo informe. 89 0 3 28 Aprobado Sala Ver detalle votación
+36 Votación General 9 0 2 2   Gobierno Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4938-06","No record","Veto emmEnd"

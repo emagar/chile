@@ -1,0 +1,62 @@
+* * Bill summary * *
+"emmStart Summary 8772-05","Legislatura: 360
+Fecha de ingreso: martes 08 de enero de 2013
+Estado: Tramitación terminada (Ley Nº 20.658 - D.Oficial 31/01/2013)
+Numero de boletín: 8772-05
+Materia: Empresas De Transporte De Carga,Impuesto Específico Al Petróleo
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 05:33:39
+* * Hitos de tramitación * *
+"emmStart Hitos 8772-05","Fecha Sesión Etapa Sub-etapa Documento
+08 de Ene. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+08 de Ene. de 2013 121ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+08 de Ene. de 2013 121ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 429-360 que hace presente la urgencia Discusión inmediata Ver
+09 de Ene. de 2013   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+10 de Ene. de 2013 124ª / 360 Primer trámite constitucional / C. Diputados Cuenta. Primer informe de la Comisión de Hacienda recaído en el proyecto. Ver
+10 de Ene. de 2013 124ª / 360 Primer trámite constitucional / C. Diputados Discusión única Ver
+10 de Ene. de 2013   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+15 de Ene. de 2013 94ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 441-360 que retira y hace presente la urgencia Discusión Inmediata Ver
+15 de Ene. de 2013 94ª / 360 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+16 de Ene. de 2013   Segundo trámite constitucional / Senado Primer informe de comisión. Certificado Ver
+16 de Ene. de 2013   Segundo trámite constitucional / Senado Primer informe de comisión. Certificado Ver
+16 de Ene. de 2013 96ª / 360 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+16 de Ene. de 2013   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+16 de Ene. de 2013   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+16 de Ene. de 2013 96ª / 360 Segundo trámite constitucional / Senado Discusión general Ver
+22 de Ene. de 2013 97ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 455-360 que retira la urgencia Discusión inmediata Ver
+22 de Ene. de 2013 97ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 458-360 que hace presente la urgencia Discusión inmediata Ver
+23 de Ene. de 2013 99ª / 360 Segundo trámite constitucional / Senado Discusión general Ver
+23 de Ene. de 2013   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+24 de Ene. de 2013 132ª / 360 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+24 de Ene. de 2013 132ª / 360 Tercer trámite constitucional / C. Diputados Discusión única Ver
+24 de Ene. de 2013   Tercer trámite constitucional / C. Diputados Oficio N° 10592, que comunica aprobacion de modificaciones Ver
+24 de Ene. de 2013   Trámite finalización en Cámara de Origen / C. Diputados Oficio N° 10593, Oficio de ley al Ejecutivo Ver
+05 de Mar. de 2013 100ª / 360 Tercer trámite constitucional / C. Diputados Cuenta oficio N° 10592, que comunica aprobacion de modificaciones Ver
+05 de Mar. de 2013 100ª / 360 Tercer trámite constitucional / C. Diputados Cuenta oficio N° 10593, que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8772-05","Fecha Etapa Informe Documento
+16 de Ene. de 2013 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+15 de Ene. de 2013 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+09 de Ene. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8772-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+22 de Ene. de 2013   Discusión inmediata 458-360  
+15 de Ene. de 2013 17 de Ene. de 2013 Discusión inmediata 441-360 455-360
+08 de Ene. de 2013 15 de Ene. de 2013 Discusión inmediata 429-360 441-360","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8772-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      
+Ministerio de Transporte y Telecomunicaciones      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8772-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+124   69 0 1 50 Aprobado Sala Ver detalle votación
+132   64 0 0 56 Aprobado Sala Ver detalle votación
+236 Votación General 6 0 2 5   Hacienda Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8772-05","No record","Veto emmEnd"

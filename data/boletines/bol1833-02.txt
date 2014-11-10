@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 1833-02","Legislatura: 332
+Fecha de ingreso: jueves 11 de abril de 1996
+Estado: Archivado .
+Numero de boletín: 1833-02
+Materia: Direccion General De Movilización Nacional,Objeción De Conciencia
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 15:18:58
+* * Hitos de tramitación * *
+"emmStart Hitos 1833-02","Fecha Sesión Etapa Sub-etapa Documento
+11 de Abr. de 1996   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+11 de Abr. de 1996 64ª / 332 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Defensa Nacional Ver
+11 de Abr. de 1996   Primer trámite constitucional / C. Diputados Oficio 1041 a la Comisión de defensa Comunica de acuerdo de remitir proy. a com. de DD.HH. después de ser informado por esa comisión.
+11 de Abr. de 1996   Primer trámite constitucional / C. Diputados Oficio 1942 a la comisión de DD.HH.. Comunica acuerdo de remitir proy, a esa Com. depués de informado por Com. Defensa
+12 de May. de 1999   Primer trámite constitucional / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 339
+05 de Oct. de 1999   Primer trámite constitucional / C. Diputados S.E.El Presidente de la Republica incluye el proyecto en la Convocatoria Extraodinaria 341
+13 de Jul. de 2004   Primer trámite constitucional / C. Diputados Oficio Nº029-04. Solicita archivar el proyecto Ver
+14 de Jul. de 2004 15ª / 351 Primer trámite constitucional / C. Diputados Cuenta Oficio Comisión de defensa, solicita archivo de proyecto. Se accede a archivo solicitado. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1833-02","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1833-02","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+09 de Nov. de 1999 14 de Dic. de 1999 Simple 168-341 235-341
+06 de Oct. de 1999 09 de Nov. de 1999 Simple 46-341 168-341","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1833-02","Nombre Región Distrito Partido
+Armando Arancibia Calderon Región N°6 Partido Socialista
+Gabriel Ascencio Mansilla Región N° Partido Demócrata Cristiano
+Guillermo Ceroni Fuentes Región N° Partido Por la Democracia
+Camilo Escalona Medina Región N°27 Partido Socialista
+Juan Pablo Letelier Morel Región N°33 Partido Socialista
+Jaime Naranjo Ortíz Región N°39 Partido Socialista
+Andrés Palma Irarrázabal Región N°25 Partido Demócrata Cristiano
+Exequiel Silva Ortíz Región N° Partido Demócrata Cristiano
+Salvador Urrutia Cárdenas Región N° Partido Por la Democracia
+José Antonio Viera-Gallo Quesney Región N°44 Partido Socialista","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1833-02","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1833-02","No record","Veto emmEnd"

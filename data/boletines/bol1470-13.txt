@@ -1,0 +1,61 @@
+* * Bill summary * *
+"emmStart Summary 1470-13","Legislatura: 330
+Fecha de ingreso: jueves 15 de diciembre de 1994
+Estado: Tramitación terminada (Ley Nº 19.684 - D.Oficial 03/07/2000)
+Numero de boletín: 1470-13
+Materia: Menores
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 09:30:24
+* * Hitos de tramitación * *
+"emmStart Hitos 1470-13","Fecha Sesión Etapa Sub-etapa Documento
+15 de Dic. de 1994   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+15 de Dic. de 1994 26ª / 330 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+13 de Dic. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de Ene. de 1996 37ª / 332 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+19 de Mar. de 1996 55ª / 332 Primer trámite constitucional / C. Diputados Discusión general Ver
+07 de May. de 1996   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+09 de May. de 1996 72ª / 332 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+04 de Jun. de 1996 3ª / 333 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver
+04 de Jun. de 1996   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+05 de Jun. de 1996 4ª / 333 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social
+02 de May. de 2000 32ª / 341 Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 341
+16 de May. de 2000   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+16 de May. de 2000 36ª / 341 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+16 de May. de 2000 36ª / 341 Segundo trámite constitucional / Senado Discusión general Ver
+17 de May. de 2000   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+06 de Jun. de 2000 1ª / 342 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+08 de Jun. de 2000 3ª / 342 Tercer trámite constitucional / C. Diputados Discusión única Ver
+08 de Jun. de 2000   Tercer trámite constitucional / C. Diputados Oficio Nº 2884, que comunica aprobación de modificaciones Ver
+08 de Jun. de 2000   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+13 de Jun. de 2000 3ª / 342 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 2884, que comunica aprobación de modificaciones Ver
+13 de Jun. de 2000 3ª / 342 Trámite finalización en Cámara de Origen / C. Diputados Cuenta en el Senado de Oficio de Cámara de Diputados, comunica aprobación modificaciones. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1470-13","Fecha Etapa Informe Documento
+16 de May. de 2000 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver
+07 de May. de 1996 Primer trámite constitucional C.Diputados Segundo informe de comisión de Trabajo y Seguridad Social Ver
+13 de Dic. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1470-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1470-13","Nombre Región Distrito Partido
+Isabel Allende Bussi Región N° Partido Socialista
+Mariana Aylwin Oyarzún Región N° Partido Demócrata Cristiano
+Sergio Elgueta Barrientos Región N°57 Partido Demócrata Cristiano
+Angel Fantuzzi Hernandez Región N°20 Renovación Nacional
+Roberto León Ramírez Región N° Partido Demócrata Cristiano
+José Miguel Ortiz Novoa Región N°44 Partido Demócrata Cristiano
+Fanny Pollarolo Villa Región N° Partido Socialista
+Marina Prochelle Aguilar Región N°55 Renovación Nacional
+Víctor Reyes Alvarado Región N°56 Partido Demócrata Cristiano
+Jaime Rocha Manrique Región N°46 Partido Radical Social Demócrata
+Rodolfo Seguel Molina Región N°28 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1470-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1470-13","No record","Veto emmEnd"

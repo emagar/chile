@@ -1,0 +1,53 @@
+* * Bill summary * *
+"emmStart Summary 1864-10","Legislatura: 333
+Fecha de ingreso: martes 04 de junio de 1996
+Estado: Tramitación terminada (D.S. Nº 649 - D.Oficial 29/07/2000)
+Numero de boletín: 1864-10
+Materia: Organización Internacional Del Trabajo
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 15:42:05
+* * Hitos de tramitación * *
+"emmStart Hitos 1864-10","Fecha Sesión Etapa Sub-etapa Documento
+04 de Jun. de 1996   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Jun. de 1996 3ª / 333 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+02 de Jul. de 1996   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+16 de Jul. de 1996   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+06 de Ago. de 1996 23ª / 333 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+27 de Ago. de 1996 29ª / 333 Primer trámite constitucional / C. Diputados Pendiente su discusión. Intervienen los Dip. Gajardo (inf. Com. RR.EE y Trabajo), Paya, Seguel. Ver Ver
+03 de Sep. de 1996 32ª / 333 Primer trámite constitucional / C. Diputados Cerrado el debate, votación pendiente. Ver Ver
+01 de Oct. de 1996 1ª / 334 Primer trámite constitucional / C. Diputados S.E. el Pdte. de la Rep. incluye el proyecto en la legisl. extraord. 334 (Mensaje 1-334). Ver Ver
+19 de Dic. de 1996 32ª / 334 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+19 de Dic. de 1996   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+26 de Dic. de 1996 19ª / 334 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+15 de May. de 1997 51ª / 334 Segundo trámite constitucional / Senado Se acuerda enviarlo a la Comisión de Trabajo y Previsión Social, sin perjuicio de su informe posterior `por la Comisión de Relaciones Exteriores. Ver
+15 de Jul. de 1998 14ª / 338 Segundo trámite constitucional / Senado A proposición de la Comisión de Trabajo y Previsión Social, la Sala acuerda enviarlo a Comisiones de Relaciones Exteriores y de Trabajo y Previsión Social, unidas. Ver
+06 de Oct. de 1998   Segundo trámite constitucional / Senado S.E.El Presidente de la Republica incluye el proyecto en la Convocatoria Extraodinaria 339
+27 de Abr. de 1999   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+07 de Jul. de 1999 12ª / 340 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+20 de Jul. de 1999 16ª / 340 Segundo trámite constitucional / Senado Discusión general Ver
+21 de Jul. de 1999   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+21 de Jul. de 1999 22ª / 340 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+21 de Jul. de 1999   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1864-10","Fecha Etapa Informe Documento
+27 de Abr. de 1999 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores y de Trabajo y Previsión Social, unidas Ver
+16 de Jul. de 1996 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver
+02 de Jul. de 1996 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1864-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+13 de Jul. de 1999   Simple 105-340  
+04 de Jun. de 1996 16 de Sep. de 1998 Sin urgencia 004-333 CADUCADO","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1864-10","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      
+Ministerio de Trabajo y Previsión Social      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1864-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1864-10","No record","Veto emmEnd"

@@ -1,0 +1,67 @@
+* * Bill summary * *
+"emmStart Summary 7029-15","Legislatura: 358
+Fecha de ingreso: miércoles 30 de junio de 2010
+Estado: Tramitación terminada (Ley Nº 20.478 - D.Oficial 10/12/2010)
+Numero de boletín: 7029-15
+Materia: Sistema Público De Telecomunicaciones
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 08-11-2014 23:26:27
+* * Hitos de tramitación * *
+"emmStart Hitos 7029-15","Fecha Sesión Etapa Sub-etapa Documento
+30 de Jun. de 2010   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+30 de Jun. de 2010 31ª / 358 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones
+06 de Jul. de 2010 32ª / 358 Primer trámite constitucional / Senado Cuenta del Mensaje 194-358 que hace presente la urgencia Simple
+22 de Jul. de 2010   Primer trámite constitucional / Senado Primer informe de comisión Ver
+27 de Jul. de 2010 36ª / 358 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+28 de Jul. de 2010 37ª / 358 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 09/08/2010 Ver
+09 de Ago. de 2010   Primer trámite constitucional / Senado Boletín de indicaciones
+10 de Ago. de 2010 41ª / 358 Primer trámite constitucional / Senado Cuenta del Mensaje 246-358 que retira y hace presente la urgencia Simple
+18 de Ago. de 2010   Primer trámite constitucional / Senado Oficio N° 53/TT/2010 a la Corte Suprema Ver
+27 de Ago. de 2010   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+31 de Ago. de 2010 45ª / 358 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+31 de Ago. de 2010   Primer trámite constitucional / Senado Cuenta oficio N° 121 de la Corte Suprema Ver
+01 de Sep. de 2010 46ª / 358 Primer trámite constitucional / Senado Discusión particular Ver
+01 de Sep. de 2010   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+02 de Sep. de 2010 70ª / 358 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+14 de Sep. de 2010 75ª / 358 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 306-358 que retira y hace presente la urgencia Simple Ver
+14 de Oct. de 2010 89ª / 358 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 399-358 que retira y hace presente la urgencia Simple Ver
+02 de Nov. de 2010   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de Nov. de 2010 94ª / 358 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+04 de Nov. de 2010 96ª / 358 Segundo trámite constitucional / C. Diputados Discusión general Ver
+04 de Nov. de 2010   Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver
+09 de Nov. de 2010 65ª / 358 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora. Pasa a Comisión de Transportes y Telecomunicaciones
+10 de Nov. de 2010 66ª / 358 Tercer trámite constitucional / Senado Cuenta del Mensaje 476-358 que retira y hace presente la urgencia Simple
+11 de Nov. de 2010   Tercer trámite constitucional / Senado Informe de comisión Ver
+16 de Nov. de 2010 68ª / 358 Tercer trámite constitucional / Senado Cuenta informe de comisión
+17 de Nov. de 2010 69ª / 358 Tercer trámite constitucional / Senado Discusión única
+17 de Nov. de 2010   Tercer trámite constitucional / Senado Oficio N° 997/SEC/10, que comunica aprobacion de modificaciones Ver
+22 de Nov. de 2010   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+30 de Nov. de 2010 104ª / 358 Tercer trámite constitucional / Senado Cuenta oficio Nº 997/SEC/10, que comunica aprobacion de modificaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7029-15","Fecha Etapa Informe Documento
+11 de Nov. de 2010 Tercer trámite constitucional Senado Informe de comisión de Transportes y Telecomunicaciones Ver
+02 de Nov. de 2010 Segundo trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+27 de Ago. de 2010 Primer trámite constitucional Senado Segundo informe de comisión de Transportes y Telecomunicaciones Ver
+22 de Jul. de 2010 Primer trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7029-15","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+10 de Nov. de 2010   Simple 476-358  
+14 de Oct. de 2010 10 de Nov. de 2010 Simple 399-358 476-358
+14 de Sep. de 2010 14 de Oct. de 2010 Simple 306-358 399-358
+10 de Ago. de 2010 14 de Sep. de 2010 Simple 246-358 306-358
+06 de Jul. de 2010 10 de Ago. de 2010 Simple 194-358 246-358","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7029-15","Nombre
+Ministerio de Interior y Seguridad Públi
+Ministerio de Transporte y Telecomunicaciones","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7029-15","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+96   74 0 0 1 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7029-15","No record","Veto emmEnd"

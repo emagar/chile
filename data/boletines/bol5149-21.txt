@@ -1,0 +1,39 @@
+* * Bill summary * *
+"emmStart Summary 5149-21","Legislatura: 355
+Fecha de ingreso: miércoles 20 de junio de 2007
+Estado: Archivado .
+Numero de boletín: 5149-21
+Materia: Actividad Pesquera,Límites Fronterizos,Zonas Fronterizas
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 01:13:02
+* * Hitos de tramitación * *
+"emmStart Hitos 5149-21","Fecha Sesión Etapa Sub-etapa Documento
+20 de Jun. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de Jun. de 2007 39ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Pesca, Acuicultura e Intereses Marítimos Ver
+21 de Jun. de 2007 43ª / 355 Primer trámite constitucional / C. Diputados Diputado señor De Urresti comunica que retira su firma del proyecto. Ver
+06 de Sep. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Sep. de 2007 76ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Abr. de 2010   Primer trámite constitucional / C. Diputados Archivado Solicitado por Comités Parlamentarios","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5149-21","Fecha Etapa Informe Documento
+06 de Sep. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de Pesca, Acuicultura e Intereses Marítimos Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5149-21","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5149-21","Nombre Región Distrito Partido
+Marta Isasi Barbieri I Región de Tarapacá N°2 Independientes
+Roberto León Ramírez VII Región del Maule N°36 Partido Demócrata Cristiano
+Fulvio Rossi Ciocca I Región de Tarapacá N°2 Partido Socialista
+Alejandro Sule Fernández VI Región del Libertador Bernardo O' Higgins N°33 Partido Radical Social Demócrata
+Carolina Tohá Morales RM Región Metropolitana N°22 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5149-21","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+50 Votación General 0 7 0 6   Pesca y Acuicultura Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5149-21","No record","Veto emmEnd"

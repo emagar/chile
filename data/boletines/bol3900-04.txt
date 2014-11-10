@@ -1,0 +1,57 @@
+* * Bill summary * *
+"emmStart Summary 3900-04","Legislatura: 353
+Fecha de ingreso: miércoles 22 de junio de 2005
+Estado: Segundo trámite constitucional .
+Numero de boletín: 3900-04
+Materia: Consejo Nacional De La Cultura Y De Las Artes ,Premios Nacionales
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 05:15:36
+* * Hitos de tramitación * *
+"emmStart Hitos 3900-04","Fecha Sesión Etapa Sub-etapa Documento
+22 de Jun. de 2005 9ª / 353 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+22 de Jun. de 2005   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+09 de Ago. de 2006 60ª / 354 Primer trámite constitucional / C. Diputados Comisión de la Cultura y las Artes solicita remisión del proyecto. Pendiente. Ver
+10 de Ago. de 2006 62ª / 354 Primer trámite constitucional / C. Diputados Se acuerda enviarlo a la Comisión de la Cultura y las Artes. Ver
+10 de Ago. de 2006 36ª / 357 Primer trámite constitucional / C. Diputados Derivado a Comisión Especial de la Cultura y las Artes Ver
+11 de Oct. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de Oct. de 2007 92ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. Especial de la Cultura y de las Artes. EN ESTADO DE TABLA. Ver
+31 de Jul. de 2008 56ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+15 de May. de 2009   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+20 de May. de 2009 33ª / 357 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión. de la Cultura y de las Artes. Ver
+04 de Jun. de 2009 36ª / 357 Primer trámite constitucional / C. Diputados Se solicita informe complementario Ver
+18 de Jun. de 2009   Primer trámite constitucional / C. Diputados Nuevo segundo informe de comisión Ver
+30 de Jun. de 2009 45ª / 357 Primer trámite constitucional / C. Diputados Cuenta nuevo segundo informe Ver
+09 de Jul. de 2009 51ª / 357 Primer trámite constitucional / C. Diputados Discusión particular Ver
+09 de Jul. de 2009   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+14 de Jul. de 2009 33ª / 357 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+05 de Ago. de 2009 39ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 874-357 que hace presente la urgencia Simple
+08 de Sep. de 2009 46ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1079-357 que retira y hace presente la urgencia Simple
+29 de Sep. de 2009 52ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1214-357 que retira la urgencia Simple
+29 de Sep. de 2009 52ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1214-357 que retira la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3900-04","Fecha Etapa Informe Documento
+18 de Jun. de 2009 Primer trámite constitucional C.Diputados Nuevo segundo informe de comisión de la Cultura y las Artes Ver
+15 de May. de 2009 Primer trámite constitucional C.Diputados Segundo informe de comisión de la Cultura y las Artes Ver
+11 de Oct. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de la Cultura y las Artes Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3900-04","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+08 de Sep. de 2009 28 de Sep. de 2009 Simple 1079-357 1214-357
+05 de Ago. de 2009 08 de Sep. de 2009 Simple 874-357 1079-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3900-04","Nombre Región Distrito Partido
+María Eugenia Mella Gajardo V Región de Valparaíso N°10 Partido Demócrata Cristiano
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+Carolina Tohá Morales RM Región Metropolitana N°22 Partido Por la Democracia
+Ximena Vidal Lázaro RM Región Metropolitana N°25 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3900-04","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+51   69 0 0 0 Aprobado Sala Ver detalle votación
+56   48 0 1 71 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3900-04","No record","Veto emmEnd"

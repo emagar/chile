@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 3461-03","Legislatura: 350
+Fecha de ingreso: jueves 22 de enero de 2004
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 3461-03
+Materia: Propiedad Intelectual
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 02:59:41
+* * Hitos de tramitación * *
+"emmStart Hitos 3461-03","Fecha Sesión Etapa Sub-etapa Documento
+22 de Ene. de 2004   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+22 de Ene. de 2004 50ª / 350 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+22 de Ene. de 2004   Primer trámite constitucional / C. Diputados Oficio Nº4773 a la Corte Suprema Ver
+31 de Mar. de 2004 65ª / 350 Primer trámite constitucional / C. Diputados Cuenta oficio 3503 de la Corte Suprema Ver Ver
+13 de Jul. de 2004 14ª / 351 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 171-351 que retira y hace presente la urgencia Simple Ver
+17 de Ago. de 2004 31ª / 351 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 278-351 que retira y hace presente la urgencia Simple Ver
+23 de Mar. de 2005   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Abr. de 2005 57ª / 352 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. Queda en tabla. Ver
+19 de Abr. de 2005 66ª / 352 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+19 de Abr. de 2005 66ª / 352 Primer trámite constitucional / C. Diputados Por acuerdo de los Comités Parlamentarios, el proyecto es remitido a la Comisión de Constitución, para que emita un informe y evacuado éste pase a la Comisión Especial sobre Pequeña y Mediana Empresa (PYMES) para que efectúe similar trámite. Ver Ver
+03 de May. de 2007   Tramitación terminada /  
+03 de May. de 2007 21ª / 355 Tramitación terminada / P. de la Rep. comunica que retira el proyecto del Congreso Nacional. APROBADO.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3461-03","Fecha Etapa Informe Documento
+23 de Mar. de 2005 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3461-03","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+17 de Ago. de 2004   Simple 278-351  
+13 de Jul. de 2004 17 de Ago. de 2004 Simple 171-351 278-351
+08 de Jun. de 2004 13 de Jul. de 2004 Simple 41-351 171-351","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3461-03","Nombre Región Distrito Partido
+Ministerio de Economía, Fomento y Turism      
+Ministerio de Educación      
+Ministerio de Interior y Seguridad Públi      
+Ministerio de Justicia      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3461-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3461-03","No record","Veto emmEnd"

@@ -1,0 +1,32 @@
+* * Bill summary * *
+"emmStart Summary 1005-07","Legislatura: 326
+Fecha de ingreso: martes 01 de junio de 1993
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 1005-07
+Materia: Votación
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 01:50:44
+* * Hitos de tramitación * *
+"emmStart Hitos 1005-07","Fecha Sesión Etapa Sub-etapa Documento
+01 de Jun. de 1993   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+01 de Jun. de 1993 1ª / 326 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+17 de May. de 1995 63ª / 330 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+17 de May. de 1995 63ª / 330 Primer trámite constitucional / Senado Primer informe de comisión
+07 de Jun. de 1995 5ª / 331 Primer trámite constitucional / Senado Discusión general Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1005-07","Fecha Etapa Informe Documento
+17 de May. de 1995 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1005-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1005-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1005-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1005-07","No record","Veto emmEnd"

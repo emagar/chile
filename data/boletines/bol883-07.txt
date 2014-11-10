@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 883-07","Legislatura: 325
+Fecha de ingreso: jueves 10 de diciembre de 1992
+Estado: Tramitación terminada (Ley Nº 19.416 - D.Oficial 05/10/1995)
+Numero de boletín: 883-07
+Materia: Amnistia,Elecciones,Votación
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 00:14:21
+* * Hitos de tramitación * *
+"emmStart Hitos 883-07","Fecha Sesión Etapa Sub-etapa Documento
+10 de Dic. de 1992   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+10 de Dic. de 1992 16ª / 325 Primer trámite constitucional / Senado Cuenta de proyecto
+07 de Ene. de 1993 21ª / 325 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+07 de Ene. de 1993 21ª / 325 Primer trámite constitucional / Senado Primer informe de comisión Ver
+12 de Ene. de 1993 22ª / 325 Primer trámite constitucional / Senado Queda para segunda discusión. Ver
+28 de Ene. de 1993 30ª / 325 Primer trámite constitucional / Senado Se acuerda rechazar la idea de legislar. Ver
+17 de Mar. de 1993 34ª / 325 Insistencia / C. Diputados Cuenta oficio insistencia del Ejecutivo Ver
+22 de Mar. de 1993 34ª / 325 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+29 de Mar. de 1993 57ª / 325 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+07 de Jul. de 1993   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Ene. de 1994 22ª / 327 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento para que informe el proyecto insistido aprobado en general por la Cámara
+17 de Abr. de 1995   Tercer trámite constitucional / Senado Informe de comisión Ver
+18 de Abr. de 1995 53ª / 330 Primer trámite constitucional / Senado Cuenta nuevo primer informe
+03 de May. de 1995 57ª / 330 Tercer trámite constitucional / Senado Aprobado en general y en particular.
+05 de Sep. de 1995 5ª / 344 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+05 de Sep. de 1995 31ª / 331 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 883-07","Fecha Etapa Informe Documento
+17 de Abr. de 1995 Tercer trámite constitucional Senado Informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+07 de Jul. de 1993 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+07 de Ene. de 1993 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 883-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 883-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 883-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 883-07","No record","Veto emmEnd"

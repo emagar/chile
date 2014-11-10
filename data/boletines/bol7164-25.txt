@@ -1,0 +1,67 @@
+* * Bill summary * *
+"emmStart Summary 7164-25","Legislatura: 358
+Fecha de ingreso: miércoles 01 de septiembre de 2010
+Estado: Tramitación terminada (Ley Nº 20.489 - D.Oficial 02/02/2011)
+Numero de boletín: 7164-25
+Materia: Escalafón De Oficiales Policiales Profesionales,Investigaciones De Chile
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 00:59:39
+* * Hitos de tramitación * *
+"emmStart Hitos 7164-25","Fecha Sesión Etapa Sub-etapa Documento
+01 de Sep. de 2010 68ª / 358 Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver Ver
+01 de Sep. de 2010 68ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Seguridad Ciudadana y Drogas Ver
+09 de Sep. de 2010 74ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 301-358 que hace presente la urgencia Suma Ver
+28 de Sep. de 2010 79ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 334-358 que retira y hace presente la urgencia Suma Ver
+06 de Oct. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+12 de Oct. de 2010 87ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de Oct. de 2010 88ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 391-358 que retira y hace presente la urgencia Suma Ver
+27 de Oct. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+28 de Oct. de 2010 92ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 430-358 que retira y hace presente la urgencia Suma Ver
+28 de Oct. de 2010 92ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+03 de Nov. de 2010 94ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+03 de Nov. de 2010   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+09 de Nov. de 2010 65ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Defensa Nacional y a Comisión de Hacienda,en su caso.
+10 de Nov. de 2010 66ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 472-358 que retira y hace presente la urgencia Suma
+30 de Nov. de 2010 70ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 497-358 que retira y hace presente la urgencia Suma
+03 de Dic. de 2010   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+07 de Dic. de 2010 73ª / 358 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+14 de Dic. de 2010 75ª / 358 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 03/01/2011 Ver
+14 de Dic. de 2010   Segundo trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 03/01/2011 a las 13:00 en Secretaría.
+15 de Dic. de 2010 77ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 572-358 que retira y hace presente la urgencia Suma
+04 de Ene. de 2011 81ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 607-358 que retira y hace presente la urgencia Suma
+05 de Ene. de 2011   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+05 de Ene. de 2011 84ª / 358 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+05 de Ene. de 2011 84ª / 358 Segundo trámite constitucional / Senado Discusión general Ver
+05 de Ene. de 2011   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+06 de Ene. de 2011 123ª / 358 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+06 de Ene. de 2011   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7164-25","Fecha Etapa Informe Documento
+05 de Ene. de 2011 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+03 de Dic. de 2010 Segundo trámite constitucional Senado Primer informe de comisión de Defensa Nacional Ver
+27 de Oct. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+06 de Oct. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Seguridad Ciudadana y Drogas Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7164-25","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Ene. de 2011   Suma 607-358  
+15 de Dic. de 2010 03 de Ene. de 2011 Suma 572-358 607-358
+30 de Nov. de 2010 15 de Dic. de 2010 Suma 497-358 572-358
+10 de Nov. de 2010 30 de Nov. de 2010 Suma 472-358 497-358
+28 de Oct. de 2010 10 de Nov. de 2010 Suma 430-358 472-358
+13 de Oct. de 2010 28 de Oct. de 2010 Suma 391-358 430-358
+28 de Sep. de 2010 13 de Oct. de 2010 Suma 334-358 391-358
+09 de Sep. de 2010 28 de Sep. de 2010 Suma 301-358 334-358","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7164-25","Nombre Región Distrito Partido
+Ministerio de Interior y Seguridad Públi      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7164-25","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+94   89 1 0 30 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7164-25","No record","Veto emmEnd"

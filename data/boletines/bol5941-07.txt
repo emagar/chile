@@ -1,0 +1,53 @@
+* * Bill summary * *
+"emmStart Summary 5941-07","Legislatura: 356
+Fecha de ingreso: miércoles 02 de julio de 2008
+Estado: Segundo trámite constitucional .
+Numero de boletín: 5941-07
+Materia: Reforma Constitucional,Requisitos Para Promulgar Leyes
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 01:01:16
+* * Hitos de tramitación * *
+"emmStart Hitos 5941-07","Fecha Sesión Etapa Sub-etapa Documento
+02 de Jul. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Jul. de 2008 46ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+15 de Oct. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+04 de Nov. de 2008 95ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+10 de Dic. de 2008 114ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+21 de Ene. de 2009   Primer trámite constitucional / C. Diputados Primer informe complementario Ver
+03 de Mar. de 2009 131ª / 356 Primer trámite constitucional / C. Diputados Cuenta primer informe complementario. de Comisión de Constitución. EN TABLA. Ver
+08 de Jun. de 2010 34ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+15 de Jun. de 2010 39ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+15 de Jun. de 2010   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+16 de Jun. de 2010 29ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5941-07","Fecha Etapa Informe Documento
+21 de Ene. de 2009 Primer trámite constitucional C.Diputados Primer informe complementario de Constitución, Legislación y Justicia Ver
+15 de Oct. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5941-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5941-07","Nombre Región Distrito Partido
+Gabriel Ascencio Mansilla X Región de los Lagos N°58 Partido Demócrata Cristiano
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Juan Bustos Ramírez V Región de Valparaíso N°12 Partido Socialista
+Alberto Cardemil Herrera RM Región Metropolitana N°22 Independientes
+Edmundo Eluchans Urenda V Región de Valparaíso N°15 Unión Demócrata Independiente
+Antonio Leal Labrín III Región de Atacama N°5 Partido Por la Democracia
+Osvaldo Palma Flores VII Región del Maule N°39 Renovación Nacional
+Ximena Valcarce Becerra XV Región Arica y Parinacota N°1 Renovación Nacional
+Alfonso Vargas Lyng V Región de Valparaíso N°10 Renovación Nacional
+Patricio Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5941-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+39   96 0 0 1 Aprobado Sala Ver detalle votación
+39 texto del artículo único propuesto en el informe de la Comisión de Constitución, Legislación y Justicia, con exclusión de la frase final ""y llevará las firmas de los Presidentes del Senado y de la Cámara de Diputados"", cuya votación separada se solicitó. 104 0 1 1 Aprobado Sala Ver detalle votación
+39 frase final ""y llevará las firmas de los Presidentes del Senado y de la Cámara de Diputados"". 79 18 8 1 Aprobado Sala Ver detalle votación
+185 Votación General 9 0 0 4   Constitución Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5941-07","No record","Veto emmEnd"

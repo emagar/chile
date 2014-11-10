@@ -1,0 +1,51 @@
+* * Bill summary * *
+"emmStart Summary 737-03","Legislatura: 324
+Fecha de ingreso: viernes 03 de julio de 1992
+Estado: Tramitación terminada (Ley Nº 19.207 - D.Oficial 31/03/1993)
+Numero de boletín: 737-03
+Materia: Inversiones Extrajeras,Inversiones
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 22:17:08
+* * Hitos de tramitación * *
+"emmStart Hitos 737-03","Fecha Sesión Etapa Sub-etapa Documento
+03 de Jul. de 1992   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+07 de Jul. de 1992 8ª / 324 Primer trámite constitucional / Senado Cuenta de proyecto
+08 de Sep. de 1992 23ª / 324 Primer trámite constitucional / Senado Primer informe de comisión Ver
+08 de Sep. de 1992 23ª / 324 Primer trámite constitucional / Senado Primer informe de comisión Ver
+08 de Sep. de 1992 23ª / 324 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Sep. de 1992 24ª / 324 Primer trámite constitucional / Senado Discusión general. Aprobado en general y particular el proyecto. Ver
+15 de Sep. de 1992 24ª / 324 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+15 de Sep. de 1992 41ª / 324 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+19 de Oct. de 1992   Segundo trámite constitucional / C. Diputados Primer informe de comisión
+22 de Dic. de 1992 19ª / 325 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+05 de Ene. de 1993 20ª / 325 Tercer trámite constitucional / Senado Discusión única. Rechazadas modificaciones de la Cámara de Diputados. Se designa a los miembros de la Comisión de Economía para interar la Comisión Mixta que corresponde.
+06 de Ene. de 1993 20ª / 325 Tercer trámite constitucional / Senado Oficio rechazo modificaciones a Cámara Revisora
+12 de Ene. de 1993 22ª / 325 Comisión Mixta por rechazo de modificaciones / C. Diputados Cuenta oficio integrantes de Comisión Mixta Ver
+21 de Ene. de 1993 29ª / 325 Comisión Mixta por rechazo de modificaciones / C. Diputados Informe de Comisión Mixta Ver Ver
+26 de Ene. de 1993 29ª / 325 Disc. informe C.Mixta por rechazo de modific. en C. Origen / Senado Cuenta informe Comisión Mixta
+26 de Ene. de 1993 29ª / 325 Disc. informe C.Mixta por rechazo de modific. en C. Origen / Senado Discusión informe de Comisión Mixta. Se rechaza proposición de la Comisión Mixta.
+27 de Ene. de 1993 2ª / 344 Disc. informe C.Mixta por rechazo de modific. en C. Origen / Senado Oficio rechazo de informe de Comisión Mixta a C. Revisora Ver
+09 de Mar. de 1993 31ª / 325 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación de informe de Comisión Mixta
+09 de Mar. de 1993 31ª / 325 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo
+    Trámite de aprobacion presidencial / Senado Ingreso de observaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 737-03","Fecha Etapa Informe Documento
+21 de Ene. de 1993 Comisión Mixta por rechazo de modificaciones Senado Informe de Comisión Mixta Comisión Mixta para Boletín Nº 737-03 Ver
+19 de Oct. de 1992 Segundo trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver
+08 de Sep. de 1992 Primer trámite constitucional Senado Primer informe de comisión de Economía Ver
+08 de Sep. de 1992 Primer trámite constitucional Senado Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 737-03","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+07 de Jul. de 1992   Simple 03/07/92  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 737-03","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 737-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 737-03","No record","Veto emmEnd"

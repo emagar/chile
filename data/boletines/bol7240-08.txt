@@ -1,0 +1,59 @@
+* * Bill summary * *
+"emmStart Summary 7240-08","Legislatura: 358
+Fecha de ingreso: miércoles 29 de septiembre de 2010
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 7240-08
+Materia: Concesiones Electricas
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 09-11-2014 01:49:26
+* * Hitos de tramitación * *
+"emmStart Hitos 7240-08","Fecha Sesión Etapa Sub-etapa Documento
+29 de Sep. de 2010   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+29 de Sep. de 2010 56ª / 358 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Minería y Energía
+29 de Sep. de 2010 56ª / 358 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Minería y Energía
+09 de Nov. de 2010 65ª / 358 Primer trámite constitucional / Senado Cuenta del Mensaje 461-358 que hace presente la urgencia Suma
+30 de Nov. de 2010 70ª / 358 Primer trámite constitucional / Senado Cuenta del Mensaje 489-358 que retira y hace presente la urgencia Suma
+15 de Dic. de 2010 77ª / 358 Primer trámite constitucional / Senado Cuenta del Mensaje 575-358 que retira y hace presente la urgencia Suma
+04 de Ene. de 2011 81ª / 358 Primer trámite constitucional / Senado Cuenta del Mensaje 612-358 que retira y hace presente la urgencia Suma
+19 de Ene. de 2011 89ª / 358 Primer trámite constitucional / Senado Cuenta del Mensaje 678-358 que retira y hace presente la urgencia Suma
+01 de Mar. de 2011 90ª / 358 Primer trámite constitucional / Senado Cuenta del Mensaje 727-358 que retira y hace presente la urgencia Suma
+16 de Mar. de 2011 3ª / 359 Primer trámite constitucional / Senado Cuenta del Mensaje 21-359 que retira y hace presente la urgencia Suma
+05 de Abr. de 2011 6ª / 359 Primer trámite constitucional / Senado Cuenta del Mensaje 67-359 que retira y hace presente la urgencia Suma
+20 de Abr. de 2011 11ª / 359 Primer trámite constitucional / Senado Cuenta del Mensaje 114-359 que retira y hace presente la urgencia Suma
+04 de May. de 2011 15ª / 359 Primer trámite constitucional / Senado Cuenta del Mensaje 170-359 que retira y hace presente la urgencia Suma
+31 de May. de 2011 21ª / 359 Primer trámite constitucional / Senado Cuenta del Mensaje 210-359 que retira y hace presente la urgencia Suma
+06 de Mar. de 2012 94ª / 359 Primer trámite constitucional / Senado Cuenta del Mensaje 605-359 que hace presente la urgencia Simple
+04 de Abr. de 2012 7ª / 360 Primer trámite constitucional / Senado Cuenta del Mensaje 41-360 que retira y hace presente la urgencia Simple
+08 de May. de 2012 15ª / 360 Primer trámite constitucional / Senado Cuenta del Mensaje 75-360 que retira y hace presente la urgencia Simple
+15 de May. de 2012 17ª / 360 Tramitación terminada / Cuenta Mensaje S.E. El Presidente de la República, comunica que ha resuelto retirar de tramitación el proyecto de ley Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7240-08","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7240-08","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+08 de May. de 2012   Simple 75-360  
+04 de Abr. de 2012 03 de May. de 2012 Simple 41-360 75-360
+06 de Mar. de 2012 04 de Abr. de 2012 Simple 605-359 41-360
+31 de May. de 2011 06 de Mar. de 2012 Suma 210-359 CADUCADA
+04 de May. de 2011 31 de May. de 2011 Suma 170-359 210-359
+20 de Abr. de 2011 04 de May. de 2011 Suma 114-359 170-359
+05 de Abr. de 2011 20 de Abr. de 2011 Suma 67-359 114-359
+16 de Mar. de 2011 05 de Abr. de 2011 Suma 21-359 67-359
+01 de Mar. de 2011 16 de Mar. de 2011 Suma 727-358 21-359
+19 de Ene. de 2011 01 de Mar. de 2011 Suma 678-358 727-358
+04 de Ene. de 2011 19 de Ene. de 2011 Suma 612-358 678-358
+15 de Dic. de 2010 03 de Ene. de 2011 Suma 575-358 612-358
+30 de Nov. de 2010 15 de Dic. de 2010 Suma 489-358 575-358
+09 de Nov. de 2010 30 de Nov. de 2010 Suma 461-358 489-358","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7240-08","Nombre
+Ministerio de Minería","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7240-08","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7240-08","No record","Veto emmEnd"

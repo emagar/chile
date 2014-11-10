@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 5404-07","Legislatura: 355
+Fecha de ingreso: martes 16 de octubre de 2007
+Estado: Archivado .
+Numero de boletín: 5404-07 Refundido con: 4382-07,4497-07
+Materia: Constitucion 1980,Elecciones
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 04:15:20
+* * Hitos de tramitación * *
+"emmStart Hitos 5404-07","Fecha Sesión Etapa Sub-etapa Documento
+16 de Oct. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+16 de Oct. de 2007 90ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+17 de Jun. de 2008 40ª / 356 Primer trámite constitucional / C. Diputados Comisión de Constitución solicita autorización para sesionar conuntamente con la Sala. ACORDADO. Ver
+02 de Sep. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+30 de Sep. de 2008 82ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+09 de Jun. de 2010 36ª / 358 Primer trámite constitucional / C. Diputados Sala acuerda que esta moción, refundida con los boletines 4497-07 y 5404-07, vuelvan a la Comisión de Constitución para ser tratadas conjuntamente con el boletín N° 6946-07. Ver
+09 de Jun. de 2010 36ª / 358 Primer trámite constitucional / C. Diputados Sala acuerda que esta moción, refundida con los boletines 4497-07 y 4382-07, vuelvan a la Comisión de Constitución para ser tratadas conjuntamente con el boletín N° 6946-07. Ver
+04 de Ago. de 2010 59ª / 358 Primer trámite constitucional / C. Diputados Archivado Oficio de la Comisión de Constitución, Legislación y Justicia, informa a la Sala remitir al archivo los proyectos de ley, contenidos en mociones refundidas, en razón de haberse legislado sobre la materia. EN TABLA. SE ARCHIVA Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5404-07","Fecha Etapa Informe Documento
+02 de Sep. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5404-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5404-07","Nombre Región Distrito Partido
+Mario Bertolino Rendic IV Región de Coquimbo N°7 Renovación Nacional
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Joaquín Godoy Ibáñez V Región de Valparaíso N°13 Renovación Nacional
+Rosauro Martínez Labbé VIII Región del Bío Bío N°41 Renovación Nacional
+Cristián Monckeberg Bruner RM Región Metropolitana N°23 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5404-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+170 Votación General 4 1 0 8   Constitución Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5404-07","No record","Veto emmEnd"

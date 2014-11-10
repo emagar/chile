@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 4095-05","Legislatura: 353
+Fecha de ingreso: martes 07 de marzo de 2006
+Estado: Tramitación terminada (Ley Nº 20.097 - D.Oficial 08/04/2006)
+Numero de boletín: 4095-05
+Materia: Impuestos ,Impuesto A La Renta
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 18:42:02
+* * Hitos de tramitación * *
+"emmStart Hitos 4095-05","Fecha Sesión Etapa Sub-etapa Documento
+07 de Mar. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+07 de Mar. de 2006 74ª / 353 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+07 de Mar. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión. Queda para tabla Ver
+08 de Mar. de 2006 75ª / 353 Primer trámite constitucional / C. Diputados Cuenta Certificado Comisión de Hacienda Ver
+08 de Mar. de 2006 75ª / 353 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 561-353 que hace presente la urgencia Discusión inmediata Ver
+08 de Mar. de 2006 75ª / 353 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+08 de Mar. de 2006   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+08 de Mar. de 2006 62ª / 353 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Minería y Energía y a Comisión de Hacienda, Unidas.
+08 de Mar. de 2006   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+08 de Mar. de 2006 62ª / 353 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+08 de Mar. de 2006 62ª / 353 Segundo trámite constitucional / Senado Discusión general Ver
+08 de Mar. de 2006   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+14 de Mar. de 2006 1ª / 354 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver Ver
+14 de Mar. de 2006   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4095-05","Fecha Etapa Informe Documento
+08 de Mar. de 2006 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda y de Minería y Energía, unidas Ver
+07 de Mar. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4095-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+08 de Mar. de 2006   Discusión inmediata 561-353  
+08 de Mar. de 2006   Discusión inmediata 494-353  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4095-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4095-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+75   73 0 12 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4095-05","No record","Veto emmEnd"

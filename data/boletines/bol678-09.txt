@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 678-09","Legislatura: 323
+Fecha de ingreso: miércoles 06 de mayo de 1992
+Estado: Tramitación terminada (Ley Nº 19.153 - D.Oficial 22/07/1992)
+Numero de boletín: 678-09
+Materia: Consejo De Defensa Del Estado,Dirección De Vialidad
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 21:30:55
+* * Hitos de tramitación * *
+"emmStart Hitos 678-09","Fecha Sesión Etapa Sub-etapa Documento
+06 de May. de 1991 71ª / 323 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+06 de May. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de May. de 1992 61ª / 323 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Obras Públicas y a Comisión de Hacienda
+09 de Jun. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+16 de Jun. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+30 de Jun. de 1992 6ª / 324 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+02 de Jul. de 1992 7ª / 324 Tramitación terminada / Aprobado en general y en particular.
+06 de Jul. de 1992   Tramitación terminada / Oficia a la Cámara comunicando aprobación con modificaciones que indica
+14 de Jul. de 1992   Tramitación terminada / Oficia Nº 824, de la Cámara, comunicando aprobación de modificaciones propuestas por el Senado","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 678-09","Fecha Etapa Informe Documento
+16 de Jun. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+09 de Jun. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Obras Públicas Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 678-09","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+06 de May. de 1991   Discusión inmediata    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 678-09","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 678-09","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 678-09","No record","Veto emmEnd"

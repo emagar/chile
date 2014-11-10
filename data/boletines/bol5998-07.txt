@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 5998-07","Legislatura: 356
+Fecha de ingreso: miércoles 30 de julio de 2008
+Estado: Segundo trámite constitucional .
+Numero de boletín: 5998-07
+Materia: Superintendencia De Valores Y Seguros,Superintendencia De Valores Y Seguros
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 01:40:35
+* * Hitos de tramitación * *
+"emmStart Hitos 5998-07","Fecha Sesión Etapa Sub-etapa Documento
+30 de Jul. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+30 de Jul. de 2008   Primer trámite constitucional / C. Diputados Oficio Nº 7593 a la Corte Suprema Ver
+30 de Jul. de 2008 55ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia. Se remite el proyecto a la Corte Suprema. Ver
+19 de Ago. de 2008 65ª / 356 Primer trámite constitucional / C. Diputados Comisión de Constitución solicita autorización para sesionar en conjunto con la Sala el día 21 de agosto en curso, de 11 a 13 horas. EN TABLA. ACORDADO. Ver
+20 de Ago. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Sep. de 2008 69ª / 356 Primer trámite constitucional / C. Diputados Cuenta oficio Nº 129 de la Corte Suprema Ver Ver
+09 de Sep. de 2008 73ª / 356 Primer trámite constitucional / C. Diputados Primer informe de la Comisión de Constitución. EN ESTADO DE TABLA. Ver
+03 de Mar. de 2009 131ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+03 de Mar. de 2009   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+04 de Mar. de 2009 92ª / 356 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5998-07","Fecha Etapa Informe Documento
+20 de Ago. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5998-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5998-07","Nombre Región Distrito Partido
+Eugenio Bauer Jouanne VI Región del Libertador Bernardo O' Higgins N°33 Unión Demócrata Independiente
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Alberto Cardemil Herrera RM Región Metropolitana N°22 Independientes
+Gonzalo Duarte Leiva RM Región Metropolitana N°26 Partido Demócrata Cristiano
+Edmundo Eluchans Urenda V Región de Valparaíso N°15 Unión Demócrata Independiente
+Renán Fuentealba Vildósola IV Región de Coquimbo N°9 Partido Demócrata Cristiano
+Patricio Hales Dib RM Región Metropolitana N°19 Partido Por la Democracia
+José Miguel Ortiz Novoa VIII Región del Bío Bío N°44 Partido Demócrata Cristiano
+Eduardo Saffirio Suárez IX Región de la Araucanía N°50 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5998-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+131   87 0 0 33 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5998-07","No record","Veto emmEnd"

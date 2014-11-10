@@ -1,0 +1,61 @@
+* * Bill summary * *
+"emmStart Summary 5159-07","Legislatura: 355
+Fecha de ingreso: martes 03 de julio de 2007
+Estado: Archivado .
+Numero de boletín: 5159-07
+Materia: Pena De Muerte,Código De Justicia Militar,Tribunales Militares
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 07-11-2014 01:19:01
+* * Hitos de tramitación * *
+"emmStart Hitos 5159-07","Fecha Sesión Etapa Sub-etapa Documento
+03 de Jul. de 2007   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+03 de Jul. de 2007 29ª / 355 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento. Se remite el proyecto a la Corte Suprema.
+03 de Jul. de 2007   Primer trámite constitucional / Senado Oficio Nº 721/SEC/07 a la Corte Suprema Ver
+31 de Jul. de 2007 37ª / 355 Primer trámite constitucional / Senado Cuenta del Mensaje 486-355 que hace presente la urgencia Simple
+28 de Ago. de 2007 44ª / 355 Primer trámite constitucional / Senado Cuenta oficio Nº 273 de la Corte Suprema Ver
+04 de Sep. de 2007 47ª / 355 Primer trámite constitucional / Senado Cuenta del Mensaje 646-355 que retira y hace presente la urgencia Simple
+02 de Oct. de 2007 53ª / 355 Primer trámite constitucional / Senado Cuenta del Mensaje 728-355 que retira la urgencia Simple
+30 de Oct. de 2007 60ª / 355 Primer trámite constitucional / Senado Cuenta del Mensaje 921-355 que hace presente la urgencia Simple
+06 de Nov. de 2007 62ª / 355 Primer trámite constitucional / Senado Cuenta del Mensaje 976-355 que retira y hace presente la urgencia Simple
+08 de Nov. de 2007   Primer trámite constitucional / Senado Primer informe de comisión Ver
+14 de Nov. de 2007 65ª / 355 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+05 de Dic. de 2007 73ª / 355 Primer trámite constitucional / Senado Cuenta del Mensaje 1146-355 que retira la urgencia Simple
+11 de Dic. de 2007 74ª / 355 Primer trámite constitucional / Senado Por acuerdo de Comités, ratificado por la Sala, este proyecto se retira del Orden del Día. Ver
+07 de Ene. de 2009 83ª / 356 Primer trámite constitucional / Senado Cuenta del Mensaje 1312-356 que hace presente la urgencia Simple
+30 de Ene. de 2009 90ª / 356 Primer trámite constitucional / Senado Cuenta del Mensaje 1432-356 que retira la urgencia Simple
+03 de Mar. de 2009 91ª / 356 Primer trámite constitucional / Senado Cuenta del Mensaje 1471-356 que hace presente la urgencia Simple
+07 de Abr. de 2009 7ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 127-357 que retira y hace presente la urgencia Simple
+12 de May. de 2009 16ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 339-357 que retira y hace presente la urgencia Simple
+16 de Jun. de 2009 26ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 577-357 que retira y hace presente la urgencia Simple
+28 de Jul. de 2009 35ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 799-357 que retira y hace presente la urgencia Simple
+04 de Ago. de 2009 37ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 858-357 que retira la urgencia Simple
+09 de Mar. de 2010 86ª / 357 Primer trámite constitucional / Senado El Ejecutivo solicita el archivo de esta iniciativa. La Sala accede a ello y el proyecto se envía al archivo.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5159-07","Fecha Etapa Informe Documento
+08 de Nov. de 2007 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5159-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+28 de Jul. de 2009 04 de Ago. de 2009 Simple 799-357 858-357
+16 de Jun. de 2009 28 de Jul. de 2009 Simple 577-357 799-357
+12 de May. de 2009 16 de Jun. de 2009 Simple 339-357 577-357
+07 de Abr. de 2009 12 de May. de 2009 Simple 127-357 339-357
+03 de Mar. de 2009 07 de Abr. de 2009 Simple 1471-356 127-357
+07 de Ene. de 2009 29 de Ene. de 2009 Simple 1312-356 1432-356
+06 de Nov. de 2007 05 de Dic. de 2007 Simple 976-355 1146-355
+30 de Oct. de 2007 05 de Nov. de 2007 Simple 921-355 976-355
+04 de Sep. de 2007 25 de Sep. de 2007 Simple 646-355 728-355
+31 de Jul. de 2007 31 de Ago. de 2007 Simple 486-355 646-355","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5159-07","Nombre
+Ministerio de Defensa Nacional
+Ministerio de Justicia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5159-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5159-07","No record","Veto emmEnd"

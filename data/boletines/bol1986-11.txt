@@ -1,0 +1,53 @@
+* * Bill summary * *
+"emmStart Summary 1986-11","Legislatura: 334
+Fecha de ingreso: miércoles 05 de marzo de 1997
+Estado: Tramitación terminada (Ley Nº 19.536 - D.Oficial 16/12/1997)
+Numero de boletín: 1986-11
+Materia: Enfermeras
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 17:08:56
+* * Hitos de tramitación * *
+"emmStart Hitos 1986-11","Fecha Sesión Etapa Sub-etapa Documento
+05 de Mar. de 1997   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+05 de Mar. de 1997 48ª / 334 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver
+08 de Abr. de 1997   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+03 de Jul. de 1997   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de Jul. de 1997 16ª / 335 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+15 de Jul. de 1997 19ª / 335 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+15 de Jul. de 1997   Primer trámite constitucional / C. Diputados Segundo informe de comisión. Pasa a Comisión de Hacienda Ver
+15 de Jul. de 1997   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+16 de Jul. de 1997 21ª / 335 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+16 de Jul. de 1997 21ª / 335 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver
+16 de Jul. de 1997   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora
+17 de Jul. de 1997 18ª / 335 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Salud
+16 de Sep. de 1997   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+07 de Oct. de 1997   Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 336
+04 de Nov. de 1997   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+04 de Nov. de 1997 9ª / 336 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+11 de Nov. de 1997 11ª / 336 Segundo trámite constitucional / Senado Discusión general Ver
+11 de Nov. de 1997   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+17 de Nov. de 1997 14ª / 336 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+18 de Nov. de 1997 15ª / 336 Tercer trámite constitucional / C. Diputados Discusión única Ver
+18 de Nov. de 1997   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1986-11","Fecha Etapa Informe Documento
+04 de Nov. de 1997 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+16 de Sep. de 1997 Segundo trámite constitucional Senado Primer informe de comisión de Salud Ver
+15 de Jul. de 1997 Primer trámite constitucional C.Diputados Segundo informe de comisión de Hacienda Ver
+15 de Jul. de 1997 Primer trámite constitucional C.Diputados Segundo informe de comisión de Salud Ver
+03 de Jul. de 1997 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+08 de Abr. de 1997 Primer trámite constitucional C.Diputados Primer informe de comisión de Salud Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1986-11","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1986-11","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1986-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1986-11","No record","Veto emmEnd"

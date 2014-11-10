@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 848-02","Legislatura: 325
+Fecha de ingreso: martes 03 de noviembre de 1992
+Estado: Tramitación terminada (Ley Nº 19.320 - D.Oficial 11/08/1994)
+Numero de boletín: 848-02
+Materia: Caja De Previsión De La Defensa Nacional ,Carabineros De Chile
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 23:46:52
+* * Hitos de tramitación * *
+"emmStart Hitos 848-02","Fecha Sesión Etapa Sub-etapa Documento
+03 de Nov. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Nov. de 1992 13ª / 325 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+05 de May. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+03 de May. de 1994 10ª / 328 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Defensa Nacional
+08 de Jun. de 1994   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+05 de Jul. de 1994 9ª / 329 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+07 de Jul. de 1994 11ª / 329 Tramitación terminada / Discusión general y particular. Aprobado en general y en particular.
+11 de Jul. de 1994   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 848-02","Fecha Etapa Informe Documento
+08 de Jun. de 1994 Segundo trámite constitucional Senado Primer informe de comisión de Defensa Nacional Ver
+05 de May. de 1993 Primer trámite constitucional C.Diputados Primer informe de comisión de Defensa Nacional Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 848-02","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+03 de Nov. de 1992   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 848-02","Nombre Región Distrito Partido
+Ministerio de Defensa Nacional      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 848-02","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 848-02","No record","Veto emmEnd"

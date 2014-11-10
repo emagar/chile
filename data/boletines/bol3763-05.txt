@@ -1,0 +1,51 @@
+* * Bill summary * *
+"emmStart Summary 3763-05","Legislatura: 352
+Fecha de ingreso: miércoles 15 de diciembre de 2004
+Estado: Tramitación terminada (Ley Nº 20.002 - D.Oficial 04/02/2005)
+Numero de boletín: 3763-05
+Materia: Bienes Raices Agrícolas
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 10:54:55
+* * Hitos de tramitación * *
+"emmStart Hitos 3763-05","Fecha Sesión Etapa Sub-etapa Documento
+15 de Dic. de 2004   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+15 de Dic. de 2004 31ª / 352 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+04 de Ene. de 2005 34ª / 352 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 244-352 que hace presente la urgencia Suma Ver
+05 de Ene. de 2005   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+06 de Ene. de 2005 36ª / 352 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Hacienda. Ver
+06 de Ene. de 2005 36ª / 352 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+06 de Ene. de 2005   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+11 de Ene. de 2005 26ª / 352 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización y de Hacienda, unidas (viene con urgencia suma).
+12 de Ene. de 2005 27ª / 352 Segundo trámite constitucional / Senado Cuenta del Mensaje 284-352 que retira la urgencia Suma
+18 de Ene. de 2005 28ª / 352 Segundo trámite constitucional / Senado Cuenta del Mensaje 308-352 que hace presente la urgencia Discusión inmediata
+18 de Ene. de 2005   Segundo trámite constitucional / Senado Primer informe de comisión. y de Hacienda unidas Ver
+19 de Ene. de 2005 29ª / 352 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+19 de Ene. de 2005 30ª / 352 Segundo trámite constitucional / Senado Discusión general Ver
+19 de Ene. de 2005   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+20 de Ene. de 2005 44ª / 352 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver Ver
+20 de Ene. de 2005 44ª / 352 Tercer trámite constitucional / C. Diputados Discusión única Ver
+20 de Ene. de 2005   Tercer trámite constitucional / C. Diputados Oficio Nº 5393, que comunica aprobación de modificaciones Ver
+20 de Ene. de 2005   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+01 de Mar. de 2005 31ª / 352 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 5393, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3763-05","Fecha Etapa Informe Documento
+18 de Ene. de 2005 Segundo trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver
+05 de Ene. de 2005 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3763-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+18 de Ene. de 2005   Discusión inmediata 308-352  
+04 de Ene. de 2005 12 de Ene. de 2005 Suma 244-352 284-352","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3763-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3763-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+36   46 0 0 1 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3763-05","No record","Veto emmEnd"

@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 7230-29","Legislatura: 358
+Fecha de ingreso: miércoles 29 de septiembre de 2010
+Estado: Segundo trámite constitucional .
+Numero de boletín: 7230-29 Refundido con: 4871-29,7378-29,5519-29,4783-29,4522-29,3455-04,6143-04
+Materia: Deportes,Organizaciones Deportivas
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 01:41:54
+* * Hitos de tramitación * *
+"emmStart Hitos 7230-29","Fecha Sesión Etapa Sub-etapa Documento
+29 de Sep. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+29 de Sep. de 2010 80ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión Especial de Deportes Ver
+30 de Nov. de 2010   Primer trámite constitucional / C. Diputados Oficio N°088-2010. Oficio de la Comisión Especial de Deportes, por el cual solicita el acuerdo de la Sala para refundir 7 proyectos de ley. Bol. 3455-04, 4522-29, 4783-29, 4871-29, 5519-29, 6143-04 y 7230-29. Ver
+22 de Jun. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de Jul. de 2011 53ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+19 de Jul. de 2011 58ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 320-359 que hace presente la urgencia Simple Ver
+11 de Ago. de 2011 69ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+16 de Ago. de 2011   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+30 de Ago. de 2011 46ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 360-359 que retira y hace presente la urgencia Simple
+13 de Sep. de 2011 52ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 380-359 que retira la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7230-29","Fecha Etapa Informe Documento
+22 de Jun. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Deportes Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7230-29","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+30 de Ago. de 2011 13 de Sep. de 2011 Simple 360-359 380-359
+19 de Jul. de 2011 30 de Ago. de 2011 Simple 320-359 360-359","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7230-29","Nombre Región Distrito Partido
+Pedro Browne Urrejola RM Región Metropolitana N°28 Renovación Nacional
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Javier Hernández Hernández X Región de los Lagos N°55 Unión Demócrata Independiente
+Juan Lobos Krause VIII Región del Bío Bío N°47 Unión Demócrata Independiente
+Leopoldo Pérez Lahsen RM Región Metropolitana N°29 Renovación Nacional
+Gaspar Rivas Sánchez V Región de Valparaíso N°11 Renovación Nacional
+Manuel Rojas Molina II Región de Antofagasta N°4 Unión Demócrata Independiente
+David Sandoval Plaza XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Unión Demócrata Independiente
+Alejandro Santana Tirachini X Región de los Lagos N°58 Renovación Nacional
+Germán Verdugo Soto VII Región del Maule N°37 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7230-29","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7230-29","No record","Veto emmEnd"

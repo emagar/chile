@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 3-07","Legislatura: 319
+Fecha de ingreso: martes 20 de marzo de 1990
+Estado: Tramitación terminada (Ley Nº 19.027 - D.Oficial 24/01/1991)
+Numero de boletín: 3-07
+Materia: Terrorismo
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 30-10-2014 12:47:20
+* * Hitos de tramitación * *
+"emmStart Hitos 3-07","Fecha Sesión Etapa Sub-etapa Documento
+11 de Mar. de 1990   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de Mar. de 1990 2ª / 319 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+24 de Abr. de 1990 11ª / 319 Primer trámite constitucional / C. Diputados Cuenta oficio ML-6032-00 de la Corte Suprema Ver
+26 de Jun. de 1990   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de Jul. de 1990 12ª / 320 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+04 de Jul. de 1990 13ª / 320 Primer trámite constitucional / C. Diputados Discusión general Ver
+25 de Jul. de 1990   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+31 de Jul. de 1990 19ª / 320 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+01 de Ago. de 1990 20ª / 320 Primer trámite constitucional / C. Diputados Discusión particular Ver
+01 de Ago. de 1990 20ª / 320 Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver Ver
+07 de Ago. de 1990 22ª / 320 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+14 de Nov. de 1990   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+15 de Nov. de 1990 14ª / 321 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+15 de Nov. de 1990 14ª / 321 Segundo trámite constitucional / Senado Discusión general Ver
+22 de Nov. de 1990   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+27 de Nov. de 1990 15ª / 321 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+04 de Dic. de 1990 17ª / 321 Tercer trámite constitucional / C. Diputados Discusión única Ver
+04 de Dic. de 1990 17ª / 321 Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3-07","Fecha Etapa Informe Documento
+14 de Nov. de 1990 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+25 de Jul. de 1990 Primer trámite constitucional C.Diputados Segundo informe de comisión de Constitución, Legislación y Justicia Ver
+26 de Jun. de 1990 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+27 de Nov. de 1990   Suma 271190  
+06 de Nov. de 1990   Suma 070890  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3-07","No record","Veto emmEnd"

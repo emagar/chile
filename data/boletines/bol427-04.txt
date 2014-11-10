@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 427-04","Legislatura: 322
+Fecha de ingreso: jueves 25 de julio de 1991
+Estado: Tramitación terminada (Ley Nº 19.094 - D.Oficial 14/11/1991)
+Numero de boletín: 427-04
+Materia: Monumentos Nacionales
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 17:10:28
+* * Hitos de tramitación * *
+"emmStart Hitos 427-04","Fecha Sesión Etapa Sub-etapa Documento
+25 de Jul. de 1991   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+25 de Jul. de 1991 22ª / 322 Primer trámite constitucional / Senado Discusión única
+25 de Jul. de 1991 22ª / 322 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+25 de Jul. de 1991 22ª / 322 Primer trámite constitucional / Senado Cuenta de proyecto
+06 de Ago. de 1991 26ª / 322 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+13 de Ago. de 1991 26ª / 322 Tercer trámite constitucional / Senado Oficio rechazo modificaciones a Cámara Revisora Ver
+13 de Ago. de 1991 26ª / 322 Tercer trámite constitucional / Senado Discusión única
+13 de Ago. de 1991 26ª / 322 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora. Queda para Tabla.
+21 de Ago. de 1991 31ª / 322 Comisión Mixta por rechazo de modificaciones / C. Diputados Cuenta oficio integrantes de Comisión Mixta Ver
+12 de Sep. de 1991 38ª / 322 Disc. informe C.Mixta por rechazo de modific. en C. Origen / Senado Oficio aprobación de informe de Comisión Mixta a C. Revisora
+12 de Sep. de 1991 38ª / 322 Comisión Mixta por rechazo de modificaciones / C. Diputados Informe de Comisión Mixta Ver Ver
+12 de Sep. de 1991 38ª / 322 Disc. informe C.Mixta por rechazo de modific. en C. Origen / Senado Discusión informe de Comisión Mixta
+12 de Sep. de 1991 38ª / 322 Disc. informe C.Mixta por rechazo de modific. en C. Origen / Senado Cuenta informe Comisión Mixta
+29 de Oct. de 1991 8ª / 323 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+29 de Oct. de 1991 8ª / 323 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación de informe de Comisión Mixta
+    Trámite de aprobacion presidencial / Senado Ingreso de observaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 427-04","Fecha Etapa Informe Documento
+12 de Sep. de 1991 Comisión Mixta por rechazo de modificaciones Senado Informe de Comisión Mixta Comisión Mixta para Boletín Nº 427-04 Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 427-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 427-04","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 427-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 427-04","No record","Veto emmEnd"

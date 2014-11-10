@@ -1,0 +1,61 @@
+* * Bill summary * *
+"emmStart Summary 3204-02","Legislatura: 348
+Fecha de ingreso: jueves 06 de marzo de 2003
+Estado: Tramitación terminada (Ley Nº 19.924 - D.Oficial 09/01/2004)
+Numero de boletín: 3204-02
+Materia: Importaciones
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 00:20:17
+* * Hitos de tramitación * *
+"emmStart Hitos 3204-02","Fecha Sesión Etapa Sub-etapa Documento
+06 de Mar. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Mar. de 2003 53ª / 348 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Defensa Nacional Ver
+08 de Ago. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Ago. de 2003 28ª / 349 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 172-349 que retira y hace presente la urgencia Simple Ver
+12 de Ago. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Ago. de 2003 28ª / 349 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Ago. de 2003 31ª / 349 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+14 de Ago. de 2003   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+26 de Ago. de 2003 28ª / 349 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Defensa Nacional
+26 de Ago. de 2003 27ª / 349 Segundo trámite constitucional / Senado Cuenta del Mensaje 207-349 que retira y hace presente la urgencia Simple
+08 de Sep. de 2003   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+09 de Sep. de 2003 32ª / 349 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Sep. de 2003 34ª / 349 Segundo trámite constitucional / Senado Discusión general Ver
+07 de Oct. de 2003 1ª / 350 Segundo trámite constitucional / Senado Cuenta del Mensaje 28-350 que hace presente la urgencia Simple
+13 de Oct. de 2003   Segundo trámite constitucional / Senado Boletín de indicaciones
+05 de Nov. de 2003   Segundo trámite constitucional / Senado Segundo informe de comisión. Pasa a Comisión de Hacienda Ver
+04 de Dic. de 2003   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+09 de Dic. de 2003 17ª / 350 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión. Cuenta Segundo informe de la Comisión de Defensa Nacional e Informe de la Comisión de Hacienda
+10 de Dic. de 2003 18ª / 350 Segundo trámite constitucional / Senado Discusión particular Ver
+11 de Dic. de 2003   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+11 de Dic. de 2003 33ª / 350 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+11 de Dic. de 2003   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3204-02","Fecha Etapa Informe Documento
+04 de Dic. de 2003 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+05 de Nov. de 2003 Segundo trámite constitucional Senado Segundo informe de comisión de Defensa Nacional Ver
+08 de Sep. de 2003 Segundo trámite constitucional Senado Primer informe de comisión de Defensa Nacional Ver
+12 de Ago. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión de Defensa Nacional Ver
+08 de Ago. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3204-02","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+07 de Oct. de 2003   Simple 28-350  
+26 de Ago. de 2003 07 de Oct. de 2003 Simple 207-349 28-350
+12 de Ago. de 2003 26 de Ago. de 2003 Simple 172-349 207-349
+08 de Jul. de 2003 12 de Ago. de 2003 Simple 99-349 172-349
+03 de Jun. de 2003 08 de Jul. de 2003 Simple 16-349 99-349
+29 de Abr. de 2003 04 de Nov. de 2003 Simple 551-348 172-349","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3204-02","Nombre Región Distrito Partido
+Ministerio de Defensa Nacional      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3204-02","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+31   67 0 0 0   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3204-02","No record","Veto emmEnd"

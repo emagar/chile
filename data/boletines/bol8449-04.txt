@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 8449-04","Legislatura: 360
+Fecha de ingreso: martes 17 de julio de 2012
+Estado: Segundo trámite constitucional .
+Numero de boletín: 8449-04
+Materia: Estudiantes,Pedagogía,Estudiantes De Pedagogía
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 01:41:06
+* * Hitos de tramitación * *
+"emmStart Hitos 8449-04","Fecha Sesión Etapa Sub-etapa Documento
+17 de Jul. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+17 de Jul. de 2012 56ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Deportes y Recreación Ver
+15 de Ene. de 2013 126ª / 360 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+07 de Mar. de 2013 136ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+07 de Mar. de 2013   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+12 de Mar. de 2013 1ª / 361 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8449-04","Fecha Etapa Informe Documento
+10 de Ene. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8449-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8449-04","Nombre Región Distrito Partido
+Germán Becker Alvear IX Región de la Araucanía N°50 Renovación Nacional
+Sergio Bobadilla Muñoz VIII Región del Bío Bío N°45 Unión Demócrata Independiente
+Cristina Girardi Lavín RM Región Metropolitana N°18 Partido Por la Democracia
+Romilio Gutiérrez Pino VII Región del Maule N°39 Unión Demócrata Independiente
+María José Hoffmann Opazo V Región de Valparaíso N°15 Unión Demócrata Independiente
+José Antonio Kast Rist RM Región Metropolitana N°30 Unión Demócrata Independiente
+Manuel Monsalve Benavides VIII Región del Bío Bío N°46 Partido Socialista
+Manuel Rojas Molina II Región de Antofagasta N°4 Unión Demócrata Independiente
+Mario Venegas Cárdenas IX Región de la Araucanía N°48 Partido Demócrata Cristiano
+Germán Verdugo Soto VII Región del Maule N°37 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8449-04","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+136   55 2 9 0 Aprobado Sala Ver detalle votación
+107 Votación General 10 0 0 3   Educación Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8449-04","No record","Veto emmEnd"

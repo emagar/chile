@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 7414-05","Legislatura: 358
+Fecha de ingreso: martes 04 de enero de 2011
+Estado: Segundo trámite constitucional .
+Numero de boletín: 7414-05
+Materia: Congreso Nacional
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 09-11-2014 03:49:34
+* * Hitos de tramitación * *
+"emmStart Hitos 7414-05","Fecha Sesión Etapa Sub-etapa Documento
+04 de Ene. de 2011   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+04 de Ene. de 2011 81ª / 358 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+06 de Abr. de 2011 7ª / 359 Primer trámite constitucional / Senado La Sala autoriza a la Comisión de Hacienda para que discuta este proyecto en general y en particular en el primer informe.
+21 de Jun. de 2011   Primer trámite constitucional / Senado Primer informe de comisión Ver
+21 de Jun. de 2011 27ª / 359 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Jul. de 2011 32ª / 359 Primer trámite constitucional / Senado Discusión general Ver
+12 de Jul. de 2011 33ª / 359 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 01/08/2011 Ver
+01 de Ago. de 2011   Primer trámite constitucional / Senado Boletín de indicaciones
+09 de Ago. de 2011   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+16 de Ago. de 2011 44ª / 359 Primer trámite constitucional / Senado Discusión particular Ver
+16 de Ago. de 2011   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+17 de Ago. de 2011 72ª / 359 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7414-05","Fecha Etapa Informe Documento
+09 de Ago. de 2011 Primer trámite constitucional Senado Segundo informe de comisión de Hacienda Ver
+21 de Jun. de 2011 Primer trámite constitucional Senado Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7414-05","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7414-05","Nombre
+Camilo Escalona Medina
+Eduardo Frei Ruiz-Tagle
+José Antonio Gómez Urrutia
+Ricardo Lagos Weber
+Alejandro Navarro Brain","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7414-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7414-05","No record","Veto emmEnd"

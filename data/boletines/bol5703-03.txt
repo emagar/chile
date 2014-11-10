@@ -1,0 +1,35 @@
+* * Bill summary * *
+"emmStart Summary 5703-03","Legislatura: 355
+Fecha de ingreso: jueves 10 de enero de 2008
+Estado: Primer trámite constitucional .
+Numero de boletín: 5703-03 Refundido con: 6165-03,5426-03,5439-03
+Materia: Instituciones Financieras,Creditos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 13:15:49
+* * Hitos de tramitación * *
+"emmStart Hitos 5703-03","Fecha Sesión Etapa Sub-etapa Documento
+10 de Ene. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Ene. de 2008 129ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+29 de Sep. de 2010 81ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Oct. de 2010 89ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5703-03","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5703-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5703-03","Nombre Región Distrito Partido
+Alfonso De Urresti Longton XIV Región de los Ríos N°53 Partido Socialista
+Alvaro Escobar Rufatt RM Región Metropolitana N°20 Independientes
+Karla Rubilar Barahona RM Región Metropolitana N°17 Renovación Nacional
+Esteban Valenzuela Van Treek VI Región del Libertador Bernardo O' Higgins N°32 Independientes
+Patricio Vallespín López X Región de los Lagos N°57 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5703-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5703-03","No record","Veto emmEnd"

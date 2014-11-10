@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 4511-15","Legislatura: 354
+Fecha de ingreso: martes 12 de septiembre de 2006
+Estado: Primer trámite constitucional .
+Numero de boletín: 4511-15
+Materia: Telefonía Celular
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 02:34:50
+* * Hitos de tramitación * *
+"emmStart Hitos 4511-15","Fecha Sesión Etapa Sub-etapa Documento
+12 de Sep. de 2006 74ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+12 de Sep. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de Jun. de 2007 39ª / 355 Primer trámite constitucional / C. Diputados Comisión de Economía solicita que se le remita el proyecto por ser atingente. NO HAY ACUERDO. Ver
+21 de Jun. de 2007 43ª / 355 Primer trámite constitucional / C. Diputados Oficio de la Comisión de Economía por el cual solicita el acuerdo de la Sala para que el proyecto -actualmente en la Comisión de Obras Públicas, Transportes y Telecomunicaciones- pase a ésta en primer lugar y después a la Comisión de Obras Públicas, Transportes y Telecomunicaciones. Acordado. Ver
+04 de Dic. de 2007 111ª / 355 Primer trámite constitucional / C. Diputados Comisión de Recursos Naturales solicita que proyecto le sea remitido. Actualmente está en Obras públicas. NO HAY ACUERDO. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4511-15","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4511-15","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4511-15","Nombre Región Distrito Partido
+Pedro Araya Guerrero II Región de Antofagasta N°4 Independientes
+Ramón Farías Ponce RM Región Metropolitana N°30 Partido Por la Democracia
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+Jaime Mulet Martínez III Región de Atacama N°6 Partido Regionalista Independiente
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Independientes
+Roberto Sepúlveda Hermosilla RM Región Metropolitana N°20 Renovación Nacional
+Gonzalo Uriarte Herrera RM Región Metropolitana N°31 Unión Demócrata Independiente
+Mario Venegas Cárdenas IX Región de la Araucanía N°48 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4511-15","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+43 Votación General 0 3 2 8   Economía Ver detalle votación
+43 Votación General 0 3 2 8   Economía Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4511-15","No record","Veto emmEnd"

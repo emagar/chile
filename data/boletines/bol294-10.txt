@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 294-10","Legislatura: 321
+Fecha de ingreso: martes 05 de marzo de 1991
+Estado: Tramitación terminada (D.S. Nº 1.177 - D.Oficial 30/11/1993)
+Numero de boletín: 294-10
+Materia: Acuerdos Internacionales
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 14:10:45
+* * Hitos de tramitación * *
+"emmStart Hitos 294-10","Fecha Sesión Etapa Sub-etapa Documento
+05 de Mar. de 1991   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+12 de Mar. de 1991 37ª / 321 Primer trámite constitucional / Senado Cuenta de proyecto
+20 de Mar. de 1991 39ª / 321 Primer trámite constitucional / Senado Primer informe de comisión Ver
+20 de Mar. de 1991 39ª / 321 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+09 de Abr. de 1991 42ª / 321 Primer trámite constitucional / Senado Discusión general Ver
+11 de Abr. de 1991 43ª / 321 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+05 de Nov. de 1991   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+13 de Nov. de 1991 20ª / 323 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+17 de Dic. de 1991   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen
+17 de Dic. de 1991 35ª / 323 Segundo trámite constitucional / C. Diputados Discusión general Ver
+19 de Dic. de 1991 29ª / 323 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+23 de Dic. de 1991 29ª / 323 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+03 de May. de 2000 46ª / 341 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 294-10","Fecha Etapa Informe Documento
+05 de Nov. de 1991 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+20 de Mar. de 1991 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 294-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 294-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 294-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 294-10","No record","Veto emmEnd"

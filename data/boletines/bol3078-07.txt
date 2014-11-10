@@ -1,0 +1,66 @@
+* * Bill summary * *
+"emmStart Summary 3078-07","Legislatura: 348
+Fecha de ingreso: miércoles 02 de octubre de 2002
+Estado: Tramitación terminada (Ley Nº 19.950 - D.Oficial 05/06/2004)
+Numero de boletín: 3078-07
+Materia: Hurto,Robo
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 22:53:53
+* * Hitos de tramitación * *
+"emmStart Hitos 3078-07","Fecha Sesión Etapa Sub-etapa Documento
+02 de Oct. de 2002   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Oct. de 2002 2ª / 348 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento Ver
+02 de Oct. de 2002   Primer trámite constitucional / C. Diputados Oficio Nº 3946 de consulta a Corte Suprema Ver
+31 de Oct. de 2002 12ª / 348 Primer trámite constitucional / C. Diputados Cuenta oficio 2982 de la Corte Suprema Ver Ver
+15 de Ene. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+21 de Ene. de 2003 45ª / 348 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+22 de Ene. de 2003 48ª / 348 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+22 de Ene. de 2003   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+04 de Mar. de 2003 28ª / 348 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+11 de Nov. de 2003   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+11 de Nov. de 2003 9ª / 350 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Nov. de 2003 11ª / 350 Segundo trámite constitucional / Senado Discusión general Ver
+09 de Dic. de 2003 17ª / 350 Segundo trámite constitucional / Senado Se acuerda abrir un nuevo plazo para presentar indicaciones hasta las 12 horas del lunes 15.12.03.
+09 de Dic. de 2003   Segundo trámite constitucional / Senado Boletín de indicaciones
+02 de Mar. de 2004 35ª / 350 Segundo trámite constitucional / Senado Se acuerda fijar nuevo plazo para indicac iones hasta el lunes 15 de marzo.
+15 de Mar. de 2004   Segundo trámite constitucional / Senado Boletín de indicaciones
+29 de Abr. de 2004   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+04 de May. de 2004 53ª / 350 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+12 de May. de 2004 57ª / 350 Segundo trámite constitucional / Senado Discusión particular Ver
+12 de May. de 2004   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+13 de May. de 2004 86ª / 350 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+18 de May. de 2004 87ª / 350 Tercer trámite constitucional / C. Diputados Discusión única Ver
+18 de May. de 2004   Tercer trámite constitucional / C. Diputados Oficio Nº 4949, que comunica aprobación de modificaciones Ver
+18 de May. de 2004   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+19 de May. de 2004 59ª / 350 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 4949, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3078-07","Fecha Etapa Informe Documento
+29 de Abr. de 2004 Segundo trámite constitucional Senado Segundo informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+11 de Nov. de 2003 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+15 de Ene. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión Especial de Seguridad Ciudadana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3078-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3078-07","Nombre Región Distrito Partido
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Marcela Cubillos Sigall RM Región Metropolitana N°21 Unión Demócrata Independiente
+Marcelo Forni Lobos V Región de Valparaíso N°11 Unión Demócrata Independiente
+Jaime Jiménez Villavicencio RM Región Metropolitana N°31 Independientes
+Darío Paya Mira RM Región Metropolitana N°28 Unión Demócrata Independiente
+Eduardo Saffirio Suárez IX Región de la Araucanía N°50 Partido Demócrata Cristiano
+Gonzalo Uriarte Herrera RM Región Metropolitana N°31 Unión Demócrata Independiente
+Patricio Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3078-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+48   82 0 0 1   Sala Ver detalle votación
+87 494 bis, inciso final 67 18 1 3   Sala Ver detalle votación
+87   79 9 0 0   Sala Ver detalle votación
+48 Indicación señor Bustos y otros 82 0 0 4   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3078-07","No record","Veto emmEnd"

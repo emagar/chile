@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 2247-05","Legislatura: 339
+Fecha de ingreso: martes 06 de octubre de 1998
+Estado: Tramitación terminada (Ley Nº 19.596 - D.Oficial 02/12/1998)
+Numero de boletín: 2247-05
+Materia: Presupuesto Sector Público
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 22:31:33
+* * Hitos de tramitación * *
+"emmStart Hitos 2247-05","Fecha Sesión Etapa Sub-etapa Documento
+06 de Oct. de 1998   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Oct. de 1998 1ª / 339 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión Especial Mixta de Presupuesto Ver
+17 de Nov. de 1998   Comisión Mixta por rechazo de modificaciones / Senado Informe de Comisión Mixta Ver
+17 de Nov. de 1998 17ª / 339 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+17 de Nov. de 1998 18ª / 339 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+18 de Nov. de 1998   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+18 de Nov. de 1998 9ª / 339 Segundo trámite constitucional / Senado Cuenta de proyecto
+18 de Nov. de 1998 9ª / 339 Segundo trámite constitucional / Senado Discusión general Ver
+18 de Nov. de 1998   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+19 de Nov. de 1998 22ª / 339 Tercer trámite constitucional / C. Diputados Discusión única Ver
+19 de Nov. de 1998 21ª / 339 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+23 de Nov. de 1998   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+01 de Dic. de 1998 10ª / 339 Tramitación terminada / Cuenta en el Senado del oficio Nº 2.200 de la Cámara de Diputados en que comunica la aprobación de las enmiendas propuestas por el Senado.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2247-05","Fecha Etapa Informe Documento
+17 de Nov. de 1998 Comisión Mixta por rechazo de modificaciones Senado Informe de Comisión Mixta Especial Mixta de Presupuestos Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2247-05","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2247-05","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2247-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2247-05","No record","Veto emmEnd"

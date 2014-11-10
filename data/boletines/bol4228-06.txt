@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 4228-06","Legislatura: 354
+Fecha de ingreso: miércoles 14 de junio de 2006
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 4228-06
+Materia:
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 23:10:32
+* * Hitos de tramitación * *
+"emmStart Hitos 4228-06","Fecha Sesión Etapa Sub-etapa Documento
+14 de Jun. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+14 de Jun. de 2006 36ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+06 de Sep. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de Sep. de 2006 73ª / 354 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+07 de Sep. de 2006 73ª / 354 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4228-06","Fecha Etapa Informe Documento
+06 de Sep. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4228-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4228-06","Nombre Región Distrito Partido
+Eugenio Bauer Jouanne VI Región del Libertador Bernardo O' Higgins N°33 Unión Demócrata Independiente
+Germán Becker Alvear IX Región de la Araucanía N°50 Renovación Nacional
+Gonzalo Duarte Leiva RM Región Metropolitana N°26 Partido Demócrata Cristiano
+Jorge Insunza Gregorio de las Heras RM Región Metropolitana N°28 Partido Por la Democracia
+Fulvio Rossi Ciocca I Región de Tarapacá N°2 Partido Socialista
+Carolina Tohá Morales RM Región Metropolitana N°22 Partido Por la Democracia
+Jorge Ulloa Aguillón VIII Región del Bío Bío N°43 Unión Demócrata Independiente
+Ignacio Urrutia Bonilla VII Región del Maule N°40 Unión Demócrata Independiente
+Esteban Valenzuela Van Treek VI Región del Libertador Bernardo O' Higgins N°32 Independientes
+Patricio Vallespín López X Región de los Lagos N°57 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4228-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+73   61 9 10 0 Rechazado Sala Ver detalle votación
+17 Votación General 8 1 1 3   Gobierno Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4228-06","No record","Veto emmEnd"

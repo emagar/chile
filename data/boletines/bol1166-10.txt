@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 1166-10","Legislatura: 327
+Fecha de ingreso: miércoles 09 de marzo de 1994
+Estado: Tramitación terminada (D.S. Nº 1.624 - D.Oficial 21/02/1996)
+Numero de boletín: 1166-10
+Materia: Inversiones,Protección Recíproca De Inversiones
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 03:55:21
+* * Hitos de tramitación * *
+"emmStart Hitos 1166-10","Fecha Sesión Etapa Sub-etapa Documento
+09 de Mar. de 1994 33ª / 327 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+09 de Mar. de 1994   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+22 de Mar. de 1995 47ª / 330 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+22 de Mar. de 1995 47ª / 330 Primer trámite constitucional / Senado Primer informe de comisión Ver
+11 de Abr. de 1995 51ª / 330 Primer trámite constitucional / Senado Discusión general Ver
+11 de Abr. de 1995 51ª / 330 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+13 de Abr. de 1995 58ª / 330 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+03 de May. de 1995   Segundo trámite constitucional / C. Diputados Primer informe de comisión
+11 de May. de 1995 69ª / 330 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+16 de May. de 1995 70ª / 330 Segundo trámite constitucional / C. Diputados Discusión general Ver
+16 de May. de 1995   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen
+17 de May. de 1995 63ª / 330 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+17 de May. de 1995 63ª / 330 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1166-10","Fecha Etapa Informe Documento
+03 de May. de 1995 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+22 de Mar. de 1995 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1166-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1166-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1166-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1166-10","No record","Veto emmEnd"

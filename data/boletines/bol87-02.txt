@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 87-02","Legislatura: 320
+Fecha de ingreso: miércoles 20 de junio de 1990
+Estado: Tramitación terminada (Ley Nº 18.997 - D.Oficial 28/09/1990)
+Numero de boletín: 87-02
+Materia: Direccion General De Movilización Nacional,Fuerzas Armadas
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 30-10-2014 17:37:39
+* * Hitos de tramitación * *
+"emmStart Hitos 87-02","Fecha Sesión Etapa Sub-etapa Documento
+20 de Jun. de 1990 9ª / 320 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+25 de Jul. de 1990 19ª / 320 Segundo trámite constitucional / Senado Cuenta de proyecto
+08 de Ago. de 1990   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+14 de Ago. de 1990 24ª / 320 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+21 de Ago. de 1990 25ª / 320 Segundo trámite constitucional / Senado Discusión general Ver
+21 de Ago. de 1990 25ª / 320 Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen
+28 de Ago. de 1990 27ª / 320 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+28 de Ago. de 1990 27ª / 320 Tercer trámite constitucional / C. Diputados Discusión única Ver
+11 de Ago. de 1999   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+29 de Abr. de 2003   Tercer trámite constitucional / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 348
+02 de Dic. de 2003   Tercer trámite constitucional / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 350","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 87-02","Fecha Etapa Informe Documento
+08 de Ago. de 1990 Segundo trámite constitucional Senado Primer informe de comisión de Defensa Nacional Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 87-02","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+20 de Jun. de 1990   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 87-02","Nombre Región Distrito Partido
+Ministerio de Defensa Nacional      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 87-02","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 87-02","No record","Veto emmEnd"

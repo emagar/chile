@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 3282-07","Legislatura: 349
+Fecha de ingreso: miércoles 09 de julio de 2003
+Estado: Tramitación terminada (Ley Nº 19.918 - D.Oficial 18/12/2003)
+Numero de boletín: 3282-07
+Materia: Código Penal
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 04-11-2014 01:06:46
+* * Hitos de tramitación * *
+"emmStart Hitos 3282-07","Fecha Sesión Etapa Sub-etapa Documento
+09 de Jul. de 2003   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+09 de Jul. de 2003 10ª / 349 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+09 de Sep. de 2003   Primer trámite constitucional / Senado Primer informe de comisión Ver
+09 de Sep. de 2003 32ª / 349 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Sep. de 2003 34ª / 349 Primer trámite constitucional / Senado Discusión general Ver
+10 de Sep. de 2003   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+11 de Sep. de 2003 40ª / 349 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+12 de Nov. de 2003   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de Nov. de 2003 21ª / 350 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+18 de Nov. de 2003 21ª / 350 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+18 de Nov. de 2003   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+19 de Nov. de 2003 13ª / 350 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+19 de Nov. de 2003   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3282-07","Fecha Etapa Informe Documento
+12 de Nov. de 2003 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+09 de Sep. de 2003 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3282-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3282-07","Nombre
+Sergio Fernández Fernández
+Jovino Novoa Vásquez","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3282-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+21   88 1 1 3   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3282-07","No record","Veto emmEnd"

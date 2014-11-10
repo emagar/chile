@@ -1,0 +1,50 @@
+* * Bill summary * *
+"emmStart Summary 5919-15","Legislatura: 356
+Fecha de ingreso: martes 17 de junio de 2008
+Estado: Tramitación terminada (Ley Nº 20.476 - D.Oficial 10/12/2010)
+Numero de boletín: 5919-15 Refundido con: 6936-15,6304-19,5552-15,6270-19
+Materia: Servicio Público De Telefonía
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 00:46:53
+* * Hitos de tramitación * *
+"emmStart Hitos 5919-15","Fecha Sesión Etapa Sub-etapa Documento
+17 de Jun. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+17 de Jun. de 2008 40ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+31 de Jul. de 2008 56ª / 356 Primer trámite constitucional / C. Diputados Comisión de Obras Públicas solicita acuerdo de la Corporación para sesionar simultáneamente con la Sala el día 6 de agosto de 11 a 13 horas. ACORDADO. Ver
+17 de Jun. de 2010 41ª / 358 Primer trámite constitucional / C. Diputados Oficio de la Comisión de Ciencia y Tecnología, por el cual solicita el acuerdo de la Sala, para que le sea remitido el proyecto. Acordado. (Oficios 8819 y 8820 del 17.6.10, a los Presidentes de las Comisiones de Obras Públicas, Transportes y Telecomunicaciones y Ciencia y Tecnología, respectivamente, comunican acuerdo) Ver
+10 de Ago. de 2010 61ª / 358 Primer trámite constitucional / C. Diputados Comunicación Comisión de Ciencia y Tecnología, solicita acuerdo de la Sala para refundir el proyecto con los boletines 6270-19, 6304-19 y 6936-15. EN TABLA. Acordado. Ver
+01 de Sep. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de Sep. de 2010 71ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+16 de Sep. de 2010 77ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+16 de Sep. de 2010   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+28 de Sep. de 2010 55ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones
+10 de Nov. de 2010   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+10 de Nov. de 2010 66ª / 358 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Nov. de 2010 66ª / 358 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 16/11/2010 Ver
+16 de Nov. de 2010 68ª / 358 Segundo trámite constitucional / Senado Discusión particular Ver
+16 de Nov. de 2010   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+17 de Nov. de 2010 104ª / 358 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+18 de Nov. de 2010   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5919-15","Fecha Etapa Informe Documento
+10 de Nov. de 2010 Segundo trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver
+01 de Sep. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Ciencias y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5919-15","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5919-15","Nombre Región Distrito Partido
+Marcos Espinosa Monardes II Región de Antofagasta N°3 Partido Radical Social Demócrata
+Fernando Meza Moncada IX Región de la Araucanía N°52 Partido Radical Social Demócrata
+Jaime Quintana Leal IX Región de la Araucanía N°49 Partido Por la Democracia
+Alberto Robles Pantoja III Región de Atacama N°6 Partido Radical Social Demócrata
+Samuel Venegas Rubio V Región de Valparaíso N°15 Independientes","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5919-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5919-15","No record","Veto emmEnd"

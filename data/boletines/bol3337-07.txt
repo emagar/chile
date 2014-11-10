@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 3337-07","Legislatura: 349
+Fecha de ingreso: miércoles 03 de septiembre de 2003
+Estado: Archivado .
+Numero de boletín: 3337-07
+Materia: Administración Pública
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 01:40:08
+* * Hitos de tramitación * *
+"emmStart Hitos 3337-07","Fecha Sesión Etapa Sub-etapa Documento
+03 de Sep. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Sep. de 2003 36ª / 349 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+20 de Jul. de 2006   Primer trámite constitucional / C. Diputados Archivado
+03 de Ago. de 2006   Archivado / Oficio Nº6288. Se accede al archivo del proyecto Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3337-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3337-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+03 de Sep. de 2003   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3337-07","Nombre Región Distrito Partido
+Rodrigo Alvarez Zenteno XII Región de Magallanes y de la Antártica Chilena N°60 Unión Demócrata Independiente
+Mario Bertolino Rendic IV Región de Coquimbo N°7 Renovación Nacional
+Marcela Cubillos Sigall RM Región Metropolitana N°21 Unión Demócrata Independiente
+Pablo Galilea Carrillo XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Renovación Nacional
+Cristián Leay Morán RM Región Metropolitana N°19 Unión Demócrata Independiente
+Pablo Longueira Montes RM Región Metropolitana N°17 Unión Demócrata Independiente
+Iván Moreira Barros RM Región Metropolitana N°27 Unión Demócrata Independiente
+Carlos Recondo Lavanderos X Región de los Lagos N°56 Unión Demócrata Independiente
+Felipe Salaberry Soto RM Región Metropolitana N°25 Unión Demócrata Independiente
+Mario Varela Herrera RM Región Metropolitana N°20 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3337-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3337-07","No record","Veto emmEnd"

@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 5146-07","Legislatura: 355
+Fecha de ingreso: miércoles 13 de junio de 2007
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 5146-07 Refundido con: 1812-07
+Materia: Cuenta Pública ,Congreso Nacional,Cámara De Diputados,Trabajo Legislativo,Senado
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 07-11-2014 01:11:13
+* * Hitos de tramitación * *
+"emmStart Hitos 5146-07","Fecha Sesión Etapa Sub-etapa Documento
+13 de Jun. de 2007   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+19 de Jun. de 2007 26ª / 355 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+22 de Oct. de 2007   Primer trámite constitucional / Senado Primer informe de comisión Ver
+07 de Nov. de 2007 63ª / 355 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+13 de Nov. de 2007 64ª / 355 Primer trámite constitucional / Senado Discusión general Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5146-07","Fecha Etapa Informe Documento
+22 de Oct. de 2007 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5146-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5146-07","Nombre
+José García Ruminot
+Guido Girardi Lavín
+Antonio Horvath Kiss
+Baldo Prokurica Prokurica","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5146-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5146-07","No record","Veto emmEnd"

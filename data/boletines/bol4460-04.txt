@@ -1,0 +1,48 @@
+* * Bill summary * *
+"emmStart Summary 4460-04","Legislatura: 354
+Fecha de ingreso: martes 29 de agosto de 2006
+Estado: Tramitación terminada (Ley Nº 20.182 - D.Oficial 17/05/2007)
+Numero de boletín: 4460-04
+Materia: Monumentos
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 06-11-2014 01:57:11
+* * Hitos de tramitación * *
+"emmStart Hitos 4460-04","Fecha Sesión Etapa Sub-etapa Documento
+29 de Ago. de 2006   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+30 de Ago. de 2006 47ª / 354 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+28 de Nov. de 2006 71ª / 354 Primer trámite constitucional / Senado Cuenta de comunicación de la Comisión de Educación, Cultura, Ciencia y Tecnología en que solicita autorización de la Sala para discutir en general y en particular el PL, en su primer informe. Se accede a lo solicitado.
+29 de Nov. de 2006   Primer trámite constitucional / Senado Primer informe de comisión Ver
+29 de Nov. de 2006 72ª / 354 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+05 de Dic. de 2006 73ª / 354 Primer trámite constitucional / Senado Discusión general Ver
+06 de Dic. de 2006   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+07 de Dic. de 2006 105ª / 354 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión Especial de la Cultura y las Artes Ver Ver
+08 de Mar. de 2007   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+13 de Mar. de 2007 1ª / 355 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+04 de Abr. de 2007 10ª / 355 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+04 de Abr. de 2007   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+10 de Abr. de 2007 9ª / 355 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+10 de Abr. de 2007   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4460-04","Fecha Etapa Informe Documento
+08 de Mar. de 2007 Segundo trámite constitucional C.Diputados Primer informe de comisión de la Cultura y las Artes Ver
+29 de Nov. de 2006 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4460-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4460-04","Nombre
+Eduardo Frei Ruiz-Tagle
+José Antonio Gómez Urrutia
+Pablo Longueira Montes
+Carlos Ominami Pascual
+Baldo Prokurica Prokurica","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4460-04","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+10   75 0 0 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4460-04","No record","Veto emmEnd"

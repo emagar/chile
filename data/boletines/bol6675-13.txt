@@ -1,0 +1,51 @@
+* * Bill summary * *
+"emmStart Summary 6675-13","Legislatura: 357
+Fecha de ingreso: martes 01 de septiembre de 2009
+Estado: Tramitación terminada (Ley Nº 20.482 - D.Oficial 04/01/2011)
+Numero de boletín: 6675-13
+Materia: Código Del Trabajo,Permisos (Trabajo)
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 15:01:13
+* * Hitos de tramitación * *
+"emmStart Hitos 6675-13","Fecha Sesión Etapa Sub-etapa Documento
+01 de Sep. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+01 de Sep. de 2009 73ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+27 de Oct. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de Nov. de 2009 106ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+15 de Dic. de 2009 109ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver
+15 de Dic. de 2009   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+16 de Dic. de 2009 76ª / 357 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social
+15 de Nov. de 2010   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+16 de Nov. de 2010 68ª / 358 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+17 de Nov. de 2010 69ª / 358 Segundo trámite constitucional / Senado Discusión general Ver
+17 de Nov. de 2010   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+30 de Nov. de 2010 104ª / 358 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+30 de Nov. de 2010   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6675-13","Fecha Etapa Informe Documento
+15 de Nov. de 2010 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver
+27 de Nov. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6675-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6675-13","Nombre Región Distrito Partido
+Mario Bertolino Rendic IV Región de Coquimbo N°7 Renovación Nacional
+Eduardo Díaz Del Río IX Región de la Araucanía N°51 Partido Regionalista Independiente
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Adriana Muñoz D'Albora IV Región de Coquimbo N°9 Partido Por la Democracia
+Clemira Pacheco Rivas VIII Región del Bío Bío N°45 Partido Socialista
+Denise Pascal Allende RM Región Metropolitana N°31 Partido Socialista
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Independientes
+Roberto Sepúlveda Hermosilla RM Región Metropolitana N°20 Renovación Nacional
+Esteban Valenzuela Van Treek VI Región del Libertador Bernardo O' Higgins N°32 Independientes","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6675-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+109   66 0 0 54 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6675-13","No record","Veto emmEnd"

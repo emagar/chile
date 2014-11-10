@@ -1,0 +1,50 @@
+* * Bill summary * *
+"emmStart Summary 293-10","Legislatura: 321
+Fecha de ingreso: jueves 07 de marzo de 1991
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 293-10
+Materia: Acuerdos Internacionales
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 14:10:11
+* * Hitos de tramitación * *
+"emmStart Hitos 293-10","Fecha Sesión Etapa Sub-etapa Documento
+07 de Mar. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+07 de Mar. de 1991 34ª / 321 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+05 de May. de 1992   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+30 de Jul. de 1992   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+04 de Ago. de 1992 23ª / 324 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. Queda para tabla Cuenta de ambos informes Ver
+01 de Sep. de 1992   Primer trámite constitucional / C. Diputados Pendiente Discusión.
+15 de Sep. de 1992 40ª / 324 Primer trámite constitucional / C. Diputados Discusión general Ver
+15 de Sep. de 1992   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+08 de Oct. de 1992 2ª / 325 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+20 de Ene. de 1993   Segundo trámite constitucional / Senado Se accede a lo solicitado.
+20 de Ene. de 1993 2ª / 325 Segundo trámite constitucional / Senado Cuente Of. de la comisión solicitando el acuerdo de la Sala para que el proyecto pase también a la Comisión de Hacienda, con el objeto que se pronuncie sobre exenciones que en él se contemplan y respecto de los gastos que podría originar.
+23 de Mar. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+23 de Mar. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+23 de Mar. de 1993 35ª / 325 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+24 de Mar. de 1993 36ª / 325 Segundo trámite constitucional / Senado Discusión general Ver
+24 de Mar. de 1993   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+28 de Mar. de 1993   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+30 de Mar. de 1993 57ª / 325 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 293-10","Fecha Etapa Informe Documento
+23 de Mar. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+23 de Mar. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+30 de Jul. de 1992 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+05 de May. de 1992 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 293-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+07 de Mar. de 1991   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 293-10","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 293-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 293-10","No record","Veto emmEnd"

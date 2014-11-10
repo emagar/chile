@@ -1,0 +1,50 @@
+* * Bill summary * *
+"emmStart Summary 2089-07","Legislatura: 335
+Fecha de ingreso: miércoles 10 de septiembre de 1997
+Estado: Tramitación terminada (Ley Nº 19.671 - D.Oficial 29/04/2000)
+Numero de boletín: 2089-07
+Materia: Reforma Constitucional
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 18:33:52
+* * Hitos de tramitación * *
+"emmStart Hitos 2089-07","Fecha Sesión Etapa Sub-etapa Documento
+10 de Sep. de 1997   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+10 de Sep. de 1997 34ª / 335 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+04 de Ago. de 1998   Primer trámite constitucional / Senado Primer informe de comisión Ver
+04 de Ago. de 1998 17ª / 338 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+01 de Sep. de 1998 25ª / 338 Primer trámite constitucional / Senado Discusión general pendiente Ver
+09 de Sep. de 1998 29ª / 338 Primer trámite constitucional / Senado Discusión general Ver
+15 de Sep. de 1998   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+16 de Sep. de 1998 38ª / 338 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+07 de Sep. de 1999   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Sep. de 1999 39ª / 340 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+09 de Sep. de 1999 39ª / 340 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Sep. de 1999 40ª / 340 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+05 de Oct. de 1999   Segundo trámite constitucional / C. Diputados S.E.El Presidente de la Republica incluye el proyecto en la Convocatoria Extraodinaria 341
+25 de Ene. de 2000 25ª / 341 Segundo trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+25 de Ene. de 2000 25ª / 341 Segundo trámite constitucional / C. Diputados Discusión particular Ver Ver
+25 de Ene. de 2000   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+07 de Mar. de 2000 22ª / 341 Congreso Pleno / Cuenta oficio aprobacion sin modificaciones Ver
+25 de Mar. de 2000   Congreso Pleno / Ratificación reforma constitucional
+25 de Mar. de 2000   Congreso Pleno / Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2089-07","Fecha Etapa Informe Documento
+18 de Ene. de 2000 Primer trámite constitucional C.Diputados Segundo informe de comisión de Constitución, Legislación y Justicia Ver
+07 de Sep. de 1999 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+04 de Ago. de 1998 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2089-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+14 de Dic. de 1999 04 de Ene. de 2000 Simple 254-341 276-341","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2089-07","Nombre
+Nicolás Díaz Sánchez","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2089-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2089-07","No record","Veto emmEnd"

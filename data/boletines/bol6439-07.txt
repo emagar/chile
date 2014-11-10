@@ -1,0 +1,54 @@
+* * Bill summary * *
+"emmStart Summary 6439-07","Legislatura: 357
+Fecha de ingreso: jueves 02 de abril de 2009
+Estado: Primer trámite constitucional .
+Numero de boletín: 6439-07 Refundido con: 6438-03
+Materia: Delitos,Consumidores,Libre Competencia
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 07:38:17
+* * Hitos de tramitación * *
+"emmStart Hitos 6439-07","Fecha Sesión Etapa Sub-etapa Documento
+02 de Abr. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Abr. de 2009 8ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+15 de Abr. de 2009 16ª / 357 Primer trámite constitucional / C. Diputados Cuenta, Oficio de la Comisión de Economía, por el cual solicita el asentimiento de la Corporación para que se le remita el proyecto, por cuanto dice relación con la moción que \""impone penas por delitos que atentan contra la libre competencia\"". Bol. N° 6438-03. Acordado. (Oficios 8025 y 8026 del 15.4.09 a los Presidentes de las Comisiones de Constitución y Economía, respectivamente, comunican acuerdo). Ver
+05 de Ago. de 2009 59ª / 357 Primer trámite constitucional / C. Diputados Comisión de Constitución solicita que proyecto le sea remitido. Ver
+18 de Ago. de 2009 67ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 953-357 que hace presente la urgencia Suma Ver
+01 de Sep. de 2009 73ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 999-357 que retira y hace presente la urgencia Suma Ver
+08 de Sep. de 2009 76ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1095-357 que retira y hace presente la urgencia Simple Ver
+13 de Oct. de 2009 88ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1307-357 que retira y hace presente la urgencia Simple Ver
+03 de Nov. de 2009 97ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1458-357 que retira la urgencia Simple Ver
+21 de Dic. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+21 de Dic. de 2009 112ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+06 de Ene. de 2010 115ª / 357 Primer trámite constitucional / C. Diputados Comisión de Constitución solicita plazo de 30 días para analizar el proyecto. CONCEDIDO. Ver
+25 de Mar. de 2010 8ª / 358 Primer trámite constitucional / C. Diputados Comisión de Constitución solicita prórroga de 60 días para el cumplimiento de su mandato.ACORDADO. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6439-07","Fecha Etapa Informe Documento
+21 de Dic. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6439-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+13 de Oct. de 2009 03 de Nov. de 2009 Simple 1307-357 1458-357
+08 de Sep. de 2009 13 de Oct. de 2009 Simple 1095-357 1307-357
+01 de Sep. de 2009 08 de Sep. de 2009 Suma 999-357 1095-357
+18 de Ago. de 2009 01 de Sep. de 2009 Suma 953-357 999-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6439-07","Nombre Región Distrito Partido
+Isabel Allende Bussi RM Región Metropolitana N°29 Partido Socialista
+Alfonso De Urresti Longton XIV Región de los Ríos N°53 Partido Socialista
+Marcelo Díaz Díaz IV Región de Coquimbo N°7 Partido Socialista
+Francisco Encina Moriamez IV Región de Coquimbo N°8 Partido Socialista
+Fidel Espinoza Sandoval X Región de los Lagos N°56 Partido Socialista
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+Iván Paredes Fierro XV Región Arica y Parinacota N°1 Partido Socialista
+Denise Pascal Allende RM Región Metropolitana N°31 Partido Socialista
+Fulvio Rossi Ciocca I Región de Tarapacá N°2 Partido Socialista
+Marcelo Schilling Rodríguez V Región de Valparaíso N°12 Partido Socialista","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6439-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6439-07","No record","Veto emmEnd"

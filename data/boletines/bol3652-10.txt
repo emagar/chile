@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 3652-10","Legislatura: 351
+Fecha de ingreso: martes 07 de septiembre de 2004
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 3652-10
+Materia: Acuerdos Internacionales
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 06:56:43
+* * Hitos de tramitación * *
+"emmStart Hitos 3652-10","Fecha Sesión Etapa Sub-etapa Documento
+07 de Sep. de 2004 38ª / 351 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+07 de Sep. de 2004   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Oct. de 2004   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+19 de Oct. de 2004 8ª / 352 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+11 de Nov. de 2004 18ª / 352 Primer trámite constitucional / C. Diputados Discusión única Ver
+11 de Nov. de 2004   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+16 de Nov. de 2004 13ª / 352 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores Ver
+04 de Ene. de 2005   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+05 de Ene. de 2005 24ª / 352 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión. Queda para tabla
+12 de Ene. de 2005 27ª / 352 Segundo trámite constitucional / Senado Discusión única
+12 de Ene. de 2005   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+13 de Ene. de 2005 40ª / 352 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver Ver
+13 de Ene. de 2005   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3652-10","Fecha Etapa Informe Documento
+04 de Ene. de 2005 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+12 de Oct. de 2004 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3652-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3652-10","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3652-10","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+18   60 0 0 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3652-10","No record","Veto emmEnd"

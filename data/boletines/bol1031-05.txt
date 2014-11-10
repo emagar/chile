@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 1031-05","Legislatura: 326
+Fecha de ingreso: miércoles 07 de julio de 1993
+Estado: Tramitación terminada (Ley Nº 19.242 - D.Oficial 02/09/1993)
+Numero de boletín: 1031-05
+Materia: Bonificacion Por Contratación De Mano De Obra
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 02:10:25
+* * Hitos de tramitación * *
+"emmStart Hitos 1031-05","Fecha Sesión Etapa Sub-etapa Documento
+07 de Jul. de 1993 12ª / 326 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+07 de Jul. de 1993   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Jul. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+13 de Jul. de 1993 15ª / 326 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Jul. de 1993 18ª / 326 Primer trámite constitucional / C. Diputados Discusión general Ver
+15 de Jul. de 1993   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+20 de Jul. de 1993 12ª / 326 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+03 de Ago. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+04 de Ago. de 1993 15ª / 326 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Ago. de 1993   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+10 de Ago. de 1993 16ª / 326 Segundo trámite constitucional / Senado Discusión general Ver
+11 de Ago. de 1993   Tramitación terminada / Oficio Nº4863. comunica aprobación con modificaciones a Cámara de origen Ver
+17 de Ago. de 1993 28ª / 326 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+17 de Ago. de 1993 28ª / 326 Tercer trámite constitucional / C. Diputados Discusión única Ver
+17 de Ago. de 1993   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+18 de Ago. de 1993 19ª / 326 Tramitación terminada / Cuenta oficio de la Cámara comunicando aprobación modificaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1031-05","Fecha Etapa Informe Documento
+03 de Ago. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+12 de Jul. de 1993 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1031-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+07 de Jul. de 1993   Suma    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1031-05","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1031-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1031-05","No record","Veto emmEnd"

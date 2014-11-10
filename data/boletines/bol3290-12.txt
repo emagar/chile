@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 3290-12","Legislatura: 349
+Fecha de ingreso: viernes 18 de julio de 2003
+Estado: Primer trámite constitucional .
+Numero de boletín: 3290-12
+Materia: Bonos De Descontaminación
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 01:10:58
+* * Hitos de tramitación * *
+"emmStart Hitos 3290-12","Fecha Sesión Etapa Sub-etapa Documento
+16 de Jul. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+16 de Jul. de 2003 18ª / 349 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver
+16 de Dic. de 2003 34ª / 350 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 300-350 que retira la urgencia Suma Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3290-12","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3290-12","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+08 de Jun. de 2004   Simple 15-351  
+11 de May. de 2004   Simple 703-350  
+06 de Abr. de 2004 11 de May. de 2004 Simple 596-350 703-350
+02 de Mar. de 2004 06 de Abr. de 2004 Simple 488-350 596-350
+14 de Ene. de 2004 15 de Ene. de 2004 Suma 405-350 414-350
+09 de Dic. de 2003 16 de Dic. de 2003 Suma 279-350 300-350
+04 de Nov. de 2003 11 de Nov. de 2003 Suma 137-350 177-350","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3290-12","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3290-12","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3290-12","No record","Veto emmEnd"

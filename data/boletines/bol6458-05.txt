@@ -1,0 +1,67 @@
+* * Bill summary * *
+"emmStart Summary 6458-05","Legislatura: 357
+Fecha de ingreso: martes 14 de abril de 2009
+Estado: Tramitación terminada (Ley Nº 20.374 - D.Oficial 07/09/2009)
+Numero de boletín: 6458-05
+Materia: Universidades Estatales,Incentivo Al Retiro
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 07:50:39
+* * Hitos de tramitación * *
+"emmStart Hitos 6458-05","Fecha Sesión Etapa Sub-etapa Documento
+14 de Abr. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+14 de Abr. de 2009 14ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+02 de Jun. de 2009 34ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 490-357 que hace presente la urgencia Suma Ver
+10 de Jun. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Jun. de 2009 40ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+11 de Jun. de 2009 40ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver
+11 de Jun. de 2009   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+16 de Jun. de 2009 26ª / 357 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+16 de Jun. de 2009 26ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 567-357 que retira y hace presente la urgencia Suma
+30 de Jun. de 2009 29ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 651-357 que retira y hace presente la urgencia Suma
+08 de Jul. de 2009   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+08 de Jul. de 2009 32ª / 357 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+14 de Jul. de 2009 33ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 736-357 que retira y hace presente la urgencia Suma
+14 de Jul. de 2009 33ª / 357 Segundo trámite constitucional / Senado La Sala, previo acuerdo de Comités, dispone que este proyecto sea conocido, en trámite de segundo informe, por las Comisiones de Hacienda y de Educación, Cultura, Ciencia y Tecnología, unidas. Ver
+14 de Jul. de 2009 33ª / 357 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 27/07/2009 Ver
+27 de Jul. de 2009   Segundo trámite constitucional / Senado Boletín de indicaciones
+28 de Jul. de 2009 35ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 795-357 que retira y hace presente la urgencia Suma
+04 de Ago. de 2009 37ª / 357 Segundo trámite constitucional / Senado La Sala, previo acuerdo de Comités, decide abrir un nuevo plazo para presentar indicaciones, hasta las 18 horas del día de hoy, martes 4 de agosto, las que se deberán presentar directamente en la Secretaría de las Comisiones unidas.
+05 de Ago. de 2009   Segundo trámite constitucional / Senado Segundo informe de comisión. y de Educación, Cultura, Ciencia y Tecnología, unidas. Ver
+05 de Ago. de 2009 38ª / 357 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+05 de Ago. de 2009 39ª / 357 Segundo trámite constitucional / Senado Discusión particular Ver
+05 de Ago. de 2009   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+06 de Ago. de 2009 60ª / 357 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+06 de Ago. de 2009 60ª / 357 Tercer trámite constitucional / C. Diputados Senado comunica que ha aprobado, con modificaciones, el proyecto. EN TABLA. Ver
+11 de Ago. de 2009 61ª / 357 Tercer trámite constitucional / C. Diputados Discusión única Ver
+11 de Ago. de 2009   Tercer trámite constitucional / C. Diputados Oficio N? 8270, que comunica aprobacion de modificaciones Ver
+11 de Ago. de 2009   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+12 de Ago. de 2009 41ª / 357 Tercer trámite constitucional / C. Diputados Cuenta oficio N? 8270, que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6458-05","Fecha Etapa Informe Documento
+05 de Ago. de 2009 Segundo trámite constitucional Senado Segundo informe de comisión de Hacienda Ver
+08 de Jul. de 2009 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+10 de Jun. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+10 de Jun. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión Zonas Extremas Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6458-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+28 de Jul. de 2009   Suma 795-357  
+14 de Jul. de 2009 28 de Jul. de 2009 Suma 736-357 795-357
+30 de Jun. de 2009 14 de Jul. de 2009 Suma 651-357 736-357
+16 de Jun. de 2009 30 de Jun. de 2009 Suma 567-357 651-357
+02 de Jun. de 2009 16 de Jun. de 2009 Suma 490-357 567-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6458-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6458-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+61   101 0 0 19 Aprobado Sala Ver detalle votación
+40   93 0 0 27 Aprobado Sala Ver detalle votación
+233 Votación General 7 0 0 6   Hacienda Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6458-05","No record","Veto emmEnd"

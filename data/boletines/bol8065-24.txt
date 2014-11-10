@@ -1,0 +1,39 @@
+* * Bill summary * *
+"emmStart Summary 8065-24","Legislatura: 359
+Fecha de ingreso: lunes 28 de noviembre de 2011
+Estado: Primer trámite constitucional .
+Numero de boletín: 8065-24
+Materia: Dia Del Congreso Nacional De Chile (4 De Julio)
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 15:02:12
+* * Hitos de tramitación * *
+"emmStart Hitos 8065-24","Fecha Sesión Etapa Sub-etapa Documento
+28 de Nov. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+28 de Nov. de 2011 116ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de la Cultura y las Artes Ver
+22 de Dic. de 2011 125ª / 359 Primer trámite constitucional / C. Diputados Oficio de la Comisión de Constitución, Legislación y Justicia, por el cual solicita el acuerdo de la Sala, para que le sea remitido el proyecto. Acordado. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8065-24","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8065-24","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8065-24","Nombre Región Distrito Partido
+Pedro Araya Guerrero II Región de Antofagasta N°4 Partido Regionalista Independiente
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Alberto Cardemil Herrera RM Región Metropolitana N°22 Renovación Nacional
+Aldo Cornejo González V Región de Valparaíso N°13 Partido Demócrata Cristiano
+María Angélica Cristi Marfil RM Región Metropolitana N°24 Unión Demócrata Independiente
+Edmundo Eluchans Urenda V Región de Valparaíso N°14 Unión Demócrata Independiente
+Rodrigo González Torres V Región de Valparaíso N°14 Partido Por la Democracia
+Felipe Harboe Bascuñán RM Región Metropolitana N°22 Partido Por la Democracia
+Cristian Letelier Aguilar RM Región Metropolitana N°31 Independientes
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8065-24","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8065-24","No record","Veto emmEnd"

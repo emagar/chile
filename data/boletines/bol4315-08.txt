@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 4315-08","Legislatura: 354
+Fecha de ingreso: martes 11 de julio de 2006
+Estado: Archivado .
+Numero de boletín: 4315-08
+Materia: Servicios Eléctricos,Recursos Energéticos Renovables
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 00:12:07
+* * Hitos de tramitación * *
+"emmStart Hitos 4315-08","Fecha Sesión Etapa Sub-etapa Documento
+11 de Jul. de 2006 47ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Minería y Energía Ver
+11 de Jul. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Jun. de 2010   Primer trámite constitucional / C. Diputados Archivado Comisión de Minería remite al archivo por estar más de dos años sin tramitación.
+10 de Jun. de 2010   Primer trámite constitucional / C. Diputados Desarchivado
+10 de Jun. de 2010   Primer trámite constitucional / C. Diputados Archivado Comisión de Minería remite al archivo por estar más de dos años sin tramitación.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4315-08","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4315-08","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4315-08","Nombre Región Distrito Partido
+Francisco Encina Moriamez IV Región de Coquimbo N°8 Partido Socialista
+Antonio Leal Labrín III Región de Atacama N°5 Partido Por la Democracia
+Jaime Mulet Martínez III Región de Atacama N°6 Partido Regionalista Independiente
+Fulvio Rossi Ciocca I Región de Tarapacá N°2 Partido Socialista","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4315-08","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+14 Votación General 6 0 0 7   Minería y Energía Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4315-08","No record","Veto emmEnd"

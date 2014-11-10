@@ -1,0 +1,62 @@
+* * Bill summary * *
+"emmStart Summary 3398-11","Legislatura: 350
+Fecha de ingreso: martes 28 de octubre de 2003
+Estado: Archivado .
+Numero de boletín: 3398-11
+Materia: Subsidios
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 02:18:35
+* * Hitos de tramitación * *
+"emmStart Hitos 3398-11","Fecha Sesión Etapa Sub-etapa Documento
+28 de Oct. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+28 de Oct. de 2003 11ª / 350 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 121-350 que hace presente la urgencia Suma Ver
+28 de Oct. de 2003 11ª / 350 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud. Ver
+30 de Oct. de 2003 13ª / 350 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 129-350 que retira y hace presente la urgencia Simple Ver
+22 de Dic. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+16 de Ene. de 2004   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+20 de Ene. de 2004 46ª / 350 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+02 de Mar. de 2004 51ª / 350 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+03 de Mar. de 2004   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+09 de Mar. de 2004 37ª / 350 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Salud
+10 de Mar. de 2004   Segundo trámite constitucional / Senado Oficio Nº 23.440 a la Corte Suprema Ver
+04 de May. de 2004 53ª / 350 Segundo trámite constitucional / Senado Cuenta oficio 3835, de la Corte Suprema, por el cual emite su parecer sobre el proyecto. Ver
+14 de Sep. de 2004   Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 352
+18 de Ene. de 2012   Segundo trámite constitucional / Senado Consulta sobre archivo Se consulta a la H. Cámara de Diputados para proceder al archivo de la iniciativa. oficio Nº 91/SEC/12, de conformidad a lo dispuesto en el inciso tercero de artículo 36 bis del Reglamento del Senado. Ver
+19 de Ene. de 2012 136ª / 359 Segundo trámite constitucional / Senado Cuenta en Cámara de Diputados de Oficio N° 91/SEC/12 del senado por el que solicita el acuerdo de la H. Cámara de Diputados para proceder al archivo del proyecto de ley.
+23 de Ene. de 2012 137ª / 359 Segundo trámite constitucional / Senado La Sala de la Cámara de Diputados acuerda el archivo del proyecto, previa consulta a S. E. el Presidente de la República.
+12 de Jun. de 2012 40ª / 360 Segundo trámite constitucional / Senado Cuenta Oficio N° 589/SEC/12 en Cámara de Diputados. Reitera oficio a la H. Cámara de Diputados para archivar el proyecto de ley sin más trámite. Ver
+28 de Ago. de 2012 72ª / 360 Segundo trámite constitucional / Senado Archivado Cuenta oficio en Cámara de Diputados del Ministro Secretario General de la Presidencia, por el cual comunica que el Ejecutivo está de acuerdo sobre la solicitud de archivo del proyecto. (1452).
+29 de Ago. de 2012 44ª / 360 Archivado / Cuenta oficio N° 10324 en el Senado. Cámara de Diputados comunica conformidad del Ejecutivo con propuesta del Senado de archivar el proyecto Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3398-11","Fecha Etapa Informe Documento
+16 de Ene. de 2004 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+22 de Dic. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión de Salud Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3398-11","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+18 de May. de 2004   Simple 739-350  
+13 de Abr. de 2004 18 de May. de 2004 Simple 627-350 739-350
+02 de Mar. de 2004 13 de Abr. de 2004 Suma 487-350 627-350
+20 de Ene. de 2004 21 de Ene. de 2004 Suma 426-350 439-350
+06 de Ene. de 2004 20 de Ene. de 2004 Suma 358-350 426-350
+17 de Dic. de 2003 06 de Ene. de 2004 Suma 329-350 358-350
+02 de Dic. de 2003 17 de Dic. de 2003 Simple 252-350 329-350
+30 de Oct. de 2003 02 de Dic. de 2003 Simple 129-350 252-350
+28 de Oct. de 2003 30 de Oct. de 2003 Suma 121-350 129-350","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3398-11","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3398-11","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+51 Todo el articulado con excepción del artículo 3, numerales 1, 2 y 3 102 0 2 1   Sala Ver detalle votación
+51 Numerales 1, 2 y 3 del artículo 3° 95 11 0 1   Sala Ver detalle votación
+51 10, nuevo, propuesto por Hacienda 82 8 10 1   Sala Ver detalle votación
+51 2º, Nº2, letras a), b) y c) 57 17 32 0   Sala Ver detalle votación
+51 3º, con indicación de la Comisión de Hacienda 91 10 3 0   Sala Ver detalle votación
+51 1º, con indicación de la Comisión de Hacienda 71 31 2 3   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3398-11","No record","Veto emmEnd"

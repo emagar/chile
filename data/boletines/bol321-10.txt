@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 321-10","Legislatura: 321
+Fecha de ingreso: martes 09 de abril de 1991
+Estado: Tramitación terminada (D.S. Nº 1.380 - D.Oficial 04/02/1994)
+Numero de boletín: 321-10
+Materia: Exención De Impuestos
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 15:23:15
+* * Hitos de tramitación * *
+"emmStart Hitos 321-10","Fecha Sesión Etapa Sub-etapa Documento
+09 de Abr. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+09 de Abr. de 1991 43ª / 321 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+10 de Jun. de 1992   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+31 de Mar. de 1993 38ª / 325 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores y a Comisión de Hacienda
+17 de Jun. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+26 de Jul. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+03 de Ago. de 1993 14ª / 326 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión. de Relaciones Exteriores y de Hacienda. Quedan para Tabla.
+01 de Sep. de 1993   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 321-10","Fecha Etapa Informe Documento
+26 de Jul. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+17 de Jun. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+10 de Jun. de 1992 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 321-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 321-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 321-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 321-10","No record","Veto emmEnd"

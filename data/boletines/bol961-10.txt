@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 961-10","Legislatura: 325
+Fecha de ingreso: martes 13 de abril de 1993
+Estado: Tramitación terminada (D.S. Nº 66 - D.Oficial 29/05/2003)
+Numero de boletín: 961-10
+Materia: Aviación Civil Internacional
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 01:16:03
+* * Hitos de tramitación * *
+"emmStart Hitos 961-10","Fecha Sesión Etapa Sub-etapa Documento
+13 de Abr. de 1993   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Abr. de 1993 62ª / 325 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+19 de May. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de Jun. de 1993 5ª / 326 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+09 de Jun. de 1993 6ª / 326 Primer trámite constitucional / C. Diputados Discusión general Ver
+09 de Jun. de 1993   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+15 de Jun. de 1993 5ª / 326 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+18 de Ago. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+18 de Ago. de 1993 19ª / 326 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+31 de Ago. de 1993 20ª / 326 Segundo trámite constitucional / Senado Discusión general Ver
+01 de Sep. de 1993   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+07 de Sep. de 1993   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+07 de Sep. de 1993 34ª / 326 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 961-10","Fecha Etapa Informe Documento
+18 de Ago. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+19 de May. de 1993 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 961-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+13 de Abr. de 1993   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 961-10","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 961-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 961-10","No record","Veto emmEnd"

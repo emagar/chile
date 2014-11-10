@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 8062-07","Legislatura: 359
+Fecha de ingreso: jueves 24 de noviembre de 2011
+Estado: Primer trámite constitucional .
+Numero de boletín: 8062-07
+Materia: Constitucion 1980,Voto Obligatorio
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 14:59:46
+* * Hitos de tramitación * *
+"emmStart Hitos 8062-07","Fecha Sesión Etapa Sub-etapa Documento
+24 de Nov. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+24 de Nov. de 2011 115ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8062-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8062-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8062-07","Nombre Región Distrito Partido
+Gonzalo Arenas Hödar IX Región de la Araucanía N°48 Unión Demócrata Independiente
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Eduardo Cerda García V Región de Valparaíso N°10 Partido Demócrata Cristiano
+Aldo Cornejo González V Región de Valparaíso N°13 Partido Demócrata Cristiano
+Gustavo Hasbún Selume RM Región Metropolitana N°26 Unión Demócrata Independiente
+Jorge Sabag Villalobos VIII Región del Bío Bío N°42 Partido Demócrata Cristiano
+René Saffirio Espinoza IX Región de la Araucanía N°50 Partido Demócrata Cristiano
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Partido Regionalista Independiente
+Víctor Torres Jeldes V Región de Valparaíso N°15 Partido Demócrata Cristiano
+Mario Venegas Cárdenas IX Región de la Araucanía N°48 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8062-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8062-07","No record","Veto emmEnd"

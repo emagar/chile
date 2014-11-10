@@ -1,0 +1,51 @@
+* * Bill summary * *
+"emmStart Summary 57-06","Legislatura: 320
+Fecha de ingreso: martes 29 de mayo de 1990
+Estado: Tramitación terminada (Ley Nº 18.992 - D.Oficial 16/08/1990)
+Numero de boletín: 57-06
+Materia: Límite Intercomunal
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 30-10-2014 16:28:17
+* * Hitos de tramitación * *
+"emmStart Hitos 57-06","Fecha Sesión Etapa Sub-etapa Documento
+29 de May. de 1990   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+29 de May. de 1990 2ª / 320 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+06 de Jun. de 1990 4ª / 320 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización
+24 de Jul. de 1990   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+31 de Jul. de 1990 20ª / 320 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+01 de Ago. de 1990 21ª / 320 Segundo trámite constitucional / Senado Discusión general Ver
+03 de Ago. de 1990   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+06 de Ago. de 1990   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+07 de Ago. de 1990 22ª / 320 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 57-06","Fecha Etapa Informe Documento
+24 de Jul. de 1990 Segundo trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 57-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 57-06","Nombre Región Distrito Partido
+Eliana Caraball Martínez Región N° Partido Demócrata Cristiano
+Baldemar Carrasco Muñoz Región N° Partido Demócrata Cristiano
+Carlos Dupre Silva Región N° Partido Demócrata Cristiano
+Sergio Elgueta Barrientos Región N° Partido Demócrata Cristiano
+Ramón Elizalde Hevia Región N° Partido Demócrata Cristiano
+Angel Fantuzzi Hernandez Región N° Renovación Nacional
+Mario Hamuy Berr Región N° Partido Demócrata Cristiano
+Pablo Longueira Montes Región N° Unión Demócrata Independiente
+Sergio Ojeda Uribe Región N° Partido Demócrata Cristiano
+José Miguel Ortiz Novoa Región N° Partido Demócrata Cristiano
+Sergio Pizarro Mackay Región N° Partido Demócrata Cristiano
+Víctor Reyes Alvarado Región N° Partido Demócrata Cristiano
+Julio Rojos Astorga Región N° Partido Demócrata Cristiano
+Edmundo Salas De la Fuente Región N° Partido Demócrata Cristiano
+Rodolfo Seguel Molina Región N° Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 57-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 57-06","No record","Veto emmEnd"

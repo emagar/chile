@@ -1,0 +1,69 @@
+* * Bill summary * *
+"emmStart Summary 8786-27","Legislatura: 360
+Fecha de ingreso: martes 15 de enero de 2013
+Estado: Tramitación terminada (Ley Nº 20.693 - D.Oficial 02/10/2013)
+Numero de boletín: 8786-27
+Materia: Empresa De Abastecimiento De Zonas Aisladas
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 05:42:53
+* * Hitos de tramitación * *
+"emmStart Hitos 8786-27","Fecha Sesión Etapa Sub-etapa Documento
+15 de Ene. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+15 de Ene. de 2013 126ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión Zonas Extremas Ver
+23 de Ene. de 2013   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de Mar. de 2013 136ª / 360 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Mar. de 2013 3ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 14-361 que hace presente la urgencia Suma Ver
+03 de Abr. de 2013 9ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 39-361 que hace presente la urgencia Suma Ver
+16 de Abr. de 2013 15ª / 361 Primer trámite constitucional / C. Diputados Discusión general. Queda pendiente La discusión quedó terminada y sólo pende la votación. Ver
+16 de Abr. de 2013 16ª / 361 Primer trámite constitucional / C. Diputados Discusión general Ver
+16 de Abr. de 2013   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+17 de Abr. de 2013 17ª / 361 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Economía, y a la de Hacienda en su caso.
+30 de Abr. de 2013 18ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 74-361 que retira y hace presente la urgencia Suma
+15 de May. de 2013 24ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 98-361 que retira y hace presente la urgencia Suma
+04 de Jun. de 2013 27ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 117-361 que retira y hace presente la urgencia Suma
+07 de Jun. de 2013   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+11 de Jun. de 2013 29ª / 361 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Jun. de 2013 30ª / 361 Segundo trámite constitucional / Senado Discusión general Ver
+12 de Jun. de 2013 30ª / 361 Segundo trámite constitucional / Senado Se solicita segunda discusión. Ver
+02 de Jul. de 2013 36ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 159-361 que retira y hace presente la urgencia Suma
+10 de Jul. de 2013 40ª / 361 Segundo trámite constitucional / Senado Discusión general Ver
+17 de Jul. de 2013   Segundo trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 05/08/2013 a las 12:00 en Secretaría.
+07 de Ago. de 2013 45ª / 361 Segundo trámite constitucional / Senado Pasa a la Comisión de Hacienda, para cumplir trámite reglamentario de Hacienda en su caso.
+07 de Ago. de 2013 46ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 217-361 que retira y hace presente la urgencia Suma
+14 de Ago. de 2013 48ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 228-361 que retira y hace presente la urgencia Suma
+14 de Ago. de 2013 48ª / 361 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+27 de Ago. de 2013 49ª / 361 Segundo trámite constitucional / Senado Discusión particular Ver
+27 de Ago. de 2013   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+28 de Ago. de 2013 64ª / 361 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+28 de Ago. de 2013   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo. Para promulgación. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8786-27","Fecha Etapa Informe Documento
+14 de Ago. de 2013 Segundo trámite constitucional Senado Segundo informe de comisión de Hacienda Ver
+11 de Jun. de 2013 Segundo trámite constitucional Senado Primer informe de comisión de Economía Ver
+23 de Ene. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión Zonas Extremas Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8786-27","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+14 de Ago. de 2013   Suma 228-361  
+07 de Ago. de 2013 14 de Ago. de 2013 Suma 217-361 228-361
+02 de Jul. de 2013 07 de Ago. de 2013 Suma 159-361 217-361
+04 de Jun. de 2013 21 de Jun. de 2013 Suma 117-361 159-361
+15 de May. de 2013 04 de Jun. de 2013 Suma 98-361 117-361
+30 de Abr. de 2013 15 de May. de 2013 Suma 74-361 98-361
+03 de Abr. de 2013 30 de Abr. de 2013 Suma 39-361 74-361
+14 de Mar. de 2013   Suma 14-361  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8786-27","Nombre Región Distrito Partido
+Ministerio de Economía, Fomento y Turism      
+Ministerio de Hacienda      
+Ministerio de Interior y Seguridad Públi      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8786-27","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+16   50 29 8 33 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8786-27","No record","Veto emmEnd"

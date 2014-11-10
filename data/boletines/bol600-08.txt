@@ -1,0 +1,30 @@
+* * Bill summary * *
+"emmStart Summary 600-08","Legislatura: 323
+Fecha de ingreso: martes 14 de enero de 1992
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 600-08
+Materia: Empresas
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 20:28:56
+* * Hitos de tramitación * *
+"emmStart Hitos 600-08","Fecha Sesión Etapa Sub-etapa Documento
+14 de Ene. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+14 de Ene. de 1992 41ª / 323 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Minería y Energía Ver
+02 de Jun. de 1992   Tramitación terminada / S.E. el Presidente de la República retira el proyecto del Congreso Nacional.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 600-08","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 600-08","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+14 de Ene. de 1992   Simple    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 600-08","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 600-08","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 600-08","No record","Veto emmEnd"

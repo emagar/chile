@@ -1,0 +1,60 @@
+* * Bill summary * *
+"emmStart Summary 5273-10","Legislatura: 355
+Fecha de ingreso: martes 28 de agosto de 2007
+Estado: Tramitación terminada (D.S. Nº 171 - D.Oficial 28/08/2008)
+Numero de boletín: 5273-10
+Materia: Complementación Económica
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 02:40:32
+* * Hitos de tramitación * *
+"emmStart Hitos 5273-10","Fecha Sesión Etapa Sub-etapa Documento
+28 de Ago. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+28 de Ago. de 2007 67ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+30 de Oct. de 2007 93ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 918-355 que hace presente la urgencia Suma Ver
+31 de Oct. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+31 de Oct. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+06 de Nov. de 2007 96ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+06 de Nov. de 2007 96ª / 355 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+06 de Nov. de 2007   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+07 de Nov. de 2007 63ª / 355 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores y a Comisión de Hacienda Ver
+20 de Nov. de 2007 66ª / 355 Segundo trámite constitucional / Senado Cuenta del Mensaje 1072-355 que retira y hace presente la urgencia Suma
+04 de Dic. de 2007 72ª / 355 Segundo trámite constitucional / Senado Cuenta del Mensaje 1117-355 que retira y hace presente la urgencia Suma
+18 de Dic. de 2007 76ª / 355 Segundo trámite constitucional / Senado Cuenta del Mensaje 1214-355 que retira y hace presente la urgencia Suma
+02 de Ene. de 2008 78ª / 355 Segundo trámite constitucional / Senado Cuenta del Mensaje 1249-355 que retira y hace presente la urgencia Suma
+15 de Ene. de 2008 82ª / 355 Segundo trámite constitucional / Senado Cuenta del Mensaje 1343-355 que retira y hace presente la urgencia Suma
+22 de Ene. de 2008   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+04 de Mar. de 2008 88ª / 355 Segundo trámite constitucional / Senado Cuenta del Mensaje 1395-355 que retira la urgencia Suma
+12 de Mar. de 2008   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+12 de Mar. de 2008 2ª / 356 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+18 de Mar. de 2008 3ª / 356 Segundo trámite constitucional / Senado Discusión general Ver
+19 de Mar. de 2008   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+20 de Mar. de 2008 9ª / 356 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver Ver
+20 de Mar. de 2008   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5273-10","Fecha Etapa Informe Documento
+12 de Mar. de 2008 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+22 de Ene. de 2008 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+31 de Oct. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+31 de Oct. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5273-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+15 de Ene. de 2008 25 de Ene. de 2008 Suma 1343-355 1395-355
+02 de Ene. de 2008 14 de Ene. de 2008 Suma 1249-355 1343-355
+18 de Dic. de 2007 27 de Dic. de 2007 Suma 1214-355 1249-355
+04 de Dic. de 2007 17 de Dic. de 2007 Suma 1117-355 1214-355
+20 de Nov. de 2007 03 de Dic. de 2007 Suma 1072-355 1117-355
+30 de Oct. de 2007 19 de Nov. de 2007 Suma 918-355 1072-355","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5273-10","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5273-10","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+96   98 0 3 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5273-10","No record","Veto emmEnd"

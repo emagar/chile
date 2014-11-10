@@ -1,0 +1,70 @@
+* * Bill summary * *
+"emmStart Summary 3772-08","Legislatura: 352
+Fecha de ingreso: martes 04 de enero de 2005
+Estado: Tramitación terminada (Ley Nº 20.026 - D.Oficial 16/06/2005)
+Numero de boletín: 3772-08
+Materia: Minería Del Cobre,Impuestos
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 11:06:34
+* * Hitos de tramitación * *
+"emmStart Hitos 3772-08","Fecha Sesión Etapa Sub-etapa Documento
+04 de Ene. de 2005 34ª / 352 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Minería y Energía Ver
+04 de Ene. de 2005   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+05 de Ene. de 2005 35ª / 352 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 262-352 que hace presente la urgencia Suma Ver
+06 de Ene. de 2005 36ª / 352 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 263-352 que retira la urgencia Suma Ver
+02 de Mar. de 2005 45ª / 352 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 321-352 que hace presente la urgencia Simple Ver
+15 de Mar. de 2005 50ª / 352 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 378-352 que retira y hace presente la urgencia Suma Ver
+23 de Mar. de 2005   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+23 de Mar. de 2005   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+23 de Mar. de 2005 56ª / 352 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Minería y de Hacienda. Ver
+23 de Mar. de 2005 56ª / 352 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+23 de Mar. de 2005   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+05 de Abr. de 2005 41ª / 352 Segundo trámite constitucional / Senado Cuenta del Mensaje 408-352 que retira y hace presente la urgencia Suma
+05 de Abr. de 2005 41ª / 352 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Minería y Energía y a Comisión de Hacienda,en su caso.
+12 de Abr. de 2005 43ª / 352 Segundo trámite constitucional / Senado Cuenta del Mensaje 427-352, con que se retira la urgencia.
+10 de May. de 2005   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+11 de May. de 2005 51ª / 352 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+17 de May. de 2005 52ª / 352 Segundo trámite constitucional / Senado Cuenta del Mensaje 496-352 que hace presente la urgencia Discusión inmediata
+17 de May. de 2005 52ª / 352 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 17/05/2005 Ver
+18 de May. de 2005   Segundo trámite constitucional / Senado Segundo informe de comisión. y Minería unidas. Ver
+18 de May. de 2005 54ª / 352 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+18 de May. de 2005 54ª / 352 Segundo trámite constitucional / Senado Discusión particular Ver
+18 de May. de 2005   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+18 de May. de 2005 79ª / 352 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver Ver
+18 de May. de 2005 79ª / 352 Tercer trámite constitucional / C. Diputados Discusión única Ver
+18 de May. de 2005   Tercer trámite constitucional / C. Diputados Oficio Nº 5600, que comunica aprobación de modificaciones Ver
+18 de May. de 2005   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+07 de Jun. de 2005 1ª / 353 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 5600, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3772-08","Fecha Etapa Informe Documento
+18 de May. de 2005 Segundo trámite constitucional Senado Segundo informe de comisión de Hacienda Ver
+10 de May. de 2005 Segundo trámite constitucional Senado Primer informe de comisión de Minería y Energía Ver
+23 de Mar. de 2005 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+23 de Mar. de 2005 Primer trámite constitucional C.Diputados Primer informe de comisión de Minería y Energía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3772-08","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+17 de May. de 2005   Discusión inmediata 496-352  
+05 de Abr. de 2005 12 de Abr. de 2005 Suma 408-352 427-352
+15 de Mar. de 2005 05 de Abr. de 2005 Suma 378-352 408-352
+02 de Mar. de 2005 15 de Mar. de 2005 Simple 321-352 378-352
+05 de Ene. de 2005 06 de Ene. de 2005 Suma 262-352 263-352","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3772-08","Nombre Región Distrito Partido
+Ministerio de Minería      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3772-08","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+56   86 14 8 1 Aprobado Sala Ver detalle votación
+56 Artículo 1º, con las indicaciones de la Comisión de Hacienda que figuran en el informe. 84 11 7 1 Aprobado Sala Ver detalle votación
+56 Artículo 2º, con la indicación de la Comisión de Hacienda que figura en el informe. 95 1 6 0 Aprobado Sala Ver detalle votación
+79 Enmiendas del Senado al artículo 2º. 92 10 2 0 Aprobado Sala Ver detalle votación
+56 1º a 7º transitorios. 94 4 5 0 Aprobado Sala Ver detalle votación
+79 Enmiendas introducidas por el Senado, con excepción de la recaída en el artículo 2º, cuya votación separada se solicitó. 98 1 1 2 Aprobado Sala Ver detalle votación
+56 3º. 81 12 7 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3772-08","No record","Veto emmEnd"

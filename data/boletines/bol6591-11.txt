@@ -1,0 +1,39 @@
+* * Bill summary * *
+"emmStart Summary 6591-11","Legislatura: 357
+Fecha de ingreso: viernes 03 de julio de 2009
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 6591-11
+Materia: Embarazo,Código Sanitario,Aborto
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 08-11-2014 13:57:31
+* * Hitos de tramitación * *
+"emmStart Hitos 6591-11","Fecha Sesión Etapa Sub-etapa Documento
+03 de Jul. de 2009   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+07 de Jul. de 2009 31ª / 357 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Salud
+13 de Sep. de 2011   Primer trámite constitucional / Senado Primer informe de comisión Ver
+27 de Sep. de 2011 56ª / 359 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+07 de Mar. de 2012 95ª / 359 Primer trámite constitucional / Senado Discusión general Ver
+07 de Mar. de 2012 95ª / 359 Primer trámite constitucional / Senado Se solicita segunda discusión. Ver
+21 de Mar. de 2012 4ª / 360 Primer trámite constitucional / Senado Discusión general. Queda pendiente. Ver
+21 de Mar. de 2012 5ª / 360 Primer trámite constitucional / Senado Discusión general Ver
+03 de Abr. de 2012 6ª / 360 Primer trámite constitucional / Senado Discusión general Ver
+04 de Abr. de 2012 7ª / 360 Primer trámite constitucional / Senado Discusión general Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6591-11","Fecha Etapa Informe Documento
+13 de Sep. de 2011 Primer trámite constitucional Senado Primer informe de comisión de Salud Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6591-11","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6591-11","Nombre
+Guido Girardi Lavín
+Carlos Ominami Pascual","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6591-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6591-11","No record","Veto emmEnd"

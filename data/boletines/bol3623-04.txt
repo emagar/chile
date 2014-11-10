@@ -1,0 +1,66 @@
+* * Bill summary * *
+"emmStart Summary 3623-04","Legislatura: 351
+Fecha de ingreso: martes 03 de agosto de 2004
+Estado: Tramitación terminada (Ley Nº 20.006 - D.Oficial 22/03/2005)
+Numero de boletín: 3623-04
+Materia: Estatuto Docente
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 06:39:00
+* * Hitos de tramitación * *
+"emmStart Hitos 3623-04","Fecha Sesión Etapa Sub-etapa Documento
+03 de Ago. de 2004   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Ago. de 2004 22ª / 351 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+04 de Ago. de 2004   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+04 de Ago. de 2004   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+04 de Ago. de 2004 24ª / 351 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+04 de Ago. de 2004 25ª / 351 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+04 de Ago. de 2004   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+10 de Ago. de 2004 19ª / 351 Segundo trámite constitucional / Senado Cuenta del Mensaje 273-351 que hace presente la urgencia Suma
+10 de Ago. de 2004 19ª / 351 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología y a Comisión de Hacienda
+17 de Ago. de 2004 21ª / 351 Segundo trámite constitucional / Senado Por acuerdo de la Sala se exime de la Comisión de Hacienda.
+18 de Ago. de 2004 22ª / 351 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+31 de Ago. de 2004 24ª / 351 Segundo trámite constitucional / Senado Discusión general Ver
+31 de Ago. de 2004 24ª / 351 Segundo trámite constitucional / Senado Cuenta del Mensaje 328-351 que retira y hace presente la urgencia Suma
+01 de Sep. de 2004   Segundo trámite constitucional / Senado Nuevo primer informe de comisión Ver
+01 de Sep. de 2004 25ª / 351 Segundo trámite constitucional / Senado Cuenta nuevo primer informe
+07 de Sep. de 2004 26ª / 351 Segundo trámite constitucional / Senado Cuenta del Mensaje 349-351 que retira la urgencia Suma
+08 de Sep. de 2004 27ª / 351 Segundo trámite constitucional / Senado Cuenta del Mensaje 356-351 que hace presente la urgencia Suma
+14 de Sep. de 2004   Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 352
+14 de Dic. de 2004 20ª / 352 Segundo trámite constitucional / Senado Discusión general Ver
+11 de Ene. de 2005 26ª / 352 Segundo trámite constitucional / Senado Discusión general Ver
+12 de Ene. de 2005   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+12 de Ene. de 2005 39ª / 352 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+02 de Mar. de 2005 45ª / 352 Tercer trámite constitucional / C. Diputados Discusión única Ver
+02 de Mar. de 2005   Tercer trámite constitucional / C. Diputados Oficio Nº 5403, que comunica aprobación de modificaciones Ver
+02 de Mar. de 2005   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+08 de Mar. de 2005 33ª / 352 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 5403, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3623-04","Fecha Etapa Informe Documento
+01 de Sep. de 2004 Segundo trámite constitucional Senado Nuevo primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+18 de Ago. de 2004 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+05 de Ago. de 2004 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver
+04 de Ago. de 2004 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3623-04","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+08 de Sep. de 2004   Suma 356-351  
+31 de Ago. de 2004 07 de Sep. de 2004 Suma 328-351 349-351
+10 de Ago. de 2004 31 de Ago. de 2004 Suma 273-351 328-351
+03 de Ago. de 2004   Discusión inmediata 251-351  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3623-04","Nombre Región Distrito Partido
+Ministerio de Educación      
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3623-04","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+45 Enmiendas del Senado recaídas en el articulado. 90 1 0 2 Aprobado Sala Ver detalle votación
+25 Artículo 37 transitorio. 67 14 7 1 Aprobado Sala Ver detalle votación
+25 Indicación al artículo 37 transitorio. 47 48 0 0 Rechazado Sala Ver detalle votación
+25   64 21 5 1 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3623-04","No record","Veto emmEnd"

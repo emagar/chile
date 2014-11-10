@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 463-05","Legislatura: 322
+Fecha de ingreso: jueves 22 de agosto de 1991
+Estado: Tramitación terminada (Ley Nº 19.082 - D.Oficial 07/09/1991)
+Numero de boletín: 463-05
+Materia: Aguinaldo De Fiestas Patrias
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 17:40:50
+* * Hitos de tramitación * *
+"emmStart Hitos 463-05","Fecha Sesión Etapa Sub-etapa Documento
+22 de Ago. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+22 de Ago. de 1991 33ª / 322 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+22 de Ago. de 1991 33ª / 322 Primer trámite constitucional / C. Diputados Discusión única Ver
+27 de Ago. de 1991 33ª / 322 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+27 de Ago. de 1991   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+27 de Ago. de 1991 33ª / 322 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión. Queda para tabla.
+27 de Ago. de 1991 33ª / 322 Segundo trámite constitucional / Senado Discusión general Ver
+29 de Ago. de 1991   Segundo trámite constitucional / Senado Oficio Nº1549. Oficio a la Cámara de Diputados comunicándole la aprobación del proyecto, con modificaciones. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 463-05","Fecha Etapa Informe Documento
+27 de Ago. de 1991 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 463-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+22 de Ago. de 1991   Discusión inmediata    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 463-05","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 463-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 463-05","No record","Veto emmEnd"

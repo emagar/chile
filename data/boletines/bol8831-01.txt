@@ -1,0 +1,29 @@
+* * Bill summary * *
+"emmStart Summary 8831-01","Legislatura: 361
+Fecha de ingreso: martes 12 de marzo de 2013
+Estado: Primer trámite constitucional .
+Numero de boletín: 8831-01
+Materia: Alcoholes,Licores,Grado De Impureza En Alcoholes Y Licores
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 10-11-2014 06:12:51
+* * Hitos de tramitación * *
+"emmStart Hitos 8831-01","Fecha Sesión Etapa Sub-etapa Documento
+12 de Mar. de 2013   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+12 de Mar. de 2013 1ª / 361 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Agricultura","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8831-01","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8831-01","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8831-01","Nombre
+Francisco Chahuán Chahuán","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8831-01","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8831-01","No record","Veto emmEnd"

@@ -1,0 +1,68 @@
+* * Bill summary * *
+"emmStart Summary 5433-13","Legislatura: 355
+Fecha de ingreso: martes 30 de octubre de 2007
+Estado: Tramitación terminada (Ley Nº 20.281 - D.Oficial 21/07/2008)
+Numero de boletín: 5433-13
+Materia: Salarios Base
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 04:34:39
+* * Hitos de tramitación * *
+"emmStart Hitos 5433-13","Fecha Sesión Etapa Sub-etapa Documento
+30 de Oct. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+30 de Oct. de 2007 94ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+15 de Ene. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+04 de Mar. de 2008 137ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1430-355 que hace presente la urgencia Suma Ver
+05 de Mar. de 2008 138ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Trabajo. EN TABLA. Ver
+12 de Mar. de 2008 2ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+12 de Mar. de 2008   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+18 de Mar. de 2008 3ª / 356 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social Ver
+01 de Abr. de 2008 5ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 50-356 que retira y hace presente la urgencia Suma
+04 de Abr. de 2008   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+08 de Abr. de 2008 8ª / 356 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+09 de Abr. de 2008 10ª / 356 Segundo trámite constitucional / Senado Discusión general. Aprobado en general .Se fija como plazo para presentar indicaciones el 28/04/2008, a las 12 horas. Ver
+15 de Abr. de 2008 11ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 145-356 que retira y hace presente la urgencia Suma
+28 de Abr. de 2008   Segundo trámite constitucional / Senado Boletín de indicaciones
+29 de Abr. de 2008 15ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 175-356 que retira y hace presente la urgencia Suma
+13 de May. de 2008 19ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 240-356 que retira y hace presente la urgencia Suma
+03 de Jun. de 2008 23ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 323-356 que retira y hace presente la urgencia Suma
+13 de Jun. de 2008   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+17 de Jun. de 2008 27ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 407-356 que retira y hace presente la urgencia Suma
+17 de Jun. de 2008 27ª / 356 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+18 de Jun. de 2008 30ª / 356 Segundo trámite constitucional / Senado Discusión particular Ver
+18 de Jun. de 2008   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+19 de Jun. de 2008 44ª / 356 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver Ver
+01 de Jul. de 2008 45ª / 356 Tercer trámite constitucional / C. Diputados Cuenta del Mensaje 455-356 que retira y hace presente la urgencia Suma Ver
+01 de Jul. de 2008 45ª / 356 Tercer trámite constitucional / C. Diputados Discusión única Ver
+01 de Jul. de 2008   Tercer trámite constitucional / C. Diputados Oficio Nº 7541, que comunica aprobación de modificaciones Ver
+01 de Jul. de 2008   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+02 de Jul. de 2008 33ª / 356 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 7541, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5433-13","Fecha Etapa Informe Documento
+13 de Jun. de 2008 Segundo trámite constitucional Senado Segundo informe de comisión de Trabajo y Previsión Social Ver
+04 de Abr. de 2008 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver
+15 de Ene. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5433-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+01 de Jul. de 2008   Suma 455-356  
+17 de Jun. de 2008 01 de Jul. de 2008 Suma 407-356 455-356
+03 de Jun. de 2008 16 de Jun. de 2008 Suma 323-356 407-356
+13 de May. de 2008 28 de May. de 2008 Suma 240-356 323-356
+29 de Abr. de 2008 12 de May. de 2008 Suma 175-356 240-356
+15 de Abr. de 2008   Suma 145-356  
+01 de Abr. de 2008 11 de Abr. de 2008 Suma 50-356 145-356
+04 de Mar. de 2008 27 de Mar. de 2008 Suma 1430-355 50-356","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5433-13","Nombre Región Distrito Partido
+Ministerio de Trabajo y Previsión Social      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5433-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+2   95 0 0 25 Aprobado Sala Ver detalle votación
+45 Modificaciones introducidas por el Senado. 94 0 4 22 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5433-13","No record","Veto emmEnd"

@@ -1,0 +1,58 @@
+* * Bill summary * *
+"emmStart Summary 3350-10","Legislatura: 349
+Fecha de ingreso: martes 09 de septiembre de 2003
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 3350-10
+Materia: Personas Desaparecidas
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 01:47:35
+* * Hitos de tramitación * *
+"emmStart Hitos 3350-10","Fecha Sesión Etapa Sub-etapa Documento
+09 de Sep. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+09 de Sep. de 2003 38ª / 349 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+09 de Sep. de 2003 38ª / 349 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 238-349 que hace presente la urgencia Discusión inmediata Ver
+09 de Sep. de 2003   Primer trámite constitucional / C. Diputados Oficio Nº4541 a la Corte Suprema Ver
+10 de Sep. de 2003 39ª / 349 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 248-349 que retira la urgencia Discusión inmediata Ver
+11 de Nov. de 2003 17ª / 349 Primer trámite constitucional / C. Diputados Cuenta Oficio de Corte Suprema, remite opinión solicitada. Ver Ver
+02 de May. de 2007 20ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 155-355 que hace presente la urgencia Simple Ver
+05 de Jun. de 2007 30ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 242-355 que retira y hace presente la urgencia Simple Ver
+04 de Jul. de 2007 45ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 379-355 que retira y hace presente la urgencia Simple Ver
+07 de Ago. de 2007 60ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 521-355 que retira y hace presente la urgencia Simple Ver
+13 de Ago. de 2007 63ª / 355 Primer trámite constitucional / C. Diputados Comisión de Constitución solicita que proyecto sea enviado a la Comisión de Derechos Humanos. ACORDADO. Ver
+11 de Sep. de 2007 76ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 691-355 que retira y hace presente la urgencia Simple Ver
+02 de Oct. de 2007 79ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 725-355 que retira la urgencia Simple Ver
+02 de Oct. de 2007 79ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 751-355 que hace presente la urgencia Simple Ver
+03 de Oct. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+16 de Oct. de 2007 90ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+30 de Oct. de 2007 93ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 917-355 que retira y hace presente la urgencia Suma Ver
+31 de Oct. de 2007 95ª / 355 Primer trámite constitucional / C. Diputados Discusión general. Lectura de informe por parte de Diputado informante. Discusión queda pendiente. Ver Ver
+07 de Nov. de 2007 97ª / 355 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+07 de Nov. de 2007   Primer trámite constitucional / C. Diputados Oficio rechazo al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3350-10","Fecha Etapa Informe Documento
+03 de Oct. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3350-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+30 de Oct. de 2007 07 de Nov. de 2007 Suma 917-355  
+02 de Oct. de 2007 30 de Oct. de 2007 Suma 751-355 917-355
+07 de Ago. de 2007 11 de Sep. de 2007 Simple 521-355 691-355
+04 de Jul. de 2007 07 de Ago. de 2007 Simple 379-355 521-355
+05 de Jun. de 2007 04 de Jul. de 2007 Simple 242-355 379-355
+02 de May. de 2007 05 de Jun. de 2007 Simple 155-355 242-355
+06 de Ene. de 2004 02 de Mar. de 2004 Simple 357-350 457-350
+30 de Oct. de 2003 06 de Ene. de 2004 Simple 246-350 357-350
+09 de Sep. de 2003 10 de Sep. de 2003 Discusión inmediata 238-349 248-349","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3350-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3350-10","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+97   67 0 31 22 Rechazado Sala Ver detalle votación
+62 Votación General 8 0 0 5   Derechos Humanos Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3350-10","No record","Veto emmEnd"

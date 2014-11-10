@@ -1,0 +1,58 @@
+* * Bill summary * *
+"emmStart Summary 3936-06","Legislatura: 353
+Fecha de ingreso: miércoles 20 de julio de 2005
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 3936-06
+Materia: Votación
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 06:59:46
+* * Hitos de tramitación * *
+"emmStart Hitos 3936-06","Fecha Sesión Etapa Sub-etapa Documento
+20 de Jul. de 2005 22ª / 353 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+20 de Jul. de 2005   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+19 de Abr. de 2006 15ª / 354 Primer trámite constitucional / C. Diputados Comisión de Derechos Humanos solicita que se le remita el proyecto. Se accede. Ver
+06 de Jun. de 2006 30ª / 354 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 135-354 que hace presente la urgencia Simple Ver
+12 de Jul. de 2006 48ª / 354 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 195-354 que retira y hace presente la urgencia Simple Ver
+16 de Ago. de 2006 63ª / 354 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 256-354 que retira y hace presente la urgencia Simple Ver
+03 de Oct. de 2006 78ª / 354 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 321-354 que retira la urgencia Simple Ver
+10 de Oct. de 2006   Primer trámite constitucional / C. Diputados Oficio Nº 6407. Se acuerda remitir el proyecto a la Comisión de Constitución, Legislación y Justicia, por el plazo de una semana, para su informe, y posteriormente remitirlo a la Comisión de Hacienda. Ver
+18 de Oct. de 2006   Primer trámite constitucional / C. Diputados Oficio Nº 6428. Se otorga un nuevo plazo para que la Comisión de Constitución, Legislación y Justicia emita informe Ver
+31 de Oct. de 2006   Primer trámite constitucional / C. Diputados Primer informe complementario Ver
+13 de Dic. de 2006 107ª / 354 Primer trámite constitucional / C. Diputados Cuenta de primros informes de las Comisiones de Derechos Humanos y de Hacienda. Ver Ver
+10 de Abr. de 2007 12ª / 355 Primer trámite constitucional / C. Diputados P. de la Rep. retira y hace presente urgencia \""simple\"". A SUS ANTECEDENTES. Ver Ver
+17 de Abr. de 2007 16ª / 355 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+09 de May. de 2007 23ª / 355 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+09 de May. de 2007 24ª / 355 Primer trámite constitucional / C. Diputados P. de la Rep. comunica que retira la urgencia. Ver Ver
+15 de May. de 2007 26ª / 355 Tramitación terminada / Cuenta del Mensaje 193-355 que hace presente la urgencia Suma
+16 de May. de 2007 28ª / 355 Primer trámite constitucional / C. Diputados Discusión general Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3936-06","Fecha Etapa Informe Documento
+12 de Dic. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+31 de Oct. de 2006 Primer trámite constitucional C.Diputados Primer informe complementario de Constitución, Legislación y Justicia Ver
+10 de Oct. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3936-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+15 de May. de 2007   Suma 193-355  
+16 de Ago. de 2006 03 de Oct. de 2006 Simple 256-354 321-354
+12 de Jul. de 2006 16 de Ago. de 2006 Simple 195-354 256-354
+06 de Jun. de 2006 12 de Jul. de 2006 Simple 135-354 195-354","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3936-06","Nombre Región Distrito Partido
+Sergio Aguiló Melo VII Región del Maule N°37 Partido Socialista
+Isabel Allende Bussi RM Región Metropolitana N°29 Partido Socialista
+Juan Bustos Ramírez V Región de Valparaíso N°12 Partido Socialista
+Francisco Encina Moriamez IV Región de Coquimbo N°8 Partido Socialista
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+Fulvio Rossi Ciocca I Región de Tarapacá N°2 Independientes","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3936-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+28   62 24 20 0 Rechazado Sala Ver detalle votación
+22 Votación General 7 2 3 1   Derechos Humanos Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3936-06","No record","Veto emmEnd"

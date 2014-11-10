@@ -1,0 +1,58 @@
+* * Bill summary * *
+"emmStart Summary 8774-04","Legislatura: 360
+Fecha de ingreso: miércoles 09 de enero de 2013
+Estado: Primer trámite constitucional .
+Numero de boletín: 8774-04
+Materia: Agencia Nacional De Acreditación
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 10-11-2014 05:34:22
+* * Hitos de tramitación * *
+"emmStart Hitos 8774-04","Fecha Sesión Etapa Sub-etapa Documento
+09 de Ene. de 2013   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+09 de Ene. de 2013 93ª / 360 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología, y a la de Hacienda, en su caso.
+05 de Mar. de 2013 100ª / 360 Primer trámite constitucional / Senado Cuenta del Mensaje 466-360 que hace presente la urgencia Simple
+03 de Abr. de 2013 8ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 42-361 que retira y hace presente la urgencia Simple
+30 de Abr. de 2013 18ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 75-361 que retira y hace presente la urgencia Simple
+22 de May. de 2013 26ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 110-361 que retira y hace presente la urgencia Simple
+19 de Jun. de 2013 34ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 155-361 que retira y hace presente la urgencia Simple
+09 de Jul. de 2013 39ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 187-361 que retira y hace presente la urgencia Suma
+30 de Jul. de 2013 42ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 203-361 que retira y hace presente la urgencia Suma
+08 de Ago. de 2013   Primer trámite constitucional / Senado Primer informe de comisión Ver
+14 de Ago. de 2013 48ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 228-361 que retira y hace presente la urgencia Suma
+14 de Ago. de 2013 48ª / 361 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+03 de Sep. de 2013 51ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 255-361 que retira y hace presente la urgencia Suma
+16 de Sep. de 2013 57ª / 361 Primer trámite constitucional / Senado Discusión general Ver
+16 de Sep. de 2013 57ª / 361 Primer trámite constitucional / Senado Se solicita aplazamiento de la votación. Ver
+01 de Oct. de 2013 58ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 279-361 que retira y hace presente la urgencia Suma Ver
+02 de Oct. de 2013 59ª / 361 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 02/12/2013 Ver
+03 de Dic. de 2013   Primer trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 16/12/2013 a las 12:00 en Secretaría.
+18 de Dic. de 2013   Primer trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 28/04/2014 a las 12:00 en Secretaría.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8774-04","Fecha Etapa Informe Documento
+08 de Ago. de 2013 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8774-04","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+01 de Oct. de 2013   Suma 279-361  
+03 de Sep. de 2013 01 de Oct. de 2013 Simple 255-361 279-361
+14 de Ago. de 2013 03 de Sep. de 2013 Suma 228-361 255-361
+30 de Jul. de 2013 14 de Ago. de 2013 Suma 203-361 228-361
+09 de Jul. de 2013 30 de Jul. de 2013 Suma 187-361 203-361
+19 de Jun. de 2013 09 de Jul. de 2013 Simple 155-361 187-361
+22 de May. de 2013 19 de Jun. de 2013 Simple 110-361 155-361
+30 de Abr. de 2013 22 de May. de 2013 Simple 75-361 110-361
+03 de Abr. de 2013 30 de Abr. de 2013 Simple 42-361 75-361
+05 de Mar. de 2013 03 de Abr. de 2013 Simple 466-360 42-361","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8774-04","Nombre
+Ministerio de Educación
+Ministerio de Hacienda","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8774-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8774-04","No record","Veto emmEnd"

@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 1075-07","Legislatura: 326
+Fecha de ingreso: miércoles 18 de agosto de 1993
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 1075-07
+Materia: Constitucion 1980
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 02:44:02
+* * Hitos de tramitación * *
+"emmStart Hitos 1075-07","Fecha Sesión Etapa Sub-etapa Documento
+18 de Ago. de 1993 19ª / 326 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+18 de Ago. de 1993   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+20 de Jun. de 1995 12ª / 331 Primer trámite constitucional / Senado Primer informe de comisión Ver
+05 de Jul. de 1995 12ª / 331 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Oct. de 1995 4ª / 332 Primer trámite constitucional / Senado Discusión general Ver
+18 de Oct. de 1995   Primer trámite constitucional / Senado Oficio Nº 1125-95, de la Comisión de Constitución en el que reitera el rechazo propuesto respecto de esta iniciativa legal. Ver
+24 de Oct. de 1995 9ª / 332 Primer trámite constitucional / Senado Cuenta oficio Nº 1125-95
+14 de Nov. de 1995 13ª / 332 Primer trámite constitucional / Senado Segunda discusión. Ver
+21 de Nov. de 1995 15ª / 332 Primer trámite constitucional / Senado Discusión general Ver
+20 de Dic. de 1995   Primer trámite constitucional / Senado Oficio Nº 1316-95, de la Comisión de Constitución en el que vuelve a reitera el rechazo propuesto respecto de esta iniciativa legal. Ver
+04 de Ene. de 1996 26ª / 332 Primer trámite constitucional / Senado Cuenta nuevo primer informe. Cuenta oficio Nº 1316-95
+08 de May. de 1996 58ª / 332 Primer trámite constitucional / Senado Pendiente. Ver
+19 de Jun. de 1996 9ª / 333 Primer trámite constitucional / Senado Discusión general Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1075-07","Fecha Etapa Informe Documento
+20 de Jun. de 1995 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1075-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1075-07","Nombre
+Carmen Frei Ruiz-Tagle","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1075-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1075-07","No record","Veto emmEnd"

@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 4146-06","Legislatura: 354
+Fecha de ingreso: martes 11 de abril de 2006
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 4146-06
+Materia: Partidos Políticos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 22:17:21
+* * Hitos de tramitación * *
+"emmStart Hitos 4146-06","Fecha Sesión Etapa Sub-etapa Documento
+11 de Abr. de 2006 11ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+11 de Abr. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Jul. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de Jul. de 2006 49ª / 354 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+18 de Jul. de 2006 49ª / 354 Primer trámite constitucional / C. Diputados Discusión general Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4146-06","Fecha Etapa Informe Documento
+12 de Jul. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4146-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4146-06","Nombre Región Distrito Partido
+Germán Becker Alvear IX Región de la Araucanía N°50 Renovación Nacional
+Mario Bertolino Rendic IV Región de Coquimbo N°7 Renovación Nacional
+Roberto Delmastro Naso XIV Región de los Ríos N°53 Renovación Nacional
+Ramón Farías Ponce RM Región Metropolitana N°30 Partido Por la Democracia
+Pablo Galilea Carrillo XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Renovación Nacional
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Marta Isasi Barbieri I Región de Tarapacá N°2 Independientes
+María Antonieta Saa Díaz RM Región Metropolitana N°17 Partido Por la Democracia
+Alfonso Vargas Lyng V Región de Valparaíso N°10 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4146-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+49   66 6 21 2 Rechazado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4146-06","No record","Veto emmEnd"

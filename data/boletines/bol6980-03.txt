@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 6980-03","Legislatura: 358
+Fecha de ingreso: martes 08 de junio de 2010
+Estado: Segundo trámite constitucional .
+Numero de boletín: 6980-03
+Materia: Creditos,Seguro De Cesantia,Pensionados
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 08-11-2014 22:52:27
+* * Hitos de tramitación * *
+"emmStart Hitos 6980-03","Fecha Sesión Etapa Sub-etapa Documento
+08 de Jun. de 2010   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+08 de Jun. de 2010 24ª / 358 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Economía
+14 de Jun. de 2011   Primer trámite constitucional / Senado Primer informe de comisión Ver
+21 de Jun. de 2011 27ª / 359 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+05 de Jul. de 2011 30ª / 359 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 18/07/2011, a las 13 horas. Ver
+18 de Jul. de 2011   Primer trámite constitucional / Senado Boletín de indicaciones
+01 de Sep. de 2011   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+07 de Sep. de 2011 51ª / 359 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+14 de Sep. de 2011 54ª / 359 Primer trámite constitucional / Senado Discusión particular Ver
+14 de Sep. de 2011   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+27 de Sep. de 2011 85ª / 359 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6980-03","Fecha Etapa Informe Documento
+06 de Sep. de 2011 Primer trámite constitucional Senado Segundo informe de comisión de Economía Ver
+21 de Jun. de 2011 Primer trámite constitucional Senado Primer informe de comisión de Economía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6980-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6980-03","Nombre
+Juan Pablo Letelier Morel","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6980-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6980-03","No record","Veto emmEnd"

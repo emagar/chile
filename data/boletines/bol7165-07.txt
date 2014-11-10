@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 7165-07","Legislatura: 358
+Fecha de ingreso: miércoles 01 de septiembre de 2010
+Estado: Primer trámite constitucional .
+Numero de boletín: 7165-07
+Materia: Desorden Público,Desorden Juvenil
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 01:00:00
+* * Hitos de tramitación * *
+"emmStart Hitos 7165-07","Fecha Sesión Etapa Sub-etapa Documento
+01 de Sep. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+01 de Sep. de 2010 69ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia. Se remite el proyecto a la Corte Suprema. Ver
+01 de Sep. de 2010   Primer trámite constitucional / C. Diputados Oficio N° a la Corte Suprema Ver
+01 de Sep. de 2010   Primer trámite constitucional / C. Diputados Oficio N°8959 a la Corte Suprema Ver
+13 de Oct. de 2010 88ª / 358 Primer trámite constitucional / C. Diputados Cuenta oficio N° 154 de la Corte Suprema Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7165-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7165-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7165-07","Nombre Región Distrito Partido
+Cristián Campos Jara VIII Región del Bío Bío N°43 Partido Por la Democracia
+José Antonio Kast Rist RM Región Metropolitana N°30 Unión Demócrata Independiente
+Javier Macaya Danús VI Región del Libertador Bernardo O' Higgins N°34 Unión Demócrata Independiente
+Andrea Molina Oliva V Región de Valparaíso N°10 Unión Demócrata Independiente
+Iván Moreira Barros RM Región Metropolitana N°27 Unión Demócrata Independiente
+Claudia Nogueira Fernández RM Región Metropolitana N°19 Unión Demócrata Independiente
+Jorge Sabag Villalobos VIII Región del Bío Bío N°42 Partido Demócrata Cristiano
+Jorge Ulloa Aguillón VIII Región del Bío Bío N°43 Unión Demócrata Independiente
+Gonzalo Uriarte Herrera RM Región Metropolitana N°31 Unión Demócrata Independiente
+Mónica Zalaquett Said RM Región Metropolitana N°20 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7165-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7165-07","No record","Veto emmEnd"

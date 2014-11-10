@@ -1,0 +1,32 @@
+* * Bill summary * *
+"emmStart Summary 870-05","Legislatura: 325
+Fecha de ingreso: martes 24 de noviembre de 1992
+Estado: Tramitación terminada (Ley Nº19.185 - D.Oficial 12/12/1992)
+Numero de boletín: 870-05
+Materia: Aguinaldo De Fiestas Patrias,Reajuste De Remuneraciones Sector Público
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 00:03:48
+* * Hitos de tramitación * *
+"emmStart Hitos 870-05","Fecha Sesión Etapa Sub-etapa Documento
+24 de Nov. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+24 de Nov. de 1992 23ª / 325 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+26 de Nov. de 1992 14ª / 325 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+09 de Dic. de 1992 15ª / 325 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+09 de Dic. de 1992 15ª / 325 Segundo trámite constitucional / Senado Discusión general Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 870-05","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 870-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+24 de Nov. de 1992   Discusión inmediata    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 870-05","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 870-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 870-05","No record","Veto emmEnd"

@@ -1,0 +1,54 @@
+* * Bill summary * *
+"emmStart Summary 2672-13","Legislatura: 343
+Fecha de ingreso: martes 13 de marzo de 2001
+Estado: Tramitación terminada (Ley Nº 19.720 - D.Oficial 07/04/2001)
+Numero de boletín: 2672-13
+Materia: Seguridad Social
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 03-11-2014 08:20:33
+* * Hitos de tramitación * *
+"emmStart Hitos 2672-13","Fecha Sesión Etapa Sub-etapa Documento
+13 de Mar. de 2001   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+13 de Mar. de 2001 27ª / 343 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+14 de Mar. de 2001 28ª / 343 Primer trámite constitucional / Senado Primer informe de comisión Ver
+14 de Mar. de 2001 28ª / 343 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+14 de Mar. de 2001 28ª / 343 Primer trámite constitucional / Senado Discusión general Ver
+14 de Mar. de 2001   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+20 de Mar. de 2001 45ª / 343 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+21 de Mar. de 2001   Segundo trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+21 de Mar. de 2001   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+21 de Mar. de 2001 46ª / 343 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+21 de Mar. de 2001 46ª / 343 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+21 de Mar. de 2001 46ª / 343 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+21 de Mar. de 2001 46ª / 343 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+21 de Mar. de 2001 46ª / 343 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+21 de Mar. de 2001 46ª / 343 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+21 de Mar. de 2001   Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver
+21 de Mar. de 2001 31ª / 343 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+21 de Mar. de 2001 31ª / 343 Tercer trámite constitucional / Senado Discusión única
+21 de Mar. de 2001   Tercer trámite constitucional / Senado Oficio a Cámara de Diputados, comunica aprobación de enmienda introducida. Ver
+21 de Mar. de 2001   Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo Ver
+22 de Mar. de 2001 47ª / 343 Tramitación terminada / / . Cuenta Oficio del Senado, comunica aprobación de enmienda introducida. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2672-13","Fecha Etapa Informe Documento
+21 de Mar. de 2001 Segundo trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+21 de Mar. de 2001 Segundo trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver
+14 de Mar. de 2001 Primer trámite constitucional Senado Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2672-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+13 de Mar. de 2001   Discusión inmediata 328-343  
+13 de Mar. de 2001   Discusión inmediata 323-343  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2672-13","Nombre
+Ministerio de Hacienda
+Ministerio de Trabajo y Previsión Social","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2672-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2672-13","No record","Veto emmEnd"

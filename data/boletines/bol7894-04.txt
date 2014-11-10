@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 7894-04","Legislatura: 359
+Fecha de ingreso: jueves 01 de septiembre de 2011
+Estado: Primer trámite constitucional .
+Numero de boletín: 7894-04
+Materia: Financiamiento Compartido
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 12:26:24
+* * Hitos de tramitación * *
+"emmStart Hitos 7894-04","Fecha Sesión Etapa Sub-etapa Documento
+01 de Sep. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+01 de Sep. de 2011 77ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Deportes y Recreación Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7894-04","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7894-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7894-04","Nombre Región Distrito Partido
+Pepe Auth Stewart RM Región Metropolitana N°20 Partido Por la Democracia
+Aldo Cornejo González V Región de Valparaíso N°13 Partido Demócrata Cristiano
+Alfonso De Urresti Longton XIV Región de los Ríos N°53 Partido Socialista
+Rodrigo González Torres V Región de Valparaíso N°14 Partido Por la Democracia
+Pablo Lorenzini Basso VII Región del Maule N°38 Partido Demócrata Cristiano
+Miodrag Marinovic Solo de Zaldívar XII Región de Magallanes y de la Antártica Chilena N°60 Independientes
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Partido Regionalista Independiente
+Gabriel Silber Romo RM Región Metropolitana N°16 Partido Demócrata Cristiano
+Mario Venegas Cárdenas IX Región de la Araucanía N°48 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7894-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7894-04","No record","Veto emmEnd"

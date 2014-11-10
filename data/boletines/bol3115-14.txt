@@ -1,0 +1,54 @@
+* * Bill summary * *
+"emmStart Summary 3115-14","Legislatura: 348
+Fecha de ingreso: miércoles 06 de noviembre de 2002
+Estado: Tramitación terminada (Ley Nº 19.877 - D.Oficial 31/05/2003)
+Numero de boletín: 3115-14
+Materia: Leasing
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 03-11-2014 23:21:18
+* * Hitos de tramitación * *
+"emmStart Hitos 3115-14","Fecha Sesión Etapa Sub-etapa Documento
+06 de Nov. de 2002   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+06 de Nov. de 2002 10ª / 348 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Vivienda y Urbanismo
+13 de Dic. de 2002   Primer trámite constitucional / Senado Primer informe de comisión Ver
+17 de Dic. de 2002 20ª / 348 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+14 de Ene. de 2003   Primer trámite constitucional / Senado Primer informe de comisión Ver
+15 de Ene. de 2003 25ª / 348 Primer trámite constitucional / Senado Discusión general Ver
+03 de Mar. de 2003   Primer trámite constitucional / Senado Boletín de indicaciones
+12 de Mar. de 2003   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+12 de Mar. de 2003 32ª / 348 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+12 de Mar. de 2003 32ª / 348 Primer trámite constitucional / Senado Discusión particular Ver
+12 de Mar. de 2003   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+13 de Mar. de 2003 57ª / 348 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de la Vivienda y Desarrollo Urbano Ver
+15 de Abr. de 2003   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+29 de Abr. de 2003   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+30 de Abr. de 2003 71ª / 348 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+30 de Abr. de 2003 71ª / 348 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+07 de May. de 2003   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+08 de May. de 2003 48ª / 348 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+08 de May. de 2003   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3115-14","Fecha Etapa Informe Documento
+29 de Abr. de 2003 Segundo trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+15 de Abr. de 2003 Segundo trámite constitucional C.Diputados Primer informe de comisión de Vivienda y Desarrollo Urbano Ver
+12 de Mar. de 2003 Primer trámite constitucional Senado Segundo informe de comisión de Hacienda Ver
+14 de Ene. de 2003 Primer trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+13 de Dic. de 2002 Primer trámite constitucional Senado Primer informe de comisión de Vivienda y Urbanismo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3115-14","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+21 de Ene. de 2003 05 de Mar. de 2003 Simple 414-348 437-348
+17 de Dic. de 2002 21 de Ene. de 2003 Simple 311-348 414-348
+04 de Dic. de 2002 18 de Dic. de 2002 Simple 303-348 311-348
+12 de Nov. de 2002 17 de Dic. de 2002 Simple 159-348 303-348","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3115-14","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3115-14","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3115-14","No record","Veto emmEnd"

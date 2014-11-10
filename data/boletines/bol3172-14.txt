@@ -1,0 +1,53 @@
+* * Bill summary * *
+"emmStart Summary 3172-14","Legislatura: 348
+Fecha de ingreso: miércoles 11 de diciembre de 2002
+Estado: Tramitación terminada (Ley Nº 19.859 - D.Oficial 31/01/2003)
+Numero de boletín: 3172-14
+Materia: Urbanismo Y Construcciones
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 23:58:18
+* * Hitos de tramitación * *
+"emmStart Hitos 3172-14","Fecha Sesión Etapa Sub-etapa Documento
+11 de Dic. de 2002   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+11 de Dic. de 2002 32ª / 348 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de la Vivienda y Desarrollo Urbano Ver
+07 de Ene. de 2003   Primer trámite constitucional / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 348
+15 de Ene. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+21 de Ene. de 2003 45ª / 348 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+22 de Ene. de 2003 47ª / 348 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+22 de Ene. de 2003   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+22 de Ene. de 2003 27ª / 348 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Vivienda y Urbanismo
+22 de Ene. de 2003 27ª / 348 Segundo trámite constitucional / Senado Discusión general Ver
+23 de Ene. de 2003   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+23 de Ene. de 2003 49ª / 348 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+23 de Ene. de 2003   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3172-14","Fecha Etapa Informe Documento
+15 de Ene. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión de Vivienda y Desarrollo Urbano Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3172-14","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+22 de Ene. de 2003   Discusión inmediata 396-348  
+16 de Ene. de 2003   Simple 392-348  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3172-14","Nombre Región Distrito Partido
+Rodrigo Alvarez Zenteno XII Región de Magallanes y de la Antártica Chilena N°60 Unión Demócrata Independiente
+Mario Bertolino Rendic IV Región de Coquimbo N°7 Renovación Nacional
+Eliana Caraball Martínez RM Región Metropolitana N°27 Partido Demócrata Cristiano
+Francisco Encina Moriamez IV Región de Coquimbo N°8 Partido Socialista
+Carlos Abel Jarpa Wevar VIII Región del Bío Bío N°41 Partido Radical Social Demócrata
+Juan Pablo Letelier Morel VI Región del Libertador Bernardo O' Higgins N°33 Partido Socialista
+Pedro Muñoz Aburto XII Región de Magallanes y de la Antártica Chilena N°60 Partido Socialista
+Lily Pérez San Martín RM Región Metropolitana N°26 Renovación Nacional
+Aníbal Pérez Lobos VI Región del Libertador Bernardo O' Higgins N°35 Partido Por la Democracia
+Víctor Pérez Varela VIII Región del Bío Bío N°47 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3172-14","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+47 Indicación señores Montes y Bustos 50 22 6 0   Sala Ver detalle votación
+47   79 0 1 0   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3172-14","No record","Veto emmEnd"

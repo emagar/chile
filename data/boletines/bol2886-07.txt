@@ -1,0 +1,77 @@
+* * Bill summary * *
+"emmStart Summary 2886-07","Legislatura: 345
+Fecha de ingreso: martes 05 de marzo de 2002
+Estado: Tramitación terminada (Ley Nº 19.903 - D.Oficial 10/10/2003)
+Numero de boletín: 2886-07
+Materia: Posesión Efectiva
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 17:43:48
+* * Hitos de tramitación * *
+"emmStart Hitos 2886-07","Fecha Sesión Etapa Sub-etapa Documento
+05 de Mar. de 2002   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+05 de Mar. de 2002 33ª / 345 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+05 de Mar. de 2002   Primer trámite constitucional / C. Diputados Oficio de consulta a la Corte Suprema Ver
+11 de Abr. de 2002 11ª / 346 Primer trámite constitucional / C. Diputados Cuenta oficio 514 de la Corte Suprema Ver Ver
+18 de Dic. de 2002   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+20 de Ene. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+21 de Ene. de 2003 45ª / 348 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+05 de Mar. de 2003 51ª / 348 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+05 de Mar. de 2003   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+11 de Mar. de 2003 31ª / 348 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+19 de Mar. de 2003   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+19 de Mar. de 2003 34ª / 348 Segundo trámite constitucional / Senado Cuenta informe Com. Const., Justicia y Rgto. Queda para tabla.
+25 de Mar. de 2003 35ª / 348 Segundo trámite constitucional / Senado Discusión general Ver
+10 de Abr. de 2003   Segundo trámite constitucional / Senado Boletín de indicaciones
+29 de May. de 2003   Segundo trámite constitucional / Senado Segundo informe de comisión. Pasa a Comisión de Hacienda Ver
+03 de Jun. de 2003 1ª / 349 Segundo trámite constitucional / Senado Cuenta del Mensaje 18-349 que hace presente la urgencia Simple
+11 de Jun. de 2003   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+11 de Jun. de 2003 4ª / 349 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+17 de Jun. de 2003 5ª / 349 Segundo trámite constitucional / Senado Discusión particular Ver
+17 de Jun. de 2003   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+18 de Jun. de 2003 8ª / 349 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+02 de Jul. de 2003 12ª / 349 Tercer trámite constitucional / C. Diputados Discusión única Ver
+04 de Jul. de 2003   Tercer trámite constitucional / C. Diputados Oficio Nº 4397, que comunica aprobación de modificaciones Ver
+08 de Jul. de 2003   Trámite de aprobacion presidencial / C. Diputados Oficio Nº4396. al Ejecutivo, comunica proyecto aprobado para los efectos del artículo 70 de la Constitución Política del Estado. Ver
+08 de Jul. de 2003 9ª / 349 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 4397, que comunica aprobación de modificaciones Ver
+05 de Ago. de 2003 24ª / 349 Trámite de aprobacion presidencial / C. Diputados Cuenta Oficio S.E. el Presidente de la República, manifiesta que ha resuelto no hacer uso de la facultad que le confiere el inciso primero del artículo 70 de la Constitución Política de la República. Pasa a Tribunal Constitucional. Ver Ver
+05 de Ago. de 2003   Trámite en Tribunal Constitucional / C. Diputados Oficio al Tribunal Constitucional Ver
+26 de Ago. de 2003 32ª / 349 Trámite en Tribunal Constitucional / C. Diputados Cuenta Oficio Nº 1932 Tribunal Constitucional, solicita quórum de aprobación de ciertas disposiciones del proyecto. Se envió información solicitada Ver Ver
+02 de Sep. de 2003 35ª / 349 Trámite en Tribunal Constitucional / C. Diputados Cuenta fallo del Tribunal Constitucional Ver Ver
+02 de Sep. de 2003   Trámite en Tribunal Constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2886-07","Fecha Etapa Informe Documento
+11 de Jun. de 2003 Segundo trámite constitucional Senado Segundo informe de comisión de Hacienda Ver
+29 de May. de 2003 Segundo trámite constitucional Senado Segundo informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+19 de Mar. de 2003 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+20 de Ene. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+18 de Dic. de 2002 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2886-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+03 de Jun. de 2003   Simple 18-349  
+03 de Jun. de 2003   Simple 18-349  
+04 de Mar. de 2003   Simple 441-348  
+10 de Dic. de 2002 07 de Ene. de 2003 Simple 270-348 334-348
+05 de Nov. de 2002 10 de Dic. de 2002 Simple 123-348 270-348
+09 de Oct. de 2002   Simple 562-348  
+01 de Oct. de 2002 05 de Nov. de 2002 Simple 22-347 123-348
+13 de Ago. de 2002   Simple 182-347  
+09 de Jul. de 2002 13 de Ago. de 2002 Simple 109-347 182-347
+04 de Jun. de 2002 09 de Jul. de 2002 Simple 21-347 109-347","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2886-07","Nombre Región Distrito Partido
+Ministerio de Justicia      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2886-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+12   77 0 0 2   Sala Ver detalle votación
+51   107 0 0 2   Sala Ver detalle votación
+51 Indicación señor Alvarez-Salamanca al artículo 7º 93 2 4 3   Sala Ver detalle votación
+51 Inadmisibilidad indicación señor Alvarez-Salamanca 39 63 1 2   Sala Ver detalle votación
+51   109 0 0 1   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2886-07","No record","Veto emmEnd"

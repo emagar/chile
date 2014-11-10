@@ -1,0 +1,79 @@
+* * Bill summary * *
+"emmStart Summary 7559-15","Legislatura: 359
+Fecha de ingreso: jueves 24 de marzo de 2011
+Estado: Segundo trámite constitucional .
+Numero de boletín: 7559-15 Refundido con: 7565-15
+Materia: Adulteración En Dispositivo De Kilometraje,Tránsito
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 05:30:42
+* * Hitos de tramitación * *
+"emmStart Hitos 7559-15","Fecha Sesión Etapa Sub-etapa Documento
+24 de Mar. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+24 de Mar. de 2011 8ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+15 de Dic. de 2011 122ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 502-359 que hace presente la urgencia Simple Ver
+15 de Dic. de 2011 122ª / 359 Primer trámite constitucional / C. Diputados La Sala acordó refundir los proyectos. Ver
+22 de Dic. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+22 de Dic. de 2011 125ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+05 de Ene. de 2012 128ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+05 de Ene. de 2012   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+17 de Ene. de 2012 90ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 558-359 que retira y hace presente la urgencia Simple
+31 de Ene. de 2012 94ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 601-359 que retira la urgencias por receso legislativo
+20 de Mar. de 2012 3ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 17-360 que hace presente la urgencia Simple
+18 de Abr. de 2012 13ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 73-360 que retira y hace presente la urgencia Simple
+16 de May. de 2012 18ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 109-360 que retira y hace presente la urgencia Simple
+13 de Jun. de 2012 26ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 151-360 que retira y hace presente la urgencia Simple
+11 de Jul. de 2012 34ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 197-360 que retira y hace presente la urgencia Simple
+11 de Jul. de 2012 34ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 197-360 que retira y hace presente la urgencia Simple
+08 de Ago. de 2012 40ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 238-360 que retira y hace presente la urgencia Simple
+05 de Sep. de 2012 47ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 279-360 que retira y hace presente la urgencia Simple
+03 de Oct. de 2012 52ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 303-360 que retira y hace presente la urgencia Simple
+31 de Oct. de 2012 58ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 340-360 que retira y hace presente la urgencia Simple
+28 de Nov. de 2012 78ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 376-360 que retira y hace presente la urgencia Simple
+19 de Dic. de 2012 89ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 410-360 que retira y hace presente la urgencia Simple
+16 de Ene. de 2013 96ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 450-360 que retira y hace presente la urgencia Simple
+05 de Mar. de 2013 100ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 462-360 que retira la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7559-15","Fecha Etapa Informe Documento
+22 de Dic. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7559-15","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+16 de Ene. de 2013 24 de Ene. de 2013 Simple 450-360 462-360
+19 de Dic. de 2012 16 de Ene. de 2013 Simple 410-360 450-360
+28 de Nov. de 2012 19 de Dic. de 2012 Simple 376-360 410-360
+31 de Oct. de 2012 28 de Nov. de 2012 Simple 340-360 376-360
+03 de Oct. de 2012 31 de Oct. de 2012 Simple 303-360 340-360
+05 de Sep. de 2012 03 de Oct. de 2012 Simple 279-360 303-360
+08 de Ago. de 2012 05 de Sep. de 2012 Simple 238-360 279-360
+11 de Jul. de 2012 08 de Ago. de 2012 Simple 197-360 238-360
+13 de Jun. de 2012 11 de Jul. de 2012 Simple 151-360 197-360
+16 de May. de 2012 13 de Jun. de 2012 Simple 109-360 151-360
+18 de Abr. de 2012 16 de May. de 2012 Simple 73-360 109-360
+20 de Mar. de 2012 18 de Abr. de 2012 Simple 17-360 73-360
+17 de Ene. de 2012 31 de Ene. de 2012 Simple 558-359 601-359
+15 de Dic. de 2011 17 de Ene. de 2012 Simple 502-359 558-359","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7559-15","Nombre Región Distrito Partido
+Pepe Auth Stewart RM Región Metropolitana N°20 Partido Por la Democracia
+Fidel Espinoza Sandoval X Región de los Lagos N°56 Partido Socialista
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Gustavo Hasbún Selume RM Región Metropolitana N°26 Unión Demócrata Independiente
+Javier Hernández Hernández X Región de los Lagos N°55 Unión Demócrata Independiente
+María José Hoffmann Opazo V Región de Valparaíso N°15 Unión Demócrata Independiente
+Cristian Letelier Aguilar RM Región Metropolitana N°31 Independientes
+Iván Norambuena Farías VIII Región del Bío Bío N°46 Unión Demócrata Independiente
+Joaquín Tuma Zedan IX Región de la Araucanía N°51 Partido Por la Democracia
+Mónica Zalaquett Said RM Región Metropolitana N°20 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7559-15","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+128   73 0 0 47 Aprobado Sala Ver detalle votación
+128 Texto del proyecto propuesto por la Comisión informante. 77 0 0 43 Aprobado Sala Ver detalle votación
+128 Indicación para agregar un inciso final al artículo 39 de la ley 18.290, del siguiente tenor: “Tratándose de la compraventa de vehículos motorizados el vendedor estará obligado a señalar de manera fidedigna, al momento de la inscripción, el kilometraje del vehículo respectivo y la fecha de la última transferencia. Sin este esencial requisito la inscripción a que se refieren los incisos anteriores será rechazada de plano”. 65 2 5 48 Aprobado Sala Ver detalle votación
+128 Solicitud de votar indicación sin segundo trámite. 51 22 2 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7559-15","No record","Veto emmEnd"

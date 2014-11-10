@@ -1,0 +1,52 @@
+* * Bill summary * *
+"emmStart Summary 909-05","Legislatura: 325
+Fecha de ingreso: miércoles 27 de enero de 1993
+Estado: Tramitación terminada (Ley Nº 19.301 - D.Oficial 19/03/1994)
+Numero de boletín: 909-05
+Materia: Inversiones De Los Fondos De Pensiones,Administradoras De Fondos De Pensiones,Fondo De Inversiones,Fondo De Pensiones,Mercado De Valores,Pensiones,Sistemas De Pensiones,Inversiones
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 00:34:15
+* * Hitos de tramitación * *
+"emmStart Hitos 909-05","Fecha Sesión Etapa Sub-etapa Documento
+27 de Ene. de 1993   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+27 de Ene. de 1993 46ª / 325 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+01 de Jun. de 1993 2ª / 326 Primer trámite constitucional / C. Diputados Cuenta oficio N? 1 de la Corte Suprema Ver
+07 de Jun. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de Jun. de 1993 5ª / 326 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+08 de Jun. de 1993 5ª / 326 Primer trámite constitucional / C. Diputados Discusión general Ver
+22 de Jun. de 1993 10ª / 326 Primer trámite constitucional / C. Diputados Discusión general Ver
+22 de Jun. de 1993   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+30 de Jun. de 1993 7ª / 326 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+15 de Oct. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+14 de Dic. de 1993 18ª / 327 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+11 de Ene. de 1994 22ª / 327 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 18/01/1994 Ver
+18 de Ene. de 1994   Segundo trámite constitucional / Senado Boletín de indicaciones
+19 de Ene. de 1994   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+19 de Ene. de 1994 27ª / 327 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+20 de Ene. de 1994 28ª / 327 Segundo trámite constitucional / Senado Discusión particular Ver
+25 de Ene. de 1994   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+25 de Ene. de 1994 33ª / 327 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+25 de Ene. de 1994 33ª / 327 Tercer trámite constitucional / C. Diputados Discusión única Ver
+26 de Ene. de 1994   Tercer trámite constitucional / C. Diputados Oficio N° 1556, que comunica aprobacion de modificaciones Ver
+09 de Mar. de 1994 33ª / 327 Tercer trámite constitucional / C. Diputados Cuenta en Senado de oficio Nº 1556, de la Cámara, comunicando aprobación enmiendas propuestas por el Senado Ver
+16 de Mar. de 1994 1ª / 328 Trámite en Tribunal Constitucional / C. Diputados Cuenta oficio N? 1 del Tribunal Constitucional Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 909-05","Fecha Etapa Informe Documento
+19 de Ene. de 1994 Segundo trámite constitucional Senado Segundo informe de comisión de Hacienda Ver
+15 de Oct. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+07 de Jun. de 1993 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 909-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+27 de Ene. de 1993   Simple    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 909-05","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 909-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 909-05","No record","Veto emmEnd"

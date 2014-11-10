@@ -1,0 +1,53 @@
+* * Bill summary * *
+"emmStart Summary 3237-05","Legislatura: 348
+Fecha de ingreso: jueves 08 de mayo de 2003
+Estado: Tramitación terminada (Ley Nº 19.885 - D.Oficial 06/08/2003)
+Numero de boletín: 3237-05
+Materia: Donaciones
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 00:41:55
+* * Hitos de tramitación * *
+"emmStart Hitos 3237-05","Fecha Sesión Etapa Sub-etapa Documento
+08 de May. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+08 de May. de 2003 74ª / 348 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+14 de May. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+15 de May. de 2003 78ª / 348 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+15 de May. de 2003 78ª / 348 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+15 de May. de 2003   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+20 de May. de 2003 55ª / 348 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+20 de May. de 2003   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+20 de May. de 2003 56ª / 348 Segundo trámite constitucional / Senado Discusión general Ver
+20 de May. de 2003   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+28 de May. de 2003   Trámite de aprobacion presidencial / C. Diputados Oficio Nº 4324. al Ejecutivo, comunica proyecto aprobado para los efectos del artículo 70 de la Constitución Política del Estado. Ver
+03 de Jun. de 2003 1ª / 349 Trámite de aprobacion presidencial / C. Diputados Cuenta Oficio S.E. el Presidente de la República, manifiesta que ha resuelto no hacer uso de la facultad que le confiere el inciso primero del artículo 70 de la Constitución Política de la República. Ver Ver
+03 de Jun. de 2003 1ª / 349 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+17 de Jun. de 2003 7ª / 349 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio 1889 del Tribunal Constitucional, solicita antecedentes Ver Ver
+02 de Jul. de 2003 12ª / 349 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio 1.896 del Tribunal Constitucional, remite sentencia. Ver Ver
+02 de Jul. de 2003   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3237-05","Fecha Etapa Informe Documento
+20 de May. de 2003 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+14 de May. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3237-05","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3237-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3237-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+79   98 0 0 1   Sala Ver detalle votación
+79 4º 93 0 0 2   Sala Ver detalle votación
+79 2º, indicación del Ejecutivo 95 0 0 0   Sala Ver detalle votación
+79 1º transitorio, indicación del Ejecutivo 93 0 0 2   Sala Ver detalle votación
+79 5º, indicación del Ejecutivo 97 0 0 1   Sala Ver detalle votación
+79 8º, indicación del Ejecutivo 92 1 1 0   Sala Ver detalle votación
+79 12, indicación del Ejecutivo 97 0 0 1   Sala Ver detalle votación
+79 3º, indicación del Ejecutivo 99 0 0 0   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3237-05","No record","Veto emmEnd"

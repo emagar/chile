@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 5901-06","Legislatura: 356
+Fecha de ingreso: martes 03 de junio de 2008
+Estado: Primer trámite constitucional .
+Numero de boletín: 5901-06
+Materia: Alcaldes,Municipios
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 08-11-2014 00:34:31
+* * Hitos de tramitación * *
+"emmStart Hitos 5901-06","Fecha Sesión Etapa Sub-etapa Documento
+03 de Jun. de 2008   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+03 de Jun. de 2008 23ª / 356 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización
+09 de Jul. de 2008   Primer trámite constitucional / Senado Primer informe de comisión Ver
+15 de Jul. de 2008 36ª / 356 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+29 de Jul. de 2008 38ª / 356 Primer trámite constitucional / Senado La Sala acuerda que esta iniciativa vuelva a la Comisión de Gobierno, Descentralización y Regionalización para un nuevo primer informe.
+29 de Jul. de 2008 38ª / 356 Primer trámite constitucional / Senado Discusión general Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5901-06","Fecha Etapa Informe Documento
+09 de Jul. de 2008 Primer trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5901-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5901-06","Nombre
+Carlos Bianchi Chelech
+José García Ruminot
+Antonio Horvath Kiss
+Roberto Muñoz Barra
+Ricardo Núñez Muñoz","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5901-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5901-06","No record","Veto emmEnd"

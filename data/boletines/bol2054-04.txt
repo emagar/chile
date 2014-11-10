@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 2054-04","Legislatura: 335
+Fecha de ingreso: miércoles 09 de julio de 1997
+Estado: Archivado .
+Numero de boletín: 2054-04
+Materia: Universidades Estatales
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 18:09:25
+* * Hitos de tramitación * *
+"emmStart Hitos 2054-04","Fecha Sesión Etapa Sub-etapa Documento
+09 de Jul. de 1997   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+09 de Jul. de 1997 14ª / 335 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+07 de Oct. de 1997   Primer trámite constitucional / Senado Presidente de la República incluye proyecto en convocatoria a actual legislatura extraordinaria
+06 de Oct. de 1998   Primer trámite constitucional / Senado S.E.El Presidente de la Republica incluye el proyecto en la Convocatoria Extraodinaria 339
+01 de Dic. de 1998   Primer trámite constitucional / Senado Primer informe de comisión Ver
+15 de Dic. de 1998 11ª / 339 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+16 de Dic. de 1998 12ª / 339 Primer trámite constitucional / Senado Discusión general pendiente. Ver
+22 de Dic. de 1998 13ª / 339 Primer trámite constitucional / Senado Postergada su discusión para el 05/01/99 Ver
+13 de Ene. de 1999 17ª / 339 Primer trámite constitucional / Senado Discusión general Ver
+09 de Mar. de 1999 22ª / 339 Primer trámite constitucional / Senado Boletín de indicaciones
+07 de Jul. de 1999   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+07 de Jul. de 1999 11ª / 340 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+03 de Ago. de 1999 18ª / 340 Archivado / Cuenta oficio Nº 837 de la Corte Suprema Ver
+03 de Ago. de 1999 18ª / 340 Archivado / Cuenta del oficio nº 837, de la Corte Suprema, en que fija su opinión sobre esta iniciativa de ley. Ver
+06 de Jun. de 2000   Primer trámite constitucional / Senado Archivado Mensaje de S.E. el Presidente de la Republica solicitando archivo del proyecto, se accede a lo solicitado.
+06 de Jun. de 2000 1ª / 342 Primer trámite constitucional / Senado Discusión particular Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2054-04","Fecha Etapa Informe Documento
+07 de Jul. de 1999 Primer trámite constitucional Senado Segundo informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+01 de Dic. de 1998 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2054-04","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+05 de May. de 1998 16 de Sep. de 1998 Simple 050598-337 CADUCADO
+31 de Mar. de 1998 05 de May. de 1998 Simple 310398-337 050598-337
+02 de Sep. de 1997 18 de Sep. de 1997 Simple 353 CADUCADO
+29 de Jul. de 1997 02 de Sep. de 1997 Simple 432 353","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2054-04","Nombre
+Ministerio de Educación","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2054-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2054-04","No record","Veto emmEnd"

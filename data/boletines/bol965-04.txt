@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 965-04","Legislatura: 325
+Fecha de ingreso: miércoles 14 de abril de 1993
+Estado: Tramitación terminada (Ley Nº 19.271 - D.Oficial 13/12/1993)
+Numero de boletín: 965-04
+Materia: Educacion,Ayuda Estatal A La Educación
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 01:19:10
+* * Hitos de tramitación * *
+"emmStart Hitos 965-04","Fecha Sesión Etapa Sub-etapa Documento
+14 de Abr. de 1993   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+14 de Abr. de 1993 43ª / 325 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+08 de Jun. de 1993 3ª / 326 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+08 de Jun. de 1993 3ª / 326 Primer trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+08 de Jun. de 1993 3ª / 326 Primer trámite constitucional / Senado Primer informe de comisión Ver
+15 de Jun. de 1993 5ª / 326 Primer trámite constitucional / Senado Discusión general Ver
+17 de Jun. de 1993 5ª / 326 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+22 de Jun. de 1993 9ª / 326 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+04 de Ago. de 1993   Segundo trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+02 de Nov. de 1993   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Nov. de 1993 11ª / 327 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+10 de Nov. de 1993 15ª / 327 Segundo trámite constitucional / C. Diputados Discusión general Ver
+11 de Nov. de 1993   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+16 de Nov. de 1993 14ª / 327 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+22 de Nov. de 1993 14ª / 344 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 965-04","Fecha Etapa Informe Documento
+02 de Nov. de 1993 Segundo trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+04 de Ago. de 1993 Segundo trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver
+08 de Jun. de 1993 Primer trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+08 de Jun. de 1993 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 965-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 965-04","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 965-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 965-04","No record","Veto emmEnd"

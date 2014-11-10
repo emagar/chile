@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 6234-06","Legislatura: 356
+Fecha de ingreso: jueves 04 de diciembre de 2008
+Estado: Primer trámite constitucional .
+Numero de boletín: 6234-06
+Materia: Voto Voluntario
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 04:25:40
+* * Hitos de tramitación * *
+"emmStart Hitos 6234-06","Fecha Sesión Etapa Sub-etapa Documento
+04 de Dic. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Dic. de 2009 112ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6234-06","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6234-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6234-06","Nombre Región Distrito Partido
+Claudio Alvarado Andrade X Región de los Lagos N°58 Unión Demócrata Independiente
+Gonzalo Arenas Hödar IX Región de la Araucanía N°48 Unión Demócrata Independiente
+Julio Dittborn Cordúa RM Región Metropolitana N°23 Unión Demócrata Independiente
+Marcelo Forni Lobos V Región de Valparaíso N°11 Unión Demócrata Independiente
+Javier Hernández Hernández X Región de los Lagos N°55 Unión Demócrata Independiente
+José Antonio Kast Rist RM Región Metropolitana N°30 Unión Demócrata Independiente
+Patricio Melero Abaroa RM Región Metropolitana N°16 Unión Demócrata Independiente
+Felipe Salaberry Soto RM Región Metropolitana N°25 Unión Demócrata Independiente
+Gastón Von Mühlenbrock Zamora XIV Región de los Ríos N°54 Unión Demócrata Independiente
+Felipe Ward Edwards II Región de Antofagasta N°3 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6234-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6234-06","No record","Veto emmEnd"

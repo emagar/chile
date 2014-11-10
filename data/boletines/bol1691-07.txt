@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 1691-07","Legislatura: 331
+Fecha de ingreso: miércoles 06 de septiembre de 1995
+Estado: Tramitación terminada (Ley Nº 19.431 - D.Oficial 23/12/1995)
+Numero de boletín: 1691-07
+Materia: Nacionalización
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 12:22:42
+* * Hitos de tramitación * *
+"emmStart Hitos 1691-07","Fecha Sesión Etapa Sub-etapa Documento
+06 de Sep. de 1995 32ª / 331 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía
+06 de Sep. de 1995   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+10 de Oct. de 1995 4ª / 332 Primer trámite constitucional / Senado Primer informe de comisión Ver
+10 de Oct. de 1995 4ª / 332 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+11 de Oct. de 1995 5ª / 332 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+11 de Oct. de 1995 5ª / 332 Primer trámite constitucional / Senado Discusión general Ver
+17 de Oct. de 1995 6ª / 332 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+08 de Nov. de 1995   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+15 de Nov. de 1995 17ª / 332 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+28 de Nov. de 1995 26ª / 332 Segundo trámite constitucional / C. Diputados Discusión particular Ver
+28 de Nov. de 1995   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+29 de Nov. de 1995 20ª / 332 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+29 de Nov. de 1995 20ª / 332 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1691-07","Fecha Etapa Informe Documento
+08 de Nov. de 1995 Segundo trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+10 de Oct. de 1995 Primer trámite constitucional Senado Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1691-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1691-07","Nombre
+Juan Hamilton Depassier
+Jorge Lavandero Illanes
+Ricardo Núñez Muñoz
+Gabriel Valdés Subercaseaux","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1691-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1691-07","No record","Veto emmEnd"

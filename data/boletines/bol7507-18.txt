@@ -1,0 +1,52 @@
+* * Bill summary * *
+"emmStart Summary 7507-18","Legislatura: 358
+Fecha de ingreso: miércoles 02 de marzo de 2011
+Estado: Segundo trámite constitucional .
+Numero de boletín: 7507-18
+Materia: Tribunales De Familia,Representación En Juicios De Adultos Mayores,Adulto Mayor
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 04:55:58
+* * Hitos de tramitación * *
+"emmStart Hitos 7507-18","Fecha Sesión Etapa Sub-etapa Documento
+02 de Mar. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Mar. de 2011   Primer trámite constitucional / C. Diputados Oficio N° a la Corte Suprema Ver
+02 de Mar. de 2011 132ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Familia. Se remite el proyecto a la Corte Suprema. Ver
+16 de Mar. de 2011 3ª / 359 Primer trámite constitucional / C. Diputados Oficio N°44/2011. Oficio de la Comisión Especial del Adulto Mayor, por el cual solicita el acuerdo de la Sala, para que le sea remitido el proyecto. Aprobado Ver Ver
+06 de Abr. de 2011 10ª / 359 Primer trámite constitucional / C. Diputados Cuenta oficio Nº 58-2011 de la Corte Suprema Ver Ver
+22 de Jul. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Ago. de 2011 61ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+18 de Ago. de 2011 74ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+31 de Ago. de 2011 76ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+31 de Ago. de 2011   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+02 de Nov. de 2011 65ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 433-359 que hace presente la urgencia Simple
+13 de Dic. de 2011 80ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 480-359 que retira y hace presente la urgencia Simple
+10 de Ene. de 2012 87ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 533-359 que retira la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7507-18","Fecha Etapa Informe Documento
+22 de Jul. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión Especial del Adulto Mayor Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7507-18","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+13 de Dic. de 2011 09 de Ene. de 2012 Simple 480-359 533-359
+02 de Nov. de 2011 13 de Dic. de 2011 Simple 433-359 480-359","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7507-18","Nombre Región Distrito Partido
+Pedro Browne Urrejola RM Región Metropolitana N°28 Renovación Nacional
+Enrique Estay Peñaloza IX Región de la Araucanía N°49 Unión Demócrata Independiente
+Joaquín Godoy Ibáñez V Región de Valparaíso N°13 Renovación Nacional
+Cristián Monckeberg Bruner RM Región Metropolitana N°23 Renovación Nacional
+Karla Rubilar Barahona RM Región Metropolitana N°17 Renovación Nacional
+Marcela Sabat Fernández RM Región Metropolitana N°21 Renovación Nacional
+David Sandoval Plaza XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Unión Demócrata Independiente
+Alejandro Santana Tirachini X Región de los Lagos N°58 Renovación Nacional
+Mónica Zalaquett Said RM Región Metropolitana N°20 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7507-18","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+76   86 0 0 34 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7507-18","No record","Veto emmEnd"

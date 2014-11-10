@@ -1,0 +1,61 @@
+* * Bill summary * *
+"emmStart Summary 2182-07","Legislatura: 338
+Fecha de ingreso: miércoles 10 de junio de 1998
+Estado: Tramitación terminada (Ley Nº 19.634 - D.Oficial 02/10/1999)
+Numero de boletín: 2182-07
+Materia: Educacion
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 21:48:34
+* * Hitos de tramitación * *
+"emmStart Hitos 2182-07","Fecha Sesión Etapa Sub-etapa Documento
+10 de Jun. de 1998   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Jun. de 1998 6ª / 338 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+20 de Ago. de 1998   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+01 de Sep. de 1998 30ª / 338 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+15 de Sep. de 1998 37ª / 338 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+15 de Sep. de 1998   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+06 de Oct. de 1998 1ª / 339 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+06 de Oct. de 1998   Segundo trámite constitucional / Senado S.E.El Presidente de la Republica incluye el proyecto en la Convocatoria Extraodinaria 339
+26 de Abr. de 1999   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+26 de Abr. de 1999   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+04 de May. de 1999 36ª / 339 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+04 de May. de 1999 36ª / 339 Segundo trámite constitucional / Senado Discusión general Ver
+11 de May. de 1999 38ª / 339 Segundo trámite constitucional / Senado Se solicita nuevo informe de Comisión. Acuerdo de Comités.
+15 de Jun. de 1999 5ª / 340 Segundo trámite constitucional / Senado Cuenta nuevo primer informe
+22 de Jun. de 1999 8ª / 340 Segundo trámite constitucional / Senado Discusión general Ver
+23 de Jun. de 1999   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+23 de Jun. de 1999 12ª / 340 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+23 de Jun. de 1999 12ª / 340 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+06 de Jul. de 1999 14ª / 340 Tercer trámite constitucional / C. Diputados Discusión única Ver
+06 de Jul. de 1999   Tercer trámite constitucional / C. Diputados Oficio aprobación de modificaciones de Ref.Constitucional Ver
+04 de Sep. de 1999 0ª / 340 Congreso Pleno / Ratificación reforma constitucional
+04 de Sep. de 1999   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo. para efectos de promulgación Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2182-07","Fecha Etapa Informe Documento
+10 de Jun. de 1999 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+26 de Abr. de 1999 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+20 de Ago. de 1998 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2182-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2182-07","Nombre Región Distrito Partido
+Homero Gutiérrez Román VII Región del Maule N°37 Partido Demócrata Cristiano
+Enrique Krauss Rusque RM Región Metropolitana N°22 Partido Demócrata Cristiano
+Rosauro Martínez Labbé VIII Región del Bío Bío N°41 Independientes
+Gutenberg Martínez Ocamica RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Sergio Ojeda Uribe X Región de los Lagos N°55 Partido Demócrata Cristiano
+Antonella Sciaraffia Estrada I Región de Tarapacá N°2 Partido Demócrata Cristiano
+Felipe Valenzuela Herrera II Región de Antofagasta N°4 Partido Socialista
+Sergio Velasco De la Cerda V Región de Valparaíso N°15 Partido Demócrata Cristiano
+Edmundo Villouta Concha IX Región de la Araucanía N°48 Partido Demócrata Cristiano
+Patricio Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2182-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2182-07","No record","Veto emmEnd"

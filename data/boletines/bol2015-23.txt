@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 2015-23","Legislatura: 334
+Fecha de ingreso: martes 15 de abril de 1997
+Estado: Archivado .
+Numero de boletín: 2015-23
+Materia: Propiedad Compartida,Inmuebles En Tiempo Compartido
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 17:29:10
+* * Hitos de tramitación * *
+"emmStart Hitos 2015-23","Fecha Sesión Etapa Sub-etapa Documento
+15 de Abr. de 1997   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+15 de Abr. de 1997 60ª / 334 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión Especial de turismo Ver
+12 de May. de 1999   Primer trámite constitucional / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 339
+03 de Oct. de 2001   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+04 de Abr. de 2002 8ª / 346 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+10 de Abr. de 2002 10ª / 346 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general (Queda Pendiente) Ver Ver
+11 de Abr. de 2002 11ª / 346 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general . Vuelve a Comisión de Turismo para segundo informe Ver Ver
+02 de Jul. de 2002   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+02 de Jul. de 2002 11ª / 347 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+03 de Jul. de 2002 12ª / 347 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver
+03 de Jul. de 2002   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+09 de Jul. de 2002 12ª / 347 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+14 de Sep. de 2004   Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 352
+18 de Jul. de 2007 36ª / 355 Segundo trámite constitucional / Senado Cuenta de la comunicación de la Comisión de Constitución, Legislación, Justicia y Reglamento, en que solicita el acuerdo de la Sala para proponer a la Cámara de Diputados el archivo del proyecto. Se accede a lo solicitado.
+31 de Jul. de 2007   Segundo trámite constitucional / Senado Archivado Cuenta del oficio N° 6912, de la Cámara de Diputados, en que accede al archivo solicitado.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2015-23","Fecha Etapa Informe Documento
+02 de Jul. de 2002 Primer trámite constitucional C.Diputados Segundo informe de comisión Desarrollo del Turismo Ver
+03 de Oct. de 2001 Primer trámite constitucional C.Diputados Primer informe de comisión Desarrollo del Turismo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2015-23","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2015-23","Nombre Región Distrito Partido
+Francisco Encina Moriamez Región N° Partido Socialista
+Arturo Longton Guerrero Región N°12 Renovación Nacional
+Eugenio Munizaga Rodriguez Región N°7 Renovación Nacional
+Marina Prochelle Aguilar Región N°55 Renovación Nacional
+Baldo Prokurica Prokurica Región N°6 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2015-23","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+12   68 0 0 2   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2015-23","No record","Veto emmEnd"

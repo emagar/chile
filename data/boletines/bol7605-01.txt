@@ -1,0 +1,34 @@
+* * Bill summary * *
+"emmStart Summary 7605-01","Legislatura: 359
+Fecha de ingreso: miércoles 20 de abril de 2011
+Estado: Primer trámite constitucional .
+Numero de boletín: 7605-01
+Materia: Transferencia De Predios Rústicos,Predios Rústicos
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 09-11-2014 06:02:57
+* * Hitos de tramitación * *
+"emmStart Hitos 7605-01","Fecha Sesión Etapa Sub-etapa Documento
+20 de Abr. de 2011   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+20 de Abr. de 2011 11ª / 359 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Agricultura
+15 de May. de 2012   Primer trámite constitucional / Senado Primer informe de comisión Ver
+11 de Jul. de 2012 34ª / 360 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 06/08/2012 Ver
+11 de Jul. de 2012 34ª / 360 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 06/08/2012 Ver
+06 de Ago. de 2012   Primer trámite constitucional / Senado Boletín de indicaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7605-01","Fecha Etapa Informe Documento
+15 de May. de 2012 Primer trámite constitucional Senado Primer informe de comisión de Agricultura Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7605-01","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7605-01","Nombre
+Hosaín Sabag Castillo","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7605-01","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7605-01","No record","Veto emmEnd"

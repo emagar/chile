@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 107-04","Legislatura: 320
+Fecha de ingreso: miércoles 18 de julio de 1990
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 107-04
+Materia: Congreso Nacional
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 30-10-2014 18:01:05
+* * Hitos de tramitación * *
+"emmStart Hitos 107-04","Fecha Sesión Etapa Sub-etapa Documento
+18 de Jul. de 1990   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+18 de Jul. de 1990 17ª / 320 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+05 de Sep. de 1990 30ª / 320 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización
+13 de Nov. de 1990   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+26 de Nov. de 1990 15ª / 321 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+28 de Nov. de 1990 18ª / 321 Segundo trámite constitucional / Senado Discusión general. Se rechaza la idea de legislar. Ver
+29 de Nov. de 1990   Segundo trámite constitucional / Senado Oficio rechazo a Cámara de Origen Ver
+29 de Nov. de 1990   Comisión Mixta por rechazo de idea de legislar / Senado Oficio integrantes de Comisión Mixta Ver
+11 de Dic. de 1990 22ª / 321 Comisión Mixta por rechazo de idea de legislar / Senado Cuenta oficio integrantes de Comisión Mixta
+20 de Dic. de 1990 22ª / 321 Comisión Mixta por rechazo de idea de legislar / Senado Informe de Comisión Mixta Ver
+17 de Ene. de 1991 35ª / 321 Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / Senado Cuenta oficio aprobación de informe de Comisión Mixta
+05 de Mar. de 1991 36ª / 321 Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / Senado Discusión informe de Comisión Mixta
+06 de Mar. de 1991   Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / Senado Oficio rechazo de informe de Comisión Mixta a C.de Origen Ver
+07 de Mar. de 1991 34ª / 321 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio rechazo de informe de Comisión Mixta Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 107-04","Fecha Etapa Informe Documento
+20 de Dic. de 1990 Comisión Mixta por rechazo de idea de legislar Senado Informe de Comisión Mixta Comisión Mixta para Boletín Nº 107-04. Medalla de honor \""Congreso Nacional\"". Ver
+13 de Nov. de 1990 Segundo trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 107-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 107-04","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 107-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 107-04","No record","Veto emmEnd"

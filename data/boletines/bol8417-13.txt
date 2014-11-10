@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 8417-13","Legislatura: 360
+Fecha de ingreso: jueves 05 de julio de 2012
+Estado: Segundo trámite constitucional .
+Numero de boletín: 8417-13
+Materia: Código Del Trabajo,Polifuncionalidad
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 01:16:32
+* * Hitos de tramitación * *
+"emmStart Hitos 8417-13","Fecha Sesión Etapa Sub-etapa Documento
+05 de Jul. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+05 de Jul. de 2012 51ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+22 de Abr. de 2014   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+06 de May. de 2014 20ª / 362 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+08 de May. de 2014 22ª / 362 Primer trámite constitucional / C. Diputados Discusión general. Queda pendiente Ver
+15 de May. de 2014 25ª / 362 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general y particular a la vez Ver
+15 de May. de 2014   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+20 de May. de 2014 19ª / 362 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8417-13","Fecha Etapa Informe Documento
+22 de Abr. de 2014 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8417-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8417-13","Nombre Región Distrito Partido
+Sergio Aguiló Melo VII Región del Maule N°37 Izquierda Ciudadana
+Osvaldo Andrade Lara RM Región Metropolitana N°29 Partido Socialista
+Pedro Araya Guerrero II Región de Antofagasta N°4 Partido Regionalista Independiente
+Marcos Espinosa Monardes II Región de Antofagasta N°3 Partido Radical Social Demócrata
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Carlos Abel Jarpa Wevar VIII Región del Bío Bío N°41 Partido Radical Social Demócrata
+Tucapel Jiménez Fuentes RM Región Metropolitana N°27 Partido Por la Democracia
+Manuel Monsalve Benavides VIII Región del Bío Bío N°46 Partido Socialista
+Adriana Muñoz D'Albora IV Región de Coquimbo N°9 Partido Por la Democracia
+René Saffirio Espinoza IX Región de la Araucanía N°50 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8417-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+5 Votación General 12 0 0 1   Trabajo Ver detalle votación
+25   85 0 0 35 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8417-13","No record","Veto emmEnd"

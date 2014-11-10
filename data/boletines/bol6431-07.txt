@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 6431-07","Legislatura: 357
+Fecha de ingreso: martes 31 de marzo de 2009
+Estado: Primer trámite constitucional .
+Numero de boletín: 6431-07 Refundido con: 6463-07
+Materia: Tráfico De Drogas
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 08-11-2014 07:33:48
+* * Hitos de tramitación * *
+"emmStart Hitos 6431-07","Fecha Sesión Etapa Sub-etapa Documento
+31 de Mar. de 2009   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+31 de Mar. de 2009 5ª / 357 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+15 de Abr. de 2009 11ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 200-357 que hace presente la urgencia Simple
+20 de Abr. de 2009   Primer trámite constitucional / Senado Primer informe de comisión Ver
+29 de Abr. de 2009 13ª / 357 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+05 de May. de 2009 14ª / 357 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 18/05/2009 Ver
+19 de May. de 2009 19ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 416-357 que retira y hace presente la urgencia Simple Ver
+19 de May. de 2009 19ª / 357 Primer trámite constitucional / Senado La Sala ratifica el acuerdo de Comités, en orden a fijar un nuevo plazo para presentar indicaciones hasta las 18 horas del día de hoy, 19 de mayo de 2009.
+20 de May. de 2009   Primer trámite constitucional / Senado Boletín de indicaciones
+30 de Jun. de 2009 29ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 659-357 que retira y hace presente la urgencia Simple
+04 de Ago. de 2009 37ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 854-357 que retira y hace presente la urgencia Simple
+08 de Sep. de 2009 46ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 1075-357 que retira y hace presente la urgencia Simple
+29 de Sep. de 2009 52ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 1210-357 que retira la urgencia Simple
+29 de Sep. de 2009 52ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 1210-357 que retira la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6431-07","Fecha Etapa Informe Documento
+20 de Abr. de 2009 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6431-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+08 de Sep. de 2009 28 de Sep. de 2009 Simple 1075-357 1210-357
+04 de Ago. de 2009 08 de Sep. de 2009 Simple 854-357 1075-357
+30 de Jun. de 2009 04 de Ago. de 2009 Simple 659-357 854-357
+19 de May. de 2009 30 de Jun. de 2009 Simple 416-357 659-357
+15 de Abr. de 2009 18 de May. de 2009 Simple 200-357 416-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6431-07","Nombre
+Jaime Orpis Bouchon","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6431-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6431-07","No record","Veto emmEnd"

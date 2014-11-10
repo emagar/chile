@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 7447-03","Legislatura: 358
+Fecha de ingreso: martes 18 de enero de 2011
+Estado: Primer trámite constitucional .
+Numero de boletín: 7447-03
+Materia: Código De Comercio,Registro De Correspondencia
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 04:12:13
+* * Hitos de tramitación * *
+"emmStart Hitos 7447-03","Fecha Sesión Etapa Sub-etapa Documento
+18 de Ene. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+18 de Ene. de 2011 127ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7447-03","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7447-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7447-03","Nombre Región Distrito Partido
+Pedro Browne Urrejola RM Región Metropolitana N°28 Renovación Nacional
+Roberto Delmastro Naso XIV Región de los Ríos N°53 Independientes
+José Manuel Edwards Silva IX Región de la Araucanía N°51 Renovación Nacional
+Joaquín Godoy Ibáñez V Región de Valparaíso N°13 Renovación Nacional
+Nicolás Monckeberg Díaz RM Región Metropolitana N°18 Renovación Nacional
+Karla Rubilar Barahona RM Región Metropolitana N°17 Renovación Nacional
+Alejandro Santana Tirachini X Región de los Lagos N°58 Renovación Nacional
+Frank Sauerbaum Muñoz VIII Región del Bío Bío N°42 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7447-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7447-03","No record","Veto emmEnd"

@@ -1,0 +1,57 @@
+* * Bill summary * *
+"emmStart Summary 6562-07","Legislatura: 357
+Fecha de ingreso: miércoles 10 de junio de 2009
+Estado: Primer trámite constitucional .
+Numero de boletín: 6562-07
+Materia: Colegios Profesionales
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 13:37:52
+* * Hitos de tramitación * *
+"emmStart Hitos 6562-07","Fecha Sesión Etapa Sub-etapa Documento
+10 de Jun. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Jun. de 2009 39ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia. Se remite el proyecto a la Corte Suprema. Ver
+10 de Jun. de 2009   Primer trámite constitucional / C. Diputados Oficio N° 8154 a la Corte Suprema Ver
+05 de Ago. de 2009 59ª / 357 Primer trámite constitucional / C. Diputados Cuenta oficio N° 189 de la Corte Suprema Ver Ver
+18 de Ago. de 2009 67ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 948-357 que hace presente la urgencia Suma Ver
+01 de Sep. de 2009 73ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 996-357 que retira y hace presente la urgencia Suma Ver
+15 de Sep. de 2009 80ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1124-357 que retira y hace presente la urgencia Suma Ver
+29 de Sep. de 2009 82ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1193-357 que retira y hace presente la urgencia Suma Ver
+13 de Oct. de 2009 88ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1300-35 que retira y hace presente la urgencia Suma Ver
+27 de Oct. de 2009 92ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1361-357 que retira y hace presente la urgencia Suma Ver
+10 de Nov. de 2009 100ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1522-357 que retira y hace presente la urgencia Suma Ver Ver
+18 de Nov. de 2009 106ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1587-357 que retira la urgencia Suma Ver
+15 de Dic. de 2009 109ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1672-357 que hace presente la urgencia Simple Ver
+05 de Ene. de 2010 114ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1740-357 que retira y hace presente la urgencia Suma Ver
+20 de Ene. de 2010 121ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1869-357 que retira la urgencia Suma Ver
+09 de Sep. de 2014 66ª / 362 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 485-362 que hace presente la urgencia Simple Ver
+07 de Oct. de 2014 76ª / 362 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 615-362 que hace presente la urgencia Simple Ver
+04 de Nov. de 2014 86ª / 362 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 752-362 que hace presente la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6562-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6562-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Nov. de 2014   Simple 752-362  
+07 de Oct. de 2014   Simple 615-362  
+09 de Sep. de 2014   Simple 485-362  
+15 de Dic. de 2009 05 de Ene. de 2010 Simple 1672-357 1740-357
+10 de Nov. de 2009 18 de Nov. de 2009 Suma 1522-357 1587-357
+27 de Oct. de 2009 10 de Nov. de 2009 Suma 1361-357 1522-357
+13 de Oct. de 2009 27 de Oct. de 2009 Suma 1300-35 1361-357
+29 de Sep. de 2009 13 de Oct. de 2009 Suma 1193-357 1300-35
+15 de Sep. de 2009 28 de Sep. de 2009 Suma 1124-357 1193-357
+01 de Sep. de 2009 15 de Sep. de 2009 Suma 996-357 1124-357
+18 de Ago. de 2009 01 de Sep. de 2009 Suma 948-357 996-357
+05 de Ene. de 0010 20 de Ene. de 2010 Suma 1740-357 1869-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6562-07","Nombre Región Distrito Partido
+Ministerio de Justicia      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6562-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6562-07","No record","Veto emmEnd"

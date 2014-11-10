@@ -1,0 +1,51 @@
+* * Bill summary * *
+"emmStart Summary 8377-06","Legislatura: 360
+Fecha de ingreso: martes 19 de junio de 2012
+Estado: Tramitación terminada (Ley N°20.718 - D.Oficial 02/01/2014)
+Numero de boletín: 8377-06
+Materia: Municipios,Certificados De Residencia
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 00:46:30
+* * Hitos de tramitación * *
+"emmStart Hitos 8377-06","Fecha Sesión Etapa Sub-etapa Documento
+19 de Jun. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+19 de Jun. de 2012 44ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior y Regionalización Ver
+12 de Oct. de 2012   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+16 de Oct. de 2012 90ª / 360 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+30 de Oct. de 2012 93ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+30 de Oct. de 2012 93ª / 360 Segundo trámite constitucional / Senado La Sala aprobó la propuesta de la Comisión de Gobierno Interior, para cambiar el epígrafe del proyecto, como sigue ""Modifica la ley N°19.418, habilitando a las juntas de vecinos a otorgar certificados de residencia"".
+30 de Oct. de 2012   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+31 de Oct. de 2012 58ª / 360 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización
+10 de Sep. de 2013   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+10 de Sep. de 2013 55ª / 361 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Dic. de 2013 78ª / 361 Segundo trámite constitucional / Senado Discusión general Ver
+10 de Dic. de 2013   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+11 de Dic. de 2013 102ª / 361 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+11 de Dic. de 2013 102ª / 361 Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8377-06","Fecha Etapa Informe Documento
+10 de Sep. de 2013 Segundo trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver
+12 de Oct. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8377-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8377-06","Nombre Región Distrito Partido
+Pepe Auth Stewart RM Región Metropolitana N°20 Partido Por la Democracia
+Alfonso De Urresti Longton XIV Región de los Ríos N°53 Partido Socialista
+Marcos Espinosa Monardes II Región de Antofagasta N°3 Partido Radical Social Demócrata
+Fernando Meza Moncada IX Región de la Araucanía N°52 Partido Radical Social Demócrata
+José Pérez Arriagada VIII Región del Bío Bío N°47 Partido Radical Social Demócrata
+Mario Venegas Cárdenas IX Región de la Araucanía N°48 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8377-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+93   89 4 1 26 Aprobado Sala Ver detalle votación
+93 Artículo único. 80 2 1 0 Aprobado Sala Ver detalle votación
+93 Artículo único con indicación de los diputados señores Farías y Rincón. 16 70 2 32 Rechazado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8377-06","No record","Veto emmEnd"

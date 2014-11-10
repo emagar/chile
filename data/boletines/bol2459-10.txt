@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 2459-10","Legislatura: 341
+Fecha de ingreso: martes 25 de enero de 2000
+Estado: Tramitación terminada (D.S. Nº 369 - D.Oficial 26/06/2001)
+Numero de boletín: 2459-10
+Materia: Acuerdos Internacionales,Transporte Aéreo
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 00:43:12
+* * Hitos de tramitación * *
+"emmStart Hitos 2459-10","Fecha Sesión Etapa Sub-etapa Documento
+25 de Ene. de 2000 25ª / 341 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+25 de Ene. de 2000   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+21 de Mar. de 2000   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+10 de May. de 2000   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de May. de 2000 51ª / 341 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+08 de Jun. de 2000 3ª / 342 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+08 de Jun. de 2000   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+13 de Jun. de 2000 3ª / 342 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+18 de Oct. de 2000   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+19 de Ene. de 2001   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+23 de Ene. de 2001 25ª / 343 Segundo trámite constitucional / Senado Discusión general Ver
+23 de Ene. de 2001 25ª / 343 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+23 de Ene. de 2001   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+24 de Ene. de 2001   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+06 de Mar. de 2001 39ª / 343 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2459-10","Fecha Etapa Informe Documento
+19 de Ene. de 2001 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+18 de Oct. de 2000 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+10 de May. de 2000 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+21 de Mar. de 2000 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2459-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+25 de Ene. de 2000   Sin urgencia 294-341  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2459-10","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2459-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2459-10","No record","Veto emmEnd"

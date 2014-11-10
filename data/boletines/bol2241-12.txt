@@ -1,0 +1,57 @@
+* * Bill summary * *
+"emmStart Summary 2241-12","Legislatura: 338
+Fecha de ingreso: martes 15 de septiembre de 1998
+Estado: Tramitación terminada (Ley Nº 19.686 - D.Oficial 05/08/2000)
+Numero de boletín: 2241-12
+Materia: Saneamiento De Propiedad
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 22:26:58
+* * Hitos de tramitación * *
+"emmStart Hitos 2241-12","Fecha Sesión Etapa Sub-etapa Documento
+15 de Sep. de 1998   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+15 de Sep. de 1998 30ª / 338 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Medio Ambiente y Bienes Nacionales
+15 de Jun. de 1999   Primer trámite constitucional / Senado Primer informe de comisión Ver
+16 de Jun. de 1999 6ª / 340 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+07 de Jul. de 1999 12ª / 340 Primer trámite constitucional / Senado Discusión general Ver
+20 de Jul. de 1999   Primer trámite constitucional / Senado Boletín de indicaciones
+03 de Ago. de 1999   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+03 de Ago. de 1999 18ª / 340 Primer trámite constitucional / Senado Cuenta 2do Informe de Comision
+04 de Ago. de 1999 19ª / 340 Primer trámite constitucional / Senado Discusión particular Ver
+09 de Ago. de 1999   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+11 de Ago. de 1999 30ª / 340 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver
+20 de Oct. de 1999   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de Nov. de 1999 10ª / 341 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+16 de Mar. de 2000 32ª / 341 Segundo trámite constitucional / C. Diputados Discusión general Ver
+05 de Abr. de 2000   Segundo trámite constitucional / C. Diputados Segundo informe de comisión Ver
+12 de Abr. de 2000 40ª / 341 Segundo trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+13 de Abr. de 2000   Segundo trámite constitucional / C. Diputados Cuenta Oficio de Respuesta de Corte Suprema. Ver
+17 de May. de 2000 53ª / 341 Segundo trámite constitucional / C. Diputados Discusión particular Ver
+17 de May. de 2000   Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver
+06 de Jun. de 2000 1ª / 342 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+13 de Jun. de 2000 3ª / 342 Tercer trámite constitucional / Senado Discusión única
+14 de Jun. de 2000   Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo Ver
+14 de Jun. de 2000   Tercer trámite constitucional / Senado Oficio Nº 16234, que comunica aprobación de modificaciones Ver
+20 de Jun. de 2000 5ª / 342 Tercer trámite constitucional / Senado Cuenta en Cámara de Diputados de Oficio del Senado, comunica aprobación enmiendas
+20 de Jun. de 2000 5ª / 342 Tercer trámite constitucional / Senado Cuenta oficio N? 16234, que comunica aprobacion de modificaciones
+19 de Mar. de 2009 5ª / 357 Tercer trámite constitucional / Senado Cuenta oficio N? 16234, que comunica aprobacion de modificaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2241-12","Fecha Etapa Informe Documento
+05 de Abr. de 2000 Segundo trámite constitucional C.Diputados Segundo informe de comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver
+20 de Oct. de 1999 Segundo trámite constitucional C.Diputados Primer informe de comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver
+03 de Ago. de 1999 Primer trámite constitucional Senado Segundo informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+15 de Jun. de 1999 Primer trámite constitucional Senado Primer informe de comisión de Medio Ambiente y Bienes Nacionales Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2241-12","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2241-12","Nombre
+Andrés Zaldívar Larraín","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2241-12","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2241-12","No record","Veto emmEnd"

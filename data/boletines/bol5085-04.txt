@@ -1,0 +1,68 @@
+* * Bill summary * *
+"emmStart Summary 5085-04","Legislatura: 355
+Fecha de ingreso: martes 05 de junio de 2007
+Estado: Tramitación terminada (Ley Nº 20.244 - D.Oficial 19/01/2008)
+Numero de boletín: 5085-04
+Materia: Educación Preescolar,Jardines Infantiles,Calidad De La Educación,Junta Nacional De Jardines Infantiles
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 00:30:43
+* * Hitos de tramitación * *
+"emmStart Hitos 5085-04","Fecha Sesión Etapa Sub-etapa Documento
+05 de Jun. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+05 de Jun. de 2007 30ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+05 de Jun. de 2007 30ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 234-355 que hace presente la urgencia Simple Ver
+20 de Jun. de 2007 40ª / 355 Primer trámite constitucional / C. Diputados Eximido del trámite ante Comisión Derivado a Comisión Unidas de Educación y Hacienda Ver
+04 de Jul. de 2007 45ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 383-355 que retira y hace presente la urgencia Simple Ver
+07 de Ago. de 2007 60ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 523-355 que retira y hace presente la urgencia Simple Ver
+11 de Sep. de 2007 76ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 684-355 que retira y hace presente la urgencia Simple Ver
+02 de Oct. de 2007 79ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 725-355 que retira la urgencia Simple Ver
+02 de Oct. de 2007 79ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 739-355 que hace presente la urgencia Simple Ver
+04 de Oct. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Oct. de 2007 84ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+10 de Oct. de 2007 87ª / 355 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+10 de Oct. de 2007   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+16 de Oct. de 2007 58ª / 355 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología y a Comisión de Hacienda Ver
+17 de Oct. de 2007 59ª / 355 Segundo trámite constitucional / Senado La Sala, a petición del Honorable Senador señor Ruiz Esquide, autoriza a la Comisión de Educación, Cultura, Ciencia y Tecnología para discutir este proyecto en general y en particular en el primer informe.
+05 de Nov. de 2007   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+15 de Nov. de 2007   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+20 de Nov. de 2007 66ª / 355 Segundo trámite constitucional / Senado Cuenta del Mensaje 1074-355 que retira y hace presente la urgencia Simple
+20 de Nov. de 2007 67ª / 355 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+04 de Dic. de 2007 72ª / 355 Segundo trámite constitucional / Senado Discusión general Ver
+04 de Dic. de 2007   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+05 de Dic. de 2007 112ª / 355 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver Ver
+12 de Dic. de 2007 115ª / 355 Tercer trámite constitucional / C. Diputados Discusión única Ver
+13 de Dic. de 2007   Tercer trámite constitucional / C. Diputados Oficio Nº 7165, que comunica aprobación de modificaciones Ver
+13 de Dic. de 2007   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+18 de Dic. de 2007 117ª / 355 Trámite de aprobacion presidencial / C. Diputados P. de la Rep. comunica quqe no hará uso de la facultad del inciso primero del art. 73. de la Const. Pol. Ver
+18 de Dic. de 2007   Trámite en Tribunal Constitucional / C. Diputados Oficio al Tribunal Constitucional Ver
+18 de Dic. de 2007 76ª / 355 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 7165, que comunica aprobación de modificaciones Ver
+08 de Ene. de 2008 124ª / 355 Trámite en Tribunal Constitucional / C. Diputados Cuenta oficio Nº 1671 del Tribunal Constitucional Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5085-04","Fecha Etapa Informe Documento
+15 de Nov. de 2007 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+05 de Nov. de 2007 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+04 de Oct. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión Unidas de Educación y Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5085-04","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+20 de Nov. de 2007   Simple 1074-355  
+02 de Oct. de 2007 19 de Nov. de 2007 Simple 739-355 1074-355
+07 de Ago. de 2007 11 de Sep. de 2007 Simple 523-355 684-355
+04 de Jul. de 2007 07 de Ago. de 2007 Simple 383-355 523-355
+05 de Jun. de 2007 04 de Jul. de 2007 Simple 234-355 383-355","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5085-04","Nombre Región Distrito Partido
+Ministerio de Educación      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5085-04","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+2 Votación General 14 0 0 12   Unidas Educ/Hacienda Ver detalle votación
+115 Totalidad de las enmiendas introducidas por el Senado en el proyecto. 98 0 0 0 Aprobado Sala Ver detalle votación
+87 con excepción del inciso tercero del artículo 3°, por ser materia orgánica constitucional. 98 0 0 0 Aprobado Sala Ver detalle votación
+87 3°, inciso tercero. 100 0 0 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5085-04","No record","Veto emmEnd"

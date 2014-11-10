@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 887-04","Legislatura: 325
+Fecha de ingreso: martes 15 de diciembre de 1992
+Estado: Tramitación terminada (Ley Nº 19.513 - D.Oficial 30/08/1997)
+Numero de boletín: 887-04
+Materia: Monumentos
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 00:17:35
+* * Hitos de tramitación * *
+"emmStart Hitos 887-04","Fecha Sesión Etapa Sub-etapa Documento
+15 de Dic. de 1992   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+15 de Dic. de 1992 17ª / 325 Primer trámite constitucional / Senado Cuenta de proyecto
+07 de Jun. de 1994 3ª / 329 Primer trámite constitucional / Senado Primer informe de comisión Ver
+07 de Jun. de 1994 3ª / 329 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+14 de Jun. de 1994 5ª / 329 Primer trámite constitucional / Senado Discusión general Ver
+15 de Jun. de 1994 5ª / 329 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+16 de Jun. de 1994 10ª / 329 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+18 de Jun. de 1996   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+16 de Jul. de 1997 17ª / 335 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora. Queda para tabla
+29 de Jul. de 1997 19ª / 335 Tercer trámite constitucional / Senado Discusión única
+29 de Jul. de 1997 19ª / 344 Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo Ver
+29 de Jul. de 1997 19ª / 335 Tercer trámite constitucional / Senado Discusión única
+30 de Jul. de 1997   Tercer trámite constitucional / Senado Oficio Nº 11357, que comunica aprobación de modificaciones Ver
+05 de Ago. de 1997 27ª / 335 Tercer trámite constitucional / Senado Cuenta oficio N? 11357, que comunica aprobacion de modificaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 887-04","Fecha Etapa Informe Documento
+18 de Jun. de 1996 Segundo trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver
+07 de Jun. de 1994 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 887-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 887-04","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 887-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 887-04","No record","Veto emmEnd"

@@ -1,0 +1,52 @@
+* * Bill summary * *
+"emmStart Summary 37-07","Legislatura: 319
+Fecha de ingreso: lunes 30 de abril de 1990
+Estado: Tramitación terminada (Ley Nº 19.232 - D.Oficial 04/08/1993)
+Numero de boletín: 37-07
+Materia: Código Tributario
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 30-10-2014 16:06:32
+* * Hitos de tramitación * *
+"emmStart Hitos 37-07","Fecha Sesión Etapa Sub-etapa Documento
+30 de Abr. de 1990   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de May. de 1990 15ª / 319 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+14 de Jul. de 1992   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+14 de Jul. de 1992 17ª / 324 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+20 de Ago. de 1992 33ª / 324 Primer trámite constitucional / C. Diputados Discusión general Ver
+08 de Sep. de 1992   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+08 de Sep. de 1992 37ª / 324 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+15 de Sep. de 1992 40ª / 324 Primer trámite constitucional / C. Diputados Discusión particular Ver
+16 de Sep. de 1992   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+08 de Oct. de 1992 2ª / 325 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+10 de Mar. de 1993 37ª / 325 Segundo trámite constitucional / Senado Primer informe de comisión Ver
+30 de Mar. de 1993 37ª / 325 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+06 de Abr. de 1993 39ª / 325 Segundo trámite constitucional / Senado Discusión general Ver
+06 de Abr. de 1993 39ª / 325 Segundo trámite constitucional / Senado Por acuerdo de Comités, vuelve a Comisión para nuevo informe. Ver
+20 de May. de 1993 1ª / 326 Segundo trámite constitucional / Senado Nuevo primer informe de comisión Ver
+01 de Jun. de 1993 1ª / 326 Segundo trámite constitucional / Senado Cuenta nuevo primer informe
+08 de Jun. de 1993 3ª / 326 Segundo trámite constitucional / Senado Discusión general Ver
+14 de Jun. de 1993   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+15 de Jun. de 1993 7ª / 326 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+07 de Jul. de 1993 12ª / 326 Tercer trámite constitucional / C. Diputados Discusión única Ver
+08 de Jul. de 1993   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 37-07","Fecha Etapa Informe Documento
+20 de May. de 1993 Segundo trámite constitucional Senado Nuevo primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+10 de Mar. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+08 de Sep. de 1992 Primer trámite constitucional C.Diputados Segundo informe de comisión de Constitución, Legislación y Justicia Ver
+14 de Jul. de 1992 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 37-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 37-07","Nombre Región Distrito Partido
+Raúl Urrutia Avila Región N° Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 37-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 37-07","No record","Veto emmEnd"

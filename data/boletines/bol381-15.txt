@@ -1,0 +1,54 @@
+* * Bill summary * *
+"emmStart Summary 381-15","Legislatura: 322
+Fecha de ingreso: jueves 13 de junio de 1991
+Estado: Tramitación terminada (Ley Nº 19.170 - D.Oficial 03/10/1992)
+Numero de boletín: 381-15
+Materia: Empresas
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 16:32:07
+* * Hitos de tramitación * *
+"emmStart Hitos 381-15","Fecha Sesión Etapa Sub-etapa Documento
+13 de Jun. de 1991 7ª / 322 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+13 de Jun. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+17 de Oct. de 1991   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+19 de Nov. de 1991   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+10 de Mar. de 1992 42ª / 323 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones y a Comisión de Hacienda
+10 de Abr. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+05 de May. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+06 de May. de 1992 57ª / 323 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+06 de May. de 1992 57ª / 323 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 11/05/1992 Ver
+13 de May. de 1992   Segundo trámite constitucional / Senado Segundo informe de comisión. Pasa a Comisión de Hacienda Ver
+15 de May. de 1992   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+19 de May. de 1992 60ª / 323 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+20 de May. de 1992 61ª / 323 Segundo trámite constitucional / Senado Discusión particular Ver
+29 de May. de 1992   Trámite finalización en Cámara de Origen / C. Diputados Oficio Nº3189. Oficio a la Cámara de Diputados comunicando aprobación del proyecto, con modificaciones. Ver
+09 de Jul. de 1992 9ª / 324 Comisión Mixta por rechazo de modificaciones / Senado Cuenta oficio rechazo a modificaciones
+13 de Jul. de 1992   Trámite finalización en Cámara de Origen / C. Diputados Oficio Nº3310. Oficio a la Cámara de Diputados tomando conocimiento de la formación de Comisión Mixta, designando a los Senadores que la integrarán. Ver
+17 de Jul. de 1992   Comisión Mixta por rechazo de modificaciones / Senado Informe de Comisión Mixta Ver
+04 de Ago. de 1992 14ª / 324 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Cuenta oficio aprobación de informe de Comisión Mixta
+06 de Ago. de 1992 15ª / 324 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Discusión informe de Comisión Mixta
+10 de Ago. de 1992   Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Oficio aprobación de informe de Comisión Mixta a C.de Origen Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 381-15","Fecha Etapa Informe Documento
+17 de Jul. de 1992 Comisión Mixta por rechazo de modificaciones Senado Informe de Comisión Mixta de Transportes y Telecomunicaciones Ver
+15 de May. de 1992 Segundo trámite constitucional Senado Segundo informe de comisión de Hacienda Ver
+13 de May. de 1992 Segundo trámite constitucional Senado Segundo informe de comisión de Transportes y Telecomunicaciones Ver
+05 de May. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+10 de Abr. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver
+19 de Nov. de 1991 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+17 de Oct. de 1991 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 381-15","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+13 de Jun. de 1991   Discusión inmediata    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 381-15","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 381-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 381-15","No record","Veto emmEnd"

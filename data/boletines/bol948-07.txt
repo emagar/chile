@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 948-07","Legislatura: 325
+Fecha de ingreso: martes 30 de marzo de 1993
+Estado: Tramitación terminada (Ley Nº 19.237 - D.Oficial 20/08/1993)
+Numero de boletín: 948-07
+Materia: Inscripción Electoral,Votación
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 01:06:17
+* * Hitos de tramitación * *
+"emmStart Hitos 948-07","Fecha Sesión Etapa Sub-etapa Documento
+29 de Mar. de 1993 57ª / 325 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+29 de Mar. de 1993   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de Abr. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de Jun. de 1993   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+22 de Jun. de 1993   Primer trámite constitucional / C. Diputados Primer informe complementario Ver
+30 de Jun. de 1993 7ª / 326 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+06 de Jul. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+07 de Jul. de 1993 9ª / 326 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+07 de Jul. de 1993 9ª / 326 Segundo trámite constitucional / Senado Discusión general Ver
+12 de Jul. de 1993   Segundo trámite constitucional / Senado Oficio Nº4714. comunica aprobación con modificaciones a Cámara de origen Ver
+03 de Ago. de 1993 14ª / 326 Segundo trámite constitucional / Senado Cuenta oficio Nº 1293, de la Cámara, comunicando aprobación enmiendas propuestas por el Senado","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 948-07","Fecha Etapa Informe Documento
+06 de Jul. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+22 de Jun. de 1993 Primer trámite constitucional C.Diputados Primer informe complementario de Constitución, Legislación y Justicia Ver
+08 de Jun. de 1993 Primer trámite constitucional C.Diputados Segundo informe de comisión de Constitución, Legislación y Justicia Ver
+20 de Abr. de 1993 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 948-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+29 de Mar. de 1993   Suma    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 948-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 948-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 948-07","No record","Veto emmEnd"

@@ -1,0 +1,62 @@
+* * Bill summary * *
+"emmStart Summary 6964-15","Legislatura: 358
+Fecha de ingreso: martes 01 de junio de 2010
+Estado: Tramitación terminada (Ley Nº 20.471 - D.Oficial 10/12/2010)
+Numero de boletín: 6964-15
+Materia: Organismo Administrador Para La Implementación De La Portabilidad Numérica
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 22:42:25
+* * Hitos de tramitación * *
+"emmStart Hitos 6964-15","Fecha Sesión Etapa Sub-etapa Documento
+01 de Jun. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+01 de Jun. de 2010 30ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones y a Comisión de Ciencias y Tecnología Ver
+01 de Jun. de 2010 30ª / 358 Primer trámite constitucional / C. Diputados P. de la Rep. hace presente la urgencia ""simple"". Ver
+06 de Jul. de 2010 47ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 184-358 que retira y hace presente la urgencia Suma Ver
+27 de Jul. de 2010 55ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 214-358 que retira y hace presente la urgencia Suma Ver
+05 de Ago. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+10 de Ago. de 2010 61ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+11 de Ago. de 2010 62ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 254-358 que retira y hace presente la urgencia Suma Ver
+11 de Ago. de 2010 62ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+11 de Ago. de 2010   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora. Oficio N°8934. Ver
+17 de Ago. de 2010 43ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones
+27 de Ago. de 2010   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+31 de Ago. de 2010 45ª / 358 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+01 de Sep. de 2010 46ª / 358 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 27/09/2010 Ver
+27 de Sep. de 2010   Segundo trámite constitucional / Senado Boletín de indicaciones
+26 de Oct. de 2010   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+26 de Oct. de 2010 61ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 412-358 que hace presente la urgencia Discusión inmediata
+27 de Oct. de 2010 62ª / 358 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+27 de Oct. de 2010 62ª / 358 Segundo trámite constitucional / Senado Discusión particular Ver
+27 de Oct. de 2010   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+28 de Oct. de 2010 92ª / 358 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+02 de Nov. de 2010 93ª / 358 Tercer trámite constitucional / C. Diputados Discusión única Ver
+02 de Nov. de 2010   Tercer trámite constitucional / C. Diputados Oficio N° 9082, que comunica aprobacion de modificaciones Ver
+02 de Nov. de 2010   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo. Oficio N°9079. Ver
+03 de Nov. de 2010 64ª / 358 Tercer trámite constitucional / C. Diputados Cuenta oficio N? 9082, que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6964-15","Fecha Etapa Informe Documento
+26 de Oct. de 2010 Segundo trámite constitucional Senado Segundo informe de comisión de Transportes y Telecomunicaciones Ver
+27 de Ago. de 2010 Segundo trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver
+05 de Ago. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6964-15","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+26 de Oct. de 2010   Discusión inmediata 412-358  
+11 de Ago. de 2010   Suma 254-358  
+27 de Jul. de 2010 11 de Ago. de 2010 Suma 214-358 254-358
+06 de Jul. de 2010   Suma 184-358  
+01 de Jun. de 2010 06 de Jul. de 2010 Simple 147-358 184-358","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6964-15","Nombre Región Distrito Partido
+Ministerio de Transporte y Telecomunicaciones      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6964-15","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+93 Modificaciones del Senado. 80 0 0 40 Aprobado Sala Ver detalle votación
+62   93 0 0 1 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6964-15","No record","Veto emmEnd"

@@ -1,0 +1,78 @@
+* * Bill summary * *
+"emmStart Summary 4266-07","Legislatura: 354
+Fecha de ingreso: jueves 22 de junio de 2006
+Estado: Tramitación terminada (Ley Nº 20.273 - D.Oficial 28/06/2008)
+Numero de boletín: 4266-07 Refundido con: 4267-07
+Materia: Receptación De Cables,Robo
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 23:37:02
+* * Hitos de tramitación * *
+"emmStart Hitos 4266-07","Fecha Sesión Etapa Sub-etapa Documento
+22 de Jun. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+22 de Jun. de 2006 42ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+18 de Oct. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+31 de Oct. de 2006 91ª / 354 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+02 de Nov. de 2006 92ª / 354 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+07 de Nov. de 2006   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+08 de Nov. de 2006 94ª / 354 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver
+08 de Nov. de 2006 94ª / 354 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+08 de Nov. de 2006   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+14 de Nov. de 2006 68ª / 354 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento Ver
+21 de Jun. de 2007   Segundo trámite constitucional / Senado Cuenta de la comunicación de la Comisión de Constitución, Legislación, Justicia y Reglamento, en que solicita autorización para discutir en general y en particular la iniciativa en el trámite de primer informe. Se accede a lo solicitado.
+23 de Oct. de 2007   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+31 de Oct. de 2007 61ª / 355 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+06 de Nov. de 2007 62ª / 355 Segundo trámite constitucional / Senado Discusión general. Se acuerda volverlo a Comisión de Cons., Leg., Just. y Reglamento. Ver
+11 de Dic. de 2007 74ª / 355 Segundo trámite constitucional / Senado Cuenta del Mensaje 1150-355 que hace presente la urgencia Simple
+08 de Ene. de 2008   Segundo trámite constitucional / Senado Nuevo primer informe de comisión Ver
+09 de Ene. de 2008 80ª / 355 Segundo trámite constitucional / Senado Cuenta nuevo primer informe
+15 de Ene. de 2008 82ª / 355 Segundo trámite constitucional / Senado Cuenta del Mensaje 1350-355 que retira y hace presente la urgencia Simple
+15 de Ene. de 2008 82ª / 355 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones hasta las 12:00 horas del día 4 de marzo de 2008. Ver
+04 de Mar. de 2008 88ª / 355 Segundo trámite constitucional / Senado Cuenta del Mensaje 1395-355 que retira la urgencia Simple
+04 de Mar. de 2008   Segundo trámite constitucional / Senado Boletín de indicaciones
+15 de Abr. de 2008   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+16 de Abr. de 2008 13ª / 356 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+29 de Abr. de 2008 15ª / 356 Segundo trámite constitucional / Senado Discusión particular Ver
+29 de Abr. de 2008   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+30 de Abr. de 2008 23ª / 356 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver Ver
+11 de Jun. de 2008 38ª / 356 Tercer trámite constitucional / C. Diputados Discusión única Ver
+11 de Jun. de 2008   Tercer trámite constitucional / C. Diputados Oficio Nº 7509, que comunica aprobación de modificaciones Ver
+11 de Jun. de 2008   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+17 de Jun. de 2008 27ª / 356 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 7509, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4266-07","Fecha Etapa Informe Documento
+15 de Abr. de 2008 Segundo trámite constitucional Senado Segundo informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+08 de Ene. de 2008 Segundo trámite constitucional Senado Nuevo primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+23 de Oct. de 2007 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+07 de Nov. de 2006 Primer trámite constitucional C.Diputados Segundo informe de comisión de Constitución, Legislación y Justicia Ver
+18 de Oct. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4266-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+15 de Ene. de 2008 25 de Ene. de 2008 Simple 1350-355 1395-355
+11 de Dic. de 2007 14 de Ene. de 2008 Simple 1150-355 1350-355","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4266-07","Nombre Región Distrito Partido
+Germán Becker Alvear IX Región de la Araucanía N°50 Renovación Nacional
+Mario Bertolino Rendic IV Región de Coquimbo N°7 Renovación Nacional
+Roberto Delmastro Naso XIV Región de los Ríos N°53 Renovación Nacional
+Pablo Galilea Carrillo XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Renovación Nacional
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Amelia Herrera Silva V Región de Valparaíso N°12 Renovación Nacional
+Marta Isasi Barbieri I Región de Tarapacá N°2 Independientes
+Nicolás Monckeberg Díaz VIII Región del Bío Bío N°42 Renovación Nacional
+Alfonso Vargas Lyng V Región de Valparaíso N°10 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4266-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+94 único, inciso primero. 73 0 0 0 Aprobado Sala Ver detalle votación
+94 único, inciso tercero. 48 25 1 0 Aprobado Sala Ver detalle votación
+94 Indicación renovada de los Diputados Hales, Montes, Bustos, Encina, Paredes, Quintana y Chahuán, para agregar el siguiente inciso final al artículo único: ""Las empresas de suministro público o domiciliario, tales como de electricidad, gas, agua, alcantarillado, telefonía o cualquier otro deberán reponer el servicio al usuario y no podrán cobrar el suministro del respectivo servicio mientras éste se halle interrumpido por razón de la comisión de este tipo de delitos."" 43 25 10 0 Aprobado Sala Ver detalle votación
+92   95 3 0 0 Aprobado Sala Ver detalle votación
+38 Modificaciones del Senado. 76 0 0 44 Aprobado Sala Ver detalle votación
+44 Votación General 7 0 0 6   Constitución Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4266-07","No record","Veto emmEnd"

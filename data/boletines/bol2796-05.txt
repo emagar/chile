@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 2796-05","Legislatura: 345
+Fecha de ingreso: martes 02 de octubre de 2001
+Estado: Tramitación terminada (Ley Nº 19.774 - D.Oficial 04/12/2001)
+Numero de boletín: 2796-05
+Materia: Presupuesto Sector Público
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 10:35:20
+* * Hitos de tramitación * *
+"emmStart Hitos 2796-05","Fecha Sesión Etapa Sub-etapa Documento
+02 de Oct. de 2001 1ª / 345 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión Especial Mixta Presupuesto Ver
+02 de Oct. de 2001   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Nov. de 2001   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+06 de Nov. de 2001 14ª / 345 Primer trámite constitucional / C. Diputados Discusión general Ver
+06 de Nov. de 2001 13ª / 345 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+06 de Nov. de 2001   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+07 de Nov. de 2001 13ª / 345 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión Especial Mixta de Presupuesto
+07 de Nov. de 2001   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+07 de Nov. de 2001 13ª / 345 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+07 de Nov. de 2001 13ª / 345 Segundo trámite constitucional / Senado Discusión general. Aprobado en general y particular sin modificaciones (Discusión queda pendiente)
+07 de Nov. de 2001 14ª / 345 Segundo trámite constitucional / Senado Discusión general Ver
+07 de Nov. de 2001   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen
+13 de Nov. de 2001 16ª / 345 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+13 de Nov. de 2001   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2796-05","Fecha Etapa Informe Documento
+07 de Nov. de 2001 Segundo trámite constitucional Senado Primer informe de comisión Especial Mixta de Presupuestos Ver
+06 de Nov. de 2001 Primer trámite constitucional C.Diputados Primer informe de comisión Especial Mixta Presupuesto Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2796-05","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2796-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2796-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2796-05","No record","Veto emmEnd"

@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 363-10","Legislatura: 322
+Fecha de ingreso: martes 04 de junio de 1991
+Estado: Tramitación terminada (D.S. Nº 1.618 - D.Oficial 03/03/1992)
+Numero de boletín: 363-10
+Materia: Visas
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 16:19:12
+* * Hitos de tramitación * *
+"emmStart Hitos 363-10","Fecha Sesión Etapa Sub-etapa Documento
+04 de Jun. de 1991   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+05 de Jun. de 1991 2ª / 322 Primer trámite constitucional / Senado Cuenta de proyecto
+10 de Jul. de 1991 16ª / 322 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Jul. de 1991 16ª / 322 Primer trámite constitucional / Senado Primer informe de comisión Ver
+10 de Jul. de 1991   Segundo trámite constitucional / C. Diputados Primer informe de comisión
+16 de Jul. de 1991 18ª / 322 Primer trámite constitucional / Senado Discusión general Ver
+16 de Jul. de 1991 18ª / 322 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+17 de Jul. de 1991 21ª / 322 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+23 de Oct. de 1991 12ª / 323 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+23 de Oct. de 1991   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen
+23 de Oct. de 1991 12ª / 323 Segundo trámite constitucional / C. Diputados Discusión general Ver
+29 de Oct. de 1991 8ª / 323 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+30 de Oct. de 1991 8ª / 323 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 363-10","Fecha Etapa Informe Documento
+10 de Sep. de 1991 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+10 de Jul. de 1991 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 363-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 363-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 363-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 363-10","No record","Veto emmEnd"

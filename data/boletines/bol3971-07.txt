@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 3971-07","Legislatura: 353
+Fecha de ingreso: martes 06 de septiembre de 2005
+Estado: Archivado .
+Numero de boletín: 3971-07
+Materia: Juicio Abreviado
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 07:23:12
+* * Hitos de tramitación * *
+"emmStart Hitos 3971-07","Fecha Sesión Etapa Sub-etapa Documento
+06 de Sep. de 2005 39ª / 353 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+06 de Sep. de 2005   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+09 de Jun. de 2009   Primer trámite constitucional / C. Diputados Archivado
+09 de Jun. de 2009 37ª / 357 Archivado / Comisión de Constitución archiva proyecto.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3971-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3971-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3971-07","Nombre Región Distrito Partido
+Andrés Egaña Respaldiza VIII Región del Bío Bío N°44 Unión Demócrata Independiente
+Maximiano Errázuriz Eguiguren RM Región Metropolitana N°29 Renovación Nacional
+Javier Hernández Hernández X Región de los Lagos N°55 Unión Demócrata Independiente
+Gonzalo Ibáñez Santa María V Región de Valparaíso N°14 Unión Demócrata Independiente
+Rosauro Martínez Labbé VIII Región del Bío Bío N°41 Renovación Nacional
+Pablo Prieto Lorca VII Región del Maule N°37 Unión Demócrata Independiente
+Alfonso Vargas Lyng V Región de Valparaíso N°10 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3971-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3971-07","No record","Veto emmEnd"

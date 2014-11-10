@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 3042-07","Legislatura: 347
+Fecha de ingreso: martes 03 de septiembre de 2002
+Estado: Tramitación terminada (Ley Nº 19.837 - D.Oficial 29/11/2002)
+Numero de boletín: 3042-07
+Materia: Nacionalización
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 03-11-2014 22:29:23
+* * Hitos de tramitación * *
+"emmStart Hitos 3042-07","Fecha Sesión Etapa Sub-etapa Documento
+03 de Sep. de 2002   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+03 de Sep. de 2002 25ª / 347 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía
+05 de Sep. de 2002   Primer trámite constitucional / Senado Primer informe de comisión Ver
+10 de Sep. de 2002 27ª / 347 Primer trámite constitucional / Senado Cuenta informe de la Comisión. Queda para tabla.
+11 de Sep. de 2002 29ª / 347 Primer trámite constitucional / Senado Discusión general Ver
+11 de Sep. de 2002   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+01 de Oct. de 2002 1ª / 348 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+02 de Oct. de 2002   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de Oct. de 2002 4ª / 348 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+10 de Oct. de 2002 6ª / 348 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+10 de Oct. de 2002   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+15 de Oct. de 2002 5ª / 348 Trámite finalización en Cámara de Origen / Senado Cuenta oficio C. de Diputados, comunica aprobación en los mismos términos que el Senado. Se manda comunicar al Presidente de la República.
+15 de Oct. de 2002   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3042-07","Fecha Etapa Informe Documento
+02 de Oct. de 2002 Segundo trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+05 de Sep. de 2002 Primer trámite constitucional Senado Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3042-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3042-07","Nombre
+Juan Antonio Coloma Correa
+Jaime Gazmuri Mujica","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3042-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3042-07","No record","Veto emmEnd"

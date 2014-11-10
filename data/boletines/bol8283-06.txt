@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 8283-06","Legislatura: 360
+Fecha de ingreso: martes 08 de mayo de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8283-06
+Materia: Gasto Electoral,Transparencia Del Proceso Electoral,Actividad Politica
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 23:38:55
+* * Hitos de tramitación * *
+"emmStart Hitos 8283-06","Fecha Sesión Etapa Sub-etapa Documento
+08 de May. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+08 de May. de 2012 22ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior y Regionalización Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8283-06","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8283-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8283-06","Nombre Región Distrito Partido
+Pepe Auth Stewart RM Región Metropolitana N°20 Partido Por la Democracia
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Aldo Cornejo González V Región de Valparaíso N°13 Partido Demócrata Cristiano
+Ramón Farías Ponce RM Región Metropolitana N°30 Partido Por la Democracia
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Pablo Lorenzini Basso VII Región del Maule N°38 Partido Demócrata Cristiano
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+Alberto Robles Pantoja III Región de Atacama N°6 Partido Radical Social Demócrata
+Marcelo Schilling Rodríguez V Región de Valparaíso N°12 Partido Socialista
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Partido Regionalista Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8283-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8283-06","No record","Veto emmEnd"

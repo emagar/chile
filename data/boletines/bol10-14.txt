@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 10-14","Legislatura: 319
+Fecha de ingreso: miércoles 21 de marzo de 1990
+Estado: Archivado .
+Numero de boletín: 10-14
+Materia: Viviendas
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 30-10-2014 12:53:26
+* * Hitos de tramitación * *
+"emmStart Hitos 10-14","Fecha Sesión Etapa Sub-etapa Documento
+21 de Mar. de 1990   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+21 de Mar. de 1990 3ª / 319 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de la Vivienda y Desarrollo Urbano Ver
+08 de Oct. de 1990   Archivado / Oficio Nº 24. Solicita a la Corporación informar sobre admisibilidad a trámite legislativo del proyecto. Ver
+02 de Nov. de 1994   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de Nov. de 1994 12ª / 330 Primer trámite constitucional / C. Diputados Primer informe de comisión Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 10-14","Fecha Etapa Informe Documento
+02 de Nov. de 1994 Primer trámite constitucional C.Diputados Primer informe de comisión de Vivienda y Desarrollo Urbano Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 10-14","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 10-14","Nombre Región Distrito Partido
+Baldemar Carrasco Muñoz Región N° Partido Demócrata Cristiano
+Juan Concha Urbina Región N° Partido Demócrata Cristiano
+Ramón Elizalde Hevia Región N° Partido Demócrata Cristiano
+Mario Hamuy Berr Región N° Partido Demócrata Cristiano
+Sergio Ojeda Uribe Región N° Partido Demócrata Cristiano
+Sergio Pizarro Mackay Región N° Partido Demócrata Cristiano
+Julio Rojos Astorga Región N° Partido Demócrata Cristiano
+Edmundo Villouta Concha Región N° Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 10-14","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 10-14","No record","Veto emmEnd"

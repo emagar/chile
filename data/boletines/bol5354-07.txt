@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 5354-07","Legislatura: 355
+Fecha de ingreso: martes 02 de octubre de 2007
+Estado: Segundo trámite constitucional .
+Numero de boletín: 5354-07 Refundido con: 5355-07
+Materia: Código De Procedimiento Civil,Juicios
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 03:39:07
+* * Hitos de tramitación * *
+"emmStart Hitos 5354-07","Fecha Sesión Etapa Sub-etapa Documento
+02 de Oct. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Oct. de 2007 80ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+16 de Dic. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de Dic. de 2008 118ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Constitución. EN ESTADO DE TABLA. Ver
+04 de Jun. de 2009 36ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+04 de Jun. de 2009   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+09 de Jun. de 2009 24ª / 357 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5354-07","Fecha Etapa Informe Documento
+16 de Dic. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5354-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5354-07","Nombre Región Distrito Partido
+Rodrigo Alvarez Zenteno XII Región de Magallanes y de la Antártica Chilena N°60 Unión Demócrata Independiente
+Gonzalo Arenas Hödar IX Región de la Araucanía N°48 Unión Demócrata Independiente
+Eugenio Bauer Jouanne VI Región del Libertador Bernardo O' Higgins N°33 Unión Demócrata Independiente
+Marcela Cubillos Sigall RM Región Metropolitana N°21 Unión Demócrata Independiente
+Edmundo Eluchans Urenda V Región de Valparaíso N°15 Unión Demócrata Independiente
+Enrique Estay Peñaloza IX Región de la Araucanía N°49 Unión Demócrata Independiente
+Javier Hernández Hernández X Región de los Lagos N°55 Unión Demócrata Independiente
+Juan Lobos Krause VIII Región del Bío Bío N°47 Unión Demócrata Independiente
+Gonzalo Uriarte Herrera RM Región Metropolitana N°31 Unión Demócrata Independiente
+Ignacio Urrutia Bonilla VII Región del Maule N°40 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5354-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+193 Votación General 6 0 0 7   Constitución Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5354-07","No record","Veto emmEnd"

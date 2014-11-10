@@ -1,0 +1,35 @@
+* * Bill summary * *
+"emmStart Summary 5637-05","Legislatura: 355
+Fecha de ingreso: jueves 20 de diciembre de 2007
+Estado: Archivado .
+Numero de boletín: 5637-05
+Materia: Bancos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 08:13:00
+* * Hitos de tramitación * *
+"emmStart Hitos 5637-05","Fecha Sesión Etapa Sub-etapa Documento
+20 de Dic. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de Dic. de 2007 121ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+27 de Ene. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de Mar. de 2009 131ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+03 de Mar. de 2009 131ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Hacienda. EN ESTADO DE TABLA. Ver
+14 de Abr. de 2010   Primer trámite constitucional / C. Diputados Archivado Solicitado por Comités Parlamentarios.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5637-05","Fecha Etapa Informe Documento
+27 de Ene. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5637-05","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5637-05","Nombre Región Distrito Partido
+Enrique Estay Peñaloza IX Región de la Araucanía N°49 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5637-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+205 Votación General 0 4 0 9   Hacienda Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5637-05","No record","Veto emmEnd"

@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 3270-18","Legislatura: 349
+Fecha de ingreso: martes 01 de julio de 2003
+Estado: Archivado .
+Numero de boletín: 3270-18
+Materia: Abandono Del Hogar
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 00:58:56
+* * Hitos de tramitación * *
+"emmStart Hitos 3270-18","Fecha Sesión Etapa Sub-etapa Documento
+01 de Jul. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+01 de Jul. de 2003 11ª / 349 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Familia Ver
+01 de Jul. de 2003   Primer trámite constitucional / C. Diputados Oficio de consulta a Corte Suprema Ver
+12 de Ago. de 2003 28ª / 349 Primer trámite constitucional / C. Diputados Cuenta oficio N? 1524 de la Corte Suprema Ver
+12 de Ago. de 2003 28ª / 349 Primer trámite constitucional / C. Diputados Cuenta Oficio de Corte Suprema, remite opinión solicitada. Ver Ver
+25 de Ene. de 2005   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de Mar. de 2005 46ª / 352 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Familia. Ver
+03 de Mar. de 2005 46ª / 352 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Abr. de 2010   Primer trámite constitucional / C. Diputados Archivado Solicitado por Comités Parlamentarios","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3270-18","Fecha Etapa Informe Documento
+25 de Ene. de 2005 Primer trámite constitucional C.Diputados Primer informe de comisión de Familia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3270-18","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3270-18","Nombre Región Distrito Partido
+Juan Bustos Ramírez V Región de Valparaíso N°12 Partido Socialista
+Guillermo Ceroni Fuentes VII Región del Maule N°40 Partido Por la Democracia
+Zarko Luksic Sandoval RM Región Metropolitana N°16 Partido Demócrata Cristiano
+Fernando Meza Moncada IX Región de la Araucanía N°52 Partido Radical Social Demócrata
+María Antonieta Saa Díaz RM Región Metropolitana N°17 Partido Por la Democracia
+Laura Soto González V Región de Valparaíso N°13 Partido Por la Democracia
+Eugenio Tuma Zedan IX Región de la Araucanía N°51 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3270-18","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3270-18","No record","Veto emmEnd"

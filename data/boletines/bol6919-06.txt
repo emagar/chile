@@ -1,0 +1,60 @@
+* * Bill summary * *
+"emmStart Summary 6919-06","Legislatura: 358
+Fecha de ingreso: martes 04 de mayo de 2010
+Estado: Tramitación terminada (Ley N° 20.450 - D.Oficial 19/07/2010)
+Numero de boletín: 6919-06
+Materia: Feriado De Bicentenario,Feriados
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 19:36:59
+* * Hitos de tramitación * *
+"emmStart Hitos 6919-06","Fecha Sesión Etapa Sub-etapa Documento
+04 de May. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de May. de 2010 19ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior y Regionalización Ver
+04 de May. de 2010 19ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 85-358 que hace presente la urgencia Suma Ver
+12 de May. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de May. de 2010 25ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+01 de Jun. de 2010 30ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 142-358 que retira y hace presente la urgencia Discusión inmediata Ver
+02 de Jun. de 2010 31ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+02 de Jun. de 2010   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+02 de Jun. de 2010 23ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización
+15 de Jun. de 2010   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+15 de Jun. de 2010 27ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 153-358 que retira y hace presente la urgencia Discusión inmediata
+16 de Jun. de 2010 29ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 163-358 que retira la urgencia Discusión inmediata
+16 de Jun. de 2010 29ª / 358 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+29 de Jun. de 2010 30ª / 358 Segundo trámite constitucional / Senado Discusión general Ver
+29 de Jun. de 2010   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+30 de Jun. de 2010 44ª / 358 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+06 de Jul. de 2010 47ª / 358 Tercer trámite constitucional / C. Diputados Cuenta del Mensaje 186-358 que hace presente la urgencia Discusión inmediata Ver
+06 de Jul. de 2010 47ª / 358 Tercer trámite constitucional / C. Diputados Discusión única Ver
+06 de Jul. de 2010   Tercer trámite constitucional / C. Diputados Oficio N° 8857, que comunica aprobacion de modificaciones Ver
+06 de Jul. de 2010   Tercer trámite constitucional / C. Diputados Oficio N° 8856. Comunica al Presidente de la República el proyecto aprobado. Ver
+07 de Jul. de 2010 33ª / 358 Tercer trámite constitucional / C. Diputados Cuenta oficio N? 8857, que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6919-06","Fecha Etapa Informe Documento
+15 de Jun. de 2010 Segundo trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver
+12 de May. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6919-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+06 de Jul. de 2010   Discusión inmediata 186-358  
+15 de Jun. de 2010 16 de Jun. de 2010 Discusión inmediata 172-358 163-358
+01 de Jun. de 2010 15 de Jun. de 2010 Discusión inmediata 142-358 153-358
+04 de May. de 2010 01 de Jun. de 2010 Suma 85-358 142-358","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6919-06","Nombre Región Distrito Partido
+Ministerio de Interior y Seguridad Públi      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6919-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+47 Enmiendas del Senado. 58 51 1 10 Aprobado Sala Ver detalle votación
+31   101 0 2 17 Aprobado Sala Ver detalle votación
+31 Texto del proyecto propuesto por la Comisión, con la indicación de los diputados Díaz, De Urresti, Aguiló, Hugo Gutiérrez, Teillier, Ascencio, Rincón, Araya, Robles, Sabag y Fidel Espinoza, que intercala, a continuación del guarismo ""17"", la expresión ""y 20"". 55 48 2 15 Aprobado Sala Ver detalle votación
+31 Declaración de inadmisibilidad efectuada por la Mesa respecto de la indicación Nº4, formulada por el señor Tuma, para agregar un inciso segundo en el artículo único del proyecto. 52 51 2 15 Rechazado Sala Ver detalle votación
+31 Indicación Nº4, formulada por el señor Tuma, para agregar el siguiente inciso segundo en el artículo único del proyecto: ""Los trabajadores del comercio tendrán los mismos derechos que establece la ley Nº20.215, en relación con el feriado obligatorio para ellos."". 55 49 1 15 Aprobado Sala Ver detalle votación
+6 Votación General 13 0 0 0   Gobierno Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6919-06","No record","Veto emmEnd"

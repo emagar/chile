@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 777-10","Legislatura: 324
+Fecha de ingreso: miércoles 19 de agosto de 1992
+Estado: Tramitación terminada (D.S. Nº714 - D.Oficial 04/08/1994)
+Numero de boletín: 777-10
+Materia: Acuerdos Internacionales,Convenios Comerciales
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 22:49:11
+* * Hitos de tramitación * *
+"emmStart Hitos 777-10","Fecha Sesión Etapa Sub-etapa Documento
+19 de Ago. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+19 de Ago. de 1992 32ª / 324 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+06 de Oct. de 1992   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+09 de Mar. de 1993 31ª / 325 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+17 de Mar. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+17 de Mar. de 1993 34ª / 325 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+23 de Mar. de 1993 35ª / 325 Segundo trámite constitucional / Senado Discusión general y particular. Aprobado en general y en particular.
+24 de Mar. de 1993   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+24 de Mar. de 1993   Tramitación terminada / Oficio a la Cámara comunicando aprobación","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 777-10","Fecha Etapa Informe Documento
+17 de Mar. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+06 de Oct. de 1992 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 777-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 777-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 777-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 777-10","No record","Veto emmEnd"

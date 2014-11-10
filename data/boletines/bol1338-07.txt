@@ -1,0 +1,51 @@
+* * Bill summary * *
+"emmStart Summary 1338-07","Legislatura: 329
+Fecha de ingreso: martes 30 de agosto de 1994
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 1338-07
+Materia: Candidatos Independientes,Votación
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 08:16:09
+* * Hitos de tramitación * *
+"emmStart Hitos 1338-07","Fecha Sesión Etapa Sub-etapa Documento
+30 de Ago. de 1994   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+30 de Ago. de 1994 26ª / 329 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+15 de Nov. de 1994 16ª / 330 Primer trámite constitucional / Senado Primer informe de comisión Ver
+15 de Nov. de 1994 16ª / 330 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+03 de Ene. de 1995 31ª / 330 Primer trámite constitucional / Senado Discusión general Ver
+04 de Ene. de 1995 32ª / 330 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+05 de Ene. de 1995 32ª / 330 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+06 de Jun. de 1995   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+06 de Jun. de 1995 5ª / 331 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+04 de Oct. de 1995 2ª / 332 Segundo trámite constitucional / C. Diputados Discusión general Ver
+04 de Oct. de 1995   Segundo trámite constitucional / C. Diputados Oficio rechazo a Cámara de Origen Ver
+10 de Oct. de 1995 4ª / 344 Comisión Mixta por rechazo de idea de legislar / C. Diputados Cuenta oficio integrantes de Comisión Mixta Ver
+10 de Oct. de 1995 4ª / 332 Comisión Mixta por rechazo de idea de legislar / C. Diputados Cuenta oficio rechazo de Cámara Revisora Ver
+02 de Jul. de 1996   Comisión Mixta por rechazo de idea de legislar / C. Diputados Informe de Comisión Mixta Ver
+04 de Jul. de 1996 13ª / 333 Disc. informe C.Mixta por rechazo idea de legislar C. Origen / Senado Cuenta informe Comisión Mixta
+10 de Jul. de 1996 17ª / 333 Disc. informe C.Mixta por rechazo idea de legislar C. Origen / Senado Oficio aprobación de informe de Comisión Mixta a C. Revisora Ver
+10 de Jul. de 1996 17ª / 333 Disc. informe C.Mixta por rechazo idea de legislar C. Origen / Senado Discusión informe de Comisión Mixta
+16 de Jul. de 1996 17ª / 333 Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / C. Diputados Cuenta oficio aprobación de informe de Comisión Mixta Ver
+08 de Ago. de 1996 25ª / 333 Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / C. Diputados Pendiente Discusión Ver
+13 de Ago. de 1996 27ª / 333 Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / C. Diputados Discusión informe de Comisión Mixta Ver
+14 de Ago. de 1996   Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / C. Diputados Oficio rechazo de informe de Comisión Mixta a C.de Origen Ver
+27 de Ago. de 1996 31ª / 333 Trámite finalización en Cámara de Origen / Senado Cuenta oficio rechazo de informe de Comisión Mixta. Se dispone el archivo del proyecto","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1338-07","Fecha Etapa Informe Documento
+02 de Jul. de 1996 Comisión Mixta por rechazo de idea de legislar Senado Informe de Comisión Mixta de Constitución, Legislación, Justicia y Reglamento Ver
+06 de Jun. de 1995 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+15 de Nov. de 1994 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1338-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1338-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1338-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1338-07","No record","Veto emmEnd"

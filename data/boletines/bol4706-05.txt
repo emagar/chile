@@ -1,0 +1,71 @@
+* * Bill summary * *
+"emmStart Summary 4706-05","Legislatura: 354
+Fecha de ingreso: miércoles 06 de diciembre de 2006
+Estado: Tramitación terminada (Ley Nº 20.150 - D.Oficial 30/12/2006)
+Numero de boletín: 4706-05
+Materia: Casinos (Juegos De Azar),Juegos De Azar
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 06:36:56
+* * Hitos de tramitación * *
+"emmStart Hitos 4706-05","Fecha Sesión Etapa Sub-etapa Documento
+06 de Dic. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Dic. de 2006 104ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+06 de Dic. de 2006 104ª / 354 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 521-354 que hace presente la urgencia Suma Ver
+06 de Dic. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de Dic. de 2006 105ª / 354 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+07 de Dic. de 2006 105ª / 354 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 526-354 que hace presente la urgencia Discusión inmediata Ver
+07 de Dic. de 2006   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+07 de Dic. de 2006 105ª / 354 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+12 de Dic. de 2006 76ª / 354 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización y a Comisión de Hacienda Ver
+12 de Dic. de 2006 76ª / 354 Segundo trámite constitucional / Senado Cuenta del Mensaje 538-354 que retira y hace presente la urgencia Discusión inmediata
+13 de Dic. de 2006   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+13 de Dic. de 2006   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+13 de Dic. de 2006 77ª / 354 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+13 de Dic. de 2006 77ª / 354 Segundo trámite constitucional / Senado Discusión general Ver
+13 de Dic. de 2006   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+14 de Dic. de 2006 108ª / 354 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver Ver
+19 de Dic. de 2006 109ª / 354 Tercer trámite constitucional / C. Diputados Cuenta del Mensaje 567-354 que retira y hace presente la urgencia Discusión inmediata Ver
+19 de Dic. de 2006 109ª / 354 Tercer trámite constitucional / C. Diputados Discusión única Ver
+19 de Dic. de 2006   Tercer trámite constitucional / C. Diputados Oficio Nº 6541, que comunica aprobación de modificaciones Ver
+19 de Dic. de 2006   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+03 de Ene. de 2007 81ª / 354 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 6541, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4706-05","Fecha Etapa Informe Documento
+13 de Dic. de 2006 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+13 de Dic. de 2006 Segundo trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver
+06 de Dic. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4706-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+19 de Dic. de 2006   Discusión inmediata 567-354  
+12 de Dic. de 2006 19 de Dic. de 2006 Discusión inmediata 538-354 567-354
+07 de Dic. de 2006 12 de Dic. de 2006 Discusión inmediata 526-354 538-354
+06 de Dic. de 2006   Suma 521-354  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4706-05","Nombre Región Distrito Partido
+Rodrigo Alvarez Zenteno XII Región de Magallanes y de la Antártica Chilena N°60 Unión Demócrata Independiente
+Germán Becker Alvear IX Región de la Araucanía N°50 Renovación Nacional
+Marcelo Díaz Díaz IV Región de Coquimbo N°7 Partido Socialista
+Gonzalo Duarte Leiva RM Región Metropolitana N°26 Partido Demócrata Cristiano
+Jorge Insunza Gregorio de las Heras RM Región Metropolitana N°28 Partido Por la Democracia
+Enrique Jaramillo Becker XIV Región de los Ríos N°54 Partido Por la Democracia
+Antonio Leal Labrín III Región de Atacama N°5 Partido Por la Democracia
+Pablo Lorenzini Basso VII Región del Maule N°38 Partido Demócrata Cristiano
+Carlos Recondo Lavanderos X Región de los Lagos N°56 Unión Demócrata Independiente
+Fulvio Rossi Ciocca I Región de Tarapacá N°2 Partido Socialista","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4706-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+105 Indicación N°2, de los señores Becker y Galilea, al artículo único del proyecto, para agregar el siguiente inciso segundo: ""Suspéndese, por igual plazo, la aplicación de lo dispuesto en el artículo 4° transitorio de la ley N°19.995 y, consecuentemente, de todas las normas reglamentarias relacionadas con el proceso de otorgamiento de permisos de operación."" 13 53 5 49 Rechazado Sala Ver detalle votación
+105   70 2 1 1 Aprobado Sala Ver detalle votación
+105 Indicación N°1, del Ejecutivo, al artículo único, para eliminar las expresiones "", 21"" y "", 28, y 29"" que vienen a continuación de los guarismos ""20"" y ""27"", respectivamente, y reemplazar la coma (,) que existe entre los guarismos ""26"" y ""27"" por una letra ""y"". 26 36 5 53 Rechazado Sala Ver detalle votación
+105 único. 66 2 2 0 Aprobado Sala Ver detalle votación
+105 Indicación N°3, del señor Lorenzini, para agregar un artículo nuevo al proyecto, por el cual se introducen las siguientes enmiendas en el artículo 4° transitorio de la ley N°19.995: a) Para reemplazar, en la letra c), la expresión ""doscientos setenta días"" por ""quinientos días hábiles"". b) Para reemplazar, en la letra d), la expresión ""sesenta días"" por ""doscientos días hábiles"". c) Para reemplazar, en el inciso final, el guarismo ""2007"" por ""2008"". 18 42 7 53 Rechazado Sala Ver detalle votación
+109 Modificación introducida en el Senado. 93 1 5 0 Aprobado Sala Ver detalle votación
+42 Votación General 6 0 0 7   Hacienda Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4706-05","No record","Veto emmEnd"

@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 735-01","Legislatura: 324
+Fecha de ingreso: jueves 02 de julio de 1992
+Estado: Tramitación terminada (Ley Nº 19.157 - D.Oficial 02/09/1992)
+Numero de boletín: 735-01
+Materia: Reforma Agraria
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 22:15:50
+* * Hitos de tramitación * *
+"emmStart Hitos 735-01","Fecha Sesión Etapa Sub-etapa Documento
+02 de Jul. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Jul. de 1992 13ª / 324 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+07 de Jul. de 1992   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de Jul. de 1992   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+14 de Jul. de 1992 10ª / 324 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Agricultura y a Comisión de Hacienda
+15 de Jul. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+04 de Ago. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+11 de Ago. de 1992 16ª / 324 Segundo trámite constitucional / Senado Discusión general. Aprobado en general. Ver
+11 de Ago. de 1992 16ª / 324 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+13 de Ago. de 1992   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+13 de Ago. de 1992   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+13 de Ago. de 1992 17ª / 324 Segundo trámite constitucional / Senado Discusión particular. Aprobado en particular, con modificaciones. Ver
+18 de Ago. de 1992   Segundo trámite constitucional / Senado oficio Nº 3456, a la Cámara, comunicando aprobación con modificaciones
+20 de Ago. de 1992 20ª / 324 Tramitación terminada / Cuenta oficio 897, de la Cámara, comunicando aprobación de enmiendas propuestas por el senado","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 735-01","Fecha Etapa Informe Documento
+04 de Ago. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+15 de Jul. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Agricultura Ver
+08 de Jul. de 1992 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+07 de Jul. de 1992 Primer trámite constitucional C.Diputados Primer informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 735-01","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Jul. de 1992   Suma    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 735-01","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 735-01","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 735-01","No record","Veto emmEnd"

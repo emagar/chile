@@ -1,0 +1,155 @@
+#id = sys.argv[1]          # passes the argument given when invoking this code in console
+#bl = sys.argv[2]          # passes the argument given when invoking this code in console
+id = '1252'    # debug
+bl = '1-07' # debug
+url = 'http://camara.cl/pley/pley_detalle.aspx'
+parametros = {'prmID': id, 'prmBL': bl}
+
+import requests
+import json
+import httplib
+r = requests.get(url, params = parametros)
+#objetivo = r.url
+hitos = r.text
+#print(r.headers)
+print hitos
+#print objetivo
+# import http.client
+parametros = {'prmID': id, 'prmBL': bl, '__EVENTTARGET': 'ctl00$mainPlaceHolder$btnUrgencias'}
+#parametros = {'prmID': id, 'prmBL': bl, 'ctl00$mainPlaceHolder$ScriptManager1': 'ctl00$mainPlaceHolder$UpdatePanel1|ctl00$mainPlaceHolder$btnUrgencias'}
+headers = {'content-type': 'application/x-www-form-urlencoded; charset=utf-8'}
+# conexion = httplib.HTTPConnection('http://camara.cl')
+# tmp = '/pley/pley_detalle%prmID=' + id + '&prmBL=' + bl
+# conexion.request('POST', tmp, headers = headers)
+# urgencias = conexion.getresponse()
+p = requests.post(url, data = json.dumps(parametros), headers = headers)
+urgencias = p.text
+print urgencias
+#print(response.status, response.reason)
+r.close() # necessary?
+#conexion.close()
+
+# # stream content to a file
+# filename = bl + '.txt'
+# with open(filename, 'w') as fd:
+#    for chunk in r.iter_content(chunk_size):
+#       fd.write(chunk)
+
+### intento con selenium from http://stackoverflow.com/questions/6116023/screenscaping-aspx-with-python-mechanize-javascript-form-submission
+import selenium
+sel = selenium.selenium('localhost', 4444, '*firefox', 'http://camara.cl')
+sel.start()
+objetivo = 'pley/pley_detalle.aspx?prmID=' + id + '&prmBL=' + bl
+sel.open(objetivo)
+sel.click('ctl00$mainPlaceHolder$btnUrgencias')
+
+# -*- coding: utf-8 -*-
+from selenium import webdriver
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import Keys
+from selenium.webdriver.support.ui import Select
+from selenium.common.exceptions import NoSuchElementException
+from selenium.common.exceptions import NoAlertPresentException
+import unittest, time, re
+
+
+output = []
+
+class Tmp(unittest.TestCase):
+    def setUp(self):
+        self.driver = webdriver.Firefox()
+        self.driver.implicitly_wait(30)
+        self.base_url = "http://www.camara.cl/"
+        self.verificationErrors = []
+        self.accept_next_alert = True
+    
+    def test_tmp(self):
+        driver = self.driver
+        driver.get(self.base_url + "/pley/pley_detalle.aspx?prmID=1252&prmBL=1-07")
+        driver.find_element_by_id("ctl00_mainPlaceHolder_btnUrgencias").click()
+        textoUrge = driver.find_element_by_xpath("//table[@id='ctl00_mainPlaceHolder_grvurgencias']").text # selecciona la tabla
+        output.append(textoUrge)  # esto consigue pegar en objeto output
+        return output
+    
+    def is_element_present(self, how, what):
+        try: self.driver.find_element(by=how, value=what)
+        except NoSuchElementException, e: return False
+        return True
+    
+    def is_alert_present(self):
+        try: self.driver.switch_to_alert()
+        except NoAlertPresentException, e: return False
+        return True
+    
+    def close_alert_and_get_its_text(self):
+        try:
+            alert = self.driver.switch_to_alert()
+            alert_text = alert.text
+            if self.accept_next_alert:
+                alert.accept()
+            else:
+                alert.dismiss()
+            return alert_text
+        finally: self.accept_next_alert = True
+    
+    def tearDown(self):
+        self.driver.quit()
+        self.assertEqual([], self.verificationErrors)
+
+if __name__ == "__main__":
+    unittest.main()
+
+
+# import requests
+# import http.client
+# headers = {'content-type': 'application/x-www-form-urlencoded; charset=utf-8'}
+# parametros = {'prmBL': bl, 'prmID': id}
+# conn = requests.get('http://camara.cl/pley/pley_detalle.aspx', params = parametros)
+# hitos = r.text
+# #print(r.headers)
+# print hitos
+# r.close() # necessary?
+
+# conn = http.client.HTTPSConnection("app.clubtexting.com")
+# conn.request("POST", "/api/sending", params, headers)
+# response = conn.getresponse()
+# print(response.status, response.reason)
+
+
+# import urllib2
+
+# f = urllib2.urlopen('http://camara.cl/pley/pley_detalle.aspx?prmID=2317&prmBL=1140-05')
+# data = f.read()
+# f.close()
+
+
+# print data
+
+# import json
+
+
+# # do post request urgencias and veto
+# r = requests.post('http://camara.cl/pley/pley_detalle.aspx', params = parametros)
+
+
+# # append stream to file
+
+# print(data)
+
+
+# POST /pley/pley_detalle.aspx?prmID=2317&prmBL=1140-05 HTTP/1.1
+# ctl00$mainPlaceHolder$ScriptManager1	ctl00$mainPlaceHolder$UpdatePanel1|ctl00$mainPlaceHolder$btnUrgencias
+
+# ### intento con mechanize from http://stackoverflow.com/questions/6116023/screenscaping-aspx-with-python-mechanize-javascript-form-submission
+# import mechanize
+# direccion = 'http://camara.cl/pley/pley_detalle.aspx?prmID=' + id + '&prmBL=' + bl
+# br = mechanize.Browser()
+# br.set_handle_robots(False)
+# br.addheaders = [('User-agent', 'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:33.0) Gecko/20100101 Firefox/33.0')]
+# br.open(direccion)
+# respuesta = br.response().read()
+# br.select_form(nr=0)
+# respuesta = br.submit(name='ctl00$mainPlaceHolder$btnUrgencias').read()
+
+
+

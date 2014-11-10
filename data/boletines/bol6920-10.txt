@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 6920-10","Legislatura: 358
+Fecha de ingreso: martes 04 de mayo de 2010
+Estado: Tramitación terminada (D.S. N° 12 - D.Oficial 23/10/2012)
+Numero de boletín: 6920-10
+Materia: Acuerdos Internacionales,Acuerdo Sobre Inversiones Chile-Uruguay
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 19:37:21
+* * Hitos de tramitación * *
+"emmStart Hitos 6920-10","Fecha Sesión Etapa Sub-etapa Documento
+04 de May. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de May. de 2010 19ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+09 de Jun. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+10 de Jun. de 2010 38ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+17 de Jun. de 2010 41ª / 358 Segundo trámite constitucional / Senado Aprobado el proyecto, pasa a Cámara revisora
+17 de Jun. de 2010   Segundo trámite constitucional / Senado Oficio N°8823. Oficio de Ley a Cámara Revisora Ver
+30 de Jun. de 2010 31ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+21 de Ene. de 2011   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+01 de Mar. de 2011 90ª / 358 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+02 de Mar. de 2011 91ª / 358 Segundo trámite constitucional / Senado Discusión general Ver
+02 de Mar. de 2011   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+03 de Mar. de 2011 133ª / 358 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+03 de Mar. de 2011   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6920-10","Fecha Etapa Informe Documento
+21 de Ene. de 2011 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+09 de Jun. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6920-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6920-10","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6920-10","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+41   97 0 0 23 Aprobado Sala Ver detalle votación
+9 Votación General 10 0 0 3   Relaciones Exteriores Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6920-10","No record","Veto emmEnd"

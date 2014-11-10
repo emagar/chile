@@ -1,0 +1,55 @@
+* * Bill summary * *
+"emmStart Summary 2932-06","Legislatura: 346
+Fecha de ingreso: martes 14 de mayo de 2002
+Estado: Archivado .
+Numero de boletín: 2932-06
+Materia: Rentas Municipales
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 18:24:33
+* * Hitos de tramitación * *
+"emmStart Hitos 2932-06","Fecha Sesión Etapa Sub-etapa Documento
+14 de May. de 2002   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+14 de May. de 2002 21ª / 346 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+05 de Jun. de 2002   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+06 de Jun. de 2002 4ª / 347 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+11 de Jun. de 2002 5ª / 347 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+11 de Jun. de 2002   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+11 de Jun. de 2002 5ª / 347 Segundo trámite constitucional / Senado Pasa a Comisión de Gobierno, Descentralización y Regionalización
+12 de Jun. de 2002 6ª / 347 Segundo trámite constitucional / Senado La Sala acuerda que el proyecto pase, además, a la Comisión de Hacienda.
+25 de Jun. de 2002   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+02 de Jul. de 2002 10ª / 347 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+03 de Jul. de 2002 11ª / 347 Segundo trámite constitucional / Senado Discusión general Ver
+16 de Jul. de 2002   Segundo trámite constitucional / Senado Boletín de indicaciones
+14 de Sep. de 2004   Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 352
+07 de Mar. de 2006 60ª / 353 Segundo trámite constitucional / Senado Oficio Nº554-353. Cuenta Mensaje del Ejecutivo con el que solicita archivo del PL. Se accede a lo solicitado, y se manda comunicar a la CCDD. Ver
+08 de Mar. de 2006   Segundo trámite constitucional / Senado Oficio Nº26390. Acoge solicitud de S.E. el Presidente de la Repúblca de archivar proyecto de ley. Ver
+14 de Mar. de 2006 2ª / 354 Archivado / Cuenta oficio del Senado en la Cámara de Diputados que comunica solicitud para archivo de proyecto
+18 de May. de 2006   Archivado / Oficio Nº 6180. Se accede a petición del Senado en orden a proceder a su archivo Ver
+18 de May. de 2006   Segundo trámite constitucional / Senado Archivado
+18 de May. de 2006 29ª / 354 Segundo trámite constitucional / Senado Sala acuerda el archivo.
+06 de Jun. de 2006 19ª / 354 Archivado / Cuenta de oficio N° 6180 de la CCDD, con el que comunica que ha accedido a la solicitud de archivo. Se toma conocimiento y se manda archivar el documento junto a sus antecedentes.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2932-06","Fecha Etapa Informe Documento
+25 de Jun. de 2002 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+13 de Jun. de 2002 Primer trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver
+05 de Jun. de 2002 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2932-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+02 de Jul. de 2002   Suma 96-347  
+04 de Jun. de 2002   Suma 26-347  
+15 de May. de 2002   Suma 124-346  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2932-06","Nombre Región Distrito Partido
+Ministerio de Interior y Seguridad Públi      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2932-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+5 Indicación del Ejecutivo al Nº1 del artículo 1º 81 3 1 4   Sala Ver detalle votación
+5   82 0 0 1   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2932-06","No record","Veto emmEnd"

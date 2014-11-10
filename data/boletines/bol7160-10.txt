@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 7160-10","Legislatura: 358
+Fecha de ingreso: martes 31 de agosto de 2010
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 7160-10
+Materia: Pesca Ilegal
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 09-11-2014 00:57:29
+* * Hitos de tramitación * *
+"emmStart Hitos 7160-10","Fecha Sesión Etapa Sub-etapa Documento
+31 de Ago. de 2010   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+31 de Ago. de 2010 45ª / 358 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores y a la Comisión de Hacienda, en su caso.
+06 de May. de 2011   Primer trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+20 de Jul. de 2011   Primer trámite constitucional / Senado Primer informe de comisión Ver
+02 de Ago. de 2011 37ª / 359 Primer trámite constitucional / Senado Discusión general Ver
+02 de Ago. de 2011   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+03 de Ago. de 2011 64ª / 359 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+30 de Ago. de 2011   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+30 de Ago. de 2011 75ª / 359 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 359-359 que hace presente la urgencia Suma Ver
+06 de Sep. de 2011 78ª / 359 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+07 de Sep. de 2011 80ª / 359 Segundo trámite constitucional / C. Diputados Discusión general Ver
+07 de Sep. de 2011   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+13 de Sep. de 2011   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7160-10","Fecha Etapa Informe Documento
+30 de Ago. de 2011 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+20 de Jul. de 2011 Primer trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+06 de May. de 2011 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7160-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+30 de Ago. de 2011   Suma 359-359  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7160-10","Nombre
+Ministerio de Economía, Fomento y Turism
+Ministerio de Relaciones Exteriores","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7160-10","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+80   89 0 0 31 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7160-10","No record","Veto emmEnd"

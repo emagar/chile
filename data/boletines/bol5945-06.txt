@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 5945-06","Legislatura: 356
+Fecha de ingreso: miércoles 02 de julio de 2008
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 5945-06
+Materia: Proceso Electoral
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 01:04:12
+* * Hitos de tramitación * *
+"emmStart Hitos 5945-06","Fecha Sesión Etapa Sub-etapa Documento
+02 de Jul. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Jul. de 2008 46ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+02 de Jul. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Jul. de 2008 46ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 488-356 que hace presente la urgencia Discusión inmediata Ver
+03 de Jul. de 2008 47ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. Certificado de la Comisión de Gobierno Interior. EN TABLA. Ver
+07 de Jul. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de Jul. de 2008 48ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 494-356 que retira y hace presente la urgencia Discusión inmediata Ver
+08 de Jul. de 2008 48ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+08 de Jul. de 2008   Primer trámite constitucional / C. Diputados Oficio rechazo al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5945-06","Fecha Etapa Informe Documento
+02 de Jul. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5945-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+08 de Jul. de 2008   Discusión inmediata 494-356  
+02 de Jul. de 2008 08 de Jul. de 2008 Discusión inmediata 488-356 494-356","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5945-06","Nombre Región Distrito Partido
+Ministerio de Interior y Seguridad Públi      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5945-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+48   54 36 8 22 Rechazado Sala Ver detalle votación
+75 Votación General 8 0 0 5   Gobierno Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5945-06","No record","Veto emmEnd"

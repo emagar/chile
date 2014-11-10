@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 1664-06","Legislatura: 331
+Fecha de ingreso: martes 08 de agosto de 1995
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 1664-06
+Materia: Congreso Nacional,Sede De Los Poderes Del Estado
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 12:03:16
+* * Hitos de tramitación * *
+"emmStart Hitos 1664-06","Fecha Sesión Etapa Sub-etapa Documento
+08 de Ago. de 1995 24ª / 331 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización
+08 de Ago. de 1995   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+28 de Mar. de 1996   Primer trámite constitucional / Senado Primer informe de comisión. Informe de la Comisión que declara la inadmisibilidad del proyecto. Ver
+09 de Abr. de 1996 47ª / 332 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+20 de Jun. de 1996   Primer trámite constitucional / Senado Nuevo primer informe de comisión Ver
+02 de Jul. de 1996 11ª / 333 Primer trámite constitucional / Senado Cuenta nuevo primer informe
+13 de Ago. de 1996   Tramitación terminada / Cuenta del oficio T.C, remite copia sentencia que declara inconstitucionalidad proyecto. Terminada tramitación","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1664-06","Fecha Etapa Informe Documento
+20 de Jun. de 1996 Primer trámite constitucional Senado Nuevo primer informe de comisión de Gobierno, Descentralización y Regionalización Ver
+28 de Mar. de 1996 Primer trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1664-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+15 de May. de 1996   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1664-06","Nombre
+Sergio Bitar Chacra
+Arturo Frei Bolivar
+Jorge Lavandero Illanes
+Anselmo Sule Candia
+Adolfo Zaldívar Larraín","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1664-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1664-06","No record","Veto emmEnd"

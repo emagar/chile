@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 1761-13","Legislatura: 332
+Fecha de ingreso: miércoles 29 de noviembre de 1995
+Estado: Tramitación terminada (Ley Nº 19.482 - D.Oficial 03/12/1996)
+Numero de boletín: 1761-13
+Materia: Descanso Dominical
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 14:12:37
+* * Hitos de tramitación * *
+"emmStart Hitos 1761-13","Fecha Sesión Etapa Sub-etapa Documento
+29 de Nov. de 1995   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+29 de Nov. de 1995 29ª / 332 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+03 de Abr. de 1996   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Abr. de 1996 62ª / 332 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+18 de Abr. de 1996 67ª / 332 Primer trámite constitucional / C. Diputados Pendiente Discusión Ver
+30 de Abr. de 1996 68ª / 332 Primer trámite constitucional / C. Diputados Discusión general Ver
+03 de May. de 1996   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+07 de May. de 1996 56ª / 332 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social
+31 de Jul. de 1996   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+31 de Jul. de 1996 23ª / 333 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+01 de Oct. de 1996   Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 334
+02 de Oct. de 1996 2ª / 334 Segundo trámite constitucional / Senado Discusión general Ver
+02 de Oct. de 1996   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+08 de Oct. de 1996 5ª / 334 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora. Pasa a Comisión de Trabajo y Seguridad Social Ver
+29 de Oct. de 1996   Tercer trámite constitucional / C. Diputados Informe de comisión Ver
+31 de Oct. de 1996 11ª / 334 Tercer trámite constitucional / C. Diputados Cuenta informe de comisión Ver
+31 de Oct. de 1996 11ª / 334 Tercer trámite constitucional / C. Diputados Discusión única Ver
+31 de Oct. de 1996   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1761-13","Fecha Etapa Informe Documento
+29 de Oct. de 1996 Tercer trámite constitucional C.Diputados Informe de comisión de Trabajo y Seguridad Social Ver
+31 de Jul. de 1996 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver
+03 de Abr. de 1996 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1761-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1761-13","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1761-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1761-13","No record","Veto emmEnd"

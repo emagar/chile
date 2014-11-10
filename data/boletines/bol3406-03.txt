@@ -1,0 +1,59 @@
+* * Bill summary * *
+"emmStart Summary 3406-03","Legislatura: 350
+Fecha de ingreso: martes 04 de noviembre de 2003
+Estado: Tramitación terminada (Ley Nº 19.914 - D.Oficial 19/11/2003)
+Numero de boletín: 3406-03
+Materia: Tratados De Libre Comercio
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 02:23:54
+* * Hitos de tramitación * *
+"emmStart Hitos 3406-03","Fecha Sesión Etapa Sub-etapa Documento
+04 de Nov. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Nov. de 2003 14ª / 350 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+04 de Nov. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Agricultura Ver
+04 de Nov. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+05 de Nov. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Nov. de 2003 16ª / 350 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Hacienda y certificado Comisiones de Educación y Agricultura Ver
+05 de Nov. de 2003 16ª / 350 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+05 de Nov. de 2003   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+11 de Nov. de 2003 9ª / 350 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión Encargada de estudiar el TLC con Estado Unidos.
+11 de Nov. de 2003   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+12 de Nov. de 2003   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+12 de Nov. de 2003 10ª / 350 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión. Especial e informe Comisión Hacienda
+12 de Nov. de 2003 10ª / 350 Segundo trámite constitucional / Senado Discusión general Ver
+12 de Nov. de 2003   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+13 de Nov. de 2003 20ª / 350 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+13 de Nov. de 2003 20ª / 350 Tercer trámite constitucional / C. Diputados Discusión única Ver
+13 de Nov. de 2003   Tercer trámite constitucional / C. Diputados Oficio Nº 4633, que comunica aprobación de modificaciones Ver
+13 de Nov. de 2003   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+19 de Nov. de 2003 13ª / 350 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 4633, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3406-03","Fecha Etapa Informe Documento
+12 de Nov. de 2003 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+11 de Nov. de 2003 Segundo trámite constitucional Senado Primer informe de comisión Comisión Especial encargada de estudiar el TLC con Estado Unidos. Ver
+05 de Nov. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+04 de Nov. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver
+04 de Nov. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3406-03","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+11 de Nov. de 2003   Discusión inmediata 188-350  
+01 de Oct. de 2003   Discusión inmediata 133-350  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3406-03","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3406-03","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+20   54 3 1 0   Sala Ver detalle votación
+16   75 2 2 1   Sala Ver detalle votación
+16 1º, texto del Mensaje 62 3 13 1   Sala Ver detalle votación
+16 Indicación del Ejecutivo para suprimir el artículo 4º 74 0 1 2   Sala Ver detalle votación
+16 3º, propuesto por Educación, con excepción del Nº12 79 1 1 0   Sala Ver detalle votación
+16 Nº12 del artículo 3º, propuesto por Educación 46 22 3 6   Sala Ver detalle votación
+16 2º, propuesto por Agricultura 77 1 2 1   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3406-03","No record","Veto emmEnd"

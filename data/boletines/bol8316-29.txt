@@ -1,0 +1,61 @@
+* * Bill summary * *
+"emmStart Summary 8316-29","Legislatura: 360
+Fecha de ingreso: martes 22 de mayo de 2012
+Estado: Segundo trámite constitucional .
+Numero de boletín: 8316-29
+Materia: Deportes
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 00:03:02
+* * Hitos de tramitación * *
+"emmStart Hitos 8316-29","Fecha Sesión Etapa Sub-etapa Documento
+22 de May. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+22 de May. de 2012 31ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión Especial de Deportes y a Hacienda en su caso. Ver
+14 de Jun. de 2012 43ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 153-360 que hace presente la urgencia Suma Ver
+14 de Jun. de 2012   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+19 de Jun. de 2012 44ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 154-360 que hace presente la urgencia Simple Ver
+19 de Jun. de 2012 44ª / 360 Primer trámite constitucional / C. Diputados Cuenta, Primer informe de la Comisión Especial de Deportes Ver
+20 de Jun. de 2012 45ª / 360 Primer trámite constitucional / C. Diputados Por acuerdo de la Sala pasa a la Comisión de Hacienda. Se rinde el informe de Comisión Especial de Deportes Ver
+19 de Jul. de 2012 60ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 206-360 que hace presente la urgencia Simple Ver
+28 de Ago. de 2012 72ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 253-360 que hace presente la urgencia Simple Ver
+12 de Sep. de 2012 79ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 290-360 que hace presente la urgencia Simple Ver
+11 de Oct. de 2012 89ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 316-360 que hace presente la urgencia Simple Ver
+08 de Nov. de 2012 97ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 350-360 que hace presente la urgencia Simple Ver
+10 de Dic. de 2012 109ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 386-360 que hace presente la urgencia Simple Ver
+21 de Dic. de 2012   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Ene. de 2013 118ª / 360 Primer trámite constitucional / C. Diputados Cuenta. Primer informe de la Comisión de Hacienda recaído en el proyecto. Ver
+03 de Ene. de 2013 120ª / 360 Primer trámite constitucional / C. Diputados Discusión única Ver
+08 de Ene. de 2013   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+09 de Ene. de 2013 93ª / 360 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología, y a la de Hacienda, en su caso.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8316-29","Fecha Etapa Informe Documento
+21 de Dic. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+14 de Jun. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Deportes Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8316-29","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+10 de Dic. de 2012   Simple 386-360  
+08 de Nov. de 2012   Simple 350-360  
+11 de Oct. de 2012   Simple 316-360  
+12 de Sep. de 2012   Simple 290-360  
+28 de Ago. de 2012   Simple 253-360  
+19 de Jul. de 2012   Simple 206-360  
+19 de Jun. de 2012   Simple 154-360  
+19 de Jun. de 2012   Simple 49-360  
+14 de Jun. de 2012   Suma 153-360  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8316-29","Nombre Región Distrito Partido
+Ministerio de Hacienda      
+Ministerio de Interior y Seguridad Públi      
+Ministerio Secretaría General de Gobierno      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8316-29","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+45   68 32 0 20 Aprobado Sala Ver detalle votación
+120 Numeral 2 del artículo único con la indicación de la Comisión de Hacienda 86 0 0 34 Aprobado Sala Ver detalle votación
+120 Con la salvedad del numeral 2 del artículo único que fue objeto de indicación de la Comisión de Hacienda 83 0 0 37 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8316-29","No record","Veto emmEnd"

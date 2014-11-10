@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 1980-03","Legislatura: 334
+Fecha de ingreso: jueves 23 de enero de 1997
+Estado: Archivado .
+Numero de boletín: 1980-03
+Materia: Creditos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 17:04:20
+* * Hitos de tramitación * *
+"emmStart Hitos 1980-03","Fecha Sesión Etapa Sub-etapa Documento
+23 de Ene. de 1997   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+23 de Ene. de 1997 44ª / 334 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+16 de Oct. de 2003 10ª / 350 Archivado / Se solicita archivo de proyecto. Oficio de Comisión de Economía. Queda en tabla. Se accede al archivo solicitado","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1980-03","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1980-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1980-03","Nombre Región Distrito Partido
+Francisco Encina Moriamez Región N° Partido Socialista
+Alberto Espina Otero Región N°21 Renovación Nacional
+Jaime Estevez Valencia Región N°29 Partido Socialista
+Roberto León Ramírez Región N° Partido Demócrata Cristiano
+Juan Pablo Letelier Morel Región N°33 Partido Socialista
+Carlos Montes Cisternas Región N°26 Partido Socialista
+Jaime Naranjo Ortíz Región N°39 Partido Socialista
+Andrés Palma Irarrázabal Región N°25 Partido Demócrata Cristiano
+Aníbal Pérez Lobos Región N° Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1980-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1980-03","No record","Veto emmEnd"

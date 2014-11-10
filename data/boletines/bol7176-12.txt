@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 7176-12","Legislatura: 358
+Fecha de ingreso: jueves 02 de septiembre de 2010
+Estado: Primer trámite constitucional .
+Numero de boletín: 7176-12
+Materia: Plantas De Generacion Termoeléctrica
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 01:08:19
+* * Hitos de tramitación * *
+"emmStart Hitos 7176-12","Fecha Sesión Etapa Sub-etapa Documento
+02 de Sep. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Sep. de 2010 70ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7176-12","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7176-12","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7176-12","Nombre Región Distrito Partido
+Juan Luis Castro González VI Región del Libertador Bernardo O' Higgins N°32 Partido Socialista
+Alfonso De Urresti Longton XIV Región de los Ríos N°53 Partido Socialista
+Marcelo Díaz Díaz IV Región de Coquimbo N°7 Partido Socialista
+Andrea Molina Oliva V Región de Valparaíso N°10 Unión Demócrata Independiente
+Manuel Monsalve Benavides VIII Región del Bío Bío N°46 Partido Socialista
+Clemira Pacheco Rivas VIII Región del Bío Bío N°45 Partido Socialista
+Denise Pascal Allende RM Región Metropolitana N°31 Partido Socialista
+Manuel Rojas Molina II Región de Antofagasta N°4 Unión Demócrata Independiente
+Guillermo Teillier Del Valle RM Región Metropolitana N°28 Partido Comunista
+Patricio Vallespín López X Región de los Lagos N°57 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7176-12","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7176-12","No record","Veto emmEnd"

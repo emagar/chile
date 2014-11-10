@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 4789-04","Legislatura: 354
+Fecha de ingreso: martes 02 de enero de 2007
+Estado: Tramitación terminada (Ley Nº 20.618 - D.Oficial 08/09/2012)
+Numero de boletín: 4789-04
+Materia: Monumentos,Luis Emilio Recabarren
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 06-11-2014 08:32:16
+* * Hitos de tramitación * *
+"emmStart Hitos 4789-04","Fecha Sesión Etapa Sub-etapa Documento
+02 de Ene. de 2007   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+03 de Ene. de 2007 81ª / 354 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+09 de Abr. de 2007   Primer trámite constitucional / Senado Primer informe de comisión Ver
+10 de Abr. de 2007 9ª / 355 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+11 de Abr. de 2007 10ª / 355 Primer trámite constitucional / Senado Discusión general Ver
+17 de Abr. de 2007   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+18 de Abr. de 2007 17ª / 355 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión Especial de la Cultura y las Artes Ver Ver
+06 de Jun. de 2012   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de Jul. de 2012 48ª / 360 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+17 de Jul. de 2012 56ª / 360 Segundo trámite constitucional / C. Diputados Discusión general Ver
+17 de Jul. de 2012   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+18 de Jul. de 2012 36ª / 360 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+18 de Jul. de 2012   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4789-04","Fecha Etapa Informe Documento
+06 de Jun. de 2012 Segundo trámite constitucional C.Diputados Primer informe de comisión de la Cultura y las Artes Ver
+09 de Abr. de 2007 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4789-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4789-04","Nombre
+Alejandro Navarro Brain","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4789-04","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+56   63 1 4 52 Aprobado Sala Ver detalle votación
+77 Votación General 6 0 0 7   Cultura Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4789-04","No record","Veto emmEnd"

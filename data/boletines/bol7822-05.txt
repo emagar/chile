@@ -1,0 +1,48 @@
+* * Bill summary * *
+"emmStart Summary 7822-05","Legislatura: 359
+Fecha de ingreso: jueves 21 de julio de 2011
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 7822-05
+Materia: Sistema De Alta Dirección Pública
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 11:36:04
+* * Hitos de tramitación * *
+"emmStart Hitos 7822-05","Fecha Sesión Etapa Sub-etapa Documento
+21 de Jul. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+21 de Jul. de 2011 60ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+02 de Ago. de 2011 61ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 328-359 que hace presente la urgencia Suma Ver
+03 de Ago. de 2011 63ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 338-359 que hace presente la urgencia Simple Ver
+17 de Ago. de 2011 73ª / 359 Primer trámite constitucional / C. Diputados Oficio N°159-359. S.E. el Presidente de la República por el cual formula indicaciones al proyecto. Ver Ver
+06 de Sep. de 2011 79ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 374-359 que hace presente la urgencia Simple Ver
+26 de Sep. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+27 de Sep. de 2011 85ª / 359 Primer trámite constitucional / C. Diputados Oficio N°175-359. Oficio de S.E. el Presidente de la República por el cual formula indicación al proyecto. Ver Ver
+28 de Sep. de 2011 86ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+04 de Oct. de 2011 89ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 410-359 que hace presente la urgencia Suma Ver
+18 de Oct. de 2011 97ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+19 de Oct. de 2011 99ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 427-359 que retira la urgencia Suma Ver
+08 de Nov. de 2011 105ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+08 de Nov. de 2011   Primer trámite constitucional / C. Diputados Oficio rechazo al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7822-05","Fecha Etapa Informe Documento
+26 de Sep. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7822-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Oct. de 2011 19 de Oct. de 2011 Suma 410-359 427-359
+06 de Sep. de 2011   Simple 374-359  
+03 de Ago. de 2011   Simple 338-359  
+02 de Ago. de 2011   Suma 328-359  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7822-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7822-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+105   50 47 3 20 Rechazado Sala Ver detalle votación
+124 Votación General 10 1 1 1   Hacienda Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7822-05","No record","Veto emmEnd"

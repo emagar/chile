@@ -1,0 +1,57 @@
+* * Bill summary * *
+"emmStart Summary 7130-07","Legislatura: 358
+Fecha de ingreso: lunes 16 de agosto de 2010
+Estado: Primer trámite constitucional .
+Numero de boletín: 7130-07
+Materia: Odio Racial Y Religioso,Delito De Incitación
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 09-11-2014 00:35:41
+* * Hitos de tramitación * *
+"emmStart Hitos 7130-07","Fecha Sesión Etapa Sub-etapa Documento
+17 de Ago. de 2010   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+17 de Ago. de 2010 43ª / 358 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía y, posteriormente, a la de Constitución, Legislación, Justicia y Reglamento.
+18 de Ene. de 2011   Primer trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento Ver
+22 de May. de 2013 26ª / 361 Primer trámite constitucional / Senado La Sala acuerda eximir el proyecto del primer informe de la Comisión de Constitución, Legislación, Justicia y Reglamento.
+04 de Jun. de 2013 27ª / 361 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+16 de Sep. de 2013 57ª / 361 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija plazo para presentar indicaciones hasta el 14/10/2013 a las 12:00 en Secretaría. Ver
+15 de Oct. de 2013   Primer trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 28/10/2013 a las 12:00 en Secretaría.
+29 de Oct. de 2013   Primer trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 18/11/2013 a las 12:00 en Secretaría.
+18 de Nov. de 2013   Primer trámite constitucional / Senado Boletín de indicaciones
+04 de Dic. de 2013 77ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 372-361 que hace presente la urgencia Simple
+14 de Ene. de 2014 85ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 429-361 que retira y hace presente la urgencia Simple
+03 de Jun. de 2014 20ª / 362 Primer trámite constitucional / Senado Cuenta del Mensaje 148-362 que hace presente la urgencia Simple
+08 de Jul. de 2014 29ª / 362 Primer trámite constitucional / Senado Cuenta del Mensaje 253-362 que retira y hace presente la urgencia Simple
+05 de Ago. de 2014 35ª / 362 Primer trámite constitucional / Senado Cuenta del Mensaje 338-362 que retira y hace presente la urgencia Simple
+02 de Sep. de 2014 42ª / 362 Primer trámite constitucional / Senado Cuenta del Mensaje 433-362 que retira y hace presente la urgencia Simple
+30 de Sep. de 2014 50ª / 362 Primer trámite constitucional / Senado Cuenta del Mensaje 576-362 que retira y hace presente la urgencia Simple
+21 de Oct. de 2014 57ª / 362 Primer trámite constitucional / Senado Cuenta del Mensaje 681-362 que retira y hace presente la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7130-07","Fecha Etapa Informe Documento
+18 de Ene. de 2011 Primer trámite constitucional Senado Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7130-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+21 de Oct. de 2014   Simple 681-362  
+30 de Sep. de 2014 21 de Oct. de 2014 Simple 576-362 681-362
+02 de Sep. de 2014 30 de Sep. de 2014 Simple 433-362 576-362
+05 de Ago. de 2014 02 de Sep. de 2014 Simple 338-362 433-362
+08 de Jul. de 2014 05 de Ago. de 2014 Simple 253-362 338-362
+03 de Jun. de 2014 03 de Jul. de 2014 Simple 148-362 253-362
+14 de Ene. de 2014 03 de Jun. de 2014 Simple 429-361 CADUCADA
+04 de Dic. de 2013 14 de Ene. de 2014 Simple 372-361 429-361","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7130-07","Nombre
+Carlos Cantero Ojeda
+Andrés Chadwick Piñera
+Guido Girardi Lavín
+Lily Pérez San Martín
+Mariano Ruiz-Esquide Jara","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7130-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7130-07","No record","Veto emmEnd"

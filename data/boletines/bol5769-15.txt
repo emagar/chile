@@ -1,0 +1,34 @@
+* * Bill summary * *
+"emmStart Summary 5769-15","Legislatura: 356
+Fecha de ingreso: jueves 13 de marzo de 2008
+Estado: Primer trámite constitucional .
+Numero de boletín: 5769-15
+Materia: Tvcd,Tvsenado,Congreso Nacional,Sistemas De Televisión
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 23:02:31
+* * Hitos de tramitación * *
+"emmStart Hitos 5769-15","Fecha Sesión Etapa Sub-etapa Documento
+13 de Mar. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Mar. de 2008 3ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5769-15","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5769-15","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5769-15","Nombre Región Distrito Partido
+Germán Becker Alvear IX Región de la Araucanía N°50 Renovación Nacional
+Gonzalo Duarte Leiva RM Región Metropolitana N°26 Partido Demócrata Cristiano
+Andrés Egaña Respaldiza VIII Región del Bío Bío N°44 Unión Demócrata Independiente
+Adriana Muñoz D'Albora IV Región de Coquimbo N°9 Partido Por la Democracia
+Denise Pascal Allende RM Región Metropolitana N°31 Partido Socialista
+Felipe Ward Edwards II Región de Antofagasta N°3 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5769-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5769-15","No record","Veto emmEnd"

@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 2908-03","Legislatura: 346
+Fecha de ingreso: miércoles 10 de abril de 2002
+Estado: Archivado .
+Numero de boletín: 2908-03
+Materia: Agua Potable,Aguas Servidas
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 03-11-2014 18:09:22
+* * Hitos de tramitación * *
+"emmStart Hitos 2908-03","Fecha Sesión Etapa Sub-etapa Documento
+10 de Abr. de 2002   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+10 de Abr. de 2002 8ª / 346 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Economía
+08 de Ago. de 2002   Primer trámite constitucional / Senado Primer informe de comisión Ver
+13 de Ago. de 2002 20ª / 347 Primer trámite constitucional / Senado Cuenta del informe de la Comsión. Queda para tabla.
+14 de Ago. de 2002 21ª / 347 Primer trámite constitucional / Senado Discusión general Ver
+14 de Ago. de 2002   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+21 de Ago. de 2002 32ª / 347 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+06 de Abr. de 2006 10ª / 354 Segundo trámite constitucional / C. Diputados Archivado Cuenta Oficio de Comisión de Economía, solicita archivo de proyecto. Sala accede al archivo solicitado. Ver
+06 de Abr. de 2006   Archivado / Oficio Nº 6099. Se accede a la petición de la Comisión de Economía para procedert a su archivo, previo acuerdo del H. Senado Ver
+11 de Abr. de 2006 6ª / 354 Archivado / Cuenta de oficio N° 6099 de la Cámara de Diputados, con el que solicita acuerdo del Senado para proceder al archivo de este PL. Se acuerda acceder al archivo solicitado. Ver
+12 de Abr. de 2006 13ª / 354 Archivado / Senado comunica que accedió a propuesta de la C. de Diputados para remitir al archivo el proyecto. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2908-03","Fecha Etapa Informe Documento
+08 de Ago. de 2002 Primer trámite constitucional Senado Primer informe de comisión de Economía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2908-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2908-03","Nombre
+Jorge Arancibia Reyes
+Sergio Fernández Fernández
+Hernán Larraín Fernández
+Jovino Novoa Vásquez
+Jaime Orpis Bouchon","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2908-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2908-03","No record","Veto emmEnd"

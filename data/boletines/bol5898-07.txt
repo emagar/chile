@@ -1,0 +1,64 @@
+* * Bill summary * *
+"emmStart Summary 5898-07","Legislatura: 356
+Fecha de ingreso: miércoles 11 de junio de 2008
+Estado: Primer trámite constitucional .
+Numero de boletín: 5898-07
+Materia: Fideicomiso Ciego,Autoridades
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 00:32:14
+* * Hitos de tramitación * *
+"emmStart Hitos 5898-07","Fecha Sesión Etapa Sub-etapa Documento
+11 de Jun. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+11 de Jun. de 2008 38ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+11 de Jun. de 2008 38ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 368-356 que hace presente la urgencia Simple Ver
+14 de Jul. de 2008 52ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 518-356 que retira y hace presente la urgencia Simple Ver
+29 de Jul. de 2008 54ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 592-356 que retira y hace presente la urgencia Suma Ver
+12 de Ago. de 2008 60ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 638-356 que retira y hace presente la urgencia Suma Ver
+02 de Sep. de 2008 69ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 735-356 que retira y hace presente la urgencia Simple Ver
+07 de Oct. de 2008 85ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 853-356 que retira y hace presente la urgencia Simple Ver
+11 de Nov. de 2008 98ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1004-356 que retira y hace presente la urgencia Simple Ver
+16 de Dic. de 2008 116ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1214-356 que retira y hace presente la urgencia Simple Ver
+06 de Ene. de 2009 119ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1249-356 que retira la urgencia Simple Ver
+07 de Ene. de 2009 120ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1278-356 que hace presente la urgencia Simple Ver
+03 de Mar. de 2009 131ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1433-356 que retira la urgencia Simple Ver
+29 de Sep. de 2009 82ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1184-357 que hace presente la urgencia Simple Ver
+27 de Oct. de 2009 92ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1352-357 que retira la urgencia Simple Ver
+15 de Dic. de 2009 109ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1661-357 que hace presente la urgencia Suma Ver
+05 de Ene. de 2010 114ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1739-357 que retira y hace presente la urgencia Suma Ver
+19 de Ene. de 2010 120ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1825-357 que retira y hace presente la urgencia Suma Ver
+08 de Mar. de 2010 123ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1934-357 que retira la urgencia Suma Ver
+16 de Mar. de 2010 1ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 4-358 que hace presente la urgencia Simple Ver
+08 de Jun. de 2010   Primer trámite constitucional / C. Diputados Boletín de indicaciones. Indicación sustitutiva del Ejecutivo
+09 de Jun. de 2010 36ª / 358 Primer trámite constitucional / C. Diputados P. de la República formula indicación sustitutiva. A COMISIÓN DE CONSTITUCIÓN. Ver
+16 de Jun. de 2010 40ª / 358 Primer trámite constitucional / C. Diputados Comisión de Constitución pone en conocimiento de la Excma Corte Suprema una modificación que concede competencia a la Corte de Apelaciones de Santiago. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5898-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5898-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+16 de Mar. de 2010   Simple 4-358  
+19 de Ene. de 2010 08 de Mar. de 2010 Suma 1825-357 1934-357
+15 de Dic. de 2009 05 de Ene. de 2010 Suma 1661-357 1739-357
+29 de Sep. de 2009 27 de Oct. de 2009 Simple 1184-357 1352-357
+07 de Ene. de 2009 03 de Mar. de 2009 Simple 1278-356 1433-356
+16 de Dic. de 2008 06 de Ene. de 2009 Simple 1214-356 1249-356
+11 de Nov. de 2008 16 de Dic. de 2008 Simple 1004-356 1214-356
+07 de Oct. de 2008 11 de Nov. de 2008 Simple 853-356 1004-356
+02 de Sep. de 2008 07 de Oct. de 2008 Simple 735-356 853-356
+12 de Ago. de 2008 02 de Sep. de 2008 Suma 638-356 735-356
+29 de Jul. de 2008 12 de Ago. de 2008 Suma 592-356 638-356
+14 de Jul. de 2008 29 de Jul. de 2008 Simple 518-356 592-356
+11 de Jun. de 2008 14 de Jul. de 2008 Simple 368-356 518-356
+05 de Ene. de 0010 19 de Ene. de 2010 Suma 1739-357 1825-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5898-07","Nombre Región Distrito Partido
+Ministerio de Justicia      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5898-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5898-07","No record","Veto emmEnd"

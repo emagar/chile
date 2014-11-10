@@ -1,0 +1,39 @@
+* * Bill summary * *
+"emmStart Summary 8446-05","Legislatura: 360
+Fecha de ingreso: jueves 12 de julio de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8446-05
+Materia: Mercado De Valores,Regular Calidad De La Información
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 01:39:07
+* * Hitos de tramitación * *
+"emmStart Hitos 8446-05","Fecha Sesión Etapa Sub-etapa Documento
+12 de Jul. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Jul. de 2012 55ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+22 de Nov. de 2012 103ª / 360 Primer trámite constitucional / C. Diputados Cuenta oficio de la Comisión de Economía, por el que solicita el acuerdo de la Sala, para que se le remita el proyecto. RECHAZADO. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8446-05","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8446-05","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8446-05","Nombre Región Distrito Partido
+Pedro Araya Guerrero II Región de Antofagasta N°4 Partido Regionalista Independiente
+Gonzalo Arenas Hödar IX Región de la Araucanía N°48 Unión Demócrata Independiente
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Fuad Chahín Valenzuela IX Región de la Araucanía N°49 Partido Demócrata Cristiano
+Felipe Harboe Bascuñán RM Región Metropolitana N°22 Partido Por la Democracia
+Juan Carlos Latorre Carmona VI Región del Libertador Bernardo O' Higgins N°35 Partido Demócrata Cristiano
+Pablo Lorenzini Basso VII Región del Maule N°38 Partido Demócrata Cristiano
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+Patricio Vallespín López X Región de los Lagos N°57 Partido Demócrata Cristiano
+Matías Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8446-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8446-05","No record","Veto emmEnd"

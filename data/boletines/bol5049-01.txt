@@ -1,0 +1,54 @@
+* * Bill summary * *
+"emmStart Summary 5049-01","Legislatura: 355
+Fecha de ingreso: martes 15 de mayo de 2007
+Estado: Tramitación terminada (Ley Nº 20.623 - D.Oficial 11/09/2012)
+Numero de boletín: 5049-01
+Materia: Nulidad Contractual,Predios Rústicos,Cambio De Destino De Predios Rústicos,Saneamiento Legal De Predios Rústicos,División De Predios Rústicos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 00:07:20
+* * Hitos de tramitación * *
+"emmStart Hitos 5049-01","Fecha Sesión Etapa Sub-etapa Documento
+15 de May. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+15 de May. de 2007 26ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+03 de Jun. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Jun. de 2008 39ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+09 de Dic. de 2008 113ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+13 de Ene. de 2009   Primer trámite constitucional / C. Diputados Nuevo primer informe de comisión Ver
+20 de Ene. de 2009 126ª / 356 Primer trámite constitucional / C. Diputados Cuenta nuevo primer informe Ver
+03 de Mar. de 2009 131ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+03 de Mar. de 2009   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+04 de Mar. de 2009 92ª / 356 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Agricultura
+15 de May. de 2012   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+11 de Jul. de 2012 34ª / 360 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 06/08/2012 Ver
+11 de Jul. de 2012 34ª / 360 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 06/08/2012 Ver
+07 de Ago. de 2012 39ª / 360 Segundo trámite constitucional / Senado Discusión particular. Aprobado sin modificaciones De conformidad al artículo 120 del Reglamento, al no haberse presentado indicaciones al proyecto, éste se da por aprobado también en particular. Ver
+07 de Ago. de 2012   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+08 de Ago. de 2012 68ª / 360 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+09 de Ago. de 2012   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5049-01","Fecha Etapa Informe Documento
+15 de May. de 2012 Segundo trámite constitucional Senado Primer informe de comisión de Agricultura Ver
+13 de Ene. de 2009 Primer trámite constitucional C.Diputados Nuevo primer informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+03 de Jun. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5049-01","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5049-01","Nombre Región Distrito Partido
+Pedro Pablo Alvarez-Salamanca Büchi VII Región del Maule N°38 Renovación Nacional
+Mario Bertolino Rendic IV Región de Coquimbo N°7 Renovación Nacional
+Roberto Sepúlveda Hermosilla RM Región Metropolitana N°20 Renovación Nacional
+Ximena Valcarce Becerra XV Región Arica y Parinacota N°1 Renovación Nacional
+Alfonso Vargas Lyng V Región de Valparaíso N°10 Renovación Nacional
+Germán Verdugo Soto VII Región del Maule N°37 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5049-01","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+131   60 22 10 28 Aprobado Sala Ver detalle votación
+69 Votación General 5 0 0 8   Agricultura Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5049-01","No record","Veto emmEnd"

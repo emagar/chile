@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 7052-06","Legislatura: 358
+Fecha de ingreso: jueves 08 de julio de 2010
+Estado: Segundo trámite constitucional .
+Numero de boletín: 7052-06
+Materia: Votaciones Populares Y Escrutinios,Exención De Multas
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 23:42:14
+* * Hitos de tramitación * *
+"emmStart Hitos 7052-06","Fecha Sesión Etapa Sub-etapa Documento
+08 de Jul. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+08 de Jul. de 2010 50ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior y Regionalización Ver
+02 de Ago. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de Ago. de 2010 58ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+08 de Mar. de 2011 134ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+08 de Mar. de 2011   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+09 de Mar. de 2011 93ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7052-06","Fecha Etapa Informe Documento
+02 de Ago. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7052-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7052-06","Nombre Región Distrito Partido
+Pedro Pablo Alvarez-Salamanca Ramírez VII Región del Maule N°38 Unión Demócrata Independiente
+Gabriel Ascencio Mansilla X Región de los Lagos N°58 Partido Demócrata Cristiano
+Germán Becker Alvear IX Región de la Araucanía N°50 Renovación Nacional
+Enrique Estay Peñaloza IX Región de la Araucanía N°49 Unión Demócrata Independiente
+Iván Moreira Barros RM Región Metropolitana N°27 Unión Demócrata Independiente
+Sergio Ojeda Uribe X Región de los Lagos N°55 Partido Demócrata Cristiano
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Partido Regionalista Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7052-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+134   93 0 5 22 Aprobado Sala Ver detalle votación
+14 Votación General 11 0 0 2   Gobierno Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7052-06","No record","Veto emmEnd"

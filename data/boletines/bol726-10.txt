@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 726-10","Legislatura: 324
+Fecha de ingreso: miércoles 10 de junio de 1992
+Estado: Tramitación terminada (D.S. Nº 772 - D.Oficial 29/08/1994)
+Numero de boletín: 726-10
+Materia: Medio Ambiente
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 22:08:50
+* * Hitos de tramitación * *
+"emmStart Hitos 726-10","Fecha Sesión Etapa Sub-etapa Documento
+10 de Jun. de 1992 4ª / 324 Primer trámite constitucional / Senado Cuenta de proyecto
+10 de Jun. de 1992   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+13 de Oct. de 1993 4ª / 327 Primer trámite constitucional / Senado Primer informe de comisión Ver
+13 de Oct. de 1993 4ª / 327 Primer trámite constitucional / Senado Primer informe de comisión Ver
+13 de Oct. de 1993 4ª / 327 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+19 de Oct. de 1993 6ª / 327 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+19 de Oct. de 1993 6ª / 327 Primer trámite constitucional / Senado Discusión general. y particular. Aprobado en general y en particular. Ver
+02 de Nov. de 1993 11ª / 327 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+09 de Mar. de 1994 33ª / 327 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+09 de Mar. de 1994 33ª / 327 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 726-10","Fecha Etapa Informe Documento
+13 de Oct. de 1993 Primer trámite constitucional Senado Primer informe de comisión de Defensa Nacional Ver
+13 de Oct. de 1993 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 726-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 726-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 726-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 726-10","No record","Veto emmEnd"

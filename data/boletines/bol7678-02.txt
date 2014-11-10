@@ -1,0 +1,80 @@
+* * Bill summary * *
+"emmStart Summary 7678-02","Legislatura: 359
+Fecha de ingreso: viernes 20 de mayo de 2011
+Estado: Segundo trámite constitucional .
+Numero de boletín: 7678-02
+Materia: Capacidades Estratégicas De La Defensa Nacional
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 07:36:56
+* * Hitos de tramitación * *
+"emmStart Hitos 7678-02","Fecha Sesión Etapa Sub-etapa Documento
+20 de May. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+31 de May. de 2011 36ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Defensa Nacional y a Comisión de Hacienda Ver
+02 de Nov. de 2011 102ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 432-359 que hace presente la urgencia Simple Ver
+13 de Dic. de 2011 120ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 481-359 que hace presente la urgencia Simple Ver
+10 de Ene. de 2012   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Ene. de 2012 132ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 551-359 que hace presente la urgencia Simple Ver
+06 de Mar. de 2012 140ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 578-359 que retira la urgencias por receso legislativo Ver
+17 de May. de 2012 30ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 109-360 que hace presente la urgencia Suma Ver
+29 de May. de 2012   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Jun. de 2012 36ª / 360 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+07 de Jun. de 2012 39ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 143-360 que hace presente la urgencia Suma Ver
+12 de Jun. de 2012 40ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 145-360 que hace presente la urgencia Discusión inmediata Ver
+12 de Jun. de 2012 41ª / 360 Primer trámite constitucional / C. Diputados Oficio N°117-360. Oficio de S.E. el Presidente de la República por el cual formula indicaciones al proyecto. Ver Ver
+12 de Jun. de 2012 41ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+13 de Jun. de 2012 42ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+13 de Jun. de 2012   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+19 de Jun. de 2012 27ª / 360 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Defensa Nacional y a Comisión de Hacienda","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7678-02","Fecha Etapa Informe Documento
+29 de May. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+10 de Ene. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Defensa Nacional Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7678-02","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+12 de Jun. de 2012   Discusión inmediata 145-360  
+07 de Jun. de 2012   Suma 143-360  
+17 de May. de 2012   Suma 109-360  
+12 de Ene. de 2012 31 de Ene. de 2012 Simple 551-359 578-359
+13 de Dic. de 2011   Simple 481-359  
+02 de Nov. de 2011   Simple 432-359  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7678-02","Nombre Región Distrito Partido
+Ministerio de Defensa Nacional      
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7678-02","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+42 Indicación de los diputados señores Rincón, Lorenzini, Schilling, Saffirio y De Urresti, al artículo 99 para sustituir el inciso primero por el siguiente: “La Política de Defensa Nacional y Militar será propuesta al Presidente de la República por el Ministerio de Defensa Nacional, debiendo ser oídas las comisiones de Defensa del Senado y de la Cámara de Diputados. Se aprobará por decreto supremo con las firmas de los Ministros de Defensa Nacional, Relaciones Exteriores y Hacienda.”. 40 69 0 11 Rechazado Sala Ver detalle votación
+42 Indicación a los incisos primero y segundo, del diputado Schilling para incorporar la expresión “Exterior”, después de la palabra “Seguridad”, en las dos veces que aparece, y para intercalar, en el inciso primero, a continuación de la palabra “elaborado” la frase “por el Presidente de la República, el Ministerio de Relaciones Exteriores, y” 40 68 1 11 Rechazado Sala Ver detalle votación
+42 Artículo 99, en los términos propuestos por la Comisión de Defensa y con una indicación del Ejecutivo que introduce diversas modificaciones al inciso primero y agrega un nuevo inciso final 101 0 5 0 Aprobado Sala Ver detalle votación
+42 Indicación de los diputados señores Rincón, Lorenzini, Schilling, Saffirio y De Urresti, al artículo 105, para sustituirlo por el siguiente: “Por razones de seguridad de la Nación, los informes y oficios que deriven de la fiscalización y control que correspondan a la Contraloría General de la República sobre la inversión y gastos a que se refiere tanto este párrafo como el artículo 106, serán reservados, sin perjuicio de su remisión, en dicho carácter, a las Comisiones de Defensa del Senado y de la Cámara de Diputados. 31 74 2 13 Rechazado Sala Ver detalle votación
+42 Artículo 105. 99 1 9 11 Aprobado Sala Ver detalle votación
+42 Artículo 107 79 26 3 12 Aprobado Sala Ver detalle votación
+42 Artículo Segundo Transitorio, con una indicación del Ejecutivo que incorpora antes de la expresión “los saldos existentes” la frase “Para los efectos de lo dispuesto en el artículo 2° de esta ley”. 105 0 4 0 Aprobado Sala Ver detalle votación
+42 Indicación del diputado Schilling, al inciso primero del artículo 100, para suprimir la expresión “de cuatro años”. 16 86 3 15 Rechazado Sala Ver detalle votación
+42 Indicación de los diputados señores Rincón, Lorenzini, Schilling, Saffirio y De Urresti, al artículo 100 para: a) suprimir el inciso tercero b) incorporar en el inciso final, entre los vocablos ‘reglamento,’ y ‘con’, la siguiente frase: “que deberá dictarse dentro de los seis meses de la entrada en vigencia de la presente ley.”. 27 81 1 11 Rechazado Sala Ver detalle votación
+42 Artículo 100 con una indicación del Ejecutivo, que introduce diversos cambios en los incisos primero, segundo, tercero y quinto 97 0 10 13 Aprobado Sala Ver detalle votación
+42 Indicación de los diputados señores Rincón, Lorenzini, Schilling, Saffirio y De Urresti, al artículo 101 para suprimir su inciso segundo 27 80 1 12 Rechazado Sala Ver detalle votación
+42 Indicación del Ejecutivo que incorpora inciso tercero nuevo al artículo 101 91 2 3 24 Aprobado Sala Ver detalle votación
+42 Indicación de los diputados señores Rincón, Lorenzini, Schilling, Saffirio y De Urresti, al artículo 102 para: a) suprimir su inciso segundo. b) incorporar en el inciso tercero, entre los vocablos “Fondo” y “establecerá”, la siguiente frase “que deberá dictarse dentro de los seis meses de la entrada en vigencia de la presente ley,”. 28 81 1 10 Rechazado Sala Ver detalle votación
+42 Artículo 102 con la indicación del Ejecutivo que realiza diversos cambios en sus incisos primero, segundo y final. 92 6 7 15 Aprobado Sala Ver detalle votación
+42 Indicación del Ejecutivo, para agregar, en el N° 1, entre las palabras “saldos” y “existentes” la expresión “de libre disposición”. 98 2 7 0 Aprobado Sala Ver detalle votación
+42 Indicación de los diputados señores Rincón, Lorenzini, Schilling, Saffirio y De Urresti, al artículo 103 para eliminar su numeral 2. 30 79 0 11 Rechazado Sala Ver detalle votación
+42 Artículo 104. 102 0 6 12 Aprobado Sala Ver detalle votación
+42   107 0 0 13 Aprobado Sala Ver detalle votación
+42 Texto del proyecto contenido en las páginas 81 al 87 del informe de la Comisión de Defensa Nacional, con la indicación formulada por S. E. el Presidente de la República, para cuya aprobación se requiere del voto afirmativo de 68 diputados o diputadas en ejercicio, con la salvedad de los artículos 94, 96, 98, 99, 100, 101, 102, 103, 105, 107 y Segundo Transitorio, por haber sido objeto de indicaciones de origen parlamentario, y la indicación de S. E. el Presidente de la República en cuanto incorpora un inciso tercero nuevo al artículo 101, cuya votación separada ha sido solicitada. 108 0 0 0 Aprobado Sala Ver detalle votación
+42 Artículo 94 102 0 8 10 Aprobado Sala Ver detalle votación
+42 Artículo 96. 78 26 3 13 Aprobado Sala Ver detalle votación
+42 Indicación de los diputados señores Rincón, Lorenzini, Schilling, Saffirio y De Urresti, al artículo 98 para: a) Sustituir, en el inciso primero, la expresión “Estrategia Nacional de Seguridad y Defensa” por “Política de Defensa Nacional y Militar”. b) eliminar la frase final del inciso primero, que señala: “Se considerará como gasto de su operación aquel directamente dependiente del estado de alistamiento básico de las fuerzas que decida la autoridad ministerial mediante decreto supremo.”. 32 72 3 13 Rechazado Sala Ver detalle votación
+42 indicación al inciso segundo del artículo 98, del diputado Schilling, para sustituir la expresión “plurianual” por “anual”. 17 87 2 14 Rechazado Sala Ver detalle votación
+42 Artículo 98, en los términos propuestos por la Comisión de Defensa 94 5 9 12 Aprobado Sala Ver detalle votación
+42 Artículo 101 con la indicación del Ejecutivo, con la salvedad de su inciso tercero nuevo cuya votación separada ha sido solicitada 85 17 2 16 Aprobado Sala Ver detalle votación
+42 Resto del artículo 103. 89 6 13 0 Aprobado Sala Ver detalle votación
+43 Votación General 11 0 0 2   Defensa Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7678-02","No record","Veto emmEnd"

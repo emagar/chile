@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 1603-10","Legislatura: 331
+Fecha de ingreso: martes 30 de mayo de 1995
+Estado: Tramitación terminada (D.S. Nº 1.260 - D.Oficial 13/11/1996)
+Numero de boletín: 1603-10
+Materia: Visas
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 11:15:14
+* * Hitos de tramitación * *
+"emmStart Hitos 1603-10","Fecha Sesión Etapa Sub-etapa Documento
+30 de May. de 1995   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+30 de May. de 1995 2ª / 331 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+06 de Jun. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+20 de Jun. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+20 de Jun. de 1995 10ª / 331 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+21 de Jun. de 1995 11ª / 331 Primer trámite constitucional / C. Diputados Discusión general Ver
+21 de Jun. de 1995   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora
+04 de Jul. de 1995 11ª / 331 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+19 de Jun. de 1996   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+19 de Jun. de 1996 9ª / 333 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+20 de Jun. de 1996 10ª / 333 Segundo trámite constitucional / Senado Discusión general Ver
+20 de Jun. de 1996   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+20 de Jun. de 1996 10ª / 333 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+24 de Jun. de 1996   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1603-10","Fecha Etapa Informe Documento
+19 de Jun. de 1996 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+06 de Jun. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1603-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1603-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1603-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1603-10","No record","Veto emmEnd"

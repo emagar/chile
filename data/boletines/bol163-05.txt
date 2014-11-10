@@ -1,0 +1,30 @@
+* * Bill summary * *
+"emmStart Summary 163-05","Legislatura: 321
+Fecha de ingreso: martes 02 de octubre de 1990
+Estado: Tramitación terminada (Ley Nº 19.012 - D.Oficial 04/12/1990)
+Numero de boletín: 163-05
+Materia: Presupuesto Sector Público
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 06:38:21
+* * Hitos de tramitación * *
+"emmStart Hitos 163-05","Fecha Sesión Etapa Sub-etapa Documento
+13 de Sep. de 1990 35ª / 320 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+02 de Oct. de 1990   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Oct. de 1990 2ª / 321 Segundo trámite constitucional / Senado Cuenta de proyecto
+26 de Nov. de 1990   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 163-05","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 163-05","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 163-05","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 163-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 163-05","No record","Veto emmEnd"

@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 4493-07","Legislatura: 354
+Fecha de ingreso: miércoles 06 de septiembre de 2006
+Estado: Tramitación terminada (Ley Nº 20.208 - D.Oficial 07/08/2007)
+Numero de boletín: 4493-07
+Materia: Nacionalización
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 06-11-2014 02:22:29
+* * Hitos de tramitación * *
+"emmStart Hitos 4493-07","Fecha Sesión Etapa Sub-etapa Documento
+06 de Sep. de 2006   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+06 de Sep. de 2006 50ª / 354 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía
+26 de Mar. de 2007   Primer trámite constitucional / Senado Primer informe de comisión Ver
+03 de Abr. de 2007 6ª / 355 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+11 de Abr. de 2007 10ª / 355 Primer trámite constitucional / Senado Discusión general. queda para segunda discusión. Ver
+08 de May. de 2007 15ª / 355 Primer trámite constitucional / Senado Discusión general Ver
+08 de May. de 2007   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+09 de May. de 2007 24ª / 355 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver Ver
+04 de Jul. de 2007   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Jul. de 2007 46ª / 355 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+12 de Jul. de 2007 51ª / 355 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+12 de Jul. de 2007   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+17 de Jul. de 2007 34ª / 355 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+17 de Jul. de 2007   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4493-07","Fecha Etapa Informe Documento
+04 de Jul. de 2007 Segundo trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+26 de Mar. de 2007 Primer trámite constitucional Senado Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4493-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4493-07","Nombre
+Eduardo Frei Ruiz-Tagle
+Jaime Naranjo Ortiz","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4493-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+51   53 0 6 0 Aprobado Sala Ver detalle votación
+54 Votación General 10 0 0 3   Derechos Humanos Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4493-07","No record","Veto emmEnd"

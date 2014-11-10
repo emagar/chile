@@ -1,0 +1,66 @@
+* * Bill summary * *
+"emmStart Summary 8814-02","Legislatura: 360
+Fecha de ingreso: miércoles 06 de marzo de 2013
+Estado: Tramitación terminada (Ley Nº 20.676 - D.Oficial 14/06/2013)
+Numero de boletín: 8814-02
+Materia: Conscriptos,Asignación Mensual De Soldados Conscriptos
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 06:02:27
+* * Hitos de tramitación * *
+"emmStart Hitos 8814-02","Fecha Sesión Etapa Sub-etapa Documento
+06 de Mar. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Mar. de 2013 134ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Defensa Nacional y de Hacienda Ver
+06 de Mar. de 2013 134ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 469-360 que hace presente la urgencia Discusión inmediata Ver
+12 de Mar. de 2013   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+13 de Mar. de 2013 2ª / 361 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Mar. de 2013 3ª / 361 Primer trámite constitucional / C. Diputados Primer informe de comisión Ver Ver
+19 de Mar. de 2013 4ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 16-361 que hace presente la urgencia Discusión inmediata Ver
+20 de Mar. de 2013 5ª / 361 Primer trámite constitucional / C. Diputados Discusión general Ver
+20 de Mar. de 2013   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+02 de Abr. de 2013 7ª / 361 Segundo trámite constitucional / Senado Cuenta de Proyecto. Pasa a la Comisión de Defensa Nacional y de Hacienda.
+09 de Abr. de 2013 10ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 47-361 que retira y hace presente la urgencia Suma
+17 de Abr. de 2013 16ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 62-361 que retira y hace presente la urgencia Suma
+30 de Abr. de 2013 18ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 74-361 que retira y hace presente la urgencia Suma
+30 de Abr. de 2013 18ª / 361 Segundo trámite constitucional / Senado Por acuerdo de Comités se autoriza a la Comisión de Defensa Nacional para discutir en general y en particular la iniciativa, durante el primer informe.
+02 de May. de 2013   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+14 de May. de 2013   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+14 de May. de 2013 23ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 92-361 que retira y hace presente la urgencia Discusión inmediata
+14 de May. de 2013 23ª / 361 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión. Defensa Nacional y Hacienda
+14 de May. de 2013 23ª / 361 Segundo trámite constitucional / Senado Discusión general Ver
+14 de May. de 2013   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+15 de May. de 2013 28ª / 361 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+16 de May. de 2013 29ª / 361 Tercer trámite constitucional / C. Diputados Discusión única Ver
+16 de May. de 2013   Tercer trámite constitucional / C. Diputados Oficio N° 10731, al H. Senado, que comunica aprobacion de modificaciones. Ver
+16 de May. de 2013   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo. Oficio N° 10732, a S.E. el Presidente de la República, para su promulgación. Ver
+22 de May. de 2013 26ª / 361 Tercer trámite constitucional / C. Diputados Cuenta oficio N° 10731, que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8814-02","Fecha Etapa Informe Documento
+14 de May. de 2013 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+02 de May. de 2013 Segundo trámite constitucional Senado Primer informe de comisión de Defensa Nacional Ver
+13 de Mar. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+12 de Mar. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión de Defensa Nacional Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8814-02","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+14 de May. de 2013   Discusión inmediata 92-361  
+30 de Abr. de 2013 13 de May. de 2013 Suma 74-361 92-361
+17 de Abr. de 2013 30 de Abr. de 2013 Suma 62-361 74-361
+09 de Abr. de 2013 16 de Abr. de 2013 Suma 47-361 62-361
+19 de Mar. de 2013 09 de Abr. de 2013 Discusión inmediata 16-361 47-361
+06 de Mar. de 2013   Discusión inmediata 469-360  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8814-02","Nombre Región Distrito Partido
+Ministerio de Defensa Nacional      
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8814-02","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+5   90 0 0 0 Aprobado Sala Ver detalle votación
+29   53 0 0 67 Aprobado Sala Ver detalle votación
+90 Votación General 10 0 0 3   Defensa Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8814-02","No record","Veto emmEnd"

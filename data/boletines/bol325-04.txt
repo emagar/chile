@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 325-04","Legislatura: 321
+Fecha de ingreso: martes 09 de abril de 1991
+Estado: Tramitación terminada (Ley Nº 19.092 - D.Oficial 14/11/1991)
+Numero de boletín: 325-04
+Materia: Monumentos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 15:26:26
+* * Hitos de tramitación * *
+"emmStart Hitos 325-04","Fecha Sesión Etapa Sub-etapa Documento
+09 de Abr. de 1991 43ª / 321 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+09 de Abr. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de Jun. de 1991 11ª / 322 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+02 de Jul. de 1991 13ª / 322 Primer trámite constitucional / C. Diputados Discusión general Ver
+09 de Jul. de 1991 15ª / 322 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+25 de Jul. de 1991   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+08 de Ago. de 1991 25ª / 322 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión. Queda para Tabla.
+21 de Ago. de 1991   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+29 de Oct. de 1991 8ª / 323 Tramitación terminada / Cuenta de oficio de la Cámara de Diputados con el que comunica aprobación de enmiendas del Senado.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 325-04","Fecha Etapa Informe Documento
+25 de Jul. de 1991 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+13 de Jun. de 1991 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 325-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 325-04","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 325-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 325-04","No record","Veto emmEnd"

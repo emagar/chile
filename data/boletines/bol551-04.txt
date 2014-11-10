@@ -1,0 +1,48 @@
+* * Bill summary * *
+"emmStart Summary 551-04","Legislatura: 323
+Fecha de ingreso: martes 03 de diciembre de 1991
+Estado: Tramitación terminada (Ley Nº 19.119 - D.Oficial 31/01/1992)
+Numero de boletín: 551-04
+Materia: Ministerio De Educación,Ministerios,Subsecretaría De Educación
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 19:19:32
+* * Hitos de tramitación * *
+"emmStart Hitos 551-04","Fecha Sesión Etapa Sub-etapa Documento
+03 de Dic. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Dic. de 1991 28ª / 324 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+04 de Dic. de 1991   Primer trámite constitucional / C. Diputados Primer informe de comisión
+11 de Dic. de 1991   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Dic. de 1991 33ª / 323 Primer trámite constitucional / C. Diputados Discusión general Ver
+11 de Dic. de 1991 32ª / 323 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de Dic. de 1991   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora
+17 de Dic. de 1991 27ª / 323 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología y a la de Hacienda.
+13 de Ene. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+14 de Ene. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+21 de Ene. de 1992 35ª / 323 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión. de Educación y de Hacienda. Queda para tabla.
+21 de Ene. de 1992 35ª / 323 Tramitación terminada / Discusión general y particular. Se aprueba, con modificaciones.
+22 de Ene. de 1992   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+22 de Ene. de 1992   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+22 de Ene. de 1992 47ª / 323 Tercer trámite constitucional / C. Diputados Discusión única Ver
+22 de Ene. de 1992 47ª / 323 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+22 de Ene. de 1992   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 551-04","Fecha Etapa Informe Documento
+14 de Ene. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+13 de Ene. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+11 de Dic. de 1991 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+04 de Dic. de 1991 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 551-04","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+03 de Dic. de 1991   Suma    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 551-04","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 551-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 551-04","No record","Veto emmEnd"

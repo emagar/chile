@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 1945-07","Legislatura: 334
+Fecha de ingreso: miércoles 20 de noviembre de 1996
+Estado: Primer trámite constitucional .
+Numero de boletín: 1945-07
+Materia: Reforma Constitucional,Tribunal Calificador De Elecciones
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 16:38:12
+* * Hitos de tramitación * *
+"emmStart Hitos 1945-07","Fecha Sesión Etapa Sub-etapa Documento
+20 de Nov. de 1996   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de Nov. de 1996 19ª / 334 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1945-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1945-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1945-07","Nombre Región Distrito Partido
+Carlos Dupre Silva Región N°20 Partido Demócrata Cristiano
+Ramón Elizalde Hevia Región N°17 Partido Demócrata Cristiano
+Maximiano Errázuriz Eguiguren Región N° Renovación Nacional
+Luis Valentín Ferrada Valenzuela Región N° Renovación Nacional
+Mario Hamuy Berr Región N°19 Partido Demócrata Cristiano
+Zarko Luksic Sandoval Región N° Partido Demócrata Cristiano
+Iván Moreira Barros Región N° Unión Demócrata Independiente
+Hosaín Sabag Castillo Región N°42 Partido Demócrata Cristiano
+Isidoro Francisco Tohá González Región N°41 Partido Socialista","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1945-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1945-07","No record","Veto emmEnd"

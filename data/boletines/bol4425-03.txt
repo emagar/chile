@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 4425-03","Legislatura: 354
+Fecha de ingreso: jueves 17 de agosto de 2006
+Estado: Segundo trámite constitucional .
+Numero de boletín: 4425-03
+Materia: Bancos,Cuentas Corrientes,Transferencia Electrónica De Fondos Bancarios
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 01:31:52
+* * Hitos de tramitación * *
+"emmStart Hitos 4425-03","Fecha Sesión Etapa Sub-etapa Documento
+17 de Ago. de 2006 65ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+17 de Ago. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de Mar. de 2007 4ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. Primer informe de Comisión de Economía. Ver
+20 de Mar. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+04 de Abr. de 2007 9ª / 355 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+04 de Abr. de 2007   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+10 de Abr. de 2007 9ª / 355 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Economía Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4425-03","Fecha Etapa Informe Documento
+20 de Mar. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4425-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4425-03","Nombre Región Distrito Partido
+Isabel Allende Bussi RM Región Metropolitana N°29 Partido Socialista
+Guillermo Ceroni Fuentes VII Región del Maule N°40 Partido Por la Democracia
+Alfonso De Urresti Longton XIV Región de los Ríos N°53 Partido Socialista
+Francisco Encina Moriamez IV Región de Coquimbo N°8 Partido Socialista
+Jorge Insunza Gregorio de las Heras RM Región Metropolitana N°28 Partido Por la Democracia
+Carlos Abel Jarpa Wevar VIII Región del Bío Bío N°41 Partido Radical Social Demócrata
+José Miguel Ortiz Novoa VIII Región del Bío Bío N°44 Partido Demócrata Cristiano
+Alberto Robles Pantoja III Región de Atacama N°6 Partido Radical Social Demócrata
+Fulvio Rossi Ciocca I Región de Tarapacá N°2 Partido Socialista
+Raúl Sunico Galdames VIII Región del Bío Bío N°43 Partido Socialista","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4425-03","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+9   95 0 0 0 Aprobado Sala Ver detalle votación
+9 Indicación de la señora Allende, doña Isabel, y de los señores Bustos, Súnico, Ortiz, Encina, Jaramillo, Rossi, Insunza, Jarpa y Alvarado, para reemplazar el inciso propuesto por el siguiente: ""Los fondos correspondientes a depósitos de cheques y a transacciones realizadas en forma electrónica deberán liberarse en forma inmediata cuando pertenezcan al mismo banco, y sólo podrán retenerse por un máximo de veinticuatro horas cuando sean de otro banco."". 99 0 0 0 Aprobado Sala Ver detalle votación
+31 Votación General 6 0 0 7   Economía Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4425-03","No record","Veto emmEnd"

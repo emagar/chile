@@ -1,0 +1,60 @@
+* * Bill summary * *
+"emmStart Summary 5286-05","Legislatura: 355
+Fecha de ingreso: martes 28 de agosto de 2007
+Estado: Tramitación terminada (Ley Nº 20.240 - D.Oficial 16/01/2008)
+Numero de boletín: 5286-05
+Materia: Fiscales,Ministerio Público
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 07-11-2014 02:49:34
+* * Hitos de tramitación * *
+"emmStart Hitos 5286-05","Fecha Sesión Etapa Sub-etapa Documento
+28 de Ago. de 2007   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+29 de Ago. de 2007 45ª / 355 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+04 de Sep. de 2007   Primer trámite constitucional / Senado Primer informe de comisión Ver
+04 de Sep. de 2007 47ª / 355 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+05 de Sep. de 2007 50ª / 355 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 01/10/2007 Ver
+02 de Oct. de 2007 53ª / 355 Primer trámite constitucional / Senado Cuenta del Mensaje 774-355 que hace presente la urgencia Suma
+02 de Oct. de 2007 53ª / 355 Primer trámite constitucional / Senado Por no habrse presentado indicaciones, se da por aprobado en particular.
+03 de Oct. de 2007   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+03 de Oct. de 2007 82ª / 355 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. con urgencia suma. Pasa a Comisión de Hacienda. Ver
+16 de Oct. de 2007 90ª / 355 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 848-355 que retira y hace presente la urgencia Suma Ver
+30 de Oct. de 2007 93ª / 355 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 877-355 que retira y hace presente la urgencia Suma Ver
+31 de Oct. de 2007   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+06 de Nov. de 2007 96ª / 355 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+06 de Nov. de 2007 96ª / 355 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+06 de Nov. de 2007   Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver
+07 de Nov. de 2007 63ª / 355 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora Ver
+13 de Nov. de 2007 64ª / 355 Tercer trámite constitucional / Senado Discusión única
+13 de Nov. de 2007   Tercer trámite constitucional / Senado Oficio Nº 1483/07, que comunica aprobación de modificaciones Ver
+13 de Nov. de 2007   Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo Ver
+14 de Nov. de 2007 103ª / 355 Tercer trámite constitucional / Senado Cuenta oficio Nº 1483/07, que comunica aprobación de modificaciones
+22 de Nov. de 2007   Trámite en Tribunal Constitucional / Senado Oficio al Tribunal Constitucional Ver
+27 de Dic. de 2007   Trámite en Tribunal Constitucional / Senado Oficio de ley al Ejecutivo Ver
+02 de Ene. de 2008 78ª / 355 Trámite en Tribunal Constitucional / Senado Cuenta oficio Nº 1652 del Tribunal Constitucional Ver
+02 de Ene. de 2008 122ª / 355 Trámite en Tribunal Constitucional / Senado Cuenta en Cámara de Diputados de oficio Nº 1653 del Tribunal Constitucional","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5286-05","Fecha Etapa Informe Documento
+31 de Oct. de 2007 Segundo trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+04 de Sep. de 2007 Primer trámite constitucional Senado Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5286-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+30 de Oct. de 2007   Suma 877-355  
+16 de Oct. de 2007 30 de Oct. de 2007 Suma 848-355 877-355
+02 de Oct. de 2007 16 de Oct. de 2007 Suma 774-355 848-355","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5286-05","Nombre
+Ministerio de Hacienda
+Ministerio de Justicia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5286-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+96   103 0 0 0 Aprobado Sala Ver detalle votación
+96 15 106 0 0 14 Aprobado Sala Ver detalle votación
+116 Votación General 9 0 0 4   Hacienda Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5286-05","No record","Veto emmEnd"

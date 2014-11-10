@@ -1,0 +1,32 @@
+* * Bill summary * *
+"emmStart Summary 4660-06","Legislatura: 354
+Fecha de ingreso: jueves 09 de noviembre de 2006
+Estado: Primer trámite constitucional .
+Numero de boletín: 4660-06
+Materia: Elecciones,Cohecho
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 04:25:02
+* * Hitos de tramitación * *
+"emmStart Hitos 4660-06","Fecha Sesión Etapa Sub-etapa Documento
+09 de Nov. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+09 de Nov. de 2006 96ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4660-06","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4660-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4660-06","Nombre Región Distrito Partido
+Guillermo Ceroni Fuentes VII Región del Maule N°40 Partido Por la Democracia
+Enrique Jaramillo Becker XIV Región de los Ríos N°54 Partido Por la Democracia
+Tucapel Jiménez Fuentes RM Región Metropolitana N°27 Partido Por la Democracia
+Marco Antonio Núñez Lozano V Región de Valparaíso N°11 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4660-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4660-06","No record","Veto emmEnd"

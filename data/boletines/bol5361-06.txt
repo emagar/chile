@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 5361-06","Legislatura: 355
+Fecha de ingreso: martes 02 de octubre de 2007
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 5361-06
+Materia: Casinos (Juegos De Azar),Juegos De Azar
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 03:44:14
+* * Hitos de tramitación * *
+"emmStart Hitos 5361-06","Fecha Sesión Etapa Sub-etapa Documento
+02 de Oct. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Oct. de 2007 79ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+05 de Dic. de 2007 112ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1138-355 que hace presente la urgencia Simple Ver
+06 de Dic. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Dic. de 2007 114ª / 355 Primer trámite constitucional / C. Diputados P. de la Rep. retira y hace presente urgencia \""suma\"". A SUS ANTECEDENTES. Ver
+11 de Dic. de 2007 114ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+11 de Dic. de 2007 114ª / 355 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+18 de Dic. de 2007 117ª / 355 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+18 de Dic. de 2007   Primer trámite constitucional / C. Diputados Oficio rechazo al Ejecutivo Ver
+08 de Ene. de 2008 124ª / 355 En espera de insistencia / C. Diputados P. de l Rep. comunica que no hará uso de la facultad que le confiere el artículo 68 de la C. Pol. de Rep. A SUS ANTECEDENTES. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5361-06","Fecha Etapa Informe Documento
+06 de Dic. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5361-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5361-06","Nombre Región Distrito Partido
+Ministerio de Interior y Seguridad Públi      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5361-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+117   37 38 9 36 Rechazado Sala Ver detalle votación
+58 Votación General 7 0 0 6   Gobierno Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5361-06","No record","Veto emmEnd"

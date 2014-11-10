@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 8611-07","Legislatura: 360
+Fecha de ingreso: lunes 08 de octubre de 2012
+Estado: Tramitación terminada (Ley Nº 20.782 - D.Oficial 07/10/2014)
+Numero de boletín: 8611-07 Refundido con: 9129-06
+Materia: Día Nacional De Gendarmeria De Chile (30 De Noviembre)
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 10-11-2014 03:38:46
+* * Hitos de tramitación * *
+"emmStart Hitos 8611-07","Fecha Sesión Etapa Sub-etapa Documento
+08 de Oct. de 2012   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+09 de Oct. de 2012 53ª / 360 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+08 de Oct. de 2013 60ª / 361 Primer trámite constitucional / Senado La Sala acuerda que el proyecto sea considerado por la Comisión de Gobierno, Descentralización y Regionalización en lugar de la de Constitución, Legislación, Justicia y Reglamento.
+10 de Oct. de 2013   Primer trámite constitucional / Senado Primer informe de comisión Ver
+15 de Oct. de 2013 63ª / 361 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+15 de Oct. de 2013 63ª / 361 Primer trámite constitucional / Senado Discusión general Ver
+15 de Oct. de 2013   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+16 de Oct. de 2013 84ª / 361 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior y Regionalización Ver
+20 de Ago. de 2014   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+20 de Ago. de 2014 61ª / 362 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+04 de Sep. de 2014 65ª / 362 Segundo trámite constitucional / C. Diputados Discusión general. Aprobado en general y particular sin modificaciones Ver
+04 de Sep. de 2014   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+09 de Sep. de 2014 45ª / 362 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+09 de Sep. de 2014   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8611-07","Fecha Etapa Informe Documento
+20 de Ago. de 2014 Segundo trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver
+10 de Oct. de 2013 Primer trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8611-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8611-07","Nombre
+Carlos Bianchi Chelech
+Carlos Cantero Ojeda
+Camilo Escalona Medina
+Pedro Muñoz Aburto
+Ximena Rincón González","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8611-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8611-07","No record","Veto emmEnd"

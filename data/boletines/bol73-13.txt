@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 73-13","Legislatura: 320
+Fecha de ingreso: martes 05 de junio de 1990
+Estado: Tramitación terminada (Ley Nº 18.987 - D.Oficial 11/07/1990)
+Numero de boletín: 73-13
+Materia: Pensiones,Subsidios
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 30-10-2014 16:41:48
+* * Hitos de tramitación * *
+"emmStart Hitos 73-13","Fecha Sesión Etapa Sub-etapa Documento
+05 de Jun. de 1990   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+05 de Jun. de 1990 4ª / 320 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+19 de Jun. de 1990 9ª / 320 Segundo trámite constitucional / Senado Cuenta de proyecto
+26 de Jun. de 1990 11ª / 320 Segundo trámite constitucional / Senado Primer informe de comisión Ver
+26 de Jun. de 1990 11ª / 320 Segundo trámite constitucional / Senado Primer informe de comisión Ver
+26 de Jun. de 1990 11ª / 320 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+26 de Jun. de 1990 11ª / 320 Segundo trámite constitucional / Senado Discusión general Ver
+27 de Jun. de 1990 11ª / 320 Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+03 de Jul. de 1990 12ª / 320 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+29 de Abr. de 2003   Tercer trámite constitucional / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 348
+02 de Dic. de 2003   Tercer trámite constitucional / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 350","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 73-13","Fecha Etapa Informe Documento
+26 de Jun. de 1990 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+26 de Jun. de 1990 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 73-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+05 de Jun. de 1990   Suma    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 73-13","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 73-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 73-13","No record","Veto emmEnd"

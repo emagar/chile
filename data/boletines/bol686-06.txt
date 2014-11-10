@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 686-06","Legislatura: 324
+Fecha de ingreso: sábado 12 de septiembre de 1992
+Estado: Tramitación terminada (Ley Nº 19.187 - D.Oficial 16/11/1992)
+Numero de boletín: 686-06
+Materia: Contraloria General De La Republica
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 21:36:37
+* * Hitos de tramitación * *
+"emmStart Hitos 686-06","Fecha Sesión Etapa Sub-etapa Documento
+12 de Sep. de 1991   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+12 de May. de 1992 58ª / 323 Primer trámite constitucional / Senado Cuenta de proyecto
+16 de Jul. de 1992 11ª / 324 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+16 de Jul. de 1992 11ª / 324 Primer trámite constitucional / Senado Primer informe de comisión Ver
+16 de Jul. de 1992 11ª / 324 Primer trámite constitucional / Senado Primer informe de comisión Ver
+21 de Jul. de 1992 12ª / 324 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+21 de Jul. de 1992 12ª / 351 Tramitación terminada / Discusión general y particular. Aprobado en general y en particular. Sin perjuicio del acuerdo precente, se solicita a la Comisión de Constitución, Legislación, Justicia y Reglamento informe sobre el rango constitucional de las disposiciones aprobadas y si procede el control de constitucionalidad del TYribunal Constitucional. Ver
+28 de Jul. de 1992 20ª / 324 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+22 de Oct. de 1992 6ª / 325 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+03 de Nov. de 1992 7ª / 325 Tercer trámite constitucional / Senado Discusión única. Aprobadas las modificaciones de la Cámara de Diputados.
+09 de Nov. de 1992 7ª / 325 Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo Ver
+12 de Nov. de 1992 10ª / 325 Trámite en Tribunal Constitucional / Senado Oficio al Tribunal Constitucional Ver
+09 de Dic. de 1992 15ª / 325 Trámite en Tribunal Constitucional / Senado Cuenta fallo del Tribunal Constitucional
+09 de Dic. de 1992 15ª / 344 Trámite en Tribunal Constitucional / Senado Oficio de ley al Ejecutivo Ver
+    Trámite en Tribunal Constitucional / Senado Ingreso fallo del Tribunal Constitucional","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 686-06","Fecha Etapa Informe Documento
+16 de Jul. de 1992 Primer trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver
+16 de Jul. de 1992 Primer trámite constitucional Senado Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 686-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 686-06","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 686-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 686-06","No record","Veto emmEnd"

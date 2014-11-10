@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 509-10","Legislatura: 323
+Fecha de ingreso: miércoles 02 de octubre de 1991
+Estado: Tramitación terminada (D.S. Nº 1.520 - D.Oficial 01/03/1994)
+Numero de boletín: 509-10
+Materia: Acuerdos Internacionales,Organización De Estados Iberoamericanos Para La Educación, La Ciencia Y La Cultura
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 18:47:19
+* * Hitos de tramitación * *
+"emmStart Hitos 509-10","Fecha Sesión Etapa Sub-etapa Documento
+02 de Oct. de 1991 5ª / 324 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+02 de Oct. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+07 de Oct. de 1992   Primer trámite constitucional / C. Diputados Primer informe de comisión
+22 de Oct. de 1992 9ª / 325 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+28 de Oct. de 1992 11ª / 325 Primer trámite constitucional / C. Diputados Discusión general Ver
+29 de Oct. de 1992   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora
+03 de Nov. de 1992 7ª / 325 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+17 de Mar. de 1993 34ª / 325 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+17 de Mar. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+23 de Mar. de 1993 35ª / 325 Segundo trámite constitucional / Senado Discusión general Ver
+24 de Mar. de 1993   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+30 de Mar. de 1993 57ª / 325 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+30 de Mar. de 1993   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 509-10","Fecha Etapa Informe Documento
+17 de Mar. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+07 de Oct. de 1992 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 509-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 509-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 509-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 509-10","No record","Veto emmEnd"

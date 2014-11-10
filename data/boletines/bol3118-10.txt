@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 3118-10","Legislatura: 348
+Fecha de ingreso: miércoles 26 de marzo de 2003
+Estado: Tramitación terminada (D.S. N° 50 - D.Oficial 05/09/2011)
+Numero de boletín: 3118-10
+Materia: Acuerdos Internacionales
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 23:22:47
+* * Hitos de tramitación * *
+"emmStart Hitos 3118-10","Fecha Sesión Etapa Sub-etapa Documento
+12 de Nov. de 2002 18ª / 348 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+26 de Mar. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de May. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de Jun. de 2003 1ª / 349 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+05 de Jun. de 2003 3ª / 349 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+10 de Jun. de 2003 3ª / 349 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+12 de Ago. de 2003 23ª / 349 Segundo trámite constitucional / Senado Cuenta oficio 1525 de la Corte Suprema Ver
+14 de Sep. de 2004   Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 352
+08 de Jul. de 2009   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+14 de Jul. de 2009 33ª / 357 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+29 de Jul. de 2009 36ª / 357 Segundo trámite constitucional / Senado Discusión general Ver
+29 de Jul. de 2009   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+30 de Jul. de 2009 57ª / 357 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+30 de Jul. de 2009   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3118-10","Fecha Etapa Informe Documento
+08 de Jul. de 2009 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+09 de Jun. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3118-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3118-10","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3118-10","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+3   54 0 0 0   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3118-10","No record","Veto emmEnd"

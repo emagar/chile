@@ -1,0 +1,55 @@
+* * Bill summary * *
+"emmStart Summary 682-07","Legislatura: 323
+Fecha de ingreso: martes 12 de mayo de 1992
+Estado: Tramitación terminada (Ley Nº 19.212 - D.Oficial 30/04/1993)
+Numero de boletín: 682-07
+Materia: Dirección De Seguridad Pública E Informaciones
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 21:33:32
+* * Hitos de tramitación * *
+"emmStart Hitos 682-07","Fecha Sesión Etapa Sub-etapa Documento
+12 de May. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de May. de 1992 73ª / 323 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+02 de Sep. de 1992   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+16 de Sep. de 1992 26ª / 324 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento y a Comisión de Hacienda
+23 de Nov. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+24 de Nov. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+09 de Dic. de 1992 15ª / 325 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+15 de Dic. de 1992 17ª / 325 Segundo trámite constitucional / Senado Cuenta oficio de la Corte Suprema remitiendo opinión Ver
+15 de Dic. de 1992 17ª / 325 Segundo trámite constitucional / Senado Aprobado en general En discusión general. Se aprueba en general y se fija plazo para indicaciones hasta el 29 de diciembre. Ver
+05 de Ene. de 1993   Segundo trámite constitucional / Senado Segundo informe de comisión. Pasa a Comisión de Hacienda Ver
+06 de Ene. de 1993   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+07 de Ene. de 1993 21ª / 325 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+07 de Ene. de 1993 21ª / 325 Segundo trámite constitucional / Senado Aprobado con modificaciones Ver
+11 de Ene. de 1993   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+11 de Ene. de 1993   Segundo trámite constitucional / Senado Oficio a la Cámara comunicando aprobación con modificaciones que indica
+19 de Ene. de 1993   Primer trámite constitucional / C. Diputados Nuevo primer informe de comisión Ver
+21 de Ene. de 1993 28ª / 325 Comisión Mixta por rechazo de modificaciones / Senado Cuenta oficio rechazo a modificaciones. Se designa a señores Senadores miembros de la Comisión de Constitución, Legislación, Justicia y Reglamento para que integren Comisión Mixta
+26 de Ene. de 1993   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+17 de Mar. de 1993   Comisión Mixta por rechazo de modificaciones / Senado Informe de Comisión Mixta Ver
+23 de Mar. de 1993 35ª / 325 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Cuenta oficio aprobación de informe de Comisión Mixta. Por acuerdo de Comités se incorpora a la tabla de esta sesión. Se aprueba informe de la Comisión Mixta
+23 de Mar. de 1993   Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Oficio aprobación de informe de Comisión Mixta a C.de Origen Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 682-07","Fecha Etapa Informe Documento
+17 de Mar. de 1993 Comisión Mixta por rechazo de modificaciones Senado Informe de Comisión Mixta de Constitución, Legislación, Justicia y Reglamento Ver
+19 de Ene. de 1993 Primer trámite constitucional C.Diputados Nuevo primer informe de comisión de Constitución, Legislación y Justicia Ver
+06 de Ene. de 1993 Segundo trámite constitucional Senado Segundo informe de comisión de Hacienda Ver
+05 de Ene. de 1993 Segundo trámite constitucional Senado Segundo informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+24 de Nov. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+23 de Nov. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+02 de Sep. de 1992 Primer trámite constitucional C.Diputados Segundo informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 682-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+12 de May. de 1992   Simple    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 682-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 682-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 682-07","No record","Veto emmEnd"

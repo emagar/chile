@@ -1,0 +1,35 @@
+* * Bill summary * *
+"emmStart Summary 5641-07","Legislatura: 355
+Fecha de ingreso: jueves 20 de diciembre de 2007
+Estado: Archivado .
+Numero de boletín: 5641-07
+Materia: Medidas Cautelares,Violencia En El Deporte
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 08:15:56
+* * Hitos de tramitación * *
+"emmStart Hitos 5641-07","Fecha Sesión Etapa Sub-etapa Documento
+20 de Dic. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de Dic. de 2007 121ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+04 de Nov. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de Nov. de 2008 103ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+10 de Mar. de 2010 125ª / 357 Primer trámite constitucional / C. Diputados Discusión General. Rechazado el proyecto. Ver
+10 de Mar. de 2010   Primer trámite constitucional / C. Diputados Archivado","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5641-07","Fecha Etapa Informe Documento
+04 de Nov. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5641-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5641-07","Nombre Región Distrito Partido
+Enrique Estay Peñaloza IX Región de la Araucanía N°49 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5641-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+125   0 73 1 46 Rechazado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5641-07","No record","Veto emmEnd"

@@ -1,0 +1,53 @@
+* * Bill summary * *
+"emmStart Summary 4473-05","Legislatura: 354
+Fecha de ingreso: martes 29 de agosto de 2006
+Estado: Tramitación terminada (Ley N° 20.419 - D.Oficial 19/02/2010)
+Numero de boletín: 4473-05
+Materia: Contribuyentes,Bienes Raices
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 06-11-2014 02:06:32
+* * Hitos de tramitación * *
+"emmStart Hitos 4473-05","Fecha Sesión Etapa Sub-etapa Documento
+29 de Ago. de 2006   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+30 de Ago. de 2006 47ª / 354 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+14 de Sep. de 2006   Primer trámite constitucional / Senado Primer informe de comisión Ver
+03 de Oct. de 2006 56ª / 354 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+11 de Oct. de 2006 60ª / 354 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 30/10/2006 Ver
+31 de Oct. de 2006 64ª / 354 Primer trámite constitucional / Senado Se acuerda abrir nuevo plazo de indicaciones hasta las 12 horas del lunes 06/11/2006.
+06 de Nov. de 2006   Primer trámite constitucional / Senado Boletín de indicaciones
+08 de May. de 2007   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+08 de May. de 2007 15ª / 355 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+09 de May. de 2007 18ª / 355 Primer trámite constitucional / Senado Discusión particular Ver
+09 de May. de 2007   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+10 de May. de 2007 25ª / 355 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver Ver
+11 de Ago. de 2009   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de Ago. de 2009 67ª / 357 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+12 de Ene. de 2010 117ª / 357 Segundo trámite constitucional / C. Diputados Discusión general Ver
+12 de Ene. de 2010   Segundo trámite constitucional / C. Diputados Oficio N° 4473-05. Oficio de Ley comunicando aprobación en los mismos términos del proyecto. Ver
+13 de Ene. de 2010 82ª / 357 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+19 de Ene. de 2010   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4473-05","Fecha Etapa Informe Documento
+11 de Ago. de 2009 Segundo trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+08 de May. de 2007 Primer trámite constitucional Senado Segundo informe de comisión de Hacienda Ver
+14 de Sep. de 2006 Primer trámite constitucional Senado Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4473-05","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4473-05","Nombre
+Pablo Longueira Montes
+Jovino Novoa Vásquez
+Carlos Ominami Pascual
+Baldo Prokurica Prokurica
+Hosaín Sabag Castillo","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4473-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+248 Votación General 8 0 0 5   Hacienda Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4473-05","No record","Veto emmEnd"

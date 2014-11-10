@@ -1,0 +1,48 @@
+* * Bill summary * *
+"emmStart Summary 3309-21","Legislatura: 349
+Fecha de ingreso: jueves 07 de agosto de 2003
+Estado: Tramitación terminada (Ley Nº 19.923 - D.Oficial 05/01/2004)
+Numero de boletín: 3309-21
+Materia: Pesca Artesanal
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 01:22:49
+* * Hitos de tramitación * *
+"emmStart Hitos 3309-21","Fecha Sesión Etapa Sub-etapa Documento
+07 de Ago. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+07 de Ago. de 2003 27ª / 349 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Pesca, Acuicultura e Intereses Marítimos Ver
+02 de Sep. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de Sep. de 2003 36ª / 349 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+10 de Sep. de 2003 39ª / 349 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+10 de Sep. de 2003   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+16 de Sep. de 2003 35ª / 349 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Intereses Marítimos, Pesca y Acuicultura
+04 de Nov. de 2003   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+04 de Nov. de 2003 7ª / 350 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+05 de Nov. de 2003 8ª / 350 Segundo trámite constitucional / Senado Discusión general Ver
+17 de Nov. de 2003   Segundo trámite constitucional / Senado Boletín de indicaciones
+03 de Dic. de 2003   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+03 de Dic. de 2003 15ª / 350 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+03 de Dic. de 2003 16ª / 350 Segundo trámite constitucional / Senado Discusión particular Ver
+03 de Dic. de 2003   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+16 de Dic. de 2003 19ª / 350 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3309-21","Fecha Etapa Informe Documento
+03 de Dic. de 2003 Segundo trámite constitucional Senado Segundo informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver
+04 de Nov. de 2003 Segundo trámite constitucional Senado Primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver
+02 de Sep. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión de Pesca, Acuicultura e Intereses Marítimos Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3309-21","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+07 de Ago. de 2003   Sin urgencia 144-349  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3309-21","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3309-21","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+31   83 0 1 2   Sala Ver detalle votación
+39 único 72 0 1 2   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3309-21","No record","Veto emmEnd"

@@ -1,0 +1,58 @@
+* * Bill summary * *
+"emmStart Summary 7127-07","Legislatura: 358
+Fecha de ingreso: jueves 12 de agosto de 2010
+Estado: Segundo trámite constitucional .
+Numero de boletín: 7127-07
+Materia: Congreso Nacional,Trabajo Parlamentario
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 00:33:34
+* * Hitos de tramitación * *
+"emmStart Hitos 7127-07","Fecha Sesión Etapa Sub-etapa Documento
+12 de Ago. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Ago. de 2010 63ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+18 de Ago. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+31 de Ago. de 2010 67ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+01 de Sep. de 2010 68ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 289-358 que hace presente la urgencia Suma Ver
+01 de Sep. de 2010 68ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+05 de Oct. de 2010 83ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+13 de Dic. de 2010   Primer trámite constitucional / C. Diputados Nuevo primer informe de comisión Ver
+14 de Dic. de 2010 111ª / 358 Primer trámite constitucional / C. Diputados Cuenta nuevo primer informe Ver
+20 de Dic. de 2010 117ª / 358 Primer trámite constitucional / C. Diputados Discusión en general; Aprobado en general, pasa a segundo informe. Ver
+08 de Mar. de 2011   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+15 de Mar. de 2011 1ª / 359 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+16 de Mar. de 2011 3ª / 359 Primer trámite constitucional / C. Diputados Discusión particular Ver
+16 de Mar. de 2011   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+22 de Mar. de 2011 4ª / 359 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7127-07","Fecha Etapa Informe Documento
+08 de Mar. de 2011 Primer trámite constitucional C.Diputados Segundo informe de comisión de Constitución, Legislación y Justicia Ver
+13 de Dic. de 2010 Primer trámite constitucional C.Diputados Nuevo primer informe de comisión de Constitución, Legislación y Justicia Ver
+18 de Ago. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7127-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7127-07","Nombre Región Distrito Partido
+Pedro Pablo Alvarez-Salamanca Ramírez VII Región del Maule N°38 Unión Demócrata Independiente
+Nino Baltolu Rasera XV Región Arica y Parinacota N°1 Unión Demócrata Independiente
+Alberto Cardemil Herrera RM Región Metropolitana N°22 Renovación Nacional
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Pablo Lorenzini Basso VII Región del Maule N°38 Partido Demócrata Cristiano
+Fernando Meza Moncada IX Región de la Araucanía N°52 Partido Radical Social Demócrata
+Manuel Monsalve Benavides VIII Región del Bío Bío N°46 Partido Socialista
+Ricardo Rincón González VI Región del Libertador Bernardo O' Higgins N°33 Partido Demócrata Cristiano
+Joaquín Tuma Zedan IX Región de la Araucanía N°51 Partido Por la Democracia
+Germán Verdugo Soto VII Región del Maule N°37 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7127-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+117   100 0 4 16 Aprobado Sala Ver detalle votación
+3 Texto del articulado propuesto por la Comisión, con excepción del inciso cuarto del artículo 10, que figura en el número 4 del artículo único del proyecto. 90 0 1 29 Aprobado Sala Ver detalle votación
+3 inciso cuarto del artículo 10, que figura en el número 4 del artículo único del proyecto. 89 2 0 29 Aprobado Sala Ver detalle votación
+34 Votación General 7 0 0 6   Constitución Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7127-07","No record","Veto emmEnd"

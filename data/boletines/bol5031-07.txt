@@ -1,0 +1,57 @@
+* * Bill summary * *
+"emmStart Summary 5031-07","Legislatura: 355
+Fecha de ingreso: martes 08 de mayo de 2007
+Estado: Tramitación terminada (Ley Nº 20.191 - D.Oficial 02/06/2007)
+Numero de boletín: 5031-07
+Materia: Responsabilidad Penal Juvenil,Adolescentes
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 06-11-2014 23:54:09
+* * Hitos de tramitación * *
+"emmStart Hitos 5031-07","Fecha Sesión Etapa Sub-etapa Documento
+08 de May. de 2007   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+08 de May. de 2007 15ª / 355 Primer trámite constitucional / Senado Cuenta del Mensaje 174-355 que hace presente la urgencia Discusión inmediata
+08 de May. de 2007 15ª / 355 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento. Se remite el proyecto a la Corte Suprema.
+08 de May. de 2007   Primer trámite constitucional / Senado Oficio Nº 327/SEC/07 a la Corte Suprema Ver
+09 de May. de 2007   Primer trámite constitucional / Senado Primer informe de comisión Ver
+09 de May. de 2007 18ª / 355 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+09 de May. de 2007 18ª / 355 Primer trámite constitucional / Senado Discusión general Ver
+09 de May. de 2007   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+10 de May. de 2007 25ª / 355 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver Ver
+10 de May. de 2007   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+15 de May. de 2007 26ª / 355 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 182-355 que retira y hace presente la urgencia Discusión inmediata Ver
+15 de May. de 2007 26ª / 355 Segundo trámite constitucional / C. Diputados Senado comunica que recibió fax de la Excma Corte Suprema con su opinión respecto del proyecto. (Oficio N° 377). Ver
+15 de May. de 2007 26ª / 355 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión. Informe de la Comisión de Constitución. Ver
+15 de May. de 2007 26ª / 355 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+15 de May. de 2007   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+15 de May. de 2007 19ª / 355 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+15 de May. de 2007   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+02 de Jun. de 2007 21ª / 355 Trámite finalización en Cámara de Origen / Senado Con fecha 2 de junio se promulgó este proyecto (Ley Nº 20.191), sin embargo, quedó pendiente la promulgación del Nº 2 del artículo único de esta ley, en espera del pronunciamiento del Tribunal Constitucional
+05 de Jun. de 2007 30ª / 355 Trámite finalización en Cámara de Origen / Senado Tribunal Constitucional pone en conocimiento de la Cámara de Diputados copia autorizada del requerimiento de inconstitucionalidad. (Oficio N° 1078).
+06 de Jun. de 2007 31ª / 355 Tramitación terminada / Tribunal Constitucional pone en conocimiento resolución. Rol N° 786-07-CTP. (Oficio N° 1104). Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5031-07","Fecha Etapa Informe Documento
+10 de May. de 2007 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+09 de May. de 2007 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5031-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+15 de May. de 2007   Discusión inmediata 182-355  
+08 de May. de 2007 15 de May. de 2007 Discusión inmediata 174-355 182-355","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5031-07","Nombre
+Ministerio de Justicia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5031-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+26   117 0 0 0 Aprobado Sala Ver detalle votación
+26 Supresión del número 2 del artículo único, por el que se modifica el artículo 19 de la ley N°20.084. 56 61 0 3 Rechazado Sala Ver detalle votación
+26 Indicación de Diputados Bustos, Araya, Leal, Ceroni y Accorsi, para agregar el siguiente artículo 5° transitorio, nuevo: ""Artículo 5°.- Durante el primer año de vigencia de esta ley, en todos los casos en que resulte procedente la aplicación de la sanción de internación en régimen semicerrado o, en su caso, cerrado, con programa de reinserción social, el juez podrá aplicar en su reemplazo y por el mismo tiempo de duración, la sanción de libertad asistida especial. Para estos efectos, el juez tendrá especialmente presente la oferta efectivamente disponible, el lugar de residencia habitual del adolescente y el mejor servicio a los propósitos de integración social de la medida."" 57 60 0 3 Rechazado Sala Ver detalle votación
+26 Supresión del encabezamiento y del número 1 del artículo 23 de la ley N°20.084. 57 60 0 3 Rechazado Sala Ver detalle votación
+26 Incorporación de un nuevo número 9 al artículo único, por el que se modifica el artículo 1° transitorio de la ley. 6 103 6 5 Rechazado Sala Ver detalle votación
+26 Número 2 del artículo único contemplado en el texto del Senado. 59 57 1 3 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5031-07","No record","Veto emmEnd"

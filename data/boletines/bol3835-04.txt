@@ -1,0 +1,50 @@
+* * Bill summary * *
+"emmStart Summary 3835-04","Legislatura: 352
+Fecha de ingreso: martes 12 de abril de 2005
+Estado: Tramitación terminada (Ley Nº 20.350 - D.Oficial 02/06/2009)
+Numero de boletín: 3835-04
+Materia: Monumentos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 17:58:23
+* * Hitos de tramitación * *
+"emmStart Hitos 3835-04","Fecha Sesión Etapa Sub-etapa Documento
+12 de Abr. de 2005   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Abr. de 2005 63ª / 352 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+16 de May. de 2008   Primer trámite constitucional / C. Diputados Oficio Nº 353/2008. Solicitud de traslado. Ver
+20 de May. de 2008 32ª / 356 Primer trámite constitucional / C. Diputados Comisión de Educación solicita que proyecto sea trasladado a la Comisión Permanete de la Cultura y las Artes. ACORDADO. Ver
+21 de Ene. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de Mar. de 2009 131ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+09 de Abr. de 2009 13ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+09 de Abr. de 2009   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+14 de Abr. de 2009 9ª / 357 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+12 de May. de 2009   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+13 de May. de 2009 17ª / 357 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+19 de May. de 2009 19ª / 357 Segundo trámite constitucional / Senado Discusión general Ver
+19 de May. de 2009   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+20 de May. de 2009 33ª / 357 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+20 de May. de 2009   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3835-04","Fecha Etapa Informe Documento
+12 de May. de 2009 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+21 de Ene. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de la Cultura y las Artes Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3835-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3835-04","Nombre Región Distrito Partido
+Sergio Correa De la Cerda VII Región del Maule N°36 Unión Demócrata Independiente
+Javier Hernández Hernández X Región de los Lagos N°55 Unión Demócrata Independiente
+Juan Masferrer Pellizzari VI Región del Libertador Bernardo O' Higgins N°34 Unión Demócrata Independiente
+Carlos Recondo Lavanderos X Región de los Lagos N°56 Unión Demócrata Independiente
+Manuel Rojas Molina II Región de Antofagasta N°4 Unión Demócrata Independiente
+Gastón Von Mühlenbrock Zamora X Región de los Lagos N°54 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3835-04","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+13   72 0 0 48 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3835-04","No record","Veto emmEnd"

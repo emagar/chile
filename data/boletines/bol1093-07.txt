@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 1093-07","Legislatura: 326
+Fecha de ingreso: martes 14 de septiembre de 1993
+Estado: Tramitación terminada (Ley Nº 19.266 - D.Oficial 22/11/1993)
+Numero de boletín: 1093-07
+Materia: Nacionalización
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 02:58:01
+* * Hitos de tramitación * *
+"emmStart Hitos 1093-07","Fecha Sesión Etapa Sub-etapa Documento
+14 de Sep. de 1993 25ª / 326 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía
+14 de Sep. de 1993   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+13 de Oct. de 1993 4ª / 327 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+13 de Oct. de 1993 4ª / 327 Primer trámite constitucional / Senado Primer informe de comisión Ver
+19 de Oct. de 1993 6ª / 327 Primer trámite constitucional / Senado Discusión general Ver
+20 de Oct. de 1993 6ª / 327 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+02 de Nov. de 1993 11ª / 327 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+02 de Nov. de 1993   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Nov. de 1993   Segundo trámite constitucional / C. Diputados Primer informe de comisión
+03 de Nov. de 1993 13ª / 327 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+03 de Nov. de 1993 13ª / 327 Segundo trámite constitucional / C. Diputados Discusión general Ver
+03 de Nov. de 1993   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+09 de Nov. de 1993 12ª / 327 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+09 de Nov. de 1993 12ª / 327 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1093-07","Fecha Etapa Informe Documento
+02 de Nov. de 1993 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver
+02 de Nov. de 1993 Segundo trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver
+13 de Oct. de 1993 Primer trámite constitucional Senado Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1093-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1093-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1093-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1093-07","No record","Veto emmEnd"

@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 2189-01","Legislatura: 338
+Fecha de ingreso: miércoles 17 de junio de 1998
+Estado: Tramitación terminada (Ley Nº 19.647 - D.Oficial 03/12/1999)
+Numero de boletín: 2189-01
+Materia: Reforma Agraria
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 21:51:56
+* * Hitos de tramitación * *
+"emmStart Hitos 2189-01","Fecha Sesión Etapa Sub-etapa Documento
+17 de Jun. de 1998   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+17 de Jun. de 1998 8ª / 338 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Agricultura
+16 de Jul. de 1998   Primer trámite constitucional / Senado Primer informe de comisión Ver
+05 de Ago. de 1998 18ª / 338 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Ago. de 1998 20ª / 338 Primer trámite constitucional / Senado Discusión general Ver
+17 de Ago. de 1998   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+18 de Ago. de 1998 28ª / 338 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+12 de May. de 1999   Segundo trámite constitucional / C. Diputados S.E. incluye el proy. en Legis. Extraordinaria (Mensaje 330-339)
+14 de Sep. de 1999   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Oct. de 1999 1ª / 341 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+05 de Oct. de 1999   Segundo trámite constitucional / C. Diputados S.E.El Presidente de la Republica incluye el proyecto en la Convocatoria Extraodinaria 341
+20 de Oct. de 1999 7ª / 341 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+20 de Oct. de 1999   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+04 de Nov. de 1999 8ª / 341 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+05 de Nov. de 1999   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2189-01","Fecha Etapa Informe Documento
+14 de Sep. de 1999 Segundo trámite constitucional C.Diputados Primer informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+16 de Jul. de 1998 Primer trámite constitucional Senado Primer informe de comisión de Agricultura Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2189-01","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2189-01","Nombre
+Rafael Moreno Rojas","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2189-01","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2189-01","No record","Veto emmEnd"

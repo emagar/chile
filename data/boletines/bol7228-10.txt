@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 7228-10","Legislatura: 358
+Fecha de ingreso: miércoles 06 de octubre de 2010
+Estado: Tramitación terminada (D.S. N° 125 - D.Oficial 23/01/2012)
+Numero de boletín: 7228-10
+Materia: Acuerdo Sobre Servicios Aéreos Chile-Brasil
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 09-11-2014 01:41:02
+* * Hitos de tramitación * *
+"emmStart Hitos 7228-10","Fecha Sesión Etapa Sub-etapa Documento
+06 de Oct. de 2010   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+06 de Oct. de 2010 58ª / 358 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+23 de Mar. de 2011   Primer trámite constitucional / Senado Primer informe de comisión Ver
+23 de Mar. de 2011 5ª / 359 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+05 de Abr. de 2011 6ª / 359 Primer trámite constitucional / Senado Discusión general Ver
+05 de Abr. de 2011   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+06 de Abr. de 2011 10ª / 359 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+10 de May. de 2011   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de May. de 2011 28ª / 359 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 194-359 que hace presente la urgencia Discusión inmediata Ver
+12 de May. de 2011 29ª / 359 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+12 de May. de 2011 29ª / 359 Segundo trámite constitucional / C. Diputados Discusión general Ver
+12 de May. de 2011   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+17 de May. de 2011 18ª / 359 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+17 de May. de 2011   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7228-10","Fecha Etapa Informe Documento
+10 de May. de 2011 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+23 de Mar. de 2011 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7228-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+11 de May. de 2011   Discusión inmediata 194-359  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7228-10","Nombre
+Ministerio de Relaciones Exteriores","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7228-10","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+29   76 0 0 44 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7228-10","No record","Veto emmEnd"

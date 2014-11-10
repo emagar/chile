@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 950-07","Legislatura: 325
+Fecha de ingreso: martes 30 de marzo de 1993
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 950-07
+Materia: Votación
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 01:07:35
+* * Hitos de tramitación * *
+"emmStart Hitos 950-07","Fecha Sesión Etapa Sub-etapa Documento
+30 de Mar. de 1993 37ª / 325 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+30 de Mar. de 1993   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+07 de Abr. de 1993 40ª / 325 Primer trámite constitucional / Senado Primer informe de comisión Ver
+04 de May. de 1993 47ª / 325 Primer trámite constitucional / Senado Discusión general Ver
+05 de May. de 1993 49ª / 325 Primer trámite constitucional / Senado Segundo informe de comisión Ver
+05 de May. de 1993   Primer trámite constitucional / Senado Boletín de indicaciones
+05 de May. de 1993 49ª / 325 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+05 de May. de 1993 49ª / 325 Primer trámite constitucional / Senado Discusión particular Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 950-07","Fecha Etapa Informe Documento
+05 de May. de 1993 Primer trámite constitucional Senado Segundo informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+07 de Abr. de 1993 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 950-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+07 de May. de 1997   Discusión inmediata 040597  
+20 de Abr. de 1993 21 de Abr. de 2019 Suma 200493 210493
+07 de Abr. de 1993 02 de Ene. de 2020 Suma 070493 200493
+30 de Mar. de 1993   Suma    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 950-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 950-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 950-07","No record","Veto emmEnd"

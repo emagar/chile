@@ -1,0 +1,33 @@
+* * Bill summary * *
+"emmStart Summary 1340-07","Legislatura: 329
+Fecha de ingreso: martes 30 de agosto de 1994
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 1340-07
+Materia: Congreso Nacional,Inadmisibilidad De Proyectos De Ley,Declaración De Inadmisibilidad
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 08:17:38
+* * Hitos de tramitación * *
+"emmStart Hitos 1340-07","Fecha Sesión Etapa Sub-etapa Documento
+30 de Ago. de 1994 26ª / 329 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+30 de Ago. de 1994   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+30 de Mar. de 1995   Primer trámite constitucional / Senado Primer informe de comisión Ver
+05 de Abr. de 1995 49ª / 330 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+11 de Abr. de 1995 51ª / 330 Primer trámite constitucional / Senado Discusión general. Rechazado Aprobado el Informe que rechaza el proyecto. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1340-07","Fecha Etapa Informe Documento
+30 de Mar. de 1995 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1340-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1340-07","Nombre
+Sebastian Piñera Echeñique","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1340-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1340-07","No record","Veto emmEnd"

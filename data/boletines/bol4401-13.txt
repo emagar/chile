@@ -1,0 +1,48 @@
+* * Bill summary * *
+"emmStart Summary 4401-13","Legislatura: 354
+Fecha de ingreso: martes 08 de agosto de 2006
+Estado: Tramitación terminada (Ley Nº 20.367 - D.Oficial 07/08/2009)
+Numero de boletín: 4401-13
+Materia: Adopcion,Menores
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 01:13:43
+* * Hitos de tramitación * *
+"emmStart Hitos 4401-13","Fecha Sesión Etapa Sub-etapa Documento
+08 de Ago. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+08 de Ago. de 2006 58ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+08 de Abr. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+29 de Abr. de 2008 21ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+06 de Nov. de 2008 97ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+06 de Nov. de 2008   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+11 de Nov. de 2008 67ª / 356 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social
+16 de Jun. de 2009   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+16 de Jun. de 2009 26ª / 357 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+07 de Jul. de 2009 31ª / 357 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 13/07/2009 Ver
+14 de Jul. de 2009 33ª / 357 Segundo trámite constitucional / Senado Al no haberse presentado indicaciones, el señor Presidente declara aprobado en particular este proyecto, de conformidad al artículo 120 del Reglamento del Senado, en los mismos términos que la Cámara de Diputados.
+14 de Jul. de 2009   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+14 de Jul. de 2009 54ª / 357 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+15 de Jul. de 2009   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4401-13","Fecha Etapa Informe Documento
+16 de Jun. de 2009 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver
+08 de Abr. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4401-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4401-13","Nombre Región Distrito Partido
+Cristián Monckeberg Bruner RM Región Metropolitana N°23 Renovación Nacional
+Nicolás Monckeberg Díaz VIII Región del Bío Bío N°42 Renovación Nacional
+Karla Rubilar Barahona RM Región Metropolitana N°17 Renovación Nacional
+Jorge Sabag Villalobos VIII Región del Bío Bío N°42 Partido Demócrata Cristiano
+Ximena Valcarce Becerra XV Región Arica y Parinacota N°1 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4401-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+97   62 0 0 58 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4401-13","No record","Veto emmEnd"

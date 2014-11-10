@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 606-13","Legislatura: 323
+Fecha de ingreso: martes 21 de enero de 1992
+Estado: Tramitación terminada (Ley Nº 19.214 - D.Oficial 06/05/1993)
+Numero de boletín: 606-13
+Materia: Centrales Sindicales,Capacitación Laboral
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 20:34:02
+* * Hitos de tramitación * *
+"emmStart Hitos 606-13","Fecha Sesión Etapa Sub-etapa Documento
+21 de Ene. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+21 de Ene. de 1992 45ª / 323 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+07 de Jul. de 1992 8ª / 324 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social y Hacienda
+09 de Oct. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+23 de Oct. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+03 de Nov. de 1992 7ª / 325 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Nov. de 1992 10ª / 325 Segundo trámite constitucional / Senado Discusión general. Queda pendiente Se acuerda volver el proyecto a la Comisión de Trabajo y Previsión Social a nuevo informe. Ver
+24 de Nov. de 1992   Segundo trámite constitucional / Senado Nuevo primer informe de comisión Ver
+09 de Dic. de 1992 15ª / 325 Segundo trámite constitucional / Senado Cuenta nuevo primer informe
+10 de Dic. de 1992 16ª / 325 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 16/12/1992 Ver
+21 de Dic. de 1992   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+22 de Dic. de 1992 19ª / 325 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+22 de Dic. de 1992 19ª / 325 Segundo trámite constitucional / Senado Discusión particular Ver
+29 de Dic. de 1992   Segundo trámite constitucional / Senado Oficio Nº3788. Oficio a la Cámara de Diputados comunicándole la aprobación del proyecto, con modificaciones. Ver
+12 de Ene. de 1993 22ª / 325 Comisión Mixta por rechazo de modificaciones / Senado Cuenta oficio rechazo a modificaciones
+14 de Ene. de 1993   Segundo trámite constitucional / Senado Oficio Nº3833. Oficio a la Cámara de Diputados comunicándole los nombres de los Senadores que integrarán la Comisión Mixta, que corresponden a los miembros de la Comisión de Trabajo y Previsión Social. Ver
+06 de Abr. de 1993 39ª / 325 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Cuenta oficio aprobación de informe de Comisión Mixta
+21 de Abr. de 1993 45ª / 325 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Discusión informe de Comisión Mixta
+21 de Abr. de 1993   Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Oficio Nº4188. Oficio a la Cámara de Diputados comunicándole la aprobación de la proposición de la Comisión Mixta. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 606-13","Fecha Etapa Informe Documento
+21 de Dic. de 1992 Segundo trámite constitucional Senado Segundo informe de comisión de Trabajo y Previsión Social Ver
+24 de Nov. de 1992 Segundo trámite constitucional Senado Nuevo primer informe de comisión de Trabajo y Previsión Social Ver
+23 de Oct. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+09 de Oct. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 606-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 606-13","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 606-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 606-13","No record","Veto emmEnd"

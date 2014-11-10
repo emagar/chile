@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 9-06","Legislatura: 319
+Fecha de ingreso: miércoles 21 de marzo de 1990
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 9-06
+Materia: Feriados
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 30-10-2014 12:52:34
+* * Hitos de tramitación * *
+"emmStart Hitos 9-06","Fecha Sesión Etapa Sub-etapa Documento
+21 de Mar. de 1990 3ª / 319 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+21 de Mar. de 1990   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+30 de Ago. de 1990 27ª / 320 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización
+05 de Jun. de 1991   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+06 de Jun. de 1991 3ª / 322 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Jun. de 1991 5ª / 322 Segundo trámite constitucional / Senado Discusión general Ver
+12 de Jun. de 1991 5ª / 351 Segundo trámite constitucional / Senado Queda para segunda discusíón. Ver
+13 de Jun. de 1991 6ª / 322 Segundo trámite constitucional / Senado Discusión general Ver
+20 de Ago. de 1991 29ª / 322 Segundo trámite constitucional / Senado Cuenta del informe de la Comisión. Queda para Tabla.
+22 de Ago. de 1991 32ª / 322 Segundo trámite constitucional / Senado Discusión general Ver
+22 de Ago. de 1991   Segundo trámite constitucional / Senado Oficio rechazo a Cámara de Origen Ver
+04 de Sep. de 1991 35ª / 322 Comisión Mixta por rechazo de modificaciones / Senado Cuenta oficio integrantes de Comisión Mixta
+05 de Ago. de 1992   Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / Senado Informe de comisión Ver
+05 de Ago. de 1992   Comisión Mixta por rechazo de modificaciones / Senado Informe de Comisión Mixta Ver
+20 de Ago. de 1992 20ª / 324 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Cuenta oficio aprobación de informe de Comisión Mixta
+01 de Sep. de 1992 21ª / 324 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Discusión informe de Comisión Mixta
+03 de Sep. de 1992   Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Oficio rechazo de informe de Comisión Mixta a C.de Origen Ver
+04 de Ene. de 2000 22ª / 341 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio rechazo de informe de Comisión Mixta Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9-06","Fecha Etapa Informe Documento
+05 de Ago. de 1992 Comisión Mixta por rechazo de modificaciones Senado Informe de Comisión Mixta de Gobierno, Descentralización y Regionalización Ver
+05 de Ago. de 1992 Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. Senado Informe de comisión de Gobierno, Descentralización y Regionalización Ver
+05 de Jun. de 1991 Segundo trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9-06","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9-06","No record","Veto emmEnd"

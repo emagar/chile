@@ -1,0 +1,34 @@
+* * Bill summary * *
+"emmStart Summary 1326-06","Legislatura: 329
+Fecha de ingreso: miércoles 17 de agosto de 1994
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 1326-06
+Materia: Indigenas
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 08:06:25
+* * Hitos de tramitación * *
+"emmStart Hitos 1326-06","Fecha Sesión Etapa Sub-etapa Documento
+17 de Ago. de 1994 24ª / 329 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización
+17 de Ago. de 1994   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+05 de Sep. de 1995 31ª / 331 Primer trámite constitucional / Senado Primer informe de comisión. Comunicación de los Senadores autores de la moción con la que señalan su intención de retirar el proyecto de tramitación. Se dispone el archivo de esta iniciativa.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1326-06","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1326-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+18 de Abr. de 1995   Simple 180495  
+14 de Mar. de 1995 18 de Abr. de 2019 Simple 140395 180495
+06 de Dic. de 1994   Simple 061294  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1326-06","Nombre
+Juan Hamilton Depassier
+Andrés Zaldívar Larraín","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1326-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1326-06","No record","Veto emmEnd"

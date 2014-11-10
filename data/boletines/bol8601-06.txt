@@ -1,0 +1,31 @@
+* * Bill summary * *
+"emmStart Summary 8601-06","Legislatura: 360
+Fecha de ingreso: martes 02 de octubre de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8601-06
+Materia: Votaciones Populares Y Escrutinios,Sistema De Elección De Diputados Y Senadores
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 03:32:09
+* * Hitos de tramitación * *
+"emmStart Hitos 8601-06","Fecha Sesión Etapa Sub-etapa Documento
+02 de Oct. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Oct. de 2012 82ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior y Regionalización Ver
+23 de Oct. de 2012 88ª / 360 Primer trámite constitucional / C. Diputados Oficio de la Comisión de Constitución, Legislación y Justicia, por el cual solicita el acuerdo de la Sala, para que le sea remitido el proyecto. Recahazado Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8601-06","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8601-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8601-06","Nombre Región Distrito Partido
+Pedro Browne Urrejola RM Región Metropolitana N°28 Renovación Nacional
+Cristián Monckeberg Bruner RM Región Metropolitana N°23 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8601-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8601-06","No record","Veto emmEnd"

@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 1062-10","Legislatura: 326
+Fecha de ingreso: martes 10 de agosto de 1993
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 1062-10
+Materia: Acuerdos Internacionales,Cumplimiento (Derecho)
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 02:33:34
+* * Hitos de tramitación * *
+"emmStart Hitos 1062-10","Fecha Sesión Etapa Sub-etapa Documento
+10 de Ago. de 1993   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+10 de Ago. de 1993   Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+11 de Ago. de 1993 17ª / 326 Primer trámite constitucional / Senado Primer informe de comisión Ver
+11 de Ago. de 1993 17ª / 326 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+11 de Ago. de 1993 17ª / 326 Primer trámite constitucional / Senado Discusión general Ver
+11 de Ago. de 1993 17ª / 326 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+17 de Ago. de 1993 28ª / 326 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+12 de Jun. de 1996   Tramitación terminada / se acoge la solicitud de S.E. el Presidente de la República a retirar del Congreso Nacional el proyecto de Acuerdo","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1062-10","Fecha Etapa Informe Documento
+11 de Ago. de 1993 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1062-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+10 de Ago. de 1993   Suma    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1062-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1062-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1062-10","No record","Veto emmEnd"

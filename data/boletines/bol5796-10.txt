@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 5796-10","Legislatura: 356
+Fecha de ingreso: martes 08 de abril de 2008
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 5796-10
+Materia: Tratado De Asistencia Judicial En Materia Penal
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 23:21:57
+* * Hitos de tramitación * *
+"emmStart Hitos 5796-10","Fecha Sesión Etapa Sub-etapa Documento
+08 de Abr. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+08 de Abr. de 2008 14ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+15 de Abr. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Abr. de 2008 20ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+03 de Jul. de 2008 47ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+03 de Jul. de 2008   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+08 de Jul. de 2008 34ª / 356 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores Ver
+11 de Ago. de 2009   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+12 de Ago. de 2009 41ª / 357 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+30 de Sep. de 2009 53ª / 357 Segundo trámite constitucional / Senado Discusión general. Queda Pendiente. El Comité Partido Renovación Nacional solicita segunda discusión para este proyecto. Ver
+06 de Oct. de 2009 54ª / 357 Segundo trámite constitucional / Senado Por acuerdo de Comités, ratificado por la Sala, se retira este proyecto de la Tabla. Ver
+19 de Jul. de 2011 35ª / 359 Segundo trámite constitucional / Senado Por acuerdo de los Comités, ratificado por la Sala, el proyecto será incorporado en el Orden del Día de la sesión del miércoles 22 de julio. Ver
+20 de Jul. de 2011 36ª / 359 Segundo trámite constitucional / Senado Discusión general Ver
+20 de Jul. de 2011   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+21 de Jul. de 2011 60ª / 359 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+21 de Jul. de 2011   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5796-10","Fecha Etapa Informe Documento
+11 de Ago. de 2009 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+15 de Abr. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5796-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5796-10","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5796-10","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+47   59 0 0 61 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5796-10","No record","Veto emmEnd"

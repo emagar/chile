@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 2603-05","Legislatura: 343
+Fecha de ingreso: martes 17 de octubre de 2000
+Estado: Archivado .
+Numero de boletín: 2603-05
+Materia: Operaciones De Crédito
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 06:50:14
+* * Hitos de tramitación * *
+"emmStart Hitos 2603-05","Fecha Sesión Etapa Sub-etapa Documento
+17 de Oct. de 2000 7ª / 343 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+17 de Oct. de 2000   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+14 de Mar. de 2001   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+20 de Mar. de 2001 45ª / 343 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+03 de Abr. de 2002 7ª / 346 Primer trámite constitucional / C. Diputados Discusión general. Se solicita nuevo informe (queda postergada la discusión) Ver Ver
+20 de Abr. de 2006   Archivado / Oficio Nº 6131. Se comunica acuerdo a S.E. la Presidenta de la República en orden a acceder al archivo del proyecto Ver
+20 de Abr. de 2006   Primer trámite constitucional / C. Diputados Archivado","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2603-05","Fecha Etapa Informe Documento
+14 de Mar. de 2001 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2603-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+06 de Mar. de 2001 10 de Abr. de 2001 Simple 298-343 396-343","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2603-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2603-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+7 Aplazamiento de la Discusión 35 17 2 3   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2603-05","No record","Veto emmEnd"

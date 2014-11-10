@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 6445-07","Legislatura: 357
+Fecha de ingreso: miércoles 08 de abril de 2009
+Estado: Primer trámite constitucional .
+Numero de boletín: 6445-07 Refundido con: 9631-07,2013-07,9539-07,2415-07
+Materia: Dirigentes Vecinales,Constitucion 1980,Reforma Constitucional,Candidatos,Dirigentes Gremiales Y Sindicales
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 07:42:04
+* * Hitos de tramitación * *
+"emmStart Hitos 6445-07","Fecha Sesión Etapa Sub-etapa Documento
+08 de Abr. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+08 de Abr. de 2009 11ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+08 de Oct. de 2014 77ª / 362 Primer trámite constitucional / C. Diputados Cuenta oficio de la Comisión de Constitución, Legislación y Justicia, por el cual se solicita el acuerdo para refundir las mociones contenidas en los boletines N°s 2013-07, 2415-07, 6445-07 y 9539-07, todos los cuales proponen reformas constitucionales para permitir a los dirigentes gremiales postular a elecciones parlamentarias. ACORDADO. Ver
+08 de Oct. de 2014   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Oct. de 2014 79ª / 362 Primer trámite constitucional / C. Diputados Cuenta oficio de la Comisión de Constitución, Legislación y Justicia, por el cual se solicita el acuerdo de la Sala para refundir la moción correspondiente al boletín N° 9631-07 con las contenidas en los boletines Nºs 2013-07, 2415-07, 6445-07 y 9539-07. ACORDADO. Ver
+21 de Oct. de 2014 83ª / 362 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión
+22 de Oct. de 2014 84ª / 362 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 689-362 que hace presente la urgencia Suma
+04 de Nov. de 2014 86ª / 362 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 785-362 que retira y hace presente la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6445-07","Fecha Etapa Informe Documento
+20 de Oct. de 2014 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6445-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Nov. de 2014   Simple 785-362  
+22 de Oct. de 2014 04 de Nov. de 2014 Suma 689-362 785-362","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6445-07","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+René Alinco Bustos XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Partido Por la Democracia
+Marco Enríquez-Ominami Gumucio V Región de Valparaíso N°10 Independientes
+Alvaro Escobar Rufatt RM Región Metropolitana N°20 Independientes
+Ramón Farías Ponce RM Región Metropolitana N°30 Partido Por la Democracia
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Tucapel Jiménez Fuentes RM Región Metropolitana N°27 Partido Por la Democracia
+Antonio Leal Labrín III Región de Atacama N°5 Partido Por la Democracia
+Denise Pascal Allende RM Región Metropolitana N°31 Partido Socialista
+Alejandro Sule Fernández VI Región del Libertador Bernardo O' Higgins N°33 Partido Radical Social Demócrata","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6445-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6445-07","No record","Veto emmEnd"

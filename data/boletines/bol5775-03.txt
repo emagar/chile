@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 5775-03","Legislatura: 356
+Fecha de ingreso: jueves 20 de marzo de 2008
+Estado: Primer trámite constitucional .
+Numero de boletín: 5775-03
+Materia: Consumidores
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 23:06:33
+* * Hitos de tramitación * *
+"emmStart Hitos 5775-03","Fecha Sesión Etapa Sub-etapa Documento
+20 de Mar. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de Mar. de 2008 9ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5775-03","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5775-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5775-03","Nombre Región Distrito Partido
+Gonzalo Arenas Hödar IX Región de la Araucanía N°48 Unión Demócrata Independiente
+Eugenio Bauer Jouanne VI Región del Libertador Bernardo O' Higgins N°33 Unión Demócrata Independiente
+Sergio Bobadilla Muñoz VIII Región del Bío Bío N°45 Unión Demócrata Independiente
+Julio Dittborn Cordúa RM Región Metropolitana N°23 Unión Demócrata Independiente
+Edmundo Eluchans Urenda V Región de Valparaíso N°15 Unión Demócrata Independiente
+Marcelo Forni Lobos V Región de Valparaíso N°11 Unión Demócrata Independiente
+Javier Hernández Hernández X Región de los Lagos N°55 Unión Demócrata Independiente
+Patricio Melero Abaroa RM Región Metropolitana N°16 Unión Demócrata Independiente
+Darío Paya Mira RM Región Metropolitana N°28 Unión Demócrata Independiente
+Marisol Turres Figueroa X Región de los Lagos N°57 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5775-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5775-03","No record","Veto emmEnd"

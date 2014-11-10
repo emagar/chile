@@ -1,0 +1,33 @@
+* * Bill summary * *
+"emmStart Summary 5430-06","Legislatura: 355
+Fecha de ingreso: martes 30 de octubre de 2007
+Estado: Primer trámite constitucional .
+Numero de boletín: 5430-06
+Materia: Concejales,Alcaldes,Municipios
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 04:33:04
+* * Hitos de tramitación * *
+"emmStart Hitos 5430-06","Fecha Sesión Etapa Sub-etapa Documento
+30 de Oct. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+30 de Oct. de 2007 93ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5430-06","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5430-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5430-06","Nombre Región Distrito Partido
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Juan Bustos Ramírez V Región de Valparaíso N°12 Partido Socialista
+Alberto Cardemil Herrera RM Región Metropolitana N°22 Independientes
+Guillermo Ceroni Fuentes VII Región del Maule N°40 Partido Por la Democracia
+Edmundo Eluchans Urenda V Región de Valparaíso N°15 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5430-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5430-06","No record","Veto emmEnd"

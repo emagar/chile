@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 1740-11","Legislatura: 332
+Fecha de ingreso: miércoles 08 de noviembre de 1995
+Estado: Tramitación terminada (Ley Nº 19.427 - D.Oficial 23/11/1995)
+Numero de boletín: 1740-11
+Materia: Ministerio De Salud,Funcionarios De La Salud
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 13:57:33
+* * Hitos de tramitación * *
+"emmStart Hitos 1740-11","Fecha Sesión Etapa Sub-etapa Documento
+08 de Nov. de 1995 14ª / 332 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver
+08 de Nov. de 1995   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+08 de Nov. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+09 de Nov. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Nov. de 1995 15ª / 332 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+09 de Nov. de 1995 15ª / 332 Primer trámite constitucional / C. Diputados Discusión general Ver
+09 de Nov. de 1995   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+14 de Nov. de 1995 13ª / 332 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Salud
+15 de Nov. de 1995   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+15 de Nov. de 1995   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+15 de Nov. de 1995 14ª / 332 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+15 de Nov. de 1995 14ª / 332 Segundo trámite constitucional / Senado Discusión general Ver
+15 de Nov. de 1995   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+16 de Nov. de 1995 18ª / 332 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+16 de Nov. de 1995 18ª / 332 Tercer trámite constitucional / C. Diputados Discusión única Ver
+16 de Nov. de 1995   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1740-11","Fecha Etapa Informe Documento
+15 de Nov. de 1995 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+15 de Nov. de 1995 Segundo trámite constitucional Senado Primer informe de comisión de Salud Ver
+09 de Nov. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+08 de Nov. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Salud Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1740-11","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+08 de Nov. de 1995   Discusión inmediata    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1740-11","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1740-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1740-11","No record","Veto emmEnd"

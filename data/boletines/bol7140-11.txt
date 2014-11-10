@@ -1,0 +1,71 @@
+* * Bill summary * *
+"emmStart Summary 7140-11","Legislatura: 358
+Fecha de ingreso: martes 17 de agosto de 2010
+Estado: Tramitación terminada (Ley Nº 20.498 - D.Oficial 17/02/2011)
+Numero de boletín: 7140-11
+Materia: Dedicación Exclusiva,Médicos
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 00:42:53
+* * Hitos de tramitación * *
+"emmStart Hitos 7140-11","Fecha Sesión Etapa Sub-etapa Documento
+17 de Ago. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+17 de Ago. de 2010 64ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver
+15 de Sep. de 2010 76ª / 358 Primer trámite constitucional / C. Diputados Cuenta Oficio de S.E. el Presidente de la República por el cual formula indicación al proyecto. Ver Ver
+28 de Sep. de 2010 79ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 338-358 que hace presente la urgencia Suma Ver
+13 de Oct. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+13 de Oct. de 2010 88ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 390-358 que retira y hace presente la urgencia Suma Ver
+26 de Oct. de 2010 90ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+28 de Oct. de 2010 92ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 4290-358 que retira y hace presente la urgencia Suma Ver
+02 de Nov. de 2010 93ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+03 de Nov. de 2010 94ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+03 de Nov. de 2010   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+09 de Nov. de 2010 65ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Salud
+10 de Nov. de 2010 66ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 471-358 que retira y hace presente la urgencia Suma
+30 de Nov. de 2010 70ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 495-358 que retira y hace presente la urgencia Suma
+30 de Nov. de 2010 70ª / 358 Segundo trámite constitucional / Senado Por acuerdo de los Comités, ratificado por la Sala, se autoriza a la Comisión para discutir el proyecto en general y en particular durante el primer informe.
+01 de Dic. de 2010   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+01 de Dic. de 2010 72ª / 358 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+07 de Dic. de 2010 73ª / 358 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 13/12/2010 Ver
+14 de Dic. de 2010 75ª / 358 Segundo trámite constitucional / Senado Discusión general Ver
+14 de Dic. de 2010   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+15 de Dic. de 2010 114ª / 358 Tercer trámite constitucional / C. Diputados Cuenta del Mensaje 570-358 que retira y hace presente la urgencia Suma Ver
+15 de Dic. de 2010 114ª / 358 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+20 de Dic. de 2010 117ª / 358 Tercer trámite constitucional / C. Diputados Discusión única Ver
+20 de Dic. de 2010   Tercer trámite constitucional / C. Diputados Oficio N° 9174, que comunica aprobacion de modificaciones Ver
+20 de Dic. de 2010   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+21 de Dic. de 2010 78ª / 358 Tercer trámite constitucional / C. Diputados Cuenta oficio N? 9174, que comunica aprobacion de modificaciones Ver
+06 de Ene. de 2011 123ª / 358 Trámite de aprobacion presidencial / C. Diputados Cuenta Oficio N° 638-358, de S. E. el Presidente de la República por el cual comunica que ha resuelto no hacer uso de la facultad que le confiere el inciso primero del artículo 73 de la Constitución Política de la República . Ver Ver
+06 de Ene. de 2011   Trámite en Tribunal Constitucional / C. Diputados Oficio al Tribunal Constitucional Ver
+24 de Ene. de 2011   Trámite en Tribunal Constitucional / C. Diputados Oficio N°9251. Oficio de ley al Ejecutivo Ver
+01 de Mar. de 2011 131ª / 358 Tramitación terminada / Cuenta oficio Nº 5458 del Tribunal Constitucional","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7140-11","Fecha Etapa Informe Documento
+01 de Dic. de 2010 Segundo trámite constitucional Senado Primer informe de comisión de Salud Ver
+13 de Oct. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Salud Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7140-11","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+15 de Dic. de 2010   Suma 570-358  
+30 de Nov. de 2010 15 de Dic. de 2010 Suma 495-358 570-358
+10 de Nov. de 2010 30 de Nov. de 2010 Suma 471-358 495-358
+28 de Oct. de 2010 10 de Nov. de 2010 Suma 4290-358 471-358
+13 de Oct. de 2010 28 de Oct. de 2010 Suma 390-358 4290-358
+28 de Sep. de 2010 13 de Oct. de 2010 Suma 338-358 390-358","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7140-11","Nombre Región Distrito Partido
+Ministerio de Salud      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7140-11","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+23 Votación General 8 0 0 5   Salud Ver detalle votación
+94 1° 59 23 3 35 Rechazado Sala Ver detalle votación
+94 2° permanente. 61 21 4 34 Aprobado Sala Ver detalle votación
+117 Modificacoines del Senado 98 2 2 18 Aprobado Sala Ver detalle votación
+94   61 22 3 34 Aprobado Sala Ver detalle votación
+94 primero transitorio. 58 25 4 33 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7140-11","No record","Veto emmEnd"

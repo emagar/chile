@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 358-08","Legislatura: 322
+Fecha de ingreso: martes 21 de mayo de 1991
+Estado: Tramitación terminada (Ley Nº 19.143 - D.Oficial 17/06/1992)
+Numero de boletín: 358-08
+Materia: Código De Minería
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 16:16:13
+* * Hitos de tramitación * *
+"emmStart Hitos 358-08","Fecha Sesión Etapa Sub-etapa Documento
+21 de May. de 1991 1ª / 322 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+21 de May. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+14 de Ene. de 1992 33ª / 323 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Minería y Energía y a Comisión de Hacienda
+03 de Abr. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+14 de Abr. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+28 de Abr. de 1992 53ª / 323 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión. de Minería y de Hacienda. Quedan para Tabla.
+28 de Abr. de 1992 53ª / 323 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 29/04/1992 Ver
+15 de May. de 1992   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+19 de May. de 1992 60ª / 323 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión. de Minería y Energía. Queda para Tabla.
+20 de May. de 1992 61ª / 323 Segundo trámite constitucional / Senado Discusión particular Ver
+27 de May. de 1992   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+27 de May. de 1992   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 358-08","Fecha Etapa Informe Documento
+15 de May. de 1992 Segundo trámite constitucional Senado Segundo informe de comisión de Minería y Energía Ver
+14 de Abr. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+03 de Abr. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Minería y Energía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 358-08","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 358-08","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 358-08","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 358-08","No record","Veto emmEnd"

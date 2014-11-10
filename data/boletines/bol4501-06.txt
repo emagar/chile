@@ -1,0 +1,48 @@
+* * Bill summary * *
+"emmStart Summary 4501-06","Legislatura: 354
+Fecha de ingreso: jueves 07 de septiembre de 2006
+Estado: Segundo trámite constitucional .
+Numero de boletín: 4501-06
+Materia: Dia De La Comuna Rural,Feriados
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 02:28:13
+* * Hitos de tramitación * *
+"emmStart Hitos 4501-06","Fecha Sesión Etapa Sub-etapa Documento
+07 de Sep. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+07 de Sep. de 2006 73ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+13 de Nov. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+14 de Nov. de 2006 97ª / 354 Primer trámite constitucional / C. Diputados Primer informe de la Comisión de Gobierno Interior. Ver Ver
+23 de Nov. de 2006 102ª / 354 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+23 de Nov. de 2006   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+05 de Dic. de 2006 73ª / 354 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización Ver
+04 de May. de 2010   Segundo trámite constitucional / Senado Oficio N°249/SEC/10. Solicita acuerdo de la Cámara de Diputados para proceder al archivo de la iniciativa. NO HAY ACUERDO.
+11 de May. de 2010 16ª / 358 Segundo trámite constitucional / Senado Cuenta Oficio Cámara de Diputados a solicitud para proceder al archivo de la iniciativa. NO HAY ACUERDO. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4501-06","Fecha Etapa Informe Documento
+13 de Nov. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4501-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4501-06","Nombre Región Distrito Partido
+Mario Bertolino Rendic IV Región de Coquimbo N°7 Renovación Nacional
+Alfonso De Urresti Longton XIV Región de los Ríos N°53 Partido Socialista
+Marcelo Díaz Díaz IV Región de Coquimbo N°7 Partido Socialista
+Marco Enríquez-Ominami Gumucio V Región de Valparaíso N°10 Independientes
+Marcelo Forni Lobos V Región de Valparaíso N°11 Unión Demócrata Independiente
+Carlos Abel Jarpa Wevar VIII Región del Bío Bío N°41 Partido Radical Social Demócrata
+Clemira Pacheco Rivas VIII Región del Bío Bío N°45 Partido Socialista
+Jaime Quintana Leal IX Región de la Araucanía N°49 Partido Por la Democracia
+Fulvio Rossi Ciocca I Región de Tarapacá N°2 Partido Socialista
+Gabriel Silber Romo RM Región Metropolitana N°16 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4501-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+102   76 0 1 0 Aprobado Sala Ver detalle votación
+23 Votación General 8 0 1 4   Gobierno Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4501-06","No record","Veto emmEnd"

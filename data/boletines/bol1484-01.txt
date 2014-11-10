@@ -1,0 +1,55 @@
+* * Bill summary * *
+"emmStart Summary 1484-01","Legislatura: 330
+Fecha de ingreso: martes 03 de enero de 1995
+Estado: Archivado .
+Numero de boletín: 1484-01
+Materia: Areas Silvestres Protegidas,Predios Rústicos
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 09:42:29
+* * Hitos de tramitación * *
+"emmStart Hitos 1484-01","Fecha Sesión Etapa Sub-etapa Documento
+03 de Ene. de 1995   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Ene. de 1995 31ª / 330 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+10 de May. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Jun. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+14 de Jun. de 1995 49ª / 330 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+20 de Jun. de 1995 10ª / 331 Primer trámite constitucional / C. Diputados Discusión general Ver
+08 de Nov. de 1995   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+14 de Nov. de 1995 16ª / 332 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+29 de Nov. de 1995 29ª / 332 Primer trámite constitucional / C. Diputados Discusión particular Ver
+29 de Nov. de 1995   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+05 de Dic. de 1995 21ª / 332 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Agricultura
+11 de Jul. de 2000   Segundo trámite constitucional / Senado Oficio Nº 132-342. de S.E. el Presidente de la República con el que solicita el archivo del proyecto. Ver
+12 de Jul. de 2000   Segundo trámite constitucional / Senado Cuenta de un Mensaje del P. de la R. solicitando el archivo del proyecto. Se accede previo acuerdo de la H. Cámara de Diputados.
+13 de Jul. de 2000   Segundo trámite constitucional / Senado Oficio Nº 16.396. a la Cámara de Diputados con el que se solicita su acuerdo para proceder al archivo del proyecto. Ver
+18 de Jul. de 2000 17ª / 342 Segundo trámite constitucional / Senado Cuenta en Cámara de Diputados de Oficio del Senado, solicitando acuerdo para archivo de proyecto.
+13 de Mar. de 2002   Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 346
+21 de May. de 2002   Segundo trámite constitucional / Senado Oficio Nº19.889. a la Cámara de Diputados en el que se reitera la solicitud de acuerdo para proceder al archivo del proyecto. Ver
+04 de Jun. de 2002 2ª / 347 Segundo trámite constitucional / Senado Cuenta Oficio del Senado, reitera solicitud de archivo de proyecto Ver
+04 de Jun. de 2002   Segundo trámite constitucional / Senado Oficio al Senado, comunica que accede a archivo solicitado Ver
+05 de Jun. de 2002 4ª / 347 Segundo trámite constitucional / Senado Archivado Cuenta oficio Cámara de Diputados, comunica que accedió al arvhivo solicitado.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1484-01","Fecha Etapa Informe Documento
+08 de Nov. de 1995 Primer trámite constitucional C.Diputados Segundo informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+09 de Jun. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Vivienda y Desarrollo Urbano Ver
+10 de May. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1484-01","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+    Simple 624-330  
+    Simple 624-330 624-330
+02 de May. de 1995 20 de May. de 1995 Simple 624-330 CADUCADO
+21 de Mar. de 1995 02 de May. de 1995 Simple 518-330 624-330
+21 de Mar. de 1995 02 de May. de 1995 Simple 518-330 624-330
+03 de Ene. de 1995   Sin urgencia 330-330  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1484-01","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1484-01","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1484-01","No record","Veto emmEnd"

@@ -1,0 +1,78 @@
+* * Bill summary * *
+"emmStart Summary 3264-09","Legislatura: 349
+Fecha de ingreso: miércoles 18 de junio de 2003
+Estado: Segundo trámite constitucional .
+Numero de boletín: 3264-09
+Materia: Aguas Lluvias
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 00:56:09
+* * Hitos de tramitación * *
+"emmStart Hitos 3264-09","Fecha Sesión Etapa Sub-etapa Documento
+18 de Jun. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+18 de Jun. de 2003 9ª / 349 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+05 de Ago. de 2003 24ª / 349 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 149-349 que hace presente la urgencia Simple Ver
+09 de Sep. de 2003 38ª / 349 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 242-249 que retira y hace presente la urgencia Suma Ver
+10 de Sep. de 2003 39ª / 349 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 250-350 que retira la urgencia Suma Ver
+27 de Nov. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+05 de Dic. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Dic. de 2003 29ª / 350 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+17 de Dic. de 2003 35ª / 350 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones. Ver Ver
+16 de Ene. de 2004   Primer trámite constitucional / C. Diputados Segundo informe de comisión. Pasa a Comisión de Hacienda Ver
+28 de Ene. de 2004   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+02 de Mar. de 2004 51ª / 350 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+16 de Mar. de 2004 59ª / 350 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver
+16 de Mar. de 2004   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+30 de Mar. de 2004 41ª / 350 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Obras Públicas
+13 de May. de 2004   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+18 de May. de 2004 58ª / 350 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+08 de Jun. de 2004 1ª / 351 Segundo trámite constitucional / Senado Queda pendiente la votación en general. Ver
+09 de Jun. de 2004 3ª / 351 Segundo trámite constitucional / Senado Discusión general Ver
+21 de Jun. de 2004   Segundo trámite constitucional / Senado Boletín de indicaciones
+22 de Jun. de 2004 6ª / 351 Segundo trámite constitucional / Senado Se acuerda abrir nuevo plazo para indicaciones hasta el 05.07.04.
+05 de Jul. de 2004   Segundo trámite constitucional / Senado Boletín de indicaciones
+06 de Jul. de 2004 8ª / 351 Segundo trámite constitucional / Senado Se acuerda nuevo plazo de indicaciones hasta el 12.07.04.
+12 de Jul. de 2004   Segundo trámite constitucional / Senado Boletín de indicaciones
+03 de Ago. de 2004 16ª / 351 Segundo trámite constitucional / Senado Cuenta del Mensaje 246-351 que retira la urgencia Simple
+14 de Sep. de 2004   Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 352
+04 de Ene. de 2005 23ª / 352 Segundo trámite constitucional / Senado Se acuerda abrir nuevo plazo de indicaciones hasta las 10:00 horas del 05/01/2005.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3264-09","Fecha Etapa Informe Documento
+13 de May. de 2004 Segundo trámite constitucional Senado Primer informe de comisión de Obras Públicas Ver
+28 de Ene. de 2004 Primer trámite constitucional C.Diputados Segundo informe de comisión de Hacienda Ver
+16 de Ene. de 2004 Primer trámite constitucional C.Diputados Segundo informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+05 de Dic. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+27 de Nov. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3264-09","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+13 de Jul. de 2004 03 de Ago. de 2004 Simple 187-351 246-351
+08 de Jun. de 2004 13 de Jul. de 2004 Simple 31-351 187-351
+04 de May. de 2004   Simple 667-350  
+02 de Mar. de 2004 04 de May. de 2004 Simple 486-350 667-350
+20 de Ene. de 2004 02 de Mar. de 2004 Suma 428-350 456-350
+06 de Ene. de 2004 20 de Ene. de 2004 Suma 387-350 428-350
+09 de Dic. de 2003 06 de Ene. de 2004 Suma 278-350 387-350
+09 de Sep. de 2003 10 de Sep. de 2003 Suma 242-249 250-350
+05 de Ago. de 2003 09 de Sep. de 2003 Simple 149-349 242-249","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3264-09","Nombre Región Distrito Partido
+Ministerio de Obras Públicas      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3264-09","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+35 Todo el articulado con excepción de los incisos decimotercero y decimocuarto del Nº2 del artículo 1º 71 32 0 1   Sala Ver detalle votación
+35 Incisos decimotercero y decimocuarto del Nº2 del artículo 1º 65 33 4 0   Sala Ver detalle votación
+59 artículo 1º, número 2, inciso tercero, con indicación de Comisión de Hacienda 83 0 4 1   Sala Ver detalle votación
+59 artículo 1º, número 2, inciso decimocuarto 73 0 15 1   Sala Ver detalle votación
+59 artículo 2º 79 0 3 1   Sala Ver detalle votación
+59 artículo 1º, número 2 inciso octavo, con indicación de Comisión de Hacienda 79 0 3 2   Sala Ver detalle votación
+59 artículo 1º, demás incisos del número 2 80 0 5 0   Sala Ver detalle votación
+59 artículo 1º, número 3 78 0 3 0   Sala Ver detalle votación
+59 artículo 1º, número 4 82 1 0 1   Sala Ver detalle votación
+59 artículo 1º, número 2, inciso decimoquinto 73 0 16 0   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3264-09","No record","Veto emmEnd"

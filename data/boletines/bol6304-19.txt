@@ -1,0 +1,53 @@
+* * Bill summary * *
+"emmStart Summary 6304-19","Legislatura: 356
+Fecha de ingreso: jueves 18 de diciembre de 2008
+Estado: Tramitación terminada (Ley Nº 20.476 - D.Oficial 10/12/2010)
+Numero de boletín: 6304-19 Refundido con: 6936-15,5919-15,5552-15,6270-19
+Materia: Zona Primaria De Servicio Público Telefónico Local,Fusión De Zonas Primarias,Valdivia (Chile)
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 05:15:28
+* * Hitos de tramitación * *
+"emmStart Hitos 6304-19","Fecha Sesión Etapa Sub-etapa Documento
+18 de Dic. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+18 de Dic. de 2008 118ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Ciencias y Tecnología Ver
+03 de Ago. de 2010 58ª / 358 Primer trámite constitucional / C. Diputados Comunicación de la Comisión de Ciencia y Tecnología por la cual solicita acuerdo de la Sala, para refundir proyectos, de conformidad a lo dispuesto en el artículo 17 A de la Ley Orgánica Constitucional del Congreso Nacional. Se acuerda refundir proyectos 6270-19; 6304-19, y 6936-19 Ver
+01 de Sep. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de Sep. de 2010 71ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+16 de Sep. de 2010 77ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+16 de Sep. de 2010   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+28 de Sep. de 2010 55ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones
+10 de Nov. de 2010   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+10 de Nov. de 2010 66ª / 358 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Nov. de 2010 66ª / 358 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 16/11/2010 Ver
+16 de Nov. de 2010 68ª / 358 Segundo trámite constitucional / Senado Discusión particular Ver
+16 de Nov. de 2010   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+17 de Nov. de 2010 104ª / 358 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+18 de Nov. de 2010   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6304-19","Fecha Etapa Informe Documento
+10 de Nov. de 2010 Segundo trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver
+01 de Sep. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Ciencias y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6304-19","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6304-19","Nombre Región Distrito Partido
+Claudio Alvarado Andrade X Región de los Lagos N°58 Unión Demócrata Independiente
+Gonzalo Arenas Hödar IX Región de la Araucanía N°48 Unión Demócrata Independiente
+Eugenio Bauer Jouanne VI Región del Libertador Bernardo O' Higgins N°33 Unión Demócrata Independiente
+Enrique Estay Peñaloza IX Región de la Araucanía N°49 Unión Demócrata Independiente
+Marcelo Forni Lobos V Región de Valparaíso N°11 Unión Demócrata Independiente
+Alejandro García-Huidobro Sanfuentes VI Región del Libertador Bernardo O' Higgins N°32 Unión Demócrata Independiente
+Javier Hernández Hernández X Región de los Lagos N°55 Unión Demócrata Independiente
+Marta Isasi Barbieri I Región de Tarapacá N°2 Independientes
+Juan Lobos Krause VIII Región del Bío Bío N°47 Unión Demócrata Independiente
+Marisol Turres Figueroa X Región de los Lagos N°57 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6304-19","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6304-19","No record","Veto emmEnd"

@@ -1,0 +1,57 @@
+* * Bill summary * *
+"emmStart Summary 513-07","Legislatura: 321
+Fecha de ingreso: lunes 07 de enero de 1991
+Estado: Archivado .
+Numero de boletín: 513-07
+Materia: Indigenas
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 18:50:36
+* * Hitos de tramitación * *
+"emmStart Hitos 513-07","Fecha Sesión Etapa Sub-etapa Documento
+07 de Ene. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+15 de Oct. de 1991 8ª / 323 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución. Ver
+07 de Ene. de 1992 38ª / 323 Primer trámite constitucional / C. Diputados Cambio en Providencia. Proyecto es remitido a Comisión Especial de Pueblos Indígenas Ver
+20 de May. de 1992   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Jun. de 1992 2ª / 324 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+09 de Jun. de 1992 6ª / 324 Primer trámite constitucional / C. Diputados Discusión general Ver
+09 de Jul. de 1997 17ª / 335 Archivado / A solicitud de SE. el Presidente de la República, se archiva el proyecto.
+18 de May. de 1999 66ª / 339 Primer trámite constitucional / C. Diputados A solicitud de SE. el Presidente de la República, se desarchiva el proyecto. Ver
+18 de May. de 1999 66ª / 339 Primer trámite constitucional / C. Diputados A solicitud de SE. el Presidente de la República, se desarchiva el proyecto. Ver
+12 de Jul. de 1999   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+17 de Ago. de 1999 31ª / 340 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+07 de Sep. de 1999 37ª / 340 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver
+14 de Sep. de 1999 40ª / 340 Primer trámite constitucional / C. Diputados Discusión general. Se acuerda su envío a Comisión DDHH para informe complementario. Ver Ver
+05 de Oct. de 1999   Primer trámite constitucional / C. Diputados S.E.El Presidente de la Republica incluye el proyecto en la Convocatoria Extraodinaria 341
+19 de Abr. de 2000   Primer trámite constitucional / C. Diputados Primer informe complementario Ver
+03 de May. de 2000 46ª / 341 Primer trámite constitucional / C. Diputados Cuenta primer informe complementario Ver
+04 de Oct. de 2000   Primer trámite constitucional / C. Diputados Oficio Nº654 de Comisión de Derechos Humanos. Solicita incluir proyecto en Tabla. Ver
+10 de Oct. de 2000 4ª / 343 Primer trámite constitucional / C. Diputados Cuenta Oficio Nº 654. Solicita inclusión proyecto en Tabla. Ver
+17 de Oct. de 2000 7ª / 343 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 513-07","Fecha Etapa Informe Documento
+19 de Abr. de 2000 Primer trámite constitucional C.Diputados Primer informe complementario de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+12 de Jul. de 1999 Primer trámite constitucional C.Diputados Segundo informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+20 de May. de 1992 Primer trámite constitucional C.Diputados Primer informe de comisión Comisión Especial Pueblos Indígenas Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 513-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+06 de Jun. de 2000   Simple 7-342  
+04 de Abr. de 2000   Simple 366-341  
+06 de Oct. de 1999   Simple 49-341  
+14 de Sep. de 1999   Simple 245-340  
+10 de Ago. de 1999 14 de Sep. de 1999 Simple 160-340 245-340
+07 de Jul. de 1999   Simple 15-340  
+07 de Jul. de 1999 10 de Ago. de 1999 Simple 77-340 160-340
+15 de Oct. de 1991   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 513-07","Nombre Región Distrito Partido
+Ministerio de Interior y Seguridad Públi      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 513-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 513-07","No record","Veto emmEnd"

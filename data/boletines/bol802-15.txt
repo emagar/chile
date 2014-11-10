@@ -1,0 +1,60 @@
+* * Bill summary * *
+"emmStart Summary 802-15","Legislatura: 324
+Fecha de ingreso: miércoles 16 de septiembre de 1992
+Estado: Segundo trámite constitucional .
+Numero de boletín: 802-15
+Materia: Vehículos De Pasajeros,Taxis
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 23:09:00
+* * Hitos de tramitación * *
+"emmStart Hitos 802-15","Fecha Sesión Etapa Sub-etapa Documento
+16 de Sep. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+16 de Sep. de 1992 43ª / 324 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+16 de Mar. de 1994   Primer trámite constitucional / C. Diputados S.E. el Presidente de la República incluye el Proyecto en la legilatura extraordinaria 328°.
+18 de Nov. de 1994   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Abr. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Abr. de 1995 57ª / 330 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de Abr. de 1995 58ª / 330 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+30 de Jul. de 1999   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+03 de Ago. de 1999 23ª / 340 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+03 de Ago. de 1999 23ª / 340 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver
+03 de Ago. de 1999   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+11 de Ago. de 1999 21ª / 340 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones
+03 de Ago. de 2000   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+01 de Sep. de 2000   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+12 de Sep. de 2000   Segundo trámite constitucional / Senado A petición de la Comisión de Transportes y Telecomunicaciones la Sala acuerda que el proyecto sea informado por la Comisión de Constitución, Legislación, Justicia y Reglamento sólo con ocasión del segundo informe.
+12 de Sep. de 2000 23ª / 342 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+03 de Oct. de 2000 1ª / 343 Segundo trámite constitucional / Senado Discusión general Ver
+18 de Mar. de 2003 33ª / 348 Tramitación terminada / Cuenta del Mensaje 476-348 que hace presente la urgencia Simple
+29 de Abr. de 2003 42ª / 348 Tramitación terminada / Cuenta del Mensaje 555-348 que retira la urgencia Simple
+29 de Abr. de 2003 42ª / 348 Tramitación terminada / Cuenta del Mensaje 555-348 que hace presente la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 802-15","Fecha Etapa Informe Documento
+01 de Sep. de 2000 Segundo trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver
+30 de Jul. de 1999 Primer trámite constitucional C.Diputados Segundo informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+11 de Abr. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+18 de Nov. de 1994 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 802-15","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+29 de Abr. de 2003   Simple 555-348  
+18 de Mar. de 2003 29 de Abr. de 2003 Simple 476-348 555-348","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 802-15","Nombre Región Distrito Partido
+Juan Antonio Coloma Correa Región N° Unión Demócrata Independiente
+Sergio Correa De la Cerda Región N° Unión Demócrata Independiente
+Cristián Leay Morán Región N° Unión Demócrata Independiente
+Pablo Longueira Montes Región N° Unión Demócrata Independiente
+Patricio Melero Abaroa Región N° Unión Demócrata Independiente
+Jaime Orpis Bouchon Región N° Unión Demócrata Independiente
+Víctor Pérez Varela Región N° Unión Demócrata Independiente
+Carlos Recondo Lavanderos Región N° Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 802-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 802-15","No record","Veto emmEnd"

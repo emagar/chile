@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 8571-07","Legislatura: 360
+Fecha de ingreso: jueves 06 de septiembre de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8571-07
+Materia: Código Procesal Penal,Recurso De Apelación
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 03:10:28
+* * Hitos de tramitación * *
+"emmStart Hitos 8571-07","Fecha Sesión Etapa Sub-etapa Documento
+06 de Sep. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Sep. de 2012 77ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+23 de Abr. de 2014   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+06 de May. de 2014 20ª / 362 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+05 de Jun. de 2014 30ª / 362 Primer trámite constitucional / C. Diputados Discusión general. Queda pendiente . Ver
+10 de Jul. de 2014 45ª / 362 Primer trámite constitucional / C. Diputados Discusión general Ver
+10 de Jul. de 2014   Primer trámite constitucional / C. Diputados Oficio N° 11.378. Oficio al Archivo. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8571-07","Fecha Etapa Informe Documento
+23 de Abr. de 2014 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8571-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8571-07","Nombre Región Distrito Partido
+Pedro Araya Guerrero II Región de Antofagasta N°4 Partido Regionalista Independiente
+Giovanni Calderón Bassi III Región de Atacama N°6 Unión Demócrata Independiente
+Alberto Cardemil Herrera RM Región Metropolitana N°22 Renovación Nacional
+Edmundo Eluchans Urenda V Región de Valparaíso N°14 Unión Demócrata Independiente
+Felipe Harboe Bascuñán RM Región Metropolitana N°22 Partido Por la Democracia
+Cristian Letelier Aguilar RM Región Metropolitana N°31 Independientes
+Cristián Monckeberg Bruner RM Región Metropolitana N°23 Renovación Nacional
+René Saffirio Espinoza IX Región de la Araucanía N°50 Partido Demócrata Cristiano
+Arturo Squella Ovalle V Región de Valparaíso N°12 Unión Demócrata Independiente
+Marisol Turres Figueroa X Región de los Lagos N°57 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8571-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+45   31 48 6 0 Rechazado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8571-07","No record","Veto emmEnd"

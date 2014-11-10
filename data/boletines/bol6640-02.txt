@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 6640-02","Legislatura: 357
+Fecha de ingreso: miércoles 05 de agosto de 2009
+Estado: Primer trámite constitucional .
+Numero de boletín: 6640-02
+Materia: Estado Mayor Conjunto
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 08-11-2014 14:35:14
+* * Hitos de tramitación * *
+"emmStart Hitos 6640-02","Fecha Sesión Etapa Sub-etapa Documento
+05 de Ago. de 2009   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+05 de Ago. de 2009 39ª / 357 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Defensa Nacional
+11 de Ago. de 2009 40ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 926-357 que hace presente la urgencia Suma
+18 de Ago. de 2009   Primer trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento Ver
+18 de Ago. de 2009 42ª / 357 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+01 de Sep. de 2009 44ª / 357 Primer trámite constitucional / Senado Por acuerdo de Comités, ratificado por la Sala, se retira este asunto de la Tabla, enviándolo a la Comisión de Constitución, Legislación, Justicia y Reglamento. Ver
+01 de Sep. de 2009 44ª / 357 Primer trámite constitucional / Senado Por acuerdo de Comités, ratificado por la Sala, se retira este asunto de la Tabla, enviándolo a la Comisión de Constitución, Legislación, Justicia y Reglamento. Ver
+01 de Sep. de 2009 44ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 1007-357 que retira la urgencia Suma
+01 de Sep. de 2009 44ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 1007-357 que retira la urgencia Suma","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6640-02","Fecha Etapa Informe Documento
+18 de Ago. de 2009 Primer trámite constitucional Senado Primer informe de comisión de Defensa Nacional Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6640-02","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+11 de Ago. de 2009 01 de Sep. de 2009 Suma 926-357 1007-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6640-02","Nombre
+Ministerio de Defensa Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6640-02","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6640-02","No record","Veto emmEnd"

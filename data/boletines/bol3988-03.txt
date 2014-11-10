@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 3988-03","Legislatura: 353
+Fecha de ingreso: martes 13 de septiembre de 2005
+Estado: Segundo trámite constitucional .
+Numero de boletín: 3988-03 Refundido con: 4597-03,3817-03
+Materia: Cobros Indebidos,Tarjetas De Crédito,Facturas,Servicios Publicos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 07:36:24
+* * Hitos de tramitación * *
+"emmStart Hitos 3988-03","Fecha Sesión Etapa Sub-etapa Documento
+13 de Sep. de 2005   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Sep. de 2005 44ª / 353 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+25 de May. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Jun. de 2007 30ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+19 de Jul. de 2007 55ª / 355 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+09 de Oct. de 2007   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+09 de Oct. de 2007 86ª / 355 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+11 de Jun. de 2008 38ª / 356 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver
+11 de Jun. de 2008   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+17 de Jun. de 2008 27ª / 356 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Economía Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3988-03","Fecha Etapa Informe Documento
+09 de Oct. de 2007 Primer trámite constitucional C.Diputados Segundo informe de comisión de Economía, Fomento y Desarrollo Ver
+25 de May. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3988-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3988-03","Nombre Región Distrito Partido
+Francisco Encina Moriamez IV Región de Coquimbo N°8 Partido Socialista
+Carlos Ignacio Kuschel Silva X Región de los Lagos N°57 Renovación Nacional
+Antonio Leal Labrín III Región de Atacama N°5 Partido Por la Democracia
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+Pedro Muñoz Aburto XII Región de Magallanes y de la Antártica Chilena N°60 Partido Socialista
+José Miguel Ortiz Novoa VIII Región del Bío Bío N°44 Partido Demócrata Cristiano
+Eduardo Saffirio Suárez IX Región de la Araucanía N°50 Partido Demócrata Cristiano
+Exequiel Silva Ortíz X Región de los Lagos N°53 Partido Demócrata Cristiano
+Eugenio Tuma Zedan IX Región de la Araucanía N°51 Partido Por la Democracia
+Alfonso Vargas Lyng V Región de Valparaíso N°10 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3988-03","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+31 Votación General 9 0 0 4   Economía Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3988-03","No record","Veto emmEnd"

@@ -1,0 +1,52 @@
+* * Bill summary * *
+"emmStart Summary 4197-07","Legislatura: 354
+Fecha de ingreso: martes 09 de mayo de 2006
+Estado: Tramitación terminada (Ley Nº 20.110 - D.Oficial 01/06/2006)
+Numero de boletín: 4197-07
+Materia: Responsabilidad Penal Juvenil
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 05-11-2014 22:49:13
+* * Hitos de tramitación * *
+"emmStart Hitos 4197-07","Fecha Sesión Etapa Sub-etapa Documento
+09 de May. de 2006   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+09 de May. de 2006 13ª / 354 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento. Se remite el proyecto a la Corte Suprema.
+09 de May. de 2006   Primer trámite constitucional / Senado Oficio Nº a la Corte Suprema Ver
+09 de May. de 2006 13ª / 354 Tramitación terminada / Cuenta del Mensaje 104-354 que hace presente la urgencia Suma Ver
+10 de May. de 2006   Primer trámite constitucional / Senado Primer informe de comisión Ver
+10 de May. de 2006 15ª / 354 Tramitación terminada / Cuenta del Mensaje 106-354 que retira y hace presente la urgencia Discusión inmediata Ver
+10 de May. de 2006 15ª / 354 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de May. de 2006   Primer trámite constitucional / Senado Oficio Nº 26888 a la Corte Suprema Ver
+16 de May. de 2006 16ª / 354 Primer trámite constitucional / Senado Discusión general Ver
+16 de May. de 2006 16ª / 354 Primer trámite constitucional / Senado Cuenta oficio Nº 47 de la Corte Suprema Ver
+16 de May. de 2006 16ª / 354 Primer trámite constitucional / Senado Cuenta del Mensaje 114-354 que retira y hace presente la urgencia Discusión inmediata Ver
+16 de May. de 2006   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+17 de May. de 2006 27ª / 354 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver Ver
+17 de May. de 2006   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de May. de 2006 29ª / 354 Segundo trámite constitucional / C. Diputados Certificado de la Comisión de Constitución en proyecto con discusión inmediata. Ver
+18 de May. de 2006 29ª / 354 Segundo trámite constitucional / C. Diputados Discusión única Ver
+18 de May. de 2006   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+18 de May. de 2006   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+06 de Jun. de 2006 19ª / 354 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4197-07","Fecha Etapa Informe Documento
+17 de May. de 2006 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+10 de May. de 2006 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4197-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+16 de May. de 2006   Discusión inmediata 114-354  
+10 de May. de 2006 15 de May. de 2006 Discusión inmediata 106-354 114-354
+09 de May. de 2006 10 de May. de 2006 Suma 104-354 106-354","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4197-07","Nombre
+Ministerio de Justicia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4197-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+29   55 29 7 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4197-07","No record","Veto emmEnd"

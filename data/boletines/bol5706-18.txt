@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 5706-18","Legislatura: 355
+Fecha de ingreso: martes 15 de enero de 2008
+Estado: Segundo trámite constitucional .
+Numero de boletín: 5706-18 Refundido con: 5812-18
+Materia: Reconocimiento De Paternidad,Filiación
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 22:19:36
+* * Hitos de tramitación * *
+"emmStart Hitos 5706-18","Fecha Sesión Etapa Sub-etapa Documento
+15 de Ene. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+15 de Ene. de 2008 130ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Familia Ver
+23 de Jun. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+01 de Jul. de 2008 45ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Jul. de 2008 52ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+14 de Jul. de 2008   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+15 de Jul. de 2008 36ª / 356 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+21 de Nov. de 2008   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+03 de Dic. de 2008 76ª / 356 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+07 de Ene. de 2009 83ª / 356 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 09/03/2009 Ver
+09 de Mar. de 2009   Segundo trámite constitucional / Senado Boletín de indicaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5706-18","Fecha Etapa Informe Documento
+21 de Nov. de 2008 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+23 de Jun. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Familia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5706-18","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5706-18","Nombre Región Distrito Partido
+Isabel Allende Bussi RM Región Metropolitana N°29 Partido Socialista
+Ramón Barros Montero VI Región del Libertador Bernardo O' Higgins N°35 Unión Demócrata Independiente
+Maximiano Errázuriz Eguiguren RM Región Metropolitana N°29 Independientes
+Fulvio Rossi Ciocca I Región de Tarapacá N°2 Partido Socialista","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5706-18","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+52   77 0 1 0 Aprobado Sala Ver detalle votación
+67 Votación General 6 0 0 7   Familia Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5706-18","No record","Veto emmEnd"

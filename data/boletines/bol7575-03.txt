@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 7575-03","Legislatura: 359
+Fecha de ingreso: miércoles 06 de abril de 2011
+Estado: Tramitación terminada (Ley Nº 20.576 - D.Oficial 06/03/2012)
+Numero de boletín: 7575-03
+Materia: Recursos Pesqueros,Región De Los Ríos (Chile) 14,Explotación Artesanal De Recursos Pesqueros
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 09-11-2014 05:41:21
+* * Hitos de tramitación * *
+"emmStart Hitos 7575-03","Fecha Sesión Etapa Sub-etapa Documento
+06 de Abr. de 2011   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+06 de Abr. de 2011 7ª / 359 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Intereses Marítimos, Pesca y Acuicultura
+09 de Ago. de 2011   Primer trámite constitucional / Senado Primer informe de comisión Ver
+10 de Ago. de 2011 42ª / 359 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+16 de Ago. de 2011 44ª / 359 Primer trámite constitucional / Senado Discusión general Ver
+06 de Sep. de 2011 49ª / 359 Primer trámite constitucional / Senado Discusión general Ver
+06 de Sep. de 2011   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+07 de Sep. de 2011 80ª / 359 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Pesca, Acuicultura e Intereses Marítimos Ver
+28 de Dic. de 2011   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de Ene. de 2012 126ª / 359 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+11 de Ene. de 2012 130ª / 359 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 545-359 que hace presente la urgencia Suma Ver
+11 de Ene. de 2012 130ª / 359 Segundo trámite constitucional / C. Diputados Discusión general Ver
+18 de Ene. de 2012 134ª / 359 Segundo trámite constitucional / C. Diputados Discusión general Ver
+18 de Ene. de 2012   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+20 de Ene. de 2012   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+31 de Ene. de 2012 94ª / 359 Trámite de aprobacion presidencial / Senado Cuenta del Mensaje 601-359 que retira la urgencias por receso legislativo
+31 de Ene. de 2012 92ª / 359 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7575-03","Fecha Etapa Informe Documento
+28 de Dic. de 2011 Segundo trámite constitucional C.Diputados Primer informe de comisión de Pesca, Acuicultura e Intereses Marítimos Ver
+09 de Ago. de 2011 Primer trámite constitucional Senado Primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7575-03","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+11 de Ene. de 2012 31 de Ene. de 2012 Suma 545-359 601-359","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7575-03","Nombre
+Carlos Larrain Peña
+Baldo Prokurica Prokurica","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7575-03","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+134   93 4 3 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7575-03","No record","Veto emmEnd"

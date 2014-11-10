@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 2129-15","Legislatura: 336
+Fecha de ingreso: viernes 09 de enero de 1998
+Estado: Tramitación terminada (Ley Nº 19.552 - D.Oficial 10/02/1998)
+Numero de boletín: 2129-15
+Materia: Conductor,Transporte,Desempeño Simultáneo De Conducir Y Cobrar
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 21:17:57
+* * Hitos de tramitación * *
+"emmStart Hitos 2129-15","Fecha Sesión Etapa Sub-etapa Documento
+09 de Ene. de 1998   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+13 de Ene. de 1998 26ª / 336 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones
+14 de Ene. de 1998   Primer trámite constitucional / Senado Primer informe de comisión Ver
+14 de Ene. de 1998 28ª / 336 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+14 de Ene. de 1998 28ª / 336 Primer trámite constitucional / Senado Discusión general Ver
+14 de Ene. de 1998   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+20 de Ene. de 1998 27ª / 336 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+20 de Ene. de 1998   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+20 de Ene. de 1998 28ª / 336 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+20 de Ene. de 1998 28ª / 336 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+20 de Ene. de 1998   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+21 de Ene. de 1998 31ª / 336 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+21 de Ene. de 1998   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2129-15","Fecha Etapa Informe Documento
+20 de Ene. de 1998 Segundo trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+14 de Ene. de 1998 Primer trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2129-15","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+20 de Ene. de 1998 16 de Sep. de 1998 Discusión inmediata 214-336 CADUCADO
+13 de Ene. de 1998 20 de Ene. de 1998 Discusión inmediata 206-336 214-336","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2129-15","Nombre
+Ministerio de Transporte y Telecomunicaciones","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2129-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2129-15","No record","Veto emmEnd"

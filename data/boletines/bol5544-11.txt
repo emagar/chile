@@ -1,0 +1,39 @@
+* * Bill summary * *
+"emmStart Summary 5544-11","Legislatura: 355
+Fecha de ingreso: jueves 06 de diciembre de 2007
+Estado: Archivado .
+Numero de boletín: 5544-11
+Materia: Código Penal,Médicos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 05:56:41
+* * Hitos de tramitación * *
+"emmStart Hitos 5544-11","Fecha Sesión Etapa Sub-etapa Documento
+06 de Dic. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Dic. de 2007 113ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver
+07 de May. de 2010   Primer trámite constitucional / C. Diputados Archivado Comisión Salud remite al archivo (dos años sin trámite)","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5544-11","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5544-11","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5544-11","Nombre Región Distrito Partido
+Guido Girardi Briere RM Región Metropolitana N°18 Partido Por la Democracia
+Juan Lobos Krause VIII Región del Bío Bío N°47 Unión Demócrata Independiente
+Fernando Meza Moncada IX Región de la Araucanía N°52 Partido Radical Social Demócrata
+Manuel Monsalve Benavides VIII Región del Bío Bío N°46 Partido Socialista
+Marco Antonio Núñez Lozano V Región de Valparaíso N°11 Partido Por la Democracia
+Carlos Olivares Zepeda RM Región Metropolitana N°18 Partido Regionalista Independiente
+Alberto Robles Pantoja III Región de Atacama N°6 Partido Radical Social Demócrata
+Fulvio Rossi Ciocca I Región de Tarapacá N°2 Partido Socialista
+Karla Rubilar Barahona RM Región Metropolitana N°17 Renovación Nacional
+Roberto Sepúlveda Hermosilla RM Región Metropolitana N°20 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5544-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5544-11","No record","Veto emmEnd"

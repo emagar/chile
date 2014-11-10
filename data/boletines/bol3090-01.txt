@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 3090-01","Legislatura: 348
+Fecha de ingreso: miércoles 09 de octubre de 2002
+Estado: Archivado .
+Numero de boletín: 3090-01
+Materia: Indigenas
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 23:02:55
+* * Hitos de tramitación * *
+"emmStart Hitos 3090-01","Fecha Sesión Etapa Sub-etapa Documento
+09 de Oct. de 2002   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+09 de Oct. de 2002 5ª / 348 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+17 de Ago. de 2004   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+31 de Ago. de 2004 35ª / 351 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+08 de Sep. de 2004 39ª / 351 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+14 de Sep. de 2004   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+15 de Sep. de 2004 44ª / 351 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión. de Agricultura, Silvicultura y Desarrollo Rural Ver
+03 de Nov. de 2004 13ª / 352 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver
+09 de Jun. de 2010   Primer trámite constitucional / C. Diputados Archivado Constitución remite al archivo proyecto por no tener tramitación por más de dos años.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3090-01","Fecha Etapa Informe Documento
+14 de Sep. de 2004 Primer trámite constitucional C.Diputados Segundo informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+17 de Ago. de 2004 Primer trámite constitucional C.Diputados Primer informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3090-01","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3090-01","Nombre Región Distrito Partido
+Fernando Meza Moncada IX Región de la Araucanía N°52 Partido Radical Social Demócrata
+Exequiel Silva Ortíz X Región de los Lagos N°53 Partido Demócrata Cristiano
+Eugenio Tuma Zedan IX Región de la Araucanía N°51 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3090-01","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+39   74 5 8 1 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3090-01","No record","Veto emmEnd"

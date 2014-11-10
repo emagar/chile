@@ -1,0 +1,60 @@
+* * Bill summary * *
+"emmStart Summary 7990-13","Legislatura: 359
+Fecha de ingreso: miércoles 02 de noviembre de 2011
+Estado: Tramitación terminada (Ley Nº 20.769 - D.Oficial 20/09/2014)
+Numero de boletín: 7990-13 Refundido con: 8372-13
+Materia: Código Del Trabajo,Examen Médico,Trabajadoras,Mamografía,Permisos (Trabajo)
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 14:07:57
+* * Hitos de tramitación * *
+"emmStart Hitos 7990-13","Fecha Sesión Etapa Sub-etapa Documento
+02 de Nov. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Nov. de 2011 102ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+07 de Ago. de 2012   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+13 de Ago. de 2012 70ª / 360 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+29 de Ago. de 2012 73ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+02 de Oct. de 2012   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+04 de Oct. de 2012 85ª / 360 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+11 de Oct. de 2012 89ª / 360 Primer trámite constitucional / C. Diputados Discusión particular Ver
+11 de Oct. de 2012   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+16 de Oct. de 2012 55ª / 360 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social
+03 de Jul. de 2014   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+08 de Jul. de 2014 29ª / 362 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+22 de Jul. de 2014 33ª / 362 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 04/08/2014 a las 12:00 horas en Secretaría Ver
+05 de Ago. de 2014 35ª / 362 Segundo trámite constitucional / Senado Discusión general. Aprobado en general y particular con modificaciones De conformidad al artículo 120 del Reglamento, al no haberse presentado indicaciones al proyecto, éste se da por aprobado también en particular. Ver
+05 de Ago. de 2014   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+06 de Ago. de 2014 52ª / 362 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+12 de Ago. de 2014 54ª / 362 Tercer trámite constitucional / C. Diputados Discusión única. Aprobadas las modificaciones Ver
+12 de Ago. de 2014   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo. Ver
+13 de Ago. de 2014 38ª / 362 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 11.413, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7990-13","Fecha Etapa Informe Documento
+08 de Jul. de 2014 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver
+02 de Oct. de 2012 Primer trámite constitucional C.Diputados Segundo informe de comisión de Trabajo y Seguridad Social Ver
+07 de Ago. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7990-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7990-13","Nombre Región Distrito Partido
+Osvaldo Andrade Lara RM Región Metropolitana N°29 Partido Socialista
+Cristina Girardi Lavín RM Región Metropolitana N°18 Partido Por la Democracia
+María José Hoffmann Opazo V Región de Valparaíso N°15 Unión Demócrata Independiente
+Andrea Molina Oliva V Región de Valparaíso N°10 Unión Demócrata Independiente
+Adriana Muñoz D'Albora IV Región de Coquimbo N°9 Partido Por la Democracia
+Denise Pascal Allende RM Región Metropolitana N°31 Partido Socialista
+Karla Rubilar Barahona RM Región Metropolitana N°17 Renovación Nacional
+Marcela Sabat Fernández RM Región Metropolitana N°21 Renovación Nacional
+Ximena Vidal Lázaro RM Región Metropolitana N°25 Partido Por la Democracia
+Mónica Zalaquett Said RM Región Metropolitana N°20 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7990-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+89   65 0 0 55 Aprobado Sala Ver detalle votación
+73   80 0 1 39 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7990-13","No record","Veto emmEnd"

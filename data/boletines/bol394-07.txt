@@ -1,0 +1,52 @@
+* * Bill summary * *
+"emmStart Summary 394-07","Legislatura: 322
+Fecha de ingreso: jueves 20 de junio de 1991
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 394-07
+Materia: Ministros De Corte
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 16:42:34
+* * Hitos de tramitación * *
+"emmStart Hitos 394-07","Fecha Sesión Etapa Sub-etapa Documento
+20 de Jun. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de Jun. de 1991 11ª / 322 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+25 de Jun. de 1991   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+03 de Jul. de 1991 14ª / 322 Primer trámite constitucional / C. Diputados Cuenta oficio 4146 de la Corte Suprema Ver
+09 de Jul. de 1991   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Jul. de 1991 16ª / 322 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+10 de Jul. de 1991   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora
+10 de Jul. de 1991 17ª / 322 Primer trámite constitucional / C. Diputados Discusión general Ver
+16 de Jul. de 1991 18ª / 322 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+23 de Jul. de 1991   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+24 de Jul. de 1991   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+24 de Jul. de 1991   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen
+24 de Jul. de 1991 21ª / 322 Segundo trámite constitucional / Senado Discusión general Ver
+24 de Jul. de 1991 21ª / 322 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+24 de Jul. de 1991   Tramitación terminada / Oficio Nº1378. comunica aprobación con modificaciones a Cámara de origen Ver
+25 de Jul. de 1991 25ª / 322 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+25 de Jul. de 1991 25ª / 322 Tercer trámite constitucional / C. Diputados Discusión única Ver
+25 de Jul. de 1991   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+06 de Ago. de 1991   Trámite en Tribunal Constitucional / C. Diputados Oficio al Tribunal Constitucional Ver
+09 de Sep. de 1991   Trámite en Tribunal Constitucional / C. Diputados Ingreso fallo del Tribunal Constitucional Ver
+12 de Sep. de 1991 40ª / 322 Trámite en Tribunal Constitucional / C. Diputados Cuenta fallo del Tribunal Constitucional. Proyecto declarado inconstitucional Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 394-07","Fecha Etapa Informe Documento
+24 de Jul. de 1991 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+23 de Jul. de 1991 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+09 de Jul. de 1991 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+25 de Jun. de 1991 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 394-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+20 de Jun. de 1991   Suma    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 394-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 394-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 394-07","No record","Veto emmEnd"

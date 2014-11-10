@@ -1,0 +1,58 @@
+* * Bill summary * *
+"emmStart Summary 8389-03","Legislatura: 360
+Fecha de ingreso: martes 19 de junio de 2012
+Estado: Tramitación terminada (Ley Nº 20.632 - D.Oficial 12/10/2012)
+Numero de boletín: 8389-03
+Materia: Recurso Pesquero Bentónico,Pesca Y Acuicultura,Explotación Artesanal De Recursos Pesqueros,Extensión De Operaciones Extractivas En Pesquería,Asociatividad De Armadores Artesanales,Informe Técnico Del Consejo Nacional De Pesca
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 10-11-2014 00:54:37
+* * Hitos de tramitación * *
+"emmStart Hitos 8389-03","Fecha Sesión Etapa Sub-etapa Documento
+19 de Jun. de 2012   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+19 de Jun. de 2012 27ª / 360 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Intereses Marítimos, Pesca y Acuicultura
+04 de Jul. de 2012 32ª / 360 Primer trámite constitucional / Senado Cuenta del Mensaje 186-360 que hace presente la urgencia Suma
+13 de Jul. de 2012   Primer trámite constitucional / Senado Primer informe de comisión Ver
+17 de Jul. de 2012 35ª / 360 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+31 de Jul. de 2012 37ª / 360 Primer trámite constitucional / Senado Cuenta del Mensaje 213-360 que retira y hace presente la urgencia Suma
+07 de Ago. de 2012 39ª / 360 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 13/08/2012 Ver
+13 de Ago. de 2012   Primer trámite constitucional / Senado Boletín de indicaciones
+14 de Ago. de 2012   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+14 de Ago. de 2012 41ª / 360 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+14 de Ago. de 2012 41ª / 360 Primer trámite constitucional / Senado Discusión particular Ver
+14 de Ago. de 2012   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+28 de Ago. de 2012 72ª / 360 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 262-360 que hace presente la urgencia Suma Ver
+28 de Ago. de 2012 72ª / 360 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Pesca, Acuicultura e Intereses Marítimos Ver
+29 de Ago. de 2012   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+30 de Ago. de 2012 74ª / 360 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+30 de Ago. de 2012 74ª / 360 Segundo trámite constitucional / C. Diputados Discusión general Ver
+30 de Ago. de 2012   Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver
+04 de Sep. de 2012 45ª / 360 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+05 de Sep. de 2012 47ª / 360 Tercer trámite constitucional / Senado Discusión única
+05 de Sep. de 2012   Tercer trámite constitucional / Senado Oficio N° 870/SEC/12, que comunica aprobacion de modificaciones Ver
+05 de Sep. de 2012   Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo Ver
+06 de Sep. de 2012 77ª / 360 Tercer trámite constitucional / Senado Cuenta oficio Nº 870/SEC/12, que comunica aprobacion de modificaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8389-03","Fecha Etapa Informe Documento
+29 de Ago. de 2012 Segundo trámite constitucional C.Diputados Primer informe de comisión de Pesca, Acuicultura e Intereses Marítimos Ver
+14 de Ago. de 2012 Primer trámite constitucional Senado Segundo informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver
+17 de Jul. de 2012 Primer trámite constitucional Senado Primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8389-03","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+28 de Ago. de 2012   Suma 262-360  
+31 de Jul. de 2012   Suma 213-360  
+04 de Jul. de 2012 30 de Jul. de 2012 Suma 186-360 213-360","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8389-03","Nombre
+Ministerio de Economía, Fomento y Turism","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8389-03","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+74   55 0 3 0 Aprobado Sala Ver detalle votación
+74   61 0 1 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8389-03","No record","Veto emmEnd"

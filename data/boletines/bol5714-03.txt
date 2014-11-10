@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 5714-03","Legislatura: 355
+Fecha de ingreso: martes 15 de enero de 2008
+Estado: Primer trámite constitucional .
+Numero de boletín: 5714-03
+Materia: Servicios De Profesi0nales,Consumidores
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 22:25:01
+* * Hitos de tramitación * *
+"emmStart Hitos 5714-03","Fecha Sesión Etapa Sub-etapa Documento
+15 de Ene. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+15 de Ene. de 2008 130ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5714-03","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5714-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5714-03","Nombre Región Distrito Partido
+Francisco Encina Moriamez IV Región de Coquimbo N°8 Partido Socialista
+Fidel Espinoza Sandoval X Región de los Lagos N°56 Partido Socialista
+Carlos Abel Jarpa Wevar VIII Región del Bío Bío N°41 Partido Radical Social Demócrata
+Tucapel Jiménez Fuentes RM Región Metropolitana N°27 Partido Por la Democracia
+Eduardo Saffirio Suárez IX Región de la Araucanía N°50 Partido Demócrata Cristiano
+Carolina Tohá Morales RM Región Metropolitana N°22 Partido Por la Democracia
+Eugenio Tuma Zedan IX Región de la Araucanía N°51 Partido Por la Democracia
+Patricio Vallespín López X Región de los Lagos N°57 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5714-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5714-03","No record","Veto emmEnd"

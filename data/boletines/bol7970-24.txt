@@ -1,0 +1,61 @@
+* * Bill summary * *
+"emmStart Summary 7970-24","Legislatura: 359
+Fecha de ingreso: martes 04 de octubre de 2011
+Estado: Tramitación terminada (Ley Nº 20.775 - D.Oficial 13/09/2014)
+Numero de boletín: 7970-24
+Materia: Día Nacional De Las Personas De Edad
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 13:55:07
+* * Hitos de tramitación * *
+"emmStart Hitos 7970-24","Fecha Sesión Etapa Sub-etapa Documento
+04 de Oct. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Oct. de 2011 89ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de la Cultura y las Artes Ver
+02 de Sep. de 2013   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Sep. de 2013 66ª / 361 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+05 de Sep. de 2013 69ª / 361 Primer trámite constitucional / C. Diputados Discusión general. Queda pendiente Ver
+09 de Sep. de 2013 71ª / 361 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general . Vuelve a Comisión de la Cultura y las Artes, para segundo informe, sobre indicación presentada en Sala. Ver
+10 de Sep. de 2013   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+11 de Sep. de 2013 73ª / 361 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+11 de Sep. de 2013 73ª / 361 Primer trámite constitucional / C. Diputados Discusión particular. Aprobado Ver
+11 de Sep. de 2013 73ª / 361 Primer trámite constitucional / C. Diputados Se aprueba el cambio de nombre al proyecto, ""Establece el Día Nacional de las Personas de Edad"" por Establece el Día Nacional del Adulto Mayor"". Oficio 10.923. Ver
+11 de Sep. de 2013   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+11 de Sep. de 2013 56ª / 361 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización
+05 de Ago. de 2014 35ª / 362 Segundo trámite constitucional / Senado Cuenta del Mensaje 7970-24 que hace presente la urgencia Discusión inmediata
+12 de Ago. de 2014   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+12 de Ago. de 2014 37ª / 362 Segundo trámite constitucional / Senado Cuenta del Mensaje 368-362 que retira y hace presente la urgencia Discusión inmediata
+12 de Ago. de 2014 37ª / 362 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+13 de Ago. de 2014 38ª / 362 Segundo trámite constitucional / Senado Discusión general Ver
+13 de Ago. de 2014   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+14 de Ago. de 2014 57ª / 362 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+14 de Ago. de 2014   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7970-24","Fecha Etapa Informe Documento
+12 de Ago. de 2014 Segundo trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver
+10 de Sep. de 2013 Primer trámite constitucional C.Diputados Segundo informe de comisión de la Cultura y las Artes Ver
+02 de Sep. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión de la Cultura y las Artes Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7970-24","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+12 de Ago. de 2014   Discusión inmediata 368-362  
+05 de Ago. de 2014 12 de Ago. de 2014 Discusión inmediata 7970-24 368-362","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7970-24","Nombre Región Distrito Partido
+Sergio Aguiló Melo VII Región del Maule N°37 Izquierda Ciudadana
+Lautaro Carmona Soto III Región de Atacama N°5 Partido Comunista
+Cristina Girardi Lavín RM Región Metropolitana N°18 Partido Por la Democracia
+Hugo Gutiérrez Gálvez I Región de Tarapacá N°2 Partido Comunista
+Marcelo Schilling Rodríguez V Región de Valparaíso N°12 Partido Socialista
+Guillermo Teillier Del Valle RM Región Metropolitana N°28 Partido Comunista
+Pedro Velásquez Seguel IV Región de Coquimbo N°8 Independientes","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7970-24","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+71   65 0 5 50 Aprobado Sala Ver detalle votación
+73   74 0 0 46 Aprobado Sala Ver detalle votación
+121 Votación General 9 0 0 4   Cultura Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7970-24","No record","Veto emmEnd"

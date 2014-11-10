@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 5990-27","Legislatura: 356
+Fecha de ingreso: martes 29 de julio de 2008
+Estado: Primer trámite constitucional .
+Numero de boletín: 5990-27
+Materia: Bonificacion Por Contratación De Mano De Obra,Fondo De Desarrollo De La Región De Magallanes Y De La Antártica Chilena
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 01:34:43
+* * Hitos de tramitación * *
+"emmStart Hitos 5990-27","Fecha Sesión Etapa Sub-etapa Documento
+29 de Jul. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+29 de Jul. de 2008 54ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión Zonas Extremas y a Comisión de Hacienda Ver
+02 de Sep. de 2008 70ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 732-356 que hace presente la urgencia Simple Ver
+07 de Oct. de 2008 85ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 861-356 que retira y hace presente la urgencia Simple Ver
+11 de Nov. de 2008 98ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1010-356 que retira y hace presente urgencia simple Ver
+16 de Dic. de 2008 116ª / 356 Primer trámite constitucional / C. Diputados P. de la Rep. retira y hace presente urgencia \""simple\"". A COMISIÓN DE ZONAS EXTREMAS. Ver
+06 de Ene. de 2009 119ª / 356 Primer trámite constitucional / C. Diputados P. de la Rep. retira urgencia. A COMISIONES UNIDAS DE DEPORTES Y JUVENTUD. Ver
+07 de Ene. de 2009 120ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1296-356 que hace presente la urgencia Simple Ver
+03 de Mar. de 2009 131ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1433-356 que retira la urgencia Simple Ver
+01 de Abr. de 2014   Primer trámite constitucional / C. Diputados Oficio N°11.192, a la Presidenta de la República para que comunique su parecer sobre el archivo del proyecto acordado por la Comisión de Hacienda. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5990-27","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5990-27","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+07 de Ene. de 2009 03 de Mar. de 2009 Simple 1296-356 1433-356
+07 de Oct. de 2008 07 de Oct. de 2008 Simple 861-356 861-356
+02 de Sep. de 2008 07 de Oct. de 2008 Simple 732-356 861-356","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5990-27","Nombre Región Distrito Partido
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5990-27","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5990-27","No record","Veto emmEnd"

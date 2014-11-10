@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 5470-21","Legislatura: 355
+Fecha de ingreso: jueves 08 de noviembre de 2007
+Estado: Archivado .
+Numero de boletín: 5470-21
+Materia: Pesca De Arrastre
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 05:02:23
+* * Hitos de tramitación * *
+"emmStart Hitos 5470-21","Fecha Sesión Etapa Sub-etapa Documento
+08 de Nov. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+08 de Nov. de 2007 99ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Pesca, Acuicultura e Intereses Marítimos Ver
+22 de Ene. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de Mar. de 2009 131ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Pesca. EN ESTADO DE TABLA. Ver
+04 de Mar. de 2009 132ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1516-356 que hace presente la urgencia Suma Ver
+04 de Mar. de 2009 132ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5470-21","Fecha Etapa Informe Documento
+22 de Ene. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Pesca, Acuicultura e Intereses Marítimos Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5470-21","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Mar. de 2009   Suma 1516-356  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5470-21","Nombre Región Distrito Partido
+René Alinco Bustos XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Partido Por la Democracia
+Gabriel Ascencio Mansilla X Región de los Lagos N°58 Partido Demócrata Cristiano
+Marcelo Díaz Díaz IV Región de Coquimbo N°7 Partido Socialista
+Marco Enríquez-Ominami Gumucio V Región de Valparaíso N°10 Independientes
+Guido Girardi Briere RM Región Metropolitana N°18 Partido Por la Democracia
+Fernando Meza Moncada IX Región de la Araucanía N°52 Partido Radical Social Demócrata
+Esteban Valenzuela Van Treek VI Región del Libertador Bernardo O' Higgins N°32 Independientes
+Patricio Vallespín López X Región de los Lagos N°57 Partido Demócrata Cristiano
+Samuel Venegas Rubio V Región de Valparaíso N°15 Independientes","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5470-21","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+132   31 35 9 45 Rechazado Sala Ver detalle votación
+93 Votación General 3 6 3 1   Pesca y Acuicultura Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5470-21","No record","Veto emmEnd"

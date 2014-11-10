@@ -1,0 +1,62 @@
+* * Bill summary * *
+"emmStart Summary 8264-06","Legislatura: 360
+Fecha de ingreso: miércoles 02 de mayo de 2012
+Estado: Tramitación terminada (Ley Nº 20.649 - D.Oficial 11/01/2013)
+Numero de boletín: 8264-06
+Materia: Retiro Voluntario,Bonificación Por Retiro Voluntario,Funcionarios Y Empleados Municipales,Bonificación Adicional Al Retiro
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 23:25:56
+* * Hitos de tramitación * *
+"emmStart Hitos 8264-06","Fecha Sesión Etapa Sub-etapa Documento
+02 de May. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de May. de 2012 20ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior y Regionalización y a Comisión de Hacienda Ver
+24 de Sep. de 2012 82ª / 360 Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver Ver
+09 de Oct. de 2012 86ª / 360 Primer trámite constitucional / C. Diputados Cuenta Oficio N°220-360. Oficio de S.E. el Presidente de la República por el cual formula indicaciones al proyecto. Ver Ver
+09 de Oct. de 2012   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Oct. de 2012 87ª / 360 Primer trámite constitucional / C. Diputados Cuenta. Primer informe de la Comisión de Hacienda recaído en el proyecto. Ver
+10 de Oct. de 2012 88ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+10 de Oct. de 2012   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+16 de Oct. de 2012 55ª / 360 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización y a Comisión de Hacienda
+31 de Oct. de 2012   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+31 de Oct. de 2012 58ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 338-360 que hace presente la urgencia Discusión inmediata
+06 de Nov. de 2012 59ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 343-360 que retira y hace presente la urgencia Discusión inmediata
+07 de Nov. de 2012   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+07 de Nov. de 2012 60ª / 360 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+07 de Nov. de 2012 60ª / 360 Segundo trámite constitucional / Senado Discusión general Ver
+07 de Nov. de 2012   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+08 de Nov. de 2012 97ª / 360 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+09 de Nov. de 2012   Trámite finalización en Cámara de Origen / C. Diputados Oficio N° 10464. Oficio de ley al Ejecutivo (artículo 73 de la Constitución Política) Ver
+20 de Nov. de 2012 100ª / 360 Trámite finalización en Cámara de Origen / C. Diputados Oficio N°359-360. Oficio de S. E. el Presidente de la República por el cual comunica que ha resuelto no hacer uso de la facultad que le confiere el inciso primero del artículo 73 de la Constitución Política de la República respecto del proyecto. Ver Ver
+22 de Nov. de 2012   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+22 de Nov. de 2012   Trámite de aprobacion presidencial / C. Diputados Oficio N° 10467 al Tribunal Constitucional Ver
+18 de Dic. de 2012   Trámite de aprobacion presidencial / C. Diputados Oficio Nº 8014 del Tribunal Constitucional Ver
+18 de Dic. de 2012 114ª / 360 Trámite de aprobacion presidencial / C. Diputados Cuenta oficio N° 8014 del Tribunal Constitucional Ver
+18 de Dic. de 2012   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8264-06","Fecha Etapa Informe Documento
+07 de Nov. de 2012 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+31 de Oct. de 2012 Segundo trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver
+09 de Oct. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+24 de Sep. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8264-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+06 de Nov. de 2012   Discusión inmediata 343-360  
+31 de Oct. de 2012 06 de Nov. de 2012 Discusión inmediata 338-360 343-360","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8264-06","Nombre Región Distrito Partido
+Ministerio de Hacienda      
+Ministerio de Interior y Seguridad Públi      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8264-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+88 Con la salvedad del inciso segundo del artículo 5°, por tratarse de LOC 103 0 0 17 Aprobado Sala Ver detalle votación
+88 Inciso segundo del artículo 5° 104 0 0 16 Aprobado Sala Ver detalle votación
+88 Texto propuesto con las adiciones y enmiendas introducidas por la Comisión de Hacienda, con la salvedad del inciso segundo del artículo 5° 103 0 0 17 Aprobado Sala Ver detalle votación
+88 Artículo 5° inciso segundo 103 0 0 17 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8264-06","No record","Veto emmEnd"

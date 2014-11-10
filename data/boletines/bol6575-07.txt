@@ -1,0 +1,33 @@
+* * Bill summary * *
+"emmStart Summary 6575-07","Legislatura: 357
+Fecha de ingreso: martes 30 de junio de 2009
+Estado: Primer trámite constitucional .
+Numero de boletín: 6575-07
+Materia: Delincuentes,Legítima Defensa
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 13:47:13
+* * Hitos de tramitación * *
+"emmStart Hitos 6575-07","Fecha Sesión Etapa Sub-etapa Documento
+30 de Jun. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+30 de Jun. de 2009 45ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6575-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6575-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6575-07","Nombre Región Distrito Partido
+Patricio Hales Dib RM Región Metropolitana N°19 Partido Por la Democracia
+Juan Carlos Latorre Carmona VI Región del Libertador Bernardo O' Higgins N°35 Partido Demócrata Cristiano
+Cristián Monckeberg Bruner RM Región Metropolitana N°23 Renovación Nacional
+Claudia Nogueira Fernández RM Región Metropolitana N°19 Unión Demócrata Independiente
+Gonzalo Uriarte Herrera RM Región Metropolitana N°31 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6575-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6575-07","No record","Veto emmEnd"

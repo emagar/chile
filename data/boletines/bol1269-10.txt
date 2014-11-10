@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 1269-10","Legislatura: 329
+Fecha de ingreso: miércoles 06 de julio de 1994
+Estado: Tramitación terminada (D.S. Nº 411 - D.Oficial 20/08/2001)
+Numero de boletín: 1269-10
+Materia: Extradición ,Extranjeros
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 05:12:24
+* * Hitos de tramitación * *
+"emmStart Hitos 1269-10","Fecha Sesión Etapa Sub-etapa Documento
+06 de Jul. de 1994   Primer trámite constitucional / Senado Ingreso de proyecto. de acuerdo Ver
+06 de Jul. de 1994 10ª / 329 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+07 de Jun. de 1995   Primer trámite constitucional / Senado Primer informe de comisión Ver
+13 de Jul. de 1995 17ª / 331 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+20 de Jul. de 1995 20ª / 331 Tramitación terminada / Discusión general y particular. Aprobado en general y en particular. Ver
+20 de Jul. de 1995   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+01 de Ago. de 1995 22ª / 331 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+13 de Ago. de 1996   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+27 de Ago. de 1996 29ª / 333 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+06 de Nov. de 1996 13ª / 334 Segundo trámite constitucional / C. Diputados Proyecto incluido en actual Leg.Extraord. Ver Ver
+14 de Nov. de 1996 17ª / 334 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+14 de Nov. de 1996   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+19 de Nov. de 1996 9ª / 334 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora. Se manda comunicar a S.E. el Presidente de la República
+19 de Nov. de 1996   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1269-10","Fecha Etapa Informe Documento
+13 de Ago. de 1996 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+07 de Jun. de 1995 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1269-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+06 de Jul. de 1994 16 de Sep. de 1998 Sin urgencia   CADUCADO","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1269-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1269-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1269-10","No record","Veto emmEnd"

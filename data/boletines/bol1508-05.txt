@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 1508-05","Legislatura: 330
+Fecha de ingreso: martes 17 de enero de 1995
+Estado: Tramitación terminada (Ley Nº 19.369 - D.Oficial 24/01/1995)
+Numero de boletín: 1508-05
+Materia: Capitalización De Dividendos
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 10:02:09
+* * Hitos de tramitación * *
+"emmStart Hitos 1508-05","Fecha Sesión Etapa Sub-etapa Documento
+17 de Ene. de 1995 38ª / 330 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+17 de Ene. de 1995   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+17 de Ene. de 1995 39ª / 330 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+17 de Ene. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Ene. de 1995 39ª / 330 Primer trámite constitucional / C. Diputados Discusión general Ver
+18 de Ene. de 1995   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+18 de Ene. de 1995 38ª / 330 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+19 de Ene. de 1995 39ª / 330 Segundo trámite constitucional / Senado Primer informe de comisión. Informe verbal Ver
+19 de Ene. de 1995 39ª / 330 Tramitación terminada / Con informe verbal de la Comisión, discusión general y particular. Aprobado en general y en particular, sin modificaciones.
+19 de Ene. de 1995   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+23 de Ene. de 1995   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+02 de Mar. de 1995 42ª / 330 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+02 de Mar. de 1995 42ª / 330 Trámite de aprobacion presidencial / C. Diputados Cuenta oficio 935 del Tribunal Constitucional Ver
+02 de Mar. de 1995 42ª / 330 Trámite de aprobacion presidencial / C. Diputados Cuenta oficio 911 del Tribunal Constitucional Ver
+02 de Mar. de 1995 42ª / 330 Trámite de aprobacion presidencial / C. Diputados Cuenta oficio 923 del Tribunal Constitucional Ver
+02 de Mar. de 1995 42ª / 330 Trámite de aprobacion presidencial / C. Diputados Cuenta oficio 926 del Tribunal Constitucional Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1508-05","Fecha Etapa Informe Documento
+19 de Ene. de 1995 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+17 de Ene. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1508-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+17 de Ene. de 1995   Discusión inmediata    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1508-05","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1508-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1508-05","No record","Veto emmEnd"

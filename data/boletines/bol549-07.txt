@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 549-07","Legislatura: 323
+Fecha de ingreso: martes 26 de noviembre de 1991
+Estado: Tramitación terminada (Ley Nº 19.121 - D.Oficial 05/02/1992)
+Numero de boletín: 549-07
+Materia: Ministros De Corte
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 19:17:45
+* * Hitos de tramitación * *
+"emmStart Hitos 549-07","Fecha Sesión Etapa Sub-etapa Documento
+26 de Nov. de 1991   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+26 de Nov. de 1991 15ª / 323 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+03 de Dic. de 1991 21ª / 323 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+03 de Dic. de 1991 21ª / 323 Primer trámite constitucional / Senado Primer informe de comisión Ver
+03 de Dic. de 1991 21ª / 323 Primer trámite constitucional / Senado Primer informe de comisión Ver
+03 de Dic. de 1991 21ª / 323 Primer trámite constitucional / Senado Discusión general. Aprobado en general, y por no haberse presentado indicaciones, se aprueba también en particular. Ver
+04 de Dic. de 1991 21ª / 323 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+05 de Dic. de 1991 30ª / 323 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+10 de Dic. de 1991 31ª / 323 Segundo trámite constitucional / C. Diputados Cuenta oficio 008446 de la Corte Suprema Ver
+11 de Dic. de 1991   Segundo trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+23 de Ene. de 1992   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+23 de Ene. de 1992 48ª / 323 Segundo trámite constitucional / C. Diputados Discusión general Ver
+23 de Ene. de 1992 48ª / 323 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+27 de Ene. de 1992   Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver
+28 de Ene. de 1992 40ª / 323 Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo Ver
+28 de Ene. de 1992 39ª / 323 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+28 de Ene. de 1992 40ª / 323 Tercer trámite constitucional / Senado Discusión única. Se aprueban las modificaciones de la Cámara de Diputados.
+28 de Ene. de 1992   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+28 de Ene. de 1992   Tramitación terminada / Oficio Nº2236. Oficio a la Cámara de Diputados en que se comunica la aprobación de las enmiendas. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 549-07","Fecha Etapa Informe Documento
+23 de Ene. de 1992 Segundo trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+11 de Dic. de 1991 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+03 de Dic. de 1991 Primer trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+03 de Dic. de 1991 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 549-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 549-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 549-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 549-07","No record","Veto emmEnd"

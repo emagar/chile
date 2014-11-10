@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 8291-06","Legislatura: 360
+Fecha de ingreso: lunes 07 de mayo de 2012
+Estado: Segundo trámite constitucional .
+Numero de boletín: 8291-06
+Materia: Concejales,Municipios,Cesación Temporal De Cargo De Concejal
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 09-11-2014 23:45:05
+* * Hitos de tramitación * *
+"emmStart Hitos 8291-06","Fecha Sesión Etapa Sub-etapa Documento
+07 de May. de 2012   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+09 de May. de 2012   Primer trámite constitucional / Senado Primer informe de comisión Ver
+15 de May. de 2012 17ª / 360 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 25/05/2012 Ver
+25 de May. de 2012   Primer trámite constitucional / Senado Boletín de indicaciones
+05 de Jun. de 2012 22ª / 360 Primer trámite constitucional / Senado Cuenta del Mensaje 131-360 que hace presente la urgencia Suma
+06 de Jun. de 2012   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+06 de Jun. de 2012   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+13 de Jun. de 2012 26ª / 360 Primer trámite constitucional / Senado Discusión particular Ver
+13 de Jun. de 2012   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+14 de Jun. de 2012 43ª / 360 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior y Regionalización Ver
+20 de Jun. de 2012 45ª / 360 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 163-360 que hace presente la urgencia Suma Ver
+05 de Jul. de 2012 51ª / 360 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 188-360 que hace presente la urgencia Suma Ver
+19 de Jul. de 2012 60ª / 360 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 207-360 que hace presente la urgencia Suma Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8291-06","Fecha Etapa Informe Documento
+06 de Jun. de 2012 Primer trámite constitucional Senado Segundo informe de comisión de Gobierno, Descentralización y Regionalización Ver
+06 de Jun. de 2012 Primer trámite constitucional Senado Segundo informe de comisión de Gobierno, Descentralización y Regionalización Ver
+09 de May. de 2012 Primer trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8291-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+19 de Jul. de 2012   Suma 207-360  
+05 de Jul. de 2012   Suma 188-360  
+20 de Jun. de 2012   Suma 163-360  
+05 de Jun. de 2012   Suma 131-360  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8291-06","Nombre
+Jaime Orpis Bouchon","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8291-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8291-06","No record","Veto emmEnd"

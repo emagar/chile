@@ -1,0 +1,56 @@
+* * Bill summary * *
+"emmStart Summary 1959-03","Legislatura: 334
+Fecha de ingreso: martes 17 de diciembre de 1996
+Estado: Tramitación terminada (Ley Nº 19.530 - D.Oficial 29/11/1997)
+Numero de boletín: 1959-03
+Materia: Corfo
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 16:49:24
+* * Hitos de tramitación * *
+"emmStart Hitos 1959-03","Fecha Sesión Etapa Sub-etapa Documento
+17 de Dic. de 1996   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+17 de Dic. de 1996 29ª / 334 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+14 de May. de 1997   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+19 de May. de 1997   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+04 de Jun. de 1997 4ª / 335 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+05 de Jun. de 1997 5ª / 335 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+05 de Jun. de 1997   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+10 de Jun. de 1997 3ª / 335 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Economía
+12 de Ago. de 1997   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+26 de Ago. de 1997   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+26 de Ago. de 1997 26ª / 335 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+26 de Ago. de 1997 26ª / 335 Segundo trámite constitucional / Senado Discusión general Ver
+07 de Oct. de 1997 3ª / 335 Segundo trámite constitucional / Senado Boletín de indicaciones
+08 de Oct. de 1997   Segundo trámite constitucional / Senado Segundo informe de comisión. Pasa a Comisión de Hacienda Ver
+14 de Oct. de 1997   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+14 de Oct. de 1997 5ª / 336 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+15 de Oct. de 1997 6ª / 336 Segundo trámite constitucional / Senado Discusión particular Ver
+15 de Oct. de 1997   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+21 de Oct. de 1997 9ª / 336 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+21 de Oct. de 1997 10ª / 336 Tercer trámite constitucional / C. Diputados Discusión única Ver
+23 de Oct. de 1997   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1959-03","Fecha Etapa Informe Documento
+14 de Oct. de 1997 Segundo trámite constitucional Senado Segundo informe de comisión de Hacienda Ver
+08 de Oct. de 1997 Segundo trámite constitucional Senado Segundo informe de comisión de Economía Ver
+26 de Ago. de 1997 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+12 de Ago. de 1997 Segundo trámite constitucional Senado Primer informe de comisión de Economía Ver
+19 de May. de 1997 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+14 de May. de 1997 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1959-03","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+17 de Dic. de 1996   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1959-03","Nombre Región Distrito Partido
+Ministerio de Economía, Fomento y Turism      
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1959-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1959-03","No record","Veto emmEnd"

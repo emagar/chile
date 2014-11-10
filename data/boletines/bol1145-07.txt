@@ -1,0 +1,32 @@
+* * Bill summary * *
+"emmStart Summary 1145-07","Legislatura: 327
+Fecha de ingreso: martes 25 de enero de 1994
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 1145-07
+Materia: Traslado De Electores,Votación
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 03:38:36
+* * Hitos de tramitación * *
+"emmStart Hitos 1145-07","Fecha Sesión Etapa Sub-etapa Documento
+25 de Ene. de 1994   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+25 de Ene. de 1994 30ª / 327 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+09 de Ago. de 1994 19ª / 329 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+09 de Ago. de 1994 19ª / 329 Primer trámite constitucional / Senado Primer informe de comisión Ver
+07 de Sep. de 1994 31ª / 329 Primer trámite constitucional / Senado Discusión general Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1145-07","Fecha Etapa Informe Documento
+09 de Ago. de 1994 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1145-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1145-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1145-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1145-07","No record","Veto emmEnd"

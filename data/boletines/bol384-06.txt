@@ -1,0 +1,35 @@
+* * Bill summary * *
+"emmStart Summary 384-06","Legislatura: 322
+Fecha de ingreso: martes 18 de junio de 1991
+Estado: Tramitación terminada (Ley Nº 19.075 - D.Oficial 17/08/1991)
+Numero de boletín: 384-06
+Materia: Desempeño Humano
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 16:34:15
+* * Hitos de tramitación * *
+"emmStart Hitos 384-06","Fecha Sesión Etapa Sub-etapa Documento
+18 de Jun. de 1991 7ª / 322 Primer trámite constitucional / Senado Cuenta de proyecto
+16 de Jul. de 1991 18ª / 322 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+16 de Jul. de 1991 18ª / 322 Primer trámite constitucional / Senado Primer informe de comisión Ver
+16 de Jul. de 1991 18ª / 322 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+16 de Jul. de 1991 18ª / 322 Primer trámite constitucional / Senado Discusión general Ver
+18 de Jul. de 1991 22ª / 322 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+06 de Ago. de 1991 23ª / 322 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+06 de Ago. de 1991 23ª / 322 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 384-06","Fecha Etapa Informe Documento
+16 de Jul. de 1991 Primer trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 384-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 384-06","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 384-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 384-06","No record","Veto emmEnd"

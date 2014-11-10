@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 5258-02","Legislatura: 355
+Fecha de ingreso: lunes 13 de agosto de 2007
+Estado: Segundo trámite constitucional .
+Numero de boletín: 5258-02
+Materia: Naves A Casco Desnudo,Navegación,Arrendamiento
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 02:29:14
+* * Hitos de tramitación * *
+"emmStart Hitos 5258-02","Fecha Sesión Etapa Sub-etapa Documento
+13 de Ago. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Ago. de 2007 63ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Defensa Nacional Ver
+04 de Sep. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Sep. de 2007 76ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de Sep. de 2007 78ª / 355 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+14 de Sep. de 2007   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+02 de Oct. de 2007 53ª / 355 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Defensa Nacional Ver
+03 de Mar. de 2009 91ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 1472-356 que hace presente la urgencia Simple
+07 de Abr. de 2009 7ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 140-357 que retira y hace presente la urgencia Simple
+12 de May. de 2009 16ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 365-357 que retira la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5258-02","Fecha Etapa Informe Documento
+04 de Sep. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de Defensa Nacional Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5258-02","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+07 de Abr. de 2009 12 de May. de 2009 Simple 140-357 365-357
+03 de Mar. de 2009 07 de Abr. de 2009 Simple 1472-356 140-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5258-02","Nombre Región Distrito Partido
+Ministerio de Defensa Nacional      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5258-02","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+78   71 0 0 49 Aprobado Sala Ver detalle votación
+49 Votación General 6 0 0 7   Defensa Ver detalle votación
+49 Votación General 6 0 0 7   Defensa Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5258-02","No record","Veto emmEnd"

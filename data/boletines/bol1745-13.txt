@@ -1,0 +1,59 @@
+* * Bill summary * *
+"emmStart Summary 1745-13","Legislatura: 332
+Fecha de ingreso: miércoles 15 de noviembre de 1995
+Estado: Tramitación terminada (Ley Nº 19.630 - D.Oficial 04/09/1999)
+Numero de boletín: 1745-13
+Materia:
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 14:01:02
+* * Hitos de tramitación * *
+"emmStart Hitos 1745-13","Fecha Sesión Etapa Sub-etapa Documento
+15 de Nov. de 1995   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+15 de Nov. de 1995 17ª / 332 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+03 de Ene. de 1996   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de Ene. de 1996 37ª / 332 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+03 de Abr. de 1996 60ª / 332 Primer trámite constitucional / C. Diputados Discusión general Ver
+03 de Abr. de 1996   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+09 de Abr. de 1996 47ª / 332 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social
+03 de Sep. de 1997   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+03 de Sep. de 1997 30ª / 335 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+09 de Jun. de 1998 3ª / 338 Segundo trámite constitucional / Senado Discusión general Ver
+17 de Jun. de 1998 8ª / 338 Segundo trámite constitucional / Senado Boletín de indicaciones
+19 de Ago. de 1998   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+19 de Ago. de 1998 23ª / 338 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+01 de Sep. de 1998 25ª / 338 Segundo trámite constitucional / Senado Discusión particular Ver
+02 de Sep. de 1998   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+08 de Sep. de 1998 32ª / 338 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+08 de Jun. de 1999 4ª / 340 Tercer trámite constitucional / C. Diputados Discusión única Ver
+15 de Jun. de 1999   Tercer trámite constitucional / C. Diputados Oficio rechazo modificaciones a Cámara Revisora Ver
+16 de Jun. de 1999 6ª / 340 Comisión Mixta por rechazo de modificaciones / Senado Cuenta oficio integrantes de Comisión Mixta
+12 de Jul. de 1999   Comisión Mixta por rechazo de modificaciones / Senado Informe de Comisión Mixta Ver
+14 de Jul. de 1999 19ª / 340 Disc. informe C.Mixta por rechazo de modific. en C. Origen / C. Diputados Cuenta informe Comisión Mixta Ver
+21 de Jul. de 1999 22ª / 340 Disc. informe C.Mixta por rechazo de modific. en C. Origen / C. Diputados Discusión informe de Comisión Mixta Ver
+21 de Jul. de 1999   Disc. informe C.Mixta por rechazo de modific. en C. Origen / C. Diputados Oficio aprobación de informe de Comisión Mixta a C. Revisora Ver
+03 de Ago. de 1999 18ª / 340 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Cuenta oficio aprobación de informe de Comisión Mixta
+04 de Ago. de 1999 19ª / 340 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Discusión informe de Comisión Mixta
+09 de Ago. de 1999   Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Oficio aprobación de informe de Comisión Mixta a C.de Origen Ver
+10 de Ago. de 1999 27ª / 340 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación de informe de Comisión Mixta Ver
+07 de Oct. de 1999   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1745-13","Fecha Etapa Informe Documento
+12 de Jul. de 1999 Comisión Mixta por rechazo de modificaciones Senado Informe de Comisión Mixta Comisión Mixta para Boletín Nº 1745-13 Ver
+19 de Ago. de 1998 Segundo trámite constitucional Senado Segundo informe de comisión de Trabajo y Previsión Social Ver
+03 de Sep. de 1997 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver
+03 de Ene. de 1996 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1745-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1745-13","Nombre Región Distrito Partido
+Rubén Gajardo Chacón Región N°4 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1745-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1745-13","No record","Veto emmEnd"

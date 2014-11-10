@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 1617-05","Legislatura: 330
+Fecha de ingreso: lunes 01 de mayo de 1995
+Estado: Tramitación terminada (Ley Nº 19.398 - D.Oficial 04/08/1995)
+Numero de boletín: 1617-05
+Materia: Educacion,Pensiones
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 11:26:26
+* * Hitos de tramitación * *
+"emmStart Hitos 1617-05","Fecha Sesión Etapa Sub-etapa Documento
+01 de May. de 1995   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+31 de May. de 1995 3ª / 331 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+08 de Jun. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de Jun. de 1995 7ª / 331 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+08 de Jun. de 1995   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora
+08 de Jun. de 1995 7ª / 331 Primer trámite constitucional / C. Diputados Discusión general Ver
+13 de Jun. de 1995 6ª / 331 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+20 de Jun. de 1995   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+21 de Jun. de 1995 9ª / 331 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+04 de Jul. de 1995 11ª / 331 Segundo trámite constitucional / Senado Discusión general Ver
+05 de Jul. de 1995   Segundo trámite constitucional / Senado Boletín de indicaciones
+05 de Jul. de 1995   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+06 de Jul. de 1995 14ª / 331 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+06 de Jul. de 1995 14ª / 331 Segundo trámite constitucional / Senado Discusión particular Ver
+07 de Jul. de 1995   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen. Oficio Nº8758. comunica aprobación del proyecto con modificaciones a la Cámara de origen Ver
+11 de Jul. de 1995 16ª / 331 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+11 de Jul. de 1995 16ª / 331 Tercer trámite constitucional / C. Diputados Discusión única Ver
+11 de Jul. de 1995   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+02 de Ago. de 1995 23ª / 331 Trámite de aprobacion presidencial / C. Diputados Cuenta oficio 1043 del Tribunal Constitucional Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1617-05","Fecha Etapa Informe Documento
+05 de Jul. de 1995 Segundo trámite constitucional Senado Segundo informe de comisión de Hacienda Ver
+20 de Jun. de 1995 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+08 de Jun. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1617-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+31 de May. de 1995   Suma    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1617-05","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1617-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1617-05","No record","Veto emmEnd"

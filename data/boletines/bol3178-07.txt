@@ -1,0 +1,51 @@
+* * Bill summary * *
+"emmStart Summary 3178-07","Legislatura: 348
+Fecha de ingreso: martes 07 de enero de 2003
+Estado: Tramitación terminada (Ley Nº 19.861 - D.Oficial 31/01/2003)
+Numero de boletín: 3178-07
+Materia: Jueces De Garantía,Jueces De Tribunal Oral En Lo Penal
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 04-11-2014 00:01:47
+* * Hitos de tramitación * *
+"emmStart Hitos 3178-07","Fecha Sesión Etapa Sub-etapa Documento
+07 de Ene. de 2003   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+07 de Ene. de 2003 22ª / 348 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+07 de Ene. de 2003   Primer trámite constitucional / Senado Oficio consulta a la Excma. Corte Suprema Ver
+08 de Ene. de 2003 23ª / 348 Primer trámite constitucional / Senado Oficio de los HH. senadores señores Espina, Larráin, Moreno, Romero y Silva, mediante el cual solicitan autorización de la Sala para discutir proyecto tanto en general como en particular. Se accede.
+13 de Ene. de 2003   Primer trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+14 de Ene. de 2003 24ª / 348 Primer trámite constitucional / Senado Cuenta oficio 3787 de la Corte Suprema Ver
+15 de Ene. de 2003   Primer trámite constitucional / Senado Primer informe de comisión Ver
+15 de Ene. de 2003 25ª / 348 Primer trámite constitucional / Senado Discusión general Ver
+15 de Ene. de 2003   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+16 de Ene. de 2003 44ª / 348 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+16 de Ene. de 2003   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+21 de Ene. de 2003 45ª / 348 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+21 de Ene. de 2003 45ª / 348 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+21 de Ene. de 2003   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+21 de Ene. de 2003 26ª / 348 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+21 de Ene. de 2003 26ª / 348 Trámite finalización en Cámara de Origen / Senado Cuenta oficio C. de Diputados, comunica aprobación en los mismos términos que el Senado. Se manda comunicar al P. de la Rep.
+21 de Ene. de 2003   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+21 de Ene. de 2003   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+21 de Ene. de 2003 26ª / 348 Trámite de aprobacion presidencial / Senado Cuenta oficio del Presidente de la República, comunica que no hará uso de facultad conferida en el art. 70 de la C. Política.
+04 de Mar. de 2003 28ª / 348 Trámite en Tribunal Constitucional / Senado Ingreso fallo del Tribunal Constitucional Ver
+04 de Mar. de 2003 28ª / 348 Trámite en Tribunal Constitucional / Senado Cuenta fallo del Tribunal Constitucional","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3178-07","Fecha Etapa Informe Documento
+16 de Ene. de 2003 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+15 de Ene. de 2003 Primer trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+13 de Ene. de 2003 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3178-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+07 de Ene. de 2003   Suma 352-348  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3178-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3178-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3178-07","No record","Veto emmEnd"

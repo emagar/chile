@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 3304-03","Legislatura: 349
+Fecha de ingreso: jueves 31 de julio de 2003
+Estado: Archivado .
+Numero de boletín: 3304-03
+Materia: Correo Electrónico
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 01:20:01
+* * Hitos de tramitación * *
+"emmStart Hitos 3304-03","Fecha Sesión Etapa Sub-etapa Documento
+31 de Jul. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+31 de Jul. de 2003 23ª / 349 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+06 de Abr. de 2006 10ª / 354 Primer trámite constitucional / C. Diputados Archivado Cuenta Oficio de Comisión de Economía, solicita archivo de proyecto. Sala accede al archivo solicitado. Ver
+06 de Abr. de 2006   Archivado / Oficio Nº6101. Se accede a la petición de la Comisión de Economía para procedert a su archivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3304-03","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3304-03","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+31 de Jul. de 2003   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3304-03","Nombre Región Distrito Partido
+Marcela Cubillos Sigall RM Región Metropolitana N°21 Unión Demócrata Independiente
+Julio Dittborn Cordúa RM Región Metropolitana N°23 Unión Demócrata Independiente
+Andrés Egaña Respaldiza VIII Región del Bío Bío N°44 Unión Demócrata Independiente
+Marcelo Forni Lobos V Región de Valparaíso N°11 Unión Demócrata Independiente
+Iván Norambuena Farías VIII Región del Bío Bío N°46 Unión Demócrata Independiente
+Darío Paya Mira RM Región Metropolitana N°28 Unión Demócrata Independiente
+Víctor Pérez Varela VIII Región del Bío Bío N°47 Unión Demócrata Independiente
+Felipe Salaberry Soto RM Región Metropolitana N°25 Unión Demócrata Independiente
+Mario Varela Herrera RM Región Metropolitana N°20 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3304-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3304-03","No record","Veto emmEnd"

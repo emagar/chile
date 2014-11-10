@@ -1,0 +1,51 @@
+* * Bill summary * *
+"emmStart Summary 3250-12","Legislatura: 349
+Fecha de ingreso: martes 10 de junio de 2003
+Estado: Archivado .
+Numero de boletín: 3250-12
+Materia: Animales
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 00:48:24
+* * Hitos de tramitación * *
+"emmStart Hitos 3250-12","Fecha Sesión Etapa Sub-etapa Documento
+10 de Jun. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Jun. de 2003 4ª / 349 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver
+10 de Jun. de 2003   Primer trámite constitucional / C. Diputados Oficio Nº 4352 a la Corte Suprema Ver
+12 de Ago. de 2003 28ª / 349 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 176-349 que retira y hace presente la urgencia Simple Ver
+12 de Ago. de 2003 28ª / 349 Primer trámite constitucional / C. Diputados Cuenta oficio N? 1526 de la Corte Suprema Ver
+12 de Ago. de 2003 28ª / 349 Primer trámite constitucional / C. Diputados Cuenta Oficio de Corte Suprema, remite opinión solicitada. Ver Ver
+04 de Sep. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Sep. de 2003 38ª / 349 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+04 de Nov. de 2003 14ª / 350 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+13 de Ene. de 2009 122ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1347-356 que hace presente la urgencia Simple Ver
+21 de Ene. de 2009 129ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1423-356 que retira la urgencia Simple Ver
+06 de May. de 2014 20ª / 362 Primer trámite constitucional / C. Diputados Archivado Cuenta del oficio de la Comisión de Medio Ambiente y Recursos Naturales, en virtud del cual comunica que ha acordado el archivo del proyecto, en virtud de lo dispuesto en el artículo 17 del Reglamento de la Corporación. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3250-12","Fecha Etapa Informe Documento
+10 de Sep. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3250-12","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+13 de Ene. de 2009 21 de Ene. de 2009 Simple 1347-356 1423-356
+12 de Ago. de 2003   Simple 176-349  
+08 de Jul. de 2003 12 de Ago. de 2003 Simple 91-349 176-349","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3250-12","Nombre Región Distrito Partido
+Pedro Pablo Alvarez-Salamanca Büchi VII Región del Maule N°38 Renovación Nacional
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Enrique Jaramillo Becker X Región de los Lagos N°54 Partido Por la Democracia
+María Eugenia Mella Gajardo V Región de Valparaíso N°10 Partido Demócrata Cristiano
+Manuel Rojas Molina II Región de Antofagasta N°4 Unión Demócrata Independiente
+Fulvio Rossi Ciocca I Región de Tarapacá N°2 Independientes
+Rodolfo Seguel Molina RM Región Metropolitana N°28 Partido Demócrata Cristiano
+Exequiel Silva Ortíz X Región de los Lagos N°53 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3250-12","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+14   65 1 10 0   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3250-12","No record","Veto emmEnd"

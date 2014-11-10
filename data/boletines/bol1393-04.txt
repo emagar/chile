@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 1393-04","Legislatura: 330
+Fecha de ingreso: miércoles 05 de octubre de 1994
+Estado: Tramitación terminada (Ley Nº 19.566 - D.Oficial 27/06/1998)
+Numero de boletín: 1393-04
+Materia: Monumentos
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 06:22:26
+* * Hitos de tramitación * *
+"emmStart Hitos 1393-04","Fecha Sesión Etapa Sub-etapa Documento
+05 de Oct. de 1994 2ª / 330 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+05 de Oct. de 1994   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+23 de Nov. de 1994   Primer trámite constitucional / Senado Primer informe de comisión Ver
+23 de Nov. de 1994 21ª / 330 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+24 de Nov. de 1994 22ª / 330 Primer trámite constitucional / Senado Discusión general Ver
+24 de Nov. de 1994   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+06 de Dic. de 1994 22ª / 330 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+05 de Ago. de 1997   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Sep. de 1997 36ª / 335 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+06 de May. de 1998 17ª / 337 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+06 de May. de 1998   Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver
+12 de May. de 1998 13ª / 337 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+02 de Jun. de 1998 1ª / 338 Tercer trámite constitucional / Senado Discusión única
+03 de Jun. de 1998   Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1393-04","Fecha Etapa Informe Documento
+05 de Ago. de 1997 Segundo trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver
+23 de Nov. de 1994 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1393-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1393-04","Nombre
+José Ruiz De Giorgio","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1393-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1393-04","No record","Veto emmEnd"

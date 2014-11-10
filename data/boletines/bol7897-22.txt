@@ -1,0 +1,62 @@
+* * Bill summary * *
+"emmStart Summary 7897-22","Legislatura: 359
+Fecha de ingreso: jueves 01 de septiembre de 2011
+Estado: Tramitación terminada (Ley Nº 20.564 - D.Oficial 03/02/2012)
+Numero de boletín: 7897-22
+Materia: Bomberos De Chile
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 13:09:05
+* * Hitos de tramitación * *
+"emmStart Hitos 7897-22","Fecha Sesión Etapa Sub-etapa Documento
+01 de Sep. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+01 de Sep. de 2011 77ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión Especial de Bomberos Ver
+19 de Oct. de 2011 100ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 431-359 que hace presente la urgencia Suma Ver
+02 de Nov. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Nov. de 2011 102ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+03 de Nov. de 2011 104ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 438-359 que retira la urgencia Suma Ver
+30 de Nov. de 2011 118ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+30 de Nov. de 2011   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+30 de Nov. de 2011 78ª / 359 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización y a Comisión de Hacienda
+21 de Dic. de 2011 84ª / 359 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 23/01/2012 Ver
+03 de Ene. de 2012 85ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 525-359 que hace presente la urgencia Suma
+03 de Ene. de 2012   Segundo trámite constitucional / Senado Boletín de indicaciones. Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 09/01/2012 a las 13:00
+09 de Ene. de 2012   Segundo trámite constitucional / Senado Boletín de indicaciones
+10 de Ene. de 2012 87ª / 359 Segundo trámite constitucional / Senado Discusión particular Ver
+10 de Ene. de 2012   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+11 de Ene. de 2012 130ª / 359 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+11 de Ene. de 2012 130ª / 359 Tercer trámite constitucional / C. Diputados Discusión única Ver
+11 de Ene. de 2012   Tercer trámite constitucional / C. Diputados Oficio N° 9917, que comunica aprobacion de modificaciones Ver
+11 de Ene. de 2012   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+17 de Ene. de 2012 90ª / 359 Tercer trámite constitucional / C. Diputados Cuenta oficio N° 9917, que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7897-22","Fecha Etapa Informe Documento
+02 de Nov. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión Especial de Bomberos Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7897-22","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+03 de Ene. de 2012   Suma 525-359  
+19 de Oct. de 2011 03 de Nov. de 2011 Suma 431-359 438-359","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7897-22","Nombre Región Distrito Partido
+Sergio Bobadilla Muñoz VIII Región del Bío Bío N°45 Unión Demócrata Independiente
+Alfonso De Urresti Longton XIV Región de los Ríos N°53 Partido Socialista
+Joaquín Godoy Ibáñez V Región de Valparaíso N°13 Renovación Nacional
+Gustavo Hasbún Selume RM Región Metropolitana N°26 Unión Demócrata Independiente
+Enrique Jaramillo Becker XIV Región de los Ríos N°54 Partido Por la Democracia
+Iván Norambuena Farías VIII Región del Bío Bío N°46 Unión Demócrata Independiente
+Sergio Ojeda Uribe X Región de los Lagos N°55 Partido Demócrata Cristiano
+José Miguel Ortiz Novoa VIII Región del Bío Bío N°44 Partido Demócrata Cristiano
+Alberto Robles Pantoja III Región de Atacama N°6 Partido Radical Social Demócrata
+Jorge Ulloa Aguillón VIII Región del Bío Bío N°43 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7897-22","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+118   94 0 0 1 Aprobado Sala Ver detalle votación
+130 Literal a) del artículo 6°. 91 0 0 29 Aprobado Sala Ver detalle votación
+130 Modificaciones introducidas por el Senado, salvo la letra a) del artículo 6°. 90 0 0 30 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7897-22","No record","Veto emmEnd"

@@ -1,0 +1,50 @@
+* * Bill summary * *
+"emmStart Summary 3732-18","Legislatura: 352
+Fecha de ingreso: miércoles 01 de diciembre de 2004
+Estado: Segundo trámite constitucional .
+Numero de boletín: 3732-18 Refundido con: 6638-05,6277-18,6008-18,5104-18,3731-18,4602-18,3972-18,4745-18,3659-18,3551-18,3536-18
+Materia: Matrimonio Civil
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 08:01:26
+* * Hitos de tramitación * *
+"emmStart Hitos 3732-18","Fecha Sesión Etapa Sub-etapa Documento
+30 de Nov. de 2004 25ª / 352 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Familia Ver
+30 de Nov. de 2004   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+18 de May. de 2010 27ª / 358 Primer trámite constitucional / C. Diputados Segundo informe de Comisión de Familia. A COMISIÓN DE CONSTITUCIÓN. Ver
+18 de May. de 2010   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+13 de Jul. de 2010 51ª / 358 Primer trámite constitucional / C. Diputados Cuenta, Oficio de la Comisión de Familia, por el cual solicita a la Sala, que fije un plazo a la Comisión de Constitución, Legislación y Justicia respecto del informe complementario que debe emitir sobre los proyectos refundidos. Pendiente decisión de Sala Ver
+28 de Sep. de 2010   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+28 de Sep. de 2010 79ª / 358 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+29 de Sep. de 2010 80ª / 358 Primer trámite constitucional / C. Diputados Discusión particular Ver
+29 de Sep. de 2010   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+05 de Oct. de 2010 57ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+03 de Nov. de 2010   Segundo trámite constitucional / Senado Cuenta oficio N° 165 de la Corte Suprema Ver
+09 de Nov. de 2010 65ª / 358 Segundo trámite constitucional / Senado Cuenta oficio N? 165 de la Corte Suprema","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3732-18","Fecha Etapa Informe Documento
+01 de Sep. de 2010 Primer trámite constitucional C.Diputados Segundo informe de comisión de Constitución, Legislación y Justicia Ver
+18 de May. de 2010 Primer trámite constitucional C.Diputados Segundo informe de comisión de Familia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3732-18","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3732-18","Nombre Región Distrito Partido
+Eugenio Bauer Jouanne VI Región del Libertador Bernardo O' Higgins N°33 Unión Demócrata Independiente
+Sergio Correa De la Cerda VII Región del Maule N°36 Unión Demócrata Independiente
+Marcelo Forni Lobos V Región de Valparaíso N°11 Unión Demócrata Independiente
+Gonzalo Ibáñez Santa María V Región de Valparaíso N°14 Unión Demócrata Independiente
+José Antonio Kast Rist RM Región Metropolitana N°30 Unión Demócrata Independiente
+Nicolás Monckeberg Díaz VIII Región del Bío Bío N°42 Renovación Nacional
+Iván Norambuena Farías VIII Región del Bío Bío N°46 Unión Demócrata Independiente
+Pablo Prieto Lorca VII Región del Maule N°37 Unión Demócrata Independiente
+Gonzalo Uriarte Herrera RM Región Metropolitana N°31 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3732-18","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+104 Votación General 8 0 1 4   Familia Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3732-18","No record","Veto emmEnd"

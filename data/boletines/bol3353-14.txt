@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 3353-14","Legislatura: 349
+Fecha de ingreso: miércoles 10 de septiembre de 2003
+Estado: Archivado .
+Numero de boletín: 3353-14
+Materia: Viviendas
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 01:49:24
+* * Hitos de tramitación * *
+"emmStart Hitos 3353-14","Fecha Sesión Etapa Sub-etapa Documento
+10 de Sep. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Sep. de 2003 39ª / 349 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de la Vivienda y Desarrollo Urbano Ver
+16 de May. de 2006   Archivado / Oficio Nº 6169. Se accede a petición de archivo efectuada por la Comisión Ver
+16 de May. de 2006 26ª / 354 Primer trámite constitucional / C. Diputados Sala de la Corporación acordó archivar el proyecto. Ver
+16 de May. de 2006   Primer trámite constitucional / C. Diputados Archivado
+29 de May. de 2006   Archivado / Oficio Nº 008-06. Comisión de Vivienda y Desarrollo Urbano solicita archivo. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3353-14","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3353-14","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+10 de Sep. de 2003   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3353-14","Nombre Región Distrito Partido
+Sergio Aguiló Melo VII Región del Maule N°37 Partido Socialista
+Isabel Allende Bussi RM Región Metropolitana N°29 Partido Socialista
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Eliana Caraball Martínez RM Región Metropolitana N°27 Partido Demócrata Cristiano
+Camilo Escalona Medina VIII Región del Bío Bío N°46 Partido Socialista
+Juan Pablo Letelier Morel VI Región del Libertador Bernardo O' Higgins N°33 Partido Socialista
+María Eugenia Mella Gajardo V Región de Valparaíso N°10 Partido Demócrata Cristiano
+José Miguel Ortiz Novoa VIII Región del Bío Bío N°44 Partido Demócrata Cristiano
+Rodolfo Seguel Molina RM Región Metropolitana N°28 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3353-14","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3353-14","No record","Veto emmEnd"

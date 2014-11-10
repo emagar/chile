@@ -1,0 +1,55 @@
+* * Bill summary * *
+"emmStart Summary 1124-06","Legislatura: 327
+Fecha de ingreso: martes 14 de diciembre de 1993
+Estado: Tramitación terminada (Ley Nº 19.798 - D.Oficial 25/04/2002)
+Numero de boletín: 1124-06
+Materia: Bomberos De Chile
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 03:22:47
+* * Hitos de tramitación * *
+"emmStart Hitos 1124-06","Fecha Sesión Etapa Sub-etapa Documento
+14 de Dic. de 1993 21ª / 327 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+14 de Dic. de 1993   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+16 de Mar. de 1994   Primer trámite constitucional / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 328
+09 de Jul. de 1997   Primer trámite constitucional / C. Diputados Archivado Oficio 1543 a la Com. de Gobierno Interior, acuerda archivo del proyecto.
+09 de Jul. de 1997   Primer trámite constitucional / C. Diputados Se solicita su archivo S.E. el Presidente de la República solicita retiro o archivo del proyecto.
+15 de Jul. de 1997   Tramitación terminada / Oficio Nº 56. Por acuerdos de sla en sesiones del 9 y 10 del mes, mediante oficios Nº 1543 y Nº 1559, informa archivo. Ver
+21 de Jul. de 1999   Primer trámite constitucional / C. Diputados Oficio s/n de la Com. Especial de Bomberos, solicita desarchivo del proyecto.
+15 de Dic. de 1999   Primer trámite constitucional / C. Diputados Oficio 2664 a la Com. Especial de Bomberos, comunica desarchivo del proyecto por instrucciones de S.E. el Presidente de la República.
+07 de Mar. de 2000   Primer trámite constitucional / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 341
+15 de Mar. de 2000   Primer trámite constitucional / C. Diputados Oficio Nº262. Oficio solicita remisión de proyecto Ver
+16 de Mar. de 2000 32ª / 341 Primer trámite constitucional / C. Diputados Oficio de la Com. de Gobierno Interior, solicita que proyecto sea remitido a Com. Especial de Bomberos. Ver
+16 de Mar. de 2000   Primer trámite constitucional / C. Diputados Eximido del trámite ante Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social. Pasa a Comisión De Bomberos
+08 de Ene. de 2002 22ª / 345 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 161-345 que hace presente la urgencia Simple Ver
+15 de Ene. de 2002   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+15 de Ene. de 2002 25ª / 345 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+15 de Ene. de 2002   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+15 de Ene. de 2002 26ª / 345 Primer trámite constitucional / C. Diputados Discusión general Ver
+16 de Ene. de 2002 24ª / 345 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización
+22 de Ene. de 2002   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+22 de Ene. de 2002 25ª / 345 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+22 de Ene. de 2002 25ª / 345 Segundo trámite constitucional / Senado Discusión general Ver
+05 de Mar. de 2002 28ª / 345 Segundo trámite constitucional / Senado Discusión particular. Aprobado sin modificaciones Habiéndo vencido el plazo para formular indicaciones y no habiendo indicación alguna, se aprueba el proyecto en particular Ver
+05 de Mar. de 2002   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+12 de Mar. de 2002 1ª / 346 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+12 de Mar. de 2002   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1124-06","Fecha Etapa Informe Documento
+22 de Ene. de 2002 Segundo trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver
+15 de Ene. de 2002 Primer trámite constitucional C.Diputados Primer informe de comisión Especial de Bomberos Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1124-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+05 de Mar. de 2002   Simple 246-345  
+08 de Ene. de 2002   Simple 161-345  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1124-06","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1124-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1124-06","No record","Veto emmEnd"

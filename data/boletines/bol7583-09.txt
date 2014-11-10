@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 7583-09","Legislatura: 359
+Fecha de ingreso: jueves 07 de abril de 2011
+Estado: Segundo trámite constitucional .
+Numero de boletín: 7583-09
+Materia: Aguas Servidas,Comercialización De Aguas Servidas,Servicios Sanitarios
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 05:47:23
+* * Hitos de tramitación * *
+"emmStart Hitos 7583-09","Fecha Sesión Etapa Sub-etapa Documento
+07 de Abr. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+07 de Abr. de 2011 11ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+19 de Jul. de 2011 58ª / 359 Primer trámite constitucional / C. Diputados Solicitud de la Comisión de Agricultura para que se le remita el proyecto, actualmente radicado en la Comisión de Constitución. la Sala accede a la petición, pasando el proyecto, para su tramitación, a la Comisión de Agricultura. Ver
+13 de Dic. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+21 de Dic. de 2011 124ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+12 de Ene. de 2012 132ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+12 de Ene. de 2012   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+13 de Ago. de 2014   Segundo trámite constitucional / Senado En virtud del acuerdo de los Comités de fecha 17 de junio de 2014, este proyecto fue remitido a la Comisión Especial encargada de estudiar las iniciativas relativas a recursos hídricos las que deberán ser conocidas posteriormente, en lo que corresponda, por la Comisión de Constitución, Legislación, Justicia y Reglamento.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7583-09","Fecha Etapa Informe Documento
+13 de Dic. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7583-09","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7583-09","Nombre Región Distrito Partido
+Pedro Pablo Alvarez-Salamanca Ramírez VII Región del Maule N°38 Unión Demócrata Independiente
+Ramón Barros Montero VI Región del Libertador Bernardo O' Higgins N°35 Unión Demócrata Independiente
+Fuad Chahín Valenzuela IX Región de la Araucanía N°49 Partido Demócrata Cristiano
+Javier Hernández Hernández X Región de los Lagos N°55 Unión Demócrata Independiente
+Enrique Jaramillo Becker XIV Región de los Ríos N°54 Partido Por la Democracia
+Rosauro Martínez Labbé VIII Región del Bío Bío N°41 Renovación Nacional
+Adriana Muñoz D'Albora IV Región de Coquimbo N°9 Partido Por la Democracia
+Denise Pascal Allende RM Región Metropolitana N°31 Partido Socialista
+Jorge Sabag Villalobos VIII Región del Bío Bío N°42 Partido Demócrata Cristiano
+Ignacio Urrutia Bonilla VII Región del Maule N°40 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7583-09","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+132   57 0 1 0 Aprobado Sala Ver detalle votación
+68 Votación General 7 0 0 6   Agricultura Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7583-09","No record","Veto emmEnd"

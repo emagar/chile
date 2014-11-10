@@ -1,0 +1,63 @@
+* * Bill summary * *
+"emmStart Summary 7489-03","Legislatura: 358
+Fecha de ingreso: martes 01 de marzo de 2011
+Estado: Tramitación terminada (Ley N° 20.525 - D.Oficial 06/08/2011)
+Numero de boletín: 7489-03
+Materia: Tiburones
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 09-11-2014 04:43:19
+* * Hitos de tramitación * *
+"emmStart Hitos 7489-03","Fecha Sesión Etapa Sub-etapa Documento
+01 de Mar. de 2011   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+01 de Mar. de 2011 90ª / 358 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Intereses Marítimos, Pesca y Acuicultura
+16 de Mar. de 2011   Primer trámite constitucional / Senado Primer informe de comisión Ver
+16 de Mar. de 2011 3ª / 359 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+23 de Mar. de 2011 5ª / 359 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 09/04/2011 Ver
+23 de Mar. de 2011   Primer trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 11/04/2011 a las 13:00 en Secretaría.
+11 de Abr. de 2011   Primer trámite constitucional / Senado Boletín de indicaciones
+13 de Abr. de 2011 8ª / 359 Primer trámite constitucional / Senado Por acuerdo de los Comités, ratificado por la Sala, se abre un nuevo plazo para presentar indicaciones, hasta las 12 horas del día de hoy, en la Secretaría de la Comisión de Intereses Marítimos, Pesca y Acuicultura.
+13 de Abr. de 2011   Primer trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 13/04/2011 a las 12:00 en la Secretaría de la Comisión de Intereses Marítimos, Pesca y Acuicultura
+13 de Abr. de 2011   Primer trámite constitucional / Senado Boletín de indicaciones
+18 de Abr. de 2011   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+19 de Abr. de 2011 10ª / 359 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+20 de Abr. de 2011 11ª / 359 Primer trámite constitucional / Senado Discusión particular Ver
+20 de Abr. de 2011   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+21 de Abr. de 2011 19ª / 359 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Pesca, Acuicultura e Intereses Marítimos Ver
+10 de May. de 2011 26ª / 359 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 189-359 que hace presente la urgencia Simple Ver
+14 de Jun. de 2011   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+14 de Jun. de 2011 41ª / 359 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+15 de Jun. de 2011 42ª / 359 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 281-359 que retira y hace presente la urgencia Simple Ver
+22 de Jun. de 2011 46ª / 359 Segundo trámite constitucional / C. Diputados Discusión general Ver
+22 de Jun. de 2011   Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver
+05 de Jul. de 2011 30ª / 359 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+06 de Jul. de 2011 31ª / 359 Tercer trámite constitucional / Senado Discusión única
+06 de Jul. de 2011   Tercer trámite constitucional / Senado Oficio N° 881/SEC/11, que comunica aprobacion de modificaciones Ver
+06 de Jul. de 2011   Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo Ver
+07 de Jul. de 2011 53ª / 359 Tercer trámite constitucional / Senado Cuenta oficio N? 881/SEC/11, que comunica aprobacion de modificaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7489-03","Fecha Etapa Informe Documento
+14 de Jun. de 2011 Segundo trámite constitucional C.Diputados Primer informe de comisión de Pesca, Acuicultura e Intereses Marítimos Ver
+18 de Abr. de 2011 Primer trámite constitucional Senado Segundo informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver
+16 de Mar. de 2011 Primer trámite constitucional Senado Primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7489-03","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+15 de Jun. de 2011   Simple 281-359  
+10 de May. de 2011 15 de Jun. de 2011 Simple 189-359 281-359","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7489-03","Nombre
+Carlos Cantero Ojeda
+José Antonio Gómez Urrutia
+Antonio Horvath Kiss
+Jaime Orpis Bouchon
+Hosaín Sabag Castillo","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7489-03","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+46   93 0 0 1 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7489-03","No record","Veto emmEnd"

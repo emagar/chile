@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 3789-07","Legislatura: 352
+Fecha de ingreso: jueves 20 de enero de 2005
+Estado: Segundo trámite constitucional .
+Numero de boletín: 3789-07
+Materia: Poder Judicial
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 12:02:39
+* * Hitos de tramitación * *
+"emmStart Hitos 3789-07","Fecha Sesión Etapa Sub-etapa Documento
+20 de Ene. de 2005   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de Ene. de 2005 44ª / 352 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia y a Comisión de Hacienda. Se remite el proyecto a la Corte Suprema. Ver
+21 de Ene. de 2005   Primer trámite constitucional / C. Diputados Oficio Nº 5388 a la Corte Suprema Ver
+23 de Mar. de 2005 55ª / 352 Primer trámite constitucional / C. Diputados Cuenta oficio Nº 26 de la Corte Suprema Ver Ver
+03 de May. de 2005   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+12 de May. de 2005   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de May. de 2005 76ª / 352 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Constitución y de Hacienda Ver
+07 de Jun. de 2005 1ª / 353 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+07 de Jun. de 2005   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+14 de Jun. de 2005 5ª / 353 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento y a Comisión de Hacienda Ver
+15 de Sep. de 2005   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+04 de Oct. de 2005 38ª / 353 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+11 de Oct. de 2005 40ª / 353 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 18/10/2005 Ver
+18 de Oct. de 2005   Segundo trámite constitucional / Senado Boletín de indicaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3789-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3789-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3789-07","Nombre Región Distrito Partido
+Ministerio de Justicia      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3789-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+1 13. 89 0 0 1 Aprobado Sala Ver detalle votación
+1 Con excepción del artículo 13. 91 0 0 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3789-07","No record","Veto emmEnd"

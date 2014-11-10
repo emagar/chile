@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 1577-10","Legislatura: 330
+Fecha de ingreso: miércoles 03 de mayo de 1995
+Estado: Tramitación terminada (D.S. Nº 18 - D.Oficial 23/03/1996)
+Numero de boletín: 1577-10
+Materia: Acuerdos Internacionales,Protección De Obstenciones Vegetales
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 10:54:44
+* * Hitos de tramitación * *
+"emmStart Hitos 1577-10","Fecha Sesión Etapa Sub-etapa Documento
+03 de May. de 1995 57ª / 330 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+03 de May. de 1995   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+17 de Ago. de 1995 27ª / 331 Primer trámite constitucional / Senado Primer informe de comisión Ver
+17 de Ago. de 1995 27ª / 331 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+22 de Ago. de 1995 28ª / 331 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+22 de Ago. de 1995 28ª / 331 Primer trámite constitucional / Senado Discusión general Ver
+24 de Ago. de 1995 32ª / 331 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+12 de Sep. de 1995   Primer trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+03 de Oct. de 1995   Segundo trámite constitucional / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 332
+13 de Oct. de 1995   Primer trámite constitucional / Senado Primer informe de comisión Ver
+17 de Oct. de 1995 6ª / 332 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+17 de Oct. de 1995 6ª / 332 Segundo trámite constitucional / C. Diputados Discusión general Ver
+17 de Oct. de 1995   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+18 de Oct. de 1995 7ª / 332 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+18 de Oct. de 1995 7ª / 332 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1577-10","Fecha Etapa Informe Documento
+13 de Oct. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+12 de Sep. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+17 de Ago. de 1995 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1577-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1577-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1577-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1577-10","No record","Veto emmEnd"

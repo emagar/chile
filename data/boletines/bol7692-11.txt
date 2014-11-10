@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 7692-11","Legislatura: 359
+Fecha de ingreso: martes 07 de junio de 2011
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 7692-11
+Materia: Consumo De Tabaco,Lugares Públicos
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 09-11-2014 07:45:49
+* * Hitos de tramitación * *
+"emmStart Hitos 7692-11","Fecha Sesión Etapa Sub-etapa Documento
+07 de Jun. de 2011   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+07 de Jun. de 2011 23ª / 359 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Salud
+15 de Jun. de 2011 26ª / 359 Primer trámite constitucional / Senado Cuenta del Mensaje 290-359 que hace presente la urgencia Simple
+02 de Ago. de 2011 37ª / 359 Primer trámite constitucional / Senado Cuenta del Mensaje 336-359 que retira y hace presente la urgencia Suma
+17 de Ago. de 2011 45ª / 359 Primer trámite constitucional / Senado Cuenta del Mensaje 351-359 que retira y hace presente la urgencia Suma
+06 de Sep. de 2011 49ª / 359 Tramitación terminada / Cuenta comunicación de S.E. el Presidente de la República, retirando de tramitación el proyecto. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7692-11","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7692-11","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+17 de Ago. de 2011   Suma 351-359  
+02 de Ago. de 2011 17 de Ago. de 2011 Suma 336-359 351-359
+15 de Jun. de 2011 02 de Ago. de 2011 Simple 290-359 336-359","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7692-11","Nombre
+Ministerio de Economía, Fomento y Turism
+Ministerio de Interior y Seguridad Públi
+Ministerio de Salud","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7692-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7692-11","No record","Veto emmEnd"

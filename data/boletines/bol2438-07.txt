@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 2438-07","Legislatura: 341
+Fecha de ingreso: miércoles 01 de diciembre de 1999
+Estado: Tramitación terminada (Ley Nº 19.658 - D.Oficial 20/12/1999)
+Numero de boletín: 2438-07
+Materia: Adopcion,Menores
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 03-11-2014 00:30:05
+* * Hitos de tramitación * *
+"emmStart Hitos 2438-07","Fecha Sesión Etapa Sub-etapa Documento
+01 de Dic. de 1999   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+01 de Dic. de 1999 15ª / 341 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+01 de Dic. de 1999   Primer trámite constitucional / Senado Primer informe de comisión Ver
+01 de Dic. de 1999 15ª / 341 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+01 de Dic. de 1999 15ª / 341 Primer trámite constitucional / Senado Discusión general Ver
+01 de Dic. de 1999   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+14 de Dic. de 1999 19ª / 341 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+14 de Dic. de 1999   Segundo trámite constitucional / C. Diputados Eximido Trámite de Comisión.
+14 de Dic. de 1999 19ª / 341 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+14 de Dic. de 1999   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+15 de Dic. de 1999   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+15 de Dic. de 1999 18ª / 341 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2438-07","Fecha Etapa Informe Documento
+01 de Dic. de 1999 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2438-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+14 de Dic. de 1999   Discusión inmediata 250-341  
+01 de Dic. de 1999   Sin urgencia 238-341  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2438-07","Nombre
+Ministerio de Justicia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2438-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2438-07","No record","Veto emmEnd"

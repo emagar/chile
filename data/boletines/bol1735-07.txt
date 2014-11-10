@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 1735-07","Legislatura: 332
+Fecha de ingreso: jueves 09 de noviembre de 1995
+Estado: Primer trámite constitucional .
+Numero de boletín: 1735-07
+Materia: Juzgados De Policía Local
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 13:54:17
+* * Hitos de tramitación * *
+"emmStart Hitos 1735-07","Fecha Sesión Etapa Sub-etapa Documento
+09 de Nov. de 1995   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+09 de Nov. de 1995 15ª / 332 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+29 de Nov. de 1995 30ª / 332 Primer trámite constitucional / C. Diputados Cuenta oficio 2.036 de la Corte Suprema Ver
+11 de Jun. de 1996 5ª / 333 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+11 de Jun. de 1996 5ª / 333 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+11 de Jun. de 1996   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de Jun. de 1997 3ª / 335 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+25 de Mar. de 1998   Primer trámite constitucional / C. Diputados Rechazada solicitud de archivo La Sala acuerda eximir el proyecto de obligación de archivo.
+25 de Mar. de 1998   Primer trámite constitucional / C. Diputados Se solicita su archivo Of. Nº 4-98 de la Com. de Constitución, solicita eximir el proyecto de la obligación de archivo.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1735-07","Fecha Etapa Informe Documento
+11 de Jun. de 1996 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1735-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1735-07","Nombre Región Distrito Partido
+Ignacio Balbontin Arteaga Región N° Partido Demócrata Cristiano
+Aldo Cornejo González Región N°13 Partido Demócrata Cristiano
+Sergio Elgueta Barrientos Región N°57 Partido Demócrata Cristiano
+Luis Valentín Ferrada Valenzuela Región N° Renovación Nacional
+Pablo Longueira Montes Región N°30 Unión Demócrata Independiente
+Gutenberg Martínez Ocamica Región N°21 Partido Demócrata Cristiano
+Rodolfo Seguel Molina Región N°28 Partido Demócrata Cristiano
+Martita Wörner Tapia Región N° Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1735-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1735-07","No record","Veto emmEnd"

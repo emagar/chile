@@ -1,0 +1,32 @@
+* * Bill summary * *
+"emmStart Summary 6243-21","Legislatura: 356
+Fecha de ingreso: martes 09 de diciembre de 2008
+Estado: Primer trámite constitucional .
+Numero de boletín: 6243-21
+Materia: Anchoveta,Sardina Común
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 04:31:25
+* * Hitos de tramitación * *
+"emmStart Hitos 6243-21","Fecha Sesión Etapa Sub-etapa Documento
+09 de Dic. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+09 de Dic. de 2008 113ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Pesca, Acuicultura e Intereses Marítimos Ver
+07 de Ene. de 2009 120ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1295-356 que hace presente la urgencia Suma Ver
+20 de Ene. de 2009 126ª / 356 Tramitación terminada / Cuenta del Mensaje 1384-356 que retira la urgencia Suma","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6243-21","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6243-21","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+07 de Ene. de 2009 20 de Ene. de 2009 Suma 1295-356 1384-356","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6243-21","Nombre Región Distrito Partido
+Ministerio de Economía, Fomento y Turism      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6243-21","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6243-21","No record","Veto emmEnd"

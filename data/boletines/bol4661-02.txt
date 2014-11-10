@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 4661-02","Legislatura: 354
+Fecha de ingreso: miércoles 08 de noviembre de 2006
+Estado: Tramitación terminada (Ley Nº 20.163 - D.Oficial 10/02/2007)
+Numero de boletín: 4661-02
+Materia: Amnistia,Fuerzas Armadas
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 06-11-2014 04:25:51
+* * Hitos de tramitación * *
+"emmStart Hitos 4661-02","Fecha Sesión Etapa Sub-etapa Documento
+08 de Nov. de 2006   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+14 de Nov. de 2006 68ª / 354 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Defensa Nacional
+29 de Nov. de 2006   Primer trámite constitucional / Senado Primer informe de comisión Ver
+05 de Dic. de 2006 73ª / 354 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+20 de Dic. de 2006 79ª / 354 Primer trámite constitucional / Senado Discusión general Ver
+21 de Dic. de 2006   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+21 de Dic. de 2006 111ª / 354 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Defensa Nacional Ver Ver
+09 de Ene. de 2007 116ª / 354 Tramitación terminada / Cuenta del Mensaje 617-354 que hace presente la urgencia Simple Ver
+10 de Ene. de 2007   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Ene. de 2007 118ª / 354 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+16 de Ene. de 2007 119ª / 354 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+16 de Ene. de 2007   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+17 de Ene. de 2007 85ª / 354 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+17 de Ene. de 2007   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4661-02","Fecha Etapa Informe Documento
+10 de Ene. de 2007 Segundo trámite constitucional C.Diputados Primer informe de comisión de Defensa Nacional Ver
+29 de Nov. de 2006 Primer trámite constitucional Senado Primer informe de comisión de Defensa Nacional Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4661-02","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+09 de Ene. de 2007   Simple 617-354  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4661-02","Nombre
+Ministerio de Defensa Nacional
+Ministerio de Justicia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4661-02","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+119   98 0 0 22 Aprobado Sala Ver detalle votación
+29 Votación General 8 0 0 5   Defensa Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4661-02","No record","Veto emmEnd"

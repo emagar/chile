@@ -1,0 +1,52 @@
+* * Bill summary * *
+"emmStart Summary 1319-08","Legislatura: 329
+Fecha de ingreso: martes 16 de agosto de 1994
+Estado: Tramitación terminada (Ley Nº 19.349 - D.Oficial 11/11/1994)
+Numero de boletín: 1319-08
+Materia: Patentes Mineras
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 07:09:35
+* * Hitos de tramitación * *
+"emmStart Hitos 1319-08","Fecha Sesión Etapa Sub-etapa Documento
+16 de Ago. de 1994   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+16 de Ago. de 1994 30ª / 329 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Minería y Energía Ver
+29 de Ago. de 1994   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+01 de Sep. de 1994   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+01 de Sep. de 1994 35ª / 329 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+01 de Sep. de 1994 35ª / 329 Primer trámite constitucional / C. Diputados Discusión general Ver
+01 de Sep. de 1994   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+06 de Sep. de 1994 30ª / 329 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Minería
+18 de Oct. de 1994   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+18 de Oct. de 1994   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+18 de Oct. de 1994 5ª / 330 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+19 de Oct. de 1994 6ª / 330 Segundo trámite constitucional / Senado Discusión general Ver
+20 de Oct. de 1994   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+20 de Oct. de 1994 8ª / 330 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+20 de Oct. de 1994 8ª / 330 Tercer trámite constitucional / C. Diputados Discusión única Ver
+20 de Oct. de 1994   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+20 de Oct. de 1994   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+24 de Oct. de 1994   Trámite en Tribunal Constitucional / C. Diputados Oficio al Tribunal Constitucional Ver
+31 de Oct. de 1994   Trámite en Tribunal Constitucional / C. Diputados Ingreso fallo del Tribunal Constitucional Ver
+03 de Nov. de 1994   Trámite en Tribunal Constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+08 de Nov. de 1994 11ª / 330 Trámite en Tribunal Constitucional / C. Diputados Cuenta fallo del Tribunal Constitucional Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1319-08","Fecha Etapa Informe Documento
+18 de Oct. de 1994 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+18 de Oct. de 1994 Segundo trámite constitucional Senado Primer informe de comisión de Minería y Energía Ver
+01 de Sep. de 1994 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+29 de Ago. de 1994 Primer trámite constitucional C.Diputados Primer informe de comisión de Minería y Energía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1319-08","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+16 de Ago. de 1994   Suma    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1319-08","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1319-08","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1319-08","No record","Veto emmEnd"

@@ -1,0 +1,58 @@
+* * Bill summary * *
+"emmStart Summary 3075-05","Legislatura: 348
+Fecha de ingreso: martes 01 de octubre de 2002
+Estado: Tramitación terminada (Ley Nº 19.882 - D.Oficial 23/06/2003)
+Numero de boletín: 3075-05
+Materia: Funcionarios Públicos
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 22:52:38
+* * Hitos de tramitación * *
+"emmStart Hitos 3075-05","Fecha Sesión Etapa Sub-etapa Documento
+01 de Oct. de 2002   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+01 de Oct. de 2002 1ª / 348 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+08 de May. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de May. de 2003 75ª / 348 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+08 de May. de 2003   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+13 de May. de 2003 49ª / 348 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+13 de May. de 2003 49ª / 348 Segundo trámite constitucional / Senado Se autoriza a la Comisión de Hacienda para discutir, en el primer informe, en general y particular el proyecto
+15 de May. de 2003   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+15 de May. de 2003 52ª / 348 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+15 de May. de 2003 52ª / 348 Segundo trámite constitucional / Senado Discusión general Ver
+15 de May. de 2003 53ª / 348 Segundo trámite constitucional / Senado Discusión general Ver
+15 de May. de 2003 54ª / 348 Segundo trámite constitucional / Senado Discusión particular Ver
+15 de May. de 2003   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+16 de May. de 2003 80ª / 348 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+16 de May. de 2003 80ª / 348 Tercer trámite constitucional / C. Diputados Discusión única Ver
+16 de May. de 2003   Tercer trámite constitucional / C. Diputados Oficio Nº 4316, que comunica aprobación de modificaciones Ver
+16 de May. de 2003   Trámite de aprobacion presidencial / C. Diputados Oficio Nº4315 al Ejecutivo, comunica proyecto aprobado para los efectos del artículo 70 de la Constitución Política del Estado. Ver
+20 de May. de 2003 55ª / 348 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 4316, que comunica aprobación de modificaciones Ver
+20 de May. de 2003   Trámite en Tribunal Constitucional / C. Diputados Oficio Nº4318 al Tribunal Constitucional Ver
+30 de May. de 2003   Trámite en Tribunal Constitucional / C. Diputados Oficios Nº 4325 y 4327 de 27 y 29 de mayo, respectivamente, al Tribunal Constitucional, remite información solicitada.
+03 de Jun. de 2003 1ª / 349 Trámite de aprobacion presidencial / C. Diputados Cuenta Oficio Nº 608-348 de S.E. el Presidente de la República, manifiesta que ha resuelto no hacer uso de la facultad que le confiere el inciso primero del artículo 70 de la Constitución Política de la República. Ver Ver
+05 de Jun. de 2003 3ª / 349 Trámite en Tribunal Constitucional / C. Diputados Cuenta Oficio de Tribunal Constitucional, remite sentencia. Ver Ver
+05 de Jun. de 2003   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+11 de Jun. de 2003 5ª / 349 Trámite en Tribunal Constitucional / C. Diputados Cuenta oficio N? 1881 del Tribunal Constitucional Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3075-05","Fecha Etapa Informe Documento
+15 de May. de 2003 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+08 de May. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3075-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+29 de Abr. de 2003   Suma 549-348  
+08 de Abr. de 2003 29 de Abr. de 2003 Suma 515-348 549-348","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3075-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3075-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+80   95 0 0 2   Sala Ver detalle votación
+75 Letras a), b) y c) del artículo 7 bis incorporado por el artículo 27; el artículo 4, incorporado por el artículo 26; el inciso segundo del artículo 5º incorporado por el art.26; arts. 41, 42 y 43 del Tít. VI y art. 22 87 0 1 3   Sala Ver detalle votación
+75   91 0 0 0   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3075-05","No record","Veto emmEnd"

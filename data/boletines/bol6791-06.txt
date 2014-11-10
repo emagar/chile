@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 6791-06","Legislatura: 357
+Fecha de ingreso: martes 15 de diciembre de 2009
+Estado: Primer trámite constitucional .
+Numero de boletín: 6791-06
+Materia: Falsa Alarma De Emergencia,Seguridad Ciudadana,Orden Publico
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 16:24:14
+* * Hitos de tramitación * *
+"emmStart Hitos 6791-06","Fecha Sesión Etapa Sub-etapa Documento
+15 de Dic. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+15 de Dic. de 2009 109ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior y Regionalización Ver
+22 de Dic. de 2009 113ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1715-357 que hace presente la urgencia Suma Ver
+05 de Ene. de 2010 114ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1743-357 que retira y hace presente la urgencia Simple Ver
+07 de Ene. de 2010 116ª / 357 Primer trámite constitucional / C. Diputados Comisión de Gobierno Interior solicita que proyecto sea destinado a la Comisión de Constitución o de Seguridad Ciudadana. APROBADO. Ver
+20 de Ene. de 2010 121ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1876-357 que retira la urgencia Simple Ver
+22 de Abr. de 2014 16ª / 362 Primer trámite constitucional / C. Diputados Consulta sobre archivo . Cuenta del oficio de la Comisión de Seguridad Ciudadana, mediante el cual comunica que acordó el archivo del proyecto, de conformidad con lo establecido en el artículo 17 del Reglamento de la Corporación. Por tratarse de un mensaje, se requiere el acuerdo de S.E. la Presidenta de la República. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6791-06","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6791-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+22 de Dic. de 2009 05 de Ene. de 2010 Suma 1715-357 1743-357
+05 de Ene. de 0010 20 de Ene. de 2010 Simple 1743-357 1876-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6791-06","Nombre Región Distrito Partido
+Ministerio de Interior y Seguridad Públi      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6791-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6791-06","No record","Veto emmEnd"

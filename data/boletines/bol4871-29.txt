@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 4871-29","Legislatura: 354
+Fecha de ingreso: miércoles 24 de enero de 2007
+Estado: Segundo trámite constitucional .
+Numero de boletín: 4871-29 Refundido con: 7230-29,7378-29,5519-29,4783-29,4522-29,3455-04,6143-04
+Materia: Deportes,Alumnos Deportistas
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 22:01:28
+* * Hitos de tramitación * *
+"emmStart Hitos 4871-29","Fecha Sesión Etapa Sub-etapa Documento
+24 de Ene. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+24 de Ene. de 2007 124ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión Especial de Deportes Ver
+30 de Nov. de 2010   Primer trámite constitucional / C. Diputados Oficio N°088-2010. Oficio de la Comisión Especial de Deportes, por el cual solicita el acuerdo de la Sala para refundir 7 proyectos de ley. Bol. 3455-04, 4522-29, 4783-29, 4871-29, 5519-29, 6143-04 y 7230-29. Ver
+22 de Jun. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de Jul. de 2011 53ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+19 de Jul. de 2011 58ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 320-359 que hace presente la urgencia Simple Ver
+11 de Ago. de 2011 69ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+16 de Ago. de 2011   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+30 de Ago. de 2011 46ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 360-359 que retira y hace presente la urgencia Simple
+13 de Sep. de 2011 52ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 380-359 que retira la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4871-29","Fecha Etapa Informe Documento
+22 de Jun. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Deportes Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4871-29","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+30 de Ago. de 2011 13 de Sep. de 2011 Simple 360-359 380-359
+19 de Jul. de 2011 30 de Ago. de 2011 Simple 320-359 360-359","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4871-29","Nombre Región Distrito Partido
+Gonzalo Arenas Hödar IX Región de la Araucanía N°48 Unión Demócrata Independiente
+Sergio Bobadilla Muñoz VIII Región del Bío Bío N°45 Unión Demócrata Independiente
+Sergio Correa De la Cerda VII Región del Maule N°36 Unión Demócrata Independiente
+Enrique Estay Peñaloza IX Región de la Araucanía N°49 Unión Demócrata Independiente
+Alejandro García-Huidobro Sanfuentes VI Región del Libertador Bernardo O' Higgins N°32 Unión Demócrata Independiente
+Juan Masferrer Pellizzari VI Región del Libertador Bernardo O' Higgins N°34 Unión Demócrata Independiente
+Iván Moreira Barros RM Región Metropolitana N°27 Unión Demócrata Independiente
+Claudia Nogueira Fernández RM Región Metropolitana N°19 Unión Demócrata Independiente
+Carlos Recondo Lavanderos X Región de los Lagos N°56 Unión Demócrata Independiente
+Manuel Rojas Molina II Región de Antofagasta N°4 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4871-29","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4871-29","No record","Veto emmEnd"

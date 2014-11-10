@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 5748-04","Legislatura: 355
+Fecha de ingreso: miércoles 30 de enero de 2008
+Estado: Tramitación terminada (Ley Nº 20.312 - D.Oficial 18/12/2008)
+Numero de boletín: 5748-04
+Materia: Holocausto Judio (1939-1945),Homenajes,Monumentos
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 07-11-2014 22:49:14
+* * Hitos de tramitación * *
+"emmStart Hitos 5748-04","Fecha Sesión Etapa Sub-etapa Documento
+30 de Ene. de 2008   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+04 de Mar. de 2008 88ª / 355 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+20 de May. de 2008   Primer trámite constitucional / Senado Primer informe de comisión Ver
+20 de May. de 2008 22ª / 356 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Jun. de 2008 25ª / 356 Primer trámite constitucional / Senado Discusión general Ver
+10 de Jun. de 2008   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+12 de Jun. de 2008 39ª / 356 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de la Cultura y las Artes Ver Ver
+15 de Oct. de 2008   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+28 de Oct. de 2008 92ª / 356 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de la Cultura. EN ESTADO DE TABLA. Ver
+13 de Nov. de 2008 102ª / 356 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+13 de Nov. de 2008   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+18 de Nov. de 2008 69ª / 356 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+18 de Nov. de 2008   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5748-04","Fecha Etapa Informe Documento
+15 de Oct. de 2008 Segundo trámite constitucional C.Diputados Primer informe de comisión de la Cultura y las Artes Ver
+20 de May. de 2008 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5748-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5748-04","Nombre
+Jaime Naranjo Ortiz","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5748-04","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+102   80 0 0 0 Aprobado Sala Ver detalle votación
+10 Votación General 6 0 0 7   Cultura Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5748-04","No record","Veto emmEnd"

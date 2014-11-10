@@ -1,0 +1,33 @@
+* * Bill summary * *
+"emmStart Summary 1339-07","Legislatura: 329
+Fecha de ingreso: martes 30 de agosto de 1994
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 1339-07
+Materia: Pactos Electorales,Votación
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 08:16:59
+* * Hitos de tramitación * *
+"emmStart Hitos 1339-07","Fecha Sesión Etapa Sub-etapa Documento
+30 de Ago. de 1994   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+30 de Ago. de 1994 26ª / 329 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+30 de May. de 1995   Primer trámite constitucional / Senado Primer informe de comisión Ver
+06 de Jun. de 1995 4ª / 331 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+18 de Jul. de 1995 18ª / 331 Primer trámite constitucional / Senado Discusión general Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1339-07","Fecha Etapa Informe Documento
+30 de May. de 1995 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1339-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1339-07","Nombre
+Sebastian Piñera Echeñique","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1339-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1339-07","No record","Veto emmEnd"

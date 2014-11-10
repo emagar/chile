@@ -1,0 +1,54 @@
+* * Bill summary * *
+"emmStart Summary 3455-04","Legislatura: 350
+Fecha de ingreso: jueves 22 de enero de 2004
+Estado: Segundo trámite constitucional .
+Numero de boletín: 3455-04 Refundido con: 4871-29,7230-29,7378-29,5519-29,4783-29,4522-29,6143-04
+Materia: Deportes
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 02:55:15
+* * Hitos de tramitación * *
+"emmStart Hitos 3455-04","Fecha Sesión Etapa Sub-etapa Documento
+22 de Ene. de 2004   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+22 de Ene. de 2004 50ª / 350 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+16 de May. de 2008   Primer trámite constitucional / C. Diputados Oficio Nº 353/2008. Solicitud de traslado. Ver
+20 de May. de 2008 32ª / 356 Primer trámite constitucional / C. Diputados Comisión de Educación solicita que proyecto sea trasladado a Comisión Especial de Deportes. Ver
+20 de May. de 2008 32ª / 356 Primer trámite constitucional / C. Diputados Comisión de Educación solicita que proyecto sea trasladado a la Comisión Especial de Deportes. ACORDADO. Ver
+30 de Nov. de 2010 104ª / 358 Primer trámite constitucional / C. Diputados Cuenta Oficio N°088-2010. Oficio de la Comisión Especial de Deportes, por el cual solicita el acuerdo de la Sala para refundir 7 proyectos de ley. Bol. 3455-04, 4522-29, 4783-29, 4871-29, 5519-29, 6143-04 y 7230-29. Aprobado. Ver Ver
+22 de Jun. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de Jul. de 2011 53ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+19 de Jul. de 2011 58ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 320-359 que hace presente la urgencia Simple Ver
+11 de Ago. de 2011 69ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+16 de Ago. de 2011   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+30 de Ago. de 2011 46ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 360-359 que retira y hace presente la urgencia Simple
+13 de Sep. de 2011 52ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 380-359 que retira la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3455-04","Fecha Etapa Informe Documento
+22 de Jun. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Deportes Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3455-04","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+30 de Ago. de 2011 13 de Sep. de 2011 Simple 360-359 380-359
+19 de Jul. de 2011 30 de Ago. de 2011 Simple 320-359 360-359","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3455-04","Nombre Región Distrito Partido
+Ramón Barros Montero VI Región del Libertador Bernardo O' Higgins N°35 Unión Demócrata Independiente
+Marcelo Forni Lobos V Región de Valparaíso N°11 Unión Demócrata Independiente
+Javier Hernández Hernández X Región de los Lagos N°55 Unión Demócrata Independiente
+Iván Norambuena Farías VIII Región del Bío Bío N°46 Unión Demócrata Independiente
+Pablo Prieto Lorca VII Región del Maule N°37 Unión Demócrata Independiente
+Carlos Recondo Lavanderos X Región de los Lagos N°56 Unión Demócrata Independiente
+Manuel Rojas Molina II Región de Antofagasta N°4 Unión Demócrata Independiente
+Jorge Ulloa Aguillón VIII Región del Bío Bío N°43 Unión Demócrata Independiente
+Ignacio Urrutia Bonilla VII Región del Maule N°40 Unión Demócrata Independiente
+Gastón Von Mühlenbrock Zamora X Región de los Lagos N°54 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3455-04","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+69 numeral 3 artículo único 72 1 0 0 Aprobado Sala Ver detalle votación
+69   75 0 0 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3455-04","No record","Veto emmEnd"

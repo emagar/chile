@@ -1,0 +1,65 @@
+* * Bill summary * *
+"emmStart Summary 6064-06","Legislatura: 356
+Fecha de ingreso: jueves 04 de septiembre de 2008
+Estado: Tramitación terminada (Ley Nº 20.771 - D.Oficial 27/08/2014)
+Numero de boletín: 6064-06
+Materia: Festividades Religiosas,Región De Antofagasta (Chile) 2
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 02:27:18
+* * Hitos de tramitación * *
+"emmStart Hitos 6064-06","Fecha Sesión Etapa Sub-etapa Documento
+04 de Sep. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Sep. de 2008 72ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+03 de Sep. de 2013   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de Sep. de 2013 67ª / 361 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+03 de Sep. de 2013 67ª / 361 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+09 de Sep. de 2013 71ª / 361 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general . Vuelve a Comisión de Gobierno Interior, para segundo informe, sobre indicaciones presentadas en Sala. Ver
+03 de Oct. de 2013   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+15 de Oct. de 2013 83ª / 361 Primer trámite constitucional / C. Diputados Cuenta. Segundo informe de la Comisión de Gobierno Interior y Regionalización recaído en el proyecto. Ver
+19 de Nov. de 2013 87ª / 361 Primer trámite constitucional / C. Diputados Discusión particular. Aprobado Ver
+19 de Nov. de 2013   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+19 de Nov. de 2013 70ª / 361 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización
+19 de Nov. de 2013 70ª / 361 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización
+05 de Ago. de 2014 35ª / 362 Segundo trámite constitucional / Senado Cuenta del Mensaje 349-362 que hace presente la urgencia Discusión inmediata
+12 de Ago. de 2014   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+12 de Ago. de 2014 37ª / 362 Segundo trámite constitucional / Senado Cuenta del Mensaje 369-362 que retira y hace presente la urgencia Discusión inmediata
+12 de Ago. de 2014 37ª / 362 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Ago. de 2014 37ª / 362 Segundo trámite constitucional / Senado Discusión general Ver
+12 de Ago. de 2014   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+13 de Ago. de 2014 55ª / 362 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+14 de Ago. de 2014 57ª / 362 Tercer trámite constitucional / C. Diputados Discusión única. Aprobadas las modificaciones Ver
+14 de Ago. de 2014   Tercer trámite constitucional / C. Diputados Oficio N° 11.419, a S.E. la Presidenta de la República, para promulgación. Ver
+14 de Ago. de 2014   Tercer trámite constitucional / C. Diputados Oficio N° 11.420, al Senado, que comunica aprobación de modificaciones. Ver
+19 de Ago. de 2014 40ª / 362 Tercer trámite constitucional / C. Diputados Cuenta oficio N° 11.420, que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6064-06","Fecha Etapa Informe Documento
+12 de Ago. de 2014 Segundo trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver
+03 de Oct. de 2013 Primer trámite constitucional C.Diputados Segundo informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver
+03 de Sep. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6064-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+12 de Ago. de 2014   Discusión inmediata 369-362  
+05 de Ago. de 2014 12 de Ago. de 2014 Discusión inmediata 349-362 369-362","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6064-06","Nombre Región Distrito Partido
+Pedro Araya Guerrero II Región de Antofagasta N°4 Independientes
+Alfonso De Urresti Longton XIV Región de los Ríos N°53 Partido Socialista
+Roberto Delmastro Naso XIV Región de los Ríos N°53 Renovación Nacional
+Marcos Espinosa Monardes II Región de Antofagasta N°3 Partido Radical Social Demócrata
+Fidel Espinoza Sandoval X Región de los Lagos N°56 Partido Socialista
+Guido Girardi Briere RM Región Metropolitana N°18 Partido Por la Democracia
+Jorge Sabag Villalobos VIII Región del Bío Bío N°42 Partido Demócrata Cristiano
+Alejandro Sule Fernández VI Región del Libertador Bernardo O' Higgins N°33 Partido Radical Social Demócrata","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6064-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+57   48 0 3 0 Aprobado Sala Ver detalle votación
+71   56 0 11 0 Aprobado Sala Ver detalle votación
+87   70 4 11 35 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6064-06","No record","Veto emmEnd"

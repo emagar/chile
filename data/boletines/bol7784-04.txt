@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 7784-04","Legislatura: 359
+Fecha de ingreso: martes 12 de julio de 2011
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 7784-04
+Materia: Exámen De Excelencia Profesional Docente
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 09:23:46
+* * Hitos de tramitación * *
+"emmStart Hitos 7784-04","Fecha Sesión Etapa Sub-etapa Documento
+12 de Jul. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Jul. de 2011 54ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Deportes y Recreación y a Comisión de Hacienda Ver
+07 de Sep. de 2011 80ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 378-359 que hace presente la urgencia Simple Ver
+08 de Sep. de 2011 81ª / 359 Primer trámite constitucional / C. Diputados Oficio N°120-359. Informe financiero sustitutivo del proyecto Ver Ver
+13 de Oct. de 2011 96ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 422-359 que hace presente la urgencia Simple Ver
+17 de Nov. de 2011 110ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 456-359 que hace presente la urgencia Simple Ver
+20 de Dic. de 2011 123ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 504-359 que hace presente la urgencia Simple Ver
+19 de Ene. de 2012 136ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 568-359 que hace presente la urgencia Simple Ver
+06 de Mar. de 2012 140ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 578-359 que retira la urgencias por receso legislativo Ver
+03 de Abr. de 2012 8ª / 360 Tramitación terminada / Oficio de S. E. el Presidente de la República por el cual comunica que retira de su tramitación ante el Congreso Nacional, el proyecto.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7784-04","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7784-04","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+19 de Ene. de 2012 31 de Ene. de 2012 Simple 568-359 578-359
+20 de Dic. de 2011   Simple 504-359  
+17 de Nov. de 2011   Simple 456-359  
+13 de Oct. de 2011   Simple 422-359  
+07 de Sep. de 2011   Simple 378-359  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7784-04","Nombre Región Distrito Partido
+Ministerio de Defensa Nacional      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7784-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7784-04","No record","Veto emmEnd"

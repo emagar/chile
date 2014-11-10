@@ -1,0 +1,58 @@
+* * Bill summary * *
+"emmStart Summary 1579-07","Legislatura: 330
+Fecha de ingreso: jueves 04 de mayo de 1995
+Estado: Tramitación terminada (Ley Nº 19.611 - D.Oficial 16/06/1999)
+Numero de boletín: 1579-07
+Materia: Igualdad De Oportunidades
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 10:56:24
+* * Hitos de tramitación * *
+"emmStart Hitos 1579-07","Fecha Sesión Etapa Sub-etapa Documento
+04 de May. de 1995   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Nov. de 1996 13ª / 334 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+18 de Mar. de 1997   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de Mar. de 1997 53ª / 334 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+01 de Abr. de 1997 55ª / 334 Primer trámite constitucional / C. Diputados Discusión general. Pendiente Discusión Interv. los Dip. Luksic(inf.Com.Const.), R.Urrutia, Elizalde, Viera-Gallo, Wörner, Saa, Hara, M.Aylwin, J.P.Letelier Ver Ver
+02 de Abr. de 1997 56ª / 334 Primer trámite constitucional / C. Diputados Discusión general. Pendiente Discusión Interv. Los Dip. Ribera, Elgueta, Taladriz, Gajardo, Cristi, Bombal, Schaulsohn, Pollarolo, Sabag, Seguek, Ojeda. Ver Ver
+08 de Abr. de 1997 58ª / 334 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+15 de Abr. de 1997   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+29 de Abr. de 1997 63ª / 334 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+06 de May. de 1997 66ª / 334 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver
+06 de May. de 1997   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+07 de May. de 1997 47ª / 334 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+06 de Oct. de 1998 1ª / 339 Segundo trámite constitucional / Senado Se Incluye en La Actual Legislatura 339
+01 de Dic. de 1998   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+15 de Dic. de 1998 11ª / 339 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Ene. de 1999 16ª / 339 Segundo trámite constitucional / Senado Discusión general Ver
+03 de Mar. de 1999 21ª / 339 Segundo trámite constitucional / Senado Discusión general Ver
+08 de Mar. de 1999   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+09 de Mar. de 1999 40ª / 339 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+11 de Mar. de 1999 42ª / 339 Tercer trámite constitucional / C. Diputados Discusión única. Pendiente Discusión Pendiente disc. Modif. del Senado. Interv. los Dip. Pollstolo, L:Pérez, Sciaraffia, Saa, Bartolucci, Soto, Elgueta. Ver
+16 de Mar. de 1999 43ª / 339 Tercer trámite constitucional / C. Diputados Discusión única Ver
+16 de Mar. de 1999   Tercer trámite constitucional / C. Diputados Oficio aprobación de modificaciones de Ref.Constitucional
+15 de May. de 1999 0ª / 339 Congreso Pleno / Ratificación reforma constitucional","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1579-07","Fecha Etapa Informe Documento
+01 de Dic. de 1998 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+15 de Abr. de 1997 Primer trámite constitucional C.Diputados Segundo informe de comisión de Constitución, Legislación y Justicia Ver
+18 de Mar. de 1997 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1579-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+09 de Mar. de 1999   Suma 238-339  
+02 de Mar. de 1999 03 de Mar. de 1999 Suma 02031999 03031999
+19 de Ene. de 1999 20 de Ene. de 1999 Suma 19011999  
+15 de Dic. de 1998 19 de Ene. de 1999 Simple 05011999 19011999
+15 de Dic. de 1998 15 de Dic. de 1998 Simple 15-12-1998 05011999
+04 de May. de 1995   Sin urgencia 643-330  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1579-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1579-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1579-07","No record","Veto emmEnd"

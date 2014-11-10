@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 3829-04","Legislatura: 352
+Fecha de ingreso: martes 05 de abril de 2005
+Estado: Archivado .
+Numero de boletín: 3829-04
+Materia: Monumentos
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 04-11-2014 17:54:38
+* * Hitos de tramitación * *
+"emmStart Hitos 3829-04","Fecha Sesión Etapa Sub-etapa Documento
+05 de Abr. de 2005   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+05 de Abr. de 2005 41ª / 352 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+16 de Ago. de 2005   Primer trámite constitucional / Senado Primer informe de comisión Ver
+17 de Ago. de 2005 28ª / 353 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+30 de Ago. de 2005 29ª / 353 Primer trámite constitucional / Senado Discusión general Ver
+30 de Ago. de 2005   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+31 de Ago. de 2005 37ª / 353 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver Ver
+16 de May. de 2008   Segundo trámite constitucional / C. Diputados Oficio Nº 353/2008. Solicitud de traslado. Ver
+20 de May. de 2008 32ª / 356 Segundo trámite constitucional / C. Diputados Comisión de Educación solicita que proyecto sea trasladado a la Comisión de la Cultura y las Artes. ACORDADO. Ver
+21 de Ene. de 2009   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de Mar. de 2009 131ª / 356 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+05 de May. de 2010   Segundo trámite constitucional / C. Diputados Archivado Se solicita archivo por rechazo de simple mayoría en Comisión
+06 de May. de 2010 22ª / 358 Archivado / Oficio N°271/SEC/10. Accede a proposición de archivo de la Cámara de Diputados. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3829-04","Fecha Etapa Informe Documento
+21 de Ene. de 2009 Segundo trámite constitucional C.Diputados Primer informe de comisión de la Cultura y las Artes Ver
+16 de Ago. de 2005 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3829-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3829-04","Nombre
+Fernando Cordero Rusque
+Jorge Martínez Busch","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3829-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3829-04","No record","Veto emmEnd"

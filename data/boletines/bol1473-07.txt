@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 1473-07","Legislatura: 330
+Fecha de ingreso: martes 20 de diciembre de 1994
+Estado: Archivado .
+Numero de boletín: 1473-07
+Materia: Congreso Nacional
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 09:32:43
+* * Hitos de tramitación * *
+"emmStart Hitos 1473-07","Fecha Sesión Etapa Sub-etapa Documento
+20 de Dic. de 1994 29ª / 330 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+20 de Dic. de 1994   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+05 de Abr. de 1995 49ª / 330 Primer trámite constitucional / Senado Primer informe de comisión Ver
+05 de Abr. de 1995 49ª / 330 Primer trámite constitucional / Senado Discusión general. Archivado Por acuerdo de Comités, se manda archivar el proyecto. Ver
+05 de Abr. de 1995 49ª / 330 Primer trámite constitucional / Senado Cuenta de primer informe de comisión","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1473-07","Fecha Etapa Informe Documento
+05 de Abr. de 1995 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1473-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1473-07","Nombre
+Eugenio Cantuarias Larrondo
+Ricardo Núñez Muñoz
+Mario Ríos Santander
+José Ruiz De Giorgio","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1473-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1473-07","No record","Veto emmEnd"

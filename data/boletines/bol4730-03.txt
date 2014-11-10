@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 4730-03","Legislatura: 354
+Fecha de ingreso: martes 19 de diciembre de 2006
+Estado: Segundo trámite constitucional .
+Numero de boletín: 4730-03
+Materia: Información Financiera,Consumidores,Operaciones De Crédito
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 06:53:28
+* * Hitos de tramitación * *
+"emmStart Hitos 4730-03","Fecha Sesión Etapa Sub-etapa Documento
+19 de Dic. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+19 de Dic. de 2006 109ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+14 de Jul. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+14 de Jul. de 2009 53ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+08 de Oct. de 2009 87ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver
+08 de Oct. de 2009   Primer trámite constitucional / C. Diputados Oficio N° 8369. Comunica aprobación del proyecto a la Cámara Revisora Ver
+13 de Oct. de 2009 57ª / 357 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Economía","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4730-03","Fecha Etapa Informe Documento
+14 de Jul. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4730-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4730-03","Nombre Región Distrito Partido
+Claudio Alvarado Andrade X Región de los Lagos N°58 Unión Demócrata Independiente
+Gonzalo Arenas Hödar IX Región de la Araucanía N°48 Unión Demócrata Independiente
+Eugenio Bauer Jouanne VI Región del Libertador Bernardo O' Higgins N°33 Unión Demócrata Independiente
+Sergio Bobadilla Muñoz VIII Región del Bío Bío N°45 Unión Demócrata Independiente
+Marcelo Forni Lobos V Región de Valparaíso N°11 Unión Demócrata Independiente
+Iván Norambuena Farías VIII Región del Bío Bío N°46 Unión Demócrata Independiente
+Manuel Rojas Molina II Región de Antofagasta N°4 Unión Demócrata Independiente
+Ignacio Urrutia Bonilla VII Región del Maule N°40 Unión Demócrata Independiente
+Gastón Von Mühlenbrock Zamora XIV Región de los Ríos N°54 Unión Demócrata Independiente
+Felipe Ward Edwards II Región de Antofagasta N°3 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4730-03","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+87   52 0 0 68 Aprobado Sala Ver detalle votación
+109 Votación General 5 0 0 7   Economía Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4730-03","No record","Veto emmEnd"

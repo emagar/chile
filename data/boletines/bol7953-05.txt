@@ -1,0 +1,55 @@
+* * Bill summary * *
+"emmStart Summary 7953-05","Legislatura: 359
+Fecha de ingreso: miércoles 28 de septiembre de 2011
+Estado: Tramitación terminada (Ley Nº 20.565 - D.Oficial 08/02/2012)
+Numero de boletín: 7953-05
+Materia: Donaciones
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 13:44:44
+* * Hitos de tramitación * *
+"emmStart Hitos 7953-05","Fecha Sesión Etapa Sub-etapa Documento
+28 de Sep. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+28 de Sep. de 2011 86ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+04 de Oct. de 2011 89ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 410-359 que hace presente la urgencia Suma Ver
+28 de Oct. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Nov. de 2011 102ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 431-359 que hace presente la urgencia Suma Ver
+02 de Nov. de 2011 102ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+03 de Nov. de 2011 104ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+08 de Nov. de 2011   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+16 de Nov. de 2011 69ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 450-359 que retira y hace presente la urgencia Suma
+12 de Dic. de 2011   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+12 de Dic. de 2011 79ª / 359 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Dic. de 2011 79ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 478-359 que retira y hace presente la urgencia Suma
+13 de Dic. de 2011 80ª / 359 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 09/01/2012 Ver
+03 de Ene. de 2012 85ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 523-359 que retira y hace presente la urgencia Suma
+10 de Ene. de 2012 87ª / 359 Segundo trámite constitucional / Senado Discusión particular. Aprobado sin modificaciones En virtud del artículo 120 del Reglamento del Senado Ver
+10 de Ene. de 2012   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+11 de Ene. de 2012 130ª / 359 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+11 de Ene. de 2012   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7953-05","Fecha Etapa Informe Documento
+12 de Dic. de 2011 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+28 de Oct. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7953-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+03 de Ene. de 2012   Suma 523-359  
+12 de Dic. de 2011 03 de Ene. de 2012 Suma 478-359 523-359
+16 de Nov. de 2011 12 de Dic. de 2011 Suma 450-359 478-359
+02 de Nov. de 2011 16 de Nov. de 2011 Suma 431-359 450-359
+04 de Oct. de 2011   Suma 410-359  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7953-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7953-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+104   90 3 2 1 Aprobado Sala Ver detalle votación
+104   81 1 2 1 Aprobado Sala Ver detalle votación
+137 Votación General 11 0 1 1   Hacienda Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7953-05","No record","Veto emmEnd"

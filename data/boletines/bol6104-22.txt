@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 6104-22","Legislatura: 356
+Fecha de ingreso: martes 16 de septiembre de 2008
+Estado: Segundo trámite constitucional .
+Numero de boletín: 6104-22
+Materia: Bomberos De Chile,Renta Vitalicia
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 02:54:19
+* * Hitos de tramitación * *
+"emmStart Hitos 6104-22","Fecha Sesión Etapa Sub-etapa Documento
+15 de Sep. de 2008 80ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión Especial de Bomberos Ver
+16 de Sep. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+16 de Sep. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+16 de Sep. de 2008 81ª / 356 Primer trámite constitucional / C. Diputados Informe de la Comisión Especial de Bomberos. EN TABLA. Ver
+16 de Sep. de 2008 81ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+16 de Sep. de 2008   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+30 de Sep. de 2008 55ª / 356 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6104-22","Fecha Etapa Informe Documento
+16 de Sep. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión Especial de Bomberos Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6104-22","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6104-22","Nombre Región Distrito Partido
+Francisco Chahuán Chahuán V Región de Valparaíso N°14 Renovación Nacional
+Andrés Egaña Respaldiza VIII Región del Bío Bío N°44 Unión Demócrata Independiente
+Francisco Encina Moriamez IV Región de Coquimbo N°8 Partido Socialista
+Enrique Jaramillo Becker XIV Región de los Ríos N°54 Partido Por la Democracia
+Carlos Abel Jarpa Wevar VIII Región del Bío Bío N°41 Partido Radical Social Demócrata
+Iván Norambuena Farías VIII Región del Bío Bío N°46 Unión Demócrata Independiente
+Sergio Ojeda Uribe X Región de los Lagos N°55 Partido Demócrata Cristiano
+José Miguel Ortiz Novoa VIII Región del Bío Bío N°44 Partido Demócrata Cristiano
+Jaime Quintana Leal IX Región de la Araucanía N°49 Partido Por la Democracia
+Jorge Ulloa Aguillón VIII Región del Bío Bío N°43 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6104-22","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+81   86 0 0 34 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6104-22","No record","Veto emmEnd"

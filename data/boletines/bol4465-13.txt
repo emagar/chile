@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 4465-13","Legislatura: 354
+Fecha de ingreso: martes 05 de septiembre de 2006
+Estado: Primer trámite constitucional .
+Numero de boletín: 4465-13
+Materia: Fuero Paternal
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 02:00:29
+* * Hitos de tramitación * *
+"emmStart Hitos 4465-13","Fecha Sesión Etapa Sub-etapa Documento
+05 de Sep. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+05 de Sep. de 2006 69ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia y a Comisión de Trabajo y Seguridad Social Ver
+05 de Sep. de 2006   Primer trámite constitucional / C. Diputados Oficio Nº 6367. Se remite el proyecto a la Comisión de Constitución, Legislación y Justicia a fin de que se pronuncie sobre la admisibilidad de la moción Ver
+12 de Sep. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Trabajo y Seguridad Social Ver
+03 de Oct. de 2006 78ª / 354 Primer trámite constitucional / C. Diputados Oficio de la Comisión de Constitución sobre admisibilidad de proyecto. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4465-13","Fecha Etapa Informe Documento
+12 de Sep. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4465-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4465-13","Nombre Región Distrito Partido
+Gonzalo Duarte Leiva RM Región Metropolitana N°26 Partido Demócrata Cristiano
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Patricio Hales Dib RM Región Metropolitana N°19 Partido Por la Democracia
+Adriana Muñoz D'Albora IV Región de Coquimbo N°9 Partido Por la Democracia
+José Miguel Ortiz Novoa VIII Región del Bío Bío N°44 Partido Demócrata Cristiano
+Iván Paredes Fierro XV Región Arica y Parinacota N°1 Partido Socialista
+María Antonieta Saa Díaz RM Región Metropolitana N°17 Partido Por la Democracia
+Gabriel Silber Romo RM Región Metropolitana N°16 Partido Demócrata Cristiano
+Patricio Vallespín López X Región de los Lagos N°57 Partido Demócrata Cristiano
+Patricio Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4465-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4465-13","No record","Veto emmEnd"

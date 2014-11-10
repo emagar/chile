@@ -1,0 +1,58 @@
+* * Bill summary * *
+"emmStart Summary 7024-13","Legislatura: 358
+Fecha de ingreso: martes 29 de junio de 2010
+Estado: Tramitación terminada (Ley Nº 20.459 - D.Oficial 04/09/2010)
+Numero de boletín: 7024-13
+Materia: Pensiones Solidarias,Discapacidad,Vejez,Pensiones A La Vejez
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 08-11-2014 23:23:28
+* * Hitos de tramitación * *
+"emmStart Hitos 7024-13","Fecha Sesión Etapa Sub-etapa Documento
+29 de Jun. de 2010   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+29 de Jun. de 2010 30ª / 358 Primer trámite constitucional / Senado Cuenta del Mensaje 178-358 que hace presente la urgencia Simple
+29 de Jun. de 2010 30ª / 358 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social y a Comisión de Hacienda, en su caso.
+30 de Jun. de 2010 31ª / 358 Primer trámite constitucional / Senado La Sala, a solicitud del Senador señor Muñoz Aburto, autorizó a la Comisión a discutir este proyecto en general y en particular en su primer informe.
+09 de Jul. de 2010   Primer trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+13 de Jul. de 2010   Primer trámite constitucional / Senado Primer informe de comisión Ver
+13 de Jul. de 2010 34ª / 358 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+14 de Jul. de 2010 35ª / 358 Primer trámite constitucional / Senado Discusión general Ver
+14 de Jul. de 2010   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+15 de Jul. de 2010 54ª / 358 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+29 de Jul. de 2010 57ª / 358 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 227-358 que retira y hace presente la urgencia Simple Ver
+03 de Ago. de 2010   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+10 de Ago. de 2010 61ª / 358 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión. Pasa a Comisión de Hacienda. Ver
+12 de Ago. de 2010   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Ago. de 2010 64ª / 358 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+17 de Ago. de 2010 64ª / 358 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 265-358 que retira y hace presente la urgencia Suma Ver
+18 de Ago. de 2010 65ª / 358 Segundo trámite constitucional / C. Diputados Discusión general Ver
+18 de Ago. de 2010   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen. Oficio N°8946. Ver
+18 de Ago. de 2010 44ª / 358 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+18 de Ago. de 2010   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7024-13","Fecha Etapa Informe Documento
+12 de Ago. de 2010 Segundo trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+03 de Ago. de 2010 Segundo trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver
+13 de Jul. de 2010 Primer trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+09 de Jul. de 2010 Primer trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7024-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+17 de Ago. de 2010   Suma 265-358  
+29 de Jul. de 2010 17 de Ago. de 2010 Simple 227-358 265-358
+29 de Jun. de 2010   Simple 160-358  
+29 de Jun. de 2010   Simple 178-358  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7024-13","Nombre
+Ministerio de Hacienda
+Ministerio de Trabajo y Previsión Social","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7024-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+16 Votación General 12 0 0 1   Trabajo Ver detalle votación
+65   94 0 0 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7024-13","No record","Veto emmEnd"

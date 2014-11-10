@@ -1,0 +1,77 @@
+* * Bill summary * *
+"emmStart Summary 8787-19","Legislatura: 360
+Fecha de ingreso: jueves 17 de enero de 2013
+Estado: Tramitación terminada (Ley Nº 20.704 - D.Oficial 06/11/2013)
+Numero de boletín: 8787-19 Refundido con: 8790-15
+Materia: Meta Todo Chile A Llamada Local
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 05:43:14
+* * Hitos de tramitación * *
+"emmStart Hitos 8787-19","Fecha Sesión Etapa Sub-etapa Documento
+17 de Ene. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+17 de Ene. de 2013 129ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Ciencias y Tecnología Ver
+17 de Abr. de 2013 17ª / 361 Primer trámite constitucional / C. Diputados Oficio de la Comisión de Ciencia y Tecnología, por el cual solicita el acuerdo de la Sala, de conformidad con el artículo 17 A de la Ley Orgánica Constitucional del Congreso Nacional, para refundir los Boletines N°s 8.790-15 y 8.787-19, ya que tratan temas afines y de su competencia. Aprobado. Ver
+22 de May. de 2013   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+23 de May. de 2013 31ª / 361 Primer trámite constitucional / C. Diputados Cuenta. Primer Informe de la Comisión de Ciencia y Tecnología, recaído en los proyectos 8787-19 y 8790-15, refundidos Ver
+23 de May. de 2013 31ª / 361 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+23 de May. de 2013 31ª / 361 Primer trámite constitucional / C. Diputados Los Comités Parlamentarios, acordaron enviar el proyecto a la Comisión de Obras Públicas, Transportes y Telecomunicaciones, hasta por dos semanas Ver
+11 de Jun. de 2013   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+19 de Jun. de 2013 40ª / 361 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. Primer informe de la Comisión de Obras Públicas, Transportes y Telecomunicaciones recaído en el proyecto. Ver
+04 de Jul. de 2013 44ª / 361 Primer trámite constitucional / C. Diputados Discusión general. Votación pendiente. Ver
+09 de Jul. de 2013 45ª / 361 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general y particular a la vez . Ver
+09 de Jul. de 2013   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+10 de Jul. de 2013 40ª / 361 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones
+30 de Jul. de 2013   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+31 de Jul. de 2013 43ª / 361 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+28 de Ago. de 2013 50ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 248-361 que hace presente la urgencia Suma
+04 de Sep. de 2013 53ª / 361 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 16/09/2013 Ver
+16 de Sep. de 2013   Segundo trámite constitucional / Senado Boletín de indicaciones
+01 de Oct. de 2013 58ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 279-361 que retira y hace presente la urgencia Suma
+03 de Oct. de 2013   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+08 de Oct. de 2013 60ª / 361 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+09 de Oct. de 2013 62ª / 361 Segundo trámite constitucional / Senado Discusión particular Ver
+09 de Oct. de 2013   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+10 de Oct. de 2013 82ª / 361 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+15 de Oct. de 2013 83ª / 361 Tercer trámite constitucional / C. Diputados Discusión única. Aprobadas las modificaciones . Ver
+15 de Oct. de 2013   Tercer trámite constitucional / C. Diputados Oficio N° 10.958, que comunica aprobacion de modificaciones Ver
+15 de Oct. de 2013   Tercer trámite constitucional / C. Diputados Oficio N° 10.959, remite proyecto para promulgación. Ver
+16 de Oct. de 2013 64ª / 361 Tercer trámite constitucional / C. Diputados Cuenta oficio N° 10.959, que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8787-19","Fecha Etapa Informe Documento
+03 de Oct. de 2013 Segundo trámite constitucional Senado Segundo informe de comisión de Transportes y Telecomunicaciones Ver
+30 de Jul. de 2013 Segundo trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver
+25 de Jun. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+22 de May. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión de Ciencias y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8787-19","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+01 de Oct. de 2013   Suma 279-361  
+28 de Ago. de 2013 01 de Oct. de 2013 Suma 248-361 279-361","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8787-19","Nombre Región Distrito Partido
+Germán Becker Alvear IX Región de la Araucanía N°50 Renovación Nacional
+Juan Luis Castro González VI Región del Libertador Bernardo O' Higgins N°32 Partido Socialista
+Ramón Farías Ponce RM Región Metropolitana N°30 Partido Por la Democracia
+Gustavo Hasbún Selume RM Región Metropolitana N°26 Unión Demócrata Independiente
+Juan Carlos Latorre Carmona VI Región del Libertador Bernardo O' Higgins N°35 Partido Demócrata Cristiano
+Iván Moreira Barros RM Región Metropolitana N°27 Unión Demócrata Independiente
+Alberto Robles Pantoja III Región de Atacama N°6 Partido Radical Social Demócrata
+Víctor Torres Jeldes V Región de Valparaíso N°15 Partido Demócrata Cristiano
+Ignacio Urrutia Bonilla VII Región del Maule N°40 Unión Demócrata Independiente
+Enrique Van Rysselberghe Herrera VIII Región del Bío Bío N°44 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8787-19","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+45 Artículo 2° literales a), b), c) y d) 101 0 0 19 Aprobado Sala Ver detalle votación
+45 Artículo 2° literales e), f), g), h), i) y j) 47 46 4 23 Rechazado Sala Ver detalle votación
+45 Artículo transitorio 99 0 0 21 Aprobado Sala Ver detalle votación
+83   107 0 0 13 Aprobado Sala Ver detalle votación
+45 Artículo 1° 102 0 0 18 Aprobado Sala Ver detalle votación
+45 Artículo 3° 76 20 3 21 Aprobado Sala Ver detalle votación
+45   102 0 0 18 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8787-19","No record","Veto emmEnd"

@@ -1,0 +1,53 @@
+* * Bill summary * *
+"emmStart Summary 2207-01","Legislatura: 338
+Fecha de ingreso: martes 21 de julio de 1998
+Estado: Tramitación terminada (Ley Nº 19.695 - D.Oficial 05/10/2000)
+Numero de boletín: 2207-01
+Materia: Fertilizantes
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 22:02:48
+* * Hitos de tramitación * *
+"emmStart Hitos 2207-01","Fecha Sesión Etapa Sub-etapa Documento
+21 de Jul. de 1998   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+21 de Jul. de 1998 19ª / 338 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Agricultura, Silvicultura y Pesca Ver
+08 de Sep. de 1998   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Sep. de 1998 34ª / 338 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+16 de Sep. de 1998 39ª / 338 Primer trámite constitucional / C. Diputados Pendiente la votación Intervienen los Dip. Hernández, Melero, Bertolino, J.García, Gutiérrez Ver Ver
+14 de Jul. de 1999 20ª / 340 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+14 de Jul. de 1999   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+20 de Jul. de 1999 16ª / 340 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Agricultura
+10 de Jul. de 2000   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+12 de Jul. de 2000 10ª / 342 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+18 de Jul. de 2000 11ª / 342 Segundo trámite constitucional / Senado Discusión general Ver
+19 de Jul. de 2000   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+01 de Ago. de 2000 19ª / 342 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+31 de Ago. de 2000 32ª / 342 Tercer trámite constitucional / C. Diputados Discusión única Ver
+31 de Ago. de 2000   Tercer trámite constitucional / C. Diputados Oficio Nº 3050, que comunica aprobación de modificaciones Ver
+31 de Ago. de 2000   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+05 de Sep. de 2000 21ª / 342 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 3050, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2207-01","Fecha Etapa Informe Documento
+10 de Jul. de 2000 Segundo trámite constitucional Senado Primer informe de comisión de Agricultura Ver
+08 de Sep. de 1998 Primer trámite constitucional C.Diputados Primer informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2207-01","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2207-01","Nombre Región Distrito Partido
+Mario Bertolino Rendic IV Región de Coquimbo N°7 Renovación Nacional
+Guillermo Ceroni Fuentes VII Región del Maule N°40 Partido Por la Democracia
+José Antonio Galilea Vidaurre IX Región de la Araucanía N°49 Renovación Nacional
+Homero Gutiérrez Román VII Región del Maule N°37 Partido Demócrata Cristiano
+Miguel Hernández Saffirio IX Región de la Araucanía N°49 Partido Demócrata Cristiano
+Juan Núñez Valenzuela VI Región del Libertador Bernardo O' Higgins N°34 Partido Demócrata Cristiano
+Sergio Ojeda Uribe X Región de los Lagos N°55 Partido Demócrata Cristiano
+Exequiel Silva Ortíz X Región de los Lagos N°53 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2207-01","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2207-01","No record","Veto emmEnd"

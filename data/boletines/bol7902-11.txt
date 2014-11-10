@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 7902-11","Legislatura: 359
+Fecha de ingreso: martes 06 de septiembre de 2011
+Estado: Primer trámite constitucional .
+Numero de boletín: 7902-11
+Materia: Discapacitados
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 13:11:21
+* * Hitos de tramitación * *
+"emmStart Hitos 7902-11","Fecha Sesión Etapa Sub-etapa Documento
+06 de Sep. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Sep. de 2011 78ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7902-11","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7902-11","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7902-11","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Pedro Araya Guerrero II Región de Antofagasta N°4 Partido Regionalista Independiente
+Fuad Chahín Valenzuela IX Región de la Araucanía N°49 Partido Demócrata Cristiano
+Sergio Ojeda Uribe X Región de los Lagos N°55 Partido Demócrata Cristiano
+Leopoldo Pérez Lahsen RM Región Metropolitana N°29 Renovación Nacional
+Jorge Sabag Villalobos VIII Región del Bío Bío N°42 Partido Demócrata Cristiano
+Marcela Sabat Fernández RM Región Metropolitana N°21 Renovación Nacional
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Partido Regionalista Independiente
+Víctor Torres Jeldes V Región de Valparaíso N°15 Partido Demócrata Cristiano
+Pedro Velásquez Seguel IV Región de Coquimbo N°8 Independientes","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7902-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7902-11","No record","Veto emmEnd"

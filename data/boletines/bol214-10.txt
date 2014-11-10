@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 214-10","Legislatura: 321
+Fecha de ingreso: martes 04 de diciembre de 1990
+Estado: Archivado .
+Numero de boletín: 214-10
+Materia: Acuerdos Internacionales,Apartheid
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 07:37:52
+* * Hitos de tramitación * *
+"emmStart Hitos 214-10","Fecha Sesión Etapa Sub-etapa Documento
+04 de Dic. de 1990   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Dic. de 1990 17ª / 321 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+19 de May. de 1992   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de Mar. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Mar. de 1993 55ª / 325 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+30 de Mar. de 1993 57ª / 325 Primer trámite constitucional / C. Diputados Discusión general Ver
+30 de Mar. de 1993   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora
+31 de Mar. de 1993 38ª / 325 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+14 de Jun. de 1994   Segundo trámite constitucional / Senado Se solicita su archivo Informe de la Comisión, que propone el archivo del Proyecto.
+14 de Jun. de 1994   Segundo trámite constitucional / Senado Primer informe de comisión. propone el archivo del Proyecto. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 214-10","Fecha Etapa Informe Documento
+14 de Jun. de 1994 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+08 de Mar. de 1993 Primer trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+19 de May. de 1992 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 214-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Dic. de 1990   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 214-10","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 214-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 214-10","No record","Veto emmEnd"

@@ -1,0 +1,60 @@
+* * Bill summary * *
+"emmStart Summary 8097-04","Legislatura: 359
+Fecha de ingreso: lunes 19 de diciembre de 2011
+Estado: Tramitación terminada (Ley Nº 20.777 - D.Oficial 04/10/2014)
+Numero de boletín: 8097-04
+Materia: Rayuela
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 09-11-2014 15:25:15
+* * Hitos de tramitación * *
+"emmStart Hitos 8097-04","Fecha Sesión Etapa Sub-etapa Documento
+19 de Dic. de 2011   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+16 de Nov. de 2012   Primer trámite constitucional / Senado Primer informe de comisión Ver
+20 de Nov. de 2012 62ª / 360 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Dic. de 2012 86ª / 360 Primer trámite constitucional / Senado Discusión general Ver
+12 de Dic. de 2012   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+13 de Dic. de 2012 113ª / 360 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de la Cultura y las Artes Ver
+23 de May. de 2013 31ª / 361 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 108-361 que hace presente la urgencia Simple Ver
+29 de Ago. de 2013 65ª / 361 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 250-361 que hace presente la urgencia Simple Ver
+12 de Sep. de 2013 74ª / 361 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 271-361 que hace presente la urgencia Simple Ver
+09 de Oct. de 2013   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Oct. de 2013 86ª / 361 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+21 de Nov. de 2013 89ª / 361 Segundo trámite constitucional / C. Diputados Discusión general. Rechazado . Ver
+03 de Dic. de 2013   Comisión Mixta por rechazo de idea de legislar / C. Diputados Oficio N°11.027. Oficio rechazo idea de legislar. Ver
+04 de Dic. de 2013 77ª / 361 Comisión Mixta por rechazo de idea de legislar / C. Diputados Cuenta oficio rechazo de Cámara Revisora Ver
+04 de Dic. de 2013   Comisión Mixta por rechazo de idea de legislar / C. Diputados Oficio N° 938/SEC/13. Toma conocimiento del rechazo al proyecto de ley por la Cámara de Diputados y designa miembros que integrarán la respectiva Comisión Mixta. Ver
+05 de Dic. de 2013 100ª / 361 Comisión Mixta por rechazo de idea de legislar / C. Diputados Oficio del H. Senado mediante el cual comunica que tomó conocimiento del rechazo del proyecto. Ver
+18 de Ago. de 2014   Comisión Mixta por rechazo de idea de legislar / C. Diputados Informe de Comisión Mixta Ver
+20 de Ago. de 2014 41ª / 362 Disc. informe C.Mixta por rechazo idea de legislar C. Origen / Senado Discusión informe de Comisión Mixta
+20 de Ago. de 2014   Disc. informe C.Mixta por rechazo idea de legislar C. Origen / Senado Oficio aprobación de informe de Comisión Mixta a C. Revisora Ver
+21 de Ago. de 2014 62ª / 362 Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / C. Diputados Cuenta oficio aprobación de informe de Comisión Mixta Ver
+21 de Ago. de 2014 62ª / 362 Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / C. Diputados Cuenta informe Comisión Mixta Ver
+08 de Sep. de 2014   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8097-04","Fecha Etapa Informe Documento
+18 de Ago. de 2014 Comisión Mixta por rechazo de idea de legislar Senado Informe de Comisión Mixta Comisión Mixta para Boletín Nº 8.404-29 y 8.097-04 Rayuela Ver
+16 de Oct. de 2013 Segundo trámite constitucional C.Diputados Primer informe de comisión de la Cultura y las Artes Ver
+16 de Nov. de 2012 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8097-04","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+12 de Sep. de 2013   Simple 271-361  
+29 de Ago. de 2013   Simple 250-361  
+23 de May. de 2013   Simple 108-361  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8097-04","Nombre
+Hernán Larraín Fernández
+Juan Pablo Letelier Morel
+Eugenio Tuma Zedán
+Ignacio Walker Prieto","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8097-04","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+89   15 36 2 67 Rechazado Sala Ver detalle votación
+125 Votación General 0 7 0 6   Cultura Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8097-04","No record","Veto emmEnd"

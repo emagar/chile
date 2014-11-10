@@ -1,0 +1,56 @@
+* * Bill summary * *
+"emmStart Summary 3919-10","Legislatura: 353
+Fecha de ingreso: martes 12 de julio de 2005
+Estado: Tramitación terminada (D.S. Nº 91 - D.Oficial 04/08/2007)
+Numero de boletín: 3919-10
+Materia: Entrenamiento Militar,Acuerdos Internacionales
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 06:49:34
+* * Hitos de tramitación * *
+"emmStart Hitos 3919-10","Fecha Sesión Etapa Sub-etapa Documento
+12 de Jul. de 2005   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+14 de Jul. de 2005 14ª / 353 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+18 de Oct. de 2005   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+17 de Ene. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Ene. de 2006 69ª / 353 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+18 de Ene. de 2006 70ª / 353 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+18 de Ene. de 2006   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+07 de Mar. de 2006 60ª / 353 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores y a Comisión de Hacienda Ver
+02 de May. de 2006   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+24 de Jul. de 2006   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+01 de Ago. de 2006 37ª / 354 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+16 de Ago. de 2006 44ª / 354 Segundo trámite constitucional / Senado Discusión general Ver
+16 de Ago. de 2006 44ª / 354 Segundo trámite constitucional / Senado Se acuerda enviarlo a las Comisiones de Defensa Nacional y de Constitución, Legislación, Justicia y Reglamento.
+30 de Ago. de 2006   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento Ver
+15 de Ene. de 2007   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+16 de Ene. de 2007 84ª / 354 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+23 de Ene. de 2007 86ª / 354 Segundo trámite constitucional / Senado Queda pendiente su discusión. Ver
+06 de Mar. de 2007 89ª / 354 Segundo trámite constitucional / Senado En discusión general y particular a la vez, a petición del Comité Unión Demócrata Independiente queda aplazada su discusión para la sesión ordinaria siguiente. Ver
+07 de Mar. de 2007 90ª / 354 Segundo trámite constitucional / Senado Discusión general Ver
+07 de Mar. de 2007   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+08 de Mar. de 2007   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+08 de Mar. de 2007 128ª / 354 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3919-10","Fecha Etapa Informe Documento
+15 de Ene. de 2007 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+30 de Ago. de 2006 Segundo trámite constitucional Senado Primer informe de comisión de Defensa Nacional Ver
+24 de Jul. de 2006 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+02 de May. de 2006 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+17 de Ene. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+18 de Oct. de 2005 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3919-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3919-10","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3919-10","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+70   63 0 0 3 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3919-10","No record","Veto emmEnd"

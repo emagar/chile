@@ -1,0 +1,60 @@
+* * Bill summary * *
+"emmStart Summary 938-04","Legislatura: 325
+Fecha de ingreso: martes 16 de marzo de 1993
+Estado: Tramitación terminada (Ley Nº 19.287 - D.Oficial 04/02/1994)
+Numero de boletín: 938-04
+Materia: Crédito Universitario,Fondo Solidario De Crédito Universitario
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 00:58:06
+* * Hitos de tramitación * *
+"emmStart Hitos 938-04","Fecha Sesión Etapa Sub-etapa Documento
+16 de Mar. de 1993   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+16 de Mar. de 1993 54ª / 325 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+06 de May. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Jul. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de Jul. de 1993 12ª / 326 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de Jul. de 1993 17ª / 326 Primer trámite constitucional / C. Diputados Discusión general Ver
+13 de Jul. de 1993   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+20 de Jul. de 1993 12ª / 326 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+18 de Ago. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+15 de Oct. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Constitución Ver
+18 de Oct. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+02 de Nov. de 1993 10ª / 327 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión. de Educación y de Hacienda
+03 de Nov. de 1993 11ª / 327 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión. Cuenta informe de Comisión de Constitución, Legislación, Justicia y Reglamento solicitado por la Sala
+09 de Nov. de 1993 12ª / 327 Segundo trámite constitucional / Senado Discusión general Ver
+15 de Nov. de 1993   Segundo trámite constitucional / Senado Boletín de indicaciones
+22 de Nov. de 1993   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+23 de Nov. de 1993 16ª / 327 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+24 de Nov. de 1993 17ª / 327 Segundo trámite constitucional / Senado Discusión particular. Queda pendiente Se solicita segunda discusión Ver
+15 de Dic. de 1993 19ª / 327 Segundo trámite constitucional / Senado Discusión particular Ver
+07 de Ene. de 1994   Segundo trámite constitucional / Senado Nuevo segundo informe de comisión Ver
+11 de Ene. de 1994 22ª / 327 Segundo trámite constitucional / Senado Cuenta nuevo segundo informe
+12 de Ene. de 1994 23ª / 327 Segundo trámite constitucional / Senado Discusión particular Ver
+13 de Ene. de 1994   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+18 de Ene. de 1994 30ª / 327 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+19 de Ene. de 1994 31ª / 327 Tercer trámite constitucional / C. Diputados Discusión única Ver
+19 de Ene. de 1994   Tercer trámite constitucional / C. Diputados Oficio N° 1521, que comunica aprobacion de modificaciones Ver
+20 de Ene. de 1994 28ª / 327 Tramitación terminada / Cuenta oficio Nº 1521, de la Cámara, comunicando aprobación enmiendas propuestas por el Senado","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 938-04","Fecha Etapa Informe Documento
+07 de Ene. de 1994 Segundo trámite constitucional Senado Nuevo segundo informe de comisión de Hacienda y de Educación, Cultura, Ciencia y Tecnología, unidas Ver
+22 de Nov. de 1993 Segundo trámite constitucional Senado Segundo informe de comisión de Hacienda y de Educación, Cultura, Ciencia y Tecnología, unidas Ver
+18 de Oct. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+15 de Oct. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+18 de Ago. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+02 de Jul. de 1993 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+06 de May. de 1993 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 938-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 938-04","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 938-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 938-04","No record","Veto emmEnd"

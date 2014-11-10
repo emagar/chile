@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 5841-10","Legislatura: 356
+Fecha de ingreso: martes 29 de abril de 2008
+Estado: Tramitación terminada (DS Nº 230 - D.Oficial 23/12/2008)
+Numero de boletín: 5841-10
+Materia: Reglamento Sanitario Internacional,Asamblea Mundial De La Salud
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 23:51:48
+* * Hitos de tramitación * *
+"emmStart Hitos 5841-10","Fecha Sesión Etapa Sub-etapa Documento
+29 de Abr. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+29 de Abr. de 2008 22ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+13 de May. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de Jun. de 2008 33ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Relaciones Exteriores. EN TABLA. Ver
+05 de Jun. de 2008 35ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+05 de Jun. de 2008   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+10 de Jun. de 2008 25ª / 356 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores Ver
+14 de Ago. de 2008   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+19 de Ago. de 2008 45ª / 356 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+20 de Ago. de 2008 46ª / 356 Segundo trámite constitucional / Senado Discusión general Ver
+20 de Ago. de 2008   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+21 de Ago. de 2008 68ª / 356 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver Ver
+21 de Ago. de 2008   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5841-10","Fecha Etapa Informe Documento
+14 de Ago. de 2008 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+13 de May. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5841-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5841-10","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5841-10","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+35   75 0 0 45 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5841-10","No record","Veto emmEnd"

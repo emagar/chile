@@ -1,0 +1,34 @@
+* * Bill summary * *
+"emmStart Summary 894-10","Legislatura: 325
+Fecha de ingreso: lunes 21 de diciembre de 1992
+Estado: Tramitación terminada (D.S. Nº 123 - D.Oficial 13/04/1995)
+Numero de boletín: 894-10
+Materia: Cambios Climáticos
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 00:22:47
+* * Hitos de tramitación * *
+"emmStart Hitos 894-10","Fecha Sesión Etapa Sub-etapa Documento
+21 de Dic. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+21 de Dic. de 1992 32ª / 325 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+07 de Abr. de 1993 40ª / 325 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+07 de Dic. de 1994   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+07 de Dic. de 1994 25ª / 330 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+13 de Dic. de 1994 26ª / 330 Segundo trámite constitucional / Senado Discusión general Ver
+14 de Dic. de 1994   Segundo trámite constitucional / Senado Oficio Nº7905. oficio comunicando aprobación sin modificaciones a Cámara de origen Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 894-10","Fecha Etapa Informe Documento
+07 de Dic. de 1994 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 894-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 894-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 894-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 894-10","No record","Veto emmEnd"

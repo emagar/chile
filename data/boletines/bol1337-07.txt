@@ -1,0 +1,55 @@
+* * Bill summary * *
+"emmStart Summary 1337-07","Legislatura: 329
+Fecha de ingreso: martes 30 de agosto de 1994
+Estado: Tramitación terminada (Ley Nº 19.499 - D.Oficial 11/04/1997)
+Numero de boletín: 1337-07 Refundido con: 1355-07
+Materia: Sociedades
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 08:15:19
+* * Hitos de tramitación * *
+"emmStart Hitos 1337-07","Fecha Sesión Etapa Sub-etapa Documento
+30 de Ago. de 1994   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+30 de Ago. de 1994 33ª / 329 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+17 de May. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+30 de May. de 1995 2ª / 331 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+24 de Ago. de 1995   Primer trámite constitucional / C. Diputados Nuevo primer informe de comisión Ver
+24 de Ago. de 1995 32ª / 331 Primer trámite constitucional / C. Diputados Cuenta nuevo primer informe Ver
+03 de Oct. de 1995   Primer trámite constitucional / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 332
+05 de Oct. de 1995 3ª / 332 Primer trámite constitucional / C. Diputados Discusión general Ver
+05 de Oct. de 1995   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+10 de Oct. de 1995 4ª / 332 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+15 de Oct. de 1996   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+15 de Oct. de 1996   Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 334
+15 de Oct. de 1996 4ª / 334 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+21 de Ene. de 1997 27ª / 334 Segundo trámite constitucional / Senado Discusión general. Aprobado en general , se fija plazo para indicaciones hasta el 6 de marzo. Ver
+06 de Mar. de 1997   Segundo trámite constitucional / Senado Boletín de indicaciones
+11 de Mar. de 1997   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+11 de Mar. de 1997 31ª / 334 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+12 de Mar. de 1997 32ª / 334 Segundo trámite constitucional / Senado Discusión particular Ver
+12 de Mar. de 1997   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+18 de Mar. de 1997   Tercer trámite constitucional / C. Diputados Oficio N° 1380, que comunica aprobacion de modificaciones Ver
+18 de Mar. de 1997 53ª / 334 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+18 de Mar. de 1997 53ª / 334 Tercer trámite constitucional / C. Diputados Discusión única Ver
+19 de Mar. de 1997   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+19 de Mar. de 1997 34ª / 334 Tramitación terminada / Cuenta en el Senado del oficio de la Cámara de Diputados en que comunica la aprobación de las modificaciones propuestas por el Senado.
+04 de Ago. de 1999   Tramitación terminada / Oficio Nº Ed 39/99. Oficio Nº ED 39/99. de la Comisión de Educación, Ciencia y Tecnología con el que solicita el archivo del proyecto Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1337-07","Fecha Etapa Informe Documento
+11 de Mar. de 1997 Segundo trámite constitucional Senado Segundo informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+15 de Oct. de 1996 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+23 de Ago. de 1995 Primer trámite constitucional C.Diputados Nuevo primer informe de comisión de Constitución, Legislación y Justicia Ver
+17 de May. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1337-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1337-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1337-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1337-07","No record","Veto emmEnd"

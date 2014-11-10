@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 6407-06","Legislatura: 357
+Fecha de ingreso: jueves 12 de marzo de 2009
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 6407-06
+Materia: Candidatos Independientes,Partidos Políticos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 06:28:40
+* * Hitos de tramitación * *
+"emmStart Hitos 6407-06","Fecha Sesión Etapa Sub-etapa Documento
+12 de Mar. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Mar. de 2009 2ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+12 de Mar. de 2009 2ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 10-357 que hace presente la urgencia Suma Ver
+17 de Mar. de 2009 3ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 11-357 que hace presente la urgencia Discusión inmediata Ver
+17 de Mar. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de Mar. de 2009 4ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+18 de Mar. de 2009 4ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6407-06","Fecha Etapa Informe Documento
+17 de Mar. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6407-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+17 de Mar. de 2009   Discusión inmediata 11-357  
+12 de Mar. de 2009   Suma 10-357  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6407-06","Nombre Región Distrito Partido
+Mario Bertolino Rendic IV Región de Coquimbo N°7 Renovación Nacional
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Fidel Espinoza Sandoval X Región de los Lagos N°56 Partido Socialista
+Renán Fuentealba Vildósola IV Región de Coquimbo N°9 Partido Demócrata Cristiano
+Osvaldo Palma Flores VII Región del Maule N°39 Renovación Nacional
+Jaime Quintana Leal IX Región de la Araucanía N°49 Partido Por la Democracia
+Eduardo Saffirio Suárez IX Región de la Araucanía N°50 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6407-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+4   30 39 15 36 Rechazado Sala Ver detalle votación
+100 Votación General 10 1 1 1   Gobierno Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6407-06","No record","Veto emmEnd"

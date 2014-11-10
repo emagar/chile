@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 2967-11","Legislatura: 347
+Fecha de ingreso: martes 11 de junio de 2002
+Estado: Primer trámite constitucional .
+Numero de boletín: 2967-11
+Materia: Alimentos
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 03-11-2014 19:27:24
+* * Hitos de tramitación * *
+"emmStart Hitos 2967-11","Fecha Sesión Etapa Sub-etapa Documento
+11 de Jun. de 2002   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+11 de Jun. de 2002 5ª / 347 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Salud
+07 de Oct. de 2002   Primer trámite constitucional / Senado Primer informe de comisión Ver
+15 de Oct. de 2002 5ª / 347 Primer trámite constitucional / Senado Cuenta informe Comisión Salud. Queda para tabla.
+16 de Oct. de 2002 6ª / 348 Primer trámite constitucional / Senado Discusión general Ver
+29 de Oct. de 2002 7ª / 348 Primer trámite constitucional / Senado La Sala fija plazo para indicaciones, hasta las 12.00 hrs. del liunes 2 de diciembre.
+04 de Dic. de 2002   Primer trámite constitucional / Senado Boletín de indicaciones
+14 de Sep. de 2004   Primer trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 352","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2967-11","Fecha Etapa Informe Documento
+07 de Oct. de 2002 Primer trámite constitucional Senado Primer informe de comisión de Salud Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2967-11","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2967-11","Nombre
+Antonio Horvath Kiss
+Baldo Prokurica Prokurica","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2967-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2967-11","No record","Veto emmEnd"

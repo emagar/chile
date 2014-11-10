@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 3427-03","Legislatura: 350
+Fecha de ingreso: miércoles 03 de diciembre de 2003
+Estado: Tramitación terminada (Ley Nº 19.922 - D.Oficial 23/12/2003)
+Numero de boletín: 3427-03
+Materia: Pesca Artesanal
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 04-11-2014 02:36:51
+* * Hitos de tramitación * *
+"emmStart Hitos 3427-03","Fecha Sesión Etapa Sub-etapa Documento
+03 de Dic. de 2003   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+03 de Dic. de 2003 15ª / 350 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Intereses Marítimos, Pesca y Acuicultura
+03 de Dic. de 2003   Primer trámite constitucional / Senado Primer informe de comisión Ver
+03 de Dic. de 2003 16ª / 350 Primer trámite constitucional / Senado Cuenta de primer informe de comisión. (Certificado de Comisión)
+03 de Dic. de 2003 16ª / 350 Primer trámite constitucional / Senado Discusión general Ver
+03 de Dic. de 2003   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+04 de Dic. de 2003 27ª / 350 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Pesca, Acuicultura e Intereses Marítimos Ver
+04 de Dic. de 2003   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+04 de Dic. de 2003 27ª / 350 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+04 de Dic. de 2003 27ª / 350 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+04 de Dic. de 2003   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+09 de Dic. de 2003 17ª / 350 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+09 de Dic. de 2003   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3427-03","Fecha Etapa Informe Documento
+04 de Dic. de 2003 Segundo trámite constitucional C.Diputados Primer informe de comisión de Pesca, Acuicultura e Intereses Marítimos Ver
+03 de Dic. de 2003 Primer trámite constitucional Senado Primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3427-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3427-03","Nombre
+Ministerio de Economía, Fomento y Turism","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3427-03","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+27   56 0 0 1   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3427-03","No record","Veto emmEnd"

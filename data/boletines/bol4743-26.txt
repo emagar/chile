@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 4743-26","Legislatura: 354
+Fecha de ingreso: miércoles 20 de diciembre de 2006
+Estado: Primer trámite constitucional .
+Numero de boletín: 4743-26
+Materia: Cooperativas
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 06:59:59
+* * Hitos de tramitación * *
+"emmStart Hitos 4743-26","Fecha Sesión Etapa Sub-etapa Documento
+20 de Dic. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de Dic. de 2006 110ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión Especial PYMES Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4743-26","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4743-26","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4743-26","Nombre Región Distrito Partido
+Rodrigo González Torres V Región de Valparaíso N°14 Partido Por la Democracia
+Javier Hernández Hernández X Región de los Lagos N°55 Unión Demócrata Independiente
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+José Miguel Ortiz Novoa VIII Región del Bío Bío N°44 Partido Demócrata Cristiano
+Iván Paredes Fierro XV Región Arica y Parinacota N°1 Partido Socialista
+Eugenio Tuma Zedan IX Región de la Araucanía N°51 Partido Por la Democracia
+Ignacio Urrutia Bonilla VII Región del Maule N°40 Unión Demócrata Independiente
+Samuel Venegas Rubio V Región de Valparaíso N°15 Independientes","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4743-26","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4743-26","No record","Veto emmEnd"

@@ -1,0 +1,59 @@
+* * Bill summary * *
+"emmStart Summary 3696-13","Legislatura: 352
+Fecha de ingreso: martes 05 de octubre de 2004
+Estado: Tramitación terminada (Ley Nº 19.988 - D.Oficial 18/12/2004)
+Numero de boletín: 3696-13
+Materia: Jornada De Trabajo
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 07:40:10
+* * Hitos de tramitación * *
+"emmStart Hitos 3696-13","Fecha Sesión Etapa Sub-etapa Documento
+05 de Oct. de 2004   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+05 de Oct. de 2004 1ª / 352 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 44-352 que hace presente la urgencia Suma Ver
+05 de Oct. de 2004 1ª / 352 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+06 de Oct. de 2004   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de Oct. de 2004 3ª / 352 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+07 de Oct. de 2004 3ª / 352 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+12 de Oct. de 2004 5ª / 352 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+12 de Oct. de 2004 5ª / 352 Primer trámite constitucional / C. Diputados Cuenta primer informe complementario Ver
+12 de Oct. de 2004   Primer trámite constitucional / C. Diputados Primer informe complementario Ver
+12 de Oct. de 2004   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+13 de Oct. de 2004 5ª / 352 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social
+02 de Nov. de 2004 9ª / 352 Segundo trámite constitucional / Senado Cuenta del Mensaje 105-352 que retira y hace presente la urgencia Suma
+03 de Nov. de 2004   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+09 de Nov. de 2004 11ª / 352 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+16 de Nov. de 2004 13ª / 352 Segundo trámite constitucional / Senado Cuenta del Mensaje 157-352 que retira y hace presente la urgencia Suma
+30 de Nov. de 2004 17ª / 352 Segundo trámite constitucional / Senado Discusión general Ver
+30 de Nov. de 2004 17ª / 352 Segundo trámite constitucional / Senado Cuenta del Mensaje 185-352 que retira y hace presente la urgencia Suma
+30 de Nov. de 2004   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+01 de Dic. de 2004 26ª / 352 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver Ver
+02 de Dic. de 2004 28ª / 352 Tercer trámite constitucional / C. Diputados Discusión única Ver
+02 de Dic. de 2004   Tercer trámite constitucional / C. Diputados Oficio Nº 5305 AL Senado, que comunica aprobación de modificaciones Ver
+02 de Dic. de 2004   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+14 de Dic. de 2004 20ª / 352 Tramitación terminada / Cuenta en el Senado del oficio Nº 5305, que comunica aprobación de modificaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3696-13","Fecha Etapa Informe Documento
+03 de Nov. de 2004 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver
+12 de Oct. de 2004 Primer trámite constitucional C.Diputados Primer informe complementario de Trabajo y Seguridad Social Ver
+06 de Oct. de 2004 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3696-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+30 de Nov. de 2004   Suma 185-352  
+16 de Nov. de 2004 30 de Nov. de 2004 Suma 157-352 185-352
+02 de Nov. de 2004 16 de Nov. de 2004 Suma 105-352 157-352
+05 de Oct. de 2004 02 de Nov. de 2004 Suma 44-352 105-352","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3696-13","Nombre Región Distrito Partido
+Ministerio de Trabajo y Previsión Social      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3696-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+28   55 0 0 0 Aprobado Sala Ver detalle votación
+5   84 0 0 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3696-13","No record","Veto emmEnd"

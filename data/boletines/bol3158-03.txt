@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 3158-03","Legislatura: 348
+Fecha de ingreso: jueves 05 de diciembre de 2002
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 3158-03
+Materia: Servicio De Impuestos Internos (Chile)
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 23:47:54
+* * Hitos de tramitación * *
+"emmStart Hitos 3158-03","Fecha Sesión Etapa Sub-etapa Documento
+05 de Dic. de 2002   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+05 de Dic. de 2002 30ª / 348 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+08 de Mar. de 2004   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+10 de Mar. de 2004 56ª / 350 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+18 de Mar. de 2004 63ª / 350 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+07 de Abr. de 2004 70ª / 350 Primer trámite constitucional / C. Diputados Discusión general Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3158-03","Fecha Etapa Informe Documento
+08 de Mar. de 2004 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3158-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3158-03","Nombre Región Distrito Partido
+Rodrigo Alvarez Zenteno XII Región de Magallanes y de la Antártica Chilena N°60 Unión Demócrata Independiente
+Eugenio Bauer Jouanne VI Región del Libertador Bernardo O' Higgins N°33 Unión Demócrata Independiente
+Sergio Correa De la Cerda VII Región del Maule N°36 Unión Demócrata Independiente
+Eduardo Díaz Del Río IX Región de la Araucanía N°51 Independientes
+Mario Escobar Urbina II Región de Antofagasta N°3 Unión Demócrata Independiente
+Javier Hernández Hernández X Región de los Lagos N°55 Unión Demócrata Independiente
+Darío Molina Sanhueza IV Región de Coquimbo N°9 Unión Demócrata Independiente
+Iván Norambuena Farías VIII Región del Bío Bío N°46 Unión Demócrata Independiente
+Felipe Salaberry Soto RM Región Metropolitana N°25 Unión Demócrata Independiente
+Gastón Von Mühlenbrock Zamora X Región de los Lagos N°54 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3158-03","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+70   29 49 1 3 Rechazado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3158-03","No record","Veto emmEnd"

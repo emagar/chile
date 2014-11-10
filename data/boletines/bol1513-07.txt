@@ -1,0 +1,52 @@
+* * Bill summary * *
+"emmStart Summary 1513-07","Legislatura: 330
+Fecha de ingreso: martes 17 de enero de 1995
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 1513-07
+Materia: Editorial Jurídica De Chile
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 10:05:40
+* * Hitos de tramitación * *
+"emmStart Hitos 1513-07","Fecha Sesión Etapa Sub-etapa Documento
+17 de Ene. de 1995   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+17 de Ene. de 1995 39ª / 330 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+17 de May. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+30 de May. de 1995 2ª / 331 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+20 de Jun. de 1995 10ª / 331 Primer trámite constitucional / C. Diputados Discusión general Ver
+20 de Jun. de 1995   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora
+21 de Jun. de 1995 9ª / 331 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+09 de Nov. de 1995   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+14 de Nov. de 1995 13ª / 332 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+06 de Dic. de 1995 22ª / 332 Segundo trámite constitucional / Senado Segunda discusión. Ver
+13 de Dic. de 1995 24ª / 332 Segundo trámite constitucional / Senado Discusión general Ver
+13 de Dic. de 1995   Segundo trámite constitucional / Senado Oficio rechazo a Cámara de Origen Ver
+03 de Ene. de 1996 37ª / 332 Comisión Mixta por rechazo de idea de legislar / Senado Cuenta oficio rechazo de Cámara Revisora
+03 de Ene. de 1996   Comisión Mixta por rechazo de idea de legislar / Senado Oficio integrantes de Comisión Mixta
+04 de Ene. de 1996 26ª / 332 Comisión Mixta por rechazo de idea de legislar / Senado Cuenta oficio integrantes de Comisión Mixta
+29 de Ago. de 1996   Comisión Mixta por rechazo de idea de legislar / Senado Informe de Comisión Mixta Ver
+29 de Ago. de 1996 31ª / 333 Disc. informe C.Mixta por rechazo idea de legislar C. Origen / C. Diputados Cuenta informe Comisión Mixta Ver
+03 de Sep. de 1996 32ª / 333 Disc. informe C.Mixta por rechazo idea de legislar C. Origen / C. Diputados Discusión informe de Comisión Mixta Ver
+03 de Sep. de 1996   Disc. informe C.Mixta por rechazo idea de legislar C. Origen / C. Diputados Oficio aprobación de informe de Comisión Mixta a C. Revisora Ver
+04 de Sep. de 1996 35ª / 333 Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / Senado Cuenta oficio aprobación de informe de Comisión Mixta
+19 de Jun. de 1997 9ª / 335 Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / Senado Discusión informe de Comisión Mixta
+25 de Jun. de 1997   Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / Senado Oficio rechazo de informe de Comisión Mixta a C.de Origen Ver
+01 de Jul. de 1997 13ª / 335 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio rechazo de informe de Comisión Mixta Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1513-07","Fecha Etapa Informe Documento
+29 de Ago. de 1996 Comisión Mixta por rechazo de idea de legislar Senado Informe de Comisión Mixta Comisión Mixta para Boletín Nº 1513-07 Ver
+09 de Nov. de 1995 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+17 de May. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1513-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1513-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1513-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1513-07","No record","Veto emmEnd"

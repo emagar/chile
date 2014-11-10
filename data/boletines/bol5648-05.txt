@@ -1,0 +1,70 @@
+* * Bill summary * *
+"emmStart Summary 5648-05","Legislatura: 355
+Fecha de ingreso: miércoles 02 de enero de 2008
+Estado: Tramitación terminada (Ley Nº 20.268 - D.Oficial 24/06/2008)
+Numero de boletín: 5648-05
+Materia: Desarrollo Económico
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 08:21:19
+* * Hitos de tramitación * *
+"emmStart Hitos 5648-05","Fecha Sesión Etapa Sub-etapa Documento
+02 de Ene. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Ene. de 2008 122ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+11 de Ene. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+15 de Ene. de 2008 130ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+16 de Ene. de 2008 133ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1376-355 que hace presente la urgencia Suma Ver
+17 de Ene. de 2008 135ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1380-355 que retira la urgencia Suma Ver
+17 de Ene. de 2008 135ª / 355 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+17 de Ene. de 2008   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+22 de Ene. de 2008 85ª / 355 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+04 de Mar. de 2008 88ª / 355 Segundo trámite constitucional / Senado Cuenta del Mensaje 1464-355 que hace presente la urgencia Suma
+18 de Mar. de 2008 3ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 16-356 que retira y hace presente la urgencia Suma
+19 de Mar. de 2008   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+19 de Mar. de 2008 4ª / 356 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+01 de Abr. de 2008 5ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 46-356 que retira y hace presente la urgencia Suma
+01 de Abr. de 2008 5ª / 356 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 07/04/2008, hasta las 12:00 horas. Ver
+07 de Abr. de 2008   Segundo trámite constitucional / Senado Boletín de indicaciones
+15 de Abr. de 2008 11ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 143-356 que retira y hace presente la urgencia Suma
+29 de Abr. de 2008 15ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 173-356 que retira y hace presente la urgencia Suma
+13 de May. de 2008 19ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 238-356 que retira y hace presente la urgencia Suma
+03 de Jun. de 2008   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+03 de Jun. de 2008 23ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 321-356 que retira y hace presente la urgencia Suma
+03 de Jun. de 2008 23ª / 356 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+04 de Jun. de 2008 24ª / 356 Segundo trámite constitucional / Senado Discusión particular Ver
+04 de Jun. de 2008   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+05 de Jun. de 2008 35ª / 356 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver Ver
+10 de Jun. de 2008 36ª / 356 Tercer trámite constitucional / C. Diputados Discusión única Ver
+10 de Jun. de 2008   Tercer trámite constitucional / C. Diputados Oficio Nº 7497, que comunica aprobación de modificaciones Ver
+10 de Jun. de 2008   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+11 de Jun. de 2008 26ª / 356 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 7497, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5648-05","Fecha Etapa Informe Documento
+03 de Jun. de 2008 Segundo trámite constitucional Senado Segundo informe de comisión de Hacienda Ver
+19 de Mar. de 2008 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+11 de Ene. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5648-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+03 de Jun. de 2008   Suma 321-356  
+13 de May. de 2008 28 de May. de 2008 Suma 238-356 321-356
+29 de Abr. de 2008 12 de May. de 2008 Suma 173-356 238-356
+15 de Abr. de 2008   Suma 143-356  
+01 de Abr. de 2008 11 de Abr. de 2008 Suma 46-356 143-356
+18 de Mar. de 2008 27 de Mar. de 2008 Suma 16-356 46-356
+04 de Mar. de 2008 17 de Mar. de 2008 Suma 1464-355 16-356
+16 de Ene. de 2008 17 de Ene. de 2008 Suma 1376-355 1380-355","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5648-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5648-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+36 Enmiendas del Senado. 82 1 0 0 Aprobado Sala Ver detalle votación
+135   92 0 0 28 Aprobado Sala Ver detalle votación
+130 Votación General 10 0 0 3   Hacienda Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5648-05","No record","Veto emmEnd"

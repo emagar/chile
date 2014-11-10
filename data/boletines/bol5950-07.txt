@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 5950-07","Legislatura: 356
+Fecha de ingreso: jueves 03 de julio de 2008
+Estado: Primer trámite constitucional .
+Numero de boletín: 5950-07
+Materia: Transparencia De Información,Tramitación Legislativa
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 01:06:34
+* * Hitos de tramitación * *
+"emmStart Hitos 5950-07","Fecha Sesión Etapa Sub-etapa Documento
+03 de Jul. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Jul. de 2008 47ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5950-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5950-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5950-07","Nombre Región Distrito Partido
+Germán Becker Alvear IX Región de la Araucanía N°50 Renovación Nacional
+Mario Bertolino Rendic IV Región de Coquimbo N°7 Renovación Nacional
+Roberto Delmastro Naso XIV Región de los Ríos N°53 Renovación Nacional
+Julio Dittborn Cordúa RM Región Metropolitana N°23 Unión Demócrata Independiente
+Pablo Galilea Carrillo XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Renovación Nacional
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Alfonso Vargas Lyng V Región de Valparaíso N°10 Renovación Nacional
+Germán Verdugo Soto VII Región del Maule N°37 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5950-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5950-07","No record","Veto emmEnd"

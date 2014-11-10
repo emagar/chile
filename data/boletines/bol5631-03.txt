@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 5631-03","Legislatura: 355
+Fecha de ingreso: jueves 20 de diciembre de 2007
+Estado: Segundo trámite constitucional .
+Numero de boletín: 5631-03 Refundido con: 5835-03,5834-03
+Materia: Créditos De Consumo
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 08:08:25
+* * Hitos de tramitación * *
+"emmStart Hitos 5631-03","Fecha Sesión Etapa Sub-etapa Documento
+20 de Dic. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de Dic. de 2007 121ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+09 de Dic. de 2008 113ª / 356 Primer trámite constitucional / C. Diputados Diputado señor Paya retira us firma del proyecto. A COMISIÓN DE ECONOMÍA. Ver
+26 de Mar. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+31 de Mar. de 2009 6ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+12 de May. de 2009 28ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+09 de Jul. de 2009 51ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver
+09 de Jul. de 2009   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+14 de Jul. de 2009 33ª / 357 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Economía","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5631-03","Fecha Etapa Informe Documento
+26 de Mar. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5631-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5631-03","Nombre Región Distrito Partido
+Gonzalo Arenas Hödar IX Región de la Araucanía N°48 Unión Demócrata Independiente
+Enrique Estay Peñaloza IX Región de la Araucanía N°49 Unión Demócrata Independiente
+Javier Hernández Hernández X Región de los Lagos N°55 Unión Demócrata Independiente
+Juan Lobos Krause VIII Región del Bío Bío N°47 Unión Demócrata Independiente
+Juan Masferrer Pellizzari VI Región del Libertador Bernardo O' Higgins N°34 Unión Demócrata Independiente
+Iván Moreira Barros RM Región Metropolitana N°27 Unión Demócrata Independiente
+Claudia Nogueira Fernández RM Región Metropolitana N°19 Unión Demócrata Independiente
+Jorge Ulloa Aguillón VIII Región del Bío Bío N°43 Unión Demócrata Independiente
+Gastón Von Mühlenbrock Zamora XIV Región de los Ríos N°54 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5631-03","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+97 Votación General 6 0 0 7   Economía Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5631-03","No record","Veto emmEnd"

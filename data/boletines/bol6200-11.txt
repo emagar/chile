@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 6200-11","Legislatura: 356
+Fecha de ingreso: jueves 13 de noviembre de 2008
+Estado: Archivado .
+Numero de boletín: 6200-11
+Materia: Vih
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 04:02:38
+* * Hitos de tramitación * *
+"emmStart Hitos 6200-11","Fecha Sesión Etapa Sub-etapa Documento
+13 de Nov. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Nov. de 2008 102ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver
+10 de Mar. de 2011   Primer trámite constitucional / C. Diputados Oficio N°7-2011. Oficio de la Comisión de Salud, con el que comunica que remite al archivo el proyecto. Ver
+10 de Mar. de 2011   Primer trámite constitucional / C. Diputados Archivado","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6200-11","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6200-11","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6200-11","Nombre Región Distrito Partido
+Francisco Chahuán Chahuán V Región de Valparaíso N°14 Renovación Nacional
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Pablo Lorenzini Basso VII Región del Maule N°38 Partido Demócrata Cristiano
+Marco Antonio Núñez Lozano V Región de Valparaíso N°11 Partido Por la Democracia
+José Miguel Ortiz Novoa VIII Región del Bío Bío N°44 Partido Demócrata Cristiano
+Gabriel Silber Romo RM Región Metropolitana N°16 Partido Demócrata Cristiano
+Patricio Vallespín López X Región de los Lagos N°57 Partido Demócrata Cristiano
+Patricio Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6200-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6200-11","No record","Veto emmEnd"

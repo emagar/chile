@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 6107-07","Legislatura: 356
+Fecha de ingreso: martes 30 de septiembre de 2008
+Estado: Primer trámite constitucional .
+Numero de boletín: 6107-07
+Materia: Congreso Nacional,Reforma Constitucional
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 02:56:06
+* * Hitos de tramitación * *
+"emmStart Hitos 6107-07","Fecha Sesión Etapa Sub-etapa Documento
+30 de Sep. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+30 de Sep. de 2008 82ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6107-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6107-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6107-07","Nombre Región Distrito Partido
+Sergio Aguiló Melo VII Región del Maule N°37 Partido Socialista
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Marcelo Díaz Díaz IV Región de Coquimbo N°7 Partido Socialista
+Marco Enríquez-Ominami Gumucio V Región de Valparaíso N°10 Independientes
+Patricio Hales Dib RM Región Metropolitana N°19 Partido Por la Democracia
+Fernando Meza Moncada IX Región de la Araucanía N°52 Partido Radical Social Demócrata
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+Adriana Muñoz D'Albora IV Región de Coquimbo N°9 Partido Por la Democracia
+Eduardo Saffirio Suárez IX Región de la Araucanía N°50 Partido Demócrata Cristiano
+Marcelo Schilling Rodríguez V Región de Valparaíso N°12 Partido Socialista","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6107-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6107-07","No record","Veto emmEnd"

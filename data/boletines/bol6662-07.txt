@@ -1,0 +1,34 @@
+* * Bill summary * *
+"emmStart Summary 6662-07","Legislatura: 357
+Fecha de ingreso: jueves 13 de agosto de 2009
+Estado: Primer trámite constitucional .
+Numero de boletín: 6662-07
+Materia: Constitucion 1980,Calificación De Urgencias
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 14:51:08
+* * Hitos de tramitación * *
+"emmStart Hitos 6662-07","Fecha Sesión Etapa Sub-etapa Documento
+13 de Ago. de 2009 66ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+13 de Ago. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6662-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6662-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6662-07","Nombre Región Distrito Partido
+Fernando Meza Moncada IX Región de la Araucanía N°52 Partido Radical Social Demócrata
+José Pérez Arriagada VIII Región del Bío Bío N°47 Partido Radical Social Demócrata
+Alberto Robles Pantoja III Región de Atacama N°6 Partido Radical Social Demócrata
+Laura Soto González V Región de Valparaíso N°13 Partido Por la Democracia
+Alejandro Sule Fernández VI Región del Libertador Bernardo O' Higgins N°33 Partido Radical Social Demócrata
+Samuel Venegas Rubio V Región de Valparaíso N°15 Independientes","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6662-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6662-07","No record","Veto emmEnd"

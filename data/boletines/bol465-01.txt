@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 465-01","Legislatura: 322
+Fecha de ingreso: martes 03 de septiembre de 1991
+Estado: Archivado .
+Numero de boletín: 465-01
+Materia: Alcoholes,Bebidas Alcoholicas
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 17:42:18
+* * Hitos de tramitación * *
+"emmStart Hitos 465-01","Fecha Sesión Etapa Sub-etapa Documento
+03 de Sep. de 1991   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+03 de Sep. de 1991 34ª / 322 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Agricultura
+15 de Nov. de 1991   Primer trámite constitucional / Senado S.E el Presidente de la República incluye Proyecto en Convocatoria a Legislatura Extraordinaria.
+13 de Jun. de 2001   Primer trámite constitucional / Senado Oficio Nº35/A/01. de la Comisión de Agricultura, en el que solicita archivo del proyecto Ver
+19 de Jun. de 2001 6ª / 344 Primer trámite constitucional / Senado Archivado Cuenta del Oficio de la Comisión de Agricultura, con el que solicita el archivo del proyecto. Se accede a lo Solicitado.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 465-01","Fecha Etapa Informe Documento
+13 de Jun. de 2001 Primer trámite constitucional Senado Primer informe de comisión de Agricultura Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 465-01","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 465-01","Nombre
+Nicolás Díaz Sánchez
+Sergio Jarpa Reyes
+Máximo Pacheco Gómez
+Mario Papi Bayer
+Anselmo Sule Candia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 465-01","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 465-01","No record","Veto emmEnd"

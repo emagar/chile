@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 3483-07","Legislatura: 350
+Fecha de ingreso: miércoles 07 de abril de 2004
+Estado: Archivado .
+Numero de boletín: 3483-07
+Materia: Congreso Nacional
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 03:14:48
+* * Hitos de tramitación * *
+"emmStart Hitos 3483-07","Fecha Sesión Etapa Sub-etapa Documento
+07 de Abr. de 2004   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+07 de Abr. de 2004 69ª / 350 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+09 de Jun. de 2009   Primer trámite constitucional / C. Diputados Archivado
+09 de Jun. de 2009 37ª / 357 Archivado / Comisión de Constitcuión archiva proyecto.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3483-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3483-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3483-07","Nombre Región Distrito Partido
+Rodrigo Alvarez Zenteno XII Región de Magallanes y de la Antártica Chilena N°60 Unión Demócrata Independiente
+Sergio Correa De la Cerda VII Región del Maule N°36 Unión Demócrata Independiente
+Eduardo Díaz Del Río IX Región de la Araucanía N°51 Independientes
+Marcelo Forni Lobos V Región de Valparaíso N°11 Unión Demócrata Independiente
+Gonzalo Ibáñez Santa María V Región de Valparaíso N°14 Unión Demócrata Independiente
+Darío Molina Sanhueza IV Región de Coquimbo N°9 Unión Demócrata Independiente
+Iván Norambuena Farías VIII Región del Bío Bío N°46 Unión Demócrata Independiente
+Ramón Pérez Opazo I Región de Tarapacá N°2 Independientes
+Pablo Prieto Lorca VII Región del Maule N°37 Unión Demócrata Independiente
+Gonzalo Uriarte Herrera RM Región Metropolitana N°31 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3483-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3483-07","No record","Veto emmEnd"

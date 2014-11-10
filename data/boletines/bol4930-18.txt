@@ -1,0 +1,59 @@
+* * Bill summary * *
+"emmStart Summary 4930-18","Legislatura: 355
+Fecha de ingreso: martes 03 de abril de 2007
+Estado: Tramitación terminada (Ley Nº 20.761 - D.Oficial 22/07/2014)
+Numero de boletín: 4930-18
+Materia: Maternidad,Protección A La Maternidad
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 22:42:28
+* * Hitos de tramitación * *
+"emmStart Hitos 4930-18","Fecha Sesión Etapa Sub-etapa Documento
+03 de Abr. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Abr. de 2007 8ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Familia Ver
+15 de Dic. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+16 de Dic. de 2008 116ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+07 de May. de 2009 27ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+07 de May. de 2009   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+12 de May. de 2009 16ª / 357 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social
+16 de Abr. de 2014   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+16 de Abr. de 2014 10ª / 362 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Jun. de 2014 23ª / 362 Segundo trámite constitucional / Senado Discusión general Ver
+10 de Jun. de 2014   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+11 de Jun. de 2014 32ª / 362 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+01 de Jul. de 2014 38ª / 362 Tercer trámite constitucional / C. Diputados Cuenta del Mensaje 236-362 que hace presente la urgencia Simple Ver
+01 de Jul. de 2014 38ª / 362 Tercer trámite constitucional / C. Diputados Discusión única. Aprobadas las modificaciones . Ver
+01 de Jul. de 2014   Tercer trámite constitucional / C. Diputados Oficio N° 11.345, que comunica aprobacion de modificaciones Ver
+01 de Jul. de 2014   Tercer trámite constitucional / C. Diputados Oficio N° 11.346. Oficio de ley al Ejecutivo. Ver
+02 de Jul. de 2014 28ª / 362 Tercer trámite constitucional / C. Diputados Cuenta oficio N? 11.345, que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4930-18","Fecha Etapa Informe Documento
+16 de Abr. de 2014 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver
+15 de Dic. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Familia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4930-18","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+01 de Jul. de 2014   Simple 236-362  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4930-18","Nombre Región Distrito Partido
+Sergio Aguiló Melo VII Región del Maule N°37 Partido Socialista
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Marta Isasi Barbieri I Región de Tarapacá N°2 Independientes
+Fernando Meza Moncada IX Región de la Araucanía N°52 Partido Radical Social Demócrata
+Adriana Muñoz D'Albora IV Región de Coquimbo N°9 Partido Por la Democracia
+Felipe Salaberry Soto RM Región Metropolitana N°25 Unión Demócrata Independiente
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Independientes
+Gabriel Silber Romo RM Región Metropolitana N°16 Partido Demócrata Cristiano
+Ximena Valcarce Becerra XV Región Arica y Parinacota N°1 Renovación Nacional
+Patricio Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4930-18","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+27   78 0 0 42 Aprobado Sala Ver detalle votación
+38   78 0 0 42 Aprobado Sala Ver detalle votación
+83 Votación General 6 0 0 7   Familia Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4930-18","No record","Veto emmEnd"

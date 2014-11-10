@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 3948-07","Legislatura: 353
+Fecha de ingreso: miércoles 10 de agosto de 2005
+Estado: Tramitación terminada (Ley Nº 20.100 - D.Oficial 04/05/2006)
+Numero de boletín: 3948-07
+Materia: Nacionalización
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 05-11-2014 07:08:32
+* * Hitos de tramitación * *
+"emmStart Hitos 3948-07","Fecha Sesión Etapa Sub-etapa Documento
+10 de Ago. de 2005   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+10 de Ago. de 2005 24ª / 353 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía
+01 de Sep. de 2005   Primer trámite constitucional / Senado Primer informe de comisión Ver
+06 de Sep. de 2005 32ª / 353 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+13 de Sep. de 2005 35ª / 353 Primer trámite constitucional / Senado Discusión general Ver
+14 de Sep. de 2005   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+04 de Oct. de 2005 46ª / 353 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver Ver
+22 de Mar. de 2006   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+23 de Mar. de 2006 7ª / 354 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+23 de Mar. de 2006 7ª / 354 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+23 de Mar. de 2006   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+04 de Abr. de 2006 4ª / 354 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+05 de Abr. de 2006   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3948-07","Fecha Etapa Informe Documento
+22 de Mar. de 2006 Segundo trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+01 de Sep. de 2005 Primer trámite constitucional Senado Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3948-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3948-07","Nombre
+Rafael Moreno Rojas","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3948-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3948-07","No record","Veto emmEnd"

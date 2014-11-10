@@ -1,0 +1,48 @@
+* * Bill summary * *
+"emmStart Summary 2779-06","Legislatura: 344
+Fecha de ingreso: martes 11 de septiembre de 2001
+Estado: Tramitación terminada (Ley Nº 19.793 - D.Oficial 06/03/2002)
+Numero de boletín: 2779-06
+Materia: Feriados
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 03-11-2014 10:23:24
+* * Hitos de tramitación * *
+"emmStart Hitos 2779-06","Fecha Sesión Etapa Sub-etapa Documento
+11 de Sep. de 2001   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+11 de Sep. de 2001 28ª / 344 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización
+09 de Oct. de 2001 5ª / 345 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+09 de Oct. de 2001   Primer trámite constitucional / Senado Primer informe de comisión Ver
+10 de Oct. de 2001 6ª / 345 Primer trámite constitucional / Senado Discusión general. Aprobado en general y particular a la vez (Queda pendiente discusión). Ver
+16 de Oct. de 2001   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+16 de Oct. de 2001 8ª / 345 Primer trámite constitucional / Senado Discusión general Ver
+30 de Oct. de 2001 10ª / 345 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+08 de Ene. de 2002 23ª / 345 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 189-345 que hace presente la urgencia Simple Ver
+22 de Ene. de 2002 28ª / 345 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 210-345 que hace presente la urgencia Discusión inmediata Ver
+22 de Ene. de 2002   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+23 de Ene. de 2002 30ª / 345 Segundo trámite constitucional / C. Diputados Discusión general Ver
+23 de Ene. de 2002 30ª / 345 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+23 de Ene. de 2002   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+30 de Ene. de 2002   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+05 de Mar. de 2002 28ª / 345 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2779-06","Fecha Etapa Informe Documento
+22 de Ene. de 2002 Segundo trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver
+09 de Oct. de 2001 Primer trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2779-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+22 de Ene. de 2002   Discusión inmediata 210-345  
+08 de Ene. de 2002   Simple 189-345  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2779-06","Nombre
+Juan Hamilton Depassier
+Hosaín Sabag Castillo","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2779-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2779-06","No record","Veto emmEnd"

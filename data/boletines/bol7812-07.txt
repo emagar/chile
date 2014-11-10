@@ -1,0 +1,30 @@
+* * Bill summary * *
+"emmStart Summary 7812-07","Legislatura: 359
+Fecha de ingreso: miércoles 20 de julio de 2011
+Estado: Primer trámite constitucional .
+Numero de boletín: 7812-07
+Materia: No Nacido
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 09-11-2014 11:29:08
+* * Hitos de tramitación * *
+"emmStart Hitos 7812-07","Fecha Sesión Etapa Sub-etapa Documento
+20 de Jul. de 2011   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+14 de Mar. de 2014   Primer trámite constitucional / Senado Archivado La Comisión lo ha archivado en virtud del artículo 36 bis, inciso segundo, del Reglamento del Senado.
+03 de Jun. de 2014   Primer trámite constitucional / Senado Desarchivado","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7812-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7812-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7812-07","Nombre
+Francisco Chahuán Chahuán","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7812-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7812-07","No record","Veto emmEnd"

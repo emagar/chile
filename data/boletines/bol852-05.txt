@@ -1,0 +1,35 @@
+* * Bill summary * *
+"emmStart Summary 852-05","Legislatura: 325
+Fecha de ingreso: martes 10 de noviembre de 1992
+Estado: Tramitación terminada (Ley Nº 19.181 - D.Oficial 30/11/1992)
+Numero de boletín: 852-05
+Materia: Pensiones Asistenciales,Aguinaldo De Fiestas Patrias,Sistemas De Pensiones
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 23:49:49
+* * Hitos de tramitación * *
+"emmStart Hitos 852-05","Fecha Sesión Etapa Sub-etapa Documento
+10 de Nov. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Nov. de 1992 17ª / 325 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+12 de Nov. de 1992 10ª / 325 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+17 de Nov. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+17 de Nov. de 1992 11ª / 325 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+17 de Nov. de 1992 11ª / 325 Segundo trámite constitucional / Senado Discusión general Ver
+19 de Nov. de 1992   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 852-05","Fecha Etapa Informe Documento
+17 de Nov. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 852-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+10 de Nov. de 1992   Discusión inmediata    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 852-05","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 852-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 852-05","No record","Veto emmEnd"

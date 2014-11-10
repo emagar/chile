@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 65-10","Legislatura: 320
+Fecha de ingreso: miércoles 30 de mayo de 1990
+Estado: Tramitación terminada (D.S. Nº 830 - D.Oficial 27/09/1990)
+Numero de boletín: 65-10
+Materia: Derechos Del Niño,Menores
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 30-10-2014 16:35:39
+* * Hitos de tramitación * *
+"emmStart Hitos 65-10","Fecha Sesión Etapa Sub-etapa Documento
+30 de May. de 1990 2ª / 320 Primer trámite constitucional / Senado Cuenta de proyecto
+30 de May. de 1990   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+05 de Jun. de 1990 3ª / 320 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+05 de Jun. de 1990 3ª / 320 Primer trámite constitucional / Senado Primer informe de comisión Ver
+06 de Jun. de 1990 4ª / 320 Primer trámite constitucional / Senado Discusión general Ver
+06 de Jun. de 1990 4ª / 320 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+06 de Jun. de 1990 6ª / 320 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+03 de Jul. de 1990   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+04 de Jul. de 1990 13ª / 320 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+04 de Jul. de 1990 13ª / 320 Segundo trámite constitucional / C. Diputados Discusión general Ver
+04 de Jul. de 1990   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen
+10 de Jul. de 1990 15ª / 320 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+10 de Jul. de 1990 15ª / 320 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 65-10","Fecha Etapa Informe Documento
+03 de Jul. de 1990 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+05 de Jun. de 1990 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 65-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 65-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 65-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 65-10","No record","Veto emmEnd"

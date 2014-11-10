@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 5189-05","Legislatura: 355
+Fecha de ingreso: martes 10 de julio de 2007
+Estado: Archivado .
+Numero de boletín: 5189-05
+Materia: Impuesto A Las Ventas Y Servicios,Juicio Tributario
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 01:40:05
+* * Hitos de tramitación * *
+"emmStart Hitos 5189-05","Fecha Sesión Etapa Sub-etapa Documento
+10 de Jul. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Jul. de 2007 47ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+11 de Ago. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de Ago. de 2009 67ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Abr. de 2010   Primer trámite constitucional / C. Diputados Archivado Solicitado por Comités Parlamentarios.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5189-05","Fecha Etapa Informe Documento
+11 de Ago. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5189-05","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5189-05","Nombre Región Distrito Partido
+Sergio Bobadilla Muñoz VIII Región del Bío Bío N°45 Unión Demócrata Independiente
+Enrique Estay Peñaloza IX Región de la Araucanía N°49 Unión Demócrata Independiente
+Marcelo Forni Lobos V Región de Valparaíso N°11 Unión Demócrata Independiente
+Javier Hernández Hernández X Región de los Lagos N°55 Unión Demócrata Independiente
+Juan Lobos Krause VIII Región del Bío Bío N°47 Unión Demócrata Independiente
+Claudia Nogueira Fernández RM Región Metropolitana N°19 Unión Demócrata Independiente
+Darío Paya Mira RM Región Metropolitana N°28 Unión Demócrata Independiente
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Independientes
+Alejandro Sule Fernández VI Región del Libertador Bernardo O' Higgins N°33 Partido Radical Social Demócrata
+Jorge Ulloa Aguillón VIII Región del Bío Bío N°43 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5189-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+248 Votación General 0 8 0 5   Hacienda Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5189-05","No record","Veto emmEnd"

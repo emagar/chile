@@ -1,0 +1,57 @@
+* * Bill summary * *
+"emmStart Summary 5043-01","Legislatura: 355
+Fecha de ingreso: jueves 10 de mayo de 2007
+Estado: Tramitación terminada (Ley Nº 20.275 - D.Oficial 27/08/2008)
+Numero de boletín: 5043-01
+Materia:
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 00:03:22
+* * Hitos de tramitación * *
+"emmStart Hitos 5043-01","Fecha Sesión Etapa Sub-etapa Documento
+10 de May. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de May. de 2007 25ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+10 de Jul. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+31 de Jul. de 2007 56ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+02 de Ago. de 2007 59ª / 355 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+07 de Ago. de 2007   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+08 de Ago. de 2007 41ª / 355 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Agricultura Ver
+16 de Oct. de 2007   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+16 de Oct. de 2007 58ª / 355 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+30 de Oct. de 2007 60ª / 355 Segundo trámite constitucional / Senado Discusión general Ver
+30 de Oct. de 2007   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+31 de Oct. de 2007 95ª / 355 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver Ver
+11 de Jun. de 2008 38ª / 356 Tercer trámite constitucional / C. Diputados Discusión única Ver
+11 de Jun. de 2008   Tercer trámite constitucional / C. Diputados Oficio Nº 7511, que comunica aprobación de modificaciones Ver
+11 de Jun. de 2008   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+17 de Jun. de 2008 27ª / 356 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 7511, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5043-01","Fecha Etapa Informe Documento
+16 de Oct. de 2007 Segundo trámite constitucional Senado Primer informe de comisión de Agricultura Ver
+10 de Jul. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5043-01","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5043-01","Nombre Región Distrito Partido
+Ramón Barros Montero VI Región del Libertador Bernardo O' Higgins N°35 Unión Demócrata Independiente
+Eduardo Díaz Del Río IX Región de la Araucanía N°51 Partido Regionalista Independiente
+Marcelo Díaz Díaz IV Región de Coquimbo N°7 Partido Socialista
+Marco Enríquez-Ominami Gumucio V Región de Valparaíso N°10 Independientes
+Marcelo Forni Lobos V Región de Valparaíso N°11 Unión Demócrata Independiente
+Rosauro Martínez Labbé VIII Región del Bío Bío N°41 Renovación Nacional
+Iván Norambuena Farías VIII Región del Bío Bío N°46 Unión Demócrata Independiente
+Jaime Quintana Leal IX Región de la Araucanía N°49 Partido Por la Democracia
+Manuel Rojas Molina II Región de Antofagasta N°4 Unión Demócrata Independiente
+Ignacio Urrutia Bonilla VII Región del Maule N°40 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5043-01","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+38 Enmiendas del Senado. 77 0 1 0 Aprobado Sala Ver detalle votación
+59   79 0 5 0 Aprobado Sala Ver detalle votación
+46 Votación General 6 0 0 7   Agricultura Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5043-01","No record","Veto emmEnd"

@@ -1,0 +1,35 @@
+* * Bill summary * *
+"emmStart Summary 379-10","Legislatura: 322
+Fecha de ingreso: jueves 13 de junio de 1991
+Estado: Tramitación terminada (Ley Nº 19.087 - D.Oficial 14/10/1991)
+Numero de boletín: 379-10
+Materia: Institutos ,Instituto Antártico Chileno
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 16:30:49
+* * Hitos de tramitación * *
+"emmStart Hitos 379-10","Fecha Sesión Etapa Sub-etapa Documento
+13 de Jun. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Jun. de 1991 7ª / 322 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+03 de Jul. de 1991   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+23 de Jul. de 1991 20ª / 322 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+04 de Sep. de 1991   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+05 de Sep. de 1991 36ª / 322 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Sep. de 1991   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 379-10","Fecha Etapa Informe Documento
+04 de Sep. de 1991 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+03 de Jul. de 1991 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 379-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 379-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 379-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 379-10","No record","Veto emmEnd"

@@ -1,0 +1,35 @@
+* * Bill summary * *
+"emmStart Summary 3295-07","Legislatura: 349
+Fecha de ingreso: miércoles 06 de agosto de 2003
+Estado: Archivado .
+Numero de boletín: 3295-07
+Materia: Código Penal
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 01:14:33
+* * Hitos de tramitación * *
+"emmStart Hitos 3295-07","Fecha Sesión Etapa Sub-etapa Documento
+17 de Jul. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+17 de Jul. de 2003 19ª / 349 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+09 de Jun. de 2009   Primer trámite constitucional / C. Diputados Archivado
+09 de Jun. de 2009 37ª / 357 Archivado / Comisión de Constitución archiva proyecto.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3295-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3295-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+17 de Jul. de 2003   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3295-07","Nombre Región Distrito Partido
+Francisco Encina Moriamez IV Región de Coquimbo N°8 Partido Socialista
+Camilo Escalona Medina VIII Región del Bío Bío N°46 Partido Socialista
+Fidel Espinoza Sandoval X Región de los Lagos N°56 Partido Socialista
+Pedro Muñoz Aburto XII Región de Magallanes y de la Antártica Chilena N°60 Partido Socialista","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3295-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3295-07","No record","Veto emmEnd"

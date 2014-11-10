@@ -1,0 +1,55 @@
+* * Bill summary * *
+"emmStart Summary 7592-13","Legislatura: 359
+Fecha de ingreso: miércoles 13 de abril de 2011
+Estado: Primer trámite constitucional .
+Numero de boletín: 7592-13
+Materia: Empaquetadores
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 09-11-2014 05:53:27
+* * Hitos de tramitación * *
+"emmStart Hitos 7592-13","Fecha Sesión Etapa Sub-etapa Documento
+13 de Abr. de 2011   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+13 de Abr. de 2011 9ª / 359 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social
+30 de Ago. de 2011 46ª / 359 Primer trámite constitucional / Senado Cuenta del Mensaje 363-359 que hace presente la urgencia Simple
+13 de Sep. de 2011   Primer trámite constitucional / Senado Primer informe de comisión Ver
+14 de Sep. de 2011 54ª / 359 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 14/10/2011 Ver
+27 de Sep. de 2011 56ª / 359 Primer trámite constitucional / Senado Cuenta del Mensaje 396-359 que retira y hace presente la urgencia Suma
+12 de Oct. de 2011 62ª / 359 Primer trámite constitucional / Senado Cuenta del Mensaje 421-359 que retira y hace presente la urgencia Suma
+12 de Oct. de 2011   Primer trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 28/10/2011 a las 13:00 en Secretaría.
+28 de Oct. de 2011   Primer trámite constitucional / Senado Boletín de indicaciones
+02 de Nov. de 2011 65ª / 359 Primer trámite constitucional / Senado Cuenta del Mensaje 435-359 que retira y hace presente la urgencia Suma
+16 de Nov. de 2011 69ª / 359 Primer trámite constitucional / Senado Cuenta del Mensaje 450-359 que retira y hace presente la urgencia Suma
+12 de Dic. de 2011 79ª / 359 Primer trámite constitucional / Senado Cuenta del Mensaje 478-359 que retira y hace presente la urgencia Suma
+03 de Ene. de 2012 85ª / 359 Primer trámite constitucional / Senado Cuenta del Mensaje 523-359 que retira y hace presente la urgencia Suma
+18 de Ene. de 2012 91ª / 359 Primer trámite constitucional / Senado Cuenta del Mensaje 565-359 que retira y hace presente la urgencia Suma
+31 de Ene. de 2012 94ª / 359 Primer trámite constitucional / Senado Cuenta del Mensaje 601-359 que retira la urgencias por receso legislativo","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7592-13","Fecha Etapa Informe Documento
+13 de Sep. de 2011 Primer trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7592-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+18 de Ene. de 2012 31 de Ene. de 2012 Suma 565-359 601-359
+03 de Ene. de 2012 18 de Ene. de 2012 Suma 523-359 565-359
+12 de Dic. de 2011 03 de Ene. de 2012 Suma 478-359 523-359
+16 de Nov. de 2011 12 de Dic. de 2011 Suma 450-359 478-359
+02 de Nov. de 2011 16 de Nov. de 2011 Suma 435-359 450-359
+12 de Oct. de 2011 02 de Nov. de 2011 Suma 421-359 435-359
+27 de Sep. de 2011 12 de Oct. de 2011 Suma 396-359 421-359
+30 de Ago. de 2011 27 de Sep. de 2011 Simple 363-359 396-359","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7592-13","Nombre
+Carlos Bianchi Chelech
+Francisco Chahuán Chahuán
+José Antonio Gómez Urrutia
+Pedro Muñoz Aburto
+Ximena Rincón González","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7592-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7592-13","No record","Veto emmEnd"

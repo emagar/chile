@@ -1,0 +1,59 @@
+* * Bill summary * *
+"emmStart Summary 6725-13","Legislatura: 357
+Fecha de ingreso: martes 06 de octubre de 2009
+Estado: Tramitación terminada (Ley N° 20.535 - D.Oficial 03/10/2011)
+Numero de boletín: 6725-13
+Materia: Trabajadoras,Permisos (Trabajo),Permisos Especiales Para Trabajadores,Madres De Hijos Discapacitados
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 15:37:23
+* * Hitos de tramitación * *
+"emmStart Hitos 6725-13","Fecha Sesión Etapa Sub-etapa Documento
+06 de Oct. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Oct. de 2009 85ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+03 de Jun. de 2010 33ª / 358 Primer trámite constitucional / C. Diputados Comisión de Familia solicita quen proyecto le sea remitido . ACORDADO. Ver
+03 de Ago. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de Ago. de 2010 58ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+12 de Ago. de 2010 63ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+12 de Ago. de 2010   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+17 de Ago. de 2010 43ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social
+08 de Ago. de 2011   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+16 de Ago. de 2011 44ª / 359 Segundo trámite constitucional / Senado Discusión general Ver
+16 de Ago. de 2011   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+17 de Ago. de 2011 72ª / 359 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+30 de Ago. de 2011   Tercer trámite constitucional / C. Diputados Oficio N° 9678, que comunica aprobacion de modificaciones Ver
+30 de Ago. de 2011 75ª / 359 Tercer trámite constitucional / C. Diputados Discusión única Ver
+30 de Ago. de 2011   Tercer trámite constitucional / C. Diputados Oficio N°9677. Oficio de ley al Ejecutivo Ver
+31 de Ago. de 2011 48ª / 359 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 9678, que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6725-13","Fecha Etapa Informe Documento
+08 de Ago. de 2011 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver
+03 de Ago. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Familia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6725-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6725-13","Nombre Región Distrito Partido
+Ramón Barros Montero VI Región del Libertador Bernardo O' Higgins N°35 Unión Demócrata Independiente
+Sergio Correa De la Cerda VII Región del Maule N°36 Unión Demócrata Independiente
+María Angélica Cristi Marfil RM Región Metropolitana N°24 Unión Demócrata Independiente
+Julio Dittborn Cordúa RM Región Metropolitana N°23 Unión Demócrata Independiente
+Javier Hernández Hernández X Región de los Lagos N°55 Unión Demócrata Independiente
+Juan Masferrer Pellizzari VI Región del Libertador Bernardo O' Higgins N°34 Unión Demócrata Independiente
+Patricio Melero Abaroa RM Región Metropolitana N°16 Unión Demócrata Independiente
+Jorge Sabag Villalobos VIII Región del Bío Bío N°42 Partido Demócrata Cristiano
+Felipe Salaberry Soto RM Región Metropolitana N°25 Unión Demócrata Independiente
+Gastón Von Mühlenbrock Zamora XIV Región de los Ríos N°54 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6725-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+63   73 0 0 47 Aprobado Sala Ver detalle votación
+75 Enmiendas introducidas por el Senado, con excepción de la que sustituye, en el inciso 7 del art. 199 bis del Código del Trabajo, el guarismo 48 por 24. 93 0 1 26 Aprobado Sala Ver detalle votación
+75 Enmienda introducida por el Senado que sustituye, en el inciso 7 del art. 199 bis del Código del Trabajo, el guarismo 48 por 24. 50 47 1 22 Aprobado Sala Ver detalle votación
+14 Votación Particular 9 0 0 4   Familia Ver detalle votación
+11 Votación General 5 0 0 8   Familia Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6725-13","No record","Veto emmEnd"

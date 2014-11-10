@@ -1,0 +1,55 @@
+* * Bill summary * *
+"emmStart Summary 5158-03","Legislatura: 355
+Fecha de ingreso: martes 03 de julio de 2007
+Estado: Segundo trámite constitucional .
+Numero de boletín: 5158-03
+Materia: Transporte Aéreo
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 01:18:40
+* * Hitos de tramitación * *
+"emmStart Hitos 5158-03","Fecha Sesión Etapa Sub-etapa Documento
+03 de Jul. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Jul. de 2007 44ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+18 de Mar. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+19 de Mar. de 2008 7ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+09 de Sep. de 2008 73ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+15 de Oct. de 2008 89ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+06 de Oct. de 2009   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+06 de Oct. de 2009 85ª / 357 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+14 de Oct. de 2009 91ª / 357 Primer trámite constitucional / C. Diputados Discusión particular Ver
+14 de Oct. de 2009   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+14 de Oct. de 2009 91ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1344-357 que hace presente la urgencia Suma Ver
+27 de Oct. de 2009 59ª / 357 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones
+06 de Mar. de 2012 94ª / 359 Tramitación terminada / Cuenta del Mensaje 601-359 que retira la urgencia Suma","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5158-03","Fecha Etapa Informe Documento
+06 de Oct. de 2009 Primer trámite constitucional C.Diputados Segundo informe de comisión de Economía, Fomento y Desarrollo Ver
+18 de Mar. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5158-03","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+14 de Oct. de 2009 31 de Ene. de 2012 Suma 1344-357 601-359","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5158-03","Nombre Región Distrito Partido
+Marcelo Díaz Díaz IV Región de Coquimbo N°7 Partido Socialista
+Francisco Encina Moriamez IV Región de Coquimbo N°8 Partido Socialista
+Marco Enríquez-Ominami Gumucio V Región de Valparaíso N°10 Independientes
+Marcos Espinosa Monardes II Región de Antofagasta N°3 Partido Radical Social Demócrata
+Fidel Espinoza Sandoval X Región de los Lagos N°56 Partido Socialista
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+Iván Moreira Barros RM Región Metropolitana N°27 Unión Demócrata Independiente
+Fulvio Rossi Ciocca I Región de Tarapacá N°2 Partido Socialista
+Eugenio Tuma Zedan IX Región de la Araucanía N°51 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5158-03","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+89   58 5 16 41 Aprobado Sala Ver detalle votación
+89 1°, número 8. 52 1 21 46 Rechazado Sala Ver detalle votación
+91   74 0 0 46 Aprobado Sala Ver detalle votación
+55 Votación General 10 0 0 3   Economía Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5158-03","No record","Veto emmEnd"

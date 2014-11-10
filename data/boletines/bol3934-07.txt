@@ -1,0 +1,59 @@
+* * Bill summary * *
+"emmStart Summary 3934-07","Legislatura: 353
+Fecha de ingreso: miércoles 20 de julio de 2005
+Estado: Tramitación terminada (Ley Nº 20.192 - D.Oficial 26/06/2007)
+Numero de boletín: 3934-07
+Materia: Código De Procedimiento Civil
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 06:58:42
+* * Hitos de tramitación * *
+"emmStart Hitos 3934-07","Fecha Sesión Etapa Sub-etapa Documento
+20 de Jul. de 2005 22ª / 353 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia. Se remite el proyecto a la Corte Suprema. Ver
+20 de Jul. de 2005   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de Jul. de 2005   Primer trámite constitucional / C. Diputados Oficio Nº a la Corte Suprema Ver
+07 de Sep. de 2005   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+04 de Oct. de 2005   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Oct. de 2005 49ª / 353 Primer trámite constitucional / C. Diputados Cuenta oficio Nº 124 de la Corte Suprema Ver Ver
+11 de Oct. de 2005 49ª / 353 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+11 de Oct. de 2005 50ª / 353 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+11 de Oct. de 2005   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+18 de Oct. de 2005 42ª / 353 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento y a Comisión de Hacienda
+08 de Nov. de 2006   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+09 de Abr. de 2007   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+10 de Abr. de 2007 9ª / 355 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+11 de Abr. de 2007 10ª / 355 Segundo trámite constitucional / Senado Discusión general Ver
+12 de Abr. de 2007   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+17 de Abr. de 2007 16ª / 355 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver Ver
+18 de Abr. de 2007   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+18 de Abr. de 2007 17ª / 355 Tercer trámite constitucional / C. Diputados Discusión única Ver
+18 de Abr. de 2007   Tercer trámite constitucional / C. Diputados Oficio Nº 6761, que comunica aprobación de modificaciones Ver
+02 de May. de 2007 19ª / 355 Trámite de aprobacion presidencial / C. Diputados P. de la Rep. comunica que ha resuelto no hacer uso de la facultad que le confiere el inciso primero del artículo 73 de la Const. Pol. de la Rep. AL TRIBUNAL CONSTITUCIONAL. Ver
+02 de May. de 2007   Trámite en Tribunal Constitucional / C. Diputados Oficio al Tribunal Constitucional Ver
+02 de May. de 2007 14ª / 355 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 6761, que comunica aprobación de modificaciones Ver
+17 de May. de 2007   Trámite en Tribunal Constitucional / C. Diputados Ingreso fallo del Tribunal Constitucional Ver
+17 de May. de 2007 29ª / 355 Trámite en Tribunal Constitucional / C. Diputados Cuenta fallo del Tribunal Constitucional. Tribunal Constitucional remite copia autorizada de la sentencia dictad el 14 de mayo de 2007. ROL N° 780-07. A S. E. LA PRESIDENTA DE LA REPÚBLICA. Ver
+17 de May. de 2007   Trámite en Tribunal Constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3934-07","Fecha Etapa Informe Documento
+09 de Abr. de 2007 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+08 de Nov. de 2006 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+04 de Oct. de 2005 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+07 de Sep. de 2005 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3934-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3934-07","Nombre Región Distrito Partido
+Pedro Araya Guerrero II Región de Antofagasta N°4 Partido Demócrata Cristiano
+Zarko Luksic Sandoval RM Región Metropolitana N°16 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3934-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+17 Modificaciones del Senado 100 0 0 20 Aprobado Sala Ver detalle votación
+50   97 0 0 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3934-07","No record","Veto emmEnd"

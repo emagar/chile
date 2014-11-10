@@ -1,0 +1,65 @@
+* * Bill summary * *
+"emmStart Summary 4001-02","Legislatura: 353
+Fecha de ingreso: martes 04 de octubre de 2005
+Estado: Tramitación terminada (Ley Nº 20.113 - D.Oficial 25/07/2006)
+Numero de boletín: 4001-02
+Materia: Policía De Investigaciones De Chile
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 07:44:54
+* * Hitos de tramitación * *
+"emmStart Hitos 4001-02","Fecha Sesión Etapa Sub-etapa Documento
+04 de Oct. de 2005 47ª / 353 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Defensa Nacional y a Comisión de Hacienda Ver
+04 de Oct. de 2005   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+18 de Oct. de 2005 52ª / 353 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 352-353 que hace presente la urgencia Simple Ver
+13 de Dic. de 2005 59ª / 353 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 439-353 que retira la urgencia Simple Ver
+17 de Ene. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+18 de Ene. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de Ene. de 2006 70ª / 353 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+18 de Ene. de 2006 70ª / 353 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+18 de Ene. de 2006   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+07 de Mar. de 2006 60ª / 353 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Defensa Nacional y a Comisión de Hacienda Ver
+21 de Abr. de 2006   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+02 de May. de 2006 11ª / 354 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+02 de May. de 2006 11ª / 354 Segundo trámite constitucional / Senado Cuenta del Mensaje 82-354 que hace presente la urgencia Simple
+03 de May. de 2006 12ª / 354 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 15/05/2006 Ver
+15 de May. de 2006   Segundo trámite constitucional / Senado Boletín de indicaciones
+16 de May. de 2006 16ª / 354 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+16 de May. de 2006   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+06 de Jun. de 2006 19ª / 354 Segundo trámite constitucional / Senado Discusión particular. Queda pendiente Aplazada la discusiòn para el 13/06/06 Ver
+06 de Jun. de 2006 19ª / 354 Segundo trámite constitucional / Senado Cuenta del Mensaje 126-354 que retira y hace presente la urgencia Suma
+13 de Jun. de 2006 22ª / 354 Segundo trámite constitucional / Senado Discusión particular Ver
+14 de Jun. de 2006 23ª / 354 Segundo trámite constitucional / Senado Discusión particular Ver
+14 de Jun. de 2006   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+15 de Jun. de 2006 38ª / 354 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver Ver
+15 de Jun. de 2006 38ª / 354 Tercer trámite constitucional / C. Diputados Discusión única Ver
+15 de Jun. de 2006   Tercer trámite constitucional / C. Diputados Oficio Nº 6214, que comunica aprobación de modificaciones Ver
+15 de Jun. de 2006   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+15 de Jun. de 2006   Tercer trámite constitucional / C. Diputados Oficio Nº 6214, que comunica aprobación de modificaciones Ver
+20 de Jun. de 2006 24ª / 354 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 6214, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4001-02","Fecha Etapa Informe Documento
+16 de May. de 2006 Segundo trámite constitucional Senado Segundo informe de comisión de Hacienda Ver
+21 de Abr. de 2006 Segundo trámite constitucional Senado Primer informe de comisión de Defensa Nacional Ver
+18 de Ene. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+17 de Ene. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Defensa Nacional Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4001-02","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+06 de Jun. de 2006   Suma 126-354  
+02 de May. de 2006 06 de Jun. de 2006 Simple 82-354 126-354
+18 de Oct. de 2005 13 de Dic. de 2005 Simple 352-353 439-353","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4001-02","Nombre Región Distrito Partido
+Ministerio de Defensa Nacional      
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4001-02","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+38   94 0 0 0 Aprobado Sala Ver detalle votación
+70   69 0 0 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4001-02","No record","Veto emmEnd"

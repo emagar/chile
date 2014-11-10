@@ -1,0 +1,39 @@
+* * Bill summary * *
+"emmStart Summary 877-09","Legislatura: 325
+Fecha de ingreso: miércoles 09 de diciembre de 1992
+Estado: Tramitación terminada (Ley Nº 19.290 - D.Oficial 18/02/1994)
+Numero de boletín: 877-09
+Materia: Superintendencia De Servicios Sanitarios,Servicios Sanitarios
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 00:09:29
+* * Hitos de tramitación * *
+"emmStart Hitos 877-09","Fecha Sesión Etapa Sub-etapa Documento
+09 de Dic. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+09 de Dic. de 1992 27ª / 325 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+05 de Oct. de 1993 1ª / 327 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Obras Públicas
+04 de Nov. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+10 de Nov. de 1993 13ª / 327 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+23 de Nov. de 1993 16ª / 327 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 14/12/1993 Ver
+17 de Dic. de 1993   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+05 de Ene. de 1994 21ª / 327 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+11 de Ene. de 1994 22ª / 327 Segundo trámite constitucional / Senado Discusión particular Ver
+13 de Ene. de 1994   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+13 de Sep. de 1994   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 877-09","Fecha Etapa Informe Documento
+17 de Dic. de 1993 Segundo trámite constitucional Senado Segundo informe de comisión de Obras Públicas Ver
+04 de Nov. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Obras Públicas Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 877-09","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 877-09","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 877-09","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 877-09","No record","Veto emmEnd"

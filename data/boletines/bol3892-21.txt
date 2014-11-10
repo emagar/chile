@@ -1,0 +1,56 @@
+* * Bill summary * *
+"emmStart Summary 3892-21","Legislatura: 353
+Fecha de ingreso: miércoles 15 de junio de 2005
+Estado: Tramitación terminada (Ley Nº 20.091 - D.Oficial 10/01/2006)
+Numero de boletín: 3892-21
+Materia: Acuicultura
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 05:11:42
+* * Hitos de tramitación * *
+"emmStart Hitos 3892-21","Fecha Sesión Etapa Sub-etapa Documento
+15 de Jun. de 2005   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+15 de Jun. de 2005 5ª / 353 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Pesca, Acuicultura e Intereses Marítimos Ver
+31 de Ago. de 2005   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+13 de Sep. de 2005   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+13 de Sep. de 2005 44ª / 353 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Pesca, Acuicultura e Intereses Marítimos, y de Hacienda Ver
+14 de Sep. de 2005 45ª / 353 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+14 de Sep. de 2005   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+04 de Oct. de 2005 38ª / 353 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Intereses Marítimos, Pesca y Acuicultura y a Comisión de Hacienda Ver
+12 de Oct. de 2005 41ª / 353 Segundo trámite constitucional / Senado Cuenta del Mensaje 334-353 que hace presente la urgencia Simple
+17 de Oct. de 2005   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+18 de Oct. de 2005 42ª / 353 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+19 de Oct. de 2005 43ª / 353 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 02/11/2005 Ver
+02 de Nov. de 2005   Segundo trámite constitucional / Senado Boletín de indicaciones
+13 de Dic. de 2005 48ª / 353 Segundo trámite constitucional / Senado Cuenta del Mensaje 447-353 que retira y hace presente la urgencia Suma
+14 de Dic. de 2005   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+14 de Dic. de 2005 50ª / 353 Segundo trámite constitucional / Senado Discusión particular Ver
+19 de Dic. de 2005   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+20 de Dic. de 2005 62ª / 353 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver Ver
+20 de Dic. de 2005 62ª / 353 Tercer trámite constitucional / C. Diputados Discusión única Ver
+20 de Dic. de 2005   Tercer trámite constitucional / C. Diputados Oficio Nº 5974, que comunica aprobación de modificaciones Ver
+20 de Dic. de 2005   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+21 de Dic. de 2005 52ª / 353 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 5974, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3892-21","Fecha Etapa Informe Documento
+14 de Dic. de 2005 Segundo trámite constitucional Senado Segundo informe de comisión de Hacienda y de Intereses Marítimos, Pesca y Acuicultura, unidas Ver
+17 de Oct. de 2005 Segundo trámite constitucional Senado Primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver
+13 de Sep. de 2005 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+31 de Ago. de 2005 Primer trámite constitucional C.Diputados Primer informe de comisión de Pesca, Acuicultura e Intereses Marítimos Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3892-21","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+13 de Dic. de 2005   Suma 447-353  
+12 de Oct. de 2005 13 de Dic. de 2005 Simple 334-353 447-353","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3892-21","Nombre Región Distrito Partido
+Ministerio de Economía, Fomento y Turism      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3892-21","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+45   78 0 0 1 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3892-21","No record","Veto emmEnd"

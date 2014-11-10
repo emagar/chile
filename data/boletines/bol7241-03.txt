@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 7241-03","Legislatura: 358
+Fecha de ingreso: jueves 30 de septiembre de 2010
+Estado: Primer trámite constitucional .
+Numero de boletín: 7241-03
+Materia: Intereses
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 01:50:06
+* * Hitos de tramitación * *
+"emmStart Hitos 7241-03","Fecha Sesión Etapa Sub-etapa Documento
+30 de Sep. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+30 de Sep. de 2010 82ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+04 de Oct. de 2012 85ª / 360 Primer trámite constitucional / C. Diputados Cuenta, Oficio de la Comisión de Constitución, Legislación y Justicia, por el cual solicita el acuerdo de la Sala, para que le sean remitido el proyecto. Rechazado. (Oficio 10.395 del 4.10.12 al Presidente de la Comisión de Constitución, Legislación y Justicia, comunica rechazo de la petición) Ver
+06 de Jun. de 2014   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+10 de Jun. de 2014 31ª / 362 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+19 de Ago. de 2014 59ª / 362 Primer trámite constitucional / C. Diputados Cuenta oficio de la Comisión de Hacienda, por el cual solicita el acuerdo de la Sala para que le sea remitido el proyecto, para su estudio, informe y eventual fusión con otras iniciativas que recaen en las mismas materias. ACORDADO. Ver
+19 de Ago. de 2014   Primer trámite constitucional / C. Diputados Pasa a la Comisión de Hacienda","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7241-03","Fecha Etapa Informe Documento
+06 de Jun. de 2014 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7241-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7241-03","Nombre Región Distrito Partido
+Fuad Chahín Valenzuela IX Región de la Araucanía N°49 Partido Demócrata Cristiano
+Alfonso De Urresti Longton XIV Región de los Ríos N°53 Partido Socialista
+Marcelo Díaz Díaz IV Región de Coquimbo N°7 Partido Socialista
+Cristina Girardi Lavín RM Región Metropolitana N°18 Partido Por la Democracia
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+Marcelo Schilling Rodríguez V Región de Valparaíso N°12 Partido Socialista
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Partido Regionalista Independiente
+Joaquín Tuma Zedan IX Región de la Araucanía N°51 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7241-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7241-03","No record","Veto emmEnd"

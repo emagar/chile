@@ -1,0 +1,35 @@
+* * Bill summary * *
+"emmStart Summary 42-07","Legislatura: 319
+Fecha de ingreso: jueves 10 de mayo de 1990
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 42-07
+Materia: Cuentas Corrientes
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 30-10-2014 16:11:07
+* * Hitos de tramitación * *
+"emmStart Hitos 42-07","Fecha Sesión Etapa Sub-etapa Documento
+10 de May. de 1990   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+31 de Jul. de 1990 19ª / 320 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+02 de Sep. de 1997 36ª / 335 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+02 de Sep. de 1997 36ª / 335 Primer trámite constitucional / C. Diputados Primer informe de comisión Ver Ver
+21 de Abr. de 1998 12ª / 337 Primer trámite constitucional / C. Diputados Discusión general Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 42-07","Fecha Etapa Informe Documento
+02 de Sep. de 1997 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 42-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 42-07","Nombre Región Distrito Partido
+Aldo Cornejo González Región N° Partido Demócrata Cristiano
+Sergio Elgueta Barrientos Región N° Partido Demócrata Cristiano
+Rubén Gajardo Chacón Región N° Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 42-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 42-07","No record","Veto emmEnd"

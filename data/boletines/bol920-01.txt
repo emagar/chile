@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 920-01","Legislatura: 325
+Fecha de ingreso: jueves 28 de enero de 1993
+Estado: Tramitación terminada (Ley Nº 19.348 - D.Oficial 19/11/1994)
+Numero de boletín: 920-01
+Materia: Acuicultura
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 00:42:49
+* * Hitos de tramitación * *
+"emmStart Hitos 920-01","Fecha Sesión Etapa Sub-etapa Documento
+28 de Ene. de 1993 47ª / 325 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+28 de Ene. de 1993   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+31 de Ago. de 1994 27ª / 329 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Intereses Marítimos, Pesca y Acuicultura
+05 de Sep. de 1994   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+04 de Oct. de 1994 1ª / 330 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+18 de Oct. de 1994 5ª / 330 Segundo trámite constitucional / Senado Discusión general Ver
+19 de Oct. de 1994   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+19 de Oct. de 1994   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+19 de Oct. de 1994   Primer trámite constitucional / C. Diputados Oficio Nº7622. comunicca aprobación sin modificaciones a Cámara de origen Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 920-01","Fecha Etapa Informe Documento
+05 de Sep. de 1994 Segundo trámite constitucional Senado Primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 920-01","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 920-01","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 920-01","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 920-01","No record","Veto emmEnd"

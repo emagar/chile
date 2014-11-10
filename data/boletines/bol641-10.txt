@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 641-10","Legislatura: 323
+Fecha de ingreso: jueves 26 de marzo de 1992
+Estado: Tramitación terminada (D.S. Nº 4 - D.Oficial 07/04/1994)
+Numero de boletín: 641-10
+Materia: Acuerdos Internacionales,Tránsito
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 21:02:14
+* * Hitos de tramitación * *
+"emmStart Hitos 641-10","Fecha Sesión Etapa Sub-etapa Documento
+26 de Mar. de 1992 58ª / 323 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+26 de Mar. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Jun. de 1992   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de Jul. de 1992 8ª / 324 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+02 de Sep. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+03 de Sep. de 1992 22ª / 324 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Sep. de 1992 24ª / 324 Segundo trámite constitucional / Senado Discusión general Ver
+15 de Sep. de 1992   Tramitación terminada / Oficio Nº3549. Oficio a la Cámara de Diputados comunicándole la aprobación del proyecto de acuerdo, en los mismos términos. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 641-10","Fecha Etapa Informe Documento
+02 de Sep. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+10 de Jun. de 1992 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 641-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 641-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 641-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 641-10","No record","Veto emmEnd"

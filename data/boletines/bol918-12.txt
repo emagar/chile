@@ -1,0 +1,65 @@
+* * Bill summary * *
+"emmStart Summary 918-12","Legislatura: 325
+Fecha de ingreso: jueves 28 de enero de 1993
+Estado: Tramitación terminada (Ley Nº 19.825 - D.Oficial 01/10/2002)
+Numero de boletín: 918-12
+Materia: Seguridad Nuclear
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 00:41:29
+* * Hitos de tramitación * *
+"emmStart Hitos 918-12","Fecha Sesión Etapa Sub-etapa Documento
+28 de Ene. de 1993   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+28 de Ene. de 1993 47ª / 325 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver
+21 de Jul. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de Ago. de 1995 25ª / 331 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+05 de Sep. de 1995 33ª / 331 Primer trámite constitucional / C. Diputados Discusión general Ver
+05 de Sep. de 1995   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+06 de Sep. de 1995 32ª / 331 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Medio Ambiente y Bienes Nacionales
+16 de Jun. de 1999   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+14 de Jul. de 1999 14ª / 340 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Ago. de 1999 20ª / 340 Segundo trámite constitucional / Senado Discusión general Ver
+12 de Ago. de 1999   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+17 de Ago. de 1999 31ª / 340 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+09 de Sep. de 1999 39ª / 340 Tercer trámite constitucional / C. Diputados Discusión única Ver
+09 de Sep. de 1999 39ª / 340 Tercer trámite constitucional / C. Diputados Discusión única Ver
+09 de Sep. de 1999   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+15 de Oct. de 1999   Trámite de aprobacion presidencial / C. Diputados Ingreso de observaciones
+15 de Oct. de 1999 5ª / 341 Discusión veto en Cámara de Origen / C. Diputados Cuenta de observaciones. Pasa a Comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver
+10 de Ene. de 2001   Discusión veto en Cámara de Origen / C. Diputados Informe de comisión Ver
+07 de Mar. de 2001 40ª / 343 Discusión veto en Cámara de Origen / C. Diputados Cuenta informe de comisión Ver
+07 de Ago. de 2001 24ª / 344 Discusión veto en Cámara de Origen / C. Diputados Discusión veto Ver
+07 de Ago. de 2001   Discusión veto en Cámara de Origen / C. Diputados Oficio rechazo veto a Cámara Revisora Ver
+14 de Ago. de 2001 22ª / 344 Discusión veto en Cámara Revisora / Senado Cuenta oficio rechazo veto. Pasa a Comisión de Medio Ambiente y Bienes Nacionales
+13 de Mar. de 2002   Discusión veto en Cámara Revisora / Senado Se incluye en convocatoria a Legislatura Extraordinaria 346
+29 de Jul. de 2002   Discusión veto en Cámara Revisora / Senado Informe de comisión Ver
+31 de Jul. de 2002 17ª / 347 Discusión veto en Cámara Revisora / Senado Cuenta informe de comisión
+06 de Ago. de 2002 18ª / 347 Discusión veto en Cámara Revisora / Senado Discusión veto
+06 de Ago. de 2002   Discusión veto en Cámara Revisora / Senado Oficio aprobación veto a Cámara de Origen Ver
+07 de Ago. de 2002 25ª / 347 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación veto Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 918-12","Fecha Etapa Informe Documento
+29 de Jul. de 2002 Discusión veto en Cámara Revisora Senado Informe de comisión de Medio Ambiente y Bienes Nacionales Ver
+07 de Mar. de 2001 Discusión veto en Cámara de Origen C.Diputados Informe de comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver
+14 de Jul. de 1999 Segundo trámite constitucional Senado Primer informe de comisión de Medio Ambiente y Bienes Nacionales Ver
+21 de Jul. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 918-12","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+28 de Ago. de 1996   Suma 06091995  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 918-12","Nombre Región Distrito Partido
+Baldemar Carrasco Muñoz Región N° Partido Demócrata Cristiano
+José Antonio Galilea Vidaurre Región N° Renovación Nacional
+Gutenberg Martínez Ocamica Región N° Partido Demócrata Cristiano
+Víctor Reyes Alvarado Región N° Partido Demócrata Cristiano
+Jorge Ulloa Aguillón Región N° Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 918-12","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 918-12","Fecha Mensaje Documento
+15 de Oct. de 1999 064-341 Ver","Veto emmEnd"

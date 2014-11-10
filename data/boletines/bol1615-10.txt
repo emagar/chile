@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 1615-10","Legislatura: 331
+Fecha de ingreso: miércoles 31 de mayo de 1995
+Estado: Tramitación terminada (D.S. Nº 1.609 - D.Oficial 08/02/2000)
+Numero de boletín: 1615-10
+Materia: Servicios Aéreos
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 11:24:57
+* * Hitos de tramitación * *
+"emmStart Hitos 1615-10","Fecha Sesión Etapa Sub-etapa Documento
+31 de May. de 1995   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+31 de May. de 1995 3ª / 331 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+03 de Jun. de 1998 2ª / 338 Tramitación terminada / Cuenta en el Senado de la solicitud de la Comisión de Relaciones Exteriores en que pide que el proyecto sea conocido posteriormente por la Comisión de Hacienda.La Sala accede a lo solicitado. Ver
+17 de Ago. de 1998   Primer trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+18 de Ago. de 1998   Primer trámite constitucional / Senado Primer informe de comisión Ver
+19 de Ago. de 1998 23ª / 338 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+01 de Sep. de 1998 25ª / 338 Primer trámite constitucional / Senado Discusión general Ver
+02 de Sep. de 1998   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+08 de Sep. de 1998 32ª / 338 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+03 de Ago. de 1999   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Sep. de 1999 36ª / 340 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+02 de Sep. de 1999 36ª / 340 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+09 de Sep. de 1999 39ª / 340 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+09 de Sep. de 1999 39ª / 340 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+09 de Sep. de 1999   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+14 de Sep. de 1999 32ª / 340 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+15 de Sep. de 1999   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1615-10","Fecha Etapa Informe Documento
+03 de Ago. de 1999 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+18 de Ago. de 1998 Primer trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+17 de Ago. de 1998 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1615-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+31 de May. de 1995 16 de Sep. de 1998 Sin urgencia   CADUCADO","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1615-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1615-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1615-10","No record","Veto emmEnd"

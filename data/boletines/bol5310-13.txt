@@ -1,0 +1,72 @@
+* * Bill summary * *
+"emmStart Summary 5310-13","Legislatura: 355
+Fecha de ingreso: miércoles 05 de septiembre de 2007
+Estado: Tramitación terminada (Ley Nº 20.336 - D.Oficial 03/04/2009)
+Numero de boletín: 5310-13
+Materia: Descanso Semanal,Trabajadores De Casa Particular,Descanso Laboral
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 03:07:28
+* * Hitos de tramitación * *
+"emmStart Hitos 5310-13","Fecha Sesión Etapa Sub-etapa Documento
+05 de Sep. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+05 de Sep. de 2007 73ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+12 de Ago. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Sep. de 2008 69ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Trabajo. EN ESTADO DE TABLA. Ver
+02 de Oct. de 2008 84ª / 356 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general Pasa a Comisión de Trabajo y Seguridad Social Ver Ver
+07 de Oct. de 2008   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+15 de Oct. de 2008 89ª / 356 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+16 de Oct. de 2008 91ª / 356 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver
+16 de Oct. de 2008   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+28 de Oct. de 2008 62ª / 356 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social Ver
+15 de Dic. de 2008   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+16 de Dic. de 2008 79ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 1243-356 que hace presente la urgencia Suma
+16 de Dic. de 2008 79ª / 356 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+23 de Dic. de 2008 81ª / 356 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 12/01/2009 Ver
+06 de Ene. de 2009 82ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1256-356 que retira la urgencia Suma Ver
+07 de Ene. de 2009 83ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 1311-356 que hace presente la urgencia Suma Ver
+12 de Ene. de 2009   Segundo trámite constitucional / Senado Boletín de indicaciones
+20 de Ene. de 2009 87ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 1404-356 que retira y hace presente la urgencia Suma
+21 de Ene. de 2009   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+30 de Ene. de 2009 90ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 1432-356 que retira la urgencia Suma
+03 de Mar. de 2009 91ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 1499-356 que hace presente la urgencia Suma
+03 de Mar. de 2009 91ª / 356 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+10 de Mar. de 2009 93ª / 356 Segundo trámite constitucional / Senado Discusión particular Ver
+10 de Mar. de 2009   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+11 de Mar. de 2009 1ª / 357 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+11 de Mar. de 2009   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5310-13","Fecha Etapa Informe Documento
+21 de Ene. de 2009 Segundo trámite constitucional Senado Segundo informe de comisión de Trabajo y Previsión Social Ver
+15 de Dic. de 2008 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver
+07 de Oct. de 2008 Primer trámite constitucional C.Diputados Segundo informe de comisión de Trabajo y Seguridad Social Ver
+12 de Ago. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5310-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+03 de Mar. de 2009   Suma 1499-356  
+20 de Ene. de 2009 29 de Ene. de 2009 Suma 1404-356 1432-356
+07 de Ene. de 2009 16 de Ene. de 2009 Suma 1311-356 1404-356
+16 de Dic. de 2008 06 de Ene. de 2009 Suma 1243-356 1256-356","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5310-13","Nombre Región Distrito Partido
+Sergio Aguiló Melo VII Región del Maule N°37 Partido Socialista
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Tucapel Jiménez Fuentes RM Región Metropolitana N°27 Partido Por la Democracia
+Fernando Meza Moncada IX Región de la Araucanía N°52 Partido Radical Social Demócrata
+Clemira Pacheco Rivas VIII Región del Bío Bío N°45 Partido Socialista
+Denise Pascal Allende RM Región Metropolitana N°31 Partido Socialista
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Independientes
+Alejandro Sule Fernández VI Región del Libertador Bernardo O' Higgins N°33 Partido Radical Social Demócrata
+Ximena Vidal Lázaro RM Región Metropolitana N°25 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5310-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+84   53 1 0 66 Aprobado Sala Ver detalle votación
+91 letra b) del artículo único. (La letra a) se declaró aprobada ipso iure, por no haber sido objeto de indicaciones ni de modificaciones). 52 0 0 68 Aprobado Sala Ver detalle votación
+84 Solicitud para omitir el segundo informe y entrar de inmediato en la discusión particular. 31 25 0 64 Rechazado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5310-13","No record","Veto emmEnd"

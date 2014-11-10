@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 2458-04","Legislatura: 341
+Fecha de ingreso: martes 25 de enero de 2000
+Estado: Archivado .
+Numero de boletín: 2458-04
+Materia: Educacion
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 00:42:23
+* * Hitos de tramitación * *
+"emmStart Hitos 2458-04","Fecha Sesión Etapa Sub-etapa Documento
+25 de Ene. de 2000   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+25 de Ene. de 2000 25ª / 341 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+19 de Jul. de 2005 20ª / 353 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+19 de Jul. de 2005   Primer trámite constitucional / C. Diputados Oficio Nº 5726 a Comisión de Educación, comunica accede a archivo solicitado. Ver
+19 de Jul. de 2005   Primer trámite constitucional / C. Diputados Archivado","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2458-04","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2458-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2458-04","Nombre Región Distrito Partido
+Eliana Caraball Martínez RM Región Metropolitana N°27 Partido Demócrata Cristiano
+Homero Gutiérrez Román VII Región del Maule N°37 Partido Demócrata Cristiano
+Jaime Jiménez Villavicencio RM Región Metropolitana N°31 Partido Demócrata Cristiano
+Arturo Longton Guerrero V Región de Valparaíso N°12 Renovación Nacional
+Carlos Olivares Zepeda RM Región Metropolitana N°18 Partido Demócrata Cristiano
+Osvaldo Palma Flores VII Región del Maule N°39 Renovación Nacional
+Luis Pareto González RM Región Metropolitana N°20 Partido Demócrata Cristiano
+Felipe Valenzuela Herrera II Región de Antofagasta N°4 Partido Socialista
+Sergio Velasco De la Cerda V Región de Valparaíso N°15 Partido Demócrata Cristiano
+Edmundo Villouta Concha IX Región de la Araucanía N°48 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2458-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2458-04","No record","Veto emmEnd"

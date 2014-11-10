@@ -1,0 +1,33 @@
+* * Bill summary * *
+"emmStart Summary 99-04","Legislatura: 320
+Fecha de ingreso: martes 17 de julio de 1990
+Estado: Archivado .
+Numero de boletín: 99-04
+Materia: Consejo Superior De Hípica Nacional
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 30-10-2014 17:47:13
+* * Hitos de tramitación * *
+"emmStart Hitos 99-04","Fecha Sesión Etapa Sub-etapa Documento
+17 de Jul. de 1990   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+17 de Jul. de 1990 16ª / 320 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+10 de May. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de May. de 1995 71ª / 330 Primer trámite constitucional / C. Diputados Cuenta Informe Comisión de Educación, solicita archivo de proyecto Ver
+10 de Jun. de 1997   Primer trámite constitucional / C. Diputados Oficio Nº 1483 a Comisión de Educación, sala accede al archivo solicitado.
+10 de Jun. de 1997   Primer trámite constitucional / C. Diputados Archivado","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 99-04","Fecha Etapa Informe Documento
+10 de May. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 99-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 99-04","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 99-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 99-04","No record","Veto emmEnd"

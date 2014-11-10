@@ -1,0 +1,33 @@
+* * Bill summary * *
+"emmStart Summary 684-06","Legislatura: 323
+Fecha de ingreso: martes 12 de mayo de 1992
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 684-06
+Materia: Contraloria General De La Republica
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 21:34:51
+* * Hitos de tramitación * *
+"emmStart Hitos 684-06","Fecha Sesión Etapa Sub-etapa Documento
+12 de May. de 1992   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+12 de May. de 1992 58ª / 323 Primer trámite constitucional / Senado Cuenta de proyecto
+06 de Jun. de 2000 1ª / 342 Primer trámite constitucional / Senado Cuenta del Oficio Nº 55-342. de S.E. el Presidente de la República con el que comunica el retiro del proyecto. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 684-06","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 684-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+26 de Nov. de 1992 22 de Dic. de 1992 Simple 261192 221292
+03 de Nov. de 1992 20 de Mar. de 2001 Simple 031192 261192
+06 de Oct. de 1992 20 de Mar. de 2001 Simple 061092 031192
+12 de May. de 1992 16 de Sep. de 1998 Sin urgencia   CADUCADO","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 684-06","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 684-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 684-06","No record","Veto emmEnd"

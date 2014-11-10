@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 7868-04","Legislatura: 359
+Fecha de ingreso: martes 16 de agosto de 2011
+Estado: Segundo trámite constitucional .
+Numero de boletín: 7868-04
+Materia: Juan Pablo Ii, Papa, 1920-2005,Monumentos
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 09-11-2014 12:09:34
+* * Hitos de tramitación * *
+"emmStart Hitos 7868-04","Fecha Sesión Etapa Sub-etapa Documento
+16 de Ago. de 2011   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+08 de Ago. de 2012   Primer trámite constitucional / Senado Primer informe de comisión Ver
+14 de Ago. de 2012 41ª / 360 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+05 de Sep. de 2012 47ª / 360 Primer trámite constitucional / Senado Discusión general Ver
+05 de Sep. de 2012   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+06 de Sep. de 2012 77ª / 360 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de la Cultura y las Artes Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7868-04","Fecha Etapa Informe Documento
+08 de Ago. de 2012 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7868-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7868-04","Nombre
+Francisco Chahuán Chahuán
+Ricardo Lagos Weber
+Alejandro Navarro Brain
+Jaime Quintana Leal
+Ena Von Baer Jahn","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7868-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7868-04","No record","Veto emmEnd"

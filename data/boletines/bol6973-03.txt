@@ -1,0 +1,54 @@
+* * Bill summary * *
+"emmStart Summary 6973-03","Legislatura: 358
+Fecha de ingreso: jueves 03 de junio de 2010
+Estado: Segundo trámite constitucional .
+Numero de boletín: 6973-03 Refundido con: 7047-03
+Materia: Consumidores,Servicio Nacional Del Consumidor,Protección Del Consumidor
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 22:47:59
+* * Hitos de tramitación * *
+"emmStart Hitos 6973-03","Fecha Sesión Etapa Sub-etapa Documento
+03 de Jun. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Jun. de 2010 33ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+15 de Jul. de 2010   Primer trámite constitucional / C. Diputados Petición de la Comisión de Economía, Fomento y Desarrollo y de acuerdo a lo establecido en el art. 17 A de la LOC del Congreso, tratar en forma conjunta los boletines 6973-03 y 7047-03. Se acuerda.
+09 de Ago. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+10 de Ago. de 2010 61ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+09 de Sep. de 2010 74ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+09 de Sep. de 2010   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+14 de Sep. de 2010 52ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Economía
+03 de Oct. de 2010   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+26 de Oct. de 2010 61ª / 358 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+17 de Nov. de 2010 69ª / 358 Segundo trámite constitucional / Senado Discusión general Ver
+30 de Nov. de 2010 70ª / 358 Segundo trámite constitucional / Senado Por acuerdo de los Comités, ratificado por la Sala, se fija plazo para presentar indicaciones hasta las 12 horas del lunes 13 de diciembre de 2010. Ver
+14 de Dic. de 2010 75ª / 358 Segundo trámite constitucional / Senado Por acuerdo de los Comités, ratificado por la Sala, se fija un plazo común para presentar indicaciones a este proyecto y a los Boletines N°s 7.047-03 y 6.543-03, hasta las 13 horas del lunes 10 de enero de 2011.
+11 de Ene. de 2011 85ª / 358 Segundo trámite constitucional / Senado Por acuerdo de los Comités, ratificado por la Sala, se abre un nuevo plazo para presentar indicaciones, hasta las 13 horas del lunes 7 de marzo de 2011.
+07 de Mar. de 2011   Segundo trámite constitucional / Senado Boletín de indicaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6973-03","Fecha Etapa Informe Documento
+03 de Oct. de 2010 Segundo trámite constitucional Senado Primer informe de comisión de Economía Ver
+09 de Ago. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6973-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6973-03","Nombre Región Distrito Partido
+Gonzalo Arenas Hödar IX Región de la Araucanía N°48 Unión Demócrata Independiente
+María Angélica Cristi Marfil RM Región Metropolitana N°24 Unión Demócrata Independiente
+José Manuel Edwards Silva IX Región de la Araucanía N°51 Renovación Nacional
+Javier Hernández Hernández X Región de los Lagos N°55 Unión Demócrata Independiente
+José Antonio Kast Rist RM Región Metropolitana N°30 Unión Demócrata Independiente
+Jorge Sabag Villalobos VIII Región del Bío Bío N°42 Partido Demócrata Cristiano
+Arturo Squella Ovalle V Región de Valparaíso N°12 Unión Demócrata Independiente
+Gonzalo Uriarte Herrera RM Región Metropolitana N°31 Unión Demócrata Independiente
+Enrique Van Rysselberghe Herrera VIII Región del Bío Bío N°44 Unión Demócrata Independiente
+Mónica Zalaquett Said RM Región Metropolitana N°20 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6973-03","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+74   80 0 0 40 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6973-03","No record","Veto emmEnd"

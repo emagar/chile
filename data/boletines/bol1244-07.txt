@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 1244-07","Legislatura: 329
+Fecha de ingreso: martes 21 de junio de 1994
+Estado: Tramitación terminada (Ley Nº 19.343 - D.Oficial 31/10/1994)
+Numero de boletín: 1244-07
+Materia: Menores
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 04:54:00
+* * Hitos de tramitación * *
+"emmStart Hitos 1244-07","Fecha Sesión Etapa Sub-etapa Documento
+21 de Jun. de 1994 12ª / 329 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+21 de Jun. de 1994   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Jul. de 1994   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+14 de Jul. de 1994 22ª / 329 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Jul. de 1994 22ª / 329 Primer trámite constitucional / C. Diputados Discusión general Ver
+14 de Jul. de 1994   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+19 de Jul. de 1994 14ª / 329 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+10 de Ago. de 1994   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+11 de Ago. de 1994 22ª / 329 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+07 de Sep. de 1994 31ª / 329 Tramitación terminada / Discusión general y particular. Aprobado en general y en particular, con modificaciones.
+09 de Sep. de 1994   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+09 de Sep. de 1994   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+13 de Sep. de 1994 39ª / 329 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+15 de Sep. de 1994 41ª / 329 Tercer trámite constitucional / C. Diputados Discusión única Ver
+20 de Sep. de 1994   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo
+04 de Oct. de 1994 1ª / 330 Tramitación terminada / Cuenta en el Senado de un oficio de la Cámara de Diputados con el que comunica que ha dado su aprobación a las modificaciones que introdujo el Senado.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1244-07","Fecha Etapa Informe Documento
+10 de Ago. de 1994 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+13 de Jul. de 1994 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1244-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+21 de Jun. de 1994   Simple    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1244-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1244-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1244-07","No record","Veto emmEnd"

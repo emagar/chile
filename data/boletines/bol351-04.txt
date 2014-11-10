@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 351-04","Legislatura: 321
+Fecha de ingreso: martes 14 de mayo de 1991
+Estado: Tramitación terminada (Ley Nº 19.244 - D.Oficial 03/09/1993)
+Numero de boletín: 351-04
+Materia: Monumentos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 16:07:01
+* * Hitos de tramitación * *
+"emmStart Hitos 351-04","Fecha Sesión Etapa Sub-etapa Documento
+14 de May. de 1991 55ª / 321 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+14 de May. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+18 de Jun. de 1991   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Jul. de 1991 13ª / 322 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+16 de Jul. de 1991 19ª / 322 Primer trámite constitucional / C. Diputados Discusión general Ver
+23 de Jul. de 1991   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+06 de Ago. de 1991 26ª / 322 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+03 de Sep. de 1991 34ª / 322 Primer trámite constitucional / C. Diputados Discusión particular Ver
+04 de Sep. de 1991 35ª / 322 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+21 de Jul. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+21 de Jul. de 1993 13ª / 326 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión. Queda para Tabla.
+04 de Ago. de 1993 15ª / 326 Segundo trámite constitucional / Senado Discusión única
+04 de Ago. de 1993   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+10 de Ago. de 1993 26ª / 326 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+18 de Ago. de 1993 30ª / 326 Tercer trámite constitucional / C. Diputados Discusión única Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 351-04","Fecha Etapa Informe Documento
+21 de Jul. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+23 de Jul. de 1991 Primer trámite constitucional C.Diputados Segundo informe de comisión de Educación, Deportes y Recreación Ver
+18 de Jun. de 1991 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 351-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 351-04","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 351-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 351-04","No record","Veto emmEnd"

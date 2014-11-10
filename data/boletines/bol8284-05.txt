@@ -1,0 +1,35 @@
+* * Bill summary * *
+"emmStart Summary 8284-05","Legislatura: 360
+Fecha de ingreso: martes 08 de mayo de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8284-05
+Materia: Inversión Privada,Sociedad Anónima
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 23:39:47
+* * Hitos de tramitación * *
+"emmStart Hitos 8284-05","Fecha Sesión Etapa Sub-etapa Documento
+08 de May. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+08 de May. de 2012 22ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8284-05","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8284-05","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8284-05","Nombre Región Distrito Partido
+Pepe Auth Stewart RM Región Metropolitana N°20 Partido Por la Democracia
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Aldo Cornejo González V Región de Valparaíso N°13 Partido Demócrata Cristiano
+Pablo Lorenzini Basso VII Región del Maule N°38 Partido Demócrata Cristiano
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+Alberto Robles Pantoja III Región de Atacama N°6 Partido Radical Social Demócrata
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Partido Regionalista Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8284-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8284-05","No record","Veto emmEnd"

@@ -1,0 +1,50 @@
+* * Bill summary * *
+"emmStart Summary 6988-07","Legislatura: 358
+Fecha de ingreso: martes 15 de junio de 2010
+Estado: Segundo trámite constitucional .
+Numero de boletín: 6988-07
+Materia: Sistema De Distribucion De Causas,Código Orgánico De Tribunales
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 22:58:00
+* * Hitos de tramitación * *
+"emmStart Hitos 6988-07","Fecha Sesión Etapa Sub-etapa Documento
+15 de Jun. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+15 de Jun. de 2010 39ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia. Se remite el proyecto a la Corte Suprema. Ver
+15 de Jun. de 2010   Primer trámite constitucional / C. Diputados Oficio N°8813 a la Corte Suprema Ver
+13 de Oct. de 2010 88ª / 358 Primer trámite constitucional / C. Diputados Cuenta oficio N° 153 de la Corte Suprema Ver Ver
+05 de Nov. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Nov. de 2010 97ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+16 de Nov. de 2010 101ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+16 de Nov. de 2010   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+17 de Nov. de 2010 69ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+17 de Nov. de 2010   Segundo trámite constitucional / Senado Oficio N°983/SEC/10 a la Corte Suprema Ver
+11 de Ene. de 2011 85ª / 358 Segundo trámite constitucional / Senado Cuenta oficio Nº 4 de la Corte Suprema Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6988-07","Fecha Etapa Informe Documento
+05 de Nov. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6988-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6988-07","Nombre Región Distrito Partido
+Pedro Araya Guerrero II Región de Antofagasta N°4 Partido Regionalista Independiente
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Giovanni Calderón Bassi III Región de Atacama N°6 Unión Demócrata Independiente
+Guillermo Ceroni Fuentes VII Región del Maule N°40 Partido Por la Democracia
+Aldo Cornejo González V Región de Valparaíso N°13 Partido Demócrata Cristiano
+Marcelo Díaz Díaz IV Región de Coquimbo N°7 Partido Socialista
+Pablo Lorenzini Basso VII Región del Maule N°38 Partido Demócrata Cristiano
+Sergio Ojeda Uribe X Región de los Lagos N°55 Partido Demócrata Cristiano
+José Pérez Arriagada VIII Región del Bío Bío N°47 Partido Radical Social Demócrata
+Ricardo Rincón González VI Región del Libertador Bernardo O' Higgins N°33 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6988-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+101   94 0 0 26 Aprobado Sala Ver detalle votación
+28 Votación General 9 0 0 4   Constitución Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6988-07","No record","Veto emmEnd"

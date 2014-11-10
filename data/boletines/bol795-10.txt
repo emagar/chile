@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 795-10","Legislatura: 326
+Fecha de ingreso: miércoles 15 de septiembre de 1993
+Estado: Tramitación terminada (D.S. Nº 793 - D.Oficial 08/08/1994)
+Numero de boletín: 795-10
+Materia: Acuerdos Internacionales,Navegación,Plataforma Continental
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 23:03:27
+* * Hitos de tramitación * *
+"emmStart Hitos 795-10","Fecha Sesión Etapa Sub-etapa Documento
+15 de Sep. de 1992 25ª / 324 Primer trámite constitucional / Senado Cuenta de proyecto
+16 de Mar. de 1993 33ª / 325 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+16 de Mar. de 1993 33ª / 325 Primer trámite constitucional / Senado Primer informe de comisión Ver
+17 de Mar. de 1993 34ª / 325 Primer trámite constitucional / Senado Discusión general Ver
+22 de Mar. de 1993 34ª / 325 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+29 de Mar. de 1993 57ª / 325 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+10 de Ago. de 1993   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Oct. de 1993 1ª / 327 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+06 de Oct. de 1993 1ª / 327 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 795-10","Fecha Etapa Informe Documento
+10 de Ago. de 1993 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+16 de Mar. de 1993 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 795-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 795-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 795-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 795-10","No record","Veto emmEnd"

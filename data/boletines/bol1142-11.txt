@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 1142-11","Legislatura: 327
+Fecha de ingreso: miércoles 19 de enero de 1994
+Estado: Tramitación terminada (Ley Nº 19.310 - D.Oficial 16/07/1994)
+Numero de boletín: 1142-11
+Materia: Servicio De Salud Metropolitana Sur-Oriente,Salud
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 03:36:37
+* * Hitos de tramitación * *
+"emmStart Hitos 1142-11","Fecha Sesión Etapa Sub-etapa Documento
+19 de Ene. de 1994 31ª / 327 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver
+19 de Ene. de 1994   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+26 de Ene. de 1994   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+13 de Feb. de 1994 35ª / 327 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+17 de Mar. de 1994 2ª / 328 Primer trámite constitucional / C. Diputados Discusión general Ver
+21 de Mar. de 1994   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+22 de Mar. de 1994 2ª / 328 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Salud
+06 de May. de 1994   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+10 de May. de 1994 12ª / 328 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión. de Salud. Queda para tabla.
+07 de Jun. de 1994 3ª / 329 Segundo trámite constitucional / Senado Discusión general Ver
+08 de Jun. de 1994   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+09 de Jun. de 1994 7ª / 329 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+14 de Jun. de 1994 9ª / 329 Tercer trámite constitucional / C. Diputados Discusión única Ver
+15 de Jun. de 1994   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+16 de Jun. de 1994 6ª / 329 Tramitación terminada / Cuenta en el Senado de un oficio de la Cámara de Diputados con el que comunica que ha aotorgado su aprobación a las modificaciones que introdujo el Senado. Se manda archivar.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1142-11","Fecha Etapa Informe Documento
+06 de May. de 1994 Segundo trámite constitucional Senado Primer informe de comisión de Salud Ver
+26 de Ene. de 1994 Primer trámite constitucional C.Diputados Primer informe de comisión de Salud Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1142-11","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1142-11","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1142-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1142-11","No record","Veto emmEnd"

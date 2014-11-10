@@ -1,0 +1,48 @@
+* * Bill summary * *
+"emmStart Summary 3930-03","Legislatura: 353
+Fecha de ingreso: martes 19 de julio de 2005
+Estado: Tramitación terminada (Ley Nº 20.049 - D.Oficial 06/09/2005)
+Numero de boletín: 3930-03
+Materia: Registro De Pescadores Artesanales,Pesca Artesanal
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 05-11-2014 06:57:07
+* * Hitos de tramitación * *
+"emmStart Hitos 3930-03","Fecha Sesión Etapa Sub-etapa Documento
+19 de Jul. de 2005   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+20 de Jul. de 2005 19ª / 353 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Intereses Marítimos, Pesca y Acuicultura
+02 de Ago. de 2005   Primer trámite constitucional / Senado Primer informe de comisión Ver
+03 de Ago. de 2005 21ª / 353 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+09 de Ago. de 2005 22ª / 353 Primer trámite constitucional / Senado Discusión general Ver
+09 de Ago. de 2005   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+10 de Ago. de 2005 29ª / 353 Segundo trámite constitucional / C. Diputados Cuenta Oficio de la Comisión de Pesca por el cual solicita el asentimiento de la Sala para que se omita el trámite de Comisión del proyecto y que sea discutido y votado en la presente sesión Ver
+10 de Ago. de 2005 29ª / 353 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Pesca, Acuicultura e Intereses Marítimos Ver Ver
+10 de Ago. de 2005 29ª / 353 Segundo trámite constitucional / C. Diputados Se accede a la solicitud de la Comisión de Pesca, en orden a eximirlo del trámite de Comisión. Asimismo, se acuerda votarlo sin discusión en la sesión del martes 16 de agosto de 2005 Ver
+16 de Ago. de 2005 30ª / 353 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+16 de Ago. de 2005   Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver
+17 de Ago. de 2005 28ª / 353 Tercer trámite constitucional / Senado Cuenta del Mensaje 197-353 que hace presente la urgencia Suma
+17 de Ago. de 2005 28ª / 353 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+17 de Ago. de 2005 28ª / 353 Tercer trámite constitucional / Senado Discusión única
+18 de Ago. de 2005   Tercer trámite constitucional / Senado Oficio Nº 26803, que comunica aprobación de modificaciones Ver
+18 de Ago. de 2005   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+30 de Ago. de 2005 34ª / 353 Tercer trámite constitucional / Senado Cuenta oficio Nº 26803, que comunica aprobación de modificaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3930-03","Fecha Etapa Informe Documento
+02 de Ago. de 2005 Primer trámite constitucional Senado Primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3930-03","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+17 de Ago. de 2005   Suma 197-353  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3930-03","Nombre
+Ministerio de Economía, Fomento y Turism","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3930-03","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+30 único, con indicación de los Diputados Ulloa, Accorsi, Delmastro; Galilea, don Pablo; Jaramillo; Letelier, don Juan Pablo; Molina, Navarro, Norambuena, Ortiz, Recondo, Salas y Silva, para agregar un inciso en el artículo único del proyecto. 52 33 7 3 Aprobado Sala Ver detalle votación
+30   95 0 0 2 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3930-03","No record","Veto emmEnd"

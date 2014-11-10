@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 949-07","Legislatura: 325
+Fecha de ingreso: martes 30 de marzo de 1993
+Estado: Primer trámite constitucional .
+Numero de boletín: 949-07
+Materia: Presidente De La República De Chile
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 01:06:56
+* * Hitos de tramitación * *
+"emmStart Hitos 949-07","Fecha Sesión Etapa Sub-etapa Documento
+29 de Mar. de 1993 57ª / 325 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+29 de Mar. de 1993   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+11 de Ago. de 1993 17ª / 326 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+07 de Sep. de 1993 22ª / 326 Segundo trámite constitucional / Senado Primer informe de comisión Ver
+07 de Sep. de 1993 22ª / 326 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+14 de Sep. de 1993 25ª / 326 Segundo trámite constitucional / Senado Discusión general Ver
+15 de Sep. de 1993 26ª / 326 Segundo trámite constitucional / Senado Discusión general Ver
+06 de Oct. de 1993 3ª / 327 Segundo trámite constitucional / Senado Discusión general Ver
+13 de Oct. de 1993   Segundo trámite constitucional / Senado Boletín de indicaciones
+14 de Oct. de 1993 5ª / 327 Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+14 de Oct. de 1993 5ª / 327 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+14 de Oct. de 1993 5ª / 327 Segundo trámite constitucional / Senado Discusión particular Ver
+15 de Oct. de 1993   Segundo trámite constitucional / Senado Oficio Nº5091. comunica aprobación con modificaciones a Cámara de origen Ver
+20 de Oct. de 1993 8ª / 327 Segundo trámite constitucional / Senado Cuenta oficio de la Cámara comunicando rechazo de algunas de las enmiendas introducidas por el Senado. Cuenta del Mensaje de S.E. retirando el proyecto de Legislatura Extraordinaria","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 949-07","Fecha Etapa Informe Documento
+14 de Oct. de 1993 Segundo trámite constitucional Senado Segundo informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+07 de Sep. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 949-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+29 de Mar. de 1993   Suma    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 949-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 949-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 949-07","No record","Veto emmEnd"

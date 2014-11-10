@@ -1,0 +1,33 @@
+* * Bill summary * *
+"emmStart Summary 1025-07","Legislatura: 326
+Fecha de ingreso: martes 06 de julio de 1993
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 1025-07
+Materia: Congreso Nacional
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 02:06:37
+* * Hitos de tramitación * *
+"emmStart Hitos 1025-07","Fecha Sesión Etapa Sub-etapa Documento
+06 de Jul. de 1993   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+06 de Jul. de 1993 8ª / 326 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+21 de Jun. de 1994 7ª / 329 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+21 de Jun. de 1994 7ª / 329 Primer trámite constitucional / Senado Primer informe de comisión Ver
+23 de Jun. de 1994 8ª / 329 Primer trámite constitucional / Senado Discusión general Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1025-07","Fecha Etapa Informe Documento
+21 de Jun. de 1994 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1025-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1025-07","Nombre
+Sebastian Piñera Echeñique","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1025-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1025-07","No record","Veto emmEnd"

@@ -1,0 +1,52 @@
+* * Bill summary * *
+"emmStart Summary 2218-05","Legislatura: 338
+Fecha de ingreso: miércoles 12 de agosto de 1998
+Estado: Tramitación terminada (Ley Nº 19.589 - D.Oficial 14/11/1998)
+Numero de boletín: 2218-05
+Materia: Arancel Aduanero
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 22:10:24
+* * Hitos de tramitación * *
+"emmStart Hitos 2218-05","Fecha Sesión Etapa Sub-etapa Documento
+12 de Ago. de 1998   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Ago. de 1998 26ª / 338 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+12 de Ago. de 1998 26ª / 338 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+25 de Ago. de 1998   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+01 de Sep. de 1998 30ª / 338 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+02 de Sep. de 1998   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+02 de Sep. de 1998 31ª / 338 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+08 de Sep. de 1998 28ª / 338 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+15 de Sep. de 1998   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+16 de Sep. de 1998 31ª / 338 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+16 de Sep. de 1998 31ª / 338 Segundo trámite constitucional / Senado Discusión general Ver
+29 de Sep. de 1998   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+06 de Oct. de 1998   Tercer trámite constitucional / C. Diputados S.E.El Presidente de la Republica incluye el proyecto en la Convocatoria Extraodinaria 339
+06 de Oct. de 1998 1ª / 339 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+06 de Oct. de 1998 1ª / 339 Tramitación terminada / Cuenta en el Senado del oficio del Tribunal Constitucional en que informa que acogió a tramitación un requerimiento.
+07 de Oct. de 1998 2ª / 339 Tercer trámite constitucional / C. Diputados Discusión única Ver
+07 de Oct. de 1998   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2218-05","Fecha Etapa Informe Documento
+15 de Sep. de 1998 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+25 de Ago. de 1998 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2218-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+06 de Oct. de 1998   Suma 5-339  
+01 de Sep. de 1998 16 de Sep. de 1998 Suma 120-338 CADUCADO
+18 de Ago. de 1998 01 de Sep. de 1998 Simple 102-338 120-338
+12 de Ago. de 1998 18 de Ago. de 1998 Suma 100-338 102-338","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2218-05","Nombre Región Distrito Partido
+Ministerio de Agricultura      
+Ministerio de Economía, Fomento y Turism      
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2218-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2218-05","No record","Veto emmEnd"

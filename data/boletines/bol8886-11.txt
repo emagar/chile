@@ -1,0 +1,57 @@
+* * Bill summary * *
+"emmStart Summary 8886-11","Legislatura: 361
+Fecha de ingreso: miércoles 10 de abril de 2013
+Estado: Primer trámite constitucional .
+Numero de boletín: 8886-11
+Materia: Organización Mundial De La Salud,Tabaco,Control Del Tabaco
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 10-11-2014 08:22:09
+* * Hitos de tramitación * *
+"emmStart Hitos 8886-11","Fecha Sesión Etapa Sub-etapa Documento
+10 de Abr. de 2013   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+10 de Abr. de 2013 11ª / 361 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Salud
+06 de May. de 2014 14ª / 362 Primer trámite constitucional / Senado La Sala autoriza a la Comisión para discutir en general y en particular la iniciativa durante el primer informe.
+16 de May. de 2014   Primer trámite constitucional / Senado Boletín de indicaciones
+20 de May. de 2014 19ª / 362 Primer trámite constitucional / Senado Cuenta del Mensaje 124-362 que hace presente la urgencia Simple
+17 de Jun. de 2014 25ª / 362 Primer trámite constitucional / Senado Cuenta del Mensaje 183-362 que retira y hace presente la urgencia Simple
+15 de Jul. de 2014 31ª / 362 Primer trámite constitucional / Senado Cuenta del Mensaje 276-362 que retira y hace presente la urgencia Simple
+22 de Jul. de 2014   Primer trámite constitucional / Senado Oficio N° 960-S a la Corte Suprema Ver
+05 de Ago. de 2014   Primer trámite constitucional / Senado Primer informe de comisión Ver
+05 de Ago. de 2014 35ª / 362 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+06 de Ago. de 2014 36ª / 362 Primer trámite constitucional / Senado Discusión general Ver
+12 de Ago. de 2014 37ª / 362 Primer trámite constitucional / Senado Cuenta del Mensaje 365-362 que retira y hace presente la urgencia Simple Ver
+12 de Ago. de 2014 37ª / 362 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 29/09/2014 Ver
+26 de Ago. de 2014   Primer trámite constitucional / Senado   Ver
+09 de Sep. de 2014 45ª / 362 Primer trámite constitucional / Senado Cuenta del Mensaje 488-362 que retira y hace presente la urgencia Simple
+29 de Sep. de 2014   Primer trámite constitucional / Senado Boletín de indicaciones
+30 de Sep. de 2014   Primer trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 14/10/14 a las 12:00 en la Secretaría de la Comisión de Salud
+07 de Oct. de 2014 52ª / 362 Primer trámite constitucional / Senado Cuenta del Mensaje 618-362 que retira y hace presente la urgencia Simple
+14 de Oct. de 2014   Primer trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 21/10/2014 a las 12:00 en la Secretaría de la Comisión de Salud
+04 de Nov. de 2014 60ª / 362 Primer trámite constitucional / Senado Cuenta del Mensaje 758-362 que retira y hace presente la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8886-11","Fecha Etapa Informe Documento
+05 de Ago. de 2014 Primer trámite constitucional Senado Primer informe de comisión de Salud Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8886-11","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Nov. de 2014   Simple 758-362  
+07 de Oct. de 2014 04 de Nov. de 2014 Simple 618-362 758-362
+09 de Sep. de 2014 07 de Oct. de 2014 Simple 488-362 618-362
+12 de Ago. de 2014 09 de Sep. de 2014 Simple 365-362 488-362
+15 de Jul. de 2014 12 de Ago. de 2014 Simple 276-362 365-362
+17 de Jun. de 2014 14 de Jul. de 2014 Simple 183-362 276-362
+20 de May. de 2014 16 de Jun. de 2014 Simple 124-362 183-362","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8886-11","Nombre
+Guido Girardi Lavín
+Fulvio Rossi Ciocca
+Mariano Ruiz-Esquide Jara","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8886-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8886-11","No record","Veto emmEnd"

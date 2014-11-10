@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 5023-07","Legislatura: 355
+Fecha de ingreso: martes 08 de mayo de 2007
+Estado: Segundo trámite constitucional .
+Numero de boletín: 5023-07
+Materia: Responsabilidad Penal Juvenil,Adolescentes
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 23:48:14
+* * Hitos de tramitación * *
+"emmStart Hitos 5023-07","Fecha Sesión Etapa Sub-etapa Documento
+08 de May. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+08 de May. de 2007 22ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+03 de Oct. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Oct. de 2007 89ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Constitución. EN ESTADO DE TABLA. Ver
+31 de Jul. de 2008 56ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+21 de Ago. de 2008 68ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+21 de Ago. de 2008   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+02 de Sep. de 2008 47ª / 356 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5023-07","Fecha Etapa Informe Documento
+03 de Oct. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5023-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5023-07","Nombre Región Distrito Partido
+Rodrigo Alvarez Zenteno XII Región de Magallanes y de la Antártica Chilena N°60 Unión Demócrata Independiente
+Gonzalo Arenas Hödar IX Región de la Araucanía N°48 Unión Demócrata Independiente
+María Angélica Cristi Marfil RM Región Metropolitana N°24 Unión Demócrata Independiente
+Marcela Cubillos Sigall RM Región Metropolitana N°21 Unión Demócrata Independiente
+Enrique Estay Peñaloza IX Región de la Araucanía N°49 Unión Demócrata Independiente
+José Antonio Kast Rist RM Región Metropolitana N°30 Unión Demócrata Independiente
+Claudia Nogueira Fernández RM Región Metropolitana N°19 Unión Demócrata Independiente
+Marisol Turres Figueroa X Región de los Lagos N°57 Unión Demócrata Independiente
+Gonzalo Uriarte Herrera RM Región Metropolitana N°31 Unión Demócrata Independiente
+Felipe Ward Edwards II Región de Antofagasta N°3 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5023-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+68   53 7 6 54 Aprobado Sala Ver detalle votación
+105 Votación General 4 0 0 9   Constitución Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5023-07","No record","Veto emmEnd"

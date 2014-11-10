@@ -1,0 +1,51 @@
+* * Bill summary * *
+"emmStart Summary 8096-32","Legislatura: 359
+Fecha de ingreso: martes 20 de diciembre de 2011
+Estado: Segundo trámite constitucional .
+Numero de boletín: 8096-32 Refundido con: 8128-32
+Materia: Bienes Inembargables,Adulto Mayor
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 15:24:44
+* * Hitos de tramitación * *
+"emmStart Hitos 8096-32","Fecha Sesión Etapa Sub-etapa Documento
+20 de Dic. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de Dic. de 2011 123ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión Especial del Adulto Mayor Ver
+13 de Mar. de 2012 1ª / 360 Primer trámite constitucional / C. Diputados Oficio de la Comisión Especial del Adulto Mayor, por el cual solicita el acuerdo de la Sala, de conformidad con el artículo 17 A de la Ley Orgánica Constitucional del Congreso Nacional, para refundir los Boletines N°s 8096-32 y 8128-32. Acordado. Ver
+11 de Sep. de 2012   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Sep. de 2012 79ª / 360 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+09 de Oct. de 2012 86ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+18 de Oct. de 2012   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+30 de Oct. de 2012 93ª / 360 Primer trámite constitucional / C. Diputados Cuenta. Segundo informe de la Comisión Especial del Adulto Mayor recaído en el proyecto. Ver
+31 de Oct. de 2012 94ª / 360 Primer trámite constitucional / C. Diputados Discusión particular Ver
+31 de Oct. de 2012   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+06 de Nov. de 2012 59ª / 360 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8096-32","Fecha Etapa Informe Documento
+31 de Oct. de 2012 Primer trámite constitucional C.Diputados Segundo informe de comisión Especial del Adulto Mayor Ver
+11 de Sep. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión Especial del Adulto Mayor Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8096-32","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8096-32","Nombre Región Distrito Partido
+Alfonso De Urresti Longton XIV Región de los Ríos N°53 Partido Socialista
+Marcos Espinosa Monardes II Región de Antofagasta N°3 Partido Radical Social Demócrata
+Ramón Farías Ponce RM Región Metropolitana N°30 Partido Por la Democracia
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Carlos Abel Jarpa Wevar VIII Región del Bío Bío N°41 Partido Radical Social Demócrata
+Fernando Meza Moncada IX Región de la Araucanía N°52 Partido Radical Social Demócrata
+David Sandoval Plaza XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Unión Demócrata Independiente
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Partido Regionalista Independiente
+Guillermo Teillier Del Valle RM Región Metropolitana N°28 Partido Comunista
+Ximena Vidal Lázaro RM Región Metropolitana N°25 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8096-32","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+86   105 0 0 15 Aprobado Sala Ver detalle votación
+94 Texto propuesto por la Comisión. 94 0 0 26 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8096-32","No record","Veto emmEnd"

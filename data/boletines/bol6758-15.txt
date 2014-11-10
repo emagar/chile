@@ -1,0 +1,61 @@
+* * Bill summary * *
+"emmStart Summary 6758-15","Legislatura: 357
+Fecha de ingreso: martes 10 de noviembre de 2009
+Estado: Tramitación terminada (Ley N° 20.432 - D.Oficial 11/05/2010)
+Numero de boletín: 6758-15
+Materia: Transporte De Pasajeros,Percepción Indebida Del Subsidio Al Transporte,Subsidios
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 16:00:06
+* * Hitos de tramitación * *
+"emmStart Hitos 6758-15","Fecha Sesión Etapa Sub-etapa Documento
+10 de Nov. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Nov. de 2009 101ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones. Se remite el proyecto a la Corte Suprema. Ver
+10 de Nov. de 2009   Primer trámite constitucional / C. Diputados Oficio N° 8432 a la Corte Suprema Ver
+15 de Dic. de 2009 109ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1664-357 que hace presente la urgencia Suma Ver
+16 de Dic. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+21 de Dic. de 2009 112ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+21 de Dic. de 2009 112ª / 357 Primer trámite constitucional / C. Diputados Cuenta oficio Nº 275 de la Corte Suprema Ver Ver
+05 de Ene. de 2010 114ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1732-357 que retira y hace presente la urgencia Suma Ver
+06 de Ene. de 2010 115ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1777-357 que retira y hace presente la urgencia Discusión inmediata Ver
+06 de Ene. de 2010 115ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver
+06 de Ene. de 2010   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+12 de Ene. de 2010 81ª / 357 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones
+12 de Ene. de 2010 81ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1802-357 que retira y hace presente la urgencia Discusión inmediata Ver
+13 de Ene. de 2010   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+19 de Ene. de 2010 83ª / 357 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+19 de Ene. de 2010 83ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1835-357 que retira y hace presente la urgencia Discusión inmediata
+20 de Ene. de 2010 84ª / 357 Segundo trámite constitucional / Senado Discusión general Ver
+20 de Ene. de 2010   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+21 de Ene. de 2010 122ª / 357 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+21 de Ene. de 2010 122ª / 357 Trámite finalización en Cámara de Origen / C. Diputados Oficio del H. Senado por el cual comunicca quqe aprobó, en los mismos términos que la Cámara, el proyecto. A S. E. LA PRESIDENTA DE LA REPÚBLICA. Ver
+21 de Ene. de 2010 122ª / 357 Trámite de aprobacion presidencial / C. Diputados Cuenta oficio N° 275 de la Corte Suprema Ver
+21 de Ene. de 2010   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+22 de Ene. de 2010   Trámite de aprobacion presidencial / C. Diputados Oficio N°8556 al Tribunal Constitucional Ver
+08 de Mar. de 2010 123ª / 357 Trámite de aprobacion presidencial / C. Diputados P. de la Rep. comunica que no hará uso de la facultad del inciso primero del artículo 73 de la Const. Pol. de la Rep. Ver
+25 de Mar. de 2010 8ª / 358 Trámite de aprobacion presidencial / C. Diputados Cuenta oficio N° 4136 del Tribunal Constitucional Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6758-15","Fecha Etapa Informe Documento
+13 de Ene. de 2010 Segundo trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver
+15 de Dic. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6758-15","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+19 de Ene. de 2010   Discusión inmediata 1835-357  
+12 de Ene. de 2010 18 de Ene. de 2010 Discusión inmediata 1802-357 1835-357
+06 de Ene. de 2010 12 de Ene. de 2010 Discusión inmediata 1777-357 1802-357
+15 de Dic. de 2009 05 de Ene. de 2010 Suma 1664-357 1732-357
+05 de Ene. de 0010 06 de Ene. de 2010 Suma 1732-357 1777-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6758-15","Nombre Región Distrito Partido
+Ministerio de Obras Públicas      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6758-15","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+115   102 0 0 18 Aprobado Sala Ver detalle votación
+136 Votación General 4 0 0 9   Obras Públicas Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6758-15","No record","Veto emmEnd"

@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 3958-15","Legislatura: 353
+Fecha de ingreso: miércoles 17 de agosto de 2005
+Estado: Primer trámite constitucional .
+Numero de boletín: 3958-15
+Materia: Ferrocarriles
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 05-11-2014 07:15:31
+* * Hitos de tramitación * *
+"emmStart Hitos 3958-15","Fecha Sesión Etapa Sub-etapa Documento
+17 de Ago. de 2005   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+17 de Ago. de 2005 28ª / 353 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones
+25 de Jul. de 2006   Primer trámite constitucional / Senado Primer informe de comisión Ver
+01 de Ago. de 2006 37ª / 354 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+16 de Ago. de 2006 44ª / 354 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 04/09/2006 Ver
+04 de Sep. de 2006   Primer trámite constitucional / Senado Boletín de indicaciones
+24 de Oct. de 2006   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+31 de Oct. de 2006 64ª / 354 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+07 de Nov. de 2006 66ª / 354 Primer trámite constitucional / Senado Discusión particular Ver
+08 de Nov. de 2006   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+08 de Nov. de 2006 95ª / 354 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver Ver
+30 de Oct. de 2007 93ª / 355 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de obras Públicas. Ver
+14 de Oct. de 2009 90ª / 357 Primer trámite constitucional / Senado Discusión general
+14 de Oct. de 2009 90ª / 357 Primer trámite constitucional / Senado Se acuerda solicitar nuevo informe a la Comisión Técnica.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3958-15","Fecha Etapa Informe Documento
+24 de Oct. de 2006 Primer trámite constitucional Senado Segundo informe de comisión de Transportes y Telecomunicaciones Ver
+25 de Jul. de 2006 Primer trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3958-15","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3958-15","Nombre
+Juan Antonio Coloma Correa","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3958-15","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+59 Votación General 10 0 0 3   Obras Públicas Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3958-15","No record","Veto emmEnd"

@@ -1,0 +1,39 @@
+* * Bill summary * *
+"emmStart Summary 8001-14","Legislatura: 359
+Fecha de ingreso: miércoles 19 de octubre de 2011
+Estado: Primer trámite constitucional .
+Numero de boletín: 8001-14
+Materia: Bienes Raíces De Entidades Religiosas,Entidades Religiosas
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 09-11-2014 14:16:09
+* * Hitos de tramitación * *
+"emmStart Hitos 8001-14","Fecha Sesión Etapa Sub-etapa Documento
+19 de Oct. de 2011   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+24 de Nov. de 2011   Primer trámite constitucional / Senado Primer informe de comisión Ver
+11 de Ene. de 2012 89ª / 359 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 05/03/2012 Ver
+06 de Mar. de 2012   Primer trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 19/03/2012 a las 13:00 en Secretaría.
+19 de Mar. de 2012   Primer trámite constitucional / Senado Boletín de indicaciones
+20 de Mar. de 2012   Primer trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 02/04/2012 a las 13:00 en Secretaría.
+15 de Ene. de 2013   Primer trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 04/03/2013 a las 12:00 en la Secretaría de la Comisión de Vivienda y Urbanismo","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8001-14","Fecha Etapa Informe Documento
+24 de Nov. de 2011 Primer trámite constitucional Senado Primer informe de comisión de Vivienda y Urbanismo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8001-14","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8001-14","Nombre
+José García Ruminot
+Guido Girardi Lavín
+Juan Pablo Letelier Morel
+Hosaín Sabag Castillo
+Eugenio Tuma Zedán","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8001-14","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8001-14","No record","Veto emmEnd"

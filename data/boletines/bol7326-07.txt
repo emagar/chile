@@ -1,0 +1,39 @@
+* * Bill summary * *
+"emmStart Summary 7326-07","Legislatura: 358
+Fecha de ingreso: martes 30 de noviembre de 2010
+Estado: Archivado .
+Numero de boletín: 7326-07
+Materia: Periodismo,Lesiones A Periodistas,Circunstancias Agravantes ,Lesiones (Derecho Penal)
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 09-11-2014 02:44:32
+* * Hitos de tramitación * *
+"emmStart Hitos 7326-07","Fecha Sesión Etapa Sub-etapa Documento
+30 de Nov. de 2010   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+30 de Nov. de 2010 70ª / 358 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+02 de Oct. de 2012 51ª / 360 Primer trámite constitucional / Senado Cuenta del Mensaje 299-360 que hace presente la urgencia Simple
+31 de Oct. de 2012 58ª / 360 Primer trámite constitucional / Senado Cuenta del Mensaje 340-360 que retira y hace presente la urgencia Simple
+28 de Nov. de 2012 78ª / 360 Primer trámite constitucional / Senado Cuenta del Mensaje 376-360 que retira y hace presente la urgencia Simple
+19 de Dic. de 2012 89ª / 360 Primer trámite constitucional / Senado Cuenta del Mensaje 410-360 que retira y hace presente la urgencia Simple
+14 de Mar. de 2014   Primer trámite constitucional / Senado Archivado La Comisión lo ha archivado en virtud del artículo 36 bis, inciso segundo, del Reglamento del Senado.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7326-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7326-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+19 de Dic. de 2012   Simple 410-360  
+28 de Nov. de 2012 19 de Dic. de 2012 Simple 376-360 410-360
+31 de Oct. de 2012 28 de Nov. de 2012 Simple 340-360 376-360
+02 de Oct. de 2012 31 de Oct. de 2012 Simple 299-360 340-360","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7326-07","Nombre
+Mariano Ruiz-Esquide Jara
+Patricio Walker Prieto","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7326-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7326-07","No record","Veto emmEnd"

@@ -1,0 +1,58 @@
+* * Bill summary * *
+"emmStart Summary 2532-15","Legislatura: 342
+Fecha de ingreso: martes 04 de julio de 2000
+Estado: Primer trámite constitucional .
+Numero de boletín: 2532-15
+Materia: Telefonía Celular
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 01:29:25
+* * Hitos de tramitación * *
+"emmStart Hitos 2532-15","Fecha Sesión Etapa Sub-etapa Documento
+04 de Jul. de 2000   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Jul. de 2000 9ª / 342 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+04 de Ago. de 2000   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de Ago. de 2000 24ª / 342 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+12 de Sep. de 2000 37ª / 342 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+03 de Oct. de 2000 1ª / 343 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+31 de Jul. de 2001   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+01 de Ago. de 2001 22ª / 344 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+07 de Ago. de 2001 24ª / 344 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver
+02 de Oct. de 2001 2ª / 345 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver
+09 de Oct. de 2001 4ª / 345 Primer trámite constitucional / C. Diputados Discusión particular. Se solicita nuevo informe Por acuerdo de la Sala se remite el proyecto a Com. Unidas de OO.PP. y Vivienda para nuevo 2° informe Ver Ver
+30 de Oct. de 2001 10ª / 345 Primer trámite constitucional / C. Diputados Oficio 664/2001 de la Com. de OO.PP. Solicita anular acuerdo en orden a tramitar el proyecto en Com. Unida de OO.PP. y Vivienda, en Tabla Ver
+01 de Ago. de 2002   Primer trámite constitucional / C. Diputados Oficio Nº 3870 del 01-08-02 a la Com. de Vivienda, comunica acuerdo que deroga tramitación de proyecto en Com. Unida de OO.PP. y Vivienda
+01 de Ago. de 2002   Primer trámite constitucional / C. Diputados Oficio Nº 3869 del 01-08-02 a la Com. de OO.PP. Comunica acuerdo de revocar estudio en Com.Unidas de OO.PP. y Vivienda
+13 de Ago. de 2002 13ª / 347 Primer trámite constitucional / C. Diputados Cuenta comunicación de la Com. de OOPP informa revocación de acuerdo que había dispuesto que proyecto sea estudiado en Comisiones Unidas. Ver
+01 de Oct. de 2002 1ª / 348 Primer trámite constitucional / C. Diputados S.E. el Pdte. de la Rep. retira el proyecto de la legislatura extraordinaria (Mensaje 11-348) Ver
+04 de Jun. de 2003   Primer trámite constitucional / C. Diputados Oficio Nº 4329 del 03-06-2003, por acuerdo de la Sala se remite proyecto para nuevo 2° informe.
+17 de Jul. de 2003 19ª / 349 Primer trámite constitucional / C. Diputados Cuenta comunicación de la Com.de OO.PP. Solicita aumento de plazo para emitir informe Ver
+26 de Ago. de 2003 26ª / 349 Primer trámite constitucional / C. Diputados Cuenta Oficio de la Comisión de Obras Públicas, Transportes y Telecomunicaciones por el cual informa que para tratar el proyecto conformó un equipo de trabajo. Ver
+15 de Jun. de 2006   Primer trámite constitucional / C. Diputados Se solicita su archivo","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2532-15","Fecha Etapa Informe Documento
+31 de Jul. de 2001 Primer trámite constitucional C.Diputados Segundo informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+04 de Ago. de 2000 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2532-15","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2532-15","Nombre Región Distrito Partido
+Gustavo Alessandri Valdés RM Región Metropolitana N°20 Renovación Nacional
+Eliana Caraball Martínez RM Región Metropolitana N°27 Partido Demócrata Cristiano
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Felipe Letelier Norambuena VIII Región del Bío Bío N°42 Partido Por la Democracia
+Juan Pablo Letelier Morel VI Región del Libertador Bernardo O' Higgins N°33 Partido Socialista
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+Jaime Naranjo Ortíz VII Región del Maule N°39 Partido Socialista
+Luis Pareto González RM Región Metropolitana N°20 Partido Demócrata Cristiano
+Exequiel Silva Ortíz X Región de los Lagos N°53 Partido Demócrata Cristiano
+Jorge Ulloa Aguillón VIII Región del Bío Bío N°43 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2532-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2532-15","No record","Veto emmEnd"

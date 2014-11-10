@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 3010-07","Legislatura: 347
+Fecha de ingreso: miércoles 31 de julio de 2002
+Estado: Archivado .
+Numero de boletín: 3010-07
+Materia: Virus Computacional
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 20:28:40
+* * Hitos de tramitación * *
+"emmStart Hitos 3010-07","Fecha Sesión Etapa Sub-etapa Documento
+31 de Jul. de 2002   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+31 de Jul. de 2002 22ª / 347 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+08 de Ago. de 2002 27ª / 347 Primer trámite constitucional / C. Diputados Cuenta Oficio de Comisión de Ciencias y Tecnología, solicita le sea remitido el proyecto, que se encuentran en la Comisión de Constitución, Legislación y Justicia. Ver
+07 de Ene. de 2003 38ª / 348 Archivado / Cuenta. Oficio de la Comisión de Ciencia y Tecnología. Solicita el archivo del proyecto. Queda en Tabla. Se accede a archivo solicitado.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3010-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3010-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3010-07","Nombre Región Distrito Partido
+Eugenio Bauer Jouanne VI Región del Libertador Bernardo O' Higgins N°33 Unión Demócrata Independiente
+Sergio Correa De la Cerda VII Región del Maule N°36 Unión Demócrata Independiente
+Andrés Egaña Respaldiza VIII Región del Bío Bío N°44 Unión Demócrata Independiente
+Carlos Ignacio Kuschel Silva X Región de los Lagos N°57 Renovación Nacional
+Pablo Longueira Montes RM Región Metropolitana N°17 Unión Demócrata Independiente
+Patricio Melero Abaroa RM Región Metropolitana N°16 Unión Demócrata Independiente
+Iván Norambuena Farías VIII Región del Bío Bío N°46 Unión Demócrata Independiente
+Darío Paya Mira RM Región Metropolitana N°28 Unión Demócrata Independiente
+Felipe Salaberry Soto RM Región Metropolitana N°25 Unión Demócrata Independiente
+Patricio Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3010-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3010-07","No record","Veto emmEnd"

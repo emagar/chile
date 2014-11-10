@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 671-06","Legislatura: 323
+Fecha de ingreso: miércoles 29 de abril de 1992
+Estado: Tramitación terminada (Ley Nº 19.236 - D.Oficial 21/08/1993)
+Numero de boletín: 671-06
+Materia: Juzgados De Policía Local
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 21:25:14
+* * Hitos de tramitación * *
+"emmStart Hitos 671-06","Fecha Sesión Etapa Sub-etapa Documento
+28 de Abr. de 1992 68ª / 323 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+29 de Abr. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+15 de Oct. de 1992   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+14 de Abr. de 1993 43ª / 325 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización y a Comisión de Hacienda
+06 de May. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+24 de May. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+01 de Jun. de 1993 1ª / 326 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+15 de Jun. de 1993 5ª / 326 Segundo trámite constitucional / Senado Discusión general. Aprobado en general y particular sin modificaciones Oficio 4402, a la Cámara, comunicando aprobación Ver
+17 de Jun. de 1993   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+17 de Jun. de 1993   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 671-06","Fecha Etapa Informe Documento
+24 de May. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+06 de May. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver
+15 de Oct. de 1992 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 671-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+28 de Abr. de 1992   Simple    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 671-06","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 671-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 671-06","No record","Veto emmEnd"

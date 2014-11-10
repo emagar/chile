@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 7553-29","Legislatura: 359
+Fecha de ingreso: martes 22 de marzo de 2011
+Estado: Segundo trámite constitucional .
+Numero de boletín: 7553-29
+Materia: Sociedades Anónimas Deportivas
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 05:26:09
+* * Hitos de tramitación * *
+"emmStart Hitos 7553-29","Fecha Sesión Etapa Sub-etapa Documento
+22 de Mar. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+22 de Mar. de 2011 6ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Deportes Ver
+28 de Nov. de 2012   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+28 de Nov. de 2012 108ª / 360 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de Dic. de 2012   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+18 de Dic. de 2012 87ª / 360 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7553-29","Fecha Etapa Informe Documento
+28 de Nov. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Deportes Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7553-29","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7553-29","Nombre Región Distrito Partido
+Gonzalo Arenas Hödar IX Región de la Araucanía N°48 Unión Demócrata Independiente
+Gabriel Ascencio Mansilla X Región de los Lagos N°58 Partido Demócrata Cristiano
+Pedro Browne Urrejola RM Región Metropolitana N°28 Renovación Nacional
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Felipe Harboe Bascuñán RM Región Metropolitana N°22 Partido Por la Democracia
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+Celso Morales Muñoz VII Región del Maule N°36 Unión Demócrata Independiente
+René Saffirio Espinoza IX Región de la Araucanía N°50 Partido Demócrata Cristiano
+Mario Venegas Cárdenas IX Región de la Araucanía N°48 Partido Demócrata Cristiano
+Matías Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7553-29","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+113   53 0 1 66 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7553-29","No record","Veto emmEnd"

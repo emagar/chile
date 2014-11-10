@@ -1,0 +1,61 @@
+* * Bill summary * *
+"emmStart Summary 6968-04","Legislatura: 358
+Fecha de ingreso: miércoles 02 de junio de 2010
+Estado: Tramitación terminada (Ley N° 20.452 - D.Oficial 26/07/2010)
+Numero de boletín: 6968-04
+Materia: Establecimientos Educacionales,Subvenciones
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 22:44:33
+* * Hitos de tramitación * *
+"emmStart Hitos 6968-04","Fecha Sesión Etapa Sub-etapa Documento
+02 de Jun. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Jun. de 2010 31ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Deportes y Recreación y a Comisión de Hacienda Ver
+02 de Jun. de 2010 31ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 148-358 que hace presente la urgencia Suma Ver
+15 de Jun. de 2010 39ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 159-358 que retira y hace presente la urgencia Suma Ver
+15 de Jun. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+16 de Jun. de 2010 40ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. Pasa a la Comisión de Hacienda. Ver
+29 de Jun. de 2010 42ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 175-358 que retira y hace presente la urgencia Suma Ver
+29 de Jun. de 2010 43ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 179-358 que retira y hace presente la urgencia Discusión inmediata Ver
+30 de Jun. de 2010 44ª / 358 Primer trámite constitucional / C. Diputados Cuenta Informe de Comisión de Hacienda. Ver
+30 de Jun. de 2010 44ª / 358 Primer trámite constitucional / C. Diputados Aprobado en general y particular a la vez Ver
+30 de Jun. de 2010   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+06 de Jul. de 2010 32ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología y a Comisión de Hacienda
+06 de Jul. de 2010 32ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 192-358 que retira y hace presente la urgencia Discusión inmediata
+07 de Jul. de 2010   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+07 de Jul. de 2010   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+07 de Jul. de 2010 33ª / 358 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+07 de Jul. de 2010 33ª / 358 Segundo trámite constitucional / Senado Discusión general Ver
+07 de Jul. de 2010   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+08 de Jul. de 2010 50ª / 358 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+08 de Jul. de 2010 50ª / 358 Tercer trámite constitucional / C. Diputados Discusión única. Aprobadas las modificaciones Ver
+08 de Jul. de 2010   Tercer trámite constitucional / C. Diputados Oficio N° 8869, que comunica aprobacion de modificaciones Ver
+08 de Jul. de 2010   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo. Oficio N° 8868 para promulgación Ver
+13 de Jul. de 2010 34ª / 358 Tercer trámite constitucional / C. Diputados Cuenta oficio N° 8869, que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6968-04","Fecha Etapa Informe Documento
+07 de Jul. de 2010 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+07 de Jul. de 2010 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+15 de Jun. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6968-04","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+06 de Jul. de 2010   Discusión inmediata 192-358  
+29 de Jun. de 2010 05 de Jul. de 2010 Discusión inmediata 179-358 192-358
+29 de Jun. de 2010 29 de Jun. de 2010 Suma 175-358 179-358
+15 de Jun. de 2010 29 de Jun. de 2010 Suma 159-358 175-358
+02 de Jun. de 2010 15 de Jun. de 2010 Suma 148-358 159-358","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6968-04","Nombre Región Distrito Partido
+Ministerio de Educación      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6968-04","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+44   95 0 0 25 Aprobado Sala Ver detalle votación
+50 modificaciones introducidas por el Senado. 60 34 1 25 Aprobado Sala Ver detalle votación
+44 3° 61 42 0 17 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6968-04","No record","Veto emmEnd"

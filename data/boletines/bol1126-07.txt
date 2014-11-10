@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 1126-07","Legislatura: 327
+Fecha de ingreso: martes 14 de diciembre de 1993
+Estado: Tramitación terminada (Ley Nº 19.295 - D.Oficial 04/03/1994)
+Numero de boletín: 1126-07
+Materia: Presidente De La República De Chile
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 03:24:06
+* * Hitos de tramitación * *
+"emmStart Hitos 1126-07","Fecha Sesión Etapa Sub-etapa Documento
+14 de Dic. de 1993 18ª / 327 Primer trámite constitucional / Senado Primer informe de comisión Ver
+14 de Dic. de 1993   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+14 de Dic. de 1993 18ª / 327 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+14 de Dic. de 1993 18ª / 327 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+14 de Dic. de 1993 18ª / 327 Primer trámite constitucional / Senado Discusión general Ver
+14 de Dic. de 1993 18ª / 327 Primer trámite constitucional / Senado Cuenta de primer informe de comisión. Se incluye en la tabla de la sesión
+14 de Dic. de 1993 22ª / 327 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+14 de Dic. de 1993 22ª / 327 Segundo trámite constitucional / C. Diputados Eximido del trámite ante Comisión Ver
+15 de Dic. de 1993 23ª / 327 Segundo trámite constitucional / C. Diputados Discusión única Ver
+15 de Dic. de 1993   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+15 de Dic. de 1993 19ª / 327 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+13 de Feb. de 1994 19ª / 344 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+13 de Feb. de 1994   Tramitación terminada / Se reune el Congreso Pleno y le da su aprobación a la reforma del artículo 25, inciso segundo, de la Constitución Política, con la votación que se indica en el acta respectiva.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1126-07","Fecha Etapa Informe Documento
+14 de Dic. de 1993 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1126-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1126-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1126-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1126-07","No record","Veto emmEnd"

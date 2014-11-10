@@ -1,0 +1,31 @@
+* * Bill summary * *
+"emmStart Summary 234-13","Legislatura: 321
+Fecha de ingreso: martes 08 de enero de 1991
+Estado: Archivado .
+Numero de boletín: 234-13
+Materia: Derecho Del Trabajo
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 07:52:51
+* * Hitos de tramitación * *
+"emmStart Hitos 234-13","Fecha Sesión Etapa Sub-etapa Documento
+08 de Ene. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+08 de Ene. de 1991 26ª / 321 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+16 de Mar. de 1994   Primer trámite constitucional / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 328
+19 de Jun. de 1997   Primer trámite constitucional / C. Diputados Se solicita su archivo Com. de Trabajo propone archivo del proyecto.
+01 de Jul. de 1997 23ª / 337 Primer trámite constitucional / C. Diputados Archivado Oficio 1517 a la Com. de Trabajo, acuerda archivo del proyecto. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 234-13","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 234-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 234-13","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 234-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 234-13","No record","Veto emmEnd"

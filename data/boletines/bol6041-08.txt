@@ -1,0 +1,65 @@
+* * Bill summary * *
+"emmStart Summary 6041-08","Legislatura: 356
+Fecha de ingreso: miércoles 20 de agosto de 2008
+Estado: Tramitación terminada (Ley Nº 20.571 - D.Oficial 22/03/2012)
+Numero de boletín: 6041-08
+Materia: Tarifas Eléctricas
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 08-11-2014 02:10:10
+* * Hitos de tramitación * *
+"emmStart Hitos 6041-08","Fecha Sesión Etapa Sub-etapa Documento
+20 de Ago. de 2008   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+20 de Ago. de 2008 46ª / 356 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Minería y Energía
+27 de Jul. de 2010   Primer trámite constitucional / Senado Primer informe de comisión Ver
+28 de Jul. de 2010 37ª / 358 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+03 de Ago. de 2010 38ª / 358 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 30/08/2010 Ver
+31 de Ago. de 2010 45ª / 358 Primer trámite constitucional / Senado Por acuerdo de Comités, ratificado por la Sala, se abre un nuevo plazo para presentar indicaciones, hasta las 12:00 horas del día viernes 15 de octubre de 2010.
+03 de Oct. de 2010 61ª / 358 Primer trámite constitucional / Senado Por acuerdo de los Comités, ratificado por la Sala, se abre un nuevo plazo para presentar indicaciones, hasta las 12 horas del martes 2 de noviembre.
+02 de Nov. de 2010   Primer trámite constitucional / Senado Boletín de indicaciones
+21 de Ene. de 2011   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+01 de Mar. de 2011 90ª / 358 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+02 de Mar. de 2011 91ª / 358 Primer trámite constitucional / Senado Discusión particular Ver
+02 de Mar. de 2011   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+03 de Mar. de 2011 133ª / 358 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Minería y Energía Ver
+06 de Jul. de 2011   Segundo trámite constitucional / C. Diputados Oficio N°090-359. S.E. el Presidente de la República por el cual formula indicación al proyecto. Ver
+21 de Jul. de 2011   Segundo trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+21 de Jul. de 2011 60ª / 359 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+07 de Oct. de 2011   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Oct. de 2011 93ª / 359 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Dic. de 2011 121ª / 359 Segundo trámite constitucional / C. Diputados Oficio N°220-359. Oficio de S.E. el Presidente de la República por el cual formula indicaciones e informe financiero complementario al proyecto. Ver Ver
+10 de Ene. de 2012 129ª / 359 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 532-359 que hace presente la urgencia Suma Ver
+10 de Ene. de 2012 129ª / 359 Segundo trámite constitucional / C. Diputados Discusión general Ver
+10 de Ene. de 2012   Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver
+17 de Ene. de 2012   Tercer trámite constitucional / Senado Informe de comisión Ver
+17 de Ene. de 2012 90ª / 359 Tercer trámite constitucional / Senado Cuenta informe de comisión
+17 de Ene. de 2012 90ª / 359 Tercer trámite constitucional / Senado Discusión única
+18 de Ene. de 2012 134ª / 359 Tercer trámite constitucional / Senado Cuenta oficio N° 77/SEC/12, que comunica aprobacion de modificaciones Ver
+19 de Ene. de 2012   Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo Ver
+31 de Ene. de 2012 94ª / 359 Trámite de aprobacion presidencial / Senado Cuenta del Mensaje 601-359 que retira la urgencias por receso legislativo","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6041-08","Fecha Etapa Informe Documento
+17 de Ene. de 2012 Tercer trámite constitucional Senado Informe de comisión de Minería y Energía Ver
+07 de Oct. de 2011 Segundo trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+21 de Jul. de 2011 Segundo trámite constitucional C.Diputados Primer informe de comisión de Minería y Energía Ver
+21 de Ene. de 2011 Primer trámite constitucional Senado Segundo informe de comisión de Minería y Energía Ver
+27 de Jul. de 2010 Primer trámite constitucional Senado Primer informe de comisión de Minería y Energía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6041-08","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+10 de Ene. de 2012 31 de Ene. de 2012 Suma 532-359 601-359","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6041-08","Nombre
+Antonio Horvath Kiss","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6041-08","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+129   95 0 0 1 Aprobado Sala Ver detalle votación
+129 Texto del proyecto, salvo el literal b) del artículo único. 92 0 0 28 Aprobado Sala Ver detalle votación
+129 Indicación del Ejecutivo para modificar el literal b) del artículo único. 93 0 1 26 Aprobado Sala Ver detalle votación
+57 Votación General 8 0 0 5   Minería y Energía Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6041-08","No record","Veto emmEnd"

@@ -1,0 +1,53 @@
+* * Bill summary * *
+"emmStart Summary 2592-15","Legislatura: 343
+Fecha de ingreso: miércoles 04 de octubre de 2000
+Estado: Tramitación terminada (Ley Nº 19.764 - D.Oficial 19/10/2001)
+Numero de boletín: 2592-15
+Materia: Peaje En Autopistas Concesionadas
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 06:42:52
+* * Hitos de tramitación * *
+"emmStart Hitos 2592-15","Fecha Sesión Etapa Sub-etapa Documento
+04 de Oct. de 2000 2ª / 343 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+04 de Oct. de 2000   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+17 de Oct. de 2000   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de Oct. de 2000   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+19 de Oct. de 2000 9ª / 343 Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver Ver
+19 de Oct. de 2000 9ª / 343 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+19 de Oct. de 2000 9ª / 343 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+31 de Oct. de 2000 7ª / 343 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Obras Públicas
+23 de Ene. de 2001   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+10 de Sep. de 2001   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+11 de Sep. de 2001 28ª / 344 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Sep. de 2001 30ª / 344 Segundo trámite constitucional / Senado Discusión general Ver
+12 de Sep. de 2001   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen
+02 de Oct. de 2001 1ª / 345 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+02 de Oct. de 2001 1ª / 345 Tercer trámite constitucional / C. Diputados Discusión única Ver
+02 de Oct. de 2001   Tercer trámite constitucional / C. Diputados Oficio Nº 3530, que comunica aprobación de modificaciones Ver
+02 de Oct. de 2001   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+03 de Oct. de 2001 4ª / 345 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 3530, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2592-15","Fecha Etapa Informe Documento
+10 de Sep. de 2001 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+23 de Ene. de 2001 Segundo trámite constitucional Senado Primer informe de comisión de Obras Públicas Ver
+18 de Oct. de 2000 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+17 de Oct. de 2000 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2592-15","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+02 de Oct. de 2001   Suma 17-345  
+21 de Ago. de 2001   Simple 173-344  
+16 de Ene. de 2001 06 de Mar. de 2001 Suma 264-343 285-343
+11 de Oct. de 2000 19 de Oct. de 2000 Suma 46-343 69-343","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2592-15","Nombre Región Distrito Partido
+Ministerio de Transporte y Telecomunicaciones      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2592-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2592-15","No record","Veto emmEnd"

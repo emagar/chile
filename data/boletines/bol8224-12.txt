@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 8224-12","Legislatura: 360
+Fecha de ingreso: miércoles 04 de abril de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8224-12
+Materia: Animales Domésticos,Uso Obligatorio,Microchip
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 22:55:35
+* * Hitos de tramitación * *
+"emmStart Hitos 8224-12","Fecha Sesión Etapa Sub-etapa Documento
+04 de Abr. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Abr. de 2012 11ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8224-12","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8224-12","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8224-12","Nombre Región Distrito Partido
+Lautaro Carmona Soto III Región de Atacama N°5 Partido Comunista
+Fuad Chahín Valenzuela IX Región de la Araucanía N°49 Partido Demócrata Cristiano
+Alfonso De Urresti Longton XIV Región de los Ríos N°53 Partido Socialista
+Marcelo Díaz Díaz IV Región de Coquimbo N°7 Partido Socialista
+Adriana Muñoz D'Albora IV Región de Coquimbo N°9 Partido Por la Democracia
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Partido Regionalista Independiente
+Guillermo Teillier Del Valle RM Región Metropolitana N°28 Partido Comunista
+Matías Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8224-12","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8224-12","No record","Veto emmEnd"

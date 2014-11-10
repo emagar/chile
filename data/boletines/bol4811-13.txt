@@ -1,0 +1,48 @@
+* * Bill summary * *
+"emmStart Summary 4811-13","Legislatura: 354
+Fecha de ingreso: lunes 08 de enero de 2007
+Estado: Tramitación terminada (Ley Nº 20.164 - D.Oficial 14/02/2007)
+Numero de boletín: 4811-13
+Materia: Justicia Laboral
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 06-11-2014 12:41:10
+* * Hitos de tramitación * *
+"emmStart Hitos 4811-13","Fecha Sesión Etapa Sub-etapa Documento
+08 de Ene. de 2007   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+09 de Ene. de 2007 82ª / 354 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social
+10 de Ene. de 2007   Primer trámite constitucional / Senado Primer informe de comisión Ver
+10 de Ene. de 2007 83ª / 354 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Ene. de 2007 83ª / 354 Primer trámite constitucional / Senado Discusión general Ver
+11 de Ene. de 2007   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+11 de Ene. de 2007 118ª / 354 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver Ver
+16 de Ene. de 2007 119ª / 354 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 638-354 que retira y hace presente la urgencia Discusión inmediata Ver
+16 de Ene. de 2007   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Ene. de 2007 120ª / 354 Segundo trámite constitucional / C. Diputados Certificado de a Comisión de Trabajo. Ver
+17 de Ene. de 2007 120ª / 354 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+17 de Ene. de 2007   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+23 de Ene. de 2007 86ª / 354 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+23 de Ene. de 2007   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4811-13","Fecha Etapa Informe Documento
+16 de Ene. de 2007 Segundo trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver
+10 de Ene. de 2007 Primer trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4811-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+16 de Ene. de 2007   Discusión inmediata 638-354  
+09 de Ene. de 2007 16 de Ene. de 2007 Discusión inmediata 621-354 638-354","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4811-13","Nombre
+Ministerio de Hacienda
+Ministerio de Justicia
+Ministerio de Trabajo y Previsión Social","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4811-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+120   64 29 14 13 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4811-13","No record","Veto emmEnd"

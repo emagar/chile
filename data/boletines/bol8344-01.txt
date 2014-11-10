@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 8344-01","Legislatura: 360
+Fecha de ingreso: miércoles 06 de junio de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8344-01
+Materia: Ganadería,Productos Agrícolas,Ganaderos,Conservación De Animales De Fauna Silvestre
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 00:22:18
+* * Hitos de tramitación * *
+"emmStart Hitos 8344-01","Fecha Sesión Etapa Sub-etapa Documento
+06 de Jun. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Jun. de 2012 38ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Agricultura, Silvicultura y Desarrollo Rural Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8344-01","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8344-01","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8344-01","Nombre Región Distrito Partido
+Ramón Barros Montero VI Región del Libertador Bernardo O' Higgins N°35 Unión Demócrata Independiente
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Luis Lemus Aracena IV Región de Coquimbo N°9 Partido Socialista
+Adriana Muñoz D'Albora IV Región de Coquimbo N°9 Partido Por la Democracia
+José Pérez Arriagada VIII Región del Bío Bío N°47 Partido Radical Social Demócrata
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Partido Regionalista Independiente
+Ignacio Urrutia Bonilla VII Región del Maule N°40 Unión Demócrata Independiente
+Matías Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8344-01","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+90 Votación General 7 0 0 6   Agricultura Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8344-01","No record","Veto emmEnd"

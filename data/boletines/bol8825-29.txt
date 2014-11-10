@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 8825-29","Legislatura: 360
+Fecha de ingreso: viernes 08 de marzo de 2013
+Estado: Segundo trámite constitucional .
+Numero de boletín: 8825-29
+Materia: Dia Nacional Del Hincha De Futbol (9 De Febrero)
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 06:09:42
+* * Hitos de tramitación * *
+"emmStart Hitos 8825-29","Fecha Sesión Etapa Sub-etapa Documento
+08 de Mar. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Mar. de 2013 1ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión Epecial de Deportes Ver
+12 de Mar. de 2013 1ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 02-361 que hace presente la urgencia Simple Ver
+13 de Mar. de 2013 2ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 10-361 que retira la urgencia Simple Ver
+20 de Mar. de 2013   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Abr. de 2013 8ª / 361 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+08 de Ago. de 2013 56ª / 361 Primer trámite constitucional / C. Diputados Discusión general Ver
+08 de Ago. de 2013   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+13 de Ago. de 2013 47ª / 361 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8825-29","Fecha Etapa Informe Documento
+20 de Mar. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión Epecial de Deportes Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8825-29","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+12 de Mar. de 2013 13 de Mar. de 2013 Simple 02-361 10-361","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8825-29","Nombre Región Distrito Partido
+Ramón Barros Montero VI Región del Libertador Bernardo O' Higgins N°35 Unión Demócrata Independiente
+Eugenio Bauer Jouanne VI Región del Libertador Bernardo O' Higgins N°33 Unión Demócrata Independiente
+Lautaro Carmona Soto III Región de Atacama N°5 Partido Comunista
+Issa Farid Kort Garriga VI Región del Libertador Bernardo O' Higgins N°32 Unión Demócrata Independiente
+Javier Macaya Danús VI Región del Libertador Bernardo O' Higgins N°34 Unión Demócrata Independiente
+Andrea Molina Oliva V Región de Valparaíso N°10 Unión Demócrata Independiente
+Celso Morales Muñoz VII Región del Maule N°36 Unión Demócrata Independiente
+Patricio Vallespín López X Región de los Lagos N°57 Partido Demócrata Cristiano
+Matías Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8825-29","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+56   40 0 7 73 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8825-29","No record","Veto emmEnd"

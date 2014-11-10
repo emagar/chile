@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 96-10","Legislatura: 320
+Fecha de ingreso: martes 10 de julio de 1990
+Estado: Tramitación terminada (D.S. Nº 1.305 - D.Oficial 16/11/1991)
+Numero de boletín: 96-10
+Materia: Facultad Latinoamericana De Ciencias Sociales
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 30-10-2014 17:45:11
+* * Hitos de tramitación * *
+"emmStart Hitos 96-10","Fecha Sesión Etapa Sub-etapa Documento
+10 de Jul. de 1990   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+11 de Jul. de 1990 16ª / 320 Primer trámite constitucional / Senado Cuenta de proyecto
+11 de Dic. de 1990 23ª / 321 Primer trámite constitucional / Senado Primer informe de comisión Ver
+11 de Dic. de 1990 23ª / 321 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+18 de Dic. de 1990   Primer trámite constitucional / Senado Boletín de indicaciones
+18 de Dic. de 1990 26ª / 321 Primer trámite constitucional / Senado Discusión general Ver
+08 de Ene. de 1991 23ª / 322 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+17 de Ene. de 1991 35ª / 321 Primer trámite constitucional / Senado Segundo informe de comisión Ver
+17 de Ene. de 1991 35ª / 321 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+05 de Mar. de 1991 36ª / 321 Primer trámite constitucional / Senado Discusión particular Ver
+06 de Mar. de 1991 37ª / 321 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+18 de Jun. de 1991   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+06 de Ago. de 1991   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen
+06 de Ago. de 1991 26ª / 322 Segundo trámite constitucional / C. Diputados Discusión general Ver
+07 de Ago. de 1991 24ª / 322 Tramitación terminada / Cuenta de oficio de la CCDD con el que comunica que ha aprobado el proyecto en los mismos términos en que lo hizo el Senado. Se manda comunicar al Presidente de la República. Ver
+08 de Ago. de 1991 36ª / 322 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+05 de Sep. de 1991 36ª / 322 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+31 de Ago. de 1999 34ª / 341 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 96-10","Fecha Etapa Informe Documento
+18 de Jun. de 1991 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+17 de Ene. de 1991 Primer trámite constitucional Senado Segundo informe de comisión de Hacienda Ver
+11 de Dic. de 1990 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 96-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 96-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 96-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 96-10","No record","Veto emmEnd"

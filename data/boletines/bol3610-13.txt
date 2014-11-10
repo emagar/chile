@@ -1,0 +1,58 @@
+* * Bill summary * *
+"emmStart Summary 3610-13","Legislatura: 351
+Fecha de ingreso: miércoles 14 de julio de 2004
+Estado: Tramitación terminada (Ley Nº 20.057 - D.Oficial 23/09/2005)
+Numero de boletín: 3610-13
+Materia: Sindicalismo
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 06:30:25
+* * Hitos de tramitación * *
+"emmStart Hitos 3610-13","Fecha Sesión Etapa Sub-etapa Documento
+14 de Jul. de 2004   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+14 de Jul. de 2004 15ª / 351 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+14 de Sep. de 2004   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Oct. de 2004 1ª / 352 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+20 de Oct. de 2004 11ª / 352 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+20 de Oct. de 2004   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+02 de Nov. de 2004 9ª / 352 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social Ver
+12 de Abr. de 2005   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+13 de Abr. de 2005 44ª / 352 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de May. de 2005 50ª / 352 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 06/06/2005 Ver
+06 de Jun. de 2005   Segundo trámite constitucional / Senado Boletín de indicaciones
+08 de Ago. de 2005   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+10 de Ago. de 2005 24ª / 353 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+16 de Ago. de 2005 26ª / 353 Segundo trámite constitucional / Senado Discusión particular Ver
+16 de Ago. de 2005   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+17 de Ago. de 2005 32ª / 353 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver Ver
+31 de Ago. de 2005 38ª / 353 Tercer trámite constitucional / C. Diputados Discusión única Ver
+31 de Ago. de 2005   Tercer trámite constitucional / C. Diputados Oficio Nº 5812, que comunica aprobación de modificaciones Ver
+31 de Ago. de 2005   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+06 de Sep. de 2005 32ª / 353 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 5812, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3610-13","Fecha Etapa Informe Documento
+08 de Ago. de 2005 Segundo trámite constitucional Senado Segundo informe de comisión de Trabajo y Previsión Social Ver
+12 de Abr. de 2005 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver
+14 de Sep. de 2004 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3610-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3610-13","Nombre Región Distrito Partido
+Sergio Aguiló Melo VII Región del Maule N°37 Partido Socialista
+Fernando Meza Moncada IX Región de la Araucanía N°52 Partido Radical Social Demócrata
+Adriana Muñoz D'Albora IV Región de Coquimbo N°9 Partido Por la Democracia
+Pedro Muñoz Aburto XII Región de Magallanes y de la Antártica Chilena N°60 Partido Socialista
+José Pérez Arriagada VIII Región del Bío Bío N°47 Partido Radical Social Demócrata
+Fulvio Rossi Ciocca I Región de Tarapacá N°2 Independientes
+Boris Tapia Martínez VII Región del Maule N°36 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3610-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+11   51 0 0 1 Aprobado Sala Ver detalle votación
+38 Modificaciones del Senado. 56 0 1 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3610-13","No record","Veto emmEnd"

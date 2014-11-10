@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 8484-25","Legislatura: 360
+Fecha de ingreso: jueves 02 de agosto de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8484-25
+Materia: Código Penal
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 02:08:01
+* * Hitos de tramitación * *
+"emmStart Hitos 8484-25","Fecha Sesión Etapa Sub-etapa Documento
+02 de Ago. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Ago. de 2012 65ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Seguridad Ciudadana y Drogas Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8484-25","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8484-25","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8484-25","Nombre Región Distrito Partido
+Eugenio Bauer Jouanne VI Región del Libertador Bernardo O' Higgins N°33 Unión Demócrata Independiente
+Aldo Cornejo González V Región de Valparaíso N°13 Partido Demócrata Cristiano
+Felipe Harboe Bascuñán RM Región Metropolitana N°22 Partido Por la Democracia
+Cristian Letelier Aguilar RM Región Metropolitana N°31 Independientes
+Cristián Monckeberg Bruner RM Región Metropolitana N°23 Renovación Nacional
+Marcela Sabat Fernández RM Región Metropolitana N°21 Renovación Nacional
+René Saffirio Espinoza IX Región de la Araucanía N°50 Partido Demócrata Cristiano
+Gabriel Silber Romo RM Región Metropolitana N°16 Partido Demócrata Cristiano
+Víctor Torres Jeldes V Región de Valparaíso N°15 Partido Demócrata Cristiano
+Marisol Turres Figueroa X Región de los Lagos N°57 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8484-25","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8484-25","No record","Veto emmEnd"

@@ -1,0 +1,60 @@
+* * Bill summary * *
+"emmStart Summary 3064-06","Legislatura: 347
+Fecha de ingreso: jueves 12 de septiembre de 2002
+Estado: Tramitación terminada (Ley Nº 19.852 - D.Oficial 08/01/2003)
+Numero de boletín: 3064-06
+Materia: Alcaldes
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 22:45:12
+* * Hitos de tramitación * *
+"emmStart Hitos 3064-06","Fecha Sesión Etapa Sub-etapa Documento
+12 de Sep. de 2002   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Sep. de 2002 42ª / 347 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+31 de Oct. de 2002   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+06 de Nov. de 2002 15ª / 348 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+06 de Nov. de 2002   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+12 de Nov. de 2002 11ª / 348 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización
+03 de Dic. de 2002   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+04 de Dic. de 2002 17ª / 348 Segundo trámite constitucional / Senado Cuenta informe de la Com. de Gob., Desc. y Regionalización. Queda para tabla.
+04 de Dic. de 2002 17ª / 348 Segundo trámite constitucional / Senado Discusión particular Ver
+04 de Dic. de 2002   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+05 de Dic. de 2002 30ª / 348 Tercer trámite constitucional / C. Diputados Discusión única Ver
+05 de Dic. de 2002 30ª / 348 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+05 de Dic. de 2002   Trámite de aprobacion presidencial / C. Diputados Oficio al Ejecutivo, comunica proyecto aprobado para los efectos del artículo 70 de la Constitución Política del Estado Ver
+10 de Dic. de 2002   Tercer trámite constitucional / C. Diputados Oficio Nº 4049, que comunica aprobación de modificaciones Ver
+10 de Dic. de 2002 18ª / 348 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 4049, que comunica aprobación de modificaciones Ver
+10 de Dic. de 2002 18ª / 348 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio C. de Diputados, comunica aprobación modificaciones propuestas por el Senado. Se manda archivar junto a sus antecedentes. Ver
+11 de Dic. de 2002 32ª / 348 Trámite de aprobacion presidencial / C. Diputados Cuenta Oficio Nº 268-348 de S.E. el Presidente de la República, manifiesta que ha resuelto no hacer uso de la facultad que le confiere el inciso primero del artículo 70 de la Constitución Política de la República. Ver Ver
+13 de Dic. de 2002   Trámite en Tribunal Constitucional / C. Diputados Oficio Nº4052 al Tribunal Constitucional Ver
+27 de Dic. de 2002   Trámite en Tribunal Constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+07 de Ene. de 2003 38ª / 348 Trámite en Tribunal Constitucional / C. Diputados Cuenta fallo del Tribunal Constitucional. Cuenta oficio N? 1804 del Tribunal Constitucional Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3064-06","Fecha Etapa Informe Documento
+03 de Dic. de 2002 Segundo trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver
+31 de Oct. de 2002 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3064-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+03 de Dic. de 2002 07 de Ene. de 2003 Discusión inmediata 246-348 340-348","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3064-06","Nombre Región Distrito Partido
+María Angélica Cristi Marfil RM Región Metropolitana N°24 Unión Demócrata Independiente
+Marcela Cubillos Sigall RM Región Metropolitana N°21 Unión Demócrata Independiente
+Andrés Egaña Respaldiza VIII Región del Bío Bío N°44 Unión Demócrata Independiente
+Marcelo Forni Lobos V Región de Valparaíso N°11 Unión Demócrata Independiente
+Rosa González Román I Región de Tarapacá N°1 Unión Demócrata Independiente
+José Antonio Kast Rist RM Región Metropolitana N°30 Unión Demócrata Independiente
+Pablo Longueira Montes RM Región Metropolitana N°17 Unión Demócrata Independiente
+Iván Norambuena Farías VIII Región del Bío Bío N°46 Unión Demócrata Independiente
+Víctor Pérez Varela VIII Región del Bío Bío N°47 Unión Demócrata Independiente
+Jorge Ulloa Aguillón VIII Región del Bío Bío N°43 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3064-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+15   76 0 0 0   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3064-06","No record","Veto emmEnd"

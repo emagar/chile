@@ -1,0 +1,39 @@
+* * Bill summary * *
+"emmStart Summary 8195-25","Legislatura: 360
+Fecha de ingreso: martes 13 de marzo de 2012
+Estado: Segundo trámite constitucional .
+Numero de boletín: 8195-25
+Materia: Calles Y Pasajes,Control De Acceso De Calles Y Pasajes
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 22:37:51
+* * Hitos de tramitación * *
+"emmStart Hitos 8195-25","Fecha Sesión Etapa Sub-etapa Documento
+13 de Mar. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Mar. de 2012 1ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Seguridad Ciudadana y Drogas Ver
+19 de Abr. de 2012   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de May. de 2012 20ª / 360 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+15 de May. de 2012 27ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+15 de May. de 2012   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8195-25","Fecha Etapa Informe Documento
+19 de Abr. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Seguridad Ciudadana y Drogas Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8195-25","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8195-25","Nombre Región Distrito Partido
+Patricio Hales Dib RM Región Metropolitana N°19 Partido Por la Democracia
+Cristián Monckeberg Bruner RM Región Metropolitana N°23 Renovación Nacional
+Nicolás Monckeberg Díaz RM Región Metropolitana N°18 Renovación Nacional
+Marcela Sabat Fernández RM Región Metropolitana N°21 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8195-25","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+68 Votación General 6 0 0 7   Seguridad y Drogas Ver detalle votación
+27   93 1 4 22 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8195-25","No record","Veto emmEnd"

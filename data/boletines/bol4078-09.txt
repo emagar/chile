@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 4078-09","Legislatura: 353
+Fecha de ingreso: miércoles 18 de enero de 2006
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 4078-09
+Materia: Panne De Combustible,Carreteras,Tránsito,Combustibles
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 18:32:20
+* * Hitos de tramitación * *
+"emmStart Hitos 4078-09","Fecha Sesión Etapa Sub-etapa Documento
+18 de Ene. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+18 de Ene. de 2006 70ª / 353 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+30 de Ago. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Sep. de 2006 69ª / 354 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+06 de Sep. de 2006 71ª / 354 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+06 de Sep. de 2006 71ª / 354 Primer trámite constitucional / C. Diputados Discusión general Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4078-09","Fecha Etapa Informe Documento
+30 de Ago. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4078-09","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4078-09","Nombre Región Distrito Partido
+Patricio Hales Dib RM Región Metropolitana N°19 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4078-09","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+71   34 58 14 0 Rechazado Sala Ver detalle votación
+15 Votación General 10 0 0 3   Obras Públicas Ver detalle votación
+11 Votación General 7 0 0 6   Obras Públicas Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4078-09","No record","Veto emmEnd"

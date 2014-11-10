@@ -1,0 +1,62 @@
+* * Bill summary * *
+"emmStart Summary 1789-06","Legislatura: 332
+Fecha de ingreso: miércoles 17 de enero de 1996
+Estado: Tramitación terminada (Ley Nº 19.777 - D.Oficial 05/12/2001)
+Numero de boletín: 1789-06
+Materia: Juzgados De Policía Local
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 14:31:44
+* * Hitos de tramitación * *
+"emmStart Hitos 1789-06","Fecha Sesión Etapa Sub-etapa Documento
+17 de Ene. de 1996   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+17 de Ene. de 1996 43ª / 332 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+20 de Mar. de 1996 57ª / 332 Primer trámite constitucional / C. Diputados Cuenta oficio 144 de la Corte Suprema Ver Ver
+18 de Jun. de 1996   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+05 de Oct. de 1999   Primer trámite constitucional / C. Diputados Se solicita su archivo S.E. el Pdte. de la Rep. Solicita archivo del proyecto.
+07 de Jun. de 2000 2ª / 342 Primer trámite constitucional / C. Diputados Se solicita su archivo S.E. el Pdte. de la Rep. solicita archivo del proyecto. Ver
+07 de Jun. de 2000   Primer trámite constitucional / C. Diputados Rechazada solicitud de archivo Oficio al Pdte. de la Rep. rechaza solicitud de archivo.
+21 de Ago. de 2001   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+21 de Ago. de 2001 29ª / 344 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+21 de Ago. de 2001 29ª / 344 Primer trámite constitucional / C. Diputados Discusión general Ver
+21 de Ago. de 2001   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+22 de Ago. de 2001 25ª / 344 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+11 de Sep. de 2001   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+11 de Sep. de 2001   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+12 de Sep. de 2001 30ª / 344 Segundo trámite constitucional / Senado Discusión general Ver
+12 de Sep. de 2001   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+12 de Sep. de 2001 29ª / 344 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+02 de Oct. de 2001 1ª / 345 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+02 de Oct. de 2001 2ª / 345 Tercer trámite constitucional / C. Diputados Discusión única Ver
+02 de Oct. de 2001   Tercer trámite constitucional / C. Diputados Oficio Nº 3532, que comunica aprobación de modificaciones Ver
+02 de Oct. de 2001   Tercer trámite constitucional / C. Diputados Oficio al Ejecutivo, comunica proyecto aprobado para los efectos del artículo 70 de la Constitución Política del Estado. Ver
+03 de Oct. de 2001 4ª / 345 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 3532, que comunica aprobación de modificaciones Ver
+16 de Oct. de 2001 7ª / 345 Tercer trámite constitucional / C. Diputados Cuenta Oficio S.E. el Presidente de la República, manifiesta que ha resuelto no hacer uso de la facultad que le confiere el inciso primero del artículo 70 de la Constitución Política de la República. Ver
+16 de Oct. de 2001   Trámite en Tribunal Constitucional / C. Diputados Oficio al Tribunal Constitucional Ver
+13 de Nov. de 2001   Trámite en Tribunal Constitucional / C. Diputados Ingreso fallo del Tribunal Constitucional Ver
+13 de Nov. de 2001 17ª / 345 Trámite en Tribunal Constitucional / C. Diputados Cuenta fallo del Tribunal Constitucional Ver
+13 de Nov. de 2001   Trámite en Tribunal Constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1789-06","Fecha Etapa Informe Documento
+11 de Sep. de 2001 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+11 de Sep. de 2001 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+21 de Ago. de 2001 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+18 de Jun. de 1996 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1789-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+02 de Oct. de 2001   Suma 13-345  
+04 de Sep. de 2001   Suma 199-344  
+21 de Ago. de 2001   Suma 175-344  
+17 de Ene. de 1996 05 de Sep. de 2001 Sin urgencia 279-332 199-344","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1789-06","Nombre Región Distrito Partido
+Ministerio de Justicia      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1789-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1789-06","No record","Veto emmEnd"

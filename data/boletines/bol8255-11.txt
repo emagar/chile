@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 8255-11","Legislatura: 360
+Fecha de ingreso: jueves 03 de mayo de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8255-11
+Materia: Riesgos De Uso De Solarium
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 23:18:54
+* * Hitos de tramitación * *
+"emmStart Hitos 8255-11","Fecha Sesión Etapa Sub-etapa Documento
+03 de May. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de May. de 2012 21ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8255-11","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8255-11","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8255-11","Nombre Región Distrito Partido
+Pedro Pablo Alvarez-Salamanca Ramírez VII Región del Maule N°38 Unión Demócrata Independiente
+Nino Baltolu Rasera XV Región Arica y Parinacota N°1 Unión Demócrata Independiente
+Enrique Estay Peñaloza IX Región de la Araucanía N°49 Unión Demócrata Independiente
+Issa Farid Kort Garriga VI Región del Libertador Bernardo O' Higgins N°32 Unión Demócrata Independiente
+Celso Morales Muñoz VII Región del Maule N°36 Unión Demócrata Independiente
+Manuel Rojas Molina II Región de Antofagasta N°4 Unión Demócrata Independiente
+Joel Rosales Guzmán VIII Región del Bío Bío N°47 Unión Demócrata Independiente
+Ignacio Urrutia Bonilla VII Región del Maule N°40 Unión Demócrata Independiente
+Enrique Van Rysselberghe Herrera VIII Región del Bío Bío N°44 Unión Demócrata Independiente
+Gastón Von Mühlenbrock Zamora XIV Región de los Ríos N°54 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8255-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8255-11","No record","Veto emmEnd"

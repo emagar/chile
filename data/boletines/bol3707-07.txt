@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 3707-07","Legislatura: 352
+Fecha de ingreso: martes 19 de octubre de 2004
+Estado: Segundo trámite constitucional .
+Numero de boletín: 3707-07
+Materia: Código Civil
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 07:47:14
+* * Hitos de tramitación * *
+"emmStart Hitos 3707-07","Fecha Sesión Etapa Sub-etapa Documento
+19 de Oct. de 2004 9ª / 352 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+19 de Oct. de 2004   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+18 de Jun. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+20 de Jun. de 2006 39ª / 354 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+20 de Jun. de 2006 39ª / 354 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+20 de Jun. de 2006   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+21 de Jun. de 2006 27ª / 354 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3707-07","Fecha Etapa Informe Documento
+18 de Jun. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3707-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3707-07","Nombre Región Distrito Partido
+Maximiano Errázuriz Eguiguren RM Región Metropolitana N°29 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3707-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+39   101 0 0 2 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3707-07","No record","Veto emmEnd"

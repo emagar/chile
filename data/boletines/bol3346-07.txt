@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 3346-07","Legislatura: 349
+Fecha de ingreso: martes 09 de septiembre de 2003
+Estado: Archivado .
+Numero de boletín: 3346-07
+Materia: Código Penal,Funcionarios Públicos,Enriquecimiento Ilícito
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 01:45:17
+* * Hitos de tramitación * *
+"emmStart Hitos 3346-07","Fecha Sesión Etapa Sub-etapa Documento
+09 de Sep. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+09 de Sep. de 2003 38ª / 349 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+20 de Jul. de 2006   Primer trámite constitucional / C. Diputados Archivado
+03 de Ago. de 2006   Archivado / Oficio Nº6288. Se accede al archivo del proyecto Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3346-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3346-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+09 de Sep. de 2003   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3346-07","Nombre Región Distrito Partido
+Gabriel Ascencio Mansilla X Región de los Lagos N°58 Partido Demócrata Cristiano
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Enrique Jaramillo Becker X Región de los Lagos N°54 Partido Por la Democracia
+Zarko Luksic Sandoval RM Región Metropolitana N°16 Partido Demócrata Cristiano
+Eduardo Saffirio Suárez IX Región de la Araucanía N°50 Partido Demócrata Cristiano
+Laura Soto González V Región de Valparaíso N°13 Partido Por la Democracia
+Eugenio Tuma Zedan IX Región de la Araucanía N°51 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3346-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3346-07","No record","Veto emmEnd"

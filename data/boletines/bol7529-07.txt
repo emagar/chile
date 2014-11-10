@@ -1,0 +1,48 @@
+* * Bill summary * *
+"emmStart Summary 7529-07","Legislatura: 359
+Fecha de ingreso: martes 15 de marzo de 2011
+Estado: Tramitación terminada (Ley N° 20.519 - D.Oficial 21/06/2011)
+Numero de boletín: 7529-07
+Materia: Conductas Terroristas,Menores
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 09-11-2014 05:08:43
+* * Hitos de tramitación * *
+"emmStart Hitos 7529-07","Fecha Sesión Etapa Sub-etapa Documento
+15 de Mar. de 2011   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+15 de Mar. de 2011 1ª / 359 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+22 de Mar. de 2011 4ª / 359 Primer trámite constitucional / Senado La Sala autoriza que la Comisión discuta este proyecto en general y en particular en el trámite de primer informe.
+11 de Abr. de 2011   Primer trámite constitucional / Senado Primer informe de comisión Ver
+19 de Abr. de 2011 10ª / 359 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+20 de Abr. de 2011 11ª / 359 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 20/04/2011 Ver
+03 de May. de 2011 13ª / 359 Primer trámite constitucional / Senado Por acuerdo de los Comités, ratificado por la Sala, se fija plazo para presentar indicaciones, hasta las 13 horas del lunes 9 de mayo.
+03 de May. de 2011   Primer trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 09/05/2011 a las 13:00 en Secretaría.
+10 de May. de 2011 16ª / 359 Primer trámite constitucional / Senado Discusión particular Ver
+10 de May. de 2011   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+11 de May. de 2011 27ª / 359 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+18 de May. de 2011   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+31 de May. de 2011 35ª / 359 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+07 de Jun. de 2011 38ª / 359 Segundo trámite constitucional / C. Diputados Discusión general Ver
+07 de Jun. de 2011   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+08 de Jun. de 2011 24ª / 359 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+08 de Jun. de 2011   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7529-07","Fecha Etapa Informe Documento
+18 de May. de 2011 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+11 de Abr. de 2011 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7529-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7529-07","Nombre
+Ministerio de Justicia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7529-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+38   86 1 4 29 Aprobado Sala Ver detalle votación
+89 Votación General 8 0 1 4   Constitución Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7529-07","No record","Veto emmEnd"

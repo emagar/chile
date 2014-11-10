@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 8530-03","Legislatura: 360
+Fecha de ingreso: martes 28 de agosto de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8530-03
+Materia: Protección Del Consumidor,Venta De Entradas A Espectáculos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 02:39:54
+* * Hitos de tramitación * *
+"emmStart Hitos 8530-03","Fecha Sesión Etapa Sub-etapa Documento
+28 de Ago. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+28 de Ago. de 2012 72ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8530-03","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8530-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8530-03","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Gabriel Ascencio Mansilla X Región de los Lagos N°58 Partido Demócrata Cristiano
+Guillermo Ceroni Fuentes VII Región del Maule N°40 Partido Por la Democracia
+Fuad Chahín Valenzuela IX Región de la Araucanía N°49 Partido Demócrata Cristiano
+José Manuel Edwards Silva IX Región de la Araucanía N°51 Renovación Nacional
+Jorge Sabag Villalobos VIII Región del Bío Bío N°42 Partido Demócrata Cristiano
+Alejandro Santana Tirachini X Región de los Lagos N°58 Renovación Nacional
+Gabriel Silber Romo RM Región Metropolitana N°16 Partido Demócrata Cristiano
+Patricio Vallespín López X Región de los Lagos N°57 Partido Demócrata Cristiano
+Mónica Zalaquett Said RM Región Metropolitana N°20 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8530-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8530-03","No record","Veto emmEnd"

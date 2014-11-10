@@ -1,0 +1,53 @@
+* * Bill summary * *
+"emmStart Summary 8337-05","Legislatura: 360
+Fecha de ingreso: martes 05 de junio de 2012
+Estado: Tramitación terminada (Ley Nº 20.605 - D.Oficial 16/06/2012)
+Numero de boletín: 8337-05
+Materia: Asignacion Familiar,Ficha De Protección Social,Asignacion Maternal,Subsidio Familiar,Bono Solidario De Alimentos,Precios De Los Alimentos,Bonificación Al Ingreso Ético Familiar,Instituto De Previsión Social,Asignaciones Familiar Y Maternal,Ministerio Del Trabajo Y Previsión Social,Indice De Precios Al Consumidor
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 00:17:03
+* * Hitos de tramitación * *
+"emmStart Hitos 8337-05","Fecha Sesión Etapa Sub-etapa Documento
+05 de Jun. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+05 de Jun. de 2012 36ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+05 de Jun. de 2012 36ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 132-360 que hace presente la urgencia Discusión inmediata Ver
+05 de Jun. de 2012   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+06 de Jun. de 2012 38ª / 360 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+06 de Jun. de 2012 38ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+06 de Jun. de 2012   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+12 de Jun. de 2012   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+12 de Jun. de 2012 24ª / 360 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Jun. de 2012 24ª / 360 Segundo trámite constitucional / Senado Discusión general Ver
+12 de Jun. de 2012   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+13 de Jun. de 2012 42ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 150-360 que hace presente la urgencia Discusión inmediata
+13 de Jun. de 2012 42ª / 360 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+13 de Jun. de 2012 42ª / 360 Tercer trámite constitucional / C. Diputados Discusión única Ver
+13 de Jun. de 2012   Tercer trámite constitucional / C. Diputados Oficio N° 10.224, que comunica aprobacion de modificaciones Ver
+13 de Jun. de 2012   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+19 de Jun. de 2012 27ª / 360 Tercer trámite constitucional / C. Diputados Cuenta oficio N° 10.224, que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8337-05","Fecha Etapa Informe Documento
+12 de Jun. de 2012 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+05 de Jun. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8337-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+13 de Jun. de 2012   Discusión inmediata 150-360  
+05 de Jun. de 2012   Discusión inmediata 132-360  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8337-05","Nombre Región Distrito Partido
+Ministerio de Desarrollo Social      
+Ministerio de Hacienda      
+Ministerio de Trabajo y Previsión Social      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8337-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+38   106 0 0 14 Aprobado Sala Ver detalle votación
+42 Modificaciones introducidas por el Senado. 51 0 0 69 Aprobado Sala Ver detalle votación
+183 Votación General 11 0 2 0   Hacienda Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8337-05","No record","Veto emmEnd"

@@ -1,0 +1,66 @@
+* * Bill summary * *
+"emmStart Summary 2578-01","Legislatura: 342
+Fecha de ingreso: jueves 31 de agosto de 2000
+Estado: Tramitación terminada (Ley Nº 19.713 - D.Oficial 25/01/2001)
+Numero de boletín: 2578-01
+Materia: Pesca Industrial
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 06:33:23
+* * Hitos de tramitación * *
+"emmStart Hitos 2578-01","Fecha Sesión Etapa Sub-etapa Documento
+31 de Ago. de 2000   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+31 de Ago. de 2000 32ª / 342 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Agricultura, Silvicultura y Pesca Ver
+07 de Nov. de 2000   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+14 de Nov. de 2000   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+15 de Nov. de 2000 17ª / 343 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+15 de Nov. de 2000 17ª / 343 Primer trámite constitucional / C. Diputados Oficio de S.E. el Pdte. de la República, retira el proyecto de la legislatura (Mensaje 133-343) Ver
+28 de Nov. de 2000 18ª / 343 Primer trámite constitucional / C. Diputados Oficio de S.E. el Pdte. de la República, incluye el proyecto en la legislatura (Mensaje 147-343) Ver
+05 de Dic. de 2000 22ª / 343 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+05 de Dic. de 2000 23ª / 343 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+05 de Dic. de 2000   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+12 de Dic. de 2000 16ª / 343 Segundo trámite constitucional / Senado Cuenta del Mensaje 180-343 que retira y hace presente la urgencia simple
+12 de Dic. de 2000 16ª / 343 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Intereses Marítimos, Pesca y Acuicultura
+03 de Ene. de 2001 20ª / 343 Segundo trámite constitucional / Senado Cuenta del Mensaje 213-343 que retira y hace presente la urgencia Suma
+05 de Ene. de 2001   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+05 de Ene. de 2001   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+09 de Ene. de 2001 21ª / 343 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+09 de Ene. de 2001 21ª / 343 Segundo trámite constitucional / Senado Discusión general Ver
+10 de Ene. de 2001   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+10 de Ene. de 2001 22ª / 343 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+10 de Ene. de 2001 22ª / 343 Segundo trámite constitucional / Senado Discusión particular Ver
+11 de Ene. de 2001   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+16 de Ene. de 2001 34ª / 343 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora. Pasa a Comisión de Agricultura, Silvicultura y Pesca Ver
+17 de Ene. de 2001   Tercer trámite constitucional / C. Diputados Informe de comisión Ver
+17 de Ene. de 2001 37ª / 343 Tercer trámite constitucional / C. Diputados Cuenta informe de comisión Ver
+17 de Ene. de 2001 37ª / 343 Tercer trámite constitucional / C. Diputados Discusión única Ver
+17 de Ene. de 2001   Tercer trámite constitucional / C. Diputados Oficio Nº 3203, que comunica aprobación de modificaciones Ver
+17 de Ene. de 2001   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+23 de Ene. de 2001 25ª / 343 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 3203, que comunica aprobación de modificaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2578-01","Fecha Etapa Informe Documento
+17 de Ene. de 2001 Tercer trámite constitucional C.Diputados Informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+10 de Ene. de 2001 Segundo trámite constitucional Senado Segundo informe de comisión de Medio Ambiente y Bienes Nacionales y de Intereses Marítimos, Pesca y Acuicultura, unidas Ver
+05 de Ene. de 2001 Segundo trámite constitucional Senado Primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver
+05 de Ene. de 2001 Segundo trámite constitucional Senado Primer informe de comisión de Medio Ambiente y Bienes Nacionales Ver
+14 de Nov. de 2000 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+07 de Nov. de 2000 Primer trámite constitucional C.Diputados Primer informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2578-01","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+03 de Ene. de 2001   Suma 213-343  
+12 de Dic. de 2000 03 de Ene. de 2001 Simple 180-343 213-343
+05 de Dic. de 2000 12 de Dic. de 2000 Discusión inmediata 167-343 180-343
+14 de Nov. de 2000 15 de Nov. de 2000 Suma 120-343 132-343
+05 de Sep. de 2000   Simple 196-342  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2578-01","Nombre Región Distrito Partido
+Ministerio de Agricultura      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2578-01","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2578-01","No record","Veto emmEnd"

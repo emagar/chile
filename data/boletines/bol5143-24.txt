@@ -1,0 +1,65 @@
+* * Bill summary * *
+"emmStart Summary 5143-24","Legislatura: 355
+Fecha de ingreso: martes 19 de junio de 2007
+Estado: Tramitación terminada (Ley Nº 20.243 - D.Oficial 05/02/2008)
+Numero de boletín: 5143-24
+Materia: Ejecución Artística,Materiales Audiovisuales ,Etica Profesional,Etica De Las Representaciones
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 01:09:22
+* * Hitos de tramitación * *
+"emmStart Hitos 5143-24","Fecha Sesión Etapa Sub-etapa Documento
+19 de Jun. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+19 de Jun. de 2007 38ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión Especial de la Cultura y las Artes Ver
+04 de Jul. de 2007 45ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 392-355 que hace presente la urgencia Simple Ver
+07 de Ago. de 2007 60ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 531-355 que retira y hace presente la urgencia Simple Ver
+05 de Sep. de 2007 73ª / 355 Primer trámite constitucional / C. Diputados Comisión Especial de la Cultura y las Artes solicita sesionar simultáneamente con la Sala el martes 11 de septiembre, de 11,15 a 12,15 horas. ACORDADO. Ver
+11 de Sep. de 2007 76ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 692-355 que retira y hace presente la urgencia Simple Ver
+11 de Sep. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Oct. de 2007 79ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+02 de Oct. de 2007 79ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 725-355 que retira la urgencia Simple Ver
+02 de Oct. de 2007 79ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 735-355 que hace presente la urgencia Simple Ver
+04 de Oct. de 2007 83ª / 355 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+04 de Oct. de 2007   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+09 de Oct. de 2007 56ª / 355 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología Ver
+09 de Oct. de 2007 56ª / 355 Segundo trámite constitucional / Senado Cuenta del Mensaje 819-355 que retira la urgencia Simple
+02 de Nov. de 2007   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+06 de Nov. de 2007 62ª / 355 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+07 de Nov. de 2007 63ª / 355 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 20/11/2007 Ver
+20 de Nov. de 2007   Segundo trámite constitucional / Senado Boletín de indicaciones
+04 de Dic. de 2007 72ª / 355 Segundo trámite constitucional / Senado Se acuerda abrir nuevo plazo de indicacionesw hasta las 9 horas del miércoles 05/12/2007, que deberán entregarse aen la Secretaría de la Comisión.
+11 de Dic. de 2007   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+12 de Dic. de 2007 75ª / 355 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+18 de Dic. de 2007 76ª / 355 Segundo trámite constitucional / Senado Discusión particular Ver
+18 de Dic. de 2007   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+19 de Dic. de 2007 119ª / 355 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+20 de Dic. de 2007 121ª / 355 Tercer trámite constitucional / C. Diputados Discusión única Ver
+20 de Dic. de 2007   Tercer trámite constitucional / C. Diputados Oficio Nº 7198, que comunica aprobación de modificaciones Ver
+20 de Dic. de 2007   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+02 de Ene. de 2008 78ª / 355 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 7198, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5143-24","Fecha Etapa Informe Documento
+11 de Dic. de 2007 Segundo trámite constitucional Senado Segundo informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+02 de Nov. de 2007 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+11 de Sep. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de la Cultura y las Artes Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5143-24","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+02 de Oct. de 2007 09 de Oct. de 2007 Simple 735-355 819-355
+07 de Ago. de 2007 11 de Sep. de 2007 Simple 531-355 692-355
+04 de Jul. de 2007 07 de Ago. de 2007 Simple 392-355 531-355","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5143-24","Nombre Región Distrito Partido
+Ministerio de Educación      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5143-24","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+121 Modificaciones introducidas en el Senado. 85 0 0 35 Aprobado Sala Ver detalle votación
+83   73 0 0 47 Aprobado Sala Ver detalle votación
+83 3°, inciso final, del texto propuesto por la Comisión. 44 0 28 48 Aprobado Sala Ver detalle votación
+25 Votación General 5 0 0 8   Cultura (E) Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5143-24","No record","Veto emmEnd"

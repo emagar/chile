@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 977-01","Legislatura: 325
+Fecha de ingreso: jueves 06 de mayo de 1993
+Estado: Tramitación terminada (Ley Nº 19.384 - D.Oficial 13/05/1995)
+Numero de boletín: 977-01
+Materia: Recurso Pesquero Bentónico
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 01:29:04
+* * Hitos de tramitación * *
+"emmStart Hitos 977-01","Fecha Sesión Etapa Sub-etapa Documento
+06 de May. de 1993   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de May. de 1993 71ª / 325 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión Unida de Agricultura y Recursos Naturales Ver
+19 de Oct. de 1994   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+19 de Oct. de 1994   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+20 de Oct. de 1994 8ª / 330 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+17 de Ene. de 1995 38ª / 330 Primer trámite constitucional / C. Diputados Discusión general Ver
+18 de Ene. de 1995   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+19 de Ene. de 1995 39ª / 330 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Intereses Marítimos, Pesca y Acuicultura
+14 de Mar. de 1995   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+15 de Mar. de 1995 44ª / 330 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+21 de Mar. de 1995 46ª / 330 Segundo trámite constitucional / Senado Discusión general Ver
+12 de Abr. de 1995   Segundo trámite constitucional / Senado Nuevo primer informe de comisión Ver
+12 de Abr. de 1995 52ª / 330 Segundo trámite constitucional / Senado Cuenta nuevo primer informe
+19 de Abr. de 1995 55ª / 330 Segundo trámite constitucional / Senado Discusión general Ver
+21 de Abr. de 1995   Tramitación terminada / Oficio Nº8520. comunica aprobación sin modificaciones a Cámara de origen Ver
+21 de Abr. de 1995   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+24 de Abr. de 1995   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+02 de May. de 1995 63ª / 330 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 977-01","Fecha Etapa Informe Documento
+12 de Abr. de 1995 Segundo trámite constitucional Senado Nuevo primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver
+14 de Mar. de 1995 Segundo trámite constitucional Senado Primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver
+19 de Oct. de 1994 Primer trámite constitucional C.Diputados Primer informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+19 de Oct. de 1994 Primer trámite constitucional C.Diputados Primer informe de comisión Unida de Agricultura y Recursos Naturales Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 977-01","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 977-01","Nombre Región Distrito Partido
+Claudio Huepe García Región N° Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 977-01","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 977-01","No record","Veto emmEnd"

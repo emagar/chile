@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 681-13","Legislatura: 323
+Fecha de ingreso: jueves 07 de mayo de 1992
+Estado: Tramitación terminada (Ley Nº 19.142 - D.Oficial 29/05/1992)
+Numero de boletín: 681-13
+Materia: Salario Mínimo
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 21:32:53
+* * Hitos de tramitación * *
+"emmStart Hitos 681-13","Fecha Sesión Etapa Sub-etapa Documento
+07 de May. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+07 de May. de 1992 72ª / 323 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+13 de May. de 1992 59ª / 323 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social y a Comisión de Hacienda
+19 de May. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+19 de May. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+20 de May. de 1992 61ª / 323 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+20 de May. de 1992 61ª / 323 Segundo trámite constitucional / Senado Discusión general Ver
+20 de May. de 1992   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 681-13","Fecha Etapa Informe Documento
+19 de May. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+19 de May. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 681-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+07 de May. de 1992   Suma    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 681-13","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 681-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 681-13","No record","Veto emmEnd"

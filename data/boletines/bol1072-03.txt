@@ -1,0 +1,51 @@
+* * Bill summary * *
+"emmStart Summary 1072-03","Legislatura: 326
+Fecha de ingreso: martes 17 de agosto de 1993
+Estado: Tramitación terminada (Ley Nº 19.520 - D.Oficial 03/10/1997)
+Numero de boletín: 1072-03
+Materia: Acuicultura,Recursos Hidrobiológicos
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 02:41:35
+* * Hitos de tramitación * *
+"emmStart Hitos 1072-03","Fecha Sesión Etapa Sub-etapa Documento
+17 de Ago. de 1993   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+17 de Ago. de 1993 18ª / 326 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Intereses Marítimos, Pesca y Acuicultura
+02 de Ago. de 1995 23ª / 331 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+02 de Ago. de 1995 23ª / 331 Primer trámite constitucional / Senado Primer informe de comisión Ver
+17 de Oct. de 1995 6ª / 332 Primer trámite constitucional / Senado Discusión general Ver
+17 de Oct. de 1995   Primer trámite constitucional / Senado Boletín de indicaciones
+22 de Nov. de 1995 16ª / 332 Primer trámite constitucional / Senado Segundo informe de comisión Ver
+22 de Nov. de 1995 16ª / 332 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+06 de Dic. de 1995 22ª / 332 Primer trámite constitucional / Senado Discusión particular Ver
+12 de Dic. de 1995   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+13 de Dic. de 1995 35ª / 332 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+15 de Abr. de 1997   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+16 de Abr. de 1997 61ª / 334 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+06 de May. de 1997 66ª / 334 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+06 de May. de 1997   Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver
+26 de Ago. de 1997 1ª / 344 Trámite en Tribunal Constitucional / Senado Oficio al Tribunal Constitucional Ver
+03 de Sep. de 1997   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+03 de Sep. de 1997 1ª / 344 Trámite en Tribunal Constitucional / Senado Oficio de ley al Ejecutivo
+20 de Ene. de 1998 30ª / 336 Trámite en Tribunal Constitucional / Senado Cuenta fallo del Tribunal Constitucional
+    Trámite en Tribunal Constitucional / Senado Ingreso fallo del Tribunal Constitucional
+    Trámite de aprobacion presidencial / Senado Ingreso de observaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1072-03","Fecha Etapa Informe Documento
+15 de Abr. de 1997 Segundo trámite constitucional C.Diputados Primer informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+22 de Nov. de 1995 Primer trámite constitucional Senado Segundo informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver
+02 de Ago. de 1995 Primer trámite constitucional Senado Primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1072-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1072-03","Nombre
+Ronald McIntyre Mendoza","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1072-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1072-03","No record","Veto emmEnd"

@@ -1,0 +1,59 @@
+* * Bill summary * *
+"emmStart Summary 8330-15","Legislatura: 360
+Fecha de ingreso: martes 05 de junio de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8330-15
+Materia: Navegación De Cabotaje,Impuesto A La Renta,Naves Mercantes Extranjeras,Fomento A La Marina Mercante,Naves Mercantes Chilenas,Marina Mercante
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 00:12:50
+* * Hitos de tramitación * *
+"emmStart Hitos 8330-15","Fecha Sesión Etapa Sub-etapa Documento
+05 de Jun. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+05 de Jun. de 2012 36ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones y a Comisión de Hacienda Ver
+08 de Ago. de 2012 68ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 239-360 que hace presente la urgencia Simple Ver
+06 de Sep. de 2012 77ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 283-360 que hace presente la urgencia Simple Ver
+04 de Oct. de 2012 85ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 308-360 que hace presente la urgencia Simple Ver
+31 de Oct. de 2012 94ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 335-360 que hace presente la urgencia Simple Ver
+28 de Nov. de 2012 108ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 381-360 que hace presente la urgencia Simple Ver
+19 de Dic. de 2012 116ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 408-360 que hace presente la urgencia Suma Ver
+03 de Ene. de 2013 120ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 425-360 que hace presente la urgencia Suma Ver
+17 de Ene. de 2013 129ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 453-360 que hace presente la urgencia Suma Ver
+17 de Ene. de 2013 129ª / 360 Primer trámite constitucional / C. Diputados La Sala acuerda, remitir el proyecto a la Comisión de Pesca, Acuicultura e Intereses Marítimos, una vez informado por la Comisión de Transportes y Telecomunicaciones. (Oficios 10.576 y 10.577 del 17.1.13 a los Presidentes de las Comisiones de Transportes y Pesca, respectivamente, comunican acuerdo) Ver
+05 de Mar. de 2013 133ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 463-360 que retira la urgencia Suma Ver
+05 de Mar. de 2013 133ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 465-360 que hace presente la urgencia Suma Ver
+20 de Mar. de 2013 5ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 22-361 que hace presente la urgencia Suma Ver
+04 de Abr. de 2013 10ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 44-361 que hace presente la urgencia Suma Ver
+18 de Abr. de 2013 18ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 67-361 que hace presente la urgencia Suma Ver
+18 de Jun. de 2013 39ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 145-361 que hace presente la urgencia Suma Ver
+03 de Jul. de 2013 43ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 169-361 que retira la urgencia Suma Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8330-15","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8330-15","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+18 de Jun. de 2013 03 de Jul. de 2013 Suma 145-361 169-361
+18 de Abr. de 2013   Suma 67-361  
+04 de Abr. de 2013   Suma 44-361  
+20 de Mar. de 2013   Suma 22-361  
+05 de Mar. de 2013   Suma 465-360  
+17 de Ene. de 2013 05 de Mar. de 2013 Suma 453-360 463-360
+03 de Ene. de 2013   Suma 425-360  
+19 de Dic. de 2012   Suma 408-360  
+28 de Nov. de 2012   Simple 381-360  
+31 de Oct. de 2012   Simple 335-360  
+04 de Oct. de 2012   Simple 308-360  
+06 de Sep. de 2012   Simple 283-360  
+08 de Ago. de 2012   Simple 239-360  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8330-15","Nombre Región Distrito Partido
+Ministerio de Economía, Fomento y Turism      
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8330-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8330-15","No record","Veto emmEnd"

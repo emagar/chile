@@ -1,0 +1,50 @@
+* * Bill summary * *
+"emmStart Summary 4618-06","Legislatura: 354
+Fecha de ingreso: miércoles 18 de octubre de 2006
+Estado: Segundo trámite constitucional .
+Numero de boletín: 4618-06
+Materia: Correo Electrónico,Administración Pública,Procedimiento Administrativo
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 03:54:46
+* * Hitos de tramitación * *
+"emmStart Hitos 4618-06","Fecha Sesión Etapa Sub-etapa Documento
+18 de Oct. de 2006 88ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+18 de Oct. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+17 de Jul. de 2013 48ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 195-361 que hace presente la urgencia Simple Ver
+02 de Ago. de 2013   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Ago. de 2013 53ª / 361 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de Ago. de 2013 58ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 220-361 que hace presente la urgencia Suma Ver
+29 de Ago. de 2013 65ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 248-361 que hace presente la urgencia Suma Ver
+29 de Ago. de 2013 65ª / 361 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general y particular a la vez Ver
+29 de Ago. de 2013   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+03 de Sep. de 2013 51ª / 361 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4618-06","Fecha Etapa Informe Documento
+02 de Ago. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4618-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+29 de Ago. de 2013   Suma 248-361  
+13 de Ago. de 2013   Suma 220-361  
+17 de Jul. de 2013   Simple 195-361  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4618-06","Nombre Región Distrito Partido
+Ramón Barros Montero VI Región del Libertador Bernardo O' Higgins N°35 Unión Demócrata Independiente
+Eugenio Bauer Jouanne VI Región del Libertador Bernardo O' Higgins N°33 Unión Demócrata Independiente
+Sergio Bobadilla Muñoz VIII Región del Bío Bío N°45 Unión Demócrata Independiente
+Sergio Correa De la Cerda VII Región del Maule N°36 Unión Demócrata Independiente
+Andrés Egaña Respaldiza VIII Región del Bío Bío N°44 Unión Demócrata Independiente
+Edmundo Eluchans Urenda V Región de Valparaíso N°15 Unión Demócrata Independiente
+Enrique Estay Peñaloza IX Región de la Araucanía N°49 Unión Demócrata Independiente
+Iván Moreira Barros RM Región Metropolitana N°27 Unión Demócrata Independiente
+Iván Norambuena Farías VIII Región del Bío Bío N°46 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4618-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+65   37 0 7 76 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4618-06","No record","Veto emmEnd"

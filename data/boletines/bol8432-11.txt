@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 8432-11","Legislatura: 360
+Fecha de ingreso: martes 10 de julio de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8432-11
+Materia: Uso De Licencias Médicas,Aumento De Penas Y Otras Sanciones
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 01:28:11
+* * Hitos de tramitación * *
+"emmStart Hitos 8432-11","Fecha Sesión Etapa Sub-etapa Documento
+10 de Jul. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Jul. de 2012 52ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8432-11","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8432-11","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8432-11","Nombre Región Distrito Partido
+Pedro Pablo Alvarez-Salamanca Ramírez VII Región del Maule N°38 Unión Demócrata Independiente
+Enrique Estay Peñaloza IX Región de la Araucanía N°49 Unión Demócrata Independiente
+Romilio Gutiérrez Pino VII Región del Maule N°39 Unión Demócrata Independiente
+Gustavo Hasbún Selume RM Región Metropolitana N°26 Unión Demócrata Independiente
+Issa Farid Kort Garriga VI Región del Libertador Bernardo O' Higgins N°32 Unión Demócrata Independiente
+Andrea Molina Oliva V Región de Valparaíso N°10 Unión Demócrata Independiente
+Carlos Recondo Lavanderos X Región de los Lagos N°56 Unión Demócrata Independiente
+Marisol Turres Figueroa X Región de los Lagos N°57 Unión Demócrata Independiente
+Enrique Van Rysselberghe Herrera VIII Región del Bío Bío N°44 Unión Demócrata Independiente
+Mónica Zalaquett Said RM Región Metropolitana N°20 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8432-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8432-11","No record","Veto emmEnd"

@@ -1,0 +1,61 @@
+* * Bill summary * *
+"emmStart Summary 5668-17","Legislatura: 355
+Fecha de ingreso: lunes 07 de enero de 2008
+Estado: Tramitación terminada (Ley Nº 20.311 - D.Oficial 05/01/2009)
+Numero de boletín: 5668-17
+Materia: Nacionalización
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 12:50:58
+* * Hitos de tramitación * *
+"emmStart Hitos 5668-17","Fecha Sesión Etapa Sub-etapa Documento
+03 de Ene. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Ene. de 2008 123ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+10 de Jun. de 2008 36ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 353-356 que hace presente la urgencia Simple Ver
+14 de Jul. de 2008 52ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 519-356 que retira y hace presente la urgencia Simple Ver
+30 de Jul. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Ago. de 2008 57ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+19 de Ago. de 2008 65ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 665-356 que retira y hace presente la urgencia Simple Ver
+20 de Ago. de 2008 67ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+20 de Ago. de 2008   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+02 de Sep. de 2008 47ª / 356 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+07 de Oct. de 2008 57ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 876-356 que retira y hace presente la urgencia Simple
+11 de Nov. de 2008 67ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 1020-356 que retira y hace presente la urgencia Simple
+12 de Nov. de 2008   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+12 de Nov. de 2008 68ª / 356 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+18 de Nov. de 2008 69ª / 356 Segundo trámite constitucional / Senado Discusión general Ver
+18 de Nov. de 2008   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+19 de Nov. de 2008 105ª / 356 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver Ver
+19 de Nov. de 2008   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5668-17","Fecha Etapa Informe Documento
+12 de Nov. de 2008 Segundo trámite constitucional Senado Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+30 de Jul. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5668-17","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+11 de Nov. de 2008   Simple 1020-356  
+07 de Oct. de 2008 10 de Nov. de 2008 Simple 876-356 1020-356
+19 de Ago. de 2008 03 de Oct. de 2008 Simple 665-356 876-356
+14 de Jul. de 2008 19 de Ago. de 2008 Simple 519-356 665-356
+10 de Jun. de 2008 14 de Jul. de 2008 Simple 353-356 519-356","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5668-17","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Rodrigo Alvarez Zenteno XII Región de Magallanes y de la Antártica Chilena N°60 Unión Demócrata Independiente
+Guillermo Ceroni Fuentes VII Región del Maule N°40 Partido Por la Democracia
+Maximiano Errázuriz Eguiguren RM Región Metropolitana N°29 Independientes
+Marcelo Forni Lobos V Región de Valparaíso N°11 Unión Demócrata Independiente
+Nicolás Monckeberg Díaz VIII Región del Bío Bío N°42 Renovación Nacional
+Jorge Sabag Villalobos VIII Región del Bío Bío N°42 Partido Demócrata Cristiano
+Eduardo Saffirio Suárez IX Región de la Araucanía N°50 Partido Demócrata Cristiano
+Samuel Venegas Rubio V Región de Valparaíso N°15 Independientes","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5668-17","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+67   66 0 3 51 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5668-17","No record","Veto emmEnd"

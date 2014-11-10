@@ -1,0 +1,28 @@
+* * Bill summary * *
+"emmStart Summary 8266-12","Legislatura: 360
+Fecha de ingreso: miércoles 02 de mayo de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8266-12
+Materia: Manejo De Especies De Fauna Silvestre
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 09-11-2014 23:26:39
+* * Hitos de tramitación * *
+"emmStart Hitos 8266-12","Fecha Sesión Etapa Sub-etapa Documento
+02 de May. de 2012   Primer trámite constitucional / Senado Ingreso de proyecto Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8266-12","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8266-12","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8266-12","Nombre
+Antonio Horvath Kiss","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8266-12","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8266-12","No record","Veto emmEnd"

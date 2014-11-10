@@ -1,0 +1,39 @@
+* * Bill summary * *
+"emmStart Summary 699-13","Legislatura: 323
+Fecha de ingreso: jueves 21 de mayo de 1992
+Estado: Tramitación terminada (Ley Nº 19.152 - D.Oficial 15/07/1992)
+Numero de boletín: 699-13
+Materia: Reajustes
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 21:47:14
+* * Hitos de tramitación * *
+"emmStart Hitos 699-13","Fecha Sesión Etapa Sub-etapa Documento
+21 de May. de 1992 1ª / 324 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+21 de May. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+09 de Jun. de 1992 3ª / 324 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social y a Comisión de Hacienda
+12 de Jun. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+16 de Jun. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+16 de Jun. de 1992 5ª / 324 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+16 de Jun. de 1992 5ª / 324 Segundo trámite constitucional / Senado Se acuerda retirarlo de la Tabla de esta sesión, ante el anuncio del Ejecutivo que enviará indicaciones al proyecto.
+02 de Jul. de 1992 7ª / 324 Segundo trámite constitucional / Senado Discusión general Ver
+06 de Jul. de 1992   Segundo trámite constitucional / Senado oficio a la Cámara comunicando aprobación con modificaciones que indica
+06 de Jul. de 1992   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+09 de Jul. de 1992 9ª / 324 Tramitación terminada / Cuenta oficio Nº 818, de la Cámara, comunicando aprobación de modificaciones propuestas por el Senado","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 699-13","Fecha Etapa Informe Documento
+16 de Jun. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+12 de Jun. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 699-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 699-13","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 699-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 699-13","No record","Veto emmEnd"

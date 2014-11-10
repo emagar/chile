@@ -1,0 +1,56 @@
+* * Bill summary * *
+"emmStart Summary 3818-11","Legislatura: 352
+Fecha de ingreso: miércoles 23 de marzo de 2005
+Estado: Segundo trámite constitucional .
+Numero de boletín: 3818-11
+Materia: Alimentos Transgénicos,Alimentos,Rotulación De Alimentos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 17:47:45
+* * Hitos de tramitación * *
+"emmStart Hitos 3818-11","Fecha Sesión Etapa Sub-etapa Documento
+23 de Mar. de 2005   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+23 de Mar. de 2005 56ª / 352 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver
+14 de Jun. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+20 de Jun. de 2006 39ª / 354 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+20 de Jun. de 2006 39ª / 354 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+20 de Jun. de 2006 39ª / 354 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+20 de Jun. de 2006   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+21 de Jun. de 2006 27ª / 354 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Salud
+21 de Jun. de 2006 27ª / 354 Segundo trámite constitucional / Senado Por acuerdo de la Sala, este proyecto, además de la Comisión de Salud, lo analizarán las Comisiones de Medio Ambiente y Bienes Nacionales y de Agricultura.
+13 de Nov. de 2006   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Medio Ambiente y Bienes Nacionales Ver
+04 de May. de 2011 15ª / 359 Segundo trámite constitucional / Senado La Sala, a petición del Senador señor Horvath, exime a la Comisión de Agricultura del conocimiento de esta iniciativa, de manera que se discutirán en general en la Sala los informes de las Comisiones de Salud y de Medio Ambiente y Bienes Nacionales.
+10 de May. de 2011   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+10 de May. de 2011 16ª / 359 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+01 de Jun. de 2011 22ª / 359 Segundo trámite constitucional / Senado El Comité Partido Unión Demócrata Independiente solicitó segunda discusión respecto de este proyecto. Se continuará dicha discusión en sesión próxima. Ver
+07 de Jun. de 2011 23ª / 359 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 11/07/2011 Ver
+11 de Jul. de 2011   Segundo trámite constitucional / Senado Boletín de indicaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3818-11","Fecha Etapa Informe Documento
+10 de May. de 2011 Segundo trámite constitucional Senado Primer informe de comisión de Medio Ambiente y Bienes Nacionales Ver
+13 de Nov. de 2006 Segundo trámite constitucional Senado Primer informe de comisión de Salud Ver
+14 de Jun. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Salud Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3818-11","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3818-11","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Pedro Pablo Alvarez-Salamanca Büchi VII Región del Maule N°38 Renovación Nacional
+Ramón Barros Montero VI Región del Libertador Bernardo O' Higgins N°35 Unión Demócrata Independiente
+Guillermo Ceroni Fuentes VII Región del Maule N°40 Partido Por la Democracia
+Sergio Correa De la Cerda VII Región del Maule N°36 Unión Demócrata Independiente
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Juan Pablo Letelier Morel VI Región del Libertador Bernardo O' Higgins N°33 Partido Socialista
+Juan Masferrer Pellizzari VI Región del Libertador Bernardo O' Higgins N°34 Unión Demócrata Independiente
+Fulvio Rossi Ciocca I Región de Tarapacá N°2 Independientes
+Exequiel Silva Ortíz X Región de los Lagos N°53 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3818-11","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+39   96 1 1 1 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3818-11","No record","Veto emmEnd"

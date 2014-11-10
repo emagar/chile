@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 140-10","Legislatura: 320
+Fecha de ingreso: martes 04 de septiembre de 1990
+Estado: Tramitación terminada (D.S. Nº 425 - D.Oficial 30/09/1991)
+Numero de boletín: 140-10
+Materia: Propiedad Industrial
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 05:49:37
+* * Hitos de tramitación * *
+"emmStart Hitos 140-10","Fecha Sesión Etapa Sub-etapa Documento
+04 de Sep. de 1990   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+05 de Sep. de 1990 30ª / 320 Primer trámite constitucional / Senado Cuenta de proyecto
+27 de Nov. de 1990 16ª / 321 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+27 de Nov. de 1990 16ª / 321 Primer trámite constitucional / Senado Primer informe de comisión Ver
+28 de Nov. de 1990 18ª / 321 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+28 de Nov. de 1990 18ª / 321 Primer trámite constitucional / Senado Discusión general Ver
+04 de Dic. de 1990 17ª / 321 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+23 de Ene. de 1991   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+24 de Ene. de 1991 33ª / 321 Segundo trámite constitucional / C. Diputados Discusión general Ver
+24 de Ene. de 1991 33ª / 321 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+24 de Ene. de 1991   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen
+05 de Mar. de 1991   Trámite de aprobacion presidencial / Senado Ingreso de observaciones
+05 de Mar. de 1991 36ª / 321 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 140-10","Fecha Etapa Informe Documento
+23 de Ene. de 1991 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+27 de Nov. de 1990 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 140-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 140-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 140-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 140-10","No record","Veto emmEnd"

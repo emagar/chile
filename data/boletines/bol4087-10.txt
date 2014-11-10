@@ -1,0 +1,63 @@
+* * Bill summary * *
+"emmStart Summary 4087-10","Legislatura: 353
+Fecha de ingreso: martes 24 de enero de 2006
+Estado: Segundo trámite constitucional .
+Numero de boletín: 4087-10
+Materia: Protocolo De San Salvador,Convención Americana Sobre Derechos Humanos (1969)
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 18:38:01
+* * Hitos de tramitación * *
+"emmStart Hitos 4087-10","Fecha Sesión Etapa Sub-etapa Documento
+24 de Ene. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+24 de Ene. de 2006 71ª / 353 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+07 de Mar. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+14 de Mar. de 2006 1ª / 354 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+15 de Mar. de 2006 3ª / 354 Primer trámite constitucional / C. Diputados Discusión única Ver
+15 de Mar. de 2006   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+21 de Mar. de 2006 3ª / 354 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+02 de Sep. de 2008 47ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 742-356 que hace presente la urgencia Simple
+07 de Oct. de 2008 57ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 866-356 que retira y hace presente la urgencia Simple
+11 de Nov. de 2008 67ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 1021-356 que retira y hace presente la urgencia Simple
+16 de Dic. de 2008 79ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 1226-356 que retira y hace presente la urgencia Simple
+23 de Dic. de 2008 81ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 1250-356 que retira la urgencia Simple
+07 de Ene. de 2009 83ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 1303-356 que hace presente la urgencia Suma
+20 de Ene. de 2009 87ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 1398-356 que retira y hace presente la urgencia Suma
+30 de Ene. de 2009 90ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 1432-356 que retira la urgencia Suma
+29 de Sep. de 2009 52ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1203-357 que hace presente la urgencia Suma
+29 de Sep. de 2009 52ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1203-357 que hace presente la urgencia Suma
+13 de Oct. de 2009 57ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1313-357 que retira y hace presente la urgencia Suma
+27 de Oct. de 2009 59ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1395-357 que retira y hace presente la urgencia Simple
+17 de Nov. de 2009 69ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1595-357 que retira la urgencia Simple
+15 de Dic. de 2009 75ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1683-357 que hace presente la urgencia Simple
+19 de Ene. de 2010 83ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1851-357 que retira y hace presente la urgencia Simple
+09 de Mar. de 2010 86ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1933-357 que retira la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4087-10","Fecha Etapa Informe Documento
+07 de Mar. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4087-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+19 de Ene. de 2010 09 de Mar. de 2010 Simple 1851-357 1933-357
+15 de Dic. de 2009 18 de Ene. de 2010 Simple 1683-357 1851-357
+27 de Oct. de 2009 17 de Nov. de 2009 Simple 1395-357 1595-357
+13 de Oct. de 2009 27 de Oct. de 2009 Suma 1313-357 1395-357
+29 de Sep. de 2009 13 de Oct. de 2009 Suma 1203-357 1313-357
+20 de Ene. de 2009 29 de Ene. de 2009 Suma 1398-356 1432-356
+07 de Ene. de 2009 16 de Ene. de 2009 Suma 1303-356 1398-356
+16 de Dic. de 2008 23 de Dic. de 2008 Simple 1226-356 1250-356
+11 de Nov. de 2008 15 de Dic. de 2008 Simple 1021-356 1226-356
+07 de Oct. de 2008 10 de Nov. de 2008 Simple 866-356 1021-356
+02 de Sep. de 2008 03 de Oct. de 2008 Simple 742-356 866-356","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4087-10","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4087-10","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+3   64 40 4 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4087-10","No record","Veto emmEnd"

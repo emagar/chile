@@ -1,0 +1,35 @@
+* * Bill summary * *
+"emmStart Summary 8554-07","Legislatura: 360
+Fecha de ingreso: jueves 30 de agosto de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8554-07
+Materia: Constitucion 1980,Acusación Constitucional
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 02:58:10
+* * Hitos de tramitación * *
+"emmStart Hitos 8554-07","Fecha Sesión Etapa Sub-etapa Documento
+30 de Ago. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+30 de Ago. de 2012 74ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8554-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8554-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8554-07","Nombre Región Distrito Partido
+Gabriel Ascencio Mansilla X Región de los Lagos N°58 Partido Demócrata Cristiano
+Aldo Cornejo González V Región de Valparaíso N°13 Partido Demócrata Cristiano
+Sergio Ojeda Uribe X Región de los Lagos N°55 Partido Demócrata Cristiano
+Ricardo Rincón González VI Región del Libertador Bernardo O' Higgins N°33 Partido Demócrata Cristiano
+René Saffirio Espinoza IX Región de la Araucanía N°50 Partido Demócrata Cristiano
+Gabriel Silber Romo RM Región Metropolitana N°16 Partido Demócrata Cristiano
+Mario Venegas Cárdenas IX Región de la Araucanía N°48 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8554-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8554-07","No record","Veto emmEnd"

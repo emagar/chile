@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 2641-07","Legislatura: 343
+Fecha de ingreso: martes 12 de diciembre de 2000
+Estado: Tramitación terminada (Ley Nº 19.708 - D.Oficial 05/01/2001)
+Numero de boletín: 2641-07
+Materia: Código Orgánico De Tribunales,Código Procesal Penal
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 03-11-2014 07:17:30
+* * Hitos de tramitación * *
+"emmStart Hitos 2641-07","Fecha Sesión Etapa Sub-etapa Documento
+12 de Dic. de 2000   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+12 de Dic. de 2000 16ª / 343 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+12 de Dic. de 2000   Primer trámite constitucional / Senado Primer informe de comisión. Informe Verbal Ver
+12 de Dic. de 2000 16ª / 343 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Dic. de 2000 16ª / 343 Primer trámite constitucional / Senado Discusión general Ver
+12 de Dic. de 2000   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+12 de Dic. de 2000 25ª / 343 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia
+13 de Dic. de 2000   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+13 de Dic. de 2000 26ª / 343 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+13 de Dic. de 2000   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+13 de Dic. de 2000   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo. oficio de consulta para ejercer facultad de veto Ver
+13 de Dic. de 2000   Discusión veto en Cámara de Origen / Senado Cuenta del oficio 19-343 del Ejecutivo, con el que expresa que no hará uso de la facultad del art. 70 de la Cosntitución. Ver
+14 de Dic. de 2000 18ª / 343 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+20 de Dic. de 2000 29ª / 343 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión. Se da cuenta después de aprobación, a petición de la sala. Ver
+03 de Ene. de 2001 20ª / 343 Trámite en Tribunal Constitucional / Senado Cuenta fallo del Tribunal Constitucional
+03 de Ene. de 2001   Trámite en Tribunal Constitucional / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2641-07","Fecha Etapa Informe Documento
+13 de Dic. de 2000 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+12 de Dic. de 2000 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2641-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+12 de Dic. de 2000   Discusión inmediata 185-343  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2641-07","Nombre
+Ministerio de Hacienda
+Ministerio de Justicia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2641-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2641-07","No record","Veto emmEnd"

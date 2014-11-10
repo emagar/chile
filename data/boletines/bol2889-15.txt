@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 2889-15","Legislatura: 345
+Fecha de ingreso: miércoles 23 de enero de 2002
+Estado: Tramitación terminada (Ley Nº 19.791 - D.Oficial 06/02/2002)
+Numero de boletín: 2889-15
+Materia: Amnistia
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 03-11-2014 17:45:22
+* * Hitos de tramitación * *
+"emmStart Hitos 2889-15","Fecha Sesión Etapa Sub-etapa Documento
+23 de Ene. de 2002 26ª / 345 Primer trámite constitucional / Senado Cuenta de proyecto
+23 de Ene. de 2002   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+23 de Ene. de 2002 26ª / 345 Primer trámite constitucional / Senado Discusión única. Aprobado (Discusión queda pendiente).
+23 de Ene. de 2002 27ª / 345 Primer trámite constitucional / Senado Discusión única
+23 de Ene. de 2002   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+23 de Ene. de 2002 31ª / 345 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+23 de Ene. de 2002 31ª / 345 Segundo trámite constitucional / C. Diputados Discusión única Ver
+23 de Ene. de 2002   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+23 de Ene. de 2002   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+05 de Mar. de 2002 28ª / 345 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2889-15","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2889-15","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+23 de Ene. de 2002   Discusión inmediata 223-345  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2889-15","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2889-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2889-15","No record","Veto emmEnd"

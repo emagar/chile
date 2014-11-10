@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 7826-11","Legislatura: 359
+Fecha de ingreso: martes 02 de agosto de 2011
+Estado: Primer trámite constitucional .
+Numero de boletín: 7826-11
+Materia: Enfermedades Poco Frecuentes
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 11:38:36
+* * Hitos de tramitación * *
+"emmStart Hitos 7826-11","Fecha Sesión Etapa Sub-etapa Documento
+02 de Ago. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Ago. de 2011 61ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7826-11","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7826-11","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7826-11","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Lautaro Carmona Soto III Región de Atacama N°5 Partido Comunista
+Juan Luis Castro González VI Región del Libertador Bernardo O' Higgins N°32 Partido Socialista
+María José Hoffmann Opazo V Región de Valparaíso N°15 Unión Demócrata Independiente
+Manuel Monsalve Benavides VIII Región del Bío Bío N°46 Partido Socialista
+Marco Antonio Núñez Lozano V Región de Valparaíso N°11 Partido Por la Democracia
+Alberto Robles Pantoja III Región de Atacama N°6 Partido Radical Social Demócrata
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Partido Regionalista Independiente
+Víctor Torres Jeldes V Región de Valparaíso N°15 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7826-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7826-11","No record","Veto emmEnd"

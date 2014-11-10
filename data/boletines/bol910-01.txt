@@ -1,0 +1,61 @@
+* * Bill summary * *
+"emmStart Summary 910-01","Legislatura: 325
+Fecha de ingreso: jueves 28 de enero de 1993
+Estado: Tramitación terminada (Ley Nº 19.342 - D.Oficial 03/11/1994)
+Numero de boletín: 910-01
+Materia: Vegetales
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 00:34:55
+* * Hitos de tramitación * *
+"emmStart Hitos 910-01","Fecha Sesión Etapa Sub-etapa Documento
+28 de Ene. de 1993 30ª / 325 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Agricultura
+28 de Ene. de 1993   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+13 de Abr. de 1993 41ª / 325 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+13 de Abr. de 1993 41ª / 325 Primer trámite constitucional / Senado Primer informe de comisión Ver
+12 de May. de 1993 51ª / 325 Primer trámite constitucional / Senado Discusión general Ver
+20 de May. de 1993   Primer trámite constitucional / Senado Boletín de indicaciones
+09 de Jun. de 1993 4ª / 326 Primer trámite constitucional / Senado Segundo informe de comisión Ver
+09 de Jun. de 1993 4ª / 326 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+15 de Jun. de 1993 5ª / 326 Primer trámite constitucional / Senado Discusión particular Ver
+17 de Jun. de 1993 5ª / 326 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+17 de Jun. de 1993   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+22 de Jun. de 1993 9ª / 326 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+18 de May. de 1994   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+30 de May. de 1994 2ª / 329 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Jun. de 1994 5ª / 329 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora. Pasa a Comisión de Agricultura
+05 de Jul. de 1994 9ª / 329 Tercer trámite constitucional / Senado Cuenta informe de comisión
+05 de Jul. de 1994 9ª / 329 Tercer trámite constitucional / Senado Informe de comisión Ver
+07 de Jul. de 1994 11ª / 329 Tercer trámite constitucional / Senado Discusión única
+07 de Jul. de 1994 11ª / 329 Tercer trámite constitucional / Senado Discusión única
+11 de Jul. de 1994 11ª / 344 Tercer trámite constitucional / Senado Oficio rechazo modificaciones a Cámara Revisora
+14 de Jul. de 1994 13ª / 329 Comisión Mixta por rechazo de modificaciones / C. Diputados Cuenta oficio integrantes de Comisión Mixta Ver
+02 de Ago. de 1994 16ª / 329 Comisión Mixta por rechazo de modificaciones / C. Diputados Informe de Comisión Mixta Ver Ver
+02 de Ago. de 1994 16ª / 329 Disc. informe C.Mixta por rechazo de modific. en C. Origen / Senado Cuenta informe Comisión Mixta
+03 de Ago. de 1994 17ª / 329 Disc. informe C.Mixta por rechazo de modific. en C. Origen / Senado Discusión informe de Comisión Mixta
+08 de Ago. de 1994 17ª / 344 Disc. informe C.Mixta por rechazo de modific. en C. Origen / Senado Oficio aprobación de informe de Comisión Mixta a C. Revisora
+10 de Ago. de 1994 21ª / 329 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación de informe de Comisión Mixta
+11 de Ago. de 1994 21ª / 344 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+30 de Ago. de 1994 26ª / 329 Trámite en Tribunal Constitucional / Senado Oficio al Tribunal Constitucional Ver
+04 de Oct. de 1994 1ª / 330 Trámite en Tribunal Constitucional / Senado Cuenta fallo del Tribunal Constitucional
+06 de Oct. de 1994 1ª / 344 Trámite en Tribunal Constitucional / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 910-01","Fecha Etapa Informe Documento
+02 de Ago. de 1994 Comisión Mixta por rechazo de modificaciones Senado Informe de Comisión Mixta Comisión Mixta para Boletín Nº 910-01 Ver
+05 de Jul. de 1994 Tercer trámite constitucional Senado Informe de comisión de Agricultura Ver
+18 de May. de 1994 Segundo trámite constitucional C.Diputados Primer informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+09 de Jun. de 1993 Primer trámite constitucional Senado Segundo informe de comisión de Agricultura Ver
+13 de Abr. de 1993 Primer trámite constitucional Senado Primer informe de comisión de Agricultura Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 910-01","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 910-01","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 910-01","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 910-01","No record","Veto emmEnd"

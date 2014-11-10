@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 3324-07","Legislatura: 349
+Fecha de ingreso: miércoles 27 de agosto de 2003
+Estado: Archivado .
+Numero de boletín: 3324-07
+Materia: Menores
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 01:32:31
+* * Hitos de tramitación * *
+"emmStart Hitos 3324-07","Fecha Sesión Etapa Sub-etapa Documento
+27 de Ago. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+27 de Ago. de 2003 33ª / 349 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+20 de Jul. de 2006   Primer trámite constitucional / C. Diputados Archivado
+03 de Ago. de 2006   Archivado / Oficio Nº6288. Se accede al archivo del proyecto Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3324-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3324-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+27 de Ago. de 2003   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3324-07","Nombre Región Distrito Partido
+Ramón Barros Montero VI Región del Libertador Bernardo O' Higgins N°35 Unión Demócrata Independiente
+Marcela Cubillos Sigall RM Región Metropolitana N°21 Unión Demócrata Independiente
+Gonzalo Ibáñez Santa María V Región de Valparaíso N°14 Unión Demócrata Independiente
+Darío Molina Sanhueza IV Región de Coquimbo N°9 Unión Demócrata Independiente
+Víctor Pérez Varela VIII Región del Bío Bío N°47 Unión Demócrata Independiente
+Pablo Prieto Lorca VII Región del Maule N°37 Unión Demócrata Independiente
+Boris Tapia Martínez VII Región del Maule N°36 Partido Demócrata Cristiano
+Gonzalo Uriarte Herrera RM Región Metropolitana N°31 Unión Demócrata Independiente
+Ignacio Urrutia Bonilla VII Región del Maule N°40 Unión Demócrata Independiente
+Mario Varela Herrera RM Región Metropolitana N°20 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3324-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3324-07","No record","Veto emmEnd"

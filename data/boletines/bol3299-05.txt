@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 3299-05","Legislatura: 349
+Fecha de ingreso: martes 29 de julio de 2003
+Estado: Tramitación terminada (Ley Nº 19.909 - D.Oficial 25/10/2003)
+Numero de boletín: 3299-05
+Materia: Sistema De Pronósticos Deportivos
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 01:17:02
+* * Hitos de tramitación * *
+"emmStart Hitos 3299-05","Fecha Sesión Etapa Sub-etapa Documento
+29 de Jul. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+29 de Jul. de 2003 20ª / 349 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+27 de Ago. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+28 de Ago. de 2003 34ª / 349 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 217-349 que hace presente la urgencia Suma Ver
+28 de Ago. de 2003 34ª / 349 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+28 de Ago. de 2003 34ª / 349 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+28 de Ago. de 2003   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+02 de Sep. de 2003 30ª / 349 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+02 de Sep. de 2003 30ª / 349 Segundo trámite constitucional / Senado Cuenta del Mensaje 000-349 que retira la urgencia Suma
+09 de Sep. de 2003 32ª / 349 Segundo trámite constitucional / Senado Cuenta del Mensaje 000-000 que hace presente la urgencia Suma
+15 de Sep. de 2003   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+16 de Sep. de 2003 35ª / 349 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión. de Hacienda
+16 de Sep. de 2003 35ª / 349 Segundo trámite constitucional / Senado Discusión general Ver
+16 de Sep. de 2003   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+01 de Oct. de 2003 1ª / 350 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3299-05","Fecha Etapa Informe Documento
+15 de Sep. de 2003 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+27 de Ago. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3299-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+09 de Sep. de 2003   Suma 000-000  
+28 de Ago. de 2003 02 de Sep. de 2003 Suma 217-349 000-349","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3299-05","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3299-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+34   62 0 3 2   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3299-05","No record","Veto emmEnd"

@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 913-07","Legislatura: 325
+Fecha de ingreso: jueves 28 de enero de 1993
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 913-07
+Materia: Homicidio,Violacion
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 00:37:23
+* * Hitos de tramitación * *
+"emmStart Hitos 913-07","Fecha Sesión Etapa Sub-etapa Documento
+28 de Ene. de 1993   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+28 de Ene. de 1993 47ª / 325 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 913-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 913-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 913-07","Nombre Región Distrito Partido
+Juan Antonio Coloma Correa Región N° Unión Demócrata Independiente
+Sergio Correa De la Cerda Región N° Unión Demócrata Independiente
+Pedro Guzmán Alvarez Región N° Unión Demócrata Independiente
+Cristián Leay Morán Región N° Unión Demócrata Independiente
+Pablo Longueira Montes Región N° Unión Demócrata Independiente
+Patricio Melero Abaroa Región N° Unión Demócrata Independiente
+Jaime Orpis Bouchon Región N° Unión Demócrata Independiente
+Víctor Pérez Varela Región N° Unión Demócrata Independiente
+Carlos Recondo Lavanderos Región N° Unión Demócrata Independiente
+Jorge Ulloa Aguillón Región N° Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 913-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 913-07","No record","Veto emmEnd"

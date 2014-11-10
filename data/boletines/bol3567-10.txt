@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 3567-10","Legislatura: 351
+Fecha de ingreso: martes 22 de junio de 2004
+Estado: Segundo trámite constitucional .
+Numero de boletín: 3567-10
+Materia: Acuerdos Internacionales
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 04:10:20
+* * Hitos de tramitación * *
+"emmStart Hitos 3567-10","Fecha Sesión Etapa Sub-etapa Documento
+22 de Jun. de 2004   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+22 de Jun. de 2004 7ª / 351 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+13 de Jul. de 2004   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+20 de Jul. de 2004 17ª / 351 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+06 de Jul. de 2005 13ª / 353 Primer trámite constitucional / C. Diputados Discusión única Ver
+06 de Jul. de 2005   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+13 de Jul. de 2005 16ª / 353 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3567-10","Fecha Etapa Informe Documento
+13 de Jul. de 2004 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3567-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3567-10","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3567-10","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+13   74 0 2 2 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3567-10","No record","Veto emmEnd"

@@ -1,0 +1,56 @@
+* * Bill summary * *
+"emmStart Summary 2293-10","Legislatura: 339
+Fecha de ingreso: miércoles 06 de enero de 1999
+Estado: Archivado .
+Numero de boletín: 2293-10
+Materia: Estatuto De Roma De La Corte Penal Internacional,Corte Penal Internacional
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 22:59:35
+* * Hitos de tramitación * *
+"emmStart Hitos 2293-10","Fecha Sesión Etapa Sub-etapa Documento
+06 de Ene. de 1999   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Ene. de 1999 31ª / 339 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+05 de Oct. de 1999   Primer trámite constitucional / C. Diputados S.E.El Presidente de la Republica incluye el proyecto en la Convocatoria Extraodinaria 341
+02 de Dic. de 1999   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+28 de Nov. de 2000   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Dic. de 2000 22ª / 343 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+22 de Ene. de 2002 29ª / 345 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+22 de Ene. de 2002   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+05 de Mar. de 2002 28ª / 345 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores y a la Comisión de Constitución, Legislación, Justicia y Reglamento.
+21 de Mar. de 2002 5ª / 346 Segundo trámite constitucional / Senado Cuenta oficio 1721 del Tribunal Constitucional
+05 de Abr. de 2002   Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 346
+09 de Abr. de 2002 7ª / 346 Segundo trámite constitucional / Senado Cuenta oficio 1733 del Tribunal Constitucional
+14 de Sep. de 2004   Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 352
+05 de May. de 2009 14ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 284-357 que hace presente la urgencia Simple Ver
+12 de May. de 2009 16ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 371-357 que retira y hace presente la urgencia Suma Ver
+02 de Jun. de 2009 22ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 461-357 que retira y hace presente la urgencia Suma Ver
+02 de Jun. de 2009 22ª / 357 Segundo trámite constitucional / Senado Los Comités acuerdan precisar que el trámite ante la Comisión de Constitución, Legislación, Justicia y Reglamento, determinado en relación con este proyecto, tiene por objeto que dicha Comisión informe acerca del estado de tramitación de la iniciativa.
+03 de Jun. de 2009   Tramitación terminada /  
+03 de Jun. de 2009   Segundo trámite constitucional / Senado Oficio N° 462/SEC/09. Pone en conocimiento de la Cámara de Diputados que Su Excelencia la Presidenta de la República retiró el proyecto de acuerdo que aprueba el Estatuto de Roma de la Corte Penal INternacional. Ver
+04 de Jun. de 2009 36ª / 357 Segundo trámite constitucional / Senado Senado comunica que la P. de la Rep. ha retirado el proyecto. SALA ACORDÓ RETIRO
+09 de Jun. de 2009 24ª / 357 Segundo trámite constitucional / Senado Oficio N°8136. Oficio de la Cámara de Diputados con el que informa que ha tomado conocimiento del oficio del Senado mediante el cual comunica que Su Excelencia la Presidenta de la República ha resuelto retirar del Congreso Nacional el proyecto de acuerdo. Archivado de conformidad al artículo 132, inciso segundo, del Reglamento del Senado. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2293-10","Fecha Etapa Informe Documento
+28 de Nov. de 2000 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+02 de Dic. de 1999 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2293-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+02 de Jun. de 2009   Suma 461-357  
+12 de May. de 2009 02 de Jun. de 2009 Suma 371-357 461-357
+05 de May. de 2009 12 de May. de 2009 Simple 284-357 371-357
+19 de Oct. de 1999   Suma 78-341  
+06 de Oct. de 1999   Suma 50-341  
+06 de Ene. de 1999   Sin urgencia 146-339  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2293-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2293-10","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+36 Retiro de proyecto. 58 5 2 55 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2293-10","No record","Veto emmEnd"

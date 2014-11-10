@@ -1,0 +1,55 @@
+* * Bill summary * *
+"emmStart Summary 6195-04","Legislatura: 356
+Fecha de ingreso: martes 11 de noviembre de 2008
+Estado: Comisión Mixta por rechazo de idea de legislar .
+Numero de boletín: 6195-04
+Materia: Profesionales De La Educación
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 03:59:21
+* * Hitos de tramitación * *
+"emmStart Hitos 6195-04","Fecha Sesión Etapa Sub-etapa Documento
+11 de Nov. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+11 de Nov. de 2008 98ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Deportes y Recreación Ver
+02 de Dic. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Dic. de 2008 113ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Educación. EN ESTADO DE TABLA. Ver
+18 de Dic. de 2008 118ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+18 de Dic. de 2008   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+23 de Dic. de 2008 81ª / 356 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+20 de Ene. de 2009   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+20 de Ene. de 2009 87ª / 356 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+20 de Ene. de 2009 87ª / 356 Segundo trámite constitucional / Senado Por acuerdo unánime de Comités, ratificado por la Sala, este proyecto vuelve a la Comisión de Educación, Cultura, Ciencia y Tecnología. Ver
+20 de Ene. de 2009   Segundo trámite constitucional / Senado Nuevo primer informe de comisión Ver
+20 de Ene. de 2009 87ª / 356 Segundo trámite constitucional / Senado Cuenta nuevo primer informe
+21 de Ene. de 2009 89ª / 356 Segundo trámite constitucional / Senado Discusión general Ver
+21 de Ene. de 2009   Segundo trámite constitucional / Senado Oficio rechazo a Cámara de Origen Ver
+22 de Ene. de 2009 130ª / 356 Comisión Mixta por rechazo de idea de legislar / Senado Cuenta oficio rechazo de Cámara Revisora
+03 de Mar. de 2009   Comisión Mixta por rechazo de idea de legislar / Senado Oficio integrantes de Comisión Mixta Ver
+04 de Mar. de 2009 92ª / 356 Comisión Mixta por rechazo de idea de legislar / Senado Cuenta oficio integrantes de Comisión Mixta","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6195-04","Fecha Etapa Informe Documento
+20 de Ene. de 2009 Segundo trámite constitucional Senado Nuevo primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+20 de Ene. de 2009 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+02 de Dic. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6195-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6195-04","Nombre Región Distrito Partido
+Mario Bertolino Rendic IV Región de Coquimbo N°7 Renovación Nacional
+Roberto Delmastro Naso XIV Región de los Ríos N°53 Renovación Nacional
+Pablo Galilea Carrillo XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Renovación Nacional
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Marta Isasi Barbieri I Región de Tarapacá N°2 Independientes
+Alfonso Vargas Lyng V Región de Valparaíso N°10 Renovación Nacional
+Germán Verdugo Soto VII Región del Maule N°37 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6195-04","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+118   68 0 0 52 Aprobado Sala Ver detalle votación
+121 Votación General 8 0 0 5   Educación Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6195-04","No record","Veto emmEnd"

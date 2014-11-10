@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 8527-14","Legislatura: 360
+Fecha de ingreso: martes 14 de agosto de 2012
+Estado: Tramitación terminada (Ley Nº 20.683 - D.Oficial 20/08/2013)
+Numero de boletín: 8527-14
+Materia: Beneficios Habitacionales
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 10-11-2014 02:38:12
+* * Hitos de tramitación * *
+"emmStart Hitos 8527-14","Fecha Sesión Etapa Sub-etapa Documento
+14 de Ago. de 2012   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+14 de Ago. de 2012 41ª / 360 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Vivienda y Urbanismo
+02 de Abr. de 2013 7ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 32-361 que hace presente la urgencia Simple
+10 de Abr. de 2013   Primer trámite constitucional / Senado Primer informe de comisión Ver
+17 de Abr. de 2013 16ª / 361 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+30 de Abr. de 2013 18ª / 361 Primer trámite constitucional / Senado Discusión general Ver
+30 de Abr. de 2013   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+07 de May. de 2013 21ª / 361 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 80-361 que hace presente la urgencia Simple Ver
+07 de May. de 2013 21ª / 361 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Vivienda y Desarrollo Urbano Ver
+05 de Jun. de 2013 34ª / 361 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 121-361 que hace presente la urgencia Simple Ver
+07 de Jun. de 2013   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Jun. de 2013 36ª / 361 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+09 de Jul. de 2013 45ª / 361 Segundo trámite constitucional / C. Diputados Discusión general. Aprobado en general y particular sin modificaciones Ver
+09 de Jul. de 2013   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+10 de Jul. de 2013 40ª / 361 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+10 de Jul. de 2013   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8527-14","Fecha Etapa Informe Documento
+10 de Jun. de 2013 Segundo trámite constitucional C.Diputados Primer informe de comisión de Vivienda y Desarrollo Urbano Ver
+10 de Abr. de 2013 Primer trámite constitucional Senado Primer informe de comisión de Vivienda y Urbanismo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8527-14","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+05 de Jun. de 2013   Simple 121-361  
+07 de May. de 2013   Simple 80-361  
+02 de Abr. de 2013   Simple 32-361  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8527-14","Nombre
+Lily Pérez San Martín","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8527-14","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+45   99 0 0 21 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8527-14","No record","Veto emmEnd"

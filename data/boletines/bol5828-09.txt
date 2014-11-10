@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 5828-09","Legislatura: 356
+Fecha de ingreso: miércoles 16 de abril de 2008
+Estado: Segundo trámite constitucional .
+Numero de boletín: 5828-09
+Materia: Mensajes Radiales,Derecho De Aguas
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 07-11-2014 23:43:15
+* * Hitos de tramitación * *
+"emmStart Hitos 5828-09","Fecha Sesión Etapa Sub-etapa Documento
+16 de Abr. de 2008   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+29 de Abr. de 2008 15ª / 356 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Obras Públicas
+28 de Jul. de 2009 35ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 817-357 que hace presente la urgencia Suma
+04 de Ago. de 2009 37ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 865-357 que retira la urgencia Suma
+11 de Ago. de 2009   Primer trámite constitucional / Senado Primer informe de comisión Ver
+11 de Ago. de 2009 40ª / 357 Primer trámite constitucional / Senado La Sala acuerda, a solicitud del Senador señor Horvath, que este proyecto sea discutido en general y en particular en el primer informe.
+12 de Ago. de 2009 41ª / 357 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+18 de Ago. de 2009 42ª / 357 Primer trámite constitucional / Senado Discusión general Ver
+18 de Ago. de 2009   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+19 de Ago. de 2009 69ª / 357 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+28 de Nov. de 2012 108ª / 360 Segundo trámite constitucional / C. Diputados Cuenta del oficio de la Comisión de Recursos Hídricos, Desertificación y Sequía, por el cual solicita el acuerdo de la Sala, para que le sea remitido el proyecto. RECHAZADO. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5828-09","Fecha Etapa Informe Documento
+11 de Ago. de 2009 Primer trámite constitucional Senado Primer informe de comisión de Obras Públicas Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5828-09","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+28 de Jul. de 2009 04 de Ago. de 2009 Suma 817-357 865-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5828-09","Nombre
+Antonio Horvath Kiss
+Hosaín Sabag Castillo","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5828-09","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5828-09","No record","Veto emmEnd"

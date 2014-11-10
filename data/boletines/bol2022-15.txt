@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 2022-15","Legislatura: 334
+Fecha de ingreso: martes 06 de mayo de 1997
+Estado: Tramitación terminada (Ley Nº 19.572 - D.Oficial 05/08/1998)
+Numero de boletín: 2022-15 Refundido con: 2018-15
+Materia: Licencias De Conducir
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 17:46:45
+* * Hitos de tramitación * *
+"emmStart Hitos 2022-15","Fecha Sesión Etapa Sub-etapa Documento
+06 de May. de 1997   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+06 de May. de 1997 45ª / 334 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones
+02 de Jul. de 1997 14ª / 335 Primer trámite constitucional / Senado Primer informe de comisión Ver
+09 de Jul. de 1997 14ª / 335 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+30 de Jul. de 1997 20ª / 335 Primer trámite constitucional / Senado Discusión general Ver
+30 de Jul. de 1997 20ª / 335 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+05 de Ago. de 1997 27ª / 335 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+03 de Sep. de 1997   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de Sep. de 1997 39ª / 335 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+04 de Jun. de 1998 3ª / 338 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+04 de Jun. de 1998 3ª / 345 Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver Ver
+10 de Jun. de 1998 4ª / 338 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+12 de Jun. de 1998 4ª / 338 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2022-15","Fecha Etapa Informe Documento
+03 de Sep. de 1997 Segundo trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+02 de Jul. de 1997 Primer trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2022-15","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2022-15","Nombre
+Hernán Larraín Fernández","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2022-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2022-15","No record","Veto emmEnd"

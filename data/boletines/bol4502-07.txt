@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 4502-07","Legislatura: 354
+Fecha de ingreso: jueves 07 de septiembre de 2006
+Estado: Primer trámite constitucional .
+Numero de boletín: 4502-07
+Materia: Carabineros De Chile,Cámara De Diputados,Fuerzas Armadas
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 02:28:44
+* * Hitos de tramitación * *
+"emmStart Hitos 4502-07","Fecha Sesión Etapa Sub-etapa Documento
+07 de Sep. de 2006 73ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+07 de Sep. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+07 de Nov. de 2006 93ª / 354 Primer trámite constitucional / C. Diputados Comisión de Defensa Nacional solicita se le remita el proyecto, en reemplazo de la Comisión de Constitución. Rechazado. Ver
+07 de Nov. de 2006   Primer trámite constitucional / C. Diputados Oficio Nº 6450. Se rechaza petición de la Comisión de Defensa Nacional en orden a remitirle esta iniciativa Ver
+09 de Nov. de 2006 96ª / 354 Primer trámite constitucional / C. Diputados Comisión de Defensa Nacional solicita que proyecto le sea remitido. Sala acuerda que primero lo vea la Comisión de Constitución y luego la Comisión de Defensa Nacional. Ver
+09 de Nov. de 2006   Primer trámite constitucional / C. Diputados Oficio Nº 6466. Se acuerda remitir el proyecto a la Comisión de Defensa una vez que haya sido informado por la Comisión de Constitución, Legislación y Justicia Ver
+12 de Dic. de 2006 106ª / 354 Primer trámite constitucional / C. Diputados Comisión de Constitución solicita que proyecto sea visto primero por la Comisión de Defensa Nacional y luego por la Comisión de Constitución. Autorizado por la Sala. Ver
+02 de May. de 2007 19ª / 355 Primer trámite constitucional / C. Diputados Comisión de Constitución solicita dejar sin efecto acuerdo para que proyecto sea visto en primer lugar por Constitución y luego por Comisión de Defensa. NO HUBO PRONUNCIAMIENTO. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4502-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4502-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4502-07","Nombre Región Distrito Partido
+Rodrigo Alvarez Zenteno XII Región de Magallanes y de la Antártica Chilena N°60 Unión Demócrata Independiente
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Francisco Encina Moriamez IV Región de Coquimbo N°8 Partido Socialista
+Marcelo Forni Lobos V Región de Valparaíso N°11 Unión Demócrata Independiente
+Renán Fuentealba Vildósola IV Región de Coquimbo N°9 Partido Demócrata Cristiano
+Roberto León Ramírez VII Región del Maule N°36 Partido Demócrata Cristiano
+Jorge Tarud Daccarett VII Región del Maule N°39 Partido Por la Democracia
+Alfonso Vargas Lyng V Región de Valparaíso N°10 Renovación Nacional
+Patricio Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4502-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+37 Votación General 8 0 1 4   Defensa Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4502-07","No record","Veto emmEnd"

@@ -1,0 +1,56 @@
+* * Bill summary * *
+"emmStart Summary 6228-03","Legislatura: 356
+Fecha de ingreso: miércoles 03 de diciembre de 2008
+Estado: Primer trámite constitucional .
+Numero de boletín: 6228-03
+Materia: Registro Nacional De Corredores De Propiedades,Negocios En Bienes Raíces
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 04:22:37
+* * Hitos de tramitación * *
+"emmStart Hitos 6228-03","Fecha Sesión Etapa Sub-etapa Documento
+03 de Dic. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Dic. de 2008 111ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo. Se remite el proyecto a la Corte Suprema. Ver
+03 de Dic. de 2008   Primer trámite constitucional / C. Diputados Oficio N° 7828 a la Corte Suprema Ver
+07 de Abr. de 2009 10ª / 357 Primer trámite constitucional / C. Diputados Cuenta oficio N? 53 de la Corte Suprema Ver Ver
+06 de Ene. de 2010 115ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1770-357 que hace presente la urgencia Simple Ver
+20 de Ene. de 2010 121ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1907-357 que retira la urgencia Simple Ver
+15 de Jun. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+16 de Jun. de 2010 40ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+03 de Ago. de 2010 58ª / 358 Primer trámite constitucional / C. Diputados Aprobado en general. Indicaciones. Proyecto vuelve a la Comisión de Economía para segundo informe reglamentario. Se acuerda que una vez despachado por la Comisión de Economía sea tramitado en la Comisión de Constitución por una semana. Ver
+01 de Jul. de 2011   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+05 de Jul. de 2011 50ª / 359 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+13 de Jul. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+19 de Jul. de 2011 58ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+03 de Oct. de 2012 84ª / 360 Primer trámite constitucional / C. Diputados La Sala acuerda enviar el proyecto a la Comisión de Economía, Fomento y Desarrollo, para que emita un nuevo Segundo Informe. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6228-03","Fecha Etapa Informe Documento
+13 de Jul. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+01 de Jul. de 2011 Primer trámite constitucional C.Diputados Segundo informe de comisión de Economía, Fomento y Desarrollo Ver
+15 de Jun. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6228-03","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+06 de Ene. de 2010 20 de Ene. de 2010 Simple 1770-357 1907-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6228-03","Nombre Región Distrito Partido
+Francisco Chahuán Chahuán V Región de Valparaíso N°14 Renovación Nacional
+Edmundo Eluchans Urenda V Región de Valparaíso N°15 Unión Demócrata Independiente
+Marcelo Forni Lobos V Región de Valparaíso N°11 Unión Demócrata Independiente
+Rodrigo González Torres V Región de Valparaíso N°14 Partido Por la Democracia
+Antonio Leal Labrín III Región de Atacama N°5 Partido Por la Democracia
+José Miguel Ortiz Novoa VIII Región del Bío Bío N°44 Partido Demócrata Cristiano
+Denise Pascal Allende RM Región Metropolitana N°31 Partido Socialista
+Alberto Robles Pantoja III Región de Atacama N°6 Partido Radical Social Demócrata
+Eugenio Tuma Zedan IX Región de la Araucanía N°51 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6228-03","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+58   93 2 6 19 Aprobado Sala Ver detalle votación
+90 Votación General 5 2 0 6   Economía Ver detalle votación
+90 Votación General 5 2 0 6   Economía Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6228-03","No record","Veto emmEnd"

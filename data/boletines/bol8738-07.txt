@@ -1,0 +1,32 @@
+* * Bill summary * *
+"emmStart Summary 8738-07","Legislatura: 360
+Fecha de ingreso: martes 18 de diciembre de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8738-07
+Materia: Sistema De Elecciones Primarias
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 05:09:26
+* * Hitos de tramitación * *
+"emmStart Hitos 8738-07","Fecha Sesión Etapa Sub-etapa Documento
+18 de Dic. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+19 de Dic. de 2012 116ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8738-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8738-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8738-07","Nombre Región Distrito Partido
+Gabriel Ascencio Mansilla X Región de los Lagos N°58 Partido Demócrata Cristiano
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+Arturo Squella Ovalle V Región de Valparaíso N°12 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8738-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8738-07","No record","Veto emmEnd"

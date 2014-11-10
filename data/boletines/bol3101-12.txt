@@ -1,0 +1,48 @@
+* * Bill summary * *
+"emmStart Summary 3101-12","Legislatura: 348
+Fecha de ingreso: miércoles 16 de octubre de 2002
+Estado: Tramitación terminada (Ley Nº 19.858 - D.Oficial 11/02/2003)
+Numero de boletín: 3101-12
+Materia: Ocupación Irregular
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 03-11-2014 23:10:40
+* * Hitos de tramitación * *
+"emmStart Hitos 3101-12","Fecha Sesión Etapa Sub-etapa Documento
+16 de Oct. de 2002   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+16 de Oct. de 2002 6ª / 348 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Medio Ambiente y Bienes Nacionales
+14 de Nov. de 2002   Primer trámite constitucional / Senado Primer informe de comisión Ver
+19 de Nov. de 2002 13ª / 348 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+20 de Nov. de 2002 15ª / 348 Primer trámite constitucional / Senado Discusión general Ver
+09 de Dic. de 2002   Primer trámite constitucional / Senado Boletín de indicaciones
+27 de Dic. de 2002   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+07 de Ene. de 2003 22ª / 348 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+08 de Ene. de 2003 23ª / 348 Primer trámite constitucional / Senado Discusión particular Ver
+08 de Ene. de 2003   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+09 de Ene. de 2003 41ª / 348 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver
+16 de Ene. de 2003   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+21 de Ene. de 2003 45ª / 348 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+22 de Ene. de 2003 47ª / 348 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+22 de Ene. de 2003   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+22 de Ene. de 2003 27ª / 348 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+22 de Ene. de 2003   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3101-12","Fecha Etapa Informe Documento
+16 de Ene. de 2003 Segundo trámite constitucional C.Diputados Primer informe de comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver
+27 de Dic. de 2002 Primer trámite constitucional Senado Segundo informe de comisión de Medio Ambiente y Bienes Nacionales Ver
+14 de Nov. de 2002 Primer trámite constitucional Senado Primer informe de comisión de Medio Ambiente y Bienes Nacionales Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3101-12","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3101-12","Nombre
+Ministerio de Bienes Nacionales
+Ministerio de Hacienda","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3101-12","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3101-12","No record","Veto emmEnd"

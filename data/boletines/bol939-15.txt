@@ -1,0 +1,50 @@
+* * Bill summary * *
+"emmStart Summary 939-15","Legislatura: 325
+Fecha de ingreso: miércoles 17 de marzo de 1993
+Estado: Tramitación terminada (Ley Nº 19.231 - D.Oficial 11/08/1993)
+Numero de boletín: 939-15
+Materia: Empresa Portuaria De Chile
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 00:58:55
+* * Hitos de tramitación * *
+"emmStart Hitos 939-15","Fecha Sesión Etapa Sub-etapa Documento
+17 de Mar. de 1993   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+17 de Mar. de 1993 55ª / 325 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+04 de May. de 1993 69ª / 325 Primer trámite constitucional / C. Diputados Discusión general Ver
+04 de May. de 1993 69ª / 325 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Obras Públicas, Transportes y Telecomunicaciones y de Hacienda Ver
+04 de May. de 1993   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+05 de May. de 1993 48ª / 325 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones
+08 de Jun. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+15 de Jun. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+15 de Jun. de 1993 5ª / 326 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+15 de Jun. de 1993 5ª / 326 Segundo trámite constitucional / Senado Discusión general Ver
+16 de Jun. de 1993   Segundo trámite constitucional / Senado Boletín de indicaciones
+16 de Jun. de 1993   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+16 de Jun. de 1993 6ª / 326 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión. de Hacienda y de Transportes y Telecomunicaciones , unidas
+16 de Jun. de 1993 6ª / 326 Segundo trámite constitucional / Senado Discusión particular Ver
+21 de Jun. de 1993   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+22 de Jun. de 1993 9ª / 326 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+23 de Jun. de 1993 11ª / 326 Tercer trámite constitucional / C. Diputados Discusión única Ver
+23 de Jun. de 1993   Tercer trámite constitucional / C. Diputados Oficio aprobación de modificaciones a Cámara Revisora. Nº 1274 Ver
+23 de Jun. de 1993   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo. Nº 1273, que comunica aprobación de proyecto Ver
+30 de Jun. de 1993 7ª / 326 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 1274, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 939-15","Fecha Etapa Informe Documento
+16 de Jun. de 1993 Segundo trámite constitucional Senado Segundo informe de comisión de Hacienda y de Transporte y Telecomunicaciones, unidas Ver
+15 de Jun. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+08 de Jun. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 939-15","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+17 de Mar. de 1993   Suma    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 939-15","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 939-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 939-15","No record","Veto emmEnd"

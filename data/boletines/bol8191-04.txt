@@ -1,0 +1,64 @@
+* * Bill summary * *
+"emmStart Summary 8191-04","Legislatura: 359
+Fecha de ingreso: miércoles 07 de marzo de 2012
+Estado: Archivado .
+Numero de boletín: 8191-04
+Materia: Ministerio De Educación,Sostenedores De Establecimientos Educacionales
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 09-11-2014 22:35:04
+* * Hitos de tramitación * *
+"emmStart Hitos 8191-04","Fecha Sesión Etapa Sub-etapa Documento
+07 de Mar. de 2012   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+21 de Mar. de 2012   Primer trámite constitucional / Senado Primer informe de comisión Ver
+21 de Mar. de 2012 5ª / 360 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+21 de Mar. de 2012 5ª / 360 Primer trámite constitucional / Senado Discusión general Ver
+21 de Mar. de 2012   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+22 de Mar. de 2012 7ª / 360 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Deportes y Recreación Ver
+10 de Abr. de 2012   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Abr. de 2012 16ª / 360 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+15 de May. de 2012 27ª / 360 Segundo trámite constitucional / C. Diputados Discusión única Ver
+16 de May. de 2012   Segundo trámite constitucional / C. Diputados Oficio rechazo a Cámara de Origen Ver
+22 de May. de 2012   Comisión Mixta por rechazo de idea de legislar / C. Diputados Oficio N° 534/SEC/12. Toma conocimiento del rechazo del proyecto de ley en la Cámara Revisora y designa Senadores que integrarán la Comisión Mixta que debe formarse en virtud del artículo 70 de la Constitución Política de la República. Ver
+23 de May. de 2012 33ª / 360 Comisión Mixta por rechazo de idea de legislar / C. Diputados Cuenta Oficio N°534/SEC/12. del H. Senado mediante el cual comunica que tomó conocimiento del rechazo de la Cámara de Diputados al proyecto. Ver
+20 de Jun. de 2012 28ª / 360 Disc. informe C.Mixta por rechazo idea de legislar C. Origen / Senado Cuenta informe Comisión Mixta
+03 de Jul. de 2012 30ª / 360 Disc. informe C.Mixta por rechazo idea de legislar C. Origen / Senado Discusión informe de Comisión Mixta
+03 de Jul. de 2012   Disc. informe C.Mixta por rechazo idea de legislar C. Origen / Senado Oficio aprobación de informe de Comisión Mixta a C. Revisora Ver
+04 de Jul. de 2012 50ª / 360 Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / C. Diputados Cuenta oficio aprobación de informe de Comisión Mixta Ver
+04 de Jul. de 2012 50ª / 360 Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / C. Diputados Cuenta del Mensaje 181-360 que hace presente la urgencia Suma Ver
+10 de Jul. de 2012 52ª / 360 Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / C. Diputados Discusión informe de Comisión Mixta Ver
+10 de Jul. de 2012   Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / C. Diputados Oficio aprobación de informe de Comisión Mixta a C.de Origen Ver
+11 de Jul. de 2012 34ª / 360 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación de informe de Comisión Mixta
+11 de Jul. de 2012 34ª / 360 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación de informe de Comisión Mixta
+11 de Jul. de 2012   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+19 de Jul. de 2012   Trámite en Tribunal Constitucional / Senado Oficio al Tribunal Constitucional Ver
+31 de Jul. de 2012 37ª / 360 Trámite finalización en Cámara de Origen / Senado Cuenta oficio de S.E. el Presidente de la República por el cual comunica que no hará uso de la facultad que le confiere el inciso primero del artículo 73 de la Constitución Política.
+11 de Sep. de 2012 48ª / 360 Trámite en Tribunal Constitucional / Senado Cuenta oficio N° 7729 del Tribunal Constitucional Ver
+11 de Sep. de 2012 78ª / 360 Trámite en Tribunal Constitucional / Senado Cuenta oficio del Tribunal Constitucional, remite copia de sentencia Ver
+11 de Sep. de 2012   Trámite en Tribunal Constitucional / Senado Archivado Sesión 48a, Ordinaria. 11 de septiembre de 2012.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8191-04","Fecha Etapa Informe Documento
+19 de Jun. de 2012 Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. Senado Informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+11 de Abr. de 2012 Segundo trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver
+21 de Mar. de 2012 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8191-04","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Jul. de 2012   Suma 181-360  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8191-04","Nombre
+Francisco Chahuán Chahuán
+José García Ruminot
+Ricardo Lagos Weber
+Eugenio Tuma Zedán
+Ignacio Walker Prieto","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8191-04","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+52 Informe Comisión Mixta 78 7 14 0 Aprobado Sala Ver detalle votación
+27   67 20 6 27 Rechazado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8191-04","No record","Veto emmEnd"

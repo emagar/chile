@@ -1,0 +1,53 @@
+* * Bill summary * *
+"emmStart Summary 6077-17","Legislatura: 356
+Fecha de ingreso: martes 09 de septiembre de 2008
+Estado: Tramitación terminada (Ley Nº 20.347 - D.Oficial 11/06/2009)
+Numero de boletín: 6077-17
+Materia: Nacionalización
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 02:34:56
+* * Hitos de tramitación * *
+"emmStart Hitos 6077-17","Fecha Sesión Etapa Sub-etapa Documento
+09 de Sep. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+09 de Sep. de 2008 75ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+17 de Sep. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+30 de Sep. de 2008 82ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+03 de Mar. de 2009 131ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+03 de Mar. de 2009   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+04 de Mar. de 2009 92ª / 356 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía
+28 de Abr. de 2009   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+29 de Abr. de 2009 13ª / 357 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+05 de May. de 2009 14ª / 357 Segundo trámite constitucional / Senado Discusión general Ver
+05 de May. de 2009   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+06 de May. de 2009 26ª / 357 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+06 de May. de 2009   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6077-17","Fecha Etapa Informe Documento
+28 de Abr. de 2009 Segundo trámite constitucional Senado Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+17 de Sep. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6077-17","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6077-17","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Sergio Aguiló Melo VII Región del Maule N°37 Partido Socialista
+Gabriel Ascencio Mansilla X Región de los Lagos N°58 Partido Demócrata Cristiano
+Alvaro Escobar Rufatt RM Región Metropolitana N°20 Independientes
+Tucapel Jiménez Fuentes RM Región Metropolitana N°27 Partido Por la Democracia
+Sergio Ojeda Uribe X Región de los Lagos N°55 Partido Demócrata Cristiano
+Felipe Salaberry Soto RM Región Metropolitana N°25 Unión Demócrata Independiente
+Germán Verdugo Soto VII Región del Maule N°37 Renovación Nacional
+Ximena Vidal Lázaro RM Región Metropolitana N°25 Partido Por la Democracia
+Gastón Von Mühlenbrock Zamora XIV Región de los Ríos N°54 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6077-17","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+131   80 0 1 39 Aprobado Sala Ver detalle votación
+88 Votación General 6 0 0 7   Derechos Humanos Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6077-17","No record","Veto emmEnd"

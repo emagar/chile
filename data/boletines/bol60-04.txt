@@ -1,0 +1,32 @@
+* * Bill summary * *
+"emmStart Summary 60-04","Legislatura: 319
+Fecha de ingreso: domingo 20 de mayo de 1990
+Estado: Archivado .
+Numero de boletín: 60-04
+Materia: Educacion
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 30-10-2014 16:31:08
+* * Hitos de tramitación * *
+"emmStart Hitos 60-04","Fecha Sesión Etapa Sub-etapa Documento
+20 de May. de 1990   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+29 de May. de 1990 2ª / 320 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+10 de May. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de May. de 1995 71ª / 330 Primer trámite constitucional / C. Diputados Cuenta Oficio Comisión de Educación, solicita archivo Ver
+10 de Jun. de 1997   Archivado / Oficio Nº 1483 a Comisión de Educación, sala accede al archivo solicitado.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 60-04","Fecha Etapa Informe Documento
+10 de May. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 60-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 60-04","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 60-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 60-04","No record","Veto emmEnd"

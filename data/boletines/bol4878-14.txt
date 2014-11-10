@@ -1,0 +1,52 @@
+* * Bill summary * *
+"emmStart Summary 4878-14","Legislatura: 354
+Fecha de ingreso: miércoles 24 de enero de 2007
+Estado: Tramitación terminada (Ley Nº 20.218 - D.Oficial 29/09/2007)
+Numero de boletín: 4878-14
+Materia: Terrenos Para Equipamiento,Municipios
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 06-11-2014 22:06:35
+* * Hitos de tramitación * *
+"emmStart Hitos 4878-14","Fecha Sesión Etapa Sub-etapa Documento
+24 de Ene. de 2007   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+06 de Mar. de 2007 89ª / 354 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Vivienda y Urbanismo
+12 de Mar. de 2007   Primer trámite constitucional / Senado Primer informe de comisión Ver
+13 de Mar. de 2007 1ª / 355 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+14 de Mar. de 2007 3ª / 355 Primer trámite constitucional / Senado Discusión general Ver
+14 de Mar. de 2007   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+15 de Mar. de 2007 3ª / 355 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Vivienda y Desarrollo Urbano Ver Ver
+08 de May. de 2007   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de May. de 2007 22ª / 355 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+17 de May. de 2007 29ª / 355 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+29 de Ago. de 2007   Segundo trámite constitucional / C. Diputados Segundo informe de comisión Ver
+30 de Ago. de 2007 71ª / 355 Segundo trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+30 de Ago. de 2007   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+30 de Ago. de 2007 71ª / 355 Segundo trámite constitucional / C. Diputados Discusión particular Ver Ver
+11 de Sep. de 2007 51ª / 355 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+11 de Sep. de 2007   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4878-14","Fecha Etapa Informe Documento
+29 de Ago. de 2007 Segundo trámite constitucional C.Diputados Segundo informe de comisión de Vivienda y Desarrollo Urbano Ver
+17 de May. de 2007 Segundo trámite constitucional C.Diputados Primer informe de comisión de Vivienda y Desarrollo Urbano Ver
+12 de Mar. de 2007 Primer trámite constitucional Senado Primer informe de comisión de Vivienda y Urbanismo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4878-14","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4878-14","Nombre
+Juan Pablo Letelier Morel
+Jaime Naranjo Ortiz
+Hosaín Sabag Castillo","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4878-14","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+47 Votación General 8 0 0 5   Vivienda Ver detalle votación
+38 Votación General 6 0 0 7   Vivienda Ver detalle votación
+29   69 0 1 0 Aprobado Sala Ver detalle votación
+71 Texto contenido en el segundo informe. 66 0 0 54 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4878-14","No record","Veto emmEnd"

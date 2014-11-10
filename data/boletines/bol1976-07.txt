@@ -1,0 +1,33 @@
+* * Bill summary * *
+"emmStart Summary 1976-07","Legislatura: 334
+Fecha de ingreso: miércoles 22 de enero de 1997
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 1976-07
+Materia: Terrorismo
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 17:01:23
+* * Hitos de tramitación * *
+"emmStart Hitos 1976-07","Fecha Sesión Etapa Sub-etapa Documento
+22 de Ene. de 1997   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+22 de Ene. de 1997 43ª / 334 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+07 de Jun. de 2000   Primer trámite constitucional / C. Diputados Oficio Nº 2875 a la Comisión de Constitución, comunica retiro del proyecto
+07 de Jun. de 2000   Primer trámite constitucional / C. Diputados Oficio Nº 2877 al Pdte. de la Rep. Remite proyecto
+07 de Jun. de 2000 2ª / 342 Primer trámite constitucional / C. Diputados S.E. el Pdte. de la Rep.,retira el proyecto Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1976-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1976-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+19 de Ago. de 1997   Simple 181-335  
+15 de Jul. de 1997 19 de Ago. de 1997 Simple 127-335 181-335","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1976-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1976-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1976-07","No record","Veto emmEnd"

@@ -1,0 +1,55 @@
+* * Bill summary * *
+"emmStart Summary 3256-05","Legislatura: 349
+Fecha de ingreso: miércoles 11 de junio de 2003
+Estado: Tramitación terminada (Ley Nº 19.888 - D.Oficial 13/08/2003)
+Numero de boletín: 3256-05
+Materia: Políticas Sociales
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 00:52:12
+* * Hitos de tramitación * *
+"emmStart Hitos 3256-05","Fecha Sesión Etapa Sub-etapa Documento
+11 de Jun. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+11 de Jun. de 2003 5ª / 349 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+18 de Jun. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de Jun. de 2003 9ª / 349 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+18 de Jun. de 2003 9ª / 349 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+18 de Jun. de 2003   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+01 de Jul. de 2003 7ª / 349 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+01 de Jul. de 2003   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+02 de Jul. de 2003 8ª / 349 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+02 de Jul. de 2003 8ª / 349 Segundo trámite constitucional / Senado Discusión general. Queda pendiente . Se aprueba en general y particular, con excepción de la norma sobre el tabaco y el artículo transitorio, que quedan para el Tiempo de Votaciones de la próxima sesión ordinaria Ver
+08 de Jul. de 2003 9ª / 349 Segundo trámite constitucional / Senado Discusión particular Ver
+08 de Jul. de 2003   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+10 de Jul. de 2003 16ª / 349 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora. Pasa a Comisión de Hacienda Ver
+10 de Jul. de 2003 16ª / 349 Tercer trámite constitucional / C. Diputados Discusión única Ver
+10 de Jul. de 2003   Tercer trámite constitucional / C. Diputados Oficio aprobación de modificaciones a Cámara Revisora Ver
+10 de Jul. de 2003   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+15 de Jul. de 2003 12ª / 349 Tercer trámite constitucional / C. Diputados Cuenta, en el Senado, del oficio de la Cámara de Diputados, en el que se comunica que ésta ha aprobado las modificaciones introducidas por el Senado. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3256-05","Fecha Etapa Informe Documento
+01 de Jul. de 2003 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+18 de Jun. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3256-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+01 de Jul. de 2003   Suma 79-349  
+11 de Jun. de 2003   Suma 50-349  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3256-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3256-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+9   55 53 0 0   Sala Ver detalle votación
+9 Indicación renovada del Ejecutivo que agrega Nº2 al artículo 1º 36 70 1 0   Sala Ver detalle votación
+9 2º 55 53 0 0   Sala Ver detalle votación
+16   85 0 0 3   Sala Ver detalle votación
+9 4º, Nº2 54 53 0 0   Sala Ver detalle votación
+9 7º 102 5 0 1   Sala Ver detalle votación
+9 3º, letra b) del Nº1; Nº2, Nº3 y Nº4 55 53 0 0   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3256-05","No record","Veto emmEnd"

@@ -1,0 +1,39 @@
+* * Bill summary * *
+"emmStart Summary 4355-11","Legislatura: 354
+Fecha de ingreso: miércoles 19 de julio de 2006
+Estado: Archivado .
+Numero de boletín: 4355-11
+Materia: Planes De Salud
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 00:40:48
+* * Hitos de tramitación * *
+"emmStart Hitos 4355-11","Fecha Sesión Etapa Sub-etapa Documento
+19 de Jul. de 2006 51ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver
+19 de Jul. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de May. de 2010   Primer trámite constitucional / C. Diputados Archivado Comisión Salud remite al archivo (dos años sin tramitar)","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4355-11","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4355-11","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4355-11","Nombre Región Distrito Partido
+René Aedo Ormeño III Región de Atacama N°5 Renovación Nacional
+Gonzalo Duarte Leiva RM Región Metropolitana N°26 Partido Demócrata Cristiano
+Guido Girardi Briere RM Región Metropolitana N°18 Partido Por la Democracia
+Carlos Abel Jarpa Wevar VIII Región del Bío Bío N°41 Partido Radical Social Demócrata
+Fernando Meza Moncada IX Región de la Araucanía N°52 Partido Radical Social Demócrata
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+Osvaldo Palma Flores VII Región del Maule N°39 Renovación Nacional
+Alberto Robles Pantoja III Región de Atacama N°6 Partido Radical Social Demócrata
+Eduardo Saffirio Suárez IX Región de la Araucanía N°50 Partido Demócrata Cristiano
+Roberto Sepúlveda Hermosilla RM Región Metropolitana N°20 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4355-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4355-11","No record","Veto emmEnd"

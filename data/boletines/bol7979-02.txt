@@ -1,0 +1,32 @@
+* * Bill summary * *
+"emmStart Summary 7979-02","Legislatura: 359
+Fecha de ingreso: miércoles 05 de octubre de 2011
+Estado: Primer trámite constitucional .
+Numero de boletín: 7979-02
+Materia: Pasajes De Vuelos,Pasajeros Civiles En Aeronaves Del Estado,Seguros De Vida
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 13:59:58
+* * Hitos de tramitación * *
+"emmStart Hitos 7979-02","Fecha Sesión Etapa Sub-etapa Documento
+05 de Oct. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+05 de Oct. de 2011 91ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Defensa Nacional Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7979-02","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7979-02","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7979-02","Nombre Región Distrito Partido
+Sergio Bobadilla Muñoz VIII Región del Bío Bío N°45 Unión Demócrata Independiente
+Iván Norambuena Farías VIII Región del Bío Bío N°46 Unión Demócrata Independiente
+David Sandoval Plaza XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Unión Demócrata Independiente
+Jorge Ulloa Aguillón VIII Región del Bío Bío N°43 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7979-02","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7979-02","No record","Veto emmEnd"

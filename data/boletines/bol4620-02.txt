@@ -1,0 +1,57 @@
+* * Bill summary * *
+"emmStart Summary 4620-02","Legislatura: 354
+Fecha de ingreso: lunes 16 de octubre de 2006
+Estado: Tramitación terminada (Ley Nº 20.142 - D.Oficial 20/12/2006)
+Numero de boletín: 4620-02
+Materia: Carabineros De Chile
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 06-11-2014 03:55:26
+* * Hitos de tramitación * *
+"emmStart Hitos 4620-02","Fecha Sesión Etapa Sub-etapa Documento
+16 de Oct. de 2006   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+18 de Oct. de 2006 63ª / 354 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Defensa Nacional y a Comisión de Hacienda
+31 de Oct. de 2006 64ª / 354 Primer trámite constitucional / Senado Cuenta del Mensaje 404-354 que retira y hace presente la urgencia Simple
+07 de Nov. de 2006   Primer trámite constitucional / Senado Oficio NºD/44/2006. Solicita al Senado autorizar la discusión en general y en particular del proyecto de ley, en atención a la necesidad de aprobar a la brevedad la iniciativa. Ver
+07 de Nov. de 2006 66ª / 354 Primer trámite constitucional / Senado Cuenta de Oficio N° D/44/2006 de la Comisión de Defensa Nacional, en que solicita al Senado autorizar el procedimiento por ella adoptado, en orden a aprobar en general y en particular el PL. Se accede a lo solicitado.
+07 de Nov. de 2006 66ª / 354 Primer trámite constitucional / Senado Cuenta del Mensaje 433-354 que retira y hace presente la urgencia Suma
+08 de Nov. de 2006   Primer trámite constitucional / Senado Primer informe de comisión Ver
+08 de Nov. de 2006   Primer trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+08 de Nov. de 2006 67ª / 354 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+15 de Nov. de 2006 98ª / 354 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+15 de Nov. de 2006 98ª / 354 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver Ver
+15 de Nov. de 2006 69ª / 354 Primer trámite constitucional / Senado Discusión general Ver
+15 de Nov. de 2006   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+21 de Nov. de 2006   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+22 de Nov. de 2006 101ª / 354 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+22 de Nov. de 2006 101ª / 354 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+22 de Nov. de 2006   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+22 de Nov. de 2006   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+28 de Nov. de 2006 71ª / 354 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+28 de Nov. de 2006   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4620-02","Fecha Etapa Informe Documento
+21 de Nov. de 2006 Segundo trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+08 de Nov. de 2006 Primer trámite constitucional Senado Primer informe de comisión de Defensa Nacional Ver
+08 de Nov. de 2006 Primer trámite constitucional Senado Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4620-02","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+07 de Nov. de 2006   Suma 433-354  
+31 de Oct. de 2006 06 de Nov. de 2006 Simple 404-354 433-354
+18 de Oct. de 2006 31 de Oct. de 2006 Suma 356-354 404-354","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4620-02","Nombre
+Ministerio de Defensa Nacional
+Ministerio de Hacienda
+Ministerio de Interior y Seguridad Públi","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4620-02","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+101   101 0 0 0 Aprobado Sala Ver detalle votación
+38 Votación General 8 0 0 5   Hacienda Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4620-02","No record","Veto emmEnd"

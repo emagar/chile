@@ -1,0 +1,33 @@
+* * Bill summary * *
+"emmStart Summary 809-05","Legislatura: 325
+Fecha de ingreso: miércoles 30 de septiembre de 1992
+Estado: Tramitación terminada (Ley Nº 19.182 - D.Oficial 09/12/1992)
+Numero de boletín: 809-05
+Materia: Presupuesto Sector Público
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 23:14:55
+* * Hitos de tramitación * *
+"emmStart Hitos 809-05","Fecha Sesión Etapa Sub-etapa Documento
+15 de Sep. de 1992 40ª / 324 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+30 de Sep. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+08 de Oct. de 1992 2ª / 325 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión Especial Mixta de Presupuestos
+19 de Nov. de 1992 12ª / 325 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión. y de oficio de la Cámara comunicando su aprobación. Queda para tabla
+19 de Nov. de 1992 12ª / 325 Segundo trámite constitucional / Senado Discusión general y particular. Aprobado en general y en particular, con modificaciones. Ver
+23 de Nov. de 1992   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+26 de Nov. de 1992 14ª / 325 Tramitación terminada / Cuenta oficio Nº 1035, de la Cámara, comunicando aprobación de modificaciones propuestas por el Senado.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 809-05","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 809-05","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 809-05","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 809-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 809-05","No record","Veto emmEnd"

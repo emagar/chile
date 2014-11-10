@@ -1,0 +1,50 @@
+* * Bill summary * *
+"emmStart Summary 1992-10","Legislatura: 334
+Fecha de ingreso: miércoles 12 de marzo de 1997
+Estado: Tramitación terminada (D.S. Nº 1.864 - D.Oficial 29/01/2000)
+Numero de boletín: 1992-10
+Materia: Seguridad Social
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 17:13:29
+* * Hitos de tramitación * *
+"emmStart Hitos 1992-10","Fecha Sesión Etapa Sub-etapa Documento
+12 de Mar. de 1997 51ª / 334 Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver Ver
+12 de Mar. de 1997 51ª / 334 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+18 de Mar. de 1997   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Trabajo y Seguridad Social Ver
+10 de Jun. de 1997   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Jun. de 1997 8ª / 335 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+17 de Jun. de 1997 9ª / 335 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+17 de Jun. de 1997   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+18 de Jun. de 1997 8ª / 335 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+15 de Jul. de 1998   Segundo trámite constitucional / Senado A petición de la Comisión de Trabajo y Previsión Social, la Sala acuerda que el proyecto sea estudiado por Comisiones Unidas de Relaciones Exteriores y de Trabajo y Previsión Social.
+06 de Oct. de 1998   Segundo trámite constitucional / Senado S.E.El Presidente de la Republica incluye el proyecto en la Convocatoria Extraodinaria 339
+27 de Abr. de 1999   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+07 de Jul. de 1999 12ª / 340 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+04 de Ago. de 1999 19ª / 340 Segundo trámite constitucional / Senado Discusión general. Queda para segunda discusión. Ver
+10 de Ago. de 1999 20ª / 340 Segundo trámite constitucional / Senado Discusión general Ver
+11 de Ago. de 1999   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+17 de Ago. de 1999 31ª / 340 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+07 de Oct. de 1999   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1992-10","Fecha Etapa Informe Documento
+27 de Abr. de 1999 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores y de Trabajo y Previsión Social, unidas Ver
+10 de Jun. de 1997 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver
+18 de Mar. de 1997 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1992-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+13 de Jul. de 1999   Simple 110-340  
+12 de Mar. de 1997 16 de Sep. de 1998 Sin urgencia 101-334 CADUCADO","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1992-10","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      
+Ministerio de Trabajo y Previsión Social      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1992-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1992-10","No record","Veto emmEnd"

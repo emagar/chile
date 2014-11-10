@@ -1,0 +1,39 @@
+* * Bill summary * *
+"emmStart Summary 6726-06","Legislatura: 357
+Fecha de ingreso: martes 06 de octubre de 2009
+Estado: Primer trámite constitucional .
+Numero de boletín: 6726-06
+Materia: Ministerio De Asuntos Indígenas,Agencia De Desarrollo Indígena
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 15:37:54
+* * Hitos de tramitación * *
+"emmStart Hitos 6726-06","Fecha Sesión Etapa Sub-etapa Documento
+06 de Oct. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Oct. de 2009 85ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social y a Comisión de Hacienda Ver
+27 de Oct. de 2009 92ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1354-357 que hace presente la urgencia Suma Ver
+03 de Nov. de 2009 97ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1462-357 que retira y hace presente la urgencia Simple Ver
+18 de Nov. de 2009 106ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1587-357 que retira la urgencia Simple Ver
+15 de Dic. de 2009 109ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1670-357 que hace presente la urgencia Simple Ver
+05 de Ene. de 2010 114ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1737-357 que retira y hace presente la urgencia Suma Ver
+20 de Ene. de 2010 121ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1868-357 que retira la urgencia Suma Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6726-06","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6726-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+15 de Dic. de 2009 05 de Ene. de 2010 Simple 1670-357 1737-357
+03 de Nov. de 2009 18 de Nov. de 2009 Simple 1462-357 1587-357
+27 de Oct. de 2009 03 de Nov. de 2009 Suma 1354-357 1462-357
+05 de Ene. de 0010 20 de Ene. de 2010 Suma 1737-357 1868-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6726-06","Nombre Región Distrito Partido
+Ministerio de Interior y Seguridad Públi      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6726-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6726-06","No record","Veto emmEnd"

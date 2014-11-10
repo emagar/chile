@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 4125-07","Legislatura: 354
+Fecha de ingreso: jueves 23 de marzo de 2006
+Estado: Segundo trámite constitucional .
+Numero de boletín: 4125-07
+Materia: Medidas Cautelares,Licencias De Conducir
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 19:04:53
+* * Hitos de tramitación * *
+"emmStart Hitos 4125-07","Fecha Sesión Etapa Sub-etapa Documento
+23 de Mar. de 2006 7ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+23 de Mar. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+14 de Jun. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+20 de Jun. de 2006 39ª / 354 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+22 de Jun. de 2006 42ª / 354 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+22 de Jun. de 2006   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+05 de Jul. de 2006 29ª / 354 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento Ver
+14 de Ago. de 2007 43ª / 355 Segundo trámite constitucional / Senado La Sala ratifica acuerdo de Comités de enviarlo a la Comisión de Transportes y Telecomunicaciones.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4125-07","Fecha Etapa Informe Documento
+14 de Jun. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4125-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4125-07","Nombre Región Distrito Partido
+Gabriel Ascencio Mansilla X Región de los Lagos N°58 Partido Demócrata Cristiano
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Gonzalo Duarte Leiva RM Región Metropolitana N°26 Partido Demócrata Cristiano
+Eduardo Saffirio Suárez IX Región de la Araucanía N°50 Partido Demócrata Cristiano
+Patricio Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4125-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+42   77 0 0 1 Aprobado Sala Ver detalle votación
+18 Sustitutiva. 9 0 0 4   Constitución Ver detalle votación
+18 Único. 0 9 0 4   Constitución Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4125-07","No record","Veto emmEnd"

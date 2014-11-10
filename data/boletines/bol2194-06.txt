@@ -1,0 +1,51 @@
+* * Bill summary * *
+"emmStart Summary 2194-06","Legislatura: 338
+Fecha de ingreso: miércoles 01 de julio de 1998
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 2194-06
+Materia: Elecciones,Elecciones Primarias
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 21:55:04
+* * Hitos de tramitación * *
+"emmStart Hitos 2194-06","Fecha Sesión Etapa Sub-etapa Documento
+01 de Jul. de 1998   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+01 de Jul. de 1998 12ª / 338 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+01 de Jul. de 1998 12ª / 338 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+01 de Jul. de 1998 12ª / 338 Primer trámite constitucional / C. Diputados Dip.Coloma alega inconstitucionalidad de PL La Sala acuerda suspender la tramitación del proyecto hasta que se pronuncie la Mesa. Ver
+01 de Jul. de 1998 12ª / 338 Primer trámite constitucional / C. Diputados Dip.Coloma alega inconstitucionalidad de PL La Sala acuerda suspender la tramitación del proyecto hasta que se pronuncie la Mesa. Ver
+03 de Jul. de 1998   Primer trámite constitucional / C. Diputados Oficio 2041 del 01-07-98 al Pdte. de la Rep. Solicita nuevos antecedentes relativos al financiamiento del proyecto.
+07 de Jul. de 1998 13ª / 338 Primer trámite constitucional / C. Diputados Cuenta resolución del Pdte. de la C.Diputad. relativa a la admisibilidad del proyecto. Se acuerda admitir a tramitación el proyecto. Ver
+06 de Ago. de 1998   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+25 de Ago. de 1998   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+01 de Sep. de 1998 30ª / 338 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+01 de Sep. de 1998 30ª / 338 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+02 de Sep. de 1998   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+02 de Sep. de 1998 26ª / 338 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización
+14 de Sep. de 1998   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+06 de Oct. de 1998 1ª / 339 Segundo trámite constitucional / Senado S.E el Presidente de la Republica incluye el proyecto en la Convocatoria Extraodinaria 339. Asimismo, se da cuenta del oficio del Tribunal Constitucional en que comunica que acogió a tramitación un requerimiento por inconstitucionalidad en contra de esta iniciativa de ley.
+20 de Oct. de 1998 2ª / 339 Tramitación terminada / Cuenta oficio Nº 1397 del Tribunal Constitucional
+20 de Oct. de 1998 2ª / 339 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión. Cuenta, además, del oficio del Tribunal Constitucional en que remite copia de la sentencia dictada en el requerimiento formulado. Como consecuencia de esta resolución, se devuelven los antecedentes a la Cámara de Diputados.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2194-06","Fecha Etapa Informe Documento
+14 de Sep. de 1998 Segundo trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver
+25 de Ago. de 1998 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+06 de Ago. de 1998 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2194-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+01 de Sep. de 1998 02 de Sep. de 1998 Suma 116-338 020998
+01 de Jul. de 1998 16 de Sep. de 1998 Sin urgencia 45-338 CADUCADO","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2194-06","Nombre Región Distrito Partido
+Ministerio de Hacienda      
+Ministerio de Interior y Seguridad Públi      
+Ministerio Secretaría General de Gobierno      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2194-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2194-06","No record","Veto emmEnd"

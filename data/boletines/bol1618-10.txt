@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 1618-10","Legislatura: 331
+Fecha de ingreso: jueves 01 de junio de 1995
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 1618-10
+Materia: Organización Internacional De Telecomunicaciones Por Satélite,Telecomunicaciones
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 11:27:06
+* * Hitos de tramitación * *
+"emmStart Hitos 1618-10","Fecha Sesión Etapa Sub-etapa Documento
+01 de Jun. de 1995   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+01 de Jun. de 1995 4ª / 331 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+01 de Ago. de 1995 22ª / 331 Primer trámite constitucional / C. Diputados Primer informe de comisión Ver Ver
+01 de Ago. de 1995 22ª / 331 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+20 de Jun. de 1996 10ª / 333 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+20 de Jun. de 1996   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+02 de Jul. de 1996 11ª / 333 Segundo trámite constitucional / Senado Cuenta de proyecto
+29 de Jul. de 1997   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+30 de Jul. de 1997 20ª / 335 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+05 de Ago. de 1997 21ª / 335 Segundo trámite constitucional / Senado Discusión general Ver
+05 de Ago. de 1997   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+07 de Ago. de 1997 30ª / 335 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+07 de Ago. de 1997   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1618-10","Fecha Etapa Informe Documento
+29 de Jul. de 1997 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+01 de Ago. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1618-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+01 de Jun. de 1995   Sin urgencia 11-331  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1618-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1618-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1618-10","No record","Veto emmEnd"

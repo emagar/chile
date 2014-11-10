@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 846-07","Legislatura: 325
+Fecha de ingreso: miércoles 04 de noviembre de 1992
+Estado: Tramitación terminada (Ley Nº19.183 - D.Oficial 11/12/1992)
+Numero de boletín: 846-07
+Materia: Cooperación Eficaz (Derecho),Terrorismo
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 23:45:42
+* * Hitos de tramitación * *
+"emmStart Hitos 846-07","Fecha Sesión Etapa Sub-etapa Documento
+04 de Nov. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Nov. de 1992 14ª / 325 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+04 de Nov. de 1992   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Nov. de 1992 10ª / 325 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+17 de Nov. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+19 de Nov. de 1992 12ª / 325 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+24 de Nov. de 1992 13ª / 325 Segundo trámite constitucional / Senado Discusión general y particular. Aprobado en general y en particular, con modificaciones.
+25 de Nov. de 1992   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+09 de Dic. de 1992 15ª / 325 Tramitación terminada / Cuenta oficio 1046, de la Cámara, comunicando aprobación enmiendas propuestas por el Senado.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 846-07","Fecha Etapa Informe Documento
+17 de Nov. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+04 de Nov. de 1992 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 846-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Nov. de 1992   Suma    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 846-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 846-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 846-07","No record","Veto emmEnd"

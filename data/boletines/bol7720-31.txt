@@ -1,0 +1,53 @@
+* * Bill summary * *
+"emmStart Summary 7720-31","Legislatura: 359
+Fecha de ingreso: martes 14 de junio de 2011
+Estado: Segundo trámite constitucional .
+Numero de boletín: 7720-31 Refundido con: 7877-31 7877-31
+Materia: Bienes Destinados A Rehabilitacion,Bienes Inembargables,Discapacitados
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 08:07:57
+* * Hitos de tramitación * *
+"emmStart Hitos 7720-31","Fecha Sesión Etapa Sub-etapa Documento
+14 de Jun. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+14 de Jun. de 2011 41ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Superación de la Pobreza, Planificación y Desarrollo Social Ver
+11 de Ago. de 2011 69ª / 359 Primer trámite constitucional / C. Diputados La Sala acordó que el proyecto sea remitido a la Comisión de Superación de la Pobreza, Planificación y Desarrollo Social. (Oficios 9646 y 9647 del 11.8.11 a los Presidentes de las Comisiones de Superación de la Pobreza, Planificación y Desarrollo Social y Trabajo y Seguridad Social, respectivamente, comunican acuerdo). Ver
+15 de Nov. de 2011 108ª / 359 Primer trámite constitucional / C. Diputados Oficio de la Comisión de Superación de la Pobreza, Planificación y Desarrollo Social, por el cual solicita a V.E., si lo tiene a bien, se sirva recabar el acuerdo de la Sala de la Corporación, en orden a refundir la moción (Boletín N° 7.877-31), con la moción (Boletín N° 7.720-31).Acordado. Ver
+15 de Nov. de 2011 108ª / 359 Primer trámite constitucional / C. Diputados Oficio de la Comisión de Superación de la Pobreza, Planificación y Desarrollo Social, por el cual solicita a V.E., si lo tiene a bien, se sirva recabar el acuerdo de la Sala de la Corporación, en orden a refundir la moción (Boletín N° 7.025-31), con la moción (Boletín N° 7.855-13), Acordado. Ver
+17 de Nov. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+21 de Nov. de 2011 111ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+24 de Nov. de 2011 115ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 437-359 que hace presente la urgencia Simple Ver
+29 de Nov. de 2011 117ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+29 de Nov. de 2011   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+03 de Ene. de 2012 85ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 520-359 que retira y hace presente la urgencia Simple
+10 de Ene. de 2012 87ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 533-359 que retira la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7720-31","Fecha Etapa Informe Documento
+17 de Nov. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Superación de la Pobreza, Planificación y Desarrollo Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7720-31","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+03 de Ene. de 2012 09 de Ene. de 2012 Simple 520-359 533-359
+24 de Nov. de 2011 29 de Dic. de 2011 Simple 437-359 520-359","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7720-31","Nombre Región Distrito Partido
+Nino Baltolu Rasera XV Región Arica y Parinacota N°1 Unión Demócrata Independiente
+José Antonio Kast Rist RM Región Metropolitana N°30 Unión Demócrata Independiente
+Andrea Molina Oliva V Región de Valparaíso N°10 Unión Demócrata Independiente
+Iván Norambuena Farías VIII Región del Bío Bío N°46 Unión Demócrata Independiente
+Carlos Recondo Lavanderos X Región de los Lagos N°56 Unión Demócrata Independiente
+Felipe Salaberry Soto RM Región Metropolitana N°25 Unión Demócrata Independiente
+David Sandoval Plaza XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Unión Demócrata Independiente
+Marisol Turres Figueroa X Región de los Lagos N°57 Unión Demócrata Independiente
+Ignacio Urrutia Bonilla VII Región del Maule N°40 Unión Demócrata Independiente
+Enrique Van Rysselberghe Herrera VIII Región del Bío Bío N°44 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7720-31","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+46 Votación General 5 0 0 8   Superación de la Pobreza Ver detalle votación
+117   110 0 0 10 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7720-31","No record","Veto emmEnd"

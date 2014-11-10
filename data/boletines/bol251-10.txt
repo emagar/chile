@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 251-10","Legislatura: 321
+Fecha de ingreso: martes 08 de enero de 1991
+Estado: Tramitación terminada (Ley Nº 19.115 - D.Oficial 20/01/1992)
+Numero de boletín: 251-10
+Materia: Ministerio De Relaciones Exteriores
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 13:33:24
+* * Hitos de tramitación * *
+"emmStart Hitos 251-10","Fecha Sesión Etapa Sub-etapa Documento
+08 de Ene. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+08 de Ene. de 1991 27ª / 321 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+09 de Abr. de 1991   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de May. de 1991 48ª / 321 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores y a Comisión de Hacienda
+23 de Ago. de 1991   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+03 de Sep. de 1991   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+05 de Sep. de 1991 36ª / 322 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Sep. de 1991 37ª / 322 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 10/09/1991 Ver
+18 de Dic. de 1991   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+19 de Dic. de 1991 29ª / 323 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+19 de Dic. de 1991 29ª / 323 Segundo trámite constitucional / Senado Discusión particular Ver
+23 de Dic. de 1991   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+09 de Ene. de 1992 32ª / 323 Tramitación terminada / Cuenta de oficio de la Cámara de Diputados con el que comunica que ha aprobado las enmiendas del Senado.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 251-10","Fecha Etapa Informe Documento
+18 de Dic. de 1991 Segundo trámite constitucional Senado Segundo informe de comisión de Relaciones Exteriores Ver
+03 de Sep. de 1991 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+23 de Ago. de 1991 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+17 de Abr. de 1991 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+09 de Abr. de 1991 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 251-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+08 de Ene. de 1991   Simple    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 251-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 251-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 251-10","No record","Veto emmEnd"

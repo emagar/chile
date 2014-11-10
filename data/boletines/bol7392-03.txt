@@ -1,0 +1,61 @@
+* * Bill summary * *
+"emmStart Summary 7392-03","Legislatura: 358
+Fecha de ingreso: miércoles 22 de diciembre de 2010
+Estado: Tramitación terminada (Ley Nº 20.575 - D.Oficial 17/02/2012)
+Numero de boletín: 7392-03
+Materia: Datos Personales
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 03:33:28
+* * Hitos de tramitación * *
+"emmStart Hitos 7392-03","Fecha Sesión Etapa Sub-etapa Documento
+22 de Dic. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+22 de Dic. de 2010 120ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+04 de Jul. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Jul. de 2011 50ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+11 de Ago. de 2011 69ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+17 de Ago. de 2011 72ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+17 de Ago. de 2011   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+14 de Sep. de 2011 54ª / 359 Segundo trámite constitucional / Senado Cuenta de comunicación de la Comisión de Economía, mediante la cual requiere la autorización de la Sala para discutir el proyecto en general y en particular, con ocasión del primer informe. Se accede.
+17 de Ene. de 2012   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+17 de Ene. de 2012 90ª / 359 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+18 de Ene. de 2012   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+18 de Ene. de 2012 91ª / 359 Segundo trámite constitucional / Senado Discusión general Ver
+18 de Ene. de 2012   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+19 de Ene. de 2012 136ª / 359 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+24 de Ene. de 2012 139ª / 359 Tercer trámite constitucional / C. Diputados Discusión única Ver
+24 de Ene. de 2012   Tercer trámite constitucional / C. Diputados Oficio N° 9951, que comunica aprobacion de modificaciones Ver
+24 de Ene. de 2012   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+31 de Ene. de 2012 92ª / 359 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 9951, que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7392-03","Fecha Etapa Informe Documento
+18 de Ene. de 2012 Segundo trámite constitucional Senado Segundo informe de comisión de Economía Ver
+17 de Ene. de 2012 Segundo trámite constitucional Senado Primer informe de comisión de Economía Ver
+04 de Jul. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7392-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7392-03","Nombre Región Distrito Partido
+Pedro Browne Urrejola RM Región Metropolitana N°28 Renovación Nacional
+Juan Luis Castro González VI Región del Libertador Bernardo O' Higgins N°32 Partido Socialista
+Joaquín Godoy Ibáñez V Región de Valparaíso N°13 Renovación Nacional
+Felipe Harboe Bascuñán RM Región Metropolitana N°22 Partido Por la Democracia
+Carlos Abel Jarpa Wevar VIII Región del Bío Bío N°41 Partido Radical Social Demócrata
+Pablo Lorenzini Basso VII Región del Maule N°38 Partido Demócrata Cristiano
+Marco Antonio Núñez Lozano V Región de Valparaíso N°11 Partido Por la Democracia
+Ricardo Rincón González VI Región del Libertador Bernardo O' Higgins N°33 Partido Demócrata Cristiano
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Partido Regionalista Independiente
+Joaquín Tuma Zedan IX Región de la Araucanía N°51 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7392-03","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+72   90 0 0 30 Aprobado Sala Ver detalle votación
+72   96 0 0 24 Aprobado Sala Ver detalle votación
+139   97 0 0 0 Aprobado Sala Ver detalle votación
+49 Votación General 10 0 0 3   Economía Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7392-03","No record","Veto emmEnd"

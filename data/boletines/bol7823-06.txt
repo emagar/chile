@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 7823-06","Legislatura: 359
+Fecha de ingreso: jueves 21 de julio de 2011
+Estado: Segundo trámite constitucional .
+Numero de boletín: 7823-06
+Materia: Seguridad Ciudadana,Municipios
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 11:36:26
+* * Hitos de tramitación * *
+"emmStart Hitos 7823-06","Fecha Sesión Etapa Sub-etapa Documento
+21 de Jul. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+21 de Jul. de 2011 60ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior y Regionalización Ver
+09 de Ago. de 2011 66ª / 359 Primer trámite constitucional / C. Diputados Oficio N°75/11. Oficio de la Comisión de Seguridad Ciudadana y Drogas, por el cual solicita el acuerdo de la Sala, para que le sea remitido el proyecto, actualmente en la Comisión de Gobierno Interior. Ver Ver
+09 de Ago. de 2011 66ª / 359 Primer trámite constitucional / C. Diputados Se accede a la petición y se acuerda remitir el proyecto a la Comisión de Seguridad Ciudadana Ver
+08 de May. de 2012 22ª / 360 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+15 de May. de 2012 27ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+15 de May. de 2012   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7823-06","Fecha Etapa Informe Documento
+07 de May. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7823-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7823-06","Nombre Región Distrito Partido
+Germán Becker Alvear IX Región de la Araucanía N°50 Renovación Nacional
+Mario Bertolino Rendic IV Región de Coquimbo N°7 Renovación Nacional
+Pedro Browne Urrejola RM Región Metropolitana N°28 Renovación Nacional
+Joaquín Godoy Ibáñez V Región de Valparaíso N°13 Renovación Nacional
+Cristián Monckeberg Bruner RM Región Metropolitana N°23 Renovación Nacional
+Nicolás Monckeberg Díaz RM Región Metropolitana N°18 Renovación Nacional
+Leopoldo Pérez Lahsen RM Región Metropolitana N°29 Renovación Nacional
+Manuel Rojas Molina II Región de Antofagasta N°4 Unión Demócrata Independiente
+Karla Rubilar Barahona RM Región Metropolitana N°17 Renovación Nacional
+Marcela Sabat Fernández RM Región Metropolitana N°21 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7823-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+71 Votación General 6 0 0 7   Seguridad y Drogas Ver detalle votación
+27   91 5 3 21 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7823-06","No record","Veto emmEnd"

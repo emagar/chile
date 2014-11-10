@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 695-10","Legislatura: 323
+Fecha de ingreso: miércoles 20 de mayo de 1992
+Estado: Tramitación terminada (D.S. Nº 1.066 - D.Oficial 29/12/1993)
+Numero de boletín: 695-10
+Materia: Tráfico De Drogas
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 21:43:48
+* * Hitos de tramitación * *
+"emmStart Hitos 695-10","Fecha Sesión Etapa Sub-etapa Documento
+20 de May. de 1992 61ª / 323 Primer trámite constitucional / Senado Cuenta de proyecto
+20 de May. de 1992   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+10 de Jun. de 1992 4ª / 324 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Jun. de 1992 4ª / 324 Primer trámite constitucional / Senado Primer informe de comisión Ver
+10 de Jul. de 1992 10ª / 324 Tramitación terminada / Discusión general y particular. Aprobado en general y en particular. Ver
+15 de Jul. de 1992 10ª / 324 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+16 de Jul. de 1992 19ª / 324 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+04 de Ago. de 1992   Segundo trámite constitucional / C. Diputados Primer informe de comisión
+01 de Sep. de 1992 34ª / 324 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+15 de Sep. de 1992 40ª / 326 Segundo trámite constitucional / C. Diputados Discusión general
+15 de Sep. de 1992   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen
+08 de Oct. de 1992 2ª / 325 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+13 de Oct. de 1992 2ª / 325 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 695-10","Fecha Etapa Informe Documento
+11 de Ago. de 1992 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+10 de Jun. de 1992 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 695-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 695-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 695-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 695-10","No record","Veto emmEnd"

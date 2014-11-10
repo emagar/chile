@@ -1,0 +1,60 @@
+* * Bill summary * *
+"emmStart Summary 1100-06","Legislatura: 327
+Fecha de ingreso: martes 28 de septiembre de 1993
+Estado: Tramitación terminada (Ley Nº 19.476 - D.Oficial 21/10/1996)
+Numero de boletín: 1100-06
+Materia: Refugiados
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 03:03:46
+* * Hitos de tramitación * *
+"emmStart Hitos 1100-06","Fecha Sesión Etapa Sub-etapa Documento
+28 de Sep. de 1993   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+28 de Sep. de 1993 2ª / 327 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+17 de Ago. de 1994   Primer trámite constitucional / C. Diputados Primer informe de comisión
+18 de Ago. de 1994 32ª / 329 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+30 de Ago. de 1994 33ª / 329 Primer trámite constitucional / C. Diputados Discusión general Ver
+30 de Ago. de 1994   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+31 de Ago. de 1994 27ª / 329 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización
+16 de Oct. de 1995   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+07 de Nov. de 1995 11ª / 332 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+14 de Nov. de 1995 13ª / 332 Segundo trámite constitucional / Senado Discusión general Ver
+23 de Nov. de 1995   Segundo trámite constitucional / Senado Boletín de indicaciones
+22 de Abr. de 1996   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+08 de May. de 1996 58ª / 332 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+15 de May. de 1996   Tramitación terminada / Oficio Nº9793. comunica aprobación con modificaciones a Cámara de origen Ver
+15 de May. de 1996 60ª / 332 Segundo trámite constitucional / Senado Discusión particular Ver
+15 de May. de 1996   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+22 de May. de 1996 1ª / 333 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+04 de Jun. de 1996 3ª / 333 Tercer trámite constitucional / C. Diputados Discusión única Ver
+04 de Jun. de 1996   Tercer trámite constitucional / C. Diputados Oficio rechazo modificaciones a Cámara Revisora Ver
+05 de Jun. de 1996 4ª / 333 Comisión Mixta por rechazo de modificaciones / Senado Cuenta oficio rechazo a modificaciones
+08 de Ago. de 1996   Comisión Mixta por rechazo de modificaciones / Senado Informe de Comisión Mixta Ver
+29 de Ago. de 1996 31ª / 333 Disc. informe C.Mixta por rechazo de modific. en C. Origen / C. Diputados Cuenta informe Comisión Mixta Ver
+03 de Sep. de 1996 32ª / 333 Disc. informe C.Mixta por rechazo de modific. en C. Origen / C. Diputados Discusión informe de Comisión Mixta Ver
+03 de Sep. de 1996   Disc. informe C.Mixta por rechazo de modific. en C. Origen / C. Diputados Oficio aprobación de informe de Comisión Mixta a C. Revisora Ver
+04 de Sep. de 1996 35ª / 333 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Cuenta oficio aprobación de informe de Comisión Mixta
+01 de Oct. de 1996 1ª / 334 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Discusión informe de Comisión Mixta
+02 de Oct. de 1996   Tramitación terminada / Oficio Nº10368. comunica aprobación informe de Comisión Mixta a Cámara de origen Ver
+02 de Oct. de 1996   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+03 de Oct. de 1996 4ª / 334 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación de informe de Comisión Mixta Ver
+28 de Nov. de 2002   Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Oficio aprobación de informe de Comisión Mixta a C.de Origen Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1100-06","Fecha Etapa Informe Documento
+08 de Ago. de 1996 Comisión Mixta por rechazo de modificaciones Senado Informe de Comisión Mixta de Gobierno, Descentralización y Regionalización Ver
+22 de Abr. de 1996 Segundo trámite constitucional Senado Segundo informe de comisión de Gobierno, Descentralización y Regionalización Ver
+16 de Oct. de 1995 Segundo trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver
+17 de Ago. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1100-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1100-06","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1100-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1100-06","No record","Veto emmEnd"

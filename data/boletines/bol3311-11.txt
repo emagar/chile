@@ -1,0 +1,34 @@
+* * Bill summary * *
+"emmStart Summary 3311-11","Legislatura: 349
+Fecha de ingreso: martes 12 de agosto de 2003
+Estado: Primer trámite constitucional .
+Numero de boletín: 3311-11
+Materia: Telefonía Celular
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 01:23:51
+* * Hitos de tramitación * *
+"emmStart Hitos 3311-11","Fecha Sesión Etapa Sub-etapa Documento
+12 de Ago. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Ago. de 2003 28ª / 349 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver
+06 de Mar. de 2007   Archivado / Oficio Nº 177-07. Solicita archivo Ver
+07 de Mar. de 2007 127ª / 354 Archivado / Comisión Salud solicta archivo.Pendiente. Fue aprobado en sesión 128.
+08 de Mar. de 2007   Primer trámite constitucional / C. Diputados Archivado
+07 de Jun. de 2011 38ª / 359 Primer trámite constitucional / C. Diputados Desarchivado la Sala accede a solicitud de la Diputada Señora Girardi doña Cristina. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3311-11","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3311-11","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+12 de Ago. de 2003   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3311-11","Nombre Región Distrito Partido
+Leopoldo Sánchez Grunert XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3311-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3311-11","No record","Veto emmEnd"

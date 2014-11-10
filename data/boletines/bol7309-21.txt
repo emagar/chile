@@ -1,0 +1,62 @@
+* * Bill summary * *
+"emmStart Summary 7309-21","Legislatura: 358
+Fecha de ingreso: jueves 11 de noviembre de 2010
+Estado: Tramitación terminada (Ley Nº 20.509 - D.Oficial 10/05/2011)
+Numero de boletín: 7309-21
+Materia: Medida De Conservación,Comisión De Los Recursos Vivos Marinos Antárticos
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 02:32:12
+* * Hitos de tramitación * *
+"emmStart Hitos 7309-21","Fecha Sesión Etapa Sub-etapa Documento
+11 de Nov. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+11 de Nov. de 2010 99ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Pesca, Acuicultura e Intereses Marítimos Ver
+06 de Dic. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+06 de Dic. de 2010 108ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+07 de Dic. de 2010 109ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+07 de Dic. de 2010   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+14 de Dic. de 2010 75ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Intereses Marítimos, Pesca y Acuicultura
+14 de Dic. de 2010 75ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 555-358 que hace presente la urgencia Simple
+28 de Dic. de 2010   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+04 de Ene. de 2011 81ª / 358 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+05 de Ene. de 2011 84ª / 358 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 07/03/2011 Ver
+18 de Ene. de 2011 87ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 653-358 que retira y hace presente la urgencia Simple
+01 de Mar. de 2011 90ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 712-358 que retira y hace presente la urgencia Simple
+07 de Mar. de 2011   Segundo trámite constitucional / Senado Boletín de indicaciones
+22 de Mar. de 2011   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+22 de Mar. de 2011 4ª / 359 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+05 de Abr. de 2011 6ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 70-359 que retira y hace presente la urgencia Simple
+05 de Abr. de 2011 6ª / 359 Segundo trámite constitucional / Senado Discusión particular Ver
+05 de Abr. de 2011   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+06 de Abr. de 2011 10ª / 359 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+07 de Abr. de 2011 11ª / 359 Tercer trámite constitucional / C. Diputados Discusión única Ver
+07 de Abr. de 2011   Tercer trámite constitucional / C. Diputados Oficio N° 9410, que comunica aprobacion de modificaciones Ver
+07 de Abr. de 2011   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo. Oficio N°9409. Ofico de ley al Ejecutivo Ver
+13 de Abr. de 2011 8ª / 359 Tercer trámite constitucional / C. Diputados Cuenta oficio N° 9410, que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7309-21","Fecha Etapa Informe Documento
+22 de Mar. de 2011 Segundo trámite constitucional Senado Segundo informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver
+04 de Ene. de 2011 Segundo trámite constitucional Senado Primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver
+06 de Dic. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Pesca, Acuicultura e Intereses Marítimos Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7309-21","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+05 de Abr. de 2011   Simple 70-359  
+01 de Mar. de 2011 05 de Abr. de 2011 Simple 712-358 70-359
+18 de Ene. de 2011 01 de Mar. de 2011 Simple 653-358 712-358
+14 de Dic. de 2010 18 de Ene. de 2011 Simple 555-358 653-358","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7309-21","Nombre Región Distrito Partido
+Ministerio de Defensa Nacional      
+Ministerio de Economía, Fomento y Turism      
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7309-21","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+109   95 0 0 1 Aprobado Sala Ver detalle votación
+11 enmienda del Senado. 83 0 0 37 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7309-21","No record","Veto emmEnd"

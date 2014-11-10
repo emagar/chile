@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 8566-08","Legislatura: 360
+Fecha de ingreso: martes 04 de septiembre de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8566-08
+Materia: Carretera Eléctrica
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 10-11-2014 03:06:53
+* * Hitos de tramitación * *
+"emmStart Hitos 8566-08","Fecha Sesión Etapa Sub-etapa Documento
+04 de Sep. de 2012   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+04 de Sep. de 2012 45ª / 360 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Minería y Energía. Se remite el proyecto a la Corte Suprema.
+04 de Sep. de 2012   Primer trámite constitucional / Senado Oficio N° 858/SEC/12 a la Corte Suprema Ver
+02 de Oct. de 2012 51ª / 360 Primer trámite constitucional / Senado Cuenta del Mensaje 299-360 que hace presente la urgencia Simple
+09 de Oct. de 2012 53ª / 360 Primer trámite constitucional / Senado Cuenta oficio N° 112-2012 de la Corte Suprema Ver
+31 de Oct. de 2012 58ª / 360 Primer trámite constitucional / Senado Cuenta del Mensaje 340-360 que retira y hace presente la urgencia Simple
+28 de Nov. de 2012 78ª / 360 Primer trámite constitucional / Senado Cuenta del Mensaje 376-360 que retira y hace presente la urgencia Simple
+19 de Dic. de 2012 89ª / 360 Primer trámite constitucional / Senado Cuenta del Mensaje 410-360 que retira y hace presente la urgencia Simple
+08 de Ene. de 2013 92ª / 360 Primer trámite constitucional / Senado Cuenta del Mensaje 428-360 que retira y hace presente la urgencia Suma
+08 de Ene. de 2013   Primer trámite constitucional / Senado Primer informe de comisión Ver
+09 de Ene. de 2013 93ª / 360 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+23 de Ene. de 2013 99ª / 360 Primer trámite constitucional / Senado Cuenta del Mensaje 462-360 que retira la urgencia Suma
+05 de Mar. de 2013 100ª / 360 Primer trámite constitucional / Senado Cuenta del Mensaje 467-360 que hace presente la urgencia Suma Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8566-08","Fecha Etapa Informe Documento
+09 de Ene. de 2013 Primer trámite constitucional Senado Primer informe de comisión de Minería y Energía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8566-08","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+05 de Mar. de 2013   Suma 467-360  
+08 de Ene. de 2013 23 de Ene. de 2013 Suma 428-360 462-360
+19 de Dic. de 2012 08 de Ene. de 2013 Simple 410-360 428-360
+28 de Nov. de 2012 19 de Dic. de 2012 Simple 376-360 410-360
+31 de Oct. de 2012 28 de Nov. de 2012 Simple 340-360 376-360
+02 de Oct. de 2012 31 de Oct. de 2012 Simple 299-360 340-360","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8566-08","Nombre
+Ministerio de Energía
+Ministerio del Medio Ambiente
+Ministerio Secretaría General de la Presidencia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8566-08","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8566-08","No record","Veto emmEnd"

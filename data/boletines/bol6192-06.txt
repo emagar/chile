@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 6192-06","Legislatura: 356
+Fecha de ingreso: jueves 06 de noviembre de 2008
+Estado: Primer trámite constitucional .
+Numero de boletín: 6192-06
+Materia: Alcaldes,Elecciones Municipales,Municipios,Concejos Municipales
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 03:57:33
+* * Hitos de tramitación * *
+"emmStart Hitos 6192-06","Fecha Sesión Etapa Sub-etapa Documento
+06 de Nov. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Nov. de 2008 97ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+02 de Dic. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Dic. de 2008 113ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+09 de Dic. de 2008 113ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Gobierno Interior. EN ESTADO DE TABLA. Ver
+13 de Oct. de 2009 89ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver
+13 de Oct. de 2009 89ª / 357 Primer trámite constitucional / C. Diputados Aprobado en general. Habiendo recibido indicaciones, el proyecto vuelve a la Comisión Técnica para segundo informe reglamentario Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6192-06","Fecha Etapa Informe Documento
+02 de Dic. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6192-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6192-06","Nombre Región Distrito Partido
+Mario Bertolino Rendic IV Región de Coquimbo N°7 Renovación Nacional
+Roberto Delmastro Naso XIV Región de los Ríos N°53 Renovación Nacional
+Pablo Galilea Carrillo XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Renovación Nacional
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Marta Isasi Barbieri I Región de Tarapacá N°2 Independientes
+Alfonso Vargas Lyng V Región de Valparaíso N°10 Renovación Nacional
+Germán Verdugo Soto VII Región del Maule N°37 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6192-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+89   77 2 2 39 Aprobado Sala Ver detalle votación
+90 Votación General 8 1 0 4   Gobierno Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6192-06","No record","Veto emmEnd"

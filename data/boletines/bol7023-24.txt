@@ -1,0 +1,77 @@
+* * Bill summary * *
+"emmStart Summary 7023-24","Legislatura: 358
+Fecha de ingreso: martes 29 de junio de 2010
+Estado: Tramitación terminada (Ley N° 20.548 - D.Oficial 15/11/2011)
+Numero de boletín: 7023-24
+Materia: Museo Folklórico Araucano Juan Antonio Ríos,Ruka Moñen Tayu Folil Juan Cayupi Huechicura
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 23:23:06
+* * Hitos de tramitación * *
+"emmStart Hitos 7023-24","Fecha Sesión Etapa Sub-etapa Documento
+29 de Jun. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+29 de Jun. de 2010 43ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de la Cultura y las Artes Ver
+27 de Jul. de 2010 55ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 216-358 que retira y hace presente la urgencia Simple Ver
+31 de Ago. de 2010 67ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 275-358 que retira y hace presente la urgencia Simple Ver
+15 de Sep. de 2010 76ª / 358 Primer trámite constitucional / C. Diputados Cuenta Oficio de S.E. el Presidente de la República por el cual formula indicación al proyecto. Ver
+29 de Sep. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Oct. de 2010 83ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 363-358 que retira y hace presente la urgencia Simple Ver
+06 de Oct. de 2010 85ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+07 de Oct. de 2010 86ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+07 de Oct. de 2010   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+12 de Oct. de 2010 59ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+03 de Nov. de 2010 64ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 446-358 que retira y hace presente la urgencia Simple
+07 de Dic. de 2010 73ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 529-358 que retira y hace presente la urgencia Simple
+05 de Ene. de 2011 84ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 631-358 que retira y hace presente la urgencia Simple
+01 de Mar. de 2011 90ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 707-358 que retira y hace presente la urgencia Simple
+05 de Abr. de 2011 6ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 56-359 que retira y hace presente la urgencia Simple
+04 de May. de 2011 15ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 160-359 que retira y hace presente la urgencia Simple
+13 de May. de 2011   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+17 de May. de 2011 18ª / 359 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+17 de May. de 2011 18ª / 359 Segundo trámite constitucional / Senado Discusión general Ver
+31 de May. de 2011 21ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 232-359 que retira y hace presente la urgencia Simple Ver
+05 de Jul. de 2011 30ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 311-359 que retira y hace presente la urgencia Simple
+03 de Ago. de 2011 40ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 340-359 que retira y hace presente la urgencia Simple
+06 de Sep. de 2011 49ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 372-359 que retira y hace presente la urgencia Simple
+04 de Oct. de 2011 59ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 415-359 que retira y hace presente la urgencia Suma
+05 de Oct. de 2011   Segundo trámite constitucional / Senado Nuevo primer informe de comisión Ver
+05 de Oct. de 2011 60ª / 359 Segundo trámite constitucional / Senado Cuenta nuevo primer informe
+05 de Oct. de 2011 60ª / 359 Segundo trámite constitucional / Senado Discusión general Ver
+05 de Oct. de 2011   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+06 de Oct. de 2011 92ª / 359 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+06 de Oct. de 2011   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7023-24","Fecha Etapa Informe Documento
+05 de Oct. de 2011 Segundo trámite constitucional Senado Nuevo primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+13 de May. de 2011 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+29 de Sep. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de la Cultura y las Artes Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7023-24","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Oct. de 2011   Suma 415-359  
+06 de Sep. de 2011 04 de Oct. de 2011 Simple 372-359 415-359
+03 de Ago. de 2011 06 de Sep. de 2011 Simple 340-359 372-359
+05 de Jul. de 2011 03 de Ago. de 2011 Simple 311-359 340-359
+31 de May. de 2011 05 de Jul. de 2011 Simple 232-359 311-359
+04 de May. de 2011 31 de May. de 2011 Simple 160-359 232-359
+05 de Abr. de 2011 04 de May. de 2011 Simple 56-359 160-359
+01 de Mar. de 2011 05 de Abr. de 2011 Simple 707-358 56-359
+05 de Ene. de 2011 01 de Mar. de 2011 Simple 631-358 707-358
+07 de Dic. de 2010 05 de Ene. de 2011 Simple 529-358 631-358
+03 de Nov. de 2010 07 de Dic. de 2010 Simple 446-358 529-358
+05 de Oct. de 2010 03 de Nov. de 2010 Simple 363-358 446-358
+31 de Ago. de 2010 05 de Oct. de 2010 Simple 275-358 363-358
+27 de Jul. de 2010 31 de Ago. de 2010 Simple 216-358 275-358","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7023-24","Nombre Región Distrito Partido
+Consejo Nacional de la Cultura y las Artes      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7023-24","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+86   71 0 2 47 Aprobado Sala Ver detalle votación
+20 Votación General 7 0 0 6   Cultura Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7023-24","No record","Veto emmEnd"

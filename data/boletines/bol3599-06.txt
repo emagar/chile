@@ -1,0 +1,52 @@
+* * Bill summary * *
+"emmStart Summary 3599-06","Legislatura: 351
+Fecha de ingreso: martes 13 de julio de 2004
+Estado: Tramitación terminada (Ley Nº 19.964 - D.Oficial 26/08/2004)
+Numero de boletín: 3599-06
+Materia: Elecciones
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 04-11-2014 06:23:20
+* * Hitos de tramitación * *
+"emmStart Hitos 3599-06","Fecha Sesión Etapa Sub-etapa Documento
+13 de Jul. de 2004   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+13 de Jul. de 2004 11ª / 351 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización y de Hacienda.
+14 de Jul. de 2004 12ª / 351 Primer trámite constitucional / Senado Comunicación de la Comisión de Gobierno en que se solicita la autorización para discutir en general y particular. Se accede a lo solicitado
+20 de Jul. de 2004   Primer trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+20 de Jul. de 2004   Primer trámite constitucional / Senado Primer informe de comisión Ver
+20 de Jul. de 2004 13ª / 351 Primer trámite constitucional / Senado Cuenta extraordinaria de los certificados de las Comisiones de Gobierno, Descentralización y Regionalización y de la Comisión de Hacienda
+20 de Jul. de 2004 13ª / 351 Primer trámite constitucional / Senado Discusión única
+20 de Jul. de 2004   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+21 de Jul. de 2004 18ª / 351 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+21 de Jul. de 2004 18ª / 351 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+21 de Jul. de 2004 18ª / 351 Segundo trámite constitucional / C. Diputados Discusión única Ver
+21 de Jul. de 2004   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+23 de Jul. de 2004   Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo. Oficio para ejercer la facultad de veto Ver
+28 de Jul. de 2004   Trámite en Tribunal Constitucional / Senado Oficio al Tribunal Constitucional Ver
+03 de Ago. de 2004   Trámite de aprobacion presidencial / Senado Oficio Nº227-351. S.E el Presidente de la República comunica que no hará uso de la facultad que le confiere el inciso primero del artículo 70 de la Constitución Política. Ver
+03 de Ago. de 2004 16ª / 351 Tercer trámite constitucional / Senado Cuenta del oficio de la Cámara de Diputados en que comunica la aprobación del proyecto en los mismos términos en que lo hizo el Senado.
+10 de Ago. de 2004 19ª / 351 Trámite en Tribunal Constitucional / Senado Cuenta fallo del Tribunal Constitucional. Cuenta oficio Nº 2107 Ver
+10 de Ago. de 2004   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3599-06","Fecha Etapa Informe Documento
+21 de Jul. de 2004 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+21 de Jul. de 2004 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+20 de Jul. de 2004 Primer trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+20 de Jul. de 2004 Primer trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3599-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+20 de Jul. de 2004   Discusión inmediata 209-351  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3599-06","Nombre
+Ministerio de Hacienda
+Ministerio de Interior y Seguridad Públi","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3599-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+18   92 0 1 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3599-06","No record","Veto emmEnd"

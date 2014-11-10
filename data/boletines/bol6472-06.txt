@@ -1,0 +1,74 @@
+* * Bill summary * *
+"emmStart Summary 6472-06","Legislatura: 357
+Fecha de ingreso: martes 28 de abril de 2009
+Estado: Tramitación terminada (Ley N° 20.430 - D.Oficial 15/04/2010)
+Numero de boletín: 6472-06
+Materia: Refugiados
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 08:00:40
+* * Hitos de tramitación * *
+"emmStart Hitos 6472-06","Fecha Sesión Etapa Sub-etapa Documento
+28 de Abr. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+28 de Abr. de 2009 20ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+02 de Jun. de 2009 34ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 493-357 que hace presente la urgencia Simple Ver
+07 de Jul. de 2009 49ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 711-357 que retira y hace presente la urgencia Suma Ver
+28 de Jul. de 2009 55ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 771-357 que retira y hace presente la urgencia Suma Ver
+11 de Ago. de 2009 61ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 888-357 que retira y hace presente la urgencia Suma Ver
+02 de Sep. de 2009 74ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1061-357 que retira y hace presente la urgencia Suma Ver
+11 de Sep. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+15 de Sep. de 2009 79ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+15 de Sep. de 2009 80ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1118-357 que retira y hace presente la urgencia Suma Ver
+29 de Sep. de 2009 82ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1198-357 que retira y hace presente la urgencia Simple Ver
+30 de Sep. de 2009   Primer trámite constitucional / C. Diputados Oficio N?8343. Oficio a Cámara Revisora Ver
+30 de Sep. de 2009 83ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver
+01 de Oct. de 2009   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+06 de Oct. de 2009 54ª / 357 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía
+10 de Nov. de 2009 63ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1545-357 que retira y hace presente la urgencia Suma
+17 de Nov. de 2009 69ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1593-357 que retira y hace presente la urgencia Simple
+15 de Dic. de 2009 75ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1696-357 que retira y hace presente la urgencia Suma
+15 de Dic. de 2009   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+16 de Dic. de 2009 76ª / 357 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+21 de Dic. de 2009 77ª / 357 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 11/01/2010 Ver
+05 de Ene. de 2010 79ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1764-357 que retira y hace presente la urgencia Simple Ver
+11 de Ene. de 2010   Segundo trámite constitucional / Senado Boletín de indicaciones
+19 de Ene. de 2010 83ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1896-357 que retira y hace presente la urgencia Suma
+09 de Mar. de 2010   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+09 de Mar. de 2010 86ª / 357 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+09 de Mar. de 2010 86ª / 357 Segundo trámite constitucional / Senado Cuenta del Mensaje 1933-357 que retira la urgencia Suma Ver
+09 de Mar. de 2010 86ª / 357 Segundo trámite constitucional / Senado Discusión particular Ver
+09 de Mar. de 2010   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+10 de Mar. de 2010 125ª / 357 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+11 de Mar. de 2010   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6472-06","Fecha Etapa Informe Documento
+09 de Mar. de 2010 Segundo trámite constitucional Senado Segundo informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+15 de Dic. de 2009 Segundo trámite constitucional Senado Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+11 de Sep. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6472-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+19 de Ene. de 2010 09 de Mar. de 2010 Suma 1896-357 1933-357
+05 de Ene. de 2010 19 de Ene. de 2010 Simple 1764-357 1896-357
+15 de Dic. de 2009 05 de Ene. de 2010 Suma 1696-357 1764-357
+17 de Nov. de 2009 15 de Dic. de 2009 Simple 1593-357 1696-357
+10 de Nov. de 2009 17 de Nov. de 2009 Suma 1545-357 1593-357
+29 de Sep. de 2009 10 de Nov. de 2009 Simple 1198-357 1545-357
+15 de Sep. de 2009 28 de Sep. de 2009 Suma 1118-357 1198-357
+02 de Sep. de 2009 15 de Sep. de 2009 Suma 1061-357 1118-357
+11 de Ago. de 2009 02 de Sep. de 2009 Suma 888-357 1061-357
+28 de Jul. de 2009 11 de Ago. de 2009 Suma 771-357 888-357
+07 de Jul. de 2009 28 de Jul. de 2009 Suma 711-357 771-357
+02 de Jun. de 2009 07 de Jul. de 2009 Simple 493-357 711-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6472-06","Nombre Región Distrito Partido
+Ministerio de Interior y Seguridad Públi      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6472-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+83   80 0 0 40 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6472-06","No record","Veto emmEnd"

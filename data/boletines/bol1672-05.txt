@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 1672-05","Legislatura: 331
+Fecha de ingreso: miércoles 09 de agosto de 1995
+Estado: Tramitación terminada (Ley Nº 19.406 - D.Oficial 28/08/1995)
+Numero de boletín: 1672-05
+Materia: Aguinaldo De Fiestas Patrias
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 12:08:52
+* * Hitos de tramitación * *
+"emmStart Hitos 1672-05","Fecha Sesión Etapa Sub-etapa Documento
+09 de Ago. de 1995 26ª / 331 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+09 de Ago. de 1995   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Ago. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+10 de Ago. de 1995 27ª / 331 Primer trámite constitucional / C. Diputados Discusión general Ver
+10 de Ago. de 1995 27ª / 331 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+10 de Ago. de 1995   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora
+17 de Ago. de 1995 27ª / 331 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+17 de Ago. de 1995 27ª / 331 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+17 de Ago. de 1995   Segundo trámite constitucional / Senado Primer informe de comisión
+17 de Ago. de 1995 27ª / 331 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+17 de Ago. de 1995 27ª / 331 Segundo trámite constitucional / Senado Discusión general Ver
+17 de Ago. de 1995   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+17 de Ago. de 1995   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo
+23 de Ago. de 1995 29ª / 331 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+23 de Ago. de 1995 29ª / 331 Tercer trámite constitucional / C. Diputados Discusión única Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1672-05","Fecha Etapa Informe Documento
+16 de Ago. de 1995 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+10 de Ago. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1672-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+09 de Ago. de 1995   Discusión inmediata    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1672-05","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1672-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1672-05","No record","Veto emmEnd"

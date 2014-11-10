@@ -1,0 +1,54 @@
+* * Bill summary * *
+"emmStart Summary 1468-03","Legislatura: 330
+Fecha de ingreso: martes 13 de diciembre de 1994
+Estado: Tramitación terminada (Ley Nº 19.545 - D.Oficial 09/02/1998)
+Numero de boletín: 1468-03
+Materia: Exportaciones
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 09:29:24
+* * Hitos de tramitación * *
+"emmStart Hitos 1468-03","Fecha Sesión Etapa Sub-etapa Documento
+13 de Dic. de 1994   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Dic. de 1994 25ª / 330 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+09 de May. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de Jun. de 1995 5ª / 331 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+05 de Jul. de 1995 14ª / 331 Primer trámite constitucional / C. Diputados Discusión general Ver
+05 de Jul. de 1995   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora
+06 de Jul. de 1995 14ª / 331 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Economía
+21 de May. de 1997   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+03 de Jun. de 1997 1ª / 335 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+30 de Jul. de 1997 20ª / 335 Segundo trámite constitucional / Senado Discusión general Ver
+06 de Ago. de 1997   Segundo trámite constitucional / Senado Boletín de indicaciones
+26 de Ago. de 1997   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+26 de Ago. de 1997 26ª / 335 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+04 de Nov. de 1997   Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 336
+04 de Nov. de 1997 9ª / 336 Segundo trámite constitucional / Senado Discusión particular Ver
+04 de Nov. de 1997   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+17 de Nov. de 1997 14ª / 336 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+18 de Nov. de 1997 15ª / 336 Tercer trámite constitucional / C. Diputados Discusión única Ver
+25 de Nov. de 1997   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+09 de Dic. de 1997   Trámite en Tribunal Constitucional / C. Diputados Oficio al Tribunal Constitucional Ver
+23 de Dic. de 1997   Trámite en Tribunal Constitucional / C. Diputados Ingreso fallo del Tribunal Constitucional Ver
+29 de Dic. de 1997   Trámite en Tribunal Constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+06 de Ene. de 1998 21ª / 336 Trámite en Tribunal Constitucional / C. Diputados Cuenta fallo del Tribunal Constitucional Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1468-03","Fecha Etapa Informe Documento
+26 de Ago. de 1997 Segundo trámite constitucional Senado Segundo informe de comisión de Economía Ver
+21 de May. de 1997 Segundo trámite constitucional Senado Primer informe de comisión de Economía Ver
+09 de May. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1468-03","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+13 de Dic. de 1994   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1468-03","Nombre Región Distrito Partido
+Ministerio de Economía, Fomento y Turism      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1468-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1468-03","No record","Veto emmEnd"

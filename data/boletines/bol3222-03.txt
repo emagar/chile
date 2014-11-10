@@ -1,0 +1,65 @@
+* * Bill summary * *
+"emmStart Summary 3222-03","Legislatura: 348
+Fecha de ingreso: martes 15 de abril de 2003
+Estado: Archivado .
+Numero de boletín: 3222-03
+Materia: Acuicultura
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 04-11-2014 00:31:57
+* * Hitos de tramitación * *
+"emmStart Hitos 3222-03","Fecha Sesión Etapa Sub-etapa Documento
+15 de Abr. de 2003   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+15 de Abr. de 2003 40ª / 348 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Intereses Marítimos, Pesca y Acuicultura
+23 de Abr. de 2003   Primer trámite constitucional / Senado Primer informe de comisión Ver
+29 de Abr. de 2003 42ª / 348 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+14 de May. de 2003 51ª / 348 Primer trámite constitucional / Senado Discusión general Ver
+18 de Jun. de 2003 6ª / 349 Primer trámite constitucional / Senado Se acuerda ampliar plazo de indicaciones hasta las 17 horas del 16.07.03.
+23 de Jul. de 2003   Primer trámite constitucional / Senado Boletín de indicaciones
+18 de Nov. de 2003 12ª / 350 Primer trámite constitucional / Senado Cuenta del Mensaje 361-350 que hace presente la urgencia Simple
+17 de Mar. de 2004 40ª / 350 Primer trámite constitucional / Senado Cuenta del Mensaje 26-350 que hace presente la urgencia Simple
+14 de Sep. de 2004   Primer trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 352
+16 de Sep. de 2004   Primer trámite constitucional / Senado Segundo informe de comisión. Pasa a Comisión de Hacienda Ver
+18 de Oct. de 2004   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+20 de Oct. de 2004 7ª / 352 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+30 de Nov. de 2004 17ª / 352 Primer trámite constitucional / Senado Discusión particular Ver
+06 de Dic. de 2004 19ª / 352 Primer trámite constitucional / Senado Cuenta del Mensaje 202-352 que hace presente la urgencia suma
+04 de Ene. de 2005 23ª / 352 Primer trámite constitucional / Senado Cuenta del Mensaje 251-352 que retira la urgencia Suma
+05 de Ene. de 2005   Primer trámite constitucional / Senado Nuevo segundo informe de comisión Ver
+05 de Ene. de 2005 24ª / 352 Primer trámite constitucional / Senado Cuenta nuevo segundo informe. Queda para tabla
+28 de Ene. de 2005   Primer trámite constitucional / Senado Segundo informe complementario Ver
+16 de Mar. de 2005 37ª / 352 Primer trámite constitucional / Senado Cuenta segundo informe complementario
+23 de Mar. de 2005 39ª / 352 Primer trámite constitucional / Senado Discusión particular. Queda pendiente Se acuerda postergar su discusión para la sesión ordinaria del martes 12/04/2005. Ver
+12 de Abr. de 2005 43ª / 352 Primer trámite constitucional / Senado Discusión particular Ver
+12 de Abr. de 2005 43ª / 352 Primer trámite constitucional / Senado Discusión particular Ver
+12 de Abr. de 2005 43ª / 352 Primer trámite constitucional / Senado Por acuerdo de Comités, esta iniciativa será discutida en la sesión ordinaria de 19 de abril de 2005. Ver
+19 de Abr. de 2005 45ª / 352 Primer trámite constitucional / Senado Discusión particular Ver
+20 de Abr. de 2005 46ª / 352 Primer trámite constitucional / Senado Discusión particular. Queda pendiente Sesión especial citada para discutir la conveniencia de volver a Comisión para un nuevo informe, el proyecto de ley. Queda pendiente su votación. Ver
+03 de May. de 2005 48ª / 352 Primer trámite constitucional / Senado Queda pendiente El Senado acuerda volverlo a Comisión, para nuevo informe. Ver
+07 de Jul. de 2005   Primer trámite constitucional / Senado Boletín de indicaciones
+18 de Mar. de 2010   Primer trámite constitucional / Senado En confomidad con lo dispuesto en el inciso segundo del artículo 36 bis del Reglamento, la Comisión dispone el archivo de este asunto.
+18 de Mar. de 2010   Primer trámite constitucional / Senado Archivado","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3222-03","Fecha Etapa Informe Documento
+28 de Ene. de 2005 Primer trámite constitucional Senado Segundo informe complementario de Intereses Marítimos, Pesca y Acuicultura Ver
+04 de Ene. de 2005 Primer trámite constitucional Senado Nuevo segundo informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver
+18 de Oct. de 2004 Primer trámite constitucional Senado Segundo informe de comisión de Hacienda Ver
+16 de Sep. de 2004 Primer trámite constitucional Senado Segundo informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver
+23 de Abr. de 2003 Primer trámite constitucional Senado Primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3222-03","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+06 de Dic. de 2004 04 de Ene. de 2005 Suma 202-352 251-352
+17 de Mar. de 2004 06 de Ene. de 2004 Simple 26-350 361-350
+18 de Nov. de 2003 02 de Mar. de 2004 Simple 361-350 459-350","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3222-03","Nombre
+Ministerio de Economía, Fomento y Turism","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3222-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3222-03","No record","Veto emmEnd"

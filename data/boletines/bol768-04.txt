@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 768-04","Legislatura: 324
+Fecha de ingreso: miércoles 12 de agosto de 1992
+Estado: Tramitación terminada (Ley Nº 19.218 - D.Oficial 19/05/1993)
+Numero de boletín: 768-04
+Materia: Solidaridad
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 22:41:43
+* * Hitos de tramitación * *
+"emmStart Hitos 768-04","Fecha Sesión Etapa Sub-etapa Documento
+12 de Ago. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Ago. de 1992 29ª / 324 Primer trámite constitucional / C. Diputados Discusión única Ver
+12 de Ago. de 1992 29ª / 324 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+13 de Ago. de 1992 18ª / 324 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+13 de Abr. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+14 de Abr. de 1993 43ª / 325 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+21 de Abr. de 1993 45ª / 325 Segundo trámite constitucional / Senado Discusión general y particular. Aprobado en general y particular.
+22 de Abr. de 1993   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+22 de Abr. de 1993   Segundo trámite constitucional / Senado Oficio a la Cámara comunicando aprobación","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 768-04","Fecha Etapa Informe Documento
+13 de Abr. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 768-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 768-04","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 768-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 768-04","No record","Veto emmEnd"

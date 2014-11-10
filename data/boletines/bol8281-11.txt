@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 8281-11","Legislatura: 360
+Fecha de ingreso: martes 08 de mayo de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8281-11
+Materia: Receta Médica
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 23:37:17
+* * Hitos de tramitación * *
+"emmStart Hitos 8281-11","Fecha Sesión Etapa Sub-etapa Documento
+08 de May. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+08 de May. de 2012 22ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8281-11","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8281-11","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8281-11","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Juan Luis Castro González VI Región del Libertador Bernardo O' Higgins N°32 Partido Socialista
+Carlos Abel Jarpa Wevar VIII Región del Bío Bío N°41 Partido Radical Social Demócrata
+Manuel Monsalve Benavides VIII Región del Bío Bío N°46 Partido Socialista
+Marco Antonio Núñez Lozano V Región de Valparaíso N°11 Partido Por la Democracia
+Alberto Robles Pantoja III Región de Atacama N°6 Partido Radical Social Demócrata
+Karla Rubilar Barahona RM Región Metropolitana N°17 Renovación Nacional
+Gabriel Silber Romo RM Región Metropolitana N°16 Partido Demócrata Cristiano
+Víctor Torres Jeldes V Región de Valparaíso N°15 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8281-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8281-11","No record","Veto emmEnd"

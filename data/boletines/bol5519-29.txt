@@ -1,0 +1,48 @@
+* * Bill summary * *
+"emmStart Summary 5519-29","Legislatura: 355
+Fecha de ingreso: martes 04 de diciembre de 2007
+Estado: Segundo trámite constitucional .
+Numero de boletín: 5519-29 Refundido con: 4871-29,7230-29,7378-29,4783-29,4522-29,3455-04,6143-04
+Materia: Vehículos No Motorizados,Deportes
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 05:38:24
+* * Hitos de tramitación * *
+"emmStart Hitos 5519-29","Fecha Sesión Etapa Sub-etapa Documento
+04 de Dic. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Dic. de 2007 111ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión Especial de Deportes Ver
+30 de Nov. de 2010   Primer trámite constitucional / C. Diputados Oficio N°088-2010. Oficio de la Comisión Especial de Deportes, por el cual solicita el acuerdo de la Sala para refundir 7 proyectos de ley. Bol. 3455-04, 4522-29, 4783-29, 4871-29, 5519-29, 6143-04 y 7230-29. Ver
+22 de Jun. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de Jul. de 2011 53ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+19 de Jul. de 2011 58ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 320-359 que hace presente la urgencia Simple Ver
+11 de Ago. de 2011 69ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+16 de Ago. de 2011   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+30 de Ago. de 2011 46ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 360-359 que retira y hace presente la urgencia Simple
+13 de Sep. de 2011 52ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 380-359 que retira la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5519-29","Fecha Etapa Informe Documento
+22 de Jun. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Deportes Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5519-29","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+30 de Ago. de 2011 13 de Sep. de 2011 Simple 360-359 380-359
+19 de Jul. de 2011 30 de Ago. de 2011 Simple 320-359 360-359","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5519-29","Nombre Región Distrito Partido
+Gonzalo Arenas Hödar IX Región de la Araucanía N°48 Unión Demócrata Independiente
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Andrés Egaña Respaldiza VIII Región del Bío Bío N°44 Unión Demócrata Independiente
+Enrique Estay Peñaloza IX Región de la Araucanía N°49 Unión Demócrata Independiente
+Marcelo Forni Lobos V Región de Valparaíso N°11 Unión Demócrata Independiente
+José Antonio Kast Rist RM Región Metropolitana N°30 Unión Demócrata Independiente
+Iván Moreira Barros RM Región Metropolitana N°27 Unión Demócrata Independiente
+Claudia Nogueira Fernández RM Región Metropolitana N°19 Unión Demócrata Independiente
+Carolina Tohá Morales RM Región Metropolitana N°22 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5519-29","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5519-29","No record","Veto emmEnd"

@@ -1,0 +1,30 @@
+* * Bill summary * *
+"emmStart Summary 8710-15","Legislatura: 360
+Fecha de ingreso: martes 27 de noviembre de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8710-15
+Materia: Buses Interurbanos,Tránsito,Dispositivos De Control De Velocidad
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 10-11-2014 04:48:32
+* * Hitos de tramitación * *
+"emmStart Hitos 8710-15","Fecha Sesión Etapa Sub-etapa Documento
+27 de Nov. de 2012   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+27 de Nov. de 2012 77ª / 360 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8710-15","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8710-15","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8710-15","Nombre
+Ministerio de Justicia
+Ministerio de Transporte y Telecomunicaciones","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8710-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8710-15","No record","Veto emmEnd"

@@ -1,0 +1,35 @@
+* * Bill summary * *
+"emmStart Summary 8107-04","Legislatura: 359
+Fecha de ingreso: miércoles 21 de diciembre de 2011
+Estado: Segundo trámite constitucional .
+Numero de boletín: 8107-04
+Materia: Aeropuertos
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 09-11-2014 15:32:29
+* * Hitos de tramitación * *
+"emmStart Hitos 8107-04","Fecha Sesión Etapa Sub-etapa Documento
+21 de Dic. de 2011   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+09 de May. de 2012   Primer trámite constitucional / Senado Primer informe de comisión Ver
+15 de May. de 2012 17ª / 360 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Jul. de 2012 33ª / 360 Primer trámite constitucional / Senado Discusión general Ver
+10 de Jul. de 2012   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+11 de Jul. de 2012 54ª / 360 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de la Cultura y las Artes Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8107-04","Fecha Etapa Informe Documento
+09 de May. de 2012 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8107-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8107-04","Nombre
+Carlos Cantero Ojeda
+José Antonio Gómez Urrutia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8107-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8107-04","No record","Veto emmEnd"

@@ -1,0 +1,67 @@
+* * Bill summary * *
+"emmStart Summary 1507-13","Legislatura: 330
+Fecha de ingreso: jueves 12 de enero de 1995
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 1507-13
+Materia: Negociacion Colectiva
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 10:01:38
+* * Hitos de tramitación * *
+"emmStart Hitos 1507-13","Fecha Sesión Etapa Sub-etapa Documento
+12 de Ene. de 1995   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Ene. de 1995 36ª / 330 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+01 de Ago. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+16 de Ago. de 1995 28ª / 331 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+22 de Ago. de 1995 30ª / 331 Primer trámite constitucional / C. Diputados Discusión general Ver
+03 de Oct. de 1995 1ª / 332 Primer trámite constitucional / C. Diputados S.E. el Pdte de la Rep. incluye el proyecto en la Legisl. extraord 332 Ver
+15 de Nov. de 1995   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+21 de Nov. de 1995 19ª / 332 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+12 de Dic. de 1995 34ª / 332 Primer trámite constitucional / C. Diputados Discusión particular Ver
+12 de Dic. de 1995   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+03 de Ene. de 1996 25ª / 332 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social
+11 de Nov. de 1997   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+11 de Nov. de 1997 12ª / 336 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+16 de Dic. de 1997 20ª / 336 Segundo trámite constitucional / Senado Discusión general pendiente Ver
+17 de Dic. de 1997 21ª / 336 Segundo trámite constitucional / Senado Discusión general Ver
+17 de Dic. de 1997   Segundo trámite constitucional / Senado Oficio rechazo a Cámara de Origen Ver
+06 de Ene. de 1998 21ª / 336 Comisión Mixta por rechazo de idea de legislar / Senado Cuenta oficio rechazo de Cámara Revisora
+07 de Ene. de 1998   Comisión Mixta por rechazo de idea de legislar / Senado Oficio integrantes de Comisión Mixta
+13 de Ene. de 1998 26ª / 336 Comisión Mixta por rechazo de idea de legislar / Senado Cuenta oficio integrantes de Comisión Mixta
+05 de Oct. de 1999   Comisión Mixta por rechazo de idea de legislar / Senado S.E.El Presidente de la Republica incluye el proyecto en la Convocatoria Extraodinaria 341
+17 de Nov. de 1999   Comisión Mixta por rechazo de idea de legislar / Senado Informe de Comisión Mixta Ver
+18 de Nov. de 1999 18ª / 341 Disc. informe C.Mixta por rechazo idea de legislar C. Origen / C. Diputados Cuenta informe Comisión Mixta Ver
+18 de Nov. de 1999 18ª / 341 Disc. informe C.Mixta por rechazo idea de legislar C. Origen / C. Diputados Discusión informe de Comisión Mixta Ver
+18 de Nov. de 1999   Disc. informe C.Mixta por rechazo idea de legislar C. Origen / C. Diputados Oficio aprobación de informe de Comisión Mixta a C. Revisora Ver
+01 de Dic. de 1999 15ª / 341 Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / Senado Cuenta oficio aprobación de informe de Comisión Mixta
+01 de Dic. de 1999 17ª / 341 Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / Senado Discusión informe de Comisión Mixta
+01 de Dic. de 1999   Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / Senado Oficio rechazo de informe de Comisión Mixta a C.de Origen Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1507-13","Fecha Etapa Informe Documento
+17 de Nov. de 1999 Comisión Mixta por rechazo de idea de legislar Senado Informe de Comisión Mixta Comisión Mixta para Boletín Nº 1507-13 Ver
+11 de Nov. de 1997 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver
+15 de Nov. de 1995 Primer trámite constitucional C.Diputados Segundo informe de comisión de Trabajo y Seguridad Social Ver
+01 de Ago. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1507-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+01 de Dic. de 1999   Discusión inmediata 271-341  
+05 de Oct. de 1999 01 de Dic. de 1999 Simple 44-341 236-341
+16 de Dic. de 1997 06 de Ene. de 1998 Suma 30044-336 30054-336
+11 de Nov. de 1997 16 de Dic. de 1997 Simple 30030-336 30043-336
+07 de Oct. de 1997 11 de Nov. de 1997 Simple 20061-336 CADUCADA
+02 de Sep. de 1997 18 de Sep. de 1997 Simple 20060-334 30030-336
+05 de Jul. de 1995 02 de Ago. de 1995 Simple 172-331 293-331
+31 de May. de 1995 05 de Jul. de 1995 Simple 59-331 172-331
+06 de Abr. de 1995 18 de Abr. de 1995 Simple 553-330 592-330","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1507-13","Nombre Región Distrito Partido
+Ministerio de Trabajo y Previsión Social      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1507-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1507-13","No record","Veto emmEnd"

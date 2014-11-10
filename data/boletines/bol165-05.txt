@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 165-05","Legislatura: 321
+Fecha de ingreso: martes 02 de octubre de 1990
+Estado: Tramitación terminada (Ley Nº 19.041 - D.Oficial 11/02/1991)
+Numero de boletín: 165-05
+Materia: Depósitos Francos Aeronáuticos
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 06:39:49
+* * Hitos de tramitación * *
+"emmStart Hitos 165-05","Fecha Sesión Etapa Sub-etapa Documento
+02 de Oct. de 1990   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Oct. de 1990 1ª / 321 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+15 de Nov. de 1990 13ª / 321 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+15 de Nov. de 1990 13ª / 321 Primer trámite constitucional / C. Diputados Discusión general Ver
+15 de Nov. de 1990 13ª / 321 Primer trámite constitucional / C. Diputados Primer informe de comisión Ver Ver
+29 de Nov. de 1990 16ª / 321 Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver Ver
+29 de Nov. de 1990 16ª / 321 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+29 de Nov. de 1990 16ª / 321 Primer trámite constitucional / C. Diputados Discusión particular Ver
+04 de Dic. de 1990 16ª / 321 Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+05 de Dic. de 1990 21ª / 321 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a la Comisión de Hacienda.
+17 de Ene. de 1991 35ª / 321 Segundo trámite constitucional / Senado Primer informe de comisión Ver
+17 de Ene. de 1991 35ª / 321 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+17 de Ene. de 1991 35ª / 321 Segundo trámite constitucional / Senado Discusión general Ver
+21 de Ene. de 1991   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+22 de Ene. de 1991 31ª / 321 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+22 de Ene. de 1991 31ª / 321 Tercer trámite constitucional / C. Diputados Discusión única Ver
+22 de Ene. de 1991   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 165-05","Fecha Etapa Informe Documento
+17 de Ene. de 1991 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+29 de Nov. de 1990 Primer trámite constitucional C.Diputados Segundo informe de comisión de Hacienda Ver
+15 de Nov. de 1990 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 165-05","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 165-05","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 165-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 165-05","No record","Veto emmEnd"

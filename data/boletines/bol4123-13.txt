@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 4123-13","Legislatura: 354
+Fecha de ingreso: miércoles 22 de marzo de 2006
+Estado: Segundo trámite constitucional .
+Numero de boletín: 4123-13 Refundido con: 4045-13
+Materia: Finiquito Del Contrato De Trabajo
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 19:03:23
+* * Hitos de tramitación * *
+"emmStart Hitos 4123-13","Fecha Sesión Etapa Sub-etapa Documento
+22 de Mar. de 2006 6ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+22 de Mar. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+11 de Sep. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Sep. de 2006 74ª / 354 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+12 de Sep. de 2006 74ª / 354 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+12 de Sep. de 2006 74ª / 354 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+12 de Sep. de 2006   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+13 de Sep. de 2006 55ª / 354 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4123-13","Fecha Etapa Informe Documento
+11 de Sep. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4123-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4123-13","Nombre Región Distrito Partido
+Ramón Barros Montero VI Región del Libertador Bernardo O' Higgins N°35 Unión Demócrata Independiente
+Javier Hernández Hernández X Región de los Lagos N°55 Unión Demócrata Independiente
+Juan Lobos Krause VIII Región del Bío Bío N°47 Unión Demócrata Independiente
+Iván Norambuena Farías VIII Región del Bío Bío N°46 Unión Demócrata Independiente
+Felipe Salaberry Soto RM Región Metropolitana N°25 Unión Demócrata Independiente
+Marisol Turres Figueroa X Región de los Lagos N°57 Unión Demócrata Independiente
+Felipe Ward Edwards II Región de Antofagasta N°3 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4123-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4123-13","No record","Veto emmEnd"

@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 386-07","Legislatura: 322
+Fecha de ingreso: sábado 08 de junio de 1991
+Estado: Tramitación terminada (Ley Nº 19.164 - D.Oficial 02/09/1992)
+Numero de boletín: 386-07
+Materia: Legítima Defensa,Derecho A La Legítima Defensa
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 16:35:52
+* * Hitos de tramitación * *
+"emmStart Hitos 386-07","Fecha Sesión Etapa Sub-etapa Documento
+08 de Jun. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+18 de Jun. de 1991 8ª / 322 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+07 de Abr. de 1992 49ª / 323 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+29 de Abr. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+05 de May. de 1992 55ª / 323 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Jun. de 1992   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+16 de Jun. de 1992 5ª / 324 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+01 de Jul. de 1992   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+06 de Ago. de 1992 15ª / 324 Comisión Mixta por rechazo de modificaciones / Senado Cuenta oficio rechazo a modificaciones
+06 de Ago. de 1992   Comisión Mixta por rechazo de modificaciones / Senado Oficio integrantes de Comisión Mixta Ver
+13 de Ago. de 1992   Comisión Mixta por rechazo de modificaciones / Senado Informe de Comisión Mixta Ver
+20 de Ago. de 1992 20ª / 324 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Cuenta oficio aprobación de informe de Comisión Mixta
+25 de Ago. de 1992   Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Oficio aprobación de informe de Comisión Mixta a C.de Origen Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 386-07","Fecha Etapa Informe Documento
+13 de Ago. de 1992 Comisión Mixta por rechazo de modificaciones Senado Informe de Comisión Mixta de Constitución, Legislación, Justicia y Reglamento Ver
+10 de Jun. de 1992 Segundo trámite constitucional Senado Segundo informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+29 de Abr. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 386-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 386-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 386-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 386-07","No record","Veto emmEnd"

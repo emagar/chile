@@ -1,0 +1,35 @@
+* * Bill summary * *
+"emmStart Summary 3251-13","Legislatura: 349
+Fecha de ingreso: martes 10 de junio de 2003
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 3251-13
+Materia: Siesta
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 00:48:45
+* * Hitos de tramitación * *
+"emmStart Hitos 3251-13","Fecha Sesión Etapa Sub-etapa Documento
+10 de Jun. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Jun. de 2003 4ª / 349 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+12 de Ago. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+28 de Ago. de 2003 34ª / 349 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+09 de Oct. de 2003 7ª / 350 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+03 de Dic. de 2003 26ª / 350 Primer trámite constitucional / C. Diputados Discusión general Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3251-13","Fecha Etapa Informe Documento
+12 de Ago. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3251-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3251-13","Nombre Región Distrito Partido
+Rodolfo Seguel Molina RM Región Metropolitana N°28 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3251-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+26   26 50 2 2   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3251-13","No record","Veto emmEnd"

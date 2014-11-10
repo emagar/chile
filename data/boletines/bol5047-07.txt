@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 5047-07","Legislatura: 355
+Fecha de ingreso: miércoles 09 de mayo de 2007
+Estado: Tramitación terminada (Ley Nº 20.315 - D.Oficial 05/01/2009)
+Numero de boletín: 5047-07
+Materia: Nacionalización
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 07-11-2014 00:06:02
+* * Hitos de tramitación * *
+"emmStart Hitos 5047-07","Fecha Sesión Etapa Sub-etapa Documento
+09 de May. de 2007   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+15 de May. de 2007 19ª / 355 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía
+03 de Jul. de 2007   Primer trámite constitucional / Senado Primer informe de comisión Ver
+03 de Jul. de 2007 29ª / 355 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+04 de Jul. de 2007 30ª / 355 Primer trámite constitucional / Senado Discusión general Ver
+04 de Jul. de 2007   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+05 de Jul. de 2007 46ª / 355 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver Ver
+30 de Jul. de 2008   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Ago. de 2008 57ª / 356 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+04 de Dic. de 2008 112ª / 356 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+04 de Dic. de 2008   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+09 de Dic. de 2008 77ª / 356 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+09 de Dic. de 2008   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5047-07","Fecha Etapa Informe Documento
+30 de Jul. de 2008 Segundo trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+03 de Jul. de 2007 Primer trámite constitucional Senado Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5047-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5047-07","Nombre
+Camilo Escalona Medina
+José García Ruminot
+Carlos Ignacio Kuschel Silva
+Hosaín Sabag Castillo
+Guillermo Vásquez Úbeda","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5047-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+112   41 0 0 79 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5047-07","No record","Veto emmEnd"

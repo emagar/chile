@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 72-04","Legislatura: 320
+Fecha de ingreso: miércoles 06 de junio de 1990
+Estado: Tramitación terminada (Ley Nº 19.037 - D.Oficial 30/01/1991)
+Numero de boletín: 72-04
+Materia: Ministerio De Educación,Ministerios
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 30-10-2014 16:41:16
+* * Hitos de tramitación * *
+"emmStart Hitos 72-04","Fecha Sesión Etapa Sub-etapa Documento
+06 de Jun. de 1990   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Jun. de 1990 6ª / 320 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+11 de Jul. de 1990   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+25 de Jul. de 1990 19ª / 320 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+26 de Nov. de 1990   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+12 de Dic. de 1990 19ª / 321 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Dic. de 1990 24ª / 321 Segundo trámite constitucional / Senado Discusión general Ver
+14 de Dic. de 1990   Segundo trámite constitucional / Senado Oficio rechazo a Cámara de Origen Ver
+19 de Dic. de 1990 27ª / 321 Comisión Mixta por rechazo de idea de legislar / Senado Cuenta oficio integrantes de Comisión Mixta
+16 de Ene. de 1991   Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / Senado Informe de comisión Ver
+17 de Ene. de 1991 35ª / 321 Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / Senado Discusión informe de Comisión Mixta
+17 de Ene. de 1991   Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Oficio aprobación de informe de Comisión Mixta a C.de Origen Ver
+22 de Ene. de 1991 31ª / 321 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación de informe de Comisión Mixta Ver
+29 de Abr. de 2003   Trámite finalización en Cámara de Origen / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 348
+02 de Dic. de 2003   Trámite finalización en Cámara de Origen / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 350","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 72-04","Fecha Etapa Informe Documento
+16 de Ene. de 1991 Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. Senado Informe de comisión Comisión Mixta para Boletín Nº 72-04 Ver
+26 de Nov. de 1990 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+11 de Jul. de 1990 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 72-04","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+06 de Jun. de 1990   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 72-04","Nombre Región Distrito Partido
+Ministerio de Educación      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 72-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 72-04","No record","Veto emmEnd"

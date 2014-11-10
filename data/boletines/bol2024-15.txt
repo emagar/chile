@@ -1,0 +1,51 @@
+* * Bill summary * *
+"emmStart Summary 2024-15","Legislatura: 334
+Fecha de ingreso: miércoles 14 de mayo de 1997
+Estado: Segundo trámite constitucional .
+Numero de boletín: 2024-15
+Materia: Discapacidad,Vehiculos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 17:48:05
+* * Hitos de tramitación * *
+"emmStart Hitos 2024-15","Fecha Sesión Etapa Sub-etapa Documento
+14 de May. de 1997   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+14 de May. de 1997 70ª / 334 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+14 de Ago. de 1998   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de Ago. de 1998 27ª / 338 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+09 de Sep. de 1998 34ª / 338 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+23 de Oct. de 2001   Primer trámite constitucional / C. Diputados Segundo informe de comisión. Pasa a Comisión de Hacienda Ver
+13 de May. de 2005   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de May. de 2005 76ª / 352 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión. de Obras Públicas y de Hacienda. Ver
+08 de Jun. de 2005 4ª / 353 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver
+08 de Jun. de 2005   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+15 de Jun. de 2005 6ª / 353 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones y a Comisión de Hacienda Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2024-15","Fecha Etapa Informe Documento
+13 de May. de 2005 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+23 de Oct. de 2001 Primer trámite constitucional C.Diputados Segundo informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+14 de Ago. de 1998 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2024-15","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2024-15","Nombre Región Distrito Partido
+Francisco Bayo Veloso Región N°48 Renovación Nacional
+María Angélica Cristi Marfil Región N°24 Renovación Nacional
+Angel Fantuzzi Hernandez Región N°20 Renovación Nacional
+Harry Jürgensen Caesar Región N° Renovación Nacional
+Vicente Karelovic Vrandecic Región N° Independientes
+Carlos Ignacio Kuschel Silva Región N°57 Renovación Nacional
+Arturo Longton Guerrero Región N°12 Renovación Nacional
+Eugenio Munizaga Rodriguez Región N°7 Renovación Nacional
+Baldo Prokurica Prokurica Región N°6 Renovación Nacional
+Teodoro Ribera Neumann Región N°51 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2024-15","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+4   76 0 0 1 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2024-15","No record","Veto emmEnd"

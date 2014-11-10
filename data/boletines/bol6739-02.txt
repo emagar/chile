@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 6739-02","Legislatura: 357
+Fecha de ingreso: martes 27 de octubre de 2009
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 6739-02
+Materia: Jurisdicción Militar,Competencia Territorial,Tribunales Militares
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 15:47:07
+* * Hitos de tramitación * *
+"emmStart Hitos 6739-02","Fecha Sesión Etapa Sub-etapa Documento
+27 de Oct. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+27 de Oct. de 2009 92ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Defensa Nacional. Se remite el proyecto a la Corte Suprema. Ver
+27 de Oct. de 2009   Primer trámite constitucional / C. Diputados Oficio N° 8386 a la Corte Suprema Ver
+15 de Dic. de 2009 109ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1655-357 que hace presente la urgencia Suma Ver
+16 de Dic. de 2009 110ª / 357 Primer trámite constitucional / C. Diputados Cuenta oficio N? 276 de la Corte Suprema Ver Ver
+05 de Ene. de 2010 114ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1741-357 que retira y hace presente la urgencia Suma Ver
+19 de Ene. de 2010 120ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1828-357 que retira y hace presente la urgencia Suma Ver
+20 de Ene. de 2010 121ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1881-357 que retira y hace presente la urgencia Simple Ver
+08 de Mar. de 2010 123ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1934-357 que retira la urgencia Simple Ver
+09 de Sep. de 2010 74ª / 358 Tramitación terminada / Oficio de S. E. el Presidente de la República por el cual comunica que retira el proyecto de su tramitación ante el Congreso Nacional. Como se pide.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6739-02","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6739-02","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+20 de Ene. de 2010 08 de Mar. de 2010 Simple 1881-357 1934-357
+19 de Ene. de 2010 20 de Ene. de 2010 Suma 1828-357 1881-357
+15 de Dic. de 2009 05 de Ene. de 2010 Suma 1655-357 1741-357
+05 de Ene. de 0010 19 de Ene. de 2010 Suma 1741-357 1828-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6739-02","Nombre Región Distrito Partido
+Ministerio de Defensa Nacional      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6739-02","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6739-02","No record","Veto emmEnd"

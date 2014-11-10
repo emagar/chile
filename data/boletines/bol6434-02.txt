@@ -1,0 +1,54 @@
+* * Bill summary * *
+"emmStart Summary 6434-02","Legislatura: 357
+Fecha de ingreso: martes 31 de marzo de 2009
+Estado: Tramitación terminada (Ley Nº 20.344 - D.Oficial 27/04/2009)
+Numero de boletín: 6434-02
+Materia: Fuerzas De Orden Y Seguridad,Reajustes
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 07:35:27
+* * Hitos de tramitación * *
+"emmStart Hitos 6434-02","Fecha Sesión Etapa Sub-etapa Documento
+31 de Mar. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+31 de Mar. de 2009 6ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Defensa Nacional y a Comisión de Hacienda Ver
+07 de Abr. de 2009 7ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 106-357 que hace presente la urgencia Suma Ver
+08 de Abr. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Abr. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+09 de Abr. de 2009 13ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+09 de Abr. de 2009 13ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+09 de Abr. de 2009   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+14 de Abr. de 2009 9ª / 357 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda y a Comisión de Defensa Nacional
+15 de Abr. de 2009   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+15 de Abr. de 2009 11ª / 357 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión. de Hacienda y de Defensa Nacional, unidas.
+15 de Abr. de 2009 11ª / 357 Segundo trámite constitucional / Senado Discusión general Ver
+15 de Abr. de 2009   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+16 de Abr. de 2009 19ª / 357 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+16 de Abr. de 2009 19ª / 357 Tercer trámite constitucional / C. Diputados Discusión única Ver
+16 de Abr. de 2009   Tercer trámite constitucional / C. Diputados Oficio N? 8039, que comunica aprobacion de modificaciones Ver
+16 de Abr. de 2009   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+28 de Abr. de 2009 12ª / 357 Tercer trámite constitucional / C. Diputados Cuenta oficio N? 8039, que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6434-02","Fecha Etapa Informe Documento
+15 de Abr. de 2009 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda y de Defensa Nacional, unidas Ver
+09 de Abr. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Defensa Nacional Ver
+08 de Abr. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6434-02","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+07 de Abr. de 2009   Suma 106-357  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6434-02","Nombre Región Distrito Partido
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6434-02","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+19   72 0 0 0 Aprobado Sala Ver detalle votación
+13 Admisibilidad de Indicación de la Comisión de Hacienda para intercalar un art. 8° nuevo 36 15 16 53 Aprobado Sala Ver detalle votación
+13   73 0 2 45 Aprobado Sala Ver detalle votación
+13 Artículo 1° y 2° transitorios. 63 0 0 57 Aprobado Sala Ver detalle votación
+13 Indicación del Ejecutivo para suprimir el art. 8°. 19 44 7 50 Rechazado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6434-02","No record","Veto emmEnd"

@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 289-15","Legislatura: 321
+Fecha de ingreso: martes 05 de marzo de 1991
+Estado: Tramitación terminada (Ley Nº 19.050 - D.Oficial 22/03/1991)
+Numero de boletín: 289-15
+Materia: Seguros
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 14:06:17
+* * Hitos de tramitación * *
+"emmStart Hitos 289-15","Fecha Sesión Etapa Sub-etapa Documento
+07 de Ene. de 1991   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Mar. de 1991   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+05 de Mar. de 1991 36ª / 321 Primer trámite constitucional / Senado Cuenta de proyecto
+05 de Mar. de 1991 36ª / 321 Primer trámite constitucional / Senado Discusión única
+06 de Mar. de 1991 36ª / 321 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+07 de Mar. de 1991 34ª / 321 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+07 de Mar. de 1991 34ª / 321 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+12 de Mar. de 1991 37ª / 321 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+12 de Mar. de 1991 37ª / 321 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+    Trámite de aprobacion presidencial / Senado Ingreso de observaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 289-15","Fecha Etapa Informe Documento
+07 de Ene. de 1991 Segundo trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 289-15","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+05 de Mar. de 1991   Suma 05/03/91  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 289-15","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 289-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 289-15","No record","Veto emmEnd"

@@ -1,0 +1,32 @@
+* * Bill summary * *
+"emmStart Summary 8600-07","Legislatura: 360
+Fecha de ingreso: martes 02 de octubre de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8600-07
+Materia: Crimenes De Guerra,Crímenes De Lesa Humanidad,Genocidio,Beneficios Carcelarios
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 03:31:20
+* * Hitos de tramitación * *
+"emmStart Hitos 8600-07","Fecha Sesión Etapa Sub-etapa Documento
+02 de Oct. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Oct. de 2012 82ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8600-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8600-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8600-07","Nombre Región Distrito Partido
+Sergio Aguiló Melo VII Región del Maule N°37 Izquierda Ciudadana
+Lautaro Carmona Soto III Región de Atacama N°5 Partido Comunista
+Hugo Gutiérrez Gálvez I Región de Tarapacá N°2 Partido Comunista
+Guillermo Teillier Del Valle RM Región Metropolitana N°28 Partido Comunista","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8600-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8600-07","No record","Veto emmEnd"

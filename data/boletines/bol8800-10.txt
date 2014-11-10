@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 8800-10","Legislatura: 360
+Fecha de ingreso: jueves 24 de enero de 2013
+Estado: Tramitación terminada (D.S N° 124 - D.Oficial 14/01/2014)
+Numero de boletín: 8800-10
+Materia: Acuerdo Chile-Sri Lanka Sobre Exencion De Visa Pasaportes Diplomaticos (26 De Junio 2012: Colombia)
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 05:53:05
+* * Hitos de tramitación * *
+"emmStart Hitos 8800-10","Fecha Sesión Etapa Sub-etapa Documento
+24 de Ene. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+24 de Ene. de 2013 132ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+05 de Mar. de 2013   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Mar. de 2013 1ª / 361 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+16 de May. de 2013 29ª / 361 Primer trámite constitucional / C. Diputados Discusión general Ver
+16 de May. de 2013   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+22 de May. de 2013 26ª / 361 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+30 de Jul. de 2013   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+31 de Jul. de 2013 43ª / 361 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+04 de Sep. de 2013 53ª / 361 Segundo trámite constitucional / Senado Discusión general Ver
+04 de Sep. de 2013   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+05 de Sep. de 2013 69ª / 361 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+05 de Sep. de 2013   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8800-10","Fecha Etapa Informe Documento
+30 de Jul. de 2013 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+05 de Mar. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8800-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8800-10","Nombre Región Distrito Partido
+Ministerio de Interior y Seguridad Públi      
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8800-10","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+29   52 0 0 68 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8800-10","No record","Veto emmEnd"

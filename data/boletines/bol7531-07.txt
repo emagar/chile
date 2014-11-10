@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 7531-07","Legislatura: 359
+Fecha de ingreso: martes 15 de marzo de 2011
+Estado: Primer trámite constitucional .
+Numero de boletín: 7531-07
+Materia: Constitucion 1980,Período De Los Senadores,Senado
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 05:10:02
+* * Hitos de tramitación * *
+"emmStart Hitos 7531-07","Fecha Sesión Etapa Sub-etapa Documento
+15 de Mar. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+15 de Mar. de 2011 2ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7531-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7531-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7531-07","Nombre Región Distrito Partido
+Pedro Araya Guerrero II Región de Antofagasta N°4 Partido Regionalista Independiente
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Felipe Harboe Bascuñán RM Región Metropolitana N°22 Partido Por la Democracia
+Marta Isasi Barbieri I Región de Tarapacá N°2 Independientes
+Miodrag Marinovic Solo de Zaldívar XII Región de Magallanes y de la Antártica Chilena N°60 Independientes
+Fernando Meza Moncada IX Región de la Araucanía N°52 Partido Radical Social Demócrata
+María Antonieta Saa Díaz RM Región Metropolitana N°17 Partido Por la Democracia
+Víctor Torres Jeldes V Región de Valparaíso N°15 Partido Demócrata Cristiano
+Pedro Velásquez Seguel IV Región de Coquimbo N°8 Independientes","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7531-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7531-07","No record","Veto emmEnd"

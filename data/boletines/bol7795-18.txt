@@ -1,0 +1,51 @@
+* * Bill summary * *
+"emmStart Summary 7795-18","Legislatura: 359
+Fecha de ingreso: lunes 18 de julio de 2011
+Estado: Segundo trámite constitucional .
+Numero de boletín: 7795-18
+Materia: Dia Nacional De La Familia (Ultimo Domingo De Julio)
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 11:15:22
+* * Hitos de tramitación * *
+"emmStart Hitos 7795-18","Fecha Sesión Etapa Sub-etapa Documento
+18 de Jul. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+19 de Jul. de 2011 58ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Familia Ver
+10 de Nov. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+15 de Nov. de 2011 108ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+24 de Nov. de 2011 115ª / 359 Primer trámite constitucional / C. Diputados Discusión General. Pendiente Ver
+29 de Nov. de 2011 117ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+04 de Ene. de 2012   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+05 de Ene. de 2012 128ª / 359 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+07 de Mar. de 2012 141ª / 359 Primer trámite constitucional / C. Diputados Discusión particular Ver
+07 de Mar. de 2012   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7795-18","Fecha Etapa Informe Documento
+04 de Ene. de 2012 Primer trámite constitucional C.Diputados Segundo informe de comisión de Familia Ver
+10 de Nov. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Familia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7795-18","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7795-18","Nombre Región Distrito Partido
+Osvaldo Andrade Lara RM Región Metropolitana N°29 Partido Socialista
+Pepe Auth Stewart RM Región Metropolitana N°20 Partido Por la Democracia
+María Angélica Cristi Marfil RM Región Metropolitana N°24 Unión Demócrata Independiente
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Carlos Abel Jarpa Wevar VIII Región del Bío Bío N°41 Partido Radical Social Demócrata
+Cristián Monckeberg Bruner RM Región Metropolitana N°23 Renovación Nacional
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Partido Regionalista Independiente
+Guillermo Teillier Del Valle RM Región Metropolitana N°28 Partido Comunista
+Pedro Velásquez Seguel IV Región de Coquimbo N°8 Independientes
+Mónica Zalaquett Said RM Región Metropolitana N°20 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7795-18","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+117   103 1 3 13 Aprobado Sala Ver detalle votación
+141 Votación separada artículo único, frase despues del punto aparte. 47 42 4 27 Aprobado Sala Ver detalle votación
+141 Artículo único, con indicación y votación separada. 51 47 2 20 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7795-18","No record","Veto emmEnd"

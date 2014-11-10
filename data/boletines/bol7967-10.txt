@@ -1,0 +1,54 @@
+* * Bill summary * *
+"emmStart Summary 7967-10","Legislatura: 359
+Fecha de ingreso: martes 04 de octubre de 2011
+Estado: Tramitación terminada (D.S N° 142 - D.Oficial 02/04/2014)
+Numero de boletín: 7967-10
+Materia: Tránsito En Los Pasos De Fronteras,Acuerdo Marco Sistema Control Integrado De Tránsito En Pasos Fronterizos Chile-Perú (19 De Enero 2011: Santiago De Chile)
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 13:53:46
+* * Hitos de tramitación * *
+"emmStart Hitos 7967-10","Fecha Sesión Etapa Sub-etapa Documento
+04 de Oct. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Oct. de 2011 89ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+04 de Oct. de 2011 89ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 401-359 que hace presente la urgencia Suma Ver
+04 de Oct. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Oct. de 2011 93ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+18 de Oct. de 2011 98ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 426-359 que hace presente la urgencia Suma Ver
+02 de Nov. de 2011 102ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 431-359 que hace presente la urgencia Suma Ver
+02 de Nov. de 2011 102ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+02 de Nov. de 2011   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+16 de Nov. de 2011 69ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 450-359 que retira y hace presente la urgencia Suma
+12 de Dic. de 2011 79ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 478-359 que retira y hace presente la urgencia Suma
+03 de Ene. de 2012 85ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 523-359 que retira y hace presente la urgencia Suma
+13 de Ene. de 2012   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+18 de Ene. de 2012 91ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 565-359 que retira y hace presente la urgencia Suma
+31 de Ene. de 2012 93ª / 359 Segundo trámite constitucional / Senado Discusión general Ver
+31 de Ene. de 2012   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+31 de Ene. de 2012   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7967-10","Fecha Etapa Informe Documento
+13 de Ene. de 2012 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+04 de Oct. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7967-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+18 de Ene. de 2012 18 de Ene. de 2012 Suma 565-359 567-359
+03 de Ene. de 2012 18 de Ene. de 2012 Suma 523-359 565-359
+12 de Dic. de 2011 03 de Ene. de 2012 Suma 478-359 523-359
+16 de Nov. de 2011 12 de Dic. de 2011 Suma 450-359 478-359
+02 de Nov. de 2011 16 de Nov. de 2011 Suma 431-359 450-359
+18 de Oct. de 2011   Suma 426-359  
+04 de Oct. de 2011   Suma 401-359  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7967-10","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7967-10","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+102   111 0 1 8 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7967-10","No record","Veto emmEnd"

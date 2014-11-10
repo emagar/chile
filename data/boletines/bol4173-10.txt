@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 4173-10","Legislatura: 354
+Fecha de ingreso: jueves 04 de mayo de 2006
+Estado: Tramitación terminada (D.S. Nº 142 - D.Oficial 25/10/2007)
+Numero de boletín: 4173-10
+Materia: Asistencia Jurídica,Mercosur
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 22:34:34
+* * Hitos de tramitación * *
+"emmStart Hitos 4173-10","Fecha Sesión Etapa Sub-etapa Documento
+04 de May. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de May. de 2006 20ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+19 de Dic. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+21 de Dic. de 2006 111ª / 354 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Mar. de 2007 2ª / 355 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+14 de Mar. de 2007   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+20 de Mar. de 2007 4ª / 355 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores Ver
+04 de Abr. de 2007   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+04 de Abr. de 2007 8ª / 355 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Abr. de 2007 9ª / 355 Segundo trámite constitucional / Senado Discusión general Ver
+10 de Abr. de 2007   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+11 de Abr. de 2007 13ª / 355 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver Ver
+11 de Abr. de 2007   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4173-10","Fecha Etapa Informe Documento
+04 de Abr. de 2007 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+19 de Dic. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4173-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4173-10","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4173-10","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+2   86 0 0 0 Aprobado Sala Ver detalle votación
+37 Votación General 8 0 0 5   Relaciones Exteriores Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4173-10","No record","Veto emmEnd"

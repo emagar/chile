@@ -1,0 +1,70 @@
+* * Bill summary * *
+"emmStart Summary 8069-14","Legislatura: 359
+Fecha de ingreso: miércoles 30 de noviembre de 2011
+Estado: Segundo trámite constitucional .
+Numero de boletín: 8069-14
+Materia: Créditos Hipotecarios,Alzamiento De Hipotecas
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 15:04:34
+* * Hitos de tramitación * *
+"emmStart Hitos 8069-14","Fecha Sesión Etapa Sub-etapa Documento
+30 de Nov. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+30 de Nov. de 2011 118ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Vivienda y Desarrollo Urbano Ver
+01 de Dic. de 2011 119ª / 359 Primer trámite constitucional / C. Diputados Oficio N°9846. La Sala acordó que el proyecto, sea remitido a la Comisión de Constitución, Legislación y Justicia, radicada actualmente en la Comisión de Vivienda y Desarrollo Urbano. Ver Ver
+02 de Ago. de 2012   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de Ago. de 2012 66ª / 360 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de Ago. de 2012 70ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+30 de Ago. de 2012 74ª / 360 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general Ver
+21 de Ene. de 2014   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+21 de Ene. de 2014 116ª / 361 Primer trámite constitucional / C. Diputados Cuenta. Segundo informe de la Comisión de Constitución, Legislación y Justicia recaído en el proyecto. Ver
+20 de Mar. de 2014 5ª / 362 Primer trámite constitucional / C. Diputados Oficio N° 11.185. La Cámara de Diputados acordó remitir el proyecto a la Comisión de Economía, Fomento; Micro, Pequeña y Mediana Empresa, Protección de los Consumidores y Turismo, a fin de que emita el informe correspondiente, a más tardar, el viernes 4 de abril del año en curso. Ver Ver
+20 de Mar. de 2014 5ª / 362 Primer trámite constitucional / C. Diputados Boletín de indicaciones Ver
+04 de Abr. de 2014   Primer trámite constitucional / C. Diputados Segundo informe complementario Ver
+08 de Abr. de 2014 9ª / 362 Primer trámite constitucional / C. Diputados Cuenta segundo informe complementario Ver
+15 de May. de 2014 25ª / 362 Primer trámite constitucional / C. Diputados Discusión particular. Aprobado Ver
+15 de May. de 2014   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+20 de May. de 2014 19ª / 362 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Economía
+01 de Jul. de 2014 27ª / 362 Segundo trámite constitucional / Senado Cuenta del Mensaje 238-362 que hace presente la urgencia Simple
+23 de Jul. de 2014 34ª / 362 Segundo trámite constitucional / Senado Cuenta del Mensaje 321-362 que retira y hace presente la urgencia Simple
+19 de Ago. de 2014 40ª / 362 Segundo trámite constitucional / Senado Cuenta del Mensaje 400-362 que retira y hace presente la urgencia Simple
+09 de Sep. de 2014 45ª / 362 Segundo trámite constitucional / Senado Cuenta del Mensaje 498-362 que retira y hace presente la urgencia Simple
+07 de Oct. de 2014 52ª / 362 Segundo trámite constitucional / Senado Cuenta del Mensaje 625-362 que retira y hace presente la urgencia Simple
+04 de Nov. de 2014 60ª / 362 Segundo trámite constitucional / Senado Cuenta del Mensaje 761-362 que retira y hace presente la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8069-14","Fecha Etapa Informe Documento
+04 de Abr. de 2014 Primer trámite constitucional C.Diputados Segundo informe complementario de Economía, Fomento y Desarrollo Ver
+21 de Ene. de 2014 Primer trámite constitucional C.Diputados Segundo informe de comisión de Constitución, Legislación y Justicia Ver
+02 de Ago. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8069-14","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Nov. de 2014   Simple 761-362  
+07 de Oct. de 2014 04 de Nov. de 2014 Simple 625-362 761-362
+09 de Sep. de 2014 07 de Oct. de 2014 Simple 498-362 625-362
+19 de Ago. de 2014 09 de Sep. de 2014 Simple 400-362 498-362
+23 de Jul. de 2014 19 de Ago. de 2014 Simple 321-362 400-362
+01 de Jul. de 2014 23 de Jul. de 2014 Simple 238-362 321-362","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8069-14","Nombre Región Distrito Partido
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Aldo Cornejo González V Región de Valparaíso N°13 Partido Demócrata Cristiano
+Joaquín Godoy Ibáñez V Región de Valparaíso N°13 Renovación Nacional
+Felipe Harboe Bascuñán RM Región Metropolitana N°22 Partido Por la Democracia
+Enrique Jaramillo Becker XIV Región de los Ríos N°54 Partido Por la Democracia
+Cristián Monckeberg Bruner RM Región Metropolitana N°23 Renovación Nacional
+José Miguel Ortiz Novoa VIII Región del Bío Bío N°44 Partido Demócrata Cristiano
+Alberto Robles Pantoja III Región de Atacama N°6 Partido Radical Social Demócrata
+Jorge Tarud Daccarett VII Región del Maule N°39 Partido Por la Democracia
+Matías Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8069-14","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+74   64 0 0 56 Aprobado Sala Ver detalle votación
+25 Artículo único permanente 89 0 0 31 Aprobado Sala Ver detalle votación
+176 Votación General 6 0 0 7   Constitución Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8069-14","No record","Veto emmEnd"

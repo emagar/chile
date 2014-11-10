@@ -1,0 +1,39 @@
+* * Bill summary * *
+"emmStart Summary 1983-04","Legislatura: 334
+Fecha de ingreso: miércoles 29 de enero de 1997
+Estado: Archivado .
+Numero de boletín: 1983-04
+Materia: Menores
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 17:06:48
+* * Hitos de tramitación * *
+"emmStart Hitos 1983-04","Fecha Sesión Etapa Sub-etapa Documento
+29 de Ene. de 1997   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+29 de Ene. de 1997 45ª / 334 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+09 de Sep. de 1998   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+15 de Oct. de 1998 6ª / 339 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+21 de Jul. de 1999 22ª / 340 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+19 de Jul. de 2005 20ª / 353 Primer trámite constitucional / C. Diputados Cuenta Oficio Comisión de Educación, solicita archivo de proyecto. En tabla, se accede al archivo solicitado Ver
+19 de Jul. de 2005   Primer trámite constitucional / C. Diputados Oficio Nº 5726. a Comisión de Educación, comunica accede a archivo solicitado Ver
+19 de Jul. de 2005   Primer trámite constitucional / C. Diputados Archivado","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1983-04","Fecha Etapa Informe Documento
+09 de Sep. de 1998 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1983-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1983-04","Nombre Región Distrito Partido
+Mariana Aylwin Oyarzún Región N° Partido Demócrata Cristiano
+Juan Pablo Letelier Morel Región N°33 Partido Socialista
+Carlos Montes Cisternas Región N°26 Partido Socialista
+Fanny Pollarolo Villa Región N° Partido Socialista","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1983-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1983-04","No record","Veto emmEnd"

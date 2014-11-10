@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 198-09","Legislatura: 321
+Fecha de ingreso: martes 06 de noviembre de 1990
+Estado: Tramitación terminada (Ley Nº 19.068 - D.Oficial 13/07/1991)
+Numero de boletín: 198-09
+Materia: Ministerios
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 07:08:05
+* * Hitos de tramitación * *
+"emmStart Hitos 198-09","Fecha Sesión Etapa Sub-etapa Documento
+06 de Nov. de 1990   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Nov. de 1990 10ª / 321 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+03 de Dic. de 1990   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de Dic. de 1990 26ª / 321 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a la Comisión de Obras Públicas.
+10 de Abr. de 1991   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+16 de Abr. de 1991 44ª / 321 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+17 de Abr. de 1991 45ª / 321 Segundo trámite constitucional / Senado Discusión general Ver
+17 de Abr. de 1991 45ª / 321 Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen
+17 de Abr. de 1991   Tramitación terminada / Oficio Nº1026. comunica aprobación con modificaciones a Cámara de origen Ver
+18 de Abr. de 1991 48ª / 321 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+30 de Abr. de 1991 49ª / 321 Tercer trámite constitucional / C. Diputados Discusión única Ver
+29 de Abr. de 2003   Tercer trámite constitucional / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 348","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 198-09","Fecha Etapa Informe Documento
+10 de Abr. de 1991 Segundo trámite constitucional Senado Primer informe de comisión de Obras Públicas Ver
+03 de Dic. de 1990 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 198-09","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 198-09","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 198-09","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 198-09","No record","Veto emmEnd"

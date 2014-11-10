@@ -1,0 +1,35 @@
+* * Bill summary * *
+"emmStart Summary 1452-07","Legislatura: 330
+Fecha de ingreso: martes 06 de diciembre de 1994
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 1452-07
+Materia: Administracion Financiera ,Administración Pública
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 09:17:16
+* * Hitos de tramitación * *
+"emmStart Hitos 1452-07","Fecha Sesión Etapa Sub-etapa Documento
+06 de Dic. de 1994   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+06 de Dic. de 1994 23ª / 330 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+04 de Jul. de 1995 12ª / 331 Primer trámite constitucional / Senado Primer informe de comisión
+05 de Jul. de 1995 12ª / 331 Primer trámite constitucional / Senado Cuenta de primer informe de comisión. (Informe común para los boletines 1450-07 a 1455-07). Queda para tabla.
+10 de Oct. de 1995 4ª / 332 Tramitación terminada / Por acuerdo de la Sala del Senado, el proyecto vuelve a Comisión. Ver
+24 de Oct. de 1995 9ª / 332 Tramitación terminada / Cuenta del oficio de la Comisión con el que remite, nuevamente, el proyecto a la Sala del Senado. Queda para tabla. Ver
+14 de Nov. de 1995 13ª / 332 Tramitación terminada / La Sala del Senado rechaza este proyecto. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1452-07","Fecha Etapa Informe Documento
+05 de Jul. de 1995 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1452-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1452-07","Nombre
+Francisco Errázuriz Talavera","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1452-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1452-07","No record","Veto emmEnd"

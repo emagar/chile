@@ -1,0 +1,58 @@
+* * Bill summary * *
+"emmStart Summary 8517-25","Legislatura: 360
+Fecha de ingreso: lunes 13 de agosto de 2012
+Estado: Segundo trámite constitucional .
+Numero de boletín: 8517-25
+Materia: Municipios,Servicio Nacional Para La Prevención Y Rehabilitación Del Consumo De Drogas Y Alcohol,Consejos Comunales De Seguridad Pública,Ministro Del Interior Y Seguridad Pública
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 02:31:46
+* * Hitos de tramitación * *
+"emmStart Hitos 8517-25","Fecha Sesión Etapa Sub-etapa Documento
+13 de Ago. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Ago. de 2012 70ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Seguridad Ciudadana y Drogas Ver
+17 de Oct. de 2012   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+31 de Oct. de 2012 94ª / 360 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+07 de Nov. de 2012 96ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+08 de Nov. de 2012 97ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+13 de Nov. de 2012 98ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+28 de Dic. de 2012   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+02 de Ene. de 2013 118ª / 360 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+12 de Mar. de 2013 1ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 01-361 que hace presente la urgencia Suma Ver
+12 de Mar. de 2013 1ª / 361 Primer trámite constitucional / C. Diputados Discusión particular Ver
+12 de Mar. de 2013   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+13 de Mar. de 2013 2ª / 361 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización
+13 de Mar. de 2013 2ª / 361 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización
+02 de Abr. de 2013 7ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 38-361 que retira y hace presente la urgencia Suma","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8517-25","Fecha Etapa Informe Documento
+28 de Dic. de 2012 Primer trámite constitucional C.Diputados Segundo informe de comisión de Seguridad Ciudadana y Drogas Ver
+30 de Oct. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Seguridad Ciudadana y Drogas Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8517-25","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+02 de Abr. de 2013   Suma 38-361  
+12 de Mar. de 2013 02 de Abr. de 2013 Suma 01-361 38-361","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8517-25","Nombre Región Distrito Partido
+Germán Becker Alvear IX Región de la Araucanía N°50 Renovación Nacional
+María Angélica Cristi Marfil RM Región Metropolitana N°24 Unión Demócrata Independiente
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Joaquín Godoy Ibáñez V Región de Valparaíso N°13 Renovación Nacional
+Rosauro Martínez Labbé VIII Región del Bío Bío N°41 Renovación Nacional
+Nicolás Monckeberg Díaz RM Región Metropolitana N°18 Renovación Nacional
+Cristián Monckeberg Bruner RM Región Metropolitana N°23 Renovación Nacional
+Marcela Sabat Fernández RM Región Metropolitana N°21 Renovación Nacional
+Frank Sauerbaum Muñoz VIII Región del Bío Bío N°42 Renovación Nacional
+Marisol Turres Figueroa X Región de los Lagos N°57 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8517-25","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+84 Votación General 5 0 0 8   Seguridad y Drogas Ver detalle votación
+98   77 4 3 36 Aprobado Sala Ver detalle votación
+1   100 0 6 14 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8517-25","No record","Veto emmEnd"

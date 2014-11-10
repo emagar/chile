@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 5710-06","Legislatura: 355
+Fecha de ingreso: martes 15 de enero de 2008
+Estado: Segundo trámite constitucional .
+Numero de boletín: 5710-06
+Materia: Estatuto Administrativo Para Funcionarios Municipales
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 22:22:05
+* * Hitos de tramitación * *
+"emmStart Hitos 5710-06","Fecha Sesión Etapa Sub-etapa Documento
+15 de Ene. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+15 de Ene. de 2008 130ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+21 de Ene. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+04 de Mar. de 2008 137ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+15 de Jul. de 2008 53ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+31 de Jul. de 2008 56ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+31 de Jul. de 2008   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+05 de Ago. de 2008 41ª / 356 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5710-06","Fecha Etapa Informe Documento
+21 de Ene. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5710-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5710-06","Nombre Región Distrito Partido
+Gonzalo Duarte Leiva RM Región Metropolitana N°26 Partido Demócrata Cristiano
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Sergio Ojeda Uribe X Región de los Lagos N°55 Partido Demócrata Cristiano
+José Miguel Ortiz Novoa VIII Región del Bío Bío N°44 Partido Demócrata Cristiano
+Jorge Sabag Villalobos VIII Región del Bío Bío N°42 Partido Demócrata Cristiano
+Eduardo Saffirio Suárez IX Región de la Araucanía N°50 Partido Demócrata Cristiano
+Gabriel Silber Romo RM Región Metropolitana N°16 Partido Demócrata Cristiano
+Patricio Vallespín López X Región de los Lagos N°57 Partido Demócrata Cristiano
+Mario Venegas Cárdenas IX Región de la Araucanía N°48 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5710-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+56 Indicación 2, de los señores Robles y Fuentealba, para incorporar en la letra a) del artículo único, antes del punto final, a continuación de la expresión “respectiva institución”, la siguiente frase, precedida de una coma (,): “y que sea aprobada por el consejo municipal por los dos tercios de sus integrantes”. 9 25 25 61 Rechazado Sala Ver detalle votación
+56 Indicación 3, de los señores Robles y Fuentealba, para incorporar el siguiente inciso en la letra a) del artículo único: “Los funcionarios que sean beneficiados con esta normativa deberán comprometerse a desarrollar sus labores profesionales, por lo menos, por el doble de tiempo que dura su comisión de servicio, para lo cual deberán suscribir un convenio y firmar un pagaré por el monto total de lo invertido por el municipio”. 15 20 16 69 Rechazado Sala Ver detalle votación
+56   63 0 0 57 Aprobado Sala Ver detalle votación
+56 Indicación 1, del señor González, al artículo único, letra a), para: 1.- Intercalar entre las palabras “de” y “post” la siguiente frase: “pre grado o de”. 2.- Eliminar la frase “conducentes al grado académico de doctor”. 3.- Reemplazar la palabra “cinco” por “siete”. 46 1 6 67 Aprobado Sala Ver detalle votación
+61 Votación General 10 0 0 3   Gobierno Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5710-06","No record","Veto emmEnd"

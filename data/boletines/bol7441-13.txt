@@ -1,0 +1,59 @@
+* * Bill summary * *
+"emmStart Summary 7441-13","Legislatura: 358
+Fecha de ingreso: martes 18 de enero de 2011
+Estado: Tramitación terminada (Ley Nº 20.608 - D.Oficial 22/08/2012)
+Numero de boletín: 7441-13
+Materia: Dipreca (Chile),Caja De Previsión De La Defensa Nacional ,Pensionados
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 04:08:36
+* * Hitos de tramitación * *
+"emmStart Hitos 7441-13","Fecha Sesión Etapa Sub-etapa Documento
+18 de Ene. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+18 de Ene. de 2011 127ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+22 de Mar. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Abr. de 2011 9ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+07 de Abr. de 2011 11ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+07 de Abr. de 2011   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+13 de Abr. de 2011 8ª / 359 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social
+16 de Abr. de 2012   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+08 de May. de 2012 15ª / 360 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 22/05/2012 Ver
+22 de May. de 2012   Segundo trámite constitucional / Senado Boletín de indicaciones
+06 de Jun. de 2012   Segundo trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 12/06/2012 a las 13:00 en la Secretaría de la Comisión de Trabajo y Previsión Social
+13 de Jun. de 2012   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+13 de Jun. de 2012 26ª / 360 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+19 de Jun. de 2012 27ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 158-360 que hace presente la urgencia Suma
+03 de Jul. de 2012 30ª / 360 Segundo trámite constitucional / Senado Discusión particular Ver
+03 de Jul. de 2012   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+04 de Jul. de 2012 50ª / 360 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+04 de Jul. de 2012 50ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 180-360 que hace presente la urgencia Suma
+05 de Jul. de 2012 51ª / 360 Tercer trámite constitucional / C. Diputados Discusión única Ver
+05 de Jul. de 2012   Tercer trámite constitucional / C. Diputados Oficio N° 10.254, que comunica aprobacion de modificaciones Ver
+05 de Jul. de 2012   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+10 de Jul. de 2012 33ª / 360 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 10.254, que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7441-13","Fecha Etapa Informe Documento
+13 de Jun. de 2012 Segundo trámite constitucional Senado Segundo informe de comisión de Trabajo y Previsión Social Ver
+17 de Abr. de 2012 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver
+22 de Mar. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7441-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Jul. de 2012   Suma 180-360  
+19 de Jun. de 2012   Suma 158-360  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7441-13","Nombre Región Distrito Partido
+Ministerio de Defensa Nacional      
+Ministerio de Hacienda      
+Ministerio de Trabajo y Previsión Social      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7441-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+38 Votación General 12 0 0 1   Trabajo Ver detalle votación
+11   80 0 1 39 Aprobado Sala Ver detalle votación
+51 Modificaciones del Senado 71 13 5 31 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7441-13","No record","Veto emmEnd"

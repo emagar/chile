@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 561-06","Legislatura: 323
+Fecha de ingreso: martes 10 de diciembre de 1991
+Estado: Tramitación terminada (Ley Nº 19.116 - D.Oficial 29/01/1992)
+Numero de boletín: 561-06
+Materia: Feriados
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 19:57:00
+* * Hitos de tramitación * *
+"emmStart Hitos 561-06","Fecha Sesión Etapa Sub-etapa Documento
+10 de Dic. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Dic. de 1991 31ª / 324 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+14 de Ene. de 1992   Primer trámite constitucional / C. Diputados Primer informe de comisión
+14 de Ene. de 1992 41ª / 323 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Ene. de 1992 41ª / 323 Primer trámite constitucional / C. Diputados Discusión general Ver
+14 de Ene. de 1992   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+14 de Ene. de 1992 33ª / 323 Segundo trámite constitucional / Senado Cuenta de proyecto
+14 de Ene. de 1992 33ª / 323 Tramitación terminada / Discusión general. Por unanimidad se aprueba en general y, por no haberse presentado indicaciones, queda aprobado en partiicular, sin modificaciones.
+14 de Ene. de 1992   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+14 de Ene. de 1992   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+15 de Ene. de 1992   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+15 de Ene. de 1992 42ª / 323 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 561-06","Fecha Etapa Informe Documento
+09 de Ene. de 1992 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 561-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+18 de Ago. de 1992   Suma    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 561-06","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 561-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 561-06","No record","Veto emmEnd"

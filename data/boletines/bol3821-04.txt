@@ -1,0 +1,52 @@
+* * Bill summary * *
+"emmStart Summary 3821-04","Legislatura: 352
+Fecha de ingreso: martes 05 de abril de 2005
+Estado: Tramitación terminada (Ley Nº 20.055 - D.Oficial 23/09/2005)
+Numero de boletín: 3821-04
+Materia: Monumentos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 17:49:45
+* * Hitos de tramitación * *
+"emmStart Hitos 3821-04","Fecha Sesión Etapa Sub-etapa Documento
+05 de Abr. de 2005 58ª / 352 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+05 de Abr. de 2005   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de May. de 2005   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de May. de 2005 76ª / 352 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de Jul. de 2005 18ª / 353 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+13 de Jul. de 2005   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+19 de Jul. de 2005 18ª / 353 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología Ver
+16 de Ago. de 2005   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+17 de Ago. de 2005 28ª / 353 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+30 de Ago. de 2005 29ª / 353 Segundo trámite constitucional / Senado Discusión general Ver
+30 de Ago. de 2005   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+31 de Ago. de 2005 37ª / 353 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver Ver
+31 de Ago. de 2005   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3821-04","Fecha Etapa Informe Documento
+16 de Ago. de 2005 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+03 de May. de 2005 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3821-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3821-04","Nombre Región Distrito Partido
+Germán Becker Alvear IX Región de la Araucanía N°50 Renovación Nacional
+Marcela Cubillos Sigall RM Región Metropolitana N°21 Unión Demócrata Independiente
+Marcelo Forni Lobos V Región de Valparaíso N°11 Unión Demócrata Independiente
+Rodrigo González Torres V Región de Valparaíso N°14 Partido Por la Democracia
+José Antonio Kast Rist RM Región Metropolitana N°30 Unión Demócrata Independiente
+Rosauro Martínez Labbé VIII Región del Bío Bío N°41 Renovación Nacional
+María Eugenia Mella Gajardo V Región de Valparaíso N°10 Partido Demócrata Cristiano
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+Carlos Olivares Zepeda RM Región Metropolitana N°18 Partido Demócrata Cristiano
+Gonzalo Uriarte Herrera RM Región Metropolitana N°31 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3821-04","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+18   61 0 0 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3821-04","No record","Veto emmEnd"

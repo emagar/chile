@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 1388-07","Legislatura: 330
+Fecha de ingreso: miércoles 05 de octubre de 1994
+Estado: Tramitación terminada (Ley Nº 19.387 - D.Oficial 30/05/1995)
+Numero de boletín: 1388-07
+Materia: Juzgados De Policía Local
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 05:19:18
+* * Hitos de tramitación * *
+"emmStart Hitos 1388-07","Fecha Sesión Etapa Sub-etapa Documento
+05 de Oct. de 1994 2ª / 330 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+05 de Oct. de 1994   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+17 de Nov. de 1994 18ª / 330 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+17 de Nov. de 1994 18ª / 330 Primer trámite constitucional / Senado Primer informe de comisión Ver
+23 de Nov. de 1994 21ª / 330 Primer trámite constitucional / Senado Discusión general Ver
+24 de Nov. de 1994 21ª / 330 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+06 de Dic. de 1994 22ª / 330 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+06 de Abr. de 1995   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+06 de Abr. de 1995 55ª / 330 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+02 de May. de 1995 64ª / 330 Segundo trámite constitucional / C. Diputados Discusión general Ver
+03 de May. de 1995 57ª / 330 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+03 de May. de 1995 57ª / 330 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+03 de May. de 1995   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1388-07","Fecha Etapa Informe Documento
+06 de Abr. de 1995 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+17 de Nov. de 1994 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1388-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1388-07","Nombre
+Sergio Romero Pizarro","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1388-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1388-07","No record","Veto emmEnd"

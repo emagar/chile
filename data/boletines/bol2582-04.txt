@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 2582-04","Legislatura: 342
+Fecha de ingreso: miércoles 06 de septiembre de 2000
+Estado: Archivado .
+Numero de boletín: 2582-04
+Materia: Premios Nacionales
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 06:35:49
+* * Hitos de tramitación * *
+"emmStart Hitos 2582-04","Fecha Sesión Etapa Sub-etapa Documento
+06 de Sep. de 2000 35ª / 342 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+06 de Sep. de 2000   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+09 de Ago. de 2006 60ª / 354 Primer trámite constitucional / C. Diputados Comisión de la Cultura y las Artes solicita remisión del proyecto. Pendiente. Ver
+10 de Ago. de 2006 62ª / 354 Primer trámite constitucional / C. Diputados Se acuerda enviarlo a la Comisión de la Cultura y de las Artes. Ver
+20 de Abr. de 2010 16ª / 358 Primer trámite constitucional / C. Diputados Archivado Comisión de la Cultura remite al archivo (Acuerdo Reglamentario N° 11) Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2582-04","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2582-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2582-04","Nombre Región Distrito Partido
+Aldo Cornejo González V Región de Valparaíso N°13 Partido Demócrata Cristiano
+Miguel Hernández Saffirio IX Región de la Araucanía N°49 Partido Demócrata Cristiano
+Enrique Krauss Rusque RM Región Metropolitana N°22 Partido Demócrata Cristiano
+Gutenberg Martínez Ocamica RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+Edgardo Riveros Marín RM Región Metropolitana N°30 Partido Demócrata Cristiano
+Edmundo Salas De la Fuente VIII Región del Bío Bío N°45 Partido Demócrata Cristiano
+Laura Soto González V Región de Valparaíso N°14 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2582-04","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+25 Votación General 0 6 0 7   Cultura Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2582-04","No record","Veto emmEnd"

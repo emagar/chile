@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 3527-07","Legislatura: 350
+Fecha de ingreso: martes 11 de mayo de 2004
+Estado: Archivado .
+Numero de boletín: 3527-07
+Materia: Violencia En El Deporte
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 03:43:25
+* * Hitos de tramitación * *
+"emmStart Hitos 3527-07","Fecha Sesión Etapa Sub-etapa Documento
+11 de May. de 2004   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+11 de May. de 2004 82ª / 350 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión Especial de Seguridad Ciudadana Ver
+16 de Jun. de 2004   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+06 de Jul. de 2004 11ª / 351 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+19 de Ago. de 2004 34ª / 351 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+10 de Nov. de 2004   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+30 de Nov. de 2004 24ª / 352 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+30 de Nov. de 2004 25ª / 352 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver
+30 de Nov. de 2004   Primer trámite constitucional / C. Diputados Boletín de indicaciones
+15 de May. de 2007 27ª / 355 Primer trámite constitucional / C. Diputados Comisión de Seguridad Ciudadana solicita el asentimiento de la Sala para archivar el proyecto. NO HUBO PRONUNCIAMIENTO DE LA SALA. Ver
+28 de Abr. de 2009   Primer trámite constitucional / C. Diputados Archivado
+28 de Abr. de 2009 20ª / 357 Archivado / Comisión de Seguridadad Ciudadana solicita archivo de proyecto. ACORDADO.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3527-07","Fecha Etapa Informe Documento
+10 de Nov. de 2004 Primer trámite constitucional C.Diputados Segundo informe de comisión Especial de Seguridad Ciudadana Ver
+16 de Jun. de 2004 Primer trámite constitucional C.Diputados Primer informe de comisión Especial de Seguridad Ciudadana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3527-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3527-07","Nombre Región Distrito Partido
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Eliana Caraball Martínez RM Región Metropolitana N°27 Partido Demócrata Cristiano
+María Eugenia Mella Gajardo V Región de Valparaíso N°10 Partido Demócrata Cristiano
+Waldo Mora Longa II Región de Antofagasta N°3 Partido Demócrata Cristiano
+José Miguel Ortiz Novoa VIII Región del Bío Bío N°44 Partido Demócrata Cristiano
+Eduardo Saffirio Suárez IX Región de la Araucanía N°50 Partido Demócrata Cristiano
+Rodolfo Seguel Molina RM Región Metropolitana N°28 Partido Demócrata Cristiano
+Exequiel Silva Ortíz X Región de los Lagos N°53 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3527-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+34   50 0 0 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3527-07","No record","Veto emmEnd"

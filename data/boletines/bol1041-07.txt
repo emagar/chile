@@ -1,0 +1,35 @@
+* * Bill summary * *
+"emmStart Summary 1041-07","Legislatura: 326
+Fecha de ingreso: miércoles 21 de julio de 1993
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 1041-07
+Materia: Inscripción Rechazada,Votación
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 02:17:19
+* * Hitos de tramitación * *
+"emmStart Hitos 1041-07","Fecha Sesión Etapa Sub-etapa Documento
+21 de Jul. de 1993   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+21 de Jul. de 1993 13ª / 326 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+17 de May. de 1995 63ª / 330 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+17 de May. de 1995 63ª / 330 Primer trámite constitucional / Senado Primer informe de comisión
+07 de Jun. de 1995 5ª / 331 Tramitación terminada / Queda para segunda discusión. Ver
+18 de Jul. de 1995 18ª / 331 Tramitación terminada / Se rechaza el proyecto. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1041-07","Fecha Etapa Informe Documento
+17 de May. de 1995 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1041-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1041-07","Nombre
+Eugenio Cantuarias Larrondo
+Beltrán Urenda Zegers","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1041-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1041-07","No record","Veto emmEnd"

@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 7931-15","Legislatura: 359
+Fecha de ingreso: martes 13 de septiembre de 2011
+Estado: Tramitación terminada (Ley Nº 20.574 - D.Oficial 08/02/2012)
+Numero de boletín: 7931-15
+Materia: Radiodifusión Regional
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 09-11-2014 13:30:11
+* * Hitos de tramitación * *
+"emmStart Hitos 7931-15","Fecha Sesión Etapa Sub-etapa Documento
+13 de Sep. de 2011   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+04 de Oct. de 2011 59ª / 359 Primer trámite constitucional / Senado Cuenta del Mensaje 416-359 que hace presente la urgencia Simple
+12 de Oct. de 2011   Primer trámite constitucional / Senado Primer informe de comisión Ver
+08 de Nov. de 2011 66ª / 359 Primer trámite constitucional / Senado Cuenta del Mensaje 443-359 que retira y hace presente la urgencia Simple Ver
+15 de Nov. de 2011 68ª / 359 Primer trámite constitucional / Senado Discusión general Ver
+15 de Nov. de 2011   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+17 de Nov. de 2011 110ª / 359 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+13 de Dic. de 2011 120ª / 359 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 491-359 que hace presente la urgencia Simple Ver
+12 de Ene. de 2012 132ª / 359 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 551-359 que hace presente la urgencia Simple Ver
+17 de Ene. de 2012   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Ene. de 2012 133ª / 359 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+18 de Ene. de 2012 134ª / 359 Segundo trámite constitucional / C. Diputados Discusión general Ver
+18 de Ene. de 2012   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+20 de Ene. de 2012   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+31 de Ene. de 2012 92ª / 359 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7931-15","Fecha Etapa Informe Documento
+17 de Ene. de 2012 Segundo trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+12 de Oct. de 2011 Primer trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7931-15","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+12 de Ene. de 2012   Simple 551-359  
+13 de Dic. de 2011   Simple 491-359  
+08 de Nov. de 2011   Simple 443-359  
+04 de Oct. de 2011 08 de Nov. de 2011 Simple 416-359 443-359","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7931-15","Nombre
+Carlos Cantero Ojeda","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7931-15","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+134   88 0 1 1 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7931-15","No record","Veto emmEnd"

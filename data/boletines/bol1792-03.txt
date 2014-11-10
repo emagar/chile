@@ -1,0 +1,55 @@
+* * Bill summary * *
+"emmStart Summary 1792-03","Legislatura: 332
+Fecha de ingreso: miércoles 17 de enero de 1996
+Estado: Tramitación terminada (Ley Nº 19.907 - D.Oficial 05/11/2003)
+Numero de boletín: 1792-03
+Materia: Pesca Artesanal
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 14:33:52
+* * Hitos de tramitación * *
+"emmStart Hitos 1792-03","Fecha Sesión Etapa Sub-etapa Documento
+17 de Ene. de 1996   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+17 de Ene. de 1996 32ª / 332 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Intereses Marítimos, Pesca y Acuicultura
+15 de Sep. de 1998   Primer trámite constitucional / Senado Primer informe de comisión Ver
+15 de Sep. de 1998 30ª / 338 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+08 de Jun. de 1999 3ª / 340 Primer trámite constitucional / Senado Discusión general Ver
+30 de Jun. de 1999   Primer trámite constitucional / Senado Nuevo primer informe de comisión Ver
+13 de Jul. de 1999 13ª / 340 Primer trámite constitucional / Senado Cuenta nuevo primer informe
+20 de Jul. de 1999 16ª / 340 Primer trámite constitucional / Senado Discusión general Ver
+21 de Jul. de 1999   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+21 de Jul. de 1999 22ª / 340 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+11 de Jul. de 2001   Segundo trámite constitucional / C. Diputados Oficio 187/2001 de la Co. de Agricultura, remite proyecto a Com. de Pesca. Oficio 187/2001 de la Co. de Agricultura, remite proyecto a Com. de Pesca. Oficio 187/2001 de la Co. de Agricultura, remite proyecto a Com. de Pesca. Oficio 187/2001 de la
+06 de Ago. de 2003   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Sep. de 2003 35ª / 349 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+10 de Sep. de 2003 39ª / 349 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+10 de Sep. de 2003   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+16 de Sep. de 2003 35ª / 349 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+16 de Sep. de 2003   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1792-03","Fecha Etapa Informe Documento
+06 de Ago. de 2003 Segundo trámite constitucional C.Diputados Primer informe de comisión de Pesca, Acuicultura e Intereses Marítimos Ver
+30 de Jun. de 1999 Primer trámite constitucional Senado Nuevo primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver
+15 de Sep. de 1998 Primer trámite constitucional Senado Primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1792-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1792-03","Nombre
+Francisco Errázuriz Talavera
+Antonio Horvath Kiss
+Julio Lagos Cosgrove
+Roberto Muñoz Barra
+José Ruiz De Giorgio","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1792-03","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+39 indicación del Diputado señor Robles 29 40 0 1   Sala Ver detalle votación
+39   67 1 0 2   Sala Ver detalle votación
+39 Que se despache iniciativa también en particular 62 4 0 1   Sala Ver detalle votación
+39 único 72 0 0 1   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1792-03","No record","Veto emmEnd"

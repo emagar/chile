@@ -1,0 +1,35 @@
+* * Bill summary * *
+"emmStart Summary 765-15","Legislatura: 324
+Fecha de ingreso: martes 11 de agosto de 1992
+Estado: Tramitación terminada (Ley Nº 19.178 - D.Oficial 07/12/1992)
+Numero de boletín: 765-15
+Materia: Municipios,Sistemas De Recepción Satelital
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 22:39:08
+* * Hitos de tramitación * *
+"emmStart Hitos 765-15","Fecha Sesión Etapa Sub-etapa Documento
+11 de Ago. de 1992 27ª / 324 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+11 de Ago. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de Oct. de 1992 5ª / 325 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones y a Comisión de Hacienda
+05 de Nov. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+05 de Nov. de 1992 8ª / 325 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Nov. de 1992 9ª / 325 Segundo trámite constitucional / Senado Se aprueba en general y en particular, con modificaciones. Oficio Nº 3681 a la Cámara, comunicando aprobación con modificación que indica Ver
+17 de Nov. de 1992 11ª / 325 Segundo trámite constitucional / Senado Cuenta oficio Nº 1026, de la Cámara, comunicando aprobación de enmienda propuesta por el Senado.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 765-15","Fecha Etapa Informe Documento
+05 de Nov. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 765-15","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+11 de Ago. de 1992   Simple    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 765-15","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 765-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 765-15","No record","Veto emmEnd"

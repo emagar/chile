@@ -1,0 +1,64 @@
+* * Bill summary * *
+"emmStart Summary 6917-21","Legislatura: 358
+Fecha de ingreso: martes 04 de mayo de 2010
+Estado: Tramitación terminada (Ley Nº 20.451 - D.Oficial 31/07/2010)
+Numero de boletín: 6917-21
+Materia: Desastres
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 19:36:17
+* * Hitos de tramitación * *
+"emmStart Hitos 6917-21","Fecha Sesión Etapa Sub-etapa Documento
+04 de May. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de May. de 2010 19ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Pesca, Acuicultura e Intereses Marítimos Ver
+04 de May. de 2010 19ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 87-358 que hace presente la urgencia Suma Ver
+14 de May. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de May. de 2010 27ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+18 de May. de 2010 27ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 112-358 que retira y hace presente la urgencia Suma Ver
+19 de May. de 2010 28ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+19 de May. de 2010   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+01 de Jun. de 2010 22ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Intereses Marítimos, Pesca y Acuicultura
+01 de Jun. de 2010 22ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 137-358 que retira y hace presente la urgencia Suma
+09 de Jun. de 2010   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+09 de Jun. de 2010 26ª / 358 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+09 de Jun. de 2010 26ª / 358 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 14/06/2010 Ver
+14 de Jun. de 2010   Segundo trámite constitucional / Senado Boletín de indicaciones
+15 de Jun. de 2010 27ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 156-358 que retira y hace presente la urgencia Suma
+29 de Jun. de 2010   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+29 de Jun. de 2010 30ª / 358 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+29 de Jun. de 2010 30ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 174-358 que retira y hace presente la urgencia Suma
+30 de Jun. de 2010 31ª / 358 Segundo trámite constitucional / Senado Discusión particular Ver
+30 de Jun. de 2010   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+01 de Jul. de 2010 46ª / 358 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+07 de Jul. de 2010 48ª / 358 Tercer trámite constitucional / C. Diputados Discusión única Ver
+07 de Jul. de 2010   Tercer trámite constitucional / C. Diputados Oficio N° 8863, que comunica aprobacion de modificaciones Ver
+07 de Jul. de 2010   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+13 de Jul. de 2010 34ª / 358 Tercer trámite constitucional / C. Diputados Cuenta oficio N° 8863, que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6917-21","Fecha Etapa Informe Documento
+29 de Jun. de 2010 Segundo trámite constitucional Senado Segundo informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver
+09 de Jun. de 2010 Segundo trámite constitucional Senado Primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver
+14 de May. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Pesca, Acuicultura e Intereses Marítimos Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6917-21","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+29 de Jun. de 2010   Suma 174-358  
+15 de Jun. de 2010 29 de Jun. de 2010 Suma 156-358 174-358
+01 de Jun. de 2010 15 de Jun. de 2010 Suma 137-358 156-358
+18 de May. de 2010 01 de Jun. de 2010 Suma 112-358 137-358
+04 de May. de 2010 18 de May. de 2010 Suma 87-358 112-358","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6917-21","Nombre Región Distrito Partido
+Ministerio de Agricultura      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6917-21","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+28   107 0 0 13 Aprobado Sala Ver detalle votación
+28 Texto del proyecto propuesto por la Comisión de Pesca, Acuicultura e Intereses Marítimos, conjuntamente con una indicación aditiva de la Diputada señora Pacheco, doña Clemira, y de los Diputados señores Aguiló, Bobadilla, Campos, Melero, Ulloa y Ascencio, para agregar una nueva letra b.1.3) en el artículo único, del siguiente tenor: ""b.1.3) Agrégase, a continuación de la palabra “bodega”, un punto seguido (.) y la siguiente frase “No obstante lo anterior, única y exclusivamente para embarcaciones pesqueras artesanales, se excluirán del volumen total del arqueo bruto, aquellos espacios cerrados destinados única y exclusivamente a la habitabilidad y bienestar de la dotación, es decir, cocina, comedor, camarotes, baños y salas de descanso, que se encuentren en la cubierta superior y que no excedan de un máximo de 50 metros cúbicos.""."". 106 0 0 14 Aprobado Sala Ver detalle votación
+48 Modificaciones del Senado. 86 0 0 0 Aprobado Sala Ver detalle votación
+8 Votación General 10 0 0 3   Pesca y Acuicultura Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6917-21","No record","Veto emmEnd"

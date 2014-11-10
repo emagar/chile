@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 7787-10","Legislatura: 359
+Fecha de ingreso: miércoles 13 de julio de 2011
+Estado: Segundo trámite constitucional .
+Numero de boletín: 7787-10
+Materia: Congreso Nacional,Comisión Mixta Permanente De Relaciones Exteriores
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 09:25:41
+* * Hitos de tramitación * *
+"emmStart Hitos 7787-10","Fecha Sesión Etapa Sub-etapa Documento
+13 de Jul. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Jul. de 2011 55ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+04 de Oct. de 2011 89ª / 359 Primer trámite constitucional / C. Diputados Primer informe de comisión Ver Ver
+04 de Oct. de 2011 89ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+07 de Mar. de 2012 141ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+07 de Mar. de 2012   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+13 de Mar. de 2012 1ª / 360 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7787-10","Fecha Etapa Informe Documento
+02 de Oct. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7787-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7787-10","Nombre Región Distrito Partido
+Roberto Delmastro Naso XIV Región de los Ríos N°53 Independientes
+Marcelo Díaz Díaz IV Región de Coquimbo N°7 Partido Socialista
+Patricio Melero Abaroa RM Región Metropolitana N°16 Unión Demócrata Independiente
+Cristián Monckeberg Bruner RM Región Metropolitana N°23 Renovación Nacional
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+Iván Moreira Barros RM Región Metropolitana N°27 Unión Demócrata Independiente
+María Antonieta Saa Díaz RM Región Metropolitana N°17 Partido Por la Democracia
+René Saffirio Espinoza IX Región de la Araucanía N°50 Partido Demócrata Cristiano
+Jorge Tarud Daccarett VII Región del Maule N°39 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7787-10","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+141   97 0 0 23 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7787-10","No record","Veto emmEnd"

@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 3433-07","Legislatura: 350
+Fecha de ingreso: miércoles 10 de diciembre de 2003
+Estado: Archivado .
+Numero de boletín: 3433-07
+Materia: Reforma Constitucional
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 02:40:48
+* * Hitos de tramitación * *
+"emmStart Hitos 3433-07","Fecha Sesión Etapa Sub-etapa Documento
+10 de Dic. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Dic. de 2003 32ª / 350 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+15 de Jun. de 2006   Primer trámite constitucional / C. Diputados Archivado","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3433-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3433-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3433-07","Nombre Región Distrito Partido
+Pablo Galilea Carrillo XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Renovación Nacional
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Lily Pérez San Martín RM Región Metropolitana N°26 Renovación Nacional
+Víctor Pérez Varela VIII Región del Bío Bío N°47 Unión Demócrata Independiente
+Carlos Recondo Lavanderos X Región de los Lagos N°56 Unión Demócrata Independiente
+Gonzalo Uriarte Herrera RM Región Metropolitana N°31 Unión Demócrata Independiente
+Gastón Von Mühlenbrock Zamora X Región de los Lagos N°54 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3433-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3433-07","No record","Veto emmEnd"

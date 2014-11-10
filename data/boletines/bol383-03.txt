@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 383-03","Legislatura: 322
+Fecha de ingreso: martes 18 de junio de 1991
+Estado: Tramitación terminada (Ley Nº 19.066 - D.Oficial 21/06/1991)
+Numero de boletín: 383-03
+Materia: Acuicultura
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 16:33:26
+* * Hitos de tramitación * *
+"emmStart Hitos 383-03","Fecha Sesión Etapa Sub-etapa Documento
+18 de Jun. de 1991 7ª / 322 Primer trámite constitucional / Senado Cuenta de proyecto
+18 de Jun. de 1991   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+18 de Jun. de 1991 7ª / 322 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+18 de Jun. de 1991 7ª / 322 Primer trámite constitucional / Senado Discusión única. Aprobado en general y en particular. Despachado.
+19 de Jun. de 1991 10ª / 322 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+19 de Jun. de 1991   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+19 de Jun. de 1991 10ª / 322 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+19 de Jun. de 1991 8ª / 322 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+19 de Jun. de 1991 8ª / 322 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+    Trámite de aprobacion presidencial / Senado Ingreso de observaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 383-03","Fecha Etapa Informe Documento
+19 de Jun. de 1991 Segundo trámite constitucional C.Diputados Primer informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 383-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 383-03","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 383-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 383-03","No record","Veto emmEnd"

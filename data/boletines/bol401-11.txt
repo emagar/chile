@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 401-11","Legislatura: 320
+Fecha de ingreso: martes 10 de julio de 1990
+Estado: Archivado .
+Numero de boletín: 401-11
+Materia: Isapres,Salud,Instituciones De Salud Previsional
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 16:47:48
+* * Hitos de tramitación * *
+"emmStart Hitos 401-11","Fecha Sesión Etapa Sub-etapa Documento
+10 de Jul. de 1990   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Jul. de 1991 17ª / 322 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver
+16 de Mar. de 1994   Primer trámite constitucional / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 328
+10 de Mar. de 1998   Primer trámite constitucional / C. Diputados Archivado Oficio 1843 a la Com. de Salud, acuerda archivo del proyecto.
+10 de Mar. de 1998   Primer trámite constitucional / C. Diputados Se solicita su archivo Oficio s/n de la Com. de Salud, propone archivo del proyecto.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 401-11","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 401-11","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 401-11","Nombre Región Distrito Partido
+Mario Acuña Cisternas Región N° Partido Demócrata Cristiano
+José García Ruminot Región N° Renovación Nacional
+René Manuel García García Región N° Renovación Nacional
+José María Hurtado Ruiz-Tagle Región N° Renovación Nacional
+Marina Prochelle Aguilar Región N° Renovación Nacional
+Teodoro Ribera Neumann Región N° Renovación Nacional
+Hugo Francisco Rodriguez Guerrero Región N° Partido Demócrata Cristiano
+Claudio Rodríguez Cataldo Región N° Renovación Nacional
+Juan Enrique Taladriz García Región N° Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 401-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 401-11","No record","Veto emmEnd"

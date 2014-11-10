@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 734-14","Legislatura: 324
+Fecha de ingreso: miércoles 01 de julio de 1992
+Estado: Tramitación terminada (Ley Nº 19.197 - D.Oficial 03/02/1993)
+Numero de boletín: 734-14
+Materia: Valor Cuota De Ahorro,Dividendos Hipotecarios,Viviendas
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 22:15:11
+* * Hitos de tramitación * *
+"emmStart Hitos 734-14","Fecha Sesión Etapa Sub-etapa Documento
+01 de Jul. de 1992 12ª / 324 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+01 de Jul. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+08 de Jul. de 1992   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de Oct. de 1992 2ª / 325 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Vivienda y Urbanismo y a Comisión de Hacienda
+03 de Nov. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+26 de Nov. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+15 de Dic. de 1992 17ª / 325 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+16 de Dic. de 1992 18ª / 325 Segundo trámite constitucional / Senado Discusión general y particular. Aprobado en general y en particular, con modificaciones.
+21 de Dic. de 1992   Segundo trámite constitucional / Senado Oficio a la Cámara comunicando aprobación con modificaciones que indica
+12 de Ene. de 1993 22ª / 325 Tramitación terminada / cuenta oficio 1100, de la Cámara, comunicando aprobación modificaciones propuestas por el Senado","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 734-14","Fecha Etapa Informe Documento
+26 de Nov. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+03 de Nov. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Vivienda y Urbanismo Ver
+08 de Jul. de 1992 Primer trámite constitucional C.Diputados Primer informe de comisión de Vivienda y Desarrollo Urbano Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 734-14","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+01 de Jul. de 1992   Simple    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 734-14","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 734-14","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 734-14","No record","Veto emmEnd"

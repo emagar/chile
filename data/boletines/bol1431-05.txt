@@ -1,0 +1,63 @@
+* * Bill summary * *
+"emmStart Summary 1431-05","Legislatura: 330
+Fecha de ingreso: martes 15 de noviembre de 1994
+Estado: Tramitación terminada (Ley Nº 19.415 - D.Oficial 30/09/1995)
+Numero de boletín: 1431-05
+Materia: Mercado De Capitales
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 09:01:07
+* * Hitos de tramitación * *
+"emmStart Hitos 1431-05","Fecha Sesión Etapa Sub-etapa Documento
+15 de Nov. de 1994   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+15 de Nov. de 1994 14ª / 330 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+12 de Ene. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Ene. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+20 de Ene. de 1995   Primer trámite constitucional / C. Diputados Eximido del trámite ante Comisión de Hacienda. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social
+20 de Ene. de 1995   Primer trámite constitucional / C. Diputados Eximido del trámite ante Comisión de Hacienda. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social
+02 de Mar. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+02 de Mar. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Mar. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Mar. de 1995 42ª / 330 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+07 de Mar. de 1995   Primer trámite constitucional / C. Diputados Queda pendiente su discusión.
+09 de Mar. de 1995 45ª / 330 Primer trámite constitucional / C. Diputados Discusión general Ver
+09 de Mar. de 1995   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+14 de Mar. de 1995 43ª / 330 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+02 de May. de 1995   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+02 de May. de 1995 56ª / 330 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+03 de May. de 1995 57ª / 330 Segundo trámite constitucional / Senado Discusión general Ver
+30 de May. de 1995   Segundo trámite constitucional / Senado Boletín de indicaciones
+30 de May. de 1995   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+30 de May. de 1995 1ª / 331 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+31 de May. de 1995 3ª / 331 Segundo trámite constitucional / Senado Discusión particular Ver
+11 de Jul. de 1995   Segundo trámite constitucional / Senado Nuevo segundo informe de comisión Ver
+11 de Jul. de 1995 15ª / 331 Segundo trámite constitucional / Senado Cuenta nuevo segundo informe
+18 de Jul. de 1995 18ª / 331 Segundo trámite constitucional / Senado Discusión particular Ver
+18 de Jul. de 1995   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+20 de Jul. de 1995 21ª / 331 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora. Pasa a Comisión de Hacienda Ver
+22 de Ago. de 1995 30ª / 331 Tercer trámite constitucional / C. Diputados Cuenta informe de comisión Ver
+22 de Ago. de 1995   Tercer trámite constitucional / C. Diputados Informe de comisión Ver
+23 de Ago. de 1995 31ª / 331 Tercer trámite constitucional / C. Diputados Discusión única Ver
+23 de Ago. de 1995   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1431-05","Fecha Etapa Informe Documento
+22 de Ago. de 1995 Tercer trámite constitucional C.Diputados Informe de comisión de Hacienda Ver
+11 de Jul. de 1995 Segundo trámite constitucional Senado Nuevo segundo informe de comisión de Hacienda Ver
+30 de May. de 1995 Segundo trámite constitucional Senado Segundo informe de comisión de Hacienda Ver
+02 de May. de 1995 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+02 de Mar. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver
+02 de Mar. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+14 de Ene. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1431-05","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1431-05","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1431-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1431-05","No record","Veto emmEnd"

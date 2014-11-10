@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 868-07","Legislatura: 325
+Fecha de ingreso: jueves 19 de noviembre de 1992
+Estado: Archivado .
+Numero de boletín: 868-07
+Materia: Amnistia,Hurto De Energia Electrica
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 00:02:20
+* * Hitos de tramitación * *
+"emmStart Hitos 868-07","Fecha Sesión Etapa Sub-etapa Documento
+19 de Nov. de 1992 12ª / 325 Primer trámite constitucional / Senado Cuenta de proyecto
+19 de Nov. de 1992   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+23 de Mar. de 1993 6ª / 326 Primer trámite constitucional / Senado Primer informe de comisión Ver
+24 de Mar. de 1993 36ª / 325 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+30 de Mar. de 1993 37ª / 325 Primer trámite constitucional / Senado Discusión general. Se acuerda volverlo a Comisión para un nuevo informe. Ver
+14 de Jun. de 1994 36ª / 325 Primer trámite constitucional / Senado Nuevo primer informe de comisión Ver
+16 de Jun. de 1994 6ª / 329 Primer trámite constitucional / Senado Cuenta nuevo primer informe
+21 de Jun. de 1994 7ª / 329 Primer trámite constitucional / Senado Discusión general. Por acuerdo de la Sala, se envía al archivo. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 868-07","Fecha Etapa Informe Documento
+14 de Jun. de 1994 Primer trámite constitucional Senado Nuevo primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+23 de Mar. de 1993 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 868-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 868-07","Nombre
+Arturo Frei Bolivar
+Carmen Frei Ruiz-Tagle","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 868-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 868-07","No record","Veto emmEnd"

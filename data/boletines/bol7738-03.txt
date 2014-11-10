@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 7738-03","Legislatura: 359
+Fecha de ingreso: viernes 17 de junio de 2011
+Estado: Segundo trámite constitucional .
+Numero de boletín: 7738-03
+Materia: Tarjetas De Prepago,Telefonía Celular
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 08:20:44
+* * Hitos de tramitación * *
+"emmStart Hitos 7738-03","Fecha Sesión Etapa Sub-etapa Documento
+17 de Jun. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+21 de Jun. de 2011 45ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+17 de Ene. de 2012   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Ene. de 2012 133ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+21 de Mar. de 2012 5ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+03 de Abr. de 2012 8ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+03 de Abr. de 2012   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7738-03","Fecha Etapa Informe Documento
+17 de Ene. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7738-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7738-03","Nombre Región Distrito Partido
+Alfonso De Urresti Longton XIV Región de los Ríos N°53 Partido Socialista
+Ramón Farías Ponce RM Región Metropolitana N°30 Partido Por la Democracia
+Gustavo Hasbún Selume RM Región Metropolitana N°26 Unión Demócrata Independiente
+Tucapel Jiménez Fuentes RM Región Metropolitana N°27 Partido Por la Democracia
+Juan Carlos Latorre Carmona VI Región del Libertador Bernardo O' Higgins N°35 Partido Demócrata Cristiano
+Fernando Meza Moncada IX Región de la Araucanía N°52 Partido Radical Social Demócrata
+José Miguel Ortiz Novoa VIII Región del Bío Bío N°44 Partido Demócrata Cristiano
+Ricardo Rincón González VI Región del Libertador Bernardo O' Higgins N°33 Partido Demócrata Cristiano
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Partido Regionalista Independiente
+Felipe Ward Edwards II Región de Antofagasta N°3 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7738-03","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+8   94 0 0 1 Aprobado Sala Ver detalle votación
+83 Votación General 10 0 0 3   Economía Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7738-03","No record","Veto emmEnd"

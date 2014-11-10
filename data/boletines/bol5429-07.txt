@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 5429-07","Legislatura: 355
+Fecha de ingreso: martes 30 de octubre de 2007
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 5429-07
+Materia: Elecciones,Reforma Constitucional,Parlamentarios
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 04:32:44
+* * Hitos de tramitación * *
+"emmStart Hitos 5429-07","Fecha Sesión Etapa Sub-etapa Documento
+30 de Oct. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+30 de Oct. de 2007 93ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+05 de Dic. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+13 de Dic. de 2007 116ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+18 de Dic. de 2007 118ª / 355 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+08 de Jul. de 2009 50ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 713-357 que hace presente la urgencia Simple Ver
+04 de Ago. de 2009 58ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 841-357 que retira y hace presente la urgencia Suma Ver
+11 de Ago. de 2009 61ª / 357 Primer trámite constitucional / C. Diputados Discusión general. Pendiente discusión Ver
+12 de Ago. de 2009 63ª / 357 Primer trámite constitucional / C. Diputados Proyecto es rechazado por falta de quórum constitucional. Ver
+12 de Ago. de 2009 63ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5429-07","Fecha Etapa Informe Documento
+05 de Dic. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5429-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Ago. de 2009   Suma 841-357  
+08 de Jul. de 2009 04 de Ago. de 2009 Simple 713-357 841-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5429-07","Nombre Región Distrito Partido
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Juan Bustos Ramírez V Región de Valparaíso N°12 Partido Socialista
+Alberto Cardemil Herrera RM Región Metropolitana N°22 Independientes
+Guillermo Ceroni Fuentes VII Región del Maule N°40 Partido Por la Democracia
+Edmundo Eluchans Urenda V Región de Valparaíso N°15 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5429-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+63   70 19 11 20 Rechazado Sala Ver detalle votación
+118 Votación General 7 2 0 4   Constitución Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5429-07","No record","Veto emmEnd"

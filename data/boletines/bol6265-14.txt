@@ -1,0 +1,48 @@
+* * Bill summary * *
+"emmStart Summary 6265-14","Legislatura: 356
+Fecha de ingreso: miércoles 10 de diciembre de 2008
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 6265-14
+Materia: Copropiedad Inmobiliaria,Animales
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 08-11-2014 04:45:42
+* * Hitos de tramitación * *
+"emmStart Hitos 6265-14","Fecha Sesión Etapa Sub-etapa Documento
+10 de Dic. de 2008   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+16 de Dic. de 2008 79ª / 356 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Vivienda y Urbanismo
+30 de Jun. de 2009 29ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 625-357 que hace presente la urgencia Simple
+04 de Ago. de 2009 37ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 856-357 que retira y hace presente la urgencia Simple
+18 de Ago. de 2009 42ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 968-357 que retira y hace presente la urgencia Suma
+01 de Sep. de 2009 44ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 1031-357 que retira y hace presente la urgencia Suma
+01 de Sep. de 2009 44ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 1031-357 que retira y hace presente la urgencia Suma
+16 de Sep. de 2009 51ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 1150-357 que retira y hace presente la urgencia Suma
+29 de Sep. de 2009 52ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 1239-357 que retira y hace presente la urgencia Simple
+29 de Sep. de 2009 52ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 1239-357 que retira y hace presente la urgencia Simple
+04 de Nov. de 2009 62ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 1473-357 que retira la urgencia Simple
+01 de Jul. de 2010   Primer trámite constitucional / Senado Primer informe de comisión Ver
+07 de Jul. de 2010 33ª / 358 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+13 de Jul. de 2010 34ª / 358 Primer trámite constitucional / Senado Discusión general Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6265-14","Fecha Etapa Informe Documento
+01 de Jul. de 2010 Primer trámite constitucional Senado Primer informe de comisión de Vivienda y Urbanismo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6265-14","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+29 de Sep. de 2009 04 de Nov. de 2009 Simple 1239-357 1473-357
+16 de Sep. de 2009 28 de Sep. de 2009 Suma 1150-357 1239-357
+01 de Sep. de 2009 16 de Sep. de 2009 Suma 1031-357 1150-357
+18 de Ago. de 2009 01 de Sep. de 2009 Suma 968-357 1031-357
+04 de Ago. de 2009 18 de Ago. de 2009 Simple 856-357 968-357
+30 de Jun. de 2009 04 de Ago. de 2009 Simple 625-357 856-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6265-14","Nombre
+Alejandro Navarro Brain","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6265-14","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6265-14","No record","Veto emmEnd"

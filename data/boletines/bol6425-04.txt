@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 6425-04","Legislatura: 357
+Fecha de ingreso: jueves 26 de marzo de 2009
+Estado: Comisión Mixta por rechazo de idea de legislar .
+Numero de boletín: 6425-04
+Materia: Sociología,Carreras Universitarias
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 08-11-2014 07:30:09
+* * Hitos de tramitación * *
+"emmStart Hitos 6425-04","Fecha Sesión Etapa Sub-etapa Documento
+26 de Mar. de 2009   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+31 de Mar. de 2009 5ª / 357 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+05 de May. de 2009   Primer trámite constitucional / Senado Primer informe de comisión Ver
+05 de May. de 2009 14ª / 357 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+13 de May. de 2009 17ª / 357 Primer trámite constitucional / Senado Discusión general. Queda pendiente Se solicitó segunda discusión Ver
+19 de May. de 2009 19ª / 357 Primer trámite constitucional / Senado Discusión general. Queda pendiente El Comité Partido Socialista solicita aplazamiento de la votación. Ver
+20 de May. de 2009 21ª / 357 Primer trámite constitucional / Senado Discusión general Ver
+20 de May. de 2009   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+02 de Jun. de 2009 34ª / 357 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Deportes y Recreación Ver
+05 de Nov. de 2010   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Nov. de 2010 97ª / 358 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+16 de Nov. de 2010 101ª / 358 Segundo trámite constitucional / C. Diputados Discusión general Ver
+17 de Nov. de 2010 104ª / 358 Segundo trámite constitucional / C. Diputados Discusión general Ver
+17 de Nov. de 2010   Comisión Mixta por rechazo de idea de legislar / C. Diputados Oficio N°9116. Oficio de ley comunicando integración MIXTA Ver
+30 de Nov. de 2010 70ª / 358 Comisión Mixta por rechazo de idea de legislar / C. Diputados Cuenta oficio rechazo de Cámara Revisora Ver
+30 de Nov. de 2010   Comisión Mixta por rechazo de idea de legislar / C. Diputados Oficio N°1030/SEC/1. Toma conocimiento del rechazo del proyecto y designa a los Senadores miembros de la Comisión de Educación, Cultura, Ciencia y Tecnología para que integren la Comisión Mixta. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6425-04","Fecha Etapa Informe Documento
+05 de Nov. de 2010 Segundo trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver
+05 de May. de 2009 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6425-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6425-04","Nombre
+Ricardo Núñez Muñoz","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6425-04","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+102 Nominación de los diputados que integrarán la Comisión Mixta. 40 11 1 68 Aprobado Sala Ver detalle votación
+102   55 32 2 31 Rechazado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6425-04","No record","Veto emmEnd"

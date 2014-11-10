@@ -1,0 +1,63 @@
+* * Bill summary * *
+"emmStart Summary 3586-06","Legislatura: 351
+Fecha de ingreso: martes 06 de julio de 2004
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 3586-06
+Materia: Elecciones
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 04:21:54
+* * Hitos de tramitación * *
+"emmStart Hitos 3586-06","Fecha Sesión Etapa Sub-etapa Documento
+06 de Jul. de 2004   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Jul. de 2004 11ª / 351 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+10 de Ago. de 2004 26ª / 351 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 263-351 que retira y hace presente la urgencia Simple Ver
+09 de Sep. de 2004   Primer trámite constitucional / C. Diputados Oficio Nº 171 a la Corte Suprema Ver
+03 de Nov. de 2004 13ª / 352 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 107-352 que hace presente la urgencia Simple Ver
+12 de Nov. de 2004   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+14 de Dic. de 2004 29ª / 352 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 217-352 que retira y hace presente la urgencia Simple Ver
+04 de Ene. de 2005   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+06 de Ene. de 2005 36ª / 352 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+06 de Ene. de 2005 36ª / 352 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Gobierno Interior y de Hacienda Ver
+11 de Ene. de 2005 37ª / 352 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+18 de Ene. de 2005 42ª / 352 Primer trámite constitucional / C. Diputados Retira y hace presente la urgencia \""simple\"" Ver Ver
+18 de Ene. de 2005 42ª / 352 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 310-352 que retira la urgencia Simple Ver Ver
+15 de May. de 2008 30ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 287-356 que hace presente la urgencia Simple Ver
+20 de May. de 2008 32ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+03 de Jun. de 2008 33ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 313-356 que retira y hace presente la urgencia Suma Ver
+10 de Jun. de 2008 36ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 365-356 que retira y hace presente la urgencia Simple Ver
+04 de Ago. de 2008   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+05 de Ago. de 2008 57ª / 356 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+12 de Ago. de 2008 60ª / 356 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3586-06","Fecha Etapa Informe Documento
+04 de Ago. de 2008 Primer trámite constitucional C.Diputados Segundo informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver
+04 de Ene. de 2005 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+12 de Nov. de 2004 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3586-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+10 de Jun. de 2008   Simple 365-356  
+03 de Jun. de 2008 10 de Jun. de 2008 Suma 313-356 365-356
+15 de May. de 2008 03 de Jun. de 2008 Simple 287-356 313-356
+14 de Dic. de 2004 18 de Ene. de 2005 Simple 217-352 310-352
+03 de Nov. de 2004   Simple 107-352  
+10 de Ago. de 2004   Simple 263-351  
+06 de Jul. de 2004 10 de Ago. de 2004 Simple 141-351 263-351","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3586-06","Nombre Región Distrito Partido
+Ministerio de Interior y Seguridad Públi      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3586-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+60 1°, 2°, 6°, 8° al 12, 16, 17, 20 a 23, 25 a 33, 37, 38 y 39 permanentes; y 1°, 4° y 5° transitorios. 51 48 1 20 Rechazado Sala Ver detalle votación
+60 3°. 50 50 2 18 Rechazado Sala Ver detalle votación
+32   76 18 8 18 Aprobado Sala Ver detalle votación
+60 34. 56 49 1 14 Rechazado Sala Ver detalle votación
+60 35 y 36. 55 47 2 16 Rechazado Sala Ver detalle votación
+60 13. 50 48 1 21 Rechazado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3586-06","No record","Veto emmEnd"

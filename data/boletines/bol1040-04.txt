@@ -1,0 +1,53 @@
+* * Bill summary * *
+"emmStart Summary 1040-04","Legislatura: 326
+Fecha de ingreso: martes 20 de julio de 1993
+Estado: Tramitación terminada (Ley Nº 19.309 - D.Oficial 11/07/1994)
+Numero de boletín: 1040-04
+Materia: Monumentos
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 02:16:29
+* * Hitos de tramitación * *
+"emmStart Hitos 1040-04","Fecha Sesión Etapa Sub-etapa Documento
+20 de Jul. de 1993   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+20 de Jul. de 1993 12ª / 326 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+21 de Jul. de 1993 13ª / 326 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+21 de Jul. de 1993 13ª / 326 Primer trámite constitucional / Senado Discusión general Ver
+21 de Jul. de 1993 13ª / 326 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+21 de Jul. de 1993 13ª / 326 Primer trámite constitucional / Senado Primer informe de comisión Ver
+03 de Ago. de 1993 22ª / 326 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+18 de Ene. de 1994   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+13 de Feb. de 1994 35ª / 327 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+01 de Mar. de 1994 36ª / 327 Segundo trámite constitucional / C. Diputados Discusión general Ver
+02 de Mar. de 1994   Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver
+22 de Mar. de 1994 2ª / 328 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+22 de Mar. de 1994 2ª / 328 Tercer trámite constitucional / Senado Discusión única
+23 de Mar. de 1994 2ª / 344 Tercer trámite constitucional / Senado Oficio rechazo modificaciones a Cámara Revisora Ver
+06 de Abr. de 1994 5ª / 328 Comisión Mixta por rechazo de modificaciones / C. Diputados Cuenta oficio integrantes de Comisión Mixta Ver
+10 de May. de 1994 12ª / 328 Comisión Mixta por rechazo de modificaciones / C. Diputados Informe de Comisión Mixta Ver Ver
+10 de May. de 1994 12ª / 328 Disc. informe C.Mixta por rechazo de modific. en C. Origen / Senado Cuenta informe Comisión Mixta
+18 de May. de 1994 15ª / 328 Disc. informe C.Mixta por rechazo de modific. en C. Origen / Senado Discusión informe de Comisión Mixta
+21 de May. de 1994 15ª / 344 Disc. informe C.Mixta por rechazo de modific. en C. Origen / Senado Oficio aprobación de informe de Comisión Mixta a C. Revisora
+30 de May. de 1994 2ª / 329 Disc. informe C.Mixta por rechazo de modif. C. Revisora / C. Diputados Cuenta oficio aprobación de informe de Comisión Mixta Ver
+07 de Jun. de 1994 4ª / 329 Disc. informe C.Mixta por rechazo de modif. C. Revisora / C. Diputados Discusión informe de Comisión Mixta Ver
+08 de Jun. de 1994   Disc. informe C.Mixta por rechazo de modif. C. Revisora / C. Diputados Oficio aprobación de informe de Comisión Mixta a C.de Origen Ver
+09 de Jun. de 1994 4ª / 344 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+09 de Jun. de 1994 4ª / 329 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación de informe de Comisión Mixta","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1040-04","Fecha Etapa Informe Documento
+10 de May. de 1994 Comisión Mixta por rechazo de modificaciones Senado Informe de Comisión Mixta Comisión Mixta para Boletín Nº 1040-04. Monumento a Fray Camilo Henríquez. Ver
+18 de Ene. de 1994 Segundo trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver
+21 de Jul. de 1993 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1040-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1040-04","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1040-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1040-04","No record","Veto emmEnd"

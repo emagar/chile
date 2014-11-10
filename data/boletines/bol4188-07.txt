@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 4188-07","Legislatura: 354
+Fecha de ingreso: jueves 04 de mayo de 2006
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 4188-07
+Materia: Terroristas,Libertad Condicional
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 05-11-2014 22:43:19
+* * Hitos de tramitación * *
+"emmStart Hitos 4188-07","Fecha Sesión Etapa Sub-etapa Documento
+04 de May. de 2006   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+09 de May. de 2006 13ª / 354 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+09 de May. de 2006 13ª / 354 Primer trámite constitucional / Senado Por acuerdo de Comités, el PL será informado previamente por la Comisión de Derechos Humanos, Nacionalidad y Ciudadanía.
+16 de May. de 2006 16ª / 354 Primer trámite constitucional / Senado Cuenta del Mensaje 112-354 que hace presente la urgencia Suma
+06 de Jun. de 2006 19ª / 354 Primer trámite constitucional / Senado Cuenta del Mensaje 131-354 que hace presente la urgencia Suma
+07 de Jun. de 2006   Primer trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento Ver
+20 de Jun. de 2006 24ª / 354 Primer trámite constitucional / Senado Cuenta del Mensaje 164-354 que retira y hace presente la urgencia Suma
+04 de Jul. de 2006 28ª / 354 Primer trámite constitucional / Senado Cuenta del Mensaje 183-354 que retira la urgencia Suma
+14 de Ago. de 2006   Primer trámite constitucional / Senado Primer informe de comisión Ver
+29 de Ago. de 2006 45ª / 354 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+30 de Ago. de 2006 47ª / 354 Primer trámite constitucional / Senado Queda para segunda discusión. Ver
+06 de Sep. de 2006 50ª / 354 Primer trámite constitucional / Senado Discusión general Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4188-07","Fecha Etapa Informe Documento
+14 de Ago. de 2006 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+07 de Jun. de 2006 Primer trámite constitucional Senado Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4188-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+20 de Jun. de 2006 04 de Jul. de 2006 Suma 164-354 183-354
+06 de Jun. de 2006 20 de Jun. de 2006 Suma 131-354 164-354
+16 de May. de 2006   Suma 112-354  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4188-07","Nombre
+Guido Girardi Lavín
+Juan Pablo Letelier Morel
+Alejandro Navarro Brain","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4188-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4188-07","No record","Veto emmEnd"

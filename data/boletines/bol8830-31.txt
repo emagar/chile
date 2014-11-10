@@ -1,0 +1,61 @@
+* * Bill summary * *
+"emmStart Summary 8830-31","Legislatura: 361
+Fecha de ingreso: martes 12 de marzo de 2013
+Estado: Tramitación terminada (Ley N° 20.665 - D.Oficial 01/04/2013)
+Numero de boletín: 8830-31
+Materia: Familias De Bajos Ingresos,Clase Media Vulnerable,Bono Solidario
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 06:12:29
+* * Hitos de tramitación * *
+"emmStart Hitos 8830-31","Fecha Sesión Etapa Sub-etapa Documento
+12 de Mar. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Mar. de 2013 1ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Superación de la Pobreza, Planificación y Desarrollo Social y a Comisión de Hacienda Ver
+12 de Mar. de 2013   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Mar. de 2013 1ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 02-361 que hace presente la urgencia Discusión inmediata Ver
+13 de Mar. de 2013   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+14 de Mar. de 2013 3ª / 361 Primer trámite constitucional / C. Diputados Cuenta oficio N°08-361 de S.E. el Presidente de la República por el cual formula indicación. Ver Ver
+14 de Mar. de 2013 3ª / 361 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Mar. de 2013 3ª / 361 Primer trámite constitucional / C. Diputados Discusión general Ver
+14 de Mar. de 2013   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+19 de Mar. de 2013 3ª / 361 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+19 de Mar. de 2013 3ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 17-361 que retira y hace presente la urgencia Discusión inmediata
+20 de Mar. de 2013   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+20 de Mar. de 2013   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+20 de Mar. de 2013   Segundo trámite constitucional / Senado Primer informe de comisión. CERTIFICADO Ver
+20 de Mar. de 2013   Segundo trámite constitucional / Senado Primer informe de comisión. CERTIFICADO Ver
+20 de Mar. de 2013 6ª / 361 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+20 de Mar. de 2013 6ª / 361 Segundo trámite constitucional / Senado Discusión general Ver
+20 de Mar. de 2013   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+21 de Mar. de 2013 7ª / 361 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+21 de Mar. de 2013   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8830-31","Fecha Etapa Informe Documento
+20 de Mar. de 2013 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+20 de Mar. de 2013 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+13 de Mar. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+12 de Mar. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión de Superación de la Pobreza, Planificación y Desarrollo Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8830-31","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+19 de Mar. de 2013   Discusión inmediata 17-361  
+12 de Mar. de 2013 19 de Mar. de 2013 Discusión inmediata 02-361 17-361","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8830-31","Nombre Región Distrito Partido
+Ministerio de Desarrollo Social      
+Ministerio de Hacienda      
+Ministerio de Trabajo y Previsión Social      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8830-31","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+83 Votación General 9 0 0 4   Superación de la Pobreza Ver detalle votación
+3   84 0 0 0 Aprobado Sala Ver detalle votación
+3   84 0 0 0 Aprobado Sala Ver detalle votación
+3 Artículo 3 81 0 0 0 Aprobado Sala Ver detalle votación
+3 Cierre del debate 46 13 0 61 Aprobado Sala Ver detalle votación
+3 Artículo 1° 81 0 0 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8830-31","No record","Veto emmEnd"

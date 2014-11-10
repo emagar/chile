@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 1082-04","Legislatura: 326
+Fecha de ingreso: miércoles 01 de septiembre de 1993
+Estado: Tramitación terminada (Ley Nº 19.437 - D.Oficial 13/01/1996)
+Numero de boletín: 1082-04
+Materia: Monumentos
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 02:48:49
+* * Hitos de tramitación * *
+"emmStart Hitos 1082-04","Fecha Sesión Etapa Sub-etapa Documento
+01 de Sep. de 1993   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+01 de Sep. de 1993 21ª / 326 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+07 de Jun. de 1994 3ª / 329 Primer trámite constitucional / Senado Primer informe de comisión Ver
+07 de Jun. de 1994 3ª / 329 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+14 de Jun. de 1994 5ª / 329 Primer trámite constitucional / Senado Discusión general Ver
+15 de Jun. de 1994 6ª / 329 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+16 de Jun. de 1994 10ª / 329 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+24 de Oct. de 1995   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de Nov. de 1995 13ª / 332 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+29 de Nov. de 1995 29ª / 332 Segundo trámite constitucional / C. Diputados Discusión general Ver
+29 de Nov. de 1995   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+05 de Dic. de 1995 21ª / 332 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+05 de Dic. de 1995 21ª / 344 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1082-04","Fecha Etapa Informe Documento
+24 de Oct. de 1995 Segundo trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver
+07 de Jun. de 1994 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1082-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1082-04","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1082-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1082-04","No record","Veto emmEnd"

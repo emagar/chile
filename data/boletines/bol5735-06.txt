@@ -1,0 +1,32 @@
+* * Bill summary * *
+"emmStart Summary 5735-06","Legislatura: 355
+Fecha de ingreso: jueves 17 de enero de 2008
+Estado: Primer trámite constitucional .
+Numero de boletín: 5735-06
+Materia: Inhabilidades,Concejales,Alcaldes,Municipios
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 22:39:31
+* * Hitos de tramitación * *
+"emmStart Hitos 5735-06","Fecha Sesión Etapa Sub-etapa Documento
+17 de Ene. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+17 de Ene. de 2008 136ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5735-06","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5735-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5735-06","Nombre Región Distrito Partido
+Ramón Farías Ponce RM Región Metropolitana N°30 Partido Por la Democracia
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+Clemira Pacheco Rivas VIII Región del Bío Bío N°45 Partido Socialista
+Ximena Vidal Lázaro RM Región Metropolitana N°25 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5735-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5735-06","No record","Veto emmEnd"

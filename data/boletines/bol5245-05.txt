@@ -1,0 +1,53 @@
+* * Bill summary * *
+"emmStart Summary 5245-05","Legislatura: 355
+Fecha de ingreso: jueves 02 de agosto de 2007
+Estado: Tramitación terminada (Ley Nº 20.221 - D.Oficial 29/09/2007)
+Numero de boletín: 5245-05
+Materia: Protección De La Vida Privada,Habeas Data,Datos Personales
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 02:20:31
+* * Hitos de tramitación * *
+"emmStart Hitos 5245-05","Fecha Sesión Etapa Sub-etapa Documento
+02 de Ago. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Ago. de 2007 60ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+09 de Ago. de 2007 62ª / 355 Primer trámite constitucional / C. Diputados Comsiión de Hacienda solicita el acuerdo para sesionar simultáneamente con la Sala el día lunes 13 de agosto de 15,30 a 19,30 horas. NO HAY ACUERDO. Ver
+13 de Ago. de 2007 63ª / 355 Primer trámite constitucional / C. Diputados Comisión de Hacienda solicita sesionar simultáneo con la Sala el día 13 de agosto de 15,30 a 19,30 horas. ACORDADO Ver
+13 de Ago. de 2007 64ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 601-355 que hace presente la urgencia Suma Ver
+28 de Ago. de 2007 67ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 612-355 que retira y hace presente la urgencia Suma Ver
+04 de Sep. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Sep. de 2007 73ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+05 de Sep. de 2007 73ª / 355 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+05 de Sep. de 2007   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+11 de Sep. de 2007 51ª / 355 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+11 de Sep. de 2007 51ª / 355 Segundo trámite constitucional / Senado Cuenta del Mensaje 671-355 que retira y hace presente la urgencia Simple
+12 de Sep. de 2007   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+12 de Sep. de 2007 52ª / 355 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Sep. de 2007 52ª / 355 Segundo trámite constitucional / Senado Discusión general Ver
+13 de Sep. de 2007   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+13 de Sep. de 2007 78ª / 355 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver Ver
+14 de Sep. de 2007   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5245-05","Fecha Etapa Informe Documento
+12 de Sep. de 2007 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+04 de Sep. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5245-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+11 de Sep. de 2007   Simple 671-355  
+28 de Ago. de 2007 07 de Sep. de 2007 Suma 612-355 671-355
+13 de Ago. de 2007 28 de Ago. de 2007 Suma 601-355 612-355","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5245-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5245-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+73   90 0 0 30 Aprobado Sala Ver detalle votación
+73 2°. 1 96 1 22 Rechazado Sala Ver detalle votación
+73 1°, con indicación de los señores Lorenzini, Tuma, Arenas, Ascencio, Sepúlveda, don Roberto; Rossi, Aedo, Dittborn y Delmastro, para sustituir la expresión ""de la fecha de vigencia del artículo 2°""por ""el día primero del mes siguiente al de publicación"", y para reemplazar, la segunda vez que aparece, los términos ""en el artículo 2° de esta ley"" por el vocablo ""precedentemente"". 98 0 0 22 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5245-05","No record","Veto emmEnd"

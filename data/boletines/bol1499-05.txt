@@ -1,0 +1,54 @@
+* * Bill summary * *
+"emmStart Summary 1499-05","Legislatura: 330
+Fecha de ingreso: martes 10 de enero de 1995
+Estado: Tramitación terminada (Ley Nº 19.420 - D.Oficial 23/10/1995)
+Numero de boletín: 1499-05
+Materia: Desarrollo Económico
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 09:55:13
+* * Hitos de tramitación * *
+"emmStart Hitos 1499-05","Fecha Sesión Etapa Sub-etapa Documento
+10 de Ene. de 1995   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Ene. de 1995 33ª / 330 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+10 de Ene. de 1995   Primer trámite constitucional / C. Diputados Eximido del trámite ante Comisión de Hacienda. Pasa a Comisión Desarrollo de Arica y Parinacota
+12 de Abr. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+10 de May. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de May. de 1995 69ª / 330 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+11 de May. de 1995 69ª / 330 Primer trámite constitucional / C. Diputados Discusión general Ver
+11 de May. de 1995   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+16 de May. de 1995 62ª / 330 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+01 de Ago. de 1995   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+01 de Ago. de 1995 21ª / 331 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+02 de Ago. de 1995 23ª / 331 Segundo trámite constitucional / Senado Discusión general. Aprobado en general . Se acuerda que pase a las Comisiones de Defensa Nacional y de Hacienda, unidas. Ver
+21 de Ago. de 1995   Segundo trámite constitucional / Senado Boletín de indicaciones
+05 de Sep. de 1995   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+06 de Sep. de 1995 32ª / 331 Segundo trámite constitucional / Senado Discusión particular Ver
+06 de Sep. de 1995 32ª / 331 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+07 de Sep. de 1995   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+07 de Sep. de 1995 35ª / 331 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+12 de Sep. de 1995 36ª / 331 Tercer trámite constitucional / C. Diputados Discusión única Ver
+12 de Sep. de 1995   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo. Oficio para ejercer la facultad de veto. Con fecha 03 de octubre de 1995, en la sesión 01 de la legislatura 332, el Ejecutivo comunica que no hará uso de dicha facultad. Ver
+20 de Sep. de 1995   Trámite en Tribunal Constitucional / C. Diputados Oficio al Tribunal Constitucional Ver
+29 de Sep. de 1995   Trámite en Tribunal Constitucional / C. Diputados Ingreso fallo del Tribunal Constitucional Ver
+04 de Oct. de 1995 2ª / 332 Trámite en Tribunal Constitucional / C. Diputados Cuenta fallo del Tribunal Constitucional Ver
+04 de Dic. de 1995   Trámite en Tribunal Constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1499-05","Fecha Etapa Informe Documento
+05 de Sep. de 1995 Segundo trámite constitucional Senado Segundo informe de comisión de Hacienda Ver
+01 de Ago. de 1995 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+10 de May. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+12 de Abr. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión Desarrollo de Arica y Parinacota Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1499-05","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1499-05","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1499-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1499-05","No record","Veto emmEnd"

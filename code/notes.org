@@ -1,0 +1,6 @@
+#+TITLE: Notes on scraping camara.cl site for bill histories
+#+AUTHOR: Eric Magar
+#+EMAIL: emagar@itam.mx
+#+DATE: 14-oct-2014
+#+OPTIONS: TeX:t LaTeX:t
+

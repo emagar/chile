@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 1800-10","Legislatura: 332
+Fecha de ingreso: martes 05 de marzo de 1996
+Estado: Tramitación terminada (D.S. Nº 1.105 - D.Oficial 27/09/1997)
+Numero de boletín: 1800-10
+Materia: Acuerdos Internacionales
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 14:39:58
+* * Hitos de tramitación * *
+"emmStart Hitos 1800-10","Fecha Sesión Etapa Sub-etapa Documento
+05 de Mar. de 1996   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+05 de Mar. de 1996 36ª / 332 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+12 de Jun. de 1996 6ª / 333 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Jun. de 1996 6ª / 333 Primer trámite constitucional / Senado Primer informe de comisión Ver
+03 de Jul. de 1996 12ª / 333 Primer trámite constitucional / Senado Discusión general. La Sala acuerda que el proyecto pase también a la Comisión de Hacienda. Ver
+12 de Ago. de 1996 34ª / 333 Primer trámite constitucional / Senado Primer informe de comisión Ver
+03 de Sep. de 1996 34ª / 333 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+04 de Jun. de 1997 2ª / 335 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+04 de Jun. de 1997 2ª / 335 Primer trámite constitucional / Senado Discusión general Ver
+15 de Jun. de 1997 6ª / 340 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+17 de Jun. de 1997   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+19 de Jun. de 1997 12ª / 335 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+01 de Jul. de 1997 13ª / 335 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+01 de Jul. de 1997   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen
+02 de Jul. de 1997 11ª / 335 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+04 de Jul. de 1997 11ª / 335 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1800-10","Fecha Etapa Informe Documento
+17 de Jun. de 1997 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+12 de Ago. de 1996 Primer trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+12 de Jun. de 1996 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1800-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1800-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1800-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1800-10","No record","Veto emmEnd"

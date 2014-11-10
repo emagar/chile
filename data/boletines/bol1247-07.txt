@@ -1,0 +1,52 @@
+* * Bill summary * *
+"emmStart Summary 1247-07","Legislatura: 329
+Fecha de ingreso: martes 21 de junio de 1994
+Estado: Tramitación terminada (Ley Nº 19.411 - D.Oficial 20/09/1995)
+Numero de boletín: 1247-07
+Materia: Remate De Bienes
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 04:56:09
+* * Hitos de tramitación * *
+"emmStart Hitos 1247-07","Fecha Sesión Etapa Sub-etapa Documento
+21 de Jun. de 1994   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+21 de Jun. de 1994 13ª / 329 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+05 de Dic. de 1994   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+06 de Dic. de 1994 23ª / 330 Primer trámite constitucional / C. Diputados Discusión general Ver
+06 de Dic. de 1994 22ª / 330 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+06 de Dic. de 1994   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+13 de Dic. de 1994 26ª / 330 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+06 de Abr. de 1995   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+11 de Abr. de 1995 51ª / 330 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Abr. de 1995 52ª / 330 Tramitación terminada / Discusión general. Rechazado en general. Se acuerda designar a los miembros de la Comisión de Constitución, Legislación, Justicia y Reglamento para que integren la Comisión Mixta que corresponde formar.
+12 de Abr. de 1995   Segundo trámite constitucional / Senado Oficio rechazo a Cámara de Origen Ver
+18 de Abr. de 1995 60ª / 330 Comisión Mixta por rechazo de idea de legislar / Senado Cuenta oficio rechazo de Cámara Revisora
+19 de Abr. de 1995 55ª / 330 Comisión Mixta por rechazo de idea de legislar / Senado Cuenta oficio integrantes de Comisión Mixta. Se comunica el nombre de los Diputados que integrarán esta Comisión.
+20 de Jun. de 1995   Comisión Mixta por rechazo de idea de legislar / Senado Informe de Comisión Mixta Ver
+04 de Jul. de 1995 13ª / 331 Disc. informe C.Mixta por rechazo idea de legislar C. Origen / C. Diputados Cuenta informe Comisión Mixta Ver
+02 de Ago. de 1995   Disc. informe C.Mixta por rechazo idea de legislar C. Origen / C. Diputados Oficio aprobación de informe de Comisión Mixta a C. Revisora Ver
+02 de Ago. de 1995 23ª / 331 Disc. informe C.Mixta por rechazo idea de legislar C. Origen / C. Diputados Discusión informe de Comisión Mixta Ver
+08 de Ago. de 1995 24ª / 331 Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / Senado Cuenta oficio aprobación de informe de Comisión Mixta. por la Cámara de Diputados. Queda para tabla.
+09 de Ago. de 1995 25ª / 331 Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / Senado Discusión informe de Comisión Mixta
+09 de Ago. de 1995   Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / Senado Oficio aprobación de informe de Comisión Mixta a C.de Origen Ver
+16 de Ago. de 1995 28ª / 331 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación de informe de Comisión Mixta Ver
+22 de Ago. de 1995 28ª / 331 Congreso Pleno / Ratificación reforma constitucional
+22 de Ago. de 1995   Congreso Pleno / Oficio de ley al Ejecutivo","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1247-07","Fecha Etapa Informe Documento
+20 de Jun. de 1995 Comisión Mixta por rechazo de idea de legislar Senado Informe de Comisión Mixta Comisión Mixta para Boletín Nº 1247-07 Ver
+06 de Abr. de 1995 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+05 de Dic. de 1994 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1247-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1247-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1247-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1247-07","No record","Veto emmEnd"

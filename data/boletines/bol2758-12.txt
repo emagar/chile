@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 2758-12","Legislatura: 344
+Fecha de ingreso: martes 31 de julio de 2001
+Estado: Tramitación terminada (Ley Nº 19.776 - D.Oficial 21/12/2001)
+Numero de boletín: 2758-12
+Materia: Posesión Y Ocupación De Inmuebles Fiscales
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 10:09:27
+* * Hitos de tramitación * *
+"emmStart Hitos 2758-12","Fecha Sesión Etapa Sub-etapa Documento
+31 de Jul. de 2001   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+31 de Jul. de 2001 20ª / 344 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver
+26 de Sep. de 2001   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+09 de Oct. de 2001   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Oct. de 2001 4ª / 345 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+17 de Oct. de 2001 9ª / 345 Primer trámite constitucional / C. Diputados Discusión general Ver
+17 de Oct. de 2001   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+17 de Oct. de 2001 9ª / 345 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Medio Ambiente y Bienes Nacionales
+06 de Nov. de 2001   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+07 de Nov. de 2001   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+07 de Nov. de 2001 13ª / 345 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+07 de Nov. de 2001 14ª / 345 Segundo trámite constitucional / Senado Discusión general Ver
+07 de Nov. de 2001   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+13 de Nov. de 2001   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+13 de Nov. de 2001 16ª / 345 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2758-12","Fecha Etapa Informe Documento
+07 de Nov. de 2001 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+06 de Nov. de 2001 Segundo trámite constitucional Senado Primer informe de comisión de Medio Ambiente y Bienes Nacionales Ver
+09 de Oct. de 2001 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+26 de Sep. de 2001 Primer trámite constitucional C.Diputados Primer informe de comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2758-12","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+10 de Oct. de 2001   Simple 42-345  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2758-12","Nombre Región Distrito Partido
+Ministerio de Bienes Nacionales      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2758-12","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2758-12","No record","Veto emmEnd"

@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 2648-05","Legislatura: 343
+Fecha de ingreso: jueves 04 de enero de 2001
+Estado: Tramitación terminada (Ley Nº 19.716 - D.Oficial 09/02/2001)
+Numero de boletín: 2648-05
+Materia: Alcoholes,Bebidas Alcoholicas,Organización Mundial Del Comercio
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 07:21:59
+* * Hitos de tramitación * *
+"emmStart Hitos 2648-05","Fecha Sesión Etapa Sub-etapa Documento
+04 de Ene. de 2001   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Ene. de 2001 31ª / 343 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+10 de Ene. de 2001   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+10 de Ene. de 2001 33ª / 343 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+10 de Ene. de 2001 33ª / 343 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+10 de Ene. de 2001   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+10 de Ene. de 2001 22ª / 343 Segundo trámite constitucional / Senado Cuenta de proyecto
+19 de Ene. de 2001   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+23 de Ene. de 2001 25ª / 343 Segundo trámite constitucional / Senado Cuenta del Mensaje 343-343 que retira y hace presente la urgencia Suma
+23 de Ene. de 2001 25ª / 343 Segundo trámite constitucional / Senado Discusión general Ver
+23 de Ene. de 2001 25ª / 343 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+23 de Ene. de 2001   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+30 de Ene. de 2001   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo
+06 de Mar. de 2001 39ª / 343 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2648-05","Fecha Etapa Informe Documento
+19 de Ene. de 2001 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+10 de Ene. de 2001 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2648-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+23 de Ene. de 2001   Suma 343-343  
+04 de Ene. de 2001 23 de Ene. de 2001 Suma 226-343 343-343","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2648-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2648-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2648-05","No record","Veto emmEnd"

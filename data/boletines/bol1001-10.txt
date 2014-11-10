@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 1001-10","Legislatura: 326
+Fecha de ingreso: martes 01 de junio de 1993
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 1001-10
+Materia: Acuerdos Internacionales,Convención Sobre Cumplimiento De Obligaciones
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 01:47:29
+* * Hitos de tramitación * *
+"emmStart Hitos 1001-10","Fecha Sesión Etapa Sub-etapa Documento
+01 de Jun. de 1993   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+01 de Jun. de 1993 1ª / 326 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+01 de Ago. de 1993 16ª / 326 Primer trámite constitucional / Senado Primer informe de comisión
+01 de Ago. de 1993 16ª / 326 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+02 de Ago. de 1993 17ª / 326 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+02 de Ago. de 1993 17ª / 326 Primer trámite constitucional / Senado Discusión general Ver
+07 de Ago. de 1993 28ª / 326 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+04 de Jun. de 1996   Tramitación terminada / S.E. el Pdte. de la Rep. retira el proyecto de su tramitación.
+04 de Jun. de 1996   Segundo trámite constitucional / C. Diputados Primer informe de comisión
+12 de Jun. de 1996 6ª / 333 Tramitación terminada / Cuenta oficio de la Cámara comunicando que accedió a solicitud de S.E. el Presidente de la República de retirar el proyecto de tramitación, previo acuerdo del Senado. Se acuerda archivarlo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1001-10","Fecha Etapa Informe Documento
+10 de Ago. de 1993 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1001-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1001-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1001-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1001-10","No record","Veto emmEnd"

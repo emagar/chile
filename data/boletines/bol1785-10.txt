@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 1785-10","Legislatura: 332
+Fecha de ingreso: martes 16 de enero de 1996
+Estado: Tramitación terminada (D.S. Nº 291 - D.Oficial 11/06/1997)
+Numero de boletín: 1785-10
+Materia: Acuerdos Internacionales
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 14:29:08
+* * Hitos de tramitación * *
+"emmStart Hitos 1785-10","Fecha Sesión Etapa Sub-etapa Documento
+16 de Ene. de 1996 29ª / 332 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+16 de Ene. de 1996   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+23 de Ene. de 1996   Primer trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 332
+03 de Abr. de 1996 46ª / 332 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+03 de Abr. de 1996 46ª / 332 Primer trámite constitucional / Senado Primer informe de comisión Ver
+09 de Abr. de 1996   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Abr. de 1996 52ª / 332 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+17 de Abr. de 1996 52ª / 332 Primer trámite constitucional / Senado Discusión general Ver
+30 de Abr. de 1996 68ª / 332 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+14 de May. de 1996   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+14 de May. de 1996 73ª / 332 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de Jun. de 1996 7ª / 333 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+13 de Jun. de 1996 7ª / 333 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+18 de Jun. de 1996   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+19 de Jun. de 1996 9ª / 333 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+19 de Jun. de 1996 9ª / 333 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1785-10","Fecha Etapa Informe Documento
+09 de Abr. de 1996 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+03 de Abr. de 1996 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1785-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1785-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1785-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1785-10","No record","Veto emmEnd"

@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 3183-06","Legislatura: 348
+Fecha de ingreso: martes 07 de enero de 2003
+Estado: Archivado .
+Numero de boletín: 3183-06
+Materia: Votación
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 00:04:58
+* * Hitos de tramitación * *
+"emmStart Hitos 3183-06","Fecha Sesión Etapa Sub-etapa Documento
+07 de Ene. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+07 de Ene. de 2003 39ª / 348 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+01 de Ago. de 2006 53ª / 354 Primer trámite constitucional / C. Diputados Pendiente solicitud de archivo. Ver
+04 de Ene. de 2007   Archivado / Oficio Nº 6580. Se acuerda acceder al archivo del proyecto solicitado por la Comisión Ver
+04 de Ene. de 2007   Primer trámite constitucional / C. Diputados Archivado
+04 de Ene. de 2007 115ª / 354 Archivado / Sala acuerda el archivo del proyecto.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3183-06","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3183-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3183-06","Nombre Región Distrito Partido
+Pedro Pablo Alvarez-Salamanca Büchi VII Región del Maule N°38 Renovación Nacional
+Francisco Bayo Veloso IX Región de la Araucanía N°48 Renovación Nacional
+Mario Bertolino Rendic IV Región de Coquimbo N°7 Renovación Nacional
+Roberto Delmastro Naso X Región de los Lagos N°53 Independientes
+Francisco Encina Moriamez IV Región de Coquimbo N°8 Partido Socialista
+Pablo Galilea Carrillo XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Renovación Nacional
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Carlos Hidalgo González V Región de Valparaíso N°15 Independientes
+Alfonso Vargas Lyng V Región de Valparaíso N°10 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3183-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3183-06","No record","Veto emmEnd"

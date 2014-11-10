@@ -1,0 +1,31 @@
+* * Bill summary * *
+"emmStart Summary 2295-10","Legislatura: 339
+Fecha de ingreso: miércoles 06 de enero de 1999
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 2295-10
+Materia: Traslado De Personas Condenadas
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 23:00:46
+* * Hitos de tramitación * *
+"emmStart Hitos 2295-10","Fecha Sesión Etapa Sub-etapa Documento
+06 de Ene. de 1999   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+06 de Ene. de 1999 15ª / 339 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+20 de Abr. de 1999 34ª / 339 Primer trámite constitucional / Senado Mensaje 295-339, de S.E. el Vicepresidente de la República, retirando el proyecto de Acuerdo del Congreso.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2295-10","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2295-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+06 de Ene. de 1999 12 de Ene. de 1999 Discusión inmediata 177-339 180-339","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2295-10","Nombre
+Ministerio de Relaciones Exteriores","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2295-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2295-10","No record","Veto emmEnd"

@@ -1,0 +1,39 @@
+* * Bill summary * *
+"emmStart Summary 6347-12","Legislatura: 356
+Fecha de ingreso: martes 13 de enero de 2009
+Estado: Segundo trámite constitucional .
+Numero de boletín: 6347-12
+Materia: Concesiones Marítimas,Medio Ambiente
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 05:49:19
+* * Hitos de tramitación * *
+"emmStart Hitos 6347-12","Fecha Sesión Etapa Sub-etapa Documento
+13 de Ene. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Ene. de 2009 122ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+12 de Mar. de 2009 2ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver
+13 de May. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+20 de May. de 2009 32ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+04 de Jun. de 2009 36ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+04 de Jun. de 2009   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+09 de Jun. de 2009 24ª / 357 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Medio Ambiente y Bienes Nacionales","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6347-12","Fecha Etapa Informe Documento
+13 de May. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6347-12","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6347-12","Nombre Región Distrito Partido
+Francisco Chahuán Chahuán V Región de Valparaíso N°14 Renovación Nacional
+Roberto Sepúlveda Hermosilla RM Región Metropolitana N°20 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6347-12","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+36   83 0 0 37 Aprobado Sala Ver detalle votación
+108 Votación General 6 2 0 5   Recursos Naturales Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6347-12","No record","Veto emmEnd"

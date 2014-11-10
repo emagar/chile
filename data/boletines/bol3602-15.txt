@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 3602-15","Legislatura: 351
+Fecha de ingreso: martes 13 de julio de 2004
+Estado: Segundo trámite constitucional .
+Numero de boletín: 3602-15
+Materia: Peaje En Autopistas Concesionadas
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 06:24:30
+* * Hitos de tramitación * *
+"emmStart Hitos 3602-15","Fecha Sesión Etapa Sub-etapa Documento
+13 de Jul. de 2004   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Jul. de 2004 14ª / 351 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+15 de Sep. de 2004   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+16 de Sep. de 2004 45ª / 351 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de Oct. de 2004 7ª / 352 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+13 de Oct. de 2004   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+19 de Oct. de 2004 6ª / 352 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Obras Públicas Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3602-15","Fecha Etapa Informe Documento
+15 de Sep. de 2004 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3602-15","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3602-15","Nombre Región Distrito Partido
+Eliana Caraball Martínez RM Región Metropolitana N°27 Partido Demócrata Cristiano
+Andrés Egaña Respaldiza VIII Región del Bío Bío N°44 Unión Demócrata Independiente
+Darío Molina Sanhueza IV Región de Coquimbo N°9 Unión Demócrata Independiente
+José Miguel Ortiz Novoa VIII Región del Bío Bío N°44 Partido Demócrata Cristiano
+Carlos Recondo Lavanderos X Región de los Lagos N°56 Unión Demócrata Independiente
+Boris Tapia Martínez VII Región del Maule N°36 Partido Demócrata Cristiano
+Jorge Ulloa Aguillón VIII Región del Bío Bío N°43 Unión Demócrata Independiente
+Gonzalo Uriarte Herrera RM Región Metropolitana N°31 Unión Demócrata Independiente
+Ignacio Urrutia Bonilla VII Región del Maule N°40 Unión Demócrata Independiente
+Patricio Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3602-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3602-15","No record","Veto emmEnd"

@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 8020-18","Legislatura: 359
+Fecha de ingreso: jueves 03 de noviembre de 2011
+Estado: Primer trámite constitucional .
+Numero de boletín: 8020-18
+Materia: Pruebas Biológicas,Defensor De Ausentes,Filiación
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 14:30:22
+* * Hitos de tramitación * *
+"emmStart Hitos 8020-18","Fecha Sesión Etapa Sub-etapa Documento
+03 de Nov. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Nov. de 2011 104ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Familia Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8020-18","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8020-18","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8020-18","Nombre Región Distrito Partido
+Eugenio Bauer Jouanne VI Región del Libertador Bernardo O' Higgins N°33 Unión Demócrata Independiente
+María Angélica Cristi Marfil RM Región Metropolitana N°24 Unión Demócrata Independiente
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Gustavo Hasbún Selume RM Región Metropolitana N°26 Unión Demócrata Independiente
+María José Hoffmann Opazo V Región de Valparaíso N°15 Unión Demócrata Independiente
+Cristian Letelier Aguilar RM Región Metropolitana N°31 Independientes
+Nicolás Monckeberg Díaz RM Región Metropolitana N°18 Renovación Nacional
+Claudia Nogueira Fernández RM Región Metropolitana N°19 Unión Demócrata Independiente
+Felipe Salaberry Soto RM Región Metropolitana N°25 Unión Demócrata Independiente
+Mónica Zalaquett Said RM Región Metropolitana N°20 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8020-18","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8020-18","No record","Veto emmEnd"

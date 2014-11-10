@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 1559-06","Legislatura: 330
+Fecha de ingreso: jueves 06 de abril de 1995
+Estado: Archivado .
+Numero de boletín: 1559-06
+Materia: Comunas
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 10:40:58
+* * Hitos de tramitación * *
+"emmStart Hitos 1559-06","Fecha Sesión Etapa Sub-etapa Documento
+06 de Abr. de 1995   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Abr. de 1995 55ª / 330 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+19 de Jun. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+06 de Jul. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+06 de Jul. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Jul. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Jul. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Jul. de 1995 16ª / 331 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+12 de Jul. de 1995 17ª / 331 Primer trámite constitucional / C. Diputados Queda pendiente su discusión. Ver
+18 de Jul. de 1995 19ª / 331 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general Se rechaza en particular. Se envía a Com. de Constitución para inf. sobre trámites a seguir. Ver
+20 de Jul. de 1995 21ª / 331 Primer trámite constitucional / C. Diputados Segundo informe de comisión. Se solicita su archivo S.E. el Presidente de la República propone archivo del proyecto. Ver
+20 de Jul. de 1995 21ª / 331 Primer trámite constitucional / C. Diputados Archivado Se acuerda archivar el proyecto. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1559-06","Fecha Etapa Informe Documento
+11 de Jul. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+06 de Jul. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+19 de Jun. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1559-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1559-06","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1559-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1559-06","No record","Veto emmEnd"

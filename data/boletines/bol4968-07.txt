@@ -1,0 +1,69 @@
+* * Bill summary * *
+"emmStart Summary 4968-07","Legislatura: 355
+Fecha de ingreso: martes 10 de abril de 2007
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 4968-07
+Materia: Cámara De Diputados,Reforma Constitucional
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 23:10:07
+* * Hitos de tramitación * *
+"emmStart Hitos 4968-07","Fecha Sesión Etapa Sub-etapa Documento
+10 de Abr. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Abr. de 2007 12ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+10 de Abr. de 2007 12ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 65-355 que hace presente la urgencia Suma Ver
+17 de Abr. de 2007 16ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 106-355 que hace presente la urgencia Simple Ver
+15 de May. de 2007 26ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 186-355 que retira y hace presente la urgencia Simple Ver
+05 de Jun. de 2007 30ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 229-355 que retira la urgencia Simple Ver
+31 de Jul. de 2007 56ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 494-355 que hace presente la urgencia Simple Ver
+31 de Jul. de 2007 57ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 508-355 que retira la urgencia Simple Ver
+08 de Abr. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+30 de Abr. de 2008 23ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 196-356 que hace presente la urgencia Discusión inmediata Ver
+06 de May. de 2008 24ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 201-356 que hace presente la urgencia Discusión inmediata Ver
+07 de May. de 2008 25ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. Certificado de la Comisión de Constitución. EN TABLA. Ver
+07 de May. de 2008 25ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+07 de May. de 2008   Primer trámite constitucional / C. Diputados Oficio rechazo al Ejecutivo Ver
+13 de May. de 2008 27ª / 356 Primer trámite constitucional / C. Diputados Cuenta en Cámara de Diputados de Oficio Nº 270-356 de Insistencia del Ejecutivo. Ver Ver
+13 de May. de 2008   Insistencia / Senado Oficio insistencia a Cámara Revisora Ver
+13 de May. de 2008 19ª / 356 Insistencia / Senado Cuenta proyecto de ley insistido Ver
+14 de May. de 2008 20ª / 356 Insistencia / Senado Cuenta del Mensaje 283-356 que hace presente la urgencia Suma
+03 de Jun. de 2008 23ª / 356 Insistencia / Senado Cuenta del Mensaje 325-356 que retira y hace presente la urgencia Simple
+10 de Jun. de 2008 25ª / 356 Insistencia / Senado Cuenta del Mensaje 369-356 que retira y hace presente la urgencia Suma
+30 de Jun. de 2008   Insistencia / Senado Informe de comisión Ver
+01 de Jul. de 2008 31ª / 356 Insistencia / Senado Cuenta proyecto de ley insistido. Cuenta del Mensaje 462-356 que retira y hace presente la urgencia Discusión inmediata
+02 de Jul. de 2008 33ª / 356 Insistencia / Senado Cuenta informe de comisión
+02 de Jul. de 2008 33ª / 356 Insistencia / Senado Cuenta informe de comisión. Cuenta del Mensaje 492-356 que retira y hace presente la urgencia Suma
+02 de Jul. de 2008 33ª / 356 Insistencia / Senado Discusión insistencia. Queda pendiente El Comité Partido Radical Social Demócrata solicita segunda discusión.
+08 de Jul. de 2008 34ª / 356 Insistencia / Senado Discusión insistencia. Rechazado La solicitud de S.E. la Presidenta de la República, de conformidad a lo dispuesto en el artículo 68 de la Carta Fundamental, fue rechazada por no reunirse el quórum de los tres quintos de los Senadores en ejercicio. La solicitud tuvo 20 votos a favor y 15 en contra.
+08 de Jul. de 2008   Insistencia / Senado Oficio rechazo insistencia a Cámara de Origen Ver
+09 de Jul. de 2008 49ª / 356 Insistencia / Senado Cuenta oficio rechazo insistencia. Cuenta en Cámara de Diputados Ver
+09 de Jul. de 2008   Insistencia / Senado Oficio rechazo al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4968-07","Fecha Etapa Informe Documento
+30 de Jun. de 2008 Insistencia Senado Informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+08 de Abr. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4968-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+02 de Jul. de 2008   Suma 492-356  
+01 de Jul. de 2008 02 de Jul. de 2008 Discusión inmediata 462-356 492-356
+10 de Jun. de 2008 26 de Jun. de 2008 Suma 369-356 462-356
+03 de Jun. de 2008 10 de Jun. de 2008 Simple 325-356 369-356
+14 de May. de 2008 28 de May. de 2008 Suma 283-356 325-356
+06 de May. de 2008   Discusión inmediata 201-356  
+30 de Abr. de 2008   Discusión inmediata 196-356  
+31 de Jul. de 2007 31 de Jul. de 2007 Simple 494-355 508-355
+15 de May. de 2007 05 de Jun. de 2007 Simple 186-355 229-355
+17 de Abr. de 2007 15 de May. de 2007 Simple 106-355 186-355","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4968-07","Nombre Región Distrito Partido
+Ministerio de Justicia      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4968-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+25   60 37 6 17 Rechazado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4968-07","No record","Veto emmEnd"

@@ -1,0 +1,48 @@
+* * Bill summary * *
+"emmStart Summary 7372-04","Legislatura: 358
+Fecha de ingreso: miércoles 15 de diciembre de 2010
+Estado: Tramitación terminada (Ley Nº 20.615 - D.Oficial 04/09/2012)
+Numero de boletín: 7372-04
+Materia: Chillán,Monumentos,José Tohá González
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 09-11-2014 03:18:30
+* * Hitos de tramitación * *
+"emmStart Hitos 7372-04","Fecha Sesión Etapa Sub-etapa Documento
+15 de Dic. de 2010   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+15 de Dic. de 2010 77ª / 358 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+23 de Mar. de 2011   Primer trámite constitucional / Senado Primer informe de comisión Ver
+05 de Abr. de 2011 6ª / 359 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+06 de Abr. de 2011 7ª / 359 Primer trámite constitucional / Senado Discusión general Ver
+06 de Abr. de 2011   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+07 de Abr. de 2011 11ª / 359 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de la Cultura y las Artes Ver
+06 de Jun. de 2012   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de Jul. de 2012 48ª / 360 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+11 de Jul. de 2012 54ª / 360 Segundo trámite constitucional / C. Diputados Discusión general Ver
+11 de Jul. de 2012   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+17 de Jul. de 2012 35ª / 360 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+17 de Jul. de 2012   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7372-04","Fecha Etapa Informe Documento
+06 de Jun. de 2012 Segundo trámite constitucional C.Diputados Primer informe de comisión de la Cultura y las Artes Ver
+23 de Mar. de 2011 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7372-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7372-04","Nombre
+Isabel Allende Bussi
+José Antonio Gómez Urrutia
+Alejandro Navarro Brain
+Jaime Quintana Leal
+Mariano Ruiz-Esquide Jara","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7372-04","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+54   70 1 5 44 Aprobado Sala Ver detalle votación
+77 Votación General 7 0 0 6   Cultura Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7372-04","No record","Veto emmEnd"

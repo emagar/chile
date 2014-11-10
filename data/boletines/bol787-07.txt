@@ -1,0 +1,55 @@
+* * Bill summary * *
+"emmStart Summary 787-07","Legislatura: 324
+Fecha de ingreso: martes 08 de septiembre de 1992
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 787-07
+Materia: Código De Procedimiento Civil,Obligación De Comparecer
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 22:57:37
+* * Hitos de tramitación * *
+"emmStart Hitos 787-07","Fecha Sesión Etapa Sub-etapa Documento
+08 de Sep. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+08 de Sep. de 1992 37ª / 324 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+24 de Nov. de 1992 23ª / 325 Primer trámite constitucional / C. Diputados Cuenta oficio 000146 de la Corte Suprema Ver
+20 de Jul. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+20 de Jul. de 1993 20ª / 326 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+16 de Mar. de 1994   Primer trámite constitucional / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 328
+22 de Mar. de 1994 4ª / 328 Primer trámite constitucional / C. Diputados Discusión general Ver
+22 de Mar. de 1994   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora
+05 de Abr. de 1994 4ª / 328 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+17 de May. de 1994   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+31 de May. de 1994 1ª / 329 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+09 de Jun. de 1994   Segundo trámite constitucional / Senado Oficio rechazo a Cámara de Origen Ver
+09 de Jun. de 1994 4ª / 329 Segundo trámite constitucional / Senado Discusión general Ver
+09 de Jun. de 1994   Segundo trámite constitucional / Senado Oficio rechazo a Cámara de Origen Ver
+14 de Jun. de 1994 9ª / 329 Comisión Mixta por rechazo de idea de legislar / Senado Cuenta oficio rechazo de Cámara Revisora
+14 de Jun. de 1994   Comisión Mixta por rechazo de idea de legislar / Senado Oficio integrantes de Comisión Mixta Ver
+16 de Jun. de 1994 6ª / 329 Comisión Mixta por rechazo de idea de legislar / Senado Cuenta oficio integrantes de Comisión Mixta
+18 de Jul. de 1994   Comisión Mixta por rechazo de idea de legislar / Senado Informe de Comisión Mixta Ver
+21 de Jul. de 1994 24ª / 329 Disc. informe C.Mixta por rechazo idea de legislar C. Origen / C. Diputados Discusión informe de Comisión Mixta Ver
+21 de Jul. de 1994 24ª / 329 Disc. informe C.Mixta por rechazo idea de legislar C. Origen / C. Diputados Cuenta informe Comisión Mixta. Rechaza el proyecto. Ver
+27 de Jul. de 1994   Disc. informe C.Mixta por rechazo idea de legislar C. Origen / C. Diputados Oficio aprobación de informe de Comisión Mixta a C. Revisora Ver
+02 de Ago. de 1994 16ª / 329 Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / Senado Cuenta oficio aprobación de informe de Comisión Mixta
+09 de Ago. de 1994 19ª / 329 Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / Senado Discusión informe de Comisión Mixta
+11 de Ago. de 1994   Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / Senado Oficio aprobación de informe de Comisión Mixta a C.de Origen Ver
+11 de Ago. de 1994   Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / Senado Oficio aprobación de informe de Comisión Mixta a C.de Origen Ver
+16 de Ago. de 1994 30ª / 329 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación de informe de Comisión Mixta Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 787-07","Fecha Etapa Informe Documento
+18 de Jul. de 1994 Comisión Mixta por rechazo de idea de legislar Senado Informe de Comisión Mixta de Constitución, Legislación, Justicia y Reglamento Ver
+17 de May. de 1994 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+20 de Jul. de 1993 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 787-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 787-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 787-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 787-07","No record","Veto emmEnd"

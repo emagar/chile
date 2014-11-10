@@ -1,0 +1,48 @@
+* * Bill summary * *
+"emmStart Summary 3573-10","Legislatura: 351
+Fecha de ingreso: martes 22 de junio de 2004
+Estado: Tramitación terminada (D.S. Nº 262 - D.Oficial 01/12/2004)
+Numero de boletín: 3573-10
+Materia: Acuerdos Internacionales
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 04:13:29
+* * Hitos de tramitación * *
+"emmStart Hitos 3573-10","Fecha Sesión Etapa Sub-etapa Documento
+22 de Jun. de 2004   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+22 de Jun. de 2004 7ª / 351 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana. Ver
+13 de Jul. de 2004   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+12 de Ago. de 2004   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Ago. de 2004 31ª / 351 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+07 de Sep. de 2004 38ª / 351 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+07 de Sep. de 2004   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+08 de Sep. de 2004 27ª / 351 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores y a Comisión de Hacienda
+14 de Sep. de 2004   Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 352
+19 de Oct. de 2004   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+16 de Nov. de 2004   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+17 de Nov. de 2004 14ª / 352 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+17 de Nov. de 2004 15ª / 352 Segundo trámite constitucional / Senado Discusión general Ver
+17 de Nov. de 2004   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+17 de Nov. de 2004   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+30 de Nov. de 2004 24ª / 352 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3573-10","Fecha Etapa Informe Documento
+16 de Nov. de 2004 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+19 de Oct. de 2004 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+12 de Ago. de 2004 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+13 de Jul. de 2004 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3573-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3573-10","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3573-10","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+38   83 1 3 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3573-10","No record","Veto emmEnd"

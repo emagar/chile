@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 6092-05","Legislatura: 356
+Fecha de ingreso: jueves 11 de septiembre de 2008
+Estado: Primer trámite constitucional .
+Numero de boletín: 6092-05
+Materia: Banco Central De Chile
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 02:45:06
+* * Hitos de tramitación * *
+"emmStart Hitos 6092-05","Fecha Sesión Etapa Sub-etapa Documento
+11 de Sep. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+11 de Sep. de 2008 79ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6092-05","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6092-05","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6092-05","Nombre Región Distrito Partido
+Gonzalo Arenas Hödar IX Región de la Araucanía N°48 Unión Demócrata Independiente
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Alberto Cardemil Herrera RM Región Metropolitana N°22 Independientes
+Marcelo Díaz Díaz IV Región de Coquimbo N°7 Partido Socialista
+Edmundo Eluchans Urenda V Región de Valparaíso N°15 Unión Demócrata Independiente
+Nicolás Monckeberg Díaz VIII Región del Bío Bío N°42 Renovación Nacional
+Cristián Monckeberg Bruner RM Región Metropolitana N°23 Renovación Nacional
+María Antonieta Saa Díaz RM Región Metropolitana N°17 Partido Por la Democracia
+Marisol Turres Figueroa X Región de los Lagos N°57 Unión Demócrata Independiente
+Felipe Ward Edwards II Región de Antofagasta N°3 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6092-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6092-05","No record","Veto emmEnd"

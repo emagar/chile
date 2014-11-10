@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 83-04","Legislatura: 320
+Fecha de ingreso: miércoles 13 de junio de 1990
+Estado: Tramitación terminada (Ley Nº 18.996 - D.Oficial 05/09/1990)
+Numero de boletín: 83-04
+Materia: Monumentos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 30-10-2014 17:34:40
+* * Hitos de tramitación * *
+"emmStart Hitos 83-04","Fecha Sesión Etapa Sub-etapa Documento
+13 de Jun. de 1990   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+19 de Jun. de 1990 8ª / 320 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+27 de Jun. de 1990   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Jul. de 1990 16ª / 320 Segundo trámite constitucional / Senado Cuenta de proyecto
+31 de Jul. de 1990   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+14 de Ago. de 1990 24ª / 320 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+21 de Ago. de 1990 25ª / 320 Segundo trámite constitucional / Senado Discusión general Ver
+21 de Ago. de 1990 25ª / 320 Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen
+28 de Ago. de 1990 27ª / 320 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+29 de Abr. de 2003   Trámite finalización en Cámara de Origen / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 348
+02 de Dic. de 2003   Trámite finalización en Cámara de Origen / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 350","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 83-04","Fecha Etapa Informe Documento
+31 de Jul. de 1990 Segundo trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver
+27 de Jun. de 1990 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 83-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 83-04","Nombre Región Distrito Partido
+Eliana Caraball Martínez Región N° Partido Demócrata Cristiano
+Baldemar Carrasco Muñoz Región N° Partido Demócrata Cristiano
+Carlos Dupre Silva Región N° Partido Demócrata Cristiano
+Rubén Gajardo Chacón Región N° Partido Demócrata Cristiano
+Vicente Sota Barros Región N° Partido Por la Democracia
+Jorge Ulloa Aguillón Región N° Unión Demócrata Independiente
+Carlos Raul Valcarce Medina Región N° Renovación Nacional
+Sergio Velasco De la Cerda Región N° Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 83-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 83-04","No record","Veto emmEnd"

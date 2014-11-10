@@ -1,0 +1,32 @@
+* * Bill summary * *
+"emmStart Summary 7089-06","Legislatura: 358
+Fecha de ingreso: martes 03 de agosto de 2010
+Estado: Primer trámite constitucional .
+Numero de boletín: 7089-06
+Materia: Estatuto Administrativo,Funcionarios Públicos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 00:06:39
+* * Hitos de tramitación * *
+"emmStart Hitos 7089-06","Fecha Sesión Etapa Sub-etapa Documento
+03 de Ago. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Ago. de 2010 58ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior y Regionalización Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7089-06","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7089-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7089-06","Nombre Región Distrito Partido
+Pedro Browne Urrejola RM Región Metropolitana N°28 Renovación Nacional
+José Manuel Edwards Silva IX Región de la Araucanía N°51 Renovación Nacional
+Leopoldo Pérez Lahsen RM Región Metropolitana N°29 Renovación Nacional
+Alejandro Santana Tirachini X Región de los Lagos N°58 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7089-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7089-06","No record","Veto emmEnd"

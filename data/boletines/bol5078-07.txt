@@ -1,0 +1,56 @@
+* * Bill summary * *
+"emmStart Summary 5078-07","Legislatura: 355
+Fecha de ingreso: martes 05 de junio de 2007
+Estado: Segundo trámite constitucional .
+Numero de boletín: 5078-07
+Materia: Código De Procedimiento Penal,Medidas De Seguridad
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 00:28:22
+* * Hitos de tramitación * *
+"emmStart Hitos 5078-07","Fecha Sesión Etapa Sub-etapa Documento
+05 de Jun. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+05 de Jun. de 2007 30ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+05 de Sep. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+11 de Oct. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+16 de Oct. de 2007 90ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+04 de Mar. de 2008 137ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1420-355 que hace presente la urgencia Simple Ver
+04 de Mar. de 2008 137ª / 355 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+18 de Mar. de 2008   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+19 de Mar. de 2008 8ª / 356 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión. de Constitución. EN TABLA. Ver
+08 de Abr. de 2008 14ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 79-356 que retira y hace presente la urgencia Simple Ver
+15 de Abr. de 2008 18ª / 356 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver
+16 de Abr. de 2008   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+16 de Abr. de 2008 13ª / 356 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento y a Comisión de Hacienda, en su caso. Ver
+29 de Abr. de 2008 15ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 158-356 que retira la urgencia Simple
+02 de Dic. de 2008   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+03 de Dic. de 2008 76ª / 356 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+07 de Ene. de 2009 83ª / 356 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 09/03/2009 Ver
+10 de Mar. de 2009 93ª / 356 Segundo trámite constitucional / Senado La Sala, previo acuerdo de los Comités, decide abrir un nuevo plazo para presentar indicaciones hasta las 12 horas del día 16 de marzo de 2009.
+16 de Mar. de 2009   Segundo trámite constitucional / Senado Boletín de indicaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5078-07","Fecha Etapa Informe Documento
+02 de Dic. de 2008 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+18 de Mar. de 2008 Primer trámite constitucional C.Diputados Segundo informe de comisión de Constitución, Legislación y Justicia Ver
+11 de Oct. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+05 de Sep. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5078-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+08 de Abr. de 2008 21 de Abr. de 2008 Simple 79-356 158-356
+04 de Mar. de 2008 08 de Abr. de 2008 Simple 1420-355 79-356","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5078-07","Nombre Región Distrito Partido
+Ministerio de Justicia      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5078-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+137   107 1 0 12 Aprobado Sala Ver detalle votación
+18 transitorio, con indicación renovada para reemplazar en el artículo transitorio la oración “las funciones establecidas en el artículo 4° deberán desarrollarse en el Servicio de Psiquiatría de mediana o alta complejidad más cercano” por la siguiente: “las funciones establecidas en el artículo 4° deberán realizarse en los establecimientos asistenciales que cuenten con unidades de Psiquiatría Forense pertenecientes y determinados por el Ministerio de Salud para estos efectos.” 71 13 2 0 Aprobado Sala Ver detalle votación
+18 458 bis, contenido en el artículo 1° del proyecto, con indicación renovada para agregar al final de su inciso segundo lo siguiente: “En todo caso, las pericias deberán ser realizadas por un médico psiquiatra debidamente acreditado.”. 45 29 4 42 Aprobado Sala Ver detalle votación
+18 458 propuesto por la Comisión de Constitución, contenido en el artículo 1° del proyecto, y artículo 4° permanente. 81 0 0 39 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5078-07","No record","Veto emmEnd"

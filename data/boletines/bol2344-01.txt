@@ -1,0 +1,61 @@
+* * Bill summary * *
+"emmStart Summary 2344-01","Legislatura: 340
+Fecha de ingreso: miércoles 02 de junio de 1999
+Estado: Tramitación terminada (Ley Nº 19.690 - D.Oficial 12/10/2000)
+Numero de boletín: 2344-01
+Materia: Transmisión De Bienes,Reforma Agraria
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 23:30:48
+* * Hitos de tramitación * *
+"emmStart Hitos 2344-01","Fecha Sesión Etapa Sub-etapa Documento
+02 de Jun. de 1999   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Jun. de 1999 3ª / 340 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Agricultura, Silvicultura y Pesca Ver
+02 de Jun. de 1999 3ª / 340 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Agricultura, Silvicultura y Pesca Ver
+05 de Ene. de 2000 22ª / 341 Primer trámite constitucional / C. Diputados Cuenta Oficio del Ejecutivo, incluye proyecto en convocatoria a legislatura extraordinaria Ver
+07 de Mar. de 2000   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+14 de Mar. de 2000 30ª / 341 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+05 de Abr. de 2000 37ª / 341 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+11 de Abr. de 2000   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+18 de Abr. de 2000 42ª / 341 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+13 de Jun. de 2000 4ª / 342 Primer trámite constitucional / C. Diputados Discusión particular Ver
+13 de Jun. de 2000 4ª / 342 Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora. de Agricultura Ver Ver
+14 de Jun. de 2000 4ª / 342 Segundo trámite constitucional / Senado Cuenta de proyecto
+12 de Jul. de 2000   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+12 de Jul. de 2000 10ª / 342 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+18 de Jul. de 2000 11ª / 342 Segundo trámite constitucional / Senado Discusión general Ver
+19 de Jul. de 2000 12ª / 342 Segundo trámite constitucional / Senado Discusión general Ver
+19 de Jul. de 2000   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+01 de Ago. de 2000 19ª / 342 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+30 de Ago. de 2000 31ª / 342 Tercer trámite constitucional / C. Diputados Discusión única Ver
+31 de Ago. de 2000   Tercer trámite constitucional / C. Diputados Oficio Nº 3041, que comunica aprobación de modificaciones Ver
+31 de Ago. de 2000 31ª / 342 Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver Ver
+05 de Sep. de 2000 21ª / 342 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 3041, que comunica aprobación de modificaciones Ver
+05 de Sep. de 2000 21ª / 342 Trámite finalización en Cámara de Origen / C. Diputados Cuenta en el Senado de oficio de Cámara de Diputados, comunica aprobación de modificaciones. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2344-01","Fecha Etapa Informe Documento
+12 de Jul. de 2000 Segundo trámite constitucional Senado Primer informe de comisión de Agricultura Ver
+11 de Abr. de 2000 Primer trámite constitucional C.Diputados Segundo informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+07 de Mar. de 2000 Primer trámite constitucional C.Diputados Primer informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2344-01","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2344-01","Nombre Región Distrito Partido
+Gustavo Alessandri Valdés RM Región Metropolitana N°20 Renovación Nacional
+Carlos Caminondo Saez X Región de los Lagos N°54 Renovación Nacional
+Roberto Delmastro Naso X Región de los Lagos N°53 Independientes
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Jaime Naranjo Ortíz VII Región del Maule N°39 Partido Socialista
+Osvaldo Palma Flores VII Región del Maule N°39 Renovación Nacional
+Fanny Pollarolo Villa II Región de Antofagasta N°3 Partido Socialista
+Jaime Rocha Manrique VIII Región del Bío Bío N°46 Partido Radical Social Demócrata
+Carlos Vilches Guzmán III Región de Atacama N°5 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2344-01","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2344-01","No record","Veto emmEnd"

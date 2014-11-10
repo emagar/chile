@@ -1,0 +1,48 @@
+* * Bill summary * *
+"emmStart Summary 1830-05","Legislatura: 332
+Fecha de ingreso: martes 09 de abril de 1996
+Estado: Tramitación terminada (Ley Nº 19.459 - D.Oficial 05/06/1996)
+Numero de boletín: 1830-05
+Materia: Deuda Subordinada
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 15:16:57
+* * Hitos de tramitación * *
+"emmStart Hitos 1830-05","Fecha Sesión Etapa Sub-etapa Documento
+09 de Abr. de 1996 62ª / 332 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+09 de Abr. de 1996   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+09 de Abr. de 1996   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Abr. de 1996 62ª / 332 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+10 de Abr. de 1996 63ª / 332 Primer trámite constitucional / C. Diputados Discusión general Ver
+10 de Abr. de 1996   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+11 de Abr. de 1996 50ª / 332 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+16 de Abr. de 1996   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+17 de Abr. de 1996 52ª / 332 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+30 de Abr. de 1996 54ª / 332 Segundo trámite constitucional / Senado Discusión general. Se aprueba en general, y queda pendiente su discusión particular. Ver
+30 de Abr. de 1996 55ª / 332 Segundo trámite constitucional / Senado Discusión particular. Se despacha en su discusión particular. Ver
+03 de May. de 1996   Segundo trámite constitucional / Senado Oficio Nº9717. comunica aprobación sin modificaciones a Cámara de origen Ver
+03 de May. de 1996   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+06 de May. de 1996   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+07 de May. de 1996 70ª / 332 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+07 de May. de 1996   Trámite en Tribunal Constitucional / C. Diputados Oficio al Tribunal Constitucional Ver
+14 de May. de 1996   Trámite en Tribunal Constitucional / C. Diputados Ingreso fallo del Tribunal Constitucional Ver
+17 de May. de 1996   Trámite en Tribunal Constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+22 de May. de 1996 1ª / 333 Trámite en Tribunal Constitucional / C. Diputados Cuenta fallo del Tribunal Constitucional Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1830-05","Fecha Etapa Informe Documento
+16 de Abr. de 1996 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+09 de Abr. de 1996 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1830-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+09 de Abr. de 1996   Discusión inmediata    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1830-05","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1830-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1830-05","No record","Veto emmEnd"

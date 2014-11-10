@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 4227-08","Legislatura: 354
+Fecha de ingreso: martes 13 de junio de 2006
+Estado: Tramitación terminada (Ley Nº 20.115 - D.Oficial 01/07/2006)
+Numero de boletín: 4227-08
+Materia: Combustibles Derivados Del Petróleo,Control De Precios
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 23:10:11
+* * Hitos de tramitación * *
+"emmStart Hitos 4227-08","Fecha Sesión Etapa Sub-etapa Documento
+13 de Jun. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Jun. de 2006 35ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+13 de Jun. de 2006 35ª / 354 Primer trámite constitucional / C. Diputados Enviado a Comisión de Minería y Energía y a la de Hacienda. Ver
+14 de Jun. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+15 de Jun. de 2006 38ª / 354 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+15 de Jun. de 2006 38ª / 354 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+15 de Jun. de 2006   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+20 de Jun. de 2006 24ª / 354 Segundo trámite constitucional / Senado Cuenta del Mensaje 163-354 que hace presente la urgencia Discusión inmediata
+20 de Jun. de 2006 24ª / 354 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Minería y Energía y a Comisión de Hacienda, unidas. Ver
+21 de Jun. de 2006   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+21 de Jun. de 2006 27ª / 354 Segundo trámite constitucional / Senado Discusión general Ver
+21 de Jun. de 2006   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+22 de Jun. de 2006 42ª / 354 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver Ver
+22 de Jun. de 2006   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4227-08","Fecha Etapa Informe Documento
+21 de Jun. de 2006 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda y de Minería y Energía, unidas Ver
+14 de Jun. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4227-08","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+20 de Jun. de 2006   Discusión inmediata 163-354  
+13 de Jun. de 2006 20 de Jun. de 2006 Discusión inmediata 157-354 163-354","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4227-08","Nombre Región Distrito Partido
+Ministerio de Hacienda      
+Ministerio de Minería      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4227-08","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+1 Votación General 13 0 8 4   Unidas Hac/Minería Ver detalle votación
+38   52 5 38 0 Aprobado Sala Ver detalle votación
+38 Indicación del Ejecutivo: AL ARTICULO 2º 1) Para agregar el siguiente artículo 2° nuevo, pasando el actual a ser 3°: ""Artículo 2°.- Introdúcense las siguientes modificaciones a la ley N° 19.764, modificada por la ley N° 19.935: a) Sustitúyese en el inciso cuarto del artículo 1°, la expresión ""del 1 de julio de 2006"" por ""de la fecha de vencimiento establecida en el inciso primero del artículo 1° de la ley N°20.063"". b) Reemplázase en el inciso cuarto del artículo 2°, la expresión ""del 1 de julio de 2006"" por ""de la fecha de vencimiento establecida en el inciso primero del artículo 1° de la ley N°20.063"". 2) Para sustituir el actual artículo 2°, que ha pasado a ser 3°, por el siguiente: ""Artículo 3°.- Las modificaciones a la ley N°20.063, entrarán en vigencia a partir del 1 de julio de 2006."". 95 0 0 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4227-08","No record","Veto emmEnd"

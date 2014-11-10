@@ -1,0 +1,35 @@
+* * Bill summary * *
+"emmStart Summary 906-05","Legislatura: 325
+Fecha de ingreso: miércoles 20 de enero de 1993
+Estado: Tramitación terminada (Ley Nº 19.217 - D.Oficial 25/05/1993)
+Numero de boletín: 906-05
+Materia: Servicio De Impuestos Internos (Chile),Impuestos
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 00:31:58
+* * Hitos de tramitación * *
+"emmStart Hitos 906-05","Fecha Sesión Etapa Sub-etapa Documento
+20 de Ene. de 1993 43ª / 325 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+20 de Ene. de 1993   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+16 de Mar. de 1993 33ª / 325 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+25 de Mar. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+06 de Abr. de 1993 39ª / 325 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+21 de Abr. de 1993 46ª / 325 Segundo trámite constitucional / Senado Discusión general Ver
+22 de Abr. de 1993   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+22 de Abr. de 1993   Tramitación terminada / Oficio Nº4193. comunica aprobación sin modificaciones a Cámara de origen Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 906-05","Fecha Etapa Informe Documento
+25 de Mar. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 906-05","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 906-05","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 906-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 906-05","No record","Veto emmEnd"

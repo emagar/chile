@@ -1,0 +1,35 @@
+* * Bill summary * *
+"emmStart Summary 733-06","Legislatura: 324
+Fecha de ingreso: martes 30 de junio de 1992
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 733-06
+Materia: Elecciones,Alcaldes,Municipios
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 22:14:32
+* * Hitos de tramitación * *
+"emmStart Hitos 733-06","Fecha Sesión Etapa Sub-etapa Documento
+30 de Jun. de 1992 6ª / 324 Primer trámite constitucional / Senado Cuenta de proyecto
+30 de Jun. de 1992   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+07 de Jun. de 1995 5ª / 331 Primer trámite constitucional / Senado Primer informe de comisión Ver
+07 de Jun. de 1995 5ª / 331 Primer trámite constitucional / Senado Cuenta de primer informe de comisión. Se pide segunda discusión. Así se acuerda.
+05 de Jul. de 1995 14ª / 331 Tramitación terminada / Segunda discusión. Ver
+11 de Jul. de 1995 15ª / 331 Tramitación terminada / Discusión general pendiente. Ver
+12 de Jul. de 1995 16ª / 331 Primer trámite constitucional / Senado Discusión general. Rechazado el proyecto por falta de quorum. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 733-06","Fecha Etapa Informe Documento
+07 de Jun. de 1995 Primer trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 733-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 733-06","Nombre
+Sebastian Piñera Echeñique","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 733-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 733-06","No record","Veto emmEnd"

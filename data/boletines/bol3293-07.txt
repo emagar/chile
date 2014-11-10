@@ -1,0 +1,32 @@
+* * Bill summary * *
+"emmStart Summary 3293-07","Legislatura: 349
+Fecha de ingreso: jueves 17 de julio de 2003
+Estado: Archivado .
+Numero de boletín: 3293-07
+Materia: Código Penal
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 01:13:06
+* * Hitos de tramitación * *
+"emmStart Hitos 3293-07","Fecha Sesión Etapa Sub-etapa Documento
+17 de Jul. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+17 de Jul. de 2003 19ª / 349 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+02 de Dic. de 2003 25ª / 350 Primer trámite constitucional / C. Diputados Cuenta Oficio de Comisión de Constitución, solicita archivo de proyecto. En tabla, se accede al archivo solicitado. Ver
+02 de Dic. de 2003   Primer trámite constitucional / C. Diputados Archivado","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3293-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3293-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+17 de Jul. de 2003   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3293-07","Nombre Región Distrito Partido
+María Eugenia Mella Gajardo V Región de Valparaíso N°10 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3293-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3293-07","No record","Veto emmEnd"

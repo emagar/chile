@@ -1,0 +1,53 @@
+* * Bill summary * *
+"emmStart Summary 5922-05","Legislatura: 356
+Fecha de ingreso: lunes 16 de junio de 2008
+Estado: Tramitación terminada (Ley Nº 20.282 - D.Oficial 18/07/2008)
+Numero de boletín: 5922-05
+Materia: Jubilacion,Retiro Voluntario,Funcionarios Públicos
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 08-11-2014 00:49:10
+* * Hitos de tramitación * *
+"emmStart Hitos 5922-05","Fecha Sesión Etapa Sub-etapa Documento
+16 de Jun. de 2008   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+17 de Jun. de 2008 27ª / 356 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Salud y a la de Hacienda
+17 de Jun. de 2008   Primer trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+18 de Jun. de 2008   Primer trámite constitucional / Senado Primer informe de comisión Ver
+18 de Jun. de 2008 30ª / 356 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+18 de Jun. de 2008 30ª / 356 Primer trámite constitucional / Senado Discusión general Ver
+18 de Jun. de 2008   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+19 de Jun. de 2008 44ª / 356 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Se envía a comisión para primer informe Senado comunica que ha aprobado el proyecto, con urgencia de \\\\ Ver
+19 de Jun. de 2008   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+19 de Jun. de 2008 44ª / 356 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión. Certificado de la Comisión de Hacienda recaído en el proyecto Ver
+19 de Jun. de 2008 44ª / 356 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+19 de Jun. de 2008   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+23 de Jun. de 2008   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo. Texto aprobado por el Congreso Nacional para efectos de ejercer la facultad del artículo 73 Ver
+23 de Jun. de 2008   Trámite en Tribunal Constitucional / Senado Oficio al Tribunal Constitucional Ver
+01 de Jul. de 2008 31ª / 356 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+01 de Jul. de 2008 31ª / 356 Trámite en Tribunal Constitucional / Senado Cuenta oficio de Su Excelencia la Presidenta de la República en que comunica que no hará uso del veto.
+08 de Jul. de 2008   Trámite en Tribunal Constitucional / Senado Ingreso fallo del Tribunal Constitucional Ver
+08 de Jul. de 2008 34ª / 356 Trámite en Tribunal Constitucional / Senado Cuenta fallo del Tribunal Constitucional
+08 de Jul. de 2008   Trámite en Tribunal Constitucional / Senado Oficio de ley al Ejecutivo Ver
+10 de Jul. de 2008 51ª / 356 Trámite en Tribunal Constitucional / Senado Cuenta oficio Nº 2080 del Tribunal Constitucional","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5922-05","Fecha Etapa Informe Documento
+19 de Jun. de 2008 Segundo trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+18 de Jun. de 2008 Primer trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+17 de Jun. de 2008 Primer trámite constitucional Senado Primer informe de comisión de Salud Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5922-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+17 de Jun. de 2008   Discusión inmediata    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5922-05","Nombre
+Ministerio de Hacienda
+Ministerio de Salud","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5922-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+169 Votación General 7 0 0 6   Hacienda Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5922-05","No record","Veto emmEnd"

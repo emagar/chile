@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 608-01","Legislatura: 323
+Fecha de ingreso: martes 28 de enero de 1992
+Estado: Tramitación terminada (Ley Nº 19.233 - D.Oficial 05/08/1993)
+Numero de boletín: 608-01
+Materia: Agricultura
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 20:35:41
+* * Hitos de tramitación * *
+"emmStart Hitos 608-01","Fecha Sesión Etapa Sub-etapa Documento
+28 de Ene. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+28 de Ene. de 1992 49ª / 323 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+08 de Jul. de 1992   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de Ago. de 1992   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+03 de Sep. de 1992 22ª / 324 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Medio Ambiente y Bienes Nacionales
+22 de Dic. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+05 de Ene. de 1993 20ª / 325 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+14 de Ene. de 1993 23ª / 325 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 25/01/1993. Se acuerda que el segundo informe sea emitido por la Comisión de Constitución, Legislación, Justicia y Reglamento. Ver
+12 de Abr. de 1993   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+14 de Abr. de 1993 43ª / 325 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+05 de May. de 1993 49ª / 325 Segundo trámite constitucional / Senado Discusión particular Ver
+11 de May. de 1993   Tramitación terminada / Oficio Nº4229. Oficio a la Cámara de Diputados comunicándole la aprobación del proyecto, con modificaciones. Ver
+08 de Jun. de 1993 3ª / 326 Tramitación terminada / Cuenta Nº 1240, de la Cámara, comunicando aprobación modificaciones propuestas por el Senado","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 608-01","Fecha Etapa Informe Documento
+12 de Abr. de 1993 Segundo trámite constitucional Senado Segundo informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+22 de Dic. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Medio Ambiente y Bienes Nacionales Ver
+18 de Ago. de 1992 Primer trámite constitucional C.Diputados Segundo informe de comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver
+08 de Jul. de 1992 Primer trámite constitucional C.Diputados Primer informe de comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 608-01","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 608-01","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 608-01","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 608-01","No record","Veto emmEnd"

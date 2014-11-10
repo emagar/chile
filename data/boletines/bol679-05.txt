@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 679-05","Legislatura: 323
+Fecha de ingreso: miércoles 06 de mayo de 1992
+Estado: Tramitación terminada (Ley Nº 19.155 - D.Oficial 13/08/1992)
+Numero de boletín: 679-05
+Materia: Servicio De Impuestos Internos (Chile),Impuestos ,Impuesto A La Renta
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 21:31:34
+* * Hitos de tramitación * *
+"emmStart Hitos 679-05","Fecha Sesión Etapa Sub-etapa Documento
+06 de May. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de May. de 1992 71ª / 323 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+02 de Jun. de 1992   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Jun. de 1992 2ª / 324 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+03 de Jun. de 1992 3ª / 324 Primer trámite constitucional / C. Diputados Discusión general Ver
+03 de Jun. de 1992   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+09 de Jun. de 1992 3ª / 324 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+01 de Jul. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+02 de Jul. de 1992 7ª / 324 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+09 de Jul. de 1992 9ª / 324 Segundo trámite constitucional / Senado Discusión general. Queda pendiente Se acuerda despacharlo en general en sesión del 14 de julio, fijando plazo para indicaciones hasta las 18 horas del mismo día, y despacharlo en particular, con o sin segundo informe, en sesión del 16 de julio. Ver
+14 de Jul. de 1992 10ª / 324 Segundo trámite constitucional / Senado Discusión general. Aprobado en general. Ver
+15 de Jul. de 1992   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+16 de Jul. de 1992 11ª / 324 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+16 de Jul. de 1992 11ª / 324 Segundo trámite constitucional / Senado Discusión particular. Aprobado en particular, con modificaciones. Ver
+21 de Jul. de 1992   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+28 de Jul. de 1992 20ª / 324 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+29 de Jul. de 1992 21ª / 324 Tercer trámite constitucional / C. Diputados Discusión única Ver
+29 de Jul. de 1992   Tercer trámite constitucional / C. Diputados Oficio N° 847, que comunica aprobacion de modificaciones Ver
+04 de Ago. de 1992 14ª / 324 Tercer trámite constitucional / C. Diputados Cuenta Oficio Nº 847, de la Cámara de Diputados, comunicando aprobación de modificaciones propuestas por el Senado Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 679-05","Fecha Etapa Informe Documento
+15 de Jul. de 1992 Segundo trámite constitucional Senado Segundo informe de comisión de Hacienda Ver
+01 de Jul. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+02 de Jun. de 1992 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 679-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+06 de May. de 1991   Suma    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 679-05","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 679-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 679-05","No record","Veto emmEnd"

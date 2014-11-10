@@ -1,0 +1,39 @@
+* * Bill summary * *
+"emmStart Summary 382-05","Legislatura: 322
+Fecha de ingreso: martes 18 de junio de 1991
+Estado: Tramitación terminada (Ley Nº 19.065 - D.Oficial 25/06/1991)
+Numero de boletín: 382-05
+Materia: Reforma Tributaria,Rebaja De Aranceles
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 16:32:47
+* * Hitos de tramitación * *
+"emmStart Hitos 382-05","Fecha Sesión Etapa Sub-etapa Documento
+18 de Jun. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+18 de Jun. de 1991 8ª / 322 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+19 de Jun. de 1991 10ª / 322 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+19 de Jun. de 1991 10ª / 322 Segundo trámite constitucional / Senado Discusión única
+20 de Jun. de 1991   Comisión Mixta por rechazo de modificaciones / Senado Informe de Comisión Mixta Ver
+20 de Jun. de 1991   Trámite finalización en Cámara de Origen / C. Diputados Oficio Nº1211. Oficio a la Cámara de Diputados comunicando la aprobación del proyecto, con modificaciones. Ver
+20 de Jun. de 1991 11ª / 322 Comisión Mixta por rechazo de modificaciones / Senado Cuenta oficio rechazo a modificaciones
+20 de Jun. de 1991   Trámite finalización en Cámara de Origen / C. Diputados Oficio Nº1216. Oficio a la Cámara de Diputados tomando conocimiento de la formación de Comisión Mixta, designando a los Senadores que la integrarán. Ver
+20 de Jun. de 1991 11ª / 322 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Cuenta oficio aprobación de informe de Comisión Mixta
+21 de Jun. de 1991 12ª / 322 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Discusión informe de Comisión Mixta
+21 de Jun. de 1991   Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Oficio aprobación de informe de Comisión Mixta a C.de Origen Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 382-05","Fecha Etapa Informe Documento
+20 de Jun. de 1991 Comisión Mixta por rechazo de modificaciones Senado Informe de Comisión Mixta de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 382-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+18 de Jun. de 1991   Discusión inmediata    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 382-05","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 382-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 382-05","No record","Veto emmEnd"

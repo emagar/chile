@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 994-04","Legislatura: 325
+Fecha de ingreso: miércoles 19 de mayo de 1993
+Estado: Tramitación terminada (Ley Nº 19.625 - D.Oficial 25/08/1999)
+Numero de boletín: 994-04
+Materia: Monumentos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 01:42:25
+* * Hitos de tramitación * *
+"emmStart Hitos 994-04","Fecha Sesión Etapa Sub-etapa Documento
+19 de May. de 1993   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+19 de May. de 1993 76ª / 325 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+16 de Mar. de 1994   Primer trámite constitucional / C. Diputados Proyecto incluído en Leg. Extraod. 328°
+16 de Ene. de 1996   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+16 de Ene. de 1996 43ª / 327 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión
+15 de Jul. de 1997   Primer trámite constitucional / C. Diputados Oficio 1570 El Senado comunica aprob. del proyecto
+15 de Jul. de 1997 19ª / 335 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+15 de Jul. de 1997   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+16 de Jul. de 1997 17ª / 335 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+14 de Jul. de 1999   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+14 de Jul. de 1999 14ª / 340 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+14 de Jul. de 1999 15ª / 340 Segundo trámite constitucional / Senado Discusión general Ver
+20 de Jul. de 1999   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+21 de Jul. de 1999 22ª / 340 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+04 de Ago. de 1999   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+04 de Ago. de 1999 24ª / 340 Tercer trámite constitucional / C. Diputados Discusión única Ver
+    Trámite de aprobacion presidencial / C. Diputados Ingreso de observaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 994-04","Fecha Etapa Informe Documento
+14 de Jul. de 1999 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+16 de Ene. de 1996 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 994-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 994-04","Nombre Región Distrito Partido
+Vicente Sota Barros Región N° Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 994-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 994-04","No record","Veto emmEnd"

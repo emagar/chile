@@ -1,0 +1,48 @@
+* * Bill summary * *
+"emmStart Summary 527-10","Legislatura: 323
+Fecha de ingreso: martes 29 de octubre de 1991
+Estado: Tramitación terminada (D.S. Nº 6 - D.Oficial 16/04/1999)
+Numero de boletín: 527-10
+Materia: Acuerdos Internacionales,Telecomunicaciones
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 19:00:51
+* * Hitos de tramitación * *
+"emmStart Hitos 527-10","Fecha Sesión Etapa Sub-etapa Documento
+29 de Oct. de 1991   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+29 de Oct. de 1991 8ª / 323 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a las Comisiones de Relaciones Exteriores y de Transportes y Telecomunicaciones, unidas.
+06 de Ene. de 1992   Primer trámite constitucional / Senado Primer informe de comisión Ver
+07 de Ene. de 1992 30ª / 323 Primer trámite constitucional / Senado Discusión general Ver
+07 de Ene. de 1992 30ª / 323 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+07 de Ene. de 1992 30ª / 323 Primer trámite constitucional / Senado Discusión general Ver
+07 de Ene. de 1992   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+09 de Ene. de 1992 40ª / 323 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+06 de Oct. de 1992   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+06 de Oct. de 1992   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+20 de Oct. de 1992   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+20 de Oct. de 1992   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+20 de Oct. de 1992 7ª / 325 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+28 de Oct. de 1992 11ª / 325 Segundo trámite constitucional / C. Diputados Discusión general Ver
+28 de Oct. de 1992   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+03 de Nov. de 1992 7ª / 325 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora. Se manda comunicar al Presidente de la República.
+05 de Nov. de 1992   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+16 de Abr. de 1999   Tramitación terminada / Decreto Supremo N-6, de RR.EE","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 527-10","Fecha Etapa Informe Documento
+20 de Oct. de 1992 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+06 de Oct. de 1992 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+06 de Ene. de 1992 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores y de Transportes y Telecomunicaciones, unidas Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 527-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+29 de Oct. de 1991 16 de Sep. de 1998 Sin urgencia   CADUCADO","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 527-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 527-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 527-10","No record","Veto emmEnd"

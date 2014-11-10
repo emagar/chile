@@ -1,0 +1,56 @@
+* * Bill summary * *
+"emmStart Summary 4976-13","Legislatura: 355
+Fecha de ingreso: miércoles 11 de abril de 2007
+Estado: Tramitación terminada (Ley Nº 20.215 - D.Oficial 13/09/2007)
+Numero de boletín: 4976-13
+Materia: Empleados De Comercio
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 23:15:31
+* * Hitos de tramitación * *
+"emmStart Hitos 4976-13","Fecha Sesión Etapa Sub-etapa Documento
+11 de Abr. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+11 de Abr. de 2007 13ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+17 de Jul. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+31 de Jul. de 2007 57ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+02 de Ago. de 2007 59ª / 355 Segundo trámite constitucional / Senado Cuenta del Mensaje 511-355 que hace presente la urgencia Suma
+07 de Ago. de 2007 60ª / 355 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+07 de Ago. de 2007   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+08 de Ago. de 2007 41ª / 355 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social Ver
+08 de Ago. de 2007 41ª / 355 Segundo trámite constitucional / Senado La Sala acuerda que el proyecto sea discutido en general y en particular a la vez en la Comisión.
+14 de Ago. de 2007 43ª / 355 Segundo trámite constitucional / Senado Cuenta del Mensaje 605-355 que retira y hace presente la urgencia Simple
+28 de Ago. de 2007   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+28 de Ago. de 2007 44ª / 355 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+29 de Ago. de 2007 45ª / 355 Segundo trámite constitucional / Senado Discusión general Ver
+29 de Ago. de 2007   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+30 de Ago. de 2007 71ª / 355 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver Ver
+30 de Ago. de 2007 71ª / 355 Tercer trámite constitucional / C. Diputados Discusión única Ver
+30 de Ago. de 2007   Tercer trámite constitucional / C. Diputados Oficio Nº 6983, que comunica aprobación de modificaciones Ver
+30 de Ago. de 2007   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+04 de Sep. de 2007 47ª / 355 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 6983, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4976-13","Fecha Etapa Informe Documento
+28 de Ago. de 2007 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver
+17 de Jul. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4976-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+14 de Ago. de 2007   Simple 605-355  
+02 de Ago. de 2007 14 de Ago. de 2007 Suma 511-355 605-355","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4976-13","Nombre Región Distrito Partido
+Ministerio de Trabajo y Previsión Social      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4976-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+60   98 0 0 0 Aprobado Sala Ver detalle votación
+60 Indicación de las señoras Carolina Goic y Adriana Muñoz, y de los señores Aguiló y Salaberry, al número 1 del artículo 1° del proyecto, para sustituirlo por el siguiente: ""1) Sustitúyese, en su inciso primero, las expresiones ""en los períodos inmediatamente anteriores a Navidad, Fiestas Patrias u otras festividades"" por la frase ""durante los doce días inmediatamente anteriores a Navidad""; con indicación del señor Melero para reemplazar el vocablo ""doce"" por ""catorce"". 90 0 2 28 Aprobado Sala Ver detalle votación
+60 transitorio, cuya votación separada fue solicitada. 87 9 5 0 Aprobado Sala Ver detalle votación
+60 2°, número 1, respecto del cual se solicitó votación separada. 46 49 1 24 Rechazado Sala Ver detalle votación
+60 Indicación de las señoras Carolina Goic, Adriana Muñoz y Claudia Nogueira, y de los señores Aguiló, Salaberry, Dittborn, Lobos y Masferrer, al número 3 del artículo 2°, para sustituirlo por el siguiente: ""3) Reemplázase la frase ""los trabajadores que laboren en centros comerciales o mall"" por la frase ""los dependientes del comercio, con excepción de aquellos que se desempeñen en clubes, restaurantes, establecimientos de entretenimiento, tales como, cines, espectáculos en vivo, discotecas, pub, cabarets, casinos de juego y otros lugares de juego legalmente autorizados. Tampoco será aplicable a los dependientes de expendio de combustible, farmacias de urgencia y de las farmacias que deban cumplir turnos fijados por la autoridad sanitaria."". 98 0 0 22 Aprobado Sala Ver detalle votación
+60 Indicación de las señoras Carolina Goic y Adriana Muñoz, y de los señores Aguiló y Salaberry, al número 2 del artículo 1°, para eliminar las expresiones "", y entre el séptimo y el segundo día anteriores a Fiestas Patrias""; y para sustituir las expresiones ""ambas festividades señaladas"" por ""dicha festividad"". 88 0 1 31 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4976-13","No record","Veto emmEnd"

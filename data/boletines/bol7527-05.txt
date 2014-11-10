@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 7527-05","Legislatura: 359
+Fecha de ingreso: martes 15 de marzo de 2011
+Estado: Tramitación terminada (Ley Nº 20.505 - D.Oficial 17/03/2011)
+Numero de boletín: 7527-05
+Materia: Sistema De Protección Al Contribuyente,Impuesto Específico A Los Combustibles
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 05:07:59
+* * Hitos de tramitación * *
+"emmStart Hitos 7527-05","Fecha Sesión Etapa Sub-etapa Documento
+15 de Mar. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+15 de Mar. de 2011 1ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+15 de Mar. de 2011 1ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1-359 que hace presente la urgencia Discusión inmediata Ver
+15 de Mar. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+15 de Mar. de 2011 2ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+15 de Mar. de 2011 2ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+15 de Mar. de 2011   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+16 de Mar. de 2011 2ª / 359 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+16 de Mar. de 2011   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+16 de Mar. de 2011 3ª / 359 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+16 de Mar. de 2011 3ª / 359 Segundo trámite constitucional / Senado Discusión general Ver
+16 de Mar. de 2011   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+16 de Mar. de 2011   Tramitación terminada / Oficio N° 9373. Oficio de Ley al Ejecutivo Ver
+17 de Mar. de 2011 4ª / 359 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7527-05","Fecha Etapa Informe Documento
+16 de Mar. de 2011 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+15 de Mar. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7527-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+15 de Mar. de 2011   Discusión inmediata 1-359  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7527-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      
+Ministerio de Minería      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7527-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+2   70 14 12 24 Aprobado Sala Ver detalle votación
+87 Votación General 8 2 3 0   Hacienda Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7527-05","No record","Veto emmEnd"

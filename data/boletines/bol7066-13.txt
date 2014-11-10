@@ -1,0 +1,56 @@
+* * Bill summary * *
+"emmStart Summary 7066-13","Legislatura: 358
+Fecha de ingreso: miércoles 14 de julio de 2010
+Estado: Archivado .
+Numero de boletín: 7066-13
+Materia: Comercio,Feriados
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 23:51:44
+* * Hitos de tramitación * *
+"emmStart Hitos 7066-13","Fecha Sesión Etapa Sub-etapa Documento
+14 de Jul. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+14 de Jul. de 2010 52ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+17 de Ago. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+19 de Ago. de 2010 66ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+31 de Ago. de 2010 67ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+31 de Ago. de 2010   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+31 de Ago. de 2010 45ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social
+06 de Sep. de 2010   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+07 de Sep. de 2010 47ª / 358 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+07 de Sep. de 2010 47ª / 358 Segundo trámite constitucional / Senado Discusión general. Queda pendiente El Comité Renovación Nacional solicita segunda discusión. Ver
+08 de Sep. de 2010 50ª / 358 Segundo trámite constitucional / Senado Discusión general Ver
+08 de Sep. de 2010   Segundo trámite constitucional / Senado Oficio rechazo a Cámara de Origen Ver
+09 de Sep. de 2010 74ª / 358 Comisión Mixta por rechazo de idea de legislar / Senado Cuenta oficio rechazo de Cámara Revisora
+15 de Oct. de 2014 81ª / 362 Comisión Mixta por rechazo de idea de legislar / Senado Archivado . Cuenta oficio de la Comisión de Régimen Interno, Administración y Reglamento, por el cual informa que, de conformidad con lo establecido en el inciso segundo del artículo 18 del Reglamento, ha acordado remitir al archivo el proyecto.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7066-13","Fecha Etapa Informe Documento
+06 de Sep. de 2010 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver
+17 de Ago. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7066-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7066-13","Nombre Región Distrito Partido
+Pedro Araya Guerrero II Región de Antofagasta N°4 Partido Regionalista Independiente
+Fuad Chahín Valenzuela IX Región de la Araucanía N°49 Partido Demócrata Cristiano
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Pablo Lorenzini Basso VII Región del Maule N°38 Partido Demócrata Cristiano
+René Saffirio Espinoza IX Región de la Araucanía N°50 Partido Demócrata Cristiano
+Víctor Torres Jeldes V Región de Valparaíso N°15 Partido Demócrata Cristiano
+Joaquín Tuma Zedan IX Región de la Araucanía N°51 Partido Por la Democracia
+Patricio Vallespín López X Región de los Lagos N°57 Partido Demócrata Cristiano
+Mario Venegas Cárdenas IX Región de la Araucanía N°48 Partido Demócrata Cristiano
+Matías Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7066-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+18 Votación General 6 3 4 0   Trabajo Ver detalle votación
+67 Texto del artículo único contenido en el informe de la Comisión de Trabajo y Seguridad Social. 102 2 5 11 Aprobado Sala Ver detalle votación
+67   102 1 4 13 Aprobado Sala Ver detalle votación
+67 Indicación de los diputados Santana, Leopoldo Pérez, Browne y Uriarte y de la diputada Karla Rubilar, al artículo único, para intercalar, a continuación de la expresión “a excepción”, la siguiente oración “de quienes se desempeñen en establecimientos comerciales con menos de cinco trabajadores destinados al expendio de abarrotes y artículos alimenticios, y”. 28 64 8 20 Rechazado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7066-13","No record","Veto emmEnd"

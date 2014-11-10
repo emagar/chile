@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 3434-02","Legislatura: 350
+Fecha de ingreso: miércoles 10 de diciembre de 2003
+Estado: Archivado .
+Numero de boletín: 3434-02
+Materia: Armas,Carabineros De Chile
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 02:41:37
+* * Hitos de tramitación * *
+"emmStart Hitos 3434-02","Fecha Sesión Etapa Sub-etapa Documento
+10 de Dic. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Dic. de 2003 32ª / 350 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Defensa Nacional Ver
+17 de Dic. de 2003   Primer trámite constitucional / C. Diputados Eximido del trámite ante Comisión . Pasa a Comisión Especial de Seguridad Ciudadana
+05 de May. de 2007 30ª / 355 Primer trámite constitucional / C. Diputados Comisión de Seguridad Ciudadana solicita el archivo del proyecto. NO HUBO PROUNCIAMIENTO. Ver
+06 de Oct. de 2008   Archivado / Oficio Nº39-2008. Solicita archivo por haberse legislado sobre el tema Ver
+14 de Oct. de 2008 88ª / 356 Archivado / Comisión de Seguridad Ciudadana solicita archivo. ACORDADO.
+14 de Oct. de 2008   Primer trámite constitucional / C. Diputados Archivado","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3434-02","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3434-02","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3434-02","Nombre Región Distrito Partido
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Juan Bustos Ramírez V Región de Valparaíso N°12 Partido Socialista
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Patricio Hales Dib RM Región Metropolitana N°19 Partido Por la Democracia
+Zarko Luksic Sandoval RM Región Metropolitana N°16 Partido Demócrata Cristiano
+Darío Paya Mira RM Región Metropolitana N°28 Unión Demócrata Independiente
+Gonzalo Uriarte Herrera RM Región Metropolitana N°31 Unión Demócrata Independiente
+Gastón Von Mühlenbrock Zamora X Región de los Lagos N°54 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3434-02","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3434-02","No record","Veto emmEnd"

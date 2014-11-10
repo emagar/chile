@@ -1,0 +1,76 @@
+* * Bill summary * *
+"emmStart Summary 5383-04","Legislatura: 355
+Fecha de ingreso: jueves 04 de octubre de 2007
+Estado: Tramitación terminada (Ley Nº 20.247 - D.Oficial 24/01/2008)
+Numero de boletín: 5383-04
+Materia: Ayuda Estatal A La Educación
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 07-11-2014 04:00:15
+* * Hitos de tramitación * *
+"emmStart Hitos 5383-04","Fecha Sesión Etapa Sub-etapa Documento
+04 de Oct. de 2007   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+09 de Oct. de 2007 56ª / 355 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología y a Comisión de Hacienda
+19 de Oct. de 2007   Primer trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+30 de Oct. de 2007 60ª / 355 Primer trámite constitucional / Senado Cuenta del Mensaje 868-355 que hace presente la urgencia Suma
+31 de Oct. de 2007   Primer trámite constitucional / Senado Primer informe de comisión Ver
+31 de Oct. de 2007 61ª / 355 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+06 de Nov. de 2007 62ª / 355 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 19/11/2007 Ver
+13 de Nov. de 2007 64ª / 355 Primer trámite constitucional / Senado Cuenta del Mensaje 1032-355 que retira y hace presente la urgencia Suma
+19 de Nov. de 2007   Primer trámite constitucional / Senado Boletín de indicaciones
+04 de Dic. de 2007 72ª / 355 Primer trámite constitucional / Senado Cuenta del Mensaje 1121-355 que retira y hace presente la urgencia Suma
+04 de Dic. de 2007 72ª / 355 Primer trámite constitucional / Senado Se acuerda abrir nuevo plazo de indicaciones hasta las 9 horas del miércoles 05/12/2007, que deberán entregarse en la Secretaría de la Comisión.
+10 de Dic. de 2007   Primer trámite constitucional / Senado Segundo informe de comisión. Pasa a Comisión de Hacienda Ver
+12 de Dic. de 2007   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+18 de Dic. de 2007 76ª / 355 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+18 de Dic. de 2007 76ª / 355 Primer trámite constitucional / Senado Cuenta del Mensaje 1211-355 que retira y hace presente la urgencia Suma
+18 de Dic. de 2007 76ª / 355 Primer trámite constitucional / Senado Discusión particular Ver
+18 de Dic. de 2007   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+19 de Dic. de 2007 119ª / 355 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+02 de Ene. de 2008 122ª / 355 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 1245-355 que retira y hace presente la urgencia Suma Ver
+09 de Ene. de 2008   Segundo trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+09 de Ene. de 2008   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+15 de Ene. de 2008 130ª / 355 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 1330-355 que retira y hace presente la urgencia Suma Ver
+15 de Ene. de 2008 130ª / 355 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+15 de Ene. de 2008 130ª / 355 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+15 de Ene. de 2008   Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver
+15 de Ene. de 2008 82ª / 355 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora Ver
+15 de Ene. de 2008 82ª / 355 Tercer trámite constitucional / Senado Discusión única
+15 de Ene. de 2008   Tercer trámite constitucional / Senado Oficio aprobación de modificaciones a Cámara Revisora. Oficio Nº 47/08 Ver
+16 de Ene. de 2008   Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo Ver
+16 de Ene. de 2008 134ª / 355 Tercer trámite constitucional / Senado Cuenta oficio Nº 47/08, que comunica aprobación de modificaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5383-04","Fecha Etapa Informe Documento
+09 de Ene. de 2008 Segundo trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+09 de Ene. de 2008 Segundo trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver
+12 de Dic. de 2007 Primer trámite constitucional Senado Segundo informe de comisión de Hacienda Ver
+10 de Dic. de 2007 Primer trámite constitucional Senado Segundo informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+31 de Oct. de 2007 Primer trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+19 de Oct. de 2007 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5383-04","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+15 de Ene. de 2008   Suma 1330-355  
+02 de Ene. de 2008 15 de Ene. de 2008 Suma 1245-355 1330-355
+18 de Dic. de 2007 02 de Ene. de 2008 Suma 1211-355 1245-355
+04 de Dic. de 2007 17 de Dic. de 2007 Suma 1121-355 1211-355
+13 de Nov. de 2007 03 de Dic. de 2007 Suma 1032-355 1121-355
+30 de Oct. de 2007 12 de Nov. de 2007 Suma 868-355 1032-355","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5383-04","Nombre
+Ministerio de Educación
+Ministerio de Hacienda","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5383-04","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+130 Agregación de inciso final en el artículo undécimo transitorio, contemplado en el N° 11 del artículo 1°. 108 0 0 12 Aprobado Sala Ver detalle votación
+130   48 36 0 36 Aprobado Sala Ver detalle votación
+130   109 0 0 11 Aprobado Sala Ver detalle votación
+130 letra b) del N° 3 del artículo 1°. 54 54 1 11 Rechazado Sala Ver detalle votación
+130 Declaración de inadmisibilidad artículo 3° transitorio. 60 32 7 21 Aprobado Sala Ver detalle votación
+90 Votación General 12 1 0 0   Educación Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5383-04","No record","Veto emmEnd"

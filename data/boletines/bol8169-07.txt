@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 8169-07","Legislatura: 359
+Fecha de ingreso: lunes 05 de marzo de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8169-07
+Materia: Constitucion 1980,Municipios
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 22:18:28
+* * Hitos de tramitación * *
+"emmStart Hitos 8169-07","Fecha Sesión Etapa Sub-etapa Documento
+05 de Mar. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Mar. de 2012 140ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8169-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8169-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8169-07","Nombre Región Distrito Partido
+Pepe Auth Stewart RM Región Metropolitana N°20 Partido Por la Democracia
+Sergio Bobadilla Muñoz VIII Región del Bío Bío N°45 Unión Demócrata Independiente
+Cristián Campos Jara VIII Región del Bío Bío N°43 Partido Por la Democracia
+Cristina Girardi Lavín RM Región Metropolitana N°18 Partido Por la Democracia
+Joaquín Godoy Ibáñez V Región de Valparaíso N°13 Renovación Nacional
+Manuel Monsalve Benavides VIII Región del Bío Bío N°46 Partido Socialista
+Iván Moreira Barros RM Región Metropolitana N°27 Unión Demócrata Independiente
+Leopoldo Pérez Lahsen RM Región Metropolitana N°29 Renovación Nacional
+Jorge Sabag Villalobos VIII Región del Bío Bío N°42 Partido Demócrata Cristiano
+David Sandoval Plaza XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8169-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8169-07","No record","Veto emmEnd"

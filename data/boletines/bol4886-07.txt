@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 4886-07","Legislatura: 354
+Fecha de ingreso: miércoles 07 de marzo de 2007
+Estado: Archivado .
+Numero de boletín: 4886-07
+Materia: Violencia Intrafamiliar
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 06-11-2014 22:11:32
+* * Hitos de tramitación * *
+"emmStart Hitos 4886-07","Fecha Sesión Etapa Sub-etapa Documento
+07 de Mar. de 2007   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+07 de Mar. de 2007 90ª / 354 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento. Se remite el proyecto a la Corte Suprema.
+07 de Mar. de 2007   Primer trámite constitucional / Senado Oficio Nº 29170 a la Corte Suprema Ver
+18 de Abr. de 2007 12ª / 355 Primer trámite constitucional / Senado Cuenta oficio Nº 102 de la Corte Suprema Ver
+31 de Jul. de 2007 37ª / 355 Primer trámite constitucional / Senado Cuenta del Mensaje 487-355 que hace presente la urgencia Simple
+04 de Sep. de 2007 47ª / 355 Primer trámite constitucional / Senado Cuenta del Mensaje 648-355 que retira y hace presente la urgencia Simple
+02 de Oct. de 2007 53ª / 355 Primer trámite constitucional / Senado Cuenta del Mensaje 728-355 que retira la urgencia Simple
+02 de Oct. de 2007 53ª / 355 Primer trámite constitucional / Senado Cuenta del Mensaje 793-355 que hace presente la urgencia Simple
+06 de Nov. de 2007 62ª / 355 Primer trámite constitucional / Senado Cuenta del Mensaje 977-355 que retira y hace presente la urgencia Simple
+11 de Dic. de 2007 74ª / 355 Primer trámite constitucional / Senado Cuenta del Mensaje 1181-355 que retira y hace presente la urgencia Simple
+02 de Ene. de 2008 78ª / 355 Primer trámite constitucional / Senado Cuenta del Mensaje 1273-355 que retira la urgencia Simple
+05 de Abr. de 2012   Primer trámite constitucional / Senado Archivado Conforme lo dispone el inciso segundo del artículo 36 bis del Reglamento del Senado.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4886-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4886-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+11 de Dic. de 2007 02 de Ene. de 2008 Simple 1181-355 1273-355
+06 de Nov. de 2007 10 de Dic. de 2007 Simple 977-355 1181-355
+02 de Oct. de 2007 05 de Nov. de 2007 Simple 793-355 977-355
+04 de Sep. de 2007 25 de Sep. de 2007 Simple 648-355 728-355
+31 de Jul. de 2007 31 de Ago. de 2007 Simple 487-355 648-355","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4886-07","Nombre
+Camilo Escalona Medina","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4886-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4886-07","No record","Veto emmEnd"

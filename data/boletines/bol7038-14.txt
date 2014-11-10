@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 7038-14","Legislatura: 358
+Fecha de ingreso: martes 06 de julio de 2010
+Estado: Primer trámite constitucional .
+Numero de boletín: 7038-14
+Materia: Bienes Raices,Regularización De La Construccion ,Regularización De Dominio
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 23:32:33
+* * Hitos de tramitación * *
+"emmStart Hitos 7038-14","Fecha Sesión Etapa Sub-etapa Documento
+06 de Jul. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Jul. de 2010 47ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Vivienda y Desarrollo Urbano Ver
+28 de Sep. de 2010 79ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 346-358 que hace presente la urgencia Simple Ver
+29 de Sep. de 2010 81ª / 358 Primer trámite constitucional / C. Diputados Oficio N°245-358. S. E. el Presidente de la República formula indicación. Ver Ver
+28 de Oct. de 2010 92ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 427-358 que retira y hace presente la urgencia Simple Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7038-14","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7038-14","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+28 de Oct. de 2010   Simple 427-358  
+28 de Sep. de 2010 28 de Oct. de 2010 Simple 346-358 427-358","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7038-14","Nombre Región Distrito Partido
+Cristián Campos Jara VIII Región del Bío Bío N°43 Partido Por la Democracia
+Juan Luis Castro González VI Región del Libertador Bernardo O' Higgins N°32 Partido Socialista
+Juan Lobos Krause VIII Región del Bío Bío N°47 Unión Demócrata Independiente
+Manuel Monsalve Benavides VIII Región del Bío Bío N°46 Partido Socialista
+José Miguel Ortiz Novoa VIII Región del Bío Bío N°44 Partido Demócrata Cristiano
+Jorge Sabag Villalobos VIII Región del Bío Bío N°42 Partido Demócrata Cristiano
+Jorge Ulloa Aguillón VIII Región del Bío Bío N°43 Unión Demócrata Independiente
+Enrique Van Rysselberghe Herrera VIII Región del Bío Bío N°44 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7038-14","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+20 Votación General 9 0 0 4   Vivienda Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7038-14","No record","Veto emmEnd"

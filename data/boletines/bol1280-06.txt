@@ -1,0 +1,35 @@
+* * Bill summary * *
+"emmStart Summary 1280-06","Legislatura: 329
+Fecha de ingreso: martes 12 de julio de 1994
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 1280-06
+Materia: Elecciones Municipales,Municipios
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 05:21:04
+* * Hitos de tramitación * *
+"emmStart Hitos 1280-06","Fecha Sesión Etapa Sub-etapa Documento
+12 de Jul. de 1994   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+12 de Jul. de 1994 12ª / 329 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización
+05 de Jun. de 1995 5ª / 331 Primer trámite constitucional / Senado Primer informe de comisión Ver
+07 de Jun. de 1995 5ª / 331 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+05 de Jul. de 1995 12ª / 329 Tramitación terminada / Segunda discusión. Ver
+11 de Jul. de 1995 15ª / 329 Tramitación terminada / Discusión general pendiente. Ver
+12 de Jul. de 1995 16ª / 329 Tramitación terminada / Discusión general. Rechazado en general por falta de quorum. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1280-06","Fecha Etapa Informe Documento
+05 de Jun. de 1995 Primer trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1280-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1280-06","Nombre
+Francisco Errázuriz Talavera","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1280-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1280-06","No record","Veto emmEnd"

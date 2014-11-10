@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 5166-13","Legislatura: 355
+Fecha de ingreso: martes 03 de julio de 2007
+Estado: Segundo trámite constitucional .
+Numero de boletín: 5166-13
+Materia: Salas Cunas
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 01:24:25
+* * Hitos de tramitación * *
+"emmStart Hitos 5166-13","Fecha Sesión Etapa Sub-etapa Documento
+03 de Jul. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Jul. de 2007 44ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+11 de Ago. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+01 de Sep. de 2009 73ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+16 de Sep. de 2009   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+16 de Sep. de 2009 81ª / 357 Segundo trámite constitucional / Senado Discusión General y Particular. Aprobado.
+29 de Sep. de 2009 52ª / 357 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social
+29 de Sep. de 2009 52ª / 357 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5166-13","Fecha Etapa Informe Documento
+11 de Ago. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5166-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5166-13","Nombre Región Distrito Partido
+Sergio Correa De la Cerda VII Región del Maule N°36 Unión Demócrata Independiente
+Andrés Egaña Respaldiza VIII Región del Bío Bío N°44 Unión Demócrata Independiente
+Enrique Estay Peñaloza IX Región de la Araucanía N°49 Unión Demócrata Independiente
+Javier Hernández Hernández X Región de los Lagos N°55 Unión Demócrata Independiente
+Juan Lobos Krause VIII Región del Bío Bío N°47 Unión Demócrata Independiente
+Carlos Recondo Lavanderos X Región de los Lagos N°56 Unión Demócrata Independiente
+Manuel Rojas Molina II Región de Antofagasta N°4 Unión Demócrata Independiente
+Jorge Sabag Villalobos VIII Región del Bío Bío N°42 Partido Demócrata Cristiano
+Roberto Sepúlveda Hermosilla RM Región Metropolitana N°20 Renovación Nacional
+Gastón Von Mühlenbrock Zamora XIV Región de los Ríos N°54 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5166-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+81   63 0 0 57 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5166-13","No record","Veto emmEnd"

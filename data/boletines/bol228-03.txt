@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 228-03","Legislatura: 321
+Fecha de ingreso: jueves 13 de diciembre de 1990
+Estado: Tramitación terminada (Ley Nº 19.026 - D.Oficial 03/01/1991)
+Numero de boletín: 228-03
+Materia: Servicios De Gas
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 07:48:24
+* * Hitos de tramitación * *
+"emmStart Hitos 228-03","Fecha Sesión Etapa Sub-etapa Documento
+12 de Sep. de 1990   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+13 de Dic. de 1990   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Dic. de 1990 20ª / 321 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+18 de Dic. de 1990   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+18 de Dic. de 1990 22ª / 321 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+18 de Dic. de 1990 22ª / 321 Primer trámite constitucional / C. Diputados Discusión general Ver
+19 de Dic. de 1990 27ª / 321 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a la Comisión de Economía, y a la de Hacienda, en su caso.
+19 de Dic. de 1990   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+20 de Dic. de 1990 28ª / 321 Segundo trámite constitucional / Senado Discusión única
+29 de Abr. de 2003   Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 348","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 228-03","Fecha Etapa Informe Documento
+19 de Dic. de 1990 Segundo trámite constitucional Senado Primer informe de comisión de Economía Ver
+18 de Dic. de 1990 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 228-03","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+13 de Dic. de 1990   Discusión inmediata    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 228-03","Nombre Región Distrito Partido
+Ministerio de Economía, Fomento y Turism      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 228-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 228-03","No record","Veto emmEnd"

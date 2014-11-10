@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 290-11","Legislatura: 321
+Fecha de ingreso: jueves 07 de marzo de 1991
+Estado: Tramitación terminada (Ley Nº 19.108 - D.Oficial 23/12/1991)
+Numero de boletín: 290-11
+Materia: Salud
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 14:07:03
+* * Hitos de tramitación * *
+"emmStart Hitos 290-11","Fecha Sesión Etapa Sub-etapa Documento
+07 de Mar. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+07 de Mar. de 1991 34ª / 321 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+19 de Mar. de 1991   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Abr. de 1991   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+23 de Abr. de 1991 46ª / 321 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Salud y a Comisión de Hacienda
+15 de Jun. de 1991   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+03 de Sep. de 1991   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+05 de Sep. de 1991 36ª / 322 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+06 de Sep. de 1991   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+17 de Oct. de 1991   Comisión Mixta por rechazo de modificaciones / Senado Informe de Comisión Mixta. Oficio de la Comisión Mixta con el que comunica que no se logró acuerdo sobre los puntos de discrepancia entre ambas Cámaras. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 290-11","Fecha Etapa Informe Documento
+17 de Oct. de 1991 Comisión Mixta por rechazo de modificaciones Senado Informe de Comisión Mixta de Salud Ver
+03 de Sep. de 1991 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+15 de Jun. de 1991 Segundo trámite constitucional Senado Primer informe de comisión de Salud Ver
+12 de Abr. de 1991 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+19 de Mar. de 1991 Primer trámite constitucional C.Diputados Primer informe de comisión de Salud Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 290-11","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+07 de Mar. de 1991   Simple    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 290-11","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 290-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 290-11","No record","Veto emmEnd"

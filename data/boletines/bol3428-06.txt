@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 3428-06","Legislatura: 350
+Fecha de ingreso: jueves 04 de diciembre de 2003
+Estado: Primer trámite constitucional .
+Numero de boletín: 3428-06
+Materia: Ferias Libres
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 02:37:20
+* * Hitos de tramitación * *
+"emmStart Hitos 3428-06","Fecha Sesión Etapa Sub-etapa Documento
+04 de Dic. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Dic. de 2003 27ª / 350 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+11 de Dic. de 2003 33ª / 350 Primer trámite constitucional / C. Diputados Por acuerdo de la Sala, el proyecto se pasa en primer lugar a la Comisión Pymes Ver
+08 de Jun. de 2004 1ª / 351 Primer trámite constitucional / C. Diputados S.E. el Presidente de la República retira y hace presente la urgencia, que califica de \""Simple\"". (Mensaje 10-351). Ver
+13 de Jul. de 2004 14ª / 351 Primer trámite constitucional / C. Diputados S.E. el Presidente de la República retira y hace presente la urgencia, que califica de \""Simple\"". (Mensaje 172-351). Ver
+17 de Ago. de 2004 31ª / 351 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 279-351 que retira y hace presente la urgencia Simple Ver
+13 de Sep. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+31 de Jul. de 2007 56ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 480-355 que hace presente la urgencia Simple Ver
+04 de Sep. de 2007 72ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 639-355 que retira y hace presente la urgencia Simple Ver
+02 de Oct. de 2007 79ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 725-355 que retira la urgencia Simple Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3428-06","Fecha Etapa Informe Documento
+13 de Sep. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Micro, Pequeña y Mediana Empresa Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3428-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Sep. de 2007 02 de Oct. de 2007 Simple 639-355 725-355
+31 de Jul. de 2007 04 de Sep. de 2007 Simple 480-355 639-355
+17 de Ago. de 2004   Simple 279-351  
+13 de Jul. de 2004 17 de Ago. de 2004 Simple 172-351 279-351
+08 de Jun. de 2004   Simple 10-351  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3428-06","Nombre Región Distrito Partido
+Ministerio de Economía, Fomento y Turism      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3428-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3428-06","No record","Veto emmEnd"

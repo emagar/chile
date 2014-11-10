@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 3120-10","Legislatura: 348
+Fecha de ingreso: martes 12 de noviembre de 2002
+Estado: Tramitación terminada (D.S. Nº285 - D.Oficial 01/03/2004)
+Numero de boletín: 3120-10
+Materia: Acuerdos Internacionales
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 23:23:38
+* * Hitos de tramitación * *
+"emmStart Hitos 3120-10","Fecha Sesión Etapa Sub-etapa Documento
+12 de Nov. de 2002   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Nov. de 2002 18ª / 348 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+07 de Ene. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+14 de Ene. de 2003 42ª / 348 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+12 de Mar. de 2003 55ª / 348 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+12 de Mar. de 2003   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+18 de Mar. de 2003 33ª / 348 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+02 de May. de 2003   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+08 de May. de 2003 48ª / 348 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+13 de May. de 2003 49ª / 348 Segundo trámite constitucional / Senado Discusión general Ver
+13 de May. de 2003   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+14 de May. de 2003 77ª / 349 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora
+15 de May. de 2003   Tramitación terminada / /","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3120-10","Fecha Etapa Informe Documento
+02 de May. de 2003 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+07 de Ene. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3120-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3120-10","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3120-10","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+55   85 0 0 0   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3120-10","No record","Veto emmEnd"

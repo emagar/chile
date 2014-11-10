@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 5281-06","Legislatura: 355
+Fecha de ingreso: martes 28 de agosto de 2007
+Estado: Segundo trámite constitucional .
+Numero de boletín: 5281-06
+Materia: Empleos A Contrata,Funcionarios Públicos,Sector Público
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 02:45:48
+* * Hitos de tramitación * *
+"emmStart Hitos 5281-06","Fecha Sesión Etapa Sub-etapa Documento
+28 de Ago. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+28 de Ago. de 2007 68ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+06 de Sep. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Sep. de 2007 76ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de Sep. de 2007 78ª / 355 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+14 de Sep. de 2007   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+02 de Oct. de 2007 53ª / 355 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización Ver
+08 de Ene. de 2008 79ª / 355 Segundo trámite constitucional / Senado Cuenta comunicación de la Comisión de Gobierno, Descentralización y Regionalización, mediante la cual solicita que el proyecto sea enviado a la Comisión de Constitución, Legislación, Justicia y Reglamento, con el fin de que informe acerca de la constitucionalidad de la iniciativa. Se accede a lo solicitado.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5281-06","Fecha Etapa Informe Documento
+06 de Sep. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5281-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5281-06","Nombre Región Distrito Partido
+Sergio Aguiló Melo VII Región del Maule N°37 Partido Socialista
+Sergio Bobadilla Muñoz VIII Región del Bío Bío N°45 Unión Demócrata Independiente
+Gonzalo Duarte Leiva RM Región Metropolitana N°26 Partido Demócrata Cristiano
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Jorge Insunza Gregorio de las Heras RM Región Metropolitana N°28 Partido Por la Democracia
+Sergio Ojeda Uribe X Región de los Lagos N°55 Partido Demócrata Cristiano
+José Miguel Ortiz Novoa VIII Región del Bío Bío N°44 Partido Demócrata Cristiano
+Eduardo Saffirio Suárez IX Región de la Araucanía N°50 Partido Demócrata Cristiano
+Raúl Sunico Galdames VIII Región del Bío Bío N°43 Partido Socialista
+Patricio Vallespín López X Región de los Lagos N°57 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5281-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+78   72 0 0 48 Aprobado Sala Ver detalle votación
+50 Votación General 12 0 0 1   Gobierno Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5281-06","No record","Veto emmEnd"

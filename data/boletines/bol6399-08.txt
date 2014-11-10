@@ -1,0 +1,34 @@
+* * Bill summary * *
+"emmStart Summary 6399-08","Legislatura: 356
+Fecha de ingreso: jueves 05 de marzo de 2009
+Estado: Primer trámite constitucional .
+Numero de boletín: 6399-08
+Materia: Energía Eléctrica
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 06:23:07
+* * Hitos de tramitación * *
+"emmStart Hitos 6399-08","Fecha Sesión Etapa Sub-etapa Documento
+05 de Mar. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+05 de Mar. de 2009 133ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Minería y Energía Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6399-08","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6399-08","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6399-08","Nombre Región Distrito Partido
+Marcos Espinosa Monardes II Región de Antofagasta N°3 Partido Radical Social Demócrata
+Alejandro García-Huidobro Sanfuentes VI Región del Libertador Bernardo O' Higgins N°32 Unión Demócrata Independiente
+Guido Girardi Briere RM Región Metropolitana N°18 Partido Por la Democracia
+Antonio Leal Labrín III Región de Atacama N°5 Partido Por la Democracia
+Alejandro Sule Fernández VI Región del Libertador Bernardo O' Higgins N°33 Partido Radical Social Demócrata
+Esteban Valenzuela Van Treek VI Región del Libertador Bernardo O' Higgins N°32 Independientes","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6399-08","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6399-08","No record","Veto emmEnd"

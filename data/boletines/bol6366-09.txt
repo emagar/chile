@@ -1,0 +1,50 @@
+* * Bill summary * *
+"emmStart Summary 6366-09","Legislatura: 356
+Fecha de ingreso: miércoles 14 de enero de 2009
+Estado: Archivado .
+Numero de boletín: 6366-09
+Materia: Superintendencia De Obras Públicas
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 08-11-2014 06:01:25
+* * Hitos de tramitación * *
+"emmStart Hitos 6366-09","Fecha Sesión Etapa Sub-etapa Documento
+14 de Ene. de 2009   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+20 de Ene. de 2009 87ª / 356 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Obras Públicas y a Comisión de Hacienda, en su caso.
+13 de Abr. de 2009   Primer trámite constitucional / Senado Primer informe de comisión Ver
+14 de Abr. de 2009 9ª / 357 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+29 de Abr. de 2009 13ª / 357 Primer trámite constitucional / Senado El Comité Partido Unión Demócrata Independiente solicita segunda discusión. Ver
+05 de May. de 2009 14ª / 357 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 01/06/2009 Ver
+02 de Jun. de 2009 22ª / 357 Primer trámite constitucional / Senado La Sala, previo acuerdo de Comités, decide abrir un nuevo plazo para presentar indicaciones, hasta las 18 horas del día de hoy, martes 2 de junio.
+04 de Jun. de 2009   Primer trámite constitucional / Senado Boletín de indicaciones
+11 de Ago. de 2009 40ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 897-357 que hace presente la urgencia Simple.
+01 de Sep. de 2009 44ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 1027-357 que retira y hace presente la urgencia Simple
+01 de Sep. de 2009 44ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 1027-357 que retira y hace presente la urgencia Simple
+06 de Oct. de 2009 54ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 1279-357 que retira y hace presente la urgencia Simple
+27 de Oct. de 2009 59ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 1392-357 que retira y hace presente la urgencia Suma
+04 de Nov. de 2009 62ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 1482-357 que retira y hace presente la urgencia Simple
+17 de Nov. de 2009 69ª / 357 Primer trámite constitucional / Senado Cuenta del Mensaje 1595-357 que retira la urgencia Simple
+21 de Ago. de 2014   Primer trámite constitucional / Senado Archivado La Secretaría de la Comisión de Obras Públicas remite al archivo el proyecto de conformidad al artículo 36 bis del Reglamento. Oficio N° OP/034-2014","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6366-09","Fecha Etapa Informe Documento
+13 de Abr. de 2009 Primer trámite constitucional Senado Primer informe de comisión de Obras Públicas Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6366-09","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Nov. de 2009 17 de Nov. de 2009 Simple 1482-357 1595-357
+27 de Oct. de 2009 04 de Nov. de 2009 Suma 1392-357 1482-357
+06 de Oct. de 2009 27 de Oct. de 2009 Simple 1279-357 1392-357
+01 de Sep. de 2009 06 de Oct. de 2009 Simple 1027-357 1279-357
+11 de Ago. de 2009 01 de Sep. de 2009 Suma 897-357 1027-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6366-09","Nombre
+Ministerio de Hacienda
+Ministerio de Obras Públicas","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6366-09","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6366-09","No record","Veto emmEnd"

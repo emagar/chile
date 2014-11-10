@@ -1,0 +1,52 @@
+* * Bill summary * *
+"emmStart Summary 5329-07","Legislatura: 355
+Fecha de ingreso: martes 11 de septiembre de 2007
+Estado: Tramitación terminada (Ley Nº 20.222 - D.Oficial 29/09/2007)
+Numero de boletín: 5329-07
+Materia: Juzgados De Menores
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 03:20:46
+* * Hitos de tramitación * *
+"emmStart Hitos 5329-07","Fecha Sesión Etapa Sub-etapa Documento
+11 de Sep. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+11 de Sep. de 2007 76ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+11 de Sep. de 2007 76ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 720-355 que hace presente la urgencia Discusión inmediata Ver
+11 de Sep. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Sep. de 2007 76ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+11 de Sep. de 2007 76ª / 355 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+11 de Sep. de 2007   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+11 de Sep. de 2007 51ª / 355 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento y de Hacienda, ubidas
+11 de Sep. de 2007   Segundo trámite constitucional / Senado Oficio Nº1187/07 a la Corte Suprema Ver
+12 de Sep. de 2007   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+12 de Sep. de 2007 52ª / 355 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Sep. de 2007 52ª / 355 Segundo trámite constitucional / Senado Discusión general Ver
+13 de Sep. de 2007   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+13 de Sep. de 2007 78ª / 355 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver Ver
+13 de Sep. de 2007   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo. Oficio de consulta sobre ejercicio de facultad de veto Ver
+20 de Sep. de 2007   Trámite en Tribunal Constitucional / C. Diputados Oficio al Tribunal Constitucional Ver
+25 de Sep. de 2007   Trámite en Tribunal Constitucional / C. Diputados Ingreso fallo del Tribunal Constitucional Ver
+02 de Oct. de 2007 79ª / 355 Trámite en Tribunal Constitucional / C. Diputados P. de la Rep. comunica que no hará uso de la facultad del inciso primero del artículo 73 de la onstitución política de la Rep. Ver
+02 de Oct. de 2007 53ª / 355 Trámite de aprobacion presidencial / C. Diputados Cuenta oficio Nº 311 de la Corte Suprema Ver Ver
+02 de Oct. de 2007 79ª / 355 Trámite en Tribunal Constitucional / C. Diputados Cuenta oficio N? 1 del Tribunal Constitucional Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5329-07","Fecha Etapa Informe Documento
+12 de Sep. de 2007 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento y de Hacienda, unidas Ver
+11 de Sep. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5329-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+11 de Sep. de 2007   Discusión inmediata 720-355  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5329-07","Nombre Región Distrito Partido
+Ministerio de Justicia      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5329-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+1 Votación General 11 0 0 15   Unidas Cons/Hacienda Ver detalle votación
+76   97 0 0 23 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5329-07","No record","Veto emmEnd"

@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 1871-07","Legislatura: 333
+Fecha de ingreso: miércoles 19 de junio de 1996
+Estado: Archivado .
+Numero de boletín: 1871-07
+Materia: Menores
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 15:46:54
+* * Hitos de tramitación * *
+"emmStart Hitos 1871-07","Fecha Sesión Etapa Sub-etapa Documento
+19 de Jun. de 1996   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+19 de Jun. de 1996 9ª / 333 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+20 de Ago. de 2002   Primer trámite constitucional / C. Diputados Archivado","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1871-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1871-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1871-07","Nombre Región Distrito Partido
+Claudio Alvarado Andrade Región N° Unión Demócrata Independiente
+Pedro Pablo Alvarez-Salamanca Büchi Región N°38 Renovación Nacional
+Sergio Correa De la Cerda Región N°36 Unión Demócrata Independiente
+Juan Masferrer Pellizzari Región N°34 Unión Demócrata Independiente
+Darío Paya Mira Región N° Unión Demócrata Independiente
+Víctor Pérez Varela Región N°47 Unión Demócrata Independiente
+Jorge Ulloa Aguillón Región N°43 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1871-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1871-07","No record","Veto emmEnd"

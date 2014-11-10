@@ -1,0 +1,55 @@
+* * Bill summary * *
+"emmStart Summary 1032-05","Legislatura: 326
+Fecha de ingreso: miércoles 07 de julio de 1993
+Estado: Tramitación terminada (Ley Nº 19.247 - D.Oficial 15/09/1993)
+Numero de boletín: 1032-05
+Materia: Donaciones,Servicio De Impuestos Internos (Chile),Impuesto Al Valor Agregado,Donaciones Con Fines Educacionales,Impuestos ,Impuesto A La Renta
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 02:11:05
+* * Hitos de tramitación * *
+"emmStart Hitos 1032-05","Fecha Sesión Etapa Sub-etapa Documento
+07 de Ene. de 1993 36ª / 326 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+07 de Ene. de 1993 36ª / 326 Tercer trámite constitucional / C. Diputados Discusión única Ver
+07 de Jul. de 1993 12ª / 326 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+07 de Jul. de 1993   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Ago. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de Ago. de 1993 22ª / 326 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+03 de Ago. de 1993 22ª / 326 Primer trámite constitucional / C. Diputados Queda pendiente su discusión. Ver
+03 de Ago. de 1993 22ª / 326 Primer trámite constitucional / C. Diputados Discusión general Ver
+09 de Ago. de 1993   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+10 de Ago. de 1993 25ª / 326 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+10 de Ago. de 1993   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+10 de Ago. de 1993 26ª / 326 Primer trámite constitucional / C. Diputados Discusión particular Ver
+11 de Ago. de 1993 17ª / 326 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+30 de Ago. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+31 de Ago. de 1993 20ª / 326 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+01 de Sep. de 1993 21ª / 326 Tramitación terminada / Aprobado en general, se fija plazo para presentar indicaciones hasta el lunes 06/09/1993.
+06 de Sep. de 1993   Segundo trámite constitucional / Senado Boletín de indicaciones
+07 de Sep. de 1993   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+08 de Sep. de 1993   Tramitación terminada / Oficio Nº5007. comunica aprobación con modificaciones a Cámara de origen Ver
+08 de Sep. de 1993 23ª / 326 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+08 de Sep. de 1993 23ª / 326 Segundo trámite constitucional / Senado Discusión particular Ver
+08 de Sep. de 1993   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+09 de Sep. de 1993   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+17 de Dic. de 2002 20ª / 348 Segundo trámite constitucional / Senado Discusión general Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1032-05","Fecha Etapa Informe Documento
+07 de Sep. de 1993 Segundo trámite constitucional Senado Segundo informe de comisión de Hacienda Ver
+30 de Ago. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+09 de Ago. de 1993 Primer trámite constitucional C.Diputados Segundo informe de comisión de Hacienda Ver
+02 de Ago. de 1993 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1032-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+07 de Jul. de 1993   Simple    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1032-05","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1032-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1032-05","No record","Veto emmEnd"

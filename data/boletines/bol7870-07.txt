@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 7870-07","Legislatura: 359
+Fecha de ingreso: martes 16 de agosto de 2011
+Estado: Segundo trámite constitucional .
+Numero de boletín: 7870-07
+Materia: Separado Judicialmente
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 12:11:03
+* * Hitos de tramitación * *
+"emmStart Hitos 7870-07","Fecha Sesión Etapa Sub-etapa Documento
+16 de Ago. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+16 de Ago. de 2011 71ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+21 de Sep. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+27 de Sep. de 2011 85ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+05 de Oct. de 2011 91ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+05 de Oct. de 2011   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7870-07","Fecha Etapa Informe Documento
+21 de Sep. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7870-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7870-07","Nombre Región Distrito Partido
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Alberto Cardemil Herrera RM Región Metropolitana N°22 Renovación Nacional
+Eduardo Cerda García V Región de Valparaíso N°10 Partido Demócrata Cristiano
+Marcelo Díaz Díaz IV Región de Coquimbo N°7 Partido Socialista
+Edmundo Eluchans Urenda V Región de Valparaíso N°14 Unión Demócrata Independiente
+Felipe Harboe Bascuñán RM Región Metropolitana N°22 Partido Por la Democracia
+Cristián Monckeberg Bruner RM Región Metropolitana N°23 Renovación Nacional
+Ricardo Rincón González VI Región del Libertador Bernardo O' Higgins N°33 Partido Demócrata Cristiano
+Gabriel Silber Romo RM Región Metropolitana N°16 Partido Demócrata Cristiano
+Arturo Squella Ovalle V Región de Valparaíso N°12 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7870-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+91   76 0 2 42 Aprobado Sala Ver detalle votación
+124 Votación General 7 0 0 6   Constitución Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7870-07","No record","Veto emmEnd"

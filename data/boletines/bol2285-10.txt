@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 2285-10","Legislatura: 339
+Fecha de ingreso: martes 05 de enero de 1999
+Estado: Tramitación terminada (D.S. Nº 1.155 - D.Oficial 22/07/1999)
+Numero de boletín: 2285-10
+Materia: Monte Fitz Roy (Argentina),Zonas Fronterizas
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 22:54:27
+* * Hitos de tramitación * *
+"emmStart Hitos 2285-10","Fecha Sesión Etapa Sub-etapa Documento
+05 de Ene. de 1999   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+05 de Ene. de 1999 14ª / 339 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+14 de Ene. de 1999   Primer trámite constitucional / Senado Primer informe de comisión Ver
+19 de Ene. de 1999 18ª / 339 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+02 de Mar. de 1999 20ª / 339 Primer trámite constitucional / Senado Discusión Pendiente. Ver
+03 de Mar. de 1999 21ª / 339 Primer trámite constitucional / Senado Discusión Pendiente. Ver
+09 de Mar. de 1999 22ª / 339 Primer trámite constitucional / Senado Discusión Pendiente. Ver
+10 de Mar. de 1999 25ª / 339 Primer trámite constitucional / Senado Discusión Pendiente. Ver
+10 de Mar. de 1999 25ª / 339 Primer trámite constitucional / Senado Discusión general Ver
+11 de Mar. de 1999   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+11 de Mar. de 1999 42ª / 339 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+18 de May. de 1999   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+19 de May. de 1999 68ª / 339 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+02 de Jun. de 1999 3ª / 340 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+02 de Jun. de 1999 3ª / 340 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+02 de Jun. de 1999   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+08 de Jun. de 1999 3ª / 340 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+08 de Jun. de 1999   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+22 de Jun. de 1999   Tramitación terminada / Oficio al Tribunal Constitucional
+22 de Jun. de 1999 8ª / 340 Tramitación terminada / Cuenta oficio Nº 1440 del Tribunal Constitucional Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2285-10","Fecha Etapa Informe Documento
+18 de May. de 1999 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+14 de Ene. de 1999 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2285-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+05 de Ene. de 1999   Sin urgencia 152-339  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2285-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2285-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2285-10","No record","Veto emmEnd"

@@ -1,0 +1,55 @@
+* * Bill summary * *
+"emmStart Summary 3792-07","Legislatura: 352
+Fecha de ingreso: miércoles 19 de enero de 2005
+Estado: Segundo trámite constitucional .
+Numero de boletín: 3792-07
+Materia: Menores
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 04-11-2014 12:07:23
+* * Hitos de tramitación * *
+"emmStart Hitos 3792-07","Fecha Sesión Etapa Sub-etapa Documento
+19 de Ene. de 2005   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+19 de Ene. de 2005 30ª / 352 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento. Se remite el proyecto a la Corte Suprema.
+19 de Ene. de 2005   Primer trámite constitucional / Senado Oficio Nº 24877 a la Corte Suprema Ver
+10 de Mar. de 2005   Primer trámite constitucional / Senado Primer informe de comisión Ver
+16 de Mar. de 2005 37ª / 352 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+23 de Mar. de 2005 39ª / 352 Primer trámite constitucional / Senado Discusión general. Queda pendiente Quedó para segunda discusión. Ver
+06 de Abr. de 2005 42ª / 352 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 02/05/2005 Ver
+03 de May. de 2005   Primer trámite constitucional / Senado Boletín de indicaciones
+26 de Dic. de 2005   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+03 de Ene. de 2006 55ª / 353 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+04 de Ene. de 2006 56ª / 353 Primer trámite constitucional / Senado Se aprueban las normas que no requieren quorum especial, quedando pendiente el resto del proyecto, pero cerrado el debate. Ver
+17 de Ene. de 2006 58ª / 353 Primer trámite constitucional / Senado Se acuerda volverlo a Comisión para un nuevo informe. Ver
+19 de Ene. de 2006   Primer trámite constitucional / Senado Nuevo segundo informe de comisión Ver
+08 de Mar. de 2006 62ª / 353 Primer trámite constitucional / Senado Cuenta nuevo segundo informe
+15 de Mar. de 2006 2ª / 354 Primer trámite constitucional / Senado Discusión particular Ver
+16 de Mar. de 2006   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+22 de Mar. de 2006 5ª / 354 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver Ver
+18 de Jul. de 2006 49ª / 354 Segundo trámite constitucional / C. Diputados Por acuerdo de Comités, el proyecto es remitido a la Comisión de Familia. Ver
+18 de Jul. de 2006   Segundo trámite constitucional / C. Diputados Oficio Nº 6269. Se acuerda que el proyecto sea informado, primero por la Comisión de Familia y, posteriormente, por la de Constitución, Legislación y Justicia. Ver
+03 de Oct. de 2006 78ª / 354 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 330-354 que hace presente la urgencia Simple Ver
+10 de Oct. de 2006 83ª / 354 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 352-354 que retira la urgencia Simple Ver
+03 de Abr. de 2007 8ª / 355 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 30-355 que hace presente la urgencia Simple Ver
+10 de Abr. de 2007 12ª / 355 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 64-355 que retira la urgencia Simple Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3792-07","Fecha Etapa Informe Documento
+19 de Ene. de 2006 Primer trámite constitucional Senado Nuevo segundo informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+26 de Dic. de 2005 Primer trámite constitucional Senado Segundo informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+10 de Mar. de 2005 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3792-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+03 de Abr. de 2007 10 de Abr. de 2007 Simple 30-355 64-355
+03 de Oct. de 2006 10 de Oct. de 2006 Simple 330-354 352-354","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3792-07","Nombre
+Ministerio de Justicia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3792-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3792-07","No record","Veto emmEnd"

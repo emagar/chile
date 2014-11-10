@@ -1,0 +1,45 @@
+* * Bill summary * *
+"emmStart Summary 375-15","Legislatura: 322
+Fecha de ingreso: martes 11 de junio de 1991
+Estado: Tramitación terminada (Ley Nº 19.091 - D.Oficial 07/11/1991)
+Numero de boletín: 375-15
+Materia: Telecomunicaciones
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 16:27:59
+* * Hitos de tramitación * *
+"emmStart Hitos 375-15","Fecha Sesión Etapa Sub-etapa Documento
+11 de Jun. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+11 de Jun. de 1991 6ª / 322 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+12 de Jun. de 1991   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+13 de Jun. de 1991 7ª / 322 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+18 de Jun. de 1991 7ª / 322 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento y a Comisión de Transportes y Telecomunicaciones
+19 de Jun. de 1991   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+04 de Jul. de 1991   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+09 de Jul. de 1991 15ª / 322 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Jul. de 1991   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+17 de Jul. de 1991   Comisión Mixta por rechazo de modificaciones / Senado Oficio integrantes de Comisión Mixta Ver
+17 de Jul. de 1991 19ª / 322 Comisión Mixta por rechazo de modificaciones / Senado Cuenta oficio rechazo a modificaciones
+23 de Jul. de 1991   Comisión Mixta por rechazo de modificaciones / Senado Informe de Comisión Mixta Ver
+06 de Ago. de 1991 23ª / 322 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Cuenta oficio aprobación de informe de Comisión Mixta
+14 de Ago. de 1991   Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Oficio aprobación de informe de Comisión Mixta a C.de Origen Ver
+04 de Nov. de 1999   Primer trámite constitucional / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 341","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 375-15","Fecha Etapa Informe Documento
+23 de Jul. de 1991 Comisión Mixta por rechazo de modificaciones Senado Informe de Comisión Mixta de Transportes y Telecomunicaciones Ver
+04 de Jul. de 1991 Segundo trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver
+19 de Jun. de 1991 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+12 de Jun. de 1991 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 375-15","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 375-15","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 375-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 375-15","No record","Veto emmEnd"

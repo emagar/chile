@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 8700-07","Legislatura: 360
+Fecha de ingreso: lunes 26 de noviembre de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8700-07
+Materia: Constitucion 1980,Incompatibilidades Parlamentarias
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 04:41:00
+* * Hitos de tramitación * *
+"emmStart Hitos 8700-07","Fecha Sesión Etapa Sub-etapa Documento
+26 de Nov. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+26 de Nov. de 2012 104ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8700-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8700-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8700-07","Nombre Región Distrito Partido
+Ramón Barros Montero VI Región del Libertador Bernardo O' Higgins N°35 Unión Demócrata Independiente
+Enrique Estay Peñaloza IX Región de la Araucanía N°49 Unión Demócrata Independiente
+Romilio Gutiérrez Pino VII Región del Maule N°39 Unión Demócrata Independiente
+Issa Farid Kort Garriga VI Región del Libertador Bernardo O' Higgins N°32 Unión Demócrata Independiente
+Cristian Letelier Aguilar RM Región Metropolitana N°31 Independientes
+Andrea Molina Oliva V Región de Valparaíso N°10 Unión Demócrata Independiente
+Celso Morales Muñoz VII Región del Maule N°36 Unión Demócrata Independiente
+Carlos Recondo Lavanderos X Región de los Lagos N°56 Unión Demócrata Independiente
+Marisol Turres Figueroa X Región de los Lagos N°57 Unión Demócrata Independiente
+Gastón Von Mühlenbrock Zamora XIV Región de los Ríos N°54 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8700-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8700-07","No record","Veto emmEnd"

@@ -1,0 +1,51 @@
+* * Bill summary * *
+"emmStart Summary 857-07","Legislatura: 325
+Fecha de ingreso: jueves 12 de noviembre de 1992
+Estado: Archivado .
+Numero de boletín: 857-07
+Materia: Arbitros (Derecho),Procedimiento Arbitral
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 23:53:37
+* * Hitos de tramitación * *
+"emmStart Hitos 857-07","Fecha Sesión Etapa Sub-etapa Documento
+12 de Nov. de 1992   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+12 de Nov. de 1992   Primer trámite constitucional / Senado Oficio Nº a la Corte Suprema Ver
+12 de Nov. de 1992 10ª / 325 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento. Se remite el proyecto a la Corte Suprema.
+04 de Ene. de 1993   Primer trámite constitucional / Senado Primer informe de comisión Ver
+05 de Ene. de 1993 20ª / 325 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+09 de Mar. de 1993 31ª / 325 Primer trámite constitucional / Senado Discusión general Ver
+09 de Mar. de 1993 31ª / 325 Primer trámite constitucional / Senado Boletín de indicaciones
+05 de Oct. de 1993 1ª / 327 Primer trámite constitucional / Senado S.E el Presidente de la República incluye el proyecto en la Convocatoria a Legislatura. Extraordinaria.
+10 de Oct. de 1995 4ª / 332 Primer trámite constitucional / Senado S.E el Presidente de la República incluye el proyecto en la Convocatoria a Legislatura . Extraordinaria.
+16 de Oct. de 1995   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+17 de Oct. de 1995 6ª / 332 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+24 de Oct. de 1995 9ª / 332 Primer trámite constitucional / Senado Discusión particular Ver
+24 de Oct. de 1995   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+26 de Oct. de 1995 12ª / 332 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+01 de Oct. de 1996   Segundo trámite constitucional / C. Diputados S.E el Presidente de la República incluye el proyecto en la Convocatoria a Legislatura . Extraordinaria.
+07 de Jun. de 2000 2ª / 342 Segundo trámite constitucional / C. Diputados Se solicita su archivo S.E. el Pdte. de la Rep. solicita archivo del proyecto. Ver
+07 de Jun. de 2000   Segundo trámite constitucional / C. Diputados Rechazada solicitud de archivo Of. 2873 al Pdte. de la Rep., Rechaza archivo del Proyecto.
+21 de Ago. de 2002 23ª / 347 Segundo trámite constitucional / C. Diputados Se solicita su archivo Cuenta en el Senado de Oficio de Cámara de Diputados, solicita acuerdo previo para archivar el proyecto. Ver
+03 de Sep. de 2002 36ª / 347 Archivado / Cuenta Oficio del Senado, comunica que accede a archivo solicitado Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 857-07","Fecha Etapa Informe Documento
+16 de Oct. de 1995 Primer trámite constitucional Senado Segundo informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+04 de Ene. de 1993 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 857-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+28 de Nov. de 1995   Simple 196-332  
+06 de Jun. de 1995 18 de Jul. de 1995 Simple 060695 180795
+12 de Nov. de 1992   Simple    
+12 de Nov. de 1992 16 de Sep. de 1998 Sin urgencia   CADUCADO","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 857-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 857-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 857-07","No record","Veto emmEnd"

@@ -1,0 +1,33 @@
+* * Bill summary * *
+"emmStart Summary 295-10","Legislatura: 321
+Fecha de ingreso: martes 05 de marzo de 1991
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 295-10
+Materia: Acuerdos Internacionales
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 14:11:36
+* * Hitos de tramitación * *
+"emmStart Hitos 295-10","Fecha Sesión Etapa Sub-etapa Documento
+05 de Mar. de 1991   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+12 de Mar. de 1991 37ª / 321 Primer trámite constitucional / Senado Cuenta de proyecto
+05 de Dic. de 1991 23ª / 323 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+05 de Dic. de 1991 23ª / 323 Primer trámite constitucional / Senado Primer informe de comisión Ver
+29 de May. de 1992   Tramitación terminada / Oficio Nº 45324. Oficio del Ejecutivo con el que retira proyecto de tramitación. Ver
+02 de Jun. de 1992 1ª / 324 Tramitación terminada / Cuenta del Mensaje del Ejecutivo con el que retira el proyecto. Queda retirado y se manda archivar. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 295-10","Fecha Etapa Informe Documento
+05 de Dic. de 1991 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 295-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 295-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 295-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 295-10","No record","Veto emmEnd"

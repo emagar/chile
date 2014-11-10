@@ -1,0 +1,29 @@
+* * Bill summary * *
+"emmStart Summary 5123-13","Legislatura: 355
+Fecha de ingreso: martes 12 de junio de 2007
+Estado: Primer trámite constitucional .
+Numero de boletín: 5123-13
+Materia: Patrimonio Comercial,Obligaciones Laborales
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 07-11-2014 00:54:24
+* * Hitos de tramitación * *
+"emmStart Hitos 5123-13","Fecha Sesión Etapa Sub-etapa Documento
+12 de Jun. de 2007   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+13 de Jun. de 2007 25ª / 355 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5123-13","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5123-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5123-13","Nombre
+Pedro Muñoz Aburto","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5123-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5123-13","No record","Veto emmEnd"

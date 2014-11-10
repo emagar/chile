@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 8485-10","Legislatura: 360
+Fecha de ingreso: jueves 02 de agosto de 2012
+Estado: Tramitación terminada (D.S N° 205 - D.Oficial 12/09/2014)
+Numero de boletín: 8485-10
+Materia: Acuerdo Chile-Bangladesh Sobre Requisito De Visa Para Diplomaticos (28 De Julio 2011: Santiago De Chile)
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 02:08:50
+* * Hitos de tramitación * *
+"emmStart Hitos 8485-10","Fecha Sesión Etapa Sub-etapa Documento
+02 de Ago. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Ago. de 2012 65ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+07 de Ago. de 2012   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+13 de Ago. de 2012 70ª / 360 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+30 de Ago. de 2012 74ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+30 de Ago. de 2012   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+04 de Sep. de 2012 45ª / 360 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+18 de Dic. de 2012   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+18 de Dic. de 2012 87ª / 360 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+02 de Ene. de 2013 91ª / 360 Segundo trámite constitucional / Senado Discusión general Ver
+02 de Ene. de 2013   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+03 de Ene. de 2013 120ª / 360 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+03 de Ene. de 2013   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8485-10","Fecha Etapa Informe Documento
+18 de Dic. de 2012 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+07 de Ago. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8485-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8485-10","Nombre Región Distrito Partido
+Ministerio de Interior y Seguridad Públi      
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8485-10","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+74   56 0 0 64 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8485-10","No record","Veto emmEnd"

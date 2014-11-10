@@ -1,0 +1,32 @@
+* * Bill summary * *
+"emmStart Summary 8093-04","Legislatura: 359
+Fecha de ingreso: jueves 15 de diciembre de 2011
+Estado: Primer trámite constitucional .
+Numero de boletín: 8093-04
+Materia: Inscripción Electoral Automática,Voto Voluntario
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 15:22:15
+* * Hitos de tramitación * *
+"emmStart Hitos 8093-04","Fecha Sesión Etapa Sub-etapa Documento
+15 de Dic. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+15 de Dic. de 2011 122ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Deportes y Recreación Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8093-04","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8093-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8093-04","Nombre Región Distrito Partido
+Osvaldo Andrade Lara RM Región Metropolitana N°29 Partido Socialista
+Alfonso De Urresti Longton XIV Región de los Ríos N°53 Partido Socialista
+Marcelo Díaz Díaz IV Región de Coquimbo N°7 Partido Socialista
+Marcelo Schilling Rodríguez V Región de Valparaíso N°12 Partido Socialista","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8093-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8093-04","No record","Veto emmEnd"

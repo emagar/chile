@@ -1,0 +1,52 @@
+* * Bill summary * *
+"emmStart Summary 3545-04","Legislatura: 351
+Fecha de ingreso: martes 08 de junio de 2004
+Estado: Tramitación terminada (Ley Nº 20.186 - D.Oficial 23/05/2007)
+Numero de boletín: 3545-04
+Materia: Monumentos
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 04-11-2014 03:56:07
+* * Hitos de tramitación * *
+"emmStart Hitos 3545-04","Fecha Sesión Etapa Sub-etapa Documento
+08 de Jun. de 2004   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+08 de Jun. de 2004 1ª / 351 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+13 de Jul. de 2004 11ª / 351 Primer trámite constitucional / Senado La Sala toma conocimiento del acuerdo de los comités por el que autoriza a la Comisión de Educación para discutir en general y en particular, en el primer informe, esta iniciativa.
+14 de Sep. de 2004   Primer trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 352
+16 de Ago. de 2005   Primer trámite constitucional / Senado Primer informe de comisión Ver
+17 de Ago. de 2005 28ª / 353 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+30 de Ago. de 2005 29ª / 353 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 06/09/2005 Ver
+06 de Sep. de 2005   Primer trámite constitucional / Senado Boletín de indicaciones
+04 de Oct. de 2005   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+05 de Oct. de 2005 39ª / 353 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+11 de Oct. de 2005 40ª / 353 Primer trámite constitucional / Senado Discusión particular Ver
+12 de Oct. de 2005   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+18 de Oct. de 2005 52ª / 353 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver Ver
+09 de Ago. de 2006 60ª / 354 Segundo trámite constitucional / C. Diputados Comisión de la Cultura y las Artes solicita remisión del proyecto. Pendiente. Ver
+10 de Ago. de 2006 62ª / 354 Segundo trámite constitucional / C. Diputados Se acuerda envairlo a la Comisión de la Cultura y las Artes. Ver
+08 de Mar. de 2007   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+13 de Mar. de 2007 1ª / 355 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+11 de Abr. de 2007 13ª / 355 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+11 de Abr. de 2007   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+17 de Abr. de 2007 11ª / 355 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+17 de Abr. de 2007   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3545-04","Fecha Etapa Informe Documento
+08 de Mar. de 2007 Segundo trámite constitucional C.Diputados Primer informe de comisión de la Cultura y las Artes Ver
+04 de Oct. de 2005 Primer trámite constitucional Senado Segundo informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+16 de Ago. de 2005 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3545-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3545-04","Nombre
+Antonio Horvath Kiss","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3545-04","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+13   92 0 1 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3545-04","No record","Veto emmEnd"

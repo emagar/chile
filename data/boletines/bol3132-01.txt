@@ -1,0 +1,32 @@
+* * Bill summary * *
+"emmStart Summary 3132-01","Legislatura: 348
+Fecha de ingreso: martes 19 de noviembre de 2002
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 3132-01
+Materia: Préstamos Hipotecarios,Créditos Hipotecarios
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 23:31:30
+* * Hitos de tramitación * *
+"emmStart Hitos 3132-01","Fecha Sesión Etapa Sub-etapa Documento
+19 de Nov. de 2002   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+19 de Nov. de 2002 22ª / 348 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+21 de Nov. de 2002 26ª / 348 Tramitación terminada / S.E. el Presidente de la República retira el proyecto del Congreso Nacional.
+21 de Nov. de 2002   Tramitación terminada / Oficio 4027 del 21-11-02 a la Com. de Agricultura, solicita antecedentes relativos al proyecto
+29 de Nov. de 2002   Tramitación terminada / Oficio 4031 del 29-11-02 al Pdte. de la Rep. Devuelve proyecto","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3132-01","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3132-01","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3132-01","Nombre Región Distrito Partido
+Ministerio de Agricultura      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3132-01","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3132-01","No record","Veto emmEnd"

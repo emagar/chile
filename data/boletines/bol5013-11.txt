@@ -1,0 +1,58 @@
+* * Bill summary * *
+"emmStart Summary 5013-11","Legislatura: 355
+Fecha de ingreso: miércoles 02 de mayo de 2007
+Estado: Tramitación terminada (Ley Nº 20.332 - D.Oficial 17/02/2009)
+Numero de boletín: 5013-11
+Materia: Bebidas Alcoholicas
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 23:41:20
+* * Hitos de tramitación * *
+"emmStart Hitos 5013-11","Fecha Sesión Etapa Sub-etapa Documento
+02 de May. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de May. de 2007 20ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver
+05 de Jun. de 2007 30ª / 355 Primer trámite constitucional / C. Diputados Comisión de Agricultura solicita que proyecto le sea remitido. ACORDADO. Ver
+04 de Mar. de 2008 137ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1404-355 que hace presente la urgencia Simple Ver
+08 de Abr. de 2008 14ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 88-356 que retira y hace presente la urgencia Simple Ver
+15 de Abr. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+13 de May. de 2008 27ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 268-356 que retira y hace presente la urgencia Simple Ver
+17 de Jun. de 2008 40ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 397-356 que retira y hace presente la urgencia Simple Ver
+29 de Jul. de 2008 54ª / 356 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 585-356 que retira la urgencia Simple Ver
+09 de Oct. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+14 de Oct. de 2008 88ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+29 de Oct. de 2008 93ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+29 de Oct. de 2008   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+04 de Nov. de 2008 64ª / 356 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Agricultura Ver
+07 de Ene. de 2009 83ª / 356 Segundo trámite constitucional / Senado Cuenta del Mensaje 1326-356 que hace presente la urgencia Simple
+13 de Ene. de 2009   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+14 de Ene. de 2009 86ª / 356 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+21 de Ene. de 2009 89ª / 356 Segundo trámite constitucional / Senado Discusión general Ver
+21 de Ene. de 2009   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+22 de Ene. de 2009 130ª / 356 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+22 de Ene. de 2009   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5013-11","Fecha Etapa Informe Documento
+13 de Ene. de 2009 Segundo trámite constitucional Senado Primer informe de comisión de Agricultura Ver
+09 de Oct. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+15 de Abr. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5013-11","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+07 de Ene. de 2009   Simple 1326-356  
+17 de Jun. de 2008 29 de Jul. de 2008 Simple 397-356 585-356
+13 de May. de 2008 17 de Jun. de 2008 Simple 268-356 397-356
+08 de Abr. de 2008 13 de May. de 2008 Simple 88-356 268-356
+04 de Mar. de 2008 08 de Abr. de 2008 Simple 1404-355 88-356","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5013-11","Nombre Región Distrito Partido
+Ministerio de Salud      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5013-11","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+93   80 0 1 0 Aprobado Sala Ver detalle votación
+63 Votación General 7 0 0 6   Agricultura Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5013-11","No record","Veto emmEnd"

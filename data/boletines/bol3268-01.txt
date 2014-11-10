@@ -1,0 +1,50 @@
+* * Bill summary * *
+"emmStart Summary 3268-01","Legislatura: 349
+Fecha de ingreso: martes 08 de julio de 2003
+Estado: Tramitación terminada (Ley Nº 19.897 - D.Oficial 25/09/2003)
+Numero de boletín: 3268-01
+Materia: Arancel Aduanero
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 00:57:56
+* * Hitos de tramitación * *
+"emmStart Hitos 3268-01","Fecha Sesión Etapa Sub-etapa Documento
+08 de Jul. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+08 de Jul. de 2003 14ª / 349 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+05 de Ago. de 2003 24ª / 349 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 155-349 que hace presente la urgencia Discusión inmediata Ver
+05 de Ago. de 2003   Primer trámite constitucional / C. Diputados Presidente de la República formula observaciones. Se remiten a Comisión de Agricultura
+05 de Ago. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+05 de Ago. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Ago. de 2003 25ª / 349 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Agricultura, Silvicultura y Desarrollo Rural y de Hacienda Ver
+05 de Ago. de 2003 25ª / 349 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+05 de Ago. de 2003   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+06 de Ago. de 2003 20ª / 349 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Agricultura
+06 de Ago. de 2003 22ª / 349 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+06 de Ago. de 2003 22ª / 349 Segundo trámite constitucional / Senado Discusión única
+06 de Ago. de 2003   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+07 de Ago. de 2003 27ª / 349 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+07 de Ago. de 2003   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3268-01","Fecha Etapa Informe Documento
+05 de Ago. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+05 de Ago. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3268-01","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+05 de Ago. de 2003   Discusión inmediata 155-349  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3268-01","Nombre Región Distrito Partido
+Ministerio de Agricultura      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3268-01","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+25   91 1 0 0   Sala Ver detalle votación
+25 Indicación Comisión de Hacienda al inciso octavo del artículo 12, propuesto en el artículo 1º 5 83 5 1   Sala Ver detalle votación
+25 2º, inciso primero 87 0 0 1   Sala Ver detalle votación
+25 Indicación Comisión de Hacienda al inciso priemro del artículo 2º 5 79 6 1   Sala Ver detalle votación
+25 inciso octavo del artículo 12, propuesto en el artículo 1º 94 0 0 1   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3268-01","No record","Veto emmEnd"

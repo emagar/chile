@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 1487-03","Legislatura: 330
+Fecha de ingreso: martes 03 de enero de 1995
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 1487-03
+Materia: Servicios Publicos,Turismo
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 09:45:06
+* * Hitos de tramitación * *
+"emmStart Hitos 1487-03","Fecha Sesión Etapa Sub-etapa Documento
+03 de Ene. de 1995   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Ene. de 1995 31ª / 330 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+30 de May. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+30 de May. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+10 de Oct. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+10 de Oct. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+10 de Oct. de 1995 4ª / 332 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+02 de Sep. de 1997 37ª / 335 Primer trámite constitucional / C. Diputados Discusión general. Rechazado por falta de quórum. Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1487-03","Fecha Etapa Informe Documento
+10 de Oct. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver
+30 de May. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1487-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1487-03","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1487-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1487-03","No record","Veto emmEnd"

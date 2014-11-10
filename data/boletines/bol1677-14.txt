@@ -1,0 +1,52 @@
+* * Bill summary * *
+"emmStart Summary 1677-14","Legislatura: 331
+Fecha de ingreso: martes 22 de agosto de 1995
+Estado: Tramitación terminada (Ley Nº 19.579 - D.Oficial 17/08/1998)
+Numero de boletín: 1677-14
+Materia: Compraventa De Bienes Raices,Prohibición A Notarios,Viviendas,Notarías
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 12:12:21
+* * Hitos de tramitación * *
+"emmStart Hitos 1677-14","Fecha Sesión Etapa Sub-etapa Documento
+22 de Ago. de 1995   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+22 de Ago. de 1995 30ª / 331 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de la Vivienda y Desarrollo Urbano Ver
+16 de Nov. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+16 de Nov. de 1995 18ª / 332 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+05 de Mar. de 1996 49ª / 332 Primer trámite constitucional / C. Diputados Pendiente discusión Intervienen los Dip. Errázuriz (Inf. Com. Vivienda), Elgueta Ver Ver
+03 de Abr. de 1996 60ª / 332 Primer trámite constitucional / C. Diputados Discusión general Ver
+30 de Abr. de 1996   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+30 de Abr. de 1996 68ª / 332 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+09 de May. de 1996 72ª / 332 Primer trámite constitucional / C. Diputados Discusión particular Ver
+09 de May. de 1996   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+14 de May. de 1996 59ª / 332 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+25 de Nov. de 1997   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+25 de Nov. de 1997 17ª / 336 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+07 de Jul. de 1998 11ª / 338 Segundo trámite constitucional / Senado Discusión general Ver
+08 de Jul. de 1998   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+09 de Jul. de 1998 15ª / 338 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+15 de Jul. de 1998 17ª / 338 Tercer trámite constitucional / C. Diputados Discusión única Ver
+17 de Jul. de 1998   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1677-14","Fecha Etapa Informe Documento
+25 de Nov. de 1997 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+30 de Abr. de 1996 Primer trámite constitucional C.Diputados Segundo informe de comisión de Vivienda y Desarrollo Urbano Ver
+16 de Nov. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Vivienda y Desarrollo Urbano Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1677-14","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1677-14","Nombre Región Distrito Partido
+Maximiano Errázuriz Eguiguren Región N° Renovación Nacional
+Carlos Ignacio Kuschel Silva Región N°57 Renovación Nacional
+Carlos Montes Cisternas Región N°26 Partido Socialista
+Víctor Pérez Varela Región N°47 Unión Demócrata Independiente
+Vicente Sota Barros Región N°31 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1677-14","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1677-14","No record","Veto emmEnd"

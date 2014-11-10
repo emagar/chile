@@ -1,0 +1,53 @@
+* * Bill summary * *
+"emmStart Summary 6967-06","Legislatura: 358
+Fecha de ingreso: miércoles 02 de junio de 2010
+Estado: Tramitación terminada (Ley Nº 20.663 - D.Oficial 30/04/2013)
+Numero de boletín: 6967-06
+Materia: Región De Arica Y Parinacota (Chile) 15,Feriados
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 22:43:57
+* * Hitos de tramitación * *
+"emmStart Hitos 6967-06","Fecha Sesión Etapa Sub-etapa Documento
+02 de Jun. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Jun. de 2010 31ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior y Regionalización Ver
+12 de Sep. de 2012   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+13 de Sep. de 2012 81ª / 360 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+02 de Oct. de 2012 82ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+02 de Oct. de 2012   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+03 de Oct. de 2012 52ª / 360 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización
+26 de Dic. de 2012   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+08 de Ene. de 2013 92ª / 360 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+13 de Mar. de 2013 2ª / 361 Segundo trámite constitucional / Senado Discusión general Ver
+13 de Mar. de 2013 2ª / 361 Segundo trámite constitucional / Senado Discusión general Ver
+13 de Mar. de 2013   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+14 de Mar. de 2013 3ª / 361 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+14 de Mar. de 2013   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6967-06","Fecha Etapa Informe Documento
+26 de Dic. de 2012 Segundo trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver
+12 de Sep. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6967-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6967-06","Nombre Región Distrito Partido
+Gabriel Ascencio Mansilla X Región de los Lagos N°58 Partido Demócrata Cristiano
+Pepe Auth Stewart RM Región Metropolitana N°20 Partido Por la Democracia
+Nino Baltolu Rasera XV Región Arica y Parinacota N°1 Unión Demócrata Independiente
+Cristián Campos Jara VIII Región del Bío Bío N°43 Partido Por la Democracia
+Enrique Jaramillo Becker XIV Región de los Ríos N°54 Partido Por la Democracia
+Pablo Lorenzini Basso VII Región del Maule N°38 Partido Demócrata Cristiano
+Marco Antonio Núñez Lozano V Región de Valparaíso N°11 Partido Por la Democracia
+José Pérez Arriagada VIII Región del Bío Bío N°47 Partido Radical Social Demócrata
+Joaquín Tuma Zedan IX Región de la Araucanía N°51 Partido Por la Democracia
+Orlando Vargas Pizarro XV Región Arica y Parinacota N°1 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6967-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+82   73 7 8 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6967-06","No record","Veto emmEnd"

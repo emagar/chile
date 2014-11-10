@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 2397-07","Legislatura: 340
+Fecha de ingreso: martes 07 de septiembre de 1999
+Estado: Tramitación terminada (Ley Nº 19.672 - D.Oficial 28/04/2000)
+Numero de boletín: 2397-07
+Materia: Reforma Constitucional,Presidente De La República De Chile
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 03-11-2014 00:05:04
+* * Hitos de tramitación * *
+"emmStart Hitos 2397-07","Fecha Sesión Etapa Sub-etapa Documento
+07 de Sep. de 1999   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+07 de Sep. de 1999 28ª / 340 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+08 de Sep. de 1999   Primer trámite constitucional / Senado Primer informe de comisión Ver
+08 de Sep. de 1999 30ª / 340 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+15 de Sep. de 1999 33ª / 340 Primer trámite constitucional / Senado Discusión general Ver
+17 de Sep. de 1999   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+05 de Oct. de 1999 1ª / 341 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+18 de Ene. de 2000   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+25 de Ene. de 2000 25ª / 343 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión
+25 de Ene. de 2000 25ª / 341 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+25 de Ene. de 2000   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+07 de Mar. de 2000 22ª / 341 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+07 de Mar. de 2000 22ª / 341 Congreso Pleno / Ratificación reforma constitucional Ver
+07 de Mar. de 2000 22ª / 341 Tramitación terminada / Cuenta del Mensaje 334-341 que retira la urgencia Suma Ver
+25 de Mar. de 2000   Congreso Pleno / Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2397-07","Fecha Etapa Informe Documento
+18 de Ene. de 2000 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+08 de Sep. de 1999 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2397-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+19 de Ene. de 2000 07 de Mar. de 2000 Suma 313-341 334-341","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2397-07","Nombre
+Marcos Aburto Ochoa
+Sergio Díez Urzua
+Juan Hamilton Depassier
+Hernán Larraín Fernández
+José Antonio Viera-Gallo Quesney","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2397-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2397-07","No record","Veto emmEnd"

@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 8631-06","Legislatura: 360
+Fecha de ingreso: miércoles 17 de octubre de 2012
+Estado: Segundo trámite constitucional .
+Numero de boletín: 8631-06
+Materia: Feriados
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 03:51:40
+* * Hitos de tramitación * *
+"emmStart Hitos 8631-06","Fecha Sesión Etapa Sub-etapa Documento
+17 de Oct. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+17 de Oct. de 2012 91ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior y Regionalización Ver
+13 de Nov. de 2012   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+14 de Nov. de 2012 99ª / 360 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Nov. de 2012 99ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+20 de Nov. de 2012   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+20 de Nov. de 2012 63ª / 360 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización
+20 de Nov. de 2012 63ª / 360 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8631-06","Fecha Etapa Informe Documento
+13 de Nov. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8631-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8631-06","Nombre Región Distrito Partido
+Gabriel Ascencio Mansilla X Región de los Lagos N°58 Partido Demócrata Cristiano
+Germán Becker Alvear IX Región de la Araucanía N°50 Renovación Nacional
+Pedro Browne Urrejola RM Región Metropolitana N°28 Renovación Nacional
+Cristián Campos Jara VIII Región del Bío Bío N°43 Partido Por la Democracia
+Eduardo Cerda García V Región de Valparaíso N°10 Partido Demócrata Cristiano
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Sergio Ojeda Uribe X Región de los Lagos N°55 Partido Demócrata Cristiano
+Ricardo Rincón González VI Región del Libertador Bernardo O' Higgins N°33 Partido Demócrata Cristiano
+Marcelo Schilling Rodríguez V Región de Valparaíso N°12 Partido Socialista
+Felipe Ward Edwards II Región de Antofagasta N°3 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8631-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+99   61 3 5 51 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8631-06","No record","Veto emmEnd"

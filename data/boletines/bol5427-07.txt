@@ -1,0 +1,34 @@
+* * Bill summary * *
+"emmStart Summary 5427-07","Legislatura: 355
+Fecha de ingreso: martes 30 de octubre de 2007
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 5427-07
+Materia: Pueblos Originarios,Reforma Constitucional
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 04:31:34
+* * Hitos de tramitación * *
+"emmStart Hitos 5427-07","Fecha Sesión Etapa Sub-etapa Documento
+30 de Oct. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+30 de Oct. de 2007 93ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+30 de Oct. de 2007 93ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 915-355 que hace presente la urgencia Simple Ver
+20 de Nov. de 2007   Primer trámite constitucional / C. Diputados  
+20 de Nov. de 2007 107ª / 355 Primer trámite constitucional / C. Diputados P. de la República retira el proyecto de la Cámara de Diputados. (1059-355). Ver
+21 de Nov. de 2007   Primer trámite constitucional / C. Diputados Oficio Nº7116. Devuelve antecedentes Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5427-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5427-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+30 de Oct. de 2007   Simple 915-355  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5427-07","Nombre Región Distrito Partido
+Ministerio de Justicia      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5427-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5427-07","No record","Veto emmEnd"

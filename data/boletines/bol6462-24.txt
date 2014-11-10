@@ -1,0 +1,55 @@
+* * Bill summary * *
+"emmStart Summary 6462-24","Legislatura: 357
+Fecha de ingreso: martes 14 de abril de 2009
+Estado: Discusión veto en Cámara Revisora .
+Numero de boletín: 6462-24
+Materia: Feriados,Dia Nacional Del Trabajador Forestal (3 De Mayo),Actividades En Los Establecimientos Educacionales
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 07:53:27
+* * Hitos de tramitación * *
+"emmStart Hitos 6462-24","Fecha Sesión Etapa Sub-etapa Documento
+14 de Abr. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+14 de Abr. de 2009 14ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de la Cultura y las Artes Ver
+15 de Jun. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+22 de Jun. de 2011 46ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+07 de Jul. de 2011 53ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+07 de Jul. de 2011   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+09 de May. de 2012   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+15 de May. de 2012 17ª / 360 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+13 de Jun. de 2012 26ª / 360 Segundo trámite constitucional / Senado Discusión general Ver
+13 de Jun. de 2012   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+14 de Jun. de 2012 43ª / 360 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+14 de Jun. de 2012   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+17 de Jul. de 2012 56ª / 360 Trámite de aprobacion presidencial / C. Diputados Ingreso de observaciones. Oficio N°163-360. Oficio de S. E. el Presidente de la República por el cual comunica que ha resuelto hacer uso de la facultad que le confiere el inciso primero del artículo 73 de la Constitución Política de la República respecto del proyecto. Ver Ver
+17 de Jul. de 2012 56ª / 360 Discusión veto en Cámara de Origen / C. Diputados Cuenta de observaciones. Pasa a Comisión de la Cultura y las Artes Ver
+21 de Abr. de 2014   Discusión veto en Cámara de Origen / C. Diputados Informe de comisión Ver
+22 de Abr. de 2014 16ª / 362 Discusión veto en Cámara de Origen / C. Diputados Cuenta informe de comisión Ver
+15 de May. de 2014 25ª / 362 Discusión veto en Cámara de Origen / C. Diputados Discusión veto. Aprobado . Ver
+15 de May. de 2014   Discusión veto en Cámara de Origen / C. Diputados Oficio aprobación veto a Cámara Revisora Ver
+20 de May. de 2014 19ª / 362 Discusión veto en Cámara Revisora / Senado Cuenta oficio aprobación veto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6462-24","Fecha Etapa Informe Documento
+21 de Abr. de 2014 Discusión veto en Cámara de Origen C.Diputados Informe de comisión de la Cultura y las Artes Ver
+09 de May. de 2012 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+15 de Jun. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de la Cultura y las Artes Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6462-24","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6462-24","Nombre Región Distrito Partido
+Alfonso De Urresti Longton XIV Región de los Ríos N°53 Partido Socialista
+Fidel Espinoza Sandoval X Región de los Lagos N°56 Partido Socialista
+Manuel Monsalve Benavides VIII Región del Bío Bío N°46 Partido Socialista
+Iván Norambuena Farías VIII Región del Bío Bío N°46 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6462-24","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+53   71 0 0 49 Aprobado Sala Ver detalle votación
+25 Veto Presidente de la República 93 0 1 26 Aprobado Sala Ver detalle votación
+45 Votación General 9 0 0 4   Cultura Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6462-24","No record","Veto emmEnd"

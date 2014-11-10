@@ -1,0 +1,55 @@
+* * Bill summary * *
+"emmStart Summary 3390-07","Legislatura: 350
+Fecha de ingreso: martes 28 de octubre de 2003
+Estado: Tramitación terminada (Ley Nº 19.942 - D.Oficial 15/04/2004)
+Numero de boletín: 3390-07
+Materia: Código De Procedimiento Penal,Código Procesal Penal
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 02:14:22
+* * Hitos de tramitación * *
+"emmStart Hitos 3390-07","Fecha Sesión Etapa Sub-etapa Documento
+28 de Oct. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+28 de Oct. de 2003 11ª / 350 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión Especial de Seguridad Ciudadana Ver
+05 de Nov. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Nov. de 2003 19ª / 350 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+20 de Nov. de 2003 24ª / 350 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+03 de Dic. de 2003   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+03 de Dic. de 2003 15ª / 350 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+16 de Dic. de 2003   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+17 de Dic. de 2003 20ª / 350 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+06 de Ene. de 2004 22ª / 350 Segundo trámite constitucional / Senado Discusión general Ver
+12 de Ene. de 2004   Segundo trámite constitucional / Senado Boletín de indicaciones
+09 de Mar. de 2004   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+09 de Mar. de 2004 37ª / 350 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+10 de Mar. de 2004 38ª / 350 Segundo trámite constitucional / Senado Discusión particular Ver
+10 de Mar. de 2004   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+11 de Mar. de 2004 58ª / 350 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+18 de Mar. de 2004 63ª / 350 Tercer trámite constitucional / C. Diputados Discusión única Ver
+18 de Mar. de 2004   Tercer trámite constitucional / C. Diputados Oficio Nº 4843, que comunica aprobación de modificaciones Ver
+18 de Mar. de 2004   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+30 de Mar. de 2004 41ª / 350 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 4843, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3390-07","Fecha Etapa Informe Documento
+09 de Mar. de 2004 Segundo trámite constitucional Senado Segundo informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+16 de Dic. de 2003 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+05 de Nov. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión Especial de Seguridad Ciudadana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3390-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+02 de Mar. de 2004   Simple 508-350  
+28 de Oct. de 2003   Simple 65-350  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3390-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3390-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+24 Indicación señor Burgos y otros 38 20 2 5   Sala Ver detalle votación
+63 Enmienda del Senado 50 1 2 0 Aprobado Sala Ver detalle votación
+24   67 0 0 0   Sala Ver detalle votación
+24 Indicación Sr. Luksic 41 24 2 0   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3390-07","No record","Veto emmEnd"

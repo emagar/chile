@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 4002-06","Legislatura: 353
+Fecha de ingreso: martes 04 de octubre de 2005
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 4002-06
+Materia: Elecciones
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 07:45:17
+* * Hitos de tramitación * *
+"emmStart Hitos 4002-06","Fecha Sesión Etapa Sub-etapa Documento
+04 de Oct. de 2005   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Oct. de 2005 46ª / 353 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+04 de Oct. de 2005   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+04 de Oct. de 2005 46ª / 353 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 313-353 que hace presente la urgencia Discusión inmediata Ver
+04 de Oct. de 2005 46ª / 353 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Gobierno Interior. Ver
+04 de Oct. de 2005 46ª / 353 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+04 de Oct. de 2005   Primer trámite constitucional / C. Diputados Oficio rechazo al Ejecutivo Ver
+11 de Oct. de 2005 49ª / 353 Primer trámite constitucional / C. Diputados P. de la Rep. comunica que no hará uso de facultad que le confiere el artículo 68 Constitución Política de la República. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4002-06","Fecha Etapa Informe Documento
+04 de Oct. de 2005 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4002-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Oct. de 2005   Discusión inmediata 313-353  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4002-06","Nombre Región Distrito Partido
+Ministerio de Interior y Seguridad Públi      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4002-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+46   56 3 4 3 Rechazado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4002-06","No record","Veto emmEnd"

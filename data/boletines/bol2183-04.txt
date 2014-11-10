@@ -1,0 +1,53 @@
+* * Bill summary * *
+"emmStart Summary 2183-04","Legislatura: 338
+Fecha de ingreso: miércoles 10 de junio de 1998
+Estado: Archivado .
+Numero de boletín: 2183-04
+Materia: Orgánica Constitucional De Enseñanza
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 21:49:15
+* * Hitos de tramitación * *
+"emmStart Hitos 2183-04","Fecha Sesión Etapa Sub-etapa Documento
+10 de Jun. de 1998   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Jun. de 1998 7ª / 338 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+12 de Ago. de 1998   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+01 de Sep. de 1998 30ª / 338 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+15 de Sep. de 1998 37ª / 338 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+16 de Sep. de 1998   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+06 de Oct. de 1998 1ª / 339 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+09 de Ene. de 2002   Segundo trámite constitucional / Senado Oficio Nº ED/01/02 de la Comisión de Educación, con el que propone el archivo del proyecto. Ver
+09 de Ene. de 2002 22ª / 345 Segundo trámite constitucional / Senado Cuenta del Oficio de la Comisión de Educación en el que propone archivo del proyecto. Se accede a lo solicitado, previo acuerdo de la Cámara de Diputados.
+13 de Mar. de 2002   Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 346
+02 de Abr. de 2002   Segundo trámite constitucional / Senado Oficio N°19578 a la Cámara de Diputados. Solicita acuerdo para archivar el proyecto. Ver
+03 de Abr. de 2002 7ª / 346 Segundo trámite constitucional / Senado Cuenta Oficio del Senado, solicita acuerdo para archivar el proyecto, por cuanto la materia fue tratada en la reforma constitucional de la Ley N°19.634. Queda en Tabla.
+21 de May. de 2002   Segundo trámite constitucional / Senado Oficio Nº 19.889. a la Cámara de Diputados en el que se reitera la solicitud de acuerdo para proceder al archivo del proyecto. Ver
+04 de Jun. de 2002 2ª / 347 Segundo trámite constitucional / Senado Cuenta en Cámara de Diputados de Oficio del Senado, reitera solicitud archivo de proyecto
+04 de Jun. de 2002   Segundo trámite constitucional / Senado Oficio al Senado, comunica que accede a archivo solicitado
+05 de Jun. de 2002 4ª / 347 Segundo trámite constitucional / Senado Archivado Cuenta oficio Cámara de Diputados, comunica que accedió a archivo propuesto.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2183-04","Fecha Etapa Informe Documento
+12 de Ago. de 1998 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2183-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2183-04","Nombre Región Distrito Partido
+Homero Gutiérrez Román VII Región del Maule N°37 Partido Demócrata Cristiano
+Enrique Krauss Rusque RM Región Metropolitana N°22 Partido Demócrata Cristiano
+Rosauro Martínez Labbé VIII Región del Bío Bío N°41 Independientes
+Gutenberg Martínez Ocamica RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Sergio Ojeda Uribe X Región de los Lagos N°55 Partido Demócrata Cristiano
+Antonella Sciaraffia Estrada I Región de Tarapacá N°2 Partido Demócrata Cristiano
+Felipe Valenzuela Herrera II Región de Antofagasta N°4 Partido Socialista
+Sergio Velasco De la Cerda V Región de Valparaíso N°15 Partido Demócrata Cristiano
+Edmundo Villouta Concha IX Región de la Araucanía N°48 Partido Demócrata Cristiano
+Patricio Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2183-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2183-04","No record","Veto emmEnd"

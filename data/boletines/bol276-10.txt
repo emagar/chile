@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 276-10","Legislatura: 321
+Fecha de ingreso: miércoles 16 de enero de 1991
+Estado: Tramitación terminada (D.S. Nº 685 - D.Oficial 13/10/1992)
+Numero de boletín: 276-10
+Materia: Acuerdos Internacionales,Desechos Peligrosos
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 13:54:22
+* * Hitos de tramitación * *
+"emmStart Hitos 276-10","Fecha Sesión Etapa Sub-etapa Documento
+16 de Ene. de 1991   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+16 de Ene. de 1991 34ª / 321 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+17 de Mar. de 1992 43ª / 323 Primer trámite constitucional / Senado Primer informe de comisión Ver
+17 de Mar. de 1992 43ª / 323 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+17 de Mar. de 1992 43ª / 323 Primer trámite constitucional / Senado Discusión general Ver
+17 de Mar. de 1992 43ª / 323 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+19 de Mar. de 1992 57ª / 323 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+29 de Abr. de 1992   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de May. de 1992 72ª / 323 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+12 de May. de 1992   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen
+12 de May. de 1992 73ª / 323 Segundo trámite constitucional / C. Diputados Discusión general Ver
+13 de May. de 1992 59ª / 323 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+14 de May. de 1992 59ª / 323 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 276-10","Fecha Etapa Informe Documento
+29 de Abr. de 1992 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+17 de Mar. de 1992 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 276-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+10 de Mar. de 1992   Simple 10/03/1992  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 276-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 276-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 276-10","No record","Veto emmEnd"

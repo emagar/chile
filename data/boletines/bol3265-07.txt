@@ -1,0 +1,59 @@
+* * Bill summary * *
+"emmStart Summary 3265-07","Legislatura: 349
+Fecha de ingreso: jueves 19 de junio de 2003
+Estado: Tramitación terminada (Ley Nº 19.893 - D.Oficial 13/08/2003)
+Numero de boletín: 3265-07
+Materia: Ministerio Público
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 00:56:31
+* * Hitos de tramitación * *
+"emmStart Hitos 3265-07","Fecha Sesión Etapa Sub-etapa Documento
+19 de Jun. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+19 de Jun. de 2003 10ª / 349 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+19 de Jun. de 2003   Primer trámite constitucional / C. Diputados Oficio Nº4373 a la Corte Suprema Ver
+01 de Jul. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+02 de Jul. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de Jul. de 2003 14ª / 349 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+08 de Jul. de 2003 14ª / 349 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+08 de Jul. de 2003   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+08 de Jul. de 2003 9ª / 349 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+09 de Jul. de 2003 11ª / 349 Segundo trámite constitucional / Senado Se autoriza a la Comisión de Const., Leg., Justicia y Rgto. para informar en general y en particular el proyecto y, a continuación emitirá su informe la Comisión de hacienda.
+15 de Jul. de 2003   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+15 de Jul. de 2003 17ª / 349 Primer trámite constitucional / C. Diputados Cuenta Oficio de Corte Suprema, remite opinión solicitada Ver Ver
+16 de Jul. de 2003   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+16 de Jul. de 2003 13ª / 349 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+16 de Jul. de 2003 14ª / 349 Segundo trámite constitucional / Senado Discusión general Ver
+17 de Jul. de 2003   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+17 de Jul. de 2003 19ª / 349 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+18 de Jul. de 2003   Trámite de aprobacion presidencial / C. Diputados Oficio Nº 4435. al Ejecutivo, comunica proyecto aprobado para los efectos del artículo 70 de la Constitución Política del Estado. Ver
+23 de Jul. de 2003   Trámite en Tribunal Constitucional / C. Diputados Oficio Nº 4448 al Tribunal Constitucional Ver
+29 de Jul. de 2003 20ª / 349 Trámite de aprobacion presidencial / C. Diputados Cuenta Oficio S.E. el Presidente de la República, manifiesta que ha resuelto no hacer uso de la facultad que le confiere el inciso primero del artículo 70 de la Constitución Política de la República Ver Ver
+31 de Jul. de 2003   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+05 de Ago. de 2003 24ª / 349 Trámite en Tribunal Constitucional / C. Diputados Cuenta Oficio de Tribunal Constitucional, remite sentencia recaída en proyecto Ver Ver
+05 de Ago. de 2003 24ª / 349 Trámite en Tribunal Constitucional / C. Diputados Cuenta oficio N? 1921 del Tribunal Constitucional Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3265-07","Fecha Etapa Informe Documento
+16 de Jul. de 2003 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+15 de Jul. de 2003 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+02 de Jul. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+01 de Jul. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3265-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+08 de Jul. de 2003   Suma 96-349  
+08 de Jul. de 2003   Sin urgencia 31-349  
+01 de Jul. de 2003 08 de Jul. de 2003 Simple 82-349 96-349","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3265-07","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3265-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+14 1º, 2º, 3º y 1º transitorio 93 0 0 3   Sala Ver detalle votación
+14 Todo menos arts. 1, 2, 3 y 1º transitorio 101 0 0 0   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3265-07","No record","Veto emmEnd"

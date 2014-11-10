@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 4954-14","Legislatura: 355
+Fecha de ingreso: miércoles 04 de abril de 2007
+Estado: Primer trámite constitucional .
+Numero de boletín: 4954-14 Refundido con: 5062-14,6206-14,4610-14,5277-14,4805-14,6145-14
+Materia: Administradores De Condominios,Rendición De Cuentas ,Copropiedad Inmobiliaria
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 23:00:10
+* * Hitos de tramitación * *
+"emmStart Hitos 4954-14","Fecha Sesión Etapa Sub-etapa Documento
+04 de Abr. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Abr. de 2007 9ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Vivienda y Desarrollo Urbano Ver
+18 de Mar. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+31 de Mar. de 2009 6ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Vivienda. EN ESTADO DE TABLA. Ver
+14 de May. de 2009 30ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+14 de Oct. de 2009 91ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1345-357 que hace presente la urgencia Simple Ver
+14 de Oct. de 2009 91ª / 357 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general Pasa a Segundo Informe. Ver
+03 de Nov. de 2009 97ª / 357 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 1460-357 que retira urgencia que hiciera presente Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4954-14","Fecha Etapa Informe Documento
+18 de Mar. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Vivienda y Desarrollo Urbano Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4954-14","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+03 de Nov. de 2009   Simple 1460-357  
+14 de Oct. de 2009 03 de Nov. de 2009 Simple 1345-357 1460-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4954-14","Nombre Región Distrito Partido
+Pedro Pablo Alvarez-Salamanca Büchi VII Región del Maule N°38 Renovación Nacional
+Francisco Chahuán Chahuán V Región de Valparaíso N°14 Renovación Nacional
+Rosauro Martínez Labbé VIII Región del Bío Bío N°41 Renovación Nacional
+Osvaldo Palma Flores VII Región del Maule N°39 Renovación Nacional
+Karla Rubilar Barahona RM Región Metropolitana N°17 Renovación Nacional
+Roberto Sepúlveda Hermosilla RM Región Metropolitana N°20 Renovación Nacional
+Ximena Valcarce Becerra XV Región Arica y Parinacota N°1 Renovación Nacional
+Germán Verdugo Soto VII Región del Maule N°37 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4954-14","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+88 Votación General 8 0 0 4   Vivienda Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4954-14","No record","Veto emmEnd"

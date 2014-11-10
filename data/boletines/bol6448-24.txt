@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 6448-24","Legislatura: 357
+Fecha de ingreso: miércoles 08 de abril de 2009
+Estado: Primer trámite constitucional .
+Numero de boletín: 6448-24
+Materia: Dia Nacional De Las Regiones (31 De Marzo),Feriados
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 07:43:46
+* * Hitos de tramitación * *
+"emmStart Hitos 6448-24","Fecha Sesión Etapa Sub-etapa Documento
+08 de Abr. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+08 de Abr. de 2009 12ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de la Cultura y las Artes Ver
+20 de Ene. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de Mar. de 2010 123ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+10 de Mar. de 2010 125ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver
+18 de Mar. de 2010 4ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6448-24","Fecha Etapa Informe Documento
+20 de Ene. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de la Cultura y las Artes Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6448-24","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6448-24","Nombre Región Distrito Partido
+Germán Becker Alvear IX Región de la Araucanía N°50 Renovación Nacional
+Mario Bertolino Rendic IV Región de Coquimbo N°7 Renovación Nacional
+Roberto Delmastro Naso XIV Región de los Ríos N°53 Renovación Nacional
+Pablo Galilea Carrillo XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Renovación Nacional
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Marta Isasi Barbieri I Región de Tarapacá N°2 Independientes
+Osvaldo Palma Flores VII Región del Maule N°39 Renovación Nacional
+Ximena Valcarce Becerra XV Región Arica y Parinacota N°1 Renovación Nacional
+Alfonso Vargas Lyng V Región de Valparaíso N°10 Renovación Nacional
+Germán Verdugo Soto VII Región del Maule N°37 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6448-24","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+46 Votación General 4 0 0 9   Cultura Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6448-24","No record","Veto emmEnd"

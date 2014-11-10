@@ -1,0 +1,32 @@
+* * Bill summary * *
+"emmStart Summary 3440-13","Legislatura: 350
+Fecha de ingreso: miércoles 07 de enero de 2004
+Estado: Primer trámite constitucional .
+Numero de boletín: 3440-13
+Materia: Feriados
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 02:45:24
+* * Hitos de tramitación * *
+"emmStart Hitos 3440-13","Fecha Sesión Etapa Sub-etapa Documento
+07 de Ene. de 2004   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+07 de Ene. de 2004 39ª / 350 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3440-13","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3440-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3440-13","Nombre Región Distrito Partido
+Pedro Pablo Alvarez-Salamanca Büchi VII Región del Maule N°38 Renovación Nacional
+Roberto Delmastro Naso X Región de los Lagos N°53 Independientes
+Rosauro Martínez Labbé VIII Región del Bío Bío N°41 Renovación Nacional
+Nicolás Monckeberg Díaz VIII Región del Bío Bío N°42 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3440-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3440-13","No record","Veto emmEnd"

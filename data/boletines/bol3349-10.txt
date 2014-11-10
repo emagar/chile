@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 3349-10","Legislatura: 349
+Fecha de ingreso: martes 09 de septiembre de 2003
+Estado: Tramitación terminada (D.S. Nº 37 - D.Oficial 19/05/2005)
+Numero de boletín: 3349-10
+Materia: Acuerdos Internacionales
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 01:47:05
+* * Hitos de tramitación * *
+"emmStart Hitos 3349-10","Fecha Sesión Etapa Sub-etapa Documento
+09 de Sep. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+09 de Sep. de 2003 38ª / 349 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+14 de Oct. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+29 de Oct. de 2003 12ª / 350 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+04 de Dic. de 2003 27ª / 350 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+04 de Dic. de 2003   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+09 de Dic. de 2003 17ª / 350 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+13 de Jul. de 2004   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+14 de Jul. de 2004 12ª / 351 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+20 de Jul. de 2004 13ª / 351 Segundo trámite constitucional / Senado Discusión única
+20 de Jul. de 2004   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+21 de Jul. de 2004 18ª / 351 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+21 de Jul. de 2004   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3349-10","Fecha Etapa Informe Documento
+13 de Jul. de 2004 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+14 de Oct. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3349-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+13 de Jul. de 2004   Simple 161-351  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3349-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3349-10","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+27   59 0 0 0   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3349-10","No record","Veto emmEnd"

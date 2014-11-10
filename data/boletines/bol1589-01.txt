@@ -1,0 +1,57 @@
+* * Bill summary * *
+"emmStart Summary 1589-01","Legislatura: 330
+Fecha de ingreso: jueves 11 de mayo de 1995
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 1589-01 Refundido con: 2023-01
+Materia: Obras De Riego Y Drenaje,Instituto De Desarrollo Agropecuario,Indap (Chile)
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 11:04:53
+* * Hitos de tramitación * *
+"emmStart Hitos 1589-01","Fecha Sesión Etapa Sub-etapa Documento
+11 de May. de 1995   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+11 de May. de 1995 69ª / 330 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+15 de Jul. de 1997   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+13 de Ago. de 1997 32ª / 335 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+02 de Sep. de 1997 37ª / 335 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+04 de Sep. de 1997   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora
+09 de Sep. de 1997 32ª / 335 Segundo trámite constitucional / Senado Cuenta de proyecto
+19 de Jul. de 2000   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+19 de Jul. de 2000 12ª / 342 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión. Pasa a Comisión de Agricultura
+06 de Sep. de 2000 22ª / 342 Segundo trámite constitucional / Senado Discusión general Ver
+11 de Sep. de 2000   Segundo trámite constitucional / Senado Oficio rechazo a Cámara de Origen Ver
+12 de Sep. de 2000 37ª / 342 Comisión Mixta por rechazo de idea de legislar / Senado Cuenta oficio rechazo de Cámara Revisora
+04 de Oct. de 2000 2ª / 343 Comisión Mixta por rechazo de idea de legislar / Senado Cuenta oficio integrantes de Comisión Mixta
+14 de Jun. de 2001   Comisión Mixta por rechazo de idea de legislar / Senado Informe de Comisión Mixta Ver
+19 de Jun. de 2001 7ª / 344 Disc. informe C.Mixta por rechazo idea de legislar C. Origen / C. Diputados Cuenta informe Comisión Mixta Ver
+07 de Ago. de 2001 24ª / 344 Disc. informe C.Mixta por rechazo idea de legislar C. Origen / C. Diputados Discusión informe de Comisión Mixta Ver
+07 de Ago. de 2001   Disc. informe C.Mixta por rechazo idea de legislar C. Origen / C. Diputados Oficio aprobación de informe de Comisión Mixta a C. Revisora Ver
+08 de Ago. de 2001 21ª / 344 Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / Senado Cuenta oficio aprobación de informe de Comisión Mixta
+14 de Ago. de 2001 22ª / 344 Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / Senado Discusión informe de Comisión Mixta. Aprobado Proponiendo rechazo se Aprueba
+14 de Ago. de 2001   Disc. Informe C.Mixta por rechazo idea de legislar C. Revis. / Senado Oficio aprobación de informe de Comisión Mixta a C.de Origen Ver
+14 de Ago. de 2001 27ª / 344 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación de informe de Comisión Mixta. Se rechaza el proyecto Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1589-01","Fecha Etapa Informe Documento
+14 de Jun. de 2001 Comisión Mixta por rechazo de idea de legislar Senado Informe de Comisión Mixta Comisión Mixta para Boletín Nº 1589-01 Ver
+19 de Jul. de 2000 Segundo trámite constitucional Senado Primer informe de comisión de Agricultura Ver
+15 de Jul. de 1997 Primer trámite constitucional C.Diputados Primer informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1589-01","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1589-01","Nombre Región Distrito Partido
+Mario Acuña Cisternas Región N°52 Partido Demócrata Cristiano
+José María Hurtado Ruiz-Tagle Región N°35 Renovación Nacional
+Eugenio Munizaga Rodriguez Región N°7 Renovación Nacional
+Joaquín Palma Irarrázaval Región N°7 Partido Demócrata Cristiano
+Baldo Prokurica Prokurica Región N°6 Renovación Nacional
+Claudio Rodríguez Cataldo Región N°11 Renovación Nacional
+Carlos Vilches Guzmán Región N°5 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1589-01","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1589-01","No record","Veto emmEnd"

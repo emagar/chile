@@ -1,0 +1,39 @@
+* * Bill summary * *
+"emmStart Summary 3314-04","Legislatura: 349
+Fecha de ingreso: martes 12 de agosto de 2003
+Estado: Tramitación terminada (Ley Nº 19.899 - D.Oficial 18/08/2003)
+Numero de boletín: 3314-04
+Materia: Universidades
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 04-11-2014 01:25:58
+* * Hitos de tramitación * *
+"emmStart Hitos 3314-04","Fecha Sesión Etapa Sub-etapa Documento
+12 de Ago. de 2003   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+12 de Ago. de 2003 23ª / 349 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+12 de Ago. de 2003 24ª / 349 Primer trámite constitucional / Senado Discusión general. Aprobado en general y particular a la vez (Informe verbal de comisiones de Educación y Hacienda, unidas) Ver
+12 de Ago. de 2003   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+13 de Ago. de 2003 29ª / 349 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+13 de Ago. de 2003   Segundo trámite constitucional / C. Diputados Primer informe de comisión. y de Hacienda, unidas. Ver
+13 de Ago. de 2003 29ª / 349 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de Ago. de 2003 29ª / 349 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+13 de Ago. de 2003   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+13 de Ago. de 2003 26ª / 349 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+13 de Ago. de 2003   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3314-04","Fecha Etapa Informe Documento
+13 de Ago. de 2003 Segundo trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3314-04","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+12 de Ago. de 2003   Discusión inmediata 169-349  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3314-04","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3314-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3314-04","No record","Veto emmEnd"

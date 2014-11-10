@@ -1,0 +1,34 @@
+* * Bill summary * *
+"emmStart Summary 417-10","Legislatura: 322
+Fecha de ingreso: martes 16 de julio de 1991
+Estado: Tramitación terminada (D.S. Nº 1.076 - D.Oficial 18/10/1991)
+Numero de boletín: 417-10
+Materia: Parlamento Latinoamericano,Parlamentarios
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 17:01:44
+* * Hitos de tramitación * *
+"emmStart Hitos 417-10","Fecha Sesión Etapa Sub-etapa Documento
+16 de Jul. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+16 de Jul. de 1991 20ª / 322 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+23 de Jul. de 1991 20ª / 322 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores y a Comisión de Hacienda
+24 de Jul. de 1991   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+24 de Jul. de 1991 21ª / 322 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión. Por acuerdo de la Sala se exime de la Comisión de Hacienda. Queda para Tabla. En discusión, aprobado.
+24 de Jul. de 1991   Segundo trámite constitucional / Senado Primer informe de comisión Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 417-10","Fecha Etapa Informe Documento
+24 de Jul. de 1991 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 417-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+16 de Jul. de 1991   Discusión inmediata    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 417-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 417-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 417-10","No record","Veto emmEnd"

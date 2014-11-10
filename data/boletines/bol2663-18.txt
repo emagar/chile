@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 2663-18","Legislatura: 343
+Fecha de ingreso: jueves 18 de enero de 2001
+Estado: Archivado .
+Numero de boletín: 2663-18
+Materia: Filiación
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 08:14:10
+* * Hitos de tramitación * *
+"emmStart Hitos 2663-18","Fecha Sesión Etapa Sub-etapa Documento
+18 de Ene. de 2001   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+18 de Ene. de 2001 38ª / 343 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Familia Ver
+09 de Ago. de 2005 27ª / 353 Primer trámite constitucional / C. Diputados Cuenta Oficio Com. de Familia, solicita archivo de proyecto. Sala accede al archivo solicitado Ver
+09 de Ago. de 2005   Primer trámite constitucional / C. Diputados Archivado
+28 de Ago. de 2007 67ª / 355 Archivado / Diputado señor Ceroni y Diputada señora Saa solicitan el desarchivo del proyecto. NO HAY ACUERDO.
+15 de Ene. de 2008 130ª / 355 Archivado / Diputado señor Ceroni solicita desarchivo del proyecto. APROBADO.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2663-18","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2663-18","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2663-18","Nombre Región Distrito Partido
+Juan Bustos Ramírez V Región de Valparaíso N°12 Partido Socialista
+Guillermo Ceroni Fuentes VII Región del Maule N°40 Partido Por la Democracia
+Luis Monge Sánchez IX Región de la Araucanía N°48 Independientes
+Jaime Mulet Martínez III Región de Atacama N°6 Partido Demócrata Cristiano
+Adriana Muñoz D'Albora IV Región de Coquimbo N°9 Partido Por la Democracia
+Marina Prochelle Aguilar X Región de los Lagos N°55 Independientes
+María Antonieta Saa Díaz RM Región Metropolitana N°17 Partido Por la Democracia
+Antonella Sciaraffia Estrada I Región de Tarapacá N°2 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2663-18","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+130   45 0 3 72 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2663-18","No record","Veto emmEnd"

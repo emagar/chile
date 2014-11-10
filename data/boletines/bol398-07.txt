@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 398-07","Legislatura: 322
+Fecha de ingreso: jueves 04 de julio de 1991
+Estado: Tramitación terminada (Ley Nº 19.329 - D.Oficial 05/09/1994)
+Numero de boletín: 398-07
+Materia: Vigilantes Privados
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 16:45:39
+* * Hitos de tramitación * *
+"emmStart Hitos 398-07","Fecha Sesión Etapa Sub-etapa Documento
+04 de Jul. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Jul. de 1991 15ª / 322 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+04 de Ago. de 1992 14ª / 324 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+05 de Jul. de 1994   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+06 de Jul. de 1994 10ª / 329 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+21 de Jul. de 1994 15ª / 329 Segundo trámite constitucional / Senado Discusión general Ver
+25 de Jul. de 1994   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 398-07","Fecha Etapa Informe Documento
+05 de Jul. de 1994 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 398-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 398-07","Nombre Región Distrito Partido
+Mario Acuña Cisternas Región N° Partido Demócrata Cristiano
+Alberto Espina Otero Región N° Renovación Nacional
+Angel Fantuzzi Hernandez Región N° Renovación Nacional
+Juan Carlos Latorre Carmona Región N° Partido Demócrata Cristiano
+Hugo Francisco Rodriguez Guerrero Región N° Partido Demócrata Cristiano
+Raúl Urrutia Avila Región N° Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 398-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 398-07","No record","Veto emmEnd"

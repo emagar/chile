@@ -1,0 +1,39 @@
+* * Bill summary * *
+"emmStart Summary 2056-04","Legislatura: 335
+Fecha de ingreso: miércoles 09 de julio de 1997
+Estado: Tramitación terminada (Ley Nº 19.509 - D.Oficial 12/08/1997)
+Numero de boletín: 2056-04
+Materia: Profesionales De La Educación,Protección Recíproca De Inversiones
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 18:09:55
+* * Hitos de tramitación * *
+"emmStart Hitos 2056-04","Fecha Sesión Etapa Sub-etapa Documento
+09 de Jul. de 1997 17ª / 335 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+09 de Jul. de 1997   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+09 de Jul. de 1997   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+10 de Jul. de 1997   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+10 de Jul. de 1997 18ª / 335 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+10 de Jul. de 1997   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora
+10 de Jul. de 1997 18ª / 335 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+15 de Jul. de 1997 16ª / 335 Segundo trámite constitucional / Senado Cuenta en el Senado. Pasa a la Comisión de Educación, Cultura, Ciencia y Tecnología y a la Comisión de Hacienda, en su caso.
+16 de Jul. de 1997 17ª / 335 Segundo trámite constitucional / Senado Cuenta del informe de la Comisión de Educación, Cultura, Ciencia y Tecnología y de la Hacienda. Quedan para tabla.
+17 de Jul. de 1997 18ª / 335 Segundo trámite constitucional / Senado La Sala lo aprueba en general y en particular. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2056-04","Fecha Etapa Informe Documento
+10 de Jul. de 1997 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+09 de Jul. de 1997 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2056-04","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+09 de Jul. de 1997   Discusión inmediata    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2056-04","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2056-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2056-04","No record","Veto emmEnd"

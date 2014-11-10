@@ -1,0 +1,31 @@
+* * Bill summary * *
+"emmStart Summary 1956-10","Legislatura: 334
+Fecha de ingreso: martes 10 de diciembre de 1996
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 1956-10
+Materia: Límites Fronterizos,Zonas Fronterizas
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 16:47:14
+* * Hitos de tramitación * *
+"emmStart Hitos 1956-10","Fecha Sesión Etapa Sub-etapa Documento
+10 de Dic. de 1996   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+10 de Dic. de 1996 14ª / 334 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana
+06 de Oct. de 1998   Primer trámite constitucional / Senado S.E.El Presidente de la República incluye el proyecto en la Convocatoria Extraodinaria 339
+05 de Ene. de 1999   Primer trámite constitucional / Senado Oficio de S.E. el Presidente de la República, comunicando retiro del proyecto.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1956-10","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1956-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+10 de Dic. de 1996 16 de Sep. de 1998 Sin urgencia   CADUCADO","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1956-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1956-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1956-10","No record","Veto emmEnd"

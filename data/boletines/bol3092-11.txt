@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 3092-11","Legislatura: 348
+Fecha de ingreso: jueves 10 de octubre de 2002
+Estado: Archivado .
+Numero de boletín: 3092-11
+Materia: Código Sanitario
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 23:04:14
+* * Hitos de tramitación * *
+"emmStart Hitos 3092-11","Fecha Sesión Etapa Sub-etapa Documento
+10 de Oct. de 2002   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Oct. de 2002 6ª / 348 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver
+11 de Nov. de 2004   Primer trámite constitucional / C. Diputados Se solicita su archivo Cuenta, Oficio de la Comisión de Salud por el cual solicita el archivo del proyecto, por tratarse de materias reguladas en el decreto N° 216, de 2003, del Ministerio de Salud
+11 de Nov. de 2004   Primer trámite constitucional / C. Diputados Archivado Se accede a la solicitud de la Comisión, en orden a archivar el proyecto (Of. 5253 de 11.11.04 al Presidente de la Comisión)","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3092-11","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3092-11","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3092-11","Nombre Región Distrito Partido
+Mario Escobar Urbina II Región de Antofagasta N°3 Unión Demócrata Independiente
+Marcelo Forni Lobos V Región de Valparaíso N°11 Unión Demócrata Independiente
+José Antonio Kast Rist RM Región Metropolitana N°30 Unión Demócrata Independiente
+Pablo Longueira Montes RM Región Metropolitana N°17 Unión Demócrata Independiente
+Carlos Recondo Lavanderos X Región de los Lagos N°56 Unión Demócrata Independiente
+Gonzalo Uriarte Herrera RM Región Metropolitana N°31 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3092-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3092-11","No record","Veto emmEnd"

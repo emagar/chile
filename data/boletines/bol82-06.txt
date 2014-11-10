@@ -1,0 +1,56 @@
+* * Bill summary * *
+"emmStart Summary 82-06","Legislatura: 320
+Fecha de ingreso: martes 12 de junio de 1990
+Estado: Tramitación terminada (Ley Nº 19.154 - D.Oficial 03/08/1992)
+Numero de boletín: 82-06
+Materia: Administración Pública
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 30-10-2014 17:33:58
+* * Hitos de tramitación * *
+"emmStart Hitos 82-06","Fecha Sesión Etapa Sub-etapa Documento
+06 de Jun. de 1990 6ª / 320 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+12 de Jun. de 1990   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Jun. de 1990 6ª / 320 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+09 de Ago. de 1990   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+31 de Ago. de 1990   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+15 de Ene. de 1991 33ª / 321 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización y a Comisión de Hacienda
+23 de Abr. de 1991 46ª / 321 Segundo trámite constitucional / Senado En discusión. Se acuerdo remitir el proyecto a las Comisiones de Gobierno, Descentralización y Regionalización y de Hacienda, unidas, para nuevo informe. Ver
+23 de Abr. de 1991 46ª / 321 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+15 de May. de 1991   Segundo trámite constitucional / Senado Se acuerda que el proyecto sea estudiado por la Comisión de Gobierno, Descentralización y Regionalización y por la de Hacienda, en su caso.
+21 de Nov. de 1991   Segundo trámite constitucional / Senado Nuevo primer informe de comisión Ver
+16 de Dic. de 1991   Segundo trámite constitucional / Senado Nuevo primer informe de comisión Ver
+17 de Dic. de 1991 27ª / 323 Segundo trámite constitucional / Senado Aprobado en general. Ver
+17 de Dic. de 1991 27ª / 323 Segundo trámite constitucional / Senado Cuenta nuevo primer informe
+20 de Mar. de 1992   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+24 de Mar. de 1992 45ª / 323 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+31 de Mar. de 1992 47ª / 323 Segundo trámite constitucional / Senado Discusión particular Ver
+02 de Abr. de 1992   Segundo trámite constitucional / Senado Oficio Nº3057. Oficio a la Cámara de Diputados comunicando la aprobación del proyecto, con modificaciones. Ver
+12 de May. de 1992 58ª / 323 Segundo trámite constitucional / Senado Cuenta de oficio de la Cámara de Diputados, comunicando rechazo de las enmiendas del Senado y formación de Comisión Mixta. Se toma conocimiento y se designa como integrantes a los miembros de la Comisión de Gobierno.
+13 de May. de 1992   Segundo trámite constitucional / Senado Oficio Nº3146. Oficio a la Cámara de Diputados comunicando la designación de los Senadores miembros de la Comisión de Gobierno, Descentralización y Regionalización para que integren la Comisión Mixta. Ver
+27 de May. de 1992   Comisión Mixta por rechazo de modificaciones / Senado Informe de Comisión Mixta Ver
+10 de Jun. de 1992 4ª / 324 Comisión Mixta por rechazo de modificaciones / Senado Cuenta de oficio de la Cámara de Diputados, mediante el cual comunica aprobación del informe de la Comisión Mixta.
+30 de Jun. de 1992 6ª / 324 Comisión Mixta por rechazo de modificaciones / Senado Se aprueba el informe de la Comisión Mixta.
+01 de Jul. de 1992   Comisión Mixta por rechazo de modificaciones / Senado Oficio Nº3278. Oficio a la Cámara de Diputados comunicando la aprobación de la proposición de la Comisión Mixta. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 82-06","Fecha Etapa Informe Documento
+27 de May. de 1992 Comisión Mixta por rechazo de modificaciones Senado Informe de Comisión Mixta de Gobierno, Descentralización y Regionalización Ver
+20 de Mar. de 1992 Segundo trámite constitucional Senado Segundo informe de comisión de Gobierno, Descentralización y Regionalización Ver
+16 de Dic. de 1991 Segundo trámite constitucional Senado Nuevo primer informe de comisión de Hacienda Ver
+21 de Nov. de 1991 Segundo trámite constitucional Senado Nuevo primer informe de comisión de Gobierno, Descentralización y Regionalización Ver
+31 de Ago. de 1990 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+09 de Ago. de 1990 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 82-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+06 de Jun. de 1990   Simple    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 82-06","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 82-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 82-06","No record","Veto emmEnd"

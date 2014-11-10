@@ -1,0 +1,52 @@
+* * Bill summary * *
+"emmStart Summary 6560-10","Legislatura: 357
+Fecha de ingreso: martes 09 de junio de 2009
+Estado: Tramitación terminada (D.S. N° 104 - D.Oficial 01/08/2009)
+Numero de boletín: 6560-10
+Materia: Estatuto De Roma De La Corte Penal Internacional,Corte Penal Internacional
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 08-11-2014 09:24:08
+* * Hitos de tramitación * *
+"emmStart Hitos 6560-10","Fecha Sesión Etapa Sub-etapa Documento
+09 de Jun. de 2009   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+09 de Jun. de 2009 24ª / 357 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores. Se remite el proyecto a la Corte Suprema.
+09 de Jun. de 2009   Primer trámite constitucional / Senado Oficio Nº495/SEC/09 a la Corte Suprema Ver
+09 de Jun. de 2009   Primer trámite constitucional / Senado Primer informe de comisión Ver
+09 de Jun. de 2009 24ª / 357 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Jun. de 2009 25ª / 357 Primer trámite constitucional / Senado Discusión general Ver
+10 de Jun. de 2009   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+11 de Jun. de 2009 40ª / 357 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+17 de Jun. de 2009   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Jun. de 2009 43ª / 357 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+17 de Jun. de 2009 43ª / 357 Segundo trámite constitucional / C. Diputados Discusión general Ver
+17 de Jun. de 2009   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+17 de Jun. de 2009 28ª / 357 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+18 de Jun. de 2009   Trámite en Tribunal Constitucional / Senado Oficio N° 547/SEC/09 al Tribunal Constitucional Ver
+24 de Jun. de 2009   Trámite en Tribunal Constitucional / Senado Ingreso fallo del Tribunal Constitucional Ver
+25 de Jun. de 2009   Trámite en Tribunal Constitucional / Senado Oficio de ley al Ejecutivo Ver
+30 de Jun. de 2009 29ª / 357 Trámite en Tribunal Constitucional / Senado Cuenta oficio N° 157 de la Corte Suprema Ver
+30 de Jun. de 2009 29ª / 357 Trámite en Tribunal Constitucional / Senado Cuenta fallo del Tribunal Constitucional
+02 de Jul. de 2009 48ª / 357 Trámite en Tribunal Constitucional / Senado Cuenta oficio N° 3195 del Tribunal Constitucional Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6560-10","Fecha Etapa Informe Documento
+17 de Jun. de 2009 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+09 de Jun. de 2009 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6560-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+09 de Jun. de 2009   Suma 521-357  
+09 de Jun. de 2009   Suma 521-357  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6560-10","Nombre
+Ministerio de Justicia
+Ministerio de Relaciones Exteriores","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6560-10","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+43   79 9 1 31 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6560-10","No record","Veto emmEnd"

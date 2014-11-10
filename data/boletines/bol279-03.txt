@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 279-03","Legislatura: 321
+Fecha de ingreso: jueves 17 de enero de 1991
+Estado: Tramitación terminada (Ley Nº 19.043 - D.Oficial 31/01/1991)
+Numero de boletín: 279-03
+Materia: Acuicultura
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 13:56:50
+* * Hitos de tramitación * *
+"emmStart Hitos 279-03","Fecha Sesión Etapa Sub-etapa Documento
+17 de Ene. de 1991 35ª / 321 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+17 de Ene. de 1991 35ª / 321 Primer trámite constitucional / Senado Cuenta de proyecto. La Sala acuerda eximir este proyecto del trámite de Comisión.
+17 de Ene. de 1991 35ª / 321 Primer trámite constitucional / Senado Discusión única. Aprobado.
+17 de Ene. de 1991   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+22 de Ene. de 1991 31ª / 321 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+22 de Ene. de 1991   Primer trámite constitucional / Senado Primer informe de comisión Ver
+05 de Mar. de 1991 36ª / 321 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+05 de Mar. de 1991 36ª / 321 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 279-03","Fecha Etapa Informe Documento
+22 de Ene. de 1991 Primer trámite constitucional C.Diputados Primer informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 279-03","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+15 de Ene. de 1991   Discusión inmediata 17/01/91  
+15 de Ene. de 1991   Discusión inmediata 17/11/1991  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 279-03","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 279-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 279-03","No record","Veto emmEnd"

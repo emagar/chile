@@ -1,0 +1,58 @@
+* * Bill summary * *
+"emmStart Summary 2921-15","Legislatura: 346
+Fecha de ingreso: martes 07 de mayo de 2002
+Estado: Tramitación terminada (Ley Nº 19.841 - D.Oficial 19/12/2002)
+Numero de boletín: 2921-15
+Materia: Juzgados De Policía Local,Tránsito
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 03-11-2014 18:18:29
+* * Hitos de tramitación * *
+"emmStart Hitos 2921-15","Fecha Sesión Etapa Sub-etapa Documento
+07 de May. de 2002   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+07 de May. de 2002 12ª / 346 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones
+07 de May. de 2002   Primer trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 346
+12 de Jun. de 2002   Primer trámite constitucional / Senado Primer informe de comisión Ver
+18 de Jun. de 2002 7ª / 347 Primer trámite constitucional / Senado Cuenta de Primer Informe de Comisión de Transportes y Telecomunicaciones
+19 de Jun. de 2002 9ª / 347 Primer trámite constitucional / Senado Discusión general Ver
+09 de Jul. de 2002   Primer trámite constitucional / Senado Boletín de indicaciones
+17 de Jul. de 2002   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+30 de Jul. de 2002 16ª / 347 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+31 de Jul. de 2002 17ª / 347 Primer trámite constitucional / Senado Discusión particular Ver
+07 de Ago. de 2002   Primer trámite constitucional / Senado Segundo informe complementario Ver
+07 de Ago. de 2002 19ª / 347 Primer trámite constitucional / Senado Cuenta nuevo segundo informe. Queda para tabla.
+07 de Ago. de 2002 19ª / 347 Primer trámite constitucional / Senado Discusión particular Ver
+12 de Ago. de 2002   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+13 de Ago. de 2002 28ª / 347 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+25 de Oct. de 2002   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+29 de Oct. de 2002 10ª / 348 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+06 de Nov. de 2002 15ª / 348 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+06 de Nov. de 2002   Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver
+12 de Nov. de 2002 11ª / 348 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+13 de Nov. de 2002 12ª / 348 Tercer trámite constitucional / Senado Discusión única
+13 de Nov. de 2002   Tercer trámite constitucional / Senado Oficio Nº 21199, que comunica aprobación de modificaciones Ver
+13 de Nov. de 2002   Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo Ver
+14 de Nov. de 2002 21ª / 348 Trámite finalización en Cámara de Origen / Senado Cuenta en Cámara de Diputados de Oficio aprobación de modificaciones por parte de Cámara de Origen","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2921-15","Fecha Etapa Informe Documento
+25 de Oct. de 2002 Segundo trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+07 de Ago. de 2002 Primer trámite constitucional Senado Segundo informe complementario de Transportes y Telecomunicaciones Ver
+17 de Jul. de 2002 Primer trámite constitucional Senado Segundo informe de comisión de Transportes y Telecomunicaciones Ver
+12 de Jun. de 2002 Primer trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2921-15","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+05 de Nov. de 2002   Simple 120-348  
+01 de Oct. de 2002 05 de Nov. de 2002 Simple 28-348 120-348
+13 de Ago. de 2002   Simple 180-347  
+18 de Jun. de 2002 13 de Ago. de 2002 Simple 72-347 180-347","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2921-15","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2921-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2921-15","No record","Veto emmEnd"

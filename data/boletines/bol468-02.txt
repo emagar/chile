@@ -1,0 +1,39 @@
+* * Bill summary * *
+"emmStart Summary 468-02","Legislatura: 322
+Fecha de ingreso: martes 03 de septiembre de 1991
+Estado: Tramitación terminada (Ley Nº 19.136 - D.Oficial 08/05/1992)
+Numero de boletín: 468-02
+Materia: Caja De Previsión De La Defensa Nacional ,Carabineros De Chile,Instituto De Normalización Previsional (Chile)
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 17:44:34
+* * Hitos de tramitación * *
+"emmStart Hitos 468-02","Fecha Sesión Etapa Sub-etapa Documento
+03 de Sep. de 1991 34ª / 322 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+03 de Sep. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+22 de Oct. de 1991   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+28 de Ene. de 1992 39ª / 323 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Defensa Nacional
+03 de Abr. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Trabajo y Previsión Social Ver
+07 de Abr. de 1992 49ª / 323 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión. de Defensa Nacional
+08 de Abr. de 1992 50ª / 323 Tramitación terminada / Pasa a Comisión de Trabajo y Previsión Social.
+14 de Abr. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+14 de Abr. de 1992 51ª / 323 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión. de Trabajo y Previsión Social. Queda para tabla.
+14 de Abr. de 1992 51ª / 323 Segundo trámite constitucional / Senado Discusión general Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 468-02","Fecha Etapa Informe Documento
+14 de Abr. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver
+03 de Abr. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Defensa Nacional Ver
+22 de Oct. de 1991 Primer trámite constitucional C.Diputados Primer informe de comisión de Defensa Nacional Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 468-02","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 468-02","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 468-02","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 468-02","No record","Veto emmEnd"

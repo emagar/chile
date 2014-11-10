@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 3802-09","Legislatura: 352
+Fecha de ingreso: martes 15 de marzo de 2005
+Estado: Archivado .
+Numero de boletín: 3802-09
+Materia: Obras Públicas
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 17:38:17
+* * Hitos de tramitación * *
+"emmStart Hitos 3802-09","Fecha Sesión Etapa Sub-etapa Documento
+15 de Mar. de 2005 50ª / 352 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+15 de Mar. de 2005   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+16 de Ago. de 2005 31ª / 353 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 195-353 que hace presente la urgencia Simple Ver
+16 de Ago. de 2005 31ª / 353 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 195-353 que hace presente la urgencia Simple Ver
+04 de Oct. de 2005 46ª / 353 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 284-353 que retira y hace presente la urgencia Simple Ver
+08 de Nov. de 2005 56ª / 353 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 415-353 que retira y hace presente la urgencia Simple Ver
+13 de Dic. de 2005 59ª / 353 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 440-353 que retira la urgencia Simple Ver
+21 de Jun. de 2010   Primer trámite constitucional / C. Diputados Archivado Comisión Obras Públicas remite al archivo (Punto 11 Acuerdos Reglmentarios).","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3802-09","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3802-09","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+08 de Nov. de 2005 13 de Dic. de 2005 Simple 415-353 440-353
+04 de Oct. de 2005 08 de Nov. de 2005 Simple 284-353 415-353
+16 de Ago. de 2005 04 de Oct. de 2005 Simple 195-353 284-353","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3802-09","Nombre Región Distrito Partido
+Ministerio de Obras Públicas      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3802-09","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3802-09","No record","Veto emmEnd"

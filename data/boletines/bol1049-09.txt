@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 1049-09","Legislatura: 326
+Fecha de ingreso: martes 03 de agosto de 1993
+Estado: Tramitación terminada (Ley Nº 19.293 - D.Oficial 11/02/1994)
+Numero de boletín: 1049-09
+Materia: Servicios Publicos,Servicios Sanitarios,Prestadores De Servicios Sanitarios
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 01-11-2014 02:23:24
+* * Hitos de tramitación * *
+"emmStart Hitos 1049-09","Fecha Sesión Etapa Sub-etapa Documento
+03 de Ago. de 1993 14ª / 326 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Obras Públicas
+03 de Ago. de 1993   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+31 de Ago. de 1993 20ª / 326 Primer trámite constitucional / Senado Primer informe de comisión Ver
+31 de Ago. de 1993 20ª / 326 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+01 de Sep. de 1993 21ª / 326 Primer trámite constitucional / Senado Discusión general Ver
+07 de Sep. de 1993 35ª / 326 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+07 de Sep. de 1993 22ª / 326 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+04 de Ene. de 1994   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Ene. de 1994 27ª / 327 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de Ene. de 1994 29ª / 327 Segundo trámite constitucional / C. Diputados Discusión general Ver
+26 de Ene. de 1994   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+26 de Ene. de 1994 32ª / 327 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+26 de Ene. de 1994 32ª / 327 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1049-09","Fecha Etapa Informe Documento
+04 de Ene. de 1994 Segundo trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+31 de Ago. de 1993 Primer trámite constitucional Senado Primer informe de comisión de Obras Públicas Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1049-09","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1049-09","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1049-09","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1049-09","No record","Veto emmEnd"

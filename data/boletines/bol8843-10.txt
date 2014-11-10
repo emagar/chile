@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 8843-10","Legislatura: 361
+Fecha de ingreso: jueves 14 de marzo de 2013
+Estado: Tramitación terminada (D.S N° 172 - D.Oficial 02/04/2014)
+Numero de boletín: 8843-10
+Materia: Convenio Chile-Trinidad Tobajo, Actividades Remuneradas Familiares Personal Diplomático(29 De Marzo 2012: Puerto España)
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 10-11-2014 06:21:41
+* * Hitos de tramitación * *
+"emmStart Hitos 8843-10","Fecha Sesión Etapa Sub-etapa Documento
+19 de Mar. de 2013   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+19 de Mar. de 2013 3ª / 361 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+04 de Jun. de 2013   Primer trámite constitucional / Senado Primer informe de comisión Ver
+11 de Jun. de 2013 29ª / 361 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+04 de Sep. de 2013 53ª / 361 Primer trámite constitucional / Senado Discusión general Ver
+04 de Sep. de 2013   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+05 de Sep. de 2013 69ª / 361 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+10 de Sep. de 2013   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+01 de Oct. de 2013 75ª / 361 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+03 de Oct. de 2013 78ª / 361 Segundo trámite constitucional / C. Diputados Discusión general. Aprobado en general y particular sin modificaciones Ver
+03 de Oct. de 2013   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+08 de Oct. de 2013 60ª / 361 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+08 de Oct. de 2013   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8843-10","Fecha Etapa Informe Documento
+10 de Sep. de 2013 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+06 de Jun. de 2013 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8843-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8843-10","Nombre
+Ministerio de Relaciones Exteriores","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8843-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8843-10","No record","Veto emmEnd"

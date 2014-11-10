@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 8818-06","Legislatura: 360
+Fecha de ingreso: miércoles 06 de marzo de 2013
+Estado: Primer trámite constitucional .
+Numero de boletín: 8818-06
+Materia: Votaciones Populares Y Escrutinios,Cierre De Votaciones
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 06:04:23
+* * Hitos de tramitación * *
+"emmStart Hitos 8818-06","Fecha Sesión Etapa Sub-etapa Documento
+06 de Mar. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Mar. de 2013 135ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior y Regionalización Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8818-06","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8818-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8818-06","Nombre Región Distrito Partido
+María José Hoffmann Opazo V Región de Valparaíso N°15 Unión Demócrata Independiente
+Claudia Nogueira Fernández RM Región Metropolitana N°19 Unión Demócrata Independiente
+Leopoldo Pérez Lahsen RM Región Metropolitana N°29 Renovación Nacional
+Jorge Sabag Villalobos VIII Región del Bío Bío N°42 Partido Demócrata Cristiano
+Marcela Sabat Fernández RM Región Metropolitana N°21 Renovación Nacional
+David Sandoval Plaza XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Unión Demócrata Independiente
+Alejandro Santana Tirachini X Región de los Lagos N°58 Renovación Nacional
+Arturo Squella Ovalle V Región de Valparaíso N°12 Unión Demócrata Independiente
+Víctor Torres Jeldes V Región de Valparaíso N°15 Partido Demócrata Cristiano
+Mónica Zalaquett Said RM Región Metropolitana N°20 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8818-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8818-06","No record","Veto emmEnd"

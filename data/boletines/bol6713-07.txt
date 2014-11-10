@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 6713-07","Legislatura: 357
+Fecha de ingreso: miércoles 23 de septiembre de 2009
+Estado: Tramitación terminada (Ley N° 20.421 - D.Oficial 03/02/2010)
+Numero de boletín: 6713-07
+Materia: Nacionalización
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 08-11-2014 15:28:41
+* * Hitos de tramitación * *
+"emmStart Hitos 6713-07","Fecha Sesión Etapa Sub-etapa Documento
+23 de Sep. de 2009   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+29 de Sep. de 2009 52ª / 357 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía
+29 de Sep. de 2009 52ª / 357 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía
+13 de Oct. de 2009   Primer trámite constitucional / Senado Primer informe de comisión Ver
+11 de Nov. de 2009 65ª / 357 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+01 de Dic. de 2009 73ª / 357 Primer trámite constitucional / Senado Discusión general Ver
+01 de Dic. de 2009   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+15 de Dic. de 2009 109ª / 357 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+06 de Ene. de 2010   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Ene. de 2010 117ª / 357 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de Ene. de 2010 118ª / 357 Segundo trámite constitucional / C. Diputados Discusión general Ver
+13 de Ene. de 2010   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+19 de Ene. de 2010 83ª / 357 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+19 de Ene. de 2010   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6713-07","Fecha Etapa Informe Documento
+06 de Ene. de 2010 Segundo trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+12 de Nov. de 2009 Primer trámite constitucional Senado Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6713-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6713-07","Nombre
+Carlos Ignacio Kuschel Silva
+Hosaín Sabag Castillo","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6713-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+118   72 0 0 48 Aprobado Sala Ver detalle votación
+128 Votación General 6 0 0 7   Derechos Humanos Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6713-07","No record","Veto emmEnd"

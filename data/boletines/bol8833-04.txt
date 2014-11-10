@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 8833-04","Legislatura: 361
+Fecha de ingreso: miércoles 13 de marzo de 2013
+Estado: Primer trámite constitucional .
+Numero de boletín: 8833-04
+Materia: Medida Precautoria,Docente Denunciante
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 06:14:28
+* * Hitos de tramitación * *
+"emmStart Hitos 8833-04","Fecha Sesión Etapa Sub-etapa Documento
+13 de Mar. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Mar. de 2013 2ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Deportes y Recreación Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8833-04","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8833-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8833-04","Nombre Región Distrito Partido
+Sergio Aguiló Melo VII Región del Maule N°37 Izquierda Ciudadana
+Germán Becker Alvear IX Región de la Araucanía N°50 Renovación Nacional
+Sergio Bobadilla Muñoz VIII Región del Bío Bío N°45 Unión Demócrata Independiente
+Cristina Girardi Lavín RM Región Metropolitana N°18 Partido Por la Democracia
+Rodrigo González Torres V Región de Valparaíso N°14 Partido Por la Democracia
+Romilio Gutiérrez Pino VII Región del Maule N°39 Unión Demócrata Independiente
+María José Hoffmann Opazo V Región de Valparaíso N°15 Unión Demócrata Independiente
+Manuel Monsalve Benavides VIII Región del Bío Bío N°46 Partido Socialista
+Mario Venegas Cárdenas IX Región de la Araucanía N°48 Partido Demócrata Cristiano
+Germán Verdugo Soto VII Región del Maule N°37 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8833-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8833-04","No record","Veto emmEnd"

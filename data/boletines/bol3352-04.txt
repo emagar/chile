@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 3352-04","Legislatura: 349
+Fecha de ingreso: miércoles 10 de septiembre de 2003
+Estado: Archivado .
+Numero de boletín: 3352-04
+Materia: Monumentos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 01:48:45
+* * Hitos de tramitación * *
+"emmStart Hitos 3352-04","Fecha Sesión Etapa Sub-etapa Documento
+10 de Sep. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Sep. de 2003 39ª / 349 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+16 de May. de 2008   Primer trámite constitucional / C. Diputados Oficio Nº 353/2008. Solicitud de traslado. Ver
+20 de May. de 2008 32ª / 356 Primer trámite constitucional / C. Diputados Comisión de Educación solicita que proyecto sea enviado a la Comisión Permanente de la Cultura y las Artes. ACORDADO. Ver
+20 de May. de 2008 32ª / 356 Primer trámite constitucional / C. Diputados Comisión de Educación solicita que proyecto sea trasladado a la Comisión de la Cultura. ACORDADO. Ver
+20 de Abr. de 2010 16ª / 358 Primer trámite constitucional / C. Diputados Archivado Comisión de la Cultura remite al archivo. (Acuerdo Reglamentario N° 11). Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3352-04","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3352-04","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+10 de Sep. de 2003   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3352-04","Nombre Región Distrito Partido
+Gabriel Ascencio Mansilla X Región de los Lagos N°58 Partido Demócrata Cristiano
+Víctor Jeame Barrueto VIII Región del Bío Bío N°43 Partido Por la Democracia
+Fernando Meza Moncada IX Región de la Araucanía N°52 Partido Radical Social Demócrata
+Iván Paredes Fierro I Región de Tarapacá N°1 Independientes
+Aníbal Pérez Lobos VI Región del Libertador Bernardo O' Higgins N°35 Partido Por la Democracia
+Edgardo Riveros Marín RM Región Metropolitana N°30 Partido Demócrata Cristiano
+Alberto Robles Pantoja III Región de Atacama N°6 Partido Radical Social Demócrata
+Leopoldo Sánchez Grunert XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Partido Por la Democracia
+Laura Soto González V Región de Valparaíso N°13 Partido Por la Democracia
+Jorge Tarud Daccarett VII Región del Maule N°39 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3352-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3352-04","No record","Veto emmEnd"

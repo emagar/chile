@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 6831-01","Legislatura: 357
+Fecha de ingreso: lunes 08 de marzo de 2010
+Estado: Tramitación terminada (Ley Nº 20.491 - D.Oficial 24/02/2011)
+Numero de boletín: 6831-01
+Materia: Derecho De Aprovechamiento De Aguas
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 18:25:18
+* * Hitos de tramitación * *
+"emmStart Hitos 6831-01","Fecha Sesión Etapa Sub-etapa Documento
+08 de Mar. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+08 de Mar. de 2010 123ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+04 de May. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de May. de 2010 23ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de May. de 2010 26ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+13 de May. de 2010   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+19 de May. de 2010 21ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Agricultura
+21 de Dic. de 2010   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+04 de Ene. de 2011 81ª / 358 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+05 de Ene. de 2011 84ª / 358 Segundo trámite constitucional / Senado Discusión general Ver
+05 de Ene. de 2011   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+06 de Ene. de 2011 123ª / 358 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+12 de Ene. de 2011 125ª / 358 Tercer trámite constitucional / C. Diputados Discusión única Ver
+12 de Ene. de 2011   Tercer trámite constitucional / C. Diputados Oficio N° 9215, que comunica aprobacion de modificaciones Ver
+12 de Ene. de 2011   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+18 de Ene. de 2011 87ª / 358 Tercer trámite constitucional / C. Diputados Cuenta oficio N° 9215, que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6831-01","Fecha Etapa Informe Documento
+04 de Ene. de 2011 Segundo trámite constitucional Senado Primer informe de comisión de Agricultura Ver
+04 de May. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6831-01","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6831-01","Nombre Región Distrito Partido
+Ministerio de Agricultura      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6831-01","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+26   97 0 0 23 Aprobado Sala Ver detalle votación
+125 Enmienda del Senado. 101 0 3 16 Aprobado Sala Ver detalle votación
+5 Artículo Único 9 0 0 4   Agricultura Ver detalle votación
+5 Votación General 9 0 0 4   Agricultura Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6831-01","No record","Veto emmEnd"

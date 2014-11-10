@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 956-11","Legislatura: 325
+Fecha de ingreso: martes 06 de abril de 1993
+Estado: Tramitación terminada (Ley Nº 19.264 - D.Oficial 05/11/1993)
+Numero de boletín: 956-11
+Materia: Isapres,Salud,Instituciones De Salud Previsional
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 01:12:27
+* * Hitos de tramitación * *
+"emmStart Hitos 956-11","Fecha Sesión Etapa Sub-etapa Documento
+06 de Abr. de 1993   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Abr. de 1993 60ª / 325 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+20 de Abr. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+15 de Sep. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+28 de Sep. de 1993 1ª / 327 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+05 de Oct. de 1993 5ª / 327 Primer trámite constitucional / C. Diputados Discusión general Ver
+07 de Oct. de 1993   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+13 de Oct. de 1993 4ª / 327 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Salud
+14 de Oct. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+18 de Oct. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+19 de Oct. de 1993 6ª / 327 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión. de salud y de Hacienda
+20 de Oct. de 1993   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+20 de Oct. de 1993 8ª / 327 Segundo trámite constitucional / Senado Discusión general Ver
+25 de Oct. de 1993   Segundo trámite constitucional / Senado Oficio Nº5124. comunica aprobación con modificaciones a Cámara de origen Ver
+02 de Nov. de 1993 11ª / 327 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+02 de Nov. de 1993 11ª / 327 Tercer trámite constitucional / C. Diputados Discusión única Ver
+03 de Nov. de 1993 11ª / 327 Tramitación terminada / Cuenta oficio Nº 1442, de la Cámara, comunicando que ha aprobado enmiendas propuestas por el Senado.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 956-11","Fecha Etapa Informe Documento
+20 de Oct. de 1993 Segundo trámite constitucional Senado Segundo informe de comisión de Salud Ver
+18 de Oct. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+14 de Oct. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Salud Ver
+15 de Sep. de 1993 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+22 de Ene. de 1993 Primer trámite constitucional C.Diputados Primer informe de comisión de Salud Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 956-11","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+06 de Abr. de 1993   Simple    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 956-11","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 956-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 956-11","No record","Veto emmEnd"

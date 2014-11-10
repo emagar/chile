@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 971-13","Legislatura: 326
+Fecha de ingreso: martes 07 de septiembre de 1993
+Estado: Tramitación terminada (Ley Nº 19.279 - D.Oficial 18/12/1993)
+Numero de boletín: 971-13
+Materia: Correos De Chile,Negociacion Colectiva,Empresa Portuaria De Chile
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 01:23:52
+* * Hitos de tramitación * *
+"emmStart Hitos 971-13","Fecha Sesión Etapa Sub-etapa Documento
+21 de Abr. de 1993 65ª / 325 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+21 de Abr. de 1993   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Ago. de 1993 14ª / 326 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social y de Transportes Unidas, y a la de Hacienda en su caso.
+13 de Sep. de 1993 1ª / 327 Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+15 de Sep. de 1993 1ª / 327 Segundo trámite constitucional / Senado Primer informe de comisión Ver
+05 de Oct. de 1993 1ª / 327 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+19 de Oct. de 1993 6ª / 327 Segundo trámite constitucional / Senado Discusión general Ver
+25 de Oct. de 1993   Segundo trámite constitucional / Senado Oficio Nº5125. comunica aprobación con modificaciones a Cámara de origen Ver
+09 de Nov. de 1993 12ª / 327 Tramitación terminada / Cuenta oficio Nº 1448, de la Cámara, comunicando aprobación de enmiendas propuestas por el Senado","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 971-13","Fecha Etapa Informe Documento
+15 de Sep. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+13 de Sep. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social y de Transporte y Telecomunicaciones, unidas Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 971-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 971-13","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 971-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 971-13","No record","Veto emmEnd"

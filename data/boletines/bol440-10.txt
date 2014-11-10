@@ -1,0 +1,35 @@
+* * Bill summary * *
+"emmStart Summary 440-10","Legislatura: 322
+Fecha de ingreso: miércoles 14 de agosto de 1991
+Estado: Tramitación terminada (D.S. Nº 537 - D.Oficial 05/08/1992)
+Numero de boletín: 440-10
+Materia: Acuerdos Internacionales,Convenios Comerciales
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 17:21:12
+* * Hitos de tramitación * *
+"emmStart Hitos 440-10","Fecha Sesión Etapa Sub-etapa Documento
+14 de Ago. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+14 de Ago. de 1991 30ª / 322 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+19 de Nov. de 1991   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de Ene. de 1992 31ª / 323 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+25 de Mar. de 1992 46ª / 323 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+25 de Mar. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+01 de Abr. de 1992   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 440-10","Fecha Etapa Informe Documento
+25 de Mar. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+19 de Nov. de 1991 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 440-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 440-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 440-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 440-10","No record","Veto emmEnd"

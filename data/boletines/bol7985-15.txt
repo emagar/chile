@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 7985-15","Legislatura: 359
+Fecha de ingreso: jueves 06 de octubre de 2011
+Estado: Primer trámite constitucional .
+Numero de boletín: 7985-15
+Materia: Sillas Infantiles De Seguridad,Buses Interurbanos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 14:04:49
+* * Hitos de tramitación * *
+"emmStart Hitos 7985-15","Fecha Sesión Etapa Sub-etapa Documento
+06 de Oct. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Oct. de 2011 92ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7985-15","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7985-15","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7985-15","Nombre Región Distrito Partido
+Pepe Auth Stewart RM Región Metropolitana N°20 Partido Por la Democracia
+Sergio Bobadilla Muñoz VIII Región del Bío Bío N°45 Unión Demócrata Independiente
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Juan Carlos Latorre Carmona VI Región del Libertador Bernardo O' Higgins N°35 Partido Demócrata Cristiano
+José Pérez Arriagada VIII Región del Bío Bío N°47 Partido Radical Social Demócrata
+Leopoldo Pérez Lahsen RM Región Metropolitana N°29 Renovación Nacional
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Partido Regionalista Independiente
+Víctor Torres Jeldes V Región de Valparaíso N°15 Partido Demócrata Cristiano
+Matías Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7985-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7985-15","No record","Veto emmEnd"

@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 3009-07","Legislatura: 347
+Fecha de ingreso: miércoles 31 de julio de 2002
+Estado: Archivado .
+Numero de boletín: 3009-07
+Materia: Fraude Informático
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 20:27:52
+* * Hitos de tramitación * *
+"emmStart Hitos 3009-07","Fecha Sesión Etapa Sub-etapa Documento
+31 de Jul. de 2002   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+31 de Jul. de 2002 22ª / 347 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+08 de Ago. de 2002 27ª / 347 Primer trámite constitucional / C. Diputados Cuenta Oficio de Comisión de Ciencias y Tecnología, solicita le sea remitido el proyecto, que se encuentran en la Comisión de Constitución, Legislación y Justicia. Ver
+19 de Mar. de 2003 59ª / 348 Archivado / Cuenta. Oficio de la Comisión de Ciencia y Tecnología. Solicita el archivo del proyecto, por haberse legislado sobre dichas materias. Queda en Tabla. Se accede a archivo solicitado.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3009-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3009-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3009-07","Nombre Región Distrito Partido
+Ramón Barros Montero VI Región del Libertador Bernardo O' Higgins N°35 Unión Demócrata Independiente
+Andrés Egaña Respaldiza VIII Región del Bío Bío N°44 Unión Demócrata Independiente
+Rodrigo González Torres V Región de Valparaíso N°14 Partido Por la Democracia
+Pablo Longueira Montes RM Región Metropolitana N°17 Unión Demócrata Independiente
+Juan Masferrer Pellizzari VI Región del Libertador Bernardo O' Higgins N°34 Unión Demócrata Independiente
+Darío Paya Mira RM Región Metropolitana N°28 Unión Demócrata Independiente
+Pablo Prieto Lorca VII Región del Maule N°37 Unión Demócrata Independiente
+Felipe Salaberry Soto RM Región Metropolitana N°25 Unión Demócrata Independiente
+Mario Varela Herrera RM Región Metropolitana N°20 Unión Demócrata Independiente
+Patricio Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3009-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3009-07","No record","Veto emmEnd"

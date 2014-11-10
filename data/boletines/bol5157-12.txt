@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 5157-12","Legislatura: 355
+Fecha de ingreso: martes 03 de julio de 2007
+Estado: Archivado .
+Numero de boletín: 5157-12
+Materia: Análisis Del Impacto Ambiental,Medio Ambiente
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 01:18:10
+* * Hitos de tramitación * *
+"emmStart Hitos 5157-12","Fecha Sesión Etapa Sub-etapa Documento
+03 de Jul. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Jul. de 2007 44ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver
+19 de Dic. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de Ene. de 2008 123ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Recursos Naturales. EN ESTADO DE TABLA. Ver
+07 de Jul. de 2009 49ª / 357 Primer trámite constitucional / C. Diputados Archivado La Comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente, remite proyecto al archivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5157-12","Fecha Etapa Informe Documento
+19 de Dic. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5157-12","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5157-12","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Eugenio Bauer Jouanne VI Región del Libertador Bernardo O' Higgins N°33 Unión Demócrata Independiente
+Guido Girardi Briere RM Región Metropolitana N°18 Partido Por la Democracia
+Fernando Meza Moncada IX Región de la Araucanía N°52 Partido Radical Social Demócrata
+Clemira Pacheco Rivas VIII Región del Bío Bío N°45 Partido Socialista
+Osvaldo Palma Flores VII Región del Maule N°39 Renovación Nacional
+Denise Pascal Allende RM Región Metropolitana N°31 Partido Socialista
+Manuel Rojas Molina II Región de Antofagasta N°4 Unión Demócrata Independiente
+Roberto Sepúlveda Hermosilla RM Región Metropolitana N°20 Renovación Nacional
+Patricio Vallespín López X Región de los Lagos N°57 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5157-12","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+59 Votación General 8 0 0 5   Recursos Naturales Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5157-12","No record","Veto emmEnd"

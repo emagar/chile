@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 6671-17","Legislatura: 357
+Fecha de ingreso: miércoles 19 de agosto de 2009
+Estado: Primer trámite constitucional .
+Numero de boletín: 6671-17
+Materia: Nacionalización
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 14:58:26
+* * Hitos de tramitación * *
+"emmStart Hitos 6671-17","Fecha Sesión Etapa Sub-etapa Documento
+19 de Ago. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+19 de Ago. de 2009 71ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+13 de Ene. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+14 de Ene. de 2010 119ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+21 de Ene. de 2010   Primer trámite constitucional / C. Diputados Se devuelve el proyecto a la Comisión
+01 de Abr. de 2014 6ª / 362 Primer trámite constitucional / C. Diputados Por acuerdo de la Sala, con motivo de la modificación del artículo 213 del Reglamento de la Corporación, en lo relativo a la competencia de algunas comisiones, el proyecto se ha radicado en la Comisión de Gobierno Interior, Nacionalidad, Ciudadanía y Regionalización. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6671-17","Fecha Etapa Informe Documento
+13 de Ene. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6671-17","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6671-17","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Francisco Chahuán Chahuán V Región de Valparaíso N°14 Renovación Nacional
+Roberto Delmastro Naso XIV Región de los Ríos N°53 Renovación Nacional
+Eduardo Díaz Del Río IX Región de la Araucanía N°51 Partido Regionalista Independiente
+Guido Girardi Briere RM Región Metropolitana N°18 Partido Por la Democracia
+Roberto Sepúlveda Hermosilla RM Región Metropolitana N°20 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6671-17","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+129 Votación General 7 0 0 6   Derechos Humanos Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6671-17","No record","Veto emmEnd"

@@ -1,0 +1,83 @@
+* * Bill summary * *
+"emmStart Summary 3396-13","Legislatura: 350
+Fecha de ingreso: martes 28 de octubre de 2003
+Estado: Tramitación terminada (Ley Nº 19.967 - D.Oficial 04/09/2004)
+Numero de boletín: 3396-13
+Materia: Capacitación Laboral,Impuestos
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 02:17:32
+* * Hitos de tramitación * *
+"emmStart Hitos 3396-13","Fecha Sesión Etapa Sub-etapa Documento
+28 de Oct. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+28 de Oct. de 2003 11ª / 350 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+28 de Oct. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+31 de Oct. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+04 de Nov. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+04 de Nov. de 2003 14ª / 350 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+05 de Nov. de 2003 16ª / 350 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+05 de Nov. de 2003   Primer trámite constitucional / C. Diputados Primer informe complementario Ver
+11 de Nov. de 2003 17ª / 350 Tramitación terminada / Cuenta del Mensaje 178-350 que hace presente la urgencia Suma
+11 de Nov. de 2003 18ª / 350 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+11 de Nov. de 2003   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+12 de Nov. de 2003 10ª / 350 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social y a Comisión de Hacienda
+12 de Nov. de 2003 11ª / 350 Tramitación terminada / Cuenta del Mensaje 120-350 que hace presente la urgencia Suma
+12 de Nov. de 2003 11ª / 350 Tramitación terminada / Cuenta del Mensaje 178-350 que retira la urgencia Suma
+03 de Dic. de 2003   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+06 de Ene. de 2004 22ª / 350 Segundo trámite constitucional / Senado Cuenta del Mensaje 374-350 que hace presente la urgencia Simple
+01 de Abr. de 2004   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+06 de Abr. de 2004 44ª / 350 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+20 de Abr. de 2004 51ª / 350 Segundo trámite constitucional / Senado Se inicia discusión general con Relación del Secretario y queda pendiente. Ver
+21 de Abr. de 2004 52ª / 350 Segundo trámite constitucional / Senado Discusión general Ver
+06 de Jul. de 2004   Segundo trámite constitucional / Senado Segundo informe de comisión. Pasa a Comisión de Hacienda Ver
+23 de Jul. de 2004   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+03 de Ago. de 2004 16ª / 351 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+04 de Ago. de 2004 18ª / 351 Segundo trámite constitucional / Senado Discusión particular Ver
+05 de Ago. de 2004   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+10 de Ago. de 2004 26ª / 351 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+11 de Ago. de 2004 29ª / 351 Tercer trámite constitucional / C. Diputados Discusión única Ver
+11 de Ago. de 2004   Tercer trámite constitucional / C. Diputados Oficio Nº 5089, que comunica aprobación de modificaciones Ver
+11 de Ago. de 2004   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+17 de Ago. de 2004 21ª / 351 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 5089, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3396-13","Fecha Etapa Informe Documento
+23 de Jul. de 2004 Segundo trámite constitucional Senado Segundo informe de comisión de Hacienda Ver
+06 de Jul. de 2004 Segundo trámite constitucional Senado Segundo informe de comisión de Trabajo y Previsión Social Ver
+01 de Abr. de 2004 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+03 de Dic. de 2003 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver
+05 de Nov. de 2003 Primer trámite constitucional C.Diputados Primer informe complementario de Hacienda Ver
+04 de Nov. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión de Micro, Pequeña y Mediana Empresa Ver
+31 de Oct. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+28 de Oct. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3396-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+13 de Jul. de 2004   Simple 175-351  
+08 de Jun. de 2004 06 de Jul. de 2004 Simple 35-351 133-351
+04 de May. de 2004 11 de May. de 2004 Suma 668-350 713-350
+13 de Abr. de 2004 04 de May. de 2004 Suma 620-350 668-350
+30 de Mar. de 2004 13 de Abr. de 2004 Suma 549-350 620-350
+17 de Mar. de 2004 30 de Mar. de 2004 Suma 528-350 549-350
+02 de Mar. de 2004 17 de Mar. de 2004 Suma 503-350 528-350
+06 de Ene. de 2004 02 de Mar. de 2004 Simple 374-350 466-350
+06 de Ene. de 2004   Simple 374-350  
+02 de Dic. de 2003 06 de Ene. de 2004 Simple 247-350 374-350
+11 de Nov. de 2003 19 de Nov. de 2003 Suma 178-350 503-350
+28 de Oct. de 2003 11 de Nov. de 2003 Suma 120-350 178-350","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3396-13","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3396-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+29 Enmiendas introducidas por el Senado, salvo aquellas respecto de las cuales se pidió votación separada. 82 0 0 3 Aprobado Sala Ver detalle votación
+29 Enmienda recaída en el número 5, nuevo, del artículo 1º. 44 38 0 1 Aprobado Sala Ver detalle votación
+29 Enmienda del Senado recaída en el número 6, nuevo, del artículo 1º. 46 36 0 1 Aprobado Sala Ver detalle votación
+17   75 10 0 1   Sala Ver detalle votación
+29 Enmienda del Senado recaída en el número 5, que pasa a ser número 11, inciso tercero. 44 40 0 1 Aprobado Sala Ver detalle votación
+29 Enmienda del Senado atinente al número 15, nuevo, letra c). 46 40 0 0 Aprobado Sala Ver detalle votación
+29 Enmienda recaída en el número 4, que ha pasado a ser número 10, inciso segundo, nuevo. 45 36 0 3 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3396-13","No record","Veto emmEnd"

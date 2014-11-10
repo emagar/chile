@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 818-07","Legislatura: 325
+Fecha de ingreso: jueves 08 de octubre de 1992
+Estado: Tramitación terminada (Ley Nº 19.423 - D.Oficial 20/11/1995)
+Numero de boletín: 818-07
+Materia: Código Penal,Privacidad De Las Personas
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 23:22:18
+* * Hitos de tramitación * *
+"emmStart Hitos 818-07","Fecha Sesión Etapa Sub-etapa Documento
+08 de Oct. de 1992   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+08 de Oct. de 1992 2ª / 325 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+16 de Jun. de 1993 6ª / 326 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+16 de Jun. de 1993 6ª / 326 Primer trámite constitucional / Senado Primer informe de comisión Ver
+30 de Jun. de 1993 7ª / 326 Primer trámite constitucional / Senado Discusión general. Aprobado en general, se fija plazo de indicaciones hasta el 12 de julio. Ver
+12 de Jul. de 1993   Primer trámite constitucional / Senado Boletín de indicaciones
+14 de Sep. de 1993 25ª / 326 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+14 de Sep. de 1993 25ª / 326 Primer trámite constitucional / Senado Segundo informe de comisión Ver
+14 de Sep. de 1993 26ª / 326 Primer trámite constitucional / Senado Discusión particular. Aprobado en particular. Ver
+16 de Sep. de 1993 26ª / 326 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+28 de Sep. de 1993 1ª / 327 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+03 de Oct. de 1995 1ª / 332 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+04 de Oct. de 1995 2ª / 332 Tercer trámite constitucional / Senado Discusión única. Aprobadas las modificaciones de la Cámara de Diputados.
+05 de Oct. de 1995 2ª / 332 Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo Ver
+05 de Oct. de 1995   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 818-07","Fecha Etapa Informe Documento
+14 de Sep. de 1993 Primer trámite constitucional Senado Segundo informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+16 de Jun. de 1993 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 818-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 818-07","Nombre
+Miguel Otero Lathrop","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 818-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 818-07","No record","Veto emmEnd"

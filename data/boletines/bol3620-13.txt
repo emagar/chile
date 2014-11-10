@@ -1,0 +1,57 @@
+* * Bill summary * *
+"emmStart Summary 3620-13","Legislatura: 351
+Fecha de ingreso: jueves 22 de julio de 2004
+Estado: Tramitación terminada (Ley Nº 20.238 - D.Oficial 19/01/2008)
+Numero de boletín: 3620-13
+Materia: Administración Pública
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 06:37:01
+* * Hitos de tramitación * *
+"emmStart Hitos 3620-13","Fecha Sesión Etapa Sub-etapa Documento
+22 de Jul. de 2004   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+22 de Jul. de 2004 20ª / 351 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+05 de Jul. de 2005   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+19 de Jul. de 2005 20ª / 353 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Trabajo. Ver
+02 de Ago. de 2005 23ª / 353 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+16 de Ago. de 2005   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+30 de Ago. de 2005 34ª / 353 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+31 de Ago. de 2005 38ª / 353 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver
+31 de Ago. de 2005   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+06 de Sep. de 2005 32ª / 353 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social Ver
+12 de Oct. de 2007   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+16 de Oct. de 2007 58ª / 355 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+06 de Nov. de 2007 62ª / 355 Segundo trámite constitucional / Senado Discusión general Ver
+06 de Nov. de 2007   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+07 de Nov. de 2007 97ª / 355 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver Ver
+12 de Dic. de 2007 115ª / 355 Tercer trámite constitucional / C. Diputados Cuenta del Mensaje 1196-355 que hace presente la urgencia Suma Ver
+13 de Dic. de 2007 116ª / 355 Tercer trámite constitucional / C. Diputados Discusión única Ver
+13 de Dic. de 2007   Tercer trámite constitucional / C. Diputados Oficio Nº 7168, que comunica aprobación de modificaciones Ver
+13 de Dic. de 2007   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+18 de Dic. de 2007 76ª / 355 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 7168, que comunica aprobación de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3620-13","Fecha Etapa Informe Documento
+12 de Oct. de 2007 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver
+16 de Ago. de 2005 Primer trámite constitucional C.Diputados Segundo informe de comisión de Trabajo y Seguridad Social Ver
+05 de Jul. de 2005 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3620-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+12 de Dic. de 2007   Suma 1196-355  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3620-13","Nombre Región Distrito Partido
+Pedro Muñoz Aburto XII Región de Magallanes y de la Antártica Chilena N°60 Partido Socialista
+Adriana Muñoz D'Albora IV Región de Coquimbo N°9 Partido Por la Democracia
+Edgardo Riveros Marín RM Región Metropolitana N°30 Partido Demócrata Cristiano
+Rodolfo Seguel Molina RM Región Metropolitana N°28 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3620-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+23   82 0 0 4 Aprobado Sala Ver detalle votación
+116 Enmiendas introducidas por el Senado. 84 0 0 0 Aprobado Sala Ver detalle votación
+38 Texto propuesto en el segundo informe. 40 0 0 1 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3620-13","No record","Veto emmEnd"

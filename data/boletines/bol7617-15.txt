@@ -1,0 +1,54 @@
+* * Bill summary * *
+"emmStart Summary 7617-15","Legislatura: 359
+Fecha de ingreso: miércoles 04 de mayo de 2011
+Estado: Tramitación terminada (Ley N° 20.546 - D.Oficial 11/11/2011)
+Numero de boletín: 7617-15
+Materia: Telecomunicaciones
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 06:12:09
+* * Hitos de tramitación * *
+"emmStart Hitos 7617-15","Fecha Sesión Etapa Sub-etapa Documento
+04 de May. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de May. de 2011 23ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+15 de Jun. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+21 de Jun. de 2011 45ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+19 de Jul. de 2011 58ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 319-359 que hace presente la urgencia Simple Ver
+17 de Ago. de 2011 72ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+17 de Ago. de 2011   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+30 de Ago. de 2011 46ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 360-359 que retira y hace presente la urgencia Simple
+06 de Sep. de 2011   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+14 de Sep. de 2011 54ª / 359 Segundo trámite constitucional / Senado Discusión general. Queda pendiente El Comité Independiente solicita segunda discusión respecto de esta iniciativa. Ver
+27 de Sep. de 2011 56ª / 359 Segundo trámite constitucional / Senado Discusión general. Queda pendiente Aplazada la votación Ver
+04 de Oct. de 2011 59ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 413-359 que retira y hace presente la urgencia Simple Ver
+04 de Oct. de 2011 59ª / 359 Segundo trámite constitucional / Senado Discusión general Ver
+04 de Oct. de 2011   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+05 de Oct. de 2011 91ª / 359 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+05 de Oct. de 2011 91ª / 359 Trámite finalización en Cámara de Origen / C. Diputados Al Presidente de la República, para promulgación Ver
+05 de Oct. de 2011   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7617-15","Fecha Etapa Informe Documento
+06 de Sep. de 2011 Segundo trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver
+20 de Jun. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7617-15","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Oct. de 2011   Simple 413-359  
+30 de Ago. de 2011 04 de Oct. de 2011 Simple 360-359 413-359
+19 de Jul. de 2011 30 de Ago. de 2011 Simple 319-359 360-359","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7617-15","Nombre Región Distrito Partido
+Hugo Gutiérrez Gálvez I Región de Tarapacá N°2 Partido Comunista
+Gustavo Hasbún Selume RM Región Metropolitana N°26 Unión Demócrata Independiente
+María José Hoffmann Opazo V Región de Valparaíso N°15 Unión Demócrata Independiente
+Fernando Meza Moncada IX Región de la Araucanía N°52 Partido Radical Social Demócrata
+Joaquín Tuma Zedan IX Región de la Araucanía N°51 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7617-15","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+72   84 0 0 36 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7617-15","No record","Veto emmEnd"

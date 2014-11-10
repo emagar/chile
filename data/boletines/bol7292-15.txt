@@ -1,0 +1,61 @@
+* * Bill summary * *
+"emmStart Summary 7292-15","Legislatura: 358
+Fecha de ingreso: martes 09 de noviembre de 2010
+Estado: Comisión Mixta por rechazo de idea de legislar .
+Numero de boletín: 7292-15
+Materia: Infracciones Registradas Con Vehiculo En Movimiento,Infracciones De Tránsito,Juzgados De Policía Local
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 02:24:46
+* * Hitos de tramitación * *
+"emmStart Hitos 7292-15","Fecha Sesión Etapa Sub-etapa Documento
+09 de Nov. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+09 de Nov. de 2010 97ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+18 de Ene. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de Ene. de 2011 127ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+02 de Mar. de 2011 132ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+02 de Mar. de 2011   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+08 de Mar. de 2011 92ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones
+20 de Mar. de 2012 3ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 17-360 que hace presente la urgencia Simple
+18 de Abr. de 2012 13ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 73-360 que retira y hace presente la urgencia Simple
+16 de May. de 2012 18ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 109-360 que retira y hace presente la urgencia Simple
+05 de Jun. de 2012 22ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 129-360 que retira la urgencia Simple
+20 de Jul. de 2012   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+31 de Jul. de 2012 37ª / 360 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+29 de Ago. de 2012 44ª / 360 Segundo trámite constitucional / Senado Discusión general Ver
+29 de Ago. de 2012   Segundo trámite constitucional / Senado Oficio rechazo a Cámara de Origen Ver
+30 de Ago. de 2012 74ª / 360 Comisión Mixta por rechazo de idea de legislar / Senado Cuenta oficio rechazo de Cámara Revisora
+04 de Sep. de 2012   Comisión Mixta por rechazo de idea de legislar / Senado Oficio integrantes de Comisión Mixta Ver
+04 de Sep. de 2012 45ª / 360 Comisión Mixta por rechazo de idea de legislar / Senado Cuenta oficio integrantes de Comisión Mixta","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7292-15","Fecha Etapa Informe Documento
+20 de Jul. de 2012 Segundo trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver
+18 de Ene. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7292-15","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+16 de May. de 2012 05 de Jun. de 2012 Simple 109-360 129-360
+18 de Abr. de 2012 16 de May. de 2012 Simple 73-360 109-360
+20 de Mar. de 2012 18 de Abr. de 2012 Simple 17-360 73-360","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7292-15","Nombre Región Distrito Partido
+Pepe Auth Stewart RM Región Metropolitana N°20 Partido Por la Democracia
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Alejandro García-Huidobro Sanfuentes VI Región del Libertador Bernardo O' Higgins N°32 Unión Demócrata Independiente
+Gustavo Hasbún Selume RM Región Metropolitana N°26 Unión Demócrata Independiente
+Javier Hernández Hernández X Región de los Lagos N°55 Unión Demócrata Independiente
+Fernando Meza Moncada IX Región de la Araucanía N°52 Partido Radical Social Demócrata
+Iván Norambuena Farías VIII Región del Bío Bío N°46 Unión Demócrata Independiente
+Joaquín Tuma Zedan IX Región de la Araucanía N°51 Partido Por la Democracia
+Mario Venegas Cárdenas IX Región de la Araucanía N°48 Partido Demócrata Cristiano
+Mónica Zalaquett Said RM Región Metropolitana N°20 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7292-15","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+132   67 21 8 24 Aprobado Sala Ver detalle votación
+33 Votación General 6 0 1 6   Obras Públicas Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7292-15","No record","Veto emmEnd"

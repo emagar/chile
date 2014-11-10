@@ -1,0 +1,75 @@
+* * Bill summary * *
+"emmStart Summary 7862-03","Legislatura: 359
+Fecha de ingreso: jueves 11 de agosto de 2011
+Estado: Tramitación terminada (Ley Nº 20.569 - D.Oficial 06/02/2012)
+Numero de boletín: 7862-03
+Materia: Patentes,Marcas Comerciales,Propiedad Industrial
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 12:05:07
+* * Hitos de tramitación * *
+"emmStart Hitos 7862-03","Fecha Sesión Etapa Sub-etapa Documento
+11 de Ago. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+11 de Ago. de 2011 69ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+11 de Ago. de 2011 69ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 347-359 que hace presente la urgencia Suma Ver
+30 de Ago. de 2011 75ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 359-359 que hace presente la urgencia Suma Ver
+09 de Sep. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Sep. de 2011 82ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+12 de Sep. de 2011 82ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 380-359 que hace presente la urgencia Simple Ver
+27 de Sep. de 2011 85ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 395-359 que hace presente la urgencia Suma Ver
+27 de Sep. de 2011 85ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+27 de Sep. de 2011   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+12 de Oct. de 2011 62ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 421-359 que retira y hace presente la urgencia Suma
+02 de Nov. de 2011 65ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 435-359 que retira y hace presente la urgencia Suma
+16 de Nov. de 2011 69ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 450-359 que retira y hace presente la urgencia Suma
+24 de Nov. de 2011   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+29 de Nov. de 2011 76ª / 359 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Dic. de 2011 79ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 478-359 que retira y hace presente la urgencia Suma
+13 de Dic. de 2011 80ª / 359 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 09/01/2012 Ver
+03 de Ene. de 2012 85ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 523-359 que retira y hace presente la urgencia Suma
+09 de Ene. de 2012   Segundo trámite constitucional / Senado Boletín de indicaciones
+10 de Ene. de 2012 87ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 541-359 que retira y hace presente la urgencia Discusión inmediata
+11 de Ene. de 2012   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+11 de Ene. de 2012 89ª / 359 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+17 de Ene. de 2012 90ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 560-359 que retira y hace presente la urgencia Discusión inmediata
+17 de Ene. de 2012 90ª / 359 Segundo trámite constitucional / Senado Discusión particular Ver
+17 de Ene. de 2012   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+18 de Ene. de 2012 134ª / 359 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+19 de Ene. de 2012 136ª / 359 Tercer trámite constitucional / C. Diputados Discusión única Ver
+19 de Ene. de 2012   Tercer trámite constitucional / C. Diputados Oficio N° 9942, que comunica aprobacion de modificaciones Ver
+19 de Ene. de 2012   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+31 de Ene. de 2012 92ª / 359 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 9942, que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7862-03","Fecha Etapa Informe Documento
+11 de Ene. de 2012 Segundo trámite constitucional Senado Segundo informe de comisión de Economía Ver
+28 de Nov. de 2011 Segundo trámite constitucional Senado Primer informe de comisión de Economía Ver
+09 de Sep. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7862-03","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+17 de Ene. de 2012   Discusión inmediata 560-359  
+10 de Ene. de 2012 17 de Ene. de 2012 Discusión inmediata 541-359 560-359
+03 de Ene. de 2012 10 de Ene. de 2012 Suma 523-359 541-359
+12 de Dic. de 2011 03 de Ene. de 2012 Suma 478-359 523-359
+16 de Nov. de 2011 12 de Dic. de 2011 Suma 450-359 478-359
+02 de Nov. de 2011 16 de Nov. de 2011 Suma 435-359 450-359
+12 de Oct. de 2011 02 de Nov. de 2011 Suma 421-359 435-359
+27 de Sep. de 2011 12 de Oct. de 2011 Suma 395-359 421-359
+12 de Sep. de 2011   Simple 380-359  
+30 de Ago. de 2011   Suma 359-359  
+11 de Ago. de 2011   Suma 347-359  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7862-03","Nombre Región Distrito Partido
+Ministerio de Economía, Fomento y Turism      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7862-03","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+85   85 0 0 35 Aprobado Sala Ver detalle votación
+136 Modificaciones del senado salvo el literal a) del numeral 1 del artículo 1°. 78 0 0 42 Aprobado Sala Ver detalle votación
+136 Literal a) del numeral 1 del artículo 1°. 55 19 1 45 Aprobado Sala Ver detalle votación
+66 Votación General 6 0 0 7   Economía Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7862-03","No record","Veto emmEnd"

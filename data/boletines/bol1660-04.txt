@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 1660-04","Legislatura: 331
+Fecha de ingreso: martes 01 de agosto de 1995
+Estado: Tramitación terminada (Ley Nº 19.569 - D.Oficial 11/07/1998)
+Numero de boletín: 1660-04
+Materia: Monumentos
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 12:00:26
+* * Hitos de tramitación * *
+"emmStart Hitos 1660-04","Fecha Sesión Etapa Sub-etapa Documento
+01 de Ago. de 1995 21ª / 331 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+01 de Ago. de 1995   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+23 de Ago. de 1995 32ª / 331 Primer trámite constitucional / Senado Primer informe de comisión Ver
+06 de Sep. de 1995 32ª / 331 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+07 de Sep. de 1995   Primer trámite constitucional / Senado Discusión general
+07 de Sep. de 1995   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+12 de Sep. de 1995 36ª / 331 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+02 de Sep. de 1997   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Sep. de 1997 40ª / 335 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+04 de Jun. de 1998 3ª / 338 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+04 de Jun. de 1998   Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver
+10 de Jun. de 1998 4ª / 338 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+16 de Jun. de 1998 6ª / 338 Tercer trámite constitucional / Senado Discusión única
+17 de Jun. de 1998   Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1660-04","Fecha Etapa Informe Documento
+02 de Sep. de 1997 Segundo trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver
+23 de Ago. de 1995 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1660-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1660-04","Nombre
+Sergio Romero Pizarro","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1660-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1660-04","No record","Veto emmEnd"

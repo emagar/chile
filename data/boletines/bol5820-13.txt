@@ -1,0 +1,52 @@
+* * Bill summary * *
+"emmStart Summary 5820-13","Legislatura: 356
+Fecha de ingreso: martes 15 de abril de 2008
+Estado: Tramitación terminada (Ley Nº 20.321 - D.Oficial 05/02/2009)
+Numero de boletín: 5820-13
+Materia: Tripulantes De Vuelo,Aeronaves Comerciales
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 07-11-2014 23:39:36
+* * Hitos de tramitación * *
+"emmStart Hitos 5820-13","Fecha Sesión Etapa Sub-etapa Documento
+15 de Abr. de 2008   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+16 de Abr. de 2008 13ª / 356 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social
+01 de Sep. de 2008   Primer trámite constitucional / Senado Primer informe de comisión Ver
+02 de Sep. de 2008 47ª / 356 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+02 de Sep. de 2008 47ª / 356 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 06/10/2008 Ver
+06 de Oct. de 2008   Primer trámite constitucional / Senado Boletín de indicaciones
+12 de Nov. de 2008   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+12 de Nov. de 2008 68ª / 356 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+18 de Nov. de 2008 69ª / 356 Primer trámite constitucional / Senado Discusión particular Ver
+18 de Nov. de 2008   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+19 de Nov. de 2008 105ª / 356 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver Ver
+24 de Nov. de 2008 108ª / 356 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 1110 que hace presente la urgencia Simple Ver
+09 de Dic. de 2008   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Dic. de 2008 115ª / 356 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Trabajo. EN TABLA. Ver
+11 de Dic. de 2008 115ª / 356 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+18 de Dic. de 2008 118ª / 356 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+18 de Dic. de 2008   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+23 de Dic. de 2008 81ª / 356 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+23 de Dic. de 2008   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5820-13","Fecha Etapa Informe Documento
+09 de Dic. de 2008 Segundo trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver
+12 de Nov. de 2008 Primer trámite constitucional Senado Segundo informe de comisión de Trabajo y Previsión Social Ver
+01 de Sep. de 2008 Primer trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5820-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+24 de Nov. de 2008   Simple 1110  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5820-13","Nombre
+Ministerio de Defensa Nacional
+Ministerio de Trabajo y Previsión Social","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5820-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+118   71 0 1 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5820-13","No record","Veto emmEnd"

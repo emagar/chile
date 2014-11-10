@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 2987-05","Legislatura: 347
+Fecha de ingreso: jueves 04 de julio de 2002
+Estado: Segundo trámite constitucional .
+Numero de boletín: 2987-05
+Materia: Discriminación
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 19:39:54
+* * Hitos de tramitación * *
+"emmStart Hitos 2987-05","Fecha Sesión Etapa Sub-etapa Documento
+04 de Jul. de 2002   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Jul. de 2002 13ª / 347 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+04 de Jul. de 2002   Primer trámite constitucional / C. Diputados Oficio de consulta a Corte Suprema Ver
+01 de Ago. de 2002 23ª / 347 Primer trámite constitucional / C. Diputados Cuenta oficio 1725 de la Corte Suprema Ver Ver
+07 de Abr. de 2004 70ª / 350 Primer trámite constitucional / C. Diputados Cuenta Oficio de Comisión de Economía, solicita le sea remitido proyecto. Of. 4866 al Presidente de la Comisión de Economía, comunica que se accede a petición en orden a tramitar primero en esa Comisión el proyecto, y luego a la de Hacienda Ver
+02 de May. de 2006 17ª / 354 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+02 de May. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de May. de 2006 19ª / 354 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+03 de May. de 2006   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+09 de May. de 2006 13ª / 354 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Economía Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2987-05","Fecha Etapa Informe Documento
+02 de May. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2987-05","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2987-05","Nombre Región Distrito Partido
+Francisco Encina Moriamez IV Región de Coquimbo N°8 Partido Socialista
+Patricio Hales Dib RM Región Metropolitana N°19 Partido Por la Democracia
+Antonio Leal Labrín III Región de Atacama N°5 Partido Por la Democracia
+Eugenio Tuma Zedan IX Región de la Araucanía N°51 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2987-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+19 4º 53 42 4 0 Rechazado Sala Ver detalle votación
+19 con excepción del artículo 4º. 57 38 4 2 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2987-05","No record","Veto emmEnd"

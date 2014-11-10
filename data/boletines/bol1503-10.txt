@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 1503-10","Legislatura: 330
+Fecha de ingreso: martes 10 de enero de 1995
+Estado: Tramitación terminada (D.S. Nº 271 - D.Oficial 06/06/1997)
+Numero de boletín: 1503-10
+Materia: Prueba Del Derecho Extranjero
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 09:58:12
+* * Hitos de tramitación * *
+"emmStart Hitos 1503-10","Fecha Sesión Etapa Sub-etapa Documento
+10 de Ene. de 1995   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+10 de Ene. de 1995 33ª / 330 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+19 de Jul. de 1995 19ª / 331 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+19 de Jul. de 1995 19ª / 331 Primer trámite constitucional / Senado Primer informe de comisión Ver
+20 de Jul. de 1995 20ª / 331 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+20 de Jul. de 1995 20ª / 331 Primer trámite constitucional / Senado Discusión general Ver
+01 de Ago. de 1995 22ª / 331 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+03 de Sep. de 1995   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+01 de Oct. de 1996 1ª / 334 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+03 de Dic. de 1996 22ª / 334 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+03 de Dic. de 1996   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen
+04 de Dic. de 1996 13ª / 344 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+04 de Dic. de 1996 13ª / 334 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1503-10","Fecha Etapa Informe Documento
+03 de Sep. de 1995 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+19 de Jul. de 1995 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1503-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1503-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1503-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1503-10","No record","Veto emmEnd"

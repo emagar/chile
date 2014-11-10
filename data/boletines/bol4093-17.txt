@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 4093-17","Legislatura: 353
+Fecha de ingreso: martes 07 de marzo de 2006
+Estado: Tramitación terminada (Ley Nº 20.127 - D.Oficial 19/10/2006)
+Numero de boletín: 4093-17
+Materia: Nacionalización
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 18:40:44
+* * Hitos de tramitación * *
+"emmStart Hitos 4093-17","Fecha Sesión Etapa Sub-etapa Documento
+07 de Mar. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+07 de Mar. de 2006 74ª / 353 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+13 de Abr. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de Abr. de 2006 14ª / 354 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+20 de Abr. de 2006 16ª / 354 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+04 de May. de 2006 20ª / 354 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+04 de May. de 2006   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+09 de May. de 2006 13ª / 354 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+09 de Ago. de 2006   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+16 de Ago. de 2006 44ª / 354 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+30 de Ago. de 2006 47ª / 354 Segundo trámite constitucional / Senado Queda para segunda discusión. Ver
+05 de Sep. de 2006 48ª / 354 Segundo trámite constitucional / Senado Discusión general Ver
+05 de Sep. de 2006   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+06 de Sep. de 2006 71ª / 354 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver Ver
+06 de Sep. de 2006 71ª / 354 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver Ver
+06 de Sep. de 2006   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4093-17","Fecha Etapa Informe Documento
+09 de Ago. de 2006 Segundo trámite constitucional Senado Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+13 de Abr. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4093-17","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4093-17","Nombre Región Distrito Partido
+Ministerio de Justicia      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4093-17","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+20   42 1 18 1 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4093-17","No record","Veto emmEnd"

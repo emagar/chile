@@ -1,0 +1,56 @@
+* * Bill summary * *
+"emmStart Summary 8154-10","Legislatura: 359
+Fecha de ingreso: lunes 23 de enero de 2012
+Estado: Trámite finalización en Cámara de Origen .
+Numero de boletín: 8154-10
+Materia: Tránsito En Los Pasos De Fronteras,Tránsito Fronterizo Chile-Argentina (5 De Agosto 2009: Buenos Aires)
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 22:07:44
+* * Hitos de tramitación * *
+"emmStart Hitos 8154-10","Fecha Sesión Etapa Sub-etapa Documento
+23 de Ene. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+23 de Ene. de 2012 137ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+13 de Mar. de 2012   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+20 de Mar. de 2012 4ª / 360 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+03 de Abr. de 2012 8ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+03 de Abr. de 2012   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+10 de Jul. de 2012 33ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 196-360 que hace presente la urgencia Suma
+31 de Jul. de 2012 37ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 219-360 que retira y hace presente la urgencia Suma
+14 de Ago. de 2012 41ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 254-360 que retira y hace presente la urgencia Suma
+29 de Ago. de 2012 44ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 265-360 que retira y hace presente la urgencia Suma
+12 de Sep. de 2012 50ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 291-360 que retira y hace presente la urgencia Suma
+02 de Oct. de 2012 51ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 298-360 que retira y hace presente la urgencia Suma
+17 de Oct. de 2012 56ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 320-360 que retira y hace presente la urgencia Suma
+30 de Oct. de 2012 57ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 325-360 que retira la urgencia Suma
+20 de May. de 2014   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+03 de Jun. de 2014 20ª / 362 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+04 de Jun. de 2014 22ª / 362 Segundo trámite constitucional / Senado Discusión general Ver
+04 de Jun. de 2014   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+05 de Jun. de 2014 30ª / 362 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8154-10","Fecha Etapa Informe Documento
+28 de May. de 2014 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+13 de Mar. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8154-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+17 de Oct. de 2012 18 de Oct. de 2012 Suma 320-360 325-360
+02 de Oct. de 2012 17 de Oct. de 2012 Suma 298-360 320-360
+12 de Sep. de 2012 01 de Oct. de 2012 Suma 291-360 298-360
+29 de Ago. de 2012 12 de Sep. de 2012 Suma 265-360 291-360
+14 de Ago. de 2012 29 de Ago. de 2012 Suma 254-360 265-360
+31 de Jul. de 2012 14 de Ago. de 2012 Suma 219-360 254-360
+10 de Jul. de 2012 31 de Jul. de 2012 Suma 196-360 219-360","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8154-10","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8154-10","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+8   95 0 0 25 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8154-10","No record","Veto emmEnd"

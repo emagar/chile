@@ -1,0 +1,55 @@
+* * Bill summary * *
+"emmStart Summary 45-03","Legislatura: 319
+Fecha de ingreso: miércoles 16 de mayo de 1990
+Estado: Archivado .
+Numero de boletín: 45-03
+Materia: Consejo Nacional De Tecnología
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 30-10-2014 16:16:26
+* * Hitos de tramitación * *
+"emmStart Hitos 45-03","Fecha Sesión Etapa Sub-etapa Documento
+16 de May. de 1990 21ª / 319 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+16 de May. de 1990   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Sep. de 1990   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Sep. de 1990   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Oct. de 1990   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Oct. de 1990   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Oct. de 1990 1ª / 321 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+04 de Oct. de 1990 3ª / 321 Primer trámite constitucional / C. Diputados Discusión general Ver
+07 de Nov. de 1990   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+07 de Nov. de 1990   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+13 de Nov. de 1990   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+13 de Nov. de 1990   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+13 de Nov. de 1990 12ª / 321 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+29 de Nov. de 1990 16ª / 321 Primer trámite constitucional / C. Diputados Discusión particular Ver
+29 de Nov. de 1990   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+05 de Dic. de 1990 21ª / 321 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Economía
+11 de Dic. de 1990   Segundo trámite constitucional / Senado Se suspende la discusión del proyecto, toda vez que el proyecto ha sido retirado de la convocatoria a la actual Legislatura Extraordinaria.
+09 de Dic. de 1991 25ª / 323 Segundo trámite constitucional / Senado Primer informe de comisión Ver
+10 de Dic. de 1991 25ª / 323 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+08 de Jul. de 1997   Segundo trámite constitucional / Senado Se solicita su archivo Oficio Nº40-335 de S.E. el Presidente de la República, con el que solicita retiro o archivo de proyectos de ley iniciados por mensaje. Ver
+09 de Jul. de 1997 14ª / 335 Archivado / Cuenta de oficio del Ejecutivo con el que solicita archivo del proyecto. Se accede a la solicitud, previo acuerdo de la Cámara de Diputados.
+15 de Jul. de 1997   Archivado / Oficio Nº11284. Oficio a la Cámara de Diputados solicitando acuerdo para archivar el proyecto. Ver
+17 de Jul. de 1997 18ª / 335 Archivado / Cuenta de oficio de la Cámara de Diputados con el que comunica que accedió al archivo solicitado. Se manda comunicar a SE el Presidente de la República.
+23 de Jul. de 1997   Archivado / Oficio Nº11332. Oficio al Presidente de la República comunicando la decisión del Senado y de la Cámara de Diputados de archivar el proyecto. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 45-03","Fecha Etapa Informe Documento
+09 de Dic. de 1991 Segundo trámite constitucional Senado Primer informe de comisión de Economía Ver
+13 de Nov. de 1990 Primer trámite constitucional C.Diputados Segundo informe de comisión de Economía, Fomento y Desarrollo Ver
+07 de Nov. de 1990 Primer trámite constitucional C.Diputados Segundo informe de comisión de Economía, Fomento y Desarrollo Ver
+02 de Oct. de 1990 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver
+12 de Sep. de 1990 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 45-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 45-03","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 45-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 45-03","No record","Veto emmEnd"

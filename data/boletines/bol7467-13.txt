@@ -1,0 +1,67 @@
+* * Bill summary * *
+"emmStart Summary 7467-13","Legislatura: 358
+Fecha de ingreso: jueves 20 de enero de 2011
+Estado: Tramitación terminada (Ley Nº 20.684 - D.Oficial 23/08/2013)
+Numero de boletín: 7467-13 Refundido con: 7746-13
+Materia: Finiquito Del Contrato De Trabajo
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 04:27:20
+* * Hitos de tramitación * *
+"emmStart Hitos 7467-13","Fecha Sesión Etapa Sub-etapa Documento
+20 de Ene. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de Ene. de 2011 130ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+12 de Ene. de 2012 132ª / 359 Primer trámite constitucional / C. Diputados Oficio de la Comisión de Trabajo, por el cual solicita el acuerdo de la Sala, de conformidad con el artículo 17 A de la Ley Orgánica Constitucional del Congreso Nacional, para refundir los proyectos Boletines 7467-13 y 7746-13. Acordado. Ver
+17 de Abr. de 2012   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de May. de 2012 20ª / 360 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+15 de May. de 2012 27ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+22 de May. de 2012   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+05 de Jun. de 2012 36ª / 360 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+06 de Jun. de 2012 38ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 137-360 que hace presente la urgencia Simple Ver
+14 de Jun. de 2012 43ª / 360 Primer trámite constitucional / C. Diputados Discusión particular Ver
+19 de Jun. de 2012 44ª / 360 Primer trámite constitucional / C. Diputados Discusión particular Ver
+19 de Jun. de 2012   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+20 de Jun. de 2012 28ª / 360 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social
+23 de Nov. de 2012 73ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 366-360 que retira y hace presente la urgencia Suma
+13 de Mar. de 2013   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+19 de Mar. de 2013 4ª / 361 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+09 de Jul. de 2013 39ª / 361 Segundo trámite constitucional / Senado Discusión general Ver
+09 de Jul. de 2013   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+10 de Jul. de 2013 46ª / 361 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+11 de Jul. de 2013 47ª / 361 Tercer trámite constitucional / C. Diputados Discusión única. Aprobadas las modificaciones . Ver
+11 de Jul. de 2013   Tercer trámite constitucional / C. Diputados Oficio N°10.836. A S.E. el Presidente de la República, para promulgación. Ver
+11 de Jul. de 2013   Tercer trámite constitucional / C. Diputados Oficio N° 10.831, que comunica aprobacion de modificaciones Ver
+17 de Jul. de 2013 41ª / 361 Tercer trámite constitucional / C. Diputados Cuenta oficio N° 10.831, que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7467-13","Fecha Etapa Informe Documento
+14 de Mar. de 2013 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver
+22 de May. de 2012 Primer trámite constitucional C.Diputados Segundo informe de comisión de Trabajo y Seguridad Social Ver
+17 de Abr. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7467-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+23 de Nov. de 2012   Suma 366-360  
+06 de Jun. de 2012 23 de Nov. de 2012 Simple 137-360 366-360","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7467-13","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Sergio Aguiló Melo VII Región del Maule N°37 Izquierda Ciudadana
+René Alinco Bustos XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Independientes
+Pedro Araya Guerrero II Región de Antofagasta N°4 Partido Regionalista Independiente
+Gabriel Ascencio Mansilla X Región de los Lagos N°58 Partido Demócrata Cristiano
+Alfonso De Urresti Longton XIV Región de los Ríos N°53 Partido Socialista
+Tucapel Jiménez Fuentes RM Región Metropolitana N°27 Partido Por la Democracia
+Luis Lemus Aracena IV Región de Coquimbo N°9 Partido Socialista
+Miodrag Marinovic Solo de Zaldívar XII Región de Magallanes y de la Antártica Chilena N°60 Independientes
+Fernando Meza Moncada IX Región de la Araucanía N°52 Partido Radical Social Demócrata","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7467-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+27   97 0 1 22 Aprobado Sala Ver detalle votación
+47 Modificaciones del Senado 47 0 0 73 Aprobado Sala Ver detalle votación
+44   102 0 4 14 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7467-13","No record","Veto emmEnd"

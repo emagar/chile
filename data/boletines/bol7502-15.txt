@@ -1,0 +1,76 @@
+* * Bill summary * *
+"emmStart Summary 7502-15","Legislatura: 358
+Fecha de ingreso: martes 01 de marzo de 2011
+Estado: Tramitación terminada (Ley N° 20.522 - D.Oficial 06/07/2011)
+Numero de boletín: 7502-15
+Materia: Telecomunicaciones
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 04:53:14
+* * Hitos de tramitación * *
+"emmStart Hitos 7502-15","Fecha Sesión Etapa Sub-etapa Documento
+01 de Mar. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+01 de Mar. de 2011 131ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+01 de Mar. de 2011 131ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 739-358 que hace presente la urgencia Suma Ver Ver
+02 de Mar. de 2011 132ª / 358 Primer trámite constitucional / C. Diputados La Sala acuerda que el proyecto sea conocido en primer lugar por la Comisión de Ciencias y Tecnología y luego pase a Obras Públicas, Transportes y Telecomunicaciones. Ver
+09 de Mar. de 2011 136ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 747-358 que retira y hace presente la urgencia Simple Ver
+16 de Mar. de 2011 3ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 26-359 que retira y hace presente la urgencia Suma Ver
+18 de Mar. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+22 de Mar. de 2011 6ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+05 de Abr. de 2011 9ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 78-359 que retira y hace presente la urgencia Suma Ver
+05 de Abr. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+13 de Abr. de 2011 12ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+20 de Abr. de 2011 17ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 117-359 que retira y hace presente la urgencia Suma Ver
+04 de May. de 2011 23ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 179-359 que retira y hace presente la urgencia Suma Ver
+06 de May. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+10 de May. de 2011 26ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+12 de May. de 2011 29ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+18 de May. de 2011 32ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+18 de May. de 2011   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+31 de May. de 2011 21ª / 359 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones y a Comisión de Hacienda
+31 de May. de 2011 21ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 214-359 que retira y hace presente la urgencia Suma
+02 de Jun. de 2011   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+15 de Jun. de 2011   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+15 de Jun. de 2011 26ª / 359 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+15 de Jun. de 2011 26ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 276-359 que retira y hace presente la urgencia Suma
+15 de Jun. de 2011 26ª / 359 Segundo trámite constitucional / Senado Discusión general Ver
+15 de Jun. de 2011   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+16 de Jun. de 2011 44ª / 359 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+21 de Jun. de 2011 45ª / 359 Tercer trámite constitucional / C. Diputados Discusión única Ver
+21 de Jun. de 2011   Tercer trámite constitucional / C. Diputados Oficio N° 9530, que comunica aprobacion de modificaciones Ver
+21 de Jun. de 2011   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+22 de Jun. de 2011 29ª / 359 Tercer trámite constitucional / C. Diputados Cuenta oficio N° 9530, que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7502-15","Fecha Etapa Informe Documento
+15 de Jun. de 2011 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+02 de Jun. de 2011 Segundo trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver
+06 de May. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+07 de Abr. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+13 de Mar. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Ciencias y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7502-15","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+15 de Jun. de 2011   Suma 276-359  
+31 de May. de 2011 15 de Jun. de 2011 Suma 214-359 276-359
+04 de May. de 2011 31 de May. de 2011 Suma 179-359 214-359
+20 de Abr. de 2011 04 de May. de 2011 Suma 117-359 179-359
+05 de Abr. de 2011 20 de Abr. de 2011 Suma 78-359 117-359
+16 de Mar. de 2011 05 de Abr. de 2011 Suma 26-359 78-359
+09 de Mar. de 2011 16 de Mar. de 2011 Simple 747-358 26-359
+01 de Mar. de 2011 09 de Mar. de 2011 Suma 739-358 747-358","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7502-15","Nombre Región Distrito Partido
+Ministerio de Hacienda      
+Ministerio de Transporte y Telecomunicaciones      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7502-15","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+32   78 0 0 42 Aprobado Sala Ver detalle votación
+32 Artículo único del proyecto, conjuntamente con indicación aditiva para incorporar el siguiente artículo, nuevo: ""Se deberá entregar en forma semestral la información del uso de estos recursos de manera detallada a la Comisión de Obras Públicas, Transportes y Telecomunicaciones de la Cámara de Diputados."" 88 0 0 0 Aprobado Sala Ver detalle votación
+45 modificaciones del Senado. 102 1 1 16 Aprobado Sala Ver detalle votación
+41 Votación General 8 0 0 5   Obras Públicas Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7502-15","No record","Veto emmEnd"

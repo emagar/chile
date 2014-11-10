@@ -1,0 +1,32 @@
+* * Bill summary * *
+"emmStart Summary 7206-07","Legislatura: 358
+Fecha de ingreso: viernes 10 de septiembre de 2010
+Estado: Primer trámite constitucional .
+Numero de boletín: 7206-07
+Materia: Iniciativa Ciudadana De Ley
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 09-11-2014 01:26:52
+* * Hitos de tramitación * *
+"emmStart Hitos 7206-07","Fecha Sesión Etapa Sub-etapa Documento
+10 de Sep. de 2010   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+14 de Sep. de 2010 52ª / 358 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+19 de Jul. de 2011 35ª / 359 Primer trámite constitucional / Senado Cuenta del Mensaje 323-359 que hace presente la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7206-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7206-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+19 de Jul. de 2011   Simple 323-359  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7206-07","Nombre
+Ministerio Secretaría General de Gobierno
+Ministerio Secretaría General de la Presidencia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7206-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7206-07","No record","Veto emmEnd"

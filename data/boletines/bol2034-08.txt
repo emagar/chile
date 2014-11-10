@@ -1,0 +1,54 @@
+* * Bill summary * *
+"emmStart Summary 2034-08","Legislatura: 335
+Fecha de ingreso: martes 03 de junio de 1997
+Estado: Tramitación terminada (Ley Nº 19.557 - D.Oficial 19/03/1998)
+Numero de boletín: 2034-08
+Materia: Empresas,Enami
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 17:55:07
+* * Hitos de tramitación * *
+"emmStart Hitos 2034-08","Fecha Sesión Etapa Sub-etapa Documento
+03 de Jun. de 1997   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Jun. de 1997 3ª / 335 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Minería y Energía Ver
+10 de Jun. de 1997   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+23 de Jun. de 1997   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+01 de Jul. de 1997 13ª / 335 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+02 de Jul. de 1997 14ª / 335 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+02 de Jul. de 1997   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+03 de Jul. de 1997 12ª / 335 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Minería
+09 de Jul. de 1997   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+30 de Jul. de 1997   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+12 de Ago. de 1997 24ª / 335 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Ago. de 1997 24ª / 335 Segundo trámite constitucional / Senado Discusión general Ver
+30 de Sep. de 1997 1ª / 336 Segundo trámite constitucional / Senado 1er informe Comisión Presidente de la República incluye proyecto en actual convocatoria a legislatura extraordinaria
+18 de Nov. de 1997 14ª / 336 Segundo trámite constitucional / Senado Cuenta nuevo primer informe
+21 de Ene. de 1998 32ª / 336 Segundo trámite constitucional / Senado Discusión general Ver
+04 de Feb. de 1998   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen
+03 de Mar. de 1998 31ª / 336 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+03 de Mar. de 1998 32ª / 336 Tercer trámite constitucional / C. Diputados Discusión única Ver
+03 de Mar. de 1998   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+10 de Mar. de 1998 35ª / 336 Tramitación terminada / Cuenta en el Senado del oficio de la Cámara de Diputados con el que comunica que aprobó las enmiendas propuestas por el Senado.
+17 de Mar. de 1998   Trámite de aprobacion presidencial / C. Diputados S.E. el Pdte. de la República incluye el proyecto en la Legislatura Extraordinaria 337","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2034-08","Fecha Etapa Informe Documento
+11 de Nov. de 1997 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda y de Minería y Energía, unidas Ver
+30 de Jul. de 1997 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+09 de Jul. de 1997 Segundo trámite constitucional Senado Primer informe de comisión de Minería y Energía Ver
+23 de Jun. de 1997 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+10 de Jun. de 1997 Primer trámite constitucional C.Diputados Primer informe de comisión de Minería y Energía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2034-08","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+06 de Ene. de 1998 03 de Mar. de 1998 Simple 30018-336 229-336
+17 de Jun. de 1997 08 de Jul. de 1997 Suma 57-335 1024","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2034-08","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2034-08","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2034-08","No record","Veto emmEnd"

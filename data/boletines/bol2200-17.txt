@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 2200-17","Legislatura: 338
+Fecha de ingreso: martes 14 de julio de 1998
+Estado: Tramitación terminada (Ley Nº 19.636 - D.Oficial 29/09/1999)
+Numero de boletín: 2200-17
+Materia: Nacionalización
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 21:58:40
+* * Hitos de tramitación * *
+"emmStart Hitos 2200-17","Fecha Sesión Etapa Sub-etapa Documento
+14 de Jul. de 1998   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+14 de Jul. de 1998 16ª / 338 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+23 de Jun. de 1999   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de Jul. de 1999   Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión
+07 de Jul. de 1999 15ª / 340 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+07 de Jul. de 1999   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+13 de Jul. de 1999 13ª / 340 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía
+23 de Ago. de 1999   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+01 de Sep. de 1999 27ª / 340 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+08 de Sep. de 1999 30ª / 340 Segundo trámite constitucional / Senado Discusión general Ver
+13 de Sep. de 1999   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+15 de Sep. de 1999 41ª / 340 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+15 de Sep. de 1999   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2200-17","Fecha Etapa Informe Documento
+23 de Ago. de 1999 Segundo trámite constitucional Senado Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+23 de Jun. de 1999 Primer trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2200-17","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2200-17","Nombre Región Distrito Partido
+Francisco Bartolucci Johnston V Región de Valparaíso N°13 Unión Demócrata Independiente
+Manuel Bustos Huerta RM Región Metropolitana N°17 Partido Demócrata Cristiano
+Guillermo Ceroni Fuentes VII Región del Maule N°40 Partido Por la Democracia
+Aldo Cornejo González V Región de Valparaíso N°13 Partido Demócrata Cristiano
+Guido Girardi Lavín RM Región Metropolitana N°18 Partido Por la Democracia
+Arturo Longton Guerrero V Región de Valparaíso N°12 Renovación Nacional
+Jorge Ulloa Aguillón VIII Región del Bío Bío N°43 Unión Demócrata Independiente
+Alfonso Vargas Lyng V Región de Valparaíso N°10 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2200-17","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2200-17","No record","Veto emmEnd"

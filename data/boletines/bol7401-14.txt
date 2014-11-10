@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 7401-14","Legislatura: 358
+Fecha de ingreso: martes 04 de enero de 2011
+Estado: Primer trámite constitucional .
+Numero de boletín: 7401-14 Refundido con: 7419-14,6983-14
+Materia: Copropiedad Inmobiliaria
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 03:40:26
+* * Hitos de tramitación * *
+"emmStart Hitos 7401-14","Fecha Sesión Etapa Sub-etapa Documento
+04 de Ene. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Ene. de 2011 121ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Vivienda y Desarrollo Urbano. Se remite el proyecto a la Corte Suprema. Ver
+04 de Ene. de 2011   Primer trámite constitucional / C. Diputados Oficio N°9187 a la Corte Suprema Ver
+03 de Mar. de 2011 133ª / 358 Primer trámite constitucional / C. Diputados Cuenta oficio Nº 23-2011 de la Corte Suprema Ver
+20 de Jul. de 2011 59ª / 359 Primer trámite constitucional / C. Diputados Oficio N°203. Oficio de la Comisión de Vivienda y Desarrollo Urbano, por el cual solicita el acuerdo de la Sala, de conformidad con el artículo 17 A de la Ley Orgánica Constitucional del Congreso Nacional, para refundir las siguientes mociones: Boletines 6983-14, 7401-14 y 7419-14 Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7401-14","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7401-14","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7401-14","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Marcos Espinosa Monardes II Región de Antofagasta N°3 Partido Radical Social Demócrata
+Ramón Farías Ponce RM Región Metropolitana N°30 Partido Por la Democracia
+María José Hoffmann Opazo V Región de Valparaíso N°15 Unión Demócrata Independiente
+Tucapel Jiménez Fuentes RM Región Metropolitana N°27 Partido Por la Democracia
+Adriana Muñoz D'Albora IV Región de Coquimbo N°9 Partido Por la Democracia
+Alejandro Santana Tirachini X Región de los Lagos N°58 Renovación Nacional
+Víctor Torres Jeldes V Región de Valparaíso N°15 Partido Demócrata Cristiano
+Patricio Vallespín López X Región de los Lagos N°57 Partido Demócrata Cristiano
+Orlando Vargas Pizarro XV Región Arica y Parinacota N°1 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7401-14","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+43 Votación General 8 0 0 4   Vivienda Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7401-14","No record","Veto emmEnd"

@@ -1,0 +1,58 @@
+* * Bill summary * *
+"emmStart Summary 3935-07","Legislatura: 353
+Fecha de ingreso: miércoles 20 de julio de 2005
+Estado: Archivado .
+Numero de boletín: 3935-07
+Materia: Código Penal,Juegos De Azar
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 05-11-2014 06:59:14
+* * Hitos de tramitación * *
+"emmStart Hitos 3935-07","Fecha Sesión Etapa Sub-etapa Documento
+20 de Jul. de 2005   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+20 de Jul. de 2005 19ª / 353 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+13 de Abr. de 2006   Primer trámite constitucional / Senado Primer informe de comisión Ver
+18 de Abr. de 2006 8ª / 354 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+03 de May. de 2006 12ª / 354 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 16/05/2006 Ver
+17 de May. de 2006   Primer trámite constitucional / Senado Boletín de indicaciones
+03 de Ago. de 2007   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+07 de Ago. de 2007 40ª / 355 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+08 de Ago. de 2007 41ª / 355 Primer trámite constitucional / Senado Se acuerda abrir nuevo plazo de indicaciones hasta las 12 horas del lunes 03/09/2007. Ver
+29 de Ago. de 2007 45ª / 355 Primer trámite constitucional / Senado Se acuerda ampliar el plazo de indicaciones hasta las 12 horas del lunes 01/10/2007. Ver
+01 de Oct. de 2007   Primer trámite constitucional / Senado Boletín de indicaciones
+02 de Oct. de 2007 53ª / 355 Primer trámite constitucional / Senado Se acuerda abrir nuevo plazo deindicaciones hasta las12 horas del martesw 16/10/2007.
+16 de Oct. de 2007 58ª / 355 Primer trámite constitucional / Senado La Sala fija un nuevo plazo para presentar indicaciones, hasta las 12:00 horas del 29 de octubre de 2007.
+29 de Oct. de 2007   Primer trámite constitucional / Senado Boletín de indicaciones
+01 de Abr. de 2008 5ª / 356 Primer trámite constitucional / Senado Cuenta del Mensaje 64-356 que hace presente la urgencia Simple
+06 de May. de 2008 17ª / 356 Primer trámite constitucional / Senado Cuenta del Mensaje 203-356 que retira y hace presente la urgencia Simple
+10 de Jun. de 2008 25ª / 356 Primer trámite constitucional / Senado Cuenta del Mensaje 357-356 que retira y hace presente la urgencia Simple
+15 de Jul. de 2008 36ª / 356 Primer trámite constitucional / Senado Cuenta del Mensaje 528-356 que retira y hace presente la urgencia Simple
+29 de Jul. de 2008 38ª / 356 Primer trámite constitucional / Senado Cuenta del Mensaje 598-356 que retira la urgencia Simple
+16 de Nov. de 2010 68ª / 358 Primer trámite constitucional / Senado Por acuerdo de los Comités, ratificado por la Sala, se abre un nuevo plazo para presentar indicaciones, hasta las 12 horas del lunes 6 de diciembre de 2010, en la Sectretaría de la Comisión de Constitución, Legislación, Justicia y Reglamento..
+14 de Mar. de 2014   Primer trámite constitucional / Senado Archivado La Comisión lo ha archivado en virtud del artículo 36 bis, inciso segundo, del Reglamento del Senado.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3935-07","Fecha Etapa Informe Documento
+03 de Ago. de 2007 Primer trámite constitucional Senado Segundo informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+13 de Abr. de 2006 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3935-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+15 de Jul. de 2008 29 de Jul. de 2008 Simple 528-356 598-356
+10 de Jun. de 2008 11 de Jul. de 2008 Simple 357-356 528-356
+06 de May. de 2008 06 de Jun. de 2008 Simple 203-356 357-356
+01 de Abr. de 2008 05 de May. de 2008 Simple 64-356 203-356","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3935-07","Nombre
+Edgardo Boeninger Kausel
+Alejandro Foxley Rioseco
+José García Ruminot
+Evelyn Matthei Fornet
+Carlos Ominami Pascual","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3935-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3935-07","No record","Veto emmEnd"

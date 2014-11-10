@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 4778-10","Legislatura: 354
+Fecha de ingreso: martes 02 de enero de 2007
+Estado: Tramitación terminada (D.S. Nº 82 - D.Oficial 27/06/2007)
+Numero de boletín: 4778-10
+Materia: Protección Y Promoción De La Diversidad De Las Expresiones Culturales,Unesco
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 08:24:27
+* * Hitos de tramitación * *
+"emmStart Hitos 4778-10","Fecha Sesión Etapa Sub-etapa Documento
+02 de Ene. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Ene. de 2007 112ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana y a Comisión de Hacienda Ver
+09 de Ene. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Ene. de 2007 118ª / 354 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+11 de Ene. de 2007 118ª / 354 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+11 de Ene. de 2007   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+16 de Ene. de 2007 84ª / 354 Tramitación terminada / Cuenta del Mensaje 648-354 que hace presente la urgencia Simple
+16 de Ene. de 2007 84ª / 354 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores Ver
+23 de Ene. de 2007   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+23 de Ene. de 2007 86ª / 354 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+24 de Ene. de 2007 88ª / 354 Segundo trámite constitucional / Senado Cuenta del Oficio Nº125, del Ejecutivo, por el que comunica que, en virtud de lo dispuesto en el número 1) del artículo 54 de la Carta Fundamental, formulará la reserva que indica. Ver
+24 de Ene. de 2007 88ª / 354 Segundo trámite constitucional / Senado Discusión general Ver
+24 de Ene. de 2007   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+06 de Mar. de 2007 125ª / 354 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+06 de Mar. de 2007 125ª / 354 Trámite finalización en Cámara de Origen / C. Diputados P. de la República comunica que que formulará reserva a Tratado. (Oficio N° 294). Ver
+06 de Mar. de 2007   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4778-10","Fecha Etapa Informe Documento
+23 de Ene. de 2007 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+09 de Ene. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4778-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+16 de Ene. de 2007   Simple 648-354  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4778-10","Nombre Región Distrito Partido
+Ministerio de Hacienda      
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4778-10","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+118   78 0 2 40 Aprobado Sala Ver detalle votación
+39 Votación General 9 0 0 4   Relaciones Exteriores Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4778-10","No record","Veto emmEnd"

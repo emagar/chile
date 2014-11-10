@@ -1,0 +1,48 @@
+* * Bill summary * *
+"emmStart Summary 4844-24","Legislatura: 354
+Fecha de ingreso: miércoles 17 de enero de 2007
+Estado: Segundo trámite constitucional .
+Numero de boletín: 4844-24
+Materia: Monumentos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 13:03:15
+* * Hitos de tramitación * *
+"emmStart Hitos 4844-24","Fecha Sesión Etapa Sub-etapa Documento
+17 de Ene. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+17 de Ene. de 2007 121ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión Especial de la Cultura y las Artes Ver
+08 de Jun. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+15 de Jun. de 2011 42ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+23 de Jun. de 2011 49ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+23 de Jun. de 2011   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+05 de Jul. de 2011 30ª / 359 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+09 de Oct. de 2014   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+14 de Oct. de 2014 55ª / 362 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+04 de Nov. de 2014 60ª / 362 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 05/11/2014
+05 de Nov. de 2014   Segundo trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 10/11/2014 a las 12:00 en Secretaría.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4844-24","Fecha Etapa Informe Documento
+09 de Oct. de 2014 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+08 de Jun. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de la Cultura y las Artes Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4844-24","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4844-24","Nombre Región Distrito Partido
+Pedro Araya Guerrero II Región de Antofagasta N°4 Independientes
+Javier Hernández Hernández X Región de los Lagos N°55 Unión Demócrata Independiente
+Enrique Jaramillo Becker XIV Región de los Ríos N°54 Partido Por la Democracia
+Sergio Ojeda Uribe X Región de los Lagos N°55 Partido Demócrata Cristiano
+Fulvio Rossi Ciocca I Región de Tarapacá N°2 Partido Socialista
+Ximena Valcarce Becerra XV Región Arica y Parinacota N°1 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4844-24","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+49   71 0 0 49 Aprobado Sala Ver detalle votación
+49 artículo único del proyecto, conjuntamente con la indicación de los Diputados señores Enrique Jaramillo y Sergio Ojeda y la diputada señora Ximena Vidal formularon una indicación para incorporar el siguiente artículo: “Artículo transitorio.- El alcalde la municipalidad de Osorno deberá convocar a la comisión especial dentro del plazo de dos años, contados desde la fecha de entrada en vigencia de esta ley.”. 67 0 4 49 Aprobado Sala Ver detalle votación
+44 Votación General 6 0 0 7   Cultura Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4844-24","No record","Veto emmEnd"

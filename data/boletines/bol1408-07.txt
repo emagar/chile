@@ -1,0 +1,31 @@
+* * Bill summary * *
+"emmStart Summary 1408-07","Legislatura: 330
+Fecha de ingreso: martes 18 de octubre de 1994
+Estado: Archivado .
+Numero de boletín: 1408-07
+Materia: Constitucion 1980,Proyecto De Reforma Constitucional
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 08:43:08
+* * Hitos de tramitación * *
+"emmStart Hitos 1408-07","Fecha Sesión Etapa Sub-etapa Documento
+18 de Oct. de 1994   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+18 de Oct. de 1994 7ª / 330 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+09 de Jul. de 1997   Primer trámite constitucional / C. Diputados Se solicita su archivo S.E. el Presidente de la República solicita retiro o archivo del proyecto.
+09 de Jul. de 1997 7ª / 330 Primer trámite constitucional / C. Diputados Archivado Oficio 1544 a la Com. de Constitución, comunica archivo del proyecto. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1408-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1408-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+18 de Oct. de 1994   Simple    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1408-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1408-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1408-07","No record","Veto emmEnd"

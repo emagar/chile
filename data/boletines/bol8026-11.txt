@@ -1,0 +1,58 @@
+* * Bill summary * *
+"emmStart Summary 8026-11","Legislatura: 359
+Fecha de ingreso: martes 08 de noviembre de 2011
+Estado: Segundo trámite constitucional .
+Numero de boletín: 8026-11
+Materia: Publicidad De Los Alimentos
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 09-11-2014 14:34:29
+* * Hitos de tramitación * *
+"emmStart Hitos 8026-11","Fecha Sesión Etapa Sub-etapa Documento
+08 de Nov. de 2011   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+05 de Jun. de 2012   Primer trámite constitucional / Senado Primer informe de comisión Ver
+07 de Ago. de 2012 39ª / 360 Primer trámite constitucional / Senado Discusión general Ver
+07 de Ago. de 2012 39ª / 360 Primer trámite constitucional / Senado Se solicita segunda discusión. Ver
+08 de Ago. de 2012 40ª / 360 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 27/08/2012 Ver
+27 de Ago. de 2012   Primer trámite constitucional / Senado Boletín de indicaciones
+15 de Ene. de 2013   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+15 de Ene. de 2013 94ª / 360 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+09 de Oct. de 2013 62ª / 361 Primer trámite constitucional / Senado Discusión particular Ver
+09 de Oct. de 2013 62ª / 361 Primer trámite constitucional / Senado Se solicita aplazamiento de la votación. Ver
+16 de Oct. de 2013 64ª / 361 Primer trámite constitucional / Senado Discusión particular Ver
+16 de Oct. de 2013   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+17 de Oct. de 2013 86ª / 361 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver
+03 de Jun. de 2014 28ª / 362 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 156-362 que hace presente la urgencia Simple Ver
+01 de Jul. de 2014 38ª / 362 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 206-362 que retira y hace presente la urgencia Simple Ver
+22 de Jul. de 2014 48ª / 362 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 307-362 que retira y hace presente la urgencia Simple Ver
+19 de Ago. de 2014 58ª / 362 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 383-362 que hace presente la urgencia Simple Ver
+09 de Sep. de 2014 66ª / 362 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 470-362 que retira y hace presente la urgencia Simple Ver
+07 de Oct. de 2014 76ª / 362 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 600-362 que hace presente la urgencia Simple Ver
+08 de Oct. de 2014 78ª / 362 Segundo trámite constitucional / C. Diputados Cuenta oficio N° 509-362 de S. E. la Presidenta de la República por el cual formula indicaciones al proyecto. Ver Ver
+04 de Nov. de 2014 86ª / 362 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 741-362 que hace presente la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8026-11","Fecha Etapa Informe Documento
+15 de Ene. de 2013 Primer trámite constitucional Senado Segundo informe de comisión de Salud Ver
+05 de Jun. de 2012 Primer trámite constitucional Senado Primer informe de comisión de Salud Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8026-11","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Nov. de 2014   Simple 741-362  
+07 de Oct. de 2014   Simple 600-362  
+09 de Sep. de 2014   Simple 470-362  
+19 de Ago. de 2014 09 de Sep. de 2014 Simple 383-362 470-362
+22 de Jul. de 2014   Simple 307-362  
+01 de Jul. de 2014 22 de Jul. de 2014 Simple 206-362 307-362
+03 de Jun. de 2014 01 de Jul. de 2014 Simple 156-362 206-362","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8026-11","Nombre
+Ministerio de Economía, Fomento y Turism
+Ministerio de Salud","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8026-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8026-11","No record","Veto emmEnd"

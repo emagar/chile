@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 2317-13","Legislatura: 339
+Fecha de ingreso: martes 06 de abril de 1999
+Estado: Tramitación terminada (Ley Nº 19.631 - D.Oficial 28/09/1999)
+Numero de boletín: 2317-13
+Materia: Término De Contrato De Trabajo
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 23:12:59
+* * Hitos de tramitación * *
+"emmStart Hitos 2317-13","Fecha Sesión Etapa Sub-etapa Documento
+06 de Abr. de 1999   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Abr. de 1999 48ª / 339 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+06 de Abr. de 1999 48ª / 339 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+13 de Abr. de 1999   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+06 de May. de 1999 61ª / 339 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de May. de 1999 64ª / 339 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+13 de May. de 1999   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+18 de May. de 1999 40ª / 339 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social
+11 de Ago. de 1999   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+11 de Ago. de 1999 21ª / 340 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+11 de Ago. de 1999 21ª / 340 Segundo trámite constitucional / Senado Discusión general Ver
+16 de Ago. de 1999   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+17 de Ago. de 1999 31ª / 340 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+17 de Ago. de 1999 31ª / 340 Tercer trámite constitucional / C. Diputados Discusión única Ver
+17 de Ago. de 1999   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2317-13","Fecha Etapa Informe Documento
+11 de Ago. de 1999 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver
+13 de Abr. de 1999 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2317-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+17 de Ago. de 1999   Discusión inmediata 189-340  
+06 de Abr. de 1999   Sin urgencia 217-339  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2317-13","Nombre Región Distrito Partido
+Ministerio de Trabajo y Previsión Social      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2317-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2317-13","No record","Veto emmEnd"

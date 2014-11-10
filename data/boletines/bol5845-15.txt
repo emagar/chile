@@ -1,0 +1,30 @@
+* * Bill summary * *
+"emmStart Summary 5845-15","Legislatura: 356
+Fecha de ingreso: martes 29 de abril de 2008
+Estado: Primer trámite constitucional .
+Numero de boletín: 5845-15
+Materia: Telecomunicaciones
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 07-11-2014 23:54:34
+* * Hitos de tramitación * *
+"emmStart Hitos 5845-15","Fecha Sesión Etapa Sub-etapa Documento
+29 de Abr. de 2008   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+30 de Abr. de 2008 16ª / 356 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5845-15","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5845-15","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5845-15","Nombre
+Ministerio de Economía, Fomento y Turism
+Ministerio de Transporte y Telecomunicaciones","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5845-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5845-15","No record","Veto emmEnd"

@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 4852-05","Legislatura: 354
+Fecha de ingreso: miércoles 17 de enero de 2007
+Estado: Segundo trámite constitucional .
+Numero de boletín: 4852-05
+Materia: Mercado De Valores
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 06-11-2014 13:09:41
+* * Hitos de tramitación * *
+"emmStart Hitos 4852-05","Fecha Sesión Etapa Sub-etapa Documento
+17 de Ene. de 2007   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+23 de Ene. de 2007 86ª / 354 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+08 de May. de 2007   Primer trámite constitucional / Senado Primer informe de comisión Ver
+08 de May. de 2007 15ª / 355 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+09 de May. de 2007 18ª / 355 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 11/06/2007 Ver
+12 de Jun. de 2007   Primer trámite constitucional / Senado Se acuerda abrir nuevo plazo de indicaciones hasta las 12 horas del lunes 18/06/2007.
+18 de Jun. de 2007   Primer trámite constitucional / Senado Boletín de indicaciones
+03 de Mar. de 2009   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+04 de Mar. de 2009 92ª / 356 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+18 de Mar. de 2009 4ª / 357 Primer trámite constitucional / Senado Discusión particular. Queda pendiente La Sala acuerda que este proyecto vuelva a la Comisión de Hacienda para un nuevo informe, analizando las observaciones formuladas. Se fija plazo para presentar indicaciones hasta las 12 horas del día 30 de marzo. Ver
+07 de Jul. de 2009   Primer trámite constitucional / Senado Nuevo segundo informe de comisión Ver
+07 de Jul. de 2009 31ª / 357 Primer trámite constitucional / Senado Cuenta nuevo segundo informe
+28 de Jul. de 2009 35ª / 357 Primer trámite constitucional / Senado Discusión particular Ver
+28 de Jul. de 2009   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+30 de Jul. de 2009 57ª / 357 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4852-05","Fecha Etapa Informe Documento
+07 de Jul. de 2009 Primer trámite constitucional Senado Nuevo segundo informe de comisión de Hacienda Ver
+03 de Mar. de 2009 Primer trámite constitucional Senado Segundo informe de comisión de Hacienda Ver
+08 de May. de 2007 Primer trámite constitucional Senado Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4852-05","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4852-05","Nombre
+Pedro Muñoz Aburto
+Carlos Ominami Pascual","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4852-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4852-05","No record","Veto emmEnd"

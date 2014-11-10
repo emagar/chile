@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 2264-05","Legislatura: 339
+Fecha de ingreso: jueves 12 de noviembre de 1998
+Estado: Tramitación terminada (Ley Nº 19.595 - D.Oficial 02/12/1998)
+Numero de boletín: 2264-05
+Materia: Reajuste De Remuneraciones Sector Público
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 22:43:37
+* * Hitos de tramitación * *
+"emmStart Hitos 2264-05","Fecha Sesión Etapa Sub-etapa Documento
+12 de Nov. de 1998   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Nov. de 1998 16ª / 339 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+16 de Nov. de 1998   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+17 de Nov. de 1998   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de Nov. de 1998 19ª / 339 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+18 de Nov. de 1998 19ª / 339 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+18 de Nov. de 1998   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+18 de Nov. de 1998 9ª / 339 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+18 de Nov. de 1998 9ª / 339 Segundo trámite constitucional / Senado Primer informe de comisión. Eximido del trámite ante Comisión . Informe verbal de la Comisión de Hacienda
+18 de Nov. de 1998 9ª / 339 Segundo trámite constitucional / Senado Discusión única
+19 de Nov. de 1998   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+19 de Nov. de 1998 21ª / 339 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+19 de Nov. de 1998 22ª / 339 Tercer trámite constitucional / C. Diputados Discusión única Ver
+19 de Nov. de 1998   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+01 de Dic. de 1998 10ª / 339 Tramitación terminada / Cuenta en el Senado del oficio de la Cámara de Diputados en que se comunica que la aprobación de las enmiendas propuestas por el Senado.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2264-05","Fecha Etapa Informe Documento
+17 de Nov. de 1998 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+16 de Nov. de 1998 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2264-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+17 de Nov. de 1998 17 de Nov. de 1998 Suma 74-339 95-339
+17 de Nov. de 1998   Discusión inmediata 95-339  
+12 de Nov. de 1998 17 de Nov. de 1998 Discusión inmediata 73-339 74-339","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2264-05","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2264-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2264-05","No record","Veto emmEnd"

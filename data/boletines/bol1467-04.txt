@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 1467-04","Legislatura: 330
+Fecha de ingreso: martes 13 de diciembre de 1994
+Estado: Tramitación terminada (Ley Nº 19.523 - D.Oficial 16/10/1997)
+Numero de boletín: 1467-04
+Materia: Monumentos
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 09:28:44
+* * Hitos de tramitación * *
+"emmStart Hitos 1467-04","Fecha Sesión Etapa Sub-etapa Documento
+13 de Dic. de 1994 26ª / 330 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+13 de Dic. de 1994   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+04 de Ene. de 1995 32ª / 330 Primer trámite constitucional / Senado Primer informe de comisión Ver
+11 de Ene. de 1995 32ª / 330 Primer trámite constitucional / Senado Cuenta de primer informe de comisión. Queda para tabla.
+18 de Ene. de 1995 38ª / 330 Primer trámite constitucional / Senado Discusión general Ver
+19 de Ene. de 1995 38ª / 330 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+02 de Mar. de 1995 42ª / 330 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+22 de Jul. de 1997   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+06 de Ago. de 1997 29ª / 335 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+03 de Sep. de 1997 38ª / 335 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+04 de Sep. de 1997   Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver
+09 de Sep. de 1997 32ª / 335 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+09 de Sep. de 1997 33ª / 335 Tercer trámite constitucional / Senado Discusión única
+09 de Sep. de 1997 33ª / 335 Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1467-04","Fecha Etapa Informe Documento
+22 de Jul. de 1997 Segundo trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver
+04 de Ene. de 1995 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1467-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1467-04","Nombre
+Sergio Díez Urzua
+Jorge Lavandero Illanes","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1467-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1467-04","No record","Veto emmEnd"

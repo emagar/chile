@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 4597-03","Legislatura: 354
+Fecha de ingreso: miércoles 11 de octubre de 2006
+Estado: Segundo trámite constitucional .
+Numero de boletín: 4597-03 Refundido con: 3988-03,3817-03
+Materia: Consumidores
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 03:39:24
+* * Hitos de tramitación * *
+"emmStart Hitos 4597-03","Fecha Sesión Etapa Sub-etapa Documento
+11 de Oct. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+11 de Oct. de 2006 84ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+25 de May. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Jun. de 2007 30ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+19 de Jul. de 2007 55ª / 355 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+09 de Oct. de 2007   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+09 de Oct. de 2007 86ª / 355 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+11 de Jun. de 2008 38ª / 356 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver
+11 de Jun. de 2008   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+17 de Jun. de 2008 27ª / 356 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Economía Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4597-03","Fecha Etapa Informe Documento
+09 de Oct. de 2007 Primer trámite constitucional C.Diputados Segundo informe de comisión de Economía, Fomento y Desarrollo Ver
+25 de May. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4597-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4597-03","Nombre Región Distrito Partido
+Claudio Alvarado Andrade X Región de los Lagos N°58 Unión Demócrata Independiente
+Gonzalo Arenas Hödar IX Región de la Araucanía N°48 Unión Demócrata Independiente
+Eugenio Bauer Jouanne VI Región del Libertador Bernardo O' Higgins N°33 Unión Demócrata Independiente
+Sergio Correa De la Cerda VII Región del Maule N°36 Unión Demócrata Independiente
+Andrés Egaña Respaldiza VIII Región del Bío Bío N°44 Unión Demócrata Independiente
+Enrique Estay Peñaloza IX Región de la Araucanía N°49 Unión Demócrata Independiente
+Javier Hernández Hernández X Región de los Lagos N°55 Unión Demócrata Independiente
+Juan Masferrer Pellizzari VI Región del Libertador Bernardo O' Higgins N°34 Unión Demócrata Independiente
+Manuel Rojas Molina II Región de Antofagasta N°4 Unión Demócrata Independiente
+Gastón Von Mühlenbrock Zamora XIV Región de los Ríos N°54 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4597-03","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+36 Votación General 6 0 0 7   Economía Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4597-03","No record","Veto emmEnd"

@@ -1,0 +1,52 @@
+* * Bill summary * *
+"emmStart Summary 3592-18","Legislatura: 351
+Fecha de ingreso: miércoles 07 de julio de 2004
+Estado: Segundo trámite constitucional .
+Numero de boletín: 3592-18
+Materia: Patria Potestad
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 04:24:34
+* * Hitos de tramitación * *
+"emmStart Hitos 3592-18","Fecha Sesión Etapa Sub-etapa Documento
+07 de Jul. de 2004   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+07 de Jul. de 2004 12ª / 351 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Familia Ver
+27 de Sep. de 2005   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+04 de Oct. de 2005 46ª / 353 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+05 de Oct. de 2005 48ª / 353 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+06 de Oct. de 2005   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+12 de Oct. de 2005 41ª / 353 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento Ver
+12 de Oct. de 2005   Segundo trámite constitucional / Senado Oficio Nº 26002 a la Corte Suprema Ver
+14 de Dic. de 2005 49ª / 353 Segundo trámite constitucional / Senado Cuenta oficio Nº 177 de la Corte Suprema Ver
+30 de Jul. de 2008 40ª / 356 Segundo trámite constitucional / Senado Se solicita su archivo Cuenta de una comunicación de la Comisión de Constitución, Legislación, Justicia y Reglamento, en que propone a la Sala el archivo del proyecto, previo acuerdo de la Cámara de Diputados. Se accede a lo solicitado.
+30 de Jul. de 2008   Segundo trámite constitucional / Senado Oficio Nº924/SEC/08. Comunica que el Senado ha accedido, a solicitud de la Comisión de Constitución, Legislación, Justicia y Reglamento, en orden a disponer el archivo del proyecto. Ver
+05 de Ago. de 2008 57ª / 356 Tramitación terminada / Archivado Senado solicita archivo. ACORDADO.
+06 de Ago. de 2008 42ª / 356 Archivado / Cuenta Oficio de la Cámara de Diputados, con el que informa que ha accedido a la petición formulada por el Senado, en orden a archivar el proyecto de ley
+09 de Nov. de 2010 97ª / 358 Segundo trámite constitucional / Senado Oficio de los señores Diputados Ceroni; Accorsi; Aguiló; Ascencio; Espinoza, don Fidel; Gutiérrez, don Hugo; Martínez; Meza; Montes; Ortiz; Rivas; Silber, y de las señoras Diputadas Goic, doña Carolina; Molina, doña Andrea; Muñoz, doña Adriana; Nogueira, doña Claudia; Sabat, doña Marcela; Vidal, doña Ximena y Zalaquett, doña Mónica, quienes acuerdan que la Cámara de Diputados solicite al Senado el desarchivo del proyecto .
+09 de Nov. de 2010 97ª / 358 Segundo trámite constitucional / Senado A solicitud de varios señores Diputados (as) Se acuerda solicitar al Senado el desarchivo de este proyecto.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3592-18","Fecha Etapa Informe Documento
+27 de Sep. de 2005 Primer trámite constitucional C.Diputados Primer informe de comisión de Familia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3592-18","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3592-18","Nombre Región Distrito Partido
+Isabel Allende Bussi RM Región Metropolitana N°29 Partido Socialista
+Germán Becker Alvear IX Región de la Araucanía N°50 Renovación Nacional
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Juan Bustos Ramírez V Región de Valparaíso N°12 Partido Socialista
+Guillermo Ceroni Fuentes VII Región del Maule N°40 Partido Por la Democracia
+Rosa González Román I Región de Tarapacá N°1 Unión Demócrata Independiente
+María Antonieta Saa Díaz RM Región Metropolitana N°17 Partido Por la Democracia
+Laura Soto González V Región de Valparaíso N°13 Partido Por la Democracia
+Carolina Tohá Morales RM Región Metropolitana N°22 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3592-18","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+48   55 2 22 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3592-18","No record","Veto emmEnd"

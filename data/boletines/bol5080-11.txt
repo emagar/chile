@@ -1,0 +1,65 @@
+* * Bill summary * *
+"emmStart Summary 5080-11","Legislatura: 355
+Fecha de ingreso: martes 05 de junio de 2007
+Estado: Tramitación terminada (Ley Nº 20.229 - D.Oficial 18/12/2007)
+Numero de boletín: 5080-11
+Materia: Hospital Hanga Roa (Chile),Servicio De Salud Metropolitano Oriente,Servicio De Salud Chiloé,Traspaso De Bienes Y Obligaciones
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 00:28:43
+* * Hitos de tramitación * *
+"emmStart Hitos 5080-11","Fecha Sesión Etapa Sub-etapa Documento
+05 de Jun. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+05 de Jun. de 2007 30ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver
+13 de Jun. de 2007 36ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 321-355 que hace presente la urgencia Suma Ver
+04 de Jul. de 2007 45ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 413-355 que retira y hace presente la urgencia Suma Ver
+17 de Jul. de 2007 52ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 5080-355 que retira y hace presente la urgencia Suma Ver
+17 de Jul. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+31 de Jul. de 2007 56ª / 355 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 483-355 que retira y hace presente la urgencia Suma Ver
+02 de Ago. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de Ago. de 2007 60ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Salud y de Hacienda. EN TABLA. Ver
+07 de Ago. de 2007 60ª / 355 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+07 de Ago. de 2007   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+08 de Ago. de 2007 41ª / 355 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Salud y a Comisión de Hacienda Ver
+28 de Ago. de 2007 44ª / 355 Segundo trámite constitucional / Senado Cuenta del Mensaje 621-355 que retira y hace presente la urgencia Suma
+11 de Sep. de 2007 51ª / 355 Segundo trámite constitucional / Senado Cuenta del Mensaje 694-355 que retira y hace presente la urgencia Suma
+12 de Sep. de 2007   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+12 de Sep. de 2007 52ª / 355 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+02 de Oct. de 2007 53ª / 355 Segundo trámite constitucional / Senado Cuenta del Mensaje 728-355 que retira la urgencia Suma
+02 de Oct. de 2007 53ª / 355 Segundo trámite constitucional / Senado Cuenta del Mensaje 782-355 que hace presente la urgencia Simple
+02 de Oct. de 2007 53ª / 355 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 16/10/2007 Ver
+17 de Oct. de 2007   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+17 de Oct. de 2007 59ª / 355 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+17 de Oct. de 2007 59ª / 355 Segundo trámite constitucional / Senado Discusión particular Ver
+17 de Oct. de 2007   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+30 de Oct. de 2007 93ª / 355 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver Ver
+30 de Oct. de 2007   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5080-11","Fecha Etapa Informe Documento
+17 de Oct. de 2007 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+12 de Sep. de 2007 Segundo trámite constitucional Senado Primer informe de comisión de Salud Ver
+02 de Ago. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+17 de Jul. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de Salud Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5080-11","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+02 de Oct. de 2007   Simple 782-355  
+11 de Sep. de 2007 25 de Sep. de 2007 Suma 694-355 728-355
+28 de Ago. de 2007 10 de Sep. de 2007 Suma 621-355 694-355
+31 de Jul. de 2007 24 de Ago. de 2007 Suma 483-355 621-355
+04 de Jul. de 2007 17 de Jul. de 2007 Suma 413-355 5080-355
+17 de Jul. de 0007 31 de Jul. de 2007 Suma 5080-355 483-355
+13 de Jun. de 0007 04 de Jul. de 2007 Suma 321-355 413-355","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5080-11","Nombre Región Distrito Partido
+Ministerio de Salud      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5080-11","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+56 Votación General 12 0 0 1   Salud Ver detalle votación
+60   94 0 0 26 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5080-11","No record","Veto emmEnd"

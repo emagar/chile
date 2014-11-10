@@ -1,0 +1,34 @@
+* * Bill summary * *
+"emmStart Summary 6284-19","Legislatura: 356
+Fecha de ingreso: jueves 18 de diciembre de 2008
+Estado: Primer trámite constitucional .
+Numero de boletín: 6284-19
+Materia: Espectro Radioeléctrico
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 04:59:42
+* * Hitos de tramitación * *
+"emmStart Hitos 6284-19","Fecha Sesión Etapa Sub-etapa Documento
+18 de Dic. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+18 de Dic. de 2008 118ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Ciencias y Tecnología Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6284-19","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6284-19","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6284-19","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Rodrigo González Torres V Región de Valparaíso N°14 Partido Por la Democracia
+Jorge Insunza Gregorio de las Heras RM Región Metropolitana N°28 Partido Por la Democracia
+Jaime Quintana Leal IX Región de la Araucanía N°49 Partido Por la Democracia
+Eugenio Tuma Zedan IX Región de la Araucanía N°51 Partido Por la Democracia
+Ximena Vidal Lázaro RM Región Metropolitana N°25 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6284-19","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6284-19","No record","Veto emmEnd"

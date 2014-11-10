@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 5969-02","Legislatura: 356
+Fecha de ingreso: jueves 10 de julio de 2008
+Estado: Segundo trámite constitucional .
+Numero de boletín: 5969-02
+Materia: Carabineros De Chile
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 01:21:17
+* * Hitos de tramitación * *
+"emmStart Hitos 5969-02","Fecha Sesión Etapa Sub-etapa Documento
+10 de Jul. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Jul. de 2008 51ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Defensa Nacional Ver
+03 de Sep. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+04 de Sep. de 2008 72ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+09 de Oct. de 2008 87ª / 356 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general Vuelve a Comisión Ver Ver
+03 de Nov. de 2008   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+04 de Nov. de 2008 95ª / 356 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+03 de Dic. de 2008 111ª / 356 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver
+03 de Dic. de 2008   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+09 de Dic. de 2008 77ª / 356 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Defensa Nacional","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5969-02","Fecha Etapa Informe Documento
+03 de Nov. de 2008 Primer trámite constitucional C.Diputados Segundo informe de comisión de Defensa Nacional Ver
+03 de Sep. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Defensa Nacional Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5969-02","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5969-02","Nombre Región Distrito Partido
+Ramón Barros Montero VI Región del Libertador Bernardo O' Higgins N°35 Unión Demócrata Independiente
+Eugenio Bauer Jouanne VI Región del Libertador Bernardo O' Higgins N°33 Unión Demócrata Independiente
+Alberto Cardemil Herrera RM Región Metropolitana N°22 Independientes
+Sergio Correa De la Cerda VII Región del Maule N°36 Unión Demócrata Independiente
+María Angélica Cristi Marfil RM Región Metropolitana N°24 Unión Demócrata Independiente
+Renán Fuentealba Vildósola IV Región de Coquimbo N°9 Partido Demócrata Cristiano
+Jorge Ulloa Aguillón VIII Región del Bío Bío N°43 Unión Demócrata Independiente
+Gonzalo Uriarte Herrera RM Región Metropolitana N°31 Unión Demócrata Independiente
+Alfonso Vargas Lyng V Región de Valparaíso N°10 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5969-02","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+111 Texto contenido en el segundo informe. 44 30 9 37 Aprobado Sala Ver detalle votación
+87   32 11 11 66 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5969-02","No record","Veto emmEnd"

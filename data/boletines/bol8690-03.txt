@@ -1,0 +1,29 @@
+* * Bill summary * *
+"emmStart Summary 8690-03","Legislatura: 360
+Fecha de ingreso: martes 20 de noviembre de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8690-03
+Materia: Producto Perjudicial Para La Salud
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 10-11-2014 04:33:18
+* * Hitos de tramitación * *
+"emmStart Hitos 8690-03","Fecha Sesión Etapa Sub-etapa Documento
+20 de Nov. de 2012   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+21 de Nov. de 2012 68ª / 360 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Economía","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8690-03","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8690-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8690-03","Nombre
+Alejandro Navarro Brain","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8690-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8690-03","No record","Veto emmEnd"

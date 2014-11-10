@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 1851-07","Legislatura: 332
+Fecha de ingreso: martes 07 de mayo de 1996
+Estado: Primer trámite constitucional .
+Numero de boletín: 1851-07
+Materia: Plebiscito
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 15:32:32
+* * Hitos de tramitación * *
+"emmStart Hitos 1851-07","Fecha Sesión Etapa Sub-etapa Documento
+07 de May. de 1996   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+07 de May. de 1996 70ª / 332 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1851-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1851-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1851-07","Nombre Región Distrito Partido
+Gabriel Ascencio Mansilla Región N° Partido Demócrata Cristiano
+Andrés Aylwin Azócar Región N°30 Partido Demócrata Cristiano
+Ignacio Balbontin Arteaga Región N° Partido Demócrata Cristiano
+Sergio Elgueta Barrientos Región N°57 Partido Demócrata Cristiano
+Juan Carlos Latorre Carmona Región N°35 Partido Demócrata Cristiano
+Roberto León Ramírez Región N° Partido Demócrata Cristiano
+Sergio Ojeda Uribe Región N°55 Partido Demócrata Cristiano
+José Miguel Ortiz Novoa Región N°44 Partido Demócrata Cristiano
+Exequiel Silva Ortíz Región N° Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1851-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1851-07","No record","Veto emmEnd"

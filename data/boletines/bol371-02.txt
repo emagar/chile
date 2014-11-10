@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 371-02","Legislatura: 322
+Fecha de ingreso: miércoles 05 de junio de 1991
+Estado: Tramitación terminada (Ley Nº 19.067 - D.Oficial 01/07/1991)
+Numero de boletín: 371-02
+Materia: Salida De Tropas,Tropas Extranjeras
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 16:24:50
+* * Hitos de tramitación * *
+"emmStart Hitos 371-02","Fecha Sesión Etapa Sub-etapa Documento
+05 de Jun. de 1991   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+05 de Jun. de 1991 2ª / 322 Primer trámite constitucional / Senado Cuenta de proyecto
+13 de Jun. de 1991 6ª / 322 Primer trámite constitucional / Senado Discusión general Ver
+13 de Jun. de 1991 6ª / 322 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+13 de Jun. de 1991 6ª / 322 Primer trámite constitucional / Senado Primer informe de comisión Ver
+17 de Jun. de 1991 6ª / 322 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+18 de Jun. de 1991 8ª / 322 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+19 de Jun. de 1991   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+19 de Jun. de 1991 10ª / 322 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+19 de Jun. de 1991 10ª / 322 Segundo trámite constitucional / C. Diputados Discusión general Ver
+21 de Jun. de 1991 12ª / 322 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+21 de Jun. de 1991 12ª / 322 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 371-02","Fecha Etapa Informe Documento
+19 de Jun. de 1991 Segundo trámite constitucional C.Diputados Primer informe de comisión de Defensa Nacional Ver
+13 de Jun. de 1991 Primer trámite constitucional Senado Primer informe de comisión de Defensa Nacional Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 371-02","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+05 de Jun. de 1991   Simple    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 371-02","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 371-02","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 371-02","No record","Veto emmEnd"

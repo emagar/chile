@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 1091-04","Legislatura: 326
+Fecha de ingreso: martes 14 de septiembre de 1993
+Estado: Tramitación terminada (Ley Nº 19.249 - D.Oficial 30/09/1993)
+Numero de boletín: 1091-04
+Materia: Deportes,Selección Nacional De Futbol
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 02:56:33
+* * Hitos de tramitación * *
+"emmStart Hitos 1091-04","Fecha Sesión Etapa Sub-etapa Documento
+14 de Sep. de 1993   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+14 de Sep. de 1993 37ª / 326 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+14 de Sep. de 1993   Primer trámite constitucional / C. Diputados Eximido del trámite ante Comisión de Educación, Cultura, Deportes y Recreación. Pasa a Comisión de Hacienda
+14 de Sep. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+15 de Sep. de 1993 39ª / 326 Primer trámite constitucional / C. Diputados Discusión general Ver
+15 de Sep. de 1993 39ª / 326 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+15 de Sep. de 1993   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+15 de Sep. de 1993 26ª / 326 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+15 de Sep. de 1993   Segundo trámite constitucional / Senado Eximido del trámite ante Comisión
+15 de Sep. de 1993 26ª / 326 Segundo trámite constitucional / Senado Discusión única
+16 de Sep. de 1993   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+22 de Sep. de 1993   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+28 de Sep. de 1993 1ª / 327 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1091-04","Fecha Etapa Informe Documento
+14 de Sep. de 1993 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1091-04","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+14 de Sep. de 1993   Discusión inmediata    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1091-04","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1091-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1091-04","No record","Veto emmEnd"

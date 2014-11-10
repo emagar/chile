@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 930-04","Legislatura: 325
+Fecha de ingreso: jueves 04 de marzo de 1993
+Estado: Tramitación terminada (Ley Nº 19.238 - D.Oficial 30/08/1993)
+Numero de boletín: 930-04
+Materia: Universidad De Los Lagos,Universidades
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 00:51:25
+* * Hitos de tramitación * *
+"emmStart Hitos 930-04","Fecha Sesión Etapa Sub-etapa Documento
+04 de Mar. de 1993 50ª / 325 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+04 de Mar. de 1993   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+18 de May. de 1993 52ª / 325 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+18 de Jul. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+19 de Jul. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+20 de Jul. de 1993 12ª / 326 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+21 de Jul. de 1993 13ª / 326 Segundo trámite constitucional / Senado Discusión general Ver
+21 de Jul. de 1993   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+02 de Ago. de 1993   Tramitación terminada / Oficio Nº4791. comunica aprobación con modificaciones a Cámara de origen Ver
+10 de Ago. de 1993 16ª / 326 Tramitación terminada / Cuenta oficio Nº 1308, de la Cámara, comunicando aprobación enmiendas propuestas por el Senado","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 930-04","Fecha Etapa Informe Documento
+19 de Jul. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+18 de Jul. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 930-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 930-04","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 930-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 930-04","No record","Veto emmEnd"

@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 3611-04","Legislatura: 351
+Fecha de ingreso: jueves 15 de julio de 2004
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 3611-04
+Materia: Deportes
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 06:30:56
+* * Hitos de tramitación * *
+"emmStart Hitos 3611-04","Fecha Sesión Etapa Sub-etapa Documento
+15 de Jul. de 2004   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+15 de Jul. de 2004 16ª / 351 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+16 de May. de 2008   Primer trámite constitucional / C. Diputados Oficio Nº 353/2008. Solicitud de traslado. Ver
+20 de May. de 2008 32ª / 356 Primer trámite constitucional / C. Diputados Comisión de Educación solicita que proyecto sea trasladado a la Comisión Especial de Deportes. ACORDADO. Ver
+23 de Sep. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+30 de Sep. de 2008 82ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. Especial del Deporte. EN ESTADO DE TABLA. Ver
+30 de Sep. de 2008 82ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Ene. de 2010 119ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3611-04","Fecha Etapa Informe Documento
+23 de Sep. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Deportes Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3611-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3611-04","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Juan Bustos Ramírez V Región de Valparaíso N°12 Partido Socialista","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3611-04","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+119 Aprobado el Informe que propone el rechazo del proyecto. 42 4 2 0 Rechazado Sala Ver detalle votación
+39 Votación General 0 5 1 7   Especial Deportes Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3611-04","No record","Veto emmEnd"

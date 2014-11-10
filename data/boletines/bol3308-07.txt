@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 3308-07","Legislatura: 349
+Fecha de ingreso: jueves 07 de agosto de 2003
+Estado: Archivado .
+Numero de boletín: 3308-07
+Materia: Reforma Constitucional,Seguridad Ciudadana,Fuerzas De Orden Y Seguridad
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 01:22:20
+* * Hitos de tramitación * *
+"emmStart Hitos 3308-07","Fecha Sesión Etapa Sub-etapa Documento
+07 de Ago. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+07 de Ago. de 2003 27ª / 349 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+04 de Nov. de 2003   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de Nov. de 2003 22ª / 350 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Abr. de 2010   Primer trámite constitucional / C. Diputados Archivado Solicitado por Comités Parlamentarios","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3308-07","Fecha Etapa Informe Documento
+04 de Nov. de 2003 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3308-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+07 de Ago. de 2003   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3308-07","Nombre Región Distrito Partido
+Gabriel Ascencio Mansilla X Región de los Lagos N°58 Partido Demócrata Cristiano
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Juan Bustos Ramírez V Región de Valparaíso N°12 Partido Socialista
+Guillermo Ceroni Fuentes VII Región del Maule N°40 Partido Por la Democracia
+Zarko Luksic Sandoval RM Región Metropolitana N°16 Partido Demócrata Cristiano
+Waldo Mora Longa II Región de Antofagasta N°3 Partido Demócrata Cristiano
+Aníbal Pérez Lobos VI Región del Libertador Bernardo O' Higgins N°35 Partido Por la Democracia
+Eduardo Saffirio Suárez IX Región de la Araucanía N°50 Partido Demócrata Cristiano
+Laura Soto González V Región de Valparaíso N°13 Partido Por la Democracia
+Patricio Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3308-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3308-07","No record","Veto emmEnd"

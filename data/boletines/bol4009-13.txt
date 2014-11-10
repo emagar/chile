@@ -1,0 +1,55 @@
+* * Bill summary * *
+"emmStart Summary 4009-13","Legislatura: 353
+Fecha de ingreso: jueves 06 de octubre de 2005
+Estado: Tramitación terminada (Ley Nº 20.101 - D.Oficial 28/04/2006)
+Numero de boletín: 4009-13
+Materia: Accidentes De Trabajo
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 05-11-2014 07:49:26
+* * Hitos de tramitación * *
+"emmStart Hitos 4009-13","Fecha Sesión Etapa Sub-etapa Documento
+06 de Oct. de 2005   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+11 de Oct. de 2005 40ª / 353 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social y a Comisión de Hacienda
+14 de Dic. de 2005 50ª / 353 Primer trámite constitucional / Senado Cuenta del Mensaje 462-353 que hace presente la urgencia Suma
+20 de Dic. de 2005 51ª / 353 Primer trámite constitucional / Senado Cuenta de oficio N° T/81 de la Comisión de Trabajo, mediante el cual solicita a la Sala autorización para discutir este PL en general y en particular con motivo de su primer informe. Se accede a lo solicitado.
+23 de Dic. de 2005   Primer trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+03 de Ene. de 2006 54ª / 353 Primer trámite constitucional / Senado Cuenta del Mensaje 488-353 que retira y hace presente la urgencia Suma
+05 de Ene. de 2006   Primer trámite constitucional / Senado Primer informe de comisión Ver
+17 de Ene. de 2006 58ª / 353 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+18 de Ene. de 2006 59ª / 353 Primer trámite constitucional / Senado Discusión general. Queda para segunda discusión. Ver
+07 de Mar. de 2006 60ª / 353 Primer trámite constitucional / Senado Cuenta del Mensaje 528-350 que retira la urgencia Suma
+08 de Mar. de 2006 61ª / 353 Primer trámite constitucional / Senado Discusión general Ver
+08 de Mar. de 2006   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+14 de Mar. de 2006 1ª / 354 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver Ver
+04 de Abr. de 2006 8ª / 354 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 32-354 que hace presente la urgencia Simple Ver
+04 de Abr. de 2006   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Abr. de 2006 11ª / 354 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Trabajo Ver
+11 de Abr. de 2006 11ª / 354 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+11 de Abr. de 2006   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+12 de Abr. de 2006 7ª / 354 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+12 de Abr. de 2006   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4009-13","Fecha Etapa Informe Documento
+04 de Abr. de 2006 Segundo trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver
+05 de Ene. de 2006 Primer trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+23 de Dic. de 2005 Primer trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4009-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Abr. de 2006   Simple 32-354  
+03 de Ene. de 2006 07 de Mar. de 2006 Suma 488-353 528-350
+14 de Dic. de 2005 03 de Ene. de 2006 Suma 462-353 488-353","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4009-13","Nombre
+Ministerio de Hacienda
+Ministerio de Trabajo y Previsión Social","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4009-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+11   109 0 1 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4009-13","No record","Veto emmEnd"

@@ -1,0 +1,60 @@
+* * Bill summary * *
+"emmStart Summary 2455-07","Legislatura: 341
+Fecha de ingreso: martes 18 de enero de 2000
+Estado: Tramitación terminada (Ley Nº 19.743 - D.Oficial 08/08/2001)
+Numero de boletín: 2455-07
+Materia: Consejo De Defensa Del Estado
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 00:40:42
+* * Hitos de tramitación * *
+"emmStart Hitos 2455-07","Fecha Sesión Etapa Sub-etapa Documento
+18 de Ene. de 2000   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+18 de Ene. de 2000 23ª / 341 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+25 de Ene. de 2000   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+26 de Ene. de 2000 26ª / 341 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+09 de Mar. de 2000 29ª / 341 Primer trámite constitucional / C. Diputados Discusión general Ver
+09 de Mar. de 2000   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+14 de Mar. de 2000 23ª / 341 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+03 de Ene. de 2001   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+03 de Ene. de 2001 20ª / 343 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Ene. de 2001 22ª / 343 Segundo trámite constitucional / Senado Discusión general Ver
+15 de Ene. de 2001   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+16 de Ene. de 2001 34ª / 343 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+15 de Mar. de 2001 44ª / 343 Tercer trámite constitucional / C. Diputados Discusión única Ver
+20 de Mar. de 2001   Tercer trámite constitucional / C. Diputados Oficio rechazo modificaciones a Cámara Revisora Ver
+21 de Mar. de 2001 31ª / 343 Comisión Mixta por rechazo de modificaciones / Senado Cuenta oficio rechazo a modificaciones
+21 de Mar. de 2001   Comisión Mixta por rechazo de modificaciones / Senado Oficio integrantes de Comisión Mixta. del Senado a Cámara de Diputados. Ver
+22 de Mar. de 2001 47ª / 343 Tercer trámite constitucional / C. Diputados Cuenta Oficio del Senado, comunica que tomó conocimiento de rechazo de Cámara de Diputados a modificaciones propuestas Ver Ver
+05 de Jun. de 2001   Comisión Mixta por rechazo de modificaciones / Senado Informe de Comisión Mixta Ver
+06 de Jun. de 2001 2ª / 344 Disc. informe C.Mixta por rechazo de modific. en C. Origen / C. Diputados Cuenta informe Comisión Mixta Ver
+20 de Jun. de 2001 8ª / 344 Disc. informe C.Mixta por rechazo de modific. en C. Origen / C. Diputados Discusión informe de Comisión Mixta Ver
+20 de Jun. de 2001   Disc. informe C.Mixta por rechazo de modific. en C. Origen / C. Diputados Oficio aprobación de informe de Comisión Mixta a C. Revisora Ver
+03 de Jul. de 2001 9ª / 344 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Cuenta oficio aprobación de informe de Comisión Mixta
+10 de Jul. de 2001   Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Oficio aprobación de informe de Comisión Mixta a C.de Origen Ver
+10 de Jul. de 2001 12ª / 344 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Discusión informe de Comisión Mixta
+11 de Jul. de 2001 15ª / 344 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación de informe de Comisión Mixta Ver
+11 de Jul. de 2001 15ª / 345 Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2455-07","Fecha Etapa Informe Documento
+05 de Jun. de 2001 Comisión Mixta por rechazo de modificaciones Senado Informe de Comisión Mixta de Constitución, Legislación, Justicia y Reglamento Ver
+03 de Ene. de 2001 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+25 de Ene. de 2000 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2455-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+16 de Ene. de 2001 06 de Mar. de 2001 Suma 251-343 284-343
+03 de Ene. de 2001 16 de Ene. de 2001 Suma 214-343 251-343
+05 de Dic. de 2000 03 de Ene. de 2001 Simple 169-343 214-343
+18 de Ene. de 2000   Simple 275-341  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2455-07","Nombre Región Distrito Partido
+Ministerio de Justicia      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2455-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2455-07","No record","Veto emmEnd"

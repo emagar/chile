@@ -1,0 +1,54 @@
+* * Bill summary * *
+"emmStart Summary 6270-19","Legislatura: 356
+Fecha de ingreso: martes 16 de diciembre de 2008
+Estado: Tramitación terminada (Ley Nº 20.476 - D.Oficial 10/12/2010)
+Numero de boletín: 6270-19 Refundido con: 6936-15,6304-19,5919-15,5552-15
+Materia: Zona Primaria De Servicio Público Telefónico Local,Servicio Público De Telefonía
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 04:49:25
+* * Hitos de tramitación * *
+"emmStart Hitos 6270-19","Fecha Sesión Etapa Sub-etapa Documento
+16 de Dic. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+16 de Dic. de 2008 116ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Ciencias y Tecnología Ver
+03 de Ago. de 2010 58ª / 358 Primer trámite constitucional / C. Diputados Comunicación de la Comisión de Ciencia y Tecnología por la cual solicita acuerdo de la Sala, para refundir proyectos, de conformidad a lo dispuesto en el artículo 17 A de la Ley Orgánica Constitucional del Congreso Nacional. Se acuerda refundir proyectos 6270-19; 6304-19, y 6936-19 Ver
+01 de Sep. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de Sep. de 2010 71ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+16 de Sep. de 2010 77ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+16 de Sep. de 2010   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+28 de Sep. de 2010 55ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones
+10 de Nov. de 2010   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+10 de Nov. de 2010 66ª / 358 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Nov. de 2010 66ª / 358 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 16/11/2010 Ver
+16 de Nov. de 2010 68ª / 358 Segundo trámite constitucional / Senado Discusión particular Ver
+16 de Nov. de 2010   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+17 de Nov. de 2010 104ª / 358 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+18 de Nov. de 2010   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6270-19","Fecha Etapa Informe Documento
+10 de Nov. de 2010 Segundo trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver
+01 de Sep. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Ciencias y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6270-19","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6270-19","Nombre Región Distrito Partido
+Claudio Alvarado Andrade X Región de los Lagos N°58 Unión Demócrata Independiente
+Ramón Barros Montero VI Región del Libertador Bernardo O' Higgins N°35 Unión Demócrata Independiente
+Eugenio Bauer Jouanne VI Región del Libertador Bernardo O' Higgins N°33 Unión Demócrata Independiente
+Edmundo Eluchans Urenda V Región de Valparaíso N°15 Unión Demócrata Independiente
+Marcelo Forni Lobos V Región de Valparaíso N°11 Unión Demócrata Independiente
+Javier Hernández Hernández X Región de los Lagos N°55 Unión Demócrata Independiente
+Iván Norambuena Farías VIII Región del Bío Bío N°46 Unión Demócrata Independiente
+Carlos Recondo Lavanderos X Región de los Lagos N°56 Unión Demócrata Independiente
+Ignacio Urrutia Bonilla VII Región del Maule N°40 Unión Demócrata Independiente
+Gastón Von Mühlenbrock Zamora XIV Región de los Ríos N°54 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6270-19","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+12 Votación General 8 0 0 5   Ciencia y Tecnología Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6270-19","No record","Veto emmEnd"

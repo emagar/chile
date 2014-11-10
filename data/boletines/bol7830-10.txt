@@ -1,0 +1,62 @@
+* * Bill summary * *
+"emmStart Summary 7830-10","Legislatura: 359
+Fecha de ingreso: lunes 01 de agosto de 2011
+Estado: Tramitación terminada (D.S. Nº 23 - D.Oficial 18/04/2012)
+Numero de boletín: 7830-10
+Materia: Acuerdo De Libre Comercio Chile-Malasia (13 De Noviembre 2010: Yokohama),Acuerdos De Libre Comercio
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 11:41:34
+* * Hitos de tramitación * *
+"emmStart Hitos 7830-10","Fecha Sesión Etapa Sub-etapa Documento
+01 de Ago. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Ago. de 2011 61ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+04 de Ago. de 2011 65ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 344*-359 que hace presente la urgencia Suma Ver
+16 de Ago. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+30 de Ago. de 2011 75ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 359-359 que hace presente la urgencia Suma Ver
+30 de Ago. de 2011 75ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+27 de Sep. de 2011 85ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 395-359 que hace presente la urgencia Suma Ver
+03 de Oct. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+04 de Oct. de 2011 89ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+05 de Oct. de 2011 91ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+05 de Oct. de 2011   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+12 de Oct. de 2011 62ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 421-359 que retira y hace presente la urgencia Suma
+02 de Nov. de 2011 65ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 435-359 que retira y hace presente la urgencia Suma
+10 de Nov. de 2011   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+16 de Nov. de 2011 69ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 450-359 que retira y hace presente la urgencia Suma
+23 de Nov. de 2011   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+12 de Dic. de 2011 79ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 478-359 que retira y hace presente la urgencia Suma Ver
+13 de Dic. de 2011 80ª / 359 Segundo trámite constitucional / Senado Discusión general Ver
+13 de Dic. de 2011   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+15 de Dic. de 2011 122ª / 359 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+15 de Dic. de 2011   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7830-10","Fecha Etapa Informe Documento
+23 de Nov. de 2011 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+10 de Nov. de 2011 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+03 de Oct. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+16 de Ago. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7830-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+12 de Dic. de 2011   Suma 478-359  
+16 de Nov. de 2011 12 de Dic. de 2011 Suma 450-359 478-359
+02 de Nov. de 2011 16 de Nov. de 2011 Suma 435-359 450-359
+12 de Oct. de 2011 02 de Nov. de 2011 Suma 421-359 435-359
+27 de Sep. de 2011 12 de Oct. de 2011 Suma 395-359 421-359
+30 de Ago. de 2011   Suma 359-359  
+04 de Ago. de 2011   Suma 344*-359  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7830-10","Nombre Región Distrito Partido
+Ministerio de Agricultura      
+Ministerio de Hacienda      
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7830-10","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+91   88 0 0 32 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7830-10","No record","Veto emmEnd"

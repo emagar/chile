@@ -1,0 +1,33 @@
+* * Bill summary * *
+"emmStart Summary 6677-06","Legislatura: 357
+Fecha de ingreso: martes 01 de septiembre de 2009
+Estado: Primer trámite constitucional .
+Numero de boletín: 6677-06
+Materia: Disolución De Partidos Políticos,Partidos Políticos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 15:02:32
+* * Hitos de tramitación * *
+"emmStart Hitos 6677-06","Fecha Sesión Etapa Sub-etapa Documento
+01 de Sep. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+01 de Sep. de 2009 73ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6677-06","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6677-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6677-06","Nombre Región Distrito Partido
+René Alinco Bustos XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Partido Por la Democracia
+Marco Enríquez-Ominami Gumucio V Región de Valparaíso N°10 Independientes
+Alvaro Escobar Rufatt RM Región Metropolitana N°20 Independientes
+Pablo Lorenzini Basso VII Región del Maule N°38 Partido Demócrata Cristiano
+Esteban Valenzuela Van Treek VI Región del Libertador Bernardo O' Higgins N°32 Independientes","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6677-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6677-06","No record","Veto emmEnd"

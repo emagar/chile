@@ -1,0 +1,51 @@
+* * Bill summary * *
+"emmStart Summary 1113-06","Legislatura: 327
+Fecha de ingreso: martes 02 de noviembre de 1993
+Estado: Tramitación terminada (Ley Nº 19.581 - D.Oficial 01/09/1998)
+Numero de boletín: 1113-06
+Materia: Zonas Fronterizas
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 03:13:49
+* * Hitos de tramitación * *
+"emmStart Hitos 1113-06","Fecha Sesión Etapa Sub-etapa Documento
+02 de Nov. de 1993   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Nov. de 1993 11ª / 327 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+21 de Nov. de 1994   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+16 de Ene. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Mar. de 1995 42ª / 330 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+02 de Mar. de 1995 42ª / 330 Primer trámite constitucional / C. Diputados Discusión general Ver
+07 de Mar. de 1995   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+07 de Mar. de 1995 41ª / 330 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización
+13 de Sep. de 1996   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Relaciones Exteriores Ver
+19 de May. de 1997   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+20 de May. de 1997 54ª / 334 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+17 de Jul. de 1997 18ª / 335 Segundo trámite constitucional / Senado Discusión general Ver
+05 de Ago. de 1997   Segundo trámite constitucional / Senado Boletín de indicaciones
+08 de Jul. de 1998 12ª / 338 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+14 de Jul. de 1998 13ª / 338 Segundo trámite constitucional / Senado Discusión particular Ver
+15 de Jul. de 1998   Tramitación terminada / Oficio Nº12637. comunica aprobación con modificaciones a Cámara de origen Ver
+15 de Jul. de 1998   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+16 de Jul. de 1998 18ª / 338 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+04 de Ago. de 1998 22ª / 338 Tercer trámite constitucional / C. Diputados Discusión única Ver
+04 de Ago. de 1998   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1113-06","Fecha Etapa Informe Documento
+23 de Jun. de 1998 Segundo trámite constitucional Senado Segundo informe de comisión de Gobierno, Descentralización y Regionalización Ver
+19 de May. de 1997 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+13 de Sep. de 1996 Segundo trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver
+16 de Ene. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+21 de Nov. de 1994 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1113-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1113-06","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1113-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1113-06","No record","Veto emmEnd"

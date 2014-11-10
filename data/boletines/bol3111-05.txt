@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 3111-05","Legislatura: 348
+Fecha de ingreso: miércoles 26 de marzo de 2003
+Estado: Archivado .
+Numero de boletín: 3111-05
+Materia: Comisión Especial Mixta De Presupuesto
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 23:18:02
+* * Hitos de tramitación * *
+"emmStart Hitos 3111-05","Fecha Sesión Etapa Sub-etapa Documento
+05 de Nov. de 2002   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+05 de Nov. de 2002 14ª / 348 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+02 de Dic. de 2003 25ª / 350 Primer trámite constitucional / C. Diputados Cuenta Oficio de Comisión de Hacienda, solicita archivo de proyecto. En tabla, se accede al archivo solicitado Ver
+02 de Dic. de 2003   Primer trámite constitucional / C. Diputados Archivado","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3111-05","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3111-05","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3111-05","Nombre Región Distrito Partido
+Alberto Cardemil Herrera RM Región Metropolitana N°22 Renovación Nacional
+Julio Dittborn Cordúa RM Región Metropolitana N°23 Unión Demócrata Independiente
+Camilo Escalona Medina VIII Región del Bío Bío N°46 Partido Socialista
+Carlos Hidalgo González V Región de Valparaíso N°15 Independientes
+Enrique Jaramillo Becker X Región de los Lagos N°54 Partido Por la Democracia
+Pablo Lorenzini Basso VII Región del Maule N°38 Partido Demócrata Cristiano
+José Miguel Ortiz Novoa VIII Región del Bío Bío N°44 Partido Demócrata Cristiano
+Exequiel Silva Ortíz X Región de los Lagos N°53 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3111-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3111-05","No record","Veto emmEnd"

@@ -1,0 +1,59 @@
+* * Bill summary * *
+"emmStart Summary 5918-07","Legislatura: 356
+Fecha de ingreso: miércoles 11 de junio de 2008
+Estado: Archivado .
+Numero de boletín: 5918-07
+Materia: Crimenes De Guerra,Código Penal,Crímenes De Lesa Humanidad,Genocidio
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 08-11-2014 00:46:22
+* * Hitos de tramitación * *
+"emmStart Hitos 5918-07","Fecha Sesión Etapa Sub-etapa Documento
+11 de Jun. de 2008   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+17 de Jun. de 2008 27ª / 356 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+02 de Sep. de 2008 47ª / 356 Primer trámite constitucional / Senado Cuenta del Mensaje 741-356 que hace presente la urgencia Simple
+09 de Sep. de 2008 50ª / 356 Primer trámite constitucional / Senado Cuenta del Mensaje 771-356 que retira y hace presente la urgencia Suma
+30 de Sep. de 2008 55ª / 356 Primer trámite constitucional / Senado Cuenta del Mensaje 823-356 que retira y hace presente la urgencia Suma
+14 de Oct. de 2008 60ª / 356 Primer trámite constitucional / Senado Cuenta del Mensaje 902-356 que retira y hace presente la urgencia Suma
+28 de Oct. de 2008 62ª / 356 Primer trámite constitucional / Senado Cuenta del Mensaje 929-356 que retira y hace presente la urgencia Suma
+11 de Nov. de 2008 67ª / 356 Primer trámite constitucional / Senado Cuenta del Mensaje 1017-356 que retira y hace presente la urgencia Suma
+25 de Nov. de 2008 73ª / 356 Primer trámite constitucional / Senado Cuenta del Mensaje 1116-356 que retira y hace presente la urgencia Suma
+09 de Dic. de 2008 77ª / 356 Primer trámite constitucional / Senado Cuenta del Mensaje 1180-356 que retira y hace presente la urgencia Suma
+18 de Dic. de 2008   Primer trámite constitucional / Senado Primer informe de comisión Ver
+23 de Dic. de 2008 81ª / 356 Primer trámite constitucional / Senado Cuenta del Mensaje 1250-356 que retira la urgencia Suma
+07 de Ene. de 2009 83ª / 356 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+07 de Ene. de 2009 83ª / 356 Primer trámite constitucional / Senado Cuenta del Mensaje 1300-356 que hace presente la urgencia Suma
+20 de Ene. de 2009 87ª / 356 Primer trámite constitucional / Senado Cuenta del Mensaje 1395-356 que retira y hace presente la urgencia Suma
+21 de Ene. de 2009 89ª / 356 Primer trámite constitucional / Senado Cuenta del Mensaje 1426-356 que retira la urgencia Suma
+18 de Mar. de 2009   Tramitación terminada / Archivado Por rechazo en general del proyecto.
+18 de Mar. de 2009 4ª / 357 Primer trámite constitucional / Senado Discusión general Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5918-07","Fecha Etapa Informe Documento
+18 de Dic. de 2008 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5918-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+20 de Ene. de 2009 21 de Ene. de 2009 Suma 1395-356 1426-356
+07 de Ene. de 2009 16 de Ene. de 2009 Suma 1300-356 1395-356
+09 de Dic. de 2008 23 de Dic. de 2008 Suma 1180-356 1250-356
+25 de Nov. de 2008 09 de Dic. de 2008 Suma 1116-356 1180-356
+11 de Nov. de 2008 25 de Nov. de 2008 Suma 1017-356 1116-356
+28 de Oct. de 2008 10 de Nov. de 2008 Suma 929-356 1017-356
+14 de Oct. de 2008 24 de Oct. de 2008 Suma 902-356 929-356
+30 de Sep. de 2008 13 de Oct. de 2008 Suma 823-356 902-356
+09 de Sep. de 2008 26 de Sep. de 2008 Suma 771-356 823-356
+02 de Sep. de 2008 09 de Sep. de 2008 Simple 741-356 771-356","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5918-07","Nombre
+Soledad Alvear Valenzuela
+Camilo Escalona Medina
+Guido Girardi Lavín
+José Antonio Gómez Urrutia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5918-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5918-07","No record","Veto emmEnd"

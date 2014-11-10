@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 2401-12","Legislatura: 340
+Fecha de ingreso: jueves 09 de septiembre de 1999
+Estado: Archivado .
+Numero de boletín: 2401-12
+Materia: Vertederos Clandestinos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 00:07:42
+* * Hitos de tramitación * *
+"emmStart Hitos 2401-12","Fecha Sesión Etapa Sub-etapa Documento
+09 de Sep. de 1999   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+09 de Sep. de 1999 39ª / 340 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver
+09 de Sep. de 1999 39ª / 340 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver
+06 de Sep. de 2000   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+06 de Sep. de 2000 35ª / 342 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+12 de Sep. de 2000 37ª / 342 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+04 de Oct. de 2000 2ª / 343 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+09 de Jun. de 2010   Primer trámite constitucional / C. Diputados Archivado Constitución remite al archivo por no tener tramitación más de dos años.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2401-12","Fecha Etapa Informe Documento
+06 de Sep. de 2000 Primer trámite constitucional C.Diputados Primer informe de comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2401-12","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2401-12","Nombre Región Distrito Partido
+Mario Acuña Cisternas IX Región de la Araucanía N°52 Partido Demócrata Cristiano
+Gustavo Alessandri Valdés RM Región Metropolitana N°20 Renovación Nacional
+Rafael Arratia Valdebenito VI Región del Libertador Bernardo O' Higgins N°35 Partido Demócrata Cristiano
+Roberto Delmastro Naso X Región de los Lagos N°53 Independientes
+Guido Girardi Lavín RM Región Metropolitana N°18 Partido Por la Democracia
+Alejandro Navarro Brain VIII Región del Bío Bío N°45 Partido Socialista","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2401-12","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2401-12","No record","Veto emmEnd"

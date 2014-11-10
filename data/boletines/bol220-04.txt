@@ -1,0 +1,54 @@
+* * Bill summary * *
+"emmStart Summary 220-04","Legislatura: 321
+Fecha de ingreso: martes 11 de diciembre de 1990
+Estado: Tramitación terminada (Ley Nº 19.138 - D.Oficial 13/05/1992)
+Numero de boletín: 220-04
+Materia: Educacion,Ayuda Estatal A La Educación
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 07:42:10
+* * Hitos de tramitación * *
+"emmStart Hitos 220-04","Fecha Sesión Etapa Sub-etapa Documento
+11 de Dic. de 1990 19ª / 321 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+11 de Dic. de 1990   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+15 de May. de 1991   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+15 de May. de 1991   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+01 de Oct. de 1991 1ª / 323 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología y a Comisión de Hacienda
+22 de Nov. de 1991   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+12 de Dic. de 1991   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+18 de Dic. de 1991 28ª / 323 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+19 de Dic. de 1991 29ª / 323 Segundo trámite constitucional / Senado Discusión general Ver
+15 de Ene. de 1992   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+21 de Ene. de 1992   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+22 de Ene. de 1992 36ª / 323 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+22 de Ene. de 1992 36ª / 323 Segundo trámite constitucional / Senado Discusión particular Ver
+23 de Ene. de 1992   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+28 de Ene. de 1992 40ª / 323 Comisión Mixta por rechazo de modificaciones / Senado Cuenta oficio rechazo a modificaciones
+12 de Mar. de 1992   Comisión Mixta por rechazo de modificaciones / Senado Informe de Comisión Mixta Ver
+01 de Abr. de 1992 48ª / 323 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Cuenta oficio aprobación de informe de Comisión Mixta
+01 de Abr. de 1992 48ª / 323 Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Discusión informe de Comisión Mixta
+01 de Abr. de 1992   Disc. informe C.Mixta por rechazo de modif. C. Revisora / Senado Oficio aprobación de informe de Comisión Mixta a C.de Origen Ver
+29 de Abr. de 2003   Primer trámite constitucional / C. Diputados Se incluye en convocatoria a Legislatura Extraordinaria 348","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 220-04","Fecha Etapa Informe Documento
+27 de Nov. de 2002 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+12 de Mar. de 1992 Comisión Mixta por rechazo de modificaciones Senado Informe de Comisión Mixta de Educación, Cultura, Ciencia y Tecnología Ver
+21 de Ene. de 1992 Segundo trámite constitucional Senado Segundo informe de comisión de Hacienda Ver
+15 de Ene. de 1992 Segundo trámite constitucional Senado Segundo informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+12 de Dic. de 1991 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+22 de Nov. de 1991 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+15 de May. de 1991 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 220-04","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+11 de Dic. de 1990   Simple    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 220-04","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 220-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 220-04","No record","Veto emmEnd"

@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 3904-10","Legislatura: 353
+Fecha de ingreso: miércoles 22 de junio de 2005
+Estado: Tramitación terminada (D.S. Nº 35 - D.Oficial 18/04/2012)
+Numero de boletín: 3904-10
+Materia: Acuerdos Internacionales,Mercosur,Extradición
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 06:39:49
+* * Hitos de tramitación * *
+"emmStart Hitos 3904-10","Fecha Sesión Etapa Sub-etapa Documento
+22 de Jun. de 2005 9ª / 353 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+22 de Jun. de 2005 9ª / 353 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 73-353 que hace presente la urgencia Suma Ver
+22 de Jun. de 2005   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+05 de Jul. de 2005 11ª / 353 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 85-353 que retira y hace presente la urgencia Suma Ver
+05 de Jul. de 2005   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+06 de Jul. de 2005 13ª / 353 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+12 de Jul. de 2005 15ª / 353 Primer trámite constitucional / C. Diputados Discusión única Ver
+12 de Jul. de 2005   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+19 de Jul. de 2005 18ª / 353 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores Ver
+19 de Jul. de 2005 18ª / 353 Segundo trámite constitucional / Senado Cuenta del Mensaje 123-353 que retira la urgencia Suma
+19 de Jul. de 2011   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+19 de Jul. de 2011 35ª / 359 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+20 de Jul. de 2011 36ª / 359 Segundo trámite constitucional / Senado Discusión general Ver
+20 de Jul. de 2011   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+21 de Jul. de 2011 60ª / 359 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+21 de Jul. de 2011   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3904-10","Fecha Etapa Informe Documento
+19 de Jul. de 2011 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+05 de Jul. de 2005 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3904-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+05 de Jul. de 2005 19 de Jul. de 2005 Suma 85-353 123-353
+22 de Jun. de 2005 05 de Jul. de 2005 Suma 73-353 85-353","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3904-10","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3904-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3904-10","No record","Veto emmEnd"

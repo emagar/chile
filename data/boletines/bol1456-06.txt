@@ -1,0 +1,50 @@
+* * Bill summary * *
+"emmStart Summary 1456-06","Legislatura: 330
+Fecha de ingreso: martes 13 de diciembre de 1994
+Estado: Archivado .
+Numero de boletín: 1456-06
+Materia: Aeropuertos
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 09:20:22
+* * Hitos de tramitación * *
+"emmStart Hitos 1456-06","Fecha Sesión Etapa Sub-etapa Documento
+13 de Dic. de 1994   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+13 de Dic. de 1994 26ª / 330 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social
+12 de Ago. de 1998   Primer trámite constitucional / Senado Primer informe de comisión Ver
+12 de Ago. de 1998 20ª / 338 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+17 de Mar. de 1999 27ª / 339 Primer trámite constitucional / Senado Segunda Discusión Ver
+31 de Mar. de 1999 29ª / 339 Primer trámite constitucional / Senado Discusión general Ver
+05 de Abr. de 1999   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+06 de Abr. de 1999 48ª / 339 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+06 de Abr. de 1999 48ª / 339 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+14 de Mar. de 2001   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+15 de Mar. de 2001 44ª / 343 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+22 de Ago. de 2001 31ª / 344 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+03 de Oct. de 2001 3ª / 345 Segundo trámite constitucional / C. Diputados Discusión general. Se solicita informe complementario Remite proyecto a la Comisión de Constitución, para informe de constitucionalidad. Ver
+16 de Ago. de 2006 44ª / 354 Archivado / Cuenta de Oficio N°6289, de 3 de agosto de 2006, de la Cámara de Diputados, en que solicita acuerdo del Senado para archivar el proyecto. Se accede a lo solicitado. Ver Ver
+31 de Ago. de 2006   Archivado / El Senado, mediante oficio N° 28.121 dirigido a la Cámara de Diputados, comunica que ha accedido al archivo solicitado.
+05 de Sep. de 2006 69ª / 354 Archivado / Senado comunica que aceptó proposición de la Cámara de archivar el proyecto. Se accede al archivo. Ver
+09 de Jun. de 2009 37ª / 357 Archivado / Comisipon de Constitución archiva proyecto. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1456-06","Fecha Etapa Informe Documento
+14 de Mar. de 2001 Segundo trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver
+12 de Ago. de 1998 Primer trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1456-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+02 de Oct. de 2001   Simple 19-345  
+05 de Sep. de 2001   Simple 205-344  
+09 de Ene. de 2001 06 de Mar. de 2001 Simple 238-343 284-343","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1456-06","Nombre
+Juan Hamilton Depassier
+Adolfo Zaldívar Larraín","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1456-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1456-06","No record","Veto emmEnd"

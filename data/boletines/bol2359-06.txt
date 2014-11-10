@@ -1,0 +1,52 @@
+* * Bill summary * *
+"emmStart Summary 2359-06","Legislatura: 340
+Fecha de ingreso: martes 06 de julio de 1999
+Estado: Tramitación terminada (Ley Nº 19.673 - D.Oficial 05/05/2000)
+Numero de boletín: 2359-06
+Materia: Asociaciones De Funcionarios Del Congreso Nacional
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 23:41:43
+* * Hitos de tramitación * *
+"emmStart Hitos 2359-06","Fecha Sesión Etapa Sub-etapa Documento
+06 de Jul. de 1999   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Jul. de 1999 14ª / 340 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+05 de Sep. de 1999   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Oct. de 1999 1ª / 341 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+05 de Ene. de 2000 22ª / 341 Primer trámite constitucional / C. Diputados Cuenta Oficio del Ejecutivo, incluye proyecto en convocatoria a legislatura extraordinaria Ver
+07 de Mar. de 2000   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+07 de Mar. de 2000 27ª / 341 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+14 de Mar. de 2000 23ª / 341 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización
+22 de Mar. de 2000   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+04 de Abr. de 2000 27ª / 341 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+04 de Abr. de 2000 27ª / 341 Segundo trámite constitucional / Senado Discusión general Ver
+05 de Abr. de 2000   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+06 de Abr. de 2000 38ª / 341 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+06 de Abr. de 2000   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2359-06","Fecha Etapa Informe Documento
+22 de Mar. de 2000 Segundo trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver
+05 de Sep. de 1999 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2359-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2359-06","Nombre Región Distrito Partido
+Mario Acuña Cisternas IX Región de la Araucanía N°52 Partido Demócrata Cristiano
+Gustavo Alessandri Valdés RM Región Metropolitana N°20 Renovación Nacional
+Francisco Huenchumilla Jaramillo IX Región de la Araucanía N°50 Partido Demócrata Cristiano
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+Iván Moreira Barros RM Región Metropolitana N°27 Unión Demócrata Independiente
+Fanny Pollarolo Villa II Región de Antofagasta N°3 Partido Socialista
+Baldo Prokurica Prokurica III Región de Atacama N°6 Renovación Nacional
+Laura Soto González V Región de Valparaíso N°14 Partido Por la Democracia
+Alfonso Vargas Lyng V Región de Valparaíso N°10 Renovación Nacional
+Edmundo Villouta Concha IX Región de la Araucanía N°48 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2359-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2359-06","No record","Veto emmEnd"

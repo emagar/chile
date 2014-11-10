@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 6357-24","Legislatura: 356
+Fecha de ingreso: martes 13 de enero de 2009
+Estado: Tramitación terminada (Ley Nº 20.353 - D.Oficial 11/06/2009)
+Numero de boletín: 6357-24
+Materia: Isla Negra (Chile),Monumentos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 05:55:25
+* * Hitos de tramitación * *
+"emmStart Hitos 6357-24","Fecha Sesión Etapa Sub-etapa Documento
+13 de Ene. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Ene. de 2009 122ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de la Cultura y las Artes Ver
+18 de Mar. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+31 de Mar. de 2009 6ª / 357 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+15 de Abr. de 2009 16ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+15 de Abr. de 2009   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+28 de Abr. de 2009 12ª / 357 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+12 de May. de 2009   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+13 de May. de 2009 17ª / 357 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+20 de May. de 2009 21ª / 357 Segundo trámite constitucional / Senado Discusión general Ver
+25 de May. de 2009   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+02 de Jun. de 2009   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+02 de Jun. de 2009 34ª / 357 Trámite de aprobacion presidencial / C. Diputados Senado comunica que aprobó, en los mismos términos que la Cámara de Diputados. A la Presidenta de la República. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6357-24","Fecha Etapa Informe Documento
+12 de May. de 2009 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+18 de Mar. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de la Cultura y las Artes Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6357-24","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6357-24","Nombre Región Distrito Partido
+Edmundo Eluchans Urenda V Región de Valparaíso N°15 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6357-24","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+16   90 0 0 30 Aprobado Sala Ver detalle votación
+20 Votación General 5 0 0 8   Cultura Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6357-24","No record","Veto emmEnd"

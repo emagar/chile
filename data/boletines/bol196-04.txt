@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 196-04","Legislatura: 321
+Fecha de ingreso: miércoles 31 de octubre de 1990
+Estado: Tramitación terminada (Ley Nº 19.051 - D.Oficial 15/03/1991)
+Numero de boletín: 196-04
+Materia: Monumentos
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 07:06:28
+* * Hitos de tramitación * *
+"emmStart Hitos 196-04","Fecha Sesión Etapa Sub-etapa Documento
+31 de Oct. de 1990   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+06 de Nov. de 1990 9ª / 321 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a la Comisión de Educación y Cultura.
+07 de Nov. de 1990 14ª / 321 Primer trámite constitucional / Senado Primer informe de comisión Ver
+15 de Nov. de 1990 14ª / 321 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+28 de Nov. de 1990 18ª / 321 Primer trámite constitucional / Senado Discusión general Ver
+29 de Nov. de 1990 19ª / 321 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+09 de Ene. de 1991   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Mar. de 1991 37ª / 321 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+12 de Mar. de 1991 37ª / 321 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+10 de Jul. de 1991 17ª / 322 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+    Trámite de aprobacion presidencial / Senado Ingreso de observaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 196-04","Fecha Etapa Informe Documento
+09 de Ene. de 1991 Segundo trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver
+07 de Nov. de 1990 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 196-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 196-04","Nombre
+Sergio Díez Urzua
+Carlos González Márquez
+Jorge Lavandero Illanes
+Mario Papi Bayer
+Hernán Vodanovic Schnake","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 196-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 196-04","No record","Veto emmEnd"

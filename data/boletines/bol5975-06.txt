@@ -1,0 +1,35 @@
+* * Bill summary * *
+"emmStart Summary 5975-06","Legislatura: 356
+Fecha de ingreso: lunes 14 de julio de 2008
+Estado: Primer trámite constitucional .
+Numero de boletín: 5975-06
+Materia: Candidatos Inhabilitados
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 01:24:54
+* * Hitos de tramitación * *
+"emmStart Hitos 5975-06","Fecha Sesión Etapa Sub-etapa Documento
+14 de Jul. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+14 de Jul. de 2008 52ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5975-06","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5975-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5975-06","Nombre Región Distrito Partido
+Germán Becker Alvear IX Región de la Araucanía N°50 Renovación Nacional
+Mario Bertolino Rendic IV Región de Coquimbo N°7 Renovación Nacional
+Roberto Delmastro Naso XIV Región de los Ríos N°53 Renovación Nacional
+Pablo Galilea Carrillo XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Renovación Nacional
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Alfonso Vargas Lyng V Región de Valparaíso N°10 Renovación Nacional
+Germán Verdugo Soto VII Región del Maule N°37 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5975-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5975-06","No record","Veto emmEnd"

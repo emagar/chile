@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 1671-10","Legislatura: 331
+Fecha de ingreso: martes 08 de agosto de 1995
+Estado: Tramitación terminada (D.S. Nº 1.631 - D.Oficial 21/11/1997)
+Numero de boletín: 1671-10
+Materia: Acuerdos Internacionales
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 12:08:03
+* * Hitos de tramitación * *
+"emmStart Hitos 1671-10","Fecha Sesión Etapa Sub-etapa Documento
+08 de Ago. de 1995   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+08 de Ago. de 1995 24ª / 331 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+09 de Jul. de 1997 14ª / 335 Primer trámite constitucional / Senado Primer informe de comisión Ver
+09 de Jul. de 1997 14ª / 335 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Jul. de 1997 15ª / 335 Primer trámite constitucional / Senado Discusión general Ver
+10 de Jul. de 1997 15ª / 335 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+16 de Jul. de 1997 21ª / 335 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+22 de Jul. de 1997   Segundo trámite constitucional / C. Diputados Primer informe de comisión
+05 de Ago. de 1997 27ª / 337 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión
+09 de Sep. de 1997 40ª / 335 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+09 de Sep. de 1997   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen
+10 de Sep. de 1997 34ª / 335 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+10 de Sep. de 1997 34ª / 335 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1671-10","Fecha Etapa Informe Documento
+22 de Jul. de 1997 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+09 de Jul. de 1997 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1671-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1671-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1671-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1671-10","No record","Veto emmEnd"

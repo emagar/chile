@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 1013-13","Legislatura: 326
+Fecha de ingreso: martes 15 de junio de 1993
+Estado: Tramitación terminada (Ley Nº 19.263 - D.Oficial 10/11/1993)
+Numero de boletín: 1013-13
+Materia: Corporaciones De Asistencia Judicial,Personal De Las Corporaciones De Asistencia Judicial
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 01:57:35
+* * Hitos de tramitación * *
+"emmStart Hitos 1013-13","Fecha Sesión Etapa Sub-etapa Documento
+15 de Jun. de 1993   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+15 de Jun. de 1993 7ª / 326 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+03 de Ago. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Ago. de 1993 28ª / 326 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+07 de Sep. de 1993 34ª / 326 Primer trámite constitucional / C. Diputados Discusión general Ver
+07 de Sep. de 1993   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+08 de Sep. de 1993 23ª / 326 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social
+13 de Oct. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+14 de Oct. de 1993 5ª / 327 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+19 de Oct. de 1993 6ª / 327 Segundo trámite constitucional / Senado Discusión general Ver
+19 de Oct. de 1993   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+25 de Oct. de 1993   Tramitación terminada / Oficio Nº5119. comunica aprobación sin modificaciones a Cámara de origen Ver
+26 de Oct. de 1993   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+02 de Nov. de 1993 11ª / 327 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1013-13","Fecha Etapa Informe Documento
+13 de Oct. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver
+03 de Ago. de 1993 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1013-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1013-13","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1013-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1013-13","No record","Veto emmEnd"

@@ -1,0 +1,51 @@
+* * Bill summary * *
+"emmStart Summary 5424-03","Legislatura: 355
+Fecha de ingreso: martes 30 de octubre de 2007
+Estado: Segundo trámite constitucional .
+Numero de boletín: 5424-03 Refundido con: 5868-03,5542-03,5378-03,5558-03
+Materia: Tarjetas De Crédito,Uso Indebido De Datos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 04:29:35
+* * Hitos de tramitación * *
+"emmStart Hitos 5424-03","Fecha Sesión Etapa Sub-etapa Documento
+30 de Oct. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+30 de Oct. de 2007 93ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+06 de Ene. de 2009   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de Ene. de 2009 120ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+03 de Mar. de 2009 131ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+17 de Mar. de 2009 3ª / 357 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+16 de Jun. de 2009   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+16 de Jun. de 2009 42ª / 357 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+16 de Jun. de 2009 42ª / 357 Primer trámite constitucional / C. Diputados Cuenta de Segundo informe de Comisión de Economía. EN TABLA. Ver
+30 de Jul. de 2009 57ª / 357 Primer trámite constitucional / C. Diputados Discusión particular Ver
+04 de Ago. de 2009   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+04 de Ago. de 2009 37ª / 357 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Economía","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5424-03","Fecha Etapa Informe Documento
+16 de Jun. de 2009 Primer trámite constitucional C.Diputados Segundo informe de comisión de Economía, Fomento y Desarrollo Ver
+06 de Ene. de 2009 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5424-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5424-03","Nombre Región Distrito Partido
+Pedro Araya Guerrero II Región de Antofagasta N°4 Independientes
+Eduardo Díaz Del Río IX Región de la Araucanía N°51 Partido Regionalista Independiente
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Jaime Mulet Martínez III Región de Atacama N°6 Partido Regionalista Independiente
+Sergio Ojeda Uribe X Región de los Lagos N°55 Partido Demócrata Cristiano
+Carlos Olivares Zepeda RM Región Metropolitana N°18 Partido Regionalista Independiente
+Jorge Sabag Villalobos VIII Región del Bío Bío N°42 Partido Demócrata Cristiano
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Independientes
+Mario Venegas Cárdenas IX Región de la Araucanía N°48 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5424-03","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+76 Votación General 6 0 0 7   Economía Ver detalle votación
+76 Votación General 6 0 0 7   Economía Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5424-03","No record","Veto emmEnd"

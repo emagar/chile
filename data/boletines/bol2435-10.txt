@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 2435-10","Legislatura: 341
+Fecha de ingreso: martes 14 de diciembre de 1999
+Estado: Tramitación terminada (D.S. Nº 1.115 - D.Oficial 11/09/2000)
+Numero de boletín: 2435-10
+Materia: Visas
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 03-11-2014 00:28:23
+* * Hitos de tramitación * *
+"emmStart Hitos 2435-10","Fecha Sesión Etapa Sub-etapa Documento
+14 de Dic. de 1999   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+14 de Dic. de 1999 19ª / 341 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+14 de Dic. de 1999   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de Ene. de 2000 23ª / 341 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+15 de Mar. de 2000 31ª / 341 Primer trámite constitucional / C. Diputados Discusión general Ver
+15 de Mar. de 2000   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+21 de Mar. de 2000 25ª / 341 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+05 de Abr. de 2000   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+05 de Abr. de 2000 28ª / 341 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+11 de Abr. de 2000 29ª / 341 Segundo trámite constitucional / Senado Discusión general Ver
+12 de Abr. de 2000   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+13 de Abr. de 2000   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+13 de Abr. de 2000 41ª / 341 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2435-10","Fecha Etapa Informe Documento
+05 de Abr. de 2000 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+14 de Dic. de 1999 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2435-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+14 de Dic. de 1999   Sin urgencia 91-341  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2435-10","Nombre Región Distrito Partido
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2435-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2435-10","No record","Veto emmEnd"

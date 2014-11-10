@@ -1,0 +1,30 @@
+* * Bill summary * *
+"emmStart Summary 404-13","Legislatura: 322
+Fecha de ingreso: miércoles 10 de julio de 1991
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 404-13
+Materia: Transacciones Judiciales Y Extrajudiciales,Instituto De Normalización Previsional (Chile)
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 16:49:55
+* * Hitos de tramitación * *
+"emmStart Hitos 404-13","Fecha Sesión Etapa Sub-etapa Documento
+10 de Jul. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Jul. de 1991 17ª / 322 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+04 de Ago. de 1992   Tramitación terminada / S.E. el Presidente de la República retira el proyecto del Congreso Nacional.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 404-13","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 404-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+10 de Jul. de 1991   Simple    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 404-13","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 404-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 404-13","No record","Veto emmEnd"

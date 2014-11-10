@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 5295-12","Legislatura: 355
+Fecha de ingreso: jueves 30 de agosto de 2007
+Estado: Primer trámite constitucional .
+Numero de boletín: 5295-12
+Materia: Suelos Forestales,Explotación Agrícola,Análisis Del Impacto Ambiental
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 02:56:18
+* * Hitos de tramitación * *
+"emmStart Hitos 5295-12","Fecha Sesión Etapa Sub-etapa Documento
+30 de Ago. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+30 de Ago. de 2007 71ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5295-12","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5295-12","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5295-12","Nombre Región Distrito Partido
+Pedro Araya Guerrero II Región de Antofagasta N°4 Independientes
+Eduardo Díaz Del Río IX Región de la Araucanía N°51 Partido Regionalista Independiente
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Jaime Mulet Martínez III Región de Atacama N°6 Partido Regionalista Independiente
+Sergio Ojeda Uribe X Región de los Lagos N°55 Partido Demócrata Cristiano
+Carlos Olivares Zepeda RM Región Metropolitana N°18 Partido Regionalista Independiente
+Jorge Sabag Villalobos VIII Región del Bío Bío N°42 Partido Demócrata Cristiano
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Independientes
+Mario Venegas Cárdenas IX Región de la Araucanía N°48 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5295-12","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5295-12","No record","Veto emmEnd"

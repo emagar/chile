@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 387-04","Legislatura: 322
+Fecha de ingreso: martes 18 de junio de 1991
+Estado: Tramitación terminada (Ley Nº 19.216 - D.Oficial 19/05/1993)
+Numero de boletín: 387-04
+Materia: Monumentos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 16:36:41
+* * Hitos de tramitación * *
+"emmStart Hitos 387-04","Fecha Sesión Etapa Sub-etapa Documento
+18 de Jun. de 1991 9ª / 322 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+18 de Jun. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+16 de Jun. de 1992   Primer trámite constitucional / C. Diputados Primer informe de comisión
+30 de Jun. de 1992 11ª / 324 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+02 de Jul. de 1992 13ª / 324 Primer trámite constitucional / C. Diputados Discusión general Ver
+07 de Jul. de 1992 8ª / 324 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+13 de Abr. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+14 de Abr. de 1993 43ª / 325 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+22 de Abr. de 1993   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 387-04","Fecha Etapa Informe Documento
+13 de Abr. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+16 de Jun. de 1992 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 387-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 387-04","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 387-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 387-04","No record","Veto emmEnd"

@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 6102-05","Legislatura: 356
+Fecha de ingreso: lunes 15 de septiembre de 2008
+Estado: Archivado .
+Numero de boletín: 6102-05
+Materia: Cuenta De Ahorro Voluntaria
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 02:53:01
+* * Hitos de tramitación * *
+"emmStart Hitos 6102-05","Fecha Sesión Etapa Sub-etapa Documento
+15 de Sep. de 2008   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+15 de Sep. de 2008 80ª / 356 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+06 de Oct. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Oct. de 2008 87ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Hacienda . EN ESTADO DE TABLA. Ver
+09 de Oct. de 2008 87ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+05 de May. de 2010   Primer trámite constitucional / C. Diputados Archivado Se accede al archivo por rechazo de siomple mayoría en Comisión.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6102-05","Fecha Etapa Informe Documento
+06 de Oct. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6102-05","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6102-05","Nombre Región Distrito Partido
+René Aedo Ormeño III Región de Atacama N°5 Renovación Nacional
+Roberto Delmastro Naso XIV Región de los Ríos N°53 Renovación Nacional
+Gonzalo Duarte Leiva RM Región Metropolitana N°26 Partido Demócrata Cristiano
+Maximiano Errázuriz Eguiguren RM Región Metropolitana N°29 Independientes
+Renán Fuentealba Vildósola IV Región de Coquimbo N°9 Partido Demócrata Cristiano
+Enrique Jaramillo Becker XIV Región de los Ríos N°54 Partido Por la Democracia
+Pablo Lorenzini Basso VII Región del Maule N°38 Partido Demócrata Cristiano
+José Miguel Ortiz Novoa VIII Región del Bío Bío N°44 Partido Demócrata Cristiano
+Eugenio Tuma Zedan IX Región de la Araucanía N°51 Partido Por la Democracia
+Gastón Von Mühlenbrock Zamora XIV Región de los Ríos N°54 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6102-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+189 Votación General 4 4 1 4   Hacienda Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6102-05","No record","Veto emmEnd"

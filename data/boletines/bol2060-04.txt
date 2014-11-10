@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 2060-04","Legislatura: 335
+Fecha de ingreso: miércoles 16 de julio de 1997
+Estado: Tramitación terminada (Ley Nº 19.555 - D.Oficial 23/02/1998)
+Numero de boletín: 2060-04
+Materia: Monumentos
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 18:12:53
+* * Hitos de tramitación * *
+"emmStart Hitos 2060-04","Fecha Sesión Etapa Sub-etapa Documento
+16 de Jul. de 1997   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+16 de Jul. de 1997 17ª / 335 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+27 de Ago. de 1997   Primer trámite constitucional / Senado Primer informe de comisión Ver
+02 de Sep. de 1997 29ª / 335 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+09 de Sep. de 1997 33ª / 335 Primer trámite constitucional / Senado Discusión general Ver
+09 de Sep. de 1997   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+30 de Sep. de 1997 1ª / 336 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+06 de Ene. de 1998 21ª / 336 Segundo trámite constitucional / C. Diputados S.E. el Pdte. de la Rep. incluye el proyecto en la legisl. extraord. 336 (Mensaje 194-336) Ver
+13 de Ene. de 1998   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+20 de Ene. de 1998 27ª / 336 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+20 de Ene. de 1998 27ª / 336 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+20 de Ene. de 1998   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+27 de Ene. de 1998   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+27 de Ene. de 1998 34ª / 336 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+23 de Feb. de 1998   Tramitación terminada / /","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2060-04","Fecha Etapa Informe Documento
+13 de Ene. de 1998 Segundo trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver
+27 de Ago. de 1997 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2060-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2060-04","Nombre
+Juan Hamilton Depassier","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2060-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2060-04","No record","Veto emmEnd"

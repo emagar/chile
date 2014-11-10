@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 4259-07","Legislatura: 354
+Fecha de ingreso: miércoles 21 de junio de 2006
+Estado: Segundo trámite constitucional .
+Numero de boletín: 4259-07
+Materia: Código Orgánico De Tribunales,Jueces,Magistrados De Tribunales De Justicia,Publicidad
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 23:32:37
+* * Hitos de tramitación * *
+"emmStart Hitos 4259-07","Fecha Sesión Etapa Sub-etapa Documento
+21 de Jun. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+21 de Jun. de 2006 41ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia. Se remite el proyecto a la Corte Suprema. Ver
+21 de Jun. de 2006   Primer trámite constitucional / C. Diputados Oficio Nº 6234 a la Corte Suprema Ver
+05 de Dic. de 2006 103ª / 354 Primer trámite constitucional / C. Diputados Cuenta oficio Nº 212 de la Corte Suprema Ver Ver
+19 de Ago. de 2008 65ª / 356 Primer trámite constitucional / C. Diputados Comisión de Constitución solicita sesionar simultáneamente con la Sala el 21 de agosto en curso, de 11 a 13 horas. EN TABLA. ACORDADO. Ver
+14 de Oct. de 2008   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+29 de Oct. de 2008 93ª / 356 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Constitución. EN ESTADO DE TABLA. Ver
+10 de Dic. de 2008 114ª / 356 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+10 de Dic. de 2008   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+16 de Dic. de 2008 79ª / 356 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4259-07","Fecha Etapa Informe Documento
+14 de Oct. de 2008 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4259-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4259-07","Nombre Región Distrito Partido
+Eugenio Bauer Jouanne VI Región del Libertador Bernardo O' Higgins N°33 Unión Demócrata Independiente
+Edmundo Eluchans Urenda V Región de Valparaíso N°15 Unión Demócrata Independiente
+Enrique Estay Peñaloza IX Región de la Araucanía N°49 Unión Demócrata Independiente
+Patricio Melero Abaroa RM Región Metropolitana N°16 Unión Demócrata Independiente
+Iván Norambuena Farías VIII Región del Bío Bío N°46 Unión Demócrata Independiente
+Manuel Rojas Molina II Región de Antofagasta N°4 Unión Demócrata Independiente
+Marisol Turres Figueroa X Región de los Lagos N°57 Unión Demócrata Independiente
+Jorge Ulloa Aguillón VIII Región del Bío Bío N°43 Unión Demócrata Independiente
+Ignacio Urrutia Bonilla VII Región del Maule N°40 Unión Demócrata Independiente
+Felipe Ward Edwards II Región de Antofagasta N°3 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4259-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+114   73 0 0 0 Aprobado Sala Ver detalle votación
+184 Votación General 7 0 0 6   Constitución Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4259-07","No record","Veto emmEnd"

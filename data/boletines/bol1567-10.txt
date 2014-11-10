@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 1567-10","Legislatura: 330
+Fecha de ingreso: martes 18 de abril de 1995
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 1567-10
+Materia: Organización Internacional De Telecomunicaciones Por Satélite,Telecomunicaciones
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 10:47:19
+* * Hitos de tramitación * *
+"emmStart Hitos 1567-10","Fecha Sesión Etapa Sub-etapa Documento
+18 de Abr. de 1995   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+18 de Abr. de 1995 53ª / 330 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+06 de Ago. de 1997   Primer trámite constitucional / Senado Primer informe de comisión Ver
+06 de Ago. de 1997 22ª / 335 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+07 de Ago. de 1997 23ª / 335 Primer trámite constitucional / Senado Discusión general Ver
+07 de Ago. de 1997   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+12 de Ago. de 1997 31ª / 335 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+17 de Mar. de 1998 1ª / 337 Segundo trámite constitucional / C. Diputados Proyecto incluido en actual Leg. Extraord. Ver
+18 de Mar. de 1998   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de Mar. de 1998 2ª / 337 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+25 de Mar. de 1998 5ª / 337 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+25 de Mar. de 1998   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+31 de Mar. de 1998 3ª / 337 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+31 de Mar. de 1998   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1567-10","Fecha Etapa Informe Documento
+18 de Mar. de 1998 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+06 de Ago. de 1997 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1567-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+18 de Abr. de 1995 16 de Sep. de 1998 Sin urgencia   CADUCADO","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1567-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1567-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1567-10","No record","Veto emmEnd"

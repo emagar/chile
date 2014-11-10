@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 3817-03","Legislatura: 352
+Fecha de ingreso: miércoles 23 de marzo de 2005
+Estado: Segundo trámite constitucional .
+Numero de boletín: 3817-03 Refundido con: 3988-03,4597-03
+Materia: Servicio Fallido
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 17:47:15
+* * Hitos de tramitación * *
+"emmStart Hitos 3817-03","Fecha Sesión Etapa Sub-etapa Documento
+23 de Mar. de 2005   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+23 de Mar. de 2005 56ª / 352 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+25 de May. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Jun. de 2007 30ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+19 de Jul. de 2007 55ª / 355 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+09 de Oct. de 2007   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+09 de Oct. de 2007 86ª / 355 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+11 de Jun. de 2008 38ª / 356 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver
+11 de Jun. de 2008   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+17 de Jun. de 2008 27ª / 356 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Economía Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3817-03","Fecha Etapa Informe Documento
+09 de Oct. de 2007 Primer trámite constitucional C.Diputados Segundo informe de comisión de Economía, Fomento y Desarrollo Ver
+25 de May. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3817-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3817-03","Nombre Región Distrito Partido
+Roberto Delmastro Naso X Región de los Lagos N°53 Independientes
+Maximiano Errázuriz Eguiguren RM Región Metropolitana N°29 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3817-03","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+38 Votación del artículo único, con excepción de los incisos cuarto y séptimo. 78 0 0 42 Aprobado Sala Ver detalle votación
+38 Indicación renovada de los señores Alvarado, Arenas y Kast, para reemplazar el inciso cuarto del artículo 23 bis propuesto en el informe por el siguiente: ""El reclamo de un cobro no exime al consumidor del pago del monto reclamado. Para estos efectos el consumidor estará obligado a pagar una suma equivalente al promedio de las cuentas del mismo período de los dos años anteriores. El proveedor deberá mantener canales expeditos para la recepción de los reclamos. El reglamento determinará los aspectos que debe contener el reclamo y la forma en que los proveedores cumplirán esta obligación."" 26 48 4 42 Rechazado Sala Ver detalle votación
+38 inciso cuarto del artículo único, en los términos propuestos en el segundo informe de la Comisión de Economía. 57 22 0 41 Aprobado Sala Ver detalle votación
+38 Indicación renovada de los señores Alvarado, Arenas y Kast, para reemplazar el inciso séptimo del artículo 23 bis propuesto en el informe por el siguiente: ""El comprobante de pago de las tres últimas cuentas de períodos domiciliarios, hará presumir los pagos de los anteriores períodos correspondientes a esos mismos servicios."" 67 9 9 35 Aprobado Sala Ver detalle votación
+55   83 0 0 37 Aprobado Sala Ver detalle votación
+36 Votación General 6 0 0 7   Economía Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3817-03","No record","Veto emmEnd"

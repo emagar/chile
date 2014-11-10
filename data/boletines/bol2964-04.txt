@@ -1,0 +1,62 @@
+* * Bill summary * *
+"emmStart Summary 2964-04","Legislatura: 347
+Fecha de ingreso: martes 11 de junio de 2002
+Estado: Tramitación terminada (Ley Nº 19.848 - D.Oficial 27/12/2002)
+Numero de boletín: 2964-04
+Materia: Educación Superior,Crédito Solidario,Fondo Solidario De Crédito Universitario
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 03-11-2014 19:25:43
+* * Hitos de tramitación * *
+"emmStart Hitos 2964-04","Fecha Sesión Etapa Sub-etapa Documento
+11 de Jun. de 2002   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+11 de Jun. de 2002 5ª / 347 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+08 de Jul. de 2002   Primer trámite constitucional / Senado Primer informe de comisión Ver
+10 de Jul. de 2002 13ª / 347 Primer trámite constitucional / Senado Cuenta informe Comisión Educación, Cultura, Ciencia y Tecnología.
+16 de Jul. de 2002 14ª / 347 Primer trámite constitucional / Senado Discusión general Ver
+17 de Jul. de 2002 15ª / 347 Primer trámite constitucional / Senado Discusión general Ver
+12 de Ago. de 2002   Primer trámite constitucional / Senado Boletín de indicaciones
+19 de Ago. de 2002   Primer trámite constitucional / Senado Segundo informe de comisión. Pasa a Comisión de Hacienda Ver
+19 de Ago. de 2002   Primer trámite constitucional / Senado Segundo informe de comisión. Pasa a Comisión de Hacienda Ver
+02 de Sep. de 2002   Segundo trámite constitucional / C. Diputados Boletín de indicaciones
+05 de Nov. de 2002 9ª / 348 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión. Segundo informe de la Comisión de Educación e informe de la Comisión de Hacienda
+06 de Nov. de 2002 10ª / 348 Primer trámite constitucional / Senado Discusión particular Ver
+06 de Nov. de 2002   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+07 de Nov. de 2002 17ª / 348 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+12 de Nov. de 2002   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de Dic. de 2002   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+04 de Dic. de 2002 29ª / 348 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+04 de Dic. de 2002 29ª / 348 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+04 de Dic. de 2002   Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver
+04 de Dic. de 2002 17ª / 348 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora. Queda para tabla.
+10 de Dic. de 2002 18ª / 348 Tercer trámite constitucional / Senado Discusión única
+10 de Dic. de 2002   Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo Ver
+10 de Dic. de 2002   Tercer trámite constitucional / Senado Oficio aprobación de modificaciones a Cámara Revisora Ver
+11 de Dic. de 2002 32ª / 348 Trámite finalización en Cámara de Origen / Senado Cuenta en Cámara de Diputados de Oficio aprobación de modificaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2964-04","Fecha Etapa Informe Documento
+03 de Dic. de 2002 Segundo trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+12 de Nov. de 2002 Segundo trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver
+04 de Nov. de 2002 Primer trámite constitucional Senado Segundo informe de comisión de Hacienda Ver
+06 de Sep. de 2002 Primer trámite constitucional Senado Segundo informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+19 de Ago. de 2002 Primer trámite constitucional Senado Segundo informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+08 de Jul. de 2002 Primer trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2964-04","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+03 de Dic. de 2002   Suma 240-348  
+12 de Nov. de 2002 03 de Dic. de 2002 Suma 155-348 240-348
+05 de Nov. de 2002 12 de Nov. de 2002 Simple 134-348 155-348
+01 de Oct. de 2002 05 de Nov. de 2002 Simple 36-348 138-348
+03 de Sep. de 2002 05 de Nov. de 2002 Simple 219-347 134-348
+18 de Jun. de 2002 03 de Sep. de 2002 Simple 73-347 219-347","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2964-04","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2964-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2964-04","No record","Veto emmEnd"

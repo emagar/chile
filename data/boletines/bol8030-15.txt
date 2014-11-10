@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 8030-15","Legislatura: 359
+Fecha de ingreso: miércoles 09 de noviembre de 2011
+Estado: Primer trámite constitucional .
+Numero de boletín: 8030-15
+Materia: Chaleco Reflectante
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 14:37:26
+* * Hitos de tramitación * *
+"emmStart Hitos 8030-15","Fecha Sesión Etapa Sub-etapa Documento
+09 de Nov. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+09 de Nov. de 2011 106ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8030-15","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8030-15","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8030-15","Nombre Región Distrito Partido
+Sergio Bobadilla Muñoz VIII Región del Bío Bío N°45 Unión Demócrata Independiente
+René Manuel García García IX Región de la Araucanía N°52 Renovación Nacional
+Gustavo Hasbún Selume RM Región Metropolitana N°26 Unión Demócrata Independiente
+Javier Hernández Hernández X Región de los Lagos N°55 Unión Demócrata Independiente
+María José Hoffmann Opazo V Región de Valparaíso N°15 Unión Demócrata Independiente
+Issa Farid Kort Garriga VI Región del Libertador Bernardo O' Higgins N°32 Unión Demócrata Independiente
+Juan Carlos Latorre Carmona VI Región del Libertador Bernardo O' Higgins N°35 Partido Demócrata Cristiano
+Iván Norambuena Farías VIII Región del Bío Bío N°46 Unión Demócrata Independiente
+Joaquín Tuma Zedan IX Región de la Araucanía N°51 Partido Por la Democracia
+Mónica Zalaquett Said RM Región Metropolitana N°20 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8030-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8030-15","No record","Veto emmEnd"

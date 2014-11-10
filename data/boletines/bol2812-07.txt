@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 2812-07","Legislatura: 345
+Fecha de ingreso: miércoles 31 de octubre de 2001
+Estado: Tramitación terminada (Ley Nº 19.794 - D.Oficial 05/03/2002)
+Numero de boletín: 2812-07
+Materia: Reforma Procesal Penal
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 03-11-2014 16:48:03
+* * Hitos de tramitación * *
+"emmStart Hitos 2812-07","Fecha Sesión Etapa Sub-etapa Documento
+31 de Oct. de 2001   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+31 de Oct. de 2001 11ª / 345 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+07 de Nov. de 2001   Primer trámite constitucional / Senado Primer informe de comisión Ver
+13 de Nov. de 2001 15ª / 345 Primer trámite constitucional / Senado Cuenta oficio 002727 de la Corte Suprema Ver
+14 de Nov. de 2001 16ª / 345 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+14 de Nov. de 2001   Primer trámite constitucional / Senado Primer informe de comisión Ver
+20 de Nov. de 2001 17ª / 345 Primer trámite constitucional / Senado Discusión general Ver
+20 de Nov. de 2001   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+18 de Dic. de 2001 22ª / 345 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+09 de Ene. de 2002   Segundo trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+17 de Ene. de 2002   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+22 de Ene. de 2002 28ª / 345 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+22 de Ene. de 2002 29ª / 345 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+22 de Ene. de 2002   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+22 de Ene. de 2002   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+23 de Ene. de 2002   Trámite en Tribunal Constitucional / Senado Oficio al Tribunal Constitucional Ver
+23 de Ene. de 2002 26ª / 345 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+31 de Ene. de 2002   Trámite en Tribunal Constitucional / Senado Oficio de ley al Ejecutivo Ver
+05 de Mar. de 2002 28ª / 345 Tramitación terminada / Cuenta Oficio Tribunal Constitucional, remite copia de sentencia Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2812-07","Fecha Etapa Informe Documento
+17 de Ene. de 2002 Segundo trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+09 de Ene. de 2002 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+14 de Nov. de 2001 Primer trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+07 de Nov. de 2001 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2812-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2812-07","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2812-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2812-07","No record","Veto emmEnd"

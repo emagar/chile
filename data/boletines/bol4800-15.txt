@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 4800-15","Legislatura: 354
+Fecha de ingreso: jueves 04 de enero de 2007
+Estado: Primer trámite constitucional .
+Numero de boletín: 4800-15
+Materia: Secretismo,Telefonía Celular
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 06-11-2014 08:40:27
+* * Hitos de tramitación * *
+"emmStart Hitos 4800-15","Fecha Sesión Etapa Sub-etapa Documento
+04 de Ene. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Ene. de 2007 115ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4800-15","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4800-15","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4800-15","Nombre Región Distrito Partido
+Gonzalo Arenas Hödar IX Región de la Araucanía N°48 Unión Demócrata Independiente
+Andrés Egaña Respaldiza VIII Región del Bío Bío N°44 Unión Demócrata Independiente
+Enrique Estay Peñaloza IX Región de la Araucanía N°49 Unión Demócrata Independiente
+Juan Lobos Krause VIII Región del Bío Bío N°47 Unión Demócrata Independiente
+Iván Moreira Barros RM Región Metropolitana N°27 Unión Demócrata Independiente
+Iván Norambuena Farías VIII Región del Bío Bío N°46 Unión Demócrata Independiente
+Manuel Rojas Molina II Región de Antofagasta N°4 Unión Demócrata Independiente
+Marisol Turres Figueroa X Región de los Lagos N°57 Unión Demócrata Independiente
+Ignacio Urrutia Bonilla VII Región del Maule N°40 Unión Demócrata Independiente
+Gastón Von Mühlenbrock Zamora XIV Región de los Ríos N°54 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4800-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4800-15","No record","Veto emmEnd"

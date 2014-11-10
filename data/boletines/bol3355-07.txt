@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 3355-07","Legislatura: 349
+Fecha de ingreso: jueves 11 de septiembre de 2003
+Estado: Archivado .
+Numero de boletín: 3355-07
+Materia: Herencia
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 01:50:43
+* * Hitos de tramitación * *
+"emmStart Hitos 3355-07","Fecha Sesión Etapa Sub-etapa Documento
+11 de Sep. de 2003   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+11 de Sep. de 2003 40ª / 349 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+11 de Sep. de 2003   Primer trámite constitucional / C. Diputados Oficio Nº 4542 a la Corte Suprema Ver
+28 de Oct. de 2003 11ª / 350 Primer trámite constitucional / C. Diputados Cuenta oficio N? 2182 de la Corte Suprema Ver
+28 de Oct. de 2003 11ª / 350 Primer trámite constitucional / C. Diputados Cuenta Oficio de Corte Suprema, remite opinión solicitada. Ver Ver
+09 de Jun. de 2009   Primer trámite constitucional / C. Diputados Archivado
+09 de Jun. de 2009 37ª / 357 Archivado / Comisión de COndtitución archiva proyecto.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3355-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3355-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+11 de Sep. de 2003   Sin urgencia    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3355-07","Nombre Región Distrito Partido
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Juan Bustos Ramírez V Región de Valparaíso N°12 Partido Socialista
+Guillermo Ceroni Fuentes VII Región del Maule N°40 Partido Por la Democracia
+Maximiano Errázuriz Eguiguren RM Región Metropolitana N°29 Renovación Nacional
+Marcelo Forni Lobos V Región de Valparaíso N°11 Unión Demócrata Independiente
+José Pérez Arriagada VIII Región del Bío Bío N°47 Partido Radical Social Demócrata
+Laura Soto González V Región de Valparaíso N°13 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3355-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3355-07","No record","Veto emmEnd"

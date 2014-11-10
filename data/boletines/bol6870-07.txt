@@ -1,0 +1,60 @@
+* * Bill summary * *
+"emmStart Summary 6870-07","Legislatura: 358
+Fecha de ingreso: martes 06 de abril de 2010
+Estado: Tramitación terminada (Ley N° 20.438 - D.Oficial 29/04/2010)
+Numero de boletín: 6870-07
+Materia: Tribunales Del Trabajo
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 18:53:26
+* * Hitos de tramitación * *
+"emmStart Hitos 6870-07","Fecha Sesión Etapa Sub-etapa Documento
+06 de Abr. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Abr. de 2010 9ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia y a Comisión de Hacienda. Se remite el proyecto a la Corte Suprema. Ver
+06 de Abr. de 2010 9ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 25-358 que hace presente la urgencia Discusión inmediata Ver
+06 de Abr. de 2010   Primer trámite constitucional / C. Diputados Oficio N° 8663 a la Corte Suprema Ver
+06 de Abr. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+06 de Abr. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de Abr. de 2010 11ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. Certificados de las Comisiones de Constitución y de Hacienda. EN TABLA. Ver
+07 de Abr. de 2010 11ª / 358 Primer trámite constitucional / C. Diputados Cuenta oficio N? 32 de la Corte Suprema Ver Ver
+07 de Abr. de 2010 11ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+07 de Abr. de 2010   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+07 de Abr. de 2010 7ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento y a Comisión de Hacienda, en su caso.
+13 de Abr. de 2010   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+13 de Abr. de 2010   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+13 de Abr. de 2010 8ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 032-357 que retira y hace presente la urgencia Discusión inmediata
+13 de Abr. de 2010 8ª / 358 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+13 de Abr. de 2010 8ª / 358 Segundo trámite constitucional / Senado Discusión general. Queda pendiente El Comité Partido Socialista solicita segunda discusión respecto de este proyecto. Ver
+14 de Abr. de 2010 9ª / 358 Segundo trámite constitucional / Senado Discusión general Ver
+14 de Abr. de 2010   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+15 de Abr. de 2010 15ª / 358 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+15 de Abr. de 2010   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo. Oficio para ejercer facultad de veto Ver
+20 de Abr. de 2010   Trámite en Tribunal Constitucional / C. Diputados Oficio al Tribunal Constitucional Ver
+20 de Abr. de 2010 16ª / 358 Trámite en Tribunal Constitucional / C. Diputados P. de la República comunica que no hará uso de la facultad del inciso primero del artículo 73 de la Constitución Política de la República. AL TRIBUNAL CONSTITUCIONAL. Ver
+23 de Abr. de 2010   Trámite en Tribunal Constitucional / C. Diputados Oficio de ley al Ejecutivo Ver
+04 de May. de 2010 19ª / 358 Tramitación terminada / Cuenta oficio N° 4276 del Tribunal Constitucional Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6870-07","Fecha Etapa Informe Documento
+13 de Abr. de 2010 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+13 de Abr. de 2010 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+06 de Abr. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+06 de Abr. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6870-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+13 de Abr. de 2010   Discusión inmediata 032-357  
+06 de Abr. de 2010 13 de Abr. de 2010 Discusión inmediata 25-358 032-357","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6870-07","Nombre Región Distrito Partido
+Ministerio de Hacienda      
+Ministerio de Justicia      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6870-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+11   106 0 0 14 Aprobado Sala Ver detalle votación
+4 Votación General 11 0 0 2   Constitución Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6870-07","No record","Veto emmEnd"

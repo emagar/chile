@@ -1,0 +1,58 @@
+* * Bill summary * *
+"emmStart Summary 5151-02","Legislatura: 355
+Fecha de ingreso: miércoles 20 de junio de 2007
+Estado: Tramitación terminada (Ley Nº 20.242 - D.Oficial 17/01/2008)
+Numero de boletín: 5151-02
+Materia: Asignación A Conscriptos
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 01:14:21
+* * Hitos de tramitación * *
+"emmStart Hitos 5151-02","Fecha Sesión Etapa Sub-etapa Documento
+20 de Jun. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de Jun. de 2007 39ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Defensa Nacional y a Comisión de Hacienda Ver
+03 de Jul. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+05 de Sep. de 2007   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Sep. de 2007 74ª / 355 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+06 de Sep. de 2007 75ª / 355 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+06 de Sep. de 2007   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+12 de Sep. de 2007 52ª / 355 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Defensa Nacional y a Comisión de Hacienda Ver
+08 de Nov. de 2007   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+07 de Dic. de 2007   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+11 de Dic. de 2007 74ª / 355 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Dic. de 2007 75ª / 355 Segundo trámite constitucional / Senado Cuenta del Mensaje 1197-355 que hace presente la urgencia Simple
+12 de Dic. de 2007 75ª / 355 Segundo trámite constitucional / Senado Discusión general Ver
+12 de Dic. de 2007   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+13 de Dic. de 2007 116ª / 355 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver Ver
+18 de Dic. de 2007 117ª / 355 Tercer trámite constitucional / C. Diputados Cuenta del Mensaje 1207-355 que retira y hace presente la urgencia Simple Ver
+20 de Dic. de 2007 121ª / 355 Tercer trámite constitucional / C. Diputados Discusión única Ver
+20 de Dic. de 2007   Tercer trámite constitucional / C. Diputados Oficio Nº 7194, que comunica aprobación de modificaciones Ver
+02 de Ene. de 2008 78ª / 355 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 7194, que comunica aprobación de modificaciones Ver
+20 de Dic. de 2008   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5151-02","Fecha Etapa Informe Documento
+07 de Dic. de 2007 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+08 de Nov. de 2007 Segundo trámite constitucional Senado Primer informe de comisión de Defensa Nacional Ver
+05 de Sep. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+03 de Jul. de 2007 Primer trámite constitucional C.Diputados Primer informe de comisión de Defensa Nacional Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5151-02","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+18 de Dic. de 2007   Simple 1207-355  
+12 de Dic. de 2007 18 de Dic. de 2007 Simple 1197-355 1207-355","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5151-02","Nombre Región Distrito Partido
+Ministerio de Defensa Nacional      
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5151-02","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+121 Enmienda introducida en el Senado. 83 0 1 36 Aprobado Sala Ver detalle votación
+75   76 0 0 0 Aprobado Sala Ver detalle votación
+75 3° propuesto por la Comisión de Hacienda. 79 0 0 0 Aprobado Sala Ver detalle votación
+43 Votación General 8 0 0 5   Defensa Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5151-02","No record","Veto emmEnd"

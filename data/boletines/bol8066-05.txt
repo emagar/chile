@@ -1,0 +1,56 @@
+* * Bill summary * *
+"emmStart Summary 8066-05","Legislatura: 359
+Fecha de ingreso: lunes 28 de noviembre de 2011
+Estado: Tramitación terminada (Ley Nº 20.561 - D.Oficial 03/01/2012)
+Numero de boletín: 8066-05
+Materia: Impuesto Específico Al Petróleo
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 15:03:01
+* * Hitos de tramitación * *
+"emmStart Hitos 8066-05","Fecha Sesión Etapa Sub-etapa Documento
+28 de Nov. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+28 de Nov. de 2011 116ª / 359 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+28 de Nov. de 2011 116ª / 359 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 467-359 que hace presente la urgencia Discusión inmediata Ver
+29 de Nov. de 2011   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+30 de Nov. de 2011 118ª / 359 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+30 de Nov. de 2011 118ª / 359 Primer trámite constitucional / C. Diputados Discusión general Ver
+30 de Nov. de 2011   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+30 de Nov. de 2011 78ª / 359 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+12 de Dic. de 2011 79ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 484-359 que retira y hace presente la urgencia Discusión inmediata
+20 de Dic. de 2011   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+20 de Dic. de 2011 82ª / 359 Segundo trámite constitucional / Senado Cuenta del Mensaje 505-359 que retira y hace presente la urgencia Discusión inmediata
+21 de Dic. de 2011 83ª / 359 Segundo trámite constitucional / Senado Discusión general. Aprobado Discusión particular, queda pendiente para la sesión siguiente Ver
+21 de Dic. de 2011 84ª / 359 Segundo trámite constitucional / Senado Discusión particular Ver
+21 de Dic. de 2011   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+22 de Dic. de 2011 125ª / 359 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+22 de Dic. de 2011 125ª / 359 Tercer trámite constitucional / C. Diputados Discusión única Ver
+22 de Dic. de 2011   Tercer trámite constitucional / C. Diputados Oficio N° 9888, que comunica aprobacion de modificaciones Ver
+22 de Dic. de 2011   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo. Oficio N° 9887, que comunica aprobacion de modificaciones Ver
+03 de Ene. de 2012 85ª / 359 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 9888, que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8066-05","Fecha Etapa Informe Documento
+20 de Dic. de 2011 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+29 de Nov. de 2011 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8066-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+20 de Dic. de 2011   Discusión inmediata 505-359  
+12 de Dic. de 2011 20 de Dic. de 2011 Discusión inmediata 484-359 505-359
+28 de Nov. de 2011 12 de Dic. de 2011 Discusión inmediata 467-359 484-359","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8066-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      
+Ministerio de Transporte y Telecomunicaciones      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8066-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+125   53 12 3 52 Aprobado Sala Ver detalle votación
+118   92 0 4 0 Aprobado Sala Ver detalle votación
+118 Numeral 4 del artículo único. 83 3 5 29 Aprobado Sala Ver detalle votación
+142 Votación General 12 0 1 0   Hacienda Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8066-05","No record","Veto emmEnd"

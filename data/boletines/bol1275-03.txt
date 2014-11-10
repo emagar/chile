@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 1275-03","Legislatura: 329
+Fecha de ingreso: jueves 07 de julio de 1994
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 1275-03
+Materia: Importaciones
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 05:17:00
+* * Hitos de tramitación * *
+"emmStart Hitos 1275-03","Fecha Sesión Etapa Sub-etapa Documento
+07 de Jul. de 1994   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+07 de Jul. de 1994 18ª / 329 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+24 de Oct. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+24 de Oct. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+26 de Oct. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+26 de Oct. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+26 de Oct. de 1995 12ª / 332 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+15 de Nov. de 1995 17ª / 332 Primer trámite constitucional / C. Diputados Discusión general Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1275-03","Fecha Etapa Informe Documento
+26 de Oct. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver
+24 de Oct. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1275-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1275-03","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1275-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1275-03","No record","Veto emmEnd"

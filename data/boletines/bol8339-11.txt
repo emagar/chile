@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 8339-11","Legislatura: 360
+Fecha de ingreso: martes 05 de junio de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8339-11
+Materia: Código Sanitario,Optómetra,Receta Médica
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 00:18:13
+* * Hitos de tramitación * *
+"emmStart Hitos 8339-11","Fecha Sesión Etapa Sub-etapa Documento
+05 de Jun. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+05 de Jun. de 2012 37ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Salud Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8339-11","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8339-11","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8339-11","Nombre Región Distrito Partido
+Nino Baltolu Rasera XV Región Arica y Parinacota N°1 Unión Demócrata Independiente
+Eugenio Bauer Jouanne VI Región del Libertador Bernardo O' Higgins N°33 Unión Demócrata Independiente
+Sergio Bobadilla Muñoz VIII Región del Bío Bío N°45 Unión Demócrata Independiente
+Gustavo Hasbún Selume RM Región Metropolitana N°26 Unión Demócrata Independiente
+Celso Morales Muñoz VII Región del Maule N°36 Unión Demócrata Independiente
+Iván Norambuena Farías VIII Región del Bío Bío N°46 Unión Demócrata Independiente
+David Sandoval Plaza XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Unión Demócrata Independiente
+Ignacio Urrutia Bonilla VII Región del Maule N°40 Unión Demócrata Independiente
+Carlos Vilches Guzmán III Región de Atacama N°5 Unión Demócrata Independiente
+Felipe Ward Edwards II Región de Antofagasta N°3 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8339-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8339-11","No record","Veto emmEnd"

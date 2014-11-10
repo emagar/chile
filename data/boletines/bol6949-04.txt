@@ -1,0 +1,55 @@
+* * Bill summary * *
+"emmStart Summary 6949-04","Legislatura: 358
+Fecha de ingreso: miércoles 19 de mayo de 2010
+Estado: Segundo trámite constitucional .
+Numero de boletín: 6949-04
+Materia: Deportes,Educación Física
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 22:31:50
+* * Hitos de tramitación * *
+"emmStart Hitos 6949-04","Fecha Sesión Etapa Sub-etapa Documento
+19 de May. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+19 de May. de 2010 28ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Deportes y Recreación Ver
+10 de Jun. de 2010   Primer trámite constitucional / C. Diputados Oficio N° 029-2010. Comisión Especial de Deportes solicita remisión del proyecto. Ver
+15 de Jun. de 2010 39ª / 358 Primer trámite constitucional / C. Diputados Comisión Especial de Deportes solicita que proyecto, actualmente en la Comisión de Educación, le sea remitido. NO HAY ACUERDO. Ver
+21 de Jun. de 2010   Primer trámite constitucional / C. Diputados Oficio N° 031-2010. Comisión Especial de Deportes solicita nuevamente remisión del proyecto. Ver
+29 de Jun. de 2010 42ª / 358 Primer trámite constitucional / C. Diputados Comisión Especial de Deportes solicita que proyecto, actualmente en la Comisión de Educación, le sea remitido. Acordado. Ver
+29 de Jun. de 2010   Primer trámite constitucional / C. Diputados Oficio N°8829. Remite a la Comisión Especial de Deportes el proyecto, para su tramitación. Ver
+31 de Ago. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+31 de Ago. de 2010 67ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+07 de Sep. de 2010 71ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+14 de Sep. de 2010 75ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+14 de Sep. de 2010   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+15 de Sep. de 2010 53ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6949-04","Fecha Etapa Informe Documento
+31 de Ago. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Deportes Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6949-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6949-04","Nombre Región Distrito Partido
+Pedro Pablo Alvarez-Salamanca Ramírez VII Región del Maule N°38 Unión Demócrata Independiente
+Romilio Gutiérrez Pino VII Región del Maule N°39 Unión Demócrata Independiente
+Gustavo Hasbún Selume RM Región Metropolitana N°26 Unión Demócrata Independiente
+María José Hoffmann Opazo V Región de Valparaíso N°15 Unión Demócrata Independiente
+Juan Lobos Krause VIII Región del Bío Bío N°47 Unión Demócrata Independiente
+Patricio Melero Abaroa RM Región Metropolitana N°16 Unión Demócrata Independiente
+Celso Morales Muñoz VII Región del Maule N°36 Unión Demócrata Independiente
+Iván Norambuena Farías VIII Región del Bío Bío N°46 Unión Demócrata Independiente
+Manuel Rojas Molina II Región de Antofagasta N°4 Unión Demócrata Independiente
+David Sandoval Plaza XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6949-04","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+75   93 0 7 20 Aprobado Sala Ver detalle votación
+75 Solicitud para omitir el segundo informe y entrar de inmediato a la discusión particular. 100 0 0 20 Aprobado Sala Ver detalle votación
+75 Indicación de los señores Melero, Cardemil, Recondo y Bertolino, para sustituir el artículo único del proyecto por el siguiente: “Artículo único.- Sustitúyese el inciso segundo del artículo 5° de la ley N°19.712, ley del Deporte, por el siguiente: ""Los planes y programas de estudio de la educación parvularia, básica y media en todas sus modalidades deberán considerar los objetivos y contenidos destinados a la formación para el deporte, para lo cual podrán incorporar las horas de educación física y deportes necesarias para motivar e incentivar su práctica y enseñar su valor e importancia."". 12 83 4 21 Rechazado Sala Ver detalle votación
+75 artículo único propuesto por la Comisión Especial de Deportes, que figura en la página 27 de su informe. 94 0 6 20 Aprobado Sala Ver detalle votación
+11 Votación General 8 0 0 5   Especial Deportes Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6949-04","No record","Veto emmEnd"

@@ -1,0 +1,60 @@
+* * Bill summary * *
+"emmStart Summary 8613-02","Legislatura: 360
+Fecha de ingreso: martes 09 de octubre de 2012
+Estado: Tramitación terminada (Ley Nº 20.672 - D.Oficial 14/06/2013)
+Numero de boletín: 8613-02
+Materia: Personal De Las Fuerzas Armadas,Fuerzas Armadas,Cálculo De Sueldos,Personal A Jornal De Las Fuerzas Armadas
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 03:39:48
+* * Hitos de tramitación * *
+"emmStart Hitos 8613-02","Fecha Sesión Etapa Sub-etapa Documento
+09 de Oct. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+09 de Oct. de 2012 86ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Defensa Nacional y a Comisión de Hacienda Ver
+06 de Nov. de 2012   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+07 de Nov. de 2012 96ª / 360 Primer trámite constitucional / C. Diputados Oficio N°235-360. Oficio de S.E. el Presidente de la República por el cual formula indicación al proyecto. Ver Ver
+08 de Nov. de 2012 97ª / 360 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. Pasa a Comisión de Hacienda Ver
+12 de Dic. de 2012 111ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 393-360 que hace presente la urgencia Suma Ver
+12 de Dic. de 2012   Primer trámite constitucional / C. Diputados Mensaje 478-360 del Ejecutivo con que formula indicaciones Ver
+17 de Dic. de 2012   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de Dic. de 2012 114ª / 360 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+19 de Dic. de 2012 116ª / 360 Primer trámite constitucional / C. Diputados Oficio N°478-360. Oficio de S.E. el Presidente de la República por el cual formula indicaciones al proyecto. Ver Ver
+19 de Dic. de 2012 116ª / 360 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 413-360 que retira la urgencia Suma Ver
+19 de Dic. de 2012 116ª / 360 Primer trámite constitucional / C. Diputados Discusión general Ver
+19 de Dic. de 2012   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+19 de Dic. de 2012 89ª / 360 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Defensa Nacional y a Comisión de Hacienda
+15 de Ene. de 2013   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+15 de Ene. de 2013 94ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 439-360 que hace presente la urgencia Suma
+05 de Mar. de 2013 100ª / 360 Segundo trámite constitucional / Senado Cuenta del Mensaje 462-360 que retira la urgencia Suma
+13 de Mar. de 2013   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+13 de Mar. de 2013 2ª / 361 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+13 de Mar. de 2013 2ª / 361 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+30 de Abr. de 2013 18ª / 361 Segundo trámite constitucional / Senado Discusión general Ver
+30 de Abr. de 2013   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+07 de May. de 2013 21ª / 361 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+07 de May. de 2013   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8613-02","Fecha Etapa Informe Documento
+13 de Mar. de 2013 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+15 de Ene. de 2013 Segundo trámite constitucional Senado Primer informe de comisión de Defensa Nacional Ver
+17 de Dic. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+06 de Nov. de 2012 Primer trámite constitucional C.Diputados Primer informe de comisión de Defensa Nacional Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8613-02","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+15 de Ene. de 2013 24 de Ene. de 2013 Suma 439-360 462-360
+12 de Dic. de 2012 19 de Dic. de 2012 Suma 393-360 413-360","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8613-02","Nombre Región Distrito Partido
+Ministerio de Defensa Nacional      
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8613-02","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+116 Indicación al Artículo 5° 105 0 0 15 Aprobado Sala Ver detalle votación
+116 Con la salvedad del artículo 5° 103 0 0 17 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8613-02","No record","Veto emmEnd"

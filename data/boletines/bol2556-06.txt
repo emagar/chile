@@ -1,0 +1,50 @@
+* * Bill summary * *
+"emmStart Summary 2556-06","Legislatura: 342
+Fecha de ingreso: miércoles 02 de agosto de 2000
+Estado: Tramitación terminada (Ley Nº 19.698 - D.Oficial 30/09/2000)
+Numero de boletín: 2556-06
+Materia: Municipios
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 03-11-2014 06:18:42
+* * Hitos de tramitación * *
+"emmStart Hitos 2556-06","Fecha Sesión Etapa Sub-etapa Documento
+02 de Ago. de 2000 14ª / 342 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización
+02 de Ago. de 2000   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+09 de Ago. de 2000   Primer trámite constitucional / Senado Primer informe de comisión Ver
+16 de Ago. de 2000 17ª / 342 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+30 de Ago. de 2000 20ª / 342 Primer trámite constitucional / Senado Discusión general Ver
+30 de Ago. de 2000   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+31 de Ago. de 2000 32ª / 342 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+05 de Sep. de 2000 21ª / 342 Tramitación terminada / Cuenta del Mensaje 2-342 que hace presente la urgencia Discusión inmediata Ver
+05 de Sep. de 2000   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+06 de Sep. de 2000 35ª / 342 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+06 de Sep. de 2000 35ª / 342 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+06 de Sep. de 2000   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+06 de Sep. de 2000 22ª / 342 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+07 de Sep. de 2000   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+03 de Oct. de 2000   Trámite en Tribunal Constitucional / Senado Oficio al Tribunal Constitucional Ver
+03 de Oct. de 2000 1ª / 343 Trámite en Tribunal Constitucional / Senado Cuenta oficio 1556 del Tribunal Constitucional
+04 de Oct. de 2000   Trámite en Tribunal Constitucional / Senado Oficio de ley al Ejecutivo
+04 de Oct. de 2000 1ª / 343 Trámite en Tribunal Constitucional / Senado Cuenta fallo del Tribunal Constitucional","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2556-06","Fecha Etapa Informe Documento
+05 de Sep. de 2000 Segundo trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver
+09 de Ago. de 2000 Primer trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2556-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+05 de Sep. de 2000   Discusión inmediata 2-342  
+29 de Ago. de 2000 31 de Ago. de 2000 Discusión inmediata 189-342 194-342
+08 de Ago. de 2000 30 de Ago. de 2000 Suma 155-342 175-342","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2556-06","Nombre
+Ministerio de Interior y Seguridad Públi","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2556-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2556-06","No record","Veto emmEnd"

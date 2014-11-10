@@ -1,0 +1,35 @@
+* * Bill summary * *
+"emmStart Summary 7105-05","Legislatura: 358
+Fecha de ingreso: miércoles 04 de agosto de 2010
+Estado: Primer trámite constitucional .
+Numero de boletín: 7105-05
+Materia: Bolsa De Valores,Títulos O Valores Con Presencia Bursátil,Transacción Bursátil
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 00:16:21
+* * Hitos de tramitación * *
+"emmStart Hitos 7105-05","Fecha Sesión Etapa Sub-etapa Documento
+04 de Ago. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Ago. de 2010 59ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7105-05","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7105-05","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7105-05","Nombre Región Distrito Partido
+Pepe Auth Stewart RM Región Metropolitana N°20 Partido Por la Democracia
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Aldo Cornejo González V Región de Valparaíso N°13 Partido Demócrata Cristiano
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+José Miguel Ortiz Novoa VIII Región del Bío Bío N°44 Partido Demócrata Cristiano
+Guillermo Teillier Del Valle RM Región Metropolitana N°28 Partido Comunista
+Matías Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7105-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7105-05","No record","Veto emmEnd"

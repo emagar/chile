@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 889-10","Legislatura: 325
+Fecha de ingreso: jueves 17 de diciembre de 1992
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 889-10
+Materia: Acuerdos Internacionales,Visas
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 01-11-2014 00:19:03
+* * Hitos de tramitación * *
+"emmStart Hitos 889-10","Fecha Sesión Etapa Sub-etapa Documento
+17 de Dic. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+17 de Dic. de 1992 31ª / 325 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+13 de Ene. de 1993   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+06 de Abr. de 1993 39ª / 325 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+12 de May. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+12 de May. de 1993 51ª / 325 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+01 de Jun. de 1993 1ª / 326 Segundo trámite constitucional / Senado Discusión general Ver
+02 de Jun. de 1993   Segundo trámite constitucional / Senado Oficio Nº4343. Oficio a la Cámara de Diputados comunicando aprobación del proyecto de acuerdo en los mismos términos que esa Corporación. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 889-10","Fecha Etapa Informe Documento
+12 de May. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+13 de Ene. de 1993 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 889-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 889-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 889-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 889-10","No record","Veto emmEnd"

@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 8405-03","Legislatura: 360
+Fecha de ingreso: martes 03 de julio de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8405-03
+Materia: Interés Difuso,Consumidores,Protección Del Consumidor
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 01:06:45
+* * Hitos de tramitación * *
+"emmStart Hitos 8405-03","Fecha Sesión Etapa Sub-etapa Documento
+03 de Jul. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Jul. de 2012 49ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8405-03","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8405-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8405-03","Nombre Región Distrito Partido
+Pepe Auth Stewart RM Región Metropolitana N°20 Partido Por la Democracia
+Cristián Campos Jara VIII Región del Bío Bío N°43 Partido Por la Democracia
+Juan Luis Castro González VI Región del Libertador Bernardo O' Higgins N°32 Partido Socialista
+Guillermo Ceroni Fuentes VII Región del Maule N°40 Partido Por la Democracia
+José Manuel Edwards Silva IX Región de la Araucanía N°51 Renovación Nacional
+Tucapel Jiménez Fuentes RM Región Metropolitana N°27 Partido Por la Democracia
+Roberto León Ramírez VII Región del Maule N°36 Partido Demócrata Cristiano
+Fernando Meza Moncada IX Región de la Araucanía N°52 Partido Radical Social Demócrata
+Joaquín Tuma Zedan IX Región de la Araucanía N°51 Partido Por la Democracia
+Orlando Vargas Pizarro XV Región Arica y Parinacota N°1 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8405-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8405-03","No record","Veto emmEnd"

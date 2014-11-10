@@ -1,0 +1,59 @@
+* * Bill summary * *
+"emmStart Summary 2223-01","Legislatura: 338
+Fecha de ingreso: martes 01 de septiembre de 1998
+Estado: Tramitación terminada (Ley Nº 19.807 - D.Oficial 12/06/2002)
+Numero de boletín: 2223-01
+Materia: Predios Rústicos
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 22:13:46
+* * Hitos de tramitación * *
+"emmStart Hitos 2223-01","Fecha Sesión Etapa Sub-etapa Documento
+01 de Sep. de 1998   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+01 de Sep. de 1998 25ª / 338 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Agricultura
+03 de Jul. de 2000   Primer trámite constitucional / Senado Primer informe de comisión Ver
+05 de Jul. de 2000 8ª / 342 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Jul. de 2000 10ª / 342 Primer trámite constitucional / Senado Discusión general Ver
+12 de Jul. de 2000   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+13 de Jul. de 2000 16ª / 342 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Agricultura, Silvicultura y Pesca Ver
+01 de Ago. de 2000   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de Ago. de 2000 24ª / 342 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+09 de Nov. de 2000 14ª / 343 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+19 de Mar. de 2002 3ª / 346 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+21 de Mar. de 2002 5ª / 346 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+15 de Abr. de 2002   Segundo trámite constitucional / C. Diputados Segundo informe de comisión Ver
+18 de Abr. de 2002 14ª / 346 Segundo trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+18 de Abr. de 2002 14ª / 346 Segundo trámite constitucional / C. Diputados Discusión particular Ver Ver
+30 de Abr. de 2002 15ª / 346 Segundo trámite constitucional / C. Diputados Discusión particular Ver Ver
+30 de Abr. de 2002   Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver
+07 de May. de 2002 12ª / 346 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+08 de May. de 2002 14ª / 346 Tercer trámite constitucional / Senado Discusión única
+08 de May. de 2002   Tercer trámite constitucional / Senado Oficio Nº 19.825 a la Cámara de Diputados, comunica aprobación de modificaciones. Ver
+08 de May. de 2002   Tercer trámite constitucional / Senado Oficio de ley al Ejecutivo Ver
+09 de May. de 2002 20ª / 346 Tramitación terminada / Cuenta en Cámara de Diputados de oficio del Senado con el que comunica aprobación de modificaciones propuestas Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2223-01","Fecha Etapa Informe Documento
+15 de Abr. de 2002 Segundo trámite constitucional C.Diputados Segundo informe de comisión Unidas de Agricultura y Vivienda Ver
+01 de Ago. de 2000 Segundo trámite constitucional C.Diputados Primer informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+03 de Jul. de 2000 Primer trámite constitucional Senado Primer informe de comisión de Agricultura Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2223-01","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2223-01","Nombre
+Manuel Antonio Matta Aragay
+Jorge Pizarro Soto
+Hosaín Sabag Castillo
+Andrés Zaldívar Larraín","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2223-01","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+15 Cierre del debate 45 12 4 2   Sala Ver detalle votación
+15 Indicación Nº1 45 22 3 1   Sala Ver detalle votación
+15 Indicación Nº3 74 1 2 1   Sala Ver detalle votación
+15 Indicación Nº2 29 30 4 7   Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2223-01","No record","Veto emmEnd"

@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 1426-10","Legislatura: 330
+Fecha de ingreso: jueves 03 de noviembre de 1994
+Estado: Tramitación terminada (D.S. Nº 450 - D.Oficial 06/01/1999)
+Numero de boletín: 1426-10
+Materia: Acuerdos Internacionales
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 02-11-2014 08:57:20
+* * Hitos de tramitación * *
+"emmStart Hitos 1426-10","Fecha Sesión Etapa Sub-etapa Documento
+03 de Nov. de 1994   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+03 de Nov. de 1994 10ª / 330 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+19 de Abr. de 1995   Primer trámite constitucional / Senado Primer informe de comisión Ver
+19 de Abr. de 1995 55ª / 330 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+19 de Abr. de 1995 55ª / 330 Tramitación terminada / Informe de la Comisión. Queda para tabla Ver
+03 de May. de 1995 57ª / 330 Tramitación terminada / Aprobado en general y particular. Oficio Nº 8552 a la Cámara de Diputados. Ver
+09 de May. de 1995   Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana
+16 de May. de 1995   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+01 de Ago. de 1995 22ª / 331 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+07 de Nov. de 1995 13ª / 332 Segundo trámite constitucional / C. Diputados Proyecto incluido en actual Leg.Extraord. Ver
+08 de Nov. de 1995 14ª / 332 Segundo trámite constitucional / C. Diputados Discusión general Ver
+08 de Nov. de 1995   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+14 de Nov. de 1995 13ª / 332 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+15 de Nov. de 1996   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1426-10","Fecha Etapa Informe Documento
+16 de May. de 1995 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+19 de Abr. de 1995 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1426-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+03 de Nov. de 1994 16 de Sep. de 1998 Sin urgencia   CADUCADO","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1426-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1426-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1426-10","No record","Veto emmEnd"

@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 822-10","Legislatura: 325
+Fecha de ingreso: miércoles 14 de octubre de 1992
+Estado: Tramitación terminada (D.S. Nº1.164 - D.Oficial 05/12/1994)
+Numero de boletín: 822-10
+Materia: Acuerdos Internacionales,Inversiones,Protección Recíproca De Inversiones
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 23:25:16
+* * Hitos de tramitación * *
+"emmStart Hitos 822-10","Fecha Sesión Etapa Sub-etapa Documento
+14 de Oct. de 1992 5ª / 325 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+14 de Oct. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+28 de Oct. de 1992   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+10 de Nov. de 1992 9ª / 325 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+01 de Dic. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+15 de Dic. de 1992 17ª / 325 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+16 de Dic. de 1992 18ª / 325 Segundo trámite constitucional / Senado Discusión general y particular. Aprobado en general y en particular.
+22 de Dic. de 1992   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+22 de Dic. de 1992   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 822-10","Fecha Etapa Informe Documento
+01 de Dic. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+28 de Oct. de 1992 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 822-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+14 de Oct. de 1992   Simple    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 822-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 822-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 822-10","No record","Veto emmEnd"

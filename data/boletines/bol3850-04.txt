@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 3850-04","Legislatura: 352
+Fecha de ingreso: martes 03 de mayo de 2005
+Estado: Tramitación terminada (Ley Nº 20.060 - D.Oficial 27/09/2005)
+Numero de boletín: 3850-04
+Materia: Universidad De Chile,Universidades Estatales
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 04-11-2014 19:33:59
+* * Hitos de tramitación * *
+"emmStart Hitos 3850-04","Fecha Sesión Etapa Sub-etapa Documento
+03 de May. de 2005 69ª / 352 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Deportes y Recreación Ver
+03 de May. de 2005   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Jul. de 2005   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+19 de Jul. de 2005 19ª / 353 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. de Educación. En estado de tabla Ver
+16 de Ago. de 2005 31ª / 353 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+16 de Ago. de 2005 31ª / 353 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+16 de Ago. de 2005   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+30 de Ago. de 2005 29ª / 353 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+30 de Ago. de 2005   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+31 de Ago. de 2005 30ª / 353 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+31 de Ago. de 2005 31ª / 353 Segundo trámite constitucional / Senado Discusión general Ver
+06 de Sep. de 2005   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+06 de Sep. de 2005 40ª / 353 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver Ver
+06 de Sep. de 2005   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3850-04","Fecha Etapa Informe Documento
+30 de Ago. de 2005 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+12 de Jul. de 2005 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3850-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3850-04","Nombre Región Distrito Partido
+Ministerio de Educación      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3850-04","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+31   61 23 0 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3850-04","No record","Veto emmEnd"

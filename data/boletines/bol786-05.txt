@@ -1,0 +1,36 @@
+* * Bill summary * *
+"emmStart Summary 786-05","Legislatura: 324
+Fecha de ingreso: jueves 03 de septiembre de 1992
+Estado: Tramitación terminada (Ley Nº 19.167 - D.Oficial 12/09/1992)
+Numero de boletín: 786-05
+Materia: Aguinaldo De Fiestas Patrias
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 22:56:58
+* * Hitos de tramitación * *
+"emmStart Hitos 786-05","Fecha Sesión Etapa Sub-etapa Documento
+03 de Sep. de 1992 36ª / 324 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+03 de Sep. de 1992   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+08 de Sep. de 1992   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+08 de Sep. de 1992 23ª / 324 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+10 de Sep. de 1992   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+10 de Sep. de 1992 24ª / 324 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Sep. de 1992   Segundo trámite constitucional / Senado Oficio Nº 3543, a la Cámara, comunicando aprobación con modificaciones
+15 de Sep. de 1992 25ª / 324 Primer trámite constitucional / C. Diputados Cuenta oficio de la Cámara comunicando aprobación enmiendas propuestas por el Senado Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 786-05","Fecha Etapa Informe Documento
+08 de Sep. de 1992 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 786-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+03 de Sep. de 1992   Discusión inmediata    ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 786-05","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 786-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 786-05","No record","Veto emmEnd"

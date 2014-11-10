@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 2671-07","Legislatura: 343
+Fecha de ingreso: martes 13 de marzo de 2001
+Estado: Segundo trámite constitucional .
+Numero de boletín: 2671-07
+Materia:
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 03-11-2014 08:20:01
+* * Hitos de tramitación * *
+"emmStart Hitos 2671-07","Fecha Sesión Etapa Sub-etapa Documento
+13 de Mar. de 2001 27ª / 343 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+13 de Mar. de 2001   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+03 de Abr. de 2001 32ª / 343 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+03 de Abr. de 2001   Primer trámite constitucional / Senado Primer informe de comisión Ver
+08 de May. de 2001 42ª / 343 Primer trámite constitucional / Senado Discusión general Ver
+14 de May. de 2001   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+15 de May. de 2001 63ª / 343 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+05 de Jun. de 2001   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Jun. de 2001 1ª / 344 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+04 de Jul. de 2007 45ª / 355 Segundo trámite constitucional / C. Diputados Comisión Especial de Libertad de Pensamiento y Expresión solicita que se le envíe el proyecto. ACORDADO. Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2671-07","Fecha Etapa Informe Documento
+05 de Jun. de 2001 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+03 de Abr. de 2001 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2671-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+05 de Jun. de 2001 06 de Jun. de 2001 Simple 19-344 39-344","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2671-07","Nombre
+Ministerio de Justicia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2671-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2671-07","No record","Veto emmEnd"

@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 8225-06","Legislatura: 360
+Fecha de ingreso: martes 10 de abril de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8225-06
+Materia: Concejales,Alcaldes,Candidatos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 22:56:24
+* * Hitos de tramitación * *
+"emmStart Hitos 8225-06","Fecha Sesión Etapa Sub-etapa Documento
+10 de Abr. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Abr. de 2012 12ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior y Regionalización Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8225-06","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8225-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8225-06","Nombre Región Distrito Partido
+Germán Becker Alvear IX Región de la Araucanía N°50 Renovación Nacional
+Pedro Browne Urrejola RM Región Metropolitana N°28 Renovación Nacional
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Eduardo Cerda García V Región de Valparaíso N°10 Partido Demócrata Cristiano
+Ramón Farías Ponce RM Región Metropolitana N°30 Partido Por la Democracia
+María José Hoffmann Opazo V Región de Valparaíso N°15 Unión Demócrata Independiente
+Luis Lemus Aracena IV Región de Coquimbo N°9 Partido Socialista
+Sergio Ojeda Uribe X Región de los Lagos N°55 Partido Demócrata Cristiano
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Partido Regionalista Independiente
+Víctor Torres Jeldes V Región de Valparaíso N°15 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8225-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8225-06","No record","Veto emmEnd"

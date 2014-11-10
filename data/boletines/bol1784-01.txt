@@ -1,0 +1,51 @@
+* * Bill summary * *
+"emmStart Summary 1784-01","Legislatura: 332
+Fecha de ingreso: martes 16 de enero de 1996
+Estado: Tramitación terminada (Ley Nº 19.508 - D.Oficial 19/08/1997)
+Numero de boletín: 1784-01
+Materia: Reforma Agraria
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 14:28:19
+* * Hitos de tramitación * *
+"emmStart Hitos 1784-01","Fecha Sesión Etapa Sub-etapa Documento
+16 de Ene. de 1996   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+16 de Ene. de 1996 42ª / 332 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Agricultura, Silvicultura y Desarrollo Rural Ver
+30 de Abr. de 1996   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+30 de Abr. de 1996   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+30 de Abr. de 1996   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+07 de May. de 1996   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+14 de Jun. de 1996   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de Jun. de 1996   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+18 de Jun. de 1996 8ª / 333 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+19 de Jun. de 1996 9ª / 333 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+20 de Jun. de 1996   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+02 de Jul. de 1996 11ª / 333 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Agricultura
+01 de Abr. de 1997   Segundo trámite constitucional / Senado Se incluye en convocatoria a Legislatura Extraordinaria 334
+18 de Jun. de 1997   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+25 de Jun. de 1997   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+01 de Jul. de 1997 10ª / 335 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Jul. de 1997 15ª / 335 Segundo trámite constitucional / Senado Discusión general Ver
+15 de Jul. de 1997   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+15 de Jul. de 1997 20ª / 335 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+16 de Jul. de 1997 21ª / 335 Tercer trámite constitucional / C. Diputados Discusión única Ver
+16 de Jul. de 1997   Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 1784-01","Fecha Etapa Informe Documento
+25 de Jun. de 1997 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+18 de Jun. de 1997 Segundo trámite constitucional Senado Primer informe de comisión de Agricultura Ver
+14 de Jun. de 1996 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+30 de Abr. de 1996 Primer trámite constitucional C.Diputados Primer informe de comisión de Agricultura, Silvicultura y Desarrollo Rural Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 1784-01","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 1784-01","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 1784-01","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 1784-01","No record","Veto emmEnd"

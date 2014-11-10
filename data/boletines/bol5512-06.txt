@@ -1,0 +1,33 @@
+* * Bill summary * *
+"emmStart Summary 5512-06","Legislatura: 355
+Fecha de ingreso: jueves 22 de noviembre de 2007
+Estado: Primer trámite constitucional .
+Numero de boletín: 5512-06
+Materia: Incompatibilidad De Cargos,Municipios
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 07-11-2014 05:32:43
+* * Hitos de tramitación * *
+"emmStart Hitos 5512-06","Fecha Sesión Etapa Sub-etapa Documento
+22 de Nov. de 2007   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+22 de Nov. de 2007 110ª / 355 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 5512-06","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 5512-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 5512-06","Nombre Región Distrito Partido
+René Aedo Ormeño III Región de Atacama N°5 Renovación Nacional
+Francisco Chahuán Chahuán V Región de Valparaíso N°14 Renovación Nacional
+Roberto Delmastro Naso XIV Región de los Ríos N°53 Renovación Nacional
+Amelia Herrera Silva V Región de Valparaíso N°12 Renovación Nacional
+Osvaldo Palma Flores VII Región del Maule N°39 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 5512-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 5512-06","No record","Veto emmEnd"

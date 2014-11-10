@@ -1,0 +1,53 @@
+* * Bill summary * *
+"emmStart Summary 537-15","Legislatura: 323
+Fecha de ingreso: miércoles 20 de noviembre de 1991
+Estado: Tramitación terminada (Ley Nº 20.068 - D.Oficial 10/12/2005)
+Numero de boletín: 537-15 Refundido con: 999-15,372-15,489-15,637-15,1034-15
+Materia: Tránsito,Bicicletas
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 19:08:16
+* * Hitos de tramitación * *
+"emmStart Hitos 537-15","Fecha Sesión Etapa Sub-etapa Documento
+20 de Nov. de 1991   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de Nov. de 1991 24ª / 323 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+16 de Mar. de 1994   Primer trámite constitucional / C. Diputados S.E. el Pdte. de la Rep. incluye el proyecto en la legislatura extraordinaria Nº 328ª
+18 de Nov. de 1994   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Abr. de 1995   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Abr. de 1995 57ª / 330 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+13 de Abr. de 1995 58ª / 330 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+30 de Jul. de 1999   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+03 de Ago. de 1999 23ª / 340 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+03 de Ago. de 1999 23ª / 340 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver
+03 de Ago. de 1999   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+11 de Ago. de 1999 21ª / 340 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Transportes y Telecomunicaciones
+03 de Ago. de 2000   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+01 de Sep. de 2000   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+12 de Sep. de 2000   Segundo trámite constitucional / Senado A petición de la Comisión de Transportes y Telecomunicaciones la Sala acuerda que el proyecto sea informado por la Comisión de Constitución, Legislación, Justicia y Reglamento sólo con ocasión del segundo informe.
+12 de Sep. de 2000 23ª / 342 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+03 de Oct. de 2000 1ª / 343 Segundo trámite constitucional / Senado Discusión general Ver
+18 de Mar. de 2003 33ª / 348 Tramitación terminada / Cuenta del Mensaje 476-348 que hace presente la urgencia Simple
+29 de Abr. de 2003 42ª / 348 Tramitación terminada / Cuenta del Mensaje 555-348 que retira la urgencia Simple
+29 de Abr. de 2003 42ª / 348 Tramitación terminada / Cuenta del Mensaje 555-348 que hace presente la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 537-15","Fecha Etapa Informe Documento
+01 de Sep. de 2000 Segundo trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver
+30 de Jul. de 1999 Primer trámite constitucional C.Diputados Segundo informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver
+11 de Abr. de 1995 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+18 de Nov. de 1994 Primer trámite constitucional C.Diputados Primer informe de comisión de Obras Públicas, Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 537-15","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+29 de Abr. de 2003   Simple 555-348  
+18 de Mar. de 2003 29 de Abr. de 2003 Simple 476-348 555-348","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 537-15","Nombre Región Distrito Partido
+Mario Palestro Rojas Región N° Partido Socialista","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 537-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 537-15","No record","Veto emmEnd"

@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 2281-03","Legislatura: 339
+Fecha de ingreso: martes 22 de diciembre de 1998
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 2281-03
+Materia: Bonificacion Por Contratación De Mano De Obra
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 02-11-2014 22:52:27
+* * Hitos de tramitación * *
+"emmStart Hitos 2281-03","Fecha Sesión Etapa Sub-etapa Documento
+22 de Dic. de 1998   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+22 de Dic. de 1998 29ª / 339 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+05 de Oct. de 1999   Primer trámite constitucional / C. Diputados S.E.El Presidente de la Republica incluye el proyecto en la Convocatoria Extraodinaria 341
+07 de Jun. de 2001   Primer trámite constitucional / C. Diputados Eximido del trámite ante Comisión de Economía, Fomento y Desarrollo. Pasa a Comisión Zonas Extremas
+29 de Oct. de 2002 10ª / 348 Primer trámite constitucional / C. Diputados Cuenta Oficio de S.E. el Pdte. de la Rep., retira del Congreso el proyecto (Mensaje 85-348) Ver
+30 de Oct. de 2002   Primer trámite constitucional / C. Diputados Oficio Nº 3975 a la Com. de Zonas Extremas, comunica retiro del proyecto por parte del Pdte. de la República.
+31 de Oct. de 2002   Primer trámite constitucional / C. Diputados Oficio Nº 3980 al Pdte. de la Rep. Devuelve proyecto.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 2281-03","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 2281-03","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+18 de Ago. de 1999   Simple 193-340  
+22 de Dic. de 1998   Sin urgencia 22121998  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 2281-03","Nombre Región Distrito Partido
+Ministerio de Economía, Fomento y Turism      
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 2281-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 2281-03","No record","Veto emmEnd"

@@ -1,0 +1,33 @@
+* * Bill summary * *
+"emmStart Summary 7410-07","Legislatura: 358
+Fecha de ingreso: miércoles 05 de enero de 2011
+Estado: Primer trámite constitucional .
+Numero de boletín: 7410-07
+Materia: Prisión Preventiva
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2014 03:47:03
+* * Hitos de tramitación * *
+"emmStart Hitos 7410-07","Fecha Sesión Etapa Sub-etapa Documento
+05 de Ene. de 2011   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+05 de Ene. de 2011 122ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 7410-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 7410-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 7410-07","Nombre Región Distrito Partido
+Pedro Browne Urrejola RM Región Metropolitana N°28 Renovación Nacional
+Alberto Cardemil Herrera RM Región Metropolitana N°22 Renovación Nacional
+Cristián Monckeberg Bruner RM Región Metropolitana N°23 Renovación Nacional
+Gaspar Rivas Sánchez V Región de Valparaíso N°11 Renovación Nacional
+Frank Sauerbaum Muñoz VIII Región del Bío Bío N°42 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 7410-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 7410-07","No record","Veto emmEnd"

@@ -1,0 +1,62 @@
+* * Bill summary * *
+"emmStart Summary 4185-06","Legislatura: 354
+Fecha de ingreso: jueves 04 de mayo de 2006
+Estado: Tramitación terminada (Ley Nº 20.121 - D.Oficial 04/09/2006)
+Numero de boletín: 4185-06
+Materia: Municipios,Organismos Técnicos De Capacitación
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 05-11-2014 22:42:14
+* * Hitos de tramitación * *
+"emmStart Hitos 4185-06","Fecha Sesión Etapa Sub-etapa Documento
+04 de May. de 2006 20ª / 354 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior, Regionalización, Planificación y Desarrollo Social Ver
+04 de May. de 2006   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+07 de Jun. de 2006   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de Jun. de 2006 34ª / 354 Primer trámite constitucional / C. Diputados Discusión general Ver Ver
+08 de Jun. de 2006 34ª / 354 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Jun. de 2006 37ª / 354 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+14 de Jun. de 2006   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+20 de Jun. de 2006 39ª / 354 Primer trámite constitucional / C. Diputados Discusión particular Ver Ver
+20 de Jun. de 2006   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+21 de Jun. de 2006 27ª / 354 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización Ver
+01 de Ago. de 2006 37ª / 354 Segundo trámite constitucional / Senado Cuenta del Mensaje 230-354 que hace presente la urgencia Simple. Por acuerdo de la Sala se remite a la Comisión de Trabajo y Previsión Social.
+03 de Ago. de 2006   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+08 de Ago. de 2006 40ª / 354 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+09 de Ago. de 2006 42ª / 354 Segundo trámite constitucional / Senado Se acuerda tramitarlo, además, a la Comisión de Gobierrno, Descentralización y Regionalización, para que informe en la próxima sesión ordinaria. Ver
+29 de Ago. de 2006   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+29 de Ago. de 2006 45ª / 354 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+29 de Ago. de 2006 45ª / 354 Segundo trámite constitucional / Senado Discusión general Ver
+29 de Ago. de 2006   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+05 de Sep. de 2006 69ª / 354 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 4185-06","Fecha Etapa Informe Documento
+29 de Ago. de 2006 Segundo trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver
+03 de Ago. de 2006 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver
+14 de Jun. de 2006 Primer trámite constitucional C.Diputados Segundo informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver
+07 de Jun. de 2006 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 4185-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+01 de Ago. de 2006   Simple 230-354  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 4185-06","Nombre Región Distrito Partido
+Gabriel Ascencio Mansilla X Región de los Lagos N°58 Partido Demócrata Cristiano
+Gonzalo Duarte Leiva RM Región Metropolitana N°26 Partido Demócrata Cristiano
+Ramón Farías Ponce RM Región Metropolitana N°30 Partido Por la Democracia
+Claudia Nogueira Fernández RM Región Metropolitana N°19 Unión Demócrata Independiente
+Iván Paredes Fierro XV Región Arica y Parinacota N°1 Partido Socialista
+Manuel Rojas Molina II Región de Antofagasta N°4 Unión Demócrata Independiente
+Jorge Sabag Villalobos VIII Región del Bío Bío N°42 Partido Demócrata Cristiano
+Roberto Sepúlveda Hermosilla RM Región Metropolitana N°20 Renovación Nacional
+Mario Venegas Cárdenas IX Región de la Araucanía N°48 Partido Demócrata Cristiano
+Germán Verdugo Soto VII Región del Maule N°37 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 4185-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+39 Texto del articulado propuesto en el segundo informe de Comisión. 81 8 7 3 Aprobado Sala Ver detalle votación
+34   71 2 1 2 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 4185-06","No record","Veto emmEnd"

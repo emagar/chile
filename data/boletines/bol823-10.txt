@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 823-10","Legislatura: 325
+Fecha de ingreso: jueves 15 de octubre de 1992
+Estado: Tramitación terminada (D.S. Nº 1.856 - D.Oficial 26/02/1996)
+Numero de boletín: 823-10
+Materia: Acuerdos Internacionales,Indigenas
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 31-10-2014 23:25:55
+* * Hitos de tramitación * *
+"emmStart Hitos 823-10","Fecha Sesión Etapa Sub-etapa Documento
+15 de Oct. de 1992   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+15 de Oct. de 1992 4ª / 325 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores y a Comisión de Hacienda
+17 de May. de 1995 63ª / 330 Primer trámite constitucional / Senado Primer informe de comisión Ver
+17 de May. de 1995 63ª / 330 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+17 de May. de 1995 63ª / 330 Primer trámite constitucional / Senado Discusión general Ver
+17 de May. de 1995 63ª / 330 Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora
+17 de May. de 1995   Segundo trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+21 de May. de 1995 1ª / 331 Segundo trámite constitucional / C. Diputados Cuenta de proyecto Ver
+02 de Ago. de 1995 23ª / 331 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+02 de Ago. de 1995 23ª / 331 Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 823-10","Fecha Etapa Informe Documento
+17 de May. de 1995 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+17 de May. de 1995 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 823-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 823-10","No record","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 823-10","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 823-10","No record","Veto emmEnd"

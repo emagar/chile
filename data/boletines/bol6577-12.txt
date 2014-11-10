@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 6577-12","Legislatura: 357
+Fecha de ingreso: jueves 02 de julio de 2009
+Estado: Primer trámite constitucional .
+Numero de boletín: 6577-12
+Materia: Contaminación Olfativa,Contaminación Atmosférica
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 13:48:41
+* * Hitos de tramitación * *
+"emmStart Hitos 6577-12","Fecha Sesión Etapa Sub-etapa Documento
+02 de Jul. de 2009   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Jul. de 2009 48ª / 357 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6577-12","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6577-12","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6577-12","Nombre Región Distrito Partido
+Marcos Espinosa Monardes II Región de Antofagasta N°3 Partido Radical Social Demócrata
+Guido Girardi Briere RM Región Metropolitana N°18 Partido Por la Democracia
+Marta Isasi Barbieri I Región de Tarapacá N°2 Independientes
+Carlos Abel Jarpa Wevar VIII Región del Bío Bío N°41 Partido Radical Social Demócrata
+Juan Lobos Krause VIII Región del Bío Bío N°47 Unión Demócrata Independiente
+Alberto Robles Pantoja III Región de Atacama N°6 Partido Radical Social Demócrata
+Roberto Sepúlveda Hermosilla RM Región Metropolitana N°20 Renovación Nacional
+Alejandro Sule Fernández VI Región del Libertador Bernardo O' Higgins N°33 Partido Radical Social Demócrata
+Esteban Valenzuela Van Treek VI Región del Libertador Bernardo O' Higgins N°32 Independientes
+Patricio Vallespín López X Región de los Lagos N°57 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6577-12","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6577-12","No record","Veto emmEnd"

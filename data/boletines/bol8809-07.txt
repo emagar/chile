@@ -1,0 +1,60 @@
+* * Bill summary * *
+"emmStart Summary 8809-07","Legislatura: 360
+Fecha de ingreso: lunes 04 de marzo de 2013
+Estado: Primer trámite constitucional .
+Numero de boletín: 8809-07
+Materia: Conducción En Estado De Ebriedad
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 10-11-2014 05:59:23
+* * Hitos de tramitación * *
+"emmStart Hitos 8809-07","Fecha Sesión Etapa Sub-etapa Documento
+05 de Mar. de 2013   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+05 de Mar. de 2013 100ª / 360 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+05 de Mar. de 2013 100ª / 360 Primer trámite constitucional / Senado La Sala acuerda enviar este proyecto a la Comisión de Transportes y Telecomunicaciones, para ser tramitado en conjunto con los Boletines números 7086-15 y 6034-07.
+21 de Mar. de 2013   Primer trámite constitucional / Senado Primer informe de comisión Ver
+28 de Mar. de 2013   Primer trámite constitucional / Senado Oficio N° 07/TT/2013 a la Corte Suprema Ver
+02 de Abr. de 2013 7ª / 361 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+07 de May. de 2013 20ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 83-361 que hace presente la urgencia Suma
+04 de Jun. de 2013 27ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 117-361 que retira y hace presente la urgencia Suma
+05 de Jun. de 2013 28ª / 361 Primer trámite constitucional / Senado Por acuerdo de la Sala el proyecto es enviado a informe de la Comisión de Constitución, Legislación, Justicia y Reglamento. Ver
+19 de Jun. de 2013 34ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 154-361 que retira y hace presente la urgencia Suma
+03 de Jul. de 2013 38ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 172-361 que retira y hace presente la urgencia Suma
+17 de Jul. de 2013 41ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 193-361 que retira y hace presente la urgencia Suma
+07 de Ago. de 2013 46ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 217-361 que retira y hace presente la urgencia Suma
+14 de Ago. de 2013 48ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 228-361 que retira y hace presente la urgencia Suma
+28 de Ago. de 2013 50ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 245-361 que retira y hace presente la urgencia Suma
+11 de Sep. de 2013 56ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 266-361 que retira y hace presente la urgencia Suma
+30 de Sep. de 2013   Primer trámite constitucional / Senado Cuenta oficio N° 120-2013 de la Corte Suprema Ver
+01 de Oct. de 2013 58ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 279-361 que retira y hace presente la urgencia Suma","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8809-07","Fecha Etapa Informe Documento
+21 de Mar. de 2013 Primer trámite constitucional Senado Primer informe de comisión de Transportes y Telecomunicaciones Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8809-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+01 de Oct. de 2013   Suma 279-361  
+11 de Sep. de 2013 01 de Oct. de 2013 Suma 266-361 279-361
+28 de Ago. de 2013 11 de Sep. de 2013 Suma 245-361 266-361
+14 de Ago. de 2013 28 de Ago. de 2013 Suma 228-361 245-361
+07 de Ago. de 2013 14 de Ago. de 2013 Suma 217-361 228-361
+17 de Jul. de 2013 07 de Ago. de 2013 Suma 193-361 217-361
+03 de Jul. de 2013 17 de Jul. de 2013 Suma 172-361 193-361
+19 de Jun. de 2013 03 de Jul. de 2013 Suma 154-361 172-361
+04 de Jun. de 2013 19 de Jun. de 2013 Suma 117-361 154-361
+07 de May. de 2013 04 de Jun. de 2013 Suma 83-361 117-361","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8809-07","Nombre
+Francisco Chahuán Chahuán
+Guido Girardi Lavín
+Juan Pablo Letelier Morel
+Gonzalo Uriarte Herrera
+Ignacio Walker Prieto","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8809-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8809-07","No record","Veto emmEnd"

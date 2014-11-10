@@ -1,0 +1,48 @@
+* * Bill summary * *
+"emmStart Summary 3765-07","Legislatura: 352
+Fecha de ingreso: miércoles 15 de diciembre de 2004
+Estado: Tramitación terminada (Ley Nº 20.036 - D.Oficial 02/07/2005)
+Numero de boletín: 3765-07
+Materia: Nacionalización
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 04-11-2014 10:57:45
+* * Hitos de tramitación * *
+"emmStart Hitos 3765-07","Fecha Sesión Etapa Sub-etapa Documento
+15 de Dic. de 2004   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+15 de Dic. de 2004 21ª / 352 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía. Este proyecto no podrá ser tratado mientras no sea incluido en la Convocatoria a Legislatura Extraordinaria.
+04 de Ene. de 2005 23ª / 352 Primer trámite constitucional / Senado Cuenta del mensaje 256-352 mediante el cual se incluye este proyecto en la convocatoria a Legislatura Extraordinaria.
+18 de Ene. de 2005   Primer trámite constitucional / Senado Primer informe de comisión Ver
+18 de Ene. de 2005 28ª / 352 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+08 de Mar. de 2005 33ª / 352 Primer trámite constitucional / Senado Discusión general Ver
+08 de Mar. de 2005   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+09 de Mar. de 2005 48ª / 352 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver Ver
+06 de Abr. de 2005   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+13 de Abr. de 2005 65ª / 352 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+07 de Jun. de 2005 2ª / 353 Segundo trámite constitucional / C. Diputados Discusión general Ver Ver
+07 de Jun. de 2005   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+14 de Jun. de 2005 5ª / 353 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+15 de Jun. de 2005   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 3765-07","Fecha Etapa Informe Documento
+06 de Abr. de 2005 Segundo trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+18 de Ene. de 2005 Primer trámite constitucional Senado Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 3765-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 3765-07","Nombre
+Carlos Cantero Ojeda
+Antonio Horvath Kiss
+Roberto Muñoz Barra
+Sergio Páez Verdugo
+Augusto Parra Muñoz","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 3765-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+2   77 0 0 2 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 3765-07","No record","Veto emmEnd"

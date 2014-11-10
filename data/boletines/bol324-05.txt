@@ -1,0 +1,54 @@
+* * Bill summary * *
+"emmStart Summary 324-05","Legislatura: 321
+Fecha de ingreso: martes 09 de abril de 1991
+Estado: Archivado .
+Numero de boletín: 324-05
+Materia: Habeas Data,Información Comercial
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 31-10-2014 15:25:46
+* * Hitos de tramitación * *
+"emmStart Hitos 324-05","Fecha Sesión Etapa Sub-etapa Documento
+09 de Abr. de 1991 43ª / 321 Primer trámite constitucional / C. Diputados Cuenta de proyecto Ver
+25 de Jul. de 1991   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de Ago. de 1991 27ª / 322 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+04 de Sep. de 1991 35ª / 322 Primer trámite constitucional / C. Diputados Discusión general Ver
+13 de Jul. de 1992   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+08 de Sep. de 1992 37ª / 324 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+10 de Sep. de 1992   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+10 de Sep. de 1992 39ª / 324 Primer trámite constitucional / C. Diputados Discusión particular Ver
+15 de Sep. de 1992 25ª / 324 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+08 de Jun. de 1993   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+09 de Jun. de 1993 4ª / 326 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión. Queda para Tabla.
+09 de Jun. de 1993 4ª / 326 Segundo trámite constitucional / Senado Discusión general Ver
+15 de Jun. de 1993 5ª / 326 Segundo trámite constitucional / Senado Discusión general Ver
+06 de Jul. de 1994   Segundo trámite constitucional / Senado Nuevo primer informe de comisión Ver
+06 de Jul. de 1994 10ª / 329 Segundo trámite constitucional / Senado Cuenta nuevo primer informe. Queda para Tabla.
+14 de Jul. de 1994 13ª / 329 Segundo trámite constitucional / Senado Discusión general. Rechazado Corresponde la formación de una Comisión Mixta, para lo cual se designa a los miembros de la Comisión de Constitución, Legislación, Justicia y Reglamento. Ver
+14 de Jul. de 1994   Segundo trámite constitucional / Senado Oficio rechazo a Cámara de Origen Ver
+14 de Jul. de 1994   Comisión Mixta por rechazo de idea de legislar / Senado Oficio integrantes de Comisión Mixta Ver
+19 de Jul. de 1994   Segundo trámite constitucional / Senado Oficio rechazo a Cámara de Origen Ver
+21 de Jul. de 1994 24ª / 329 Comisión Mixta por rechazo de idea de legislar / Senado Cuenta oficio rechazo de Cámara Revisora
+07 de May. de 1998   Comisión Mixta por rechazo de idea de legislar / Senado Oficio Nº12.193. Solicita a la Cámara de Diputados el archivo del proyecto. Ver
+06 de Jul. de 1999 10ª / 340 Comisión Mixta por rechazo de idea de legislar / Senado Cuenta oficio integrantes de Comisión Mixta
+06 de Abr. de 2004   Comisión Mixta por rechazo de idea de legislar / Senado Se incluye en convocatoria a Legislatura Extraordinaria 350","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 324-05","Fecha Etapa Informe Documento
+06 de Jul. de 1994 Segundo trámite constitucional Senado Nuevo primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+08 de Jun. de 1993 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+13 de Jul. de 1992 Primer trámite constitucional C.Diputados Segundo informe de comisión de Hacienda Ver
+25 de Jul. de 1991 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 324-05","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 324-05","Nombre Región Distrito Partido
+Sergio Ojeda Uribe Región N° Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 324-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 324-05","No record","Veto emmEnd"

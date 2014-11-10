@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 8589-07","Legislatura: 360
+Fecha de ingreso: miércoles 12 de septiembre de 2012
+Estado: Primer trámite constitucional .
+Numero de boletín: 8589-07
+Materia: Protección De Datos Personales,Datos Personales
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 03:22:32
+* * Hitos de tramitación * *
+"emmStart Hitos 8589-07","Fecha Sesión Etapa Sub-etapa Documento
+12 de Sep. de 2012   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Sep. de 2012 79ª / 360 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8589-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8589-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8589-07","Nombre Región Distrito Partido
+Gonzalo Arenas Hödar IX Región de la Araucanía N°48 Unión Demócrata Independiente
+Nino Baltolu Rasera XV Región Arica y Parinacota N°1 Unión Demócrata Independiente
+Cristián Campos Jara VIII Región del Bío Bío N°43 Partido Por la Democracia
+Gustavo Hasbún Selume RM Región Metropolitana N°26 Unión Demócrata Independiente
+Javier Hernández Hernández X Región de los Lagos N°55 Unión Demócrata Independiente
+Issa Farid Kort Garriga VI Región del Libertador Bernardo O' Higgins N°32 Unión Demócrata Independiente
+Celso Morales Muñoz VII Región del Maule N°36 Unión Demócrata Independiente
+Manuel Rojas Molina II Región de Antofagasta N°4 Unión Demócrata Independiente
+Enrique Van Rysselberghe Herrera VIII Región del Bío Bío N°44 Unión Demócrata Independiente
+Mónica Zalaquett Said RM Región Metropolitana N°20 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8589-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8589-07","No record","Veto emmEnd"

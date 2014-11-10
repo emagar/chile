@@ -1,0 +1,66 @@
+* * Bill summary * *
+"emmStart Summary 6871-13","Legislatura: 358
+Fecha de ingreso: martes 06 de abril de 2010
+Estado: Tramitación terminada (Ley N° 20.440 - D.Oficial 08/05/2010)
+Numero de boletín: 6871-13
+Materia: Seguro De Cesantia
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 08-11-2014 18:53:47
+* * Hitos de tramitación * *
+"emmStart Hitos 6871-13","Fecha Sesión Etapa Sub-etapa Documento
+06 de Abr. de 2010   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Abr. de 2010 10ª / 358 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social y a Comisión de Hacienda Ver
+06 de Abr. de 2010 10ª / 358 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 29-358 que hace presente la urgencia Suma Ver
+06 de Abr. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+08 de Abr. de 2010 12ª / 358 Primer trámite constitucional / C. Diputados Comisión de Trabajo comunica que proyecto pasó a la Comisión de Hacienda. Ver
+13 de Abr. de 2010   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+14 de Abr. de 2010 14ª / 358 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+14 de Abr. de 2010 14ª / 358 Primer trámite constitucional / C. Diputados Discusión general Ver
+14 de Abr. de 2010   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+20 de Abr. de 2010 10ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social y a Comisión de Hacienda, en su caso.
+20 de Abr. de 2010 10ª / 358 Segundo trámite constitucional / Senado Cuenta de proyecto. Cuenta del Mensaje 042-358 que hace presente la urgencia Suma
+21 de Abr. de 2010   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+21 de Abr. de 2010 12ª / 358 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+21 de Abr. de 2010 12ª / 358 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 03/05/2010. Dichas indicaciones se deben presentar en la Secretaría de las Comisiones unidas de Hacienda y de Trabajo y Previsión Social. Ver
+04 de May. de 2010   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+04 de May. de 2010 14ª / 358 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+04 de May. de 2010 14ª / 358 Segundo trámite constitucional / Senado Cuenta del Mensaje 071-358 que retira y hace presente la urgencia Suma
+04 de May. de 2010 14ª / 358 Segundo trámite constitucional / Senado Discusión particular Ver
+04 de May. de 2010   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+05 de May. de 2010 20ª / 358 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+05 de May. de 2010 20ª / 358 Tercer trámite constitucional / C. Diputados Discusión única Ver
+05 de May. de 2010   Tercer trámite constitucional / C. Diputados Oficio N° 8710, que comunica aprobacion de modificaciones Ver
+05 de May. de 2010   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+11 de May. de 2010 16ª / 358 Tercer trámite constitucional / C. Diputados Cuenta oficio N? 8710, que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 6871-13","Fecha Etapa Informe Documento
+04 de May. de 2010 Segundo trámite constitucional Senado Segundo informe de comisión de Hacienda Ver
+04 de May. de 2010 Segundo trámite constitucional Senado Segundo informe de comisión de Hacienda y de Trabajo y Previsión Social, unidas Ver
+21 de Abr. de 2010 Segundo trámite constitucional Senado Primer informe de comisión de Trabajo y Previsión Social Ver
+13 de Abr. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+06 de Abr. de 2010 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 6871-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de May. de 2010   Suma 071-358  
+20 de Abr. de 2010 30 de Abr. de 2010 Suma 042-358 071-358
+06 de Abr. de 2010   Suma 29-358  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 6871-13","Nombre Región Distrito Partido
+Ministerio de Hacienda      
+Ministerio de Trabajo y Previsión Social      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 6871-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+2 Votación General 10 0 0 3   Trabajo Ver detalle votación
+14 1°, 2°, 4°, incisos primero a cuarto; 7°, 8° y 11. 111 0 0 9 Aprobado Sala Ver detalle votación
+14 Indicación de S.E el Presidente de la República para agregar el siguiente artículo 12, nuevo: ""Artículo 12.- La Sociedad Administradora de Fondos de Cesantía tendrá derecho a una retribución adicional a la que se refiere el artículo 30 de la ley N° 19.728 y el artículo 20 de la ley N° 20.351. La retribución adicional se determinará calculando la comisión base, en los meses que resten de vigencia del actual contrato, contemplada en el artículo 30 de la ley N° 19.728 por los recursos del Fondo de Cesantía Solidario que se destinen al pago de los beneficios a que se refieren los títulos I y II de esta ley, que reciban aquellos beneficiarios del artículo 24 de la ley N° 19.728, que no hubiesen tenido derecho a tales prestaciones antes de la entrada en vigencia de esta ley. La retribución establecida en este artículo se devengará a contar de la entrada en vigencia de esta ley y hasta el término del actual contrato de administración del Seguro de Cesantía, y se pagará, con cargo al Fondo de Cesantía Solidario, en los plazos y en la forma que determine la Superintendencia de Pensiones, mediante norma de carácter general."". 55 56 1 8 Rechazado Sala Ver detalle votación
+20 Modificaciones del Senado. 64 44 0 12 Aprobado Sala Ver detalle votación
+14 con excepción de los artículos 1°, 2°; 4°, incisos primero a cuarto; 7°, 8° y 11, que tienen el carácter de normas de quórum calificado. 110 0 0 10 Aprobado Sala Ver detalle votación
+14 1° y 4°, con indicaciones de la Comisión de Hacienda. 112 0 0 8 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 6871-13","No record","Veto emmEnd"
