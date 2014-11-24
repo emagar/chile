@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 8911-18","Legislatura: 361
+Fecha de ingreso: martes 30 de abril de 2013
+Estado: Primer trámite constitucional .
+Numero de boletín: 8911-18
+Materia: Derechos Del Niño
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 22:21:11
+* * Hitos de tramitación * *
+"emmStart Hitos 8911-18","Fecha Sesión Etapa Sub-etapa Documento
+30 de Abr. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+30 de Abr. de 2013 20ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Familia Ver
+07 de May. de 2013 21ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 80-361 que hace presente la urgencia Simple Ver
+23 de May. de 2013 31ª / 361 Primer trámite constitucional / C. Diputados Los Comités Parlamentarios, acordaron remitir a la Comisión de Constitución, Legislación y Justicia el proyecto, una vez informado por la Comisión de Familia. Ver
+05 de Jun. de 2013 34ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 131-361 que hace presente la urgencia Simple Ver
+04 de Jul. de 2013 44ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 176-361 que hace presente la urgencia Simple Ver
+01 de Ago. de 2013 52ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 209-361 que hace presente la urgencia Simple Ver
+13 de Ago. de 2013 58ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 221-361 que retira la urgencia Simple Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8911-18","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8911-18","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+01 de Ago. de 2013 13 de Ago. de 2013 Simple 209-361 221-361
+04 de Jul. de 2013   Simple 176-361  
+05 de Jun. de 2013   Simple 131-361  
+07 de May. de 2013   Simple 80-361  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8911-18","Nombre Región Distrito Partido
+Ministerio de Desarrollo Social      
+Ministerio de Justicia      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8911-18","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+104 Votación General 6 0 0 7   Familia Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8911-18","No record","Veto emmEnd"

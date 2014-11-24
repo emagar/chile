@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 9167-25","Legislatura: 361
+Fecha de ingreso: lunes 25 de noviembre de 2013
+Estado: Segundo trámite constitucional .
+Numero de boletín: 9167-25
+Materia: Código Penal,Secuestro Esprés
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 11-11-2014 01:22:38
+* * Hitos de tramitación * *
+"emmStart Hitos 9167-25","Fecha Sesión Etapa Sub-etapa Documento
+25 de Nov. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+25 de Nov. de 2013 92ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Seguridad Ciudadana y Drogas Ver
+25 de Nov. de 2013 92ª / 361 Primer trámite constitucional / C. Diputados La Sala acordó enviar el proyecto a la Comisión de Constitución, Legislación y Justicia, para su tramitación, una vez informado por la Comisión de Seguridad Ciudadana y Drogas. Ver
+24 de Ene. de 2014 120ª / 361 Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Constitución, Legislación y Justicia Ver Ver
+14 de Jul. de 2014   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Ago. de 2014 51ª / 362 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+19 de Ago. de 2014 58ª / 362 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general y particular a la vez Ver
+19 de Ago. de 2014   Segundo trámite constitucional / Senado Se reemplazó la denominación original del proyecto - ""Incorpora el artículo 141 A al Código Penal, agregando la figura del secuestro exprés"" -por la siguiente: ""Modifica el Código Penal, en relación con la figura del secuestro exprés""
+19 de Ago. de 2014   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+20 de Ago. de 2014 41ª / 362 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9167-25","Fecha Etapa Informe Documento
+04 de Ago. de 2014 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+28 de Ene. de 2014 Primer trámite constitucional C.Diputados Primer informe de comisión de Seguridad Ciudadana y Drogas Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9167-25","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9167-25","Nombre Región Distrito Partido
+Ricardo Rincón González VI Región del Libertador Bernardo O' Higgins N°33 Partido Demócrata Cristiano
+Jorge Sabag Villalobos VIII Región del Bío Bío N°42 Partido Demócrata Cristiano
+Marcela Sabat Fernández RM Región Metropolitana N°21 Renovación Nacional
+Gabriel Silber Romo RM Región Metropolitana N°16 Partido Demócrata Cristiano
+Arturo Squella Ovalle V Región de Valparaíso N°12 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9167-25","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+115 Votación General 5 0 0 8   Seguridad y Drogas Ver detalle votación
+58   103 0 0 17 Aprobado Sala Ver detalle votación
+58 Artículo único del proyecto propuesto por la Comisión de Constitución, Legislación y Justicia, que sustituye el artículo único aprobado por la Comisión de Seguridad Ciudadana 103 0 1 16 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9167-25","No record","Veto emmEnd"

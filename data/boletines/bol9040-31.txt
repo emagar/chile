@@ -1,0 +1,62 @@
+* * Bill summary * *
+"emmStart Summary 9040-31","Legislatura: 361
+Fecha de ingreso: miércoles 31 de julio de 2013
+Estado: Segundo trámite constitucional .
+Numero de boletín: 9040-31
+Materia: Bono Para Familias Numerosas
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 23:53:38
+* * Hitos de tramitación * *
+"emmStart Hitos 9040-31","Fecha Sesión Etapa Sub-etapa Documento
+31 de Jul. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+31 de Jul. de 2013 51ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Superación de la Pobreza, Planificación y Desarrollo Social y a Comisión de Hacienda Ver
+03 de Sep. de 2013 67ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 257-361 que hace presente la urgencia Suma Ver
+12 de Sep. de 2013 74ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 270-361 que hace presente la urgencia Suma Ver
+01 de Oct. de 2013 75ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 281-361 que hace presente la urgencia Suma Ver
+16 de Oct. de 2013 85ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 311-361 que hace presente la urgencia Suma Ver
+19 de Nov. de 2013 87ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 337-361 que hace presente la urgencia Suma Ver
+03 de Dic. de 2013 97ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 357-361 que hace presente la urgencia Suma Ver
+17 de Dic. de 2013 104ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 391-361 que hace presente la urgencia Suma Ver
+07 de Ene. de 2014 108ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 403-361 que hace presente la urgencia Discusión inmediata Ver
+13 de Ene. de 2014   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+14 de Ene. de 2014 112ª / 361 Primer trámite constitucional / C. Diputados Cuenta. Informe de la Comisión de Superación de Pobreza, Planificación y Desarrollo Social recaído en el proyecto. A LA COMISIÓN DE HACIENDA. Ver
+14 de Ene. de 2014 112ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 425-361 que hace presente la urgencia Discusión inmediata Ver
+16 de Ene. de 2014 114ª / 361 Primer trámite constitucional / C. Diputados Cuenta. Certificado de la Comisión de Hacienda recaído en el proyecto. Ver
+16 de Ene. de 2014 114ª / 361 Primer trámite constitucional / C. Diputados Oficio N°394-361. Oficio de S.E. el Presidente de la República por el cual formula indicación al proyecto. Ver Ver
+21 de Ene. de 2014 115ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 441-361 que hace presente la urgencia Discusión inmediata Ver
+21 de Ene. de 2014 115ª / 361 Primer trámite constitucional / C. Diputados Discusión general. Queda pendiente . Ver
+22 de Ene. de 2014 117ª / 361 Primer trámite constitucional / C. Diputados Discusión general. Queda pendiente . Ver
+23 de Ene. de 2014 119ª / 361 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general y particular a la vez . Ver
+23 de Ene. de 2014   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+28 de Ene. de 2014 90ª / 361 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización y a Comisión de Hacienda","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9040-31","Fecha Etapa Informe Documento
+13 de Ene. de 2014 Primer trámite constitucional C.Diputados Primer informe de comisión de Superación de la Pobreza, Planificación y Desarrollo Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9040-31","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+21 de Ene. de 2014   Discusión inmediata 441-361  
+14 de Ene. de 2014   Discusión inmediata 425-361  
+07 de Ene. de 2014   Discusión inmediata 403-361  
+17 de Dic. de 2013   Suma 391-361  
+03 de Dic. de 2013   Suma 357-361  
+19 de Nov. de 2013   Suma 337-361  
+16 de Oct. de 2013   Suma 311-361  
+01 de Oct. de 2013   Suma 281-361  
+12 de Sep. de 2013   Suma 270-361  
+03 de Sep. de 2013   Suma 257-361  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9040-31","Nombre Región Distrito Partido
+Ministerio de Desarrollo Social      
+Ministerio de Hacienda      
+Ministerio de Justicia      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9040-31","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+100 Votación General 5 0 1 7   Superación de la Pobreza Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9040-31","No record","Veto emmEnd"

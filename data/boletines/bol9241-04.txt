@@ -1,0 +1,30 @@
+* * Bill summary * *
+"emmStart Summary 9241-04","Legislatura: 361
+Fecha de ingreso: martes 21 de enero de 2014
+Estado: Primer trámite constitucional .
+Numero de boletín: 9241-04
+Materia: Legado Presidencial
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 11-11-2014 02:13:47
+* * Hitos de tramitación * *
+"emmStart Hitos 9241-04","Fecha Sesión Etapa Sub-etapa Documento
+21 de Ene. de 2014   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+21 de Ene. de 2014 115ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Deportes y Recreación Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9241-04","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9241-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9241-04","Nombre Región Distrito Partido
+Ministerio de Educación      
+Ministerio Secretaría General de la Presidencia      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9241-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9241-04","No record","Veto emmEnd"

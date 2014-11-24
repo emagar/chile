@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 9101-29","Legislatura: 361
+Fecha de ingreso: jueves 12 de septiembre de 2013
+Estado: Primer trámite constitucional .
+Numero de boletín: 9101-29
+Materia: Día Del Corralero
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 11-11-2014 00:37:33
+* * Hitos de tramitación * *
+"emmStart Hitos 9101-29","Fecha Sesión Etapa Sub-etapa Documento
+12 de Sep. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Sep. de 2013 74ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Deportes Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9101-29","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9101-29","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9101-29","Nombre Región Distrito Partido
+Cristián Campos Jara VIII Región del Bío Bío N°43 Partido Por la Democracia
+Enrique Jaramillo Becker XIV Región de los Ríos N°54 Partido Por la Democracia
+Issa Farid Kort Garriga VI Región del Libertador Bernardo O' Higgins N°32 Unión Demócrata Independiente
+Roberto León Ramírez VII Región del Maule N°36 Partido Demócrata Cristiano
+José Pérez Arriagada VIII Región del Bío Bío N°47 Partido Radical Social Demócrata
+Leopoldo Pérez Lahsen RM Región Metropolitana N°29 Renovación Nacional
+Jorge Sabag Villalobos VIII Región del Bío Bío N°42 Partido Demócrata Cristiano
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Partido Regionalista Independiente
+Gabriel Silber Romo RM Región Metropolitana N°16 Partido Demócrata Cristiano
+Ignacio Urrutia Bonilla VII Región del Maule N°40 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9101-29","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9101-29","No record","Veto emmEnd"

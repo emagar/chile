@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 9109-02","Legislatura: 361
+Fecha de ingreso: jueves 12 de septiembre de 2013
+Estado: Primer trámite constitucional .
+Numero de boletín: 9109-02
+Materia: Explosión De Minas,Artefactos Explosivos ,Rehabilitación De Víctimas
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 11-11-2014 00:43:25
+* * Hitos de tramitación * *
+"emmStart Hitos 9109-02","Fecha Sesión Etapa Sub-etapa Documento
+12 de Sep. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Sep. de 2013 74ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Defensa Nacional y a Comisión de Hacienda Ver
+25 de Nov. de 2013 91ª / 361 Primer trámite constitucional / C. Diputados Oficio de la Comisión de Derechos Humanos, por el cual solicita el acuerdo de la Sala, para que le sea remitido el proyecto una vez informado por la Comisión de Defensa Nacional. Acordado. (Oficios 10.996 y 10.997 del 25.11.13 a los Presidentes de las Comisiones de Derechos Humanos, Nacionalidad y Ciudadanía y Defensa Nacional, respectivamente, comunican acuerdo) Ver
+04 de Jun. de 2014   Primer trámite constitucional / C. Diputados Oficio N° 84-362. Indicaciones formuladas al proyecto por S.E. la Presidenta de la República. Ver
+01 de Jul. de 2014   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+14 de Jul. de 2014 46ª / 362 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía. Ver
+21 de Oct. de 2014 83ª / 362 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 691-362 que hace presente la urgencia Simple
+03 de Nov. de 2014   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+06 de Nov. de 2014 88ª / 362 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9109-02","Fecha Etapa Informe Documento
+03 de Nov. de 2014 Primer trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+15 de Jul. de 2014 Primer trámite constitucional C.Diputados Primer informe de comisión de Defensa Nacional Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9109-02","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+21 de Oct. de 2014   Simple 691-362  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9109-02","Nombre Región Distrito Partido
+Ministerio de Agricultura      
+Ministerio de Defensa Nacional      
+Ministerio de Hacienda      
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9109-02","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9109-02","No record","Veto emmEnd"

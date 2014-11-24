@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 8913-02","Legislatura: 361
+Fecha de ingreso: martes 30 de abril de 2013
+Estado: Primer trámite constitucional .
+Numero de boletín: 8913-02
+Materia: Navegación Fluvial
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 10-11-2014 22:22:28
+* * Hitos de tramitación * *
+"emmStart Hitos 8913-02","Fecha Sesión Etapa Sub-etapa Documento
+30 de Abr. de 2013   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+30 de Abr. de 2013 18ª / 361 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Defensa Nacional
+17 de May. de 2013   Primer trámite constitucional / Senado Primer informe de comisión Ver
+22 de May. de 2013 26ª / 361 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Jun. de 2013 30ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 133-361 que hace presente la urgencia Suma
+18 de Jun. de 2013 32ª / 361 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 22/07/2013 Ver
+19 de Jun. de 2013 34ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 154-361 que retira y hace presente la urgencia Suma
+17 de Jul. de 2013   Primer trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 05/08/2013 a las 12:00 en Secretaría.
+06 de Ago. de 2013   Primer trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 19/08/2013 a las 12:00 en Secretaría.
+19 de Ago. de 2013   Primer trámite constitucional / Senado Boletín de indicaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8913-02","Fecha Etapa Informe Documento
+17 de May. de 2013 Primer trámite constitucional Senado Primer informe de comisión de Defensa Nacional Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8913-02","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+19 de Jun. de 2013   Suma 154-361  
+12 de Jun. de 2013 19 de Jun. de 2013 Suma 133-361 154-361","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8913-02","Nombre
+Ministerio de Defensa Nacional
+Ministerio de Economía, Fomento y Turism
+Ministerio de Transporte y Telecomunicaciones","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8913-02","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8913-02","No record","Veto emmEnd"

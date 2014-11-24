@@ -1,0 +1,32 @@
+* * Bill summary * *
+"emmStart Summary 8981-07","Legislatura: 361
+Fecha de ingreso: jueves 06 de junio de 2013
+Estado: Primer trámite constitucional .
+Numero de boletín: 8981-07
+Materia: Constitucion 1980,Inviolabilidad De Senadores Y Diputados
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 23:11:37
+* * Hitos de tramitación * *
+"emmStart Hitos 8981-07","Fecha Sesión Etapa Sub-etapa Documento
+06 de Jun. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Jun. de 2013 35ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8981-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8981-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8981-07","Nombre Región Distrito Partido
+Pedro Browne Urrejola RM Región Metropolitana N°28 Renovación Nacional
+Cristian Letelier Aguilar RM Región Metropolitana N°31 Independientes
+Cristián Monckeberg Bruner RM Región Metropolitana N°23 Renovación Nacional
+Karla Rubilar Barahona RM Región Metropolitana N°17 Renovación Nacional","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8981-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8981-07","No record","Veto emmEnd"

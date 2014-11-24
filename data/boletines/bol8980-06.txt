@@ -1,0 +1,64 @@
+* * Bill summary * *
+"emmStart Summary 8980-06","Legislatura: 361
+Fecha de ingreso: jueves 06 de junio de 2013
+Estado: Primer trámite constitucional .
+Numero de boletín: 8980-06
+Materia: Violencia Política,Campaña Electoral
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 23:11:06
+* * Hitos de tramitación * *
+"emmStart Hitos 8980-06","Fecha Sesión Etapa Sub-etapa Documento
+06 de Jun. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+06 de Jun. de 2013 35ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior y Regionalización Ver
+03 de Jun. de 2014 28ª / 362 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 128-362 que hace presente la urgencia Simple Ver
+01 de Jul. de 2014 38ª / 362 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 213-362 que retira y hace presente la urgencia Simple Ver
+24 de Jul. de 2014 50ª / 362 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 315-362 que retira y hace presente la urgencia Simple Ver
+12 de Ago. de 2014 54ª / 362 Primer trámite constitucional / C. Diputados Cuenta oficio N° 329-362, de S.E. la Presidenta de la República, mediante el cual formula una indicación sustitutiva al proyecto. Ver Ver
+19 de Ago. de 2014 58ª / 362 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 393-362 que hace presente la urgencia Simple Ver
+09 de Sep. de 2014 66ª / 362 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 490-362 que hace presente la urgencia Simple Ver
+23 de Sep. de 2014 70ª / 362 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 540-362 que hace presente la urgencia Discusión inmediata Ver
+24 de Sep. de 2014 71ª / 362 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 563-362 que hace presente la urgencia Simple Ver
+24 de Sep. de 2014 71ª / 362 Primer trámite constitucional / C. Diputados Cuenta oficio N° 461-362, de S. E. la Presidenta de la República, por el cual retira y formula indicaciones al proyecto. Ver Ver
+15 de Oct. de 2014   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+15 de Oct. de 2014 81ª / 362 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+15 de Oct. de 2014   Primer trámite constitucional / C. Diputados Pasa a la Sala
+22 de Oct. de 2014 84ª / 362 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 698-362 que hace presente la urgencia Suma
+04 de Nov. de 2014 86ª / 362 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 765-362 que hace presente la urgencia Suma
+05 de Nov. de 2014 87ª / 362 Primer trámite constitucional / C. Diputados Cuenta oficio N? 105-2014 de la Corte Suprema","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8980-06","Fecha Etapa Informe Documento
+15 de Oct. de 2014 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8980-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Nov. de 2014   Suma 765-362  
+22 de Oct. de 2014   Suma 698-362  
+24 de Sep. de 2014   Simple 563-362  
+24 de Sep. de 2014 24 de Sep. de 2014 Simple 563-362 563-362
+23 de Sep. de 2014   Discusión inmediata 540-362  
+09 de Sep. de 2014   Simple 490-362  
+19 de Ago. de 2014   Simple 393-362  
+24 de Jul. de 2014   Simple 315-362  
+01 de Jul. de 2014 24 de Jul. de 2014 Simple 213-362 315-362
+03 de Jun. de 2014 01 de Jul. de 2014 Simple 128-362 213-362","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8980-06","Nombre Región Distrito Partido
+Sergio Aguiló Melo VII Región del Maule N°37 Izquierda Ciudadana
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Andrea Molina Oliva V Región de Valparaíso N°10 Unión Demócrata Independiente
+Carlos Montes Cisternas RM Región Metropolitana N°26 Partido Socialista
+Adriana Muñoz D'Albora IV Región de Coquimbo N°9 Partido Por la Democracia
+Marco Antonio Núñez Lozano V Región de Valparaíso N°11 Partido Por la Democracia
+Sergio Ojeda Uribe X Región de los Lagos N°55 Partido Demócrata Cristiano
+Denise Pascal Allende RM Región Metropolitana N°31 Partido Socialista
+Ricardo Rincón González VI Región del Libertador Bernardo O' Higgins N°33 Partido Demócrata Cristiano
+Ximena Vidal Lázaro RM Región Metropolitana N°25 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8980-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8980-06","No record","Veto emmEnd"

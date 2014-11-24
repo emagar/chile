@@ -1,0 +1,71 @@
+* * Bill summary * *
+"emmStart Summary 9178-05","Legislatura: 361
+Fecha de ingreso: martes 03 de diciembre de 2013
+Estado: Tramitación terminada (Ley Nº 20.789 - D.Oficial 06/11/2014)
+Numero de boletín: 9178-05
+Materia: Consejo De Estabilidad Financiera
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 11-11-2014 01:28:06
+* * Hitos de tramitación * *
+"emmStart Hitos 9178-05","Fecha Sesión Etapa Sub-etapa Documento
+03 de Dic. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Dic. de 2013 97ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+03 de Dic. de 2013 97ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 363-361 que hace presente la urgencia Suma Ver
+17 de Dic. de 2013 104ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 391-361 que hace presente la urgencia Suma Ver
+07 de Ene. de 2014 108ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 404-361 que hace presente la urgencia Suma Ver
+16 de Ene. de 2014 114ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 439-361 que hace presente la urgencia Discusión inmediata Ver
+20 de Ene. de 2014   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+21 de Ene. de 2014 115ª / 361 Primer trámite constitucional / C. Diputados Cuenta. Informe de la Comisión de Hacienda recaído en el proyecto. Ver
+21 de Ene. de 2014 115ª / 361 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general y en particular. Pasa a Cámara Revisora. Ver
+21 de Ene. de 2014   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+22 de Ene. de 2014 89ª / 361 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+04 de Mar. de 2014 91ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 470-061 que hace presente la urgencia Discusión inmediata
+09 de Sep. de 2014 45ª / 362 Segundo trámite constitucional / Senado Cuenta del Mensaje 515-362 que hace presente la urgencia Discusión inmediata
+10 de Sep. de 2014   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+10 de Sep. de 2014 47ª / 362 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Sep. de 2014 47ª / 362 Segundo trámite constitucional / Senado Discusión general Ver
+10 de Sep. de 2014   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+11 de Sep. de 2014 69ª / 362 Tercer trámite constitucional / C. Diputados Oficio del Senado por el cual comunica aprobación de proyecto con enmiendas (1032/SEC/14). Ver
+11 de Sep. de 2014 69ª / 362 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+11 de Sep. de 2014 69ª / 362 Tercer trámite constitucional / C. Diputados Cuenta del Mensaje 532-362 que retira la urgencia Discusión inmediata Ver
+23 de Sep. de 2014 70ª / 362 Tercer trámite constitucional / C. Diputados Discusión única. Aprobadas las modificaciones Ver
+23 de Sep. de 2014   Tercer trámite constitucional / C. Diputados Oficio N° 11.478, que comunica aprobacion de modificaciones Ver
+23 de Sep. de 2014   Tercer trámite constitucional / C. Diputados Oficio N° 11.476, que comunica a la Presidenta de la República aprobación del proyecto, para efectos del art. 73 CPR. Ver
+24 de Sep. de 2014 49ª / 362 Tercer trámite constitucional / C. Diputados Cuenta oficio Nº 11.478, que comunica aprobación de modificaciones Ver
+25 de Sep. de 2014 72ª / 362 Tercer trámite constitucional / C. Diputados Cuenta oficio del Vicepresidente de la República, por el que comunica que ha resuelto no hacer uso de la facultad que le confiere el inciso primero del artículo 73 de la Constitución Política de la República (veto) respecto del proyecto. Ver
+25 de Sep. de 2014   Tercer trámite constitucional / C. Diputados Oficio N°11.491 al Tribunal Constitucional Ver
+21 de Oct. de 2014 83ª / 362 Trámite de aprobacion presidencial / C. Diputados Cuenta oficio N° 10125 del Tribunal Constitucional
+21 de Oct. de 2014   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9178-05","Fecha Etapa Informe Documento
+10 de Sep. de 2014 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+20 de Ene. de 2014 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9178-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+09 de Sep. de 2014 12 de Sep. de 2014 Discusión inmediata 515-362 532-362
+04 de Mar. de 2014 08 de Sep. de 2014 Discusión inmediata 470-061 CADUCADA
+16 de Ene. de 2014   Discusión inmediata 439-361  
+07 de Ene. de 2014   Suma 404-361  
+17 de Dic. de 2013   Suma 391-361  
+03 de Dic. de 2013   Suma 363-361  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9178-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      
+Ministerio de Trabajo y Previsión Social      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9178-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+115 El inciso primero del artículo 6° 88 1 3 28 Aprobado Sala Ver detalle votación
+115 En votación general, con la salvedad del inciso primero del artículo 6°, por tratar materias propias de ley de quórum calificado, y del inciso tercero del artículo 1°, el párrafo segundo del N° 1 del artículo 2°, el párrafo segundo del N° 2 del artículo 2°, el inciso segundo del artículo 6° y el artículo 10 88 2 3 27 Aprobado Sala Ver detalle votación
+115 El inciso tercero del artículo 1°, el párrafo segundo del N° 1 del artículo 2°, el párrafo segundo del N° 2 del artículo 2°, el inciso segundo del artículo 6° y el artículo 10 91 1 4 24 Aprobado Sala Ver detalle votación
+70 modificaciones introducidas por el Senado, con la salvedad del inciso primero del artículo 6°, por tratarse de una norma de quorum calificado y del párrafo tercero del número 2 del artículo 2° del proyecto de ley, por tratarse de una norma de ley orgánica constitucional 76 1 5 38 Aprobado Sala Ver detalle votación
+70 modificación introducida por el Senado al inciso primero del artículo 6° 78 1 5 36 Aprobado Sala Ver detalle votación
+70 modificación introducida por el Senado al párrafo tercero del número 2 del artículo 2° 79 1 6 0 Aprobado Sala Ver detalle votación
+305 Votación General 8 0 0 5   Hacienda Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9178-05","No record","Veto emmEnd"

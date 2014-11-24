@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 9170-23","Legislatura: 361
+Fecha de ingreso: miércoles 27 de noviembre de 2013
+Estado: Primer trámite constitucional .
+Numero de boletín: 9170-23
+Materia: Turismo,Sistema Institucional Para El Desarrollo Del Turismo
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 11-11-2014 01:24:36
+* * Hitos de tramitación * *
+"emmStart Hitos 9170-23","Fecha Sesión Etapa Sub-etapa Documento
+27 de Nov. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+27 de Nov. de 2013 94ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión Desarrollo del Turismo Ver
+05 de Dic. de 2013 100ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 374-361 que hace presente la urgencia Suma Ver
+17 de Dic. de 2013 104ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 391-361 que hace presente la urgencia Suma Ver
+07 de Ene. de 2014 108ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 404-361 que hace presente la urgencia Suma Ver
+13 de May. de 2014 23ª / 362 Primer trámite constitucional / C. Diputados Cuenta del oficio de la Comisión de Economía, Fomento; Micro, Pequeña y Mediana Empresa, Protección de los Consumidores y Turismo, por el cual comunica que el proyecto se ha radicado en ella, con motivo de la modificación del artículo 213 del Reglamento de la Corporación, en lo relativo a la competencia de algunas comisiones (se eliminó la Comisión Especial para el Desarrollo del Turismo.) Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9170-23","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9170-23","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+07 de Ene. de 2014   Suma 404-361  
+17 de Dic. de 2013   Suma 391-361  
+05 de Dic. de 2013   Suma 374-361  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9170-23","Nombre Región Distrito Partido
+Ministerio de Agricultura      
+Ministerio de Economía, Fomento y Turism      
+Ministerio de Hacienda      
+Ministerio de Obras Públicas      
+Ministerio de Transporte y Telecomunicaciones      
+Ministerio de Vivienda y Urbanismo      
+Ministerio del Medio Ambiente      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9170-23","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+114 Votación General 8 0 0 5   Especial Turismo Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9170-23","No record","Veto emmEnd"

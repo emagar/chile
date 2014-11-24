@@ -1,0 +1,53 @@
+* * Bill summary * *
+"emmStart Summary 9200-05","Legislatura: 361
+Fecha de ingreso: martes 17 de diciembre de 2013
+Estado: Tramitación terminada (Ley Nº 20.731 - D.Oficial 13/02/2014)
+Numero de boletín: 9200-05
+Materia: Reavalúo Bienes Raíces Agrícolas,Vigencia Avalúo Bienes Raíces Agrícolas
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 11-11-2014 01:43:51
+* * Hitos de tramitación * *
+"emmStart Hitos 9200-05","Fecha Sesión Etapa Sub-etapa Documento
+17 de Dic. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+17 de Dic. de 2013 104ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+17 de Dic. de 2013 104ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 396-361 que hace presente la urgencia Discusión inmediata Ver
+18 de Dic. de 2013   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+19 de Dic. de 2013 107ª / 361 Primer trámite constitucional / C. Diputados Cuenta Certificado de la Comisión de Hacienda. Ver
+07 de Ene. de 2014 108ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 403-361 que hace presente la urgencia Discusión inmediata Ver
+08 de Ene. de 2014 110ª / 361 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general y particular a la vez . Ver
+08 de Ene. de 2014   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+08 de Ene. de 2014 84ª / 361 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+14 de Ene. de 2014 85ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 427-361 que retira y hace presente la urgencia Discusión inmediata
+14 de Ene. de 2014   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+14 de Ene. de 2014 85ª / 361 Segundo trámite constitucional / Senado Discusión general Ver
+14 de Ene. de 2014   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+15 de Ene. de 2014 113ª / 361 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+15 de Ene. de 2014 113ª / 361 Tercer trámite constitucional / C. Diputados Discusión única. Aprobadas las modificaciones . Ver
+15 de Ene. de 2014   Tercer trámite constitucional / C. Diputados Oficio N° 11.100, que comunica a Cámara Revisora aprobación de enmienda. Ver
+15 de Ene. de 2014   Tercer trámite constitucional / C. Diputados Oficio N° 11.101, remite proyecto para promulgación. Ver
+21 de Ene. de 2014 87ª / 361 Tercer trámite constitucional / C. Diputados Cuenta oficio N° 11.100, que comunica aprobacion de modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9200-05","Fecha Etapa Informe Documento
+14 de Ene. de 2014 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+18 de Dic. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9200-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+14 de Ene. de 2014   Discusión inmediata 427-361  
+07 de Ene. de 2014 14 de Ene. de 2014 Discusión inmediata 403-361 427-361
+17 de Dic. de 2013   Discusión inmediata 396-361  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9200-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9200-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+113   87 0 6 27 Aprobado Sala Ver detalle votación
+110   91 0 10 19 Aprobado Sala Ver detalle votación
+303 Votación General 7 0 0 6   Hacienda Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9200-05","No record","Veto emmEnd"

@@ -1,0 +1,58 @@
+* * Bill summary * *
+"emmStart Summary 8972-06","Legislatura: 361
+Fecha de ingreso: martes 04 de junio de 2013
+Estado: Comisión Mixta por rechazo de idea de legislar .
+Numero de boletín: 8972-06
+Materia: Padrón Electoral
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 10-11-2014 23:05:05
+* * Hitos de tramitación * *
+"emmStart Hitos 8972-06","Fecha Sesión Etapa Sub-etapa Documento
+04 de Jun. de 2013   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+04 de Jun. de 2013 27ª / 361 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización
+04 de Jun. de 2013 27ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 96-361 que hace presente la urgencia Suma
+11 de Jun. de 2013 29ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 126-361 que retira y hace presente la urgencia Discusión inmediata
+17 de Jun. de 2013 31ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 139-361 que retira y hace presente la urgencia Discusión inmediata
+18 de Jun. de 2013 32ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 151-361 que retira y hace presente la urgencia Suma
+03 de Jul. de 2013 38ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 172-361 que retira y hace presente la urgencia Suma
+09 de Jul. de 2013 39ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 186-361 que retira y hace presente la urgencia Discusión inmediata
+09 de Jul. de 2013   Primer trámite constitucional / Senado Primer informe de comisión Ver
+09 de Jul. de 2013 39ª / 361 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Jul. de 2013 40ª / 361 Primer trámite constitucional / Senado Discusión general Ver
+10 de Jul. de 2013   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+11 de Jul. de 2013 47ª / 361 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior y Regionalización Ver
+17 de Jul. de 2013 48ª / 361 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 196-361 que hace presente la urgencia Discusión inmediata Ver
+17 de Jul. de 2013   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Jul. de 2013 48ª / 361 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+17 de Jul. de 2013 48ª / 361 Segundo trámite constitucional / C. Diputados Discusión general. Rechazado . Ver
+18 de Jul. de 2013   Segundo trámite constitucional / C. Diputados Oficio rechazo a Cámara de Origen Ver
+30 de Jul. de 2013 42ª / 361 Comisión Mixta por rechazo de idea de legislar / C. Diputados Cuenta oficio rechazo de Cámara Revisora Ver
+31 de Jul. de 2013 51ª / 361 Comisión Mixta por rechazo de idea de legislar / C. Diputados Oficio N° 568/SEC/13. Toma conocimiento del rechazo del proyecto de ley por la Cámara de Diputados y designa miembros que integrarán la respectiva Comisión Mixta. Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8972-06","Fecha Etapa Informe Documento
+17 de Jul. de 2013 Segundo trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver
+09 de Jul. de 2013 Primer trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8972-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+17 de Jul. de 2013   Discusión inmediata 196-361  
+09 de Jul. de 2013   Discusión inmediata 186-361  
+03 de Jul. de 2013 09 de Jul. de 2013 Suma 172-361 186-361
+18 de Jun. de 2013 03 de Jul. de 2013 Suma 151-361 172-361
+17 de Jun. de 2013 18 de Jun. de 2013 Discusión inmediata 139-361 151-361
+11 de Jun. de 2013 17 de Jun. de 2013 Discusión inmediata 126-361 139-361
+04 de Jun. de 2013 11 de Jun. de 2013 Suma 96-361 126-361","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8972-06","Nombre
+Ministerio de Interior y Seguridad Públi
+Ministerio Secretaría General de la Presidencia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8972-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+48   60 30 8 22 Rechazado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8972-06","No record","Veto emmEnd"

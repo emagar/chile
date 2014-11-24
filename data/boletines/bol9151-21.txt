@@ -1,0 +1,34 @@
+* * Bill summary * *
+"emmStart Summary 9151-21","Legislatura: 361
+Fecha de ingreso: martes 14 de enero de 2014
+Estado: Primer trámite constitucional .
+Numero de boletín: 9151-21
+Materia: Cultivo De Algas
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 11-11-2014 01:12:46
+* * Hitos de tramitación * *
+"emmStart Hitos 9151-21","Fecha Sesión Etapa Sub-etapa Documento
+14 de Ene. de 2014   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+14 de Ene. de 2014 112ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Pesca, Acuicultura e Intereses Marítimos y a Comisión de Hacienda Ver
+30 de Sep. de 2014 73ª / 362 Primer trámite constitucional / C. Diputados Cuenta oficio N°559-362, de S. E. la Presidenta de la República, por el cual formula indicaciones al proyecto. Ver Ver
+30 de Sep. de 2014   Primer trámite constitucional / C. Diputados Informe financiero correspondiente a las indicaciones formuladas al proyecto por S.E. la Presidenta de la República Ver
+06 de Nov. de 2014 88ª / 362 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 798-362 que hace presente la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9151-21","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9151-21","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+06 de Nov. de 2014   Simple 798-362  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9151-21","Nombre Región Distrito Partido
+Ministerio de Economía, Fomento y Turism      
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9151-21","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9151-21","No record","Veto emmEnd"

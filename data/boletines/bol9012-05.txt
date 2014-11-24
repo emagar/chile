@@ -1,0 +1,34 @@
+* * Bill summary * *
+"emmStart Summary 9012-05","Legislatura: 361
+Fecha de ingreso: martes 02 de julio de 2013
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 9012-05
+Materia: Ingreso Mínimo Mensual,Reajuste Ingreso Mínimo Mensual
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 23:33:59
+* * Hitos de tramitación * *
+"emmStart Hitos 9012-05","Fecha Sesión Etapa Sub-etapa Documento
+02 de Jul. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Jul. de 2013 42ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+02 de Jul. de 2013 42ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 168-361 que hace presente la urgencia Discusión inmediata Ver
+03 de Jul. de 2013 43ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 170-361 que retira la urgencia Discusión inmediata Ver
+30 de Jul. de 2013 50ª / 361 Tramitación terminada / Oficio de S. E. el Presidente de la República por el cual comunica que retira de su tramitación ante el Congreso Nacional, el proyecto.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9012-05","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9012-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+02 de Jul. de 2013 03 de Jul. de 2013 Discusión inmediata 168-361 170-361","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9012-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      
+Ministerio de Trabajo y Previsión Social      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9012-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9012-05","No record","Veto emmEnd"

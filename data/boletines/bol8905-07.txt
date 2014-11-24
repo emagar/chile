@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 8905-07","Legislatura: 361
+Fecha de ingreso: lunes 29 de abril de 2013
+Estado: Primer trámite constitucional .
+Numero de boletín: 8905-07
+Materia: Candidato A Diputado,Inhabilidades,Constitucion 1980,Candidato A Senador,Inhabilidad Relativa
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 22:16:38
+* * Hitos de tramitación * *
+"emmStart Hitos 8905-07","Fecha Sesión Etapa Sub-etapa Documento
+29 de Abr. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+29 de Abr. de 2013 19ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8905-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8905-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8905-07","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+René Alinco Bustos XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Independientes
+Pedro Araya Guerrero II Región de Antofagasta N°4 Partido Regionalista Independiente
+Gabriel Ascencio Mansilla X Región de los Lagos N°58 Partido Demócrata Cristiano
+Pedro Browne Urrejola RM Región Metropolitana N°28 Renovación Nacional
+Hugo Gutiérrez Gálvez I Región de Tarapacá N°2 Partido Comunista
+Manuel Monsalve Benavides VIII Región del Bío Bío N°46 Partido Socialista
+Adriana Muñoz D'Albora IV Región de Coquimbo N°9 Partido Por la Democracia
+Alberto Robles Pantoja III Región de Atacama N°6 Partido Radical Social Demócrata
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Partido Regionalista Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8905-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8905-07","No record","Veto emmEnd"

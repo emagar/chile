@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 9062-24","Legislatura: 361
+Fecha de ingreso: martes 13 de agosto de 2013
+Estado: Primer trámite constitucional .
+Numero de boletín: 9062-24
+Materia: Día Delrock Chileno
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 11-11-2014 00:09:36
+* * Hitos de tramitación * *
+"emmStart Hitos 9062-24","Fecha Sesión Etapa Sub-etapa Documento
+13 de Ago. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Ago. de 2013 59ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de la Cultura y las Artes Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9062-24","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9062-24","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9062-24","Nombre Región Distrito Partido
+Pedro Browne Urrejola RM Región Metropolitana N°28 Renovación Nacional
+Alfonso De Urresti Longton XIV Región de los Ríos N°53 Partido Socialista
+Marcelo Díaz Díaz IV Región de Coquimbo N°7 Partido Socialista
+Ramón Farías Ponce RM Región Metropolitana N°30 Partido Por la Democracia
+Issa Farid Kort Garriga VI Región del Libertador Bernardo O' Higgins N°32 Unión Demócrata Independiente
+Claudia Nogueira Fernández RM Región Metropolitana N°19 Unión Demócrata Independiente
+Jorge Sabag Villalobos VIII Región del Bío Bío N°42 Partido Demócrata Cristiano
+Víctor Torres Jeldes V Región de Valparaíso N°15 Partido Demócrata Cristiano
+Ximena Vidal Lázaro RM Región Metropolitana N°25 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9062-24","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9062-24","No record","Veto emmEnd"

@@ -1,0 +1,13 @@
+This is a test of LaTeX export from org mode. 
+
+* This is a section
+
+** A subsection
+
+**** Item 1
+**** Item 2
+**** Item 3
+
+In this *bold*?
+
+** Another subsection

@@ -11,6 +11,7 @@ files <- paste("boletines/", files, sep = "")
 ## files <- read.csv("boletines/1id-bl.csv", encoding = 'utf-8', stringsAsFactors = FALSE) # reads universe of filenames
 ## files <- files$bl
 ## files <- paste("boletines/bol", files, ".txt", sep = "")
+grep("2397", files)
 #
 # prepare object to receive bill histories
 I <- length(files)
@@ -29,8 +30,8 @@ bills <- list(
 # loop over files
 library(lubridate)
 for (i in 1:I){
-#    i <- grep("1140", files) # debug: read one boletin
-    print(paste("loop", i, "of", I))
+    #i <- grep("127-01", files) # debug: read one boletin
+    message(sprintf("loop %s of %s", i, I))
     bol <- readLines( files[i], encoding = "utf-8" )
     bol <- gsub(pattern = "[\"]", replacement = "", bol) # some cleaning: removes double quotes inside text
                                         # get its summary info
@@ -121,6 +122,10 @@ for (i in 1:I){
                                         # verifies if there is a record or not
     tmp <- grep(pattern = "No record", chunk)
     bill$hasUrg <- ifelse(length(tmp)>0, "no", "yes")
+    if (length(tmp)==0){
+        tmpD <- chunk[-grep(pattern = "Sin urgencia", chunk)]
+        bill$hasUrg <- ifelse(length(tmpD)==1, "no", "yes") # dropping sin urgencia lines, are there any remaining other than the date etc. heading?
+    }
     bills$urgencias[[i]] <- chunk # pastes raw info for further processing
                                         #
                                         # find autores
@@ -165,20 +170,32 @@ for (i in 1:I){
 }
 
 summary(bills)
+rm(bill, bol, chunk, end, files, i, start, tmp)
+ls()
+save.image(file="tmp.RData")
+
+rm(list=ls())
+datdir <- "/home/eric/Dropbox/data/latAm/chile/data/" 
+setwd(datdir)
+load(file = "tmp.RData")
 
 ####################################
 # systematize hitos de tramitación #
 ####################################
-bills$syst <- vector("list", I) # new slot to receive structured info
 #
-bills$info$debug <- 0 # debug prep
+nHitos <- rep(0,I)
+bills$info$hasUrgHU <- "." # will receive urgencia info from hitos and urgencia tab
+#bills$info$hasVetoH <- "." # will receive veto info from hitos
 #
-# pick one case
-i <- 77
-
-for (i in 1:200){
+bills$info$debug <- 0 # debug prep --- can receive anything being checked in data
+#
+bills$hitosRaw <- bills$hitos # keeps raw info for future revision
+#
+sel <- 1:I
+library(lubridate)
+for (i in sel){
     message(sprintf("loop %s of %s", i, I))
-    tmp <- bills$hitos[[i]]
+    tmp <- bills$hitosRaw[[i]]
     tmp <- gsub(pattern = ",", replacement = "", tmp) # drop commas
     tmp <- tmp[-1] # drop line with titles
     N <- length(tmp) # number of hitos
@@ -202,7 +219,7 @@ for (i in 1:200){
     output$date <- dmy(tmp2, quiet = TRUE)
                                         #
     tmp <- sub(pattern = "^[0-9]{2}[ .A-Za-z]+[0-9]{4}(.*)", replacement = "\\1", tmp, perl = TRUE) # crops object
-    tmp <- sub(pattern = "^[ ]+", replacement = "", tmp) # removes spaces at start
+    tmp <- sub(pattern = "^[ ]+", replacement = "", tmp) # removes spaces at start of line
     output$ses <- (function(x){
         pat <- "^(\\d[/ 0-9ª]*) .*"
         ind <- grep(pat, x)
@@ -219,6 +236,8 @@ for (i in 1:200){
     output$tramite <- sub(pattern = "Tercer trámite constitucional[ ]*"   , replacement = "3ero", output$tramite, perl = TRUE)
     output$tramite <- sub(pattern = ".*aprobaci[óo]n presidencial.*"      , replacement = "toPres", output$tramite, perl = TRUE)
     output$tramite <- sub(pattern = "Discusión veto.*"                    , replacement = "veto", output$tramite, perl = TRUE)
+    output$tramite <- sub(pattern = "Discusión.*[Cc]ámara de [Oo]rigen.*" , replacement = "1ero", output$tramite, perl = TRUE)
+    output$tramite <- sub(pattern = "Discusión.*[Cc]ámara [Rr]evisora.*"  , replacement = "2do", output$tramite, perl = TRUE)
     output$tramite <- sub(pattern = ".*Tribunal Constitucional.*"         , replacement = "tribunal", output$tramite, perl = TRUE)
     output$tramite <- sub(pattern = ".*finalización.*"                    , replacement = "final", output$tramite, perl = TRUE)
     output$tramite <- sub(pattern = "Archivado.*"                         , replacement = "onHold", output$tramite, perl = TRUE)
@@ -226,6 +245,7 @@ for (i in 1:200){
     output$tramite <- sub(pattern = "Comisión Mixta.*"                    , replacement = "conf", output$tramite, perl = TRUE)
     output$tramite <- sub(pattern = "Disc[.] [Ii]nforme C[.]Mixta.*"      , replacement = "PostConf", output$tramite, perl = TRUE)
     output$tramite <- sub(pattern = ".*insistencia.*"                     , replacement = "PostConf", output$tramite, perl = TRUE)
+    output$tramite <- sub(pattern = ".*Congreso Pleno.*"                  , replacement = "Cong", output$tramite, perl = TRUE)
                                         #
     tmp <- sub(pattern = "^.*?/(.*)", replacement = "\\1", tmp, perl = TRUE) # crops object
     tmp <- sub(pattern = "^[ ]+", replacement = "", tmp) # removes spaces at start
@@ -236,28 +256,430 @@ for (i in 1:200){
     output$chamber <- sub(pattern = ".*Oficio.*"                                   , replacement = ".", output$chamber, perl = TRUE)
     output$chamber <- sub(pattern = "^S[.]E[.] el [PV].*retira.*"                  , replacement = ".", output$chamber, perl = TRUE)
     output$chamber <- sub(pattern = ".*S[.]E[.] el [PV].*retira.*"                 , replacement = ".", output$chamber, perl = TRUE)
-    output$chamber <- sub(pattern = "^Cuenta [Cc]omunicación.*"                    , replacement = ".", output$chamber, perl = TRUE)
-    output$chamber <- sub(pattern = "^Cuenta del [Mm]ensaje.*"                     , replacement = ".", output$chamber, perl = TRUE)
-    output$chamber <- sub(pattern = "^Cuenta (?:en el Senado )*(?:de[l]* )*(?:un )*oficio.*"  , replacement = ".", output$chamber, perl = TRUE)
     output$chamber <- sub(pattern = "^Archivado Cuenta oficio.*"                   , replacement = ".", output$chamber, perl = TRUE)
     output$chamber <- sub(pattern = ".*vuelve a [Cc]omisión.*"                     , replacement = ".", output$chamber, perl = TRUE)
     output$chamber <- sub(pattern = ".*indicaciones.*"                             , replacement = ".", output$chamber, perl = TRUE)
-    output$chamber <- sub(pattern = ".*[Dd]iscusión particular.*"                     , replacement = ".", output$chamber, perl = TRUE)
-    output$chamber <- sub(pattern = "^Queda para.*"                                , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = ".*[Dd]iscusión particular.*"                  , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = "^Queda.*"                                     , replacement = ".", output$chamber, perl = TRUE)
     output$chamber <- sub(pattern = "^Se rechaza el proyecto.*"                    , replacement = ".", output$chamber, perl = TRUE)
-    output$chamber <- sub(pattern = "^Cambia la tramitación.*"                     , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = "^Cambia.*tramitación.*"                       , replacement = ".", output$chamber, perl = TRUE)
     output$chamber <- sub(pattern = "^Se suspende [la]{2} tramitación.*"           , replacement = ".", output$chamber, perl = TRUE)
     output$chamber <- sub(pattern = "^Por acuerdo de la Sala.*"                    , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = ".*retir.*tramitación.*"    , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = ".*[Aa]pr[uo]e*ba.*"  , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = "^Cuenta.*"                        , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = ".*Ratifica.*"                        , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = ".*desarchiv.*"                        , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = ".*[Dd]iscusión.*"                        , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = ".*[Rr]echazado.*"                        , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = ".*remite.*"                        , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = ".*dispone.*"                        , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = ".*retir.*"                        , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = ".*[Aa]rv*chj*iv.*"                        , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = ".*[Ss]oli[ci]{2}t.*archiv.*"                        , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = ".*suspende.*tramitación.*"                        , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = ".*[cC]omisión.*"                        , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = ".*oficio.*"                        , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = ".*rechaza.*"                        , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = ".*[Rr]etira.*"                        , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = ".*segunda discusión.*"                        , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = ".*general y particular.*"                        , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = ".*aprobación en particular.*"                        , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = ".*discutida en particular.*"                        , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = ".*ratifica.*"                        , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = ".*aplaza.*"                        , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = ".*acepta.*"                        , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = ".*[Tt]abla.*"                        , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = "^Pasa a [Cc]omisión.*"                        , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = "^Fracasa la sesión.*"                        , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = ".*petición.*[Cc]omisión.*"                        , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = ".*Sala.*"                        , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = ".*incluye.*proyecto.*"                        , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = "LEY N.*"                        , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = ".*aprueba.*"                        , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = ".*Urgencia.*"                        , replacement = ".", output$chamber, perl = TRUE)
+    output$chamber <- sub(pattern = ".*Decreto.*"                        , replacement = ".", output$chamber, perl = TRUE)
                                         #
     tmp <- sub(pattern = "^(Senado|C. Diputados)[ ]+(.*)", replacement = "\\2", tmp, perl = TRUE) # crops object
-    output$actionRaw <- sub(pattern = "(.*)[ ]+Ver$", replacement = "\\1", tmp, perl = TRUE) # removes Ver (download procedure missed link 2 relevant docs.)
+    output$action <- sub(pattern = "(.*)[ ]+Ver$", replacement = "\\1", tmp, perl = TRUE) # removes Ver (download procedure missed link 2 relevant docs.)
                                         #
-    bills$info$debug[i] <-
-        max(sapply(output$chamber, function(x) nchar(x))) # counts the maximum n characters of string in output$chamber (shoud be 3) and plugs to info
-    #bills$syst[
+    ## bills$info$debug[i] <-
+    ##    min(sapply(output$chamber, function(x) nchar(x))) # counts the maximum n characters of string in output$chamber (shoud be 3) and plugs to info
+                                        #
+    bills$hitos[[i]] <- output # replaces raw object with data.frame
+    nHitos[i] <- N
+}
+rm(i, N, output, sel, tmp, tmp2) # housecleaning
+
+# infer missing chamber when possible
+#
+# for single-line hitos, a missing cannot be inferred (no cases, it seems)
+#
+sel <- which(nHitos==2) # start with cases with two-line hitos
+tmpHasMissing <- tmpInferred <- rep(0,I)
+for (i in sel){
+    if (bills$hitos[[i]]$chamber[1]=="."){ # is 1st-line chamber missing?
+        tmpHasMissing[i] <- 1
+        if (bills$hitos[[i]]$chamber[2]!="."){ # if 2nd-line chamber not missing, infer line 1 with it
+            bills$hitos[[i]]$chamber[1] <- bills$hitos[[i]]$chamber[2]
+            tmpInferred[i] <- 1 # record that change occurred -- for verif
+        }
+    }
+    if (bills$hitos[[i]]$chamber[2]=="."){ # is 2nd-line chamber missing?
+        tmpHasMissing[i] <- 1
+        if (bills$hitos[[i]]$chamber[2]!="."){ # if 1st-line chamber not missing, infer line 2 with it
+            bills$hitos[[i]]$chamber[2] <- bills$hitos[[i]]$chamber[1]
+            tmpInferred[i] <- 1 # record that change occurred -- for verif
+        }
+    }
+}
+#
+sel <- which(nHitos>2) # pick now cases with three-or-more-line hitos
+#i <- sel[3] # debug
+for (i in sel){
+    tmpLinesChMissing <- which(bills$hitos[[i]]$chamber==".")
+    if (length(tmpLinesChMissing)==0){ # if no missing chambers, move on in loop
+        next
+    } else {
+        tmpHasMissing[i] <- 1
+        if (tmpLinesChMissing[1]==1){ # is 1st-line chamber missing?
+            if (bills$hitos[[i]]$chamber[2]!="."){ # if 2nd-line chamber not missing, infer line 1 with it
+                bills$hitos[[i]]$chamber[1] <- bills$hitos[[i]]$chamber[2]
+                tmpInferred[i] <- 1 # record that change occurred -- for verif
+                tmpLinesChMissing <- tmpLinesChMissing[-1] # crop object
+            }
+        }
+    }
+    if (length(tmpLinesChMissing)==0){ # if no missing chambers, move on in loop
+        next
+    } else {
+        if (tmpLinesChMissing[length(tmpLinesChMissing)]==nHitos[i]){ # is last-line chamber missing?
+            if (bills$hitos[[i]]$chamber[(nHitos[i]-1)]!="."){ # if next-to-last-line chamber not missing, infer last line with it
+                bills$hitos[[i]]$chamber[nHitos[i]] <- bills$hitos[[i]]$chamber[(nHitos[i]-1)]
+                tmpInferred[i] <- 1 # record that change occurred -- for verif
+                tmpLinesChMissing <- tmpLinesChMissing[-length(tmpLinesChMissing)] # crop object
+            }
+        }
+    }
+    if (length(tmpLinesChMissing)==0){ # if no missing chambers, move on in loop
+        next
+    } else {
+        for (j in tmpLinesChMissing){ # loop over lines with missing chamber
+            if (bills$hitos[[i]]$chamber[(j-1)]!="."){ # is line above's camber non-missing?
+                bills$hitos[[i]]$chamber[j] <- bills$hitos[[i]]$chamber[(j-1)] # if so, use it to infer missing chamber
+                tmpInferred[i] <- 1 # record that change occurred -- for verif
+            }
+        }
+    }
 }
 
-bills$info$debug[1:202]
+tmp <- rep(0,I)
+for (i in 1:I){
+    if (length(which(bills$hitos[[i]]$chamber=="."))==0){
+        next
+    } else {
+        tmp[i] <- 1
+    }
+}
+table(tmp) # NO MORE MISSING CHAMBERS
+table(tmpHasMissing) # cases with missing chamber encoutered
+table(tmpInferred)   # cases with missing chamber inferred
+#
+bills$info$nHitos <- nHitos
+#
+rm(i, j, sel, tmp, tmpHasMissing, tmpInferred, tmpLinesChMissing, nHitos)
+
+## loop over hitos in search of urgencia info
+#
+## # used to prove that text "urgencia" misses no case of discusión inmediata
+## tmp <- 0
+## for (i in 1:I){
+##     message(sprintf("loop %s of %s", i, I))
+##     tmp1 <- grep(pattern = "[Uu]rgencia", bills$hitos[[i]]$action)
+##     tmp2 <- grep(pattern = "[Dd]iscusión [Ii]nmediata", bills$hitos[[i]]$action)
+##     if (length(tmp2)>0 & length(tmp2[!(tmp2 %in% tmp1)])>1){ # for records with DI, subsets line numbers with DI but no U
+##         tmp <- append(tmp, i) # which record
+##     }
+## }
+
+for (i in 1:I){
+    message(sprintf("loop %s of %s", i, I))
+    tmp1 <- grep(pattern = "[Uu]rgencia", bills$hitos[[i]]$action)
+    bills$hitos[[i]]$urg <- rep(".", nrow(bills$hitos[[i]]))
+    if (length(tmp1)>0){ # for records with word urgencia
+        tmp <- bills$hitos[[i]]$action[tmp1] # pick those lines
+        # use greps to systematize urgencia action
+        tmp <- sub(".*[Pp]asa.*\\(suma urgencia\\).*"                                              , replacement = "urg15 on", tmp, perl = TRUE)
+        tmp <- sub(".*[Pp]asa.*\\(simple urgencia\\).*"                                            , replacement = "urg30 on", tmp, perl = TRUE)
+        tmp <- sub(".*que retira y hace presente.*urgencia [Ss]imple.*"                            , replacement = "reset: urg30", tmp, perl = TRUE)
+        tmp <- sub(".*que retira y hace presente.*urgencia [Ss]uma.*"                              , replacement = "reset: urg15", tmp, perl = TRUE)
+        tmp <- sub(".*que retira y hace presente.*urgencia [Dd]iscusión inmediata.*"               , replacement = "reset: urg06", tmp, perl = TRUE)
+        tmp <- sub("^Cuenta retiro y se hace presente.*urgencia [Ss]imple.*"                       , replacement = "reset: urg30", tmp, perl = TRUE)
+        tmp <- sub(".*que( se)* retira.*urgencia.*"                                                , replacement = "urg off", tmp, perl = TRUE)
+        tmp <- sub(".*que hace presente.*urgencia [Ss]imple.*"                                     , replacement = "urg30 on", tmp, perl = TRUE)
+        tmp <- sub(".*que hace presente.*urgencia.*[Ss]uma.*"                                      , replacement = "urg15 on", tmp, perl = TRUE)
+        tmp <- sub(".*que hace presente.*urgencia.*[Dd]iscusión [Ii]nmediata.*"                    , replacement = "urg06 on", tmp, perl = TRUE)
+        tmp <- sub(".*Rep. hace presente.*urgencia.*[Ss]imple.*"                                   , replacement = "urg30 on", tmp, perl = TRUE)
+        tmp <- sub(".*Rep. hace presente.*urgencia.*[Ss]uma.*"                                     , replacement = "urg15 on", tmp, perl = TRUE)
+        tmp <- sub(".*Rep. hace presente.*urgencia.*[Dd]iscusión [Ii]nmediata.*"                   , replacement = "urg06 on", tmp, perl = TRUE)
+        tmp <- sub(".*Hace presente.*urgencia.*[Dd]iscusión [Ii]nmediata.*"                        , replacement = "urg06 on", tmp, perl = TRUE)
+        tmp <- sub(".*Asimismo hace presente.*urgencia.*[Dd]iscusión [Ii]nmediata.*"               , replacement = "urg06 on", tmp, perl = TRUE)
+        tmp <- sub("^Cuenta [Mm]ensaje.*[Hh]ace presente.*urgencia.*[Dd]iscusi[óo]n [Ii]nmediata.*", replacement = "urg06 on", tmp, perl = TRUE)
+        tmp <- sub("^Cuenta urgencia [Ss]imple.*"                                                  , replacement = "urg30 on", tmp, perl = TRUE)
+        tmp <- sub(".*[Rr]et[iu][rt]a y.*hace presente.*urgencia.*[Ss]imple.*"                     , replacement = "reset: urg30", tmp, perl = TRUE)
+        tmp <- sub(".*retira y hace presente.*urgencia.*[Ss]uma.*"                                 , replacement = "reset: urg15", tmp, perl = TRUE)
+        tmp <- sub(".*[Rr]etira y hace presente.*urgencia.*[Dd]iscusión [Ii]nmediata.*"            , replacement = "reset: urg30", tmp, perl = TRUE)
+        tmp <- sub(".*Corte Suprema.*urgencia.*"                                                   , replacement = "urg on @SC", tmp, perl = TRUE)
+        tmp <- sub(".*Rep[.].*retir[oa].*urgencia.*"                                               , replacement = "urg off", tmp, perl = TRUE)
+        tmp <- sub(".*República retira.*urgencia.*"                                                , replacement = "urg off", tmp, perl = TRUE)
+        tmp <- sub(".*Ejecutivo.*retir[oa].*urgencia.*"                                            , replacement = "urg off", tmp, perl = TRUE)
+        tmp <- sub("^Cuenta [Mm]ensaje.*retir[oa].*urgencia.*"                                     , replacement = "urg off", tmp, perl = TRUE)
+        tmp <- sub("^Urgencia \\\\suma\\\\.*"                                                      , replacement = "urg15 on", tmp, perl = TRUE)
+        tmp <- sub("Vicepresidente.*hace presente urgencia \\\\suma\\\\.*"                         , replacement = "urg15 on", tmp, perl = TRUE)
+        tmp <- sub("^Urgencia \\\\discusión inmediata\\\\.*"                                       , replacement = "urg06 on", tmp, perl = TRUE)
+        tmp <- sub("^Como la urgencia.*es de discusión inmediata.*"                                , replacement = "urg06 on", tmp, perl = TRUE)
+        tmp <- sub(".*informe.*mensaje con urgencia suma.*"                                        , replacement = "urg06 still on", tmp, perl = TRUE)
+        tmp <- sub(".*informe.*con urgencia simple.*"                                              , replacement = "urg30 still on", tmp, perl = TRUE)
+        tmp <- sub(".*proyecto. con urgencia suma.*"                                               , replacement = "urg15 on", tmp, perl = TRUE)
+        tmp <- sub(".*proyecto.*tiene urgencia.*[Dd]iscusión [Ii]nmediata.*"                       , replacement = "urg06 on", tmp, perl = TRUE)
+        tmp <- sub(".*proyecto.*viene.*urgencia.*[Ss]uma.*"                                        , replacement = "urg15 on", tmp, perl = TRUE)
+        tmp <- sub(".*proyecto.*tabla urgencia.*[Dd]iscusión [Ii]nmediata.*"                       , replacement = "urg06 on", tmp, perl = TRUE)
+        tmp <- sub(".*solicitar al Presidente.*el retiro de la urgencia.*"                         , replacement = "ask urg off", tmp, perl = TRUE)
+        tmp <- sub(".*ha aprobado el proyecto con urgencia.*"                                      , replacement = "urg30 on", tmp, perl = TRUE)
+        bills$hitos[[i]]$urg[tmp1] <- tmp
+    }
+}
+
+## loop over hitos in search of veto info
+#
+i <- 3 # debug
+for (i in 1:I){
+    message(sprintf("loop %s of %s", i, I))
+    tmp1 <- grep(pattern = "[Vv]eto", bills$hitos[[i]]$action) # try Art. 70 (bicam veto orr)
+    tmp2 <- grep(pattern = "([Aa]rt.|artículo) 73", bills$hitos[[i]]$action)
+#    tmp3 <- grep(pattern = "insistencia", bills$hitos[[i]]$action) # do this in other loop to find bicameral overrule with president's request art. 68
+    tmp1 <- union(tmp1, tmp2) # remove repeated lines
+    bills$hitos[[i]]$vet <- rep(".", nrow(bills$hitos[[i]]))
+    if (length(tmp1)>0){ 
+        tmp <- bills$hitos[[i]]$action[tmp1] # which record
+        tmp <- sub(".*(Vicep|Presidente|P. *de la* Re*p*.).*([Cc]omunica|manifiesta).*no (hará|hacer) uso.*([Aa]rt[.]|artículo) 73.*", replacement = "no veto", tmp)
+        tmp <- sub(".*(Ejecutivo|President.).*([Cc]omunica|informa|señala).*no (har[áa]|hacer) uso.*([Aa]rt[.]|artículo) 73.*", replacement = "no veto", tmp)
+        tmp <- sub(".*[Pp]resident[ea].*[Cc]omunica.*no hará uso.*(Art[.]|artículo) 70.*", replacement = ".", tmp) #art70=bicamOverrule
+        tmp <- sub(".*P(dte)*[.] de la Rep[.].*[Cc]omun[ic]{2}a.*no hará uso.*[Vv]eto.*" , replacement = "no veto", tmp)
+        tmp <- sub(".*Oficio.*resultado.*veto.*"                                         , replacement = "tell override outcome", tmp)   
+        tmp <- sub(".*Oficio rechazo veto.*comunica rechazo e insistencia.*"             , replacement = "tell veto overridden", tmp)
+        tmp <- sub(".*Oficio rechazo veto a Cámara.*"                                    , replacement = "tell veto sustained", tmp)
+        tmp <- sub(".*Oficio rechazo insistencia a Cámara.*"                             , replacement = "no bicam overrule?", tmp)
+        tmp <- sub(".*Oficio aprobación insistencia a Cámara.*"                          , replacement = "bicam overrule?", tmp)
+        tmp <- sub(".*[Oo]ficio a Cámara.*aprobando insistencia.*"                       , replacement = "tell veto overridden", tmp)
+        tmp <- sub(".*Oficio.*Comunica.*proyecto a.*Presidenta.*efectos.*artículo 73.*"  , replacement = ".", tmp)
+        tmp <- sub(".*Oficio.*[Cc]onsulta.*(Presidente|[Ee]jecutivo).*(ejerc[ie][cr](io)*|hará uso).*(veto|73).*", replacement = "ask if will veto", tmp)
+        tmp <- sub(".*Oficio.*[Aa]l*.*(President[ea]|[Ee]jecutivo).*([Aa]rt.|artículo) 73.*" , replacement = ".", tmp)
+        tmp <- sub(".*Oficio.*[Vv]eto [Pp]residencial.*"                                     , replacement = "veto", tmp)
+        tmp <- sub(".*Oficio.*Observaciones del Ejecutivo.*"                                 , replacement = "veto", tmp)
+        tmp <- sub(".*Presidente.*[Cc]omunica.*resuelto hacer uso.*([Aa]rt[.]|artículo) 73.*", replacement = "veto", tmp)
+        tmp <- sub(".*Oficio.*[Rr]emite proyecto( aprobado)*.*ejercer.*facultad de veto.*"   , replacement = ".", tmp)
+        tmp <- sub(".*Oficio de ley.*[Pp]ara.*ejerc[ie][cr](io)*.*facultad.*[Vv]eto.*"       , replacement = ".", tmp)
+        tmp <- sub(".*Oficio de [Cc]onsulta.*facultad.*[Vv]eto.*"                            , replacement = ".", tmp)
+        tmp <- sub(".*Oficio de ley.*([Cc]onsulta|saber).*facultad.*[Vv]eto.*"               , replacement = ".", tmp)
+        tmp <- sub(".*Oficio aprobación veto a Cámara.*"                                     , replacement = "tell veto sustained", tmp)
+        tmp <- sub(".*eximir el veto del trámite.*"                                          , replacement = "override disc", tmp)
+        tmp <- sub(".*[Cc]omunica texto aprobado.*ejerc[ie][cr](io)*.*veto.*"                , replacement = ".", tmp)
+        tmp <- sub(".*[Cc]onsulta.*(Presidente|Ejecutivo).*ejerc[ie][cr](io)*.*veto.*"       , replacement = ".", tmp)
+        tmp <- sub(".*Informe.*sobre veto presidencial.*tabla"                               , replacement = "override disc", tmp)
+        tmp <- sub(".*Discusión veto.*[Ss]e aprueban.*observaciones.*con excepci.n.*"        , replacement = "veto sustained in part", tmp)
+        tmp <- sub(".*Discusión veto.*[Ss]e aprueban.*observaciones.*"                       , replacement = "veto sustained", tmp)
+        tmp <- sub(".*Discusión veto.*[Ss]egunda discusión.*"                                , replacement = "override disc", tmp)
+        tmp <- sub(".*Discusión veto.*Se aprueba.*y rechazan.*"                              , replacement = "veto sustained in part", tmp)
+        tmp <- sub(".*Discusión veto.*[Rr]echaza[dn][o]*.*"                                  , replacement = "veto overridden", tmp)
+        tmp <- sub(".*Discusión veto.*[Pp]endiente su discusión.*"                           , replacement = "override disc", tmp)
+        tmp <- sub(".*Discusión veto.*[Aa]probado*.*"                                        , replacement = "veto sustained", tmp) # VERIFY, ACCEPTED
+        tmp <- sub("^Discusión veto$"                                                        , replacement = "override disc", tmp)
+        tmp <- sub(".*Cuenta veto presidencial.*"                                            , replacement = "veto", tmp)
+        tmp <- sub(".*Cuenta [Oo]ficio rechazo [Vv]eto.*"                                    , replacement = "override disc", tmp)
+        tmp <- sub(".*Cuenta( del)* [Oo]ficio.*([Pp]resident[ea]|Ejecutivo).*no (hará|hacer*) uso.*veto.*", replacement = "no veto", tmp)
+        tmp <- sub(".*Cuenta [Oo]ficio aprobación veto.*aprobado parcialmente.*"             , replacement = "veto sustained in part", tmp)
+        tmp <- sub(".*Cuenta [Oo]ficio aprobación veto.*manda comunicar.*[Pp]resident[ea].*" , replacement = "veto sustained", tmp)
+        tmp <- sub(".*Cuenta [Oo]ficio aprobación veto.*remite.*al proyecto.*"               , replacement = "override disc", tmp)
+        tmp <- sub(".*Cuenta [Oo]ficio aprobación veto.*[Pp]asa a.*[Cc]omisión.*"            , replacement = "override disc", tmp)
+        tmp <- sub("^Cuenta [Oo]ficio aprobación veto$"                                      , replacement = "override disc", tmp);
+        bills$hitos[[i]]$vet[tmp1] <- tmp;
+    }
+    # adds info to describe hitos
+    bills$hitos[[i]]$bol <- rep(bills$info$bol[i], times = nrow(bills$hitos[[i]]));
+    bills$hitos[[i]]$durgPest <- rep(bills$info$hasUrg[i], times = nrow(bills$hitos[[i]]));
+    bills$hitos[[i]]$dvetPest <- rep(bills$info$hasVeto[i], times = nrow(bills$hitos[[i]]));
+    ## next block seeks inconsistencies between urgencia tab and urgencia info in hitos (spots very few post 2006)
+    if (length(grep(pattern = "[^.]", bills$hitos[[i]]$urg))>0 & bills$info$hasUrg[i]=="yes"){         # both report urgencia
+        tmp <- 1
+    } else if (length(grep(pattern = "[^.]", bills$hitos[[i]]$urg))==0 & bills$info$hasUrg[i]=="yes"){ # hito misses urgencia
+        tmp <- 2
+    } else if (length(grep(pattern = "[^.]", bills$hitos[[i]]$urg))>0 & bills$info$hasUrg[i]=="no"){   # uTab misses urgencia
+        tmp <- 3
+    } else {                                                                                           # none report urgencia
+        tmp <- 4
+    }
+    bills$hitos[[i]]$debug <- rep(tmp, times = nrow(bills$hitos[[i]]));
+    bills$info$debug[i] <- tmp
+    bills$info$hasUrgHU[i] <- ifelse( length(grep(pattern = "[^.]", bills$hitos[[i]]$urg))==0 & bills$info$hasUrg=="no", "no", "yes" )
+}
+rm(i, tmp, tmp1, tmp2)
+
+
+table(bills$info$debug[bills$info$dateIn>=dmy("1/3/1990") & bills$info$dateIn<dmy("1/3/1994")])
+table(bills$info$debug[bills$info$dateIn>=dmy("1/3/1994") & bills$info$dateIn<dmy("1/3/1998")])
+table(bills$info$debug[bills$info$dateIn>=dmy("1/3/1998") & bills$info$dateIn<dmy("1/3/2002")])
+table(bills$info$debug[bills$info$dateIn>=dmy("1/3/2002") & bills$info$dateIn<dmy("1/3/2006")])
+table(bills$info$debug[bills$info$dateIn>=dmy("1/3/2006") & bills$info$dateIn<dmy("1/3/2010")])
+table(bills$info$debug[bills$info$dateIn>=dmy("1/3/2010")])
+table(bills$info$debug)
+
+# crosstabs of urgencias and mensajes by yr
+bills$info$legyr <- 0
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/1990") & bills$info$dateIn<dmy("1/3/1991")] <- 1
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/1991") & bills$info$dateIn<dmy("1/3/1992")] <- 2
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/1992") & bills$info$dateIn<dmy("1/3/1993")] <- 3
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/1993") & bills$info$dateIn<dmy("1/3/1994")] <- 4
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/1994") & bills$info$dateIn<dmy("1/3/1995")] <- 5
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/1995") & bills$info$dateIn<dmy("1/3/1996")] <- 6
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/1996") & bills$info$dateIn<dmy("1/3/1997")] <- 7
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/1997") & bills$info$dateIn<dmy("1/3/1998")] <- 8
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/1998") & bills$info$dateIn<dmy("1/3/1999")] <- 9
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/1999") & bills$info$dateIn<dmy("1/3/2000")] <- 10
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/2000") & bills$info$dateIn<dmy("1/3/2001")] <- 11
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/2001") & bills$info$dateIn<dmy("1/3/2002")] <- 12
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/2002") & bills$info$dateIn<dmy("1/3/2003")] <- 13
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/2003") & bills$info$dateIn<dmy("1/3/2004")] <- 14
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/2004") & bills$info$dateIn<dmy("1/3/2005")] <- 15
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/2005") & bills$info$dateIn<dmy("1/3/2006")] <- 16
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/2006") & bills$info$dateIn<dmy("1/3/2007")] <- 17
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/2007") & bills$info$dateIn<dmy("1/3/2008")] <- 18
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/2008") & bills$info$dateIn<dmy("1/3/2009")] <- 19
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/2009") & bills$info$dateIn<dmy("1/3/2010")] <- 20
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/2010") & bills$info$dateIn<dmy("1/3/2011")] <- 21
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/2011") & bills$info$dateIn<dmy("1/3/2012")] <- 22
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/2012") & bills$info$dateIn<dmy("1/3/2013")] <- 23
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/2013") & bills$info$dateIn<dmy("1/3/2014")] <- 24
+
+
+#
+for (i in 1:24){ # loop over legislative years
+    sel <- which(bills$info$legyr==i); tmp <- table(bills$info$dmensaje[sel], bills$info$hasUrgH[sel], useNA = "ifany")
+    print(cbind(round(prop.table(tmp, 1), digits = 2), margin.table(tmp, 1))) # crosstab with shares and column margins
+}
+tmp <- table(bills$info$dmensaje, bills$info$hasUrgH, useNA = "ifany") # whole period
+print(cbind(round(prop.table(tmp, 1), digits = 2), margin.table(tmp, 1))) # crosstab with shares and column margins
+#
+sel <- which(bills$info$dateIn>=dmy("1/3/1990") & bills$info$dateIn<dmy("1/3/2006")) # period in Alemán and Navia
+tmp <- table(bills$info$dmensaje[sel], bills$info$hasUrgH[sel], useNA = "ifany")
+print(cbind(round(prop.table(tmp, 1), digits = 2), margin.table(tmp, 1))) # crosstab with shares and column margins
+#
+# by legislature
+sel <- which(bills$info$dateIn>=dmy("1/3/1990") & bills$info$dateIn<dmy("1/3/1994")) # period in Alemán and Navia
+tmp <- table(bills$info$dmensaje[sel], bills$info$hasUrgH[sel], useNA = "ifany")
+print(cbind(round(prop.table(tmp, 1), digits = 2), margin.table(tmp, 1))) # crosstab with shares and column margins
+sel <- which(bills$info$dateIn>=dmy("1/3/1994") & bills$info$dateIn<dmy("1/3/1998")) # period in Alemán and Navia
+tmp <- table(bills$info$dmensaje[sel], bills$info$hasUrgH[sel], useNA = "ifany")
+print(cbind(round(prop.table(tmp, 1), digits = 2), margin.table(tmp, 1))) # crosstab with shares and column margins
+sel <- which(bills$info$dateIn>=dmy("1/3/1998") & bills$info$dateIn<dmy("1/3/2002")) # period in Alemán and Navia
+tmp <- table(bills$info$dmensaje[sel], bills$info$hasUrgH[sel], useNA = "ifany")
+print(cbind(round(prop.table(tmp, 1), digits = 2), margin.table(tmp, 1))) # crosstab with shares and column margins
+sel <- which(bills$info$dateIn>=dmy("1/3/2002") & bills$info$dateIn<dmy("1/3/2006")) # period in Alemán and Navia
+tmp <- table(bills$info$dmensaje[sel], bills$info$hasUrgH[sel], useNA = "ifany")
+print(cbind(round(prop.table(tmp, 1), digits = 2), margin.table(tmp, 1))) # crosstab with shares and column margins
+sel <- which(bills$info$dateIn>=dmy("1/3/2006") & bills$info$dateIn<dmy("1/3/2010")) # period in Alemán and Navia
+tmp <- table(bills$info$dmensaje[sel], bills$info$hasUrgH[sel], useNA = "ifany")
+print(cbind(round(prop.table(tmp, 1), digits = 2), margin.table(tmp, 1))) # crosstab with shares and column margins
+sel <- which(bills$info$dateIn>=dmy("1/3/2006") & bills$info$dateIn<dmy("1/3/2014")) # period in Alemán and Navia
+tmp <- table(bills$info$dmensaje[sel], bills$info$hasUrgH[sel], useNA = "ifany")
+print(cbind(round(prop.table(tmp, 1), digits = 2), margin.table(tmp, 1))) # crosstab with shares and column margins
+
+
+i <- 9103; bills$hitos[i]
+
+
+# bind together hitos data.frames of different bills... export as csv to see it in excel
+library(plyr)
+sel <- which(bills$info$dateIn > dmy("28/2/2002"))
+## sel <- runif(n=I); sel <- which(sel<.25) # process 25% randomly
+## table(sel)
+tmp <- rbind.fill(bills$hitos[sel]) 
+head(tmp)
+#
+tmp2 <- tmp[, c("bol", "date", "tramite", "chamber", "urg", "vet", "durgPest", "dvetPest", "action", "debug")]
+tmp2$bolnum <- as.numeric(sub(pattern = "([0-9]+)-[0-9]+", replacement = "\\1", tmp2$bol))
+tmp2 <- tmp2[order(tmp2$bolnum),]
+tmp2$color <- 0; for (i in 2:nrow(tmp2)) tmp2$color[i] <- ifelse(tmp2$bolnum[i]==tmp2$bolnum[i-1], tmp2$color[i-1], 1 - tmp2$color[i-1])
+table(tmp2$color)
+write.csv(tmp2, file = "tmp.csv")
+
+table(tmp)
+
+
+### use for bicameral overrule loop "insistencia"
+## tmp <- "."
+## for (i in 1:I){
+##     message(sprintf("loop %s of %s", i, I))
+##     tmp1 <- grep(pattern = "insistencia", bills$hitos[[i]]$action) # do this in other loop to find bicameral overrule with president's request art. 68
+##     tmp2 <- grep(pattern = "([Aa]rt.|artículo) 68", bills$hitos[[i]]$action) 
+##     tmp1 <- union(tmp1, tmp2) # remove repeated lines
+##     if (length(tmp1)>0){ 
+##         tmp <- append(tmp, as.character(bills$hitos[[i]]$action[tmp1])) # which record
+##     }
+## }
+## tmp <- sub(".*Oficio.*consulta.*(President[ea]|[Ee]jecutivo).*(Art.|artículo) 71.*insistencia.*"               , replacement = ".", tmp) #art71=bicamOverrule
+## tmp <- sub(".*Oficio( de)* insistencia a Cámara.*"                                                             , replacement = ".", tmp) #art71=bicamOverrule
+## tmp <- sub(".*Cuenta [Oo]ficio rechazo insistencia.*"                                                          , replacement = ".", tmp) #art71=bicamOverrule
+## tmp <- sub(".*Cuenta [Oo]ficio aprobación insistencia.*"                                                       , replacement = ".", tmp) #art71=bicamOverrule
+## tmp <- sub(".*Cuenta [Oo]ficio.*admisibilidad.*insistencia.*"                                                  , replacement = ".", tmp) #art71=bicamOverrule
+## tmp <- sub(".*Cuenta [Oo]ficio insistencia del Ejecutivo.*"                                                    , replacement = ".", tmp) #art71=bicamOverrule
+## tmp <- sub(".*Oficio( de)* consulta.*ejercer facultad.*insistencia.*"                                          , replacement = ".", tmp) #art71=bicamOverrule
+## tmp <- sub(".*Oficio de.*Presidente.*uso.*([Aa]rt[.]|artículo) 68.*"                                           , replacement = ".", tmp) #art71=bicamOverrule
+## tmp <- sub(".*[Oo]ficio de.*Cámara.*ha rechazado.*Ejecutivo.*uso.*([Aa]rt[.]|artículo) 68.*"                   , replacement = ".", tmp) #art71=bicamOverrule
+## tmp <- sub(".*Sala fija un plazo.*solicitud de insistencia.*"                                                  , replacement = ".", tmp) #art71=bicamOverrule
+## tmp <- sub(".*Discusión insistencia.*"                                                                         , replacement = ".", tmp) #art71=bicamOverrule
+
+
+tmp <- 0
+for (i in 1:I){
+    message(sprintf("loop %s of %s", i, I))
+    tmp1 <- grep(pattern = "comisión para primer informe Senado comunica", bills$hitos[[i]]$action)
+    if (length(tmp1)>0){
+        tmp <- append(tmp, i)
+    }
+}
+
+i <- 5349
+bills$hitos[[i]]$rawText
+
+colnames(bills$hitos[[i]])   
+
+sel <- which(bills$info$debug==1)
+tmp <- rep(0,I)
+for (i in sel){
+    tmp[i] <- ifelse(bills$hitos[[i]]$chamber[1]==".", 1, 0)
+}
+i <- which(tmp==1)
+
+
+table(bills$info$debug[sel]) # should all be 3
+
+table(nHitos)
+i <- sel[2]
+bills$hitos[[i]]
+
+
+
+
+
+ls()
+
+table(bills$hitos[[i]]$chamber)
+which(bills$hitos[[i]]$chamber==".")
+
+
+HAY QUE LIMPIAR bills$hitos[[i]]$chamber (QUITAR HUECOS)
+
 
 #########################
 # systematize urgencias #

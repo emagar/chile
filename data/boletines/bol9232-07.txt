@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 9232-07","Legislatura: 361
+Fecha de ingreso: martes 07 de enero de 2014
+Estado: Segundo trámite constitucional .
+Numero de boletín: 9232-07
+Materia: Congreso Nacional,Orgánica Constitucional Del Congreso Nacional,Comité De Auditoría Parlamentaria
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 11-11-2014 02:07:26
+* * Hitos de tramitación * *
+"emmStart Hitos 9232-07","Fecha Sesión Etapa Sub-etapa Documento
+07 de Ene. de 2014   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+07 de Ene. de 2014 83ª / 361 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+28 de Ene. de 2014   Primer trámite constitucional / Senado Primer informe de comisión Ver
+18 de Mar. de 2014 2ª / 362 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+13 de May. de 2014 16ª / 362 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 19/05/2014 Ver
+19 de May. de 2014   Primer trámite constitucional / Senado Boletín de indicaciones
+25 de Jul. de 2014   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+05 de Ago. de 2014 35ª / 362 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+20 de Ago. de 2014 41ª / 362 Primer trámite constitucional / Senado Discusión particular Ver
+20 de Ago. de 2014   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+21 de Ago. de 2014 62ª / 362 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Régimen Interno, Administración y Reglamento Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9232-07","Fecha Etapa Informe Documento
+25 de Jul. de 2014 Primer trámite constitucional Senado Segundo informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+28 de Ene. de 2014 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9232-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9232-07","Nombre
+José Antonio Gómez Urrutia
+Víctor Pérez Varela
+Lily Pérez San Martín
+Patricio Walker Prieto","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9232-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9232-07","No record","Veto emmEnd"

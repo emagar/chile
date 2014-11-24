@@ -1,0 +1,33 @@
+* * Bill summary * *
+"emmStart Summary 9005-17","Legislatura: 361
+Fecha de ingreso: martes 02 de julio de 2013
+Estado: Primer trámite constitucional .
+Numero de boletín: 9005-17
+Materia: Desaparición Forzada De Personas
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 23:28:46
+* * Hitos de tramitación * *
+"emmStart Hitos 9005-17","Fecha Sesión Etapa Sub-etapa Documento
+02 de Jul. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Jul. de 2013 42ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9005-17","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9005-17","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9005-17","Nombre Región Distrito Partido
+Sergio Aguiló Melo VII Región del Maule N°37 Izquierda Ciudadana
+Nino Baltolu Rasera XV Región Arica y Parinacota N°1 Unión Demócrata Independiente
+Hugo Gutiérrez Gálvez I Región de Tarapacá N°2 Partido Comunista
+Tucapel Jiménez Fuentes RM Región Metropolitana N°27 Partido Por la Democracia
+Ximena Vidal Lázaro RM Región Metropolitana N°25 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9005-17","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9005-17","No record","Veto emmEnd"

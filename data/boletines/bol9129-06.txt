@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 9129-06","Legislatura: 361
+Fecha de ingreso: miércoles 09 de octubre de 2013
+Estado: Trámite de aprobacion presidencial .
+Numero de boletín: 9129-06 Refundido con: 8611-07
+Materia: Día Nacional De Gendarmeria De Chile (30 De Noviembre)
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 11-11-2014 00:56:24
+* * Hitos de tramitación * *
+"emmStart Hitos 9129-06","Fecha Sesión Etapa Sub-etapa Documento
+09 de Oct. de 2013   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+09 de Oct. de 2013 62ª / 361 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización
+10 de Oct. de 2013   Primer trámite constitucional / Senado Primer informe de comisión Ver
+15 de Oct. de 2013 63ª / 361 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+15 de Oct. de 2013 63ª / 361 Primer trámite constitucional / Senado Discusión general Ver
+15 de Oct. de 2013   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+16 de Oct. de 2013 84ª / 361 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior y Regionalización Ver
+20 de Ago. de 2014   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+20 de Ago. de 2014 61ª / 362 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+04 de Sep. de 2014 65ª / 362 Segundo trámite constitucional / C. Diputados Discusión general Ver
+04 de Sep. de 2014   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+09 de Sep. de 2014 45ª / 362 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+09 de Sep. de 2014   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9129-06","Fecha Etapa Informe Documento
+20 de Ago. de 2014 Segundo trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver
+10 de Oct. de 2013 Primer trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9129-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9129-06","Nombre
+Francisco Chahuán Chahuán
+Camilo Escalona Medina
+Antonio Horvath Kiss
+Baldo Prokurica Prokurica
+Hosaín Sabag Castillo","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9129-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9129-06","No record","Veto emmEnd"

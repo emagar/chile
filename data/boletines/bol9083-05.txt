@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 9083-05","Legislatura: 361
+Fecha de ingreso: lunes 02 de septiembre de 2013
+Estado: Primer trámite constitucional .
+Numero de boletín: 9083-05
+Materia: Gobierno Corporativo De Empresas Del Estado
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 11-11-2014 00:25:06
+* * Hitos de tramitación * *
+"emmStart Hitos 9083-05","Fecha Sesión Etapa Sub-etapa Documento
+02 de Sep. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Sep. de 2013 66ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+02 de Oct. de 2013 77ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 291-361 que hace presente la urgencia Simple Ver
+16 de Oct. de 2013 85ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 313-361 que hace presente la urgencia Simple Ver
+19 de Nov. de 2013 87ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 239-361 que hace presente la urgencia Simple Ver
+17 de Dic. de 2013 104ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 390-361 que hace presente la urgencia Simple Ver
+14 de Ene. de 2014 112ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 426-361 que hace presente la urgencia Simple Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9083-05","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9083-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+14 de Ene. de 2014   Simple 426-361  
+17 de Dic. de 2013   Simple 390-361  
+19 de Nov. de 2013   Simple 239-361  
+16 de Oct. de 2013   Simple 313-361  
+02 de Oct. de 2013   Simple 291-361  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9083-05","Nombre Región Distrito Partido
+Ministerio de Economía, Fomento y Turism      
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9083-05","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9083-05","No record","Veto emmEnd"

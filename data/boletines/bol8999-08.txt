@@ -1,0 +1,39 @@
+* * Bill summary * *
+"emmStart Summary 8999-08","Legislatura: 361
+Fecha de ingreso: miércoles 19 de junio de 2013
+Estado: Primer trámite constitucional .
+Numero de boletín: 8999-08
+Materia: Generadoras Residenciales,Sistemas Eléctricos
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 10-11-2014 23:25:10
+* * Hitos de tramitación * *
+"emmStart Hitos 8999-08","Fecha Sesión Etapa Sub-etapa Documento
+19 de Jun. de 2013   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+19 de Jun. de 2013 34ª / 361 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Minería y Energía
+03 de Sep. de 2013   Primer trámite constitucional / Senado Primer informe de comisión Ver
+04 de Sep. de 2013 53ª / 361 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+11 de Sep. de 2013 56ª / 361 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 30/09/2013 Ver
+30 de Sep. de 2013   Primer trámite constitucional / Senado Boletín de indicaciones
+01 de Oct. de 2013   Primer trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 14/10/2013 a las 12:00 en la Secretaría de la Comisión de Minería y Energía","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8999-08","Fecha Etapa Informe Documento
+03 de Sep. de 2013 Primer trámite constitucional Senado Primer informe de comisión de Minería y Energía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8999-08","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8999-08","Nombre
+Isabel Allende Bussi
+José Antonio Gómez Urrutia
+Antonio Horvath Kiss
+Baldo Prokurica Prokurica
+Ximena Rincón González","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8999-08","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8999-08","No record","Veto emmEnd"

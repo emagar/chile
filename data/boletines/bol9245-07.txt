@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 9245-07","Legislatura: 361
+Fecha de ingreso: miércoles 22 de enero de 2014
+Estado: Primer trámite constitucional .
+Numero de boletín: 9245-07
+Materia: Menores,Víctimas De Delitos Sexuales,Entrevistas Grabadas
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 11-11-2014 02:16:26
+* * Hitos de tramitación * *
+"emmStart Hitos 9245-07","Fecha Sesión Etapa Sub-etapa Documento
+22 de Ene. de 2014   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+22 de Ene. de 2014 89ª / 361 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento, y a la Comisión de Hacienda, en su caso.
+10 de Mar. de 2014   Primer trámite constitucional / Senado Primer informe de comisión Ver
+19 de Mar. de 2014 3ª / 362 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+20 de May. de 2014 19ª / 362 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 30/06/2014 Ver
+30 de Jun. de 2014   Primer trámite constitucional / Senado Boletín de indicaciones
+01 de Jul. de 2014   Primer trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 04/08/2014 a las 12:00 en la Secretaría de la Comisión de Constitución, Legislación, Justicia y Reglamento
+05 de Ago. de 2014   Primer trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 18/08/2014 a las 12:00 en la Secretaría de la Comisión de Constitución, Legislación, Justicia y Reglamento
+13 de Ago. de 2014   Primer trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 25/08/2014 a las 12:00 en la Secretaría de la Comisión de Constitución, Legislación, Justicia y Reglamento
+19 de Ago. de 2014   Primer trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 22/09/2014 a las 12:00 en la Secretaría de la Comisión de Constitución, Legislación, Justicia y Reglamento","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9245-07","Fecha Etapa Informe Documento
+10 de Mar. de 2014 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9245-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+22 de Ene. de 2014   Suma 222-361  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9245-07","Nombre
+Ministerio de Hacienda
+Ministerio de Interior y Seguridad Públi
+Ministerio de Justicia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9245-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9245-07","No record","Veto emmEnd"

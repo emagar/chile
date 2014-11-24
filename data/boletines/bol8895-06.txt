@@ -1,0 +1,56 @@
+* * Bill summary * *
+"emmStart Summary 8895-06","Legislatura: 361
+Fecha de ingreso: martes 16 de abril de 2013
+Estado: Tramitación terminada (Ley Nº 20.681 - D.Oficial 25/06/2013)
+Numero de boletín: 8895-06
+Materia: Canales De Televisión,Elecciones Primarias Presidenciales
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 22:09:35
+* * Hitos de tramitación * *
+"emmStart Hitos 8895-06","Fecha Sesión Etapa Sub-etapa Documento
+16 de Abr. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+16 de Abr. de 2013 16ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior y Regionalización Ver
+05 de Jun. de 2013   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+06 de Jun. de 2013 35ª / 361 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+11 de Jun. de 2013 36ª / 361 Primer trámite constitucional / C. Diputados Discusión general Ver
+11 de Jun. de 2013   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora. Oficio N°10.778 al Senado, comunica aprobación del proyecto. Ver
+11 de Jun. de 2013 29ª / 361 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización
+13 de Jun. de 2013   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+17 de Jun. de 2013 31ª / 361 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+17 de Jun. de 2013 31ª / 361 Segundo trámite constitucional / Senado Discusión general Ver
+17 de Jun. de 2013   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+18 de Jun. de 2013 39ª / 361 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+18 de Jun. de 2013   Trámite de aprobacion presidencial / C. Diputados Oficio N°10.786. Oficio al Ejecutivo art. 73 de la Constitución Política. Ver
+20 de Jun. de 2013 41ª / 361 Trámite de aprobacion presidencial / C. Diputados Cuenta Oficio N°140-361. Oficio de S. E. el Presidente de la República por el cual comunica que ha resuelto no hacer uso de la facultad que le confiere el inciso primero del artículo 73 de la Constitución Política de la República respecto del proyecto. Ver
+20 de Jun. de 2013   Trámite de aprobacion presidencial / C. Diputados Oficio N°10.797 al Tribunal Constitucional Ver
+21 de Jun. de 2013   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver
+02 de Jul. de 2013 42ª / 361 Trámite de aprobacion presidencial / C. Diputados Cuenta oficio N° 8728 del Tribunal Constitucional Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8895-06","Fecha Etapa Informe Documento
+14 de Jun. de 2013 Segundo trámite constitucional Senado Primer informe de comisión de Gobierno, Descentralización y Regionalización Ver
+05 de Jun. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8895-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8895-06","Nombre Región Distrito Partido
+Ministerio de Interior y Seguridad Públi      
+Ministerio Secretaría General de la Presidencia      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8895-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+36 Cierre del debate 55 23 3 39 Aprobado Sala Ver detalle votación
+36   91 5 3 21 Aprobado Sala Ver detalle votación
+36 Inciso final del artículo 130 del Reglamento de la Corporación 68 30 1 21 Aprobado Sala Ver detalle votación
+36 Indicaciones al artículo único permanente. 38 55 2 25 Rechazado Sala Ver detalle votación
+36   99 0 1 0 Aprobado Sala Ver detalle votación
+36 Indicación para incorporar un artículo transitorio nuevo 10 77 7 26 Rechazado Sala Ver detalle votación
+36 Indicación al artículo transitorio 27 66 0 27 Rechazado Sala Ver detalle votación
+36 Artículo transitorio 69 26 1 24 Aprobado Sala Ver detalle votación
+36 Artículo único permanente. 69 28 1 22 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8895-06","No record","Veto emmEnd"

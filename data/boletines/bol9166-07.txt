@@ -1,0 +1,48 @@
+* * Bill summary * *
+"emmStart Summary 9166-07","Legislatura: 361
+Fecha de ingreso: jueves 21 de noviembre de 2013
+Estado: Tramitación terminada (Ley Nº 20.719 - D.Oficial 13/01/2014)
+Numero de boletín: 9166-07
+Materia: Robo,Cédula De Identidad,Robo Documentos De Identificación
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 11-11-2014 01:22:18
+* * Hitos de tramitación * *
+"emmStart Hitos 9166-07","Fecha Sesión Etapa Sub-etapa Documento
+21 de Nov. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+21 de Nov. de 2013 89ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+28 de Nov. de 2013 96ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 354-361 que hace presente la urgencia Suma Ver
+03 de Dic. de 2013   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+05 de Dic. de 2013 100ª / 361 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+05 de Dic. de 2013 100ª / 361 Primer trámite constitucional / C. Diputados Discusión general Ver
+05 de Dic. de 2013   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+10 de Dic. de 2013 78ª / 361 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+10 de Dic. de 2013 78ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 381-361 que retira y hace presente la urgencia Suma
+17 de Dic. de 2013   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+17 de Dic. de 2013 80ª / 361 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+18 de Dic. de 2013 81ª / 361 Segundo trámite constitucional / Senado Discusión general Ver
+18 de Dic. de 2013   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+19 de Dic. de 2013 107ª / 361 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+19 de Dic. de 2013   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9166-07","Fecha Etapa Informe Documento
+17 de Dic. de 2013 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+04 de Dic. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9166-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+10 de Dic. de 2013   Suma 381-361  
+28 de Nov. de 2013 10 de Dic. de 2013 Suma 354-361 381-361","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9166-07","Nombre Región Distrito Partido
+Ministerio de Justicia      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9166-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+100   46 0 1 73 Aprobado Sala Ver detalle votación
+314 Votación General 4 0 0 9   Constitución Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9166-07","No record","Veto emmEnd"

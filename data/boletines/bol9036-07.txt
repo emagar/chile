@@ -1,0 +1,64 @@
+* * Bill summary * *
+"emmStart Summary 9036-07","Legislatura: 361
+Fecha de ingreso: lunes 29 de julio de 2013
+Estado: En espera de insistencia .
+Numero de boletín: 9036-07
+Materia: Carabineros De Chile,Control Preventivo De Identidad
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 10-11-2014 23:51:08
+* * Hitos de tramitación * *
+"emmStart Hitos 9036-07","Fecha Sesión Etapa Sub-etapa Documento
+29 de Jul. de 2013   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+30 de Jul. de 2013 42ª / 361 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+06 de Ago. de 2013 44ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 210-361 que hace presente la urgencia Suma
+14 de Ago. de 2013 48ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 228-361 que retira y hace presente la urgencia Suma
+28 de Ago. de 2013 50ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 245-361 que retira y hace presente la urgencia Suma
+11 de Sep. de 2013 56ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 266-361 que retira y hace presente la urgencia Suma
+01 de Oct. de 2013 58ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 278-361 que retira y hace presente la urgencia Discusión inmediata
+08 de Oct. de 2013 60ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 296-361 que retira y hace presente la urgencia Discusión inmediata
+15 de Oct. de 2013 63ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 305-361 que retira y hace presente la urgencia Discusión inmediata
+30 de Oct. de 2013 66ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 328-361 que retira y hace presente la urgencia Discusión inmediata
+19 de Nov. de 2013 70ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 338-361 que retira y hace presente la urgencia Suma
+19 de Nov. de 2013 70ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 338-361 que retira y hace presente la urgencia Suma
+10 de Dic. de 2013 78ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 381-361 que retira y hace presente la urgencia Suma
+18 de Dic. de 2013   Primer trámite constitucional / Senado Primer informe de comisión Ver
+18 de Dic. de 2013 81ª / 361 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+07 de Ene. de 2014 83ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 401-361 que retira y hace presente la urgencia Suma Ver
+14 de Ene. de 2014 85ª / 361 Primer trámite constitucional / Senado Discusión general Ver
+15 de Ene. de 2014 86ª / 361 Primer trámite constitucional / Senado Discusión general Ver
+22 de Ene. de 2014 89ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 448-361 que retira la urgencia Suma Ver
+04 de Mar. de 2014 91ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 468-361 que hace presente la urgencia Suma Ver
+18 de Mar. de 2014 2ª / 362 Primer trámite constitucional / Senado Comité PPD solicita aplazamiento de la votación. Ver
+18 de Mar. de 2014 2ª / 362 Primer trámite constitucional / Senado Discusión general Ver
+01 de Abr. de 2014 4ª / 362 Primer trámite constitucional / Senado Discusión general Ver
+01 de Abr. de 2014   Primer trámite constitucional / Senado Oficio rechazo al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9036-07","Fecha Etapa Informe Documento
+18 de Dic. de 2013 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9036-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Mar. de 2014   Suma 468-361  
+07 de Ene. de 2014 07 de Ene. de 2014 Suma 401-361 406-361
+10 de Dic. de 2013 31 de Dic. de 2013 Suma 381-361 401-361
+19 de Nov. de 2013 10 de Dic. de 2013 Suma 338-361 381-361
+30 de Oct. de 2013 19 de Nov. de 2013 Discusión inmediata 328-361 338-361
+15 de Oct. de 2013 30 de Oct. de 2013 Discusión inmediata 305-361 328-361
+08 de Oct. de 2013 11 de Oct. de 2013 Discusión inmediata 296-361 305-361
+01 de Oct. de 2013 07 de Oct. de 2013 Discusión inmediata 278-361 296-361
+11 de Sep. de 2013 01 de Oct. de 2013 Suma 266-361 278-361
+28 de Ago. de 2013 11 de Sep. de 2013 Suma 245-361 266-361
+14 de Ago. de 2013 28 de Ago. de 2013 Suma 228-361 245-361
+06 de Ago. de 2013 14 de Ago. de 2013 Suma 210-361 228-361","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9036-07","Nombre
+Ministerio de Interior y Seguridad Públi","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9036-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9036-07","No record","Veto emmEnd"

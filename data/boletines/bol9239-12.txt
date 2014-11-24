@@ -1,0 +1,32 @@
+* * Bill summary * *
+"emmStart Summary 9239-12","Legislatura: 361
+Fecha de ingreso: martes 21 de enero de 2014
+Estado: Primer trámite constitucional .
+Numero de boletín: 9239-12
+Materia: Incendio Forestal
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 11-11-2014 02:12:10
+* * Hitos de tramitación * *
+"emmStart Hitos 9239-12","Fecha Sesión Etapa Sub-etapa Documento
+21 de Ene. de 2014   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+21 de Ene. de 2014 115ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9239-12","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9239-12","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9239-12","Nombre Región Distrito Partido
+Cristián Campos Jara VIII Región del Bío Bío N°43 Partido Por la Democracia
+Lautaro Carmona Soto III Región de Atacama N°5 Partido Comunista
+Clemira Pacheco Rivas VIII Región del Bío Bío N°45 Partido Socialista
+Patricio Vallespín López X Región de los Lagos N°57 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9239-12","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9239-12","No record","Veto emmEnd"

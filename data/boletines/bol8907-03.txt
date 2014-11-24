@@ -1,0 +1,60 @@
+* * Bill summary * *
+"emmStart Summary 8907-03","Legislatura: 361
+Fecha de ingreso: lunes 29 de abril de 2013
+Estado: Primer trámite constitucional .
+Numero de boletín: 8907-03
+Materia: Propiedad Industrial,Instituto Nacional De Propiedad Industrail
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 10-11-2014 22:18:15
+* * Hitos de tramitación * *
+"emmStart Hitos 8907-03","Fecha Sesión Etapa Sub-etapa Documento
+30 de Abr. de 2013   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+30 de Abr. de 2013 18ª / 361 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Economía y a la de Hacienda, en su caso. Se remite el proyecto a la Corte Suprema.
+30 de Abr. de 2013   Primer trámite constitucional / Senado Oficio N° 297/SEC/13 a la Corte Suprema Ver
+17 de Jul. de 2013 41ª / 361 Primer trámite constitucional / Senado Cuenta oficio N° 102-2013 de la Corte Suprema
+31 de Jul. de 2013 43ª / 361 Primer trámite constitucional / Senado La Sala autoriza a la Comisión de Economía para discutir en general y en particular el proyecto durante el primer informe.
+16 de Sep. de 2013 57ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 275-361 que hace presente la urgencia Suma
+01 de Oct. de 2013   Primer trámite constitucional / Senado Primer informe de comisión Ver
+01 de Oct. de 2013 58ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 279-361 que retira y hace presente la urgencia Suma
+01 de Oct. de 2013 58ª / 361 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+02 de Oct. de 2013 59ª / 361 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 09/12/2013 Ver
+16 de Oct. de 2013 64ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 310-361 que retira y hace presente la urgencia Suma
+19 de Nov. de 2013 70ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 338-361 que retira y hace presente la urgencia Suma
+19 de Nov. de 2013 70ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 338-361 que retira y hace presente la urgencia Suma
+03 de Dic. de 2013 76ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 338-361 que retira y hace presente la urgencia Suma
+10 de Dic. de 2013   Primer trámite constitucional / Senado Boletín de indicaciones
+10 de Dic. de 2013   Primer trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 16/12/2013 a las 12:00 en la Secretaría de la Comisión de Economía
+17 de Dic. de 2013 80ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 394-361 que retira y hace presente la urgencia Suma
+17 de Dic. de 2013   Primer trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 17/12/2013 a las 18:00 en la Secretaría de la Comisión de Economía
+17 de Dic. de 2013   Primer trámite constitucional / Senado Boletín de indicaciones
+23 de Dic. de 2013 82ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 399-361 que retira la urgencia Suma
+15 de Ene. de 2014   Primer trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 28/01/2014 a las 12:00 en la Secretaría de la Comisión de Economía
+18 de Jun. de 2014   Primer trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 21/07/2014 a las 12:00 en la Secretaría de la Comisión de Economía
+22 de Jul. de 2014   Primer trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 08/08/2014 a las 12:00 en la Secretaría de la Comisión de Economía","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8907-03","Fecha Etapa Informe Documento
+01 de Oct. de 2013 Primer trámite constitucional Senado Primer informe de comisión de Economía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8907-03","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+17 de Dic. de 2013 23 de Dic. de 2013 Suma 394-361 399-361
+03 de Dic. de 2013 17 de Dic. de 2013 Suma 338-361 394-361
+19 de Nov. de 2013 03 de Dic. de 2013 Suma 338-361a 338-361
+16 de Oct. de 2013 19 de Nov. de 2013 Suma 310-361 338-361a
+01 de Oct. de 2013 16 de Oct. de 2013 Suma 279-361 310-361
+16 de Sep. de 2013 01 de Oct. de 2013 Suma 275-361 279-361","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8907-03","Nombre
+Ministerio de Economía, Fomento y Turism
+Ministerio de Hacienda
+Ministerio de Justicia
+Ministerio de Salud","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8907-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8907-03","No record","Veto emmEnd"

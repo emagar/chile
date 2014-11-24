@@ -1,0 +1,61 @@
+* * Bill summary * *
+"emmStart Summary 9173-07","Legislatura: 361
+Fecha de ingreso: martes 03 de diciembre de 2013
+Estado: Tramitación terminada (Ley Nº 20.766 - D.Oficial 23/07/2014)
+Numero de boletín: 9173-07
+Materia: Toma De Razón Y Registro Electrónicos
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 11-11-2014 01:25:53
+* * Hitos de tramitación * *
+"emmStart Hitos 9173-07","Fecha Sesión Etapa Sub-etapa Documento
+03 de Dic. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Dic. de 2013 97ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+10 de Dic. de 2013   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+12 de Dic. de 2013 103ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 382-361 que hace presente la urgencia Suma Ver
+07 de Ene. de 2014 108ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 404-361 que hace presente la urgencia Suma Ver
+07 de Ene. de 2014 108ª / 361 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+07 de Ene. de 2014 108ª / 361 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general y particular a la vez Ver
+08 de Ene. de 2014   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+08 de Ene. de 2014 84ª / 361 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+04 de Mar. de 2014   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+04 de Mar. de 2014 91ª / 361 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+05 de Mar. de 2014 92ª / 361 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 17/03/2014 Ver
+18 de Mar. de 2014   Segundo trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 01/04/2014 a las 12:00 en Secretaría.
+01 de Abr. de 2014   Segundo trámite constitucional / Senado Boletín de indicaciones
+04 de Abr. de 2014   Segundo trámite constitucional / Senado Segundo informe de comisión Ver
+08 de Abr. de 2014 6ª / 362 Segundo trámite constitucional / Senado Cuenta de segundo informe de comisión
+08 de Abr. de 2014 6ª / 362 Segundo trámite constitucional / Senado Discusión particular Ver
+08 de Abr. de 2014   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+09 de Abr. de 2014 10ª / 362 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+06 de May. de 2014 20ª / 362 Tercer trámite constitucional / C. Diputados Discusión de modificaciones del H. Senado. Aprobadas. Ver
+06 de May. de 2014   Tercer trámite constitucional / C. Diputados Oficio N° 11.266, que comunica aprobacion de modificaciones Ver
+06 de May. de 2014 20ª / 362 Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo. para consultar si hará uso de facultad del art. 73 de la Constitución. Ver Ver
+10 de Jun. de 2014 31ª / 362 Tercer trámite constitucional / C. Diputados Cuenta del oficio de S.E. la Presidenta de la República, mediante el cual comunica que ha resuelto no hacer uso de la facultad establecida en el inciso primero del artículo 73 de la Carta Fundamental (veto). Ver
+10 de Jun. de 2014   Trámite en Tribunal Constitucional / C. Diputados Oficio al Tribunal Constitucional Ver
+08 de Jul. de 2014 43ª / 362 Tercer trámite constitucional / C. Diputados Cuenta oficio N° 9897 del Tribunal Constitucional Ver
+08 de Jul. de 2014 43ª / 362 Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9173-07","Fecha Etapa Informe Documento
+04 de Abr. de 2014 Segundo trámite constitucional Senado Segundo informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+04 de Mar. de 2014 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+30 de Dic. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9173-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+07 de Ene. de 2014   Suma 404-361  
+12 de Dic. de 2013   Suma 382-361  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9173-07","Nombre Región Distrito Partido
+Ministerio Secretaría General de la Presidencia      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9173-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+20   94 0 0 1 Aprobado Sala Ver detalle votación
+108   97 0 0 23 Aprobado Sala Ver detalle votación
+316 Votación General 8 0 0 5   Constitución Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9173-07","No record","Veto emmEnd"

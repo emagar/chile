@@ -1,0 +1,68 @@
+* * Bill summary * *
+"emmStart Summary 9069-07","Legislatura: 361
+Fecha de ingreso: miércoles 14 de agosto de 2013
+Estado: Tramitación terminada (Ley Nº 20.748 - D.Oficial 03/05/2014)
+Numero de boletín: 9069-07
+Materia: Votación En El Exterior,Sufragio
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 11-11-2014 00:14:30
+* * Hitos de tramitación * *
+"emmStart Hitos 9069-07","Fecha Sesión Etapa Sub-etapa Documento
+14 de Ago. de 2013   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+14 de Ago. de 2013 48ª / 361 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+28 de Ago. de 2013   Primer trámite constitucional / Senado Primer informe de comisión Ver
+28 de Ago. de 2013 50ª / 361 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+10 de Sep. de 2013 55ª / 361 Primer trámite constitucional / Senado Discusión general Ver
+11 de Sep. de 2013 56ª / 361 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 30/09/2013 Ver
+30 de Sep. de 2013   Primer trámite constitucional / Senado Boletín de indicaciones
+03 de Oct. de 2013   Primer trámite constitucional / Senado Segundo informe de comisión Ver
+08 de Oct. de 2013 60ª / 361 Primer trámite constitucional / Senado Cuenta de segundo informe de comisión
+11 de Dic. de 2013 79ª / 361 Primer trámite constitucional / Senado Discusión particular Ver
+11 de Dic. de 2013   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+12 de Dic. de 2013 103ª / 361 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+14 de Ene. de 2014   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+14 de Ene. de 2014 112ª / 361 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+01 de Abr. de 2014 6ª / 362 Segundo trámite constitucional / C. Diputados Discusión general Ver
+02 de Abr. de 2014 7ª / 362 Segundo trámite constitucional / C. Diputados Oficio N° 008-362 de S. E. la Presidenta de la República, por el cual formula indicación al proyecto. Ver Ver
+02 de Abr. de 2014 7ª / 362 Segundo trámite constitucional / C. Diputados Discusión general. Se solicita nuevo informe a la Comisión de Constitución, Legislación y Justicia. Ver
+03 de Abr. de 2014 8ª / 362 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 009-362 que hace presente la urgencia Suma Ver
+08 de Abr. de 2014   Segundo trámite constitucional / C. Diputados Nuevo primer informe de comisión Ver
+15 de Abr. de 2014 12ª / 362 Segundo trámite constitucional / C. Diputados Cuenta nuevo primer informe Ver
+16 de Abr. de 2014 14ª / 362 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 56-362 que retira la urgencia Suma Ver
+16 de Abr. de 2014 14ª / 362 Segundo trámite constitucional / C. Diputados Oficio modificaciones a Cámara de Origen Ver Ver
+16 de Abr. de 2014 10ª / 362 Tercer trámite constitucional / Senado Cuenta oficio con modificaciones de Cámara Revisora
+22 de Abr. de 2014 11ª / 362 Tercer trámite constitucional / Senado Cuenta del Mensaje 64-362 que hace presente la urgencia Suma
+22 de Abr. de 2014 11ª / 362 Tercer trámite constitucional / Senado Discusión única
+22 de Abr. de 2014   Tercer trámite constitucional / Senado Oficio aprobación de modificaciones de Ref.Constitucional Ver
+22 de Abr. de 2014   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+23 de Abr. de 2014 18ª / 362 Congreso Pleno / Cuenta oficio aprobacion modificaciones Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9069-07","Fecha Etapa Informe Documento
+08 de Abr. de 2014 Segundo trámite constitucional C.Diputados Nuevo primer informe de comisión de Constitución, Legislación y Justicia Ver
+14 de Ene. de 2014 Segundo trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+03 de Oct. de 2013 Primer trámite constitucional Senado Segundo informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+28 de Ago. de 2013 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9069-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+22 de Abr. de 2014   Suma 64-362  
+03 de Abr. de 2014 16 de Abr. de 2014 Suma 009-362 56-362","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9069-07","Nombre
+Isabel Allende Bussi
+Soledad Alvear Valenzuela
+Alberto Espina Otero
+Hernán Larraín Fernández
+Patricio Walker Prieto","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9069-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+14 Cierre del debate 83 15 3 19 Aprobado Sala Ver detalle votación
+14   73 27 12 8 Aprobado Sala Ver detalle votación
+14   84 25 0 11 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9069-07","No record","Veto emmEnd"

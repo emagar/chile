@@ -1,0 +1,61 @@
+* * Bill summary * *
+"emmStart Summary 9174-04","Legislatura: 361
+Fecha de ingreso: martes 03 de diciembre de 2013
+Estado: Tramitación terminada (Ley Nº 20.781 - D.Oficial 10/10/2014)
+Numero de boletín: 9174-04
+Materia: Personal De La Junta Nacional De Jardines Infantiles
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 11-11-2014 01:26:15
+* * Hitos de tramitación * *
+"emmStart Hitos 9174-04","Fecha Sesión Etapa Sub-etapa Documento
+03 de Dic. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Dic. de 2013 97ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Deportes y Recreación y a Comisión de Hacienda Ver
+12 de Dic. de 2013 103ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 388-361 que hace presente la urgencia Simple Ver
+07 de Ene. de 2014 108ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 402-361 que hace presente la urgencia Simple Ver
+21 de Ene. de 2014   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+04 de Mar. de 2014 122ª / 361 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+03 de May. de 2014   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+04 de Jun. de 2014 29ª / 362 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+04 de Jun. de 2014 29ª / 362 Primer trámite constitucional / C. Diputados Cuenta del informe financiero actualizado del proyecto. Ver Ver
+10 de Jun. de 2014 31ª / 362 Primer trámite constitucional / C. Diputados Cuenta oficio N° 162-362. Indicaciones formuladas por S.E. la Presidenta de la República. Ver Ver
+11 de Jun. de 2014 32ª / 362 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general Ver
+11 de Jun. de 2014   Primer trámite constitucional / C. Diputados Boletín de indicaciones
+12 de Jun. de 2014 34ª / 362 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+12 de Jun. de 2014 34ª / 362 Primer trámite constitucional / C. Diputados Discusión particular. Aprobado Ver
+12 de Jun. de 2014 34ª / 362 Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver Ver
+17 de Jun. de 2014 25ª / 362 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología; y a la de Hacienda, en su caso.
+14 de Jul. de 2014   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+22 de Jul. de 2014 33ª / 362 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+23 de Jul. de 2014 34ª / 362 Segundo trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 04/08/2014 Ver
+09 de Sep. de 2014   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+09 de Sep. de 2014 45ª / 362 Segundo trámite constitucional / Senado Discusión particular Ver
+09 de Sep. de 2014   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+10 de Sep. de 2014 67ª / 362 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+10 de Sep. de 2014   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9174-04","Fecha Etapa Informe Documento
+09 de Sep. de 2014 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+14 de Jul. de 2014 Segundo trámite constitucional Senado Primer informe de comisión de Educación, Cultura, Ciencia y Tecnología Ver
+11 de Jun. de 2014 Primer trámite constitucional C.Diputados Segundo informe de comisión de Educación, Deportes y Recreación Ver
+04 de May. de 2014 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+21 de Ene. de 2014 Primer trámite constitucional C.Diputados Primer informe de comisión de Educación, Deportes y Recreación Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9174-04","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+07 de Ene. de 2014   Simple 402-361  
+12 de Dic. de 2013   Simple 388-361  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9174-04","Nombre Región Distrito Partido
+Ministerio de Educación      
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9174-04","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+34   77 0 0 0 Aprobado Sala Ver detalle votación
+32   102 0 0 18 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9174-04","No record","Veto emmEnd"

@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 9058-29","Legislatura: 361
+Fecha de ingreso: jueves 08 de agosto de 2013
+Estado: Segundo trámite constitucional .
+Numero de boletín: 9058-29
+Materia: Futbol Profesional,Amenazas,Violencia En El Deporte
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 11-11-2014 00:06:50
+* * Hitos de tramitación * *
+"emmStart Hitos 9058-29","Fecha Sesión Etapa Sub-etapa Documento
+08 de Ago. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+08 de Ago. de 2013 56ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Deportes Ver
+03 de Dic. de 2013 97ª / 361 Primer trámite constitucional / C. Diputados Cuenta oficio N° 144-2013 de la Corte Suprema Ver Ver
+03 de Dic. de 2013   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de Dic. de 2013 97ª / 361 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+04 de Dic. de 2013 99ª / 361 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general Ver
+04 de Dic. de 2013   Primer trámite constitucional / C. Diputados Boletín de indicaciones
+21 de Ene. de 2014 116ª / 361 Primer trámite constitucional / C. Diputados Cuenta. Segundo informe de la Comisión Especial de Deportes recaído en el proyecto. Ver
+02 de Abr. de 2014 7ª / 362 Primer trámite constitucional / C. Diputados Discusión particular. Aprobado Ver
+02 de Abr. de 2014   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+08 de Abr. de 2014 6ª / 362 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9058-29","Fecha Etapa Informe Documento
+20 de Ene. de 2014 Primer trámite constitucional C.Diputados Segundo informe de comisión de Educación, Deportes y Recreación Ver
+03 de Dic. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión de Deportes Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9058-29","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9058-29","Nombre Región Distrito Partido
+Fidel Espinoza Sandoval X Región de los Lagos N°56 Partido Socialista
+Tucapel Jiménez Fuentes RM Región Metropolitana N°27 Partido Por la Democracia
+Celso Morales Muñoz VII Región del Maule N°36 Unión Demócrata Independiente
+Manuel Rojas Molina II Región de Antofagasta N°4 Unión Demócrata Independiente
+Marcela Sabat Fernández RM Región Metropolitana N°21 Renovación Nacional
+Víctor Torres Jeldes V Región de Valparaíso N°15 Partido Demócrata Cristiano
+Matías Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9058-29","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+7   84 2 14 0 Aprobado Sala Ver detalle votación
+99 Solicitud de votación en particular 45 33 1 41 Rechazado Sala Ver detalle votación
+99   73 0 8 39 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9058-29","No record","Veto emmEnd"

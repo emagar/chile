@@ -1,0 +1,35 @@
+* * Bill summary * *
+"emmStart Summary 8900-07","Legislatura: 361
+Fecha de ingreso: jueves 18 de abril de 2013
+Estado: Primer trámite constitucional .
+Numero de boletín: 8900-07
+Materia: Declaración De Culpabilidad,Constitucion 1980,Acusación Constitucional,Inhabilidades Para Cargos Públicos,Destitución Del Cargo
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 22:13:02
+* * Hitos de tramitación * *
+"emmStart Hitos 8900-07","Fecha Sesión Etapa Sub-etapa Documento
+18 de Abr. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+18 de Abr. de 2013 18ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8900-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8900-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8900-07","Nombre Región Distrito Partido
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Guillermo Ceroni Fuentes VII Región del Maule N°40 Partido Por la Democracia
+Cristián Monckeberg Bruner RM Región Metropolitana N°23 Renovación Nacional
+José Miguel Ortiz Novoa VIII Región del Bío Bío N°44 Partido Demócrata Cristiano
+Jorge Sabag Villalobos VIII Región del Bío Bío N°42 Partido Demócrata Cristiano
+Jorge Tarud Daccarett VII Región del Maule N°39 Partido Por la Democracia
+Matías Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8900-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8900-07","No record","Veto emmEnd"

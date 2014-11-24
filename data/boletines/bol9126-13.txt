@@ -1,0 +1,42 @@
+* * Bill summary * *
+"emmStart Summary 9126-13","Legislatura: 361
+Fecha de ingreso: martes 08 de octubre de 2013
+Estado: Primer trámite constitucional .
+Numero de boletín: 9126-13
+Materia: Seguro De Cesantia
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 11-11-2014 00:54:18
+* * Hitos de tramitación * *
+"emmStart Hitos 9126-13","Fecha Sesión Etapa Sub-etapa Documento
+08 de Oct. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+08 de Oct. de 2013 79ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+08 de Oct. de 2013 79ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 301-361 que hace presente la urgencia Suma Ver
+19 de Nov. de 2013 87ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 337-361 que hace presente la urgencia Suma Ver
+03 de Dic. de 2013 97ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 357-361 que hace presente la urgencia Suma Ver
+17 de Dic. de 2013 104ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 391-361 que hace presente la urgencia Suma Ver
+07 de Ene. de 2014 108ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 404-361 que hace presente la urgencia Suma Ver
+14 de Ene. de 2014   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9126-13","Fecha Etapa Informe Documento
+14 de Ene. de 2014 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9126-13","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+07 de Ene. de 2014   Suma 404-361  
+17 de Dic. de 2013   Suma 391-361  
+03 de Dic. de 2013   Suma 357-361  
+19 de Nov. de 2013   Suma 337-361  
+08 de Oct. de 2013   Suma 301-361  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9126-13","Nombre Región Distrito Partido
+Ministerio de Hacienda      
+Ministerio de Trabajo y Previsión Social      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9126-13","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9126-13","No record","Veto emmEnd"

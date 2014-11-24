@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 8963-07","Legislatura: 361
+Fecha de ingreso: martes 04 de junio de 2013
+Estado: Primer trámite constitucional .
+Numero de boletín: 8963-07
+Materia: Igualdad Penal Y Procesal
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 22:58:52
+* * Hitos de tramitación * *
+"emmStart Hitos 8963-07","Fecha Sesión Etapa Sub-etapa Documento
+04 de Jun. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Jun. de 2013 32ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+05 de Jun. de 2013 34ª / 361 Primer trámite constitucional / C. Diputados Los Jefes de los Comités Parlamentarios, en sesión extraordinaria celebrada el dia de hoy, acordaron solicitar a la Comisión que US. preside que, si lo tiene a bien, considere sobre tabla y emita un pronunciamiento sobre la constitucionalidad o inconstitucionalidad del proyecto. (Oficio 10.767 del 5.6.13, al Presidente de la Comisión de Constitución, Legislación y Justicia, comunica acuerdo) Ver
+05 de Jun. de 2013 34ª / 361 Primer trámite constitucional / C. Diputados Los Comités Parlamentarios, acordaron remitir a la Comisión de Derechos Humanos, Nacionalidad y Ciudadanía el proyecto una vez informado por la Comisión de Constitución, Legislación y Justicia. Ver
+05 de Jun. de 2013   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+12 de Jun. de 2013 37ª / 361 Primer trámite constitucional / C. Diputados La Sala aprueba el Informe de la Comisión de Constitución, Legislación y Justicia con respecto la constitucionalidad del proyecto. Ver
+12 de Jun. de 2013 37ª / 361 Primer trámite constitucional / C. Diputados Oficio N°168-360. Informe de constitucionalidad de la Comisión de Constitución, Legislación y Justicia recaído en el proyecto. Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8963-07","Fecha Etapa Informe Documento
+05 de Jun. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8963-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8963-07","Nombre Región Distrito Partido
+Mario Bertolino Rendic IV Región de Coquimbo N°7 Renovación Nacional
+Jorge Ulloa Aguillón VIII Región del Bío Bío N°43 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8963-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+37 Inadmisibilidad 35 26 0 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8963-07","No record","Veto emmEnd"

@@ -1,0 +1,41 @@
+* * Bill summary * *
+"emmStart Summary 9201-03","Legislatura: 361
+Fecha de ingreso: martes 17 de diciembre de 2013
+Estado: Primer trámite constitucional .
+Numero de boletín: 9201-03
+Materia: Medios De Pago Electrónicos
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 11-11-2014 01:44:12
+* * Hitos de tramitación * *
+"emmStart Hitos 9201-03","Fecha Sesión Etapa Sub-etapa Documento
+17 de Dic. de 2013   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+17 de Dic. de 2013 80ª / 361 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Economía, y a la de Hacienda, en su caso.
+07 de Ene. de 2014 83ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 406-361 que hace presente la urgencia Suma
+13 de Ene. de 2014   Primer trámite constitucional / Senado Primer informe de comisión Ver
+14 de Ene. de 2014 85ª / 361 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+22 de Ene. de 2014 89ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 444-361 que retira la urgencia Suma Ver
+22 de Ene. de 2014 89ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 449-361 que hace presente la urgencia Suma Ver
+09 de Abr. de 2014 7ª / 362 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 12/05/2014 Ver
+12 de May. de 2014   Primer trámite constitucional / Senado Boletín de indicaciones
+13 de May. de 2014   Primer trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 09/06/2014 a las 12:00 en la Secretaría de la Comisión de Economía","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9201-03","Fecha Etapa Informe Documento
+13 de Ene. de 2014 Primer trámite constitucional Senado Primer informe de comisión de Economía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9201-03","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+22 de Ene. de 2014   Suma 449-361  
+07 de Ene. de 2014 22 de Ene. de 2014 Suma 406-361 444-361","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9201-03","Nombre
+Ministerio de Economía, Fomento y Turism
+Ministerio de Hacienda","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9201-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9201-03","No record","Veto emmEnd"

@@ -1,0 +1,58 @@
+* * Bill summary * *
+"emmStart Summary 8995-07","Legislatura: 361
+Fecha de ingreso: martes 18 de junio de 2013
+Estado: Primer trámite constitucional .
+Numero de boletín: 8995-07
+Materia: Fuerzas De Orden Y Seguridad,Aumento De Proteciones Legales Y Beneficios
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 23:22:33
+* * Hitos de tramitación * *
+"emmStart Hitos 8995-07","Fecha Sesión Etapa Sub-etapa Documento
+18 de Jun. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+18 de Jun. de 2013 39ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia y a Comisión de Hacienda Ver
+17 de Jul. de 2013 48ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 195-361 que hace presente la urgencia Simple Ver
+14 de Ago. de 2013 60ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 225-361 que hace presente la urgencia Simple Ver
+27 de Ago. de 2013 62ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 235-361 que hace presente la urgencia Suma Ver
+11 de Sep. de 2013 73ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 264-361 que hace presente la urgencia Suma Ver
+01 de Oct. de 2013 75ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 283-361 que hace presente la urgencia Discusión inmediata Ver
+10 de Oct. de 2013 82ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 304-361 que hace presente la urgencia Discusión inmediata Ver
+16 de Oct. de 2013 85ª / 361 Primer trámite constitucional / C. Diputados Cuenta oficio N°249-361. de S.E. el Presidente de la República por el cual formula indicación al proyecto que ""Aumenta las protecciones legales y beneficios aplicables a los miembros de las Fuerzas de Orden y Seguridad."". Ver Ver
+16 de Oct. de 2013 85ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 249-361 que hace presente la urgencia Simple Ver
+26 de Nov. de 2013 93ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 348-361 que hace presente la urgencia Discusión inmediata Ver
+03 de Dic. de 2013 97ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 358-361 que hace presente la urgencia Discusión inmediata Ver
+05 de Dic. de 2013 100ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 373-361 que hace presente la urgencia Discusión inmediata Ver
+10 de Dic. de 2013 101ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 384-361 que hace presente la urgencia Discusión inmediata Ver
+17 de Dic. de 2013 104ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 392-361 que hace presente la urgencia Discusión inmediata Ver
+14 de Ene. de 2014 112ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 425-361 que hace presente la urgencia Discusión inmediata Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8995-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8995-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+14 de Ene. de 2014   Discusión inmediata 425-361  
+17 de Dic. de 2013   Discusión inmediata 392-361  
+10 de Dic. de 2013   Discusión inmediata 384-361  
+05 de Dic. de 2013   Discusión inmediata 373-361  
+03 de Dic. de 2013   Discusión inmediata 358-361  
+26 de Nov. de 2013   Discusión inmediata 348-361  
+16 de Oct. de 2013   Simple 249-361  
+10 de Oct. de 2013   Discusión inmediata 304-361  
+01 de Oct. de 2013   Discusión inmediata 283-361  
+11 de Sep. de 2013   Suma 264-361  
+27 de Ago. de 2013   Suma 235-361  
+14 de Ago. de 2013   Simple 225-361  
+17 de Jul. de 2013   Simple 195-361  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8995-07","Nombre Región Distrito Partido
+Ministerio de Hacienda      
+Ministerio de Interior y Seguridad Públi      
+Ministerio de Justicia      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8995-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8995-07","No record","Veto emmEnd"

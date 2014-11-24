@@ -1,0 +1,47 @@
+* * Bill summary * *
+"emmStart Summary 9099-24","Legislatura: 361
+Fecha de ingreso: jueves 12 de septiembre de 2013
+Estado: Primer trámite constitucional .
+Numero de boletín: 9099-24
+Materia: Monumentos,Castillo Velasco, Jaime,Comuna De Santiago
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 11-11-2014 00:36:11
+* * Hitos de tramitación * *
+"emmStart Hitos 9099-24","Fecha Sesión Etapa Sub-etapa Documento
+12 de Sep. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Sep. de 2013 74ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de la Cultura y las Artes Ver
+02 de Sep. de 2014 63ª / 362 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 417-362 que hace presente la urgencia Simple Ver
+30 de Sep. de 2014 73ª / 362 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 581-362 que hace presente la urgencia Simple Ver
+07 de Oct. de 2014   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+08 de Oct. de 2014 78ª / 362 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+21 de Oct. de 2014 83ª / 362 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 686-362 que hace presente la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9099-24","Fecha Etapa Informe Documento
+07 de Oct. de 2014 Primer trámite constitucional C.Diputados Primer informe de comisión de la Cultura y las Artes Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9099-24","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+21 de Oct. de 2014   Simple 686-362  
+30 de Sep. de 2014   Simple 581-362  
+02 de Sep. de 2014   Simple 417-362  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9099-24","Nombre Región Distrito Partido
+Gabriel Ascencio Mansilla X Región de los Lagos N°58 Partido Demócrata Cristiano
+Fuad Chahín Valenzuela IX Región de la Araucanía N°49 Partido Demócrata Cristiano
+Aldo Cornejo González V Región de Valparaíso N°13 Partido Demócrata Cristiano
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Felipe Harboe Bascuñán RM Región Metropolitana N°22 Partido Por la Democracia
+Sergio Ojeda Uribe X Región de los Lagos N°55 Partido Demócrata Cristiano
+Ricardo Rincón González VI Región del Libertador Bernardo O' Higgins N°33 Partido Demócrata Cristiano
+Jorge Sabag Villalobos VIII Región del Bío Bío N°42 Partido Demócrata Cristiano
+Víctor Torres Jeldes V Región de Valparaíso N°15 Partido Demócrata Cristiano
+Matías Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9099-24","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9099-24","No record","Veto emmEnd"

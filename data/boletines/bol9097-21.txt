@@ -1,0 +1,54 @@
+* * Bill summary * *
+"emmStart Summary 9097-21","Legislatura: 361
+Fecha de ingreso: martes 10 de septiembre de 2013
+Estado: Segundo trámite constitucional .
+Numero de boletín: 9097-21
+Materia: Pesca Artesanal
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 11-11-2014 00:35:01
+* * Hitos de tramitación * *
+"emmStart Hitos 9097-21","Fecha Sesión Etapa Sub-etapa Documento
+11 de Sep. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+11 de Sep. de 2013 73ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Pesca, Acuicultura e Intereses Marítimos Ver
+08 de Oct. de 2013 80ª / 361 Primer trámite constitucional / C. Diputados Primer informe de comisión Ver Ver
+22 de May. de 2014   Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda. Ver
+03 de Jun. de 2014 28ª / 362 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+04 de Jun. de 2014 29ª / 362 Primer trámite constitucional / C. Diputados Discusión pendiente. Ver
+17 de Jun. de 2014   Primer trámite constitucional / C. Diputados Aprobado en general y en particular.
+17 de Jun. de 2014   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora. (Oficio N° 11.335, al Senado). Ver
+18 de Jun. de 2014 26ª / 362 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Intereses Marítimos, Pesca y Acuicultura; y a la de Hacienda, en su caso.
+02 de Sep. de 2014 42ª / 362 Segundo trámite constitucional / Senado Cuenta del Mensaje 333-362 que hace presente la urgencia Suma
+09 de Sep. de 2014 45ª / 362 Segundo trámite constitucional / Senado Cuenta del Mensaje 480-362 que retira y hace presente la urgencia Suma
+23 de Sep. de 2014 48ª / 362 Segundo trámite constitucional / Senado Cuenta del Mensaje 549-362 que retira y hace presente la urgencia Suma
+07 de Oct. de 2014 52ª / 362 Segundo trámite constitucional / Senado Cuenta del Mensaje 611-362 que retira y hace presente la urgencia Suma
+14 de Oct. de 2014   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+21 de Oct. de 2014 57ª / 362 Segundo trámite constitucional / Senado Cuenta del Mensaje 670-362 que retira y hace presente la urgencia Suma
+22 de Oct. de 2014 59ª / 362 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+05 de Nov. de 2014 61ª / 362 Segundo trámite constitucional / Senado Discusión general Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9097-21","Fecha Etapa Informe Documento
+21 de Oct. de 2014 Segundo trámite constitucional Senado Primer informe de comisión de Intereses Marítimos, Pesca y Acuicultura Ver
+03 de Jun. de 2014 Primer trámite constitucional C.Diputados Primer informe de comisión de Pesca, Acuicultura e Intereses Marítimos Ver
+22 de May. de 2014 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9097-21","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+21 de Oct. de 2014 10 de Nov. de 2014 Suma 670-362 748-362
+07 de Oct. de 2014 21 de Oct. de 2014 Suma 611-362 670-362
+23 de Sep. de 2014 07 de Oct. de 2014 Suma 549-362 611-362
+09 de Sep. de 2014 23 de Sep. de 2014 Suma 480-362 549-362
+02 de Sep. de 2014 09 de Sep. de 2014 Suma 333-362 480-362","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9097-21","Nombre Región Distrito Partido
+Ministerio de Economía, Fomento y Turism      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9097-21","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+35 numerales 5) en lo que dice relación con el artículo 55i, y 10) del artículo 1° 91 0 1 28 Aprobado Sala Ver detalle votación
+35 Salvo numerales 5) respecto del artículo 55i, y 10) del artículo 1° 89 0 1 30 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9097-21","No record","Veto emmEnd"

@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 9003-10","Legislatura: 361
+Fecha de ingreso: martes 02 de julio de 2013
+Estado: Tramitación terminada (D.S N° 92 - D.Oficial 03/10/2014)
+Numero de boletín: 9003-10
+Materia: Acuerdo Chile-San Vicente Y Granadinas, Exención De Visa Diplomáticos Y Oficiales (30 De Noviembre 2012: Kingstown)
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 10-11-2014 23:27:28
+* * Hitos de tramitación * *
+"emmStart Hitos 9003-10","Fecha Sesión Etapa Sub-etapa Documento
+02 de Jul. de 2013   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+02 de Jul. de 2013 36ª / 361 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores
+15 de Oct. de 2013   Primer trámite constitucional / Senado Primer informe de comisión Ver
+16 de Oct. de 2013 64ª / 361 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+19 de Nov. de 2013 70ª / 361 Primer trámite constitucional / Senado Discusión general Ver
+19 de Nov. de 2013 70ª / 361 Primer trámite constitucional / Senado Discusión general Ver
+19 de Nov. de 2013   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+20 de Nov. de 2013 88ª / 361 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+10 de Dic. de 2013   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Dic. de 2013 104ª / 361 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+19 de Dic. de 2013 107ª / 361 Segundo trámite constitucional / C. Diputados Discusión general Ver
+19 de Dic. de 2013   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+23 de Dic. de 2013 82ª / 361 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+23 de Dic. de 2013   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9003-10","Fecha Etapa Informe Documento
+10 de Dic. de 2013 Segundo trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver
+16 de Oct. de 2013 Primer trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9003-10","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9003-10","Nombre
+Ministerio de Relaciones Exteriores","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9003-10","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+107   45 0 1 1 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9003-10","No record","Veto emmEnd"

@@ -1,0 +1,69 @@
+* * Bill summary * *
+"emmStart Summary 9230-07","Legislatura: 361
+Fecha de ingreso: martes 07 de enero de 2014
+Estado: Tramitación terminada (Ley Nº 20.749 - D.Oficial 14/05/2014)
+Numero de boletín: 9230-07
+Materia: Tribunales Ambientales
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 11-11-2014 02:06:44
+* * Hitos de tramitación * *
+"emmStart Hitos 9230-07","Fecha Sesión Etapa Sub-etapa Documento
+07 de Ene. de 2014   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+07 de Ene. de 2014 83ª / 361 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento. Se remite el proyecto a la Corte Suprema.
+07 de Ene. de 2014   Primer trámite constitucional / Senado Oficio N° 004/SEC/14 a la Corte Suprema Ver
+08 de Ene. de 2014 84ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 417-361 que hace presente la urgencia Suma
+14 de Ene. de 2014   Primer trámite constitucional / Senado Primer informe de comisión Ver
+15 de Ene. de 2014 86ª / 361 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+15 de Ene. de 2014 86ª / 361 Primer trámite constitucional / Senado Discusión general Ver
+15 de Ene. de 2014   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+16 de Ene. de 2014 114ª / 361 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver
+21 de Ene. de 2014 87ª / 361 Segundo trámite constitucional / C. Diputados Cuenta oficio Nº 9-2014 de la Corte Suprema Ver Ver
+23 de Ene. de 2014   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+23 de Ene. de 2014 119ª / 361 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 462-361 que hace presente la urgencia Suma Ver
+23 de Ene. de 2014 119ª / 361 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+04 de Mar. de 2014 121ª / 361 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 469-361 que hace presente la urgencia Suma Ver
+04 de Mar. de 2014 121ª / 361 Segundo trámite constitucional / C. Diputados Discusión general. Aprobado en general . Ver
+04 de Mar. de 2014 121ª / 361 Segundo trámite constitucional / C. Diputados Por acuerdo de la Sala, pasa a la Comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente, para segundo informe. Ver
+08 de Abr. de 2014 9ª / 362 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 33-362 que hace presente la urgencia Discusión inmediata Ver
+09 de Abr. de 2014   Segundo trámite constitucional / C. Diputados Segundo informe de comisión Ver
+10 de Abr. de 2014 11ª / 362 Segundo trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+10 de Abr. de 2014 11ª / 362 Segundo trámite constitucional / C. Diputados Cuenta del Mensaje 38-362 que retira y hace presente la urgencia Discusión inmediata Ver
+15 de Abr. de 2014 12ª / 362 Segundo trámite constitucional / C. Diputados Discusión particular. Aprobado sin modificaciones . Ver
+15 de Abr. de 2014   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+16 de Abr. de 2014 10ª / 362 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+16 de Abr. de 2014   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+16 de Abr. de 2014   Trámite en Tribunal Constitucional / Senado Oficio al Tribunal Constitucional Ver
+06 de May. de 2014 14ª / 362 Trámite en Tribunal Constitucional / Senado Cuenta oficio N° 9802 del Tribunal Constitucional
+06 de May. de 2014   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+13 de May. de 2014 23ª / 362 Trámite de aprobacion presidencial / Senado Cuenta oficio N° 9803 del Tribunal Constitucional","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9230-07","Fecha Etapa Informe Documento
+09 de Abr. de 2014 Segundo trámite constitucional C.Diputados Segundo informe de comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver
+23 de Ene. de 2014 Segundo trámite constitucional C.Diputados Primer informe de comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver
+14 de Ene. de 2014 Primer trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9230-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+10 de Abr. de 2014   Discusión inmediata 38-362  
+08 de Abr. de 2014 10 de Abr. de 2014 Discusión inmediata 33-362 38-362
+04 de Mar. de 2014   Suma 469-361  
+23 de Ene. de 2014   Suma 462-361  
+08 de Ene. de 2014   Discusión inmediata 417-361  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9230-07","Nombre
+Alejandro García Huidobro Sanfuentes
+Baldo Prokurica Prokurica
+Ximena Rincón González
+Fulvio Rossi Ciocca
+Eugenio Tuma Zedán","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9230-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+121   87 0 6 27 Aprobado Sala Ver detalle votación
+12   98 0 0 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9230-07","No record","Veto emmEnd"

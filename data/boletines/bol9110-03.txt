@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 9110-03","Legislatura: 361
+Fecha de ingreso: jueves 12 de septiembre de 2013
+Estado: Primer trámite constitucional .
+Numero de boletín: 9110-03
+Materia: Protección Del Consumidor,Irrevocabilidad De Mandatos
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 11-11-2014 00:43:54
+* * Hitos de tramitación * *
+"emmStart Hitos 9110-03","Fecha Sesión Etapa Sub-etapa Documento
+12 de Sep. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Sep. de 2013 74ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver
+17 de Oct. de 2013   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+19 de Nov. de 2013 87ª / 361 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+21 de Nov. de 2013 89ª / 361 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general . Ver
+22 de Nov. de 2013   Primer trámite constitucional / C. Diputados Boletín de indicaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9110-03","Fecha Etapa Informe Documento
+17 de Oct. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión de Economía, Fomento y Desarrollo Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9110-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9110-03","Nombre Región Distrito Partido
+Gabriel Ascencio Mansilla X Región de los Lagos N°58 Partido Demócrata Cristiano
+Fuad Chahín Valenzuela IX Región de la Araucanía N°49 Partido Demócrata Cristiano
+Fidel Espinoza Sandoval X Región de los Lagos N°56 Partido Socialista
+Felipe Harboe Bascuñán RM Región Metropolitana N°22 Partido Por la Democracia
+Juan Carlos Latorre Carmona VI Región del Libertador Bernardo O' Higgins N°35 Partido Demócrata Cristiano
+Denise Pascal Allende RM Región Metropolitana N°31 Partido Socialista
+Gabriel Silber Romo RM Región Metropolitana N°16 Partido Demócrata Cristiano
+Patricio Vallespín López X Región de los Lagos N°57 Partido Demócrata Cristiano
+Mónica Zalaquett Said RM Región Metropolitana N°20 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9110-03","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+89   57 0 0 63 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9110-03","No record","Veto emmEnd"

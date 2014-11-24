@@ -1,0 +1,37 @@
+* * Bill summary * *
+"emmStart Summary 9031-07","Legislatura: 361
+Fecha de ingreso: miércoles 17 de julio de 2013
+Estado: Primer trámite constitucional .
+Numero de boletín: 9031-07
+Materia: Constitucion 1980,Vacancia En El Parlamento,Reelección De Parlamentarios
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 10-11-2014 23:47:15
+* * Hitos de tramitación * *
+"emmStart Hitos 9031-07","Fecha Sesión Etapa Sub-etapa Documento
+17 de Jul. de 2013   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+17 de Jul. de 2013 41ª / 361 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+17 de Jul. de 2013 41ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 197-361 que hace presente la urgencia Simple
+14 de Ago. de 2013 48ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 229-361 que retira y hace presente la urgencia Simple
+11 de Sep. de 2013 56ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 267-361 que retira y hace presente la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9031-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9031-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+11 de Sep. de 2013   Simple 267-361  
+14 de Ago. de 2013 11 de Sep. de 2013 Simple 229-361 267-361
+17 de Jul. de 2013 14 de Ago. de 2013 Simple 141-361 229-361
+17 de Jul. de 2013   Simple 197-361  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9031-07","Nombre
+Ministerio de Interior y Seguridad Públi
+Ministerio Secretaría General de la Presidencia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9031-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9031-07","No record","Veto emmEnd"

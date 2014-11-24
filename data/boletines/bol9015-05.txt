@@ -1,0 +1,71 @@
+* * Bill summary * *
+"emmStart Summary 9015-05","Legislatura: 361
+Fecha de ingreso: miércoles 03 de julio de 2013
+Estado: Segundo trámite constitucional .
+Numero de boletín: 9015-05
+Materia: Comisión De Valores Y Seguros
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 23:36:15
+* * Hitos de tramitación * *
+"emmStart Hitos 9015-05","Fecha Sesión Etapa Sub-etapa Documento
+03 de Jul. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Jul. de 2013 43ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda. Se remite el proyecto a la Corte Suprema. Ver
+03 de Jul. de 2013   Primer trámite constitucional / C. Diputados Oficio N° 10.811 a la Corte Suprema Ver
+06 de Ago. de 2013 54ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 214-361 que hace presente la urgencia Suma Ver
+14 de Ago. de 2013 60ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 224-361 que hace presente la urgencia Suma Ver
+29 de Ago. de 2013 65ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 248-361 que hace presente la urgencia Suma Ver
+12 de Sep. de 2013 74ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 270-361 que hace presente la urgencia Suma Ver
+01 de Oct. de 2013 75ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 281-361 que hace presente la urgencia Suma Ver
+01 de Oct. de 2013 75ª / 361 Primer trámite constitucional / C. Diputados Cuenta oficio Nº 114-2013 de la Corte Suprema Ver Ver
+16 de Oct. de 2013 85ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 311-361 que hace presente la urgencia Suma Ver
+19 de Nov. de 2013 87ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 337-361 que hace presente la urgencia Suma Ver
+20 de Nov. de 2013   Primer trámite constitucional / C. Diputados Oficio N°228-361. Oficio de S.E. el Presidente de la República por el cual formula indicaciones al proyecto. Ver
+26 de Nov. de 2013   Primer trámite constitucional / C. Diputados Oficio N°343-361. Oficio de S.E. el Presidente de la República por el cual retira y formula nuevas indicaciones al proyecto. Ver
+03 de Dic. de 2013 97ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 357-361 que hace presente la urgencia Suma Ver
+17 de Dic. de 2013 104ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 391-361 que hace presente la urgencia Suma Ver
+19 de Dic. de 2013   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de Ene. de 2014 108ª / 361 Primer trámite constitucional / C. Diputados Cuenta. Informe de la Comisión de Hacienda recaído en el proyecto. Ver
+07 de Ene. de 2014 108ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 404-361 que hace presente la urgencia Suma Ver
+16 de Ene. de 2014 114ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 436-361 que hace presente la urgencia Discusión inmediata Ver
+21 de Ene. de 2014 115ª / 361 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general. Votación particular pendiente. Ver
+22 de Ene. de 2014 117ª / 361 Primer trámite constitucional / C. Diputados Discusión particular. Aprobado en particular. Ver
+22 de Ene. de 2014   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+28 de Ene. de 2014 90ª / 361 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9015-05","Fecha Etapa Informe Documento
+19 de Dic. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9015-05","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+16 de Ene. de 2014   Discusión inmediata 436-361  
+07 de Ene. de 2014   Suma 404-361  
+17 de Dic. de 2013   Suma 391-361  
+03 de Dic. de 2013   Suma 357-361  
+19 de Nov. de 2013   Suma 337-361  
+16 de Oct. de 2013   Suma 311-361  
+01 de Oct. de 2013   Suma 281-361  
+12 de Sep. de 2013   Suma 270-361  
+29 de Ago. de 2013   Suma 248-361  
+14 de Ago. de 2013   Suma 224-361  
+06 de Ago. de 2013   Suma 214-361  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9015-05","Nombre Región Distrito Partido
+Ministerio de Hacienda      
+Ministerio de Justicia      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9015-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+117 Indicación al artículo 20 letra m) 96 0 0 24 Aprobado Sala Ver detalle votación
+117 Indicación al artículo 30 50 44 0 26 Aprobado Sala Ver detalle votación
+117 Indicación al artículo 58 94 1 0 25 Aprobado Sala Ver detalle votación
+117 Indicación al artículo 60 93 0 1 26 Aprobado Sala Ver detalle votación
+115 El proyecto con la salvedad del numeral 6) literal f) en relación con la letra e), párrafos quinto y séptimo del artículo 4° del decreto ley N° 3.538, que crea la Superintendencia de Valores y Seguros, por tratar materias propias de ley de quórum calificado, y de los numerales 4) literal a); 6) literal f) párrafo tercero del artículo 4°; 9) en relación con los artículos 7°, 8°, 13, 20 y 32 del decreto ley N° 3.538, que crea la Superintendencia de Valores y Seguros; numerales 16); 17) en relación con el artículo 60, y 24) en relación con el artículo 75, ambos del citado decreto ley, por tratar materias propias de ley orgánica constitucional, todos del artículo único del proyecto 83 11 1 25 Aprobado Sala Ver detalle votación
+115 El numeral 6) literal f) en relación con la letra e), párrafos quinto y séptimo del artículo 4° del decreto ley N° 3.538, que crea la Superintendencia de Valores y Seguros 82 9 3 26 Aprobado Sala Ver detalle votación
+115 Los numerales 4) literal a); 6) literal f) párrafo tercero del artículo 4°; 9) en relación con los artículos 7°, 8°, 13, 20 y 32 del decreto ley N° 3.538, que crea la Superintendencia de Valores y Seguros; numerales 16); 17) en relación con el artículo 60, y 24) en relación con el artículo 75, ambos del citado decreto ley, todos del artículo único del proyecto 82 10 2 26 Aprobado Sala Ver detalle votación
+288 Votación General 9 0 0 4   Hacienda Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9015-05","No record","Veto emmEnd"

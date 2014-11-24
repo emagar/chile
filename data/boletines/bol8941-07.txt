@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 8941-07","Legislatura: 361
+Fecha de ingreso: miércoles 15 de mayo de 2013
+Estado: Primer trámite constitucional .
+Numero de boletín: 8941-07
+Materia: Cuentas Corrientes,Cuentas Bancarias
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 22:42:16
+* * Hitos de tramitación * *
+"emmStart Hitos 8941-07","Fecha Sesión Etapa Sub-etapa Documento
+15 de May. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+15 de May. de 2013 28ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+02 de Jul. de 2013 42ª / 361 Primer trámite constitucional / C. Diputados Cuenta oficio N? 83-2013 de la Corte Suprema Ver
+02 de Jul. de 2013 42ª / 361 Primer trámite constitucional / C. Diputados Cuenta oficio N° 83-2013 de la Corte Suprema Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8941-07","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8941-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8941-07","Nombre Región Distrito Partido
+Osvaldo Andrade Lara RM Región Metropolitana N°29 Partido Socialista
+Gabriel Ascencio Mansilla X Región de los Lagos N°58 Partido Demócrata Cristiano
+Jorge Burgos Varela RM Región Metropolitana N°21 Partido Demócrata Cristiano
+Felipe Harboe Bascuñán RM Región Metropolitana N°22 Partido Por la Democracia
+Pablo Lorenzini Basso VII Región del Maule N°38 Partido Demócrata Cristiano
+José Miguel Ortiz Novoa VIII Región del Bío Bío N°44 Partido Demócrata Cristiano
+Gabriel Silber Romo RM Región Metropolitana N°16 Partido Demócrata Cristiano
+Matías Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8941-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8941-07","No record","Veto emmEnd"

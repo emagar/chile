@@ -1,0 +1,34 @@
+* * Bill summary * *
+"emmStart Summary 8979-03","Legislatura: 361
+Fecha de ingreso: martes 11 de junio de 2013
+Estado: Primer trámite constitucional .
+Numero de boletín: 8979-03
+Materia: Tribunal De Defensa De La Libre Competencia,Indemnización De Perjuicios
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 23:10:18
+* * Hitos de tramitación * *
+"emmStart Hitos 8979-03","Fecha Sesión Etapa Sub-etapa Documento
+11 de Jun. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+11 de Jun. de 2013 36ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8979-03","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8979-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8979-03","Nombre Región Distrito Partido
+Fuad Chahín Valenzuela IX Región de la Araucanía N°49 Partido Demócrata Cristiano
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Ricardo Rincón González VI Región del Libertador Bernardo O' Higgins N°33 Partido Demócrata Cristiano
+Patricio Vallespín López X Región de los Lagos N°57 Partido Demócrata Cristiano
+Mario Venegas Cárdenas IX Región de la Araucanía N°48 Partido Demócrata Cristiano
+Matías Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8979-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8979-03","No record","Veto emmEnd"

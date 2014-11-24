@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 9233-01","Legislatura: 361
+Fecha de ingreso: miércoles 08 de enero de 2014
+Estado: Primer trámite constitucional .
+Numero de boletín: 9233-01
+Materia: Productos Agrícolas
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 11-11-2014 02:08:05
+* * Hitos de tramitación * *
+"emmStart Hitos 9233-01","Fecha Sesión Etapa Sub-etapa Documento
+08 de Ene. de 2014   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+08 de Ene. de 2014 84ª / 361 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Agricultura, y a la de Hacienda, en su caso.
+08 de Ene. de 2014 84ª / 361 Primer trámite constitucional / Senado La Sala acuerda pasar el proyecto solamente a la Comisión de Hacienda.
+22 de Ene. de 2014   Primer trámite constitucional / Senado Primer informe de comisión Ver
+22 de Ene. de 2014 89ª / 361 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+04 de Mar. de 2014 91ª / 361 Primer trámite constitucional / Senado Cuenta del Mensaje 466-361 que hace presente la urgencia Simple Ver
+09 de Abr. de 2014 7ª / 362 Primer trámite constitucional / Senado Discusión general Ver
+16 de Abr. de 2014 10ª / 362 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 19/05/2014 Ver
+19 de May. de 2014   Primer trámite constitucional / Senado Boletín de indicaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9233-01","Fecha Etapa Informe Documento
+22 de Ene. de 2014 Primer trámite constitucional Senado Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9233-01","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Mar. de 2014   Simple 466-361  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9233-01","Nombre
+Ministerio de Agricultura
+Ministerio de Hacienda
+Ministerio de Minería","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9233-01","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9233-01","No record","Veto emmEnd"

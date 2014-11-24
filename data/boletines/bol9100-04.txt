@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 9100-04","Legislatura: 361
+Fecha de ingreso: jueves 12 de septiembre de 2013
+Estado: Primer trámite constitucional .
+Numero de boletín: 9100-04
+Materia: Aprendizaje De Cueca En Colegios
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 11-11-2014 00:36:44
+* * Hitos de tramitación * *
+"emmStart Hitos 9100-04","Fecha Sesión Etapa Sub-etapa Documento
+12 de Sep. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Sep. de 2013 74ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Deportes y Recreación Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9100-04","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9100-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9100-04","Nombre Región Distrito Partido
+Cristián Campos Jara VIII Región del Bío Bío N°43 Partido Por la Democracia
+Enrique Jaramillo Becker XIV Región de los Ríos N°54 Partido Por la Democracia
+Issa Farid Kort Garriga VI Región del Libertador Bernardo O' Higgins N°32 Unión Demócrata Independiente
+José Pérez Arriagada VIII Región del Bío Bío N°47 Partido Radical Social Demócrata
+Leopoldo Pérez Lahsen RM Región Metropolitana N°29 Renovación Nacional
+Ricardo Rincón González VI Región del Libertador Bernardo O' Higgins N°33 Partido Demócrata Cristiano
+Jorge Sabag Villalobos VIII Región del Bío Bío N°42 Partido Demócrata Cristiano
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Partido Regionalista Independiente
+Ignacio Urrutia Bonilla VII Región del Maule N°40 Unión Demócrata Independiente
+Matías Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9100-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9100-04","No record","Veto emmEnd"

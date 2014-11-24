@@ -1,0 +1,34 @@
+* * Bill summary * *
+"emmStart Summary 9086-17","Legislatura: 361
+Fecha de ingreso: martes 03 de septiembre de 2013
+Estado: Primer trámite constitucional .
+Numero de boletín: 9086-17
+Materia: Código Penal
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 11-11-2014 00:27:12
+* * Hitos de tramitación * *
+"emmStart Hitos 9086-17","Fecha Sesión Etapa Sub-etapa Documento
+03 de Sep. de 2013   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+03 de Sep. de 2013 51ª / 361 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía
+11 de Dic. de 2013   Primer trámite constitucional / Senado Primer informe de comisión Ver
+17 de Dic. de 2013 80ª / 361 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Mar. de 2014 1ª / 362 Primer trámite constitucional / Senado Discusión general. Aprobado en general Se fija como plazo para presentar indicaciones el 31/03/2014 Ver
+31 de Mar. de 2014   Primer trámite constitucional / Senado Boletín de indicaciones","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9086-17","Fecha Etapa Informe Documento
+11 de Dic. de 2013 Primer trámite constitucional Senado Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9086-17","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9086-17","Nombre
+Jaime Orpis Bouchon","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9086-17","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9086-17","No record","Veto emmEnd"

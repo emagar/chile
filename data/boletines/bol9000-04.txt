@@ -1,0 +1,38 @@
+* * Bill summary * *
+"emmStart Summary 9000-04","Legislatura: 361
+Fecha de ingreso: jueves 20 de junio de 2013
+Estado: Primer trámite constitucional .
+Numero de boletín: 9000-04
+Materia: Educación Básica,Asignatura De Medio Ambiente, Patrimonio Cultural Y Turismo
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 23:25:50
+* * Hitos de tramitación * *
+"emmStart Hitos 9000-04","Fecha Sesión Etapa Sub-etapa Documento
+20 de Jun. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+20 de Jun. de 2013 41ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Deportes y Recreación Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9000-04","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9000-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9000-04","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Pepe Auth Stewart RM Región Metropolitana N°20 Partido Por la Democracia
+Cristina Girardi Lavín RM Región Metropolitana N°18 Partido Por la Democracia
+Hugo Gutiérrez Gálvez I Región de Tarapacá N°2 Partido Comunista
+Sergio Ojeda Uribe X Región de los Lagos N°55 Partido Demócrata Cristiano
+José Miguel Ortiz Novoa VIII Región del Bío Bío N°44 Partido Demócrata Cristiano
+Jorge Sabag Villalobos VIII Región del Bío Bío N°42 Partido Demócrata Cristiano
+David Sandoval Plaza XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Unión Demócrata Independiente
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Partido Regionalista Independiente
+Orlando Vargas Pizarro XV Región Arica y Parinacota N°1 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9000-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9000-04","No record","Veto emmEnd"

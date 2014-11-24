@@ -1,24 +1,114 @@
 \documentclass{article}
+% \documentclass[letter,12pt]{article}
+% \usepackage[letterpaper,right=1.25in,left=1.25in,top=1in,bottom=1in]{geometry}
+% \usepackage{setspace}
+
+\usepackage[utf8]{inputenc} % allows input of special characters from keyboard (input encoding)
+\usepackage[T1]{fontenc}    % what fonts to use when printing characters       (output encoding)
+\usepackage{amsmath}        % facilitates writing math formulas and improves the typographical quality of their output
+\usepackage{url}            % adds line breaks to long urls
+
+\usepackage{times}          % set font type to Times
+\usepackage[longnamesfirst, sort]{natbib}\bibpunct[]{(}{)}{,}{a}{}{;} % handles biblio and references 
+
+\newcommand{\mc}{\multicolumn}
+
+\begin{document}
 
 \title{Agenda interference as bargaining tactic}
 \author{Eric Magar}
 \date{\today}
 \maketitle
 
-\begin{document}
-
 \section{In the law}
 
-Formal authority to interfere in the Congressional agenda is established in the Constitution (art.\ 74) and Congressional Organic Law (arts.\ 26 and 27). The president has the constitutional power to urge action on any bill in ``one or all'' legislative process stages (\emph{trámites}). The chamber in question is compelled to act on the bill before a specific deadline. The law defines the breadth of the interference, giving the president a choice between a 30-day deadline (simple urgency), a 15-day (extreme urgency), or 6-day (immediate discussion). While the constitution grants the executive discretion to summon exhaustion of fewer than all remainder stages of a bill---eg., only a committee is mandated to report the bill to the floor, then the urgency ends)---the law seems to take full exhaustion as default. Urgency triples for bills in conference (\emph{comisión mixta})---a bicameral committee handling bills approved by one chamber but rejected in full by the other---as the deadline applies not to remainder cameral, but congressional stages. Were a bill in conference to receive an `immediate discussion' motion, practice grants the committee two days to report the bill, so that chambers can then have two days each to push the bill to their floors (http://www.bcn.cl/ecivica/formacion/). The president can retire the urgency at will, with immediate effects. 
-
-Urgency expires at the end of the regular session. 
-
-``One or all'' seems to indicate cameral stages: one for bills in a cameral stage, three for bills in conference committee (the committe itself is one trámite, then each chamber is another). 
+Formal authority to interfere in the Congressional agenda is established in the Constitution (art.\ 74) and Congressional Organic Law (arts.\ 26 and 27). The constitution stipulates that the president can urge action on any bill at any stage in the legislative process. The chamber receiving the urgency message is compelled to act on the bill (``discuss and vote it'') before a specific deadline. Since inter-cameral differences are dealt with in conference (\emph{comisión mixta}, const.\ arts.\ 68--70), an urgency message at this stage compells Congress (ie.\ the conference and both chambers) to act before the deadline. The law defines the breadth of the interference, giving the president a choice of 30-day (simple urgency), 10-day (extreme urgency), or 3-day (immediate discussion) deadlines. As of July 2010, when the constitution was amended, the deadlines for the extreme and immediate urgencies were relaxed to 15 and 6 days, repsectively. So at its maximum---an immediate discussion urgency to a bill in conference before 2010---the conference has one business day to report a compromise bill, and each chamber one day each to push the bill to the floor and vote it up or down.\footnote{Congressional practice is well summarized by the library of Congress at \url{http://www.bcn.cl/ecivica/formacion/}.} The president can retire the urgency at will, with immediate effects. Urgencies expire at the end of the regular session. 
 
 Urgent bills take precedence in the day's order, the . How exactly? It affects one of 30/15/6 successive days. 
 
 How is the day's order prepared? ``Las urgencias determinan el orden de la tabla de discusión'')
 
-What if Congress fails to act? Can urgency be ignored?
+What if Congress fails to act? Can urgency be ignored? Can a committee report kill the bill or does urgency compell a vote in the floor (law's art.\ 27 ``su discusión y votación en la Cámara requerida deberán quedar terminadas en el plazo'')?
+
+\section{Data}
+
+The Chamber of Deputies' web page (\url{www.camara.cl}) has detailed information on bill histories, including business in the Senate, since the return to democracy in 1990. A request of information was sent by email to the Congressional staff. Upon their failure to respond, site contents were scraped. The javascript-rich web page posed difficulties for this, resolved with \texttt{Python}'s \texttt{Selenium} library. The script (posted in a web appendix at...) was inefficient (slow) but effectively downloaded bill histories for seven legislatures between March 1, 1990 and February 28, 2014. 
+
+\begin{table}
+\begin{center}
+\begin{tabular}{rrrrrrrrrrr}
+       & \mc{10}{c}{$N$ (and \%) bills reporting urgency} \\ \cline{2-11}
+       & \mc{2}{c}{in messages}  & \mc{2}{c}{in timeline} &      &                  & &                     & & \\          
+       & \mc{2}{c}{but not}      & \mc{2}{c}{but not}     & \mc{2}{c}{in both}      & &                     & \mc{2}{c}{All} \\
+Period & \mc{2}{c}{in timeline}  & \mc{2}{c}{in messages} & \mc{2}{c}{tabs}         & \mc{2}{c}{in neither} & \mc{2}{c}{bills} \\ \hline
+%           ~UH                     U~H                       UH                        ~U~H             
+1990--1994  &  213  &   \emph{(19)}  &   5  &  \emph{(.4)}  &    25   &   \emph{(2)}  &   897  &  \emph{(79)}  &  1,140  &  \emph{(100)} \\
+1994--1998  &  168  &   \emph{(17)}  &      &               &    18   &   \emph{(2)}  &   775  &  \emph{(81)}  &    961  &  \emph{(100)} \\
+1998--2002  &  128  &   \emph{(18)}  &      &               &    77   &  \emph{(11)}  &   518  &  \emph{(72)}  &    723  &  \emph{(100)} \\
+2002--2006  &   59  &    \emph{(5)}  &   2  &  \emph{(.2)}  &   206   &  \emph{(18)}  &   905  &  \emph{(77)}  &  1,172  &  \emph{(100)} \\
+2006--2010  &    1  &  \emph{(<.1)}  &   3  &  \emph{(.1)}  &   438   &  \emph{(16)}  &  2,261 &  \emph{(84)}  &  2,703  &  \emph{(100)} \\
+2010--2014  &    1  &  \emph{(<.1)}  &   1  & \emph{(<.1)}  &   457   &  \emph{(19)}  &  1,945 &  \emph{(81)}  &  2,404  &  \emph{(100)} \\
+2006--2014  &    2  &  \emph{(<.1)}  &   4  &  \emph{(.1)}  &    895  &  \emph{(18)}  &  4,206  &  \emph{(82)}  & 5,107  &  \emph{(100)} \\
+2002--2014  &   61  &  \emph{(1)}    &   6  &  \emph{(.1)}  &  1,101  &  \emph{(18)}  &  5,111  &  \emph{(81)}  & 6,279  &  \emph{(100)} \\
+1998--2014  &  189  &  \emph{(3)}    &   6  &  \emph{(.1)}  &  1,178  &  \emph{(17)}  &  5,629  &  \emph{(80)}  & 7,002  &  \emph{(100)} \\
+1994--2014  &  357  &  \emph{(4)}    &   6  &  \emph{(.1)}  &  1,196  &  \emph{(15)}  &  6,404  &  \emph{(80)}  & 7,963  &  \emph{(100)} \\
+1990--2014  &  570  &    \emph{(6)}  &  11  &  \emph{(.1)}  &  1,221  &  \emph{(13)}  &  7,301 &  \emph{(80)}  &  9,103  &  \emph{(100)} \\ \hline
+\end{tabular}  
+\caption{Preliminary assessment of inconsistencies in the Chamber's web site}\label{T:webInconsistencies}
+\end{center}
+\end{table}
+
+Data has inconsistencies, but they are few and apparently much less prevalent since 1998, and especially since 2002. Inconsistencies in urgency reports can be gauged by comparison of their mentions in two of the web page's tabs: the main tab with the bill's timeline (\emph{hitos de tramitación}) and the tab devoted to urgency messages (\emph{urgencias}, see \url{http://www.camara.cl/pley/pley_detalle.aspx?prmID=6952&prmBL=6560-10} for an example). Table \ref{T:webInconsistencies} breaks down aggregates for the full 1990--2014 period in the first row, and since legislatures starting later in subsequent lines. Overall, about 6 percent of 9,103 bills initated in six legislatures since redemocratization have urgencias reported in one tab but not the other. The pattern reveals that the \emph{Urgencias} tab is more comprehensive than the timeline, which frequently fails to mention the urgency message that accompanied an executive initiative. But that difference has become negligible since 2002. 
+
+\begin{table}
+\begin{center}
+\begin{tabular}{crrr|rrr}
+        & \mc{3}{c}{Mociones} & \mc{3}{c}{Mensajes} \\
+Year        &  no & yes &  N  &  no & yes &  N  \\ \hline
+1990--1991  & .98 & .02 &134   & .71 & .29& 156 \\
+1991--1992  & .97 & .03 &150   & .59 & .41& 162 \\
+1992--1993  & .92 & .08 &148   & .68 & .32& 164 \\
+1993--1994  & .95 & .05 & 85   & .62 & .38& 141 \\ \hline
+1994--1995  & .94 & .06 &208   & .64 & .36& 153 \\
+1995--1996  & .94 & .06 &154   & .64 & .36& 121 \\
+1996--1997  & .95 & .05 &111   & .70 & .30&  71 \\
+1997--1998  & .92 & .08 &85    & .47 & .53& 58  \\ \hline
+1998--1999  & .92 & .08 &89    & .29 & .71& 65  \\
+1999--2000  & .84 & .16 &91    & .43 & .57& 67  \\
+2000--2001  & .91 & .09 &127   & .53 & .47&  66 \\
+2001--2002  & .93 & .07 &138   & .42 & .57&  80 \\ \hline
+2002--2003  & .96 & .04 &183   & .49 & .51& 102 \\
+2003--2004  & .93 & .07 &172   & .38 & .62&  99 \\
+2004--2005  & .94 & .06 &219   & .58 & .42& 107 \\
+2005--2006  & .92 & .08 &200   & .32 & .68&  90 \\ \hline
+2006--2007  & .94 & .06 &692   & .27 & .73&  79 \\
+2007--2008  & .94 & .06 &746   & .17 & .83& 108 \\
+2008--2009  & .93 & .07 &528   & .19 & .81& 103 \\
+2009--2010  & .95 & .05 &348   & .29 & .71&  99 \\ \hline
+2010--2011  & .94 & .06 &530   & .13 & .87& 102 \\
+2011--2012  & .92 & .08 &578   & .12 & .88& 109 \\
+2012--2013  & .94 & .06 &553   & .10 & .90&  87 \\
+2013--2014  & .96 & .04 &339   & .30 & .70& 106 \\ \hline \hline
+1990--1994  &.95  & .05 & 517  &.65  &.35 & 623 \\
+1994--1998  &.94  & .06 & 558  &.63  &.37 & 403 \\
+1998--2002  &.90  & .10 & 445  &.42  &.58 & 278 \\
+2002--2006  &.94  & .06 & 774  &.45  &.55 & 398 \\
+2006--2010  &.94  & .06 &2,314 &.23  &.77 & 389 \\
+2010--2014  &.94  & .06 &4,314 &.20  &.80 & 793 \\ \hline \hline
+1990--2014  & .94 & .06 & 6,608 & .44 & .56 & 2,459 \\ 
+2000--2014  & .94 & .06 & 5,353 & .30 & .70 & 1,337 \\ 
+1990--2006  & .93 & .07 & 2,294 & .56 & .44 & 1,702 \\ 
+\end{tabular}
+\caption{Proportion of legislative- and executive-initiated bills receiving at least one urgency message by period}\label{T:yearProp}
+\end{center}
+\end{table}
+
+That both tabs are missing a substantial number of urgency messages remains possible. And likely in the early period, as a yearly breakdown of urgency usage in Table \ref{T:yearProp} shows. The proportion of bills deemed urgent during the first post-transition legislature (1990--1994) in data collected was 21 percent. This is shy of the 35 percent that \citet{siavelis.2002} reports for the same period. \citet[][:404]{aleman.navia.UrgChi.2009} report figures for executive-initiated legislation only in 1990--2006, approximately one-quarter of which received a simple urgency. They report that this is nearly twice as often as the other two urgency varieties (with ambiguity as to whether they are combined; I assume so), yielding 38\% of executive initiatives with urgency in some degree in their dataset---below the 44\% in my data. 
+
+Accordingly, this study shall focus the period since 1998, when urgency usage resembles the proportions reported by Siavelis. (Other reports?) Data reveals important variations above and below the mean usage that deserve scrutiny. It also shows that urgency messages are quite often attached to bills initating in Congress. \citet{aleman.navia.UrgChi.2009} focus on the urgency as means to accelerate and improve the chances of the president's agenda, leaving aside other possible usages of the urgency power that are interesting. 
+
+\bibliographystyle{apsr}
+\bibliography{../bib/magar}
 
 \end{document}
+

@@ -1,0 +1,53 @@
+* * Bill summary * *
+"emmStart Summary 8924-07","Legislatura: 361
+Fecha de ingreso: martes 07 de mayo de 2013
+Estado: Primer trámite constitucional .
+Numero de boletín: 8924-07
+Materia: Derecho A La Identidad De Genero
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 10-11-2014 22:30:09
+* * Hitos de tramitación * *
+"emmStart Hitos 8924-07","Fecha Sesión Etapa Sub-etapa Documento
+07 de May. de 2013   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+07 de May. de 2013 20ª / 361 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía. Se remite el proyecto a la Corte Suprema.
+07 de May. de 2013   Primer trámite constitucional / Senado Oficio N° 321/SEC/13 a la Corte Suprema Ver
+02 de Jul. de 2013 36ª / 361 Primer trámite constitucional / Senado Cuenta oficio Nº 79-2013 de la Corte Suprema Ver
+27 de Ago. de 2013   Primer trámite constitucional / Senado Primer informe de comisión Ver
+27 de Ago. de 2013 49ª / 361 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+21 de Ene. de 2014 87ª / 361 Primer trámite constitucional / Senado Discusión general. Aprobado en general . Se fija como plazo para presentar indicaciones el 10/03/2014 Ver
+10 de Mar. de 2014   Primer trámite constitucional / Senado Boletín de indicaciones
+01 de Abr. de 2014 4ª / 362 Primer trámite constitucional / Senado Cuenta del Mensaje 18-362 que hace presente la urgencia Suma
+08 de Abr. de 2014   Primer trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 14/04/2014 a las 12:00 en la Secretaría de la Comisión de Derechos Humanos, Nacionalidad y Ciudadanía
+14 de Abr. de 2014   Primer trámite constitucional / Senado Boletín de indicaciones
+15 de Abr. de 2014 8ª / 362 Primer trámite constitucional / Senado Cuenta del Mensaje 48-362 que retira y hace presente la urgencia Suma
+01 de Jul. de 2014 27ª / 362 Primer trámite constitucional / Senado Cuenta del Mensaje 231-362 que retira y hace presente la urgencia Simple
+23 de Jul. de 2014 34ª / 362 Primer trámite constitucional / Senado Cuenta del Mensaje 313-362 que retira y hace presente la urgencia Simple
+15 de Oct. de 2014   Primer trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 03/11/2014 a las 12:00 en la Secretaría de la Comisión de Derechos Humanos, Nacionalidad y Ciudadanía
+03 de Nov. de 2014   Primer trámite constitucional / Senado Boletín de indicaciones
+04 de Nov. de 2014   Primer trámite constitucional / Senado Nuevo plazo para indicaciones Se amplía plazo para presentar indicaciones hasta el 17/11/2014 a las 12:00 en la Secretaría de la Comisión de Derechos Humanos, Nacionalidad y Ciudadanía","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8924-07","Fecha Etapa Informe Documento
+27 de Ago. de 2013 Primer trámite constitucional Senado Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8924-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+23 de Jul. de 2014   Simple 313-362  
+01 de Jul. de 2014 23 de Jul. de 2014 Simple 231-362 313-362
+15 de Abr. de 2014 01 de Jul. de 2014 Suma 48-362 231-362
+01 de Abr. de 2014 15 de Abr. de 2014 Suma 18-362 48-362","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8924-07","Nombre
+Camilo Escalona Medina
+Ricardo Lagos Weber
+Juan Pablo Letelier Morel
+Lily Pérez San Martín
+Ximena Rincón González","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8924-07","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8924-07","No record","Veto emmEnd"

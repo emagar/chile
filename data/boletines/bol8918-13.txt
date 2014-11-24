@@ -1,0 +1,46 @@
+* * Bill summary * *
+"emmStart Summary 8918-13","Legislatura: 361
+Fecha de ingreso: martes 07 de mayo de 2013
+Estado: Segundo trámite constitucional .
+Numero de boletín: 8918-13
+Materia: Dia Nacional De Las Trabajadoras Temporeras (26 De Agosto)
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 22:26:13
+* * Hitos de tramitación * *
+"emmStart Hitos 8918-13","Fecha Sesión Etapa Sub-etapa Documento
+07 de May. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+07 de May. de 2013 21ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Trabajo y Seguridad Social Ver
+18 de Jun. de 2013   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+02 de Jul. de 2013 42ª / 361 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+04 de Jul. de 2013 44ª / 361 Primer trámite constitucional / C. Diputados Discusión general. Queda pendiente Ver
+11 de Jul. de 2013 47ª / 361 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general y particular a la vez Ver
+11 de Jul. de 2013   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+17 de Jul. de 2013 41ª / 361 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Trabajo y Previsión Social","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8918-13","Fecha Etapa Informe Documento
+18 de Jun. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión de Trabajo y Seguridad Social Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8918-13","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8918-13","Nombre Región Distrito Partido
+Pedro Pablo Alvarez-Salamanca Ramírez VII Región del Maule N°38 Unión Demócrata Independiente
+Ramón Barros Montero VI Región del Libertador Bernardo O' Higgins N°35 Unión Demócrata Independiente
+Eugenio Bauer Jouanne VI Región del Libertador Bernardo O' Higgins N°33 Unión Demócrata Independiente
+Romilio Gutiérrez Pino VII Región del Maule N°39 Unión Demócrata Independiente
+Javier Hernández Hernández X Región de los Lagos N°55 Unión Demócrata Independiente
+Issa Farid Kort Garriga VI Región del Libertador Bernardo O' Higgins N°32 Unión Demócrata Independiente
+Javier Macaya Danús VI Región del Libertador Bernardo O' Higgins N°34 Unión Demócrata Independiente
+Celso Morales Muñoz VII Región del Maule N°36 Unión Demócrata Independiente
+David Sandoval Plaza XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Unión Demócrata Independiente
+Ignacio Urrutia Bonilla VII Región del Maule N°40 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8918-13","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+47   50 0 0 70 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8918-13","No record","Veto emmEnd"

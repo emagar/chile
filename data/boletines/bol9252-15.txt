@@ -1,0 +1,40 @@
+* * Bill summary * *
+"emmStart Summary 9252-15","Legislatura: 361
+Fecha de ingreso: martes 28 de enero de 2014
+Estado: Primer trámite constitucional .
+Numero de boletín: 9252-15
+Materia: Sistema De Tratamiento Automatizado De Infracciones De Tránsito
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 11-11-2014 06:34:56
+* * Hitos de tramitación * *
+"emmStart Hitos 9252-15","Fecha Sesión Etapa Sub-etapa Documento
+28 de Ene. de 2014   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+28 de Ene. de 2014 120ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Obras Públicas, Transportes y Telecomunicaciones y a Comisión de Hacienda Ver
+13 de Ago. de 2014 56ª / 362 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 376-362 que hace presente la urgencia Simple Ver
+09 de Sep. de 2014 66ª / 362 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 474-362 que retira y hace presente la urgencia Simple Ver
+07 de Oct. de 2014 76ª / 362 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 605-362 que hace presente la urgencia Simple Ver
+04 de Nov. de 2014 86ª / 362 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 746-362 que hace presente la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9252-15","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9252-15","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Nov. de 2014   Simple 746-362  
+07 de Oct. de 2014   Simple 605-362  
+09 de Sep. de 2014   Simple 474-362  
+13 de Ago. de 2014 09 de Sep. de 2014 Simple 376-362 474-362","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9252-15","Nombre Región Distrito Partido
+Ministerio de Hacienda      
+Ministerio de Interior y Seguridad Públi      
+Ministerio de Justicia      
+Ministerio de Transporte y Telecomunicaciones      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9252-15","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9252-15","No record","Veto emmEnd"

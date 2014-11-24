@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 8934-07","Legislatura: 361
+Fecha de ingreso: martes 14 de mayo de 2013
+Estado: Primer trámite constitucional .
+Numero de boletín: 8934-07
+Materia: Circunstancias Agravantes ,Robo En Lugar Habilitado
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 22:37:51
+* * Hitos de tramitación * *
+"emmStart Hitos 8934-07","Fecha Sesión Etapa Sub-etapa Documento
+14 de May. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+14 de May. de 2013 26ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+16 de May. de 2013 29ª / 361 Primer trámite constitucional / C. Diputados Cuenta, Oficio de la Comisión de Seguridad Ciudadana y Drogas, por el cual solicita el acuerdo de la Sala, para que le sea remitido el proyecto para su informe y posteriormente devolverlo a la Comisión de Constitución, Legislación y Justicia para los mismos fines. ACORDADO Ver
+06 de Sep. de 2013   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+09 de Abr. de 2014   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+15 de Abr. de 2014 12ª / 362 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+24 de Abr. de 2014 19ª / 362 Primer trámite constitucional / C. Diputados Discusión general. Queda pendiente Ver
+06 de May. de 2014 20ª / 362 Primer trámite constitucional / C. Diputados Discusión general. Queda pendiente. Ver
+08 de May. de 2014 22ª / 362 Primer trámite constitucional / C. Diputados Discusión general. Rechazado Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8934-07","Fecha Etapa Informe Documento
+09 de Abr. de 2014 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver
+09 de Sep. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión de Seguridad Ciudadana y Drogas Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8934-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8934-07","Nombre Región Distrito Partido
+Gonzalo Arenas Hödar IX Región de la Araucanía N°48 Unión Demócrata Independiente
+Ramón Barros Montero VI Región del Libertador Bernardo O' Higgins N°35 Unión Demócrata Independiente
+Javier Hernández Hernández X Región de los Lagos N°55 Unión Demócrata Independiente
+María José Hoffmann Opazo V Región de Valparaíso N°15 Unión Demócrata Independiente
+Cristian Letelier Aguilar RM Región Metropolitana N°31 Independientes
+Javier Macaya Danús VI Región del Libertador Bernardo O' Higgins N°34 Unión Demócrata Independiente
+Ernesto Silva Méndez RM Región Metropolitana N°23 Unión Demócrata Independiente
+Arturo Squella Ovalle V Región de Valparaíso N°12 Unión Demócrata Independiente
+Marisol Turres Figueroa X Región de los Lagos N°57 Unión Demócrata Independiente
+Felipe Ward Edwards II Región de Antofagasta N°3 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8934-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+109 Votación General 6 0 0 7   Seguridad y Drogas Ver detalle votación
+22   40 43 2 0 Rechazado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8934-07","No record","Veto emmEnd"

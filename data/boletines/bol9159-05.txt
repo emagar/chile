@@ -1,0 +1,54 @@
+* * Bill summary * *
+"emmStart Summary 9159-05","Legislatura: 361
+Fecha de ingreso: martes 19 de noviembre de 2013
+Estado: Tramitación terminada (Ley Nº 20.723 - D.Oficial 30/01/2014)
+Numero de boletín: 9159-05
+Materia: Asignación De Modernización A La Administración Pública,Asignación De Mejoramiento De La Gestión Municipal
+Iniciativa: Mensaje
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 11-11-2014 01:18:02
+* * Hitos de tramitación * *
+"emmStart Hitos 9159-05","Fecha Sesión Etapa Sub-etapa Documento
+19 de Nov. de 2013   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+19 de Nov. de 2013 70ª / 361 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+19 de Nov. de 2013 70ª / 361 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+19 de Nov. de 2013 70ª / 361 Primer trámite constitucional / Senado La Sala autoriza a la Comisión para discutir el proyecto en general y en particular durante el primer informe.
+19 de Nov. de 2013 70ª / 361 Primer trámite constitucional / Senado La Sala autoriza a la Comisión para discutir el proyecto en general y en particular durante el primer informe.
+19 de Nov. de 2013   Primer trámite constitucional / Senado Primer informe de comisión Ver
+20 de Nov. de 2013 71ª / 361 Primer trámite constitucional / Senado Cuenta de Primer Informe de Comisión.
+20 de Nov. de 2013 71ª / 361 Primer trámite constitucional / Senado Cuenta de Primer Informe de Comisión.
+20 de Nov. de 2013 71ª / 361 Primer trámite constitucional / Senado Discusión general Ver
+20 de Nov. de 2013 71ª / 361 Primer trámite constitucional / Senado Discusión general Ver
+20 de Nov. de 2013   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+21 de Nov. de 2013 89ª / 361 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Hacienda Ver
+29 de Nov. de 2013   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+03 de Dic. de 2013 97ª / 361 Segundo trámite constitucional / C. Diputados Cuenta. Informe de la Comisión de Hacienda recaído en el proyecto. Ver
+03 de Dic. de 2013   Segundo trámite constitucional / C. Diputados Discusión general
+03 de Dic. de 2013   Segundo trámite constitucional / C. Diputados Oficio N°11.029. Oficio al Senado. Ver
+03 de Dic. de 2013 76ª / 361 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+03 de Dic. de 2013   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver
+10 de Dic. de 2013   Trámite de aprobacion presidencial / Senado Oficio N° 947/SEC/13 al Tribunal Constitucional Ver
+07 de Ene. de 2014 83ª / 361 Trámite de aprobacion presidencial / Senado Cuenta oficio N° 9252 del Tribunal Constitucional Ver
+07 de Ene. de 2014   Trámite en Tribunal Constitucional / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9159-05","Fecha Etapa Informe Documento
+29 de Nov. de 2013 Segundo trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+20 de Nov. de 2013 Primer trámite constitucional Senado Primer informe de comisión de Hacienda Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9159-05","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9159-05","Nombre
+Ministerio de Hacienda
+Ministerio de Interior y Seguridad Públi","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9159-05","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+97   86 0 0 34 Aprobado Sala Ver detalle votación
+97 Artículo único permanente y cuarto transitorio 85 0 0 35 Aprobado Sala Ver detalle votación
+97 Artículos primero, segundo, tercero, quinto y sexto transitorios 83 0 1 36 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9159-05","No record","Veto emmEnd"

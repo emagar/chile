@@ -1,0 +1,31 @@
+* * Bill summary * *
+"emmStart Summary 9010-06","Legislatura: 361
+Fecha de ingreso: martes 02 de julio de 2013
+Estado: Primer trámite constitucional .
+Numero de boletín: 9010-06
+Materia: Feriado Región De Los Lagos (24 De Junio)
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 23:32:23
+* * Hitos de tramitación * *
+"emmStart Hitos 9010-06","Fecha Sesión Etapa Sub-etapa Documento
+02 de Jul. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+02 de Jul. de 2013 42ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior y Regionalización Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9010-06","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9010-06","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9010-06","Nombre Región Distrito Partido
+Gabriel Ascencio Mansilla X Región de los Lagos N°58 Partido Demócrata Cristiano
+Sergio Ojeda Uribe X Región de los Lagos N°55 Partido Demócrata Cristiano
+Patricio Vallespín López X Región de los Lagos N°57 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9010-06","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9010-06","No record","Veto emmEnd"

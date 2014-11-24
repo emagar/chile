@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 9047-21","Legislatura: 361
+Fecha de ingreso: jueves 01 de agosto de 2013
+Estado: Segundo trámite constitucional .
+Numero de boletín: 9047-21
+Materia: Centros De Acopio
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 23:58:23
+* * Hitos de tramitación * *
+"emmStart Hitos 9047-21","Fecha Sesión Etapa Sub-etapa Documento
+01 de Ago. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+01 de Ago. de 2013 52ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Pesca, Acuicultura e Intereses Marítimos Ver
+26 de Dic. de 2013   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+07 de Ene. de 2014 108ª / 361 Primer trámite constitucional / C. Diputados Cuenta. Informe de la Comisión de Pesca, Acuicultura e Intereses Marítimos recaído en el proyecto. Ver
+13 de Mar. de 2014 2ª / 362 Primer trámite constitucional / C. Diputados Discusión única. Aprobado Ver
+13 de Mar. de 2014   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+18 de Mar. de 2014 2ª / 362 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Intereses Marítimos, Pesca y Acuicultura","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9047-21","Fecha Etapa Informe Documento
+08 de Ene. de 2014 Primer trámite constitucional C.Diputados Primer informe de comisión de Pesca, Acuicultura e Intereses Marítimos Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9047-21","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9047-21","Nombre Región Distrito Partido
+Cristián Campos Jara VIII Región del Bío Bío N°43 Partido Por la Democracia
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Patricio Melero Abaroa RM Región Metropolitana N°16 Unión Demócrata Independiente
+Carlos Recondo Lavanderos X Región de los Lagos N°56 Unión Demócrata Independiente
+Alejandro Santana Tirachini X Región de los Lagos N°58 Renovación Nacional
+Jorge Ulloa Aguillón VIII Región del Bío Bío N°43 Unión Demócrata Independiente
+Patricio Vallespín López X Región de los Lagos N°57 Partido Demócrata Cristiano
+Orlando Vargas Pizarro XV Región Arica y Parinacota N°1 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9047-21","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+2   97 0 1 22 Aprobado Sala Ver detalle votación
+2   97 0 3 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9047-21","No record","Veto emmEnd"

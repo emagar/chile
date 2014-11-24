@@ -1,0 +1,58 @@
+* * Bill summary * *
+"emmStart Summary 9096-10","Legislatura: 361
+Fecha de ingreso: martes 10 de septiembre de 2013
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 9096-10
+Materia: Tratado De Libre Comercio Chile-Hong Kong (7 De Septiembre 2012: Vladivostok)
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 11-11-2014 00:34:39
+* * Hitos de tramitación * *
+"emmStart Hitos 9096-10","Fecha Sesión Etapa Sub-etapa Documento
+10 de Sep. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+11 de Sep. de 2013 73ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana y a Comisión de Hacienda Ver
+08 de Oct. de 2013 80ª / 361 Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver Ver
+19 de Nov. de 2013 87ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 337-361 que hace presente la urgencia Suma Ver
+03 de Dic. de 2013 97ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 357-361 que hace presente la urgencia Suma Ver
+17 de Dic. de 2013 104ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 391-361 que hace presente la urgencia Suma Ver
+07 de Ene. de 2014 108ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 404-361 que hace presente la urgencia Suma Ver
+28 de Ene. de 2014   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+04 de Mar. de 2014 121ª / 361 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+09 de Abr. de 2014 10ª / 362 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general y particular a la vez Ver
+09 de Abr. de 2014   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+15 de Abr. de 2014 8ª / 362 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Relaciones Exteriores y a Comisión de Hacienda
+07 de May. de 2014   Segundo trámite constitucional / Senado Primer informe de comisión. Pasa a Comisión de Hacienda Ver
+11 de Jun. de 2014   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+11 de Jun. de 2014 24ª / 362 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+11 de Jun. de 2014 24ª / 362 Segundo trámite constitucional / Senado Discusión general Ver
+11 de Jun. de 2014   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+12 de Jun. de 2014 34ª / 362 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+12 de Jun. de 2014 34ª / 362 Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo. Para promulgación. Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9096-10","Fecha Etapa Informe Documento
+11 de Jun. de 2014 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+07 de May. de 2014 Segundo trámite constitucional Senado Primer informe de comisión de Relaciones Exteriores Ver
+28 de Ene. de 2014 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+08 de Oct. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión de Relaciones Exteriores, Asuntos Interparlamentarios e Integración Latinoamericana Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9096-10","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+07 de Ene. de 2014   Suma 404-361  
+17 de Dic. de 2013   Suma 391-361  
+03 de Dic. de 2013   Suma 357-361  
+19 de Nov. de 2013   Suma 337-361  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9096-10","Nombre Región Distrito Partido
+Ministerio de Agricultura      
+Ministerio de Economía, Fomento y Turism      
+Ministerio de Hacienda      
+Ministerio de Relaciones Exteriores      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9096-10","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+10   89 2 4 1 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9096-10","No record","Veto emmEnd"

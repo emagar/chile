@@ -1,0 +1,31 @@
+* * Bill summary * *
+"emmStart Summary 9236-03","Legislatura: 361
+Fecha de ingreso: miércoles 15 de enero de 2014
+Estado: Primer trámite constitucional .
+Numero de boletín: 9236-03
+Materia: Inversiones
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 11-11-2014 02:10:12
+* * Hitos de tramitación * *
+"emmStart Hitos 9236-03","Fecha Sesión Etapa Sub-etapa Documento
+15 de Ene. de 2014   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+15 de Ene. de 2014 113ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Economía, Fomento y Desarrollo y a Comisión de Hacienda Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9236-03","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9236-03","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9236-03","Nombre Región Distrito Partido
+Ministerio de Defensa Nacional      
+Ministerio de Hacienda      
+Ministerio Secretaría General de la Presidencia      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9236-03","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9236-03","No record","Veto emmEnd"

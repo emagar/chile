@@ -1,0 +1,52 @@
+* * Bill summary * *
+"emmStart Summary 8889-06","Legislatura: 361
+Fecha de ingreso: miércoles 10 de abril de 2013
+Estado: Tramitación terminada (Ley Nº 20.768 - D.Oficial 19/08/2014)
+Numero de boletín: 8889-06
+Materia: Feriado Chillán Viejo (20 De Agosto),Comuna De Chillan Viejo
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 22:05:29
+* * Hitos de tramitación * *
+"emmStart Hitos 8889-06","Fecha Sesión Etapa Sub-etapa Documento
+10 de Abr. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Abr. de 2013 13ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior y Regionalización Ver
+19 de Jun. de 2013   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+20 de Jun. de 2013 41ª / 361 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+04 de Jul. de 2013 44ª / 361 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general y particular a la vez Ver
+04 de Jul. de 2013   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+09 de Jul. de 2013 39ª / 361 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Gobierno, Descentralización y Regionalización
+05 de Ago. de 2014 35ª / 362 Segundo trámite constitucional / Senado Cuenta del Mensaje 350-362 que hace presente la urgencia Discusión inmediata
+05 de Ago. de 2014 35ª / 362 Segundo trámite constitucional / Senado Por acuerdo de los Comités, se exime el proyecto del trámite de Informe de Comisión.
+06 de Ago. de 2014 36ª / 362 Segundo trámite constitucional / Senado Discusión general Ver
+06 de Ago. de 2014   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+07 de Ago. de 2014 53ª / 362 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+07 de Ago. de 2014   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8889-06","Fecha Etapa Informe Documento
+19 de Jun. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión de Gobierno Interior Nacionalidad Ciudadanía y Regionalización Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8889-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+05 de Ago. de 2014   Discusión inmediata 350-362  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8889-06","Nombre Región Distrito Partido
+Pedro Araya Guerrero II Región de Antofagasta N°4 Partido Regionalista Independiente
+Sergio Bobadilla Muñoz VIII Región del Bío Bío N°45 Unión Demócrata Independiente
+Eduardo Cerda García V Región de Valparaíso N°10 Partido Demócrata Cristiano
+Alfonso De Urresti Longton XIV Región de los Ríos N°53 Partido Socialista
+Felipe Harboe Bascuñán RM Región Metropolitana N°22 Partido Por la Democracia
+Carlos Abel Jarpa Wevar VIII Región del Bío Bío N°41 Partido Radical Social Demócrata
+Rosauro Martínez Labbé VIII Región del Bío Bío N°41 Renovación Nacional
+José Miguel Ortiz Novoa VIII Región del Bío Bío N°44 Partido Demócrata Cristiano
+Karla Rubilar Barahona RM Región Metropolitana N°17 Renovación Nacional
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Partido Regionalista Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8889-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+44   53 0 1 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8889-06","No record","Veto emmEnd"

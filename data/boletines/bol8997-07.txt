@@ -1,0 +1,67 @@
+* * Bill summary * *
+"emmStart Summary 8997-07","Legislatura: 361
+Fecha de ingreso: miércoles 19 de junio de 2013
+Estado: Tramitación terminada (Ley Nº 20.710 - D.Oficial 11/12/2013)
+Numero de boletín: 8997-07
+Materia: Educación Preescolar,Constitucion 1980,Sistema De Financiamiento Gratuito En Educacion Preescolar
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 23:24:01
+* * Hitos de tramitación * *
+"emmStart Hitos 8997-07","Fecha Sesión Etapa Sub-etapa Documento
+19 de Jun. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+19 de Jun. de 2013 40ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación y Justicia Ver
+09 de Jul. de 2013 45ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 178-361 que hace presente la urgencia Suma Ver
+17 de Jul. de 2013   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+17 de Jul. de 2013 48ª / 361 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+17 de Jul. de 2013 48ª / 361 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general y particular a la vez Ver
+17 de Jul. de 2013   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+30 de Jul. de 2013 42ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 203-361 que retira y hace presente la urgencia Suma
+30 de Jul. de 2013 42ª / 361 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Constitución, Legislación, Justicia y Reglamento
+14 de Ago. de 2013 48ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 228-361 que retira y hace presente la urgencia Suma
+28 de Ago. de 2013 50ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 245-361 que retira y hace presente la urgencia Suma
+11 de Sep. de 2013 56ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 266-361 que retira y hace presente la urgencia Suma
+01 de Oct. de 2013 58ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 279-361 que retira y hace presente la urgencia Suma
+01 de Oct. de 2013   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+01 de Oct. de 2013   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+08 de Oct. de 2013 60ª / 361 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+16 de Oct. de 2013 64ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 310-361 que retira y hace presente la urgencia Suma Ver
+30 de Oct. de 2013 66ª / 361 Segundo trámite constitucional / Senado Cuenta del Mensaje 328-361 que retira y hace presente la urgencia Discusión inmediata Ver
+05 de Nov. de 2013 68ª / 361 Segundo trámite constitucional / Senado Discusión general Ver
+05 de Nov. de 2013   Segundo trámite constitucional / Senado Oficio modificaciones a Cámara de Origen Ver
+19 de Nov. de 2013 87ª / 361 Tercer trámite constitucional / C. Diputados Cuenta del Mensaje 335-361 que hace presente la urgencia Discusión inmediata Ver
+19 de Nov. de 2013 87ª / 361 Tercer trámite constitucional / C. Diputados Cuenta oficio con modificaciones de Cámara Revisora Ver
+20 de Nov. de 2013 88ª / 361 Tercer trámite constitucional / C. Diputados Discusión única. Aprobadas las modificaciones Ver
+20 de Nov. de 2013   Tercer trámite constitucional / C. Diputados Oficio N° 10.982, que comunica aprobacion de modificaciones Ver
+20 de Nov. de 2013 88ª / 361 Tercer trámite constitucional / C. Diputados Oficio de ley al Ejecutivo Ver Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8997-07","Fecha Etapa Informe Documento
+02 de Oct. de 2013 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+01 de Oct. de 2013 Segundo trámite constitucional Senado Primer informe de comisión de Constitución, Legislación, Justicia y Reglamento Ver
+17 de Jul. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión de Constitución, Legislación y Justicia Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8997-07","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+19 de Nov. de 2013   Discusión inmediata 335-361  
+30 de Oct. de 2013   Discusión inmediata 328-361  
+16 de Oct. de 2013 30 de Oct. de 2013 Suma 310-361 328-361
+01 de Oct. de 2013 16 de Oct. de 2013 Suma 279-361 310-361
+11 de Sep. de 2013 01 de Oct. de 2013 Suma 266-361 279-361
+28 de Ago. de 2013 11 de Sep. de 2013 Suma 245-361 266-361
+14 de Ago. de 2013 28 de Ago. de 2013 Suma 228-361 245-361
+30 de Jul. de 2013 14 de Ago. de 2013 Suma 203-361 228-361
+09 de Jul. de 2013 30 de Jul. de 2013 Suma 178-361 203-361","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8997-07","Nombre Región Distrito Partido
+Ministerio de Educación      
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8997-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+88   84 0 0 36 Aprobado Sala Ver detalle votación
+48   101 0 0 1 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8997-07","No record","Veto emmEnd"

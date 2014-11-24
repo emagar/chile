@@ -1,0 +1,44 @@
+* * Bill summary * *
+"emmStart Summary 9103-24","Legislatura: 361
+Fecha de ingreso: jueves 12 de septiembre de 2013
+Estado: Segundo trámite constitucional .
+Numero de boletín: 9103-24
+Materia: Patrimonio Cultural,Fiesta De La Tirana
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 11-11-2014 00:39:10
+* * Hitos de tramitación * *
+"emmStart Hitos 9103-24","Fecha Sesión Etapa Sub-etapa Documento
+12 de Sep. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+12 de Sep. de 2013 74ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de la Cultura y las Artes Ver
+04 de Dic. de 2013   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+04 de Dic. de 2013   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+10 de Dic. de 2013 101ª / 361 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+10 de Dic. de 2013 101ª / 361 Primer trámite constitucional / C. Diputados Cuenta. Informe de la Comisión de Cultura y de las Artes recaído en el proyecto. Ver
+12 de Dic. de 2013 103ª / 361 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general y particular a la vez Ver
+12 de Dic. de 2013   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+17 de Dic. de 2013 80ª / 361 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9103-24","Fecha Etapa Informe Documento
+04 de Dic. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión de la Cultura y las Artes Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9103-24","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9103-24","Nombre Región Distrito Partido
+Pedro Araya Guerrero II Región de Antofagasta N°4 Partido Regionalista Independiente
+Roberto Delmastro Naso XIV Región de los Ríos N°53 Independientes
+Marta Isasi Barbieri I Región de Tarapacá N°2 Independientes
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Partido Regionalista Independiente
+Víctor Torres Jeldes V Región de Valparaíso N°15 Partido Demócrata Cristiano
+Orlando Vargas Pizarro XV Región Arica y Parinacota N°1 Partido Por la Democracia
+Felipe Ward Edwards II Región de Antofagasta N°3 Unión Demócrata Independiente","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9103-24","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+103   47 0 2 71 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9103-24","No record","Veto emmEnd"

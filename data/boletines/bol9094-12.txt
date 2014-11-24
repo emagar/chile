@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 9094-12","Legislatura: 361
+Fecha de ingreso: martes 10 de septiembre de 2013
+Estado: Primer trámite constitucional .
+Numero de boletín: 9094-12
+Materia: Gestion De Residuos,Responsabilidad Del Productor
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 11-11-2014 00:33:21
+* * Hitos de tramitación * *
+"emmStart Hitos 9094-12","Fecha Sesión Etapa Sub-etapa Documento
+10 de Sep. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Sep. de 2013 72ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente y a Comisión de Hacienda. Se remite el proyecto a la Corte Suprema. Ver
+10 de Sep. de 2013   Primer trámite constitucional / C. Diputados Oficio N°10.921 a la Corte Suprema Ver
+14 de Jul. de 2014 46ª / 362 Primer trámite constitucional / C. Diputados Cuenta oficio N° 279-362, de S.E. la Presidenta de la República, mediante el cual formula indicaciones al proyecto. Ver Ver
+05 de Ago. de 2014 51ª / 362 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 335-362 que hace presente la urgencia Simple Ver
+12 de Ago. de 2014 54ª / 362 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 362-362 que retira la urgencia Simple Ver
+02 de Sep. de 2014 63ª / 362 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 437-362 que hace presente la urgencia Simple Ver
+04 de Sep. de 2014 65ª / 362 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 456-362 que retira la urgencia Simple Ver
+14 de Oct. de 2014   Primer trámite constitucional / C. Diputados Cuenta oficio N° 638-362 de S. E. la Presidenta de la República por el cual retira y formula indicaciones al proyecto. Ver
+14 de Oct. de 2014 80ª / 362 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 643-2362 que hace presente la urgencia Simple Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9094-12","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9094-12","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+14 de Oct. de 2014   Simple 643-2362  
+02 de Sep. de 2014 04 de Sep. de 2014 Simple 437-362 456-362
+05 de Ago. de 2014 12 de Ago. de 2014 Simple 335-362 362-362","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9094-12","Nombre Región Distrito Partido
+Ministerio de Hacienda      
+Ministerio de Salud      
+Ministerio del Medio Ambiente      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9094-12","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+147 Votación General 8 0 0 5   Recursos Naturales Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9094-12","No record","Veto emmEnd"

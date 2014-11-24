@@ -1,0 +1,39 @@
+* * Bill summary * *
+"emmStart Summary 9057-04","Legislatura: 361
+Fecha de ingreso: miércoles 07 de agosto de 2013
+Estado: Primer trámite constitucional .
+Numero de boletín: 9057-04
+Materia: Deporte Nacional,Pueblos Originarios,Juegos Deportivos Ancestrales
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 11-11-2014 00:06:11
+* * Hitos de tramitación * *
+"emmStart Hitos 9057-04","Fecha Sesión Etapa Sub-etapa Documento
+07 de Ago. de 2013   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+07 de Ago. de 2013 46ª / 361 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Educación, Cultura, Ciencia y Tecnología
+09 de Sep. de 2014 45ª / 362 Primer trámite constitucional / Senado Cuenta del Mensaje 416-362 que hace presente la urgencia Simple
+07 de Oct. de 2014 52ª / 362 Primer trámite constitucional / Senado Cuenta del Mensaje 629-362 que retira y hace presente la urgencia Simple
+04 de Nov. de 2014 60ª / 362 Primer trámite constitucional / Senado Cuenta del Mensaje 763-362 que retira y hace presente la urgencia Simple","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9057-04","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9057-04","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+04 de Nov. de 2014   Simple 763-362  
+07 de Oct. de 2014 04 de Nov. de 2014 Simple 629-362 763-362
+09 de Sep. de 2014 07 de Oct. de 2014 Simple 416-362 629-362","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9057-04","Nombre
+Francisco Chahuán Chahuán
+Antonio Horvath Kiss
+Jaime Orpis Bouchon
+Jorge Pizarro Soto
+Eugenio Tuma Zedán","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9057-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9057-04","No record","Veto emmEnd"

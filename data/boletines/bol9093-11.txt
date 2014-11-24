@@ -1,0 +1,33 @@
+* * Bill summary * *
+"emmStart Summary 9093-11","Legislatura: 361
+Fecha de ingreso: martes 10 de septiembre de 2013
+Estado: Primer trámite constitucional .
+Numero de boletín: 9093-11
+Materia: Anomalía Fetal Severa,Diagnóstico Durante Gestación
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 11-11-2014 00:32:33
+* * Hitos de tramitación * *
+"emmStart Hitos 9093-11","Fecha Sesión Etapa Sub-etapa Documento
+10 de Sep. de 2013   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+10 de Sep. de 2013 55ª / 361 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Salud","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9093-11","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9093-11","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9093-11","Nombre
+Francisco Chahuán Chahuán
+Carlos Larrain Peña
+Fulvio Rossi Ciocca
+Mariano Ruiz-Esquide Jara
+Gonzalo Uriarte Herrera","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9093-11","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9093-11","No record","Veto emmEnd"

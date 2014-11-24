@@ -1,0 +1,58 @@
+* * Bill summary * *
+"emmStart Summary 8970-06","Legislatura: 361
+Fecha de ingreso: martes 04 de junio de 2013
+Estado: Primer trámite constitucional .
+Numero de boletín: 8970-06
+Materia: Migraciones
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 10-11-2014 23:03:47
+* * Hitos de tramitación * *
+"emmStart Hitos 8970-06","Fecha Sesión Etapa Sub-etapa Documento
+04 de Jun. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Jun. de 2013 32ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Gobierno Interior y Regionalización y a Comisión de Hacienda Ver
+11 de Jun. de 2013 36ª / 361 Primer trámite constitucional / C. Diputados Cuenta, Oficio de la Comisión de Zonas Extremas, por el cual solicita el acuerdo de la Sala, para que le sea remitido el proyecto, actualmente radicado en la Comisión de Gobierno Interior y Regionalización, una vez que esta Comisión lo despache. Acordado Ver
+10 de Jul. de 2013 46ª / 361 Primer trámite constitucional / C. Diputados Cuenta oficio N° 99-2013 de la Corte Suprema Ver Ver
+17 de Jul. de 2013 48ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 195-361 que hace presente la urgencia Simple Ver
+14 de Ago. de 2013 60ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 225-361 que hace presente la urgencia Simple Ver
+27 de Ago. de 2013 63ª / 361 Primer trámite constitucional / C. Diputados Cuenta. Oficio de la Comisión de Relaciones Exteriores, por el cual solicita el acuerdo de la Sala, para que le sea remitido el proyecto, actualmente en la Comisión de Gobierno Interior y Regionalización. Rechazado. Ver
+12 de Sep. de 2013 74ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 271-361 que hace presente la urgencia Simple Ver
+19 de Nov. de 2013 87ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 239-361 que hace presente la urgencia Simple Ver
+17 de Dic. de 2013 104ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 390-361 que hace presente la urgencia Simple Ver
+14 de Ene. de 2014 112ª / 361 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 426-361 que hace presente la urgencia Simple Ver
+10 de Jul. de 2014 45ª / 362 Primer trámite constitucional / C. Diputados Cuenta oficio de la Comisión de Derechos Humanos y Pueblos Originarios, por el cual solicita el asentimiento de la Sala con el objeto de que le sea remitido el proyecto. SE ACORDÓ REMITIR A DICHA COMISIÓN EL PROYECTO, UNA VEZ QUE SEA INFORMADO POR LAS COMISIONES DE GOBIERNO INTERIOR, NACIONALIDAD, CIUDADANÍA Y REGIONALIZACIÓN, Y DE ZONAS EXTREMAS Y ANTÁRTICA CHILENA. Ver
+24 de Jul. de 2014 50ª / 362 Primer trámite constitucional / C. Diputados Cuenta oficio de la Comisión de Derechos Humanos y Pueblos Originarios, por el cual solicita a la Sala rectificar el acuerdo anterior y disponer que le sea remitido el proyecto para que lo informe como comisión matriz y no luego de cumplir trámites sucesivos en las Comisiones a que se refiere tal acuerdo. PENDIENTE. Ver
+05 de Ago. de 2014 51ª / 362 Primer trámite constitucional / C. Diputados Se rechaza la solicitud de la Comisión en orden a que se le remita el proyecto en calidad de comisión matriz Ver
+25 de Sep. de 2014 72ª / 362 Primer trámite constitucional / C. Diputados Cuenta, oficio de la Comisión de Derechos Humanos y Pueblos Originarios, por el cual solicita el asentimiento de la Sala para que le sea remitido el proyecto para efecto de informarlo en calidad de comisión matriz. NO HUBO ACUERDO. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8970-06","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8970-06","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+14 de Ene. de 2014   Simple 426-361  
+17 de Dic. de 2013   Simple 390-361  
+19 de Nov. de 2013   Simple 239-361  
+12 de Sep. de 2013   Simple 271-361  
+14 de Ago. de 2013   Simple 225-361  
+17 de Jul. de 2013   Simple 195-361  ","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8970-06","Nombre Región Distrito Partido
+Ministerio de Defensa Nacional      
+Ministerio de Desarrollo Social      
+Ministerio de Economía, Fomento y Turism      
+Ministerio de Educación      
+Ministerio de Hacienda      
+Ministerio de Interior y Seguridad Públi      
+Ministerio de Justicia      
+Ministerio de Relaciones Exteriores      
+Ministerio de Salud      
+Ministerio de Trabajo y Previsión Social      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8970-06","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+154 Votación General 4 0 0 9   Gobierno Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8970-06","No record","Veto emmEnd"

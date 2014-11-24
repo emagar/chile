@@ -1,0 +1,60 @@
+* * Bill summary * *
+"emmStart Summary 9133-12","Legislatura: 361
+Fecha de ingreso: jueves 10 de octubre de 2013
+Estado: Segundo trámite constitucional .
+Numero de boletín: 9133-12
+Materia: Polímeros Artificales No Biodegradables,Patagonia Chilena
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 11-11-2014 00:59:28
+* * Hitos de tramitación * *
+"emmStart Hitos 9133-12","Fecha Sesión Etapa Sub-etapa Documento
+10 de Oct. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Oct. de 2013 82ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Recursos Naturales, Bienes Nacionales y Medio Ambiente Ver
+28 de Nov. de 2013 95ª / 361 Primer trámite constitucional / C. Diputados Cuenta, Oficio de la Comisión Zonas Extremas, por el cual solicita el acuerdo de la Sala, para que le sea remitido el proyecto única y exclusivamente a esta Comisión para su informe. ACORDADO. Ver
+22 de Ene. de 2014   Primer trámite constitucional / C. Diputados Cuenta. Informe de la Comisión de Zonas Extremas recaído en el proyecto.
+22 de Ene. de 2014   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+22 de Ene. de 2014   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+28 de Ene. de 2014 120ª / 361 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+08 de Abr. de 2014 9ª / 362 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general . Pasa a segundo informe de la Comisión de Zonas Extremas y Antártica Chilena. Ver
+08 de Abr. de 2014   Primer trámite constitucional / C. Diputados Segundo informe de comisión Ver
+08 de Abr. de 2014   Primer trámite constitucional / C. Diputados Boletín de indicaciones
+15 de Abr. de 2014 12ª / 362 Primer trámite constitucional / C. Diputados Cuenta de segundo informe de comisión Ver
+24 de Abr. de 2014 19ª / 362 Primer trámite constitucional / C. Diputados Discusión particular. Se solicita nuevo informe . Ver
+24 de Abr. de 2014   Primer trámite constitucional / C. Diputados Oficio N°11.254. Remite proyecto, para nuevo segundo informe, a la Comisión de Zonas Extremas y Antártica Chilena. Ver
+07 de May. de 2014   Primer trámite constitucional / C. Diputados Nuevo segundo informe de comisión Ver
+14 de May. de 2014 24ª / 362 Primer trámite constitucional / C. Diputados Cuenta nuevo segundo informe Ver
+05 de Jun. de 2014 30ª / 362 Primer trámite constitucional / C. Diputados Discusión particular. Aprobado . Ver
+05 de Jun. de 2014   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+10 de Jun. de 2014 23ª / 362 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Medio Ambiente y Bienes Nacionales
+22 de Jul. de 2014 33ª / 362 Segundo trámite constitucional / Senado La Sala acuerda que el proyecto sea considerado por la Comisión de Zonas Extremas y no por la de Medio Ambiente y Bienes Nacionales.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9133-12","Fecha Etapa Informe Documento
+07 de May. de 2014 Primer trámite constitucional C.Diputados Nuevo segundo informe de comisión Zonas Extremas Ver
+08 de Abr. de 2014 Primer trámite constitucional C.Diputados Segundo informe de comisión Zonas Extremas Ver
+22 de Ene. de 2014 Primer trámite constitucional C.Diputados Primer informe de comisión Zonas Extremas Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9133-12","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9133-12","Nombre Región Distrito Partido
+Enrique Accorsi Opazo RM Región Metropolitana N°24 Partido Por la Democracia
+Alfonso De Urresti Longton XIV Región de los Ríos N°53 Partido Socialista
+Fidel Espinoza Sandoval X Región de los Lagos N°56 Partido Socialista
+Carolina Goic Boroevic XII Región de Magallanes y de la Antártica Chilena N°60 Partido Demócrata Cristiano
+Karla Rubilar Barahona RM Región Metropolitana N°17 Renovación Nacional
+David Sandoval Plaza XI Región de Aysén del General Carlos Ibáñez del Campo N°59 Unión Demócrata Independiente
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Partido Regionalista Independiente
+Gabriel Silber Romo RM Región Metropolitana N°16 Partido Demócrata Cristiano
+Guillermo Teillier Del Valle RM Región Metropolitana N°28 Partido Comunista
+Patricio Vallespín López X Región de los Lagos N°57 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9133-12","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+30   72 0 1 47 Aprobado Sala Ver detalle votación
+9   108 0 0 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9133-12","No record","Veto emmEnd"

@@ -1,0 +1,43 @@
+* * Bill summary * *
+"emmStart Summary 8894-07","Legislatura: 361
+Fecha de ingreso: lunes 15 de abril de 2013
+Estado: Tramitación terminada (Ley Nº 20.687 - D.Oficial 16/09/2013)
+Numero de boletín: 8894-07
+Materia: Nacionalización
+Iniciativa: Moción
+Cámara de origen: Senado","Summary emmEnd"
+Downloaded 10-11-2014 22:09:05
+* * Hitos de tramitación * *
+"emmStart Hitos 8894-07","Fecha Sesión Etapa Sub-etapa Documento
+15 de Abr. de 2013   Primer trámite constitucional / Senado Ingreso de proyecto Ver
+16 de Abr. de 2013 14ª / 361 Primer trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía
+08 de May. de 2013   Primer trámite constitucional / Senado Primer informe de comisión Ver
+08 de May. de 2013 21ª / 361 Primer trámite constitucional / Senado Cuenta de primer informe de comisión
+22 de May. de 2013 26ª / 361 Primer trámite constitucional / Senado Discusión general Ver
+22 de May. de 2013   Primer trámite constitucional / Senado Oficio de ley a Cámara Revisora Ver
+23 de May. de 2013 31ª / 361 Segundo trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+10 de Jul. de 2013   Segundo trámite constitucional / C. Diputados Primer informe de comisión Ver
+11 de Jul. de 2013 47ª / 361 Segundo trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+01 de Ago. de 2013 52ª / 361 Segundo trámite constitucional / C. Diputados Discusión general Ver
+01 de Ago. de 2013   Segundo trámite constitucional / C. Diputados Oficio aprobación sin modificaciones a Cámara de Origen Ver
+06 de Ago. de 2013 45ª / 361 Trámite finalización en Cámara de Origen / Senado Cuenta oficio aprobación sin modificaciones de C. Revisora
+06 de Ago. de 2013   Trámite finalización en Cámara de Origen / Senado Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 8894-07","Fecha Etapa Informe Documento
+10 de Jul. de 2013 Segundo trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+08 de May. de 2013 Primer trámite constitucional Senado Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 8894-07","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 8894-07","Nombre
+Lily Pérez San Martín","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 8894-07","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+52   54 0 0 66 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 8894-07","No record","Veto emmEnd"

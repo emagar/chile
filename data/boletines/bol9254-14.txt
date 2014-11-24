@@ -1,0 +1,34 @@
+* * Bill summary * *
+"emmStart Summary 9254-14","Legislatura: 361
+Fecha de ingreso: martes 28 de enero de 2014
+Estado: Tramitación terminada ( - D.Oficial )
+Numero de boletín: 9254-14
+Materia: Ministerio De Ciudad, Vivienda Y Territorio
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 11-11-2014 06:36:24
+* * Hitos de tramitación * *
+"emmStart Hitos 9254-14","Fecha Sesión Etapa Sub-etapa Documento
+28 de Ene. de 2014   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+28 de Ene. de 2014 120ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Vivienda y Desarrollo Urbano y a Comisión de Hacienda Ver
+06 de Mar. de 2014 124ª / 361 Primer trámite constitucional / C. Diputados Cuenta oficio N°409-361. Oficio de S.E. el Presidente de la República por el cual formula indicación al proyecto. Ver Ver
+19 de May. de 2014 26ª / 362 Tramitación terminada / Cuenta Oficio de S.E. la Presidenta de la República, por el cual comunica el retiro del proyecto.","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9254-14","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9254-14","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9254-14","Nombre Región Distrito Partido
+Ministerio de Hacienda      
+Ministerio de Vivienda y Urbanismo      
+Ministerio del Medio Ambiente      
+Ministerio Secretaría General de la Presidencia      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9254-14","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9254-14","No record","Veto emmEnd"

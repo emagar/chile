@@ -1,0 +1,34 @@
+* * Bill summary * *
+"emmStart Summary 9090-04","Legislatura: 361
+Fecha de ingreso: martes 10 de septiembre de 2013
+Estado: Primer trámite constitucional .
+Numero de boletín: 9090-04
+Materia: Asistente De La Educación
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 11-11-2014 00:30:07
+* * Hitos de tramitación * *
+"emmStart Hitos 9090-04","Fecha Sesión Etapa Sub-etapa Documento
+10 de Sep. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+10 de Sep. de 2013 72ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Educación, Deportes y Recreación Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9090-04","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9090-04","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9090-04","Nombre Región Distrito Partido
+Pedro Araya Guerrero II Región de Antofagasta N°4 Partido Regionalista Independiente
+Cristina Girardi Lavín RM Región Metropolitana N°18 Partido Por la Democracia
+Marta Isasi Barbieri I Región de Tarapacá N°2 Independientes
+Denise Pascal Allende RM Región Metropolitana N°31 Partido Socialista
+Alejandra Sepúlveda Orbenes VI Región del Libertador Bernardo O' Higgins N°34 Partido Regionalista Independiente
+Víctor Torres Jeldes V Región de Valparaíso N°15 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9090-04","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9090-04","No record","Veto emmEnd"

@@ -1,0 +1,31 @@
+* * Bill summary * *
+"emmStart Summary 9085-01","Legislatura: 361
+Fecha de ingreso: martes 03 de septiembre de 2013
+Estado: Primer trámite constitucional .
+Numero de boletín: 9085-01
+Materia: Recolección De Aguas Grises
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 11-11-2014 00:26:24
+* * Hitos de tramitación * *
+"emmStart Hitos 9085-01","Fecha Sesión Etapa Sub-etapa Documento
+03 de Sep. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+03 de Sep. de 2013 67ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Agricultura, Silvicultura y Desarrollo Rural Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9085-01","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9085-01","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9085-01","Nombre Región Distrito Partido
+Mario Bertolino Rendic IV Región de Coquimbo N°7 Renovación Nacional
+Adriana Muñoz D'Albora IV Región de Coquimbo N°9 Partido Por la Democracia
+Matías Walker Prieto IV Región de Coquimbo N°8 Partido Demócrata Cristiano","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9085-01","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9085-01","No record","Veto emmEnd"

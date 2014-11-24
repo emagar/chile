@@ -1,0 +1,52 @@
+* * Bill summary * *
+"emmStart Summary 9123-17","Legislatura: 361
+Fecha de ingreso: martes 08 de octubre de 2013
+Estado: Tramitación terminada (Ley Nº 20.740 - D.Oficial 01/04/2014)
+Numero de boletín: 9123-17
+Materia: Nacionalización,Ortigoza Marchisio, Luis
+Iniciativa: Moción
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 11-11-2014 00:52:40
+* * Hitos de tramitación * *
+"emmStart Hitos 9123-17","Fecha Sesión Etapa Sub-etapa Documento
+08 de Oct. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+08 de Oct. de 2013 79ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+09 de Oct. de 2013   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+19 de Nov. de 2013 87ª / 361 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión Ver
+21 de Nov. de 2013 89ª / 361 Primer trámite constitucional / C. Diputados Discusión general. Aprobado en general y particular a la vez Ver
+21 de Nov. de 2013   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora Ver
+26 de Nov. de 2013 72ª / 361 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Derechos Humanos, Nacionalidad y Ciudadanía
+21 de Ene. de 2014   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+21 de Ene. de 2014 87ª / 361 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+12 de Mar. de 2014 1ª / 362 Segundo trámite constitucional / Senado Discusión general Ver
+12 de Mar. de 2014   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+13 de Mar. de 2014 2ª / 362 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+13 de Mar. de 2014   Trámite finalización en Cámara de Origen / C. Diputados Oficio de ley al Ejecutivo Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9123-17","Fecha Etapa Informe Documento
+21 de Ene. de 2014 Segundo trámite constitucional Senado Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver
+14 de Nov. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión de Derechos Humanos, Nacionalidad y Ciudadanía Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9123-17","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9123-17","Nombre Región Distrito Partido
+Pepe Auth Stewart RM Región Metropolitana N°20 Partido Por la Democracia
+Ramón Farías Ponce RM Región Metropolitana N°30 Partido Por la Democracia
+Rodrigo González Torres V Región de Valparaíso N°14 Partido Por la Democracia
+Hugo Gutiérrez Gálvez I Región de Tarapacá N°2 Partido Comunista
+María José Hoffmann Opazo V Región de Valparaíso N°15 Unión Demócrata Independiente
+Sergio Ojeda Uribe X Región de los Lagos N°55 Partido Demócrata Cristiano
+José Pérez Arriagada VIII Región del Bío Bío N°47 Partido Radical Social Demócrata
+Víctor Torres Jeldes V Región de Valparaíso N°15 Partido Demócrata Cristiano
+Germán Verdugo Soto VII Región del Maule N°37 Renovación Nacional
+Ximena Vidal Lázaro RM Región Metropolitana N°25 Partido Por la Democracia","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9123-17","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+89   54 0 0 66 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9123-17","No record","Veto emmEnd"

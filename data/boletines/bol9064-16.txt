@@ -1,0 +1,49 @@
+* * Bill summary * *
+"emmStart Summary 9064-16","Legislatura: 361
+Fecha de ingreso: martes 13 de agosto de 2013
+Estado: Tramitación terminada (Ley Nº 20.716 - D.Oficial 31/12/2013)
+Numero de boletín: 9064-16
+Materia: Incentivo Al Retiro,Funcionario Del Senado,Funcionarios De La Biblioteca Del Congreso Nacional
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 11-11-2014 00:11:13
+* * Hitos de tramitación * *
+"emmStart Hitos 9064-16","Fecha Sesión Etapa Sub-etapa Documento
+13 de Ago. de 2013   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+13 de Ago. de 2013 59ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión de Régimen Interno, Administración y Reglamento y a Comisión de Hacienda Ver
+15 de Oct. de 2013 83ª / 361 Primer trámite constitucional / C. Diputados Oficio N°210-361. Oficio de S.E. el Presidente de la República por el cual formula indicaciones al proyecto. Ver Ver
+26 de Nov. de 2013 93ª / 361 Primer trámite constitucional / C. Diputados Primer informe de comisión. Pasa a Comisión de Hacienda Ver Ver
+27 de Nov. de 2013   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+27 de Nov. de 2013   Primer trámite constitucional / C. Diputados Primer informe de comisión Ver
+28 de Nov. de 2013 95ª / 361 Primer trámite constitucional / C. Diputados Cuenta de primer informe de comisión. Informe Comisión de Hacienda Ver
+28 de Nov. de 2013 95ª / 361 Primer trámite constitucional / C. Diputados Discusión general Ver
+28 de Nov. de 2013   Primer trámite constitucional / C. Diputados Oficio de ley a Cámara Revisora. Oficio N° 11.022. Comunica aprobación de proyecto de ley. Ver
+03 de Dic. de 2013 76ª / 361 Segundo trámite constitucional / Senado Cuenta de proyecto. Pasa a Comisión de Hacienda
+03 de Dic. de 2013 76ª / 361 Segundo trámite constitucional / Senado La Sala autoriza a la Comisión para discutir en general y en particular el proyecto durante el primer informe.
+04 de Dic. de 2013   Segundo trámite constitucional / Senado Primer informe de comisión Ver
+04 de Dic. de 2013 77ª / 361 Segundo trámite constitucional / Senado Cuenta de primer informe de comisión
+04 de Dic. de 2013 77ª / 361 Segundo trámite constitucional / Senado Discusión general Ver
+04 de Dic. de 2013   Segundo trámite constitucional / Senado Oficio aprobación sin modificaciones a Cámara de Origen Ver
+05 de Dic. de 2013 100ª / 361 Trámite finalización en Cámara de Origen / C. Diputados Cuenta oficio aprobación sin modificaciones de C. Revisora Ver
+05 de Dic. de 2013   Trámite finalización en Cámara de Origen / C. Diputados Oficio N°11.034. Oficio para promulgación. Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9064-16","Fecha Etapa Informe Documento
+04 de Dic. de 2013 Segundo trámite constitucional Senado Primer informe de comisión de Hacienda Ver
+28 de Nov. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+27 de Nov. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión de Hacienda Ver
+26 de Nov. de 2013 Primer trámite constitucional C.Diputados Primer informe de comisión de Régimen Interno, Administración y Reglamento Ver","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9064-16","No record","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9064-16","Nombre Región Distrito Partido
+Ministerio de Hacienda      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9064-16","Sesión Artículo Afir. Neg. Abst. No vot. Resultado. Origen Detalle
+95   68 0 0 0 Aprobado Sala Ver detalle votación","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9064-16","No record","Veto emmEnd"
