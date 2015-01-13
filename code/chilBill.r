@@ -59,7 +59,7 @@ for (i in 1:I){
     tmp <- gsub(pattern = "octubre"   , replacement = "10", x = tmp)
     tmp <- gsub(pattern = "noviembre" , replacement = "11", x = tmp)
     tmp <- gsub(pattern = "diciembre" , replacement = "12", x = tmp)
-    bill$dateIn <- dmy(tmp)
+    bill$dateIn <- dmy(tmp, tz = "chile")
                                         #
     tmp <- chunk[grep("Estado:", chunk)]
     tmp <- sub(pattern = "Estado: (.*)", replacement = "\\1", x = tmp)
@@ -170,14 +170,7 @@ for (i in 1:I){
 }
 
 summary(bills)
-rm(bill, bol, chunk, end, files, i, start, tmp)
-ls()
-save.image(file="tmp.RData")
-
-rm(list=ls())
-datdir <- "/home/eric/Dropbox/data/latAm/chile/data/" 
-setwd(datdir)
-load(file = "tmp.RData")
+rm(bill, bol, chunk, end, files, i, start, tmp, tmpD)
 
 ####################################
 # systematize hitos de tramitación #
@@ -216,7 +209,7 @@ for (i in sel){
     tmp2 <- gsub(pattern = "Oct.", replacement = "10", x = tmp2)
     tmp2 <- gsub(pattern = "Nov.", replacement = "11", x = tmp2)
     tmp2 <- gsub(pattern = "Dic.", replacement = "12", x = tmp2)
-    output$date <- dmy(tmp2, quiet = TRUE)
+    output$date <- dmy(tmp2, quiet = TRUE, tz = "chile")
                                         #
     tmp <- sub(pattern = "^[0-9]{2}[ .A-Za-z]+[0-9]{4}(.*)", replacement = "\\1", tmp, perl = TRUE) # crops object
     tmp <- sub(pattern = "^[ ]+", replacement = "", tmp) # removes spaces at start of line
@@ -373,6 +366,15 @@ for (i in sel){
     }
 }
 
+# infer comisión mixta and ejecutivo trámites --- approximates com mixta 
+for (i in 1:I){
+    message(sprintf("loop %s of %s", i, I))
+    select <- grep(pattern = "[Cc]omisi[oó]n [Mm]ixta", bills$hitos[[i]]$action)
+    bills$hitos[[i]]$chamber[select] <- "conf"
+    select <- grep(pattern = "[Oo]ficio de [Ll]ey al [Ee]jecutivo", bills$hitos[[i]]$action)
+    bills$hitos[[i]]$chamber[select] <- "ejec"
+}
+
 tmp <- rep(0,I)
 for (i in 1:I){
     if (length(which(bills$hitos[[i]]$chamber=="."))==0){
@@ -387,7 +389,63 @@ table(tmpInferred)   # cases with missing chamber inferred
 #
 bills$info$nHitos <- nHitos
 #
-rm(i, j, sel, tmp, tmpHasMissing, tmpInferred, tmpLinesChMissing, nHitos)
+rm(i, j, sel, tmp, tmpHasMissing, tmpInferred, tmpLinesChMissing, nHitos, select)
+
+# recode bill status
+bills$info$status <- bills$info$state # duplicates to retain original
+bills$info$dateOut <- "." # will record date published
+bills$info$status <- sub(pattern = "Tramitación terminada.*[0-9]{2}/[0-9]{2}/[0-9]{4}.*", replacement = "statute", bills$info$status)
+bills$info$status[grep("Tramitación terminada", bills$info$status)] <- "killed/withdrawn"
+sel <- which(bills$info$status=="statute")
+bills$info$dateOut[sel] <- sub(pattern = "Tramitación terminada.*([0-9]{2}/[0-9]{2}/[0-9]{4}).*", replacement = "\\1", bills$info$state[sel])
+bills$info$dateOut <- sub(pattern = "Tramitación terminada.*", replacement = ".", bills$info$dateOut) # missing values
+bills$info$status <- sub(pattern = "Primer trámite.*", replacement = "pending: 1er trámite", bills$info$status)
+bills$info$status <- sub(pattern = "Segundo trámite.*", replacement = "pending: 2do trámite", bills$info$status)
+bills$info$status <- sub(pattern = "Tercer trámite.*", replacement = "pending: 3er trámite", bills$info$status)
+bills$info$status <- sub(pattern = "Archivado.*", replacement = "frozen", bills$info$status)
+bills$info$status <- sub(pattern = ".*Mixta.*", replacement = "pending: conference", bills$info$status)
+bills$info$status <- sub(pattern = ".*veto.*", replacement = "pending: veto", bills$info$status)
+bills$info$status <- sub(pattern = ".*[Ii]nsistencia.*", replacement = "pending: 3er trámite", bills$info$status)
+bills$info$status <- sub(pattern = ".*aprobaci[óo]n presidencial.*", replacement = "pending: to executive", bills$info$status)
+bills$info$status <- sub(pattern = ".*finalización en Cámara.*", replacement = "pending", bills$info$status)
+#
+bills$info$dateOut <- dmy(bills$info$dateOut, quiet = TRUE, tz = "chile")
+table(bills$info$status) # debug
+
+# compact bicameral sequence with dates (may still miss comisión mixta, revise bills$hitos$chamber above)
+bills$tramites <- sapply(1:I, function(x) NULL) # initializes empty list with I elements (unnamed; names would go where 1:I)
+for (i in 1:I){
+    message(sprintf("loop %s of %s", i, I))
+    these <- rep(1, nrow(bills$hitos[[i]])) # object that will select cases to include
+    dat.tram <- bills$hitos[[i]][,c("date", "chamber")] # keeps only date and tramite in separate object
+    if (nrow(bills$hitos[[i]])>1){ # next block only if multiline <--- ALL MULTILINE, SEEN ABOVE 
+        for (j in 2:length(these)){
+            #hour(dat.tram$date[j]) <- ifelse(dat.tram$date[j]==dat.tram$date[j-1], hour(dat.tram$date[j]) + 1, hour(dat.tram$date[j])) # adding 1hr to same dates avoids overlaps
+            these[j] <- ifelse(dat.tram$chamber[j]==dat.tram$chamber[j-1], 0, 1) # identify tramites different from previous row as 1s
+        }
+        dat.tram$to <- dat.tram$date  # duplicates date to retain format
+        dat.tram <- dat.tram[these==1,] # compact sequence of tramites
+        if (nrow(dat.tram)>1){
+            dat.tram$to[1:(nrow(dat.tram)-1)] <- dat.tram$to[2:nrow(dat.tram)] # plug end of tramite -- multiline
+        } else {
+            dat.tram$to <- dmy("5/11/2014", tz = "chile")                                    # -- uniline assumed pending
+        }
+        if (bills$info$status[i]=="statute"){
+            dat.tram$to[nrow(dat.tram)] <- bills$info$dateOut[i] # use date published if so
+        } else {
+            dat.tram$to[nrow(dat.tram)] <- dmy("5/11/2014", tz = "chile")      # else date when data downloaded (pending)
+        }
+        # minute(dat.tram$date) <- minute(dat.tram$date) +1 # adds 1 minute to remove overlap with last "to"
+    }
+    colnames(dat.tram)[1:2] <- c("from","tramite")
+    if (nrow(bills$hitos[[i]])==1){
+        dat.tram$to <- dmy("5/11/2014", tz = "chile")
+    }
+    bills$tramites[[i]] <- dat.tram
+    bills$tramites[[i]]$period <- new_interval(bills$tramites[[i]]$from, bills$tramites[[i]]$to) # adds trámite duration
+}
+rm(dat.tram, i, j, sel, these)
+# FALTA LIMPIAR EL FINAL PARA QUE TERMINE CON EJECUTIVO EN CASO DE PUBLICACION... PERO ASÍ DEBE AYUDAR PARA LAS URGENCIAS
 
 ## loop over hitos in search of urgencia info
 #
@@ -451,8 +509,6 @@ for (i in 1:I){
 }
 
 ## loop over hitos in search of veto info
-#
-i <- 3 # debug
 for (i in 1:I){
     message(sprintf("loop %s of %s", i, I))
     tmp1 <- grep(pattern = "[Vv]eto", bills$hitos[[i]]$action) # try Art. 70 (bicam veto orr)
@@ -521,47 +577,47 @@ for (i in 1:I){
     }
     bills$hitos[[i]]$debug <- rep(tmp, times = nrow(bills$hitos[[i]]));
     bills$info$debug[i] <- tmp
-    bills$info$hasUrgHU[i] <- ifelse( length(grep(pattern = "[^.]", bills$hitos[[i]]$urg))==0 & bills$info$hasUrg=="no", "no", "yes" )
+    bills$info$hasUrgHU[i] <- ifelse( length(grep(pattern = "[^.]", bills$hitos[[i]]$urg))==0 & bills$info$hasUrg[i]=="no", "no", "yes" )
 }
 rm(i, tmp, tmp1, tmp2)
 
-
-table(bills$info$debug[bills$info$dateIn>=dmy("1/3/1990") & bills$info$dateIn<dmy("1/3/1994")])
-table(bills$info$debug[bills$info$dateIn>=dmy("1/3/1994") & bills$info$dateIn<dmy("1/3/1998")])
-table(bills$info$debug[bills$info$dateIn>=dmy("1/3/1998") & bills$info$dateIn<dmy("1/3/2002")])
-table(bills$info$debug[bills$info$dateIn>=dmy("1/3/2002") & bills$info$dateIn<dmy("1/3/2006")])
-table(bills$info$debug[bills$info$dateIn>=dmy("1/3/2006") & bills$info$dateIn<dmy("1/3/2010")])
-table(bills$info$debug[bills$info$dateIn>=dmy("1/3/2010")])
+# preliminary analysis
+library(lubridate)
+# compare urgencia report in Urgencias and in Hitos
+table(bills$info$debug[bills$info$dateIn>=dmy("1/3/1990", tz = "chile") & bills$info$dateIn<dmy("1/3/1994", tz = "chile")])
+table(bills$info$debug[bills$info$dateIn>=dmy("1/3/1994", tz = "chile") & bills$info$dateIn<dmy("1/3/1998", tz = "chile")])
+table(bills$info$debug[bills$info$dateIn>=dmy("1/3/1998", tz = "chile") & bills$info$dateIn<dmy("1/3/2002", tz = "chile")])
+table(bills$info$debug[bills$info$dateIn>=dmy("1/3/2002", tz = "chile") & bills$info$dateIn<dmy("1/3/2006", tz = "chile")])
+table(bills$info$debug[bills$info$dateIn>=dmy("1/3/2006", tz = "chile") & bills$info$dateIn<dmy("1/3/2010", tz = "chile")])
+table(bills$info$debug[bills$info$dateIn>=dmy("1/3/2010", tz = "chile")])
 table(bills$info$debug)
-
+#
 # crosstabs of urgencias and mensajes by yr
 bills$info$legyr <- 0
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/1990") & bills$info$dateIn<dmy("1/3/1991")] <- 1
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/1991") & bills$info$dateIn<dmy("1/3/1992")] <- 2
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/1992") & bills$info$dateIn<dmy("1/3/1993")] <- 3
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/1993") & bills$info$dateIn<dmy("1/3/1994")] <- 4
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/1994") & bills$info$dateIn<dmy("1/3/1995")] <- 5
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/1995") & bills$info$dateIn<dmy("1/3/1996")] <- 6
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/1996") & bills$info$dateIn<dmy("1/3/1997")] <- 7
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/1997") & bills$info$dateIn<dmy("1/3/1998")] <- 8
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/1998") & bills$info$dateIn<dmy("1/3/1999")] <- 9
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/1999") & bills$info$dateIn<dmy("1/3/2000")] <- 10
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/2000") & bills$info$dateIn<dmy("1/3/2001")] <- 11
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/2001") & bills$info$dateIn<dmy("1/3/2002")] <- 12
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/2002") & bills$info$dateIn<dmy("1/3/2003")] <- 13
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/2003") & bills$info$dateIn<dmy("1/3/2004")] <- 14
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/2004") & bills$info$dateIn<dmy("1/3/2005")] <- 15
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/2005") & bills$info$dateIn<dmy("1/3/2006")] <- 16
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/2006") & bills$info$dateIn<dmy("1/3/2007")] <- 17
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/2007") & bills$info$dateIn<dmy("1/3/2008")] <- 18
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/2008") & bills$info$dateIn<dmy("1/3/2009")] <- 19
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/2009") & bills$info$dateIn<dmy("1/3/2010")] <- 20
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/2010") & bills$info$dateIn<dmy("1/3/2011")] <- 21
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/2011") & bills$info$dateIn<dmy("1/3/2012")] <- 22
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/2012") & bills$info$dateIn<dmy("1/3/2013")] <- 23
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/2013") & bills$info$dateIn<dmy("1/3/2014")] <- 24
-
-
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/1990", tz = "chile") & bills$info$dateIn<dmy("1/3/1991", tz = "chile")] <- 1
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/1991", tz = "chile") & bills$info$dateIn<dmy("1/3/1992", tz = "chile")] <- 2
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/1992", tz = "chile") & bills$info$dateIn<dmy("1/3/1993", tz = "chile")] <- 3
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/1993", tz = "chile") & bills$info$dateIn<dmy("1/3/1994", tz = "chile")] <- 4
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/1994", tz = "chile") & bills$info$dateIn<dmy("1/3/1995", tz = "chile")] <- 5
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/1995", tz = "chile") & bills$info$dateIn<dmy("1/3/1996", tz = "chile")] <- 6
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/1996", tz = "chile") & bills$info$dateIn<dmy("1/3/1997", tz = "chile")] <- 7
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/1997", tz = "chile") & bills$info$dateIn<dmy("1/3/1998", tz = "chile")] <- 8
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/1998", tz = "chile") & bills$info$dateIn<dmy("1/3/1999", tz = "chile")] <- 9
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/1999", tz = "chile") & bills$info$dateIn<dmy("1/3/2000", tz = "chile")] <- 10
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/2000", tz = "chile") & bills$info$dateIn<dmy("1/3/2001", tz = "chile")] <- 11
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/2001", tz = "chile") & bills$info$dateIn<dmy("1/3/2002", tz = "chile")] <- 12
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/2002", tz = "chile") & bills$info$dateIn<dmy("1/3/2003", tz = "chile")] <- 13
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/2003", tz = "chile") & bills$info$dateIn<dmy("1/3/2004", tz = "chile")] <- 14
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/2004", tz = "chile") & bills$info$dateIn<dmy("1/3/2005", tz = "chile")] <- 15
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/2005", tz = "chile") & bills$info$dateIn<dmy("1/3/2006", tz = "chile")] <- 16
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/2006", tz = "chile") & bills$info$dateIn<dmy("1/3/2007", tz = "chile")] <- 17
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/2007", tz = "chile") & bills$info$dateIn<dmy("1/3/2008", tz = "chile")] <- 18
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/2008", tz = "chile") & bills$info$dateIn<dmy("1/3/2009", tz = "chile")] <- 19
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/2009", tz = "chile") & bills$info$dateIn<dmy("1/3/2010", tz = "chile")] <- 20
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/2010", tz = "chile") & bills$info$dateIn<dmy("1/3/2011", tz = "chile")] <- 21
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/2011", tz = "chile") & bills$info$dateIn<dmy("1/3/2012", tz = "chile")] <- 22
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/2012", tz = "chile") & bills$info$dateIn<dmy("1/3/2013", tz = "chile")] <- 23
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/2013", tz = "chile") & bills$info$dateIn<dmy("1/3/2014", tz = "chile")] <- 24
 #
 for (i in 1:24){ # loop over legislative years
     sel <- which(bills$info$legyr==i); tmp <- table(bills$info$dmensaje[sel], bills$info$hasUrgH[sel], useNA = "ifany")
@@ -570,51 +626,867 @@ for (i in 1:24){ # loop over legislative years
 tmp <- table(bills$info$dmensaje, bills$info$hasUrgH, useNA = "ifany") # whole period
 print(cbind(round(prop.table(tmp, 1), digits = 2), margin.table(tmp, 1))) # crosstab with shares and column margins
 #
-sel <- which(bills$info$dateIn>=dmy("1/3/1990") & bills$info$dateIn<dmy("1/3/2006")) # period in Alemán and Navia
+sel <- which(bills$info$dateIn>=dmy("1/3/1990", tz = "chile") & bills$info$dateIn<dmy("1/3/2006", tz = "chile")) # period in Alemán and Navia
 tmp <- table(bills$info$dmensaje[sel], bills$info$hasUrgH[sel], useNA = "ifany")
 print(cbind(round(prop.table(tmp, 1), digits = 2), margin.table(tmp, 1))) # crosstab with shares and column margins
 #
 # by legislature
-sel <- which(bills$info$dateIn>=dmy("1/3/1990") & bills$info$dateIn<dmy("1/3/1994")) # period in Alemán and Navia
+sel <- which(bills$info$dateIn>=dmy("1/3/1990", tz = "chile") & bills$info$dateIn<dmy("1/3/1994", tz = "chile")) # period in Alemán and Navia
 tmp <- table(bills$info$dmensaje[sel], bills$info$hasUrgH[sel], useNA = "ifany")
 print(cbind(round(prop.table(tmp, 1), digits = 2), margin.table(tmp, 1))) # crosstab with shares and column margins
-sel <- which(bills$info$dateIn>=dmy("1/3/1994") & bills$info$dateIn<dmy("1/3/1998")) # period in Alemán and Navia
+sel <- which(bills$info$dateIn>=dmy("1/3/1994", tz = "chile") & bills$info$dateIn<dmy("1/3/1998", tz = "chile")) # period in Alemán and Navia
 tmp <- table(bills$info$dmensaje[sel], bills$info$hasUrgH[sel], useNA = "ifany")
 print(cbind(round(prop.table(tmp, 1), digits = 2), margin.table(tmp, 1))) # crosstab with shares and column margins
-sel <- which(bills$info$dateIn>=dmy("1/3/1998") & bills$info$dateIn<dmy("1/3/2002")) # period in Alemán and Navia
+sel <- which(bills$info$dateIn>=dmy("1/3/1998", tz = "chile") & bills$info$dateIn<dmy("1/3/2002", tz = "chile")) # period in Alemán and Navia
 tmp <- table(bills$info$dmensaje[sel], bills$info$hasUrgH[sel], useNA = "ifany")
 print(cbind(round(prop.table(tmp, 1), digits = 2), margin.table(tmp, 1))) # crosstab with shares and column margins
-sel <- which(bills$info$dateIn>=dmy("1/3/2002") & bills$info$dateIn<dmy("1/3/2006")) # period in Alemán and Navia
+sel <- which(bills$info$dateIn>=dmy("1/3/2002", tz = "chile") & bills$info$dateIn<dmy("1/3/2006", tz = "chile")) # period in Alemán and Navia
 tmp <- table(bills$info$dmensaje[sel], bills$info$hasUrgH[sel], useNA = "ifany")
 print(cbind(round(prop.table(tmp, 1), digits = 2), margin.table(tmp, 1))) # crosstab with shares and column margins
-sel <- which(bills$info$dateIn>=dmy("1/3/2006") & bills$info$dateIn<dmy("1/3/2010")) # period in Alemán and Navia
+sel <- which(bills$info$dateIn>=dmy("1/3/2006", tz = "chile") & bills$info$dateIn<dmy("1/3/2010", tz = "chile")) # period in Alemán and Navia
 tmp <- table(bills$info$dmensaje[sel], bills$info$hasUrgH[sel], useNA = "ifany")
 print(cbind(round(prop.table(tmp, 1), digits = 2), margin.table(tmp, 1))) # crosstab with shares and column margins
-sel <- which(bills$info$dateIn>=dmy("1/3/2006") & bills$info$dateIn<dmy("1/3/2014")) # period in Alemán and Navia
+sel <- which(bills$info$dateIn>=dmy("1/3/2006", tz = "chile") & bills$info$dateIn<dmy("1/3/2014", tz = "chile")) # period in Alemán and Navia
 tmp <- table(bills$info$dmensaje[sel], bills$info$hasUrgH[sel], useNA = "ifany")
 print(cbind(round(prop.table(tmp, 1), digits = 2), margin.table(tmp, 1))) # crosstab with shares and column margins
 
+## # bind together hitos data.frames of different bills... export as csv to see it in excel
+## library(plyr)
+## sel <- which(bills$info$dateIn > dmy("28/2/2002"))
+## ## sel <- runif(n=I); sel <- which(sel<.25) # process 25% randomly
+## ## table(sel)
+## tmp <- rbind.fill(bills$hitos[sel]) 
+## head(tmp)
+## #
+## tmp2 <- tmp[, c("bol", "date", "tramite", "chamber", "urg", "vet", "durgPest", "dvetPest", "action", "debug")]
+## tmp2$bolnum <- as.numeric(sub(pattern = "([0-9]+)-[0-9]+", replacement = "\\1", tmp2$bol))
+## tmp2 <- tmp2[order(tmp2$bolnum),]
+## tmp2$color <- 0; for (i in 2:nrow(tmp2)) tmp2$color[i] <- ifelse(tmp2$bolnum[i]==tmp2$bolnum[i-1], tmp2$color[i-1], 1 - tmp2$color[i-1])
+## table(tmp2$color)
+## write.csv(tmp2, file = "tmp.csv")
 
-i <- 9103; bills$hitos[i]
+## table(tmp)
 
-
-# bind together hitos data.frames of different bills... export as csv to see it in excel
+#########################
+# systematize urgencias #
+#########################
 library(plyr)
-sel <- which(bills$info$dateIn > dmy("28/2/2002"))
-## sel <- runif(n=I); sel <- which(sel<.25) # process 25% randomly
-## table(sel)
-tmp <- rbind.fill(bills$hitos[sel]) 
-head(tmp)
+library(lubridate)
+bills$urgRaw <- bills$urgencias # preserve raw data
+names(bills)[grep("urgencias", names(bills))] <- "urg" # shortens the object's name
+bills$urg <- sapply(1:I, function(x) NULL) # initializes empty list with I elements (unnamed; names would go where 1:I)
 #
-tmp2 <- tmp[, c("bol", "date", "tramite", "chamber", "urg", "vet", "durgPest", "dvetPest", "action", "debug")]
-tmp2$bolnum <- as.numeric(sub(pattern = "([0-9]+)-[0-9]+", replacement = "\\1", tmp2$bol))
-tmp2 <- tmp2[order(tmp2$bolnum),]
-tmp2$color <- 0; for (i in 2:nrow(tmp2)) tmp2$color[i] <- ifelse(tmp2$bolnum[i]==tmp2$bolnum[i-1], tmp2$color[i-1], 1 - tmp2$color[i-1])
-table(tmp2$color)
-write.csv(tmp2, file = "tmp.csv")
+work <- which(bills$info$hasUrg=="yes") # work only this in loop <-- OJO: there are 6 bills w urgencia in hitos only since 1998 (11 since 1990) GET THEM
+#
+# new slots for info # OJO: NEED TO ADJUST THESE
+bills$info$nUrg <- 0
+bills$info$nInChains <- 0
+bills$info$nSimple <- 0
+bills$info$nSuma <- 0
+bills$info$nInmed <- 0
+bills$info$nRet <- 0
+#bills$info$nExtended <- 0
+#bills$info$nShortened <- 0
+#bills$info$nInDip <- 0
+#bills$info$nInSen <- 0
 
-table(tmp)
+# neat function to compute urgencia dealines excluding week-ends
+# solution 1 takes holidays other than weekends into account, which is a plus
+library(timeDate)
+deadline <- function(x, nBizDys = 6){ # function to process deadlines excluding week-ends and holidays... how do you change default=holidayNYSE with non-prepackaged holidays (eg., Chile's http://www.feriadoschilenos.cl/)? NYSE: Jan1, MLKJan20, WashBdFeb17, GoodFdy, MemDyMay26, Jul4, LabDySep1, ThksNov2627, Dec25... Chile: Jan1, May1, DiscPdteCongMay21, Sep18-19, Dec25 (SemSta?)... check http://stackoverflow.com/questions/26777282/in-using-timedate-r-package-i-receive-an-error-when-specifying-gbnewyearseve
+    output <- Reduce(rbind, Map((function(x, howMuch = 15){
+        x <- as.Date(x)
+        days <- x + 1:(howMuch*2)
+        Deadline <- days[isBizday(as.timeDate(days))][howMuch]
+        data.frame(DateIn = x, Deadline, DayOfWeek = weekdays(Deadline),   
+                   TimeDiff = difftime(Deadline, x))  # useful to get more info, if so wished
+    }), x, howMuch = nBizDys))
+    output$Deadline
+}
+#deadline(date.in, nBizDys=30) # example of use
+#
+## # solution 2 removes weekends only, still needs to be turned into function
+## library(chron)
+## deadline <- function(x, nDays=31) {
+##     x1 <-seq(as.Date(x)+1, length.out=nDays*2, by='1 day')
+##     data.frame(Start=x,End=x1[!is.weekend(x1)][nDays])
+## }
+## do.call(rbind, lapply(date.in, deadline))
 
+# redefine %within% to exclude upper bounds
+"%my_within%" <- function(a,b) standardGeneric("%my_within%")
+setGeneric("%my_within%")
+#
+setMethod("%my_within%", signature(b = "Interval"), function(a,b){
+    if(!is.instant(a)) stop("Argument 1 is not a recognized date-time")
+    a <- as.POSIXct(a)
+    (as.numeric(a) - as.numeric(b@start) < b@.Data) & (as.numeric(a) - as.numeric(b@start) >= 0)
+})
+#
+setMethod("%my_within%", signature(a = "Interval", b = "Interval"), function(a,b){
+    a <- int_standardize(a)
+    b <- int_standardize(b)
+    start.in <- as.numeric(a@start) >= as.numeric(b@start) 
+    end.in <- (as.numeric(a@start) + a@.Data) < (as.numeric(b@start) + b@.Data)
+    start.in & end.in
+})
+
+# clean data from source
+i <- which(bills$info$bol=="1484-01")
+tmp <- bills$urgRaw[[i]]; tmp <- tmp[c(-2,-3,-5)]
+bills$urgRaw[[i]] <- tmp
+#
+i <- which(bills$info$bol=="2296-18")
+tmp <- bills$urgRaw[[i]]; tmp[3] <- "17 de Jul. de 2002   Simple 237-339  "; tmp <- tmp[-2]; 
+bills$urgRaw[[i]] <- tmp
+#
+i <- which(bills$info$bol=="2347-15")
+tmp <- bills$urgRaw[[i]]; tmp[11] <- "04 de Ago. de 1999 17 de Ago. de 1999 Suma 73-340 126-340"; tmp <- tmp[c(-2, -6:-9)]; 
+bills$urgRaw[[i]] <- tmp
+#
+i <- which(bills$info$bol=="4639-11")
+tmp <- bills$urgRaw[[i]]; tmp[2] <- "14 de Nov. de 2006 28 de Nov. de 2006 Suma 466-354 504-354"; tmp <- tmp[-4]; 
+bills$urgRaw[[i]] <- tmp
+#
+i <- which(bills$info$bol=="2035-06")
+tmp <- bills$urgRaw[[i]];
+tmp[2] <- "02 de May. de 2001   Suma 0020501  "; tmp[4] <- "10 de Abr. de 2001 18 de Abr. de 2001 Suma 395-343 0020501"; 
+bills$urgRaw[[i]] <- tmp
+#
+i <- which(bills$info$bol=="2121-04")
+tmp <- bills$tramites[[i]]; tmp$tramite[3] <- "conf"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="114-06")
+tmp <- bills$tramites[[i]]; tmp$to[4] <- tmp$from[4] + days(1); tmp$period[4] <- new_interval(tmp$from[4], tmp$to[4]); tmp <- tmp[-5,]
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="1902-17")
+tmp <- bills$tramites[[i]]; tmp <- tmp[c(-3,-4),]
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="2036-11")
+tmp <- bills$tramites[[i]]; tmp$to[4] <- tmp$from[4] + days(1); tmp$from[5] <- tmp$to[4]; tmp$to[5] <- tmp$from[5] + days(1); tmp$period[4] <- new_interval(tmp$from[4], tmp$to[4]); tmp$period[5] <- new_interval(tmp$from[5], tmp$to[5]); 
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="2185-06")
+tmp <- bills$tramites[[i]]; tmp$to[4] <- tmp$from[4] + days(1); tmp$from[5] <- tmp$to[4]; tmp$to[5] <- tmp$from[5] + days(1); tmp$period[4] <- new_interval(tmp$from[4], tmp$to[4]); tmp$period[5] <- new_interval(tmp$from[5], tmp$to[5]); 
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="2361-23")
+tmp <- bills$tramites[[i]]; tmp <- tmp[c(-4,-6:-11),]  ## OJO: AQUÍ ME ESTOY COMIENDO UN RENGLON DE MAS... LO ARREGLO MAS ABAJO
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="2496-15")
+tmp <- bills$tramites[[i]]; tmp$to[4] <- tmp$from[4] + days(1); tmp$from[5] <- tmp$to[4]; tmp$period[4] <- new_interval(tmp$from[4], tmp$to[4]); tmp$period[5] <- new_interval(tmp$from[5], tmp$to[5]); 
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="737-03")
+tmp <- bills$tramites[[i]]; tmp$to[7] <- tmp$from[7] + days(1); tmp$from[8] <- tmp$to[7]; tmp$to[8] <- tmp$from[8] + days(1); tmp$period[7] <- new_interval(tmp$from[7], tmp$to[7]); tmp$period[8] <- new_interval(tmp$from[8], tmp$to[8]); 
+bills$tramites[[i]] <- tmp
+#
+# fill missing trámites from urg by hand
+i <- which(bills$info$bol=="561-06")
+bills$urgRaw[[i]][2] <-  "18 de Dic. de 1991   Suma    " # decía 18 agosto 1992
+#
+i <- which(bills$info$bol=="679-05")
+bills$urgRaw[[i]][2] <-  "06 de May. de 1992   Suma    " # decía 1991
+#
+i <- which(bills$info$bol=="1077-05")
+bills$urgRaw[[i]][2] <-  "17 de Dic. de 1993   Simple    " # decía 1992
+#
+i <- which(bills$info$bol=="1135-04")
+bills$urgRaw[[i]][3] <-   "22 de Mar. de 1994 05 de Abr. de 1994 Suma 220394 050494" # decía 1992
+#
+i <- which(bills$info$bol=="1240-11")
+bills$urgRaw[[i]][2] <- "14 de Jul. de 1994 02 de Ago. de 1994 Suma 190794 20894"
+bills$urgRaw[[i]][4] <- "05 de Jul. de 1994 19 de Jul. de 1994 Suma 050794 190794"
+#
+i <- which(bills$info$bol=="1444-15")
+bills$urgRaw[[i]][2] <-   "22 de Nov. de 1994  Simple"
+#
+i <- which(bills$info$bol=="1575-10")
+bills$urgRaw[[i]][2] <-   "02 de May. de 2001  Simple 428-343  "
+#
+i <- which(bills$info$bol=="1738-04")
+bills$urgRaw[[i]][2] <-    "05 de Oct. de 2001   Suma 2-345  " # decía 5 mar 2002, pareciera que urgencia es sobre tribunal const
+#
+i <- which(bills$info$bol=="1906-04")
+bills$urgRaw[[i]][2] <-     "09 de Ago. de 1997   Suma    " # decía 1995
+#
+i <- which(bills$info$bol=="2265-01")
+bills$urgRaw[[i]][8] <-     "02 de Sep. de 1999   Suma   25-340  " # decía 1997
+#
+i <- which(bills$info$bol=="2361-23")
+bills$urgRaw[[i]][2] <- "28 de Ago. de 2004 31 de Ago. de 2004 Suma 286-351 333-351"
+bills$tramites[[i]]$from[5] <- dmy("19/10/2004", tz = "chile")
+#
+i <- which(bills$info$bol=="2374-07")
+bills$urgRaw[[i]][2] <- "04 de Nov. de 1999   Suma 110-342  "
+#
+i <- which(bills$info$bol=="2628-13")
+bills$urgRaw[[i]][2] <- "04 de Ene. de 2002   Simple  170-345  "
+#
+i <- which(bills$info$bol=="2922-08")
+bills$urgRaw[[i]][2] <-  "18 de Oct. de 2003 28 de Oct. de 2003 Suma 112-350 114-350"
+bills$urgRaw[[i]][3] <- "15 de Ene. de 2004    Suma 365-350 "
+#
+i <- which(bills$info$bol=="3098-06")
+bills$urgRaw[[i]][20] <- "08 de Jul. de 2003 05 de Ago. de 2003 Simple 101-346 157-349"
+#
+i <- which(bills$info$bol=="3190-04")
+bills$urgRaw[[i]][4] <- "15 de Abr. de 2003   Simple 536-348  "
+#
+i <- which(bills$info$bol=="3406-03")
+bills$urgRaw[[i]][3] <-  "04 de Nov. de 2003   Discusión inmediata 133-350  "
+bills$tramites[[i]]$to[1] <- dmy("05/11/2003", tz = "chile")
+bills$tramites[[i]]$from[2] <- dmy("05/11/2003", tz = "chile")
+#
+i <- which(bills$info$bol=="3447-15")
+bills$urgRaw[[i]] <- bills$urgRaw[[i]][-2]
+#
+i <- which(bills$info$bol=="3671-03")
+bills$urgRaw[[i]][7] <- "21 de Jun. de 2005 02 de Ago. de 2005 Simple 58-353 142-353"
+#
+i <- which(bills$info$bol=="3885-07")
+bills$urgRaw[[i]][10] <- "21 de Jun. de 2005 05 de Jul. de 2005 Discusión inmediata 57-353 89-353"
+#
+i <- which(bills$info$bol=="3899-05")
+bills$urgRaw[[i]] <- gsub(pattern = "0005", replacement = "2005", bills$urgRaw[[i]])
+#
+i <- which(bills$info$bol=="4040-06")
+bills$urgRaw[[i]] <- gsub(pattern = "0007", replacement = "2007", bills$urgRaw[[i]])
+#
+i <- which(bills$info$bol=="4545-11")
+bills$urgRaw[[i]] <- gsub(pattern = "0007", replacement = "2007", bills$urgRaw[[i]])
+#
+i <- which(bills$info$bol=="4742-13")
+bills$urgRaw[[i]] <- gsub(pattern = "0007", replacement = "2007", bills$urgRaw[[i]])
+#
+i <- which(bills$info$bol=="4813-06")
+bills$urgRaw[[i]] <- gsub(pattern = "0007", replacement = "2007", bills$urgRaw[[i]])
+#
+i <- which(bills$info$bol=="4814-13")
+bills$urgRaw[[i]] <- gsub(pattern = "0007", replacement = "2007", bills$urgRaw[[i]])
+#
+i <- which(bills$info$bol=="4900-27")
+bills$urgRaw[[i]] <- gsub(pattern = "0007", replacement = "2007", bills$urgRaw[[i]])
+#
+i <- which(bills$info$bol=="4937-18")
+bills$urgRaw[[i]] <- gsub(pattern = "0010", replacement = "2010", bills$urgRaw[[i]])
+#
+i <- which(bills$info$bol=="4970-04")
+bills$urgRaw[[i]] <- gsub(pattern = "0007", replacement = "2007", bills$urgRaw[[i]])
+#
+i <- which(bills$info$bol=="5076-15")
+bills$urgRaw[[i]] <- gsub(pattern = "0007", replacement = "2007", bills$urgRaw[[i]])
+#
+i <- which(bills$info$bol=="5080-11")
+bills$urgRaw[[i]] <- gsub(pattern = "0007", replacement = "2007", bills$urgRaw[[i]])
+#
+i <- which(bills$info$bol=="5081-15")
+bills$urgRaw[[i]] <- gsub(pattern = "0007", replacement = "2007", bills$urgRaw[[i]])
+#
+i <- which(bills$info$bol=="5083-04")
+bills$urgRaw[[i]] <- gsub(pattern = "0010", replacement = "2010", bills$urgRaw[[i]])
+#
+i <- which(bills$info$bol=="5091-15")
+bills$urgRaw[[i]] <- gsub(pattern = "0007", replacement = "2007", bills$urgRaw[[i]])
+#
+i <- which(bills$info$bol=="5114-10")
+bills$urgRaw[[i]] <- gsub(pattern = "0007", replacement = "2007", bills$urgRaw[[i]])
+#
+i <- which(bills$info$bol=="5120-21")
+bills$urgRaw[[i]] <- gsub(pattern = "0007", replacement = "2007", bills$urgRaw[[i]])
+#
+i <- which(bills$info$bol=="5148-05")
+bills$urgRaw[[i]] <- gsub(pattern = "0007", replacement = "2007", bills$urgRaw[[i]])
+#
+i <- which(bills$info$bol=="5173-05")
+bills$urgRaw[[i]] <- gsub(pattern = "0007", replacement = "2007", bills$urgRaw[[i]])
+#
+i <- which(bills$info$bol=="5308-18")
+bills$urgRaw[[i]] <- gsub(pattern = "0010", replacement = "2010", bills$urgRaw[[i]])
+#
+i <- which(bills$info$bol=="5431-11")
+bills$urgRaw[[i]] <- gsub(pattern = "0008", replacement = "2008", bills$urgRaw[[i]])
+#
+i <- which(bills$info$bol=="5687-23")
+bills$urgRaw[[i]] <- gsub(pattern = "0010", replacement = "2010", bills$urgRaw[[i]])
+#
+i <- which(bills$info$bol=="5763-05")
+bills$urgRaw[[i]] <- gsub(pattern = "0008", replacement = "2008", bills$urgRaw[[i]])
+#
+i <- which(bills$info$bol=="5898-07")
+bills$urgRaw[[i]] <- gsub(pattern = "0010", replacement = "2010", bills$urgRaw[[i]])
+#
+## i <- which(bills$info$bol=="6110-24")
+## bills$urgRaw[[i]] <- NULL # urgencias en nov 2014, post corte
+## bills$urg[[i]] <- NULL
+## bills$info$nUrg[i] <- bills$info$nSimple[i] <- 0
+#
+i <- which(bills$info$bol=="6189-06")
+bills$urgRaw[[i]] <- gsub(pattern = "0010", replacement = "2010", bills$urgRaw[[i]])
+#
+i <- which(bills$info$bol=="6231-05")
+bills$urgRaw[[i]] <- gsub(pattern = "2009", replacement = "2008", bills$urgRaw[[i]])
+#
+i <- which(bills$info$bol=="6252-09")
+bills$urgRaw[[i]] <- gsub(pattern = "0010", replacement = "2010", bills$urgRaw[[i]])
+#
+i <- which(bills$info$bol=="6443-07")
+bills$tramites[[i]]$to[4] <- dmy("04/06/2009", tz = "chile")
+bills$tramites[[i]]$from[5] <- dmy("04/06/2009", tz = "chile")
+bills$tramites[[i]]$to[5] <- dmy("12/06/2009", tz = "chile")
+bills$urgRaw[[i]] <- gsub(pattern = "Ago.", replacement = "Jun.", bills$urgRaw[[i]])
+#
+i <- which(bills$info$bol=="6562-07")
+bills$urgRaw[[i]] <- gsub(pattern = "0010", replacement = "2010", bills$urgRaw[[i]])
+#
+i <- which(bills$info$bol=="6582-11")
+bills$urgRaw[[i]] <- gsub(pattern = "0010", replacement = "2010", bills$urgRaw[[i]])
+#
+i <- which(bills$info$bol=="6586-15")
+bills$urgRaw[[i]] <- gsub(pattern = "0010", replacement = "2010", bills$urgRaw[[i]])
+#
+i <- which(bills$info$bol=="6628-06")
+bills$urgRaw[[i]] <- gsub(pattern = "0010", replacement = "2010", bills$urgRaw[[i]])
+#
+i <- which(bills$info$bol=="6639-25")
+bills$urgRaw[[i]] <- gsub(pattern = "0010", replacement = "2010", bills$urgRaw[[i]])
+#
+i <- which(bills$info$bol=="6691-07")
+bills$urgRaw[[i]] <- gsub(pattern = "0010", replacement = "2010", bills$urgRaw[[i]])
+#
+i <- which(bills$info$bol=="6726-06")
+bills$urgRaw[[i]] <- gsub(pattern = "0010", replacement = "2010", bills$urgRaw[[i]])
+#
+i <- which(bills$info$bol=="6739-02")
+bills$urgRaw[[i]] <- gsub(pattern = "0010", replacement = "2010", bills$urgRaw[[i]])
+#
+i <- which(bills$info$bol=="6758-15")
+bills$urgRaw[[i]] <- gsub(pattern = "0010", replacement = "2010", bills$urgRaw[[i]])
+#
+i <- which(bills$info$bol=="6759-10")
+bills$urgRaw[[i]] <- gsub(pattern = "0010", replacement = "2010", bills$urgRaw[[i]])
+#
+i <- which(bills$info$bol=="6791-06")
+bills$urgRaw[[i]] <- gsub(pattern = "0010", replacement = "2010", bills$urgRaw[[i]])
+#
+i <- which(bills$info$bol=="7141-08")
+bills$urgRaw[[i]] <- gsub(pattern = "1211", replacement = "2011", bills$urgRaw[[i]])
+#
+i <- which(bills$info$bol=="7203-02")
+bills$urgRaw[[i]] <- gsub(pattern = "Ago.", replacement = "Sep.", bills$urgRaw[[i]])
+#
+i <- which(bills$info$bol=="7854-07")
+bills$urgRaw[[i]] <- gsub(pattern = "1211", replacement = "2011", bills$urgRaw[[i]])
+#
+
+# add tramite number to the object created above
+for (i in 1:I){
+    #i <- 1 # debug
+    N <- nrow(bills$tramites[[i]])
+    bills$tramites[[i]]$nTr <- 1:N
+}
+rm(N)
+#
+options(warn=2) # turns warnings into errors, which break the loop (use warn=1 to return to normal) 
+for (i in work){
+#j <- j + 1 # debug
+#i <- work[j] # debug
+    message(sprintf("processing record %s", i))
+    #bills$info$bol[i] # debug
+    tmp <- bills$urgRaw[[i]]
+    tmp <- tmp[-grep(pattern = "Fecha Inicio", tmp)] # remove header assuming it contains Fecha Inicio and may not be there
+    U <- length(tmp)
+    tmp <- gsub(pattern = "(de [0-9]+) ", replacement = "\\1,", tmp) # separates date(s) with a comma
+    tmp2 <- nchar( gsub(pattern = "[^,]", replacement = "", tmp) )  # how many dates (commas) in each line
+                                        # prepares dates
+    tmp <- gsub(pattern = " de ", replacement = "/", tmp)
+    tmp <- gsub(pattern = "Ene.", replacement = "1", x = tmp)
+    tmp <- gsub(pattern = "Feb.", replacement = "2", x = tmp)
+    tmp <- gsub(pattern = "Mar.", replacement = "3", x = tmp)
+    tmp <- gsub(pattern = "Abr.", replacement = "4", x = tmp)
+    tmp <- gsub(pattern = "May.", replacement = "5", x = tmp)
+    tmp <- gsub(pattern = "Jun.", replacement = "6", x = tmp)
+    tmp <- gsub(pattern = "Jul.", replacement = "7", x = tmp)
+    tmp <- gsub(pattern = "Ago.", replacement = "8", x = tmp)
+    tmp <- gsub(pattern = "Sep.", replacement = "9", x = tmp)
+    tmp <- gsub(pattern = "Oct.", replacement = "10", x = tmp)
+    tmp <- gsub(pattern = "Nov.", replacement = "11", x = tmp)
+    tmp <- gsub(pattern = "Dic.", replacement = "12", x = tmp)
+                                        #
+    tmp <- gsub(pattern = ",[ ]+", replacement = ",", tmp) # drops spaces after commas
+                                        #
+    output <- data.frame(type=character(U)) # initialize output object
+    output$on <- dmy(gsub(pattern = "^([0-9/]*),.*", "\\1", tmp, perl = TRUE), tz = "chile") # adds date urgencia introduced
+                                        #
+    tmp3 <- sub(pattern = ".*(Sin urgencia).*", replacement = "\\1", tmp, perl = TRUE)
+    tmp3 <- sub(pattern = ".*(Simple).*", replacement = "\\1", tmp3, perl = TRUE)
+    tmp3 <- sub(pattern = ".*(Suma).*", replacement = "\\1", tmp3, perl = TRUE)
+    tmp3 <- sub(pattern = ".*(Discusión inmediata).*", replacement = "\\1", tmp3, perl = TRUE)
+    output$type <- tmp3
+## # use something like this to determine if urgencia happened while bill was in conf...
+## bills$tramites[[i]]$period <- interval(bills$tramites[[i]]$from, bills$tramites[[i]]$to) # <- put this in tramites loop
+## sel <- which( bills$tramites[[i]]$tramite == "conf" )
+## if (length(sel)>0){
+##     output$on %my_within% bills$tramites[[i]]$period
+## #    output$on[sel] %my_within% bills$tramites[[i]]$period
+## }
+                                        #
+                                        # when urgencia deadline is de jure (need to change if the bill is in Comisión mixta) --- check if Senado and Comisión mixta urgencias are included
+    tmp3 <- sub(pattern = ".*(Sin urgencia).*", replacement = 0, tmp, perl = TRUE)
+    tmp3 <- sub(pattern = ".*(Simple).*", replacement = 30, tmp3, perl = TRUE)
+    tmp3 <- sub(pattern = ".*(Suma).*", replacement = 15, tmp3, perl = TRUE)
+    tmp3 <- sub(pattern = ".*(Discusión inmediata).*", replacement = 6, tmp3, perl = TRUE)
+    tmp3 <- as.numeric(tmp3)
+    select <- which(output$on < dmy("3/7/2010", tz = "chile")) # change urgencias before constitutional reform
+    tmp3[select] <- mapvalues(tmp3[select], from = c(6,15), to = c(3,10), warn_missing = FALSE)
+                                        #
+    output$deadline <- output$on # inherits format for NAs
+    select <- which(tmp2!=0)
+    if (length(select)>0){
+        output$deadline[tmp3!=0] <- deadline(output$on[tmp3!=0], as.numeric(tmp3[tmp3!=0]))
+    }
+                                        #
+                                        # urgencia retired?
+    output$dcaduca <- 0; output$dcaduca[grep("CADUCA", tmp)] <- 1 # urgencias "caducadas" were not retired (eg 1035-07)
+    output$dretir <- 0
+    select <- which(tmp2==2)
+    if (length(select)>0){
+        output$dretir[tmp2==2 & output$dcaduca==0] <- 1
+    }
+                                        # when urgencia was removed, if at all
+    output$off <- output$deadline
+    select <- which(tmp2==2)
+    if (length(select)>0){
+        output$off[tmp2==2] <- dmy(gsub(pattern = ".*[0-9],([0-9/]*),.*", "\\1", tmp[tmp2==2], perl = TRUE), tz = "chile")
+    }
+    ##                                     # put NAs in off for urgencias not retired
+    ## select <- which(tmp2==1)
+    ## if (length(select)>0){
+    ##     output$off[tmp2==1] <- NA
+    ## }
+                                        # drops instances of no urgencia, if any
+    select <- which(output$type=="Sin urgencia")
+    if (length(select)>0) {
+        output <- output[-select,]
+    }
+                                        #
+                                        # sort chrono
+    output <- output[order(output$on),]
+                                        #
+                                        # find and consolidate chains
+    output$chain <- 0
+    U <- nrow(output) # number of messages left
+    output$tramite <- "." # prepare to receive trámite
+    output$trNum <- 0 # prepare to receive trámite number
+    for(u in 1:U){  # plug trámite to output; Not sure what it does when 2+ trámites in same day (eg. 2121-04)
+#        u <- u+1 # debug
+        sel <- output$on[u] %my_within% bills$tramites[[i]]$period # in which period does date.on belong in?
+#        sel # debug
+        if (length(bills$tramites[[i]]$tramite[sel])==0){
+            output$tramite[u] <- "check: no overlap"
+        } else {
+            output$tramite[u] <- bills$tramites[[i]]$tramite[sel]
+            output$trNum[u] <- bills$tramites[[i]]$nTr[sel]
+        }
+    }
+    if (U > 1){
+        for (k in 2:U){
+            if (output$dretir[k-1]==1 & output$on[k]==output$off[k-1]){
+                output$chain[k] <- 1
+            }
+        }
+        tmp4 <- output$chain
+        for (k in 2:U){
+            tmp4[k] <- output$chain[k] + tmp4[k-1] * output$chain[k] # zero if no chain, else how many links
+        }
+        output$chain <- tmp4; rm(tmp4)
+        # verify that chain indeed happened in same trámite and not in next
+        if (U>1){
+            for (u in 2:U){
+                if (output$tramite[u]!=output$tramite[u-1]){ # spot and recode false chains (not in same trámite)
+                    output$chain[u] <- 0
+                }
+            }
+        }
+    }
+    output$change <- 0 # by default, no change in deadline
+    ## # bloc useful if urgencia chains were consolidated
+    ## output$nshorten <- output$nextend <- 0
+    ## output$newDeadline <- output$deadline; # by default it is the same, with nil change
+    ## output$nlinks <- output$chain + 1 # will receive info if 
+    if (U > 1){
+        for (u in U:2){ ## reverse loop over urgencia messages (so that first link of multi-chain inherits downstream info)
+            if (output$chain[u]!=0){                              # choose urgencies in chains
+                output$dretir[u-1] <- 0                           # recode: upstream message was not retired
+                output$change[u] <- as.numeric(output$deadline[u] - output$deadline[u-1])*100 / as.numeric(output$deadline[u-1] - output$on[u-1]) # % change new deadline -- OJO: necesita más info para ser preciso: quitar fechas en que el Congreso no estuvo en sesión, quitar días festivos del conteo de días etc.
+                ## # bloc useful if chains were to be consolidated
+                ## output$dnlinks[u-1] <- output$nlinks[u]           # plug nlinks upstream
+                ## output$newDeadline[u-1] <- output$deadline[u]     # it just got a new deadline
+                ## output$newDeadline[u-1] <- output$deadline[u]     # they just got a new deadline
+                ## if (output$deadline[u] >= output$deadline[u-1]){
+                ##     output$nextend[u-1] <- 1                      # either longer
+                ## } else {
+                ##     output$shorten[u-1] <- 1                      # or shorter
+                ## }
+                ## output$newDeadline[u] <- NA
+                ## output$change[u-1] <- as.numeric(output$newDeadline[u-1] - output$off[u-1]) *100 / as.numeric(output$deadline[u-1] - output$on[u-1])
+                ## output$off[u-1] <- NA
+            }
+        }
+    }
+    ## ##                                     # drop chains after consolidating info
+    ## ## select <- which(output$chain==1)
+    ## ## if (length(select)>0) {
+    ## ##     output <- output[-select,]
+    ## ##}
+    ## ## output$chain <- NULL
+#
+bills$urg[[i]] <- output # plug systematized object back into database
+                                        #
+                                        # plug into slot for systematized data
+    if (nrow(output)>0){ # anything left after dropping sin urgencia?
+        bills$info$nUrg[i] <- U
+        bills$info$nInChains[i] <- nrow(output[output$chain!=0,])
+        bills$info$nSimple[i] <- nrow(output[output$type=="Simple",])
+        bills$info$nSuma[i] <- nrow(output[output$type=="Suma",])
+        bills$info$nInmed[i] <- nrow(output[output$type=="Discusión inmediata",])
+        bills$info$nRet[i] <- nrow(output[output$dretir==1,])
+    }
+    if (nrow(output)==0){ # in case nothing left after dropping sin urgencia, change info
+        bills$info$hasUrg[i] <- "no"
+    }
+}
+#output # debug
+#message(sprintf("i=%s bol=%s", i, bills$info$bol[i]))
+options(warn=1)
+# fill wrong trámites from urg by hand (single-day trámite missed by loop above)
+i <- which(bills$info$bol=="279-03")
+bills$urg[[i]]$tramite[1] <- "sen"; bills$urg[[i]]$trNum[1] <- 1
+bills$urg[[i]]$tramite[2] <- "dip"; bills$urg[[i]]$trNum[2] <- 2
+#
+i <- which(bills$info$bol=="2361-23")
+bills$urg[[i]]$tramite[25] <- "sen"; bills$urg[[i]]$trNum[25] <- 4
+#
+i <- which(bills$info$bol=="3190-04")
+bills$urgRaw[[i]][4] <- "15 de Abr. de 2003   Simple 536-348  "
+#
+rm(i, k, output, sel, select, tmp, tmp2, tmp3, u, U, work) # housecleaning
+
+# WHICH TRÁMITE(S) RECEIVED AT LEAST ONE URGENCY: 1, 2, 3, 12, 13, 23, or 123 (0 if none)
+bills$info$urgIn <- 0 # prepares column to receive which trámites had 1+ urgencies
+sel <- which(bills$info$nUrg>0)
+for (i in sel){
+    tmp <- bills$urg[[i]]$trNum # trámite numbers with an urgency
+    tmp[tmp>3] <- 3 # recode trNum as 1,2,3+
+    tmp <- as.numeric(names(table(tmp))) # remove repeated numbers
+    tmp <- paste(tmp, sep="", collapse = "")
+    bills$info$urgIn[i] <- as.numeric(tmp)
+}
+rm(sel,tmp)
+# BILL PASSED DUMMY
+bills$info$dpassed <- 0
+bills$info$dpassed[bills$info$status=="statute"] <- 1
+
+# re-arrange columns in data.frame, dropping useless ones
+bills$info <- bills$info[, c("bol", "legyr", "dateIn", "init", "dmensaje", "dpassed", "status", "dateOut", "urgIn", "nUrg", "nInChains", "nSimple", "nSuma", "nInmed", "nRet", "refundido", "leg", "state", "materia", "hasHitos", "hasReport", "hasUrg", "hasSpon", "hasVot", "hasVeto", "hasUrgHU", "nHitos")] 
+
+# SORT BILLS AND OBJECTS (SEE MY http://stackoverflow.com/questions/27303945/sort-nested-lists-in-r)
+tmp <- as.numeric( sub(pattern = "([0-9]+)-.*", replacement = "\\1", bills$info$bol) ); ord <- order(tmp)  # order: boletín w/o committee
+bills <- lapply(bills, function(x, ord) {
+      if (is.data.frame(x)) return(x[ord,])
+      return(x[ord])
+    },
+    ord = ord
+)
+rm(tmp, ord)
+
+# add titulo from csv file
+tmp <- read.csv(file = paste(datdir, "proyec3.csv", sep = ""), stringsAsFactors = FALSE)
+tmp <- tmp[,c("bl", "titulo")]; colnames(tmp)[1] <- "bol" # keep titulos and bol only
+tmp2 <- merge(x = bills$info, y = tmp, by = "bol", all = FALSE)
+tmp <- as.numeric(sub(pattern = "([0-9]+)-[0-9]+", replacement = "\\1", tmp2$bol))
+tmp2 <- tmp2[order(tmp),]
+table(tmp2$bol==bills$info$bol)
+bills$info <- tmp2
+
+## Add objects with session dates 1990-2014
+library(lubridate)
+ses <- read.csv(file = paste(datdir, "sesionesCamara.csv", sep = ""), stringsAsFactors = FALSE)
+colnames(ses) <- c("legislatura","date","session","stat")
+ses$txt <- ses$session # keep text
+ses$session <- sub(pattern = "Sesión ([0-9].*) en .*", replacement = "\\1", ses$txt)
+ses$session <- sub(pattern = "Sesión en ([Cc]ongreso pleno) en .*", replacement = "\\1", ses$session)
+#
+tmp <- ses$date
+tmp <- gsub(pattern = " de ", replacement = "-", x = tmp)
+tmp <- gsub(pattern = "Ene."     , replacement = "1", x = tmp)
+tmp <- gsub(pattern = "Feb."   , replacement = "2", x = tmp)
+tmp <- gsub(pattern = "Mar."     , replacement = "3", x = tmp)
+tmp <- gsub(pattern = "Abr."     , replacement = "4", x = tmp)
+tmp <- gsub(pattern = "May."      , replacement = "5", x = tmp)
+tmp <- gsub(pattern = "Jun."     , replacement = "6", x = tmp)
+tmp <- gsub(pattern = "Jul."     , replacement = "7", x = tmp)
+tmp <- gsub(pattern = "Ago."    , replacement = "8", x = tmp)
+tmp <- gsub(pattern = "Sep.", replacement = "9", x = tmp)
+tmp <- gsub(pattern = "Oct."   , replacement = "10", x = tmp)
+tmp <- gsub(pattern = "Nov." , replacement = "11", x = tmp)
+tmp <- gsub(pattern = "Dic." , replacement = "12", x = tmp)
+ses$date <- dmy(tmp, tz = "chile")
+## # compare date in string to date column: ALL OK
+## tmp <- ses$txt
+## tmp <- sub(pattern = "Sesión [0-9].* en (.*)", replacement = "\\1", tmp)       # drop start
+## tmp <- sub(pattern = "Sesión en [cC]ongreso pleno en (.*)", replacement = "\\1", tmp)       # drop start
+## tmp <- sub(pattern = "(.*) de [0-9]+:.*:[0-9]+ hrs.", replacement = "\\1", tmp) # drop hours
+## tmp <- sub(pattern = "(.*) a las.*hrs.", replacement = "\\1", tmp)              # drop hours
+## tmp <- gsub(pattern = " de ", replacement = "-", x = tmp)
+## tmp <- sub(pattern = ".* ([0-9]+[-].*)", replacement = "\\1", x = tmp)
+## tmp <- gsub(pattern = "enero"     , replacement = "1", x = tmp)
+## tmp <- gsub(pattern = "febrero"   , replacement = "2", x = tmp)
+## tmp <- gsub(pattern = "marzo"     , replacement = "3", x = tmp)
+## tmp <- gsub(pattern = "abril"     , replacement = "4", x = tmp)
+## tmp <- gsub(pattern = "mayo"      , replacement = "5", x = tmp)
+## tmp <- gsub(pattern = "junio"     , replacement = "6", x = tmp)
+## tmp <- gsub(pattern = "julio"     , replacement = "7", x = tmp)
+## tmp <- gsub(pattern = "agosto"    , replacement = "8", x = tmp)
+## tmp <- gsub(pattern = "septiembre", replacement = "9", x = tmp)
+## tmp <- gsub(pattern = "octubre"   , replacement = "10", x = tmp)
+## tmp <- gsub(pattern = "noviembre" , replacement = "11", x = tmp)
+## tmp <- gsub(pattern = "diciembre" , replacement = "12", x = tmp)
+## tmp <- dmy(tmp, tz = "chile")
+## table(tmp == ses$date)
+#
+# sort and keep dates only --- if something else needed it can be added from ses here
+ses <- ses[order(ses$date, ses$session),]; ses$ddip <- 1 # prepare new data.frame with date (sen sessions will be added here)
+tmp <- ses[,c("date","ddip")];
+tmp <- tmp[duplicated(tmp)==FALSE, ] # drop repeated dates (days with 2nd+ session)
+bills$sessions <- tmp
+rm(ses, tmp, tmp2)
+#
+# add senado sessions
+ses <- read.csv(file = paste(datdir, "sesionesSenado.csv", sep = ""), stringsAsFactors = FALSE)
+colnames(ses) <- c("legislatura","sesion","tipo","fch")
+tmp <- ses$fch
+tmp <- sub(pattern = "(.*[12][90][901][0-9]).*", replacement = "\\1", tmp) # drop trailing spaces
+tmp <- gsub(pattern = " de ", replacement = "-", x = tmp)
+tmp <- sub(pattern = "[A-Za-záé]+\\W([0-9]{1,2}[-].*)", replacement = "\\1", tmp) # drop weekdays
+tmp <- gsub(pattern = "Enero"     , replacement = "1", x = tmp)
+tmp <- gsub(pattern = "Febrero"   , replacement = "2", x = tmp)
+tmp <- gsub(pattern = "Marzo"     , replacement = "3", x = tmp)
+tmp <- gsub(pattern = "Abril"     , replacement = "4", x = tmp)
+tmp <- gsub(pattern = "Mayo"      , replacement = "5", x = tmp)
+tmp <- gsub(pattern = "Junio"     , replacement = "6", x = tmp)
+tmp <- gsub(pattern = "Julio"     , replacement = "7", x = tmp)
+tmp <- gsub(pattern = "Agosto"    , replacement = "8", x = tmp)
+tmp <- gsub(pattern = "Septiembre", replacement = "9", x = tmp)
+tmp <- gsub(pattern = "Octubre"   , replacement = "10", x = tmp)
+tmp <- gsub(pattern = "Noviembre" , replacement = "11", x = tmp)
+tmp <- gsub(pattern = "Diciembre" , replacement = "12", x = tmp)
+tmp <- dmy(tmp, tz = "chile")
+ses$fch <- tmp # needed to recover cong pleno below
+#
+tmp <- tmp[order(tmp)]
+tmp <- tmp[duplicated(tmp)==FALSE]
+tmp <- data.frame(date = tmp, dsen = rep(1, length(tmp)))
+#
+tmp2 <- merge(x = bills$sessions, y = tmp, by = "date", all = TRUE); tmp2[is.na(tmp2)==TRUE] <- 0 # merge senado and diputado sessions
+tmp2 <- tmp2[order(tmp2$date),]
+#
+bills$sessions <- tmp2 # paste object with both chambers' sessions
+#
+# recover Congreso pleno dates that are missing in dip data
+sel <- which(ses$tipo=="Congreso pleno") # some of these sessions do not appear in diputados data, will add them
+bills$sessions$ddip[which(bills$sessions$date %in% ses$fch[sel])] <- 1
+#
+rm(tmp, tmp2)
+#
+head(bills$sessions)
+rm(i, ses, sel)
+
+save.image(file="tmp.RData")
+# export csv
+bills$info$yrin <- year(bills$info$dateIn); bills$info$moin <- month(bills$info$dateIn); bills$info$dyin <- day(bills$info$dateIn);
+#bills$outfo$yrout[] <- year(bills$outfo$dateOut); bills$outfo$moout <- month(bills$outfo$dateOut); bills$outfo$dyout <- day(bills$outfo$dateOut);
+write.csv(bills$info, file = paste(datdir, "bills-info.csv", sep = ""))
+
+rm(list=ls())
+datdir <- "/home/eric/Dropbox/data/latAm/chile/data/" 
+setwd(datdir)
+load(file = "tmp.RData")
+options(width = 150)
+
+# head(force_tz(bills$sessions, "Chile")) # use this to force chile time zone while keeping the clock time, which may change the date
+
+# exports csv of allUrg to process in plots.r
+# extract urgencias object, unlisted to prepare urgencia-as-unit data
+## ojo: hay objectos bills$urgencias, bills$urgRaw y bills$urg... uno sale sobrando, checar
+tmp <- bills$urg
+sel <- which(bills$info$nUrg>0) # bills with at least one urgencia
+for (i in sel){
+    tmp[[i]]$bol <- bills$info$bol[i]
+}
+tmp <- tmp[sel] # drop elements without urgency
+#
+library(plyr)
+library(lubridate)
+allUrg <- ldply(tmp, data.frame) # unlist the data.frames into one large data.frame
+#
+# drop urgencias after 10/3/2014
+sel <- which(allUrg$on>dmy("10/03/2014", tz = "chile"))
+allUrg <- allUrg[-sel,]
+#
+# add numeric type: 1,2,3 for di, su, si; 4.1,4.2,4.3 for resets of each type; 5.1,5.2,5.3 for retired of each type
+allUrg$typeN <- 0; allUrg$typeN[allUrg$type=="Discusión inmediata"] <- 1; allUrg$typeN[allUrg$type=="Suma"] <- 2; allUrg$typeN[allUrg$type=="Simple"] <- 3;
+tmp2 <- allUrg$typeN # will be used for retires
+allUrg$typeN[allUrg$chain>0] <- 4 + allUrg$typeN[allUrg$chain>0]/10 # temp recode
+# add messages retiring urgency
+tmp <- allUrg[allUrg$dretir==1,]; tmp2 <- tmp2[allUrg$dretir==1]
+tmp$typeN <- 5 + tmp2/10
+tmp$on <- tmp$off
+allUrg <- rbind(allUrg, tmp) # binds retiring messages for graph
+table(allUrg$typeN)
+#
+# drop urgencias after 10/3/2014 (repeat since off messages were added)
+sel <- which(allUrg$on>dmy("10/03/2014", tz = "chile"))
+allUrg <- allUrg[-sel,]
+save(bills, allUrg, file = paste(datdir, "allUrg.RData", sep = "")) # <--- export
+rm(i, sel, tmp, tmp2)
+# further transformations of allUrg in plots.r in preparation for graph
+
+
+# drop bills initiated before 1/3/1998
+library(lubridate)
+drop <- -which(bills$info$dateIn<dmy("1/3/1998", tz = "chile"))
+bills <- lapply(bills, function(x, drop) {
+      if (is.data.frame(x)) return(x[drop,])
+      return(x[drop])
+    },
+    drop = drop
+)
+rm(drop)
+#
+I <- nrow(bills$info) # update tot obs
+
+# SOME DESCRIPTIVES (Processed in separate spreadsheet descriptoves.ods)
+table(bills$info$dmensaje)
+table(bills$info$dpassed)
+table(bills$info$dpassed[bills$info$dmensaje==0])
+table(bills$info$dpassed[bills$info$dmensaje==1])
+tmp <- bills$info$nUrg; tmp[tmp>0] <- 1; table(tmp); round(table(tmp)*100/I,0) # <-- with at least one urgency message
+table(tmp[bills$info$dmensaje==0])
+table(tmp[bills$info$dmensaje==1])
+#
+table(bills$info$urgIn)
+table(bills$info$urgIn[bills$info$dpassed==0])
+table(bills$info$urgIn[bills$info$dpassed==1])
+#
+table(bills$info$urgIn[bills$info$dpassed==0 & bills$info$dmensaje==0])
+table(bills$info$urgIn[bills$info$dpassed==1 & bills$info$dmensaje==0])
+table(bills$info$urgIn[bills$info$dpassed==0 & bills$info$dmensaje==1])
+table(bills$info$urgIn[bills$info$dpassed==1 & bills$info$dmensaje==1])
+#
+table(bills$info$nUrg)
+
+summary(bills$info)
+
+
+# BILL'S LAST TRÁMITE(S) AND PATH
+bills$info$tramPath <- "0-1" # prepares column to receive info
+#sel <- which(bills$info$nUrg>0)
+for (i in I){
+    i <- 1 # debug
+    tmp <- bills$urg[[i]]$trNum # trámite numbers with an urgency
+    tmp[tmp>3] <- 3 # recode trNum as 1,2,3+
+    tmp <- as.numeric(names(table(tmp))) # remove repeated numbers
+    tmp <- paste(tmp, sep="", collapse = "")
+    bills$info$urgIn[i] <- as.numeric(tmp)
+}
+rm(sel,tmp)
+
+# clean tramites
+bills$hitos[[i]]$chamber[bills$hitos[[i]]$tramite=="tribunal"]
+bills$tramites[[i]]
+
+#see xtabs pre-packaged function
+myXtab <- function(v1,v2){ # xtab with row% in cells and row totals
+    select <- which(bills$info$dmensaje==0); # will use for all, change if needed
+    zetab <- table(v1[select], v2[select], useNA = "no");
+    message("MOCIONES")
+    print(cbind(round(prop.table(zetab, 1), digits = 2), margin.table(zetab, 1))) # crosstab with shares and column margins
+    select <- which(bills$info$dmensaje==1); # will use for all, change if needed
+    zetab <- table(v1[select], v2[select], useNA = "no");
+    message("MENSAJES")
+    print(cbind(round(prop.table(zetab, 1), digits = 2), margin.table(zetab, 1))) # crosstab with shares and column margins
+}
+
+table(bills$info$status)
+
+# has urgency v not
+tmp <- bills$info$nUrg; tmp[tmp>0] <- 1; table(tmp); round(table(tmp)*100/I,0)
+# since 1998
+post98 <- rep(0,I); post98[which(bills$info$dateIn>=dmy("1/3/1998", tz = "chile"))] <- 1
+table(tmp[post98==1])
+myXtab(post98, tmp)
+
+# has urgency (col) v passed (rows)
+myXtab(bills$info$dpassed, tmp)
+# where did urgency hit v passed
+myXtab(bills$info$dpassed, bills$info$urgIn)
+
+colnames(bills$info)
+sel <- which(bills$info$init=="dip"); tmp <- bills$info[sel,] # dip-init
+myXtab(tmp$dpassed, tmp$urgIn)
+sel <- which(bills$info$init=="sen"); tmp <- bills$info[sel,] # sen-init
+myXtab(tmp$dpassed, tmp$urgIn)
+
+
+tmp <- bills$info$nUrg; tmp[bills$info$nUrg>9] <- 10 # nUrg with 10+ urgencias grouped 
+myXtab(bills$info$init, tmp)
+table(bills$info$nUrg)
+
+table(bills$info$urgIn)
+
+bills$info$dpassed <- 0; bills$info$dpassed[bills$info$status=="statute"] <- 1
+
+table(bills$info$status)
+table(bills$info$dmensaje)
+
+    sel <- which(bills$info$legyr==i); tmp <- table(bills$info$dmensaje[sel], bills$info$hasUrgH[sel], useNA = "ifany")
+    print(cbind(round(prop.table(tmp, 1), digits = 2), margin.table(tmp, 1))) # crosstab with shares and column margins
+tmp <- table(bills$info$dmensaje, bills$info$hasUrgH, useNA = "ifany") # whole period
+print(cbind(round(prop.table(tmp, 1), digits = 2), margin.table(tmp, 1))) # crosstab with shares and column margins
+
+
+
+## # Esto está pendiente terminarlo: add bills$urg to bills with urgencia in hitos only
+## library(lubridate)
+## library(timeDate)
+## library(plyr)
+## sel <- which(bills$info$hasUrgHU=="yes" & bills$info$hasUrg=="no")
+## bills$info$bol[sel]
+## tmp <- bills$urg[[which(bills$info$bol=="4639-11")]]; tmp <- tmp[1,] # choose bill with urgencia to copy object format
+## i <- sel[1] # loop over sel
+## tmp2 <- bills$hitos[[i]]
+## tmp2 <- tmp2[grep("[Uu]rgencia", tmp2$action), c("date","urg","chamber")]; colnames(tmp2) <- c("on","urg","tramite")
+## tmp2$type <- "."; tmp3 <- tmp2$type
+## select <- grep("urg30", tmp2$urg); tmp2$type[select] <- "Simple"; tmp3[select] <- 30
+## select <- grep("urg15", tmp2$urg); tmp2$type[select] <- "Suma"; tmp3[select] <- 15
+## select <- grep("urg6", tmp2$urg); tmp2$type[select] <- "Discusión inmediata"; tmp3[select] <- 6
+## tmp3 <- as.numeric(tmp3)
+## select <- which(tmp2$on < dmy("3/7/2010", tz = "chile")) # change urgencias before constitutional reform
+## tmp3[select] <- mapvalues(tmp3[select], from = c(6,15), to = c(3,10), warn_missing = FALSE)
+## tmp2$deadline <- tmp2$on # inherits format for NAs
+## tmp2$deadline <- deadline(tmp2$on, tmp3)
+## # en tmp2 falta dcaduca, dretir, off, chain, change
+
+
+
+
+
+xx
 
 ### use for bicameral overrule loop "insistencia"
 ## tmp <- "."
@@ -681,181 +1553,6 @@ which(bills$hitos[[i]]$chamber==".")
 HAY QUE LIMPIAR bills$hitos[[i]]$chamber (QUITAR HUECOS)
 
 
-#########################
-# systematize urgencias #
-#########################
-work <- which(bills$info$hasUrg=="yes") # work only this in loop
-#
-# new slots for info
-bills$info$nUrg <- 0
-bills$info$n30 <- 0
-bills$info$n15 <- 0
-bills$info$n6 <- 0
-bills$info$nRet <- 0
-
-# neat function to compute urgencia dealines excluding week-ends
-# solution 1 takes holidays other than weekends into account, which is a plus
-library(timeDate)
-deadline <- function(x, nBizDys = 6){ # function to process deadlines excluding week-ends and holidays... how do you change default=holidayNYSE with non-prepackaged holidays (eg., Chile's http://www.feriadoschilenos.cl/)?
-    output <- Reduce(rbind, Map((function(x, howMuch = 15){
-        x <- as.Date(x)
-        days <- x + 1:(howMuch*2)
-        Deadline <- days[isBizday(as.timeDate(days))][howMuch]
-        data.frame(DateIn = x, Deadline, DayOfWeek = weekdays(Deadline),   
-                   TimeDiff = difftime(Deadline, x))  # useful to get more info, if so wished
-    }), x, howMuch = nBizDys))
-    output$Deadline
-}
-#deadline(date.in, nBizDys=30) # example of use
-#
-## # solution 2 removes weekends only, still needs to be turned into function
-## library(chron)
-## deadline <- function(x, nDays=31) {
-##     x1 <-seq(as.Date(x)+1, length.out=nDays*2, by='1 day')
-##     data.frame(Start=x,End=x1[!is.weekend(x1)][nDays])
-## }
-## do.call(rbind, lapply(date.in, deadline))
-
-# pick one case
-i <- which(bills$info$bol=="999-15") # debug: one case with several urgencias
-i <- work[1]
-j <- 1
-
-#for (i in work){
-j <- j + 1
-i <- work[j]
-    print(paste("loop", which(work==i), "of", length(work)))
-    #bills$info$bol[i] # debug
-    tmp <- bills$urgencias[[i]]
-    tmp <- tmp[-grep(pattern = "Fecha Inicio", tmp)] # remove header assuming it contains Fecha Inicio and may not be there
-    U <- length(tmp)
-    tmp <- gsub(pattern = "(de [0-9]+) ", replacement = "\\1,", tmp) # separates date(s) with a comma
-    tmp2 <- nchar( gsub(pattern = "[^,]", replacement = "", tmp) )  # how many dates (commas) in each line
-                                        # prepares dates
-    tmp <- gsub(pattern = " de ", replacement = "/", tmp)
-    tmp <- gsub(pattern = "Ene.", replacement = "1", x = tmp)
-    tmp <- gsub(pattern = "Feb.", replacement = "2", x = tmp)
-    tmp <- gsub(pattern = "Mar.", replacement = "3", x = tmp)
-    tmp <- gsub(pattern = "Abr.", replacement = "4", x = tmp)
-    tmp <- gsub(pattern = "May.", replacement = "5", x = tmp)
-    tmp <- gsub(pattern = "Jun.", replacement = "6", x = tmp)
-    tmp <- gsub(pattern = "Jul.", replacement = "7", x = tmp)
-    tmp <- gsub(pattern = "Ago.", replacement = "8", x = tmp)
-    tmp <- gsub(pattern = "Sep.", replacement = "9", x = tmp)
-    tmp <- gsub(pattern = "Oct.", replacement = "10", x = tmp)
-    tmp <- gsub(pattern = "Nov.", replacement = "11", x = tmp)
-    tmp <- gsub(pattern = "Dic.", replacement = "12", x = tmp)
-                                        #
-    tmp <- gsub(pattern = ",[ ]+", replacement = ",", tmp) # drops spaces after commas
-                                        #
-    output <- data.frame(type=character(U)) # initialize output object
-    output$on <- dmy(gsub(pattern = "^([0-9/]*),.*", "\\1", tmp, perl = TRUE), tz = "UTC") # adds date urgencia introduced
-                                        #
-    tmp3 <- sub(pattern = ".*(Sin urgencia).*", replacement = "\\1", tmp, perl = TRUE)
-    tmp3 <- sub(pattern = ".*(Simple).*", replacement = "\\1", tmp3, perl = TRUE)
-    tmp3 <- sub(pattern = ".*(Suma).*", replacement = "\\1", tmp3, perl = TRUE)
-    tmp3 <- sub(pattern = ".*(Discusión inmediata).*", replacement = "\\1", tmp3, perl = TRUE)
-    output$type <- tmp3
-                                        #
-                                        # when urgencia deadline is de jure (need to change if the bill is in Comisión mixta) --- check is Senado and Comisión mixta urgencias are included
-    tmp3 <- sub(pattern = ".*(Sin urgencia).*", replacement = 0, tmp, perl = TRUE)
-    tmp3 <- sub(pattern = ".*(Simple).*", replacement = 30, tmp3, perl = TRUE)
-    tmp3 <- sub(pattern = ".*(Suma).*", replacement = 15, tmp3, perl = TRUE)
-    tmp3 <- sub(pattern = ".*(Discusión inmediata).*", replacement = 6, tmp3, perl = TRUE)
-    tmp3 <- as.numeric(tmp3)
-                                        #
-    output$deadline <- output$on # inherits format for NAs
-    select <- which(tmp2!=0)
-    if (length(select)>0){
-        output$deadline[tmp3!=0] <- deadline(output$on[tmp3!=0], as.numeric(tmp3[tmp3!=0]))
-    }
-                                        #
-                                        # urgencia retired?
-    output$retir <- "no"
-    select <- which(tmp2==2)
-    if (length(select)>0){
-        output$retir[tmp2==2] <- "yes"
-    }
-                                        # when urgencia was removed, if at all
-    output$off <- output$deadline
-    select <- which(tmp2==2)
-    if (length(select)>0){
-        output$off[tmp2==2] <- dmy(gsub(pattern = ".*[0-9],([0-9/]*),.*", "\\1", tmp[tmp2==2], perl = TRUE))
-    }
-                                        # clean dates
-    select <- which(tmp2==1)
-    if (length(select)>0){
-        output$off[tmp2==1] <- NA
-    }
-                                        # drops instances of no urgencia, if any
-    select <- which(output$type=="Sin urgencia")
-    if (length(select)>0) {
-        output <- output[-select,]
-    }
-                                        #
-                                        # sort chrono
-    output <- output[order(output$on),]
-                                        #
-                                        # remove "sin urgencia", if any
-    select <- which(output$type=="Sin urgencia")
-    if (length(select)>0) {
-        output <- output[-select,]
-    }
-                                        # find and consolidate chains
-    output$chain <- 0
-    U <- nrow(output) # number of messages left
-    if (U > 1){
-        for (k in 2:U){
-            if (output$retir[k-1]=="yes" & output$on[k]==output$off[k-1]){
-                output$chain[k] <- 1
-            }
-        }
-        tmp4 <- output$chain
-        for (k in 2:U){
-            tmp4[k] <- output$chain[k] + tmp4[k-1] * output$chain[k] # zero if no chain, else how many links
-        }
-        output$chain <- tmp4; rm(tmp4)
-    ## output$shorten <- output$extend <- "no"
-    ## output$newDeadline <- output$deadline
-    ## output$change <- 0
-    ## for (k in 2:U){
-    ##     if (output$chain[k]==1){
-    ##         output$retir[k-1] <- "no"
-    ##         output$newDeadline[k-1] <- output$deadline[k]
-    ##         if (output$deadline[k] >= output$deadline[k-1]){
-    ##             output$extend[k-1] <- "yes"
-    ##         } else {
-    ##             output$shorten[k-1] <- "yes"
-    ##         }
-    ##         output$newDeadline[k] <- NA
-    ##         output$change[k-1] <- as.numeric(output$newDeadline[k-1] - output$off[k-1]) *100 / as.numeric(output$deadline[k-1] - output$on[k-1])
-    ##         output$off[k-1] <- NA
-    ##     }
-    }
-    ## ##                                     # drop chains
-    ## ## select <- which(output$chain==1)
-    ## ## if (length(select)>0) {
-    ## ##     output <- output[-select,]
-    ## ## }
-    ## ## output$chain <- NULL
-output # debug
-bills$info$bol[i] # debug
-                                        #
-                                        # plug into slot for systematized data
-    if (nrow(output)>0){ # anything left after dropping sin urgencia?
-        bills$syst[[i]] <- output # WILL NEED A NAME
-        bills$info$nUrg[i] <- nrow(output)
-        bills$info$n30[i] <- nrow(output[output$type=="Simple",])
-        bills$info$n15[i] <- nrow(output[output$type=="Suma",])
-        bills$info$n6[i] <- nrow(output[output$type=="Discusión inmediata",])
-        bills$info$nRet[i] <- nrow(output[output$retir=="yes",])
-    }
-    if (nrow(output)==0){ # in case nothing left after dropping sin urgencia, change info
-        bills$info$hasUrg[i] <- "no"
-    }
-#}
-output
-bills$info[i,]
 
 ls()
 rm(select, output, tmp, tmp2, tmp3)      # clean
@@ -887,22 +1584,6 @@ setwd(wd)
 
 raw <- readLines( "boletines.txt", encoding = "utf-8" )
 head(raw)
-
-## raw <- gsub(pattern = "\xe1",   replacement = "á", raw)
-## raw <- gsub(pattern = "&#225;", replacement = "á", raw)
-## raw <- gsub(pattern = "\xe9",   replacement = "é", raw)
-## raw <- gsub(pattern = "&#233;", replacement = "é", raw)
-## raw <- gsub(pattern = "\xed",   replacement = "í", raw)
-## raw <- gsub(pattern = "&#237;", replacement = "í", raw)
-## raw <- gsub(pattern = "\xf3",   replacement = "ó", raw)
-## raw <- gsub(pattern = "&#243;", replacement = "ó", raw)
-## raw <- gsub(pattern = "\xfa",   replacement = "ú", raw)
-## raw <- gsub(pattern = "&#250;", replacement = "ú", raw)
-## #raw <- gsub(pattern = "\", replacement = "ñ", raw)
-## raw <- gsub(pattern = "&#241;", replacement = "ñ", raw)
-## raw <- gsub(pattern = "&#176;", replacement = "°", raw)
-
-## writeLines(raw, "utf8.boletines.txt"    )
 
 reg <- grep(pattern = "\t<td>", raw, perl = TRUE) # locates lines with ingreso, título, estado
 #reg <- c(reg, reg+1) # next line in each has prmID
