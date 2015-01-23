@@ -10,7 +10,7 @@
 \usepackage{tikz}             % Easier syntax to draw pgf files (invokes pgf automatically)
 \usetikzlibrary{arrows}
 
-\usepackage{times}          % set font type to Times
+\usepackage{times}            % set font type to Times
 \usepackage[longnamesfirst, sort]{natbib}\bibpunct[]{(}{)}{,}{a}{}{;} % handles biblio and references 
 
 \usepackage{rotating}         % sideway tables and figures that take a full page
@@ -224,6 +224,21 @@ Total             & 1466      & \emph{100}   \\ \hline
 \caption{Urgent bills classified by number of urgency messages received}\label{T:billFreqByNurg}
 \end{center}
 \end{table}
+
+\begin{table}
+\begin{center}
+\begin{small}
+\begin{tabular}{lrrrrrrrr}
+                         &  \mc{8}{c}{Percent Concertación sponsors} \\
+Urgency raised by        &  0\%      &  1--25\%  &  26--50\%  &  51--75\%  &  76--99\%  &  100\%      &  All         &  N \\ \hline
+Concertación presidents  & \emph{21} & \emph{3}  & \emph{10}  & \emph{15}  & \emph{13}  & \emph{39}   &  \emph{100}  &  230 \\
+Right president          & \emph{26} & \emph{4}  & \emph{18}  & \emph{12}  & \emph{12}  & \emph{26}   &  \emph{100}  &  121 \\
+\end{tabular}
+\caption{Sponsorship of MC-initiated bills receiving at least one urgency messages. Entries are relative frequencies of Concertación sponsors among bills declared urgent by presidents elected by a given list. The first entry reports that 21 percent of bills declared urgent by a Concertación president had not a single sponsor elected by that list; and so forth.}\label{T:sponsorsOfUrgBills}
+\end{small}
+\end{center}
+\end{table}
+
 
 
 \section{Dependent variable}

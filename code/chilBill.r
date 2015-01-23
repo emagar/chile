@@ -237,7 +237,7 @@ for (i in sel){
     output$tramite <- sub(pattern = "Tramitación terminada.*"             , replacement = "ended", output$tramite, perl = TRUE)
     output$tramite <- sub(pattern = "Comisión Mixta.*"                    , replacement = "conf", output$tramite, perl = TRUE)
     output$tramite <- sub(pattern = "Disc[.] [Ii]nforme C[.]Mixta.*"      , replacement = "PostConf", output$tramite, perl = TRUE)
-    output$tramite <- sub(pattern = ".*insistencia.*"                     , replacement = "PostConf", output$tramite, perl = TRUE)
+    output$tramite <- sub(pattern = ".*insistencia.*"                     , replacement = "chOverride", output$tramite, perl = TRUE) 
     output$tramite <- sub(pattern = ".*Congreso Pleno.*"                  , replacement = "Cong", output$tramite, perl = TRUE)
                                         #
     tmp <- sub(pattern = "^.*?/(.*)", replacement = "\\1", tmp, perl = TRUE) # crops object
@@ -371,8 +371,38 @@ for (i in 1:I){
     message(sprintf("loop %s of %s", i, I))
     select <- grep(pattern = "[Cc]omisi[oó]n [Mm]ixta", bills$hitos[[i]]$action)
     bills$hitos[[i]]$chamber[select] <- "conf"
-    select <- grep(pattern = "[Oo]ficio de [Ll]ey al [Ee]jecutivo", bills$hitos[[i]]$action)
+    sel1 <- grep(pattern = "[Oo]ficio de [Ll]ey al [Ee]jecutivo", bills$hitos[[i]]$action)
+    sel2 <- grep(pattern = "[Oo]ficio.*[pP]ara promulgación.*[Pp]resident[ea].*", bills$hitos[[i]]$action)
+    select <- union(sel1, sel2)
     bills$hitos[[i]]$chamber[select] <- "ejec"
+}
+
+# begin correcting tribunal constitucional steps
+tmp <- rep(0, I)
+for (i in 1:I){
+    if (length(grep(pattern = "tribunal", x = bills$hitos[[i]]$tramite))>0) tmp[i] <- 1
+}
+sel <- which(tmp==1)
+for (i in sel){
+    bills$hitos[[i]]$chamber[bills$hitos[[i]]$tramite=="tribunal" & bills$hitos[[i]]$chamber!="ejec"] <- "trib"
+}
+# begin correcting veto steps
+tmp <- rep(0, I)
+for (i in 1:I){
+    if (length(grep(pattern = "veto", x = bills$hitos[[i]]$tramite))>0) tmp[i] <- 1
+}
+sel <- which(tmp==1)
+for (i in sel){
+    bills$hitos[[i]]$chamber[bills$hitos[[i]]$tramite=="veto"] <- "veto"
+}
+# drop redundant veto entries
+for (i in sel){
+    vet <- grep("veto",bills$hitos[[i]]$chamber)
+    if (length(vet)>1){
+        vet <- vet[-1] # those that will be dropped
+        vet <- min(vet):max(vet) # include anything sandwiched between veto for manipulation
+        bills$ hitos[[i]]$chamber[vet] <- "drop"
+    }
 }
 
 tmp <- rep(0,I)
@@ -389,7 +419,7 @@ table(tmpInferred)   # cases with missing chamber inferred
 #
 bills$info$nHitos <- nHitos
 #
-rm(i, j, sel, tmp, tmpHasMissing, tmpInferred, tmpLinesChMissing, nHitos, select)
+rm(i, j, sel, sel1, sel2, tmp, tmpHasMissing, tmpInferred, tmpLinesChMissing, nHitos, select)
 
 # recode bill status
 bills$info$status <- bills$info$state # duplicates to retain original
@@ -416,9 +446,27 @@ table(bills$info$status) # debug
 bills$tramites <- sapply(1:I, function(x) NULL) # initializes empty list with I elements (unnamed; names would go where 1:I)
 for (i in 1:I){
     message(sprintf("loop %s of %s", i, I))
-    these <- rep(1, nrow(bills$hitos[[i]])) # object that will select cases to include
-    dat.tram <- bills$hitos[[i]][,c("date", "chamber")] # keeps only date and tramite in separate object
-    if (nrow(bills$hitos[[i]])>1){ # next block only if multiline <--- ALL MULTILINE, SEEN ABOVE 
+    if (length(grep("drop", bills$hitos[[i]]$chamber))>0){ # manipulates hitos object in case there are "drop" lines
+        tmp <- bills$hitos[[i]][-grep("drop", bills$hitos[[i]]$chamber),] # drops "drop" rows
+    } else {
+        tmp <- bills$hitos[[i]]
+    }
+    if (length(grep("ejec", tmp$chamber))>0){ # manipulates tmp object in case there are "ejec" lines
+        # this block may be wrong: assumes that after "ejec", $chamber can only be "veto" or "trib", once each at most...
+        selejec <- grep("ejec", tmp$chamber)
+        if (length(selejec)>0){
+            selejec <- selejec[1] # keep only first/only instance
+            after <- selejec:nrow(tmp) # indices that will be mnipulated
+            tmp2 <- tmp[after,] # rows to manipulate
+            tmp2 <- tmp2[grep("ejec|veto|trib", tmp2$chamber),] # keeps only rows with ejec, veto, or trib...
+            tmp2 <- tmp2[duplicated(tmp2$chamber)==FALSE,]      # ... removing duplicates
+            tmp <- rbind(tmp[1:(selejec-1),], tmp2)             # re-builds object
+        }
+        # end block
+    }
+    these <- rep(1, nrow(tmp)) # object that will select cases to include
+    dat.tram <- tmp[,c("date", "chamber")] # keeps only date and tramite in separate object
+    if (nrow(tmp)>1){ # next block only if multiline <--- ALL MULTILINE, SEEN ABOVE 
         for (j in 2:length(these)){
             #hour(dat.tram$date[j]) <- ifelse(dat.tram$date[j]==dat.tram$date[j-1], hour(dat.tram$date[j]) + 1, hour(dat.tram$date[j])) # adding 1hr to same dates avoids overlaps
             these[j] <- ifelse(dat.tram$chamber[j]==dat.tram$chamber[j-1], 0, 1) # identify tramites different from previous row as 1s
@@ -444,8 +492,7 @@ for (i in 1:I){
     bills$tramites[[i]] <- dat.tram
     bills$tramites[[i]]$period <- new_interval(bills$tramites[[i]]$from, bills$tramites[[i]]$to) # adds trámite duration
 }
-rm(dat.tram, i, j, sel, these)
-# FALTA LIMPIAR EL FINAL PARA QUE TERMINE CON EJECUTIVO EN CASO DE PUBLICACION... PERO ASÍ DEBE AYUDAR PARA LAS URGENCIAS
+rm(dat.tram, i, j, sel, these, after, selejec, tmp2)
 
 ## loop over hitos in search of urgencia info
 #
@@ -731,6 +778,17 @@ setMethod("%my_within%", signature(a = "Interval", b = "Interval"), function(a,b
     start.in & end.in
 })
 
+save.image("tmp2.RData")
+
+rm(list=ls())
+datdir <- "/home/eric/Dropbox/data/latAm/chile/data/" 
+setwd(datdir)
+load(file = "tmp2.RData")
+options(width = 150)
+library(plyr)
+library(lubridate)
+library(timeDate)
+
 # clean data from source
 i <- which(bills$info$bol=="1484-01")
 tmp <- bills$urgRaw[[i]]; tmp <- tmp[c(-2,-3,-5)]
@@ -754,35 +812,41 @@ tmp[2] <- "02 de May. de 2001   Suma 0020501  "; tmp[4] <- "10 de Abr. de 2001 1
 bills$urgRaw[[i]] <- tmp
 #
 i <- which(bills$info$bol=="2121-04")
-tmp <- bills$tramites[[i]]; tmp$tramite[3] <- "conf"
+tmp <- bills$tramites[[i]]; tmp$to[2] <- dmy("20-01-1998", tz = "chile"); tmp$period[2] <- new_interval(tmp$from[2], tmp$to[2]); tmp <- tmp[-3:-5,]
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="114-06")
-tmp <- bills$tramites[[i]]; tmp$to[4] <- tmp$from[4] + days(1); tmp$period[4] <- new_interval(tmp$from[4], tmp$to[4]); tmp <- tmp[-5,]
+tmp <- bills$tramites[[i]]; tmp$to[2] <- tmp$to[3]; tmp$from[3] <- tmp$to[3]; tmp$to[3] <- tmp$to[4]; tmp$from[4] <- tmp$to[4]; tmp$tramite[3] <- "ejec"; tmp$tramite[4] <- "veto"; tmp$period <- new_interval(tmp$from, tmp$to) # ojo, infiero veto porque últ hito menciona ingreso de observaciones, sin más
+#old tmp <- bills$tramites[[i]]; tmp$to[4] <- tmp$from[4] + days(1); tmp$period[4] <- new_interval(tmp$from[4], tmp$to[4]); tmp <- tmp[-5,]
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="1902-17")
-tmp <- bills$tramites[[i]]; tmp <- tmp[c(-3,-4),]
+tmp <- bills$tramites[[i]]; tmp$to[2] <- dmy("21-12-2000", tz = "chile"); tmp$from[3] <- dmy("21-12-2000", tz = "chile"); tmp$tramite[3] <- "dip"; tmp <- tmp[-4,]; tmp$period <- new_interval(tmp$from, tmp$to)
+#old tmp <- bills$tramites[[i]]; tmp <- tmp[c(-3,-4),]
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="2036-11")
-tmp <- bills$tramites[[i]]; tmp$to[4] <- tmp$from[4] + days(1); tmp$from[5] <- tmp$to[4]; tmp$to[5] <- tmp$from[5] + days(1); tmp$period[4] <- new_interval(tmp$from[4], tmp$to[4]); tmp$period[5] <- new_interval(tmp$from[5], tmp$to[5]); 
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[4,]); tmp$to[4] <- tmp$from[4] + days(7); tmp$from[5] <- tmp$to[4]; tmp$tramite[5] <- "veto"; tmp$period <- new_interval(tmp$from, tmp$to) # ojo, infiero veto porque últ hito menciona ingreso de observaciones, sin más
+#old tmp <- bills$tramites[[i]]; tmp$to[4] <- tmp$from[4] + days(1); tmp$from[5] <- tmp$to[4]; tmp$to[5] <- tmp$from[5] + days(1); tmp$period[4] <- new_interval(tmp$from[4], tmp$to[4]); tmp$period[5] <- new_interval(tmp$from[5], tmp$to[5]); 
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="2185-06")
-tmp <- bills$tramites[[i]]; tmp$to[4] <- tmp$from[4] + days(1); tmp$from[5] <- tmp$to[4]; tmp$to[5] <- tmp$from[5] + days(1); tmp$period[4] <- new_interval(tmp$from[4], tmp$to[4]); tmp$period[5] <- new_interval(tmp$from[5], tmp$to[5]); 
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[4,]); tmp$to[4] <- tmp$from[4] + days(7); tmp$from[5] <- tmp$to[4]; tmp$tramite[5] <- "veto"; tmp$period <- new_interval(tmp$from, tmp$to) # ojo, infiero veto porque últ hito menciona ingreso de observaciones, sin más
+#old tmp <- bills$tramites[[i]]; tmp$to[4] <- tmp$from[4] + days(1); tmp$from[5] <- tmp$to[4]; tmp$to[5] <- tmp$from[5] + days(1); tmp$period[4] <- new_interval(tmp$from[4], tmp$to[4]); tmp$period[5] <- new_interval(tmp$from[5], tmp$to[5]); 
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="2361-23")
-tmp <- bills$tramites[[i]]; tmp <- tmp[c(-4,-6:-11),]  ## OJO: AQUÍ ME ESTOY COMIENDO UN RENGLON DE MAS... LO ARREGLO MAS ABAJO
+tmp <- bills$tramites[[i]]; tmp <- tmp[c(-4,-6:-11,-14,-15),]; tmp$tramite[5] <- "ejec"; tmp$to[4] <- tmp$from[5]; tmp$to[5] <- tmp$to[5] + days(1); tmp$from[6] <- tmp$to[5]; tmp$from[7] <- tmp$to[6]; tmp$period <- new_interval(tmp$from, tmp$to)
+#old tmp <- bills$tramites[[i]]; tmp <- tmp[c(-4,-6:-11),]  ## OJO: AQUÍ ME ESTOY COMIENDO UN RENGLON DE MAS... LO ARREGLO MAS ABAJO
 bills$tramites[[i]] <- tmp
 #
-i <- which(bills$info$bol=="2496-15")
-tmp <- bills$tramites[[i]]; tmp$to[4] <- tmp$from[4] + days(1); tmp$from[5] <- tmp$to[4]; tmp$period[4] <- new_interval(tmp$from[4], tmp$to[4]); tmp$period[5] <- new_interval(tmp$from[5], tmp$to[5]); 
-bills$tramites[[i]] <- tmp
+## i <- which(bills$info$bol=="2496-15")
+## tmp <- bills$tramites[[i]]; tmp$to[4] <- tmp$from[4] + days(1); tmp$from[5] <- tmp$to[4]; tmp$period[4] <- new_interval(tmp$from[4], tmp$to[4]); tmp$period[5] <- new_interval(tmp$from[5], tmp$to[5]); 
+## bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="737-03")
-tmp <- bills$tramites[[i]]; tmp$to[7] <- tmp$from[7] + days(1); tmp$from[8] <- tmp$to[7]; tmp$to[8] <- tmp$from[8] + days(1); tmp$period[7] <- new_interval(tmp$from[7], tmp$to[7]); tmp$period[8] <- new_interval(tmp$from[8], tmp$to[8]); 
+tmp <- bills$tramites[[i]]; tmp <- tmp[-4:-5,]; tmp$to[3] <- tmp$from[4]; tmp$period <- new_interval(tmp$from, tmp$to); 
+#old tmp <- bills$tramites[[i]]; tmp$to[7] <- tmp$from[7] + days(1); tmp$from[8] <- tmp$to[7]; tmp$to[8] <- tmp$from[8] + days(1); tmp$period[7] <- new_interval(tmp$from[7], tmp$to[7]); tmp$period[8] <- new_interval(tmp$from[8], tmp$to[8]); 
 bills$tramites[[i]] <- tmp
 #
 # fill missing trámites from urg by hand
@@ -819,7 +883,7 @@ bills$urgRaw[[i]][8] <-     "02 de Sep. de 1999   Suma   25-340  " # decía 1997
 #
 i <- which(bills$info$bol=="2361-23")
 bills$urgRaw[[i]][2] <- "28 de Ago. de 2004 31 de Ago. de 2004 Suma 286-351 333-351"
-bills$tramites[[i]]$from[5] <- dmy("19/10/2004", tz = "chile")
+#old bills$tramites[[i]]$from[5] <- dmy("19/10/2004", tz = "chile")
 #
 i <- which(bills$info$bol=="2374-07")
 bills$urgRaw[[i]][2] <- "04 de Nov. de 1999   Suma 110-342  "
@@ -841,6 +905,7 @@ i <- which(bills$info$bol=="3406-03")
 bills$urgRaw[[i]][3] <-  "04 de Nov. de 2003   Discusión inmediata 133-350  "
 bills$tramites[[i]]$to[1] <- dmy("05/11/2003", tz = "chile")
 bills$tramites[[i]]$from[2] <- dmy("05/11/2003", tz = "chile")
+bills$tramites[[i]]$period <- new_interval(bills$tramites[[i]]$from, bills$tramites[[i]]$to)
 #
 i <- which(bills$info$bol=="3447-15")
 bills$urgRaw[[i]] <- bills$urgRaw[[i]][-2]
@@ -935,9 +1000,10 @@ i <- which(bills$info$bol=="6252-09")
 bills$urgRaw[[i]] <- gsub(pattern = "0010", replacement = "2010", bills$urgRaw[[i]])
 #
 i <- which(bills$info$bol=="6443-07")
-bills$tramites[[i]]$to[4] <- dmy("04/06/2009", tz = "chile")
-bills$tramites[[i]]$from[5] <- dmy("04/06/2009", tz = "chile")
-bills$tramites[[i]]$to[5] <- dmy("12/06/2009", tz = "chile")
+tmp <- bills$tramites[[i]]; tmp <- tmp[-3,]; bills$tramites[[i]] <- tmp
+##old bills$tramites[[i]]$to[4] <- dmy("04/06/2009", tz = "chile")
+##old bills$tramites[[i]]$from[5] <- dmy("04/06/2009", tz = "chile")
+##old bills$tramites[[i]]$to[5] <- dmy("12/06/2009", tz = "chile")
 bills$urgRaw[[i]] <- gsub(pattern = "Ago.", replacement = "Jun.", bills$urgRaw[[i]])
 #
 i <- which(bills$info$bol=="6562-07")
@@ -982,19 +1048,754 @@ bills$urgRaw[[i]] <- gsub(pattern = "Ago.", replacement = "Sep.", bills$urgRaw[[
 i <- which(bills$info$bol=="7854-07")
 bills$urgRaw[[i]] <- gsub(pattern = "1211", replacement = "2011", bills$urgRaw[[i]])
 #
+# OJO: AQUÍ DEBERÉ BUSCAR SI "Ingreso observaciones" EN TRÁMITE DE APROBACIÓN PRESIDENCIAL, SIN MÁS POSTERIORMENTE, ES INDICADOR DE UN VETO ACEPTADO POR DEFAULT... SI FUERA EL CASO, MODIFICARÍA LOS TRAMITES...
 
+# manipulate tramites to remove fake tercer trámite when revisora made no changes to bill
+tramVerif <- rep(0, I) # alternative would be adding +1 after each change (and include cases that do not exhaust problem below)
+tmp1 <- rep(0, I) # will receive dummy sin modificaciones pointing to índices that need manipulation
+tmp2 <- rep(0, I) # will receive length tramites
+for (i in 1:I){ 
+    if (length(grep("Oficio aprobaci[óo]n sin modificaciones a.*de [Oo]rigen", bills$hitos[[i]]$action))>0) tmp1[i] <- 1
+    tmp2[i] <- nrow(bills$tramites[[i]])
+}
+#
+sel <- c(1:I)[tmp1==1 & tmp2==3] # select indices of hitos mentioning no amendment by 2nd chamber and with nrow(tramites)==3
+for (i in sel){
+    if (bills$tramites[[i]]$tramite[3]=="ejec"){
+        tmp1[i] <- 0 # if third tramite is executive, needs no manipulation
+        tramVerif[i] <- 1
+    }
+}
+sel <- c(1:I)[tmp1==1 & tmp2==3] # select indices of hitos mentioning no amendment by 2nd chamber and with nrow(tramites)==3 that all need work
+for (i in sel){
+    bills$tramites[[i]]$tramite[3] <- "ejec" # change third entry to executive
+    tmp1[i] <- 0
+    tramVerif[i] <- 1
+}
+sel <- c(1:I)[tmp1==1 & tmp2==4] # select indices of hitos mentioning no amendment by 2nd chamber and with nrow(tramites)==4 that all need work
+for (i in sel){
+    if (bills$tramites[[i]]$tramite[4]=="ejec"){ # if fourth trámite is ejec
+        bills$tramites[[i]] <- bills$tramites[[i]][-3,] # then drop third trámite
+        bills$tramites[[i]]$to[2] <- bills$tramites[[i]]$from[3] # and arrange period in case needed
+        tmp1[i] <- 0 # remove from manipulation dummy
+        tramVerif[i] <- 1
+    }
+}
+#
+sel <- c(1:I)[tmp1==1 & tmp2==4] # select indices of hitos mentioning no amendment by 2nd chamber and with nrow(tramites)==4 that all need work
+# change by hand
+i <- which(bills$info$bol=="3120-10")
+tmp <- bills$tramites[[i]]; tmp <- tmp[-3,]; tmp$to[2] <- tmp$from[3]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="339-10")
+tmp <- bills$tramites[[i]]; tmp <- tmp[-3,]; tmp$to[2] <- tmp$from[3]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="476-07")
+tmp <- bills$tramites[[i]]; tmp <- tmp[-3,]; tmp$to[2] <- tmp$from[3]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="6690-10")
+tmp <- bills$tramites[[i]]; tmp$from[4] <- dmy("03-03-2011", tz = "chile"); tmp$tramite[3] <- "trib"; tmp$tramite[4] <- "ejec"; tmp$to[3] <- tmp$from[4]
+bills$tramites[[i]] <- tmp
+#
+tmp1[sel] <- 0
+tramVerif[sel] <- 1
+#
+sel <- c(1:I)[tmp1==1 & tmp2==2] # select indices of hitos mentioning no amendment by 2nd chamber and with nrow(tramites)==2 that all need work
+# change by hand
+i <- which(bills$info$bol=="140-10")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,], tmp[2,]); tmp$to[1] <- dmy("04-12-1990", tz = "chile"); tmp$from[2] <- tmp$to[1]; tmp$to[2] <- dmy("05-03-1991", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$to[3] <- tmp$from[3] + days(1); tmp$from[4] <- tmp$to[3]; tmp$tramite[2] <- "dip"; tmp$tramite[4] <- "veto"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="147-13")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("24-04-1991", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="1711-10")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("22-05-1996", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="218-05")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("20-12-1990", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="257-10")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("17-04-1991", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="258-10")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("05-11-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="291-10")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("10-04-1991", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="292-10")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("01-09-1993", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="321-10")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("01-09-1993", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="322-10")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("02-07-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="323-10")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("22-01-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="337-07")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("12-08-1991", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="347-13")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("16-05-1991", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="3517-10")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("19-10-2004", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[2] <- "sen"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="356-04")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("14-06-1994", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="366-10")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("08-10-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="367-10")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("28-01-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="377-06")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("04-12-1991", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="379-10")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("12-09-1991", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="387-04")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("22-04-1993", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="388-07")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("15-12-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="403-07")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("01-04-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="417-10")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("24-07-1991", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="440-10")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("01-04-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="657-02")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("28-05-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="664-06")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("18-08-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="665-06")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("18-08-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="666-06")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("18-08-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="671-06")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("17-06-1993", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="681-13")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("20-05-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="697-13")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("16-09-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="700-06")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("16-06-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="716-10")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("15-09-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="728-10")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("09-09-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="729-10")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("15-06-1993", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="744-10")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("01-06-1994", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="753-10")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("01-02-1993", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="762-10")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("15-12-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="768-04")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("22-04-1993", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="769-13")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("09-11-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="770-05")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("25-08-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="777-10")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("24-03-1993", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="778-07")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("21-12-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="803-01")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("22-12-1994", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="822-10")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("22-12-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="848-02")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("11-07-1994", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="852-05")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("19-11-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="865-10")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("01-07-1993", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="866-10")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("15-06-1993", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="879-10")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("01-07-1993", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="880-10")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("28-04-1993", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="906-05")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("22-04-1993", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="931-10")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("24-05-1993", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="932-10")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("01-07-1993", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="933-10")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("07-09-1993", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="941-10")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("23-11-1993", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="951-06")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("07-04-1993", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="959-10")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("07-09-1995", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+tmp1[sel] <- 0 # remove indices
+tramVerif[sel] <- 1
+#
+sel <- c(1:I)[tmp1==1 & tmp2==5] # select indices of hitos mentioning no amendment by 2nd chamber and with nrow(tramites)==5
+#
+for (i in sel){
+    if (bills$tramites[[i]]$tramite[4]=="ejec"){ # fourth entry is exec
+        tmp <- bills$tramites[[i]]
+        tmp <- tmp[-3,] # drop third row
+        tmp$to[2] <- tmp$from[3] # fix dates
+        bills$tramites[[i]] <- tmp
+        tmp1[i] <- 0 # remove from indices
+        tramVerif[i] <- 1
+    }
+}
+sel <- c(1:I)[tmp1==1 & tmp2==5] # select indices of hitos mentioning no amendment by 2nd chamber and with nrow(tramites)==5
+#
+for (i in sel){
+    if (bills$tramites[[i]]$tramite[5]=="ejec"){ # fifth entry is exec
+        tmp <- bills$tramites[[i]]
+        tmp <- tmp[-3:-4,] # drop third and fourth rows
+        tmp$to[2] <- tmp$from[3] # fix dates
+        bills$tramites[[i]] <- tmp
+        tmp1[i] <- 0 # remove from indices
+        tramVerif[i] <- 1
+    }
+}
+#
+sel <- c(1:I)[tmp1==1 & tmp2==5] # select indices of hitos mentioning no amendment by 2nd chamber and with nrow(tramites)==5
+#
+# change by hand
+i <- which(bills$info$bol=="113-11")
+tmp <- bills$tramites[[i]]; tmp <- tmp[-3:-4,]; tmp$to[2] <- tmp$from[3]; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="5500-10")
+tmp <- bills$tramites[[i]]; tmp <- tmp[-3:-4,]; tmp$to[2] <- tmp$from[3]; tmp <- rbind(tmp, tmp[3,]); tmp$tramite[4] <- "ejec"; tmp$to[3] <- dmy("06-10-2009", tz = "chile"); tmp$from[4] <- tmp$to[3]
+bills$tramites[[i]] <- tmp
+#
+tmp1[sel] <- 0
+tramVerif[sel] <- 1
+#
+sel <- c(1:I)[tmp1==1 & tmp2==6] # select indices of hitos mentioning no amendment by 2nd chamber and with nrow(tramites)==1 that all need work
+for (i in sel){
+    if (bills$tramites[[i]]$tramite[6]=="ejec"){ # sixth entry is exec
+        tmp <- bills$tramites[[i]]
+        tmp <- tmp[-3:-5,] # drop third row
+        tmp$to[2] <- tmp$from[3] # fix dates
+        bills$tramites[[i]] <- tmp
+        tmp1[i] <- 0 # remove from indices
+        tramVerif[i] <- 1
+    }
+}
+#
+sel <- c(1:I)[tmp1==1 & tmp2==6] # select indices of hitos mentioning no amendment by 2nd chamber and with nrow(tramites)==1 that all need work
+#
+# change by hand
+i <- which(bills$info$bol=="2689-06")
+tmp <- bills$tramites[[i]]; tmp$to[4] <- dmy("05-06-2001", tz = "chile"); tmp <- tmp[c(-3,-5,-6),]; tmp$to[2] <- tmp$from[3]
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="2718-02")
+tmp <- bills$tramites[[i]]; tmp <- tmp[c(-3,-6),]; tmp$to[2] <- tmp$from[3]
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="2814-06")
+tmp <- bills$tramites[[i]]; tmp <- tmp[c(-3,-6),]; tmp$to[2] <- tmp$from[3]
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="3178-07")
+tmp <- bills$tramites[[i]]; tmp <- tmp[c(-3,-4),]; tmp$to[2] <- tmp$from[3]; tmp$to[4] <- dmy("04-03-2003", tz = "chile")
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="3729-13")
+tmp <- bills$tramites[[i]]; tmp <- tmp[c(-3,-6),]; tmp$to[2] <- tmp$from[3]
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="4639-11")
+tmp <- bills$tramites[[i]]; tmp <- tmp[c(-3,-4),]; tmp$to[2] <- tmp$from[3]
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="5099-07")
+tmp <- bills$tramites[[i]]; tmp <- tmp[c(-3,-4),]; tmp$to[2] <- tmp$from[3]
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="5326-06")
+tmp <- bills$tramites[[i]]; tmp <- tmp[c(-3,-6),]; tmp$to[2] <- tmp$from[3]
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="6349-06")
+tmp <- bills$tramites[[i]]; tmp <- tmp[c(-3,-6),]; tmp$to[2] <- tmp$from[3]
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="6560-10")
+tmp <- bills$tramites[[i]]; tmp$to[5] <- tmp$to[6]; tmp <- tmp[c(-3,-6),]; tmp$to[2] <- tmp$from[3]
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="8387-05")
+tmp <- bills$tramites[[i]]; tmp <- tmp[c(-3,-4),]; tmp$to[2] <- tmp$from[3]
+bills$tramites[[i]] <- tmp
+#
+tmp1[sel] <- 0
+tramVerif[sel] <- 1
+#
+sel <- c(1:I)[tmp1==1 & tmp2==7] # select indices of hitos mentioning no amendment by 2nd chamber and with nrow(tramites)==1 that all need work
+# change by hand
+i <- which(bills$info$bol=="2465-06")
+tmp <- bills$tramites[[i]]; tmp$to[6] <- tmp$to[7]; tmp <- tmp[c(-3,-5,-7),]; tmp$to[2] <- tmp$from[3]; tmp$to[3] <- tmp$from[4]
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="2677-06")
+tmp <- bills$tramites[[i]]; tmp$to[6] <- tmp$to[7]; tmp <- tmp[c(-3,-5,-7),]; tmp$to[2] <- tmp$from[3]; tmp$to[3] <- tmp$from[4]
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="3595-05")
+tmp <- bills$tramites[[i]]; tmp <- tmp[c(-3,-5,-6),]; tmp$to[2] <- tmp$from[3]; tmp$to[3] <- tmp$from[4]
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="4313-06")
+tmp <- bills$tramites[[i]]; tmp <- tmp[c(-3,-4,-5),]; tmp$to[2] <- tmp$from[3]; tmp$to[3] <- tmp$from[4]
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="6733-06")
+tmp <- bills$tramites[[i]]; tmp <- tmp[c(-3,-4,-5),]; tmp$to[2] <- tmp$from[3]; tmp$to[3] <- tmp$from[4]
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="8696-04")
+tmp <- bills$tramites[[i]]; tmp <- tmp[c(-3,-4,-5),]; tmp$to[2] <- tmp$from[3]; tmp$to[3] <- tmp$from[4]
+bills$tramites[[i]] <- tmp
+#
+tmp1[sel] <- 0
+tramVerif[sel] <- 1
+#
+sel <- c(1:I)[tmp1==1 & tmp2>7] # select indices of hitos mentioning no amendment by 2nd chamber and with nrow(tramites)==1 that all need work
+# change by hand
+i <- which(bills$info$bol=="1577-10")
+tmp <- bills$tramites[[i]]; tmp <- tmp[-3:-7,]; tmp$to[2] <- tmp$from[3]
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="2520-07")
+tmp <- bills$tramites[[i]]; tmp$to[7] <- tmp$to[8]; tmp <- tmp[c(-3,-5,-6,-8),]; tmp$to[2] <- tmp$from[3]; tmp$to[3] <- tmp$from[4]
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="3265-07")
+tmp <- bills$tramites[[i]]; tmp$to[8] <- tmp$to[9]; tmp <- tmp[c(-3,-4,-5,-7,-9),]; tmp$to[2] <- tmp$from[3]; tmp$to[3] <- tmp$from[4]
+bills$tramites[[i]] <- tmp
+#
+i <- which(bills$info$bol=="4047-10")
+tmp <- bills$tramites[[i]]; tmp$to[8] <- tmp$to[9]; tmp <- tmp[c(-4,-5,-6,-7,-9),]; tmp$to[2] <- tmp$from[3]; tmp$to[3] <- tmp$from[4]
+bills$tramites[[i]] <- tmp
+#
+tmp1[sel] <- 0
+tramVerif[sel] <- 1
+#
+# did single-tramite pass (they should not, else info missing)
+tmp2 <- rep(0, I) # will receive length tramites revised
+for (i in 1:I){ 
+    tmp2[i] <- nrow(bills$tramites[[i]])
+}
+sel <- which(tmp2==1 & bills$info$status=="statute")
+# change by hand
+i <- which(bills$info$bol=="133-05")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp, tmp); tmp$to[1] <- tmp$from[2] <- dmy("29-08-1990", tz = "chile"); tmp$to[2] <- tmp$from[3] <- dmy("30-08-1990", tz = "chile"); tmp$to[3] <- dmy("04-09-1990", tz = "chile"); tmp$tramite[1] <- "dip"; tmp$tramite[2] <- "sen"; 
+bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="1381-05") # a éste le estoy inventando las fechas...
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp, tmp); tmp$to[1] <- tmp$from[2] <- dmy("04-11-1994", tz = "chile"); tmp$to[2] <- tmp$from[3] <- dmy("04-12-1994", tz = "chile"); tmp$to[3] <- dmy("06-12-1994", tz = "chile"); tmp$tramite[1] <- "dip"; tmp$tramite[2] <- "sen"; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="397-05") # a éste le estoy inventando las fechas...
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp, tmp); tmp$to[1] <- tmp$from[2] <- dmy("04-08-1991", tz = "chile"); tmp$to[2] <- tmp$from[3] <- dmy("04-09-1991", tz = "chile"); tmp$to[3] <- dmy("10-09-1991", tz = "chile"); tmp$tramite[1] <- "dip"; tmp$tramite[2] <- "sen"; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="471-10") # a éste le estoy inventando las fechas...
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp, tmp); tmp$to[1] <- tmp$from[2] <- dmy("04-10-1991", tz = "chile"); tmp$to[2] <- tmp$from[3] <- dmy("04-11-1991", tz = "chile"); tmp$to[3] <- dmy("29-09-1991", tz = "chile"); tmp$tramite[1] <- "dip"; tmp$tramite[2] <- "sen"; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="642-10") # a éste le estoy inventando las fechas...
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp, tmp); tmp$to[1] <- tmp$from[2] <- dmy("26-03-1994", tz = "chile"); tmp$to[2] <- tmp$from[3] <- dmy("26-03-1995", tz = "chile"); tmp$to[3] <- dmy("26-03-1997", tz = "chile"); tmp$tramite[1] <- "dip"; tmp$tramite[2] <- "sen"; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="981-13") # a éste le estoy inventando las fechas...
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp, tmp); tmp$to[1] <- tmp$from[2] <- dmy("13-05-1993", tz = "chile"); tmp$to[2] <- tmp$from[3] <- dmy("23-05-1993", tz = "chile"); tmp$to[3] <- dmy("31-05-1997", tz = "chile"); tmp$tramite[1] <- "dip"; tmp$tramite[2] <- "sen"; tmp$tramite[3] <- "ejec"
+bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
+#
+sel <- which(tmp2==1 & bills$info$status=="pending: 3er trámite")
+i <- which(bills$info$bol=="7486-01")
+bills$info$status[i] <- "killed/withdrawn"
+i <- which(bills$info$bol=="9036-07")
+bills$info$status[i] <- "killed/withdrawn"
+tramVerif[sel] <- 1
+#
+sel <- which(tmp2==1 & bills$info$status=="pending: 2do trámite")
+for (i in sel){
+    tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp); tmp$tramite[2] <- ifelse(tmp$tramite[1]=="dip", "sen", "dip")
+    tmp$to[1] <- tmp$from[2] <- bills$hitos[[i]]$date[nrow(bills$hitos[[i]])] # take last date from hitos
+    bills$tramites[[i]] <- tmp
+}
+tramVerif[sel] <- 1
+#
+tmp2 <- rep(0, I) # will receive length tramites revised
+for (i in 1:I){ 
+    tmp2[i] <- nrow(bills$tramites[[i]])
+}
+sel <- which(tmp2==1)
+table(bills$info$status[sel])
+tramVerif[sel] <- 1 # huge leap of faith? assume all coded frozen, killed, withdrawn, pending 1 with single trámite are correct...
+#
+sel <- which(tmp2==2 & bills$info$status=="statute") # two tramites that are statute
+#
+# drop tramite==dip or sen after third tramite  (does not exhaust problems in tmp1==1 cases, so will not code as tramVerif)
+for (i in 1:I){
+    check <- grep("dip|sen", bills$tramites[[i]]$tramite)
+    drop <- check[check>3]
+    if (length(drop)>0){
+        tmp <- bills$tramites[[i]]
+        tmp <- tmp[-drop,]
+        bills$tramites[[i]] <- tmp
+    }
+}
+#
+# drop repeated conf
+tmp1 <- rep(0, I) # will receive dummy conf repeated
+for (i in 1:I){ 
+    if (length(grep("conf", bills$tramites[[i]]$tramite))>1) tmp1[i] <- 1 # conf appears more than once
+}
+#
+sel <- which(tmp1==1)
+# drop repeated instances of conf (does not exhaust problems in tmp1==1 cases, so will not add tramVerif)
+for (i in sel){
+    tmp <- bills$tramites[[i]]
+    drop <- which(tmp$tramite=="conf")
+    tmp$to[min(drop)] <- tmp$to[max(drop)] # plug last date's to first
+    drop <- min(drop):max(drop) # select everything in between
+    drop <- drop[-1] # drop everything sandwiched between repeated conf (2nd inclusive)
+    tmp <- tmp[-drop,]
+    bills$tramites[[i]] <- tmp
+}
+#
+# miscoded case
+i <- which(bills$info$bol=="334-07") # a éste le estoy inventando las fechas...
+tmp <- bills$tramites[[i]]; tmp$tramite[3] <- "dip"; tmp <- rbind(tmp, tmp[4,], tmp[4,]); tmp$tramite[5] <- "ejec"; tmp$tramite[6] <- "veto"
+tmp$to[4] <- tmp$from[5] <- dmy("21-07-1992", tz = "chile"); tmp$to[5] <- tmp$from[6] <- dmy("08-10-1992", tz = "chile"); 
+bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
+#
+# cases missing return to iniciadora when project was modified by revisora
+tmp1 <- rep(0,I)
+tmp2 <- rep(0,I)
+for (i in 1:I){
+    if (length(grep(".*[Oo]ficio.*aprobación.*proyecto.*con modificaciones.*", bills$hitos[[i]]$action))>0) tmp1[i] <- 1
+    tmp2[i] <- nrow(bills$tramites[[i]])
+}
+sel <- which(tmp1==1 & tmp2==2) # when two tramites only, one must be missing
+for (i in sel){
+    tmp <- bills$tramites[[i]]
+    tmp <- rbind(tmp, tmp[1,])
+    tmp$to[3] <- tmp$to[2] # take last date
+    tmp$to[2] <- tmp$from[3] <- bills$hitos[[i]]$date[nrow(bills$hitos[[i]])] # take last date from hitos
+}
+tramVerif[sel] <- 1
+#
+sel <- which(tmp1==1 & tmp2>2) # when 3 or more tramites, third must be same as first
+for (i in sel){
+    i <- sel[2] # debug
+    tmp <- bills$tramites[[i]]
+#    if (tmp$tramite[3]==tmp$tramite[1]) next
+    if (tmp$tramite[3]=="conf" | tmp$tramite[3]=="veto"){
+        tmp <- rbind(tmp[1:2,], tmp[1,], tmp[3:tmp2[i],]) # adds row for missing return to iniciadora
+        tmp$from[3] <- tmp$to[3] <- tmp$to[2] # picks date from last recorded trámite
+    }
+}
+#
+# if veto, must have exec trámite before
+tmp1 <- rep(0,I)
+tmp2 <- rep(0,I)
+for (i in 1:I){
+    if (length(grep("veto", bills$tramites[[i]]$tramite))>0 & length(grep("ejec", bills$tramites[[i]]$tramite))==0) tmp1[i] <- 1 # no ejec despite veto
+    tmp2[i] <- nrow(bills$tramites[[i]])
+}
+sel <- which(tmp1==1 & bills$info$status=="statute")
+for (i in sel){
+    tmp <- bills$tramites[[i]]
+    n <- grep("veto", tmp$tramite)
+    tmp <- rbind(tmp[1:(n-1),], tmp[n,], tmp[n:tmp2[i],])
+    tmp$tramite[n] <- "ejec"
+    tmp$from[n] <- tmp$to[n-1]
+    tmp$to[n] <- tmp$from[n+1]
+    bills$tramites[[i]] <- tmp
+}
+# clean
+i <- which(bills$info$bol=="1034-15")
+tmp <- bills$tramites[[i]]
+tmp <- tmp[-3,]
+bills$tramites[[i]] <- tmp
+#
+# if statute, must have exec trámite
+tmp1 <- rep(0,I)
+tmp2 <- rep(0,I)
+for (i in 1:I){
+    if (length(grep("ejec", bills$tramites[[i]]$tramite))==0) tmp1[i] <- 1 # no ejec
+    tmp2[i] <- nrow(bills$tramites[[i]])
+}
+sel <- which(tmp1==1 & bills$info$status=="statute")
+for (i in sel){
+    tmp <- bills$tramites[[i]]
+    tmp <- rbind(tmp, tmp[tmp2[i],])
+    tmp$tramite[tmp2[i]+1] <- "ejec";
+    tmp$from[tmp2[i]+1] <- tmp$to[tmp2[i]+1] <- bills$hitos[[i]]$date[nrow(bills$hitos[[i]])] # take last date from hitos
+    bills$tramites[[i]] <- tmp
+}
+tramVerif[sel] <- 1
+#
+# tribunal repeated, trámites dropped
+tmp1 <- rep(0,I)
+for (i in 1:I){
+    if (length(grep("trib", bills$tramites[[i]]$tramite))>1) tmp1[i] <- 1 
+}
+sel <- which(tmp1==1)
+for (i in sel){
+#    i <- sel[3]; bills$info$bol[i] # debug
+    tmp <- bills$tramites[[i]]
+    drop <- grep("trib", tmp$tramite)
+    drop <- drop[-1] # drops repeated instances of tribunal
+    tmp <- tmp[-drop,]
+    bills$tramites[[i]] <- tmp
+}
+#
+# two tramites that are not statute taken as ok if trámites are dip and sen only
+tmp2 <- rep(0,I)
+for (i in 1:I){
+    tmp2[i] <- nrow(bills$tramites[[i]])
+}
+sel <- which(tmp2==2 & bills$info$status!="statute")
+table(tramVerif[sel]) # most still marked as not revised
+#
+tmp1 <- rep(0,I)
+for (i in sel){
+    tmp <- bills$tramites[[i]]
+    if (length(grep("conf|ejec|veto|trib", tmp$tramite))>0) tmp1[i] <- 1 # should only have dip and sen
+}
+table(tmp1[sel]) # all ok
+tramVerif[sel] <- 1
+#
+# by hand
+i <- which(bills$info$bol=="171-02") 
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$tramite[2] <- "dip"; tmp$to[1] <- tmp$from[2] <- dmy("31-10-1990", tz = "chile"); tmp$to[2] <- tmp$from[3] <- dmy("05-12-1990", tz = "chile")
+bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="825-03") 
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp); tmp$tramite[2] <- "dip"; tmp$to[1] <- tmp$from[2] <- dmy("09-06-1993", tz = "chile"); tmp$to[2] <- tmp$from[3] <- dmy("04-08-1993", tz = "chile"); tmp$to[3] <- tmp$from[4] <- dmy("17-08-1993", tz = "chile")
+bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="2247-05") 
+tmp <- bills$tramites[[i]]; tmp$tramite[2] <- "sen"; tmp$to[1] <- tmp$from[2] <- dmy("18-11-1998", tz = "chile"); tmp$to[2] <- tmp$from[3] <- dmy("19-11-1998", tz = "chile"); tmp$to[3] <- tmp$from[4]
+bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="5058-07") 
+tmp <- bills$tramites[[i]]; tmp$to[1] <- tmp$to[3]; tmp <- tmp[1,]
+bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="674-14") 
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp[1,], tmp[1,], tmp); tmp$tramite[2] <- "dip"; tmp$tramite[5] <- "trib"; tmp$tramite[6] <- "ejec"; tmp$to[1] <- tmp$from[2] <- dmy("22-03-1993", tz = "chile"); tmp$to[2] <- tmp$from[3] <- dmy("04-10-1995", tz = "chile"); tmp$to[4] <- tmp$from[5] <- dmy("13-06-1996", tz = "chile")
+bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="2093-05") 
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp[1,], tmp[1,], tmp); tmp$tramite[2] <- "sen"; tmp$to[1] <- tmp$from[2] <- tmp$to[2] <- tmp$from[3] <- dmy("18-11-1997", tz = "chile"); tmp$to[3] <- tmp$from[4] <- tmp$to[4] <- tmp$from[5] <- dmy("25-11-1997", tz = "chile")
+bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="3993-05") 
+tmp <- bills$tramites[[i]]; tmp$tramite[2] <- "sen"; 
+bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="603-13") 
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp[1,], tmp[1,], tmp); tmp$tramite[2] <- "dip"; tmp$to[1] <- tmp$from[2] <- dmy("07-09-1992", tz = "chile");  tmp$to[2] <- tmp$from[3] <- dmy("20-03-1993", tz = "chile");
+bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="7308-06") 
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[5,]); tmp$tramite[5] <- "ejec"; tmp$from[5] <- tmp$to[4]; tmp$to[5] <- tmp$from[6] <- dmy("18-12-2012", tz = "chile")
+bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="1035-07") 
+tmp <- bills$tramites[[i]]; tmp$tramite[5] <- "ejec"; tmp$tramite[6] <- "veto"; tmp$to[1] <- tmp$from[2] <- dmy("12-09-1995", tz = "chile"); tmp$to[4] <- tmp$from[5] <- dmy("04-07-2000", tz = "chile"); tmp$to[5] <- tmp$from[6] <- dmy("16-08-2000", tz = "chile")
+bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="111-06")
+# didn't fix it, will be dropped in analysis
+tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="1251-18") 
+tmp <- bills$tramites[[i]]; tmp$tramite[3] <- "dip"; tmp$tramite[4] <- "ejec"; tmp$tramite[5] <- "veto"; tmp$tramite[6] <- "trib"; tmp$to[3] <- tmp$from[4] <- dmy("04-04-2000", tz = "chile"); tmp$to[4] <- tmp$from[5] <- dmy("04-05-2000", tz = "chile"); tmp$to[5] <- tmp$from[6] <- dmy("21-06-2000", tz = "chile"); tmp$to[6] <- dmy("05-08-2000", tz = "chile")
+bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="259-07")
+# didn't fix it, will be dropped in analysis
+tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="446-03")
+# didn't fix it, will be dropped in analysis
+tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="5724-26") 
+tmp <- bills$tramites[[i]]; tmp$tramite[4] <- "ejec"; tmp$tramite[5] <- "veto"; tmp$tramite[6] <- "trib";  tmp$from[4] <- tmp$to[3] <- dmy("04-11-2009", tz = "chile"); tmp$to[4] <- tmp$from[5] <- dmy("10-11-2009", tz = "chile"); tmp$to[5] <- tmp$from[6] <- dmy("01-12-2009", tz = "chile"); 
+bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="628-11")
+# didn't fix it, will be dropped in analysis
+tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="111-06") 
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp[1,], tmp); tmp[2,] <- tmp[3,]; tmp$tramite[3] <- "dip"; tmp$from[3] <- tmp$to[2] <- dmy("09-11-1993", tz = "chile")
+bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="1502-02") 
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp[1,], tmp); tmp[2,] <- tmp[3,]; tmp$tramite[3] <- "dip"; tmp$to[2] <- tmp$from[3] <- dmy("17-11-1999", tz = "chile"); tmp$from[4] <- tmp$to[3] <- dmy("04-01-2000", tz = "chile")
+bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="1516-02") 
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp[1,], tmp); tmp[2,] <- tmp[3,]; tmp$tramite[3] <- "dip"; tmp$to[2] <- tmp$from[3] <- dmy("17-11-1999", tz = "chile"); tmp$from[4] <- tmp$to[3] <- dmy("04-01-2000", tz = "chile")
+bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="1867-06") 
+tmp <- bills$tramites[[i]]; tmp[4,] <- tmp[3,]; tmp$tramite[3] <- "sen"; tmp$to[3] <- tmp$from[4] <- dmy("04-08-1999", tz = "chile"); tmp$to[4] <- dmy("04-11-2014", tz = "chile")
+bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="195-08") 
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp[1,], tmp); tmp[2,] <- tmp[3,]; tmp$tramite[3] <- "dip"; tmp$to[2] <- tmp$from[3] <- dmy("05-12-1990", tz = "chile")
+bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
+#
+# check conf in 3rd trám to verify if not missing a trámite in origen (looking for "rechazo ideal de legislar" and for "oficio rechazo c. origen" would achieve clean revision)
+tmp1 <- rep(0,I)
+for (i in 1:I){
+    tmp <- bills$tramites[[i]]
+    if (length(grep("conf", tmp$tramite))>0){
+        tmp1[i] <- grep("conf", tmp$tramite)
+    }
+}
+sel <- which(tmp1==3)
+tramVerif[i] <- 1 # checked most by hand, they look ok
+# VERIFICACIÓN DE TRÁMITES CONTINÚARÁ MÁS ABAJO
+#
+# RE DO ALL PERIODS (NEED TO REVISE FROM AND TO...)
+for (i in 1:I){
+    message(sprintf("loop %s of %s", i, I))
+    tmp <- bills$tramites[[i]]
+    tmp$period <- new_interval(tmp$from, tmp$to)
+    bills$tramites[[i]] <- tmp
+}
 # add tramite number to the object created above
 for (i in 1:I){
     #i <- 1 # debug
     N <- nrow(bills$tramites[[i]])
-    bills$tramites[[i]]$nTr <- 1:N
+    bills$tramites[[i]]$nTr <- 1:N # OJO: WILL BE RE-DONE BELOW; RETAINED HERE TO AVOID BREAKS IN CODE 
 }
 rm(N)
 #
 options(warn=2) # turns warnings into errors, which break the loop (use warn=1 to return to normal) 
 for (i in work){
-#j <- j + 1 # debug
-#i <- work[j] # debug
+    #j <- j + 1 # debug
+    #i <- work[j] # debug
     message(sprintf("processing record %s", i))
     #bills$info$bol[i] # debug
     tmp <- bills$urgRaw[[i]]
@@ -1144,8 +1945,8 @@ for (i in work){
     ## ##     output <- output[-select,]
     ## ##}
     ## ## output$chain <- NULL
-#
-bills$urg[[i]] <- output # plug systematized object back into database
+    #
+    bills$urg[[i]] <- output # plug systematized object back into database
                                         #
                                         # plug into slot for systematized data
     if (nrow(output)>0){ # anything left after dropping sin urgencia?
@@ -1163,18 +1964,24 @@ bills$urg[[i]] <- output # plug systematized object back into database
 #output # debug
 #message(sprintf("i=%s bol=%s", i, bills$info$bol[i]))
 options(warn=1)
+
 # fill wrong trámites from urg by hand (single-day trámite missed by loop above)
 i <- which(bills$info$bol=="279-03")
 bills$urg[[i]]$tramite[1] <- "sen"; bills$urg[[i]]$trNum[1] <- 1
 bills$urg[[i]]$tramite[2] <- "dip"; bills$urg[[i]]$trNum[2] <- 2
 #
-i <- which(bills$info$bol=="2361-23")
-bills$urg[[i]]$tramite[25] <- "sen"; bills$urg[[i]]$trNum[25] <- 4
+#old i <- which(bills$info$bol=="2361-23")
+#old bills$urg[[i]]$tramite[25] <- "sen"; bills$urg[[i]]$trNum[25] <- 4
 #
 i <- which(bills$info$bol=="3190-04")
 bills$urgRaw[[i]][4] <- "15 de Abr. de 2003   Simple 536-348  "
 #
-rm(i, k, output, sel, select, tmp, tmp2, tmp3, u, U, work) # housecleaning
+
+# fix tramite date by hand
+i <- which(bills$info$bol=="6041-08")
+bills$tramites[[i]]$to[3] <- bills$tramites[[i]]$from[4]; bills$tramites[[i]]$period <- new_interval(bills$tramites[[i]]$from, bills$tramites[[i]]$to)
+#
+rm(i, k, output, sel, select, tmp, tmp2, tmp3, u, U, work, check, drop, n, tmp1) # housecleaning
 
 # WHICH TRÁMITE(S) RECEIVED AT LEAST ONE URGENCY: 1, 2, 3, 12, 13, 23, or 123 (0 if none)
 bills$info$urgIn <- 0 # prepares column to receive which trámites had 1+ urgencies
@@ -1318,6 +2125,129 @@ setwd(datdir)
 load(file = "tmp.RData")
 options(width = 150)
 
+## CONTINUE REVISING TRÁMITES
+#tmp1 <- rep(0, I) # will receive dummy sin modificaciones pointing to índices that need manipulation
+tmp2 <- rep(0, I) # will receive length tramites
+for (i in 1:I){ 
+#    if (length(grep("Oficio aprobaci[óo]n sin modificaciones a.*de [Oo]rigen", bills$hitos[[i]]$action))>0) tmp1[i] <- 1
+    tmp2[i] <- nrow(bills$tramites[[i]])
+}
+sel <- which(tmp2==1 & tramVerif==0) # pick single-trámite, non-revised
+table(bills$info$dpassed[sel]) ## none have passed... infer that single trámite is right
+tramVerif[sel] <- 1
+#
+sel <- which(tmp2==2 & tramVerif==0) # pick two-trámite, non-revised
+table(bills$info$dpassed[sel]) # none have passed
+tramVerif[sel] <- 1
+# all should have dip and sen  only
+tmp1 <- rep(0, I) 
+for (i in 1:I){ 
+    if (length(grep("dip|sen", bills$tramites[[i]]$tramite))!=2) tmp1[i] <- 1 # all should have dip or sen, nothing else
+}
+sel <- which(tmp2==2 & tramVerif==0 & tmp1==1)
+# checked by hand: have redundant second trámite that needs to be dropped
+for (i in sel){
+    tmp <- bills$tramites[[i]]
+    tmp <- tmp[1,]
+    bills$tramites[[i]] <- tmp
+}
+#
+# change by hand
+i <- which(bills$info$bol=="356-04")
+bills$info$status[i] <- "statute"; bills$info$dpassed[i] <- 1
+tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="1282-10")
+tmp <- bills$tramites[[i]]
+tmp <- rbind(tmp, tmp[3,]); tmp$tramite[4] <- "veto"; tmp$to[3] <- tmp$from[3]; tmp$period <- new_interval(tmp$from, tmp$to); tmp$nTr[4] <- 4# assume vetoed
+bills$tramites[[i]] <- tmp
+tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="1285-10")
+tmp <- bills$tramites[[i]]
+tmp <- rbind(tmp, tmp[3,]); tmp$tramite[4] <- "veto"; tmp$to[3] <- tmp$from[3]; tmp$period <- new_interval(tmp$from, tmp$to); tmp$nTr[4] <- 4# assume vetoed
+bills$tramites[[i]] <- tmp
+tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="1778-07")
+tmp <- bills$tramites[[i]]
+tmp$to[1] <- tmp$to[3]; tmp <- tmp[1,]
+bills$tramites[[i]] <- tmp
+tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="1854-10")
+tmp <- bills$tramites[[i]]
+tmp <- rbind(tmp, tmp[3,]); tmp$tramite[4] <- "veto"; tmp$to[3] <- tmp$from[3]; tmp$period <- new_interval(tmp$from, tmp$to); tmp$nTr[4] <- 4# assume vetoed
+bills$tramites[[i]] <- tmp
+tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="2293-10")
+tmp <- bills$tramites[[i]]
+tmp <- tmp[-3,]; 
+bills$tramites[[i]] <- tmp
+bills$info$status[i] <- "killed/withdrawn"
+tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="3119-10")
+tmp <- bills$tramites[[i]]
+tmp <- rbind(tmp, tmp[3,]); tmp$tramite[4] <- "veto"; tmp$to[3] <- tmp$from[3]; tmp$period <- new_interval(tmp$from, tmp$to); tmp$nTr[4] <- 4# assume vetoed
+bills$tramites[[i]] <- tmp
+tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="5115-10")
+tmp <- bills$tramites[[i]]
+tmp <- rbind(tmp, tmp[3,]); tmp$tramite[4] <- "veto"; tmp$to[3] <- tmp$from[3]; tmp$period <- new_interval(tmp$from, tmp$to); tmp$nTr[4] <- 4# assume vetoed
+bills$tramites[[i]] <- tmp
+tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="6649-10")
+bills$info$status[i] <- "statute"; bills$info$dpassed[i] <- 1
+tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="7160-10")
+tmp <- bills$tramites[[i]]
+tmp <- rbind(tmp, tmp[3,]); tmp$tramite[4] <- "veto"; tmp$to[3] <- tmp$from[3]; tmp$period <- new_interval(tmp$from, tmp$to); tmp$nTr[4] <- 4# assume vetoed
+bills$tramites[[i]] <- tmp
+tramVerif[i] <- 1
+#
+sel <- which(tmp2==3 & tramVerif==0 & bills$info$dpassed==0) # pick three-trámite, non-revised, that didn't pass; revised by hand, all ok
+tramVerif[sel] <- 1
+#
+sel <- which(tmp2==3 & tramVerif==0 & bills$info$dpassed==1) # pick three-trámite, non-revised, that passed
+tmp1 <- rep(1, I) 
+for (i in sel){ 
+    if (bills$tramites[[i]]$tramite[3]=="ejec") tmp1[i] <- 0 # all should have ejec as third trámite
+}
+length(which(tmp2==3 & tramVerif==0 & bills$info$dpassed==1 & tmp1==1))==0 # all have ejec as third, assume all ok
+tramVerif[sel] <- 1
+#
+tmp2 <- rep(0, I) # will receive length tramites
+for (i in 1:I){ 
+#    if (length(grep("Oficio aprobaci[óo]n sin modificaciones a.*de [Oo]rigen", bills$hitos[[i]]$action))>0) tmp1[i] <- 1
+    tmp2[i] <- nrow(bills$tramites[[i]])
+}
+#
+sel <- which(tmp2==4 & tramVerif==0) # pick four-trámite, non-revised
+# checked by hand, all seem ok
+tramVerif[sel] <- 1
+#
+sel <- which(tmp2==5 & tramVerif==0) # pick five-trámite, non-revised
+# checked by hand, all seem ok
+tramVerif[sel] <- 1
+#
+sel <- which(tmp2==6 & tramVerif==0) # pick six-trámite, non-revised
+# checked by hand, all seem ok
+tramVerif[sel] <- 1
+#
+sel <- which(tmp2==7 & tramVerif==0) # pick seven-trámite, non-revised
+# checked by hand, all seem ok
+tramVerif[sel] <- 1
+#
+table(tramVerif) # ALL REVISED
+rm(i, sel, tmp, tmp1, tmp2, tramVerif, vet) # clean
+#
+# SHOULD FILL GAPS IN TO:FROM AND RE DO ALL PERIODS
+
 # head(force_tz(bills$sessions, "Chile")) # use this to force chile time zone while keeping the clock time, which may change the date
 
 # exports csv of allUrg to process in plots.r
@@ -1356,7 +2286,6 @@ save(bills, allUrg, file = paste(datdir, "allUrg.RData", sep = "")) # <--- expor
 rm(i, sel, tmp, tmp2)
 # further transformations of allUrg in plots.r in preparation for graph
 
-
 # drop bills initiated before 1/3/1998
 library(lubridate)
 drop <- -which(bills$info$dateIn<dmy("1/3/1998", tz = "chile"))
@@ -1370,7 +2299,275 @@ rm(drop)
 #
 I <- nrow(bills$info) # update tot obs
 
-# SOME DESCRIPTIVES (Processed in separate spreadsheet descriptoves.ods)
+# ADD POLICY DOMAIN (CODED FROM BOLETIN)
+bills$info$ndom <- as.numeric(sub(pattern = "[0-9]+-([0-9]+)", replacement = "\\1", bills$info$bol))
+bills$info$dom[bills$info$ndom==1] <- "agricultura"
+bills$info$dom[bills$info$ndom==2] <- "defensa"
+bills$info$dom[bills$info$ndom==3] <- "economía"
+bills$info$dom[bills$info$ndom==4] <- "educación"
+bills$info$dom[bills$info$ndom==5] <- "hacienda"
+bills$info$dom[bills$info$ndom==6] <- "elecciones"
+bills$info$dom[bills$info$ndom==7] <- "constitución"
+bills$info$dom[bills$info$ndom==8] <- "minería"
+bills$info$dom[bills$info$ndom==9] <- "obras púb"
+bills$info$dom[bills$info$ndom==10] <- "rree"
+bills$info$dom[bills$info$ndom==11] <- "salud"
+bills$info$dom[bills$info$ndom==12] <- "medio ambiente"
+bills$info$dom[bills$info$ndom==13] <- "trabajo"
+bills$info$dom[bills$info$ndom==14] <- "vivienda"
+bills$info$dom[bills$info$ndom==15] <- "telecom"
+bills$info$dom[bills$info$ndom==16] <- "corg"
+bills$info$dom[bills$info$ndom==17] <- "ddhh"
+bills$info$dom[bills$info$ndom==18] <- "familia"
+bills$info$dom[bills$info$ndom==19] <- "ciencia internet"
+bills$info$dom[bills$info$ndom==20] <- "narco"
+bills$info$dom[bills$info$ndom==21] <- "pesca"
+bills$info$dom[bills$info$ndom==24] <- "monumentos"
+bills$info$dom[bills$info$ndom==25] <- "narco"
+bills$info$dom[bills$info$ndom==29] <- "deporte"
+# MERGE THESE INTO NARROW INTEREST
+## bills$info$dom[bills$info$ndom==22] <- "bomberos"
+## bills$info$dom[bills$info$ndom==23] <- "turismo"
+## bills$info$dom[bills$info$ndom==26] <- "pymes"
+## bills$info$dom[bills$info$ndom==27] <- "extremos"
+## bills$info$dom[bills$info$ndom==28] <- "discapacitados"
+## bills$info$dom[bills$info$ndom==30] <- "juventud"
+## bills$info$dom[bills$info$ndom==31] <- "discapacitados"
+## bills$info$dom[bills$info$ndom==32] <- "3a edad"
+## bills$info$dom[bills$info$ndom==33] <- "subsuelo"
+bills$info$dom[bills$info$ndom==22] <- "narrow"
+bills$info$dom[bills$info$ndom==23] <- "narrow"
+bills$info$dom[bills$info$ndom==26] <- "narrow"
+bills$info$dom[bills$info$ndom==27] <- "narrow"
+bills$info$dom[bills$info$ndom==28] <- "narrow"
+bills$info$dom[bills$info$ndom==30] <- "narrow"
+bills$info$dom[bills$info$ndom==31] <- "narrow"
+bills$info$dom[bills$info$ndom==32] <- "narrow"
+bills$info$dom[bills$info$ndom==33] <- "narrow"
+#
+table(bills$info$dom)
+#
+# drop ndom (handy if selecting domains)
+bills$info$ndom <- NULL
+
+# Referred to Hacienda Committee (ie., needs appropriation)
+bills$info$drefHda <- 0
+for (i in 1:I){
+    tmp <- bills$hitos[[i]]$action[grep(".*[Pp]asa a [Cc]omisi[óo]n.*", bills$hitos[[i]]$action)]
+    if (length(grep("[Hh]acienda", tmp))>0) bills$info$drefHda[i] <- 1
+}
+table(bills$info$drefHda)
+
+# NEED INDICATORS OF VOTING QUORUM!!
+
+# FIND SPONSORS
+# FILL MISSING SPONSORS
+i <- which(bills$info$bol=="2428-06") # missing sponsors
+tmp <- c("Nombre", "Laura Soto G.", "Joaquín Palma I.", "Aldo Cornejo G.", "Juan Bustos R.")
+bills$sponsors[[i]] <- tmp
+bills$info$hasSpon[i] <- "yes"
+#
+i <- which(bills$info$bol=="2866-06") # missing sponsors
+tmp <- c("Nombre", "Carlos Recondo L.")
+bills$sponsors[[i]] <- tmp
+bills$info$hasSpon[i] <- "yes"
+#
+i <- which(bills$info$bol=="3085-11") # missing sponsors
+tmp <- c("Nombre", "Nicolás Monckeberg D.", "Pedro Pablo Álvarez-Salamanca R.", "Rosauro Martínez L.")
+bills$sponsors[[i]] <- tmp
+bills$info$hasSpon[i] <- "yes"
+#
+i <- which(bills$info$bol=="3108-01") # missing sponsors
+tmp <- c("Nombre", "Nicolás Monckeberg D.", "Pedro Pablo Álvarez-Salamanca R.", "Rosauro Martínez L.", "Galilea", "Bauer", "Cardemil", "Delmastro", "Palma", "Prieto", "Vargas")
+bills$sponsors[[i]] <- tmp
+bills$info$hasSpon[i] <- "yes"
+#
+i <- which(bills$info$bol=="3136-04") # missing sponsors
+tmp <- c("Nombre", "Ulloa", "Dittborn", "Longueira", "Víctor Pérez", "Egaña", "Álvarez", "Hernández", "Navarro", "Norambuena")
+bills$sponsors[[i]] <- tmp
+bills$info$hasSpon[i] <- "yes"
+#
+i <- which(bills$info$bol=="3144-07") # missing sponsors
+tmp <- c("Nombre", "Kast", "Varela", "Forni", "Alvarado", "Norambuena", "Ulloa", "Díaz", "Ibáñez", "Molina", "Cubillos")
+bills$sponsors[[i]] <- tmp
+bills$info$hasSpon[i] <- "yes"
+#
+i <- which(bills$info$bol=="3156-07") # missing sponsors
+tmp <- c("Nombre", "Kast", "Cristi", "Paya", "Víctor Pérez", "Leay", "Molina", "Dittborn", "García-Huidobro", "Melero", "Uriarte", "Alvarado")
+bills$sponsors[[i]] <- tmp
+bills$info$hasSpon[i] <- "yes"
+#
+i <- which(bills$info$bol=="3362-07") # missing sponsors
+tmp <- c("Nombre", "Montes", "Bustos", "Espinoza", "Burgos", "Aguiló", "Ceroni")
+bills$sponsors[[i]] <- tmp
+bills$info$hasSpon[i] <- "yes"
+#
+i <- which(bills$info$bol=="3363-07") # missing sponsors
+tmp <- c("Nombre", "Montes", "Bustos", "Espinoza", "Burgos", "Aguiló", "Ceroni")
+bills$sponsors[[i]] <- tmp
+bills$info$hasSpon[i] <- "yes"
+#
+i <- which(bills$info$bol=="3364-07") # missing sponsors
+tmp <- c("Nombre", "Errázuriz")
+bills$sponsors[[i]] <- tmp
+bills$info$hasSpon[i] <- "yes"
+#
+i <- which(bills$info$bol=="3365-15") # missing sponsors
+tmp <- c("Nombre", "Accorsi")
+bills$sponsors[[i]] <- tmp
+bills$info$hasSpon[i] <- "yes"
+#
+i <- which(bills$info$bol=="3370-07") # missing sponsors
+tmp <- c("Nombre", "Carmen Ibáñez", "Eliana Caraball", "Pía Guzmán", "Salaberry", "Moreira", "Uriarte", "Becker")
+bills$sponsors[[i]] <- tmp
+bills$info$hasSpon[i] <- "yes"
+#
+i <- which(bills$info$bol=="3372-04") # missing sponsors
+tmp <- c("Nombre", "Muñoz")
+bills$sponsors[[i]] <- tmp
+bills$info$hasSpon[i] <- "yes"
+#
+i <- which(bills$info$bol=="3372-04") # missing sponsors
+tmp <- c("Nombre", "Muñoz")
+bills$sponsors[[i]] <- tmp
+bills$info$hasSpon[i] <- "yes"
+#
+i <- which(bills$info$bol=="3375-04") # missing sponsors
+tmp <- c("Nombre", "Ulloa", "Egaña", "Recondo", "Urrutia", "Pablo Galilea", "Vargas", "Melero")
+bills$sponsors[[i]] <- tmp
+bills$info$hasSpon[i] <- "yes"
+#
+i <- which(bills$info$bol=="3430-07") # missing sponsors
+tmp <- c("Nombre", "Bayo", "Bertolino", "Delmastro", "García", "Hidalgo", "Vargas")
+bills$sponsors[[i]] <- tmp
+bills$info$hasSpon[i] <- "yes"
+#
+i <- which(bills$info$bol=="3773-06") # missing sponsors
+tmp <- c("Nombre", "Hernán Larraín Fernandez", "Jaime Gazmuri Mujica")
+bills$sponsors[[i]] <- tmp
+bills$info$hasSpon[i] <- "yes"
+#
+# FIND SPONSORS
+bills$sponsorsRaw <- bills$sponsors # keep original info
+tmplook <- rep(0,I) # dummy pointing to names without party info
+sel <- which(bills$info$dmensaje==0)
+for (i in sel){
+    message(sprintf("loop %s of %s", i, I))
+    #i <- sel[2] # debug
+    tmp <- bills$sponsorsRaw[[i]]
+    n <- length(tmp) - 1
+    bills$sponsors[[i]] <- data.frame( name=rep(NA,n), region=rep(NA,n), disn=rep(NA,n), party=rep(NA,n), list=rep(NA,n), regex=rep(NA,n) ) # empty frame
+    if (length(grep("Región", tmp[1]))==0){
+        bills$sponsors[[i]]$name <- tmp[-1] # drop title
+        tmplook[i] <- 1 # mark: party needs to be searched
+    } else {
+        tmp <- tmp[-1] # drop title
+        #sub(pattern = "(.*)((?:I|II|III|IV|V|VI|VII|VIII|IX|X|XI|XII|XIII|XIV|XV|RM) Región.*)N°([0-9+]) (.*)", replacement = "\\2", tmp)
+        bills$sponsors[[i]]$name <- sub(pattern = "(.*) N°([0-9]+) (.*)", replacement = "\\1", tmp)
+        bills$sponsors[[i]]$disn <- sub(pattern = "(.*) N°([0-9]+) (.*)", replacement = "\\2", tmp)
+        bills$sponsors[[i]]$party <- sub(pattern = "(.*) N°([0-9]+) (.*)", replacement = "\\3", tmp)
+    }
+    # remove accents
+    bills$sponsors[[i]]$name <- gsub(pattern = "á", replacement = "a", bills$sponsors[[i]]$name)
+    bills$sponsors[[i]]$name <- gsub(pattern = "é", replacement = "e", bills$sponsors[[i]]$name)
+    bills$sponsors[[i]]$name <- gsub(pattern = "í", replacement = "i", bills$sponsors[[i]]$name)
+    bills$sponsors[[i]]$name <- gsub(pattern = "ó", replacement = "o", bills$sponsors[[i]]$name)
+    bills$sponsors[[i]]$name <- gsub(pattern = "ú", replacement = "u", bills$sponsors[[i]]$name)
+    bills$sponsors[[i]]$name <- gsub(pattern = "Á", replacement = "A", bills$sponsors[[i]]$name)
+    bills$sponsors[[i]]$name <- gsub(pattern = "É", replacement = "E", bills$sponsors[[i]]$name)
+    bills$sponsors[[i]]$name <- gsub(pattern = "Í", replacement = "I", bills$sponsors[[i]]$name)
+    bills$sponsors[[i]]$name <- gsub(pattern = "Ó", replacement = "O", bills$sponsors[[i]]$name)
+    bills$sponsors[[i]]$name <- gsub(pattern = "Ú", replacement = "U", bills$sponsors[[i]]$name)
+    # regex matching names in any order
+    tmp <- bills$sponsors[[i]]$name
+    tmp <- sub(pattern = "^", replacement = "^(?=.*", x = tmp)
+    tmp <- sub(pattern = "$", replacement = ").*?", x = tmp)
+    tmp <- gsub(pattern = " ", replacement = ")(?=.*", x = tmp) 
+    bills$sponsors[[i]]$regex <- tmp
+}
+#
+# FILL LIST INFO
+sel <- which(bills$info$dmensaje==0 & tmplook==0)
+for (i in sel){
+    #i <- sel[1] # debug
+    bills$sponsors[[i]]$list <- mapvalues(bills$sponsors[[i]]$party, from = c("Independientes", "Izquierda Ciudadana", "Partido Comunista", "Partido Demócrata Cristiano", "Partido Por la Democracia", "Partido Radical Social Demócrata", "Partido Regionalista Independiente", "Partido Socialista", "Renovación Nacional", "Rubén Gajardo Chacón Región N° Partido Demócrata Cristiano", "Unión de Centro Progresista", "Unión Demócrata Independiente"), to = c("ind", "con", "con", "con", "con", "con", "reg", "con", "right", "con", "right", "right"), warn_missing = FALSE)
+    bills$sponsors[[i]]$party <- mapvalues(bills$sponsors[[i]]$party, from = c("Independientes", "Izquierda Ciudadana", "Partido Comunista", "Partido Demócrata Cristiano", "Partido Por la Democracia", "Partido Radical Social Demócrata", "Partido Regionalista Independiente", "Partido Socialista", "Renovación Nacional", "Rubén Gajardo Chacón Región N° Partido Demócrata Cristiano", "Unión de Centro Progresista", "Unión Demócrata Independiente"), to = c("ind", "ic", "pcch", "dc", "ppd", "prsd", "pri", "ps", "rn", "dc", "ucp", "udi"), warn_missing = FALSE)
+}
+#
+# import dip/sen names and parties to fill missing list
+dip <- read.csv(paste("/home/eric/Dropbox/data/latAm/chile/composicionCamarasComs/dip.csv", sep = ""), stringsAsFactors = FALSE)
+dip <- dip[,c("name","pty","list")]
+sen <- read.csv(paste("/home/eric/Dropbox/data/latAm/chile/composicionCamarasComs/sen.csv", sep = ""), stringsAsFactors = FALSE)
+sen <- sen[,c("name","pty","list")]
+# merge
+dip$from <- "dip"; sen$from <- "sen"; mcs <- rbind(dip, sen); rm(dip,sen)
+# clean party labels
+mcs$pty <- sub(pattern = "ind[-(: )]", replacement = "", mcs$pty) # make leaners party members
+mcs$pty <- sub(pattern = "inst[,:] ", replacement = "", mcs$pty) # make leaners party members
+mcs$pty[mcs$pty=="mas (ex ps)"] <- "ps"
+mcs$pty[mcs$pty=="sd"] <- "prsd"
+mcs$pty[mcs$pty=="ppd-ps"] <- "ps"
+mcs$pty[mcs$pty=="psdp-pr"] <- "prsd"
+# remove accents
+mcs$name <- gsub(pattern = "á", replacement = "a", mcs$name)
+mcs$name <- gsub(pattern = "é", replacement = "e", mcs$name)
+mcs$name <- gsub(pattern = "í", replacement = "i", mcs$name)
+mcs$name <- gsub(pattern = "ó", replacement = "o", mcs$name)
+mcs$name <- gsub(pattern = "ú", replacement = "u", mcs$name)
+mcs$name <- gsub(pattern = "Á", replacement = "A", mcs$name)
+mcs$name <- gsub(pattern = "É", replacement = "E", mcs$name)
+mcs$name <- gsub(pattern = "Í", replacement = "I", mcs$name)
+mcs$name <- gsub(pattern = "Ó", replacement = "O", mcs$name)
+mcs$name <- gsub(pattern = "Ú", replacement = "U", mcs$name)
+# remove commas
+mcs$name <- gsub(pattern = ",", replacement = "", mcs$name)
+#
+sel <- which(bills$info$dmensaje==0 & tmplook==1)
+# find name, add party/list
+for (i in sel){
+    message(sprintf("loop %s of %s", i, I))
+    #i <- sel[7]; j <- 1; bills$info$bol[i] # debug
+    tmp <- bills$sponsors[[i]]$regex
+    n <- length(tmp)
+    for (j in 1:n){
+        tmphits <- grep(pattern = tmp[j], x = mcs$name, perl = TRUE)
+        if (length(tmphits)==0) next
+        if (length(tmphits)==1){
+            bills$sponsors[[i]]$pty <- mcs$pty[tmphits]
+            bills$sponsors[[i]]$list <- mcs$list[tmphits]
+            tmplook[i] <- 0
+        } else {
+            bills$sponsors[[i]]$pty <- paste(mcs$pty[tmphits], collapse = "-") # colapses many labels into one long
+            bills$sponsors[[i]]$list <- paste(mcs$list[tmphits], collapse = "-") # colapses many labels into one long
+            tmplook[i] <- 0
+        }
+    }
+}
+
+# COMPUTE CONCERTACIÓN AND RIGHT % SPONSORS
+bills$info$pctcon <- bills$info$pctright <- NA
+# exec-init 100 percent their list
+sel <- which(bills$info$dmensaje==1)
+bills$info$pctcon[sel] <- 100
+bills$info$pctright[sel] <- 0
+sel <- which(bills$info$dmensaje==1 & bills$info$dateIn>=dmy("1/3/2010", tz = "chile") & bills$info$dateIn<dmy("1/3/2014", tz = "chile")) # piñera
+bills$info$pctcon[sel] <- 0
+bills$info$pctright[sel] <- 100
+# mc-init
+sel <- which(bills$info$dmensaje==0)
+for (i in sel){
+    tmp <- bills$sponsors[[i]]$list
+    n <- length(tmp)
+    bills$info$pctcon[i] <- length(grep(pattern = "con", tmp)) * 100 / n
+    bills$info$pctright[i] <- length(grep(pattern = "right", tmp)) * 100 / n
+}
+# round
+bills$info$pctcon <- round(bills$info$pctcon, digits = 0)
+bills$info$pctright <- round(bills$info$pctright, digits = 0)
+#
+rm(i, j, mcs, n, sel, tmp, tmphits, tmplook)
+
+# SOME DESCRIPTIVES (Processed in separate spreadsheet descriptives.ods)
 table(bills$info$dmensaje)
 table(bills$info$dpassed)
 table(bills$info$dpassed[bills$info$dmensaje==0])
@@ -1389,26 +2586,145 @@ table(bills$info$urgIn[bills$info$dpassed==0 & bills$info$dmensaje==1])
 table(bills$info$urgIn[bills$info$dpassed==1 & bills$info$dmensaje==1])
 #
 table(bills$info$nUrg)
-
-summary(bills$info)
-
+#
+# Whose leg-init bills are declared urgent?
+# cut % sponsors into categories of Concertación sponsors
+tmp <- cut(x = bills$info$pctcon, breaks = c(0, 1, 25, 50, 75, 99, 100), labels = c("0","1-25","25-50","51-75","76-99","100"), include.lowest = TRUE)
+# select pre-piñera
+sel <- which(bills$info$dmensaje==0 & bills$info$dateIn<dmy("1/3/2010", tz = "chile") & bills$info$nUrg>0)
+round(table(tmp[sel]) / length(sel), digits = 2)
+length(sel)
+# select piñera
+sel <- which(bills$info$dmensaje==0 & bills$info$dateIn>=dmy("1/3/2010", tz = "chile") & bills$info$dateIn<dmy("1/3/2014", tz = "chile")  & bills$info$nUrg>0) # piñera
+round(table(tmp[sel]) / length(sel), digits = 2)
+length(sel)
+# select all
+sel <- which(bills$info$dmensaje==0 & bills$info$nUrg>0)
+round(table(tmp[sel]) / length(sel), digits = 2)
+length(sel)
 
 # BILL'S LAST TRÁMITE(S) AND PATH
-bills$info$tramPath <- "0-1" # prepares column to receive info
-#sel <- which(bills$info$nUrg>0)
-for (i in I){
-    i <- 1 # debug
-    tmp <- bills$urg[[i]]$trNum # trámite numbers with an urgency
-    tmp[tmp>3] <- 3 # recode trNum as 1,2,3+
-    tmp <- as.numeric(names(table(tmp))) # remove repeated numbers
-    tmp <- paste(tmp, sep="", collapse = "")
-    bills$info$urgIn[i] <- as.numeric(tmp)
-}
-rm(sel,tmp)
+## 2nd urgency is v, 3rd is w, anf so forth until z
+## return to chamber 1 is 3
+## A 1-o
+## B 1-u
+## C 1-2
+## Ch u-o
+## D u-2
+## E 2-o
+## F 2-v
+## G 2-3
+## H 2-y
+## I 2-p
+## J y-o
+## K y-p
+## L v-o
+## M v-3
+## N 3-o
+## Ñ 3-w
+## O 3-c
+## P 3-z
+## Q 3-p
+## R z-o
+## S z-p
+## T w-o
+## U w-c
+## V c-o
+## W c-x
+## X c-p
+## Y x-o
+## Z x-p
+##  recode 2-c-. = 2-3-c-.
+##  recode 2-v-c-. = 2-v-3-c-.
 
-# clean tramites
-bills$hitos[[i]]$chamber[bills$hitos[[i]]$tramite=="tribunal"]
-bills$tramites[[i]]
+## change nTr to 1=origen, 2=revisora, 3=origen.bis, 4=conf, 5=ejec, 6=veto, 7=trib, and urgIn accordingly
+for (i in 1:I){
+    message(sprintf("loop %s of %s", i, I))
+    tmp <- bills$tramites[[i]]
+    skip <- grep(pattern = "conf*|ejec|veto|trib", tmp$tramite)
+    if (length(skip)>0){
+        tmp1 <- tmp[-skip,]
+    } else {
+        tmp1 <- tmp
+    }
+    tmp1$nTr <- 1:nrow(tmp1)
+    if (length(skip)>0){
+        tmp[-skip,] <- tmp1
+    } else {
+        tmp <- tmp1
+    }
+    tmp$nTr[tmp$tramite=="conf"] <- 4
+    tmp$nTr[tmp$tramite=="ejec"] <- 5
+    tmp$nTr[tmp$tramite=="veto"] <- 6
+    tmp$nTr[tmp$tramite=="trib"] <- 7
+    bills$tram[[i]] <- tmp
+}
+
+tram <- bills$tramites # duplicate to remove tribunal and veto steps
+for (i in 1:I){
+    message(sprintf("loop %s of %s", i, I))
+    tmp <- tram[[i]]
+    drop <- union( grep(pattern = "trib", tmp$tramite), grep(pattern = "veto", tmp$tramite) )
+    if (length(drop)>0){
+        tmp <- tmp[-drop,]
+        tmp$nTr <- 1:nrow(tmp)
+    }
+    tram[[i]] <- tmp
+}
+
+#
+lastTram <- rep(NA,I) # no NAs should remain at the end
+# will receive num of trámites
+tmp1 <- rep(0,I)
+for (i in 1:I){
+#    if (max(bills$tramites[[i]]$nTr)==1) tmp1[i] <- 1
+    tmp1[i] <- max(tram[[i]]$nTr)
+}
+table(tmp1)
+#
+# get five-tramite cases
+sel <- which(tmp1==5)# & bills$info$nUrg==0)
+tmp <- "start"
+for (i in sel){
+    tmp <- c(tmp, tram[[i]]$tramite[4])
+}
+table(tmp[-1]) # all end in ejec
+sel <- which(tmp1==5 & 
+
+# get single-tramite cases
+sel <- which(tmp1==1 & bills$info$nUrg==0)
+lastTram[sel] <- "B"
+sel <- which(tmp1==1 & bills$info$nUrg==1)
+lastTram[sel] <- "E"
+#
+table(bills$info$urgIn[lastTram=="E"]) # Ojo: los 3 ceros son urgencias de Bachelet II que quité más arriba...
+#
+# get two-tramite cases
+sel <- which(tmp1==2 & bills$info$nUrg==0)
+lastTram[sel] <- "G"
+sel <- which(tmp1==2 & (bills$info$urgIn==2 | bills$info$urgIn==12))
+lastTram[sel] <- "L"
+#
+# get three-tramite cases ending with ejec
+tmp2 <- rep(0,I)
+for (i in 1:I){
+    if (tmp1[i]!=3) next
+    if (tram[[i]]$tramite[3]=="ejec") tmp2[i] <- 1
+}
+sel <- which(tmp2==1)
+lastTram[sel] <- "K"
+
+table(bills$info$urgIn[lastTram=="K"])
+
+
+
+table(lastTram)
+
+table(bills$info$urgIn[bills$info$nUrg==1])
+
+sel <- which(bills$info$urgIn==0 & bills$info$nUrg==1)
+bills$info$bol[sel]
+
 
 #see xtabs pre-packaged function
 myXtab <- function(v1,v2){ # xtab with row% in cells and row totals
