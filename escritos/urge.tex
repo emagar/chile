@@ -10,13 +10,21 @@
 \usepackage{tikz}             % Easier syntax to draw pgf files (invokes pgf automatically)
 \usetikzlibrary{arrows}
 
-\usepackage{times}            % set font type to Times
+\usepackage{mathptmx}           % set font type to Times
+\usepackage[scaled=.90]{helvet} % set font type to Times (Helvetica for math)
+\usepackage{courier}            % set font type to Times (Courier for other special characters)
+
 \usepackage[longnamesfirst, sort]{natbib}\bibpunct[]{(}{)}{,}{a}{}{;} % handles biblio and references 
 
 \usepackage{rotating}         % sideway tables and figures that take a full page
 \usepackage{caption}          % allows multipage figures and tables with same caption (\ContinuedFloat)
 
-\usepackage{arydshln}         % dashed lines in tables (hdashline, cdashline{3-4}, see http://tex.stackexchange.com/questions/20140/can-a-table-include-a-horizontal-dashed-line)
+\usepackage{dcolumn}          % needed for apsrtable and stargazer tables from R to compile
+\usepackage{arydshln}         % dashed lines in tables (hdashline, cdashline{3-4}, 
+                              %see http://tex.stackexchange.com/questions/20140/can-a-table-include-a-horizontal-dashed-line)
+                              % must be loaded AFTER dcolumn, 
+                              %see http://tex.stackexchange.com/questions/12672/which-tabular-packages-do-which-tasks-and-which-packages-conflict
+
 
 \newcommand{\mc}{\multicolumn}
 
@@ -32,6 +40,212 @@ Unlike presidents with mostly (when not only) reactive formal powers in the legi
 \end{abstract}
 
 \onehalfspacing
+
+
+\section{NegBin regressions}
+
+Committee reporting is one step of the legislative process where the effects of urgency usage can be gauged. Unless the floor votes an exception unanimously, every bill in Chile is referred to a standing or special committee upon first introduction to each chamber. In this prefloor stage, a committee chooses to schedule or not a bill for discussion and hearings towards drafting a proposal for the plenary. Discretion to prioritize legislation could in principle translate into negative or gatekeeping power, and bill drafting into positive power---possibly turning standing committees into formidable actors in their jurisdiction \citep{cox.mccubbins.1993,fenno.1973,shepsle.weingast.1987}. No explicit discharge procedure exists in the Reglamento, but presumably is the same---unanimous consent---to except a bill from referral to committee. 
+
+The Hacienda (Finance) committee has special status in the committee system and deserves attention. It stands apart from other committees because it has jusrisdiction over any bill authorizing spending in any domanin (multiple referrals are common, how many?). Bills with authorizations \emph{must} be referred to Hacienda. Committee members, who work along with Finance Ministry personnel, may or may not appropriate funds from the budget when reporting the bill to the floor. Not unlike the Appropriations committee in the U.S.\ House, Hacienda is a control committee, a key link towards agenda control \citep{kiewiet.mccubbins.1991}. 
+
+Yet urgencies may well undermine the gatekeeping potential of committees. Unless urgency messages can be ignored with ease, committee inaction on undesirable but urgent legislation becomes impossible. 
+
+Measuring the consequences of urgencies is difficult in many steps of the process. Whether or not they lead to vote exchange, for example, requires more detailed studies than the information available so far. But committee reports are observable. And helps detect if urgencies are heeded in Congress. 
+
+Bill may have been reported and be stuck in bottleneck down the stream. So failure to observe a report after an urgency should not immediately conclude that urgencies are dead weight. But unless there is a reason to suspect that all or most urgency messages arrive after the committee has reported---there is no a priori reason to expect this---a fair number of messages should be followed by a report. And the wait should bear relation to the degree of the urgency. 
+
+\begin{table}
+\begin{center}
+\begin{tabular}{lrrr}
+                    &  \mc{3}{c}{Report observed within deadline} \\
+Urgency message     &  ~~~~~~\% yes  &  ~~~~~~\% no   &  N     \\ \hline
+Act now             &  63      &  37      &  475   \\
+2-week notice       &  27      &  73      &  2192  \\
+4-week notice       &  25      &  75      &  1678  \\
+Deadline shortened  &  41      &  59      &  241   \\
+Deadline extended   &  23      &  77      &  3454  \\
+Withdrawn           &  6       &  94      &  211   \\ \hline
+All                 &  27      &  73      &  8251  \\
+\end{tabular}
+\caption{Urgency messages and committee reports within deadline, 2006--2014}
+\end{center}
+\end{table}
+
+Stats:
+Number of urgencies followed by no report within five weeks, by report within five weeks, average time it took. 
+N bills with at least one report. 
+
+This is tested with bill histories data. 
+
+
+
+Weekly aggregates were computed from the data. The dependent variable is the number of bills reported by some chamber of deputies committee any given week. Weeks when the chamber did not meet were dropped, adding any bill reported to the closest next week with a session.\footnote{Bill histories date reports when officially received (\emph{cuenta}), but some cases have prior mention to the report's finalization, which the algorithm incorrectly coded as the date. The same is true for weekly urgency messages, with figures for weeks with diputados not meeting corrected likewise.} Two figures were produced for analysis: weekly Hacienda committee reports, and weekly reports from any committee. The Hacienda aggregate seems preferable, letting analysis search for correlation with urgency messages explicitly targeting bills that were referred to that committee at some point. The total aggregate offers less control, but a more comprehensive picture. The average week in the 2006--2010 period had xx Hacienda reports (std.\ dev.\ xx), xx from any committee 
+
+Included in the right side are weekly urgency messages. Aggregates distinguish different urgency messages: the number of act-now, 2-week, and 4-week notices, deadlines shortened, extended, and withdrawals. If some bill is given an act now message, an effect should be observed almost immediately, the present week or the next week at most. But other urgency message effects, if any, should not necessarily be so immediate---legislators must react, and that takes time. In order to capture this, weekly lags of the regressors were included in the analysis. 
+
+%%%% NegBin Regressions from chilBill.r 
+% 1Regression of Hda Reports to Exec bills on Urgencies to Exec bills ref to Hda  DIP
+% (Intercept)   . 
+% nNow          ++ nNowl1        +  nNowl2        --
+%                  n2wkl1        ++ n2wkl2        .   n2wkl3        --
+%                                   n4wkl2        .   n4wkl3        ++   n4wkl4        ++
+% nShorten       . nShortenl1    ++ nShortenl2    . 
+%  dterm         . 
+%  dleg10        --
+% 
+% 2Regression of All Reports to Exec bills on Urgencies to Exec bills ref anywhere  DIP
+% (Intercept)   ++
+% nNow          ++ nNowl1        ++ nNowl2        --
+%                  n2wkl1        +  n2wkl2        ++ n2wkl3        . 
+%                                   n4wkl2        .  n4wkl3        .  n4wkl4        . 
+% nShorten      .  nShortenl1    .  nShortenl2    . 
+% dterm         . 
+% dleg10        --
+% 
+% 3Regression of Hda Reports to Leg bills on Urgencies to Exec bills ref to Hda  DIP
+% (Intercept)   --
+% nNow          .  nNowl1        ++
+% n2wk          ++ n2wkl1        -  n2wkl2        ++
+% 
+%                  nShortenl1    . 
+% dterm         . 
+% dleg10        --
+% 
+% 4Regression of All Reports to Leg bills on Urgencies to Exec bills ref anywhere  DIP
+% > + + + +  
+%            coef
+% (Intercept)   ++
+% nNow          . nNowl1        . 
+% n2wk          + 
+% n2wkl1        . n2wkl2        . n2wkl3        . n2wkl4        --
+% n4wkl1        . n4wkl2        . n4wkl3        . n4wkl4        ++
+% nShorten      . nShortenl1    . nShortenl2    . 
+% dterm         . 
+% dleg10        . 
+% 
+% 5Regression of Hda Reports to Leg bills on Urgencies to Leg bills ref Hda Comm  DIP
+%            coef
+% (Intercept)   --
+% nNow          ++ nNowl1        ++
+%                  n2wkl1        .  n2wkl2        ++ n2wkl3        ++
+%                                   n4wkl2        .  n4wkl3        .  n4wkl4        . 
+% dterm         . 
+% dleg10        --
+\begin{table}
+\begin{tabular}{l|ccccc|ccccc}
+                 & \mc{10}{c}{Effect on committee reports (cur.=current week, 1=next week...)}                                      \\
+Urgency messages & \mc{5}{c}{Exec.~bill reports}      & \mc{5}{c}{MC bill reports}                      \\
+of type          & cur.     & 1        & 2       & 3       & 4         & cur.     & 1          & 2         & 3          & 4          \\ \hline
+\mc{11}{l}{\emph{Urg.~in exec.~bill referred to Hacienda committee}}                                                                \\
+Act Now          &   $++$   &  $+$     &   $--$  &         &           &          &  $++$      &           &            &            \\
+2-week notice    &          &  $++$    &         &    $--$ &           &     $++$ &  $-$       &  $++$     &            &            \\
+4-week notice    &          &          &         &    $++$ &      $++$ &          &            &           &            &            \\
+Shorten deadline &          &  $++$    &         &         &           &          &            &           &            &            \\ \hdashline
+\mc{11}{l}{\emph{Urg ~in MC~bill referred to Hacienda committee}}                                                                   \\
+Act Now          &          &          &         &         &           &     $++$ &  $++$      &           &            &            \\           
+2-week notice    &          & \mc{3}{c}{(not estimated)}   &           &          &            &  $++$     &      $++$  &            \\           
+4-week notice    &          &          &         &         &           &          &            &           &            &            \\           
+Shorten deadline &          &          &         &         &           &          &            &           &            &            \\ \hdashline
+\mc{11}{l}{\emph{Urg ~in any exec ~bill}}                                                                                            \\
+Act Now          &   $++$   &  $++$    &   $--$  &         &           &          &            &           &            &            \\
+2-week notice    &          &  $+$     &   $++$  &         &           &     $+$  &            &           &            &      $--$  \\
+4-week notice    &          &          &         &         &           &          &            &           &            &      $++$  \\
+Shorten deadline &          &          &         &         &           &          &            &           &            &            \\ \hline
+\mc{11}{l}{\footnotesize{$++,--: p<.05$; $+,-: p<.1$ (one-tailed tests)}}                                                            \\
+\end{tabular}
+\caption{Effect of weekly urgency messages in committee reports, chamber of deputies 2006--2014. Entries report signs and significance (one-tailed) of regression coefficients. Negative binomial method of estimation, with fixed Legislature effects (see text).}
+\end{table}
+
+
+\section{logit regressions}
+
+
+% Table created by stargazer v.5.1 by Marek Hlavac, Harvard University. E-mail: hlavac at fas.harvard.edu
+% Date and time: Mon, Feb 02, 2015 - 05:55:22 PM
+% Requires LaTeX packages: dcolumn 
+\begin{table}[!htbp] \centering 
+\begin{tabular}{@{\extracolsep{5pt}}lD{.}{.}{-3} D{.}{.}{-3} } 
+\\[-1.8ex]\hline 
+\hline \\[-1.8ex] 
+ & \multicolumn{2}{c}{\textit{Dependent variable:}} \\ 
+\cline{2-3} 
+\\[-1.8ex] & \multicolumn{2}{c}{dv} \\ 
+\\[-1.8ex] & \multicolumn{1}{c}{(1)} & \multicolumn{1}{c}{(2)}\\ 
+\hline \\[-1.8ex] 
+ dmocion & -2.978^{***} &  \\ 
+  & (0.090) &  \\ 
+  & & \\ 
+ dmocionAllOpp &  & -3.597^{***} \\ 
+  &  & (0.137) \\ 
+  & & \\ 
+ dmocionMix &  & -2.517^{***} \\ 
+  &  & (0.114) \\ 
+  & & \\ 
+ dmocionAllPdt &  & -2.969^{***} \\ 
+  &  & (0.126) \\ 
+  & & \\ 
+ drefHda & 1.761^{***} & 1.782^{***} \\ 
+  & (0.111) & (0.111) \\ 
+  & & \\ 
+ dmajSen & -0.304^{***} & -0.302^{***} \\ 
+  & (0.086) & (0.086) \\ 
+  & & \\ 
+ dinSen & 0.184^{*} & 0.415^{***} \\ 
+  & (0.096) & (0.111) \\ 
+  & & \\ 
+ pterm & 0.004^{***} & 0.004^{***} \\ 
+  & (0.002) & (0.002) \\ 
+  & & \\ 
+ legyr & 0.003 & 0.003^{*} \\ 
+  & (0.002) & (0.002) \\ 
+  & & \\ 
+ Constant & -0.047 & -0.113 \\ 
+  & (0.140) & (0.141) \\ 
+  & & \\ 
+\hline \\[-1.8ex] 
+Observations & \multicolumn{1}{c}{6,987} & \multicolumn{1}{c}{6,987} \\ 
+Log Likelihood & \multicolumn{1}{c}{$-2,057$} & \multicolumn{1}{c}{$-2,029$} \\ 
+\% predicted correctly & \multicolumn{1}{c}{89} & \multicolumn{1}{c}{89} \\ 
+\hline 
+\hline \\[-1.8ex] 
+\textit{Note:}  & \multicolumn{2}{r}{$^{*}$p$<$0.1; $^{**}$p$<$0.05; $^{***}$p$<$0.01} \\ 
+\end{tabular} 
+  \caption{Regression results} \label{} 
+\end{table} 
+
+\section{Elements for a model of the urgency}
+
+\subsection{Visibility}
+
+\subsection{Impatience}
+
+Intuitively, the urgency points to executive impatience. Yet the key ingredient may well be impatience by some legislators. 
+
+Some assumptions. Decision theoretic. 
+
+Two legislators ($A,B$) and the executive ($E$). Each legislator has one pet project, the president has two. There are two stages to negotiate, only one project can be voted up or down in each period---the rest will have to wait, indefinitely. There is an understanding between legislators to trade votes for their projects. 
+
+At the start, four separable status quos may be challenged: $a_0$, $b_0$, $e_0$, and $f_0$. Legislators' pet projects aim at the first two, the executive's at the last pair. If all could change, then $a_1$, $b_1$, $e_1$, and $f_1$ would replace the status quos. To economize on notation, the same subscripted letters can denote legislator $A$'s payoffs for the alternatives. We will be interested in net policy gains, such that $a_0=b_0=e_0=f_0=0$ and $a_1>0$. It also seems reasonable to constrain payoffs for $A$'s pet project vis-\`a-vis other proposals: $a_1>b_1$ and $a_1>e_1$.  
+
+Under a time constrain, not all can change under, actors need to determine what to prioritize. The agenda becomes critical. Agenda $abef$ states that $a$ is moved first, then $b$, then $e$, then $f$---but negotiations ends before the agenda is exausted. The urgency lets the executive change the agenda unilaterally. Declaring an urgency in round 1 changes the agenda to $eabf$, and to $efab$ if another were declared in round 2 as well. 
+
+A discount factor $0\leq d \leq1$ captures impatience (shrinking the value of policy at round 2) so payoffs can be associated to each agenda. With agenda \emph{abef}, policy in round 1 is $a_1,b_0,e_0,f_0$, at round 2 it is $a_1,b_1,e_0,f_0$. $a_1(1+d)+db_1$
+
+
+\begin{tabular}{ccc}
+Round & Policy           & $A$'s net gain \\ \hline
+0     & $a_0,b_0,e_0,f_0$ & 0            \\ \hdashline
+  \mc{3}{l}{Agenda \emph{abef}}   \\
+1     & $a_1,b_0,e_0,f_0$ & $a_1$        \\
+2     & $a_1,b_1,e_0,f_0$ & $(a_1+b_1)d$ \\ \hdashline
+  \mc{3}{l}{Agenda \emph{eabf}}   \\
+1     & $a_0,b_0,e_1,f_0$ & $e_1$        \\
+2     & $a_1,b_0,e_1,f_0$ & $(a_1+e_1)d$ \\ \hdashline
+  \mc{3}{l}{Agenda \emph{efab}}   \\
+1     & $a_0,b_0,e_1,f_0$ & $e_1$        \\
+2     & $a_0,b_0,e_1,f_1$ & $(e_1+f_1)d$ \\ \hline
+\end{tabular}
+
 
 \section{Institutions and divided government}
 
@@ -185,24 +399,137 @@ as \% passed             &    \emph{87}  &   \emph{95}  &  \emph{93} \\ \hline
 
 An urgency message can be sent at any stage of the bicameral legislative process, compelling the chamber receiving it to act on a bill. Since urgencies expire once the chamber has finished, it is not uncommon for presidents to send messages at more than one step. Two-fifths of bills with urgencies were deemed so in two or three steps of the legislative process---the first chamber, the second, and/or the bicameral conference.    
 
+% \begin{table}
+% \begin{center}
+% \begin{tabular}{lrrr|rrr}
+%                                   &  \mc{6}{c}{Proposer}                                               \\    
+%                                   &  \mc{3}{c}{president}         &  \mc{3}{c}{member of Congress}             \\    
+% Bills with urgency in             &  \% pass   & \% not    & ~~~~~N &  \% pass  & \% not    & ~~~~~N \\ \hline
+% $1^{st}$ chamber only              &  \emph{40} & \emph{60} & 278  & \emph{12} & \emph{88} & 103  \\
+% $2^{nd}$ chamber only              &  \emph{84} & \emph{16} &  98  & \emph{51} & \emph{49} &  93  \\
+% conference only                   &  \emph{95} & \emph{5}  &  20  & \emph{62} & \emph{38} &  13  \\
+% $1^{st}$ and $2^{nd}$               &  \emph{86} & \emph{14} & 369  & \emph{58} & \emph{42} &  81  \\
+% $1^{st}$ and conference            &  \emph{92} & \emph{8}  &  39  & \emph{100}& \emph{0}  &   3  \\
+% $2^{nd}$ and conference            &  \emph{100}& \emph{0}  &  18  & \emph{83} & \emph{17} &  23  \\
+% $1^{st}$, $2^{nd}$, and conference  &  \emph{94} & \emph{6}  & 192  & \emph{91} & \emph{9}  &  34  \\
+% no urgency                        &  \emph{67} & \emph{33} & 455  & \emph{5}  & \emph{95} & 5183  \\ \hline
+% \end{tabular}
+% \caption{The legislative process, urgency messages, and bill passage by proposer 1998--2014}\label{T:stepsUrgencyPass}
+% \end{center}
+% \end{table}
+
 \begin{table}
 \begin{center}
 \begin{tabular}{lrrr|rrr}
-                                  &  \mc{6}{c}{Proposer}                                               \\    
-                                  &  \mc{3}{c}{president}         &  \mc{3}{c}{member of Congress}             \\    
-Bills with urgency in             &  \% pass   & \% not    & ~~~~~N &  \% pass  & \% not    & ~~~~~N \\ \hline
-$1^{st}$ chamber only              &  \emph{40} & \emph{60} & 278  & \emph{12} & \emph{88} & 103  \\
-$2^{nd}$ chamber only              &  \emph{84} & \emph{16} &  98  & \emph{51} & \emph{49} &  93  \\
-conference only                   &  \emph{95} & \emph{5}  &  20  & \emph{62} & \emph{38} &  13  \\
-$1^{st}$ and $2^{nd}$               &  \emph{86} & \emph{14} & 369  & \emph{58} & \emph{42} &  81  \\
-$1^{st}$ and conference            &  \emph{92} & \emph{8}  &  39  & \emph{100}& \emph{0}  &   3  \\
-$2^{nd}$ and conference            &  \emph{100}& \emph{0}  &  18  & \emph{83} & \emph{17} &  23  \\
-$1^{st}$, $2^{nd}$, and conference  &  \emph{94} & \emph{6}  & 192  & \emph{91} & \emph{9}  &  34  \\
-no urgency                        &  \emph{67} & \emph{33} & 455  & \emph{5}  & \emph{95} & 5183  \\ \hline
+                       &  \mc{6}{c}{Proposer}                                               \\    
+Step(s) with           &  \mc{3}{c}{president}         &  \mc{3}{c}{member of Congress}             \\    
+urgency declared       &  \% pass    & \% not      & ~~~~~N &  \% pass  & \% not      & ~~~~~N \\ \hline
+1 only                 &  \emph{41}  &  \emph{59}  &  285 &  \emph{12}  &  \emph{88}  &  103 \\
+2 only                 &  \emph{84}  &  \emph{16}  &  102 &  \emph{52}  &  \emph{48}  &  96  \\
+3 only                 &  \emph{90}  &  \emph{10}  &  10  &  \emph{75}  &  \emph{25}  &  4   \\
+$c$ only               &  \emph{100} &  \emph{0}   &  8   &  \emph{57}  &  \emph{43}  &  7   \\
+1 and 2                &  \emph{85}  &  \emph{15}  &  382 &  \emph{60}  &  \emph{40}  &  84  \\
+two of more            &  \emph{100} &  \emph{0}   &  37  &  \emph{90}  &  \emph{10}  &  21  \\
+1, 2, and 3            &  \emph{94}  &  \emph{6}   &  89  &  \emph{90}  &  \emph{10}  &  10  \\
+three of more          &  \emph{96}  &  \emph{4}   &  55  &  \emph{86}  &  \emph{14}  &  14  \\
+1, 2, 3, and $c$       &  \emph{93}  &  \emph{7}   &  44  &  \emph{80}  &  \emph{20}  &  10  \\
+no urgency             &  \emph{67}  &  \emph{33}  &  457 &  \emph{5}   &  \emph{95}  &  5184 \\ \hline
 \end{tabular}
-\caption{The legislative process, urgency messages, and bill passage by proposer 1998--2014}\label{T:stepsUrgencyPass}
+\caption{Legislative steps, urgency messages, and bill passage by proposer 1998--2014. Steps are coded thus: 1 for the chamber of origin, 2 for the revising chamber, 3 for the chamber of origin's response, and $c$ for the conference committee. Cells report bill frequencies.}\label{T:stepsUrgencyPass}
 \end{center}
 \end{table}
+
+\begin{sidewaysfigure}
+\begin{tabular}{cc}
+%\textbf{Executive-initiated bills} & \textbf{MC-initiated bills} \\
+\textbf{Piñera bills sent to Deputies} & \textbf{Piñera bills sent to Senate} \\
+($N=314$) & ($N=90$) \\
+\tikzstyle{mid}=[circle,draw]
+\tikzstyle{middot}=[circle,draw,dashed]
+\begin{tikzpicture}[shorten >=1pt,node distance=2cm,auto,scale=.6]
+%\draw[help lines] (-6,-6) grid (6,6);
+\node at (-4,6) (st) {\footnotesize{\textbf{\texttt{start}}}};
+\node[mid]     at (0,0)   (p)  {\textbf{Exec.}};
+\node[mid,green] at (0,6)   (n1) {\textbf{Orig.}};
+\node[mid,red]   at (6,0)   (n2) {\textbf{Rev.}};
+\node[mid,green] at (0,-6)  (n3) {\textbf{Orig.}};
+\node[mid]       at (-6,0)  (c)  {\textbf{Conf.}};
+\node[middot]    at (2,3)   (u)  {$u$};
+\node[middot]    at (3,-2)  (v)  {$u$};
+\node[middot]    at (-2,-3) (w)  {$u$};
+\node[middot]    at (-3,2)  (x)  {$u$};
+\draw [-stealth] (st)                    edge node {100} (n1);
+\draw [-stealth] (n1) [loop above]       edge node              { 8} ();    % l11 $A$
+\draw [-stealth] (n1) [bend left,dashed] edge node              {75} (u);   % l1u $B$
+\draw [-stealth] (n1) [out=0,in=90]      edge node              {17} (n2);  % l12 $C$
+\draw [-stealth] (u)  [bend left]        edge node              {14} (n1);  % lu1 $D$
+\draw [-stealth] (u)                     edge node              {61} (n2);  % lu2 $E$
+\draw [-stealth] (n2) [loop right]       edge node              { 3} ();    % l22 $F$
+\draw [-stealth] (n2) [out=-90,in=0]     edge node              { 6} (n3);  % l23 $G$
+\draw [-stealth] (n2) [bend left,dashed] edge node              {57} (v);   % l2v $H$
+\draw [-stealth] (n2) [out=170, in=10]   edge node [swap]       {12} (p);   % l2p $I$
+\draw [-stealth] (v)  [bend left]        edge node              { 7} (n2);  % lv2 $J$
+\draw [-stealth] (v)                     edge node [swap]       {24} (p)    % lvp $K$
+                 (v)                     edge node              {25} (n3);  % lv3 $L$
+\draw [-stealth] (n3) [loop below]       edge node              { 0} ();    % l33 $N$
+\draw [-stealth] (n3) [out=180,in=-90]   edge node              { 6} (c);   % l3c $O$
+\draw [-stealth] (n3) [bend left,dashed] edge node              {11} (w);   % l3w $P$
+\draw [-stealth] (n3) [out=80, in=-80]   edge node [swap]       {15} (p);   % l3p $Q$
+\draw [-stealth] (w)  [bend left]        edge node [near start] { 0} (n3);  % lw3 $R$
+\draw [-stealth] (w)                     edge node              { 9} (p)    % lwp $S$
+                 (w)                     edge node              { 1} (c);   % lwc $U$
+\draw [-stealth] (c)  [loop left]        edge node              { 0} ();    % lcc $V$
+\draw [-stealth] (c)  [bend left,dashed] edge node              { 5} (x);   % lcx $W$
+\draw [-stealth] (c)  [out=-10, in=-170] edge node [swap]       { 2} (p);   % lcp $X$
+\draw [-stealth] (x)  [bend left]        edge node              { 0} (c);   % lxc $Y$
+\draw [-stealth] (x)                     edge node              { 5} (p);   % lcp $Z$
+\end{tikzpicture}
+&
+\tikzstyle{mid}=[circle,draw]
+\tikzstyle{middot}=[circle,draw,dashed]
+\begin{tikzpicture}[shorten >=1pt,node distance=2cm,auto,scale=.6]
+%\draw[help lines] (-6,-6) grid (6,6);
+\node at (-4,6) (st) {\footnotesize{\textbf{\texttt{start}}}};
+\node[mid]       at (0,0)   (p)  {\textbf{Exec.}};
+\node[mid,red]   at (0,6)   (n1) {\textbf{Orig.}};
+\node[mid,green] at (6,0)   (n2) {\textbf{Rev.}};
+\node[mid,red]   at (0,-6)  (n3) {\textbf{Orig.}};
+\node[mid]       at (-6,0)  (c)  {\textbf{Conf.}};
+\node[middot]    at (2,3)   (u)  {$u$};
+\node[middot]    at (3,-2)  (v)  {$u$};
+\node[middot]    at (-2,-3) (w)  {$u$};
+\node[middot]    at (-3,2)  (x)  {$u$};
+\draw [-stealth] (st)                    edge node {100} (n1);
+\draw [-stealth] (n1) [loop above]       edge node              { 8} ();    % l11 $A$
+\draw [-stealth] (n1) [bend left,dashed] edge node              {79} (u);   % l1u $B$
+\draw [-stealth] (n1) [out=0,in=90]      edge node              {13} (n2);  % l12 $C$
+\draw [-stealth] (u)  [bend left]        edge node              {31} (n1);  % lu1 $D$
+\draw [-stealth] (u)                     edge node              {48} (n2);  % lu2 $E$
+\draw [-stealth] (n2) [loop right]       edge node              { 1} ();    % l22 $F$
+\draw [-stealth] (n2) [out=-90,in=0]     edge node              { 6} (n3);  % l23 $G$
+\draw [-stealth] (n2) [bend left,dashed] edge node              {47} (v);   % l2v $H$
+\draw [-stealth] (n2) [out=170, in=10]   edge node [swap]       { 8} (p);   % l2p $I$
+\draw [-stealth] (v)  [bend left]        edge node              { 6} (n2);  % lv2 $J$
+\draw [-stealth] (v)                     edge node [swap]       {18} (p)    % lvp $K$
+                 (v)                     edge node              {23} (n3);  % lv3 $L$
+\draw [-stealth] (n3) [loop below]       edge node              { 0} ();    % l33 $N$
+\draw [-stealth] (n3) [out=180,in=-90]   edge node              { 4} (c);   % l3c $O$
+\draw [-stealth] (n3) [bend left,dashed] edge node              {18} (w);   % l3w $P$
+\draw [-stealth] (n3) [out=80, in=-80]   edge node [swap]       { 7} (p);   % l3p $Q$
+\draw [-stealth] (w)  [bend left]        edge node [near start] { 0} (n3);  % lw3 $R$
+\draw [-stealth] (w)                     edge node              {11} (p)    % lwp $S$
+                 (w)                     edge node              { 7} (c);   % lwc $U$
+\draw [-stealth] (c)  [loop left]        edge node              { 1} ();    % lcc $V$
+\draw [-stealth] (c)  [bend left,dashed] edge node              { 8} (x);   % lcx $W$
+\draw [-stealth] (c)  [out=-10, in=-170] edge node [swap]       { 2} (p);   % lcp $X$
+\draw [-stealth] (x)  [bend left]        edge node              { 1} (c);   % lxc $Y$
+\draw [-stealth] (x)                     edge node              { 7} (p);   % lcp $Z$
+\end{tikzpicture}
+\\
+\end{tabular}
+\caption{Bills' paths in the legislative process. Orig.\ and Rev.\ are the originating and revising chambers, respectively, Conf.\ the conference committee, and Exec.\ the executive. Numbers are relative to base 100 (ie., frequency*100/total bills), rounded to nearest integer.}\label{F:billPaths}
+\end{sidewaysfigure}
+
 
 \begin{table}
 \begin{center}
@@ -239,6 +566,9 @@ Right president          & \emph{26} & \emph{4}  & \emph{18}  & \emph{12}  & \em
 \end{center}
 \end{table}
 
+
+
+ 
 
 
 \section{Dependent variable}

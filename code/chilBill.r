@@ -442,7 +442,7 @@ bills$info$status <- sub(pattern = ".*finalización en Cámara.*", replacement =
 bills$info$dateOut <- dmy(bills$info$dateOut, quiet = TRUE, tz = "chile")
 table(bills$info$status) # debug
 
-# compact bicameral sequence with dates (may still miss comisión mixta, revise bills$hitos$chamber above)
+# compact bicameral sequence with dates (may still miss comisión mixta, revise bills$hitos$chamber above SEEMS OK NOW)
 bills$tramites <- sapply(1:I, function(x) NULL) # initializes empty list with I elements (unnamed; names would go where 1:I)
 for (i in 1:I){
     message(sprintf("loop %s of %s", i, I))
@@ -1543,7 +1543,7 @@ for (i in 1:I){
 }
 sel <- which(tmp2==1)
 table(bills$info$status[sel])
-tramVerif[sel] <- 1 # huge leap of faith? assume all coded frozen, killed, withdrawn, pending 1 with single trámite are correct...
+tramVerif[sel] <- 1 # huge leap of faith? assume all coded frozen/killed/withdrawn/pending with single trámite are correct...
 #
 sel <- which(tmp2==2 & bills$info$status=="statute") # two tramites that are statute
 #
@@ -1765,6 +1765,130 @@ i <- which(bills$info$bol=="195-08")
 tmp <- bills$tramites[[i]]; tmp <- rbind(tmp[1,], tmp); tmp[2,] <- tmp[3,]; tmp$tramite[3] <- "dip"; tmp$to[2] <- tmp$from[3] <- dmy("05-12-1990", tz = "chile")
 bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
 #
+# ************** BLOCK MOVED BEGINS *******************
+## CONTINUE REVISING TRÁMITES
+# fix tramite date by hand
+i <- which(bills$info$bol=="6041-08")
+bills$tramites[[i]]$to[3] <- bills$tramites[[i]]$from[4]; bills$tramites[[i]]$period <- new_interval(bills$tramites[[i]]$from, bills$tramites[[i]]$to)
+#
+#tmp1 <- rep(0, I) # will receive dummy sin modificaciones pointing to índices that need manipulation
+tmp2 <- rep(0, I) # will receive length tramites
+for (i in 1:I){ 
+#    if (length(grep("Oficio aprobaci[óo]n sin modificaciones a.*de [Oo]rigen", bills$hitos[[i]]$action))>0) tmp1[i] <- 1
+    tmp2[i] <- nrow(bills$tramites[[i]])
+}
+sel <- which(tmp2==1 & tramVerif==0) # pick single-trámite, non-revised
+table(bills$info$dpassed[sel]) ## none have passed... infer that single trámite is right
+tramVerif[sel] <- 1
+#
+sel <- which(tmp2==2 & tramVerif==0) # pick two-trámite, non-revised
+table(bills$info$dpassed[sel]) # none have passed
+tramVerif[sel] <- 1
+# all should have dip and sen  only
+tmp1 <- rep(0, I) 
+for (i in 1:I){ 
+    if (length(grep("dip|sen", bills$tramites[[i]]$tramite))!=2) tmp1[i] <- 1 # all should have dip or sen, nothing else
+}
+sel <- which(tmp2==2 & tramVerif==0 & tmp1==1)
+# checked by hand: have redundant second trámite that needs to be dropped
+for (i in sel){
+    tmp <- bills$tramites[[i]]
+    tmp <- tmp[1,]
+    bills$tramites[[i]] <- tmp
+}
+#
+# change by hand
+i <- which(bills$info$bol=="356-04")
+bills$info$status[i] <- "statute"
+tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="1282-10")
+tmp <- bills$tramites[[i]]
+tmp <- rbind(tmp, tmp[3,]); tmp$tramite[4] <- "veto"; tmp$to[3] <- tmp$from[3]; tmp$period <- new_interval(tmp$from, tmp$to); # assume vetoed
+bills$tramites[[i]] <- tmp
+tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="1285-10")
+tmp <- bills$tramites[[i]]
+tmp <- rbind(tmp, tmp[3,]); tmp$tramite[4] <- "veto"; tmp$to[3] <- tmp$from[3]; tmp$period <- new_interval(tmp$from, tmp$to); # assume vetoed
+bills$tramites[[i]] <- tmp
+tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="1778-07")
+tmp <- bills$tramites[[i]]
+tmp$to[1] <- tmp$to[3]; tmp <- tmp[1,]
+bills$tramites[[i]] <- tmp
+tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="1854-10")
+tmp <- bills$tramites[[i]]
+tmp <- rbind(tmp, tmp[3,]); tmp$tramite[4] <- "veto"; tmp$to[3] <- tmp$from[3]; tmp$period <- new_interval(tmp$from, tmp$to); # assume vetoed
+bills$tramites[[i]] <- tmp
+tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="2293-10")
+tmp <- bills$tramites[[i]]
+tmp <- tmp[-3,]; 
+bills$tramites[[i]] <- tmp
+bills$info$status[i] <- "killed/withdrawn"
+tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="3119-10")
+tmp <- bills$tramites[[i]]
+tmp <- rbind(tmp, tmp[3,]); tmp$tramite[4] <- "veto"; tmp$to[3] <- tmp$from[3]; tmp$period <- new_interval(tmp$from, tmp$to); # assume vetoed
+bills$tramites[[i]] <- tmp
+tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="5115-10")
+tmp <- bills$tramites[[i]]
+tmp <- rbind(tmp, tmp[3,]); tmp$tramite[4] <- "veto"; tmp$to[3] <- tmp$from[3]; tmp$period <- new_interval(tmp$from, tmp$to); # assume vetoed
+bills$tramites[[i]] <- tmp
+tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="6649-10")
+bills$info$status[i] <- "statute"
+tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="7160-10")
+tmp <- bills$tramites[[i]]
+tmp <- rbind(tmp, tmp[3,]); tmp$tramite[4] <- "veto"; tmp$to[3] <- tmp$from[3]; tmp$period <- new_interval(tmp$from, tmp$to); # assume vetoed
+bills$tramites[[i]] <- tmp
+tramVerif[i] <- 1
+#
+sel <- which(tmp2==3 & tramVerif==0 & bills$info$dpassed==0) # pick three-trámite, non-revised, that didn't pass; revised by hand, all ok
+tramVerif[sel] <- 1
+#
+sel <- which(tmp2==3 & tramVerif==0 & bills$info$dpassed==1) # pick three-trámite, non-revised, that passed
+tmp1 <- rep(1, I) 
+for (i in sel){ 
+    if (bills$tramites[[i]]$tramite[3]=="ejec") tmp1[i] <- 0 # all should have ejec as third trámite
+}
+length(which(tmp2==3 & tramVerif==0 & bills$info$dpassed==1 & tmp1==1))==0 # all have ejec as third, assume all ok
+tramVerif[sel] <- 1
+#
+tmp2 <- rep(0, I) # will receive length tramites
+for (i in 1:I){ 
+#    if (length(grep("Oficio aprobaci[óo]n sin modificaciones a.*de [Oo]rigen", bills$hitos[[i]]$action))>0) tmp1[i] <- 1
+    tmp2[i] <- nrow(bills$tramites[[i]])
+}
+#
+sel <- which(tmp2==4 & tramVerif==0) # pick four-trámite, non-revised
+# checked by hand, all seem ok
+tramVerif[sel] <- 1
+#
+sel <- which(tmp2==5 & tramVerif==0) # pick five-trámite, non-revised
+# checked by hand, all seem ok
+tramVerif[sel] <- 1
+#
+sel <- which(tmp2==6 & tramVerif==0) # pick six-trámite, non-revised
+# checked by hand, all seem ok
+tramVerif[sel] <- 1
+#
+sel <- which(tmp2==7 & tramVerif==0) # pick seven-trámite, non-revised
+# checked by hand, all seem ok
+tramVerif[sel] <- 1
+# *************** BLOCK MOVED ENDS ******************
+#
 # check conf in 3rd trám to verify if not missing a trámite in origen (looking for "rechazo ideal de legislar" and for "oficio rechazo c. origen" would achieve clean revision)
 tmp1 <- rep(0,I)
 for (i in 1:I){
@@ -1775,8 +1899,78 @@ for (i in 1:I){
 }
 sel <- which(tmp1==3)
 tramVerif[i] <- 1 # checked most by hand, they look ok
-# VERIFICACIÓN DE TRÁMITES CONTINÚARÁ MÁS ABAJO
 #
+# check by hand
+i <- which(bills$info$bol=="1200-15")
+tmp <- bills$tramites[[i]]; tmp <- tmp[-3,]; tmp$to[2] <- bills$hitos[[i]]$date[nrow(bills$hitos[[i]])]
+bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="1291-15")
+tmp <- bills$tramites[[i]]; tmp <- tmp[-3,]; tmp$to[2] <- bills$hitos[[i]]$date[nrow(bills$hitos[[i]])]
+bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="1707-18")
+tmp <- bills$tramites[[i]]; tmp$to[1] <- tmp$from[2] <- tmp$to[3]; tmp$to[2] <- dmy("11-11-2014", tz = "chile"); tmp$tramite[2] <- "sen"; tmp <- tmp[-3,]
+bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="5697-29")
+tmp <- bills$tramites[[i]]; tmp <- tmp[-3,]; tmp$to[2] <- dmy("19-01-2010", tz = "chile")
+bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="6417-07")
+tmp <- bills$tramites[[i]]; tmp <- tmp[-3,]; tmp$to[2] <- dmy("31-07-2009", tz = "chile")
+bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="6979-06")
+tmp <- bills$tramites[[i]]; tmp$to[2] <- tmp$to[3]; tmp <- tmp[-3,]; 
+bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="8149-09")
+tmp <- bills$tramites[[i]]; tmp <- tmp[-3,]; tmp$to[2] <- dmy("01-10-2013", tz = "chile")
+bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="8612-02")
+tmp <- bills$tramites[[i]]; tmp <- tmp[-3,]; tmp$to[2] <- dmy("16-10-2013", tz = "chile")
+bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="8618-11")
+tmp <- bills$tramites[[i]]; tmp$to[3] <- dmy("11-11-2014", tz = "chile")
+bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="922-15")
+tmp <- bills$tramites[[i]]; tmp <- tmp[-3,]; tmp$to[2] <- dmy("11-11-2014", tz = "chile")
+bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
+#
+i <- which(bills$info$bol=="995-15")
+tmp <- bills$tramites[[i]]; tmp <- tmp[-3,]; tmp$to[2] <- dmy("11-11-2014", tz = "chile")
+bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
+#
+# FIND EMPTY STRINGS IN TRAMITE --- WOULD BE PREFERABLE TO DO THIS WHEN EXTRACTING FROM HITOS
+tmp1 <- rep(0,I)
+for (i in 1:I){
+    tmp <- which(bills$tramites[[i]]$tramite=="")
+    if (length(tmp)>0) tmp1[i] <- tmp
+}
+sel <- which(tmp1>0)
+for (i in sel){
+    #i <- sel[2] # debug
+    if (tmp1[i]==1){
+        tmp <- bills$tramites[[i]]
+        tmp <- tmp[-tmp1[i],]
+        bills$tramites[[i]] <- tmp
+    } else {
+        tmp <- bills$tramites[[i]]
+        tmp$to[(tmp1[i]-1)] <- tmp$to[tmp1[i]]
+        tmp <- tmp[-tmp1[i],]
+        bills$tramites[[i]] <- tmp
+    }
+}
+#
+# checked all other tramVerif==0, seem ok
+#table(tramVerif) # ALL REVISED
+#
+rm(check, drop, n, i, sel, tmp, tmp1, tmp2, tramVerif, vet) # clean
+
 # RE DO ALL PERIODS (NEED TO REVISE FROM AND TO...)
 for (i in 1:I){
     message(sprintf("loop %s of %s", i, I))
@@ -1791,6 +1985,29 @@ for (i in 1:I){
     bills$tramites[[i]]$nTr <- 1:N # OJO: WILL BE RE-DONE BELOW; RETAINED HERE TO AVOID BREAKS IN CODE 
 }
 rm(N)
+#
+## change nTr to 1=origen, 2=revisora, 3=origen.bis, 4=conf, 5=ejec, 6=veto, 7=trib; change urgIn accordingly
+for (i in 1:I){
+    message(sprintf("loop %s of %s", i, I))
+    tmp <- bills$tramites[[i]]
+    skip <- grep(pattern = "conf*|ejec|veto|trib", tmp$tramite)
+    if (length(skip)>0){
+        tmp1 <- tmp[-skip,]
+    } else {
+        tmp1 <- tmp
+    }
+    tmp1$nTr <- 1:nrow(tmp1)
+    if (length(skip)>0){
+        tmp[-skip,] <- tmp1
+    } else {
+        tmp <- tmp1
+    }
+    tmp$nTr[tmp$tramite=="conf"] <- 4
+    tmp$nTr[tmp$tramite=="ejec"] <- 5
+    tmp$nTr[tmp$tramite=="veto"] <- 6
+    tmp$nTr[tmp$tramite=="trib"] <- 7
+    bills$tramites[[i]] <- tmp
+}
 #
 options(warn=2) # turns warnings into errors, which break the loop (use warn=1 to return to normal) 
 for (i in work){
@@ -1976,24 +2193,35 @@ bills$urg[[i]]$tramite[2] <- "dip"; bills$urg[[i]]$trNum[2] <- 2
 i <- which(bills$info$bol=="3190-04")
 bills$urgRaw[[i]][4] <- "15 de Abr. de 2003   Simple 536-348  "
 #
-
-# fix tramite date by hand
-i <- which(bills$info$bol=="6041-08")
-bills$tramites[[i]]$to[3] <- bills$tramites[[i]]$from[4]; bills$tramites[[i]]$period <- new_interval(bills$tramites[[i]]$from, bills$tramites[[i]]$to)
+rm(i, k, output, sel, select, tmp, tmp1, tmp2, tmp3, u, U, work) # housecleaning
 #
-rm(i, k, output, sel, select, tmp, tmp2, tmp3, u, U, work, check, drop, n, tmp1) # housecleaning
+# find urgencias in trámites ejec, veto, trib to move trNum them to max legislative stage (bills$urg[[i]]$tramite left untouched, though)
+tmp1 <- rep(0,I)
+sel <- which(bills$info$nUrg>0)
+for (i in sel){ # find records with trNum 5 6 7
+    # i <- which(bills$info$bol=="3882-04") # debug
+    tmp <- bills$urg[[i]]$trNum
+    if (max(tmp)>4) tmp1[i] <- 1
+}
+sel <- which(tmp1==1) # select them for manipulation
+for (i in sel){
+    tmp <- bills$tramites[[i]]$nTr
+    tmp <- max(tmp[tmp<5]) # max trámite reached other than ejec, veto, trib
+    bills$urg[[i]]$trNum[bills$urg[[i]]$trNum>4] <- tmp
+}
 
-# WHICH TRÁMITE(S) RECEIVED AT LEAST ONE URGENCY: 1, 2, 3, 12, 13, 23, or 123 (0 if none)
+# WHICH TRÁMITE(S) RECEIVED AT LEAST ONE URGENCY: 1, 2, 3, 4, 12, 13, 14, 23, 24, 34, 123, 124, 134, 234, 1234 (0 if none)
 bills$info$urgIn <- 0 # prepares column to receive which trámites had 1+ urgencies
 sel <- which(bills$info$nUrg>0)
 for (i in sel){
     tmp <- bills$urg[[i]]$trNum # trámite numbers with an urgency
-    tmp[tmp>3] <- 3 # recode trNum as 1,2,3+
+    tmp[tmp>4] <- 4 # recode trNum as 1,2,3,4+ 
     tmp <- as.numeric(names(table(tmp))) # remove repeated numbers
     tmp <- paste(tmp, sep="", collapse = "")
     bills$info$urgIn[i] <- as.numeric(tmp)
 }
-rm(sel,tmp)
+table(bills$info$urgIn)
+rm(sel,tmp,i)
 # BILL PASSED DUMMY
 bills$info$dpassed <- 0
 bills$info$dpassed[bills$info$status=="statute"] <- 1
@@ -2111,144 +2339,29 @@ bills$sessions$ddip[which(bills$sessions$date %in% ses$fch[sel])] <- 1
 rm(tmp, tmp2)
 #
 head(bills$sessions)
-rm(i, ses, sel)
+rm(ses, sel)
 
-save.image(file="tmp.RData")
+save.image(file="chilBill.RData")
 # export csv
 bills$info$yrin <- year(bills$info$dateIn); bills$info$moin <- month(bills$info$dateIn); bills$info$dyin <- day(bills$info$dateIn);
 #bills$outfo$yrout[] <- year(bills$outfo$dateOut); bills$outfo$moout <- month(bills$outfo$dateOut); bills$outfo$dyout <- day(bills$outfo$dateOut);
 write.csv(bills$info, file = paste(datdir, "bills-info.csv", sep = ""))
 
-rm(list=ls())
-datdir <- "/home/eric/Dropbox/data/latAm/chile/data/" 
-setwd(datdir)
-load(file = "tmp.RData")
-options(width = 150)
 
-## CONTINUE REVISING TRÁMITES
-#tmp1 <- rep(0, I) # will receive dummy sin modificaciones pointing to índices that need manipulation
-tmp2 <- rep(0, I) # will receive length tramites
-for (i in 1:I){ 
-#    if (length(grep("Oficio aprobaci[óo]n sin modificaciones a.*de [Oo]rigen", bills$hitos[[i]]$action))>0) tmp1[i] <- 1
-    tmp2[i] <- nrow(bills$tramites[[i]])
-}
-sel <- which(tmp2==1 & tramVerif==0) # pick single-trámite, non-revised
-table(bills$info$dpassed[sel]) ## none have passed... infer that single trámite is right
-tramVerif[sel] <- 1
-#
-sel <- which(tmp2==2 & tramVerif==0) # pick two-trámite, non-revised
-table(bills$info$dpassed[sel]) # none have passed
-tramVerif[sel] <- 1
-# all should have dip and sen  only
-tmp1 <- rep(0, I) 
-for (i in 1:I){ 
-    if (length(grep("dip|sen", bills$tramites[[i]]$tramite))!=2) tmp1[i] <- 1 # all should have dip or sen, nothing else
-}
-sel <- which(tmp2==2 & tramVerif==0 & tmp1==1)
-# checked by hand: have redundant second trámite that needs to be dropped
-for (i in sel){
-    tmp <- bills$tramites[[i]]
-    tmp <- tmp[1,]
-    bills$tramites[[i]] <- tmp
-}
-#
-# change by hand
-i <- which(bills$info$bol=="356-04")
-bills$info$status[i] <- "statute"; bills$info$dpassed[i] <- 1
-tramVerif[i] <- 1
-#
-i <- which(bills$info$bol=="1282-10")
-tmp <- bills$tramites[[i]]
-tmp <- rbind(tmp, tmp[3,]); tmp$tramite[4] <- "veto"; tmp$to[3] <- tmp$from[3]; tmp$period <- new_interval(tmp$from, tmp$to); tmp$nTr[4] <- 4# assume vetoed
-bills$tramites[[i]] <- tmp
-tramVerif[i] <- 1
-#
-i <- which(bills$info$bol=="1285-10")
-tmp <- bills$tramites[[i]]
-tmp <- rbind(tmp, tmp[3,]); tmp$tramite[4] <- "veto"; tmp$to[3] <- tmp$from[3]; tmp$period <- new_interval(tmp$from, tmp$to); tmp$nTr[4] <- 4# assume vetoed
-bills$tramites[[i]] <- tmp
-tramVerif[i] <- 1
-#
-i <- which(bills$info$bol=="1778-07")
-tmp <- bills$tramites[[i]]
-tmp$to[1] <- tmp$to[3]; tmp <- tmp[1,]
-bills$tramites[[i]] <- tmp
-tramVerif[i] <- 1
-#
-i <- which(bills$info$bol=="1854-10")
-tmp <- bills$tramites[[i]]
-tmp <- rbind(tmp, tmp[3,]); tmp$tramite[4] <- "veto"; tmp$to[3] <- tmp$from[3]; tmp$period <- new_interval(tmp$from, tmp$to); tmp$nTr[4] <- 4# assume vetoed
-bills$tramites[[i]] <- tmp
-tramVerif[i] <- 1
-#
-i <- which(bills$info$bol=="2293-10")
-tmp <- bills$tramites[[i]]
-tmp <- tmp[-3,]; 
-bills$tramites[[i]] <- tmp
-bills$info$status[i] <- "killed/withdrawn"
-tramVerif[i] <- 1
-#
-i <- which(bills$info$bol=="3119-10")
-tmp <- bills$tramites[[i]]
-tmp <- rbind(tmp, tmp[3,]); tmp$tramite[4] <- "veto"; tmp$to[3] <- tmp$from[3]; tmp$period <- new_interval(tmp$from, tmp$to); tmp$nTr[4] <- 4# assume vetoed
-bills$tramites[[i]] <- tmp
-tramVerif[i] <- 1
-#
-i <- which(bills$info$bol=="5115-10")
-tmp <- bills$tramites[[i]]
-tmp <- rbind(tmp, tmp[3,]); tmp$tramite[4] <- "veto"; tmp$to[3] <- tmp$from[3]; tmp$period <- new_interval(tmp$from, tmp$to); tmp$nTr[4] <- 4# assume vetoed
-bills$tramites[[i]] <- tmp
-tramVerif[i] <- 1
-#
-i <- which(bills$info$bol=="6649-10")
-bills$info$status[i] <- "statute"; bills$info$dpassed[i] <- 1
-tramVerif[i] <- 1
-#
-i <- which(bills$info$bol=="7160-10")
-tmp <- bills$tramites[[i]]
-tmp <- rbind(tmp, tmp[3,]); tmp$tramite[4] <- "veto"; tmp$to[3] <- tmp$from[3]; tmp$period <- new_interval(tmp$from, tmp$to); tmp$nTr[4] <- 4# assume vetoed
-bills$tramites[[i]] <- tmp
-tramVerif[i] <- 1
-#
-sel <- which(tmp2==3 & tramVerif==0 & bills$info$dpassed==0) # pick three-trámite, non-revised, that didn't pass; revised by hand, all ok
-tramVerif[sel] <- 1
-#
-sel <- which(tmp2==3 & tramVerif==0 & bills$info$dpassed==1) # pick three-trámite, non-revised, that passed
-tmp1 <- rep(1, I) 
-for (i in sel){ 
-    if (bills$tramites[[i]]$tramite[3]=="ejec") tmp1[i] <- 0 # all should have ejec as third trámite
-}
-length(which(tmp2==3 & tramVerif==0 & bills$info$dpassed==1 & tmp1==1))==0 # all have ejec as third, assume all ok
-tramVerif[sel] <- 1
-#
-tmp2 <- rep(0, I) # will receive length tramites
-for (i in 1:I){ 
-#    if (length(grep("Oficio aprobaci[óo]n sin modificaciones a.*de [Oo]rigen", bills$hitos[[i]]$action))>0) tmp1[i] <- 1
-    tmp2[i] <- nrow(bills$tramites[[i]])
-}
-#
-sel <- which(tmp2==4 & tramVerif==0) # pick four-trámite, non-revised
-# checked by hand, all seem ok
-tramVerif[sel] <- 1
-#
-sel <- which(tmp2==5 & tramVerif==0) # pick five-trámite, non-revised
-# checked by hand, all seem ok
-tramVerif[sel] <- 1
-#
-sel <- which(tmp2==6 & tramVerif==0) # pick six-trámite, non-revised
-# checked by hand, all seem ok
-tramVerif[sel] <- 1
-#
-sel <- which(tmp2==7 & tramVerif==0) # pick seven-trámite, non-revised
-# checked by hand, all seem ok
-tramVerif[sel] <- 1
-#
-table(tramVerif) # ALL REVISED
-rm(i, sel, tmp, tmp1, tmp2, tramVerif, vet) # clean
-#
+######################################################################
+######################################################################
+rm(list=ls())                                                       ##
+datdir <- "/home/eric/Dropbox/data/latAm/chile/data/"               ##
+setwd(datdir)                                                       ##
+load(file = "chilBill.RData")                                       ##
+options(width = 150)                                                ##
+######################################################################
+######################################################################
+
 # SHOULD FILL GAPS IN TO:FROM AND RE DO ALL PERIODS
+# SHOULD VERIFY $urg$tramite == "check: no overlap" AFTER THAT
+# NEED INDICATORS OF VOTING QUORUM!!
 
-# head(force_tz(bills$sessions, "Chile")) # use this to force chile time zone while keeping the clock time, which may change the date
 
 # exports csv of allUrg to process in plots.r
 # extract urgencias object, unlisted to prepare urgencia-as-unit data
@@ -2279,12 +2392,2041 @@ tmp$on <- tmp$off
 allUrg <- rbind(allUrg, tmp) # binds retiring messages for graph
 table(allUrg$typeN)
 #
-# drop urgencias after 10/3/2014 (repeat since off messages were added)
+# drop urgencias after 10/3/2014 (repeat, since off messages were added)
 sel <- which(allUrg$on>dmy("10/03/2014", tz = "chile"))
 allUrg <- allUrg[-sel,]
 save(bills, allUrg, file = paste(datdir, "allUrg.RData", sep = "")) # <--- export
 rm(i, sel, tmp, tmp2)
 # further transformations of allUrg in plots.r in preparation for graph
+
+# REFERRED TO HACIENDA COMMITTEE (IE., NEEDS APPROPRIATION)
+bills$info$drefHda <- 0
+for (i in 1:I){
+    tmp <- bills$hitos[[i]]$action[grep(".*[Pp]asa a [Cc]omisi[óo]n.*", bills$hitos[[i]]$action)]
+    if (length(grep("[Hh]acienda", tmp))>0) bills$info$drefHda[i] <- 1
+}
+table(bills$info$drefHda)
+
+########################################################################################
+# SYSTEMATIZE COMMITTEE REPORTS AND PRODUCE WEEKLY FIGURES WITH URGENCIES FOR ANALYSIS #
+########################################################################################
+bills$reportsRaw <- bills$reports
+#                                  # add space here if re-running
+#bills$reports <- bills$reportsRaw # if re-running, add this at start
+#
+sel <- which(bills$info$hasReport=="yes")
+for (i in sel){
+    #i <- sel[102] # debug
+    message(sprintf("loop %s of %s", i, I))
+    tmp <- bills$reportsRaw[[i]]
+    tmp <- tmp[-1] # drop heading
+    tmp1 <- rep(NA, length(tmp))
+    #tmpRep <- data.frame(date=tmp1, chamber=tmp1, tramite=tmp1, informe=tmp1, comm=tmp1, bol=tmp1, dmensaje=tmp1) # ALL THIS CAN BE OBTAINED; WILL ONLY GET DATE, COMMITTEE, dmensaje, bol, chamber FOR NOW
+    tmpRep <- data.frame(date=tmp1, chamber=tmp1, bol=tmp1, dmensaje=tmp1, comm=tmp1)
+    tmp1 <- sub(pattern = "([0-9]{2}[a-zA-Z. ]+[0-9]{4}).*", replacement = "\\1", tmp)
+    tmp1 <- gsub(pattern = " de ", replacement = "-", tmp1)
+    tmp1 <- gsub(pattern = "Ene.", replacement = "01", x = tmp1)
+    tmp1 <- gsub(pattern = "Feb.", replacement = "02", x = tmp1)
+    tmp1 <- gsub(pattern = "Mar.", replacement = "03", x = tmp1)
+    tmp1 <- gsub(pattern = "Abr.", replacement = "04", x = tmp1)
+    tmp1 <- gsub(pattern = "May.", replacement = "05", x = tmp1)
+    tmp1 <- gsub(pattern = "Jun.", replacement = "06", x = tmp1)
+    tmp1 <- gsub(pattern = "Jul.", replacement = "07", x = tmp1)
+    tmp1 <- gsub(pattern = "Ago.", replacement = "08", x = tmp1)
+    tmp1 <- gsub(pattern = "Sep.", replacement = "09", x = tmp1)
+    tmp1 <- gsub(pattern = "Oct.", replacement = "10", x = tmp1)
+    tmp1 <- gsub(pattern = "Nov.", replacement = "11", x = tmp1)
+    tmp1 <- gsub(pattern = "Dic.", replacement = "12", x = tmp1)
+    tmpRep$date <- dmy(tmp1, tz = "chile")
+    tmp1 <- sub(pattern = ".*(Senado|Diputados).*", replacement = "\\1", tmp)
+    tmpRep$chamber <- tmp1
+    tmpRep$chamber[tmpRep$chamber=="Senado"] <- "sen"
+    tmpRep$chamber[tmpRep$chamber=="Diputados"] <- "dip"
+    tmpRep$bol <- bills$info$bol[i]
+    tmpRep$dmensaje <- bills$info$dmensaje[i]
+    tmp1 <- sub(pattern = ".*[Cc]omisi[óo]n(.*) Ver", replacement = "\\1", tmp)
+    tmpRep$comm <- tmp1
+    #
+    bills$reports[[i]] <- tmpRep
+}
+#
+# CREATE ONE LARGE DATA FRAME WITH ALL REPORTS
+tmp <- bills$reports
+tmp <- tmp[sel] # drop elements with no report
+allRep <- ldply(tmp, data.frame) # unlist the data.frames into one large data.frame
+#
+# distinguish Hacienda reports
+allRep$dHda <- 0
+allRep$dHda[grep("Hacienda", allRep$comm)] <- 1
+#
+# sort by date
+allRep <- allRep[order(allRep$date, allRep$bol),]
+# drop reports before and after these dates
+sel <- which(allRep$date<dmy("11-03-1998", tz = "chile") | allRep$date>dmy("10-03-2014", tz = "chile"))
+allRep <- allRep[-sel,]
+#
+# add moción dummy for aggregates
+allRep$dmocion <- 1-allRep$dmensaje
+#
+#
+RepDataNegBin <- list(weeklyHaciendaReportsAndUrgenciasToMensajesInHaciendaComm = NA, 
+                      weeklyHaciendaReportsAndUrgenciasToMocionesInHaciendaComm = NA, 
+                      weeklyHaciendaReportsAndUrgenciasToAllBillsInHaciendaComm = NA, 
+                      weeklyReportsAndUrgenciasToMensajes                       = NA, 
+                      weeklyReportsAndUrgenciasToMociones                       = NA, 
+                      weeklyReportsAndUrgenciasToAllBills                       = NA)
+##########################################################################################################################
+##########################################################################################################################
+## PREPARE WEEKLY REPORTS FROM HACIENDA COMMITTEE WITH WEEKLY URGENCIES TO EX-INIT BILLS REFERRED TO HACIENDA COMMITTEE ##
+##########################################################################################################################
+##########################################################################################################################
+# dip and sen separate
+dipRep <- allRep[allRep$chamber=="dip",]
+senRep <- allRep[allRep$chamber=="sen",]
+#
+# add week
+dipRep$week <- year(dipRep$date)+week(dipRep$date)/100
+senRep$week <- year(senRep$date)+week(senRep$date)/100
+#                                                             ################
+# consolidate weekly reports (from Hacienda reported only)    <---  OJO   ####
+#                                                             ################
+tmp <- ddply(dipRep, .(week), mutate, nrepMenDip=sum(dmensaje*dHda), nrepMocDip=sum(dmocion*dHda)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp$dmocion <- tmp$dmensaje <- tmp$bol <- tmp$chamber <- tmp$date <- tmp$comm <- tmp$dHda <- NULL
+dipRep <- tmp
+tmp <- ddply(senRep, .(week), mutate, nrepMenSen=sum(dmensaje*dHda), nrepMocSen=sum(dmocion*dHda)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp$dmocion <- tmp$dmensaje <- tmp$bol <- tmp$chamber <- tmp$date <- tmp$comm <- tmp$dHda <- NULL
+senRep <- tmp
+#
+# object with all weeks in period
+tmp <- data.frame(date = seq(from = dmy("11-03-1990", tz = "chile"), to = dmy("10-03-2014", tz = "chile"), by = 'weeks'))
+tmp$week <- year(tmp$date) + week(tmp$date)/100; tmp$date <- NULL
+weekRepUrg <- tmp
+#
+weekRepUrg <- merge(x = weekRepUrg, y = dipRep, by = "week", all=TRUE)
+weekRepUrg <- merge(x = weekRepUrg, y = senRep, by = "week", all=TRUE)
+#
+# Add weekly urgencias
+tmp1 <- allUrg
+tmp1$week <- year(tmp1$on) + week(tmp1$on)/100
+# distinguish mensaje urgencia from mocion urgencias
+tmp1$dmensaje <- NA
+tmp1$dHda <- NA
+for (i in 1:nrow(tmp1)){
+    message(sprintf("loop %s of %s", i, nrow(tmp1)))
+    j <- which(bills$info$bol==tmp1$bol[i])
+    tmp1$dmensaje[i] <- bills$info$dmensaje[j]
+    tmp1$dHda[i] <- bills$info$drefHda[j] # bill was referred to Hacienda committee
+}
+tmp1$count <- 1
+#                                                        ###################################################################################
+tmp1$count <- tmp1$count * tmp1$dHda * tmp1$dmensaje     ###### COUNT ONLY URGENCIAS ON HACIENDA MENSAJES OR ON HACIENDA MOCIONES!!!  ######
+#                                                        ###################################################################################
+#
+# aggregate dip discusión inmediata and plug into week object
+tmp <- tmp1[tmp1$typeN==1 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IF GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg1Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen discusión inmediata and plug into week object
+tmp <- tmp1[tmp1$typeN==1 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg1Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip suma and plug into week object
+tmp <- tmp1[tmp1$typeN==2 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg2Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen suma and plug into week object
+tmp <- tmp1[tmp1$typeN==2 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg2Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip simple and plug into week object
+tmp <- tmp1[tmp1$typeN==3 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg3Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen simple and plug into week object
+tmp <- tmp1[tmp1$typeN==3 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg3Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip reset to discusión inmediata and plug into week object
+tmp <- tmp1[tmp1$typeN==4.1 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg41Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen reset discusión inmediata and plug into week object
+tmp <- tmp1[tmp1$typeN==4.1 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg41Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip reset suma and plug into week object
+tmp <- tmp1[tmp1$typeN==4.2 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg42Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen reset suma and plug into week object
+tmp <- tmp1[tmp1$typeN==4.2 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg42Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip reset simple and plug into week object
+tmp <- tmp1[tmp1$typeN==4.3 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg43Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen reset simple and plug into week object
+tmp <- tmp1[tmp1$typeN==4.3 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg43Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip retire discusión inmediata and plug into week object
+tmp <- tmp1[tmp1$typeN==5.1 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg51Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen retire discusión inmediata and plug into week object
+tmp <- tmp1[tmp1$typeN==5.1 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg51Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip retire suma and plug into week object
+tmp <- tmp1[tmp1$typeN==5.2 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg52Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen retire suma and plug into week object
+tmp <- tmp1[tmp1$typeN==5.2 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg52Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip retire simple and plug into week object
+tmp <- tmp1[tmp1$typeN==5.3 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg53Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen retire simple and plug into week object
+tmp <- tmp1[tmp1$typeN==5.3 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg53Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# add session
+tmp <- bills$sessions
+tmp$week <- year(tmp$date) + week(tmp$date)/100; tmp$date <- NULL
+tmp <- ddply(tmp, .(week), mutate, ndipses=sum(ddip), nsenses=sum(dsen)); tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp$ddip <- tmp$dsen <- NULL
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+weekRepUrg[is.na(weekRepUrg)] <- 0 # fill zeroes
+#
+# WHEN DATE HAD NO SESSION, ADD NUMBERS TO NEXT SESSION
+tmp <- weekRepUrg
+# dip
+sel <- which(tmp$ndipses==0) # select weeks with no session in dip
+for (i in sel){
+    #i <- sel[2] # debug
+    tmp1 <- tmp$week - tmp$week[i] # difference from week of interest to other weeks
+    j <- which(tmp1==min(tmp1[tmp1>0 & tmp$ndipses>0])) # closest next session date
+    tmp[j, grep("Dip", colnames(tmp))] <- tmp[j, grep("Dip", colnames(tmp))] + tmp[i, grep("Dip", colnames(tmp))] # add data to that row
+    tmp[i, grep("Dip", colnames(tmp))] <- 0 # erase it from week with no session
+}
+# sen
+sel <- which(tmp$nsenses==0) # select weeks with no session in dip
+for (i in sel){
+    #i <- sel[2] # debug 
+    tmp1 <- tmp$week - tmp$week[i] # difference from week of interest to other weeks
+    j <- which(tmp1==min(tmp1[tmp1>0 & tmp$nsenses>0])) # closest next session date
+    tmp[j, grep("Sen", colnames(tmp))] <- tmp[j, grep("Sen", colnames(tmp))] + tmp[i, grep("Sen", colnames(tmp))] # add data to that row
+    tmp[i, grep("Sen", colnames(tmp))] <- 0 # erase it from week with no session
+}
+#
+weekRepUrg <- tmp
+#
+# Add president's maj status in chamber
+weekRepUrg$dmajDip <- weekRepUrg$dmajSen <- 0
+# sen
+tmp <- dmy(c("11-03-1990", "22-01-1999", "11-03-2000", "11-01-2002", "27-01-2005", "30-08-2005", "11-03-2006", "11-03-2010") , tz = "chile")
+tmp <- year(tmp) + week(tmp)/100
+sel <- which(weekRepUrg$week >= tmp[1] & weekRepUrg$week < tmp[2]); weekRepUrg$dmajSen[sel] <- 0
+sel <- which(weekRepUrg$week >= tmp[2] & weekRepUrg$week < tmp[3]); weekRepUrg$dmajSen[sel] <- 1 # tie coded as maj for pdt
+sel <- which(weekRepUrg$week >= tmp[3] & weekRepUrg$week < tmp[4]); weekRepUrg$dmajSen[sel] <- 1 
+sel <- which(weekRepUrg$week >= tmp[4] & weekRepUrg$week < tmp[5]); weekRepUrg$dmajSen[sel] <- 1 # tie coded as maj for pdt
+sel <- which(weekRepUrg$week >= tmp[5] & weekRepUrg$week < tmp[6]); weekRepUrg$dmajSen[sel] <- 0
+sel <- which(weekRepUrg$week >= tmp[6] & weekRepUrg$week < tmp[7]); weekRepUrg$dmajSen[sel] <- 1 # tie coded as maj for pdt
+sel <- which(weekRepUrg$week >= tmp[7] & weekRepUrg$week < tmp[8]); weekRepUrg$dmajSen[sel] <- 1
+sel <- which(weekRepUrg$week >= tmp[8] & weekRepUrg$week < tmp[9]); weekRepUrg$dmajSen[sel] <- 0
+#
+# dip: always maj=1 (2010-14 50%, coded 1)
+weekRepUrg$dmajDip <- 1
+#
+# weeks to end of pdtl term
+tmp <- dmy(c("11-03-1994", "11-03-2000", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- year(tmp) + week(tmp)/100
+weekRepUrg$pterm <- NA
+sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$pterm[sel] <- round((tmp[1] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[1] & weekRepUrg$week < tmp[2]); weekRepUrg$pterm[sel] <- round((tmp[2] - weekRepUrg$week[sel]) * 100 / 6, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[2] & weekRepUrg$week < tmp[3]); weekRepUrg$pterm[sel] <- round((tmp[3] - weekRepUrg$week[sel]) * 100 / 6, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[3] & weekRepUrg$week < tmp[4]); weekRepUrg$pterm[sel] <- round((tmp[4] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[4] & weekRepUrg$week < tmp[5]); weekRepUrg$pterm[sel] <- round((tmp[5] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+#
+# weeks to end of dip term
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- year(tmp) + week(tmp)/100
+weekRepUrg$dterm <- NA
+sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$dterm[sel] <- round((tmp[1] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[1] & weekRepUrg$week < tmp[2]); weekRepUrg$dterm[sel] <- round((tmp[2] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[2] & weekRepUrg$week < tmp[3]); weekRepUrg$dterm[sel] <- round((tmp[3] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[3] & weekRepUrg$week < tmp[4]); weekRepUrg$dterm[sel] <- round((tmp[4] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[4] & weekRepUrg$week < tmp[5]); weekRepUrg$dterm[sel] <- round((tmp[5] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[5] & weekRepUrg$week < tmp[6]); weekRepUrg$dterm[sel] <- round((tmp[6] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+#
+# weeks to end of sen term
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2006", "11-03-2014") , tz = "chile")
+tmp <- year(tmp) + week(tmp)/100
+weekRepUrg$sterm <- NA
+sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$sterm[sel] <- round((tmp[1] - weekRepUrg$week[sel]) * 100 / 8, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[1] & weekRepUrg$week < tmp[2]); weekRepUrg$sterm[sel] <- round((tmp[2] - weekRepUrg$week[sel]) * 100 / 8, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[2] & weekRepUrg$week < tmp[3]); weekRepUrg$sterm[sel] <- round((tmp[3] - weekRepUrg$week[sel]) * 100 / 8, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[3] & weekRepUrg$week < tmp[4]); weekRepUrg$sterm[sel] <- round((tmp[4] - weekRepUrg$week[sel]) * 100 / 8, digits = 0)
+#
+# legislature dummies (periodo)
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- year(tmp) + week(tmp)/100
+weekRepUrg$dleg90 <- weekRepUrg$dleg94 <- weekRepUrg$dleg98 <- weekRepUrg$dleg02 <- weekRepUrg$dleg06 <- weekRepUrg$dleg10 <- 0
+sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$dleg90[sel] <- 1
+sel <- which(weekRepUrg$week >= tmp[1] & weekRepUrg$week < tmp[2]); weekRepUrg$dleg94[sel] <- 1
+sel <- which(weekRepUrg$week >= tmp[2] & weekRepUrg$week < tmp[3]); weekRepUrg$dleg98[sel] <- 1
+sel <- which(weekRepUrg$week >= tmp[3] & weekRepUrg$week < tmp[4]); weekRepUrg$dleg02[sel] <- 1
+sel <- which(weekRepUrg$week >= tmp[4] & weekRepUrg$week < tmp[5]); weekRepUrg$dleg06[sel] <- 1
+sel <- which(weekRepUrg$week >= tmp[5] & weekRepUrg$week < tmp[6]); weekRepUrg$dleg10[sel] <- 1
+#
+# plug to data object
+RepDataNegBin$weeklyHaciendaReportsAndUrgenciasToMensajesInHaciendaComm <- weekRepUrg
+#
+###########################################################################################################################
+###########################################################################################################################
+## PREPARE WEEKLY REPORTS FROM HACIENDA COMMITTEE WITH WEEKLY URGENCIES TO LEG-INIT BILLS REFERRED TO HACIENDA COMMITTEE ##
+###########################################################################################################################
+###########################################################################################################################
+# dip and sen separate
+dipRep <- allRep[allRep$chamber=="dip",]
+senRep <- allRep[allRep$chamber=="sen",]
+#
+# add week
+dipRep$week <- year(dipRep$date)+week(dipRep$date)/100
+senRep$week <- year(senRep$date)+week(senRep$date)/100
+#                                                             ################
+# consolidate weekly reports (from Hacienda reported only)    <---  OJO   ####
+#                                                             ################
+tmp <- ddply(dipRep, .(week), mutate, nrepMenDip=sum(dmensaje*dHda), nrepMocDip=sum(dmocion*dHda)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp$dmocion <- tmp$dmensaje <- tmp$bol <- tmp$chamber <- tmp$date <- tmp$comm <- tmp$dHda <- NULL
+dipRep <- tmp
+tmp <- ddply(senRep, .(week), mutate, nrepMenSen=sum(dmensaje*dHda), nrepMocSen=sum(dmocion*dHda)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp$dmocion <- tmp$dmensaje <- tmp$bol <- tmp$chamber <- tmp$date <- tmp$comm <- tmp$dHda <- NULL
+senRep <- tmp
+#
+# object with all weeks in period
+tmp <- data.frame(date = seq(from = dmy("11-03-1990", tz = "chile"), to = dmy("10-03-2014", tz = "chile"), by = 'weeks'))
+tmp$week <- year(tmp$date) + week(tmp$date)/100; tmp$date <- NULL
+weekRepUrg <- tmp
+#
+weekRepUrg <- merge(x = weekRepUrg, y = dipRep, by = "week", all=TRUE)
+weekRepUrg <- merge(x = weekRepUrg, y = senRep, by = "week", all=TRUE)
+#
+# Add weekly urgencias
+tmp1 <- allUrg
+tmp1$week <- year(tmp1$on) + week(tmp1$on)/100
+# distinguish mensaje urgencia from mocion urgencias
+tmp1$dmensaje <- NA
+tmp1$dHda <- NA
+for (i in 1:nrow(tmp1)){
+    message(sprintf("loop %s of %s", i, nrow(tmp1)))
+    j <- which(bills$info$bol==tmp1$bol[i])
+    tmp1$dmensaje[i] <- bills$info$dmensaje[j]
+    tmp1$dHda[i] <- bills$info$drefHda[j] # bill was referred to Hacienda committee
+}
+tmp1$count <- 1
+#                                                          ###################################################################################
+tmp1$count <- tmp1$count * tmp1$dHda * (1 - tmp1$dmensaje) ###### COUNT ONLY URGENCIAS ON HACIENDA MENSAJES OR ON HACIENDA MOCIONES!!!  ######
+#                                                          ###################################################################################
+#
+# aggregate dip discusión inmediata and plug into week object
+tmp <- tmp1[tmp1$typeN==1 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IF GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg1Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen discusión inmediata and plug into week object
+tmp <- tmp1[tmp1$typeN==1 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg1Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip suma and plug into week object
+tmp <- tmp1[tmp1$typeN==2 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg2Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen suma and plug into week object
+tmp <- tmp1[tmp1$typeN==2 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg2Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip simple and plug into week object
+tmp <- tmp1[tmp1$typeN==3 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg3Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen simple and plug into week object
+tmp <- tmp1[tmp1$typeN==3 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg3Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip reset to discusión inmediata and plug into week object
+tmp <- tmp1[tmp1$typeN==4.1 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg41Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen reset discusión inmediata and plug into week object
+tmp <- tmp1[tmp1$typeN==4.1 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg41Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip reset suma and plug into week object
+tmp <- tmp1[tmp1$typeN==4.2 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg42Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen reset suma and plug into week object
+tmp <- tmp1[tmp1$typeN==4.2 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg42Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip reset simple and plug into week object
+tmp <- tmp1[tmp1$typeN==4.3 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg43Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen reset simple and plug into week object
+tmp <- tmp1[tmp1$typeN==4.3 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg43Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip retire discusión inmediata and plug into week object
+tmp <- tmp1[tmp1$typeN==5.1 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg51Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen retire discusión inmediata and plug into week object
+tmp <- tmp1[tmp1$typeN==5.1 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg51Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip retire suma and plug into week object
+tmp <- tmp1[tmp1$typeN==5.2 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg52Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen retire suma and plug into week object
+tmp <- tmp1[tmp1$typeN==5.2 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg52Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip retire simple and plug into week object
+tmp <- tmp1[tmp1$typeN==5.3 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg53Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen retire simple and plug into week object
+tmp <- tmp1[tmp1$typeN==5.3 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg53Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# add session
+tmp <- bills$sessions
+tmp$week <- year(tmp$date) + week(tmp$date)/100; tmp$date <- NULL
+tmp <- ddply(tmp, .(week), mutate, ndipses=sum(ddip), nsenses=sum(dsen)); tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp$ddip <- tmp$dsen <- NULL
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+weekRepUrg[is.na(weekRepUrg)] <- 0 # fill zeroes
+#
+# WHEN DATE HAD NO SESSION, ADD NUMBERS TO NEXT SESSION
+tmp <- weekRepUrg
+# dip
+sel <- which(tmp$ndipses==0) # select weeks with no session in dip
+for (i in sel){
+    #i <- sel[2] # debug
+    tmp1 <- tmp$week - tmp$week[i] # difference from week of interest to other weeks
+    j <- which(tmp1==min(tmp1[tmp1>0 & tmp$ndipses>0])) # closest next session date
+    tmp[j, grep("Dip", colnames(tmp))] <- tmp[j, grep("Dip", colnames(tmp))] + tmp[i, grep("Dip", colnames(tmp))] # add data to that row
+    tmp[i, grep("Dip", colnames(tmp))] <- 0 # erase it from week with no session
+}
+# sen
+sel <- which(tmp$nsenses==0) # select weeks with no session in dip
+for (i in sel){
+    #i <- sel[2] # debug 
+    tmp1 <- tmp$week - tmp$week[i] # difference from week of interest to other weeks
+    j <- which(tmp1==min(tmp1[tmp1>0 & tmp$nsenses>0])) # closest next session date
+    tmp[j, grep("Sen", colnames(tmp))] <- tmp[j, grep("Sen", colnames(tmp))] + tmp[i, grep("Sen", colnames(tmp))] # add data to that row
+    tmp[i, grep("Sen", colnames(tmp))] <- 0 # erase it from week with no session
+}
+#
+weekRepUrg <- tmp
+#
+# Add president's maj status in chamber
+weekRepUrg$dmajDip <- weekRepUrg$dmajSen <- 0
+# sen
+tmp <- dmy(c("11-03-1990", "22-01-1999", "11-03-2000", "11-01-2002", "27-01-2005", "30-08-2005", "11-03-2006", "11-03-2010") , tz = "chile")
+tmp <- year(tmp) + week(tmp)/100
+sel <- which(weekRepUrg$week >= tmp[1] & weekRepUrg$week < tmp[2]); weekRepUrg$dmajSen[sel] <- 0
+sel <- which(weekRepUrg$week >= tmp[2] & weekRepUrg$week < tmp[3]); weekRepUrg$dmajSen[sel] <- 1 # tie coded as maj for pdt
+sel <- which(weekRepUrg$week >= tmp[3] & weekRepUrg$week < tmp[4]); weekRepUrg$dmajSen[sel] <- 1 
+sel <- which(weekRepUrg$week >= tmp[4] & weekRepUrg$week < tmp[5]); weekRepUrg$dmajSen[sel] <- 1 # tie coded as maj for pdt
+sel <- which(weekRepUrg$week >= tmp[5] & weekRepUrg$week < tmp[6]); weekRepUrg$dmajSen[sel] <- 0
+sel <- which(weekRepUrg$week >= tmp[6] & weekRepUrg$week < tmp[7]); weekRepUrg$dmajSen[sel] <- 1 # tie coded as maj for pdt
+sel <- which(weekRepUrg$week >= tmp[7] & weekRepUrg$week < tmp[8]); weekRepUrg$dmajSen[sel] <- 1
+sel <- which(weekRepUrg$week >= tmp[8] & weekRepUrg$week < tmp[9]); weekRepUrg$dmajSen[sel] <- 0
+#
+# dip: always maj=1 (2010-14 50%, coded 1)
+weekRepUrg$dmajDip <- 1
+#
+# weeks to end of pdtl term
+tmp <- dmy(c("11-03-1994", "11-03-2000", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- year(tmp) + week(tmp)/100
+weekRepUrg$pterm <- NA
+sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$pterm[sel] <- round((tmp[1] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[1] & weekRepUrg$week < tmp[2]); weekRepUrg$pterm[sel] <- round((tmp[2] - weekRepUrg$week[sel]) * 100 / 6, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[2] & weekRepUrg$week < tmp[3]); weekRepUrg$pterm[sel] <- round((tmp[3] - weekRepUrg$week[sel]) * 100 / 6, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[3] & weekRepUrg$week < tmp[4]); weekRepUrg$pterm[sel] <- round((tmp[4] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[4] & weekRepUrg$week < tmp[5]); weekRepUrg$pterm[sel] <- round((tmp[5] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+#
+# weeks to end of dip term
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- year(tmp) + week(tmp)/100
+weekRepUrg$dterm <- NA
+sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$dterm[sel] <- round((tmp[1] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[1] & weekRepUrg$week < tmp[2]); weekRepUrg$dterm[sel] <- round((tmp[2] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[2] & weekRepUrg$week < tmp[3]); weekRepUrg$dterm[sel] <- round((tmp[3] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[3] & weekRepUrg$week < tmp[4]); weekRepUrg$dterm[sel] <- round((tmp[4] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[4] & weekRepUrg$week < tmp[5]); weekRepUrg$dterm[sel] <- round((tmp[5] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[5] & weekRepUrg$week < tmp[6]); weekRepUrg$dterm[sel] <- round((tmp[6] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+#
+# weeks to end of sen term
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2006", "11-03-2014") , tz = "chile")
+tmp <- year(tmp) + week(tmp)/100
+weekRepUrg$sterm <- NA
+sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$sterm[sel] <- round((tmp[1] - weekRepUrg$week[sel]) * 100 / 8, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[1] & weekRepUrg$week < tmp[2]); weekRepUrg$sterm[sel] <- round((tmp[2] - weekRepUrg$week[sel]) * 100 / 8, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[2] & weekRepUrg$week < tmp[3]); weekRepUrg$sterm[sel] <- round((tmp[3] - weekRepUrg$week[sel]) * 100 / 8, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[3] & weekRepUrg$week < tmp[4]); weekRepUrg$sterm[sel] <- round((tmp[4] - weekRepUrg$week[sel]) * 100 / 8, digits = 0)
+#
+# legislature dummies (periodo)
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- year(tmp) + week(tmp)/100
+weekRepUrg$dleg90 <- weekRepUrg$dleg94 <- weekRepUrg$dleg98 <- weekRepUrg$dleg02 <- weekRepUrg$dleg06 <- weekRepUrg$dleg10 <- 0
+sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$dleg90[sel] <- 1
+sel <- which(weekRepUrg$week >= tmp[1] & weekRepUrg$week < tmp[2]); weekRepUrg$dleg94[sel] <- 1
+sel <- which(weekRepUrg$week >= tmp[2] & weekRepUrg$week < tmp[3]); weekRepUrg$dleg98[sel] <- 1
+sel <- which(weekRepUrg$week >= tmp[3] & weekRepUrg$week < tmp[4]); weekRepUrg$dleg02[sel] <- 1
+sel <- which(weekRepUrg$week >= tmp[4] & weekRepUrg$week < tmp[5]); weekRepUrg$dleg06[sel] <- 1
+sel <- which(weekRepUrg$week >= tmp[5] & weekRepUrg$week < tmp[6]); weekRepUrg$dleg10[sel] <- 1
+#
+# plug to data object
+RepDataNegBin$weeklyHaciendaReportsAndUrgenciasToMocionesInHaciendaComm <- weekRepUrg
+#
+######################################################################################################################
+######################################################################################################################
+## PREPARE WEEKLY REPORTS FROM HACIENDA COMMITTEE WITH WEEKLY URGENCIES TO ALL BILLS REFERRED TO HACIENDA COMMITTEE ##
+######################################################################################################################
+######################################################################################################################
+# dip and sen separate
+dipRep <- allRep[allRep$chamber=="dip",]
+senRep <- allRep[allRep$chamber=="sen",]
+#
+# add week
+dipRep$week <- year(dipRep$date)+week(dipRep$date)/100
+senRep$week <- year(senRep$date)+week(senRep$date)/100
+#                                                             ################
+# consolidate weekly reports (from Hacienda reported only)    <---  OJO   ####
+#                                                             ################
+tmp <- ddply(dipRep, .(week), mutate, nrepMenDip=sum(dmensaje*dHda), nrepMocDip=sum(dmocion*dHda)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp$dmocion <- tmp$dmensaje <- tmp$bol <- tmp$chamber <- tmp$date <- tmp$comm <- tmp$dHda <- NULL
+dipRep <- tmp
+tmp <- ddply(senRep, .(week), mutate, nrepMenSen=sum(dmensaje*dHda), nrepMocSen=sum(dmocion*dHda)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp$dmocion <- tmp$dmensaje <- tmp$bol <- tmp$chamber <- tmp$date <- tmp$comm <- tmp$dHda <- NULL
+senRep <- tmp
+#
+# object with all weeks in period
+tmp <- data.frame(date = seq(from = dmy("11-03-1990", tz = "chile"), to = dmy("10-03-2014", tz = "chile"), by = 'weeks'))
+tmp$week <- year(tmp$date) + week(tmp$date)/100; tmp$date <- NULL
+weekRepUrg <- tmp
+#
+weekRepUrg <- merge(x = weekRepUrg, y = dipRep, by = "week", all=TRUE)
+weekRepUrg <- merge(x = weekRepUrg, y = senRep, by = "week", all=TRUE)
+#
+# Add weekly urgencias
+tmp1 <- allUrg
+tmp1$week <- year(tmp1$on) + week(tmp1$on)/100
+# distinguish mensaje urgencia from mocion urgencias
+tmp1$dmensaje <- NA
+tmp1$dHda <- NA
+for (i in 1:nrow(tmp1)){
+    message(sprintf("loop %s of %s", i, nrow(tmp1)))
+    j <- which(bills$info$bol==tmp1$bol[i])
+    tmp1$dmensaje[i] <- bills$info$dmensaje[j]
+    tmp1$dHda[i] <- bills$info$drefHda[j] # bill was referred to Hacienda committee
+}
+tmp1$count <- 1
+#                                                   ###################################################################################
+tmp1$count <- tmp1$count * tmp1$dHda                ###### COUNT ONLY URGENCIAS ON HACIENDA MENSAJES OR ON HACIENDA MOCIONES!!!  ######
+#                                                   ###################################################################################
+#
+# aggregate dip discusión inmediata and plug into week object
+tmp <- tmp1[tmp1$typeN==1 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IF GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg1Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen discusión inmediata and plug into week object
+tmp <- tmp1[tmp1$typeN==1 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg1Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip suma and plug into week object
+tmp <- tmp1[tmp1$typeN==2 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg2Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen suma and plug into week object
+tmp <- tmp1[tmp1$typeN==2 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg2Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip simple and plug into week object
+tmp <- tmp1[tmp1$typeN==3 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg3Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen simple and plug into week object
+tmp <- tmp1[tmp1$typeN==3 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg3Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip reset to discusión inmediata and plug into week object
+tmp <- tmp1[tmp1$typeN==4.1 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg41Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen reset discusión inmediata and plug into week object
+tmp <- tmp1[tmp1$typeN==4.1 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg41Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip reset suma and plug into week object
+tmp <- tmp1[tmp1$typeN==4.2 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg42Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen reset suma and plug into week object
+tmp <- tmp1[tmp1$typeN==4.2 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg42Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip reset simple and plug into week object
+tmp <- tmp1[tmp1$typeN==4.3 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg43Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen reset simple and plug into week object
+tmp <- tmp1[tmp1$typeN==4.3 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg43Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip retire discusión inmediata and plug into week object
+tmp <- tmp1[tmp1$typeN==5.1 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg51Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen retire discusión inmediata and plug into week object
+tmp <- tmp1[tmp1$typeN==5.1 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg51Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip retire suma and plug into week object
+tmp <- tmp1[tmp1$typeN==5.2 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg52Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen retire suma and plug into week object
+tmp <- tmp1[tmp1$typeN==5.2 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg52Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip retire simple and plug into week object
+tmp <- tmp1[tmp1$typeN==5.3 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg53Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen retire simple and plug into week object
+tmp <- tmp1[tmp1$typeN==5.3 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg53Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# add session
+tmp <- bills$sessions
+tmp$week <- year(tmp$date) + week(tmp$date)/100; tmp$date <- NULL
+tmp <- ddply(tmp, .(week), mutate, ndipses=sum(ddip), nsenses=sum(dsen)); tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp$ddip <- tmp$dsen <- NULL
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+weekRepUrg[is.na(weekRepUrg)] <- 0 # fill zeroes
+#
+# WHEN DATE HAD NO SESSION, ADD NUMBERS TO NEXT SESSION
+tmp <- weekRepUrg
+# dip
+sel <- which(tmp$ndipses==0) # select weeks with no session in dip
+for (i in sel){
+    #i <- sel[2] # debug
+    tmp1 <- tmp$week - tmp$week[i] # difference from week of interest to other weeks
+    j <- which(tmp1==min(tmp1[tmp1>0 & tmp$ndipses>0])) # closest next session date
+    tmp[j, grep("Dip", colnames(tmp))] <- tmp[j, grep("Dip", colnames(tmp))] + tmp[i, grep("Dip", colnames(tmp))] # add data to that row
+    tmp[i, grep("Dip", colnames(tmp))] <- 0 # erase it from week with no session
+}
+# sen
+sel <- which(tmp$nsenses==0) # select weeks with no session in dip
+for (i in sel){
+    #i <- sel[2] # debug 
+    tmp1 <- tmp$week - tmp$week[i] # difference from week of interest to other weeks
+    j <- which(tmp1==min(tmp1[tmp1>0 & tmp$nsenses>0])) # closest next session date
+    tmp[j, grep("Sen", colnames(tmp))] <- tmp[j, grep("Sen", colnames(tmp))] + tmp[i, grep("Sen", colnames(tmp))] # add data to that row
+    tmp[i, grep("Sen", colnames(tmp))] <- 0 # erase it from week with no session
+}
+#
+weekRepUrg <- tmp
+#
+# Add president's maj status in chamber
+weekRepUrg$dmajDip <- weekRepUrg$dmajSen <- 0
+# sen
+tmp <- dmy(c("11-03-1990", "22-01-1999", "11-03-2000", "11-01-2002", "27-01-2005", "30-08-2005", "11-03-2006", "11-03-2010") , tz = "chile")
+tmp <- year(tmp) + week(tmp)/100
+sel <- which(weekRepUrg$week >= tmp[1] & weekRepUrg$week < tmp[2]); weekRepUrg$dmajSen[sel] <- 0
+sel <- which(weekRepUrg$week >= tmp[2] & weekRepUrg$week < tmp[3]); weekRepUrg$dmajSen[sel] <- 1 # tie coded as maj for pdt
+sel <- which(weekRepUrg$week >= tmp[3] & weekRepUrg$week < tmp[4]); weekRepUrg$dmajSen[sel] <- 1 
+sel <- which(weekRepUrg$week >= tmp[4] & weekRepUrg$week < tmp[5]); weekRepUrg$dmajSen[sel] <- 1 # tie coded as maj for pdt
+sel <- which(weekRepUrg$week >= tmp[5] & weekRepUrg$week < tmp[6]); weekRepUrg$dmajSen[sel] <- 0
+sel <- which(weekRepUrg$week >= tmp[6] & weekRepUrg$week < tmp[7]); weekRepUrg$dmajSen[sel] <- 1 # tie coded as maj for pdt
+sel <- which(weekRepUrg$week >= tmp[7] & weekRepUrg$week < tmp[8]); weekRepUrg$dmajSen[sel] <- 1
+sel <- which(weekRepUrg$week >= tmp[8] & weekRepUrg$week < tmp[9]); weekRepUrg$dmajSen[sel] <- 0
+#
+# dip: always maj=1 (2010-14 50%, coded 1)
+weekRepUrg$dmajDip <- 1
+#
+# weeks to end of pdtl term
+tmp <- dmy(c("11-03-1994", "11-03-2000", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- year(tmp) + week(tmp)/100
+weekRepUrg$pterm <- NA
+sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$pterm[sel] <- round((tmp[1] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[1] & weekRepUrg$week < tmp[2]); weekRepUrg$pterm[sel] <- round((tmp[2] - weekRepUrg$week[sel]) * 100 / 6, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[2] & weekRepUrg$week < tmp[3]); weekRepUrg$pterm[sel] <- round((tmp[3] - weekRepUrg$week[sel]) * 100 / 6, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[3] & weekRepUrg$week < tmp[4]); weekRepUrg$pterm[sel] <- round((tmp[4] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[4] & weekRepUrg$week < tmp[5]); weekRepUrg$pterm[sel] <- round((tmp[5] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+#
+# weeks to end of dip term
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- year(tmp) + week(tmp)/100
+weekRepUrg$dterm <- NA
+sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$dterm[sel] <- round((tmp[1] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[1] & weekRepUrg$week < tmp[2]); weekRepUrg$dterm[sel] <- round((tmp[2] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[2] & weekRepUrg$week < tmp[3]); weekRepUrg$dterm[sel] <- round((tmp[3] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[3] & weekRepUrg$week < tmp[4]); weekRepUrg$dterm[sel] <- round((tmp[4] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[4] & weekRepUrg$week < tmp[5]); weekRepUrg$dterm[sel] <- round((tmp[5] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[5] & weekRepUrg$week < tmp[6]); weekRepUrg$dterm[sel] <- round((tmp[6] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+#
+# weeks to end of sen term
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2006", "11-03-2014") , tz = "chile")
+tmp <- year(tmp) + week(tmp)/100
+weekRepUrg$sterm <- NA
+sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$sterm[sel] <- round((tmp[1] - weekRepUrg$week[sel]) * 100 / 8, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[1] & weekRepUrg$week < tmp[2]); weekRepUrg$sterm[sel] <- round((tmp[2] - weekRepUrg$week[sel]) * 100 / 8, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[2] & weekRepUrg$week < tmp[3]); weekRepUrg$sterm[sel] <- round((tmp[3] - weekRepUrg$week[sel]) * 100 / 8, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[3] & weekRepUrg$week < tmp[4]); weekRepUrg$sterm[sel] <- round((tmp[4] - weekRepUrg$week[sel]) * 100 / 8, digits = 0)
+#
+# legislature dummies (periodo)
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- year(tmp) + week(tmp)/100
+weekRepUrg$dleg90 <- weekRepUrg$dleg94 <- weekRepUrg$dleg98 <- weekRepUrg$dleg02 <- weekRepUrg$dleg06 <- weekRepUrg$dleg10 <- 0
+sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$dleg90[sel] <- 1
+sel <- which(weekRepUrg$week >= tmp[1] & weekRepUrg$week < tmp[2]); weekRepUrg$dleg94[sel] <- 1
+sel <- which(weekRepUrg$week >= tmp[2] & weekRepUrg$week < tmp[3]); weekRepUrg$dleg98[sel] <- 1
+sel <- which(weekRepUrg$week >= tmp[3] & weekRepUrg$week < tmp[4]); weekRepUrg$dleg02[sel] <- 1
+sel <- which(weekRepUrg$week >= tmp[4] & weekRepUrg$week < tmp[5]); weekRepUrg$dleg06[sel] <- 1
+sel <- which(weekRepUrg$week >= tmp[5] & weekRepUrg$week < tmp[6]); weekRepUrg$dleg10[sel] <- 1
+#
+# plug to data object
+RepDataNegBin$weeklyHaciendaReportsAndUrgenciasToAllBillsInHaciendaComm <- weekRepUrg
+#
+#######################################################################################
+#######################################################################################
+## PREPARE WEEKLY REPORTS FROM ANY COMMITTEE WITH WEEKLY URGENCIES TO EX-INIT BILLS  ##
+#######################################################################################
+#######################################################################################
+# dip and sen separate
+dipRep <- allRep[allRep$chamber=="dip",]
+senRep <- allRep[allRep$chamber=="sen",]
+#
+# add week
+dipRep$week <- year(dipRep$date)+week(dipRep$date)/100
+senRep$week <- year(senRep$date)+week(senRep$date)/100
+#                                                             ################
+# consolidate weekly reports                                  <---  OJO   ####
+#                                                             ################
+tmp <- ddply(dipRep, .(week), mutate, nrepMenDip=sum(dmensaje     ), nrepMocDip=sum(dmocion     )) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp$dmocion <- tmp$dmensaje <- tmp$bol <- tmp$chamber <- tmp$date <- tmp$comm <- tmp$dHda <- NULL
+dipRep <- tmp
+tmp <- ddply(senRep, .(week), mutate, nrepMenSen=sum(dmensaje     ), nrepMocSen=sum(dmocion     )) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp$dmocion <- tmp$dmensaje <- tmp$bol <- tmp$chamber <- tmp$date <- tmp$comm <- tmp$dHda <- NULL
+senRep <- tmp
+#
+# object with all weeks in period
+tmp <- data.frame(date = seq(from = dmy("11-03-1990", tz = "chile"), to = dmy("10-03-2014", tz = "chile"), by = 'weeks'))
+tmp$week <- year(tmp$date) + week(tmp$date)/100; tmp$date <- NULL
+weekRepUrg <- tmp
+#
+weekRepUrg <- merge(x = weekRepUrg, y = dipRep, by = "week", all=TRUE)
+weekRepUrg <- merge(x = weekRepUrg, y = senRep, by = "week", all=TRUE)
+#
+# Add weekly urgencias
+tmp1 <- allUrg
+tmp1$week <- year(tmp1$on) + week(tmp1$on)/100
+# distinguish mensaje urgencia from mocion urgencias
+tmp1$dmensaje <- NA
+tmp1$dHda <- NA
+for (i in 1:nrow(tmp1)){
+    message(sprintf("loop %s of %s", i, nrow(tmp1)))
+    j <- which(bills$info$bol==tmp1$bol[i])
+    tmp1$dmensaje[i] <- bills$info$dmensaje[j]
+    tmp1$dHda[i] <- bills$info$drefHda[j] # bill was referred to Hacienda committee
+}
+tmp1$count <- 1
+#                                                         ###############################################################
+tmp1$count <- tmp1$count              * tmp1$dmensaje     ###### COUNT ONLY URGENCIAS ON MENSAJES OR MOCIONES!!!  #######
+#                                                         ###############################################################
+#
+# aggregate dip discusión inmediata and plug into week object
+tmp <- tmp1[tmp1$typeN==1 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IF GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg1Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen discusión inmediata and plug into week object
+tmp <- tmp1[tmp1$typeN==1 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg1Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip suma and plug into week object
+tmp <- tmp1[tmp1$typeN==2 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg2Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen suma and plug into week object
+tmp <- tmp1[tmp1$typeN==2 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg2Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip simple and plug into week object
+tmp <- tmp1[tmp1$typeN==3 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg3Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen simple and plug into week object
+tmp <- tmp1[tmp1$typeN==3 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg3Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip reset to discusión inmediata and plug into week object
+tmp <- tmp1[tmp1$typeN==4.1 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg41Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen reset discusión inmediata and plug into week object
+tmp <- tmp1[tmp1$typeN==4.1 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg41Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip reset suma and plug into week object
+tmp <- tmp1[tmp1$typeN==4.2 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg42Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen reset suma and plug into week object
+tmp <- tmp1[tmp1$typeN==4.2 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg42Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip reset simple and plug into week object
+tmp <- tmp1[tmp1$typeN==4.3 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg43Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen reset simple and plug into week object
+tmp <- tmp1[tmp1$typeN==4.3 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg43Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip retire discusión inmediata and plug into week object
+tmp <- tmp1[tmp1$typeN==5.1 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg51Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen retire discusión inmediata and plug into week object
+tmp <- tmp1[tmp1$typeN==5.1 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg51Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip retire suma and plug into week object
+tmp <- tmp1[tmp1$typeN==5.2 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg52Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen retire suma and plug into week object
+tmp <- tmp1[tmp1$typeN==5.2 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg52Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip retire simple and plug into week object
+tmp <- tmp1[tmp1$typeN==5.3 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg53Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen retire simple and plug into week object
+tmp <- tmp1[tmp1$typeN==5.3 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg53Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# add session
+tmp <- bills$sessions
+tmp$week <- year(tmp$date) + week(tmp$date)/100; tmp$date <- NULL
+tmp <- ddply(tmp, .(week), mutate, ndipses=sum(ddip), nsenses=sum(dsen)); tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp$ddip <- tmp$dsen <- NULL
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+weekRepUrg[is.na(weekRepUrg)] <- 0 # fill zeroes
+#
+# WHEN DATE HAD NO SESSION, ADD NUMBERS TO NEXT SESSION
+tmp <- weekRepUrg
+# dip
+sel <- which(tmp$ndipses==0) # select weeks with no session in dip
+for (i in sel){
+    #i <- sel[2] # debug
+    tmp1 <- tmp$week - tmp$week[i] # difference from week of interest to other weeks
+    j <- which(tmp1==min(tmp1[tmp1>0 & tmp$ndipses>0])) # closest next session date
+    tmp[j, grep("Dip", colnames(tmp))] <- tmp[j, grep("Dip", colnames(tmp))] + tmp[i, grep("Dip", colnames(tmp))] # add data to that row
+    tmp[i, grep("Dip", colnames(tmp))] <- 0 # erase it from week with no session
+}
+# sen
+sel <- which(tmp$nsenses==0) # select weeks with no session in dip
+for (i in sel){
+    #i <- sel[2] # debug 
+    tmp1 <- tmp$week - tmp$week[i] # difference from week of interest to other weeks
+    j <- which(tmp1==min(tmp1[tmp1>0 & tmp$nsenses>0])) # closest next session date
+    tmp[j, grep("Sen", colnames(tmp))] <- tmp[j, grep("Sen", colnames(tmp))] + tmp[i, grep("Sen", colnames(tmp))] # add data to that row
+    tmp[i, grep("Sen", colnames(tmp))] <- 0 # erase it from week with no session
+}
+#
+weekRepUrg <- tmp
+#
+# Add president's maj status in chamber
+weekRepUrg$dmajDip <- weekRepUrg$dmajSen <- 0
+# sen
+tmp <- dmy(c("11-03-1990", "22-01-1999", "11-03-2000", "11-01-2002", "27-01-2005", "30-08-2005", "11-03-2006", "11-03-2010") , tz = "chile")
+tmp <- year(tmp) + week(tmp)/100
+sel <- which(weekRepUrg$week >= tmp[1] & weekRepUrg$week < tmp[2]); weekRepUrg$dmajSen[sel] <- 0
+sel <- which(weekRepUrg$week >= tmp[2] & weekRepUrg$week < tmp[3]); weekRepUrg$dmajSen[sel] <- 1 # tie coded as maj for pdt
+sel <- which(weekRepUrg$week >= tmp[3] & weekRepUrg$week < tmp[4]); weekRepUrg$dmajSen[sel] <- 1 
+sel <- which(weekRepUrg$week >= tmp[4] & weekRepUrg$week < tmp[5]); weekRepUrg$dmajSen[sel] <- 1 # tie coded as maj for pdt
+sel <- which(weekRepUrg$week >= tmp[5] & weekRepUrg$week < tmp[6]); weekRepUrg$dmajSen[sel] <- 0
+sel <- which(weekRepUrg$week >= tmp[6] & weekRepUrg$week < tmp[7]); weekRepUrg$dmajSen[sel] <- 1 # tie coded as maj for pdt
+sel <- which(weekRepUrg$week >= tmp[7] & weekRepUrg$week < tmp[8]); weekRepUrg$dmajSen[sel] <- 1
+sel <- which(weekRepUrg$week >= tmp[8] & weekRepUrg$week < tmp[9]); weekRepUrg$dmajSen[sel] <- 0
+#
+# dip: always maj=1 (2010-14 50%, coded 1)
+weekRepUrg$dmajDip <- 1
+#
+# weeks to end of pdtl term
+tmp <- dmy(c("11-03-1994", "11-03-2000", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- year(tmp) + week(tmp)/100
+weekRepUrg$pterm <- NA
+sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$pterm[sel] <- round((tmp[1] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[1] & weekRepUrg$week < tmp[2]); weekRepUrg$pterm[sel] <- round((tmp[2] - weekRepUrg$week[sel]) * 100 / 6, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[2] & weekRepUrg$week < tmp[3]); weekRepUrg$pterm[sel] <- round((tmp[3] - weekRepUrg$week[sel]) * 100 / 6, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[3] & weekRepUrg$week < tmp[4]); weekRepUrg$pterm[sel] <- round((tmp[4] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[4] & weekRepUrg$week < tmp[5]); weekRepUrg$pterm[sel] <- round((tmp[5] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+#
+# weeks to end of dip term
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- year(tmp) + week(tmp)/100
+weekRepUrg$dterm <- NA
+sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$dterm[sel] <- round((tmp[1] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[1] & weekRepUrg$week < tmp[2]); weekRepUrg$dterm[sel] <- round((tmp[2] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[2] & weekRepUrg$week < tmp[3]); weekRepUrg$dterm[sel] <- round((tmp[3] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[3] & weekRepUrg$week < tmp[4]); weekRepUrg$dterm[sel] <- round((tmp[4] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[4] & weekRepUrg$week < tmp[5]); weekRepUrg$dterm[sel] <- round((tmp[5] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[5] & weekRepUrg$week < tmp[6]); weekRepUrg$dterm[sel] <- round((tmp[6] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+#
+# weeks to end of sen term
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2006", "11-03-2014") , tz = "chile")
+tmp <- year(tmp) + week(tmp)/100
+weekRepUrg$sterm <- NA
+sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$sterm[sel] <- round((tmp[1] - weekRepUrg$week[sel]) * 100 / 8, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[1] & weekRepUrg$week < tmp[2]); weekRepUrg$sterm[sel] <- round((tmp[2] - weekRepUrg$week[sel]) * 100 / 8, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[2] & weekRepUrg$week < tmp[3]); weekRepUrg$sterm[sel] <- round((tmp[3] - weekRepUrg$week[sel]) * 100 / 8, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[3] & weekRepUrg$week < tmp[4]); weekRepUrg$sterm[sel] <- round((tmp[4] - weekRepUrg$week[sel]) * 100 / 8, digits = 0)
+#
+# legislature dummies (periodo)
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- year(tmp) + week(tmp)/100
+weekRepUrg$dleg90 <- weekRepUrg$dleg94 <- weekRepUrg$dleg98 <- weekRepUrg$dleg02 <- weekRepUrg$dleg06 <- weekRepUrg$dleg10 <- 0
+sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$dleg90[sel] <- 1
+sel <- which(weekRepUrg$week >= tmp[1] & weekRepUrg$week < tmp[2]); weekRepUrg$dleg94[sel] <- 1
+sel <- which(weekRepUrg$week >= tmp[2] & weekRepUrg$week < tmp[3]); weekRepUrg$dleg98[sel] <- 1
+sel <- which(weekRepUrg$week >= tmp[3] & weekRepUrg$week < tmp[4]); weekRepUrg$dleg02[sel] <- 1
+sel <- which(weekRepUrg$week >= tmp[4] & weekRepUrg$week < tmp[5]); weekRepUrg$dleg06[sel] <- 1
+sel <- which(weekRepUrg$week >= tmp[5] & weekRepUrg$week < tmp[6]); weekRepUrg$dleg10[sel] <- 1
+#
+# plug to data object
+RepDataNegBin$weeklyReportsAndUrgenciasToMensajes <- weekRepUrg
+#
+########################################################################################
+########################################################################################
+## PREPARE WEEKLY REPORTS FROM ANY COMMITTEE WITH WEEKLY URGENCIES TO LEG-INIT BILLS  ##
+########################################################################################
+########################################################################################
+# dip and sen separate
+dipRep <- allRep[allRep$chamber=="dip",]
+senRep <- allRep[allRep$chamber=="sen",]
+#
+# add week
+dipRep$week <- year(dipRep$date)+week(dipRep$date)/100
+senRep$week <- year(senRep$date)+week(senRep$date)/100
+#                                                             ################
+# consolidate weekly reports                                  <---  OJO   ####
+#                                                             ################
+tmp <- ddply(dipRep, .(week), mutate, nrepMenDip=sum(dmensaje     ), nrepMocDip=sum(dmocion     )) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp$dmocion <- tmp$dmensaje <- tmp$bol <- tmp$chamber <- tmp$date <- tmp$comm <- tmp$dHda <- NULL
+dipRep <- tmp
+tmp <- ddply(senRep, .(week), mutate, nrepMenSen=sum(dmensaje     ), nrepMocSen=sum(dmocion     )) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp$dmocion <- tmp$dmensaje <- tmp$bol <- tmp$chamber <- tmp$date <- tmp$comm <- tmp$dHda <- NULL
+senRep <- tmp
+#
+# object with all weeks in period
+tmp <- data.frame(date = seq(from = dmy("11-03-1990", tz = "chile"), to = dmy("10-03-2014", tz = "chile"), by = 'weeks'))
+tmp$week <- year(tmp$date) + week(tmp$date)/100; tmp$date <- NULL
+weekRepUrg <- tmp
+#
+weekRepUrg <- merge(x = weekRepUrg, y = dipRep, by = "week", all=TRUE)
+weekRepUrg <- merge(x = weekRepUrg, y = senRep, by = "week", all=TRUE)
+#
+# Add weekly urgencias
+tmp1 <- allUrg
+tmp1$week <- year(tmp1$on) + week(tmp1$on)/100
+# distinguish mensaje urgencia from mocion urgencias
+tmp1$dmensaje <- NA
+tmp1$dHda <- NA
+for (i in 1:nrow(tmp1)){
+    message(sprintf("loop %s of %s", i, nrow(tmp1)))
+    j <- which(bills$info$bol==tmp1$bol[i])
+    tmp1$dmensaje[i] <- bills$info$dmensaje[j]
+    tmp1$dHda[i] <- bills$info$drefHda[j] # bill was referred to Hacienda committee
+}
+tmp1$count <- 1
+#                                                         ###############################################################
+tmp1$count <- tmp1$count        * (1 - tmp1$dmensaje)     ###### COUNT ONLY URGENCIAS ON MENSAJES OR MOCIONES!!!  #######
+#                                                         ###############################################################
+#
+# aggregate dip discusión inmediata and plug into week object
+tmp <- tmp1[tmp1$typeN==1 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IF GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg1Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen discusión inmediata and plug into week object
+tmp <- tmp1[tmp1$typeN==1 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg1Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip suma and plug into week object
+tmp <- tmp1[tmp1$typeN==2 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg2Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen suma and plug into week object
+tmp <- tmp1[tmp1$typeN==2 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg2Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip simple and plug into week object
+tmp <- tmp1[tmp1$typeN==3 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg3Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen simple and plug into week object
+tmp <- tmp1[tmp1$typeN==3 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg3Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip reset to discusión inmediata and plug into week object
+tmp <- tmp1[tmp1$typeN==4.1 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg41Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen reset discusión inmediata and plug into week object
+tmp <- tmp1[tmp1$typeN==4.1 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg41Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip reset suma and plug into week object
+tmp <- tmp1[tmp1$typeN==4.2 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg42Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen reset suma and plug into week object
+tmp <- tmp1[tmp1$typeN==4.2 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg42Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip reset simple and plug into week object
+tmp <- tmp1[tmp1$typeN==4.3 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg43Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen reset simple and plug into week object
+tmp <- tmp1[tmp1$typeN==4.3 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg43Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip retire discusión inmediata and plug into week object
+tmp <- tmp1[tmp1$typeN==5.1 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg51Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen retire discusión inmediata and plug into week object
+tmp <- tmp1[tmp1$typeN==5.1 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg51Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip retire suma and plug into week object
+tmp <- tmp1[tmp1$typeN==5.2 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg52Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen retire suma and plug into week object
+tmp <- tmp1[tmp1$typeN==5.2 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg52Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip retire simple and plug into week object
+tmp <- tmp1[tmp1$typeN==5.3 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg53Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen retire simple and plug into week object
+tmp <- tmp1[tmp1$typeN==5.3 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg53Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# add session
+tmp <- bills$sessions
+tmp$week <- year(tmp$date) + week(tmp$date)/100; tmp$date <- NULL
+tmp <- ddply(tmp, .(week), mutate, ndipses=sum(ddip), nsenses=sum(dsen)); tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp$ddip <- tmp$dsen <- NULL
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+weekRepUrg[is.na(weekRepUrg)] <- 0 # fill zeroes
+#
+# WHEN DATE HAD NO SESSION, ADD NUMBERS TO NEXT SESSION
+tmp <- weekRepUrg
+# dip
+sel <- which(tmp$ndipses==0) # select weeks with no session in dip
+for (i in sel){
+    #i <- sel[2] # debug
+    tmp1 <- tmp$week - tmp$week[i] # difference from week of interest to other weeks
+    j <- which(tmp1==min(tmp1[tmp1>0 & tmp$ndipses>0])) # closest next session date
+    tmp[j, grep("Dip", colnames(tmp))] <- tmp[j, grep("Dip", colnames(tmp))] + tmp[i, grep("Dip", colnames(tmp))] # add data to that row
+    tmp[i, grep("Dip", colnames(tmp))] <- 0 # erase it from week with no session
+}
+# sen
+sel <- which(tmp$nsenses==0) # select weeks with no session in dip
+for (i in sel){
+    #i <- sel[2] # debug 
+    tmp1 <- tmp$week - tmp$week[i] # difference from week of interest to other weeks
+    j <- which(tmp1==min(tmp1[tmp1>0 & tmp$nsenses>0])) # closest next session date
+    tmp[j, grep("Sen", colnames(tmp))] <- tmp[j, grep("Sen", colnames(tmp))] + tmp[i, grep("Sen", colnames(tmp))] # add data to that row
+    tmp[i, grep("Sen", colnames(tmp))] <- 0 # erase it from week with no session
+}
+#
+weekRepUrg <- tmp
+#
+# Add president's maj status in chamber
+weekRepUrg$dmajDip <- weekRepUrg$dmajSen <- 0
+# sen
+tmp <- dmy(c("11-03-1990", "22-01-1999", "11-03-2000", "11-01-2002", "27-01-2005", "30-08-2005", "11-03-2006", "11-03-2010") , tz = "chile")
+tmp <- year(tmp) + week(tmp)/100
+sel <- which(weekRepUrg$week >= tmp[1] & weekRepUrg$week < tmp[2]); weekRepUrg$dmajSen[sel] <- 0
+sel <- which(weekRepUrg$week >= tmp[2] & weekRepUrg$week < tmp[3]); weekRepUrg$dmajSen[sel] <- 1 # tie coded as maj for pdt
+sel <- which(weekRepUrg$week >= tmp[3] & weekRepUrg$week < tmp[4]); weekRepUrg$dmajSen[sel] <- 1 
+sel <- which(weekRepUrg$week >= tmp[4] & weekRepUrg$week < tmp[5]); weekRepUrg$dmajSen[sel] <- 1 # tie coded as maj for pdt
+sel <- which(weekRepUrg$week >= tmp[5] & weekRepUrg$week < tmp[6]); weekRepUrg$dmajSen[sel] <- 0
+sel <- which(weekRepUrg$week >= tmp[6] & weekRepUrg$week < tmp[7]); weekRepUrg$dmajSen[sel] <- 1 # tie coded as maj for pdt
+sel <- which(weekRepUrg$week >= tmp[7] & weekRepUrg$week < tmp[8]); weekRepUrg$dmajSen[sel] <- 1
+sel <- which(weekRepUrg$week >= tmp[8] & weekRepUrg$week < tmp[9]); weekRepUrg$dmajSen[sel] <- 0
+#
+# dip: always maj=1 (2010-14 50%, coded 1)
+weekRepUrg$dmajDip <- 1
+#
+# weeks to end of pdtl term
+tmp <- dmy(c("11-03-1994", "11-03-2000", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- year(tmp) + week(tmp)/100
+weekRepUrg$pterm <- NA
+sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$pterm[sel] <- round((tmp[1] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[1] & weekRepUrg$week < tmp[2]); weekRepUrg$pterm[sel] <- round((tmp[2] - weekRepUrg$week[sel]) * 100 / 6, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[2] & weekRepUrg$week < tmp[3]); weekRepUrg$pterm[sel] <- round((tmp[3] - weekRepUrg$week[sel]) * 100 / 6, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[3] & weekRepUrg$week < tmp[4]); weekRepUrg$pterm[sel] <- round((tmp[4] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[4] & weekRepUrg$week < tmp[5]); weekRepUrg$pterm[sel] <- round((tmp[5] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+#
+# weeks to end of dip term
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- year(tmp) + week(tmp)/100
+weekRepUrg$dterm <- NA
+sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$dterm[sel] <- round((tmp[1] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[1] & weekRepUrg$week < tmp[2]); weekRepUrg$dterm[sel] <- round((tmp[2] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[2] & weekRepUrg$week < tmp[3]); weekRepUrg$dterm[sel] <- round((tmp[3] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[3] & weekRepUrg$week < tmp[4]); weekRepUrg$dterm[sel] <- round((tmp[4] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[4] & weekRepUrg$week < tmp[5]); weekRepUrg$dterm[sel] <- round((tmp[5] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[5] & weekRepUrg$week < tmp[6]); weekRepUrg$dterm[sel] <- round((tmp[6] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+#
+# weeks to end of sen term
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2006", "11-03-2014") , tz = "chile")
+tmp <- year(tmp) + week(tmp)/100
+weekRepUrg$sterm <- NA
+sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$sterm[sel] <- round((tmp[1] - weekRepUrg$week[sel]) * 100 / 8, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[1] & weekRepUrg$week < tmp[2]); weekRepUrg$sterm[sel] <- round((tmp[2] - weekRepUrg$week[sel]) * 100 / 8, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[2] & weekRepUrg$week < tmp[3]); weekRepUrg$sterm[sel] <- round((tmp[3] - weekRepUrg$week[sel]) * 100 / 8, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[3] & weekRepUrg$week < tmp[4]); weekRepUrg$sterm[sel] <- round((tmp[4] - weekRepUrg$week[sel]) * 100 / 8, digits = 0)
+#
+# legislature dummies (periodo)
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- year(tmp) + week(tmp)/100
+weekRepUrg$dleg90 <- weekRepUrg$dleg94 <- weekRepUrg$dleg98 <- weekRepUrg$dleg02 <- weekRepUrg$dleg06 <- weekRepUrg$dleg10 <- 0
+sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$dleg90[sel] <- 1
+sel <- which(weekRepUrg$week >= tmp[1] & weekRepUrg$week < tmp[2]); weekRepUrg$dleg94[sel] <- 1
+sel <- which(weekRepUrg$week >= tmp[2] & weekRepUrg$week < tmp[3]); weekRepUrg$dleg98[sel] <- 1
+sel <- which(weekRepUrg$week >= tmp[3] & weekRepUrg$week < tmp[4]); weekRepUrg$dleg02[sel] <- 1
+sel <- which(weekRepUrg$week >= tmp[4] & weekRepUrg$week < tmp[5]); weekRepUrg$dleg06[sel] <- 1
+sel <- which(weekRepUrg$week >= tmp[5] & weekRepUrg$week < tmp[6]); weekRepUrg$dleg10[sel] <- 1
+#
+# plug to data object
+RepDataNegBin$weeklyReportsAndUrgenciasToMociones <- weekRepUrg
+#
+###################################################################################
+###################################################################################
+## PREPARE WEEKLY REPORTS FROM ANY COMMITTEE WITH WEEKLY URGENCIES TO ALL BILLS  ##
+###################################################################################
+###################################################################################
+# dip and sen separate
+dipRep <- allRep[allRep$chamber=="dip",]
+senRep <- allRep[allRep$chamber=="sen",]
+#
+# add week
+dipRep$week <- year(dipRep$date)+week(dipRep$date)/100
+senRep$week <- year(senRep$date)+week(senRep$date)/100
+#                                                             ################
+# consolidate weekly reports                                  <---  OJO   ####
+#                                                             ################
+tmp <- ddply(dipRep, .(week), mutate, nrepMenDip=sum(dmensaje     ), nrepMocDip=sum(dmocion     )) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp$dmocion <- tmp$dmensaje <- tmp$bol <- tmp$chamber <- tmp$date <- tmp$comm <- tmp$dHda <- NULL
+dipRep <- tmp
+tmp <- ddply(senRep, .(week), mutate, nrepMenSen=sum(dmensaje     ), nrepMocSen=sum(dmocion     )) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp$dmocion <- tmp$dmensaje <- tmp$bol <- tmp$chamber <- tmp$date <- tmp$comm <- tmp$dHda <- NULL
+senRep <- tmp
+#
+# object with all weeks in period
+tmp <- data.frame(date = seq(from = dmy("11-03-1990", tz = "chile"), to = dmy("10-03-2014", tz = "chile"), by = 'weeks'))
+tmp$week <- year(tmp$date) + week(tmp$date)/100; tmp$date <- NULL
+weekRepUrg <- tmp
+#
+weekRepUrg <- merge(x = weekRepUrg, y = dipRep, by = "week", all=TRUE)
+weekRepUrg <- merge(x = weekRepUrg, y = senRep, by = "week", all=TRUE)
+#
+# Add weekly urgencias
+tmp1 <- allUrg
+tmp1$week <- year(tmp1$on) + week(tmp1$on)/100
+# distinguish mensaje urgencia from mocion urgencias
+tmp1$dmensaje <- NA
+tmp1$dHda <- NA
+for (i in 1:nrow(tmp1)){
+    message(sprintf("loop %s of %s", i, nrow(tmp1)))
+    j <- which(bills$info$bol==tmp1$bol[i])
+    tmp1$dmensaje[i] <- bills$info$dmensaje[j]
+    tmp1$dHda[i] <- bills$info$drefHda[j] # bill was referred to Hacienda committee
+}
+#                                                ################################################################
+tmp1$count <- 1                                  ###### COUNT URGENCIAS ON BOTH MENSAJES AND MOCIONES!!!  #######
+#                                                ################################################################
+#
+# aggregate dip discusión inmediata and plug into week object
+tmp <- tmp1[tmp1$typeN==1 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IF GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg1Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen discusión inmediata and plug into week object
+tmp <- tmp1[tmp1$typeN==1 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg1Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip suma and plug into week object
+tmp <- tmp1[tmp1$typeN==2 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg2Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen suma and plug into week object
+tmp <- tmp1[tmp1$typeN==2 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg2Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip simple and plug into week object
+tmp <- tmp1[tmp1$typeN==3 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg3Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen simple and plug into week object
+tmp <- tmp1[tmp1$typeN==3 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg3Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip reset to discusión inmediata and plug into week object
+tmp <- tmp1[tmp1$typeN==4.1 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg41Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen reset discusión inmediata and plug into week object
+tmp <- tmp1[tmp1$typeN==4.1 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg41Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip reset suma and plug into week object
+tmp <- tmp1[tmp1$typeN==4.2 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg42Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen reset suma and plug into week object
+tmp <- tmp1[tmp1$typeN==4.2 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg42Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip reset simple and plug into week object
+tmp <- tmp1[tmp1$typeN==4.3 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg43Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen reset simple and plug into week object
+tmp <- tmp1[tmp1$typeN==4.3 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg43Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip retire discusión inmediata and plug into week object
+tmp <- tmp1[tmp1$typeN==5.1 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg51Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen retire discusión inmediata and plug into week object
+tmp <- tmp1[tmp1$typeN==5.1 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg51Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip retire suma and plug into week object
+tmp <- tmp1[tmp1$typeN==5.2 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg52Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen retire suma and plug into week object
+tmp <- tmp1[tmp1$typeN==5.2 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg52Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# aggregate dip retire simple and plug into week object
+tmp <- tmp1[tmp1$typeN==5.3 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
+tmp <- ddply(tmp, .(week), mutate, nurg53Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+# aggregate sen retire simple and plug into week object
+tmp <- tmp1[tmp1$typeN==5.3 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
+tmp <- ddply(tmp, .(week), mutate, nurg53Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+# add session
+tmp <- bills$sessions
+tmp$week <- year(tmp$date) + week(tmp$date)/100; tmp$date <- NULL
+tmp <- ddply(tmp, .(week), mutate, ndipses=sum(ddip), nsenses=sum(dsen)); tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp$ddip <- tmp$dsen <- NULL
+weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
+#
+weekRepUrg[is.na(weekRepUrg)] <- 0 # fill zeroes
+#
+# WHEN DATE HAD NO SESSION, ADD NUMBERS TO NEXT SESSION
+tmp <- weekRepUrg
+# dip
+sel <- which(tmp$ndipses==0) # select weeks with no session in dip
+for (i in sel){
+    #i <- sel[2] # debug
+    tmp1 <- tmp$week - tmp$week[i] # difference from week of interest to other weeks
+    j <- which(tmp1==min(tmp1[tmp1>0 & tmp$ndipses>0])) # closest next session date
+    tmp[j, grep("Dip", colnames(tmp))] <- tmp[j, grep("Dip", colnames(tmp))] + tmp[i, grep("Dip", colnames(tmp))] # add data to that row
+    tmp[i, grep("Dip", colnames(tmp))] <- 0 # erase it from week with no session
+}
+# sen
+sel <- which(tmp$nsenses==0) # select weeks with no session in dip
+for (i in sel){
+    #i <- sel[2] # debug 
+    tmp1 <- tmp$week - tmp$week[i] # difference from week of interest to other weeks
+    j <- which(tmp1==min(tmp1[tmp1>0 & tmp$nsenses>0])) # closest next session date
+    tmp[j, grep("Sen", colnames(tmp))] <- tmp[j, grep("Sen", colnames(tmp))] + tmp[i, grep("Sen", colnames(tmp))] # add data to that row
+    tmp[i, grep("Sen", colnames(tmp))] <- 0 # erase it from week with no session
+}
+#
+weekRepUrg <- tmp
+#
+# Add president's maj status in chamber
+weekRepUrg$dmajDip <- weekRepUrg$dmajSen <- 0
+# sen
+tmp <- dmy(c("11-03-1990", "22-01-1999", "11-03-2000", "11-01-2002", "27-01-2005", "30-08-2005", "11-03-2006", "11-03-2010") , tz = "chile")
+tmp <- year(tmp) + week(tmp)/100
+sel <- which(weekRepUrg$week >= tmp[1] & weekRepUrg$week < tmp[2]); weekRepUrg$dmajSen[sel] <- 0
+sel <- which(weekRepUrg$week >= tmp[2] & weekRepUrg$week < tmp[3]); weekRepUrg$dmajSen[sel] <- 1 # tie coded as maj for pdt
+sel <- which(weekRepUrg$week >= tmp[3] & weekRepUrg$week < tmp[4]); weekRepUrg$dmajSen[sel] <- 1 
+sel <- which(weekRepUrg$week >= tmp[4] & weekRepUrg$week < tmp[5]); weekRepUrg$dmajSen[sel] <- 1 # tie coded as maj for pdt
+sel <- which(weekRepUrg$week >= tmp[5] & weekRepUrg$week < tmp[6]); weekRepUrg$dmajSen[sel] <- 0
+sel <- which(weekRepUrg$week >= tmp[6] & weekRepUrg$week < tmp[7]); weekRepUrg$dmajSen[sel] <- 1 # tie coded as maj for pdt
+sel <- which(weekRepUrg$week >= tmp[7] & weekRepUrg$week < tmp[8]); weekRepUrg$dmajSen[sel] <- 1
+sel <- which(weekRepUrg$week >= tmp[8] & weekRepUrg$week < tmp[9]); weekRepUrg$dmajSen[sel] <- 0
+#
+# dip: always maj=1 (2010-14 50%, coded 1)
+weekRepUrg$dmajDip <- 1
+#
+# weeks to end of pdtl term
+tmp <- dmy(c("11-03-1994", "11-03-2000", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- year(tmp) + week(tmp)/100
+weekRepUrg$pterm <- NA
+sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$pterm[sel] <- round((tmp[1] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[1] & weekRepUrg$week < tmp[2]); weekRepUrg$pterm[sel] <- round((tmp[2] - weekRepUrg$week[sel]) * 100 / 6, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[2] & weekRepUrg$week < tmp[3]); weekRepUrg$pterm[sel] <- round((tmp[3] - weekRepUrg$week[sel]) * 100 / 6, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[3] & weekRepUrg$week < tmp[4]); weekRepUrg$pterm[sel] <- round((tmp[4] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[4] & weekRepUrg$week < tmp[5]); weekRepUrg$pterm[sel] <- round((tmp[5] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+#
+# weeks to end of dip term
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- year(tmp) + week(tmp)/100
+weekRepUrg$dterm <- NA
+sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$dterm[sel] <- round((tmp[1] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[1] & weekRepUrg$week < tmp[2]); weekRepUrg$dterm[sel] <- round((tmp[2] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[2] & weekRepUrg$week < tmp[3]); weekRepUrg$dterm[sel] <- round((tmp[3] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[3] & weekRepUrg$week < tmp[4]); weekRepUrg$dterm[sel] <- round((tmp[4] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[4] & weekRepUrg$week < tmp[5]); weekRepUrg$dterm[sel] <- round((tmp[5] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[5] & weekRepUrg$week < tmp[6]); weekRepUrg$dterm[sel] <- round((tmp[6] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
+#
+# weeks to end of sen term
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2006", "11-03-2014") , tz = "chile")
+tmp <- year(tmp) + week(tmp)/100
+weekRepUrg$sterm <- NA
+sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$sterm[sel] <- round((tmp[1] - weekRepUrg$week[sel]) * 100 / 8, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[1] & weekRepUrg$week < tmp[2]); weekRepUrg$sterm[sel] <- round((tmp[2] - weekRepUrg$week[sel]) * 100 / 8, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[2] & weekRepUrg$week < tmp[3]); weekRepUrg$sterm[sel] <- round((tmp[3] - weekRepUrg$week[sel]) * 100 / 8, digits = 0)
+sel <- which(weekRepUrg$week >= tmp[3] & weekRepUrg$week < tmp[4]); weekRepUrg$sterm[sel] <- round((tmp[4] - weekRepUrg$week[sel]) * 100 / 8, digits = 0)
+#
+# legislature dummies (periodo)
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- year(tmp) + week(tmp)/100
+weekRepUrg$dleg90 <- weekRepUrg$dleg94 <- weekRepUrg$dleg98 <- weekRepUrg$dleg02 <- weekRepUrg$dleg06 <- weekRepUrg$dleg10 <- 0
+sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$dleg90[sel] <- 1
+sel <- which(weekRepUrg$week >= tmp[1] & weekRepUrg$week < tmp[2]); weekRepUrg$dleg94[sel] <- 1
+sel <- which(weekRepUrg$week >= tmp[2] & weekRepUrg$week < tmp[3]); weekRepUrg$dleg98[sel] <- 1
+sel <- which(weekRepUrg$week >= tmp[3] & weekRepUrg$week < tmp[4]); weekRepUrg$dleg02[sel] <- 1
+sel <- which(weekRepUrg$week >= tmp[4] & weekRepUrg$week < tmp[5]); weekRepUrg$dleg06[sel] <- 1
+sel <- which(weekRepUrg$week >= tmp[5] & weekRepUrg$week < tmp[6]); weekRepUrg$dleg10[sel] <- 1
+#
+# plug to data object
+RepDataNegBin$weeklyReportsAndUrgenciasToAllBills <- weekRepUrg
+#
+# keep source to re-manipulate
+RepDataNegBin$weekRepUrg <- weekRepUrg
+#
+summary(RepDataNegBin)
+#
+rm(i, dipRep, j, sel, senRep, skip, tmp, tmp1, tmpRep,weekRepUrg)
+################################################################
+##  COMMITTEE REPORT DATA PREP USED IN REGRESSIONS ENDS HERE  ##
+################################################################
+
+##########################################################################################
+## Regression of Hda Reports to Exec bills on Urgencies to Exec bills ref to Hda  DIP   ##
+##########################################################################################
+library(DataCombine) # easy lags
+library(MASS)        # neg bin reg
+#
+msg <- "Regression of Hda Reports to Exec bills on Urgencies to Exec bills ref to Hda  DIP"
+dat <- RepDataNegBin$weeklyHaciendaReportsAndUrgenciasToMensajesInHaciendaComm
+#
+# re-categorize urgencias
+dat$nNowDip <- dat$nurg1Dip
+dat$n2wkDip <- dat$nurg2Dip
+dat$n4wkDip <- dat$nurg3Dip
+dat$nShortenDip <- dat$nurg41Dip
+dat$nExtendDip <- dat$nurg42Dip + dat$nurg43Dip
+dat$nRetireDip <- dat$nurg51Dip + dat$nurg52Dip + dat$nurg53Dip 
+dat$nNowSen <- dat$nurg1Sen
+dat$n2wkSen <- dat$nurg2Sen
+dat$n4wkSen <- dat$nurg3Sen
+dat$nShortenSen <- dat$nurg41Sen
+dat$nExtendSen <- dat$nurg42Sen + dat$nurg43Sen
+dat$nRetireSen <- dat$nurg51Sen + dat$nurg52Sen + dat$nurg53Sen
+#
+# remove original variables
+dat$nurg1Dip <- dat$nurg2Dip <- dat$nurg2Dip <- NULL
+dat$nurg1Sen <- dat$nurg2Sen <- dat$nurg2Sen <- NULL
+dat$nurg3Dip <- dat$nurg3Sen <- NULL
+dat$nurg41Dip <- dat$nurg42Dip <- dat$nurg43Dip <- dat$nurg51Dip <- dat$nurg52Dip <- dat$nurg53Dip <- NULL
+dat$nurg41Sen <- dat$nurg42Sen <- dat$nurg43Sen <- dat$nurg51Sen <- dat$nurg52Sen <- dat$nurg53Sen <- NULL
+#
+# add post 2010 dummy (when urgencias relaxed)
+dat$d2010on <- 0
+sel <- which(dat$week > (year(dmy("11-07-2010", tz = "chile")) + week(dmy("11-07-2010", tz = "chile"))/100))
+dat$d2010on[sel] <- 1
+#
+#                   #############
+# drop sen or dip   <--- OJO  ###
+#                   #############
+dat <- dat[,-grep("[Ss]en", colnames(dat))]  # drop sen
+#dat <- dat[,-grep("[Dd]ip", colnames(dat))]  # drop dip
+# simpify remaining names
+colnames(dat) <- sub("([Dd]ip|[Ss]en)", "", colnames(dat))
+#
+# drop weeks with no session
+dat <- dat[-which(dat$nses==0),]
+#
+# lags
+dat <- dat[order(dat$week),] # verify sorted before lags
+dat <- slide(dat, Var = "nNow",     slideBy = -1)
+dat <- slide(dat, Var = "n2wk",     slideBy = -1)
+dat <- slide(dat, Var = "n4wk",     slideBy = -1)
+dat <- slide(dat, Var = "nExtend",  slideBy = -1)
+dat <- slide(dat, Var = "nShorten", slideBy = -1)
+dat <- slide(dat, Var = "nRetire",  slideBy = -1)
+dat <- slide(dat, Var = "nNow",     slideBy = -2)
+dat <- slide(dat, Var = "n2wk",     slideBy = -2)
+dat <- slide(dat, Var = "n4wk",     slideBy = -2)
+dat <- slide(dat, Var = "nExtend",  slideBy = -2)
+dat <- slide(dat, Var = "nShorten", slideBy = -2)
+dat <- slide(dat, Var = "nRetire",  slideBy = -2)
+dat <- slide(dat, Var = "nNow",     slideBy = -3)
+dat <- slide(dat, Var = "n2wk",     slideBy = -3)
+dat <- slide(dat, Var = "n4wk",     slideBy = -3)
+dat <- slide(dat, Var = "nExtend",  slideBy = -3)
+dat <- slide(dat, Var = "nShorten", slideBy = -3)
+dat <- slide(dat, Var = "nRetire",  slideBy = -3)
+dat <- slide(dat, Var = "nNow",     slideBy = -4)
+dat <- slide(dat, Var = "n2wk",     slideBy = -4)
+dat <- slide(dat, Var = "n4wk",     slideBy = -4)
+dat <- slide(dat, Var = "nExtend",  slideBy = -4)
+dat <- slide(dat, Var = "nShorten", slideBy = -4)
+dat <- slide(dat, Var = "nRetire",  slideBy = -4)
+# replace "-" in lag names (glm doesnt like it)
+colnames(dat) <- sub(pattern = "-", replacement = "l", colnames(dat))
+#
+#                                                         ################
+# drop weeks before and after these dates in regression   <--- OJO   #####
+#                                                         ################
+sel <- which(dat$week < year(dmy("11-03-2006", tz = "chile")) + week(dmy("11-03-2006", tz = "chile"))/100
+           | dat$week > year(dmy("10-03-2014", tz = "chile")) + week(dmy("10-03-2014", tz = "chile"))/100 )
+dat <- dat[-sel,]
+#dat.bak <- dat
+#dat <- dat.bak
+#
+# ESTE JALA PARA EL EJECUTIVO EN DIP
+fit <- glm.nb(nrepMen ~ nNow      + nNowl1     + nNowl2     
+                                  + n2wkl1     + n2wkl2     + n2wkl3   
+                                               + n4wkl2     + n4wkl3   + n4wkl4   
+                      + nShorten  + nShortenl1 + nShortenl2 
+#                                               + nExtendl2  + nExtendl3 + nExtendl4 
+#                                  + nRetirel1  + nRetirel2  + nRetirel3 
+#                      + dmaj
+                      + dterm
+                      + dleg10
+                        , data=dat)
+#
+#summary.glm(fit)$coefficients
+#summary.glm(fit)
+message(msg); rm(msg)
+data.frame( coef=ifelse(coef(fit) > 0 & summary.glm(fit)$coefficients[,4]>=.10  & summary.glm(fit)$coefficients[,4]<.20, "+ ",
+                 ifelse(coef(fit) > 0 &                                           summary.glm(fit)$coefficients[,4]<.10, "++",
+                 ifelse(coef(fit) < 0 & summary.glm(fit)$coefficients[,4]>=.10  & summary.glm(fit)$coefficients[,4]<.20, "- ",
+                 ifelse(coef(fit) < 0 &                                           summary.glm(fit)$coefficients[,4]<.10, "--",
+            ". ")))) )
+#
+# SPACE HERE TO RERUN NEGBIN
+#
+############################################################################################
+## Regression of All Reports to Exec bills on Urgencies to Exec bills ref anywhere  DIP   ##
+############################################################################################
+msg <- "Regression of All Reports to Exec bills on Urgencies to Exec bills ref anywhere  DIP"
+dat <- RepDataNegBin$weeklyReportsAndUrgenciasToMensajes
+#
+# re-categorize urgencias
+dat$nNowDip <- dat$nurg1Dip
+dat$n2wkDip <- dat$nurg2Dip
+dat$n4wkDip <- dat$nurg3Dip
+dat$nShortenDip <- dat$nurg41Dip
+dat$nExtendDip <- dat$nurg42Dip + dat$nurg43Dip
+dat$nRetireDip <- dat$nurg51Dip + dat$nurg52Dip + dat$nurg53Dip 
+dat$nNowSen <- dat$nurg1Sen
+dat$n2wkSen <- dat$nurg2Sen
+dat$n4wkSen <- dat$nurg3Sen
+dat$nShortenSen <- dat$nurg41Sen
+dat$nExtendSen <- dat$nurg42Sen + dat$nurg43Sen
+dat$nRetireSen <- dat$nurg51Sen + dat$nurg52Sen + dat$nurg53Sen
+#
+# remove original variables
+dat$nurg1Dip <- dat$nurg2Dip <- dat$nurg2Dip <- NULL
+dat$nurg1Sen <- dat$nurg2Sen <- dat$nurg2Sen <- NULL
+dat$nurg3Dip <- dat$nurg3Sen <- NULL
+dat$nurg41Dip <- dat$nurg42Dip <- dat$nurg43Dip <- dat$nurg51Dip <- dat$nurg52Dip <- dat$nurg53Dip <- NULL
+dat$nurg41Sen <- dat$nurg42Sen <- dat$nurg43Sen <- dat$nurg51Sen <- dat$nurg52Sen <- dat$nurg53Sen <- NULL
+#
+# add post 2010 dummy (when urgencias relaxed)
+dat$d2010on <- 0
+sel <- which(dat$week > (year(dmy("11-07-2010", tz = "chile")) + week(dmy("11-07-2010", tz = "chile"))/100))
+dat$d2010on[sel] <- 1
+#
+#                   #############
+# drop sen or dip   <--- OJO  ###
+#                   #############
+dat <- dat[,-grep("[Ss]en", colnames(dat))]  # drop sen
+#dat <- dat[,-grep("[Dd]ip", colnames(dat))]  # drop dip
+# simpify remaining names
+colnames(dat) <- sub("([Dd]ip|[Ss]en)", "", colnames(dat))
+#
+# drop weeks with no session
+dat <- dat[-which(dat$nses==0),]
+#
+# lags
+dat <- dat[order(dat$week),] # verify sorted before lags
+dat <- slide(dat, Var = "nNow",     slideBy = -1)
+dat <- slide(dat, Var = "n2wk",     slideBy = -1)
+dat <- slide(dat, Var = "n4wk",     slideBy = -1)
+dat <- slide(dat, Var = "nExtend",  slideBy = -1)
+dat <- slide(dat, Var = "nShorten", slideBy = -1)
+dat <- slide(dat, Var = "nRetire",  slideBy = -1)
+dat <- slide(dat, Var = "nNow",     slideBy = -2)
+dat <- slide(dat, Var = "n2wk",     slideBy = -2)
+dat <- slide(dat, Var = "n4wk",     slideBy = -2)
+dat <- slide(dat, Var = "nExtend",  slideBy = -2)
+dat <- slide(dat, Var = "nShorten", slideBy = -2)
+dat <- slide(dat, Var = "nRetire",  slideBy = -2)
+dat <- slide(dat, Var = "nNow",     slideBy = -3)
+dat <- slide(dat, Var = "n2wk",     slideBy = -3)
+dat <- slide(dat, Var = "n4wk",     slideBy = -3)
+dat <- slide(dat, Var = "nExtend",  slideBy = -3)
+dat <- slide(dat, Var = "nShorten", slideBy = -3)
+dat <- slide(dat, Var = "nRetire",  slideBy = -3)
+dat <- slide(dat, Var = "nNow",     slideBy = -4)
+dat <- slide(dat, Var = "n2wk",     slideBy = -4)
+dat <- slide(dat, Var = "n4wk",     slideBy = -4)
+dat <- slide(dat, Var = "nExtend",  slideBy = -4)
+dat <- slide(dat, Var = "nShorten", slideBy = -4)
+dat <- slide(dat, Var = "nRetire",  slideBy = -4)
+# replace "-" in lag names (glm doesnt like it)
+colnames(dat) <- sub(pattern = "-", replacement = "l", colnames(dat))
+#
+#                                                         ################
+# drop weeks before and after these dates in regression   <--- OJO   #####
+#                                                         ################
+sel <- which(dat$week < year(dmy("11-03-2006", tz = "chile")) + week(dmy("11-03-2006", tz = "chile"))/100
+           | dat$week > year(dmy("10-03-2014", tz = "chile")) + week(dmy("10-03-2014", tz = "chile"))/100 )
+dat <- dat[-sel,]
+#dat.bak <- dat
+#dat <- dat.bak
+#
+# ESTE JALA PARA EL EJECUTIVO EN DIP
+fit <- glm.nb(nrepMen ~ nNow      + nNowl1     + nNowl2     
+                                  + n2wkl1     + n2wkl2     + n2wkl3   
+                                               + n4wkl2     + n4wkl3   + n4wkl4   
+                      + nShorten  + nShortenl1 + nShortenl2 
+#                                               + nExtendl2  + nExtendl3 + nExtendl4 
+#                                  + nRetirel1  + nRetirel2  + nRetirel3 
+#                      + dmaj
+                      + dterm
+                      + dleg10
+                        , data=dat)
+#
+#summary.glm(fit)$coefficients
+#summary.glm(fit)
+message(msg); rm(msg)
+data.frame( coef=ifelse(coef(fit) > 0 & summary.glm(fit)$coefficients[,4]>=.10  & summary.glm(fit)$coefficients[,4]<.20, "+ ",
+                 ifelse(coef(fit) > 0 &                                           summary.glm(fit)$coefficients[,4]<.10, "++",
+                 ifelse(coef(fit) < 0 & summary.glm(fit)$coefficients[,4]>=.10  & summary.glm(fit)$coefficients[,4]<.20, "- ",
+                 ifelse(coef(fit) < 0 &                                           summary.glm(fit)$coefficients[,4]<.10, "--",
+            ". ")))) )
+#
+# SPACE HERE TO RERUN NEGBIN
+#
+#########################################################################################
+## Regression of Hda Reports to Leg bills on Urgencies to Exec bills ref to Hda  DIP   ##
+#########################################################################################
+msg <- "Regression of Hda Reports to Leg bills on Urgencies to Exec bills ref to Hda  DIP"
+dat <- RepDataNegBin$weeklyHaciendaReportsAndUrgenciasToMensajesInHaciendaComm
+#
+# re-categorize urgencias
+dat$nNowDip <- dat$nurg1Dip
+dat$n2wkDip <- dat$nurg2Dip
+dat$n4wkDip <- dat$nurg3Dip
+dat$nShortenDip <- dat$nurg41Dip
+dat$nExtendDip <- dat$nurg42Dip + dat$nurg43Dip
+dat$nRetireDip <- dat$nurg51Dip + dat$nurg52Dip + dat$nurg53Dip 
+dat$nNowSen <- dat$nurg1Sen
+dat$n2wkSen <- dat$nurg2Sen
+dat$n4wkSen <- dat$nurg3Sen
+dat$nShortenSen <- dat$nurg41Sen
+dat$nExtendSen <- dat$nurg42Sen + dat$nurg43Sen
+dat$nRetireSen <- dat$nurg51Sen + dat$nurg52Sen + dat$nurg53Sen
+#
+# remove original variables
+dat$nurg1Dip <- dat$nurg2Dip <- dat$nurg2Dip <- NULL
+dat$nurg1Sen <- dat$nurg2Sen <- dat$nurg2Sen <- NULL
+dat$nurg3Dip <- dat$nurg3Sen <- NULL
+dat$nurg41Dip <- dat$nurg42Dip <- dat$nurg43Dip <- dat$nurg51Dip <- dat$nurg52Dip <- dat$nurg53Dip <- NULL
+dat$nurg41Sen <- dat$nurg42Sen <- dat$nurg43Sen <- dat$nurg51Sen <- dat$nurg52Sen <- dat$nurg53Sen <- NULL
+#
+# add post 2010 dummy (when urgencias relaxed)
+dat$d2010on <- 0
+sel <- which(dat$week > (year(dmy("11-07-2010", tz = "chile")) + week(dmy("11-07-2010", tz = "chile"))/100))
+dat$d2010on[sel] <- 1
+#
+#                   #############
+# drop sen or dip   <--- OJO  ###
+#                   #############
+dat <- dat[,-grep("[Ss]en", colnames(dat))]  # drop sen
+#dat <- dat[,-grep("[Dd]ip", colnames(dat))]  # drop dip
+# simpify remaining names
+colnames(dat) <- sub("([Dd]ip|[Ss]en)", "", colnames(dat))
+#
+# drop weeks with no session
+dat <- dat[-which(dat$nses==0),]
+#
+# lags
+dat <- dat[order(dat$week),] # verify sorted before lags
+dat <- slide(dat, Var = "nNow",     slideBy = -1)
+dat <- slide(dat, Var = "n2wk",     slideBy = -1)
+dat <- slide(dat, Var = "n4wk",     slideBy = -1)
+dat <- slide(dat, Var = "nExtend",  slideBy = -1)
+dat <- slide(dat, Var = "nShorten", slideBy = -1)
+dat <- slide(dat, Var = "nRetire",  slideBy = -1)
+dat <- slide(dat, Var = "nNow",     slideBy = -2)
+dat <- slide(dat, Var = "n2wk",     slideBy = -2)
+dat <- slide(dat, Var = "n4wk",     slideBy = -2)
+dat <- slide(dat, Var = "nExtend",  slideBy = -2)
+dat <- slide(dat, Var = "nShorten", slideBy = -2)
+dat <- slide(dat, Var = "nRetire",  slideBy = -2)
+dat <- slide(dat, Var = "nNow",     slideBy = -3)
+dat <- slide(dat, Var = "n2wk",     slideBy = -3)
+dat <- slide(dat, Var = "n4wk",     slideBy = -3)
+dat <- slide(dat, Var = "nExtend",  slideBy = -3)
+dat <- slide(dat, Var = "nShorten", slideBy = -3)
+dat <- slide(dat, Var = "nRetire",  slideBy = -3)
+dat <- slide(dat, Var = "nNow",     slideBy = -4)
+dat <- slide(dat, Var = "n2wk",     slideBy = -4)
+dat <- slide(dat, Var = "n4wk",     slideBy = -4)
+dat <- slide(dat, Var = "nExtend",  slideBy = -4)
+dat <- slide(dat, Var = "nShorten", slideBy = -4)
+dat <- slide(dat, Var = "nRetire",  slideBy = -4)
+# replace "-" in lag names (glm doesnt like it)
+colnames(dat) <- sub(pattern = "-", replacement = "l", colnames(dat))
+#
+#                                                         ################
+# drop weeks before and after these dates in regression   <--- OJO   #####
+#                                                         ################
+sel <- which(dat$week < year(dmy("11-03-2006", tz = "chile")) + week(dmy("11-03-2006", tz = "chile"))/100
+           | dat$week > year(dmy("10-03-2014", tz = "chile")) + week(dmy("10-03-2014", tz = "chile"))/100 )
+dat <- dat[-sel,]
+#dat.bak <- dat
+#dat <- dat.bak
+#
+# ESTE JALA??
+fit <- glm.nb(nrepMoc ~ nNow      + nNowl1     #+ nNowl2     
+                      + n2wk      + n2wkl1     + n2wkl2     #+ n2wkl3   
+#                      + n4wkl1   
+                                  + nShortenl1 #+ nShortenl2 
+#                                               + nExtendl2  + nExtendl3 + nExtendl4 
+#                                  + nRetirel1  + nRetirel2  + nRetirel3 
+#                      + dmaj
+                      + dterm
+                      + dleg10
+                        , data=dat)
+#
+#summary.glm(fit)$coefficients
+#summary.glm(fit)
+message(msg); rm(msg)
+data.frame( coef=ifelse(coef(fit) > 0 & summary.glm(fit)$coefficients[,4]>=.10  & summary.glm(fit)$coefficients[,4]<.20, "+ ",
+                 ifelse(coef(fit) > 0 &                                           summary.glm(fit)$coefficients[,4]<.10, "++",
+                 ifelse(coef(fit) < 0 & summary.glm(fit)$coefficients[,4]>=.10  & summary.glm(fit)$coefficients[,4]<.20, "- ",
+                 ifelse(coef(fit) < 0 &                                           summary.glm(fit)$coefficients[,4]<.10, "--",
+            ". ")))) )
+#
+# SPACE HERE TO RERUN NEGBIN
+#
+###########################################################################################
+## Regression of All Reports to Leg bills on Urgencies to Exec bills ref anywhere  DIP   ##
+###########################################################################################
+msg <- "Regression of All Reports to Leg bills on Urgencies to Exec bills ref anywhere  DIP"
+dat <- RepDataNegBin$weeklyReportsAndUrgenciasToMensajes
+#
+# re-categorize urgencias
+dat$nNowDip <- dat$nurg1Dip
+dat$n2wkDip <- dat$nurg2Dip
+dat$n4wkDip <- dat$nurg3Dip
+dat$nShortenDip <- dat$nurg41Dip
+dat$nExtendDip <- dat$nurg42Dip + dat$nurg43Dip
+dat$nRetireDip <- dat$nurg51Dip + dat$nurg52Dip + dat$nurg53Dip 
+dat$nNowSen <- dat$nurg1Sen
+dat$n2wkSen <- dat$nurg2Sen
+dat$n4wkSen <- dat$nurg3Sen
+dat$nShortenSen <- dat$nurg41Sen
+dat$nExtendSen <- dat$nurg42Sen + dat$nurg43Sen
+dat$nRetireSen <- dat$nurg51Sen + dat$nurg52Sen + dat$nurg53Sen
+#
+# remove original variables
+dat$nurg1Dip <- dat$nurg2Dip <- dat$nurg2Dip <- NULL
+dat$nurg1Sen <- dat$nurg2Sen <- dat$nurg2Sen <- NULL
+dat$nurg3Dip <- dat$nurg3Sen <- NULL
+dat$nurg41Dip <- dat$nurg42Dip <- dat$nurg43Dip <- dat$nurg51Dip <- dat$nurg52Dip <- dat$nurg53Dip <- NULL
+dat$nurg41Sen <- dat$nurg42Sen <- dat$nurg43Sen <- dat$nurg51Sen <- dat$nurg52Sen <- dat$nurg53Sen <- NULL
+#
+# add post 2010 dummy (when urgencias relaxed)
+dat$d2010on <- 0
+sel <- which(dat$week > (year(dmy("11-07-2010", tz = "chile")) + week(dmy("11-07-2010", tz = "chile"))/100))
+dat$d2010on[sel] <- 1
+#
+#                   #############
+# drop sen or dip   <--- OJO  ###
+#                   #############
+dat <- dat[,-grep("[Ss]en", colnames(dat))]  # drop sen
+#dat <- dat[,-grep("[Dd]ip", colnames(dat))]  # drop dip
+# simpify remaining names
+colnames(dat) <- sub("([Dd]ip|[Ss]en)", "", colnames(dat))
+#
+# drop weeks with no session
+dat <- dat[-which(dat$nses==0),]
+#
+# lags
+dat <- dat[order(dat$week),] # verify sorted before lags
+dat <- slide(dat, Var = "nNow",     slideBy = -1)
+dat <- slide(dat, Var = "n2wk",     slideBy = -1)
+dat <- slide(dat, Var = "n4wk",     slideBy = -1)
+dat <- slide(dat, Var = "nExtend",  slideBy = -1)
+dat <- slide(dat, Var = "nShorten", slideBy = -1)
+dat <- slide(dat, Var = "nRetire",  slideBy = -1)
+dat <- slide(dat, Var = "nNow",     slideBy = -2)
+dat <- slide(dat, Var = "n2wk",     slideBy = -2)
+dat <- slide(dat, Var = "n4wk",     slideBy = -2)
+dat <- slide(dat, Var = "nExtend",  slideBy = -2)
+dat <- slide(dat, Var = "nShorten", slideBy = -2)
+dat <- slide(dat, Var = "nRetire",  slideBy = -2)
+dat <- slide(dat, Var = "nNow",     slideBy = -3)
+dat <- slide(dat, Var = "n2wk",     slideBy = -3)
+dat <- slide(dat, Var = "n4wk",     slideBy = -3)
+dat <- slide(dat, Var = "nExtend",  slideBy = -3)
+dat <- slide(dat, Var = "nShorten", slideBy = -3)
+dat <- slide(dat, Var = "nRetire",  slideBy = -3)
+dat <- slide(dat, Var = "nNow",     slideBy = -4)
+dat <- slide(dat, Var = "n2wk",     slideBy = -4)
+dat <- slide(dat, Var = "n4wk",     slideBy = -4)
+dat <- slide(dat, Var = "nExtend",  slideBy = -4)
+dat <- slide(dat, Var = "nShorten", slideBy = -4)
+dat <- slide(dat, Var = "nRetire",  slideBy = -4)
+# replace "-" in lag names (glm doesnt like it)
+colnames(dat) <- sub(pattern = "-", replacement = "l", colnames(dat))
+#
+#                                                         ################
+# drop weeks before and after these dates in regression   <--- OJO   #####
+#                                                         ################
+sel <- which(dat$week < year(dmy("11-03-2006", tz = "chile")) + week(dmy("11-03-2006", tz = "chile"))/100
+           | dat$week > year(dmy("10-03-2014", tz = "chile")) + week(dmy("10-03-2014", tz = "chile"))/100 )
+dat <- dat[-sel,]
+#dat.bak <- dat
+#dat <- dat.bak
+#
+# ESTE JALA
+fit <- glm.nb(nrepMoc ~ nNow      + nNowl1                  
+                      + n2wk      + n2wkl1     + n2wkl2     + n2wkl3   + n2wkl4
+                                  + n4wkl1     + n4wkl2     + n4wkl3   + n4wkl4   
+                      + nShorten  + nShortenl1 + nShortenl2 
+#                                               + nExtendl2  + nExtendl3 + nExtendl4 
+#                                  + nRetirel1  + nRetirel2  + nRetirel3 
+#                      + dmaj
+                      + dterm
+                      + dleg10
+                        , data=dat)
+#
+#summary.glm(fit)$coefficients
+#summary.glm(fit)
+message(msg); rm(msg)
+data.frame( coef=ifelse(coef(fit) > 0 & summary.glm(fit)$coefficients[,4]>=.10  & summary.glm(fit)$coefficients[,4]<.20, "+ ",
+                 ifelse(coef(fit) > 0 &                                           summary.glm(fit)$coefficients[,4]<.10, "++",
+                 ifelse(coef(fit) < 0 & summary.glm(fit)$coefficients[,4]>=.10  & summary.glm(fit)$coefficients[,4]<.20, "- ",
+                 ifelse(coef(fit) < 0 &                                           summary.glm(fit)$coefficients[,4]<.10, "--",
+            ". ")))) )
+#
+# SPACE HERE TO RERUN NEGBIN
+#
+##########################################################################################
+## Regression of Hda Reports to Leg bills on Urgencies to Leg bills ref Hda Comm  DIP   ##
+##########################################################################################
+msg <- "Regression of Hda Reports to Leg bills on Urgencies to Leg bills ref Hda Comm  DIP"
+dat <- RepDataNegBin$weeklyHaciendaReportsAndUrgenciasToMocionesInHaciendaComm
+#
+# re-categorize urgencias
+dat$nNowDip <- dat$nurg1Dip
+dat$n2wkDip <- dat$nurg2Dip
+dat$n4wkDip <- dat$nurg3Dip
+dat$nShortenDip <- dat$nurg41Dip
+dat$nExtendDip <- dat$nurg42Dip + dat$nurg43Dip
+dat$nRetireDip <- dat$nurg51Dip + dat$nurg52Dip + dat$nurg53Dip 
+dat$nNowSen <- dat$nurg1Sen
+dat$n2wkSen <- dat$nurg2Sen
+dat$n4wkSen <- dat$nurg3Sen
+dat$nShortenSen <- dat$nurg41Sen
+dat$nExtendSen <- dat$nurg42Sen + dat$nurg43Sen
+dat$nRetireSen <- dat$nurg51Sen + dat$nurg52Sen + dat$nurg53Sen
+#
+# remove original variables
+dat$nurg1Dip <- dat$nurg2Dip <- dat$nurg2Dip <- NULL
+dat$nurg1Sen <- dat$nurg2Sen <- dat$nurg2Sen <- NULL
+dat$nurg3Dip <- dat$nurg3Sen <- NULL
+dat$nurg41Dip <- dat$nurg42Dip <- dat$nurg43Dip <- dat$nurg51Dip <- dat$nurg52Dip <- dat$nurg53Dip <- NULL
+dat$nurg41Sen <- dat$nurg42Sen <- dat$nurg43Sen <- dat$nurg51Sen <- dat$nurg52Sen <- dat$nurg53Sen <- NULL
+#
+# add post 2010 dummy (when urgencias relaxed)
+dat$d2010on <- 0
+sel <- which(dat$week > (year(dmy("11-07-2010", tz = "chile")) + week(dmy("11-07-2010", tz = "chile"))/100))
+dat$d2010on[sel] <- 1
+#
+#                   #############
+# drop sen or dip   <--- OJO  ###
+#                   #############
+dat <- dat[,-grep("[Ss]en", colnames(dat))]  # drop sen
+#dat <- dat[,-grep("[Dd]ip", colnames(dat))]  # drop dip
+# simpify remaining names
+colnames(dat) <- sub("([Dd]ip|[Ss]en)", "", colnames(dat))
+#
+# drop weeks with no session
+dat <- dat[-which(dat$nses==0),]
+#
+# lags
+dat <- dat[order(dat$week),] # verify sorted before lags
+dat <- slide(dat, Var = "nNow",     slideBy = -1)
+dat <- slide(dat, Var = "n2wk",     slideBy = -1)
+dat <- slide(dat, Var = "n4wk",     slideBy = -1)
+dat <- slide(dat, Var = "nExtend",  slideBy = -1)
+dat <- slide(dat, Var = "nShorten", slideBy = -1)
+dat <- slide(dat, Var = "nRetire",  slideBy = -1)
+dat <- slide(dat, Var = "nNow",     slideBy = -2)
+dat <- slide(dat, Var = "n2wk",     slideBy = -2)
+dat <- slide(dat, Var = "n4wk",     slideBy = -2)
+dat <- slide(dat, Var = "nExtend",  slideBy = -2)
+dat <- slide(dat, Var = "nShorten", slideBy = -2)
+dat <- slide(dat, Var = "nRetire",  slideBy = -2)
+dat <- slide(dat, Var = "nNow",     slideBy = -3)
+dat <- slide(dat, Var = "n2wk",     slideBy = -3)
+dat <- slide(dat, Var = "n4wk",     slideBy = -3)
+dat <- slide(dat, Var = "nExtend",  slideBy = -3)
+dat <- slide(dat, Var = "nShorten", slideBy = -3)
+dat <- slide(dat, Var = "nRetire",  slideBy = -3)
+dat <- slide(dat, Var = "nNow",     slideBy = -4)
+dat <- slide(dat, Var = "n2wk",     slideBy = -4)
+dat <- slide(dat, Var = "n4wk",     slideBy = -4)
+dat <- slide(dat, Var = "nExtend",  slideBy = -4)
+dat <- slide(dat, Var = "nShorten", slideBy = -4)
+dat <- slide(dat, Var = "nRetire",  slideBy = -4)
+# replace "-" in lag names (glm doesnt like it)
+colnames(dat) <- sub(pattern = "-", replacement = "l", colnames(dat))
+#
+#                                                         ################
+# drop weeks before and after these dates in regression   <--- OJO   #####
+#                                                         ################
+sel <- which(dat$week < year(dmy("11-03-2006", tz = "chile")) + week(dmy("11-03-2006", tz = "chile"))/100
+           | dat$week > year(dmy("10-03-2014", tz = "chile")) + week(dmy("10-03-2014", tz = "chile"))/100 )
+dat <- dat[-sel,]
+#dat.bak <- dat
+#dat <- dat.bak
+#
+# ESTE JALA
+fit <- glm.nb(nrepMoc ~ nNow      + nNowl1                  
+                                  + n2wkl1     + n2wkl2     + n2wkl3
+                                               + n4wkl2     + n4wkl3   + n4wkl4   
+#                      + nShorten  + nShortenl1 + nShortenl2 
+#                                               + nExtendl2  + nExtendl3 + nExtendl4 
+#                                  + nRetirel1  + nRetirel2  + nRetirel3 
+#                      + dmaj
+                      + dterm
+                      + dleg10
+                        , data=dat)
+#
+summary.glm(fit)$coefficients
+#summary.glm(fit)
+message(msg); rm(msg)
+data.frame( coef=ifelse(coef(fit) > 0 & summary.glm(fit)$coefficients[,4]>=.10  & summary.glm(fit)$coefficients[,4]<.20, "+ ",
+                 ifelse(coef(fit) > 0 &                                           summary.glm(fit)$coefficients[,4]<.10, "++",
+                 ifelse(coef(fit) < 0 & summary.glm(fit)$coefficients[,4]>=.10  & summary.glm(fit)$coefficients[,4]<.20, "- ",
+                 ifelse(coef(fit) < 0 &                                           summary.glm(fit)$coefficients[,4]<.10, "--",
+            ". ")))) )
+#
+# SPACE HERE TO RERUN NEGBIN
+#
+##########################################################################################
+## Regression of Hda Reports to Ex bills on Urgencies to Leg bills ref Hda Comm  DIP   ##
+##########################################################################################
+msg <- "Regression of Hda Reports to Ex bills on Urgencies to Leg bills ref Hda Comm  DIP"
+dat <- RepDataNegBin$weeklyHaciendaReportsAndUrgenciasToMocionesInHaciendaComm
+#
+# re-categorize urgencias
+dat$nNowDip <- dat$nurg1Dip
+dat$n2wkDip <- dat$nurg2Dip
+dat$n4wkDip <- dat$nurg3Dip
+dat$nShortenDip <- dat$nurg41Dip
+dat$nExtendDip <- dat$nurg42Dip + dat$nurg43Dip
+dat$nRetireDip <- dat$nurg51Dip + dat$nurg52Dip + dat$nurg53Dip 
+dat$nNowSen <- dat$nurg1Sen
+dat$n2wkSen <- dat$nurg2Sen
+dat$n4wkSen <- dat$nurg3Sen
+dat$nShortenSen <- dat$nurg41Sen
+dat$nExtendSen <- dat$nurg42Sen + dat$nurg43Sen
+dat$nRetireSen <- dat$nurg51Sen + dat$nurg52Sen + dat$nurg53Sen
+#
+# remove original variables
+dat$nurg1Dip <- dat$nurg2Dip <- dat$nurg2Dip <- NULL
+dat$nurg1Sen <- dat$nurg2Sen <- dat$nurg2Sen <- NULL
+dat$nurg3Dip <- dat$nurg3Sen <- NULL
+dat$nurg41Dip <- dat$nurg42Dip <- dat$nurg43Dip <- dat$nurg51Dip <- dat$nurg52Dip <- dat$nurg53Dip <- NULL
+dat$nurg41Sen <- dat$nurg42Sen <- dat$nurg43Sen <- dat$nurg51Sen <- dat$nurg52Sen <- dat$nurg53Sen <- NULL
+#
+# add post 2010 dummy (when urgencias relaxed)
+dat$d2010on <- 0
+sel <- which(dat$week > (year(dmy("11-07-2010", tz = "chile")) + week(dmy("11-07-2010", tz = "chile"))/100))
+dat$d2010on[sel] <- 1
+#
+#                   #############
+# drop sen or dip   <--- OJO  ###
+#                   #############
+dat <- dat[,-grep("[Ss]en", colnames(dat))]  # drop sen
+#dat <- dat[,-grep("[Dd]ip", colnames(dat))]  # drop dip
+# simpify remaining names
+colnames(dat) <- sub("([Dd]ip|[Ss]en)", "", colnames(dat))
+#
+# drop weeks with no session
+dat <- dat[-which(dat$nses==0),]
+#
+# lags
+dat <- dat[order(dat$week),] # verify sorted before lags
+dat <- slide(dat, Var = "nNow",     slideBy = -1)
+dat <- slide(dat, Var = "n2wk",     slideBy = -1)
+dat <- slide(dat, Var = "n4wk",     slideBy = -1)
+dat <- slide(dat, Var = "nExtend",  slideBy = -1)
+dat <- slide(dat, Var = "nShorten", slideBy = -1)
+dat <- slide(dat, Var = "nRetire",  slideBy = -1)
+dat <- slide(dat, Var = "nNow",     slideBy = -2)
+dat <- slide(dat, Var = "n2wk",     slideBy = -2)
+dat <- slide(dat, Var = "n4wk",     slideBy = -2)
+dat <- slide(dat, Var = "nExtend",  slideBy = -2)
+dat <- slide(dat, Var = "nShorten", slideBy = -2)
+dat <- slide(dat, Var = "nRetire",  slideBy = -2)
+dat <- slide(dat, Var = "nNow",     slideBy = -3)
+dat <- slide(dat, Var = "n2wk",     slideBy = -3)
+dat <- slide(dat, Var = "n4wk",     slideBy = -3)
+dat <- slide(dat, Var = "nExtend",  slideBy = -3)
+dat <- slide(dat, Var = "nShorten", slideBy = -3)
+dat <- slide(dat, Var = "nRetire",  slideBy = -3)
+dat <- slide(dat, Var = "nNow",     slideBy = -4)
+dat <- slide(dat, Var = "n2wk",     slideBy = -4)
+dat <- slide(dat, Var = "n4wk",     slideBy = -4)
+dat <- slide(dat, Var = "nExtend",  slideBy = -4)
+dat <- slide(dat, Var = "nShorten", slideBy = -4)
+dat <- slide(dat, Var = "nRetire",  slideBy = -4)
+# replace "-" in lag names (glm doesnt like it)
+colnames(dat) <- sub(pattern = "-", replacement = "l", colnames(dat))
+#
+#                                                         ################
+# drop weeks before and after these dates in regression   <--- OJO   #####
+#                                                         ################
+sel <- which(dat$week < year(dmy("11-03-2006", tz = "chile")) + week(dmy("11-03-2006", tz = "chile"))/100
+           | dat$week > year(dmy("10-03-2014", tz = "chile")) + week(dmy("10-03-2014", tz = "chile"))/100 )
+dat <- dat[-sel,]
+#dat.bak <- dat
+#dat <- dat.bak
+#
+# ESTE JALA
+fit <- glm.nb(nrepMoc ~ nNow      + nNowl1                  
+                                  + n2wkl1     + n2wkl2     + n2wkl3
+                                               + n4wkl2     + n4wkl3   + n4wkl4   
+#                      + nShorten  + nShortenl1 + nShortenl2 
+#                                               + nExtendl2  + nExtendl3 + nExtendl4 
+#                                  + nRetirel1  + nRetirel2  + nRetirel3 
+#                      + dmaj
+                      + dterm
+                      + dleg10
+                        , data=dat)
+#
+#summary.glm(fit)$coefficients
+#summary.glm(fit)
+message(msg); rm(msg)
+data.frame( coef=ifelse(coef(fit) > 0 & summary.glm(fit)$coefficients[,4]>=.10  & summary.glm(fit)$coefficients[,4]<.20, "+ ",
+                 ifelse(coef(fit) > 0 &                                           summary.glm(fit)$coefficients[,4]<.10, "++",
+                 ifelse(coef(fit) < 0 & summary.glm(fit)$coefficients[,4]>=.10  & summary.glm(fit)$coefficients[,4]<.20, "- ",
+                 ifelse(coef(fit) < 0 &                                           summary.glm(fit)$coefficients[,4]<.10, "--",
+            ". ")))) )
+#
+# SPACE HERE TO RERUN NEGBIN
+#
+## GRAFICA MATRIZ DE CORRELACIONES: COOL!
+#tmp <- cor(dat[,-grep("Extend|Shorten|Retire|d2010|nses", colnames(dat))])
+tmp <- cor(dat[,-grep("d2010|dleg|nses|dmaj", colnames(dat))])
+library('corrplot')   # plots correlation matrix!
+corrplot(tmp, method = "circle") #plot matrix
+#
+rm(dat, fit, msg, sel)
+
 
 # drop bills initiated before 1/3/1998
 library(lubridate)
@@ -2301,30 +4443,30 @@ I <- nrow(bills$info) # update tot obs
 
 # ADD POLICY DOMAIN (CODED FROM BOLETIN)
 bills$info$ndom <- as.numeric(sub(pattern = "[0-9]+-([0-9]+)", replacement = "\\1", bills$info$bol))
-bills$info$dom[bills$info$ndom==1] <- "agricultura"
-bills$info$dom[bills$info$ndom==2] <- "defensa"
-bills$info$dom[bills$info$ndom==3] <- "economía"
-bills$info$dom[bills$info$ndom==4] <- "educación"
-bills$info$dom[bills$info$ndom==5] <- "hacienda"
-bills$info$dom[bills$info$ndom==6] <- "elecciones"
-bills$info$dom[bills$info$ndom==7] <- "constitución"
-bills$info$dom[bills$info$ndom==8] <- "minería"
-bills$info$dom[bills$info$ndom==9] <- "obras púb"
-bills$info$dom[bills$info$ndom==10] <- "rree"
-bills$info$dom[bills$info$ndom==11] <- "salud"
-bills$info$dom[bills$info$ndom==12] <- "medio ambiente"
-bills$info$dom[bills$info$ndom==13] <- "trabajo"
-bills$info$dom[bills$info$ndom==14] <- "vivienda"
-bills$info$dom[bills$info$ndom==15] <- "telecom"
-bills$info$dom[bills$info$ndom==16] <- "corg"
-bills$info$dom[bills$info$ndom==17] <- "ddhh"
-bills$info$dom[bills$info$ndom==18] <- "familia"
-bills$info$dom[bills$info$ndom==19] <- "ciencia internet"
-bills$info$dom[bills$info$ndom==20] <- "narco"
-bills$info$dom[bills$info$ndom==21] <- "pesca"
-bills$info$dom[bills$info$ndom==24] <- "monumentos"
-bills$info$dom[bills$info$ndom==25] <- "narco"
-bills$info$dom[bills$info$ndom==29] <- "deporte"
+bills$info$dom[bills$info$ndom==1] <- "01-agricultura"
+bills$info$dom[bills$info$ndom==2] <- "02-defensa"
+bills$info$dom[bills$info$ndom==3] <- "03-economía"
+bills$info$dom[bills$info$ndom==4] <- "04-educación"
+bills$info$dom[bills$info$ndom==5] <- "05-hacienda"
+bills$info$dom[bills$info$ndom==6] <- "06-elecciones"
+bills$info$dom[bills$info$ndom==7] <- "07-constitución"
+bills$info$dom[bills$info$ndom==8] <- "08-minería"
+bills$info$dom[bills$info$ndom==9] <- "09-obras púb"
+bills$info$dom[bills$info$ndom==10] <- "10-rree"
+bills$info$dom[bills$info$ndom==11] <- "11-salud"
+bills$info$dom[bills$info$ndom==12] <- "12-medio ambiente"
+bills$info$dom[bills$info$ndom==13] <- "13-trabajo"
+bills$info$dom[bills$info$ndom==14] <- "14-vivienda"
+bills$info$dom[bills$info$ndom==15] <- "15-telecom"
+bills$info$dom[bills$info$ndom==16] <- "16-corg"
+bills$info$dom[bills$info$ndom==17] <- "17-ddhh"
+bills$info$dom[bills$info$ndom==18] <- "18-familia"
+bills$info$dom[bills$info$ndom==19] <- "19-ciencia internet"
+bills$info$dom[bills$info$ndom==20] <- "20-narco"
+bills$info$dom[bills$info$ndom==21] <- "21-pesca"
+bills$info$dom[bills$info$ndom==24] <- "24-monumentos"
+bills$info$dom[bills$info$ndom==25] <- "25-narco"
+bills$info$dom[bills$info$ndom==29] <- "29-deporte"
 # MERGE THESE INTO NARROW INTEREST
 ## bills$info$dom[bills$info$ndom==22] <- "bomberos"
 ## bills$info$dom[bills$info$ndom==23] <- "turismo"
@@ -2349,16 +4491,6 @@ table(bills$info$dom)
 #
 # drop ndom (handy if selecting domains)
 bills$info$ndom <- NULL
-
-# Referred to Hacienda Committee (ie., needs appropriation)
-bills$info$drefHda <- 0
-for (i in 1:I){
-    tmp <- bills$hitos[[i]]$action[grep(".*[Pp]asa a [Cc]omisi[óo]n.*", bills$hitos[[i]]$action)]
-    if (length(grep("[Hh]acienda", tmp))>0) bills$info$drefHda[i] <- 1
-}
-table(bills$info$drefHda)
-
-# NEED INDICATORS OF VOTING QUORUM!!
 
 # FIND SPONSORS
 # FILL MISSING SPONSORS
@@ -2567,6 +4699,8 @@ bills$info$pctright <- round(bills$info$pctright, digits = 0)
 #
 rm(i, j, mcs, n, sel, tmp, tmphits, tmplook)
 
+
+
 # SOME DESCRIPTIVES (Processed in separate spreadsheet descriptives.ods)
 table(bills$info$dmensaje)
 table(bills$info$dpassed)
@@ -2602,128 +4736,681 @@ length(sel)
 sel <- which(bills$info$dmensaje==0 & bills$info$nUrg>0)
 round(table(tmp[sel]) / length(sel), digits = 2)
 length(sel)
+#
+# INITIATION OF EXEC BILLS TAKES ADVANTAGE OF FRIENDLIER SENATE
+# select lagos first two years (con sen, large con maj in dip)
+sel <- which(bills$info$dmensaje==1 & bills$info$dateIn>=dmy("1/3/2000", tz = "chile") & bills$info$dateIn<dmy("1/3/2002", tz = "chile"))
+round(table(bills$info$init[sel]) / length(sel), digits = 2)
+length(sel)
+# select lagos four last years (tied sen, con maj in dip)
+sel <- which(bills$info$dmensaje==1 & bills$info$dateIn>=dmy("1/3/2002", tz = "chile") & bills$info$dateIn<dmy("1/3/2006", tz = "chile"))
+round(table(bills$info$init[sel]) / length(sel), digits = 2)
+length(sel)
+#
+## BILLS WITH REPORT OBSERVED WITHIN URGENCY DEADLINE
+allUrg$drepInDeadline <- 0 # add column for data
+for (i in 1:nrow(allUrg)){
+    #i <- 2 # debug
+    message(sprintf("loop %s of %s", i, nrow(allUrg)))
+    j <- which(bills$info$bol==allUrg$bol[i])
+    if (bills$info$hasReport[j]=="no") next
+    tmp2 <- bills$reports[[j]]$date
+    tmp <- new_interval(allUrg$on[i], allUrg$deadline[i])
+    if (any( (tmp2 %within% tmp) == TRUE )==TRUE) allUrg$drepInDeadline[i] <- 1 # if any report within dealine, code 1
+}
+#
+# select dates to report
+sel <- which(zeUrg$on >= dmy("11-03-2006", tz = "chile") & zeUrg$on < dmy("11-03-2014", tz = "chile"))
+tmp <- allUrg[sel,]
+#
+table(tmp$drepInDeadline[ tmp$typeN==1 ] )
+table(tmp$drepInDeadline[ tmp$typeN==2 ] )
+table(tmp$drepInDeadline[ tmp$typeN==3 ] )
+table(tmp$drepInDeadline[ tmp$typeN==4.1 ] )
+table(tmp$drepInDeadline[ tmp$typeN==4.2 | tmp$typeN==4.3 ] )
+table(tmp$drepInDeadline[ tmp$typeN > 5 ] )
+table(tmp$drepInDeadline)
+#
+## # COMMITTEE REFERRAL---UNFINISHED, needs to clean comm to extract second committee and extraneous stuff, see table(
+## ref <- bills$hitos
+## for (i in 1:I){
+## #    i <- 110 # debug
+##     message(sprintf("loop %s of %s", i, I))
+##     tmp <- ref[[i]]
+##     tmp <- tmp[grep(pattern = "[Cc]uenta (de )*[Pp]royecto. Pasa a [Cc]om", x = tmp$action),] # subset lines
+##     tmp$comm <- sub(pattern = "[Cc]uenta.*[Pp]asa a (.*)", replacement = "\\1", tmp$action)   # extract committee
+##     tmp$comm <- sub(pattern = "^la (.*)", replacement = "\\1", tmp$comm)                      # filter extract
+##     tmp$comm <- sub(pattern = "(.*). Se manda poner en conocimiento de la Corte Suprema", replacement = "\\1", tmp$comm)   # filter extract
+##     tmp$comm <- sub(pattern = "(.*). Se remite el proyecto a la Corte Suprema.", replacement = "\\1", tmp$comm)            # filter extract
+##     tmp$comm <- sub(pattern = "(.*); y a la Excma. Corte Suprema.", replacement = "\\1", tmp$comm)                         # filter extract
+##     tmp$comm <- sub(pattern = "(.*) Ver$", replacement = "\\1", tmp$comm)                                                  # filter extract
+##     tmp <- tmp[,c("date","chamber","tramite","bol", "comm")]
+##     ref[[i]] <- tmp
+## }
+## #
+## # CREATE ONE LARGE DATA FRAME WITH ALL REFERRALS
+## tmp <- ldply(ref, data.frame) # unlist the data.frames into one large data.frame
+## tmp$comm <- sub(pattern = "(.*). Este proyecto no podrá tratarse hasta que no sea incluido en la convocatoria a Legislatura Extraordinaria.", replacement = "\\1", tmp$comm)                                                  # filter comm
+## tmp$comm <- sub(pattern = "(.*). No podrá ser tratado mientras Pdte. Rep. no lo incluya en la convocatoria a L.Ext. ", replacement = "\\1", tmp$comm)                                                  # filter comm
+## # slot for 2nd comm
+## tmp$comm2 <- ""
+## sel <- grep("y a la de Hacienda", tmp$comm)
+## tmp$comm2[sel] <- sub(pattern = ".*y a la de (Hacienda.*)", replacement = "\\1", tmp$comm[sel])
+## tmp$comm[sel] <- sub(pattern = "(.*)y a la de Hacienda.*", replacement = "\\1", tmp$comm[sel])
+## sel <- grep("y a Comisión", tmp$comm)
+## tmp$comm2[sel] <- sub(pattern = ".*y a (Comisión.*)", replacement = "\\1", tmp$comm[sel])
+## tmp$comm[sel] <- sub(pattern = "(.*)y a Comisión.*", replacement = "\\1", tmp$comm[sel])
+## sel <- grep("y a la Comisión", tmp$comm)
+## tmp$comm2[sel] <- sub(pattern = ".*y a la (Comisión.*)", replacement = "\\1", tmp$comm[sel])
+## tmp$comm[sel] <- sub(pattern = "(.*)y a la Comisión.*", replacement = "\\1", tmp$comm[sel])
+## #
+## table(tmp$comm)
+## #
+## sel <- which(bills$info$drefHda==1)
+## bills$info$bol[sel[10]] # no reporta primera comisión en iniciadora...
+#
+
+# LOGIT ON WHETHER NOT BILL DECLARED URGENT
+sel <- which(bills$info$dateIn>=dmy("11/3/1998", tz = "chile") & bills$info$dateIn<dmy("11/3/2014", tz = "chile"))
+tmpdat <- bills$info[sel,]
+#
+# Add president's maj status in chamber
+tmpdat$dmajDip <- tmpdat$dmajSen <- 0
+# sen
+tmp <- dmy(c("11-03-1990", "22-01-1999", "11-03-2000", "11-01-2002", "27-01-2005", "30-08-2005", "11-03-2006", "11-03-2010") , tz = "chile")
+sel <- which(tmpdat$dateIn >= tmp[1] & tmpdat$dateIn < tmp[2]); tmpdat$dmajSen[sel] <- 0
+sel <- which(tmpdat$dateIn >= tmp[2] & tmpdat$dateIn < tmp[3]); tmpdat$dmajSen[sel] <- 1 # tie coded as maj for pdt
+sel <- which(tmpdat$dateIn >= tmp[3] & tmpdat$dateIn < tmp[4]); tmpdat$dmajSen[sel] <- 1 
+sel <- which(tmpdat$dateIn >= tmp[4] & tmpdat$dateIn < tmp[5]); tmpdat$dmajSen[sel] <- 1 # tie coded as maj for pdt
+sel <- which(tmpdat$dateIn >= tmp[5] & tmpdat$dateIn < tmp[6]); tmpdat$dmajSen[sel] <- 0
+sel <- which(tmpdat$dateIn >= tmp[6] & tmpdat$dateIn < tmp[7]); tmpdat$dmajSen[sel] <- 1 # tie coded as maj for pdt
+sel <- which(tmpdat$dateIn >= tmp[7] & tmpdat$dateIn < tmp[8]); tmpdat$dmajSen[sel] <- 1
+sel <- which(tmpdat$dateIn >= tmp[8] & tmpdat$dateIn < tmp[9]); tmpdat$dmajSen[sel] <- 0
+#
+# dip: always maj=1 (2010-14 50%, coded 1)
+tmpdat$dmajDip <- 1
+#
+# to end of pdtl term
+tmp <- dmy(c("11-03-1994", "11-03-2000", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmpdat$pterm <- NA
+sel <- which(                          tmpdat$dateIn < tmp[1]); tmpdat$pterm[sel] <- round((tmp[1] - tmpdat$dateIn[sel]) * 100 / (365*4), digits = 0)
+sel <- which(tmpdat$dateIn >= tmp[1] & tmpdat$dateIn < tmp[2]); tmpdat$pterm[sel] <- round((tmp[2] - tmpdat$dateIn[sel]) * 100 / (365*6), digits = 0)
+sel <- which(tmpdat$dateIn >= tmp[2] & tmpdat$dateIn < tmp[3]); tmpdat$pterm[sel] <- round((tmp[3] - tmpdat$dateIn[sel]) * 100 / (365*6), digits = 0)
+sel <- which(tmpdat$dateIn >= tmp[3] & tmpdat$dateIn < tmp[4]); tmpdat$pterm[sel] <- round((tmp[4] - tmpdat$dateIn[sel]) * 100 / (365*4), digits = 0)
+sel <- which(tmpdat$dateIn >= tmp[4] & tmpdat$dateIn < tmp[5]); tmpdat$pterm[sel] <- round((tmp[5] - tmpdat$dateIn[sel]) * 100 / (365*4), digits = 0)
+#
+# to end of dip term
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmpdat$dterm <- NA
+sel <- which(                            tmpdat$dateIn < tmp[1]); tmpdat$dterm[sel] <- round((tmp[1] - tmpdat$dateIn[sel]) * 100 / (365*4), digits = 0)
+sel <- which(tmpdat$dateIn >= tmp[1] & tmpdat$dateIn < tmp[2]); tmpdat$dterm[sel] <- round((tmp[2] - tmpdat$dateIn[sel]) * 100 / (365*4), digits = 0)
+sel <- which(tmpdat$dateIn >= tmp[2] & tmpdat$dateIn < tmp[3]); tmpdat$dterm[sel] <- round((tmp[3] - tmpdat$dateIn[sel]) * 100 / (365*4), digits = 0)
+sel <- which(tmpdat$dateIn >= tmp[3] & tmpdat$dateIn < tmp[4]); tmpdat$dterm[sel] <- round((tmp[4] - tmpdat$dateIn[sel]) * 100 / (365*4), digits = 0)
+sel <- which(tmpdat$dateIn >= tmp[4] & tmpdat$dateIn < tmp[5]); tmpdat$dterm[sel] <- round((tmp[5] - tmpdat$dateIn[sel]) * 100 / (365*4), digits = 0)
+sel <- which(tmpdat$dateIn >= tmp[5] & tmpdat$dateIn < tmp[6]); tmpdat$dterm[sel] <- round((tmp[6] - tmpdat$dateIn[sel]) * 100 / (365*4), digits = 0)
+#
+# to end of sen term
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2006", "11-03-2014") , tz = "chile")
+tmpdat$sterm <- NA
+sel <- which(                          tmpdat$dateIn < tmp[1]); tmpdat$sterm[sel] <- round((tmp[1] - tmpdat$dateIn[sel]) * 100 / (365*8), digits = 0)
+sel <- which(tmpdat$dateIn >= tmp[1] & tmpdat$dateIn < tmp[2]); tmpdat$sterm[sel] <- round((tmp[2] - tmpdat$dateIn[sel]) * 100 / (365*8), digits = 0)
+sel <- which(tmpdat$dateIn >= tmp[2] & tmpdat$dateIn < tmp[3]); tmpdat$sterm[sel] <- round((tmp[3] - tmpdat$dateIn[sel]) * 100 / (365*8), digits = 0)
+sel <- which(tmpdat$dateIn >= tmp[3] & tmpdat$dateIn < tmp[4]); tmpdat$sterm[sel] <- round((tmp[4] - tmpdat$dateIn[sel]) * 100 / (365*8), digits = 0)
+#
+# to end of leg year
+tmp <- dmy(c("10-03-1999", "10-03-2000", "10-03-2001", "10-03-2002", "10-03-2003", "10-03-2004", "10-03-2005", "10-03-2006", "10-03-2007", "10-03-2008", "10-03-2009", "10-03-2010", "10-03-2011", "10-03-2012", "10-03-2013", "10-03-2014") , tz = "chile")
+tmpdat$legyr <- NA
+sel <- which(                           tmpdat$dateIn < tmp[1]);  tmpdat$legyr[sel] <- round((tmp[1]  - tmpdat$dateIn[sel]) * 100 / 365, digits = 0)
+sel <- which(tmpdat$dateIn >= tmp[1]  & tmpdat$dateIn < tmp[2]);  tmpdat$legyr[sel] <- round((tmp[2]  - tmpdat$dateIn[sel]) * 100 / 365, digits = 0)
+sel <- which(tmpdat$dateIn >= tmp[2]  & tmpdat$dateIn < tmp[3]);  tmpdat$legyr[sel] <- round((tmp[3]  - tmpdat$dateIn[sel]) * 100 / 365, digits = 0)
+sel <- which(tmpdat$dateIn >= tmp[3]  & tmpdat$dateIn < tmp[4]);  tmpdat$legyr[sel] <- round((tmp[4]  - tmpdat$dateIn[sel]) * 100 / 365, digits = 0)
+sel <- which(tmpdat$dateIn >= tmp[4]  & tmpdat$dateIn < tmp[5]);  tmpdat$legyr[sel] <- round((tmp[5]  - tmpdat$dateIn[sel]) * 100 / 365, digits = 0)
+sel <- which(tmpdat$dateIn >= tmp[5]  & tmpdat$dateIn < tmp[6]);  tmpdat$legyr[sel] <- round((tmp[6]  - tmpdat$dateIn[sel]) * 100 / 365, digits = 0)
+sel <- which(tmpdat$dateIn >= tmp[6]  & tmpdat$dateIn < tmp[7]);  tmpdat$legyr[sel] <- round((tmp[7]  - tmpdat$dateIn[sel]) * 100 / 365, digits = 0)
+sel <- which(tmpdat$dateIn >= tmp[7]  & tmpdat$dateIn < tmp[8]);  tmpdat$legyr[sel] <- round((tmp[8]  - tmpdat$dateIn[sel]) * 100 / 365, digits = 0)
+sel <- which(tmpdat$dateIn >= tmp[8]  & tmpdat$dateIn < tmp[9]);  tmpdat$legyr[sel] <- round((tmp[9]  - tmpdat$dateIn[sel]) * 100 / 365, digits = 0)
+sel <- which(tmpdat$dateIn >= tmp[9]  & tmpdat$dateIn < tmp[10]); tmpdat$legyr[sel] <- round((tmp[10] - tmpdat$dateIn[sel]) * 100 / 365, digits = 0)
+sel <- which(tmpdat$dateIn >= tmp[10] & tmpdat$dateIn < tmp[11]); tmpdat$legyr[sel] <- round((tmp[11] - tmpdat$dateIn[sel]) * 100 / 365, digits = 0)
+sel <- which(tmpdat$dateIn >= tmp[11] & tmpdat$dateIn < tmp[12]); tmpdat$legyr[sel] <- round((tmp[12] - tmpdat$dateIn[sel]) * 100 / 365, digits = 0)
+sel <- which(tmpdat$dateIn >= tmp[12] & tmpdat$dateIn < tmp[13]); tmpdat$legyr[sel] <- round((tmp[13] - tmpdat$dateIn[sel]) * 100 / 365, digits = 0)
+sel <- which(tmpdat$dateIn >= tmp[13] & tmpdat$dateIn < tmp[14]); tmpdat$legyr[sel] <- round((tmp[14] - tmpdat$dateIn[sel]) * 100 / 365, digits = 0)
+sel <- which(tmpdat$dateIn >= tmp[14] & tmpdat$dateIn < tmp[15]); tmpdat$legyr[sel] <- round((tmp[15] - tmpdat$dateIn[sel]) * 100 / 365, digits = 0)
+sel <- which(tmpdat$dateIn >= tmp[15] & tmpdat$dateIn < tmp[16]); tmpdat$legyr[sel] <- round((tmp[16] - tmpdat$dateIn[sel]) * 100 / 365, digits = 0)
+#
+# legislature dummies (periodo)
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmpdat$dleg90 <- tmpdat$dleg94 <- tmpdat$dleg98 <- tmpdat$dleg02 <- tmpdat$dleg06 <- tmpdat$dleg10 <- 0
+sel <- which(                            tmpdat$dateIn < tmp[1]); tmpdat$dleg90[sel] <- 1
+sel <- which(tmpdat$dateIn >= tmp[1] & tmpdat$dateIn < tmp[2]); tmpdat$dleg94[sel] <- 1
+sel <- which(tmpdat$dateIn >= tmp[2] & tmpdat$dateIn < tmp[3]); tmpdat$dleg98[sel] <- 1
+sel <- which(tmpdat$dateIn >= tmp[3] & tmpdat$dateIn < tmp[4]); tmpdat$dleg02[sel] <- 1
+sel <- which(tmpdat$dateIn >= tmp[4] & tmpdat$dateIn < tmp[5]); tmpdat$dleg06[sel] <- 1
+sel <- which(tmpdat$dateIn >= tmp[5] & tmpdat$dateIn < tmp[6]); tmpdat$dleg10[sel] <- 1
+#
+colnames(tmpdat)
+tmpdat$dv <- 0; tmpdat$dv[tmpdat$nUrg>0] <- 1
+tmpdat$pctpdt <- tmpdat$pctcon; sel <- which(tmpdat$dateIn >= dmy("11-3-2010", tz = "chile")); tmpdat$pctpdt[sel] <- tmpdat$pctright[sel]
+tmpdat$dmocion <- (1 - tmpdat$dmensaje)
+tmpdat$dmocionAllOpp <- tmpdat$dmocionMix <- tmpdat$dmocionAllPdt <- tmpdat$dmocion
+tmpdat$dmocionAllOpp[tmpdat$pctpdt>0] <- 0
+tmpdat$dmocionAllPdt[tmpdat$pctpdt<100] <- 0
+tmpdat$dmocionMix[tmpdat$pctpdt==0 | tmpdat$pctpdt==100] <- 0
+#head(tmpdat[,c("dmensaje","pctpdt","dmocionAllOpp","dmocionMix","dmocionAllPdt")])
+tmpdat$dinSen <- 0; tmpdat$dinSen[tmpdat$init=="sen"] <- 1
+#tmpdat$dinSenxmaj <- tmpdat$dinSen*tmpdat$dmajSen
+#tmpdat$pctpdt2xmocion <- tmpdat$pctpdt^2 * tmpdat$dmocion
+tmpdat$legyr2 <- tmpdat$legyr^2
+#
+tmpdat$dlabor <- tmpdat$deduc <- tmpdat$dpork <- 0
+tmpdat$dlabor[tmpdat$dom=="13-trabajo"] <- 1
+tmpdat$deduc [tmpdat$dom=="04-educación"] <- 1
+tmpdat$dpork [tmpdat$dom=="09-obras púb"] <- 1
+#
+#fit <- lm (dv ~ dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda + dmajSen + dinSen + pterm + legyr, data = tmpdat)
+fit1 <- glm(dv ~ dmocion                                    + drefHda + dmajSen + dinSen + pterm + legyr, data = tmpdat, family = binomial(link = logit))
+fit2 <- glm(dv ~ dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda + dmajSen + dinSen + pterm + legyr, data = tmpdat, family = binomial(link = logit))
+summary(fit1)
+
+pred1 <- predict(fit1, type = "response"); pred1[pred1>=.5] <- 1; pred1[pred1<.5] <- 0
+table(tmpdat$dv - pred1) / nrow(tmpdat) # pct correctly predicted
+pred2 <- predict(fit2, type = "response"); pred2[pred2>=.5] <- 1; pred2[pred2<.5] <- 0
+table(tmpdat$dv - pred2) / nrow(tmpdat) # pct correctly predicted
+
+# export to latex
+library(stargazer)
+stargazer(fit1, fit2, title="Regression results", align=TRUE)
+## library(apsrtable)
+## apsrtable(fit1, fit2)
+
+
+x
 
 # BILL'S LAST TRÁMITE(S) AND PATH
-## 2nd urgency is v, 3rd is w, anf so forth until z
+## 2nd urgency is v, 3rd is w, 4th is x
 ## return to chamber 1 is 3
-## A 1-o
+## A 1-1
 ## B 1-u
 ## C 1-2
-## Ch u-o
-## D u-2
-## E 2-o
-## F 2-v
+## D u-1
+## E u-2
+## F 2-2
 ## G 2-3
-## H 2-y
+## H 2-v
 ## I 2-p
-## J y-o
-## K y-p
-## L v-o
-## M v-3
-## N 3-o
-## Ñ 3-w
-## O 3-c
-## P 3-z
+## J v-2
+## K v-p
+## L v-3
+## N 3-3
+## O 3-c length( (lastTram=="X" | lastTram=="V" | lastTram=="Y" | lastTram=="Z") & no urg in 3)
+## P 3-w length(lastTram=="R" | lastTram=="S" | lastTram=="U")
 ## Q 3-p
-## R z-o
-## S z-p
-## T w-o
-## U w-c
-## V c-o
-## W c-x
+## R w-3
+## S w-p
+## U w-c length( (lastTram=="X" | lastTram=="V" | lastTram=="Y" | lastTram=="Z") & urg in 3)
+## V c-c
+## W c-x length(lastTram=="Y" | lastTram=="Z")
 ## X c-p
-## Y x-o
+## Y x-c
 ## Z x-p
-##  recode 2-c-. = 2-3-c-.
-##  recode 2-v-c-. = 2-v-3-c-.
-
-## change nTr to 1=origen, 2=revisora, 3=origen.bis, 4=conf, 5=ejec, 6=veto, 7=trib, and urgIn accordingly
-for (i in 1:I){
-    message(sprintf("loop %s of %s", i, I))
-    tmp <- bills$tramites[[i]]
-    skip <- grep(pattern = "conf*|ejec|veto|trib", tmp$tramite)
-    if (length(skip)>0){
-        tmp1 <- tmp[-skip,]
-    } else {
-        tmp1 <- tmp
-    }
-    tmp1$nTr <- 1:nrow(tmp1)
-    if (length(skip)>0){
-        tmp[-skip,] <- tmp1
-    } else {
-        tmp <- tmp1
-    }
-    tmp$nTr[tmp$tramite=="conf"] <- 4
-    tmp$nTr[tmp$tramite=="ejec"] <- 5
-    tmp$nTr[tmp$tramite=="veto"] <- 6
-    tmp$nTr[tmp$tramite=="trib"] <- 7
-    bills$tram[[i]] <- tmp
-}
-
+## M 2-c ignored in diagram, will be added to G 2-3 and to O 3-c
+## T v-c ignored in diagram, will be added to L v-3 and to O 3-c
+#
 tram <- bills$tramites # duplicate to remove tribunal and veto steps
 for (i in 1:I){
     message(sprintf("loop %s of %s", i, I))
     tmp <- tram[[i]]
-    drop <- union( grep(pattern = "trib", tmp$tramite), grep(pattern = "veto", tmp$tramite) )
+    drop <- grep(pattern = "trib|veto", tmp$tramite)
     if (length(drop)>0){
         tmp <- tmp[-drop,]
         tmp$nTr <- 1:nrow(tmp)
     }
     tram[[i]] <- tmp
 }
-
 #
-lastTram <- rep(NA,I) # no NAs should remain at the end
+lastTram <- path <- rep(NA,I) # no NAs should remain at the end
 # will receive num of trámites
-tmp1 <- rep(0,I)
+tmpnTr <- rep(0,I)
 for (i in 1:I){
-#    if (max(bills$tramites[[i]]$nTr)==1) tmp1[i] <- 1
-    tmp1[i] <- max(tram[[i]]$nTr)
+#    if (max(bills$tramites[[i]]$nTr)==1) tmpnTr[i] <- 1
+    #tmpnTr[i] <- max(tram[[i]]$nTr)# THIS ONE HAD IT WRONG: WOULD CODE 3-TRAMITE ENDING IN EJEC (5) AS FIVE-TRAMITE
+    tmpnTr[i] <- nrow(tram[[i]])
 }
-table(tmp1)
+table(tmpnTr); 
 #
-# get five-tramite cases
-sel <- which(tmp1==5)# & bills$info$nUrg==0)
-tmp <- "start"
+# GET FIVE-TRAMITE CASES
+sel <- which(tmpnTr==5)
+# verify: all went through conference
+tmp <- "."
 for (i in sel){
     tmp <- c(tmp, tram[[i]]$tramite[4])
 }
-table(tmp[-1]) # all end in ejec
-sel <- which(tmp1==5 & 
-
-# get single-tramite cases
-sel <- which(tmp1==1 & bills$info$nUrg==0)
-lastTram[sel] <- "B"
-sel <- which(tmp1==1 & bills$info$nUrg==1)
-lastTram[sel] <- "E"
-#
-table(bills$info$urgIn[lastTram=="E"]) # Ojo: los 3 ceros son urgencias de Bachelet II que quité más arriba...
-#
-# get two-tramite cases
-sel <- which(tmp1==2 & bills$info$nUrg==0)
-lastTram[sel] <- "G"
-sel <- which(tmp1==2 & (bills$info$urgIn==2 | bills$info$urgIn==12))
-lastTram[sel] <- "L"
-#
-# get three-tramite cases ending with ejec
-tmp2 <- rep(0,I)
-for (i in 1:I){
-    if (tmp1[i]!=3) next
-    if (tram[[i]]$tramite[3]=="ejec") tmp2[i] <- 1
+table(tmp[-1]) # all with conference
+# verify: all ended in ejec
+tmp <- "."
+for (i in sel){
+    tmp <- c(tmp, tram[[i]]$tramite[5])
 }
-sel <- which(tmp2==1)
+table(tmp[-1]) # all reached ejec
+#
+# those with an urgencia in 4
+sel <- which(tmpnTr==5 &
+             ( bills$info$urgIn==4
+             | bills$info$urgIn==14
+             | bills$info$urgIn==24
+             | bills$info$urgIn==34
+             | bills$info$urgIn==124
+             | bills$info$urgIn==134
+             | bills$info$urgIn==234
+             | bills$info$urgIn==1234 )
+             )
+lastTram[sel] <- "Z"
+path[sel] <- 12345
+#
+bills$tramites[sel[1]] # debug
+# those with NO urgencia in 4
+sel <- which(tmpnTr==5 &
+             ( bills$info$urgIn==0
+             | bills$info$urgIn==1
+             | bills$info$urgIn==2
+             | bills$info$urgIn==3
+             | bills$info$urgIn==12
+             | bills$info$urgIn==13
+             | bills$info$urgIn==23
+             | bills$info$urgIn==123 )
+             )
+lastTram[sel] <- "X"
+path[sel] <- 12345
+#
+# CASES THAT WENT TO CONFERENCE COMMITTE SKIPPING STEP 3 MUST BE ADDED TO Z AND X
+sel <- which(tmpnTr==4)
+tmp1 <- rep(0,I)
+for (i in sel){
+    tmp <- grep(pattern = "conf*", tram[[i]]$tramite)
+    if (length(tmp)==0) next
+    if (tmp==3) tmp1[i] <- 1
+}
+# verify: all ended in ejec
+sel <- which(tmp1==1)
+tmp <- "."
+for (i in sel){
+    tmp <- c(tmp, tram[[i]]$tramite[4])
+}
+table(tmp[-1]) # all reached ejec
+#
+# those with an urgencia in 4
+sel <- which(tmp1==1 &
+             ( bills$info$urgIn==4
+             | bills$info$urgIn==14
+             | bills$info$urgIn==24
+             | bills$info$urgIn==34
+             | bills$info$urgIn==124
+             | bills$info$urgIn==134
+             | bills$info$urgIn==234
+             | bills$info$urgIn==1234 )
+             )
+lastTram[sel] <- "Z"
+path[sel] <- 1245
+#
+# those with NO urgencia in 4
+sel <- which(tmp1==1 &
+             ( bills$info$urgIn==0
+             | bills$info$urgIn==1
+             | bills$info$urgIn==2
+             | bills$info$urgIn==3
+             | bills$info$urgIn==12
+             | bills$info$urgIn==13
+             | bills$info$urgIn==23
+             | bills$info$urgIn==123 )
+             )
+lastTram[sel] <- "X"
+path[sel] <- 1245
+#
+# CASES THAT WENT TO CONFERENCE BUT DID NOT REACH THE EXEC
+sel <- which(tmpnTr==4)
+tmp1 <- rep(0,I)
+for (i in sel){
+    tmp <- grep(pattern = "conf*", tram[[i]]$tramite)
+    if (length(tmp)==0) next
+    if (tmp==4) tmp1[i] <- 1
+}
+#
+# those with an urgencia in 4
+sel <- which(tmp1==1 &
+             ( bills$info$urgIn==4
+             | bills$info$urgIn==14
+             | bills$info$urgIn==24
+             | bills$info$urgIn==34
+             | bills$info$urgIn==124
+             | bills$info$urgIn==134
+             | bills$info$urgIn==234
+             | bills$info$urgIn==1234 )
+             )
+lastTram[sel] <- "Y"
+path[sel] <- 1234
+#
+# those with NO urgencia in 4
+sel <- which(tmp1==1 &
+             ( bills$info$urgIn==0
+             | bills$info$urgIn==1
+             | bills$info$urgIn==2
+             | bills$info$urgIn==3
+             | bills$info$urgIn==12
+             | bills$info$urgIn==13
+             | bills$info$urgIn==23
+             | bills$info$urgIn==123 )
+             )
+lastTram[sel] <- "V"
+path[sel] <- 1234
+#
+# CASES THAT WENT TO CONFERENCE COMMITTEE SKIPPING STEP 3 MUST BE ADDED TO V AND Y
+sel <- which(tmpnTr==3)
+tmp1 <- rep(0,I)
+for (i in sel){
+    tmp <- grep(pattern = "conf*", tram[[i]]$tramite)
+    if (length(tmp)==0) next
+    if (tmp==3) tmp1[i] <- 1
+}
+#
+# those with an urgencia in 4
+sel <- which(tmp1==1 &
+             ( bills$info$urgIn==4
+             | bills$info$urgIn==14
+             | bills$info$urgIn==24
+             | bills$info$urgIn==34
+             | bills$info$urgIn==124
+             | bills$info$urgIn==134
+             | bills$info$urgIn==234
+             | bills$info$urgIn==1234 )
+             )
+lastTram[sel] <- "Y"
+path[sel] <- 124
+#
+# those with NO urgencia in 4
+sel <- which(tmp1==1 &
+             ( bills$info$urgIn==0
+             | bills$info$urgIn==1
+             | bills$info$urgIn==2
+             | bills$info$urgIn==3
+             | bills$info$urgIn==12
+             | bills$info$urgIn==13
+             | bills$info$urgIn==23
+             | bills$info$urgIn==123 )
+             )
+lastTram[sel] <- "V"
+path[sel] <- 124
+#
+# GET FOUR-TRAMITE CASES ENDING IN EJEC
+sel <- which(tmpnTr==4)
+tmp1 <- rep(0,I)
+for (i in sel){
+    tmp <- grep(pattern = "ejec", tram[[i]]$tramite)
+    if (length(tmp)==0) next
+    if (tmp==4) tmp1[i] <- 1
+}
+#
+# those with an urgencia in 3
+sel <- which(tmp1==1 & is.na(lastTram)==TRUE & # leaves 4-tramite through conference alone
+             ( bills$info$urgIn==3
+             | bills$info$urgIn==13
+             | bills$info$urgIn==23
+             | bills$info$urgIn==34
+             | bills$info$urgIn==123
+             | bills$info$urgIn==134
+             | bills$info$urgIn==234
+             | bills$info$urgIn==1234 )
+             )
+lastTram[sel] <- "S"
+path[sel] <- 1235
+#
+# those with NO urgencia in 3
+sel <- which(tmp1==1 & is.na(lastTram)==TRUE & # leaves 4-tramite through conference alone
+             ( bills$info$urgIn==0
+             | bills$info$urgIn==1
+             | bills$info$urgIn==2
+             | bills$info$urgIn==4
+             | bills$info$urgIn==12
+             | bills$info$urgIn==14
+             | bills$info$urgIn==24
+             | bills$info$urgIn==124 )
+             )
+lastTram[sel] <- "Q"
+path[sel] <- 1235
+#
+# GET THREE-TRAMITE CASES ENDING IN DIP OR SEN
+sel <- which(tmpnTr==3)
+tmp1 <- rep(0,I)
+for (i in sel){
+    if (tram[[i]]$tramite[3]=="dip" | tram[[i]]$tramite[3]=="sen") tmp1[i] <- 1
+}
+#
+# those with an urgencia in 3
+sel <- which(tmp1==1 & is.na(lastTram)==TRUE & # leaves 4-tramite through conference alone
+             ( bills$info$urgIn==3
+             | bills$info$urgIn==13
+             | bills$info$urgIn==23
+             | bills$info$urgIn==34
+             | bills$info$urgIn==123
+             | bills$info$urgIn==134
+             | bills$info$urgIn==234
+             | bills$info$urgIn==1234 )
+             )
+lastTram[sel] <- "R"
+path[sel] <- 123
+#
+# those with NO urgencia in 3
+sel <- which(tmp1==1 & is.na(lastTram)==TRUE & # leaves 4-tramite through conference alone
+             ( bills$info$urgIn==0
+             | bills$info$urgIn==1
+             | bills$info$urgIn==2
+             | bills$info$urgIn==4
+             | bills$info$urgIn==12
+             | bills$info$urgIn==14
+             | bills$info$urgIn==24
+             | bills$info$urgIn==124 )
+             )
+lastTram[sel] <- "N"
+path[sel] <- 123
+#
+# GET THREE-TRAMITE CASES ENDING IN EJEC
+sel <- which(tmpnTr==3)
+tmp1 <- rep(0,I)
+for (i in sel){
+    if (tram[[i]]$tramite[3]=="ejec") tmp1[i] <- 1
+}
+#
+# those with an urgencia in 2
+sel <- which(tmp1==1 & 
+             ( bills$info$urgIn==2
+             | bills$info$urgIn==12
+             | bills$info$urgIn==23
+             | bills$info$urgIn==24
+             | bills$info$urgIn==123
+             | bills$info$urgIn==124
+             | bills$info$urgIn==234
+             | bills$info$urgIn==1234 )
+             )
 lastTram[sel] <- "K"
+path[sel] <- 125
+#
+# those with NO urgencia in 2
+sel <- which(tmp1==1 & 
+             ( bills$info$urgIn==0
+             | bills$info$urgIn==1
+             | bills$info$urgIn==3
+             | bills$info$urgIn==4
+             | bills$info$urgIn==13
+             | bills$info$urgIn==14
+             | bills$info$urgIn==34
+             | bills$info$urgIn==134 )
+             )
+lastTram[sel] <- "I"
+path[sel] <- 125
+#
+# GET TWO-TRAMITE CASES
+#
+# those with an urgencia in 2
+sel <- which(tmpnTr==2 & 
+             ( bills$info$urgIn==2
+             | bills$info$urgIn==12
+             | bills$info$urgIn==23
+             | bills$info$urgIn==24
+             | bills$info$urgIn==123
+             | bills$info$urgIn==124
+             | bills$info$urgIn==234
+             | bills$info$urgIn==1234 )
+             )
+lastTram[sel] <- "J"
+path[sel] <- 12
+#
+# those with NO urgencia in 2
+sel <- which(tmpnTr==2 & 
+             ( bills$info$urgIn==0
+             | bills$info$urgIn==1
+             | bills$info$urgIn==3
+             | bills$info$urgIn==4
+             | bills$info$urgIn==13
+             | bills$info$urgIn==14
+             | bills$info$urgIn==34
+             | bills$info$urgIn==134 )
+             )
+lastTram[sel] <- "F"
+path[sel] <- 12
+#
+# GET SINGLE-TRAMITE CASES
+#
+# those with an urgencia in 1
+sel <- which(tmpnTr==1 & 
+             ( bills$info$urgIn==1
+             | bills$info$urgIn==12
+             | bills$info$urgIn==13
+             | bills$info$urgIn==14
+             | bills$info$urgIn==123
+             | bills$info$urgIn==124
+             | bills$info$urgIn==134
+             | bills$info$urgIn==1234 )
+             )
+lastTram[sel] <- "D"
+path[sel] <- 1
+#
+# those with NO urgencia in 1
+sel <- which(tmpnTr==1 & 
+             ( bills$info$urgIn==0
+             | bills$info$urgIn==2
+             | bills$info$urgIn==3
+             | bills$info$urgIn==4
+             | bills$info$urgIn==23
+             | bills$info$urgIn==24
+             | bills$info$urgIn==34
+             | bills$info$urgIn==234 )
+             )
+lastTram[sel] <- "A"
+path[sel] <- 1
+#
+# verify that no NAs left
+table(lastTram, useNA = "always")
+table(path, useNA = "always")
+#
+# plug into info object
+bills$info$lastTram <- lastTram; bills$info$path <- path
 
-table(bills$info$urgIn[lastTram=="K"])
+# TRANSITION FREQUENCIES FOR TIKZ PLOT IN URGE.TEX
+sel <- which(bills$info$dmensaje==1)        ####### select cases for plot ##########
+sel <- which(bills$info$dmensaje==1
+             & bills$info$init=="sen"
+             & bills$info$dateIn>=dmy("1/3/2010", tz = "chile") & bills$info$dateIn<dmy("1/3/2014", tz = "chile"))
+trans <- rep(NA,26) # will receive freqs
+names(trans) <- c("A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z")
+#
+lastTram <- bills$info$lastTram[sel]
+path <- bills$info$path[sel]
+urgIn <- bills$info$urgIn[sel]
+#
+trans["A"] <- length(which(lastTram=="A"))
+trans["D"] <- length(which(lastTram=="D"))
+trans["F"] <- length(which(lastTram=="F"))
+trans["I"] <- length(which(lastTram=="I"))
+trans["J"] <- length(which(lastTram=="J"))
+trans["K"] <- length(which(lastTram=="K"))
+trans["N"] <- length(which(lastTram=="N"))
+trans["Q"] <- length(which(lastTram=="Q"))
+trans["R"] <- length(which(lastTram=="R"))
+trans["S"] <- length(which(lastTram=="S"))
+trans["V"] <- length(which(lastTram=="V"))
+trans["X"] <- length(which(lastTram=="X"))
+trans["Y"] <- length(which(lastTram=="Y"))
+trans["Z"] <- length(which(lastTram=="Z"))
+#
+# DEDUCE OTHER PATH FREQUENCIES AND REPORT ALL FREQUENCIES
+# this block easy --- how many got urgencia in 1, 2, 3, or 4
+tmp2 <- grep("1", urgIn)
+trans["B"] <- length(tmp2)
+tmp2 <- grep("2", urgIn)
+trans["H"] <- length(tmp2)
+tmp2 <- grep("3", urgIn)
+trans["P"] <- length(tmp2)
+tmp2 <- grep("4", urgIn)
+trans["W"] <- length(tmp2) # equivalent: trans["W"] <- length(which(lastTram=="Y" | lastTram=="Z"))
+#
+# DEDUCTIONS BETWEEN 1-2
+tmp2 <- grep("1", path)
+trans["C"] <- length(tmp2) - trans["A"] - trans["B"]
+#
+tmp2 <- grep("1", urgIn)
+tmp3 <- which(lastTram=="D")
+trans["E"] <- length(tmp2) - length(tmp3)
+#
+# DEDUCTIONS OUT OF 2 NEED 2-c CONSIDERED
+tmp2 <- which( (path==1245 | path==124) &
+          (urgIn==2 |
+           urgIn==12 |
+           urgIn==23 |
+           urgIn==24 |
+           urgIn==123 |
+           urgIn==124 |
+           urgIn==234 |
+           urgIn==1234) )
+trans["T"] <- length(tmp2)
+#
+tmp2 <- which( (path==1245 | path==124) &
+          (urgIn==0 |
+           urgIn==1 |
+           urgIn==3 |
+           urgIn==4 |
+           urgIn==13 |
+           urgIn==14 |
+           urgIn==34 |
+           urgIn==134) )
+trans["M"] <- length(tmp2)
+#
+tmp2 <- length(grep("2", path))
+trans["G"] <- tmp2 - trans["M"] - trans["F"] - trans["H"] - trans["I"]  
+#
+tmp2 <- length(grep("2", urgIn))
+trans["L"] <- tmp2 - trans["K"] - trans["T"] - trans["J"]
+#
+# OUT OF 3
+tmp2 <- length(grep("3", path))
+trans["O"] <- tmp2 - trans["N"] - trans["P"] - trans["Q"]
+#
+round( trans*1000 / length(grep("1", path)), digits = 0) # debug
+#
+tmp2 <- length(grep("3", urgIn))
+trans["U"] <- tmp2 - trans["R"] - trans["S"]
+#
+# NEED TO ADD M AND T TO SIMPLIFIED PLOT LASTTRAMA THAT HAS NO DIRECT ROUTE 2-c
+trans["G"] <- trans["G"] + trans["M"] # add M flow to G
+trans["O"] <- trans["O"] + trans["M"] # also add M flow to O
+trans["L"] <- trans["L"] + trans["T"] # add T flow to L
+trans["O"] <- trans["O"] + trans["T"] # also add T flow to O
+#
+# Remove M anf T from report, turn into perthousand of start 
+trans <- round( trans[-grep("M|T", names(trans))]*100 / length(grep("1", path)), digits = 0)
+# report vertical to copy column and paste in LaTeX code
+data.frame(trans, trans)
 
+#
+rm(drop, i, lastTram, path, sel, skip, tmp, tmp1, tmp2, tmp3, tmpnTr, tram, trans, urgIn) # clean
 
-
-table(lastTram)
-
-table(bills$info$urgIn[bills$info$nUrg==1])
-
-sel <- which(bills$info$urgIn==0 & bills$info$nUrg==1)
-bills$info$bol[sel]
 
 
 #see xtabs pre-packaged function
