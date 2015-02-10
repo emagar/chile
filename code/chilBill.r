@@ -2360,8 +2360,13 @@ options(width = 150)                                                ##
 
 # SHOULD FILL GAPS IN TO:FROM AND RE DO ALL PERIODS
 # SHOULD VERIFY $urg$tramite == "check: no overlap" AFTER THAT
-# NEED INDICATORS OF VOTING QUORUM!!
-
+# NEED INDICATORS OF VOTING QUORUM!! --- REFERRED TO CONSTITUTIONAL COMMITTEE IS GOOD PROXY!!!!
+#                                        GET IT AND INTERACT WITH PDT'S MARGIN IN CHAMBER
+# AFTER CLEANING COMMITTEE REFERRAL, CHECK IF FINAN COMMITTEE DUMMY CAPTURES SAME INFO
+# ADD SIZE OF PDT'S AGENDA IN LEG YEAR
+#
+# COLLECT BOLETIN VOTE DATES FROM ROLL CALL DATA
+# ANALYZE NON-PASSAGE RATE OF BILLS 
 
 # exports csv of allUrg to process in plots.r
 # extract urgencias object, unlisted to prepare urgencia-as-unit data
@@ -4709,6 +4714,8 @@ table(bills$info$dpassed[bills$info$dmensaje==1])
 tmp <- bills$info$nUrg; tmp[tmp>0] <- 1; table(tmp); round(table(tmp)*100/I,0) # <-- with at least one urgency message
 table(tmp[bills$info$dmensaje==0])
 table(tmp[bills$info$dmensaje==1])
+table(tmp[bills$info$dpassed==1 & bills$info$dmensaje==0])
+table(tmp[bills$info$dpassed==1 & bills$info$dmensaje==1])
 #
 table(bills$info$urgIn)
 table(bills$info$urgIn[bills$info$dpassed==0])
@@ -4809,6 +4816,33 @@ table(tmp$drepInDeadline)
 ## sel <- which(bills$info$drefHda==1)
 ## bills$info$bol[sel[10]] # no reporta primera comisión en iniciadora...
 #
+# Urgency message frequencies (exported directly for latex table, need to add N)
+tmp <- allUrg
+#
+sel <- which(tmp$on >= dmy("11/3/1998", tz = "chile") & tmp$on < dmy("11/3/2002", tz = "chile"))
+tmp1 <- round( table(tmp$typeN[sel]) *100 / length(sel), digits = 1 )
+length(sel)
+#
+sel <- which(tmp$on >= dmy("11/3/2002", tz = "chile") & tmp$on < dmy("11/3/2006", tz = "chile"))
+tmp2 <- round( table(tmp$typeN[sel]) *100 / length(sel), digits = 1 )
+length(sel)
+#
+sel <- which(tmp$on >= dmy("11/3/2006", tz = "chile") & tmp$on < dmy("11/3/2010", tz = "chile"))
+tmp3 <- round( table(tmp$typeN[sel]) *100 / length(sel), digits = 1 )
+length(sel)
+#
+sel <- which(tmp$on >= dmy("11/3/2010", tz = "chile") & tmp$on < dmy("11/3/2014", tz = "chile"))
+tmp4 <- round( table(tmp$typeN[sel]) *100 / length(sel), digits = 1 )
+length(sel)
+#
+library(xtable)
+xtable(tmp1, digits=0); xtable(tmp2, digits=0); xtable(tmp3, digits=0); xtable(tmp4, digits=0)
+
+# recode leg year to indicate 1990 for 1990-91, etc
+bills$info$legyr <- bills$info$legyr + 1989
+#
+table(bills$info$dmensaje, bills$info$legyr) # size of pdt's agenda, use to code variable
+
 
 # LOGIT ON WHETHER NOT BILL DECLARED URGENT
 sel <- which(bills$info$dateIn>=dmy("11/3/1998", tz = "chile") & bills$info$dateIn<dmy("11/3/2014", tz = "chile"))
@@ -4889,6 +4923,10 @@ sel <- which(tmpdat$dateIn >= tmp[5] & tmpdat$dateIn < tmp[6]); tmpdat$dleg10[se
 #
 colnames(tmpdat)
 tmpdat$dv <- 0; tmpdat$dv[tmpdat$nUrg>0] <- 1
+tmpdat$dv1 <- 0; tmpdat$dv1[tmpdat$nInmed>0] <- 1
+tmpdat$dv2 <- 0; tmpdat$dv2[tmpdat$nSuma>0] <- 1
+tmpdat$dv3 <- 0; tmpdat$dv3[tmpdat$nSimple>0] <- 1
+#
 tmpdat$pctpdt <- tmpdat$pctcon; sel <- which(tmpdat$dateIn >= dmy("11-3-2010", tz = "chile")); tmpdat$pctpdt[sel] <- tmpdat$pctright[sel]
 tmpdat$dmocion <- (1 - tmpdat$dmensaje)
 tmpdat$dmocionAllOpp <- tmpdat$dmocionMix <- tmpdat$dmocionAllPdt <- tmpdat$dmocion
@@ -4909,18 +4947,42 @@ tmpdat$dpork [tmpdat$dom=="09-obras púb"] <- 1
 #fit <- lm (dv ~ dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda + dmajSen + dinSen + pterm + legyr, data = tmpdat)
 fit1 <- glm(dv ~ dmocion                                    + drefHda + dmajSen + dinSen + pterm + legyr, data = tmpdat, family = binomial(link = logit))
 fit2 <- glm(dv ~ dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda + dmajSen + dinSen + pterm + legyr, data = tmpdat, family = binomial(link = logit))
+fit3 <- glm(dv1 ~ dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda + dmajSen + dinSen + pterm + legyr, data = tmpdat, family = binomial(link = logit))
+fit4 <- glm(dv2 ~ dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda + dmajSen + dinSen + pterm + legyr, data = tmpdat, family = binomial(link = logit))
+fit5 <- glm(dv3 ~ dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda + dmajSen + dinSen + pterm + legyr, data = tmpdat, family = binomial(link = logit))
 summary(fit1)
 
 pred1 <- predict(fit1, type = "response"); pred1[pred1>=.5] <- 1; pred1[pred1<.5] <- 0
 table(tmpdat$dv - pred1) / nrow(tmpdat) # pct correctly predicted
 pred2 <- predict(fit2, type = "response"); pred2[pred2>=.5] <- 1; pred2[pred2<.5] <- 0
 table(tmpdat$dv - pred2) / nrow(tmpdat) # pct correctly predicted
+pred3 <- predict(fit3, type = "response"); pred3[pred3>=.5] <- 1; pred3[pred3<.5] <- 0
+table(tmpdat$dv - pred3) / nrow(tmpdat) # pct correctly predicted
+pred4 <- predict(fit4, type = "response"); pred4[pred4>=.5] <- 1; pred4[pred4<.5] <- 0
+table(tmpdat$dv - pred4) / nrow(tmpdat) # pct correctly predicted
+pred5 <- predict(fit5, type = "response"); pred5[pred5>=.5] <- 1; pred5[pred5<.5] <- 0
+table(tmpdat$dv - pred5) / nrow(tmpdat) # pct correctly predicted
 
 # export to latex
 library(stargazer)
-stargazer(fit1, fit2, title="Regression results", align=TRUE)
+stargazer(fit3, fit4, fit5, title="Regression results", align=TRUE,
+          covariate.labels=
+              c("MC bill",
+   "MC bill, opp.-sponsored",
+   "MC bill, mix.-sponsored",
+   "MC bill, pres. coal.-sp.",
+   "Hacienda",
+   "Senate majority",
+   "Introduced Senate",
+   "Pres.~term remaining",
+   "Year remaining",
+   "Constant")
+          )
+
 ## library(apsrtable)
 ## apsrtable(fit1, fit2)
+
+
 
 
 x

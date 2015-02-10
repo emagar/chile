@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.8.7)  3 FEB 2015 04:41
+This is pdfTeX, Version 3.1415926-2.5-1.40.14 (TeX Live 2013/Debian) (format=pdflatex 2014.8.7)  9 FEB 2015 10:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -732,7 +732,11 @@ Package: arydshln 2004/08/31 v1.71
 LaTeX Warning: Unused global option(s):
     [letter].
 
-(./urge.aux)
+(./urge.aux
+
+LaTeX Warning: Label `' multiply defined.
+
+)
 \openout1 = `urge.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 31.
@@ -830,260 +834,253 @@ LaTeX Font Info:    Try loading font information for OT1+ptm on input line 36.
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd
 File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
 )
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <20.74> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 36.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 36.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 36.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10.95> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 36.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <8> not available
 (Font)              Font shape `OT1/ptm/b/n' tried instead on input line 36.
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 38.
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 45.
- [1
-
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 59.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 59.
-LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 59.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 82.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 36.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7.4> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 82.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 36.
 LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <6> not available
-(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 82.
- [2] [3]
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 218.
- [4] [5] [6]
-LaTeX Font Info:    Try loading font information for T1+pcr on input line 270.
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 36.
+LaTeX Font Info:    Calculating math sizes for size <7.4> on input line 36.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <5.47603> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 36.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <4.44003> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 36.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 38.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 38.
+LaTeX Font Info:    Try loading font information for T1+pcr on input line 38.
 
 (/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd
 File: t1pcr.fd 2001/06/04 font definitions for T1/pcr.
 )
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10.95> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 40.
 
-pdfTeX warning: pdflatex (file ../graphs/senChile.pdf): PDF inclusion: found PD
-F version <1.5>, but at most version <1.4> allowed
-<../graphs/senChile.pdf, id=29, 722.7pt x 433.62pt>
-File: ../graphs/senChile.pdf Graphic file (type pdf)
-
-<use ../graphs/senChile.pdf>
-Package pdftex.def Info: ../graphs/senChile.pdf used on input line 276.
-(pdftex.def)             Requested size: 433.62001pt x 260.17401pt.
- [7] [8 <../graphs/senChile.pdf>]
-Missing character: There is no ; in font nullfont!
- [9]
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 445.
-LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
-(Font)              Font shape `T1/ptm/b/n' tried instead on input line 451.
-LaTeX Font Info:    Font shape `T1/pcr/bx/n' in size <10> not available
-(Font)              Font shape `T1/pcr/b/n' tried instead on input line 451.
-
-Overfull \hbox (11.12837pt too wide) in paragraph at lines 443--530
-[][] 
+Overfull \hbox (0.44806pt too wide) in paragraph at lines 48--49
+[]\T1/ptm/m/n/12 Previous chap-ters high-light el-e-ments that in-ter-act in de
+cision-making with the branches'
  []
 
-[10] [11] [12]
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 59.
+ [2] [3]
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 85.
+ [4] [5] [6]
+[7] [8] [9] [10]
 
 pdfTeX warning: pdflatex (file ../graphs/urgenciasHistog1998.pdf): PDF inclusio
 n: found PDF version <1.5>, but at most version <1.4> allowed
-<../graphs/urgenciasHistog1998.pdf, id=65, 397.485pt x 289.08pt>
+<../graphs/urgenciasHistog1998.pdf, id=44, 397.485pt x 289.08pt>
 File: ../graphs/urgenciasHistog1998.pdf Graphic file (type pdf)
 
 <use ../graphs/urgenciasHistog1998.pdf>
-Package pdftex.def Info: ../graphs/urgenciasHistog1998.pdf used on input line 5
-91.
+Package pdftex.def Info: ../graphs/urgenciasHistog1998.pdf used on input line 3
+82.
 (pdftex.def)             Requested size: 95.39693pt x 69.38062pt.
 
 
 pdfTeX warning: pdflatex (file ../graphs/urgenciasHistog1999.pdf): PDF inclusio
 n: found PDF version <1.5>, but at most version <1.4> allowed
-<../graphs/urgenciasHistog1999.pdf, id=66, 397.485pt x 289.08pt>
+<../graphs/urgenciasHistog1999.pdf, id=45, 397.485pt x 289.08pt>
 File: ../graphs/urgenciasHistog1999.pdf Graphic file (type pdf)
 
 <use ../graphs/urgenciasHistog1999.pdf>
-Package pdftex.def Info: ../graphs/urgenciasHistog1999.pdf used on input line 5
-92.
+Package pdftex.def Info: ../graphs/urgenciasHistog1999.pdf used on input line 3
+83.
 (pdftex.def)             Requested size: 95.39693pt x 69.38062pt.
 
 
 pdfTeX warning: pdflatex (file ../graphs/urgenciasHistog2000.pdf): PDF inclusio
 n: found PDF version <1.5>, but at most version <1.4> allowed
-<../graphs/urgenciasHistog2000.pdf, id=67, 397.485pt x 289.08pt>
+<../graphs/urgenciasHistog2000.pdf, id=46, 397.485pt x 289.08pt>
 File: ../graphs/urgenciasHistog2000.pdf Graphic file (type pdf)
 
 <use ../graphs/urgenciasHistog2000.pdf>
-Package pdftex.def Info: ../graphs/urgenciasHistog2000.pdf used on input line 5
-93.
+Package pdftex.def Info: ../graphs/urgenciasHistog2000.pdf used on input line 3
+84.
 (pdftex.def)             Requested size: 95.39693pt x 69.38062pt.
 
 
 pdfTeX warning: pdflatex (file ../graphs/urgenciasHistog2001.pdf): PDF inclusio
 n: found PDF version <1.5>, but at most version <1.4> allowed
-<../graphs/urgenciasHistog2001.pdf, id=68, 397.485pt x 289.08pt>
+<../graphs/urgenciasHistog2001.pdf, id=47, 397.485pt x 289.08pt>
 File: ../graphs/urgenciasHistog2001.pdf Graphic file (type pdf)
 
 <use ../graphs/urgenciasHistog2001.pdf>
-Package pdftex.def Info: ../graphs/urgenciasHistog2001.pdf used on input line 5
-94.
+Package pdftex.def Info: ../graphs/urgenciasHistog2001.pdf used on input line 3
+85.
 (pdftex.def)             Requested size: 95.39693pt x 69.38062pt.
 
 
 pdfTeX warning: pdflatex (file ../graphs/urgenciasHistog2002.pdf): PDF inclusio
 n: found PDF version <1.5>, but at most version <1.4> allowed
-<../graphs/urgenciasHistog2002.pdf, id=69, 397.485pt x 289.08pt>
+<../graphs/urgenciasHistog2002.pdf, id=48, 397.485pt x 289.08pt>
 File: ../graphs/urgenciasHistog2002.pdf Graphic file (type pdf)
 
 <use ../graphs/urgenciasHistog2002.pdf>
-Package pdftex.def Info: ../graphs/urgenciasHistog2002.pdf used on input line 5
-95.
+Package pdftex.def Info: ../graphs/urgenciasHistog2002.pdf used on input line 3
+86.
 (pdftex.def)             Requested size: 95.39693pt x 69.38062pt.
 
 
 pdfTeX warning: pdflatex (file ../graphs/urgenciasHistog2003.pdf): PDF inclusio
 n: found PDF version <1.5>, but at most version <1.4> allowed
-<../graphs/urgenciasHistog2003.pdf, id=70, 397.485pt x 289.08pt>
+<../graphs/urgenciasHistog2003.pdf, id=49, 397.485pt x 289.08pt>
 File: ../graphs/urgenciasHistog2003.pdf Graphic file (type pdf)
 
 <use ../graphs/urgenciasHistog2003.pdf>
-Package pdftex.def Info: ../graphs/urgenciasHistog2003.pdf used on input line 5
-96.
+Package pdftex.def Info: ../graphs/urgenciasHistog2003.pdf used on input line 3
+87.
 (pdftex.def)             Requested size: 95.39693pt x 69.38062pt.
 
 
 pdfTeX warning: pdflatex (file ../graphs/urgenciasHistog2004.pdf): PDF inclusio
 n: found PDF version <1.5>, but at most version <1.4> allowed
-<../graphs/urgenciasHistog2004.pdf, id=71, 397.485pt x 289.08pt>
+<../graphs/urgenciasHistog2004.pdf, id=50, 397.485pt x 289.08pt>
 File: ../graphs/urgenciasHistog2004.pdf Graphic file (type pdf)
 
 <use ../graphs/urgenciasHistog2004.pdf>
-Package pdftex.def Info: ../graphs/urgenciasHistog2004.pdf used on input line 5
-97.
+Package pdftex.def Info: ../graphs/urgenciasHistog2004.pdf used on input line 3
+88.
 (pdftex.def)             Requested size: 95.39693pt x 69.38062pt.
 
 
 pdfTeX warning: pdflatex (file ../graphs/urgenciasHistog2005.pdf): PDF inclusio
 n: found PDF version <1.5>, but at most version <1.4> allowed
-<../graphs/urgenciasHistog2005.pdf, id=72, 397.485pt x 289.08pt>
+<../graphs/urgenciasHistog2005.pdf, id=51, 397.485pt x 289.08pt>
 File: ../graphs/urgenciasHistog2005.pdf Graphic file (type pdf)
 
 <use ../graphs/urgenciasHistog2005.pdf>
-Package pdftex.def Info: ../graphs/urgenciasHistog2005.pdf used on input line 5
-98.
+Package pdftex.def Info: ../graphs/urgenciasHistog2005.pdf used on input line 3
+89.
 (pdftex.def)             Requested size: 95.39693pt x 69.38062pt.
 
 
 pdfTeX warning: pdflatex (file ../graphs/urgenciasHistog2006.pdf): PDF inclusio
 n: found PDF version <1.5>, but at most version <1.4> allowed
-<../graphs/urgenciasHistog2006.pdf, id=73, 397.485pt x 289.08pt>
+<../graphs/urgenciasHistog2006.pdf, id=52, 397.485pt x 289.08pt>
 File: ../graphs/urgenciasHistog2006.pdf Graphic file (type pdf)
 
 <use ../graphs/urgenciasHistog2006.pdf>
-Package pdftex.def Info: ../graphs/urgenciasHistog2006.pdf used on input line 5
-99.
+Package pdftex.def Info: ../graphs/urgenciasHistog2006.pdf used on input line 3
+90.
 (pdftex.def)             Requested size: 95.39693pt x 69.38062pt.
 
 
 pdfTeX warning: pdflatex (file ../graphs/urgenciasHistog2007.pdf): PDF inclusio
 n: found PDF version <1.5>, but at most version <1.4> allowed
-<../graphs/urgenciasHistog2007.pdf, id=74, 397.485pt x 289.08pt>
+<../graphs/urgenciasHistog2007.pdf, id=53, 397.485pt x 289.08pt>
 File: ../graphs/urgenciasHistog2007.pdf Graphic file (type pdf)
 
 <use ../graphs/urgenciasHistog2007.pdf>
-Package pdftex.def Info: ../graphs/urgenciasHistog2007.pdf used on input line 6
-00.
+Package pdftex.def Info: ../graphs/urgenciasHistog2007.pdf used on input line 3
+91.
 (pdftex.def)             Requested size: 95.39693pt x 69.38062pt.
 
 
 pdfTeX warning: pdflatex (file ../graphs/urgenciasHistog2008.pdf): PDF inclusio
 n: found PDF version <1.5>, but at most version <1.4> allowed
-<../graphs/urgenciasHistog2008.pdf, id=75, 397.485pt x 289.08pt>
+<../graphs/urgenciasHistog2008.pdf, id=54, 397.485pt x 289.08pt>
 File: ../graphs/urgenciasHistog2008.pdf Graphic file (type pdf)
 
 <use ../graphs/urgenciasHistog2008.pdf>
-Package pdftex.def Info: ../graphs/urgenciasHistog2008.pdf used on input line 6
-01.
+Package pdftex.def Info: ../graphs/urgenciasHistog2008.pdf used on input line 3
+92.
 (pdftex.def)             Requested size: 95.39693pt x 69.38062pt.
 
 
 pdfTeX warning: pdflatex (file ../graphs/urgenciasHistog2009.pdf): PDF inclusio
 n: found PDF version <1.5>, but at most version <1.4> allowed
-<../graphs/urgenciasHistog2009.pdf, id=76, 397.485pt x 289.08pt>
+<../graphs/urgenciasHistog2009.pdf, id=55, 397.485pt x 289.08pt>
 File: ../graphs/urgenciasHistog2009.pdf Graphic file (type pdf)
 
 <use ../graphs/urgenciasHistog2009.pdf>
-Package pdftex.def Info: ../graphs/urgenciasHistog2009.pdf used on input line 6
-02.
+Package pdftex.def Info: ../graphs/urgenciasHistog2009.pdf used on input line 3
+93.
 (pdftex.def)             Requested size: 95.39693pt x 69.38062pt.
 
 
 pdfTeX warning: pdflatex (file ../graphs/urgenciasHistog2010.pdf): PDF inclusio
 n: found PDF version <1.5>, but at most version <1.4> allowed
-<../graphs/urgenciasHistog2010.pdf, id=77, 397.485pt x 289.08pt>
+<../graphs/urgenciasHistog2010.pdf, id=56, 397.485pt x 289.08pt>
 File: ../graphs/urgenciasHistog2010.pdf Graphic file (type pdf)
 
 <use ../graphs/urgenciasHistog2010.pdf>
-Package pdftex.def Info: ../graphs/urgenciasHistog2010.pdf used on input line 6
-03.
+Package pdftex.def Info: ../graphs/urgenciasHistog2010.pdf used on input line 3
+94.
 (pdftex.def)             Requested size: 95.39693pt x 69.38062pt.
 
 
 pdfTeX warning: pdflatex (file ../graphs/urgenciasHistog2011.pdf): PDF inclusio
 n: found PDF version <1.5>, but at most version <1.4> allowed
-<../graphs/urgenciasHistog2011.pdf, id=78, 397.485pt x 289.08pt>
+<../graphs/urgenciasHistog2011.pdf, id=57, 397.485pt x 289.08pt>
 File: ../graphs/urgenciasHistog2011.pdf Graphic file (type pdf)
 
 <use ../graphs/urgenciasHistog2011.pdf>
-Package pdftex.def Info: ../graphs/urgenciasHistog2011.pdf used on input line 6
-04.
+Package pdftex.def Info: ../graphs/urgenciasHistog2011.pdf used on input line 3
+95.
 (pdftex.def)             Requested size: 95.39693pt x 69.38062pt.
 
 
 pdfTeX warning: pdflatex (file ../graphs/urgenciasHistog2012.pdf): PDF inclusio
 n: found PDF version <1.5>, but at most version <1.4> allowed
-<../graphs/urgenciasHistog2012.pdf, id=79, 397.485pt x 289.08pt>
+<../graphs/urgenciasHistog2012.pdf, id=58, 397.485pt x 289.08pt>
 File: ../graphs/urgenciasHistog2012.pdf Graphic file (type pdf)
 
 <use ../graphs/urgenciasHistog2012.pdf>
-Package pdftex.def Info: ../graphs/urgenciasHistog2012.pdf used on input line 6
-05.
+Package pdftex.def Info: ../graphs/urgenciasHistog2012.pdf used on input line 3
+96.
 (pdftex.def)             Requested size: 95.39693pt x 69.38062pt.
 
 
 pdfTeX warning: pdflatex (file ../graphs/urgenciasHistog2013.pdf): PDF inclusio
 n: found PDF version <1.5>, but at most version <1.4> allowed
-<../graphs/urgenciasHistog2013.pdf, id=80, 397.485pt x 289.08pt>
+<../graphs/urgenciasHistog2013.pdf, id=59, 397.485pt x 289.08pt>
 File: ../graphs/urgenciasHistog2013.pdf Graphic file (type pdf)
 
 <use ../graphs/urgenciasHistog2013.pdf>
-Package pdftex.def Info: ../graphs/urgenciasHistog2013.pdf used on input line 6
-06.
+Package pdftex.def Info: ../graphs/urgenciasHistog2013.pdf used on input line 3
+97.
 (pdftex.def)             Requested size: 95.39693pt x 69.38062pt.
 
 
 pdfTeX warning: pdflatex (file ../graphs/urgencias2006-1.pdf): PDF inclusion: f
 ound PDF version <1.5>, but at most version <1.4> allowed
-<../graphs/urgencias2006-1.pdf, id=81, 505.89pt x 307.1475pt>
+<../graphs/urgencias2006-1.pdf, id=60, 505.89pt x 307.1475pt>
 File: ../graphs/urgencias2006-1.pdf Graphic file (type pdf)
 
 <use ../graphs/urgencias2006-1.pdf>
-Package pdftex.def Info: ../graphs/urgencias2006-1.pdf used on input line 633.
+Package pdftex.def Info: ../graphs/urgencias2006-1.pdf used on input line 424.
 (pdftex.def)             Requested size: 433.62001pt x 263.27466pt.
 
 
 pdfTeX warning: pdflatex (file ../graphs/urgencias2006-2.pdf): PDF inclusion: f
 ound PDF version <1.5>, but at most version <1.4> allowed
-<../graphs/urgencias2006-2.pdf, id=82, 505.89pt x 307.1475pt>
+<../graphs/urgencias2006-2.pdf, id=61, 505.89pt x 307.1475pt>
 File: ../graphs/urgencias2006-2.pdf Graphic file (type pdf)
 
 <use ../graphs/urgencias2006-2.pdf>
-Package pdftex.def Info: ../graphs/urgencias2006-2.pdf used on input line 634.
+Package pdftex.def Info: ../graphs/urgencias2006-2.pdf used on input line 425.
 (pdftex.def)             Requested size: 433.62001pt x 263.27466pt.
- [13 <../graphs/urgenciasHistog1998.pdf> <../graphs/urgenciasHistog1999.pdf
+ [11] [12 <../graphs/urgenciasHistog1998.pdf> <../graphs/urgenciasHistog1999.pd
+f
 
 pdfTeX warning: pdflatex (file ../graphs/urgenciasHistog1999.pdf): PDF inclusio
 n: multiple pdfs with page group included in a single page
@@ -1143,39 +1140,62 @@ n: multiple pdfs with page group included in a single page
 
 pdfTeX warning: pdflatex (file ../graphs/urgenciasHistog2013.pdf): PDF inclusio
 n: multiple pdfs with page group included in a single page
->] [14 <../graphs/urgencias2006-1.pdf> <../graphs/urgencias2006-2.pdf
+>] [13 <../graphs/urgencias2006-1.pdf> <../graphs/urgencias2006-2.pdf
 
 pdfTeX warning: pdflatex (file ../graphs/urgencias2006-2.pdf): PDF inclusion: m
 ultiple pdfs with page group included in a single page
->]
-Overfull \hbox (6.0798pt too wide) in paragraph at lines 679--680
-\T1/pcr/m/n/12 www . camara . cl / pley / pley _ detalle . aspx ? prmID = 6952 
-& prmBL = 6560-[]10$
+>] [14] [15] [16] [17] [18]
+
+pdfTeX warning: pdflatex (file ../graphs/senChile.pdf): PDF inclusion: found PD
+F version <1.5>, but at most version <1.4> allowed
+<../graphs/senChile.pdf, id=247, 722.7pt x 433.62pt>
+File: ../graphs/senChile.pdf Graphic file (type pdf)
+
+<use ../graphs/senChile.pdf>
+Package pdftex.def Info: ../graphs/senChile.pdf used on input line 690.
+(pdftex.def)             Requested size: 433.62001pt x 260.17401pt.
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <10> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 769.
+LaTeX Font Info:    Font shape `T1/pcr/bx/n' in size <10> not available
+(Font)              Font shape `T1/pcr/b/n' tried instead on input line 769.
+
+Overfull \hbox (17.12837pt too wide) in paragraph at lines 761--848
+[][] 
  []
 
-[15] [16] [17] (./urge.bbl [18]) [19] (./urge.aux) ) 
+
+Overfull \hbox (11.12837pt too wide) in paragraph at lines 856--943
+[][] 
+ []
+
+[19] [20 <../graphs/senChile.pdf>] [21] [22] (./urge.bbl [23]) [24] (./urge.aux
+)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
 Here is how much of TeX's memory you used:
- 13746 strings out of 494947
- 246287 string characters out of 6178733
- 323457 words of memory out of 5000000
- 16640 multiletter control sequences out of 15000+600000
- 77431 words of font info for 121 fonts, out of 8000000 for 9000
+ 13742 strings out of 494947
+ 246522 string characters out of 6178733
+ 335778 words of memory out of 5000000
+ 16628 multiletter control sequences out of 15000+600000
+ 88599 words of font info for 147 fonts, out of 8000000 for 9000
  40 hyphenation exceptions out of 8191
- 56i,20n,55p,1477b,1063s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texlive/texmf-d
-ist/fonts/enc/dvips/base/8r.enc}</usr/share/texlive/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/ams
-fonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmsy10.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qhvb.pfb></usr/share
-/texmf/fonts/type1/public/tex-gyre/qhvr.pfb></usr/share/texmf/fonts/type1/publi
-c/tex-gyre/qhvri.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucr
-b8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/courier/ucrr8a.pfb></usr
-/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/font
-s/type1/urw/times/utmri8a.pfb>
-Output written on urge.pdf (19 pages, 609556 bytes).
+ 56i,20n,55p,1824b,1065s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texlive/texmf-dist/fonts/enc/dvips/base/8r.enc}</usr/share/texliv
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texm
+f-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/
+fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/share/texmf/fonts/type1/public/
+tex-gyre/qhvb.pfb></usr/share/texmf/fonts/type1/public/tex-gyre/qhvr.pfb></usr/
+share/texmf/fonts/type1/public/tex-gyre/qhvri.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/urw/courier/ucrb8a.pfb></usr/share/texlive/texmf-dist/fonts/type1
+/urw/courier/ucrr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/symbol/u
+syr.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/s
+hare/texlive/texmf-dist/fonts/type1/urw/times/utmr8a.pfb></usr/share/texlive/te
+xmf-dist/fonts/type1/urw/times/utmri8a.pfb>
+Output written on urge.pdf (24 pages, 623920 bytes).
 PDF statistics:
- 294 PDF objects out of 1000 (max. 8388607)
+ 313 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  108 words of extra memory for PDF output out of 10000 (max. 10000000)
 

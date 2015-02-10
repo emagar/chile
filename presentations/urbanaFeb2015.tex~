@@ -1,0 +1,1523 @@
+%  http://latex-beamer.sourceforge.net/
+
+%\documentclass[landscape]{foils}
+
+%\documentclass{beamer}
+%\documentclass[handout]{beamer}     % TO PRINT PRESENTATION HANDOUT
+\documentclass[xcolor=dvipsnames]{beamer}  % ALLOWS CHANGE IN COLOR
+
+\usepackage{color}
+
+\usepackage{pifont} %para tener la ballot cross \ding{55}
+
+\usepackage{beamerthemesplit}
+\usepackage{url}
+\usepackage{ae} % or {zefonts}
+\usepackage[T1]{fontenc}
+\usepackage[ansinew]{inputenc}
+\usepackage[spanish]{babel}
+\decimalpoint
+
+\usepackage{graphicx}
+%\graphicspath{"c:/data"}
+\usepackage{color}
+%\usepackage[colorlinks]{hyperref}
+\usepackage{tikz} % Easier syntax to draw pgf files (invokes pgf automatically)
+\usetikzlibrary{arrows,shapes.geometric}
+%\usepackage{pgfmath}
+
+
+%\usecolortheme{crane}     %Color yellow
+%\usetheme{Warsaw}
+\usecolortheme[named=Gray]{structure}
+
+\useoutertheme[footline=empty]{}  % PUTS COLORED LINE AT FOOT WITH TITLE, AUTHOR, PAGE, etc
+%\usetheme{Berkeley}
+\usetheme[height=7mm]{Rochester}
+\setbeamertemplate{items}[ball]   % ITEMS IN 3D BALLS (alt CIRCLES)
+\setbeamertemplate{navigation symbols}{}  % DROPS NAVIGATION ICONS
+\setbeamertemplate{blocks}[rounded][shadow=true]
+
+\usepackage{multirow} %allows multiple rows in tables
+
+%\setbeamertemplate{footline} {
+%    \begin{beamercolorbox}{section in head/foot}
+%    \insertsectionnavigationhorizontal{\paperwidth}{}{plus1filll
+%    \insertframenumber}
+%    \end{beamercolorbox}
+%}
+
+
+%\setbeamertemplate{navigation symbols}{\insertslidenavigationsymbol,
+%\insertdocnavigationsymbol} \setbeamertemplate{footline} {
+%    \begin{beamercolorbox}{section in head/foot}
+%    \insertsectionnavigationhorizontal{\paperwidth}{}{plus1filll
+%    \insertframenumber}
+%    \end{beamercolorbox}
+%}
+
+\setbeamercovered{transparent}
+\setbeamertemplate{caption}{\insertcaption}
+
+\newcommand{\be}{\begin{enumerate}}
+\newcommand{\ee}{\end{enumerate}}
+\newcommand{\bq}{\begin{quote}}
+\newcommand{\eq}{\end{quote}}
+\newcommand{\bd}{\begin{description}}
+\newcommand{\ed}{\end{description}}
+\newcommand{\bi}{\begin{itemize}}
+\newcommand{\ei}{\end{itemize}}
+\newcommand{\beq}{\begin{equation*}}
+\newcommand{\eeq}{\end{equation*}}
+\newcommand{\bc}{\begin{center}}
+\newcommand{\ec}{\end{center}}
+
+\AtBeginSection[] {
+   \begin{frame}
+       \frametitle{Outline}
+       \tableofcontents[currentsection]
+   \end{frame}
+}
+
+\tikzstyle{nodo} = [circle, draw=black, fill=white, text=black]
+\tikzstyle{end} = [circle, minimum width=3pt,fill, inner sep=0pt]
+
+\title[Congress skips turn]{Congress skips turn, again}
+\subtitle{Agenda obstruction in Chile's Congress}
+\author[Magar]{Eric Magar\inst{1}}
+\institute[ITAM]{ \inst{1}ITAM, Mexico City}
+\date[9feb15]{\small{Univ. of Illinois at Urbana Champaign} \\ 2/9/2015}
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\frame[plain]{\titlepage}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Motivation}
+
+How do voters relate ideologically to parties?
+
+How do representatives relate to voters?
+
+\bigskip \pause
+
+Advanced democracies: 
+
+\be
+
+\item parties able to stake different ideological positions
+
+\item voters perceive those and vote accordingly
+
+\ee
+
+(Adams 2001, Cox 1987, Iversen 1994, ...)
+
+\bigskip
+
+Latin America: 
+
+\be
+
+\item Idelogical positions of parties rarely clear
+
+\item Charismatic and clientelistic ties compete with issue voting
+
+\ee
+
+(Mainwaring\&Scully 1995, Dix 1989, Kitschelt et al. 2010)
+
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Motivation}
+
+\textbf{Q}: Are Mexican federal deputies responsive to constituents despite single-term limits? \\
+Is there an electoral connection (Mayhew 1974)?
+
+\bigskip
+
+\pause
+
+Answer may lie at crossroads of \alert{roll-call analysis} and \alert{public opinion}
+
+\medskip
+
+Difficulty: metric is \textbf{not} the same 
+
+\bigskip
+
+Two routes
+
+\be
+
+\item<2-> mass survey with Y/N answers to issues that lawmakers voted \\ (Jessee 2009; Rosas, Micozzi, Magar, Saiegh ND)
+
+\item<2-> Find proximal ``bridge'' from mass survey to roll call votes: \\ elite questionnaire!
+
+\ee
+
+\bigskip
+
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Road map}
+
+\tableofcontents[section=1]
+
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Elements for a model of urgencies}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Impatience}
+
+\begin{tabular}{ccc}
+Round & Policy           & $A$'s net gain \\ \hline
+0     & $a_0,b_0,e_0,f_0$ & 0            \\ \hdashline
+  \mc{3}{l}{Agenda \emph{abef}}   \\
+1     & $a_1,b_0,e_0,f_0$ & $a_1$        \\
+2     & $a_1,b_1,e_0,f_0$ & $(a_1+b_1)d$ \\ \hdashline
+  \mc{3}{l}{Agenda \emph{eabf}}   \\
+1     & $a_0,b_0,e_1,f_0$ & $e_1$        \\
+2     & $a_1,b_0,e_1,f_0$ & $(a_1+e_1)d$ \\ \hdashline
+  \mc{3}{l}{Agenda \emph{efab}}   \\
+1     & $a_0,b_0,e_1,f_0$ & $e_1$        \\
+2     & $a_0,b_0,e_1,f_1$ & $(e_1+f_1)d$ \\ \hline
+\end{tabular}
+
+
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Sub-national effects in roll-call voting}
+
+Rosas\&Langston 2011
+
+\bi
+
+\item compare same-party deputy behavior
+
+\item lame-duck governors can't reward term-limited fed.\ deputies
+
+\item variance in sub-national election calendars: \\ treatment = deputies with lame-duck governor \\ control = without 
+
+\item state-party contingents systematically more cohesive when their governor is \alert{not} a lame-duck
+
+\ei
+
+\bigskip
+
+So governors drive the subnational effects
+
+
+
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+    \frametitle{Over-determination}
+
+\begin{center}
+\begin{tabular}{cc}
+ \begin{tikzpicture}[scale=1,rotate=0]
+  \draw (-.35,0) -- (-1,0) node [left=2pt,black] {G};
+  \draw [->] (-1,0) -- (-.35,0) node [right=1.35pt,black] {D};
+  \draw (0,.35) -- (0,1) node [above=2pt,black] {(P)};
+  \draw [->] (0,1) -- (0,.35) ;
+  \draw (.35,0) -- (1,0) node [right=2pt,black] {O};
+  \draw [->] (1,0) -- (.35,0) ;
+  \draw[white] (0,-.35) -- (0,-1) node [below=2pt,white] {C};
+  \draw[white, ->] (0,-1) -- (0,-.35) ;
+%  \draw [->] (-.35,-1.15) -- (-1.15,-.35) ;
+ \end{tikzpicture}
+&
+ \begin{tikzpicture}[scale=1,rotate=0]
+  \draw[white] (-.35,0) -- (-1,0) node [left=2pt,white] {G};
+  \draw [white, ->] (-1,0) -- (-.35,0) node [right=1.35pt,white] {D};
+  \draw[white] (0,.35) -- (0,1) node [above=2pt,white] {(P)};
+  \draw[white, ->] (0,1) -- (0,.35) ;
+  \draw[white] (.35,0) -- (1,0) node [right=2pt,white] {O'};
+  \draw [white, ->] (1,0) -- (.35,0) ;
+  \draw[white] (0,-.35) -- (0,-1) node [below=2pt,white] {C};
+%  \draw [white, dashed, ->] (0,-1) -- (0,-.35) ;
+%  \draw [->] (-.35,-1.15) -- (-1.15,-.35) ;
+ \end{tikzpicture} \\
+ ok if \\ $\text{cov}(G,O)=0$ & \\ 
+\end{tabular}
+
+\bigskip
+
+{\color{white}
+
+Need to control C to understand sub-national pressure}
+
+\end{center}
+
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+    \frametitle{Over-determination}
+
+\begin{center}
+\begin{tabular}{cc}
+ \begin{tikzpicture}[scale=1,rotate=0]
+  \draw (-.35,0) -- (-1,0) node [left=2pt,black] {G};
+  \draw [->] (-1,0) -- (-.35,0) node [right=1.35pt,black] {D};
+  \draw (0,.35) -- (0,1) node [above=2pt,black] {(P)};
+  \draw [->] (0,1) -- (0,.35) ;
+  \draw (.35,0) -- (1,0) node [right=2pt,black] {O};
+  \draw [->] (1,0) -- (.35,0) ;
+  \draw[white] (0,-.35) -- (0,-1) node [below=2pt,white] {C};
+  \draw[white, ->] (0,-1) -- (0,-.35) ;
+%  \draw [->] (-.35,-1.15) -- (-1.15,-.35) ;
+ \end{tikzpicture}
+&
+ \begin{tikzpicture}[scale=1,rotate=0]
+  \draw (-.35,0) -- (-1,0) node [left=2pt,black] {G};
+  \draw [->] (-1,0) -- (-.35,0) node [right=1.35pt,black] {D};
+  \draw (0,.35) -- (0,1) node [above=2pt,black] {(P)};
+  \draw [->] (0,1) -- (0,.35) ;
+  \draw (.35,0) -- (1,0) node [right=2pt,black] {O'};
+  \draw [->] (1,0) -- (.35,0) ;
+  \draw (0,-.35) -- (0,-1) node [below=2pt,black] {C};
+%  \draw [->, dashed] (0,-1) -- (0,-.35) ;
+%  \draw [->] (-.35,-1.15) -- (-1.15,-.35) ;
+ \end{tikzpicture} \\
+ ok if \\ $\text{cov}(G,O)=0$ & $O=O'+C$\\
+\end{tabular}
+\bigskip
+
+{\color{white}
+
+Need to control C to understand sub-national pressure
+}
+
+\end{center}
+
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+    \frametitle{Over-determination}
+
+\begin{center}
+\begin{tabular}{cc}
+ \begin{tikzpicture}[scale=1,rotate=0]
+  \draw (-.35,0) -- (-1,0) node [left=2pt,black] {G};
+  \draw [->] (-1,0) -- (-.35,0) node [right=1.35pt,black] {D};
+  \draw (0,.35) -- (0,1) node [above=2pt,black] {(P)};
+  \draw [->] (0,1) -- (0,.35) ;
+  \draw (.35,0) -- (1,0) node [right=2pt,black] {O};
+  \draw [->] (1,0) -- (.35,0) ;
+  \draw[white] (0,-.35) -- (0,-1) node [below=2pt,white] {C};
+  \draw[white, ->] (0,-1) -- (0,-.35) ;
+%  \draw [->] (-.35,-1.15) -- (-1.15,-.35) ;
+ \end{tikzpicture}
+&
+ \begin{tikzpicture}[scale=1,rotate=0]
+  \draw (-.35,0) -- (-1,0) node [left=2pt,black] {G};
+  \draw [->] (-1,0) -- (-.35,0) node [right=1.35pt,black] {D};
+  \draw (0,.35) -- (0,1) node [above=2pt,black] {(P)};
+  \draw [->] (0,1) -- (0,.35) ;
+  \draw (.35,0) -- (1,0) node [right=2pt,black] {O'};
+  \draw [->] (1,0) -- (.35,0) ;
+  \draw (0,-.35) -- (0,-1) node [below=2pt,black] {C};
+  \draw [->] (0,-1) -- (0,-.35) ;
+%  \draw [->, dashed] (-.35,-1.15) -- (-1.15,-.35) ;
+ \end{tikzpicture} \\
+ \alert{not} ok if \\ $\text{cov}(G,O) \neq 0$ & $O=O'+C$ \\
+\end{tabular}
+
+\bigskip
+
+Need to control C to understand sub-national pressure
+
+\end{center}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Ideal point estimation and bridges}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Stochastic spatial voting}
+
+% \begin{center}
+%  \begin{tikzpicture}[scale=1,rotate=0]
+%   \def\xo{0,0}
+%   \def\xu{4,0}
+%   \def\xj{2.7,0}
+%   \def\m{2,0}
+%   \draw (-1,0) -- (5,0);
+%   \fill[red] (\xo) circle (1.5pt) node [below=2pt,black] {$nay$};
+%   \fill[green] (\xu) circle (1.5pt) node [below=2pt,black] {$aye$};
+%   \fill[black] (\xj) circle (1.5pt) node [below=2pt,black] {$x_j$};
+%   \draw (2,.1) -- (2,-.1) node [below=2pt,black] {$m$};
+% %  \fill[black!50] (\xj) circle (1.5pt) node [below=2pt,black] {$j$};
+%  \end{tikzpicture}
+% \end{center}
+
+\begin{center}
+\begin{tabular}{l}
+ \begin{tikzpicture}[scale=.75,rotate=0]
+  \def\xnp{0,0}
+  \def\xn{-1,0}
+  \def\xy{3,2}
+  \def\xju{1.25,2}
+  \def\xjd{1.25,1}
+  \def\xjt{1.25,0}
+  \draw[white] (-2,0) -- (4,0);
+  \fill[green] (\xn) circle (1.5pt) node [above=2pt,black] {$aye$};
+  \fill[red] (\xy) circle (1.5pt) node [above=2pt,black] {$nay$};
+  \draw[black!35,dotted] (\xn) -- (\xy);
+  \draw (2,-1) -- (0,3) node[very near end,sloped,below] {~~~\small {$y=a+b \cdot x$}}; % cutline
+  \fill[black] (\xju) circle (1.5pt) node[above=2pt,black] {$j$};
+  \draw (-2,-1) -- (4,-1) node[very near end,sloped,below] {\footnotesize{~~~~~~~~~~~ $x$}};
+  \draw (-2,-1) -- (-2,3) node[very near end,sloped,above] {\footnotesize{~~~~~ $y$}};
+ \end{tikzpicture}
+\end{tabular}
+\end{center}
+
+
+\bigskip
+
+%Vote propensity: $v^*_{j}= \delta(x_j - m) +\text{error}$.
+Vote propensity: $v^*_{ij}= \delta_i(a_i + b_i x_j - y_j) +\text{error}_{ij}$.
+
+\bigskip
+
+Voting is sincere: $v_{ij}=
+ \begin{cases}
+  1 \text{ (`aye')} \iff v^*_{ij} \geq 0 \\
+  0 \text{ (`nay') otherwise.}           \,
+ \end{cases}$
+
+% \bigskip \pause
+
+% Dynamics: $x_{j,t} \sim \mathrm{N}( x_{j,t-1},\text{slack}
+% )$~~~~~(cf.\ Martin\&Quinn 2002).
+
+\bigskip
+
+Estimation: NOMINATE, OC, MCMC (Carroll et al. 2009). 
+
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Rotation and comparability problems}
+
+ \begin{columns}[c]
+
+ \column{.5\textwidth}
+
+\bi
+
+\item Space lacks ``meaning'' (origin, scale arbitrary)
+
+\item Interpretation: \\ (a) fix known extremists or \\ (b) fix known votes
+
+\item Yet won't allow inter-temporal or inter-chamber comparisons 
+
+\ei
+
+ \column{.5\textwidth}
+
+ \begin{tikzpicture}[scale=1,rotate=0]
+  \def\xj{0,0}
+  \def\xk{3,0}
+  \def\xl{4,0}
+  \draw (-.5,0) -- (4.5,0);
+  \fill[brown] (\xj) circle (1.5pt) node [below=2pt,black] {$j$};
+  \fill[blue] (\xk) circle (1.5pt) node [below=2pt,black] {$k$};
+  \fill[green] (\xl) circle (1.5pt) node [below=2pt,black] {$l$};
+ \end{tikzpicture}
+
+ \begin{tikzpicture}[scale=1,rotate=0]
+  \def\xj{0,0}
+  \def\xk{1.5,0}
+  \def\xl{2,0}
+  \draw (-.5,0) -- (2.5,0);
+  \fill[brown] (\xj) circle (1.5pt) node [below=2pt,black] {$j$};
+  \fill[blue] (\xk) circle (1.5pt) node [below=2pt,black] {$k$};
+  \fill[green] (\xl) circle (1.5pt) node [below=2pt,black] {$l$};
+ \end{tikzpicture}
+
+ \begin{tikzpicture}[scale=1,rotate=0]
+  \def\xj{0,0}
+  \def\xk{-1.5,0}
+  \def\xl{-2,0}
+  \draw (.5,0) -- (-2.5,0);
+  \fill[brown] (\xj) circle (1.5pt) node [below=2pt,black] {$j$};
+  \fill[blue] (\xk) circle (1.5pt) node [below=2pt,black] {$k$};
+  \fill[green] (\xl) circle (1.5pt) node [below=2pt,black] {$l$};
+ \end{tikzpicture}
+
+\pause
+
+ \begin{tikzpicture}[scale=1,rotate=0]
+  \def\xj{0,0}
+  \def\xk{-1.5,0}
+  \def\xm{1,0}
+  \draw (1.5,0) -- (-2.5,0);
+  \fill[brown] (\xj) circle (1.5pt) node [below=2pt,black] {$j$};
+  \fill[blue] (\xk) circle (1.5pt) node [below=2pt,black] {$k$};
+  \fill[red] (\xm) circle (1.5pt) node [below=2pt,black] {$m$};
+ \end{tikzpicture}
+
+\end{columns}
+
+\bigskip \pause
+
+\textbf{Bridge solution:} \\ (1) members serving both periods/chambers \\
+             (2) Assume same ``voting model'' is used \\
+(Poole 1998, Groseclose et al 1999)
+
+
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Towards a shared space}
+
+\be
+
+\item Roll call votes
+
+\item Survey of members of the lower chamber of Congress
+
+\item Survey of voter attitudes
+
+\ee
+
+\bigskip
+
+\textbf{Bridge material}
+
+(1) and (2) have people in common
+
+(2) and (3) have stimuli in common
+
+
+\bigskip
+
+(Shor\&McCarty 2011)
+
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Votes in the lower chamber}
+
+
+\begin{tabular}{lrr}
+%                & \multicolumn{2}{c}{Legislature} \\
+  & 60th & 61st \\ 
+                & \footnotesize{(2006-09)} & \footnotesize{(2009--12)} \\ \hline
+Roll call votes      & 590  & 738 \\
+%Abstain rate        & 31\% & 33\% \\
+Unanimous or near    & 64\% & 63\% \\
+%Near-unanimous       & 14\% & 20\% \\
+Contested (scalable) & 36\% & 37\% \\
+Mean partic. scalable votes & 74\% & 68\% \\
+\end{tabular}
+
+\bigskip
+
+\begin{tabular}{lrrrrrr}
+Vote type 1998--2012 & \%  \\ \hline
+Vs $SQ$ & 57 \\
+Amendments                   & 22 &&& Mean Rice score & .79 \\
+Procedural                   & 9  &&& Mean votes cast & 382 \\
+\emph{Punto de acuerdo}      & 4  \\
+Private bill                 & 6  \\
+Presidential trip            & 2  \\
+\end{tabular}
+
+
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\frame {                      % SLIDE
+
+    \frametitle{Two recent surveys}
+
+
+\be
+
+\item Elite (by \emph{Reforma} 2009)
+
+    \bi
+
+    \item  self-administered to incoming deputies
+
+    \item 124 stimuli on attitudes, policy, and respondent traits
+
+    \item anonymous, but party and state known
+
+    \item 231 of 500 (46\%) responded
+
+    \ei
+
+\item State populations (ENVUD 2010, by Banamex/\emph{Este Pa\'is})
+
+    \bi
+
+    \item face-to-face interviews
+
+    \item focus = values, but has >100 stimuli relevant to politics
+
+    \item large samples (total $\approx$ 16k) representative @ state level
+
+    \ei
+
+\ee
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\frame {                      % SLIDE
+
+    \frametitle{Elite survey, response rates}
+
+ \begin{center}
+  \begin{tabular}{lcccc}
+              &Response    & Weigth in      &       &           \\
+  Party       &rate        & sample         & Seats & Difference\\ \hline
+  PAN         &    52\%    &       32\%     &  28\% &   $+4$    \\
+  PRI         &    36\%    &       37\%     &  48\% &  $-11$    \\
+  PRD         &    65\%    &       19\%     &  14\% &   $+5$    \\
+  PT          &    85\%    &        5\%     &   3\% &   $+2$    \\
+  PVEM        &    24\%    &        2\%     &   4\% &   $+2$    \\
+  Convergencia&    38\%    &        1\%     &   2\% &   $+1$    \\
+  PANAL       &   100\%    &        3\%     &   2\% &   $-1$    \\
+  All         &    46\%    &      100\%     & 100\% &  ---    \\
+  (N)         &   ---      &     (231)      &(500)  &  ---      \\
+  \end{tabular}
+ \end{center}
+
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\frame {                      % SLIDE
+
+    \frametitle{Mass survey, demographics}
+
+\begin{footnotesize}
+\begin{tabular}{rrrrrrrrrrr}
+ags &  bc & bcs & cam & coa & col & cps & cua &  df & dgo & gua  \\ 
+414 & 500 & 400 & 400 & 400 & 400 & 600 & 483 & 800 & 400 & 685  \\ \hline
+gue & hgo & jal & mex & mic & mor & nay &  nl & oax & pue & que \\ 
+500 & 400 & 700 & 800 & 675 & 391 & 400 & 700 & 500 & 668 & 400 \\ \hline
+qui & san & sin & son & tab & tam & tla & ver & yuc & zac & \\ 
+395 & 400 & 400 & 400 & 400 & 400 & 400 & 700 & 399 & 400 & \\
+\end{tabular}
+\end{footnotesize}
+
+\begin{center}
+\begin{tabular}{rrrrrr}
+na & PAN & PRI & PRD & indep. & (N) \\ \hline
+%1166 & 2297 & 4173 & 1145 & 7129 \\ 
+7\% & 14\% & 26\% & 7\% & 45\% & (15,910) \\ 
+\end{tabular}
+\end{center}
+
+\begin{tabular}{rrrrrrr}
+      clase alta &  1\% &&& women & 50\% \\
+clase media alta & 14\% &&& men   & 50\% \\
+clase media baja & 39\% &&& & \\
+    clase obrera & 19\% &&& urban & 68\% \\
+      clase baja & 26\% &&& rural & 32\% \\
+    \end{tabular}
+    
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Two recent surveys}
+
+Despite different methods, surveys have common key elements
+
+\bi
+
+\item ``simultaneous'', both post-midterm election (10/09 vs 11/10) 
+
+\item by same pollster (Moreno) \\  \includegraphics[width=.1\textwidth]{../../graphs/moreno.jpg}
+
+\item a dozen stimuli included in \alert{both} surveys
+
+\ei
+
+\pause
+
+-Should reforms priorize order or guarantee people's rights?
+
+-Should private capital be allowed in deepwater drilling?
+
+-Satisfaction with democracy / consolidation?
+
+-Presidential approval
+
+-Do you approve gay marriage? Abortion?
+
+-Is the market preferable to government intervention?
+
+-Left-right self-placement
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Results}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Data analysis}
+
+\alert{Preliminary} exploration
+
+\bigskip
+
+Use \texttt{BlackBox} routine to obtain basic space from survey stimuli \\
+(Poole, Carroll, et al)
+
+\bigskip
+
+Plan to rely on IRT to make the estimation --- need to overcome anonimity problem
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Deputy survey}
+
+\begin{center}
+ \includegraphics[width=.75\textwidth]{../../graphs/bridge/eliteBSallQs.pdf}
+\end{center}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Mass survey}
+
+\begin{center}
+ \includegraphics[width=.75\textwidth]{../../graphs/bridge/voterBSallQs.pdf}
+\end{center}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Shared space}
+
+\begin{center}
+ \includegraphics[width=.75\textwidth]{../../graphs/bridge/voterEliteBSbridgeQs.pdf}
+\end{center}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Ideal point estimates, 61st Leg.}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+    \frametitle{Parties' left--right locations (cf.\ Aldrich\&McKelvey 1977)}
+
+\begin{center}
+\bi
+\item Elite survey: perceptual party locations $l_{rp}$ in five-point scale
+\item Solve interpersonal comparability problem: \\ \beq l_{rp} = a_{r} + b_{r} \mu_p + \texttt{error}_{rp} \eeq
+\ei
+ \includegraphics[width=.5\textwidth]{../../graphs/partyMus.pdf}
+\end{center}
+}
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \frame {                      % SLIDE
+%     \frametitle{A-M}
+
+% Code
+
+% \begin{verbatim}
+%     for (r in 1:R){     ### loop over respondents (anonymous deputies)
+%       for (p in 1:P){   ### loop over parties
+%         loc[r,p] ~ dnorm(loc.hat[r,p], tau.loc);
+%         loc.hat[r,p] <- b0[r] + b1[r]*mu.p[p];
+%                     }
+%                   }
+%     ## priors non-informative ##
+%     for (r in 1:R){
+%       b0[r] ~ dnorm(0,.01);
+%       b1[r] ~ dunif(0,1.5);  ## SLOPE POSITIVE
+%                   }
+%     for (p in 1:P){
+%       mu.p[p] ~ dnorm(0,.01);
+%                   }
+%     tau.loc <- pow(sigma.l, -2);
+%     sigma.l ~ dunif(0,100);
+% \end{verbatim}
+
+% \begin{verbatim}
+% model2Dj.irt = "model {
+%   for (j in 1:J){                ## loop over diputados
+%     for (i in 1:I){              ## loop over items
+%       #v.hat[j,i] ~ dbern(p[j,i]);                                  ## voting rule
+%       #p[j,i] <- phi(v.star[j,i]);                                  ## sets 0<p<1
+%       v.star[j,i] ~ dnorm(mu[j,i],1)T(lo.v[j,i],hi.v[j,i]);   ## truncated normal sampling
+%       mu[j,i] <- beta[i]*x[j] - alpha[i] + delta[i]*y[j] ## utility differential
+%                   }
+%                 }
+% ## ESTO LO PUEDO SACAR POST ESTIMACION
+% ##  for (i in 1:I){
+% ##  a[i] <- beta[i] / delta[i]  ## pendiente de cutline
+% ##  b[i] <- alpha[i] / delta[i] ## constante de cutline
+% ##  }
+%   ## priors ################
+% for (j in 1:PAN){
+%     x[j] ~  dnorm(0, 4)   # PAN
+%     y[j] ~  dnorm(1, 4)
+%     }
+% for (j in (PAN+1):PRI){
+%     x[j] ~  dnorm(1, 4)    # PRI
+%     y[j] ~  dnorm(-1, 4)
+%     }
+% for (j in (PRI+1):PRD){
+%     x[j] ~  dnorm(-1, 4)    # PRD
+%     y[j] ~  dnorm(0, 4)
+%     }
+% for (j in (PT+1):J){
+%     x[j] ~  dnorm(0, .1)    # REST UNINFORMATIVE
+%     y[j] ~  dnorm(0, .1)
+%     }
+%     for(i in 1:I){
+%         alpha[i] ~ dnorm( 0, 1)
+%         beta[i]  ~ dnorm( 0, 1)
+%         delta[i] ~ dnorm( 0, 1)
+%                  }
+% }
+% \end{verbatim}
+
+% }
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+    \frametitle{Ideal point estimates in common space}
+
+\begin{center}
+
+Use L--R placement of all parties to estimate their actual position (Aldrich+McKelvey 1977, Zucco+Lauderdale 2011)
+
+\bigskip
+
+\begin{tabular}{cc}
+ \includegraphics[width=.475\textwidth]{../../graphs/ip61-0911-ptyAnchors.pdf} &
+ \includegraphics[width=.475\textwidth]{../../graphs/ip61-0911-ReformaPtyAnchors.pdf}
+\end{tabular}
+
+\end{center}
+
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Where next?}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+    \frametitle{A measure of sub-national pressures (cf.\ Cox+Poole 2001)}
+
+\begin{center}
+
+If cut-point between two party medians $\iff$ ``party vote''
+
+\bigskip
+
+ \includegraphics[width=.7\textwidth]{../../graphs/ip61-dim1-panpriCutpoints-jal.pdf}
+
+\end{center}
+
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+    \frametitle{A measure of sub-national pressures}
+
+\be
+
+\item For each pair of parties in each dimension, select party votes
+
+\item Compute \beq\texttt{Rice}_{\text{Jalisco}i} = \frac{|\texttt{ayes}_{\text{Jalisco}i}-\texttt{nays}_{\text{Jalisco}i}|}{\texttt{ayes}_{\text{Jalisco}i}+\texttt{nays}_{\text{Jalisco}i}} \eeq
+
+    \bi
+
+    \item expected by spatial model ($E$)
+
+    \item actually observed ($A$)
+
+    \ei
+
+%%\item $A \stackrel{?}{\lessgtr} E$
+
+\item For multi-party state contingents, roll-calls with $A > E$ had sub-national pressure \alert{bigger than} party pressure
+
+\ee
+
+\bigskip
+
+\bc
+
+How often does $A>E$ in party votes?
+
+\ec
+
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%\frame {                      % SLIDE
+%%
+%%    \frametitle{Case selection: party-balanced state contingents}
+%%
+%% \begin{center}
+%%  \begin{tabular}{lrrr}
+%%  State           & PAN   & PRI   & PRD   \\ \hline
+%%  Aguascalientes  &   2   &   1   &       \\
+%%  Colima          &   1   &   1   &       \\
+%%  Chiapas         &   4   &   4   &   4   \\
+%%  DF              &   5   &   3   &   15  \\
+%%  Jalisco         &   9   &   10  &       \\
+%%  Michoacán       &   4   &   1   &   9   \\
+%%  Nayarit         &   1   &   1   &   2   \\
+%%  Nuevo León      &   4   &   8   &       \\
+%%  Querétaro       &   2   &   2   &       \\
+%%  San Luis Potosí &   5   &   2   &       \\
+%%  Tabasco         &       &   4   &   3   \\
+%%  Tlaxcala        &   2   &   1   &       \\
+%%  \end{tabular}
+%% \end{center}
+%%}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Preliminary results for 61st Leg., first dimension}
+
+79 roll-calls had cut-points between PAN and PRI medians
+
+\bigskip
+
+\bc
+
+\begin{footnotesize}
+  \begin{tabular}{lcc}
+                  & Share       &  Share with    \\
+    State         & with $A>E$  &  $A>(E+2sd)$  \\ \hline
+  Aguascalientes  &    .52  &     .00  \\
+  Colima          &    .58  &     .58  \\
+  Chiapas         &    .33  &     .13  \\
+  DF              &    .11  &     .00  \\
+  Jalisco         &    .78  &     .35  \\
+  Nayarit         &    .29  &     .01  \\
+  Nuevo León      &    .73  &     .42  \\
+  Querétaro       &    .76  &     .39  \\
+  San Luis Potosí &    .66  &     .51  \\
+  Tlaxcala        &    .62  &     .62  \\ \hline
+  Mean            &    \alert{.54}  &     \alert{.30}  \\
+  \end{tabular}
+\end{footnotesize}
+\ec
+
+\bigskip
+
+Next: use surveys, state party system, etc.\ to explain variance
+
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\frame {                      % SLIDE
+
+    \frametitle{Food for thought}
+
+\begin{enumerate}
+
+\item Cox\&Poole-type measure of sub-national forces seems promising
+
+\item Preliminary finding: not clear why governors would guide so many votes
+
+\item Surveys offer elements to control what other studies have not---constituent effects
+
+\item Comments/critiques very welcome
+
+\end{enumerate}
+
+\center{\textbf{Thank you!}}
+
+}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%   EXTRA   MATERIAL    %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+    \frametitle{Deputies' attitudes by party (elite survey)}
+
+\begin{center}
+\begin{figure}
+ \begin{center}
+  \begin{scriptsize}
+    \begin{tabular}{ccccccccc}
+     & Electri- &     & Free  &         & Abor- & Gay      & LR       & LR  \\
+     & city     & Oil & trade & Tariffs & tion  & marriage & politics & social \\
+     PAN &
+     \includegraphics[width=.075\textwidth]{../../ideol/elite2009/histograms/q1p1.pdf} &
+     \includegraphics[width=.075\textwidth]{../../ideol/elite2009/histograms/q2p1.pdf} &
+     \includegraphics[width=.075\textwidth]{../../ideol/elite2009/histograms/q3p1.pdf} &
+     \includegraphics[width=.075\textwidth]{../../ideol/elite2009/histograms/q4p1.pdf} &
+     \includegraphics[width=.075\textwidth]{../../ideol/elite2009/histograms/q5p1.pdf} &
+     \includegraphics[width=.075\textwidth]{../../ideol/elite2009/histograms/q6p1.pdf} &
+     \includegraphics[width=.075\textwidth]{../../ideol/elite2009/histograms/q7p1.pdf} &
+     \includegraphics[width=.075\textwidth]{../../ideol/elite2009/histograms/q8p1.pdf} \\
+     PRI &
+     \includegraphics[width=.075\textwidth]{../../ideol/elite2009/histograms/q1p2.pdf} &
+     \includegraphics[width=.075\textwidth]{../../ideol/elite2009/histograms/q2p2.pdf} &
+     \includegraphics[width=.075\textwidth]{../../ideol/elite2009/histograms/q3p2.pdf} &
+     \includegraphics[width=.075\textwidth]{../../ideol/elite2009/histograms/q4p2.pdf} &
+     \includegraphics[width=.075\textwidth]{../../ideol/elite2009/histograms/q5p2.pdf} &
+     \includegraphics[width=.075\textwidth]{../../ideol/elite2009/histograms/q6p2.pdf} &
+     \includegraphics[width=.075\textwidth]{../../ideol/elite2009/histograms/q7p2.pdf} &
+     \includegraphics[width=.075\textwidth]{../../ideol/elite2009/histograms/q8p2.pdf} \\
+     PRD &
+     \includegraphics[width=.075\textwidth]{../../ideol/elite2009/histograms/q1p3.pdf} &
+     \includegraphics[width=.075\textwidth]{../../ideol/elite2009/histograms/q2p3.pdf} &
+     \includegraphics[width=.075\textwidth]{../../ideol/elite2009/histograms/q3p3.pdf} &
+     \includegraphics[width=.075\textwidth]{../../ideol/elite2009/histograms/q4p3.pdf} &
+     \includegraphics[width=.075\textwidth]{../../ideol/elite2009/histograms/q5p3.pdf} &
+     \includegraphics[width=.075\textwidth]{../../ideol/elite2009/histograms/q6p3.pdf} &
+     \includegraphics[width=.075\textwidth]{../../ideol/elite2009/histograms/q7p3.pdf} &
+     \includegraphics[width=.075\textwidth]{../../ideol/elite2009/histograms/q8p3.pdf} \\
+    \end{tabular}
+ \caption{\emph{Party issue differences, elite survey.} Eight survey questions with categories coded such that higher values in the horizontal axis always indicate more rightward attitudes. Column heights are relative frequencies among party deputies in anonymous survey. Number of columns indicates number of ordinal answer categories in survey.}\label{F:histElite}
+  \end{scriptsize}
+ \end{center}
+\end{figure}
+\end{center}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+    \frametitle{State electorates (mass survey)}
+
+\begin{center}
+  \begin{tiny}
+    \begin{tabular}{ccccccccc}
+     & Elec.     & Oil & NAFTA & Equality & Abor.  & Gay m. & LR p  & Size \\ \hline
+     & \multicolumn{7}{l}{Aguascalientes} \\
+     PAN &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e1q1p1.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e1q2p1.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e1q3p1.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e1q4p1.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e1q5p1.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e1q6p1.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e1q7p1.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/pie1p1.pdf} \\
+     PRI &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e1q1p2.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e1q2p2.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e1q3p2.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e1q4p2.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e1q5p2.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e1q6p2.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e1q7p2.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/pie1p2.pdf} \\
+     PRD &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e1q1p3.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e1q2p3.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e1q3p3.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e1q4p3.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e1q5p3.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e1q6p3.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e1q7p3.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/pie1p3.pdf} \\
+     Indep &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e1q1p4.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e1q2p4.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e1q3p4.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e1q4p4.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e1q5p4.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e1q6p4.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e1q7p4.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/pie1p4.pdf} \\ \hline
+
+     & \multicolumn{7}{l}{Baja California} \\
+     PAN &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e2q1p1.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e2q2p1.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e2q3p1.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e2q4p1.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e2q5p1.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e2q6p1.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e2q7p1.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/pie2p1.pdf} \\
+     PRI &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e2q1p2.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e2q2p2.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e2q3p2.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e2q4p2.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e2q5p2.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e2q6p2.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e2q7p2.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/pie2p2.pdf} \\
+     PRD &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e2q1p3.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e2q2p3.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e2q3p3.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e2q4p3.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e2q5p3.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e2q6p3.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e2q7p3.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/pie2p3.pdf} \\
+     Indep &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e2q1p4.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e2q2p4.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e2q3p4.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e2q4p4.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e2q5p4.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e2q6p4.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e2q7p4.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/pie2p4.pdf} \\ \hline
+
+     & \multicolumn{7}{l}{Baja California Sur} \\
+     PAN &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e3q1p1.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e3q2p1.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e3q3p1.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e3q4p1.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e3q5p1.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e3q6p1.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e3q7p1.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/pie3p1.pdf} \\
+     PRI &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e3q1p2.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e3q2p2.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e3q3p2.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e3q4p2.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e3q5p2.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e3q6p2.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e3q7p2.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/pie3p2.pdf} \\
+     PRD &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e3q1p3.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e3q2p3.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e3q3p3.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e3q4p3.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e3q5p3.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e3q6p3.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e3q7p3.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/pie3p3.pdf} \\
+     Indep &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e3q1p4.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e3q2p4.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e3q3p4.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e3q4p4.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e3q5p4.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e3q6p4.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e3q7p4.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/pie3p4.pdf} \\ \hline
+
+     & \multicolumn{7}{l}{Campeche} \\
+     PAN &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e4q1p1.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e4q2p1.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e4q3p1.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e4q4p1.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e4q5p1.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e4q6p1.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e4q7p1.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/pie4p1.pdf} \\
+     PRI &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e4q1p2.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e4q2p2.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e4q3p2.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e4q4p2.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e4q5p2.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e4q6p2.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e4q7p2.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/pie4p2.pdf} \\
+     PRD &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e4q1p3.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e4q2p3.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e4q3p3.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e4q4p3.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e4q5p3.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e4q6p3.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e4q7p3.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/pie4p3.pdf} \\
+     Indep &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e4q1p4.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e4q2p4.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e4q3p4.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e4q4p4.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e4q5p4.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e4q6p4.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e4q7p4.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/pie4p4.pdf} \\ \hline
+
+     & \multicolumn{7}{l}{Coahuila} \\
+     PAN &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e5q1p1.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e5q2p1.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e5q3p1.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e5q4p1.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e5q5p1.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e5q6p1.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e5q7p1.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/pie5p1.pdf} \\
+     PRI &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e5q1p2.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e5q2p2.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e5q3p2.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e5q4p2.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e5q5p2.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e5q6p2.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e5q7p2.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/pie5p2.pdf} \\
+     PRD &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e5q1p3.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e5q2p3.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e5q3p3.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e5q4p3.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e5q5p3.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e5q6p3.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e5q7p3.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/pie5p3.pdf} \\
+     Indep &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e5q1p4.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e5q2p4.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e5q3p4.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e5q4p4.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e5q5p4.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e5q6p4.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/e5q7p4.pdf} &
+     \includegraphics[width=.0475\textwidth]{../../ideol/graphs/histograms/pie5p4.pdf} \\ \hline
+    \end{tabular}
+  \end{tiny}
+\end{center}
+}
+
+
+\end{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\section{Outline}
+
+\frame {                      % SLIDE
+
+    \frametitle{Outline}
+
+\tableofcontents[section=1]
+
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{IFE and delegation}
+\frame {                      % SLIDE
+
+    \frametitle{The Federal Electoral Institute}
+
+\begin{itemize}
+
+\item Nine-member, non-partisan regulatory board.
+
+\item Decisions affect all aspects of party life
+
+    \begin{enumerate}
+        \item party finance,
+        \item candidate selection,
+        \item campaign contents,
+        \item leaders v.\ rank-and-file,
+        \item vote count
+        \item ...
+    \end{enumerate}
+
+\item Members appointed by Chamber of Deputies (super-majority) for 7-year
+terms. Party quota/veto (informal) system.
+
+\item Public roll call votes.
+
+\end{itemize}
+
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Our argument}
+
+\alert<1>{Parties} designed election referee that they can
+influence.
+
+\pause
+\bigskip
+
+Delegation dilemmas: \\ IFE (the \alert<2>{agent}) affects parties'
+(the \alert<2>{principal}) welfare.
+
+\pause
+\bigskip
+
+\begin{center}
+Careful delegation $\rightarrow$ \alert{party} trust $\rightarrow$
+citizen trust
+\end{center}
+
+\pause
+
+\begin{block}{Contract design (Kiewiet \& McCubbins)}
+ \begin{center}
+    \begin{itemize}
+        \item screening
+        \item monitoring
+        \item rewards and sanctions
+        \item checks and balances
+    \end{itemize}
+ \end{center}
+\end{block}
+
+\pause
+
+Collective principal raises additional complications.
+
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Data and methods}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Meaning of recovered ideal points?}
+
+\begin{itemize}
+
+\item<2-> Poole \& Rosenthal: ideology.
+
+\item<3-> Literal interpretation valid only if intervening factors (strategy, institutions) absent.
+
+\item<4-> But: hardly absent.
+
+\item<4-> More agnostic: ideal point summary of councilor's voting
+record vis-à-vis rest.
+
+\item<4-> Closeness = \alert{vote likeness}.
+
+\end{itemize}
+
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+    \frametitle{Contested votes}
+
+\begin{center}
+
+Votes: 3,334 unanimous (73\%) and 1,245 contested (27\%)
+
+\bigskip
+
+ \includegraphics[width=\textwidth]{c:/data/rollcall/ife_cg/graphs/all+divVotsSemestre.pdf}
+
+\bigskip
+
+Presidents: Woldenberg (I \& II); Ugalde (III); Valdés (IV \& V)
+
+\end{center}
+
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{The party watchdog}
+
+\frame {                      % SLIDE
+
+    \frametitle{What lies behind drift?}
+
+
+\begin{tabular}{cll}
+ & \emph{Type}                    & \emph{Effect on ideal points} \\ \hline
+ 1.&\alert<2>{Constituents' pressure} & Drift should \emph{follow} change in principal's \\
+   &                       & situation (eg.\ new Congress). \\
+ 2.&\alert<2>{Gatekeeping}            & Removal of divisive issues pulls \\
+   &                       & most together. \\
+ 3.&Sophisticated voting   & Moderates change sides. \\
+ 4.&Side payments          & Moderates shift towards those \\
+   &                       & trading with. \\ \hline
+\end{tabular}
+
+}
+
+\frame {                      % SLIDE
+
+    \frametitle{Empirical indicators}
+
+ \begin{enumerate}
+  \item New Congress = new principal; party split = two new principals.
+  \item Election semesters = less agenda control by IFE \\ (party
+  complaints).
+ \end{enumerate}
+
+
+\begin{block}{Party complaints filed as \% of all votes}
+ \begin{center}
+  \includegraphics[width=.7\textwidth]{c:/data/rollcall/ife_cg/graphs/ptyComplaints.pdf}
+ \end{center}
+\end{block}
+
+}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\frame {                      % SLIDE
+
+    \frametitle{New principal and inter-semester change}
+
+ \begin{center}
+   \begin{tabular}{clcc}
+    \multicolumn{2}{c}{Posterior $|x_{j,t+1}-x_{j,t}|$}&  Mean & Std.\ dev. \\ \hline
+    a& New Congress semesters & \alert{.140}  &   .115    \\
+    b& Rest                   & \alert{.108}  &   .084    \\
+    c& Prob.\ a>b             & \multicolumn{2}{c}{.560} \\ \hline
+   \end{tabular}
+ \end{center}
+
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\frame {                      % SLIDE
+
+    \frametitle{Gatekeeping and signal-to-noise ratio}
+
+ \begin{center}
+
+   \begin{tabular}{clcc}
+    \multicolumn{2}{c}{Posterior $|\delta_i|$} &  Mean & Std.\ dev. \\ \hline
+    d& Electoral semesters    & \alert<1>{2.802} & 1.652  \\
+    e& Rest                   & \alert<1>{2.484} & 1.628  \\
+    f& Prob.\ d>e             & \multicolumn{2}{c}{.565} \\ \hline
+   \end{tabular}
+
+\bigskip
+
+\pause
+
+   \begin{tabular}{clcc}
+    \multicolumn{4}{c}{Posterior  $\delta_i$s with .95 ci off zero} \\
+    g& Percentage electoral semesters & \multicolumn{2}{c}{\alert<2>{64\%}} \\
+    h& Percentage rest                & \multicolumn{2}{c}{\alert<2>{46\%}} \\ \hline
+%    \multicolumn{4}{c}{Abstention rates}   \\
+%    i& PAN electoral semester & 0.039 & 0.054  \\
+%    j& PAN rest               & 0.046 & 0.067  \\
+%    k& PRI electoral semester & 0.016 & 0.021  \\
+%    l& PRI rest               & 0.024 & 0.012  \\
+%    m& PRD electoral semester & 0.072 & 0.031  \\
+%    n& PRD rest               & 0.153 & 0.050  \\ \hline
+   \end{tabular}
+ \end{center}
+
+}
+%% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% \frame {                      % SLIDE
+%%     \frametitle{Elections and within-contingent cohesion}
+%%
+%%  \begin{center}
+%%   \begin{tabular}{llrrrr}
+%%                   &  & \multicolumn{2}{c}{Electoral} &  \multicolumn{2}{c}{Non-electoral} \\
+%%                   &  & \multicolumn{2}{c}{semester}  &  \multicolumn{2}{c}{semester}      \\
+%%                   &  & Mean      & Std.\ dev.        & Mean    & Std.\ dev.              \\ \hline
+%%    PRI    &          &  0.462    & 0.422   &   0.324  &  0.287  \\
+%%    PAN    &          &  0.650    & 0.310   &   0.679  &  0.330  \\
+%%    PRD    &          &  0.979    & 0.183   &   1.120  &  0.230  \\ \hline
+%%   \end{tabular}
+%%  \end{center}
+%%
+%%
+%% }
+%% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% \frame {                      % SLIDE
+%%     \frametitle{Elections and contingent median polarization}
+%%
+%%  \begin{center}
+%%   \begin{tabular}{llrrrr}
+%%                   & \multicolumn{2}{c}{Electoral} &  \multicolumn{2}{c}{Non-electoral} \\
+%%                   & \multicolumn{2}{c}{semester}  &  \multicolumn{2}{c}{semester}      \\
+%%                   & Mean      & Std.\ dev.        & Mean    & Std.\ dev.              \\ \hline
+%%    \multicolumn{5}{c}{Periods I and II}  \\
+%%    PRI-PAN &  0.155    & 0.130   &   0.091  &  0.125  \\
+%%    PRI-PRD &  0.417    & 0.139   &   0.413  &  0.152  \\
+%%    PAN-PRD &  0.262    & 0.163   &   0.323  &  0.170  \\
+%%    \multicolumn{5}{c}{Period III}  \\
+%%    PRI-PAN & 0.639    & 0.140   &   0.369  &  0.160  \\
+%%   \end{tabular}
+%%  \end{center}
+%%
+%%
+%% }
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+    \frametitle{Elections and contingent median polarization}
+
+ \begin{center}
+  \begin{tabular}{lccc}
+                  & Electoral & & Non-electoral \\
+                  & semester  & & semester      \\
+                  & mean  &     & mean      \\
+                  & \multicolumn{3}{c}{Periods I and II}  \\
+   PRI-PAN &  0.155    & \textbf{>}   &   0.091      \\
+   PRI-PRD &  0.417    & \textbf{=}   &   0.413      \\
+   PAN-PRD &  0.262    & \textbf{<}   &   0.323      \\ \\
+                  & \multicolumn{3}{c}{Period III}  \\
+   PRI-PAN &  0.639    &  \textbf{>}  &   0.369      \\
+  \end{tabular}
+ \end{center}
+
+
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+    \frametitle{Party system influence}
+
+% c:/data/rollcall/ife_cg/presentaciones/usMex2010/
+
+\begin{center}
+ \includegraphics[width=.9\textwidth]{aparicio1.pdf} \\
+\end{center}
+
+\tiny{Source: Aparicio\&Márques (2010).}
+
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+    \frametitle{Party system influence}
+
+\begin{center}
+ \includegraphics[width=.9\textwidth]{aparicio2.pdf} \\
+\end{center}
+
+\tiny{Source: Aparicio\&Márques (2010).}
+
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Wrap up}
+
+\begin{enumerate}
+
+\item Ideal points in IFE move considerably. Short-term shocks and
+long-term drift
+
+\item Movement seems tied to representation
+considerations \\ (change in principal; less agenda power).
+
+\item Committees and vote trading may explain PAN-PRI alliance in Woldenberg.
+
+\end{enumerate}
+
+\pause
+
+\center{\textbf{Thank you!}}
+
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\end{document}

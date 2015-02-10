@@ -1,0 +1,7 @@
+\beamer@endinputifotherversion {3.24pt}
+\select@language {spanish}
+\beamer@sectionintoc {1}{Separation of power}{8}{0}{1}
+\beamer@sectionintoc {2}{Model searching}{16}{0}{2}
+\beamer@sectionintoc {3}{Data}{20}{0}{3}
+\beamer@sectionintoc {4}{Prelim analysis}{38}{0}{4}
+\beamer@sectionintoc {5}{Where next?}{47}{0}{5}

@@ -3,20 +3,18 @@
     (LaTeX-add-bibliographies
      "../bib/magar")
     (LaTeX-add-labels
-     "t:camDip"
-     "f:senChile"
-     "f:swapException"
-     "f:2chanceGame"
-     "f:2chanceEql"
+     "f:costly"
+     "f:skip"
+     "T:agendaPayoffs"
+     "t:congressSeats"
      "T:billDescriptives"
-     "T:stepsUrgencyPass"
-     "F:billPaths"
      "T:billFreqByNurg"
      "T:sponsorsOfUrgBills"
      "f:depvarHistog"
      "f:depvar"
-     "t:webInconsistencies"
-     "t:yearProp")
+     "t:negbin"
+     "f:senChile"
+     "F:billPaths")
     (TeX-add-symbols
      "mc")
     (TeX-run-style-hooks

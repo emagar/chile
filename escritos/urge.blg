@@ -3,44 +3,44 @@ Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
 The top-level auxiliary file: urge.aux
 The style file: apsr.bst
 Database file #1: ../bib/magar.bib
-You've used 10 entries,
+You've used 14 entries,
             2874 wiz_defined-function locations,
-            752 strings with 6997 characters,
-and the built_in function-call counts, 33723 in all, are:
-= -- 5501
-> -- 339
+            773 strings with 7476 characters,
+and the built_in function-call counts, 47550 in all, are:
+= -- 7730
+> -- 482
 < -- 0
-+ -- 2527
-- -- 127
-* -- 2758
-:= -- 6930
-add.period$ -- 41
-call.type$ -- 10
-change.case$ -- 130
-chr.to.int$ -- 10
-cite$ -- 10
-duplicate$ -- 160
-empty$ -- 318
-format.name$ -- 137
-if$ -- 6044
++ -- 3511
+- -- 182
+* -- 3881
+:= -- 9714
+add.period$ -- 60
+call.type$ -- 14
+change.case$ -- 182
+chr.to.int$ -- 14
+cite$ -- 14
+duplicate$ -- 252
+empty$ -- 499
+format.name$ -- 196
+if$ -- 8570
 int.to.chr$ -- 5
 int.to.str$ -- 0
-missing$ -- 17
-newline$ -- 51
-num.names$ -- 111
-pop$ -- 70
+missing$ -- 20
+newline$ -- 69
+num.names$ -- 158
+pop$ -- 93
 preamble$ -- 1
-purify$ -- 150
+purify$ -- 210
 quote$ -- 0
-skip$ -- 100
+skip$ -- 185
 stack$ -- 0
-substring$ -- 7624
-swap$ -- 12
-text.length$ -- 140
+substring$ -- 10690
+swap$ -- 42
+text.length$ -- 196
 text.prefix$ -- 0
 top$ -- 0
-type$ -- 26
+type$ -- 44
 warning$ -- 0
-while$ -- 225
+while$ -- 327
 width$ -- 0
-write$ -- 149
+write$ -- 209
