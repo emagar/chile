@@ -1,0 +1,231 @@
+\documentclass[letter,12pt]{article}
+\usepackage[letterpaper,right=1.25in,left=1.25in,top=1in,bottom=1in]{geometry}
+\usepackage{setspace}
+
+\usepackage[utf8]{inputenc}   % allows input of special characters from keyboard (input encoding)
+\usepackage[T1]{fontenc}      % what fonts to use when printing characters       (output encoding)
+\usepackage{amsmath}          % facilitates writing math formulas and improves the typographical quality of their output
+\usepackage{url}              % adds line breaks to long urls
+\usepackage[pdftex]{graphicx} % enhanced support for graphics
+\usepackage{tikz}             % Easier syntax to draw pgf files (invokes pgf automatically)
+\usetikzlibrary{arrows}
+
+\usepackage{mathptmx}           % set font type to Times
+\usepackage[scaled=.90]{helvet} % set font type to Times (Helvetica for some special characters)
+\usepackage{courier}            % set font type to Times (Courier for other special characters)
+
+\usepackage[longnamesfirst, sort]{natbib}\bibpunct[]{(}{)}{,}{a}{}{;} % handles biblio and references 
+
+\usepackage{rotating}         % sideway tables and figures that take a full page
+\usepackage{caption}          % allows multipage figures and tables with same caption (\ContinuedFloat)
+
+\usepackage{dcolumn}          % needed for apsrtable and stargazer tables from R to compile
+\usepackage{arydshln}         % dashed lines in tables (hdashline, cdashline{3-4}, 
+                              %see http://tex.stackexchange.com/questions/20140/can-a-table-include-a-horizontal-dashed-line)
+                              % must be loaded AFTER dcolumn, 
+                              %see http://tex.stackexchange.com/questions/12672/which-tabular-packages-do-which-tasks-and-which-packages-conflict
+
+
+\newcommand{\mc}{\multicolumn}
+
+\begin{document}
+
+\title{Congress skips turn again: Agenda obstruction and interbranch bargaining in Chile}
+\author{Eric Magar}
+\date{\today}
+\maketitle
+
+\begin{abstract}
+Unlike presidents with mostly (when not only) reactive formal powers in the legislative arena, Chile's enjoys formidable proactive ones. Key among them are urgency messages. A bill declared urgent confronts the considering chamber with a short deadline to discuss and vote it. Urgency, research has shown, improves the odds of passage, and most executive-initiated bill become urgent at some stage. I investigate the decision to declare or not legislation urgent, an aspect that has received less scholarly attention. Analysis of original data distinguishes messages in the 1998--2014 period that set forth urgency (40\% of 20 thousand), messages that extended the deadline (29\%), and messages to withdraw the bill's urgency (31\%). Isolating bill and session traits that correlate with urgencies sheds light on the president's power to constantly obstruct the legislative agenda and its use in executive-legislative negotiation with separation of power.  
+\end{abstract}
+
+\onehalfspacing
+
+\section{Bicameral rules}
+
+Chilean bicameralism operates on a limited navette and conference sequence \citep{tsebelis.money.1997,londregan.2000a}. Bills can originate in the chamber of deputies or the senate, by motion of any member to the parent chamber or by message from the executive. They need approval in both chambers of Congress, but the rules to approve can vary drastically. Bicameral negotiation begins with a single trip of a French-style navette: bills are considered and voted in the origin chamber first; if approved, they migrate to the revising chamber for consideration and vote. If it concurs, the bill is sent to the executive for signature. But if the revising chamber rejects, or the origin chamber finds amendments to the bill unacceptable, the chambers appoint five members each to a U.S.-style conference committee to agree on a compromise that each chamber must subsequently vote up or down. 
+
+\begin{figure}
+  \begin{center}
+  \begin{tabular}{cc}
+    (a) bill rejected by $c_1$ & (b) $c_1$ rejects bill amended by $c_2$ \\
+    \tikzstyle{mid}=[circle,draw]
+    \begin{tikzpicture}
+      \node[mid] at (2,0) (l) {\emph{e}}; 
+      \node[mid] at (4,1) (e) {\emph{$c_2$}}; 
+      \node[mid] at (6,0) (v) {\emph{$c_1$}}; 
+      \node at (4,-1) (le) {$x_0$}; 
+      \node at (6,2) (ee) {$x_0$}; 
+      \node at (8,1) (ve1) {$x_0$}; 
+      \node at (8,-1) (ve2) {$x$};
+      \path[-] (l) edge node [above, sloped] {\footnotesize{insist}} (e) (e) edge node [below, sloped] {\footnotesize{$aye\geq\frac{2}{3}$}} (v);
+      \path[-o] (l) edge node [below, sloped] {\footnotesize{no}} (le) (e) edge node [above, sloped] {\footnotesize{$nay>\frac{1}{3}$}} (ee) (v) edge node [above, sloped] {\footnotesize{$nay>\frac{2}{3}$}} (ve1) edge node [below, sloped] {\footnotesize{$aye\geq\frac{1}{3}$}} (ve2);
+    \end{tikzpicture} 
+    &
+    \tikzstyle{mid}=[circle,draw]
+    \begin{tikzpicture}
+      \node[mid] at (2,0) (l) {\emph{e}}; 
+      \node[mid] at (4,1) (e) {\emph{$c_1$}}; 
+      \node[mid] at (6,0) (v) {\emph{$c_2$}}; 
+      \node at (4,-1) (le) {$x_0$}; 
+      \node at (6,2) (ee) {$x_0$}; 
+      \node at (8,1) (ve1) {$x_0$}; 
+      \node at (8,-1) (ve2) {$x$};
+      \path[-] (l) edge node [above, sloped] {\footnotesize{insist}} (e) (e) edge node [below, sloped] {\footnotesize{$aye>\frac{1}{3}$}} (v);
+      \path[-o] (l) edge node [below, sloped] {\footnotesize{no}} (le) (e) edge node [above, sloped] {\footnotesize{$nay\geq\frac{2}{3}$}} (ee) (v) edge node [above, sloped] {\footnotesize{$nay>\frac{1}{3}$}} (ve1) edge node [below, sloped] {\footnotesize{$aye\geq\frac{2}{3}$}} (ve2);
+    \end{tikzpicture} 
+    \\
+    \end{tabular}
+  \caption{Two second chance (\emph{insistencia}) sequences. Nodes indicate moves by $e=$ executive, $c_1=$ chamber rejecting the bill, and $c_2=$ other cchamber.}\label{f:swapException}
+  \end{center}
+\end{figure}
+
+Exceptions apply, leading to bicameral rules variation. There is a general restrictive rule, which the president can invoke in most circumstances, granting rejected bills a second chance.\footnote{The sole circumstance when a rejected bill cannot be given a second chance ensues when, following rejection by the revising chamber, a compromise is reached in conference, accepted in the origin chamber, but rejected by the revising. See Const.\ art.\ 70, and compare to 68 and 71.} When the procedure known as \emph{insistencia} is invoked, rejection of the bill by the recalcitrant chamber requires a two-thirds of members present vote. Passage by the other chamber also becomes more difficult, demanding a two-thirds of members present favorable vote. Figure \ref{f:swapException} illustrates the sequence of the second chance rule the asymmetry introduced for proponents and opponents alike. Two variants are considered, one applicable to executive-initiated bills rejected in the origin chamber or bills rejected in the revising chamber (part a); the other applicable to bills amended in the revising chamber that are rejected in the origin chamber (parb b). 
+
+\begin{figure}
+  \begin{center}
+    \tikzstyle{mid}=[circle,draw]
+    \begin{tikzpicture}
+      \node[mid] at (-2,0) (A) {$A$}; 
+      \node[mid] at (0,1) (N) {$N$}; 
+      \node[mid] at (2,0) (e) {$e$}; 
+      \node[mid] at (4,1) (a) {$a$}; 
+      \node[mid] at (6,0) (n) {$n$}; 
+      \node at (0,-1) (Ae) {$x_0$}; 
+      \node at (2,2) (Ne) {$x$}; 
+      \node at (4,-1) (ee) {$x_0$}; 
+      \node at (6,2) (ae) {$x_0$}; 
+      \node at (8,1) (ne1) {$x_0$}; 
+      \node at (8,-1) (ne2) {$x$};
+      \path[-] (e) edge node [above, sloped] {\footnotesize{insist}} (a) (a) edge node [below, sloped] {\footnotesize{aye}} (n);
+      \path[-o] (e) edge node [below, sloped] {\footnotesize{no}} (ee) (a) edge node [above, sloped] {\footnotesize{nay}} (ae) (n) edge node [above, sloped] {\footnotesize{nay}} (ne1) edge node [below, sloped] {\footnotesize{aye}} (ne2);
+      \path[-] (A) edge node [above, sloped] {\footnotesize{pro-}} (N) (A) edge node [below, sloped] {\footnotesize{pose $x$}} (N) (N) edge node [below, sloped] {\footnotesize{reject}} (e);;
+      \path[-o] (A) edge node [below, sloped] {\footnotesize{no}} (Ae) (N) edge node [above, sloped] {\footnotesize{accept}} (Ne);
+    \end{tikzpicture} 
+  \caption{The second chance game (\emph{insistencia}). Nodes indicate moves by $A,N=$ majorities in each chamber, $e=$ executive, $n=$ pivotal rejection member, and $a=$ pivotal approval member.}\label{f:2chanceGame}
+  \end{center}
+\end{figure}
+
+Figure \ref{f:2chanceGame} stylizes the restrictive rule as a game between the executive ($e$) and members of both chambers of Congress. $N$ and $A$ command majorities in the chamber that rejected a bill (the nay chamber) and the chamber where it gets a second chance (the aye chamber), respectively; $n$ is the last member needed for two-thirds coalition against in the nay chamber, $a$ the last member needed for a two-thirds coalition for the bill in the aye chamber. $A$ makes a proposal that $N$ may accept or reject. If the latter, the executive may opt to insist, letting $a$ end the game or give $n$ a chance to slect between the proposal and the status quo. If played with full information, the sequence reveals that $N$'s limit to oppose a bill pleasing a supermajority of the other chamber and the executive depends on $n$'s (one third of the nay chamber) preferences. 
+
+This is important because of incongruence between the senate and chamber. Say how...
+
+The restrictive rule should interact with urgencies. Consider the casae where the recalcitrant chamber will accept only if its amendments hold. Doing so, may prompt a second chance and they could lose. Rejecting may achieve the same. In such circumstances, the optimal choice would be not to act on the bill. But the president can force them to do so. 
+
+% see Dec. 2014 notebook, p. 2 for picture of one equilibrium path for the game
+\begin{figure}
+  \begin{center}
+    \begin{tikzpicture}
+      \draw (0,0) -- (10,0);
+    \end{tikzpicture} 
+  \caption{Bicameral negotiation with second chance rule}\label{f:2chanceEql}
+  \end{center}
+\end{figure}
+
+
+
+
+
+\section{Institutions and divided government}
+
+\citet{lijphart.1984} describes bicameral legislatures in terms of congruence and symmetry, the similarity of interests represented by the chambers and how equal is their authority over legislation. Incongruence arises from differences in size, electoral systems and calendars of the lower and upper chambers. Chile's Congress gained in congruence when a reform in 2006 removed unelected senators.\footnote{When a new legislature convened, three senators were appointed by the serving president, two by the Supreme Court, and one by each branch of the armed forces and the national police. Former presidents were senators for life \citep{siavelis.2000,londregan.2000a}.} With about one unelected member for every four elected senators, it was virtually impossible for the victor at the polls to control the upper chamber. The reform that removed unelected senators in 2006 also made Congress much more congruent---differences in size (120 members in the lower chamber, 38 in the upper) and calendar (deputy elections take place every four years, senate elections every eight) remain, but are tempered by the same electoral system. 
+
+Asymmetry here. The general rule is that bills must pass both chambers and the president to become law. But there are important exceptions that make for asymmetric bicameralism---no chamber is advantaged a priori, depends on where a bill initiated. 
+
+From 1990 and until a reform in 2006, the Senate had 38 elected members, 9 appointed senators, and former 6-year term presidents. Since 2006, only elected senators remain. Up to 2005, vacant seat from elected senators were filled by their electoral list-mates for the remainder of the term (what if list won both seats?); since lists nominated candidates from different parties, the swap affected the party balance in the legislature. Since a constitutional reform to article 51 that year, parties appoint substitute senators, keeping the party balance intact. Neither appointed senators, nor former presidents were replaced in case of a vacancy. 
+
+Despite a near tie between the major list for a good while, seen in Figure \ref{f:senChile}, the upper chamber has overwhelmingly been in opposition to the president's coalition. Only two presidents enjoyed Senate majority status in the period: Lagos for nearly two years upon inauguration; and Bachelet for the duration of her term. Aylwin, Frei, Lagos for most of his term, and more recently the right coalition's Piñera, all faced opposition that, if cohesive, could stop legislation passed in the other chamber.  
+
+
+
+
+
+\section{Appendix (will move to the web)}
+
+\subsection{Machine-assisted data retrieval}
+
+The Chamber of Deputies' web page (\url{www.camara.cl}) has detailed information on bill histories, including business in the Senate, since the return to democracy in March of 1990. The javascript-rich page posed difficulties that \texttt{Python}'s \texttt{Selenium} library helped resolve. The script was inefficient (slow) but effective, downloading bill histories for seven legislatures between March 1, 1990 and February 28, 2014. The raw data were then cleaned and systematized in \texttt{R}, using various libraries. The script and data will be posted in the internet upon publication. I offer some details of the procedure, complications, and how they were resolved here. 
+
+\begin{table}
+\begin{center}
+\begin{tabular}{rrrrrrrrrrr}
+       & \mc{10}{c}{$N$ (and \%) bills reporting urgency} \\ \cline{2-11}
+       & \mc{2}{c}{in messages}  & \mc{2}{c}{in timeline} &      &                  & &                     & & \\          
+       & \mc{2}{c}{but not}      & \mc{2}{c}{but not}     & \mc{2}{c}{in both}      & &                     & \mc{2}{c}{All} \\
+Period & \mc{2}{c}{in timeline}  & \mc{2}{c}{in messages} & \mc{2}{c}{tabs}         & \mc{2}{c}{in neither} & \mc{2}{c}{bills} \\ \hline
+%           ~UH                     U~H                       UH                        ~U~H             
+1990--1994  &  213  &   \emph{(19)}  &   5  &  \emph{(.4)}  &    25   &   \emph{(2)}  &   897  &  \emph{(79)}  &  1,140  &  \emph{(100)} \\
+1994--1998  &  168  &   \emph{(17)}  &      &               &    18   &   \emph{(2)}  &   775  &  \emph{(81)}  &    961  &  \emph{(100)} \\
+1998--2002  &  128  &   \emph{(18)}  &      &               &    77   &  \emph{(11)}  &   518  &  \emph{(72)}  &    723  &  \emph{(100)} \\
+2002--2006  &   59  &    \emph{(5)}  &   2  &  \emph{(.2)}  &   206   &  \emph{(18)}  &   905  &  \emph{(77)}  &  1,172  &  \emph{(100)} \\
+2006--2010  &    1  &  \emph{(<.1)}  &   3  &  \emph{(.1)}  &   438   &  \emph{(16)}  &  2,261 &  \emph{(84)}  &  2,703  &  \emph{(100)} \\
+2010--2014  &    1  &  \emph{(<.1)}  &   1  & \emph{(<.1)}  &   457   &  \emph{(19)}  &  1,945 &  \emph{(81)}  &  2,404  &  \emph{(100)} \\
+2006--2014  &    2  &  \emph{(<.1)}  &   4  &  \emph{(.1)}  &    895  &  \emph{(18)}  &  4,206  &  \emph{(82)}  & 5,107  &  \emph{(100)} \\
+2002--2014  &   61  &  \emph{(1)}    &   6  &  \emph{(.1)}  &  1,101  &  \emph{(18)}  &  5,111  &  \emph{(81)}  & 6,279  &  \emph{(100)} \\
+1998--2014  &  189  &  \emph{(3)}    &   6  &  \emph{(.1)}  &  1,178  &  \emph{(17)}  &  5,629  &  \emph{(80)}  & 7,002  &  \emph{(100)} \\
+1994--2014  &  357  &  \emph{(4)}    &   6  &  \emph{(.1)}  &  1,196  &  \emph{(15)}  &  6,404  &  \emph{(80)}  & 7,963  &  \emph{(100)} \\
+1990--2014  &  570  &    \emph{(6)}  &  11  &  \emph{(.1)}  &  1,221  &  \emph{(13)}  &  7,301 &  \emph{(80)}  &  9,103  &  \emph{(100)} \\ \hline
+\end{tabular}  
+\caption{Preliminary assessment of inconsistencies in the Chamber's web site}\label{t:webInconsistencies}
+\end{center}
+\end{table}
+
+Data has inconsistencies, but they are few and apparently much less prevalent since 1998, and especially since 2002. Inconsistencies in urgency reports can be gauged by comparison of their mentions in two of the web page's tabs: the main tab with the bill's timeline (\emph{hitos de tramitación}) and the tab devoted to urgency messages (\emph{urgencias}, see \url{http://www.camara.cl/pley/pley_detalle.aspx?prmID=6952&prmBL=6560-10} for an example). Table \ref{t:webInconsistencies} breaks down aggregates for the full 1990--2014 period in the first row, and since legislatures starting later in subsequent lines. Overall, about 6 percent of 9,103 bills initated in six legislatures since redemocratization have urgencias reported in one tab but not the other. The pattern reveals that the \emph{Urgencias} tab is more comprehensive than the timeline, which frequently fails to mention the urgency message that accompanied an executive initiative. But that difference has become negligible since 2002. 
+
+\begin{table}
+\begin{center}
+\begin{tabular}{crrr|rrr}
+        & \mc{3}{c}{Mociones} & \mc{3}{c}{Mensajes} \\
+Year        &  no & yes &  N  &  no & yes &  N  \\ \hline
+1990--1991  & .98 & .02 &134   & .71 & .29& 156 \\
+1991--1992  & .97 & .03 &150   & .59 & .41& 162 \\
+1992--1993  & .92 & .08 &148   & .68 & .32& 164 \\
+1993--1994  & .95 & .05 & 85   & .62 & .38& 141 \\ \hline
+1994--1995  & .94 & .06 &208   & .64 & .36& 153 \\
+1995--1996  & .94 & .06 &154   & .64 & .36& 121 \\
+1996--1997  & .95 & .05 &111   & .70 & .30&  71 \\
+1997--1998  & .92 & .08 &85    & .47 & .53& 58  \\ \hline
+1998--1999  & .92 & .08 &89    & .29 & .71& 65  \\
+1999--2000  & .84 & .16 &91    & .43 & .57& 67  \\
+2000--2001  & .91 & .09 &127   & .53 & .47&  66 \\
+2001--2002  & .93 & .07 &138   & .42 & .57&  80 \\ \hline
+2002--2003  & .96 & .04 &183   & .49 & .51& 102 \\
+2003--2004  & .93 & .07 &172   & .38 & .62&  99 \\
+2004--2005  & .94 & .06 &219   & .58 & .42& 107 \\
+2005--2006  & .92 & .08 &200   & .32 & .68&  90 \\ \hline
+2006--2007  & .94 & .06 &692   & .27 & .73&  79 \\
+2007--2008  & .94 & .06 &746   & .17 & .83& 108 \\
+2008--2009  & .93 & .07 &528   & .19 & .81& 103 \\
+2009--2010  & .95 & .05 &348   & .29 & .71&  99 \\ \hline
+2010--2011  & .94 & .06 &530   & .13 & .87& 102 \\
+2011--2012  & .92 & .08 &578   & .12 & .88& 109 \\
+2012--2013  & .94 & .06 &553   & .10 & .90&  87 \\
+2013--2014  & .96 & .04 &339   & .30 & .70& 106 \\ \hline \hline
+1990--1994  &.95  & .05 & 517  &.65  &.35 & 623 \\
+1994--1998  &.94  & .06 & 558  &.63  &.37 & 403 \\
+1998--2002  &.90  & .10 & 445  &.42  &.58 & 278 \\
+2002--2006  &.94  & .06 & 774  &.45  &.55 & 398 \\
+2006--2010  &.94  & .06 &2,314 &.23  &.77 & 389 \\
+2010--2014  &.94  & .06 &4,314 &.20  &.80 & 793 \\ \hline \hline
+1990--2014  & .94 & .06 & 6,608 & .44 & .56 & 2,459 \\ 
+1998--2014  & .94 & .06 & 5,533 & .31 & .69 & 1,469 \\ 
+1990--2006  & .93 & .07 & 2,294 & .56 & .44 & 1,702 \\ 
+\end{tabular}
+\caption{Proportion of legislative- and executive-initiated bills receiving at least one urgency message by period}\label{t:yearProp}
+\end{center}
+\end{table}
+
+That both tabs are missing a substantial number of urgency messages remains possible. And likely in the early period, as a yearly breakdown of urgency usage in Table \ref{t:yearProp} shows. The proportion of bills deemed urgent during the first post-transition legislature (1990--1994) in data collected was 21 percent. This is shy of the 35 percent that \citet{siavelis.2002} reports for the same period. \citet[][:404]{aleman.navia.UrgChi.2009} report figures for executive-initiated legislation only in 1990--2006, approximately one-quarter of which received a simple urgency. They report that this is nearly twice as often as the other two urgency varieties (with ambiguity as to whether they are combined; I assume so), yielding 38\% of executive initiatives with urgency in some degree in their dataset---below the 44\% in my data. 
+
+Accordingly, this study shall focus the period since 1998, when urgency usage resembles the proportions reported by Siavelis. (Other reports?) Data reveals important variations above and below the mean usage that deserve scrutiny. It also shows that urgency messages are quite often attached to bills initating in Congress. \citet{aleman.navia.UrgChi.2009} focus on the urgency as means to accelerate and improve the chances of the president's agenda, leaving aside other possible usages of the urgency power that are interesting. 
+
+
+
+
+
+
+\bibliographystyle{apsr}
+\bibliography{../bib/magar}
+
+\end{document}
+

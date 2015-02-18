@@ -443,7 +443,7 @@ bills$info$dateOut <- dmy(bills$info$dateOut, quiet = TRUE, tz = "chile")
 table(bills$info$status) # debug
 
 # compact bicameral sequence with dates (may still miss comisión mixta, revise bills$hitos$chamber above SEEMS OK NOW)
-bills$tramites <- sapply(1:I, function(x) NULL) # initializes empty list with I elements (unnamed; names would go where 1:I)
+bills$tramites <- sapply(1:I, function(x) NULL) # initializes empty list with I elements (unnamed; names would go instead of 1:I)
 for (i in 1:I){
     message(sprintf("loop %s of %s", i, I))
     if (length(grep("drop", bills$hitos[[i]]$chamber))>0){ # manipulates hitos object in case there are "drop" lines
@@ -2357,24 +2357,42 @@ load(file = "chilBill.RData")                                       ##
 options(width = 150)                                                ##
 ######################################################################
 ######################################################################
-
-# SHOULD FILL GAPS IN TO:FROM AND RE DO ALL PERIODS
-# SHOULD VERIFY $urg$tramite == "check: no overlap" AFTER THAT
+#
 # NEED INDICATORS OF VOTING QUORUM!! --- REFERRED TO CONSTITUTIONAL COMMITTEE IS GOOD PROXY!!!!
 #                                        GET IT AND INTERACT WITH PDT'S MARGIN IN CHAMBER
 # AFTER CLEANING COMMITTEE REFERRAL, CHECK IF FINAN COMMITTEE DUMMY CAPTURES SAME INFO
 # ADD SIZE OF PDT'S AGENDA IN LEG YEAR
 #
-# COLLECT BOLETIN VOTE DATES FROM ROLL CALL DATA
-# ANALYZE NON-PASSAGE RATE OF BILLS 
-
+# FROM URBANA PRESENTATION
+# COLLECT BOLETIN VOTE DATES FROM ROLL CALL DATA TO DO SAME ANALYSIS A FOR REPORTS
+## table(bills$info$hasVot)
+## sel <- which(bills$info$hasVot=="yes")
+## tmp <- bills$votes[[sel[1]]]
+## head(tmp)
+## bills$info$bol[sel[1]]
+# ANALYZE NON-PASSAGE RATE OF BILLS
+# IN EVENT COUNT, ADD N NON-URGENT BILLS AND N PASS
+# EVENT COUNT NEEDS EXPOSURE!
+# DISCUSS POSTURING USE OF URGENCY
+# URGENCY IN FRANCE
+# URGENCY IN BRZ URUGUAY COLOMBIA EASIER, REVERSIONS CLEAR EX-ANTE
+# GES: IS URGENCY CREDIBLE? TOO MANY
+# GES: FLOOR VOTING RULES?
+# TRY TO IDENTIFY ACTUAL REJECTIONS FROM BILLS LEFT HANGING, URGENT SHOULD NOT FOLLOW LATTER ROUTE! --> ROLL CALL VOTE CELEBRATED?
+# ROLL CALL MANDATORY? CHECK LEY
+# ANALYZE HOW URGENCY COULD PLAY WITH LEMAS IN URUGUAY AND PARTIES IN CHILE --- THIS MAY BE A GOOD ROUTE TO MAKE AN ARGUMENT
+# DO OPPOSITION BILLS FROM OPPOSITION HAVE DIFFERENT PASSAGE RATE THAN GOV BILLS? --> MAY POINT TO POSTURING GAME!
+# WHAT IS BEING LEGISLATED WITH URGENCY?
+# INSPECT CASES WITH N>4 URGENCIES, WHY SO MANY?
+# BRAZIL'S MEDIDAS PROVISORIAS RECENTLY AMENDED TO FORCE CONGRESSIONAL CONSIDERATION: IS MEDIDA LEFT TO DIE, ITS VOTE TAKES PRECEDENCE OVER LEGISLATIVE BUSINESS AFTER 60 DAYS!
+#
 # exports csv of allUrg to process in plots.r
 # extract urgencias object, unlisted to prepare urgencia-as-unit data
 ## ojo: hay objectos bills$urgencias, bills$urgRaw y bills$urg... uno sale sobrando, checar
 tmp <- bills$urg
 sel <- which(bills$info$nUrg>0) # bills with at least one urgencia
 for (i in sel){
-    tmp[[i]]$bol <- bills$info$bol[i]
+    tmp[[i]]$bol <- bills$info$bol[i]  # add boletin number
 }
 tmp <- tmp[sel] # drop elements without urgency
 #
@@ -2402,7 +2420,429 @@ sel <- which(allUrg$on>dmy("10/03/2014", tz = "chile"))
 allUrg <- allUrg[-sel,]
 save(bills, allUrg, file = paste(datdir, "allUrg.RData", sep = "")) # <--- export
 rm(i, sel, tmp, tmp2)
-# further transformations of allUrg in plots.r in preparation for graph
+# further transformations of allUrg in plots.r in preparation for graph AND BELOW <-- need to move save below
+#
+# imports Memo's roll call summaries 2002-2014
+tmp01 <- read.csv(file = paste(datdir, "memoRollCallSum/ChileDep2002-Votes.csv", sep = ""), stringsAsFactors=FALSE)
+tmp02 <- read.csv(file = paste(datdir, "memoRollCallSum/ChileDep2003-Votes.csv", sep = ""), stringsAsFactors=FALSE)
+tmp03 <- read.csv(file = paste(datdir, "memoRollCallSum/ChileDep2004-Votes.csv", sep = ""), stringsAsFactors=FALSE)
+tmp04 <- read.csv(file = paste(datdir, "memoRollCallSum/ChileDep2005-Votes.csv", sep = ""), stringsAsFactors=FALSE)
+tmp05 <- read.csv(file = paste(datdir, "memoRollCallSum/ChileDep2006-Votes.csv", sep = ""), stringsAsFactors=FALSE)
+tmp06 <- read.csv(file = paste(datdir, "memoRollCallSum/ChileDep2007-Votes.csv", sep = ""), stringsAsFactors=FALSE)
+tmp07 <- read.csv(file = paste(datdir, "memoRollCallSum/ChileDep2008-Votes.csv", sep = ""), stringsAsFactors=FALSE)
+tmp08 <- read.csv(file = paste(datdir, "memoRollCallSum/ChileDep2009-Votes.csv", sep = ""), stringsAsFactors=FALSE)
+tmp09 <- read.csv(file = paste(datdir, "memoRollCallSum/ChileDep2010-Votes.csv", sep = ""), stringsAsFactors=FALSE)
+tmp10 <- read.csv(file = paste(datdir, "memoRollCallSum/ChileDep2011-Votes.csv", sep = ""), stringsAsFactors=FALSE)
+tmp11 <- read.csv(file = paste(datdir, "memoRollCallSum/ChileDep2012-Votes.csv", sep = ""), stringsAsFactors=FALSE)
+tmp12 <- read.csv(file = paste(datdir, "memoRollCallSum/ChileDep2013-Votes.csv", sep = ""), stringsAsFactors=FALSE)
+tmp13 <- read.csv(file = paste(datdir, "memoRollCallSum/ChileDep2014-Votes.csv", sep = ""), stringsAsFactors=FALSE) # had weird encoding, semi-solved it 
+tmp <- rbind(tmp01, tmp02, tmp03, tmp04, tmp05, tmp06, tmp07, tmp08, tmp09, tmp10, tmp11, tmp12, tmp13); rm(tmp01, tmp02, tmp03, tmp04, tmp05, tmp06, tmp07, tmp08, tmp09, tmp10, tmp11, tmp12, tmp13)
+#
+# drop non-boletín votes
+sel <- grep(pattern = "Boletín", tmp$Detail)
+tmp <- tmp[sel,]
+#
+# clean boletines
+tmp$bol <- tmp$Detail; tmp$Detail <- NULL
+tmp$bol <- sub(pattern = "Boletín N°(.*)", replacement = "\\1", tmp$bol)
+#
+# duplicate votes of joint boletines
+sel <- grep(";|,| y ", tmp$bol)
+tmp1 <- tmp[sel,]; tmp <- tmp[-sel,] # crop duplicate votes for manipulation
+tmp1$bol <- sub("y otros", replacement = "", tmp1$bol) # will not figure which these are
+tmp1$bol <- gsub(" y", replacement = ";", tmp1$bol)
+tmp1$bol <- gsub(",", replacement = ";", tmp1$bol)
+sel <- grep(";|,", tmp1$bol)
+tmp <- rbind(tmp, tmp1[-sel,]) # return cases not figured out to data
+tmp1 <- tmp1[sel,]
+#
+tmp2 <- tmp1 # duplicate
+tmp2$bol <- sub(pattern = "^(.*); (.*)$", replacement = "\\2", tmp2$bol) # take last boletin
+tmp1$bol <- sub(pattern = "^(.*); (.*)$", replacement = "\\1", tmp1$bol) # leave rest for further manipulation
+sel <- grep(";", tmp1$bol) # indices with multiboletines
+tmp2 <- rbind(tmp2, tmp1[-sel,]) # paste rest in object
+tmp <- rbind(tmp, tmp2)          # and return to data
+tmp1 <- tmp1[sel,]
+#
+tmp2 <- tmp1 # duplicate again
+tmp2$bol <- sub(pattern = "^(.*); (.*)$", replacement = "\\2", tmp2$bol) # take last boletin
+tmp1$bol <- sub(pattern = "^(.*); (.*)$", replacement = "\\1", tmp1$bol) # leave rest for further manipulation
+sel <- grep(";", tmp1$bol) # indices with multiboletines
+tmp2 <- rbind(tmp2, tmp1[-sel,]) # paste rest in object
+tmp <- rbind(tmp, tmp2)          # and return to data
+tmp1 <- tmp1[sel,]
+#
+tmp2 <- tmp1 # duplicate again
+tmp2$bol <- sub(pattern = "^(.*); (.*)$", replacement = "\\2", tmp2$bol) # take last boletin
+tmp1$bol <- sub(pattern = "^(.*); (.*)$", replacement = "\\1", tmp1$bol) # leave rest for further manipulation
+sel <- grep(";", tmp1$bol) # indices with multiboletines
+tmp2 <- rbind(tmp2, tmp1[-sel,]) # paste rest in object
+tmp <- rbind(tmp, tmp2)          # and return to data
+tmp1 <- tmp1[sel,]
+#
+tmp2 <- tmp1 # duplicate again
+tmp2$bol <- sub(pattern = "^(.*); (.*)$", replacement = "\\2", tmp2$bol) # take last boletin
+tmp1$bol <- sub(pattern = "^(.*); (.*)$", replacement = "\\1", tmp1$bol) # leave rest for further manipulation
+sel <- grep(";", tmp1$bol) # indices with multiboletines
+tmp2 <- rbind(tmp2, tmp1[-sel,]) # paste rest in object
+tmp <- rbind(tmp, tmp2)          # and return to data
+tmp1 <- tmp1[sel,]
+#
+tmp2 <- tmp1 # duplicate again
+tmp2$bol <- sub(pattern = "^(.*); (.*)$", replacement = "\\2", tmp2$bol) # take last boletin
+tmp1$bol <- sub(pattern = "^(.*); (.*)$", replacement = "\\1", tmp1$bol) # leave rest for further manipulation
+sel <- grep(";", tmp1$bol) # indices with multiboletines
+tmp2 <- rbind(tmp2, tmp1[-sel,]) # paste rest in object
+tmp <- rbind(tmp, tmp2)          # and return to data
+tmp1 <- tmp1[sel,]
+#
+nrow(tmp1) ## VERIFY, MUST BE ZERO
+#
+# continue processing data
+tmp$bol <- gsub(pattern = " ", replacement = "", tmp$bol) # drop empty spaces
+tmp$bol <- gsub(pattern = "\\(S\\)", replacement = "", tmp$bol) # drop extras in boletín
+sel <- grep("P.A", tmp$bol); tmp <- tmp[-sel,] # se cuelan aún algunos proyectos de acuerdo
+tmp <- tmp[-which(tmp$bol==""),] # drop cases missing boletín number
+# cases with incomplete boletín
+sel <- which(tmp$bol=="3342"); tmp$bol[sel] <- "3342-06"
+sel <- which(tmp$bol=="4977"); tmp$bol[sel] <- "4977-08"
+sel <- which(tmp$bol=="5426"); tmp$bol[sel] <- "5426-03"
+sel <- which(tmp$bol=="7972"); tmp$bol[sel] <- "7972-05"
+sel <- which(tmp$bol=="7874"); tmp$bol[sel] <- "7874-04"
+sel <- which(tmp$bol=="8467"); tmp$bol[sel] <- "8467-12"
+sel <- which(tmp$bol=="9294"); tmp$bol[sel] <- "9294-06"
+sel <- which(tmp$bol=="6452"); tmp$bol[sel] <- "6452-10"
+sel <- which(tmp$bol=="6450"); tmp$bol[sel] <- "6450-10"
+sel <- which(tmp$bol=="112");  tmp$bol[sel] <- "7972-05"
+#
+library(lubridate)
+sel <- grep(pattern = "[0-9]+/[0-9]+/20", tmp$Date) # cases with four-digit years
+tmp$date <- mdy(tmp$Date, tz = "chile") # compute all dates
+tmp$date[-sel] <- mdy(tmp$Date[-sel], tz = "chile") # fix two-digit ones
+tmp$Date <- NULL
+#
+# sort chrono
+tmp <- tmp[order(tmp$date, tmp$bol),]
+tmp$Observation <- NULL
+#
+# q = minimum number of aye votes to pass (they call it "quorum")
+tmp$q <- 0
+tmp$q[grep("Constitucional 3/5", tmp$Quorum)] <- 120*3/5
+tmp$q[grep("1/3", tmp$Quorum)] <- 120*1/3 # insistencias --- 2/3 must reject
+tmp$q[grep("2/3", tmp$Quorum)] <- 120*2/3
+tmp$q[grep("3/5", tmp$Quorum)] <- 120*3/5
+tmp$q[grep("Ley Orgánica Constitucional", tmp$Quorum)] <- as.integer(120*4/7)+1
+tmp$q[grep("Quorum Calificado", tmp$Quorum)] <- (120*1/2)+1
+tmp$q[grep("Quorum Simple", tmp$Quorum)] <- 1 # need a plurality only, one aye would suffice --- change to somethinglarger, e.g. average ayes in such votes?
+tmp$q[grep("Constitucional 2/3", tmp$Quorum)] <- 1 # need 2/3 of present, so one would suffice 
+# thres = threshold to win (>0 means plurality suffices, >2/3 means thwo thirds of present)
+tmp$thres <- 0 # most cases
+tmp$thres[grep("Constitucional 2/3", tmp$Quorum)] <- 2/3
+#
+tmp$qRule <- ""
+tmp$qRule[tmp$q==1 & tmp$thres==1/2] <- "plurality"
+tmp$qRule[tmp$q==1 & tmp$thres==2/3] <- "two-thirds present" # case of prez veto override of constitutional amendment? see final arts of const
+tmp$qRule[tmp$q==40] <- "one-third"
+tmp$qRule[tmp$q==61] <- "majority"
+tmp$qRule[tmp$q==69] <- "four-sevenths"
+tmp$qRule[tmp$q==72] <- "three-fifths"
+#
+tmp$Quorum <- NULL
+#
+tmp$ayes <- tmp$In.Favor
+tmp$nays <- tmp$Against
+tmp$noVote <- tmp$Abstencion
+tmp$dispen <- tmp$Dispensados
+tmp$noShow <- 120 - (tmp$ayes+tmp$nays+tmp$noVote+tmp$dispen)
+tmp$In.Favor <- tmp$Against <- tmp$Abstencion <- tmp$Dispensados <- NULL
+#
+tmp$Result <- gsub(pattern = " ", replacement = "", tmp$Result) # drops spaces
+tmp$dpassed <- ifelse ( tmp$ayes > tmp$nays   &
+                        tmp$ayes/(tmp$ayes+tmp$nays+tmp$noVote) > tmp$thres   &
+                        tmp$ayes > (tmp$q - ceiling(tmp$dispen/2))  , 1, 0) # assumes dispensados are to be removed from quorum
+tmp$dpassed <- ifelse ( tmp$ayes > tmp$nays   &
+                        tmp$ayes/(tmp$ayes+tmp$nays+tmp$noVote+tmp$dispen) > tmp$thres   &
+                        tmp$ayes > tmp$q, 1, 0 ) # this does not make that assumption
+#
+# many coded as dpassed==0 appear "Aprobado" and vice versa... seem to be mistakes in the web page
+## table(tmp$Result, tmp$dpassed)
+## sel <- which(tmp$Result=="Aprobado" & tmp$dpassed==0)
+## tmp[sel[2],]
+tmp$Result <- NULL
+#
+tmp$votype <- ""
+tmp$Type <- gsub(pattern = " ", replacement = "", tmp$Type) # drops spaces
+tmp$votype[tmp$Type=="General"] <- "general"
+tmp$votype[tmp$Type=="Particular"] <- "partic"
+tmp$votype[tmp$Type=="Generalyparticular"] <- "both"
+tmp$votype[tmp$Type=="ínica"] <- "sole"
+tmp$votype[tmp$Type=="Única"] <- "sole"
+tmp$Type <- NULL
+#
+tmp$artic <- tmp$Article; tmp$Article <- NULL
+sel <- grep("([Cc]lausura|[Cc]ierre)( del)* debate", tmp$artic)
+tmp$votype[sel] <- "proced"
+sel <- grep("([Ii]ntegración|[Ii]ntegrarán)( de)*( la)* Comisión Mixta", tmp$artic)
+tmp$votype[sel] <- "proced"
+sel <- grep("([Pp]etición|[Ss]olicitud) para omitir", tmp$artic)
+tmp$votype[sel] <- "proced"
+sel <- grep("[Ss]olicitud para omitir", tmp$artic)
+tmp$votype[sel] <- "proced"
+sel <- grep("[Ss]olicitud de votar", tmp$artic)
+tmp$votype[sel] <- "proced"
+sel <- grep("[Rr]esolución de la Mesa", tmp$artic)
+tmp$votype[sel] <- "proced"
+sel <- grep("([Ee]nvío|[Rr]emisión) de proyecto", tmp$artic)
+tmp$votype[sel] <- "proced"
+sel <- grep("([Dd]evolución).*a la", tmp$artic)
+tmp$votype[sel] <- "proced"
+sel <- grep("nuevamente.*a [Cc]omisión", tmp$artic)
+tmp$votype[sel] <- "proced"
+sel <- grep("[Aa]cuerdo de la [Ss]ala", tmp$artic)
+tmp$votype[sel] <- "proced"
+sel <- grep("[Ss]olicitud.*votación particular", tmp$artic)
+tmp$votype[sel] <- "proced"
+sel <- grep("[Oo]bserva.*Presidente", tmp$artic)
+tmp$votype[sel] <- "overr"
+sel <- grep("[Oo]bservación|[Oo]bservaciones", tmp$artic)
+tmp$votype[sel] <- "overr"
+sel <- grep("OBSERVACIONES", tmp$artic)
+tmp$votype[sel] <- "overr"
+sel <- grep("[Vv]eto", tmp$artic)
+tmp$votype[sel] <- "overr"
+## indicación = mensaje con info adicional = enmienda del ejecutivo?
+## insistencia puede referirse a override o sólo a proceso bicameral?
+# OJO: 1) debe haber más procedural votes en tmp$artic que no he identificado
+#
+# Has more info that I am disregarding
+#colnames(tmp)
+#
+allVot <- tmp[, c("bol","date","q","thres","qRule","ayes","nays","noVote", "noShow", "dpassed", "votype", "artic")] # end by creating votes object
+#head(allVot)
+rm(tmp, sel, skip, tmp1, tmp2)
+
+# ATTEMPT TO CORRECT NO OVERLAPS IN URGENCIAS WITHOUT FIXING ALL FROM:TO DATES IN TRAMITES---CHERRY-PICK CASES WITH NO OVERLAP
+# SEEMS TO WORK!!
+sel <- grep("check", allUrg$tramite) # select cases with check
+for (i in sel){
+    #i <- sel[1] # debug
+    tmpOffendingDate <- allUrg$on[i]
+    tmpBol <- allUrg$bol[i]
+    tmpIndex <- which(bills$info$bol==tmpBol)
+    tmpTram <- bills$tramites[[tmpIndex]]
+    tmpHit <- bills$hitos[[tmpIndex]]
+    tmpHit <- tmpHit[,c("date","chamber","action")]; tmpHit$action <- substring(tmpHit$action, 1, 40) # simplify object
+    tmpHit <- tmpHit[-grep("Oficio (de )*(ley|modificaciones|rechazo|aprobación|aceptación)", tmpHit$action),] # drop oficios that tend to blur seq
+    tmp <- tmpHit$date; tmp <- tmp[-1]; tmp <- c(tmp, bills$info$dateOut[tmpIndex]) # lag
+    tmpHit$per <- new_interval(start = tmpHit$date, end = tmp)
+    tmpSel <- tmpOffendingDate %my_within% tmpHit$per # in which period does offending date belong in?
+    allUrg$tramite[i] <- tmpHit$chamber[tmpSel] # plug trámite where there was no overlap
+}
+# fix these by hand
+sel <- which(allUrg$bol=="8149-09" & is.na(allUrg$tramite)==TRUE);  allUrg$tramite[sel] <- "sen"; 
+sel <- which(allUrg$bol=="8612-02" & is.na(allUrg$tramite)==TRUE);  allUrg$tramite[sel] <- "sen"; 
+sel <- which(allUrg$bol=="5458-07" & is.na(allUrg$tramite)==TRUE);  allUrg$tramite[sel] <- "sen"; 
+# these are not actual urgencias, mistakes in source
+sel <- which(allUrg$bol=="497-15");  allUrg <- allUrg[-sel,] 
+sel <- which(allUrg$bol=="706-15");  allUrg <- allUrg[-sel,] 
+sel <- which(allUrg$bol=="771-15");  allUrg <- allUrg[-sel,]  
+sel <- which(allUrg$bol=="801-15");  allUrg <- allUrg[-sel,] 
+sel <- which(allUrg$bol=="802-15");  allUrg <- allUrg[-sel,] 
+sel <- which(allUrg$bol=="1200-15"); allUrg <- allUrg[-sel,] 
+sel <- which(allUrg$bol=="1291-15"); allUrg <- allUrg[-sel,] 
+sel <- which(allUrg$bol=="1308-15"); allUrg <- allUrg[-sel,] 
+#
+# check/fix chain info in manual corrections
+sel <- which(allUrg$bol=="8149-09" & allUrg$tramite=="dip" & allUrg$on==dmy("12-06-2012", tz = "chile"))
+allUrg <- allUrg[-sel,]
+sel <- which(allUrg$bol=="8612-02" & allUrg$tramite=="dip" & allUrg$on==dmy("08-01-2013", tz = "chile"))
+allUrg <- allUrg[-sel,]
+sel <- which(allUrg$bol=="8612-02" & allUrg$tramite=="dip" & allUrg$off==dmy("08-01-2013", tz = "chile"))
+allUrg$off[sel] <- dmy("13-12-2012", tz = "chile") # approved, moved to senate
+allUrg$dretir[sel] <- 0
+sel <- which(allUrg$bol=="8612-02" & allUrg$tramite=="sen" & allUrg$on==dmy("16-10-2013", tz = "chile") & allUrg$off==dmy("16-10-2013", tz = "chile"))
+allUrg <- allUrg[-sel,]
+sel <- which(allUrg$bol=="5458-07" & allUrg$tramite=="dip" & allUrg$on==dmy("08-09-2009", tz = "chile"))
+allUrg$tramite[sel] <- "sen"
+
+allUrg <- allUrg[order(allUrg$bol, allUrg$on),] # sort urgencias so that retiro messages do not appear bunched at the end 
+tmp <- allUrg    # duplicate
+tmp$chain2 <- 0; tmp$dretir2 <- 0; tmp$change2 <- 0 # open slot for new data
+tmpSel <- as.data.frame(table(tmp$bol), stringsAsFactors = FALSE)
+for (i in 1:nrow(tmpSel)){
+    message(sprintf("loop %s of %s", i, nrow(tmpSel)))
+    #i <-8 # debug
+    sel <- which(tmp$bol==tmpSel[i,1]) # select urgencias tied to one boletín
+    tmpBillUrg <- tmp[sel,] # isolate urgencia messages
+    #head(tmpBillUrg) # debug
+    U <- tmpSel[i,2]
+    if (U==1) next         # cases with single urgencia 
+    for (j in 2:U){
+        #j <- 2 # debug
+        if (tmpBillUrg$on[j]==tmpBillUrg$off[j-1] & tmpBillUrg$tramite[j]==tmpBillUrg$tramite[j-1]) tmpBillUrg$chain2[j] <- 1;
+    }
+    tmp2 <- tmpBillUrg$chain2
+    for (j in 2:U){
+        tmp2[j] <- tmpBillUrg$chain2[j] + tmp2[j-1] * tmpBillUrg$chain2[j] # zero if no chain, else how many links
+    }
+    tmpBillUrg$chain2 <- tmp2; rm(tmp2)
+    for (j in 2:U){
+        if (tmp$chain2[j]>0) tmp$change2[j] <- as.numeric(tmp$deadline[j] - tmp$deadline[j-1])*100 / as.numeric(tmp$deadline[j-1] - tmp$on[j-1]) # % change new deadline
+    }
+    for (j in 1:(U-1)){
+        if (tmp$typeN[j+1]>5) tmp$dretir2[j] <- 1
+    }
+    tmp[sel,] <- tmpBillUrg  # return manipulated object
+}
+NEED RE-DO dretir AND ADDITION OF 5.* MESSAGES ABOVE. Since the start, it was based on existence of second date in record & not caduca; then recoded 0 for chain links. Based on this, extra messages were added. Should repeat whole thing with revisions to spot diffs. Problem: some revising based on old dretir info, but may be possible to avoid...
+
+i <- i+10; tmp[i:(i+9),]
+x
+
+rm(i,sel,tmp,tmpBol,tmpHit,tmpIndex,tmpOffendingDate,tmpSel,tmpTram)
+
+# MANIPULATE/CLEAN URGENCIAS OBJECT, PREP FOR ANALYSIS 
+allUrg <- allUrg[order(allUrg$bol, allUrg$on),] # sort urgencias so that retiro messages do not appear bunched at the end 
+allUrg$chain[allUrg$typeN>5] <- allUrg$chain[allUrg$typeN>5] + 1 # fix chain number of retiro messages (they are copies of message they withdraw)
+# add session dates to recode on date with next closest session
+tmpD <- bills$sessions[bills$sessions$ddip==1,] # diputado sessions
+tmpS <- bills$sessions[bills$sessions$dsen==1,] # senado sessions
+allUrg$on2 <- allUrg$on; allUrg$deadline2 <- allUrg$deadline
+for (i in 1:nrow(allUrg)){
+    message(sprintf("loop %s of %s", i, nrow(allUrg)))
+    #i <- 1 # debug
+    tmpD1 <- tmpD$date - allUrg$on[i] # difference from urgency's date to all sessions
+    tmpS1 <- tmpS$date - allUrg$on[i] 
+    j <- which(tmpD1==min(tmpD1[tmpD1>=0])) # closest next session date
+    #if (is.na(allUrg$tramite[i])==FALSE & allUrg$tramite[i]=="dip") allUrg$on2[i] <- tmpD$date[j]
+    if (is.na(allUrg$tramite[i])==FALSE & allUrg$tramite[i]!="sen") allUrg$on2[i] <- tmpD$date[j] # veto, conf fixed with diputado session dates
+    j <- which(tmpS1==min(tmpS1[tmpS1>=0])) # closest next session date
+    if (is.na(allUrg$tramite[i])==FALSE & allUrg$tramite[i]=="sen") allUrg$on2[i] <- tmpS$date[j]
+}
+# quick fix for new deadline: add days difference (deadline function not working...)
+tmp2 <- difftime(allUrg$on2, allUrg$on, units="days")
+allUrg$deadline2 <- allUrg$deadline + days(tmp2)
+## tmp2 <- rep(0, nrow(allUrg)) # for days to deadline
+## sel <- which(allUrg$typeN==1 | allUrg$typeN==4.1); tmp2[sel] <- 6
+## sel <- which(allUrg$typeN==2 | allUrg$typeN==4.2); tmp2[sel] <- 15
+## sel <- which(allUrg$typeN==3 | allUrg$typeN==4.3); tmp2[sel] <- 30
+## sel <- which(allUrg$on2  < dmy("3/7/2010", tz = "chile")); tmp2[sel] <- mapvalues(tmp2[sel], from = c(6,15), to = c(3,10), warn_missing = FALSE) #pre-reform
+## library(timeDate)
+## sel <- which(tmp2>0); allUrg$deadline2[sel] <- deadline(allUrg$on2[sel], tmp2[sel])
+## tz(allUrg$deadline2[sel]) <- "chile"
+#
+allUrg$on <- allUrg$on2; allUrg$deadline <- allUrg$deadline2; allUrg$on2 <- allUrg$deadline2 <- NULL # recode on and deadline dates
+# remove off date from mensajes caducados---coded as expired with deadline (none were retired)
+sel <-  which(allUrg$dcaduca==1 &                    allUrg$off>allUrg$deadline) # change off date to deadline
+allUrg$off[sel] <- allUrg$deadline[sel]
+## sel2 <- which(allUrg$dcaduca==1 & allUrg$dretir==1 & allUrg$off>allUrg$deadline & allUrg$typeN>5)
+## allUrg <- allUrg[-sel2,] # drop their retiro messages---none had been retired, in fact
+#
+# many "retiros" actually occurred after deadline... meaning???
+tmp <- rep(0, nrow(allUrg)); tmp[allUrg$off>allUrg$deadline] <- 1
+message("many retiros actually occurred after deadline... meaning???"); table(tmp, allUrg$typeN)
+
+# ADD WHETHER OR NOT A VOTE FOLLOWED URGENCIAS IN DIPUTADOS
+# splits allUrg into two objects: the origonal with all URGENCY MESSAGES, a new one with all URGENCY CHAINS (incl. singletons)
+allUrgChains <- allUrg
+# consolidate chains
+tmp <- allUrgChains
+tmp$nTyp3 <- tmp$nTyp2 <- tmp$nTyp1 <- tmp$links <- tmp$chainN <- 0;
+tmp$nTyp1[tmp$typeN==  1] <- 1 # by default, count types 1,2,3 for cases where loop ignores
+tmp$nTyp2[tmp$typeN==4.1] <- 1
+tmp$nTyp2[tmp$typeN==  2] <- 1
+tmp$nTyp2[tmp$typeN==4.2] <- 1
+tmp$nTyp3[tmp$typeN==  3] <- 1
+tmp$nTyp3[tmp$typeN==4.3] <- 1
+tmpSel <- as.data.frame(table(tmp$bol), stringsAsFactors = FALSE)
+for (i in 1:nrow(tmpSel)){
+    message(sprintf("loop %s of %s", i, nrow(tmpSel)))
+    #i <-1748 # debug
+    sel <- which(tmp$bol==tmpSel[i,1]) # select urgencias tied to one boletín
+    tmpBillUrg <- tmp[sel,] # isolate urgencia messages
+    #head(tmpBillUrg) # debug
+    if (tmpSel[i,2]==1){                    # cases with single urgencia 
+        tmp$chainN[i] <- tmp$links[i] <- 1  # cases with single urgencia 
+        next                                # cases with single urgencia 
+    }
+    tmpBillUrg$chainN[tmpBillUrg$chain==0] <- 1:length(tmpBillUrg$chainN[tmpBillUrg$chain==0]) # fills chain number
+    for (j in 2:nrow(tmpBillUrg)){                                                             # fills chain number
+        if (tmpBillUrg$chain[j]==0) next
+        tmpBillUrg$chainN[j] <- tmpBillUrg$chainN[j-1]
+    }
+    tmpBillUrg$links <-    ave(tmpBillUrg$chain+1,  tmpBillUrg$chainN, FUN=max, na.rm=FALSE) # may want to subtract 1 in case last message retires urgency
+    tmpBillUrg$deadline <- ave(tmpBillUrg$deadline, tmpBillUrg$chainN, FUN=max, na.rm=FALSE)
+    tmpBillUrg$off <-      ave(tmpBillUrg$off,      tmpBillUrg$chainN, FUN=max, na.rm=FALSE)
+    tmpBillUrg$dretir <-   ave(tmpBillUrg$dretir,   tmpBillUrg$chainN, FUN=max, na.rm=FALSE)
+    tmpBillUrg$dcaduca <-  ave(tmpBillUrg$dcaduca,  tmpBillUrg$chainN, FUN=max, na.rm=FALSE)
+    tmpBillUrg$change <-   ave(tmpBillUrg$change,   tmpBillUrg$chainN, FUN=sum, na.rm=FALSE)
+    tmpBillUrg$nTyp1 <-    ave(tmpBillUrg$nTyp1,    tmpBillUrg$chainN, FUN=sum, na.rm=FALSE)
+    tmpBillUrg$nTyp2 <-    ave(tmpBillUrg$nTyp2,    tmpBillUrg$chainN, FUN=sum, na.rm=FALSE)
+    tmpBillUrg$nTyp3 <-    ave(tmpBillUrg$nTyp3,    tmpBillUrg$chainN, FUN=sum, na.rm=FALSE)
+    #
+    tmpBillUrg <- tmpBillUrg[duplicated(tmpBillUrg$chainN)==FALSE,] # drop redundant chain info
+    tmp <- tmp[-sel,]             # drop unmanipulated data from object
+    tmp <- rbind(tmp, tmpBillUrg) # ... replacing them with the manipulated info
+}
+
+tail(tmp)
+
+tmp$chain <- tmp$typeN <- NULL; colnames(tmp)[grep("type", colnames(tmp))] <- "typOrig"
+tmp <- tmp[order(tmp$bol, tmp$on),]
+
+tmpSel[,2] has nUrg in bill
+
+
+tmp[which(tmp$bol=="1035-07"),]
+head(tmp[which(tmp$bol=="1035-07"),])
+sel <- which(bills$info$bol=="1035-07")
+
+# fine-tune typeN: urgencias that went all the way to deadline are 1.0, 2,0, 3.0; with deadline modified 1.4, 2.4, 3.4; or retired 1.5, 2.5, 3.5
+
+sel <- which(allUrg$on > dmy("11-03-2002", tz = "chile") & allUrg$tramite!="sen") # only have diputado votes since 2002
+allUrg$nvotDdln2 <- allUrg$nvotDdln <- NA                                         # add slots for new data
+THIS NOT WORKING! CHECK WHAT chain!=0 MEANS...
+allUrg$typeN2 <- allUrg$typeN
+for (i in 2:nrow(allUrg)){
+    if (allUrg$chain[i]==0) next
+    allUrg$typeN2[i-1] <- allUrg$typeN[i-1] + as.integer(allUrg$typeN[i])/10 # adds i's integer as decimal to i-1's
+}
+#
+tmp <- allUrg[sel,] # subset for manipulation
+head(tmp)
+for (i in 1:nrow(tmp)){
+    message(sprintf("loop %s of %s", i, nrow(tmp)))
+    #i <- 103 # debug
+    tmpVotIndices <- grep(pattern = tmp$bol[i], allVot$bol)
+    if (length(tmpVotIndices)==0){
+        tmp$nvotDdln[i] <- tmp$nvotDdln2[i] <- 0;
+        next
+    } else {
+        tmpPeriod <- new_interval(start = tmp$on[i], end = tmp$off[i])
+        tmpHit <- allVot$date[tmpVotIndices] %within% tmpPeriod # in which period does date.on belong in?
+        tmp$nvotDdln[i] <- length(which(tmpHit==TRUE)) # input number of votes held in period
+        tmpPeriod <- new_interval(start = tmp$on[i], end = tmp$off[i]+weeks(1)) # extend period by 1 week
+        tmpHit <- allVot$date[tmpVotIndices] %within% tmpPeriod # in which period does date.on belong in?
+        tmp$nvotDdln2[i] <- length(which(tmpHit==TRUE)) # input number of votes held in period
+    }
+}
+#
+
+allUrg[31:40,]
+head(tmp)
+
+table(tmp$nvotDdln>0, tmp$typeN2)
+table(tmp$nvotDdln2>0, tmp$typeN)
+table(tmp$nvotDdln, tmp$typeN)
+
+tmp <- bills$tramites[[which(bills$info$bol=="372-15")]]
+bills$hitos[[which(bills$info$bol=="372-15")]]
+    
+head(tmp)
+tmp[1:10,]
+head(allVot)
+    
+ls()
 
 # REFERRED TO HACIENDA COMMITTEE (IE., NEEDS APPROPRIATION)
 bills$info$drefHda <- 0
