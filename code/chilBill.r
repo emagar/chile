@@ -2844,23 +2844,10 @@ tmp <- tmp[order(tmp$bol, tmp$on),]
 #
 # replace by manipulated object
 allUrgChains <- tmp
-
-
-CLONE chile, merge allUrg commands, see if works... git branch
-
-
-
-
-
-tail(tmp)
-
-
-tmpSel[,2] has nUrg in bill
-
-
-tmp[which(tmp$bol=="1035-07"),]
-head(tmp[which(tmp$bol=="1035-07"),])
-sel <- which(bills$info$bol=="1035-07")
+#
+# make single object containing messages and chains
+allUrg <- list(messages=allUrg, chains=allUrgChains)
+rm(allUrgChains)
 
 # fine-tune typeN: urgencias that went all the way to deadline are 1.0, 2,0, 3.0; with deadline modified 1.4, 2.4, 3.4; or retired 1.5, 2.5, 3.5
 
