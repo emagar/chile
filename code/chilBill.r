@@ -2081,6 +2081,18 @@ for (i in work){
     if (length(select)>0){
         output$off[tmp2==2] <- dmy(gsub(pattern = ".*[0-9],([0-9/]*),.*", "\\1", tmp[tmp2==2], perl = TRUE), tz = "chile")
     }
+    ##
+    ##
+## # THIS HAS POTENTIAL: ADD ON AND OFF MESSAGE NUMS. IT SHOULD WORK HERE (ADD AND RERUN LOOP) (NAME TO FIND THIS: on/offMessageNumbers) 
+## loop over boletines with urgencias...
+## sel <- which(bills$info$bol=="372-15")
+## obj1 <- bills$urgRaw[[sel]]
+## obj2 <- gsub(pattern = ".* ([0-9]+[-][0-9]+)[ ]([0-9]+[-][0-9]+)?", replacement = "\\1", obj1[-1]) # on message number
+## obj3 <- gsub(pattern = ".* ([0-9]+[-][0-9]+)[ ]([0-9]+[-][0-9]+)?", replacement = "\\2", obj1[-1]) # retiro message number
+## remove spaces from obj2 obj3
+## plug obj2 as output$msgOn
+## plug obj3 as output$msgOff
+    ##
     ##                                     # put NAs in off for urgencias not retired
     ## select <- which(tmp2==1)
     ## if (length(select)>0){
@@ -2386,42 +2398,6 @@ options(width = 150)                                                ##
 # INSPECT CASES WITH N>4 URGENCIES, WHY SO MANY?
 # BRAZIL'S MEDIDAS PROVISORIAS RECENTLY AMENDED TO FORCE CONGRESSIONAL CONSIDERATION: IS MEDIDA LEFT TO DIE, ITS VOTE TAKES PRECEDENCE OVER LEGISLATIVE BUSINESS AFTER 60 DAYS!
 #
-# exports csv of allUrg to process in plots.r
-# extract urgencias object, unlisted to prepare urgencia-as-unit data
-## ojo: hay objectos bills$urgencias, bills$urgRaw y bills$urg... uno sale sobrando, checar
-tmp <- bills$urg
-sel <- which(bills$info$nUrg>0) # bills with at least one urgencia
-for (i in sel){
-    tmp[[i]]$bol <- bills$info$bol[i]  # add boletin number
-}
-tmp <- tmp[sel] # drop elements without urgency
-#
-library(plyr)
-library(lubridate)
-allUrg <- ldply(tmp, data.frame) # unlist the data.frames into one large data.frame
-#
-# drop urgencias after 10/3/2014
-sel <- which(allUrg$on>dmy("10/03/2014", tz = "chile"))
-allUrg <- allUrg[-sel,]
-#
-# add numeric type: 1,2,3 for di, su, si; 4.1,4.2,4.3 for resets of each type; 5.1,5.2,5.3 for retired of each type
-allUrg$typeN <- 0; allUrg$typeN[allUrg$type=="Discusión inmediata"] <- 1; allUrg$typeN[allUrg$type=="Suma"] <- 2; allUrg$typeN[allUrg$type=="Simple"] <- 3;
-tmp2 <- allUrg$typeN # will be used for retires
-allUrg$typeN[allUrg$chain>0] <- 4 + allUrg$typeN[allUrg$chain>0]/10 # temp recode
-# add messages retiring urgency
-tmp <- allUrg[allUrg$dretir==1,]; tmp2 <- tmp2[allUrg$dretir==1]
-tmp$typeN <- 5 + tmp2/10
-tmp$on <- tmp$off
-allUrg <- rbind(allUrg, tmp) # binds retiring messages for graph
-table(allUrg$typeN)
-#
-# drop urgencias after 10/3/2014 (repeat, since off messages were added)
-sel <- which(allUrg$on>dmy("10/03/2014", tz = "chile"))
-allUrg <- allUrg[-sel,]
-save(bills, allUrg, file = paste(datdir, "allUrg.RData", sep = "")) # <--- export
-rm(i, sel, tmp, tmp2)
-# further transformations of allUrg in plots.r in preparation for graph AND BELOW <-- need to move save below
-#
 # imports Memo's roll call summaries 2002-2014
 tmp01 <- read.csv(file = paste(datdir, "memoRollCallSum/ChileDep2002-Votes.csv", sep = ""), stringsAsFactors=FALSE)
 tmp02 <- read.csv(file = paste(datdir, "memoRollCallSum/ChileDep2003-Votes.csv", sep = ""), stringsAsFactors=FALSE)
@@ -2620,12 +2596,30 @@ tmp$votype[sel] <- "overr"
 allVot <- tmp[, c("bol","date","q","thres","qRule","ayes","nays","noVote", "noShow", "dpassed", "votype", "artic")] # end by creating votes object
 #head(allVot)
 rm(tmp, sel, skip, tmp1, tmp2)
-
+#
+# CREATE OBJECT allUrg
+# extract urgencias object, unlisted to prepare urgencia-as-unit data
+## ojo: hay objectos bills$urgencias, bills$urgRaw y bills$urg... uno sale sobrando, checar
+tmp <- bills$urg
+sel <- which(bills$info$nUrg>0) # bills with at least one urgencia
+for (i in sel){
+    tmp[[i]]$bol <- bills$info$bol[i]  # add boletin number
+}
+tmp <- tmp[sel] # drop elements without urgency
+#
+library(plyr)
+allUrg <- ldply(tmp, data.frame) # unlist the data.frames into one large data.frame
+#
+# drop urgencias after 10/3/2014
+library(lubridate)
+sel <- which(allUrg$on>dmy("10/03/2014", tz = "chile"))
+allUrg <- allUrg[-sel,]
+#
 # ATTEMPT TO CORRECT NO OVERLAPS IN URGENCIAS WITHOUT FIXING ALL FROM:TO DATES IN TRAMITES---CHERRY-PICK CASES WITH NO OVERLAP
 # SEEMS TO WORK!!
 sel <- grep("check", allUrg$tramite) # select cases with check
 for (i in sel){
-    #i <- sel[1] # debug
+    #i <- sel[170] # debug
     tmpOffendingDate <- allUrg$on[i]
     tmpBol <- allUrg$bol[i]
     tmpIndex <- which(bills$info$bol==tmpBol)
@@ -2638,10 +2632,12 @@ for (i in sel){
     tmpSel <- tmpOffendingDate %my_within% tmpHit$per # in which period does offending date belong in?
     allUrg$tramite[i] <- tmpHit$chamber[tmpSel] # plug trámite where there was no overlap
 }
+#table(allUrg$tramite, useNA = "ifany")
+#allUrg$bol[which(is.na(allUrg$tramite)==TRUE)]
 # fix these by hand
 sel <- which(allUrg$bol=="8149-09" & is.na(allUrg$tramite)==TRUE);  allUrg$tramite[sel] <- "sen"; 
 sel <- which(allUrg$bol=="8612-02" & is.na(allUrg$tramite)==TRUE);  allUrg$tramite[sel] <- "sen"; 
-sel <- which(allUrg$bol=="5458-07" & is.na(allUrg$tramite)==TRUE);  allUrg$tramite[sel] <- "sen"; 
+#sel <- which(allUrg$bol=="5458-07" & is.na(allUrg$tramite)==TRUE);  allUrg$tramite[sel] <- "sen"; 
 # these are not actual urgencias, mistakes in source
 sel <- which(allUrg$bol=="497-15");  allUrg <- allUrg[-sel,] 
 sel <- which(allUrg$bol=="706-15");  allUrg <- allUrg[-sel,] 
@@ -2652,34 +2648,44 @@ sel <- which(allUrg$bol=="1200-15"); allUrg <- allUrg[-sel,]
 sel <- which(allUrg$bol=="1291-15"); allUrg <- allUrg[-sel,] 
 sel <- which(allUrg$bol=="1308-15"); allUrg <- allUrg[-sel,] 
 #
-# check/fix chain info in manual corrections
-sel <- which(allUrg$bol=="8149-09" & allUrg$tramite=="dip" & allUrg$on==dmy("12-06-2012", tz = "chile"))
-allUrg <- allUrg[-sel,]
-sel <- which(allUrg$bol=="8612-02" & allUrg$tramite=="dip" & allUrg$on==dmy("08-01-2013", tz = "chile"))
-allUrg <- allUrg[-sel,]
-sel <- which(allUrg$bol=="8612-02" & allUrg$tramite=="dip" & allUrg$off==dmy("08-01-2013", tz = "chile"))
-allUrg$off[sel] <- dmy("13-12-2012", tz = "chile") # approved, moved to senate
-allUrg$dretir[sel] <- 0
-sel <- which(allUrg$bol=="8612-02" & allUrg$tramite=="sen" & allUrg$on==dmy("16-10-2013", tz = "chile") & allUrg$off==dmy("16-10-2013", tz = "chile"))
-allUrg <- allUrg[-sel,]
-sel <- which(allUrg$bol=="5458-07" & allUrg$tramite=="dip" & allUrg$on==dmy("08-09-2009", tz = "chile"))
-allUrg$tramite[sel] <- "sen"
-
-allUrg <- allUrg[order(allUrg$bol, allUrg$on),] # sort urgencias so that retiro messages do not appear bunched at the end 
+# re-do chains, change, dretir across the board
+#allUrg <- allUrg[order(allUrg$bol, allUrg$on),] # sort urgencias
 tmp <- allUrg    # duplicate
-tmp$chain2 <- 0; tmp$dretir2 <- 0; tmp$change2 <- 0 # open slot for new data
+tmp$chain2 <- 0; tmp$change2 <- 0; tmp$dretir2 <- tmp$dretir # open slot for new data
 tmpSel <- as.data.frame(table(tmp$bol), stringsAsFactors = FALSE)
 for (i in 1:nrow(tmpSel)){
     message(sprintf("loop %s of %s", i, nrow(tmpSel)))
     #i <-8 # debug
+    #i <- which(tmpSel[,1]=="8149-09") # debug
     sel <- which(tmp$bol==tmpSel[i,1]) # select urgencias tied to one boletín
     tmpBillUrg <- tmp[sel,] # isolate urgencia messages
     #head(tmpBillUrg) # debug
     U <- tmpSel[i,2]
+    ## for (j in 1:(U-1)){ # recode dretir with on/off dates
+    ##     if (tmpBillUrg$off[j]==tmpBillUrg$on[j+1] &
+    ##         tmpBillUrg$tramite[j]==tmpBillUrg$tramite[j+1]) tmpBillUrg$dretir2[j] <- 0
+    ## }
     if (U==1) next         # cases with single urgencia 
+    for (j in 1:(U-1)){ # recode dretir with on/off dates and same trámite (conf,veto,trib taken as same trámite)
+        #j <- 1 #debug
+        if (tmpBillUrg$off[j]==tmpBillUrg$on[j+1] &
+            (tmpBillUrg$tramite[j]==tmpBillUrg$tramite[j+1] |
+             tmpBillUrg$tramite[j+1]=="conf" |
+             tmpBillUrg$tramite[j+1]=="veto" |
+             tmpBillUrg$tramite[j+1]=="trib")) tmpBillUrg$dretir2[j] <- 0
+    }
+    ## for (j in 2:U){
+    ##     #j <- 2 # debug
+    ##     if (tmpBillUrg$on[j]==tmpBillUrg$off[j-1] & tmpBillUrg$tramite[j]==tmpBillUrg$tramite[j-1]) tmpBillUrg$chain2[j] <- 1;
+    ## }
+# THIS HAS POTENTIAL: search "on/offMessageNumbers" in code above to alter bills$urg creation in order to add on and off message numbers to bills$urg[[*]]. This would offer better way to control for chains (sometimes on and off dates differ by 1 day, yet same message number indicates that exec is resetting urgency deadline and terms, eg bol=="372-15") --> if (tmp$onMsg[j]==tmp$offMsg[j-1] etc
     for (j in 2:U){
         #j <- 2 # debug
-        if (tmpBillUrg$on[j]==tmpBillUrg$off[j-1] & tmpBillUrg$tramite[j]==tmpBillUrg$tramite[j-1]) tmpBillUrg$chain2[j] <- 1;
+        if (tmpBillUrg$on[j]==tmpBillUrg$off[j-1] &
+            (tmpBillUrg$tramite[j]==tmpBillUrg$tramite[j-1] |
+             tmpBillUrg$tramite[j]=="conf" |
+             tmpBillUrg$tramite[j]=="veto" |
+             tmpBillUrg$tramite[j]=="trib")) tmpBillUrg$chain2[j] <- 1;
     }
     tmp2 <- tmpBillUrg$chain2
     for (j in 2:U){
@@ -2687,23 +2693,70 @@ for (i in 1:nrow(tmpSel)){
     }
     tmpBillUrg$chain2 <- tmp2; rm(tmp2)
     for (j in 2:U){
-        if (tmp$chain2[j]>0) tmp$change2[j] <- as.numeric(tmp$deadline[j] - tmp$deadline[j-1])*100 / as.numeric(tmp$deadline[j-1] - tmp$on[j-1]) # % change new deadline
-    }
-    for (j in 1:(U-1)){
-        if (tmp$typeN[j+1]>5) tmp$dretir2[j] <- 1
+        if (tmpBillUrg$chain2[j]>0) tmpBillUrg$change2[j] <- as.numeric(tmpBillUrg$deadline[j] - tmpBillUrg$deadline[j-1])*100 / as.numeric(tmpBillUrg$deadline[j-1] - tmpBillUrg$on[j-1]) # % change new deadline
     }
     tmp[sel,] <- tmpBillUrg  # return manipulated object
 }
-NEED RE-DO dretir AND ADDITION OF 5.* MESSAGES ABOVE. Since the start, it was based on existence of second date in record & not caduca; then recoded 0 for chain links. Based on this, extra messages were added. Should repeat whole thing with revisions to spot diffs. Problem: some revising based on old dretir info, but may be possible to avoid...
-
-i <- i+10; tmp[i:(i+9),]
-x
-
-rm(i,sel,tmp,tmpBol,tmpHit,tmpIndex,tmpOffendingDate,tmpSel,tmpTram)
-
-# MANIPULATE/CLEAN URGENCIAS OBJECT, PREP FOR ANALYSIS 
-allUrg <- allUrg[order(allUrg$bol, allUrg$on),] # sort urgencias so that retiro messages do not appear bunched at the end 
+## # compare dretir2 and dretir, chain2 and chain, change2 and change
+## table(tmp$dretir2 - tmp$dretir)
+## tmp$bol[which(tmp$dretir2 - tmp$dretir!=0)]
+## tmp[which(tmp$bol=="372-15"),]
+#
+# input recoded info instead
+tmp$chain <- tmp$chain2
+tmp$dretir <- tmp$dretir2
+tmp$change <- tmp$change2
+tmp$chain2 <- tmp$dretir2 <- tmp$change2 <- NULL
+#
+# correction by hand (similar cases must be all over the place: retired messages after chamber has passed bill to other chamber are not retired!
+sel <- which(tmp$bol=="8612-02" & tmp$tramite=="dip" & tmp$off==dmy("08-01-2013", tz = "chile"))
+tmp$off[sel] <- dmy("13-12-2012", tz = "chile") # approved, moved to senate
+tmp$dretir[sel] <- 0
+## ## ALL THIS SHOULD BE NO LONGER NEEDED
+## # check/fix chain info in manual corrections
+## sel <- which(tmp$bol=="8149-09"); tmp[sel,]
+## sel <- which(tmp$bol=="8149-09" & tmp$tramite=="dip" & tmp$on==dmy("12-06-2012", tz = "chile"))
+## tmp <- tmp[-sel,]
+## sel <- which(tmp$bol=="8612-02" & tmp$tramite=="dip" & tmp$on==dmy("08-01-2013", tz = "chile"))
+## tmp <- tmp[-sel,]
+## sel <- which(tmp$bol=="8612-02" & tmp$tramite=="sen" & tmp$on==dmy("16-10-2013", tz = "chile") & tmp$off==dmy("16-10-2013", tz = "chile"))
+## tmp <- tmp[-sel,]
+## sel <- which(tmp$bol=="5458-07" & tmp$tramite=="dip" & tmp$on==dmy("08-09-2009", tz = "chile"))
+## tmp$tramite[sel] <- "sen"
+#
+# replace object with manipulates dretir, chain, change
+allUrg <- tmp
+#
+#sel <- which(allUrg$bol=="8612-02"); allUrg[sel,] # INTERESTING CASE STUDY? urg#1 in sen dropped (for summer break?) then a looong chain. Didn't pass and theme uninteresting (fireworks mensaje) SEARCH OTHERS
+#
+rm(i,j,sel,tmp,tmpBillUrg,tmpBol,tmpHit,tmpIndex,tmpOffendingDate,tmpSel,tmpTram,U) # cleaning
+#
+# add numeric type: 1,2,3 for di, su, si; 4.1,4.2,4.3 for resets of each type; 5.1,5.2,5.3 will be for retired of each type, added below
+allUrg$typeN <- 0; allUrg$typeN[allUrg$type=="Discusión inmediata"] <- 1; allUrg$typeN[allUrg$type=="Suma"] <- 2; allUrg$typeN[allUrg$type=="Simple"] <- 3;
+tmp2 <- allUrg$typeN # will be used for retires
+allUrg$typeN[allUrg$chain>0] <- 4 + allUrg$typeN[allUrg$chain>0]/10 
+# add messages retiring urgency
+tmp <- allUrg[allUrg$dretir==1,]; tmp2 <- tmp2[allUrg$dretir==1]
+tmp$typeN <- 5 + tmp2/10
+tmp$on <- tmp$deadline <- tmp$off
+tmp$dretir <- 0
+allUrg <- rbind(allUrg, tmp) # binds retiring messages for graph
+#
+# sort urgencias so that retiro messages do not appear bunched at the end 
+tmp <- 1:nrow(allUrg) # preserve original order id on dates tie
+allUrg <- allUrg[order(allUrg$bol, allUrg$on, tmp),]
 allUrg$chain[allUrg$typeN>5] <- allUrg$chain[allUrg$typeN>5] + 1 # fix chain number of retiro messages (they are copies of message they withdraw)
+#
+# drop urgencias after 10/3/2014 (repeat, since off messages were added)
+sel <- which(allUrg$on>dmy("10/03/2014", tz = "chile"))
+allUrg <- allUrg[-sel,]
+table(allUrg$typeN, useNA = "ifany")
+# exports csv of allUrg to process in plots.r
+save(bills, allUrg, file = paste(datdir, "allUrg.RData", sep = "")) # <--- export
+rm(sel, tmp, tmp2)
+# further transformations of allUrg in plots.r in preparation for graph AND BELOW <-- need to move save below
+#
+# MANIPULATE/CLEAN URGENCIAS OBJECT, PREP FOR ANALYSIS 
 # add session dates to recode on date with next closest session
 tmpD <- bills$sessions[bills$sessions$ddip==1,] # diputado sessions
 tmpS <- bills$sessions[bills$sessions$dsen==1,] # senado sessions
@@ -2757,7 +2810,7 @@ tmp$nTyp3[tmp$typeN==4.3] <- 1
 tmpSel <- as.data.frame(table(tmp$bol), stringsAsFactors = FALSE)
 for (i in 1:nrow(tmpSel)){
     message(sprintf("loop %s of %s", i, nrow(tmpSel)))
-    #i <-1748 # debug
+    #i <-1740 # debug
     sel <- which(tmp$bol==tmpSel[i,1]) # select urgencias tied to one boletín
     tmpBillUrg <- tmp[sel,] # isolate urgencia messages
     #head(tmpBillUrg) # debug
@@ -2782,13 +2835,25 @@ for (i in 1:nrow(tmpSel)){
     #
     tmpBillUrg <- tmpBillUrg[duplicated(tmpBillUrg$chainN)==FALSE,] # drop redundant chain info
     tmp <- tmp[-sel,]             # drop unmanipulated data from object
-    tmp <- rbind(tmp, tmpBillUrg) # ... replacing them with the manipulated info
+    tmp <- rbind(tmp, tmpBillUrg) # ... replacing by manipulated info
 }
+#
+# rename elements
+tmp$chain <- tmp$typeN <- NULL; colnames(tmp)[grep("type", colnames(tmp))] <- "typOrig"
+tmp <- tmp[order(tmp$bol, tmp$on),]
+#
+# replace by manipulated object
+allUrgChains <- tmp
+
+
+CLONE chile, merge allUrg commands, see if works... git branch
+
+
+
+
 
 tail(tmp)
 
-tmp$chain <- tmp$typeN <- NULL; colnames(tmp)[grep("type", colnames(tmp))] <- "typOrig"
-tmp <- tmp[order(tmp$bol, tmp$on),]
 
 tmpSel[,2] has nUrg in bill
 
