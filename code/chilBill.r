@@ -2731,6 +2731,20 @@ allUrg <- tmp
 #
 rm(i,j,sel,tmp,tmpBillUrg,tmpBol,tmpHit,tmpIndex,tmpOffendingDate,tmpSel,tmpTram,U) # cleaning
 #
+# fix mistakes from source in urgencia dates
+sel <- which(allUrg$bol=="2111-10" & year(allUrg$off)==1997)
+year(allUrg$off[sel]) <- 1998;
+allUrg$dretir[which(allUrg$bol=="2111-10")] <- 0 # none retired, all passed to other chamber
+#
+sel <- which(allUrg$bol=="4369-05" & allUrg$off==dmy("10-08-2006" ,tz = "chile"))
+allUrg$on[sel] <- allUrg$on[sel] - days(7)
+allUrg$deadline[sel] <- allUrg$deadline[sel] - days(7)
+allUrg$type[sel] <- "Discusión inmediata"
+allUrg$tramite[sel] <- "dip"; allUrg$trNum[sel] <- 1
+sel <- which(allUrg$bol=="4369-05" & allUrg$off==dmy("27-09-2006" ,tz = "chile"));
+allUrg$dretir[sel] <- 0 # not retired
+allUrg$off[sel] <- dmy("3-10-2006" ,tz = "chile") # seem to be a chain link
+#
 # add numeric type: 1,2,3 for di, su, si; 4.1,4.2,4.3 for resets of each type; 5.1,5.2,5.3 will be for retired of each type, added below
 allUrg$typeN <- 0; allUrg$typeN[allUrg$type=="Discusión inmediata"] <- 1; allUrg$typeN[allUrg$type=="Suma"] <- 2; allUrg$typeN[allUrg$type=="Simple"] <- 3;
 tmp2 <- allUrg$typeN # will be used for retires
@@ -2795,7 +2809,6 @@ allUrg$off[sel] <- allUrg$deadline[sel]
 tmp <- rep(0, nrow(allUrg)); tmp[allUrg$off>allUrg$deadline] <- 1
 message("many retiros actually occurred after deadline... meaning???"); table(tmp, allUrg$typeN)
 
-# ADD WHETHER OR NOT A VOTE FOLLOWED URGENCIAS IN DIPUTADOS
 # splits allUrg into two objects: the origonal with all URGENCY MESSAGES, a new one with all URGENCY CHAINS (incl. singletons)
 allUrgChains <- allUrg
 # consolidate chains
@@ -2815,7 +2828,7 @@ for (i in 1:nrow(tmpSel)){
     tmpBillUrg <- tmp[sel,] # isolate urgencia messages
     #head(tmpBillUrg) # debug
     if (tmpSel[i,2]==1){                    # cases with single urgencia 
-        tmp$chainN[i] <- tmp$links[i] <- 1  # cases with single urgencia 
+        tmp$chainN[sel] <- tmp$links[sel] <- 1  # cases with single urgencia 
         next                                # cases with single urgencia 
     }
     tmpBillUrg$chainN[tmpBillUrg$chain==0] <- 1:length(tmpBillUrg$chainN[tmpBillUrg$chain==0]) # fills chain number
@@ -2839,8 +2852,15 @@ for (i in 1:nrow(tmpSel)){
 }
 #
 # rename elements
-tmp$chain <- tmp$typeN <- NULL; colnames(tmp)[grep("type", colnames(tmp))] <- "typOrig"
-tmp <- tmp[order(tmp$bol, tmp$on),]
+tmp$chain <- tmp$type <- NULL
+# fine-tune typeN: urg went all the way to deadline 1.0, 2,0, 3.0; deadline modif 1.4, 2.4, 3.4; retir 1.5, 2.5, 3.5; modif, then retir 1.45, 2.45, 3.45
+$typeN[tmp$links==1 & tmp$dretir==1] <- tmp$typeN[tmp$links==1 & tmp$dretir==1] + .5 
+tmp$typeN[tmp$links>1  & tmp$dretir==0] <- tmp$typeN[tmp$links>1  & tmp$dretir==0] + .4 
+tmp$typeN[tmp$links>1  & tmp$dretir==1] <- tmp$typeN[tmp$links>1  & tmp$dretir==1] + .45 
+table(tmp$typeN, useNA = "ifany") ##### too many .45s, miscoding retiros??? <-- FIX MAY BE THE USE OF MESSAGE NUMBERS...
+# sort
+tmp1 <- 1:nrow(tmp) # preserve original order in case of tie
+tmp <- tmp[order(tmp$bol, tmp$on, tmp1),]
 #
 # replace by manipulated object
 allUrgChains <- tmp
@@ -2848,19 +2868,15 @@ allUrgChains <- tmp
 # make single object containing messages and chains
 allUrg <- list(messages=allUrg, chains=allUrgChains)
 rm(allUrgChains)
-
-# fine-tune typeN: urgencias that went all the way to deadline are 1.0, 2,0, 3.0; with deadline modified 1.4, 2.4, 3.4; or retired 1.5, 2.5, 3.5
-
-sel <- which(allUrg$on > dmy("11-03-2002", tz = "chile") & allUrg$tramite!="sen") # only have diputado votes since 2002
-allUrg$nvotDdln2 <- allUrg$nvotDdln <- NA                                         # add slots for new data
-THIS NOT WORKING! CHECK WHAT chain!=0 MEANS...
-allUrg$typeN2 <- allUrg$typeN
-for (i in 2:nrow(allUrg)){
-    if (allUrg$chain[i]==0) next
-    allUrg$typeN2[i-1] <- allUrg$typeN[i-1] + as.integer(allUrg$typeN[i])/10 # adds i's integer as decimal to i-1's
-}
 #
-tmp <- allUrg[sel,] # subset for manipulation
+rm(i,j,sel,tmp,tmp1,tmp2,tmpBillUrg,tmpD,tmpS,tmpD1,tmpS1,tmpSel)
+
+# ADD WHETHER OR NOT A VOTE FOLLOWED URGENCIAS IN DIPUTADOS
+tmp <- allUrg$chains # extract object for manipulation
+sel <- which(tmp$on > dmy("11-03-2002", tz = "chile") & tmp$tramite!="sen") # only have diputado votes since 2002
+tmp$nvotDdln2 <- tmp$nvotDdln <- NA                                         # add slots for new data
+#
+tmp <- tmp[sel,] # subset for manipulation
 head(tmp)
 for (i in 1:nrow(tmp)){
     message(sprintf("loop %s of %s", i, nrow(tmp)))
@@ -2873,28 +2889,31 @@ for (i in 1:nrow(tmp)){
         tmpPeriod <- new_interval(start = tmp$on[i], end = tmp$off[i])
         tmpHit <- allVot$date[tmpVotIndices] %within% tmpPeriod # in which period does date.on belong in?
         tmp$nvotDdln[i] <- length(which(tmpHit==TRUE)) # input number of votes held in period
-        tmpPeriod <- new_interval(start = tmp$on[i], end = tmp$off[i]+weeks(1)) # extend period by 1 week
+        tmpPeriod <- new_interval(start = tmp$on[i], end = tmp$off[i]+weeks(2)) # extend period by 1 week
         tmpHit <- allVot$date[tmpVotIndices] %within% tmpPeriod # in which period does date.on belong in?
         tmp$nvotDdln2[i] <- length(which(tmpHit==TRUE)) # input number of votes held in period
     }
 }
 #
+# descriptives: was a vote in dip held within deadline? within deadline plus 2 weeks?
+votInDdl <- table(tmp$nvotDdln>0, tmp$typeN)
+votInDdl2 <- table(tmp$nvotDdln2>0, tmp$typeN)
+#
+## round(prop.table(votInDdl ,2)*100, 0)
+## margin.table(votInDdl ,2)
+## round(prop.table(votInDdl2,2)*100, 0)
+## margin.table(votInDdl2,2)
+rbind(
+    round(prop.table(votInDdl ,2)*100, 0),
+    margin.table(votInDdl ,2)
+    )
+rbind(
+    round(prop.table(votInDdl2 ,2)*100, 0),
+    margin.table(votInDdl2 ,2)
+    )
+#
+rm(votInDdl,votInDdl2)
 
-allUrg[31:40,]
-head(tmp)
-
-table(tmp$nvotDdln>0, tmp$typeN2)
-table(tmp$nvotDdln2>0, tmp$typeN)
-table(tmp$nvotDdln, tmp$typeN)
-
-tmp <- bills$tramites[[which(bills$info$bol=="372-15")]]
-bills$hitos[[which(bills$info$bol=="372-15")]]
-    
-head(tmp)
-tmp[1:10,]
-head(allVot)
-    
-ls()
 
 # REFERRED TO HACIENDA COMMITTEE (IE., NEEDS APPROPRIATION)
 bills$info$drefHda <- 0
