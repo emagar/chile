@@ -1,0 +1,16 @@
+# fill missing trámites from urg by hand
+i <- which(bills$info$bol=="279-03")
+bills$urg[[i]]$tramite[1] <- "sen"; bills$urg[[i]]$trNum[1] <- 1
+bills$urg[[i]]$tramite[2] <- "dip"; bills$urg[[i]]$trNum[2] <- 2
+#
+i <- which(bills$info$bol=="2361-23")
+bills$urg[[i]]$tramite[25] <- "sen"; bills$urg[[i]]$trNum[25] <- 4
+#
+i <- which(bills$info$bol=="3190-04")
+bills$urgRaw[[i]][4] <- "15 de Abr. de 2003   Simple 536-348  "
+
+
+bills$urgRaw[[i]][3] <-   "22 de Mar. de 1994 05 de Abr. de 1994 Suma 220394 050494" # decía 1992
+bills$tramites[[i]]
+bills$urg[[i]]
+#

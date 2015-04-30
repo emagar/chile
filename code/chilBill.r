@@ -1973,6 +1973,7 @@ rm(check, drop, n, i, sel, tmp, tmp1, tmp2, tramVerif, vet) # clean
 
 # RE DO ALL PERIODS (NEED TO REVISE FROM AND TO...)
 for (i in 1:I){
+    #i <- which(bills$info$bol=="372-15") # debug
     message(sprintf("loop %s of %s", i, I))
     tmp <- bills$tramites[[i]]
     tmp$period <- new_interval(tmp$from, tmp$to)
@@ -2011,6 +2012,7 @@ for (i in 1:I){
 #
 options(warn=2) # turns warnings into errors, which break the loop (use warn=1 to return to normal) 
 for (i in work){
+    #j <- 1
     #j <- j + 1 # debug
     #i <- work[j] # debug
     message(sprintf("processing record %s", i))
@@ -2083,21 +2085,25 @@ for (i in work){
     }
     ##
     ##
-## # THIS HAS POTENTIAL: ADD ON AND OFF MESSAGE NUMS. IT SHOULD WORK HERE (ADD AND RERUN LOOP) (NAME TO FIND THIS: on/offMessageNumbers) 
-## loop over boletines with urgencias...
-## sel <- which(bills$info$bol=="372-15")
-## obj1 <- bills$urgRaw[[sel]]
-## obj2 <- gsub(pattern = ".* ([0-9]+[-][0-9]+)[ ]([0-9]+[-][0-9]+)?", replacement = "\\1", obj1[-1]) # on message number
-## obj3 <- gsub(pattern = ".* ([0-9]+[-][0-9]+)[ ]([0-9]+[-][0-9]+)?", replacement = "\\2", obj1[-1]) # retiro message number
-## remove spaces from obj2 obj3
-## plug obj2 as output$msgOn
-## plug obj3 as output$msgOff
-    ##
-    ##                                     # put NAs in off for urgencias not retired
-    ## select <- which(tmp2==1)
-    ## if (length(select)>0){
-    ##     output$off[tmp2==1] <- NA
-    ## }
+    
+                                        # ADD ON AND OFF MESSAGE NUMS (NAME TO FIND THIS: on/offMessageNumbers) 
+    #i <- which(bills$info$bol=="372-15") # debug
+    obj1 <- bills$urgRaw[[i]]
+    obj2 <- gsub(pattern = ".* ([0-9]+[-][0-9]+)[ ]([0-9]+[-][0-9]+)?", replacement = "\\1", obj1[-1]) # on message number
+    obj3 <- gsub(pattern = ".* ([0-9]+[-][0-9]+)[ ]([0-9]+[-][0-9]+)?", replacement = "\\2", obj1[-1]) # retiro message number
+                                        #remove spaces from obj2 obj3
+    obj2 <- gsub(pattern = " ", replacement = "", obj2)
+    obj3 <- gsub(pattern = " ", replacement = "", obj3)
+                                        #plug to output    
+    output$msgOn <- obj2
+    output$msgOff <- obj3
+    
+                                        # put NAs in off for urgencias not retired
+    select <- which(tmp2==1)
+    if (length(select)>0){
+        output$off[tmp2==1] <- NA
+    }
+    
                                         # drops instances of no urgencia, if any
     select <- which(output$type=="Sin urgencia")
     if (length(select)>0) {
@@ -2249,7 +2255,7 @@ bills <- lapply(bills, function(x, ord) {
     },
     ord = ord
 )
-rm(tmp, ord)
+rm(tmp, ord, obj1, obj2, obj3)
 
 # add titulo from csv file
 tmp <- read.csv(file = paste(datdir, "proyec3.csv", sep = ""), stringsAsFactors = FALSE)
@@ -2358,7 +2364,6 @@ save.image(file="chilBill.RData")
 bills$info$yrin <- year(bills$info$dateIn); bills$info$moin <- month(bills$info$dateIn); bills$info$dyin <- day(bills$info$dateIn);
 #bills$outfo$yrout[] <- year(bills$outfo$dateOut); bills$outfo$moout <- month(bills$outfo$dateOut); bills$outfo$dyout <- day(bills$outfo$dateOut);
 write.csv(bills$info, file = paste(datdir, "bills-info.csv", sep = ""))
-
 
 ######################################################################
 ######################################################################
@@ -2610,6 +2615,271 @@ tmp <- tmp[sel] # drop elements without urgency
 library(plyr)
 allUrg <- ldply(tmp, data.frame) # unlist the data.frames into one large data.frame
 #
+# clean message on/off numbers
+tmp1 <- allUrg$msgOn
+tmp2 <- allUrg$msgOff
+tmp1 <- sub(pattern = ".*(Simple|Suma|Discusióninmediata)", replacement = "", tmp1)
+tmp1 <- sub(pattern = "CADUCAD[AO]", replacement = "", tmp1)
+tmp1 <- sub(pattern = "Caducada", replacement = "", tmp1)
+tmp2 <- sub(pattern = ".*(Simple|Suma|Discusióninmediata)", replacement = "", tmp2)
+tmp2 <- sub(pattern = "CADUCAD[AO]", replacement = "", tmp2)
+tmp2 <- sub(pattern = "Caducada", replacement = "", tmp2)
+#
+sel <- which(tmp1=="360-341383.341"); tmp1[sel] <- "360-341"; tmp2[sel] <- "383-341"
+sel <- which(tmp1=="1022-3551135"); tmp1[sel] <- "1022-355"
+sel <- which(tmp1=="11351173-355"); tmp1[sel] <- "11-351"; tmp2[sel] <- "173-355"
+sel <- which(tmp1=="338-361a338-361"); tmp1[sel] <- "338-361a"; tmp2[sel] <- "338-361"
+sel <- which(tmp1=="428-360457360"); tmp1[sel] <- "428-360"; tmp2[sel] <- "457-360"
+sel <- which(tmp1=="216-.360241-360"); tmp1[sel] <- "216-360"; tmp2[sel] <- "241-360"
+sel <- which(tmp1=="1769-3571812.357"); tmp1[sel] <- "1769-357"; tmp2[sel] <- "1812-357"
+sel <- which(tmp1=="1812.3571889-357"); tmp1[sel] <- "1812-357"; tmp2[sel] <- "1889-357"
+sel <- which(tmp1=="18973571933-357"); tmp1[sel] <- "1897-357"; tmp2[sel] <- "1933-357"
+sel <- which(tmp1=="1850-3571897357"); tmp1[sel] <- "1850-357"; tmp2[sel] <- "1897-357"
+sel <- which(tmp1=="1117-3561181"); tmp1[sel] <- "1117-356"
+sel <- which(tmp1=="11811250-356"); tmp1[sel] <- "1181"; tmp2[sel] <- "1250-356"
+sel <- which(tmp1=="374-355441"); tmp1[sel] <- "374-355"
+sel <- which(tmp1=="197-355300.355"); tmp1[sel] <- "197-355"
+sel <- which(tmp1=="300.355398-355"); tmp1[sel] <- "300-355"; tmp2[sel] <- "398-355"
+sel <- which(tmp1=="278-348342.348"); tmp1[sel] <- "278-348"
+sel <- which(tmp1=="30-34610042002"); tmp1[sel] <- "30-346"
+sel <- which(tmp1=="149-351urg-351"); tmp1[sel] <- "149-351"
+sel <- which(tmp1=="244-3450000"); tmp1[sel] <- "244-345"
+sel <- which(tmp1=="2134382-343"); tmp1[sel] <- "21-343"; tmp2[sel] <- "82-343"
+sel <- which(tmp1=="360-341383.341"); tmp1[sel] <- "360-341"; tmp2[sel] <- "383-341"
+sel <- which(tmp1=="232-3405101999"); tmp1[sel] <- "232-340"
+sel <- which(tmp1=="510199981-341"); tmp1[sel] <- "5101999"; tmp2[sel] <- "81-341"
+sel <- which(tmp1=="20071999144-340"); tmp1[sel] <- "20071999"; tmp2[sel] <- "144-340"
+sel <- which(tmp1=="23-34020071999"); tmp1[sel] <- "23-340"
+sel <- which(tmp1=="02031999272-339"); tmp1[sel] <- "02031999"; tmp2[sel] <- "272-339"
+sel <- which(tmp1=="272-33913071999"); tmp1[sel] <- "272-339"
+sel <- which(tmp1=="13071999140-340"); tmp1[sel] <- "13071999"; tmp2[sel] <- "140-340"
+sel <- which(tmp1=="1407199903081999"); tmp1[sel] <- "14071999"; tmp2[sel] <- "03081999"
+sel <- which(tmp1=="0308199917081999"); tmp1[sel] <- "03081999"; tmp2[sel] <- "17081999"
+sel <- which(tmp1=="42-34023061999"); tmp1[sel] <- "42-340"
+sel <- which(tmp1=="0607199910081999"); tmp1[sel] <- "06071999"; tmp2[sel] <- "10081999"
+sel <- which(tmp1=="10081999235-340"   ); tmp1[sel] <- "10081999"   ; tmp2[sel] <- "235-340"
+sel <- which(tmp1=="190-33902031999"); tmp1[sel] <- "190-339"
+sel <- which(tmp1=="0203199916031999"); tmp1[sel] <- "02031999"; tmp2[sel] <- "16031999"
+sel <- which(tmp1=="3003199930031999"); tmp1[sel] <- "30031999"; tmp2[sel] <- "30031999"
+sel <- which(tmp1=="1603199930031999"); tmp1[sel] <- "16031999"; tmp2[sel] <- "30031999"
+sel <- which(tmp1=="1404199918051999"); tmp1[sel] <- "14041999"; tmp2[sel] <- "18051999"
+sel <- which(tmp1=="1304199914041999"); tmp1[sel] <- "13041999"  ; tmp2[sel] <- "14041999"  
+sel <- which(tmp1=="3003199913041999"); tmp1[sel] <- "30031999"; tmp2[sel] <- "13041999"
+sel <- which(tmp1=="02031999273-339"); tmp1[sel] <- "02031999"; tmp2[sel] <- "273-339"
+sel <- which(tmp1=="2206199920071999"); tmp1[sel] <- "22061999"; tmp2[sel] <- "20071999"
+sel <- which(tmp1=="2007199921071999"); tmp1[sel] <- "20071999"; tmp2[sel] <- "21071999"
+sel <- which(tmp1=="30059030051990"); tmp1[sel] <- "300590"; tmp2[sel] <- "30051990"     ## OJO: CHECK 2/4 DIGIT YEARS ELSEWHERE!
+sel <- which(tmp1=="031090061190"); tmp1[sel] <- "031090"; tmp2[sel] <- "061190"
+sel <- which(tmp1=="290590120690"); tmp1[sel] <- "290590"; tmp2[sel] <- "120690"
+sel <- which(tmp1=="031090061190"); tmp1[sel] <- "031090"; tmp2[sel] <- "061190"
+sel <- which(tmp1=="3005199026061990"); tmp1[sel] <- "30051990"; tmp2[sel] <- "26061990"
+sel <- which(tmp1=="111290150191"); tmp1[sel] <- "111290"; tmp2[sel] <- "150191"
+sel <- which(tmp1=="200591130691"); tmp1[sel] <- "200591"; tmp2[sel] <- "130691"
+sel <- which(tmp1=="021193-328040194"); tmp1[sel] <- "021193-328"
+sel <- which(tmp1=="040194090394"); tmp1[sel] <- "040194"; tmp2[sel] <- "090394"
+sel <- which(tmp1=="170392150492"); tmp1[sel] <- "170392"; tmp2[sel] <- "150492"
+sel <- which(tmp1=="150492120592"); tmp1[sel] <- "150492"; tmp2[sel] <- "120592"
+sel <- which(tmp1=="280792190892"); tmp1[sel] <- "280792"; tmp2[sel] <- "190892"
+sel <- which(tmp1=="071092211092"); tmp1[sel] <- "071092"; tmp2[sel] <- "211092"
+sel <- which(tmp1=="30/05/9504/07/95"); tmp1[sel] <- "300595"; tmp2[sel] <- "040795"
+sel <- which(tmp1=="04/07/9501/08/95"); tmp1[sel] <- "040795"; tmp2[sel] <- "010895"
+sel <- grep(pattern = "[/]", tmp1)
+tmp1[sel] <- sub(pattern = ".*([0-9]{2}[/][0-9]{2}[/][0-9]+)", replacement = "\\1", tmp1[sel])
+tmp2[sel] <- sub(pattern = ".*([0-9]{2}[/][0-9]{2}[/][0-9]+)", replacement = "\\1", tmp2[sel])
+tmp1[sel] <- gsub(pattern = "[/]", replacement = "", tmp1[sel])
+tmp2[sel] <- gsub(pattern = "[/]", replacement = "", tmp2[sel])
+sel <- which(tmp1=="300393040593"      ); tmp1[sel] <- "300393"; tmp2[sel] <- "040593"
+sel <- which(tmp1=="020698010798"); tmp1[sel] <- "020698"; tmp2[sel] <- "010798"
+sel <- which(tmp1=="010798040898"); tmp1[sel] <- "010798"; tmp2[sel] <- "040898"
+sel <- which(tmp1=="040898180898"      ); tmp1[sel] <- "040898"      ; tmp2[sel] <- "180898"      
+sel <- which(tmp1=="141293-328040194"); tmp1[sel] <- "141293-328"
+sel <- which(tmp1=="040194090394"); tmp1[sel] <- "040194"; tmp2[sel] <- "090394"
+sel <- which(tmp1=="070395-330110495"  ); tmp1[sel] <- "070395-330"
+sel <- which(tmp1=="131092101192"      ); tmp1[sel] <- "131092"      ; tmp2[sel] <- "101192"
+sel <- which(tmp1=="118-326256"        ); tmp1[sel] <- "118-326"
+sel <- which(tmp1=="10798-338040898"); tmp1[sel] <- "10798-338"
+sel <- grep(pattern = "[.]", tmp1); tmp1[sel] <- sub(pattern = "[.]", replacement = "-", tmp1[sel])
+sel <- grep(pattern = "[.]", tmp2); tmp2[sel] <- sub(pattern = "[.]", replacement = "-", tmp2[sel])
+sel <- which(tmp1=="101192091292"); tmp1[sel] <- "101192091292"; tmp2[sel] <- "101192091292"
+sel <- which(tmp1=="091292120193"); tmp1[sel] <- "091292"; tmp2[sel] <- "120193"
+sel <- which(tmp1=="020692090692"); tmp1[sel] <- "020692"; tmp2[sel] <- "090692"
+sel <- which(tmp1=="3006926892"        ); tmp1[sel] <- "3006926892"        ; tmp2[sel] <- "3006926892"        
+sel <- which(tmp1=="6892010992"); tmp1[sel] <- "6892010992"; tmp2[sel] <- "6892010992"
+sel <- which(tmp1=="010992021193"); tmp1[sel] <- "010992021193"; tmp2[sel] <- "010992021193"
+sel <- which(tmp1=="040194090394"); tmp1[sel] <- "040194090394"; tmp2[sel] <- "040194090394"
+sel <- which(tmp1=="0410199415111994"); tmp1[sel] <- "0410199415111994"; tmp2[sel] <- "0410199415111994"
+sel <- which(tmp1=="1511199403011995"); tmp1[sel] <- "1511199403011995"; tmp2[sel] <- "1511199403011995"
+sel <- which(tmp1=="111192091292"); tmp1[sel] <- "111192091292"; tmp2[sel] <- "111192091292"
+sel <- which(tmp1=="091292070193"); tmp1[sel] <- "091292070193"; tmp2[sel] <- "091292070193"
+sel <- which(tmp1=="070193100393"        ); tmp1[sel] <- "070193"        ; tmp2[sel] <- "100393"        
+sel <- which(tmp1=="080593070793"        ); tmp1[sel] <- "080593"        ; tmp2[sel] <- "070793"        
+sel <- which(tmp1=="070793100893"        ); tmp1[sel] <- "070793"        ; tmp2[sel] <- "100893"
+sel <- which(tmp1=="100893140993"        ); tmp1[sel] <- "100893"; tmp2[sel] <- "140993"
+sel <- which(tmp1=="091193120194"        ); tmp1[sel] <- "091193"; tmp2[sel] <- "120194"
+sel <- which(tmp1=="120194240194"        ); tmp1[sel] <- "120194"; tmp2[sel] <- "240194"
+sel <- which(tmp1=="080693070793"        ); tmp1[sel] <- "080693"; tmp2[sel] <- "070793"
+sel <- which(tmp1=="161196141293"        ); tmp1[sel] <- "161196"; tmp2[sel] <- "141293"
+sel <- which(tmp1=="141293040194"        ); tmp1[sel] <- "141293"; tmp2[sel] <- "040194"
+sel <- which(tmp1=="040194090394"        ); tmp1[sel] <- "040194"; tmp2[sel] <- "090394"
+sel <- which(tmp1=="061092031192"        ); tmp1[sel] <- "061092"; tmp2[sel] <- "031192"
+sel <- which(tmp1=="031192261192"        ); tmp1[sel] <- "031192"; tmp2[sel] <- "261192"
+sel <- which(tmp1=="261192221292"        ); tmp1[sel] <- "261192"; tmp2[sel] <- "221292"
+sel <- which(tmp1=="281092091232"        ); tmp1[sel] <- "281092"; tmp2[sel] <- "091232"
+sel <- which(tmp1=="091232120193"        ); tmp1[sel] <- "091232"; tmp2[sel] <- "120193"
+sel <- which(tmp1=="031193141293"        ); tmp1[sel] <- "031193"; tmp2[sel] <- "141293"
+sel <- which(tmp1=="141293040194"        ); tmp1[sel] <- "141293"; tmp2[sel] <- "040194"
+sel <- which(tmp1=="040194090394"        ); tmp1[sel] <- "040194"; tmp2[sel] <- "090394"
+sel <- which(tmp1=="171192091292"        ); tmp1[sel] <- "171192"; tmp2[sel] <- "091292"
+sel <- which(tmp1=="060695180795"        ); tmp1[sel] <- "060695"; tmp2[sel] <- "180795"
+sel <- which(tmp1=="110593040194"        ); tmp1[sel] <- "110593"; tmp2[sel] <- "040194"
+sel <- which(tmp1=="040194090394"        ); tmp1[sel] <- "040194"; tmp2[sel] <- "090394"
+sel <- which(tmp1=="260897020997"        ); tmp1[sel] <- "260897"; tmp2[sel] <- "020997"
+sel <- which(tmp1=="070493200493"        ); tmp1[sel] <- "070493"; tmp2[sel] <- "200493"
+sel <- which(tmp1=="070493200493"        ); tmp1[sel] <- "070493"; tmp2[sel] <- "200493"
+sel <- which(tmp1=="200493210493"        ); tmp1[sel] <- "200493"; tmp2[sel] <- "210493"
+sel <- which(tmp1=="070793100893"        ); tmp1[sel] <- "070793"; tmp2[sel] <- "100893"
+sel <- which(tmp1=="100893140993"        ); tmp1[sel] <- "100893"; tmp2[sel] <- "140993"
+sel <- which(tmp1=="050494100594"        ); tmp1[sel] <- "050494"; tmp2[sel] <- "100594"
+sel <- which(tmp1=="021193141293"        ); tmp1[sel] <- "021193"; tmp2[sel] <- "141293"
+sel <- which(tmp1=="221195121295"        ); tmp1[sel] <- "221195"; tmp2[sel] <- "121295"
+sel <- which(tmp1=="160394190494"        ); tmp1[sel] <- "160394"; tmp2[sel] <- "190494"
+sel <- which(tmp1=="191093141293"        ); tmp1[sel] <- "191093"; tmp2[sel] <- "141293"
+sel <- which(tmp1=="040194090394"        ); tmp1[sel] <- "040194"; tmp2[sel] <- "090394"
+sel <- which(tmp1=="180194090394"        ); tmp1[sel] <- "180194"; tmp2[sel] <- "090394"
+sel <- which(tmp1=="220394050494"        ); tmp1[sel] <- "220394"; tmp2[sel] <- "050494"
+sel <- which(tmp1=="040898010998"        ); tmp1[sel] <- "040898"; tmp2[sel] <- "010998"
+sel <- which(tmp1=="111094151194"        ); tmp1[sel] <- "111094"; tmp2[sel] <- "151194"
+sel <- which(tmp1=="050794190794"        ); tmp1[sel] <- "050794"; tmp2[sel] <- "190794"
+sel <- which(tmp1=="201094021194"        ); tmp1[sel] <- "201094"; tmp2[sel] <- "021194"
+sel <- which(tmp1=="021194151194"        ); tmp1[sel] <- "021194"; tmp2[sel] <- "151194"
+sel <- which(tmp1=="151194061294"        ); tmp1[sel] <- "151194"; tmp2[sel] <- "061294"
+sel <- which(tmp1=="140395180495"        ); tmp1[sel] <- "140395"; tmp2[sel] <- "180495"
+sel <- which(tmp1=="220895050995"        ); tmp1[sel] <- "220895"; tmp2[sel] <- "050995"
+sel <- which(tmp1=="040698110698"        ); tmp1[sel] <- "040698"; tmp2[sel] <- "110698"
+sel <- which(tmp1=="040495190495"        ); tmp1[sel] <- "040495"; tmp2[sel] <- "190495"
+sel <- which(tmp1=="110795160895"        ); tmp1[sel] <- "110795"; tmp2[sel] <- "160895"
+sel <- which(tmp1=="160895031095"        ); tmp1[sel] <- "160895"; tmp2[sel] <- "031095"
+sel <- which(tmp1=="031095071195"        ); tmp1[sel] <- "031095"; tmp2[sel] <- "071195"
+sel <- which(tmp1=="071195121295"        ); tmp1[sel] <- "071195"; tmp2[sel] <- "121295"
+sel <- which(tmp1=="160196050396"        ); tmp1[sel] <- "160196"; tmp2[sel] <- "050396"
+sel <- which(tmp1=="020496070596"        ); tmp1[sel] <- "020496"; tmp2[sel] <- "070596"
+sel <- which(tmp1=="070596040696"        ); tmp1[sel] <- "070596"; tmp2[sel] <- "040696"
+sel <- which(tmp1=="040696020796"        ); tmp1[sel] <- "040696"; tmp2[sel] <- "020796"
+sel <- which(tmp1=="020796090796"        ); tmp1[sel] <- "020796"; tmp2[sel] <- "090796"
+sel <- which(tmp1=="090796160796"        ); tmp1[sel] <- "090796"; tmp2[sel] <- "160796"
+sel <- which(tmp1=="160796270896"        ); tmp1[sel] <- "160796"; tmp2[sel] <- "270896"
+sel <- which(tmp1=="170697010797"        ); tmp1[sel] <- "170697"; tmp2[sel] <- "010797"
+sel <- which(tmp1=="010797150797"        ); tmp1[sel] <- "010797"; tmp2[sel] <- "150797"
+sel <- which(tmp1=="150797060897"        ); tmp1[sel] <- "150797"; tmp2[sel] <- "060897"
+sel <- which(tmp1=="060897260897"        ); tmp1[sel] <- "060897"; tmp2[sel] <- "260897"
+sel <- which(tmp1=="260897090997"        ); tmp1[sel] <- "260897"; tmp2[sel] <- "090997"
+sel <- which(tmp1=="090997071097"        ); tmp1[sel] <- "090997"; tmp2[sel] <- "071097"
+sel <- which(tmp1=="071097211097"        ); tmp1[sel] <- "071097"; tmp2[sel] <- "211097"
+sel <- which(tmp1=="211097111197"        ); tmp1[sel] <- "211097"; tmp2[sel] <- "111197"
+sel <- which(tmp1=="110898150998"        ); tmp1[sel] <- "110898"; tmp2[sel] <- "150998"
+sel <- which(tmp1=="040898010998"        ); tmp1[sel] <- "040898"; tmp2[sel] <- "010998"
+sel <- which(tmp1=="170697200797"        ); tmp1[sel] <- "170697"; tmp2[sel] <- "200797"
+sel <- which(tmp1=="200797020997"        ); tmp1[sel] <- "200797"; tmp2[sel] <- "020997"
+sel <- which(tmp1=="010797150797"        ); tmp1[sel] <- "010797"; tmp2[sel] <- "150797"
+sel <- which(tmp1=="150797100997"        ); tmp1[sel] <- "150797"; tmp2[sel] <- "100997"
+sel <- which(tmp1=="180898010998"        ); tmp1[sel] <- "180898"; tmp2[sel] <- "010998"
+sel <- which(tmp1=="140798220798"        ); tmp1[sel] <- "140798"; tmp2[sel] <- "220798"
+sel <- which(tmp1=="220798010998"        ); tmp1[sel] <- "220798"; tmp2[sel] <- "010998"
+sel <- which(tmp1=="010998150998"        ); tmp1[sel] <- "010998"; tmp2[sel] <- "150998"
+sel <- which(tmp1=="101198151298"        ); tmp1[sel] <- "101198"; tmp2[sel] <- "151298"
+sel <- which(tmp1=="120193020398-326"    ); tmp1[sel] <- "120193"    ; tmp2[sel] <- "020398-326"
+sel <- which(tmp1=="170697-335190697"    ); tmp1[sel] <- "170697-335"    ; tmp2[sel] <- "190697"
+sel <- which(tmp1=="07061994205-329"     ); tmp1[sel] <- "07061994"     ; tmp2[sel] <- "205-329"
+sel <- which(tmp1=="1101199925011999"    ); tmp1[sel] <- "11011999"    ; tmp2[sel] <- "25011999"
+sel <- which(tmp1=="2501199909031994"    ); tmp1[sel] <- "25011999"    ; tmp2[sel] <- "09031994"
+sel <- which(tmp1=="19049431051994"      ); tmp1[sel] <- "190494"      ; tmp2[sel] <- "31051994"
+sel <- which(tmp1=="14129304011994"      ); tmp1[sel] <- "141293"      ; tmp2[sel] <- "04011994"
+sel <- which(tmp1=="04011994130294"      ); tmp1[sel] <- "04011994"      ; tmp2[sel] <- "130294"
+sel <- which(tmp1=="10798-338040898"     ); tmp1[sel] <- "10798-338"     ; tmp2[sel] <- "040898"
+sel <- which(tmp1=="151194349-330"       ); tmp1[sel] <- "151194"       ; tmp2[sel] <- "349-330"
+sel <- which(tmp1=="19079420894"         ); tmp1[sel] <- "190794"         ; tmp2[sel] <- "20894"
+sel <- which(tmp1=="061294367-330"       ); tmp1[sel] <- "061294"       ; tmp2[sel] <- "367-330"
+sel <- which(tmp1=="0203199906041999"    ); tmp1[sel] <- "02031999"    ; tmp2[sel] <- "06041999"
+sel <- which(tmp1=="0604199906101999"    ); tmp1[sel] <- "06041999"    ; tmp2[sel] <- "06101999"
+sel <- which(tmp1=="17-34002031999"      ); tmp1[sel] <- "17-340"      ; tmp2[sel] <- "02031999"
+sel <- which(tmp1=="0610199980-341"      ); tmp1[sel] <- "06101999"      ; tmp2[sel] <- "80-341"
+sel <- which(tmp1=="0501199919011999"    ); tmp1[sel] <- "05011999"    ; tmp2[sel] <- "19011999"
+sel <- which(tmp1=="15-12-199805011999"  ); tmp1[sel] <- "15-12-1998"  ; tmp2[sel] <- "05011999"
+sel <- which(tmp1=="0203199903031999"    ); tmp1[sel] <- "02031999"    ; tmp2[sel] <- "03031999"
+sel <- which(tmp1=="675-33006061995"     ); tmp1[sel] <- "675-330"     ; tmp2[sel] <- "06061995"
+sel <- which(tmp1=="06061995110795"      ); tmp1[sel] <- "06061995"      ; tmp2[sel] <- "110795"
+sel <- which(tmp1=="270896250-333"       ); tmp1[sel] <- "270896"       ; tmp2[sel] <- "250-333"
+sel <- which(tmp1=="6019820198-336"      ); tmp1[sel] <- "60198"      ; tmp2[sel] <- "20198-336"
+sel <- which(tmp1=="1798-338040898"      ); tmp1[sel] <- "1798-338"      ; tmp2[sel] <- "040898"
+sel <- which(tmp1=="040696963-333"       ); tmp1[sel] <- "040696"       ; tmp2[sel] <- "963-333"
+sel <- which(tmp1=="198-344xxxxx"        ); tmp1[sel] <- "198-344"        ; tmp2[sel] <- "xxxxx"
+sel <- which(tmp1=="300496150496"        ); tmp1[sel] <- "300496"        ; tmp2[sel] <- "150496"
+sel <- which(tmp1=="467-33220000"        ); tmp1[sel] <- "467-332"        ; tmp2[sel] <- "20000"
+sel <- which(tmp1=="2000120002"          ); tmp1[sel] <- "20001"          ; tmp2[sel] <- "20002"
+sel <- which(tmp1=="2000220003"          ); tmp1[sel] <- "20002"          ; tmp2[sel] <- "20003"
+sel <- which(tmp1=="2000320004"          ); tmp1[sel] <- "20003"          ; tmp2[sel] <- "20004"
+sel <- which(tmp1=="2000420005"          ); tmp1[sel] <- "20004"          ; tmp2[sel] <- "20005"
+sel <- which(tmp1=="2000520006"          ); tmp1[sel] <- "20005"          ; tmp2[sel] <- "20006"
+sel <- which(tmp1=="2000720008"          ); tmp1[sel] <- "20007"          ; tmp2[sel] <- "20008"
+sel <- which(tmp1=="2000920010"          ); tmp1[sel] <- "20009"          ; tmp2[sel] <- "20010"
+sel <- which(tmp1=="2001020011"          ); tmp1[sel] <- "20010"          ; tmp2[sel] <- "20011"
+sel <- which(tmp1=="2001120012"          ); tmp1[sel] <- "20011"          ; tmp2[sel] <- "20012"
+sel <- which(tmp1=="2001320014"          ); tmp1[sel] <- "20013"          ; tmp2[sel] <- "20014"
+sel <- which(tmp1=="2001520016"          ); tmp1[sel] <- "20015"          ; tmp2[sel] <- "20016"
+sel <- which(tmp1=="20016200017"         ); tmp1[sel] <- "20016"         ; tmp2[sel] <- "200017"
+sel <- which(tmp1=="20017160-336"        ); tmp1[sel] <- "20017"        ; tmp2[sel] <- "160-336"
+sel <- which(tmp1=="0403971787-02"       ); tmp1[sel] <- "040397"       ; tmp2[sel] <- "1787-02"
+sel <- which(tmp1=="1787-02150497"       ); tmp1[sel] <- "1787-02"       ; tmp2[sel] <- "150497"
+sel <- which(tmp1=="18-3361456"          ); tmp1[sel] <- "18-336"          ; tmp2[sel] <- "1456"
+sel <- which(tmp1=="14561004"            ); tmp1[sel] <- "1456"            ; tmp2[sel] <- "1004"
+sel <- which(tmp1=="100430013-336"       ); tmp1[sel] <- "1004"       ; tmp2[sel] <- "30013-336"
+sel <- which(tmp1=="3001430015"          ); tmp1[sel] <- "30014"          ; tmp2[sel] <- "30015"
+sel <- which(tmp1=="4898-338180898"      ); tmp1[sel] <- "4898-338"      ; tmp2[sel] <- "180898"
+sel <- which(tmp1=="20109847-339"        ); tmp1[sel] <- "201098"        ; tmp2[sel] <- "47-339"
+sel <- which(tmp1=="106-3351008"         ); tmp1[sel] <- "106-335"         ; tmp2[sel] <- "1008"
+sel <- which(tmp1=="57-3351024"          ); tmp1[sel] <- "57-335"          ; tmp2[sel] <- "1024"
+sel <- which(tmp1=="395-3430020501"      ); tmp1[sel] <- "395-343"
+sel <- which(tmp1=="0203199910031999"    ); tmp1[sel] <- "02031999"    ; tmp2[sel] <- "10031999"
+sel <- which(tmp1=="140798-338040898"    ); tmp1[sel] <- "140798-338"    ; tmp2[sel] <- "040898"
+sel <- which(tmp1=="49-338110898"        ); tmp1[sel] <- "49-338"        ; tmp2[sel] <- "110898"
+sel <- which(tmp1=="184-33630010"        ); tmp1[sel] <- "184-336"        ; tmp2[sel] <- "30010"
+sel <- which(tmp1=="010798-338040898"    ); tmp1[sel] <- "010798-338"    ; tmp2[sel] <- "040898"
+sel <- which(tmp1=="13-339101198"        ); tmp1[sel] <- "13-339"        ; tmp2[sel] <- "101198"
+sel <- which(tmp1=="27-335170697"        ); tmp1[sel] <- "27-335"        ; tmp2[sel] <- "170697"
+sel <- which(tmp1=="15129805011999"      ); tmp1[sel] <- "151298"      ; tmp2[sel] <- "05011999"
+sel <- which(tmp1=="0501199902031999"    ); tmp1[sel] <- "05011999"    ; tmp2[sel] <- "02031999"
+sel <- which(tmp1=="0203199906041999"    ); tmp1[sel] <- "02031999"    ; tmp2[sel] <- "06041999"
+sel <- which(tmp1=="0604199911051999"    ); tmp1[sel] <- "06041999"    ; tmp2[sel] <- "11051999"
+sel <- which(tmp1=="0106199906071999"    ); tmp1[sel] <- "01061999"    ; tmp2[sel] <- "06071999"
+sel <- which(tmp1=="0607199910081999"    ); tmp1[sel] <- "06071999"    ; tmp2[sel] <- "10081999"
+sel <- which(tmp1=="10081999238-340"     ); tmp1[sel] <- "10081999"     ; tmp2[sel] <- "238-340"
+sel <- which(tmp1=="201098159-339"       ); tmp1[sel] <- "201098"       ; tmp2[sel] <- "159-339"
+sel <- which(tmp1=="0203199902031999"    ); tmp1[sel] <- "02031999"    ; tmp2[sel] <- "02031999"
+sel <- which(tmp1=="0203199911051999"    ); tmp1[sel] <- "02031999"    ; tmp2[sel] <- "11051999"
+sel <- which(tmp1=="1105199906071999"    ); tmp1[sel] <- "11051999"    ; tmp2[sel] <- "06071999"
+sel <- which(tmp1=="132-34021071999"     ); tmp1[sel] <- "132-340"     ; tmp2[sel] <- "21071999"
+sel <- which(tmp1=="21071999214-340"     ); tmp1[sel] <- "21071999"     ; tmp2[sel] <- "214-340"
+sel <- which(tmp1=="43-33814798"         ); tmp1[sel] <- "43-338"         ; tmp2[sel] <- "14798"
+sel <- which(tmp1=="1479821798"          ); tmp1[sel] <- "14798"          ; tmp2[sel] <- "21798"
+sel <- which(tmp1=="116-338020998"       ); tmp1[sel] <- "116-338"       ; tmp2[sel] <- "020998"
+sel <- which(tmp1=="8-339101198"         ); tmp1[sel] <- "8-339"         ; tmp2[sel] <- "101198"
+sel <- which(tmp1=="101198211-339"       ); tmp1[sel] <- "101198"       ; tmp2[sel] <- "211-339"
+sel <- which(tmp1=="21109857-339"        ); tmp1[sel] <- "211098"        ; tmp2[sel] <- "57-339"
+sel <- which(tmp1=="157-33902031999"     ); tmp1[sel] <- "157-339"     ; tmp2[sel] <- "02031999"
+sel <- which(tmp1=="239-33930031999"     ); tmp1[sel] <- "239-339"     ; tmp2[sel] <- "30031999"
+sel <- which(tmp1=="48-338110898"        ); tmp1[sel] <- "48-338"        ; tmp2[sel] <- "110898"
+sel <- which(tmp1=="101192091292"    ); tmp1[sel] <- "101192"    ; tmp2[sel] <- "091292"
+sel <- which(tmp1=="010992021193"    ); tmp1[sel] <- "010992"    ; tmp2[sel] <- "021193"
+sel <- which(tmp1=="0410199415111994"); tmp1[sel] <- "04101994"  ; tmp2[sel] <- "15111994"
+sel <- which(tmp1=="1511199403011995"); tmp1[sel] <- "15111994"  ; tmp2[sel] <- "03011995"
+sel <- which(tmp1=="111192091292"    ); tmp1[sel] <- "111192"    ; tmp2[sel] <- "091292"
+sel <- which(tmp1=="091292070193"    ); tmp1[sel] <- "091292"    ; tmp2[sel] <- "070193"
+sel <- which(tmp1=="1251811-336"     ); tmp1[sel] <- "125"       ; tmp2[sel] <- "1811-336"
+sel <- which(tmp1=="269-356-356"     ); tmp1[sel] <- "269-356"   ; tmp2[sel] <- "520-356"
+sel <- which(tmp1=="1637-3-357"      ); tmp2[sel] <- ""
+allUrg$msgOn  <- tmp1
+allUrg$msgOff <- tmp2
+#
 # drop urgencias after 10/3/2014
 library(lubridate)
 sel <- which(allUrg$on>dmy("10/03/2014", tz = "chile"))
@@ -2648,14 +2918,19 @@ sel <- which(allUrg$bol=="1200-15"); allUrg <- allUrg[-sel,]
 sel <- which(allUrg$bol=="1291-15"); allUrg <- allUrg[-sel,] 
 sel <- which(allUrg$bol=="1308-15"); allUrg <- allUrg[-sel,] 
 #
+# remove NAs in off dates (plug deadline)
+sel <- which(is.na(allUrg$off)==TRUE); allUrg$off[sel] <- allUrg$deadline[sel]
+#
 # re-do chains, change, dretir across the board
 #allUrg <- allUrg[order(allUrg$bol, allUrg$on),] # sort urgencias
 tmp <- allUrg    # duplicate
+tmp$msgOn[which(tmp$msgOn=="")] <- "NA" # remove empty on messages (missing) to avoid coding them as equal to missing off message below
 tmp$chain2 <- 0; tmp$change2 <- 0; tmp$dretir2 <- tmp$dretir # open slot for new data
+tmp$chain3 <- 0 # chain2 will recode chain with on/off dates, chain3 code new one with message numbers
 tmpSel <- as.data.frame(table(tmp$bol), stringsAsFactors = FALSE)
 for (i in 1:nrow(tmpSel)){
     message(sprintf("loop %s of %s", i, nrow(tmpSel)))
-    #i <-8 # debug
+    #i <- 126 # debug
     #i <- which(tmpSel[,1]=="8149-09") # debug
     sel <- which(tmp$bol==tmpSel[i,1]) # select urgencias tied to one boletín
     tmpBillUrg <- tmp[sel,] # isolate urgencia messages
@@ -2678,35 +2953,46 @@ for (i in 1:nrow(tmpSel)){
     ##     #j <- 2 # debug
     ##     if (tmpBillUrg$on[j]==tmpBillUrg$off[j-1] & tmpBillUrg$tramite[j]==tmpBillUrg$tramite[j-1]) tmpBillUrg$chain2[j] <- 1;
     ## }
-# THIS HAS POTENTIAL: search "on/offMessageNumbers" in code above to alter bills$urg creation in order to add on and off message numbers to bills$urg[[*]]. This would offer better way to control for chains (sometimes on and off dates differ by 1 day, yet same message number indicates that exec is resetting urgency deadline and terms, eg bol=="372-15") --> if (tmp$onMsg[j]==tmp$offMsg[j-1] etc
+# Computes chains using two criteria: equal on/off dates or equal on/off message numbers (when both info available) and equal on/off dates only (when message number missing)---sometimes on and off dates differ by 1 day, yet same message number indicates that exec is resetting urgency deadline and terms, eg bol=="372-15"
     for (j in 2:U){
         #j <- 2 # debug
-        if (tmpBillUrg$on[j]==tmpBillUrg$off[j-1] &
+        if (tmpBillUrg$on[j]==tmpBillUrg$off[j-1] &         # with dates
             (tmpBillUrg$tramite[j]==tmpBillUrg$tramite[j-1] |
              tmpBillUrg$tramite[j]=="conf" |
              tmpBillUrg$tramite[j]=="veto" |
              tmpBillUrg$tramite[j]=="trib")) tmpBillUrg$chain2[j] <- 1;
+        if ((tmpBillUrg$on[j]==tmpBillUrg$off[j-1] |         # with dates
+             tmpBillUrg$msgOn[j]==tmpBillUrg$msgOff[j-1]) &  # and message numbers
+            (tmpBillUrg$tramite[j]==tmpBillUrg$tramite[j-1] |
+             tmpBillUrg$tramite[j]=="conf" |
+             tmpBillUrg$tramite[j]=="veto" |
+             tmpBillUrg$tramite[j]=="trib")) tmpBillUrg$chain3[j] <- 1;
     }
     tmp2 <- tmpBillUrg$chain2
+    tmp3 <- tmpBillUrg$chain3
     for (j in 2:U){
         tmp2[j] <- tmpBillUrg$chain2[j] + tmp2[j-1] * tmpBillUrg$chain2[j] # zero if no chain, else how many links
+        tmp3[j] <- tmpBillUrg$chain3[j] + tmp3[j-1] * tmpBillUrg$chain3[j] # zero if no chain, else how many links
     }
     tmpBillUrg$chain2 <- tmp2; rm(tmp2)
+    tmpBillUrg$chain3 <- tmp3; rm(tmp3)
     for (j in 2:U){
-        if (tmpBillUrg$chain2[j]>0) tmpBillUrg$change2[j] <- as.numeric(tmpBillUrg$deadline[j] - tmpBillUrg$deadline[j-1])*100 / as.numeric(tmpBillUrg$deadline[j-1] - tmpBillUrg$on[j-1]) # % change new deadline
+        if (tmpBillUrg$chain3[j]>0) tmpBillUrg$change2[j] <- as.numeric(tmpBillUrg$deadline[j] - tmpBillUrg$deadline[j-1])*100 / as.numeric(tmpBillUrg$deadline[j-1] - tmpBillUrg$on[j-1]) # % change new deadline CHOOSE IF chain2 (dates) or chain3 (dates or message num) should be used!
     }
     tmp[sel,] <- tmpBillUrg  # return manipulated object
 }
 ## # compare dretir2 and dretir, chain2 and chain, change2 and change
 ## table(tmp$dretir2 - tmp$dretir)
+## table(tmp$chain2)
+## table(tmp$chain3)
 ## tmp$bol[which(tmp$dretir2 - tmp$dretir!=0)]
 ## tmp[which(tmp$bol=="372-15"),]
 #
 # input recoded info instead
-tmp$chain <- tmp$chain2
+tmp$chain <- tmp$chain3
 tmp$dretir <- tmp$dretir2
 tmp$change <- tmp$change2
-tmp$chain2 <- tmp$dretir2 <- tmp$change2 <- NULL
+tmp$chain2 <- tmp$chain3 <- tmp$dretir2 <- tmp$change2 <- NULL
 #
 # correction by hand (similar cases must be all over the place: retired messages after chamber has passed bill to other chamber are not retired!
 sel <- which(tmp$bol=="8612-02" & tmp$tramite=="dip" & tmp$off==dmy("08-01-2013", tz = "chile"))
@@ -2729,7 +3015,7 @@ allUrg <- tmp
 #
 #sel <- which(allUrg$bol=="8612-02"); allUrg[sel,] # INTERESTING CASE STUDY? urg#1 in sen dropped (for summer break?) then a looong chain. Didn't pass and theme uninteresting (fireworks mensaje) SEARCH OTHERS
 #
-rm(i,j,sel,tmp,tmpBillUrg,tmpBol,tmpHit,tmpIndex,tmpOffendingDate,tmpSel,tmpTram,U) # cleaning
+rm(i,j,sel,tmp,tmpBillUrg,tmpBol,tmpHit,tmpIndex,tmpOffendingDate,tmpSel,tmpTram,U,tmp1) # cleaning
 #
 # fix mistakes from source in urgencia dates
 sel <- which(allUrg$bol=="2111-10" & year(allUrg$off)==1997)
@@ -2809,7 +3095,7 @@ allUrg$off[sel] <- allUrg$deadline[sel]
 tmp <- rep(0, nrow(allUrg)); tmp[allUrg$off>allUrg$deadline] <- 1
 message("many retiros actually occurred after deadline... meaning???"); table(tmp, allUrg$typeN)
 
-# splits allUrg into two objects: the origonal with all URGENCY MESSAGES, a new one with all URGENCY CHAINS (incl. singletons)
+# splits allUrg into two objects: the original with all URGENCY MESSAGES, a new one with all URGENCY CHAINS (incl. singletons)
 allUrgChains <- allUrg
 # consolidate chains
 tmp <- allUrgChains
@@ -2854,13 +3140,21 @@ for (i in 1:nrow(tmpSel)){
 # rename elements
 tmp$chain <- tmp$type <- NULL
 # fine-tune typeN: urg went all the way to deadline 1.0, 2,0, 3.0; deadline modif 1.4, 2.4, 3.4; retir 1.5, 2.5, 3.5; modif, then retir 1.45, 2.45, 3.45
-$typeN[tmp$links==1 & tmp$dretir==1] <- tmp$typeN[tmp$links==1 & tmp$dretir==1] + .5 
+tmp$typeN[tmp$links==1 & tmp$dretir==1] <- tmp$typeN[tmp$links==1 & tmp$dretir==1] + .5 
 tmp$typeN[tmp$links>1  & tmp$dretir==0] <- tmp$typeN[tmp$links>1  & tmp$dretir==0] + .4 
 tmp$typeN[tmp$links>1  & tmp$dretir==1] <- tmp$typeN[tmp$links>1  & tmp$dretir==1] + .45 
-table(tmp$typeN, useNA = "ifany") ##### too many .45s, miscoding retiros??? <-- FIX MAY BE THE USE OF MESSAGE NUMBERS...
+table(tmp$typeN, useNA = "ifany") ##### lots of .45s, miscoding retiros??? <-- FIX MAY BE TO FINE-TUNE DATE TO OTHER CHAMBER, DROPPING LATER RETIROS
 # sort
 tmp1 <- 1:nrow(tmp) # preserve original order in case of tie
 tmp <- tmp[order(tmp$bol, tmp$on, tmp1),]
+# did bill eventually pass? exec-init?
+tmp$dmensaje <- tmp$dpassed <- NA
+for (i in 1:nrow(tmp)){
+    #i <- 1 # debug
+    tmp$dpassed[i] <-  bills$info$dpassed [which(bills$info$bol==tmp$bol[i])]
+    tmp$dmensaje[i] <- bills$info$dmensaje[which(bills$info$bol==tmp$bol[i])]
+}
+head(tmp)
 #
 # replace by manipulated object
 allUrgChains <- tmp
@@ -2877,7 +3171,7 @@ sel <- which(tmp$on > dmy("11-03-2002", tz = "chile") & tmp$tramite!="sen") # on
 tmp$nvotDdln2 <- tmp$nvotDdln <- NA                                         # add slots for new data
 #
 tmp <- tmp[sel,] # subset for manipulation
-head(tmp)
+#head(tmp)
 for (i in 1:nrow(tmp)){
     message(sprintf("loop %s of %s", i, nrow(tmp)))
     #i <- 103 # debug
@@ -2896,24 +3190,39 @@ for (i in 1:nrow(tmp)){
 }
 #
 # descriptives: was a vote in dip held within deadline? within deadline plus 2 weeks?
-votInDdl <- table(tmp$nvotDdln>0, tmp$typeN)
-votInDdl2 <- table(tmp$nvotDdln2>0, tmp$typeN)
+sel <- which(tmp$dpassed==0)
+votInDdl <- table(tmp$nvotDdln[sel]>0, tmp$typeN[sel])
+votInDdl2 <- table(tmp$nvotDdln2[sel]>0, tmp$typeN[sel])
 #
 ## round(prop.table(votInDdl ,2)*100, 0)
 ## margin.table(votInDdl ,2)
 ## round(prop.table(votInDdl2,2)*100, 0)
 ## margin.table(votInDdl2,2)
+message("Vote occurred within deadline")
 rbind(
     round(prop.table(votInDdl ,2)*100, 0),
     margin.table(votInDdl ,2)
     )
-rbind(
-    round(prop.table(votInDdl2 ,2)*100, 0),
-    margin.table(votInDdl2 ,2)
-    )
+## message("Vote occurred within deadline doubled")
+## rbind(
+##     round(prop.table(votInDdl2 ,2)*100, 0),
+##     margin.table(votInDdl2 ,2)
+##     )
 #
 rm(votInDdl,votInDdl2)
-
+#
+## # PUZZLE: urgencias sumas and simple that are not in chains tend to not get to a vote...
+## #Vote occurred within deadline (bills that didn't eventually pass)
+##         1 1.4 1.45 1.5   2 2.4 2.45 2.5   3 3.4 3.45 3.5
+## FALSE  52  50   71   0  92  79   78  11  96  78   84  71
+## TRUE   48  50   29 100   8  21   22  89   4  22   16  29
+##        25   4    7   4 370  39  109  27 272  36  138  17
+## #
+## #Vote occurred within deadline (bills that eventually passed)
+##         1 1.4 1.45 1.5   2 2.4 2.45 2.5   3 3.4 3.45 3.5
+## FALSE  23   8   41   0  72  39   43   9  66  38   52  29
+## TRUE   77  92   59 100  28  61   57  91  34  62   48  71
+##       127  37   46  53 358  94  233 110 190  90  236  41
 
 # REFERRED TO HACIENDA COMMITTEE (IE., NEEDS APPROPRIATION)
 bills$info$drefHda <- 0

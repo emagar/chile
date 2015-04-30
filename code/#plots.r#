@@ -1,0 +1,623 @@
+# code to generate graphs (incl. some descriptives of data manipulated for plot)
+library(Cairo)
+library(lubridate)
+library(plyr)
+#
+rm(list = ls())
+datdir <- "/home/eric/Dropbox/data/latAm/chile/data/"
+grdir <- "/home/eric/Dropbox/data/latAm/chile/graphs/"
+
+# PLOT SEAT CONTROL OF THE SENATE 1990-2014 (BLOCK HAS ITS OWN DATA)
+# graph senate control
+tmp <- data.frame(
+    from = dmy(c("11031990", "21111990", "11031994", "11031998", "17101998", "22011999", "11032000", "11012002", "11032002", "04062002", "27012005", "30082005", "11032006", "11032010")),
+    to =   dmy(c("20111990", "10031994", "10031998", "16101998", "21011999", "10032000", "10012002", "10032002", "03062002", "26012005", "29082005", "10032006", "10032010", "10032014")),
+    concer = c(22, 22, 21, 23, 23, 23, 24, 24, 24, 24, 23, 24, 21, 21),
+    right =  c(25, 24, 25, 25, 24, 23, 23, 24, 24, 24, 24, 24, 17, 17),
+    vacant = c( 0,  1,  1,  0,  1,  2,  2,  1,  1,  0,  1,  0,  0,  0),
+    total =  c(47, 47, 47, 48, 48, 48, 49, 49, 49, 48, 48, 48, 38, 38),
+    perLeg = c(48, 48, 49, 50, 50, 50, 50, 50, 51, 51, 51, 51, 52, 53)
+    )
+tmp2 <- tmp$concer*100 / (tmp$concer + tmp$right); tmp3 <- tmp$right*100 / (tmp$concer + tmp$right)
+tmp$concer <- tmp2; tmp$right <- tmp3; rm(tmp2, tmp3)
+## tmp$pdt <- tmp$concer; tmp$pdt[tmp$from==dmy("11032010")] <- tmp$right[tmp$from==dmy("11032010")] # president's coalition share
+## tmp$pdt <- tmp$pdt - 50
+tmp$pdt <- (tmp$concer-tmp$right)*100/(tmp$concer+tmp$right); tmp$pdt[tmp$from==dmy("11032010")] <- -tmp$pdt[tmp$from==dmy("11032010")] # president's coalition share
+tmp$pdt <- tmp$pdt/2 # change scale y axis
+#
+file <- paste(grdir, "senChile.pdf", sep = "")
+## Cairo(file = file,
+##       type = "pdf",
+##       width = 10,
+##       height = 6,
+##       units = "in",
+##       dpi = 72,
+##       bg = "transparent")
+par(mar=c(5,4,2,2)+0.1) # drop title space
+plot( as.numeric(c(min(tmp$from), max(tmp$to))), c(-7, 7), type = "n", axes = FALSE, xlab =  "Year", ylab = "Executive coalition margin (% seats)")
+#axis(side = 2, at = -7:7, labels = seq(from = -14, to = 14, by = 2))
+axis(side = 2, at = seq(from = -7, to = 7, by = .5), labels = FALSE)
+axis(side = 2, at = seq(from = -5, to = 5, by = 2.5), labels = seq(from = -10, to = 10, by = 5))
+axis(side = 1, at = seq(dmy("01011990"), length = 26, by = "1 year"), labels = FALSE)
+axis(side = 1, at = seq(dmy("01071990"), length = 13, by = "2 year"), tick = FALSE, labels = c("1990","'92","'94","'96","'98","2000","'02","'04","'06","'08","'10","'12","2014"))
+abline(h = 0, col = "red")
+text(dmy("01111989"), 0, expression(italic("DICTATORSHIP ENDS")), srt = 90, cex = .75)
+## for (i in 1:(nrow(tmp)-1)){
+##     lines(x = c(tmp$to[i], tmp$from[(i+1)]), y = c(tmp$pdt[i], tmp$pdt[(i+1)]), lty = 2)
+## }
+low <- -8 # level at which vertical dotted lines start at bottom
+lev <- 5.6
+tmp2 <- seq(dmy("11031990"), length = 4, by = "8 year") # all new senate
+for (i in 1:length(tmp2)){
+    lines(x = rep(tmp2[i], 2), y = c(low, lev), lty = 2)
+}
+text(x = tmp2[c(1,3)], y = (lev+.6), labels = expression(italic("NEW SENATE")), cex = .75, pos = 4, offset = 0)
+text(x = tmp2[c(1,3)], y = (lev+.2), labels = expression(italic("& PRESIDENT")),  cex = .75, pos = 4, offset = 0)
+text(x = tmp2[2], y = (lev+.6), labels = expression(italic("NEW")), cex = .75, pos = 4, offset = 0)
+text(x = tmp2[2], y = (lev+.2), labels = expression(italic("SENATE")),  cex = .75, pos = 4, offset = 0)
+tmp2 <- dmy("11031994") # partial renewal
+lines(x = rep(tmp2, 2), y = c(low, lev), lty = 2)
+text(x = tmp2, y = (lev+1), labels = expression(italic("PART NEW")), cex = .75, pos = 4, offset = 0)
+text(x = tmp2, y = (lev+.6), labels = expression(italic("SENATE")),   cex = .75, pos = 4, offset = 0)
+text(x = tmp2, y = (lev+.2), labels = expression(italic("& PRESIDENT")),  cex = .75, pos = 4, offset = 0)
+tmp2 <- dmy("11032014") # partial renewal
+text(x = tmp2[c(1,3)], y = (lev+.6), labels = expression(italic("NEW SENATE")), cex = .75, pos = 2, offset = 0)
+text(x = tmp2[c(1,3)], y = (lev+.2), labels = expression(italic("& PRESIDENT")),  cex = .75, pos = 2, offset = 0)
+tmp2 <- dmy("11032000") # Lagos president
+lev <- 3.5
+lines(x = rep(tmp2, 2), y = c(low, lev), lty = 2)
+text(x = tmp2, y = (lev+.6), labels = expression(italic("NEW")),  cex = .75, pos = 4, offset = 0)
+text(x = tmp2, y = (lev+.2), labels = expression(italic("PRESIDENT")),  cex = .75, pos = 4, offset = 0)
+tmp2 <- dmy("11032010") # Piñera president
+lev <- -6.4
+lines(x = rep(tmp2, 2), y = c(low, lev), lty = 2)
+text(x = tmp2, y = (lev+.6), labels = expression(italic("NEW")),  cex = .75, pos = 4, offset = 0)
+text(x = tmp2, y = (lev+.2), labels = expression(italic("PRESIDENT")),  cex = .75, pos = 4, offset = 0)
+tmp2 <- dmy("21111990") # Vacancy Ruiz Danyau
+lev <- -4.2
+lines(x = rep(tmp2, 2), y = c(low, lev), lty = 2)
+text(x = tmp2, y = (lev+.2), labels = expression(italic("VACANCY (V.)")),  cex = .75, pos = 4, offset = 0)
+tmp2 <- dmy("16101998") # Vacancy Pinochet
+lev <- -2.9
+lines(x = rep(tmp2, 2), y = c(low, lev), lty = 2)
+text(x = tmp2, y = (lev+.2), labels = expression(italic("V.")),  cex = .75)#, pos = 4, offset = 0)
+tmp2 <- dmy("22011999") # Vacancy Errázuriz
+lev <- -1.7
+lines(x = rep(tmp2, 2), y = c(low, lev), lty = 2)
+text(x = tmp2, y = (lev+.2), labels = expression(italic("V.")),  cex = .75, pos = 4, offset = 0)
+tmp2 <- dmy("02012002") # Errázuriz returns
+lev <- 1.4
+lines(x = rep(tmp2, 2), y = c(low, lev), lty = 2)
+text(x = tmp2, y = (lev+.2), labels = expression(italic("V. ENDS (E.)")),  cex = .75, pos = 4, offset = 0)
+tmp2 <- dmy("27012005") # Vacancy Lavandero
+lev <- -1.7
+lines(x = rep(tmp2, 2), y = c(low, lev), lty = 2)
+text(x = tmp2, y = (lev+.2), labels = expression(italic("V.")),  cex = .75)#, pos = 4, offset = 0)
+tmp2 <- dmy("30082005") # Vásquez replaces Lavandero
+lines(x = rep(tmp2, 2), y = c(low, lev), lty = 2)
+text(x = tmp2, y = (lev+.2), labels = expression(italic("E.")),  cex = .75)#, pos = 4, offset = 0)
+#
+## polygon(x = c(seq(tmp2, length = 2, by = "3 year"), rev(seq(tmp2, length = 2, by = "3 year"))), y = c(lev, lev, lev+.5, lev+.5), col = "white", border = "white") # white box
+# red/colored polygons
+tmp2 <- c(tmp$from[1], tmp$from[1:5], tmp$to[1:5], tmp$to[5]); tmp2 <- tmp2[order(tmp2)]
+tmp3 <- rep(tmp$pdt[1:5], 2); tmp3 <- tmp3[order(c(1:5,(1:5)+.5))]; tmp3 <- c(0, tmp3, 0)
+polygon(x = tmp2, y = tmp3, col=rgb(1, 0, 0,0.5), border=NA)
+tmp2 <- c(tmp$from[7], tmp$from[7], tmp$to[7], tmp$to[7]); tmp2 <- tmp2[order(tmp2)]
+tmp3 <- rep(tmp$pdt[7], 2); tmp3 <- tmp3[order(c(7,7+.5))]; tmp3 <- c(0, tmp3, 0)
+polygon(x = tmp2, y = tmp3, col=rgb(0, 1, 0,0.5), border=NA)
+tmp2 <- c(tmp$from[11], tmp$from[11], tmp$to[11], tmp$to[11]); tmp2 <- tmp2[order(tmp2)]
+tmp3 <- rep(tmp$pdt[11], 2); tmp3 <- tmp3[order(c(11,11+.5))]; tmp3 <- c(0, tmp3, 0)
+polygon(x = tmp2, y = tmp3, col=rgb(1, 0, 0,0.5), border=NA)
+tmp2 <- c(tmp$from[13], tmp$from[13], tmp$to[13], tmp$to[13]); tmp2 <- tmp2[order(tmp2)]
+tmp3 <- rep(tmp$pdt[13], 2); tmp3 <- tmp3[order(c(13,13+.5))]; tmp3 <- c(0, tmp3, 0)
+polygon(x = tmp2, y = tmp3, col=rgb(0, 1, 0,0.5), border=NA)
+tmp2 <- c(tmp$from[14], tmp$from[14], tmp$to[14], tmp$to[14]); tmp2 <- tmp2[order(tmp2)]
+tmp3 <- rep(tmp$pdt[14], 2); tmp3 <- tmp3[order(c(14,14+.5))]; tmp3 <- c(0, tmp3, 0)
+polygon(x = tmp2, y = tmp3, col=rgb(1, 0, 0,0.5), border=NA)
+for (i in 1:nrow(tmp)){ # horizontal lines
+    lines(x = c(tmp$from[i], tmp$to[i]), y = rep(tmp$pdt[i], 2), lwd = 3, col = "dark blue")
+}
+for (i in 1:(nrow(tmp)-1)){ # vertical lines
+    lines(x = rep(tmp$to[i], 2), y = c(tmp$pdt[i], tmp$pdt[i+1]), lwd = 3, col = "dark blue")
+}
+## dev.off()
+#
+rm(tmp, tmp2, tmp3, lev, low)
+
+
+
+# PLOT ONE YEAR'S DAILY URGENCIA MESSAGES IN BOTH CHAMBERS, WITH URGENCIA TYPE DETAIL
+# prep block starts
+load(paste(datdir, "allUrg.RData", sep = "")) # prepared and exported from chilBill.r
+#
+# diputados and senate urgencies separate
+table(allUrg$tramite)
+sel <- which(allUrg$tramite=="sen")
+dipUrg <- allUrg[-sel,] # assumes "ejec" and "conf" urgencies fall on both chambers
+sel <- which(allUrg$tramite=="dip")
+senUrg <- allUrg[-sel,] # assumes "ejec" and "conf" urgencies fall on both chambers
+#
+# put next session's date when dateOn had no session (for graph purposes only)
+table(dipUrg$on %in% bills$sessions$date[bills$sessions$ddip==1])
+dipUrg$onGraph <- dipUrg$on # duplicate on date to change this one for plot (keeping the actual on date)
+sel <- which(dipUrg$onGraph %in% bills$sessions$date[bills$sessions$ddip==1]==FALSE) # select obs not matching a session
+for (i in sel){
+    tmpDip <- bills$sessions$date[bills$sessions$ddip==1] # deputy sessions
+    tmp <- tmpDip - dipUrg$onGraph[i]                     # difference from $on to sessions
+    dipUrg$onGraph[i] <- tmpDip[which(tmp==min(tmp[tmp>=0]))] # plug closest next session date
+}
+table(dipUrg$onGraph %in% bills$sessions$date[bills$sessions$ddip==1])
+#
+table(senUrg$on %in% bills$sessions$date[bills$sessions$dsen==1])
+senUrg$onGraph <- senUrg$on # duplicate on date to change this one for plot (keeping the actual on date)
+sel <- which(senUrg$onGraph %in% bills$sessions$date[bills$sessions$dsen==1]==FALSE) # select obs not matching a session
+for (i in sel){
+    tmpSen <- bills$sessions$date[bills$sessions$dsen==1] # deputy sessions
+    tmp <- tmpSen - senUrg$onGraph[i]                     # difference from $on to sessions
+    senUrg$onGraph[i] <- tmpSen[which(tmp==min(tmp[tmp>=0]))] # plug closest next session date
+}
+table(senUrg$onGraph %in% bills$sessions$date[bills$sessions$dsen==1])
+#
+# sort by date to consolitate session data
+dipUrg <- dipUrg[order(dipUrg$onGraph, dipUrg$typeN),]
+dipUrg$nUrgSes <- 0 # urgency message number in session
+tmp <- as.factor(dipUrg$onGraph) # adds sequence from 1 to number of urgency messages in session
+for (i in levels(tmp)){
+    sel <- which(tmp==i)
+    N <- length(sel)
+    dipUrg$nUrgSes[sel] <- 1:N
+}
+#
+senUrg <- senUrg[order(senUrg$onGraph, senUrg$typeN),]
+senUrg$nUrgSes <- 0 # urgency message number in session
+tmp <- as.factor(senUrg$onGraph) # adds sequence from 1 to number of urgency messages in session
+for (i in levels(tmp)){
+    sel <- which(tmp==i)
+    N <- length(sel)
+    senUrg$nUrgSes[sel] <- 1:N
+}
+# prep block ends
+#
+# choose year or semester block
+# plot one year
+grdir <- "/home/eric/Dropbox/data/latAm/chile/graphs/"
+library(plyr)
+library(Cairo)
+smbl <- function(x){
+#    sym <- mapvalues(x, from = c(1,2,3,4.1,4.2,4.3,5.1,5.2,5.3), to = c("1","1","1","r","r","r","0","0","0"), warn_missing = FALSE) 
+    sym <- mapvalues(x, from = c(1,2,3,4.1,4.2,4.3,5.1,5.2,5.3), to = c(16,16,16,3,3,3,25,25,25), warn_missing = FALSE)
+    return(sym)
+}
+clr <- function(x){
+    color <- mapvalues(x, from = c(1,2,3,4.1,4.2,4.3,5.1,5.2,5.3), to = c("red","gold","green","red","gold","green","red","gold","green"), warn_missing = FALSE)
+    return(color)
+}
+#
+# add empty line here to run block for different years
+##########################################################
+yrs <- 2005 # <--- select start of legislative year here
+##########################################################
+#for (yrs in 1990:2013){
+sel <- which(dipUrg$onGraph>dmy(paste("10/03/", yrs, sep = ""), tz = "chile") & dipUrg$onGraph<dmy(paste("11/03/", (yrs+1), sep = ""), tz = "chile"))
+x <- dipUrg$onGraph[sel]
+y <- dipUrg$nUrgSes[sel]
+#file <- paste(grdir, "urgencias", yrs, ".pdf", sep = "")
+file <- paste(grdir, "tmp.pdf", sep = "")
+Cairo(file = file,
+      type = "pdf",
+      width = 12,
+      height = 4,
+      units = "in",
+      dpi = 72,
+      bg = "transparent")
+par(mar=c(5,4,2,2)+0.1) # drop title space
+plot(c(dmy(paste("11/03/", yrs, sep = ""), tz = "chile"), dmy(paste("10/03/", (yrs+1), sep = ""), tz = "chile")),
+     c(-32, 32), type = "n",
+     ylab = "Sen. <- Frequency -> Dep.", xlab = paste(yrs, (yrs+1), sep = "-"),
+     axes = FALSE) # upper chamber has max 89!
+# adds vertical lines on all session dates
+sel2 <- which(bills$sessions$ddip==1 & bills$sessions$date>dmy(paste("10/03/", yrs, sep = ""), tz = "chile") & bills$sessions$date<dmy(paste("11/03/", (yrs+1), sep = ""), tz = "chile"))
+for (i in sel2){ 
+    lines(rep(bills$sessions$date[i], 2), c(0,90), col = "grey", lwd = .5)
+}
+# horizontal lines
+for (i in (-9:9)*10){
+    abline(h = i, col = "grey", lwd = .5)
+}
+abline(h = 0, lwd = .5)
+#
+# add vertical lines on election dates
+tmp <- c(dmy("14-12-1989"),
+         dmy("11-12-1993"),
+         dmy("11-12-1997"),
+         dmy("12-12-1999"),
+         dmy("16-1-2000"),
+         dmy("16-12-2001"),
+         dmy("11-12-2005"),
+         dmy("15-1-2006"),
+         dmy("13-12-2009"),
+         dmy("17-1-2010"),
+         dmy("17-11-2013"),
+         dmy("15-12-2013"))
+tmp2 <- c("general election",
+          "general election",
+          "cong. election",
+          "pres. election",
+          "pres. runoff",
+          "cong. election",
+          "general election",
+          "pres. runoff",
+          "general election",
+          "pres. runoff",
+          "general election",
+          "pres. runoff")
+for (i in 1:length(tmp)){
+    abline(v = tmp[i], col = "dark grey", lwd = .75, lty = 1)
+    abline(v = tmp[i], col = "black", lwd = .75, lty = 3)
+#    text(tmp[i], 34, labels = tmp2[i], col = "white", cex = .5, pos = 2, offset = 0, srt = 90)
+    text(tmp[i], 34, labels = tmp2[i], col = "black", cex = .5, pos = 2, offset = .13, srt = 90)
+}
+#
+# dep data positive
+points(x, y, pch = 16, col = "white", cex = .4) # open white spaces on session line
+points(x, y, pch = smbl(dipUrg$typeN[sel]), col = clr(dipUrg$typeN[sel]), cex = .3)
+#
+# deal with dip outliers
+outl <- which(abs(y)>34); 
+if (length(outl)>0){
+    outlDtes <- x[outl]; outlDtes <- outlDtes[duplicated(outlDtes)==FALSE]
+    ze31s <- which(x %in% outlDtes & abs(y)==31)
+    ze33s <- which(x %in% outlDtes & abs(y)==33)
+    ze34s <- which(x %in% outlDtes & abs(y)==34)
+    ze35s <- which(x %in% outlDtes & abs(y)==35)
+    tmp <- data.frame(x=as.ordered(x), y=abs(y)); tmp <- ddply(tmp, .(x), mutate, max=max(y)); zemax <- tmp$max # max urg of each session
+    points(x[c(ze31s,ze33s,ze34s,ze35s)], y[c(ze31s,ze33s,ze34s,ze35s)], pch = 16, col = "white", cex = .4) # open white spaces on top of date's line
+    text(x[ze31s], y[ze31s], labels="=", cex = .6, col = "grey", srt = 45) # put scale change mark
+    text(x[ze33s], y[ze33s]+.5, labels=paste("(", zemax[ze33s], ")", sep = ""), cex = .4, col = "black") # put frequency
+}
+#
+# sen data negative
+sel <- which(senUrg$onGraph>dmy(paste("10/03/", yrs, sep = ""), tz = "chile") & senUrg$onGraph<dmy(paste("11/03/", (yrs+1), sep = ""), tz = "chile"))
+x <- senUrg$onGraph[sel]
+y <- -senUrg$nUrgSes[sel]
+# adds vertical lines on all session dates
+sel2 <- which(bills$sessions$dsen==1 & bills$sessions$date>dmy(paste("10/03/", yrs, sep = ""), tz = "chile") & bills$sessions$date<dmy(paste("11/03/", (yrs+1), sep = ""), tz = "chile"))
+for (i in sel2){ 
+    lines(rep(bills$sessions$date[i], 2), c(0,-90), col = "grey", lwd = .5)
+}
+points(x, y, pch = 16, col = "white", cex = .4) # open white spaces on session line
+points(x, y, pch = smbl(senUrg$typeN[sel]), col = clr(senUrg$typeN[sel]), cex = .3)
+#
+# deal with sen outliers
+outl <- which(abs(y)>34); 
+if (length(outl)>0){
+    outlDtes <- x[outl]; outlDtes <- outlDtes[duplicated(outlDtes)==FALSE]
+    ze31s <- which(x %in% outlDtes & abs(y)==31)
+    ze33s <- which(x %in% outlDtes & abs(y)==33)
+    ze34s <- which(x %in% outlDtes & abs(y)==34)
+    ze35s <- which(x %in% outlDtes & abs(y)==35)
+    tmp <- data.frame(x=as.ordered(x), y=abs(y)); tmp <- ddply(tmp, .(x), mutate, max=max(y)); zemax <- tmp$max # max urg of each session
+    points(x[c(ze31s,ze33s,ze34s,ze35s)], y[c(ze31s,ze33s,ze34s,ze35s)], pch = 16, col = "white", cex = .4) # open white spaces on top of date's line
+    text(x[ze31s], y[ze31s], labels="=", cex = .6, col = "grey", srt = 45) # put scale change mark
+    text(x[ze33s], y[ze33s]-.5, labels=paste("(", zemax[ze33s], ")", sep = ""), cex = .4, col = "black") # put frequency
+}
+#
+axis(1, at = c(dmy(paste("11/03/", yrs, sep = ""), tz = "chile"), dmy(paste("10/03/", (yrs+1), sep = ""), tz = "chile")), labels = FALSE)
+axis(1, at = seq( dmy(paste("01/04/", yrs, sep = ""), tz = "chile"), length = 12, by = "1 month" ), labels = FALSE)
+axis(1, at = seq( dmy(paste("15/04/", yrs, sep = ""), tz = "chile"), length = 6, by = "2 month" ), labels = c("Apr","Jun","Aug","Oct","Dec","Feb"), tick = FALSE)
+axis(2, at = (-9:9)*10, labels = c(9:1, 0, 1:9)*10, cex = .8)
+dev.off()
+#}
+# plot one semester
+grdir <- "/home/eric/Dropbox/data/latAm/chile/graphs/"
+library(plyr)
+library(Cairo)
+smbl <- function(x){
+#    sym <- mapvalues(x, from = c(1,2,3,4.1,4.2,4.3,5.1,5.2,5.3), to = c("1","1","1","r","r","r","0","0","0"), warn_missing = FALSE) 
+    sym <- mapvalues(x, from = c(1,2,3,4.1,4.2,4.3,5.1,5.2,5.3), to = c(16,16,16,3,3,3,25,25,25), warn_missing = FALSE)
+    return(sym)
+}
+clr <- function(x){
+    color <- mapvalues(x, from = c(1,2,3,4.1,4.2,4.3,5.1,5.2,5.3), to = c("red","gold","green","red","gold","green","red","gold","green"), warn_missing = FALSE)
+    return(color)
+}
+#
+# add empty line here to run block for different years
+##########################################################
+yrs <- 2007 # <--- select start of legislative year here
+sem <- 1 #    <--- semester 1 or 2 of legislative year
+##########################################################
+#for (yrs in 1990:2013){
+#for (sem in 1:2){
+if (sem==1){
+    sel <- which(dipUrg$onGraph>dmy(paste("10/03/", yrs, sep = ""), tz = "chile") & dipUrg$onGraph<dmy(paste("11/09/", yrs, sep = ""), tz = "chile"))
+} else {
+    sel <- which(dipUrg$onGraph>dmy(paste("10/09/", yrs, sep = ""), tz = "chile") & dipUrg$onGraph<dmy(paste("11/03/", (yrs+1), sep = ""), tz = "chile"))
+}
+x <- dipUrg$onGraph[sel]
+y <- dipUrg$nUrgSes[sel]
+file <- paste(grdir, "urgencias", yrs, "-", sem, ".pdf", sep = "")
+#file <- paste(grdir, "tmp.pdf", sep = "")
+Cairo(file = file,
+      type = "pdf",
+      width = 7,
+      height = 4.25,
+      units = "in",
+      dpi = 72,
+      bg = "transparent")
+par(mar=c(3.5,4,2,2)+0.1) # change margins, default 5.1 4.1 4.1 2.1 b l t r
+if (sem==1){
+    plot(c(dmy(paste("11/03/", yrs, sep = ""), tz = "chile"), dmy(paste("10/09/", yrs, sep = ""), tz = "chile")),
+         c(-32, 32), type = "n",
+         ylab = "Sen. <- Frequency -> Dep.", xlab = "", 
+         #main = paste(yrs, "-",(yrs+1), " semester ", sem, sep = ""),
+         axes = FALSE) # upper chamber has max 89!
+} else {
+    plot(c(dmy(paste("11/09/", yrs, sep = ""), tz = "chile"), dmy(paste("10/03/", (yrs+1), sep = ""), tz = "chile")),
+         c(-32, 32), type = "n",
+         ylab = "Sen. <- Frequency -> Dep.", xlab = "", 
+         #main = paste(yrs, "-",(yrs+1), " semester ", sem, sep = ""),
+         axes = FALSE) # upper chamber has max 89!
+}
+# adds vertical lines on all session dates
+if (sem==1){
+    sel2 <- which(bills$sessions$ddip==1 & bills$sessions$date>dmy(paste("10/03/", yrs, sep = ""), tz = "chile") & bills$sessions$date<dmy(paste("11/09/", yrs, sep = ""), tz = "chile"))
+} else {
+    sel2 <- which(bills$sessions$ddip==1 & bills$sessions$date>dmy(paste("10/09/", yrs, sep = ""), tz = "chile") & bills$sessions$date<dmy(paste("11/03/", (yrs+1), sep = ""), tz = "chile"))
+}
+for (i in sel2){ 
+    lines(rep(bills$sessions$date[i], 2), c(0,90), col = "grey", lwd = .5)
+}
+# horizontal lines
+for (i in (-9:9)*10){
+    abline(h = i, col = "grey", lwd = .5)
+}
+abline(h = 0, lwd = .5)
+#
+# add vertical lines on election dates
+tmp <- c(dmy("14-12-1989"),
+         dmy("11-12-1993"),
+         dmy("11-12-1997"),
+         dmy("12-12-1999"),
+         dmy("16-1-2000"),
+         dmy("16-12-2001"),
+         dmy("11-12-2005"),
+         dmy("15-1-2006"),
+         dmy("13-12-2009"),
+         dmy("17-1-2010"),
+         dmy("17-11-2013"),
+         dmy("15-12-2013"))
+tmp2 <- c("general election",
+          "general election",
+          "cong. election",
+          "pres. election",
+          "pres. runoff",
+          "cong. election",
+          "general election",
+          "pres. runoff",
+          "general election",
+          "pres. runoff",
+          "general election",
+          "pres. runoff")
+for (i in 1:length(tmp)){
+    abline(v = tmp[i], col = "dark grey", lwd = .75, lty = 1)
+    abline(v = tmp[i], col = "black", lwd = .75, lty = 3)
+#    text(tmp[i], 34, labels = tmp2[i], col = "white", cex = .5, pos = 2, offset = 0, srt = 90)
+    text(tmp[i], 34, labels = tmp2[i], col = "black", cex = .5, pos = 2, offset = .13, srt = 90)
+}
+#
+# dep data positive
+points(x, y, pch = 16, col = "white", cex = .4) # open white spaces on session line
+points(x, y, pch = smbl(dipUrg$typeN[sel]), col = clr(dipUrg$typeN[sel]), cex = .3)
+#
+# deal with dip outliers
+outl <- which(abs(y)>34); 
+if (length(outl)>0){
+    outlDtes <- x[outl]; outlDtes <- outlDtes[duplicated(outlDtes)==FALSE]
+    ze31s <- which(x %in% outlDtes & abs(y)==31)
+    ze33s <- which(x %in% outlDtes & abs(y)==33)
+    ze34s <- which(x %in% outlDtes & abs(y)==34)
+    ze35s <- which(x %in% outlDtes & abs(y)==35)
+    tmp <- data.frame(x=as.ordered(x), y=abs(y)); tmp <- ddply(tmp, .(x), mutate, max=max(y)); zemax <- tmp$max # max urg of each session
+    points(x[c(ze31s,ze33s,ze34s,ze35s)], y[c(ze31s,ze33s,ze34s,ze35s)], pch = 16, col = "white", cex = .4) # open white spaces on top of date's line
+    text(x[ze31s], y[ze31s], labels="=", cex = .6, col = "grey", srt = 45) # put scale change mark
+    text(x[ze33s], y[ze33s]+.5, labels=paste("(", zemax[ze33s], ")", sep = ""), cex = .4, col = "black") # put frequency
+}
+#
+# sen data negative
+if (sem==1){
+    sel <- which(senUrg$onGraph>dmy(paste("10/03/", yrs, sep = ""), tz = "chile") & senUrg$onGraph<dmy(paste("11/09/", yrs, sep = ""), tz = "chile"))
+} else {
+    sel <- which(senUrg$onGraph>dmy(paste("10/09/", yrs, sep = ""), tz = "chile") & senUrg$onGraph<dmy(paste("11/03/", (yrs+1), sep = ""), tz = "chile"))
+}
+x <- senUrg$onGraph[sel]
+y <- -senUrg$nUrgSes[sel]
+# adds vertical lines on all session dates
+if (sem==1){
+    sel2 <- which(bills$sessions$dsen==1 & bills$sessions$date>dmy(paste("10/03/", yrs, sep = ""), tz = "chile") & bills$sessions$date<dmy(paste("11/09/", yrs, sep = ""), tz = "chile"))
+} else {
+    sel2 <- which(bills$sessions$dsen==1 & bills$sessions$date>dmy(paste("10/09/", yrs, sep = ""), tz = "chile") & bills$sessions$date<dmy(paste("11/03/", (yrs+1), sep = ""), tz = "chile"))
+}
+for (i in sel2){ 
+    lines(rep(bills$sessions$date[i], 2), c(0,-90), col = "grey", lwd = .5)
+}
+points(x, y, pch = 16, col = "white", cex = .4) # open white spaces on session line
+points(x, y, pch = smbl(senUrg$typeN[sel]), col = clr(senUrg$typeN[sel]), cex = .3)
+#
+# deal with sen outliers
+outl <- which(abs(y)>34); 
+if (length(outl)>0){
+    outlDtes <- x[outl]; outlDtes <- outlDtes[duplicated(outlDtes)==FALSE]
+    ze31s <- which(x %in% outlDtes & abs(y)==31)
+    ze33s <- which(x %in% outlDtes & abs(y)==33)
+    ze34s <- which(x %in% outlDtes & abs(y)==34)
+    ze35s <- which(x %in% outlDtes & abs(y)==35)
+    tmp <- data.frame(x=as.ordered(x), y=abs(y)); tmp <- ddply(tmp, .(x), mutate, max=max(y)); zemax <- tmp$max # max urg of each session
+    points(x[c(ze31s,ze33s,ze34s,ze35s)], y[c(ze31s,ze33s,ze34s,ze35s)], pch = 16, col = "white", cex = .4) # open white spaces on top of date's line
+    text(x[ze31s], y[ze31s], labels="=", cex = .6, col = "grey", srt = 45) # put scale change mark
+    text(x[ze33s], y[ze33s]-.5, labels=paste("(", zemax[ze33s], ")", sep = ""), cex = .4, col = "black") # put frequency
+}
+#
+if (sem==1){
+    axis(1, at = c(dmy(paste("11/03/", yrs, sep = ""), tz = "chile"), dmy(paste("10/09/", yrs, sep = ""), tz = "chile")), labels = FALSE)
+    axis(1, at = seq( dmy(paste("01/04/", yrs, sep = ""), tz = "chile"), length = 6, by = "1 month" ), labels = FALSE)
+    axis(1, at = c(dmy(paste("20/03/", yrs, sep = "")), seq( dmy(paste("15/04/", yrs, sep = ""), tz = "chile"), length = 5, by = "1 month" )), labels = c("Mar","Apr","May","Jun","Jul","Aug"), tick = FALSE, padj = -.5)
+    axis(1, at = dmy(paste("11/06/", yrs, sep = ""), tz = "chile"), labels = yrs, tick = FALSE, padj = 1.5)
+} else {
+    axis(1, at = c(dmy(paste("11/09/", yrs, sep = ""), tz = "chile"), dmy(paste("10/03/", (yrs+1), sep = ""), tz = "chile")), labels = FALSE)
+    axis(1, at = seq( dmy(paste("01/10/", yrs, sep = ""), tz = "chile"), length = 6, by = "1 month" ), labels = FALSE)
+    axis(1, at = c(dmy(paste("20/09/", yrs, sep = "")), seq( dmy(paste("15/10/", yrs, sep = ""), tz = "chile"), length = 5, by = "1 month" )), labels = c("Sep","Oct","Nov","Dec","Jan","Feb"), tick = FALSE, padj = -.5)
+    axis(1, at = c(dmy(paste("15/12/", yrs, sep = ""), tz = "chile"), dmy(paste("15/01/", (yrs+1), sep = ""), tz = "chile")), labels = c(yrs,(yrs+1)), tick = FALSE, padj = 1.5)
+}    
+axis(2, at = (-9:9)*10, labels = c(9:1, 0, 1:9)*10, cex = .8)
+dev.off()
+#}
+#}
+# add empty line here to run block
+#
+rm(clr,dipUrg,i,N,outl,outlDtes,sel,sel2,senUrg,smbl,tmp,tmpDip,tmpSen,x,y,yrs,ze31s,ze33s,ze34s,ze35s,zemax)
+
+
+# SESSION WEEKLY HISTOGRAMS THAT ARE SMALLER THAN PREVIOUS (RUN PREVIOUS BLOCK'S PREP BLOCK). INCLUDES DESCRIPTIVES AT END
+rm(i,N,sel,tmp,tmpDip,tmpSen)
+#
+##########################################################
+yrs <- 2013 # <--- select start of legislative year here
+##########################################################
+#for (yrs in 1998:2013){
+sel <- which(dipUrg$onGraph>dmy(paste("10/03/", yrs, sep = ""), tz = "chile") & dipUrg$onGraph<dmy(paste("11/03/", (yrs+1), sep = ""), tz = "chile"))
+# dip positive
+x <- dipUrg$onGraph[sel]
+y <- dipUrg$nUrgSes[sel]
+# consolidate session totals for plot
+tmp <- data.frame(x=x, y=abs(y)); tmp <- ddply(tmp, .(x), mutate, max=max(y)) # max urg of each session
+tmp <- tmp[duplicated(tmp$x)==FALSE,]; tmp$y <- tmp$max; tmp$max <- NULL
+# consolidate weekly data
+tmp$week <- year(tmp$x)+week(tmp$x)/100
+tmp <- ddply(tmp, .(week), mutate, sum=sum(y)); tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp$y <- tmp$sum
+# identify middle of week
+tmp2 <- seq(from = dmy(paste("05/03/", yrs, sep = ""), tz = "chile"), to = dmy(paste("17/03/", (yrs), sep = ""), tz = "chile"), by = "days")
+tmp2 <- data.frame(date=tmp2)
+tmp2$wday <- wday(tmp2$date); tmp2$week <- year(tmp2$date)+week(tmp2$date)/100
+wktmp <- tmp2$week[which(tmp2$date==dmy(paste("11/03/", yrs, sep = ""), tz = "chile"))]
+firstwed <- tmp2$date[which(tmp2$week==wktmp & tmp2$wday==4)]
+allwed <- seq(from = firstwed, to = dmy(paste("10/03/", (yrs+1), sep = ""), tz = "chile"), by = "weeks")
+allwed <- data.frame(date = allwed)
+allwed$week <- year(allwed$date)+week(allwed$date)/100
+allwed$week[week(allwed$date)==53] <- year(allwed$date[week(allwed$date)==53])+1.01 # fixes week 53 by turning it into week 1 next year
+tmp <- merge(x = tmp, y = allwed, by = "week", all.x = TRUE, all.y = FALSE);
+tmp$x <- tmp$date
+x <- tmp$x
+y <- tmp$y
+#
+start <- dmy(paste("11/03/", yrs, sep = ""), tz = "chile")
+end <- dmy(paste("10/03/", (yrs+1), sep = ""), tz = "chile")
+#file <- paste(grdir, "urgenciasHistog", yrs, ".pdf", sep = "")
+file <- paste(grdir, "tmp.pdf", sep = "")
+Cairo(file = file,
+      type = "pdf",
+      width = 5.5,
+      height = 4,
+      units = "in",
+      dpi = 72,
+      bg = "transparent")
+par(mar=c(3,4,4,2)+0.1) # drop title space
+plot(c(start, end), c(-30,30), type = "n", axes = FALSE, main = paste(yrs, "-", (yrs+1), sep = ""), xlab = "", ylab = "Sen. <- Freq. -> Dep.", ylim = c(-43,43), yaxs = "i") # yaxs = "i" removes pretty extra space beyond ylim
+abline(h=0, col = "red")
+abline(h=(1:8)*5, col = "grey")
+abline(h=(-1:-8)*5, col = "grey")
+tmp <- dmy(c(paste("1/", 4:12, "/", yrs, sep = ""),paste("1/", 1:3, "/", (yrs+1), sep = "")), tz = "chile")
+abline(v = tmp, col = "grey")
+axis(1, at = tmp, labels = FALSE, tick = FALSE)
+axis(1, at = tmp + days(14), labels = c("a","m","j","j","a","s","o","n","d","j","f","m"), tick = FALSE, line = FALSE)
+axis(1, at = tmp[1] - days(14), labels = c("m"), tick = FALSE, line = FALSE)
+axis(2, at = (-2:2)*20, labels = c(40,20,0,20,40), line = FALSE, tick = FALSE)
+for (i in 1:length(x)){
+    lines(rep(x[i],2), c(0,y[i]), lwd = 4)
+}
+# deal with dip outliers
+outl <- which(abs(y)>40); 
+if (length(outl)>0){
+    outlDtes <- x[outl]; #outlDtes <- outlDtes[duplicated(outlDtes)==FALSE]
+    points(x = outlDtes, y = rep(41, length(outl)), pch = 16, col = "white", cex = 1) # open white spaces on top of date's line
+    points(x = outlDtes, y = rep(42, length(outl)), pch = 16, col = "white", cex = 1) # open white spaces on top of date's line
+    points(x = outlDtes, y = rep(43, length(outl)), pch = 16, col = "white", cex = 1) # open white spaces on top of date's line
+    text(x = outlDtes, y = rep(42, length(outl)), labels="*", cex = 2, col = "red") # put scale change mark
+}
+# sen negative
+sel <- which(senUrg$onGraph>dmy(paste("10/03/", yrs, sep = ""), tz = "chile") & senUrg$onGraph<dmy(paste("11/03/", (yrs+1), sep = ""), tz = "chile"))
+x <- senUrg$onGraph[sel]
+y <- senUrg$nUrgSes[sel]
+# consolidate session totals to plot
+tmp <- data.frame(x=x, y=abs(y)); tmp <- ddply(tmp, .(x), mutate, max=max(y)); zemax <- tmp$max # max urg of each session
+tmp <- tmp[duplicated(tmp$x)==FALSE,]; tmp$y <- tmp$max; tmp$max <- NULL
+# consolidate weekly data
+tmp$week <- year(tmp$x)+week(tmp$x)/100
+tmp <- ddply(tmp, .(week), mutate, sum=sum(y)); tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp$y <- tmp$sum; #tmp$x <- tmp$week; tmp$sum <- tmp$week <- NULL
+tmp <- merge(x = tmp, y = allwed, by = "week", all.x = TRUE, all.y = FALSE);
+tmp$x <- tmp$date
+x <- tmp$x
+y <- -tmp$y
+#
+for (i in 1:length(x)){
+    lines(rep(x[i],2), c(0,y[i]), lwd = 4)
+}
+# deal with sen outliers
+outl <- which(abs(y)>42); 
+if (length(outl)>0){
+    outlDtes <- x[outl]; #outlDtes <- outlDtes[duplicated(outlDtes)==FALSE]
+    points(x = outlDtes, y = rep(-41, length(outl)), pch = 16, col = "white", cex = 1) # open white spaces on top of date's line
+    points(x = outlDtes, y = rep(-42, length(outl)), pch = 16, col = "white", cex = 1) # open white spaces on top of date's line
+    points(x = outlDtes, y = rep(-43, length(outl)), pch = 16, col = "white", cex = 1) # open white spaces on top of date's line
+    text(x = outlDtes, y = rep(-42, length(outl)), labels="*", cex = 2, col = "red") # put scale change mark
+}
+dev.off()
+#}
+#
+# add space here to run plot block
+#
+# descrptive of manipulated data
+sel <- which(dipUrg$onGraph>dmy("10/03/1998", tz = "chile") & dipUrg$onGraph<dmy("11/03/2014", tz = "chile"))
+# dip 
+x <- dipUrg$onGraph[sel]
+y <- dipUrg$nUrgSes[sel]
+# consolidate session totals for plot
+tmp <- data.frame(x=x, y=abs(y)); tmp <- ddply(tmp, .(x), mutate, max=max(y)) # max urg of each session
+tmp <- tmp[duplicated(tmp$x)==FALSE,]; tmp$y <- tmp$max; tmp$max <- NULL
+# consolidate weekly data
+tmp$week <- year(tmp$x)+week(tmp$x)/100
+tmp <- ddply(tmp, .(week), mutate, sum=sum(y)); tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp$y <- tmp$sum
+# add weeks without urgencies as zeroes
+tmp2 <- seq(from = dmy("11/03/1998", tz = "chile"), to = dmy("10/03/2014", tz = "chile"), by = "days")
+tmp2 <- data.frame(date=tmp2)
+tmp2$week <- year(tmp2$date)+week(tmp2$date)/100
+tmp2$week[week(tmp2$date)==53] <- year(tmp2$date[week(tmp2$date)==53])+1.01 # fixes week 53 by turning it into week 1 next year
+tmp2 <- tmp2[-which(month(tmp2$date)==2),] # drop weeks in february, Summer holidays
+tmp2 <- tmp2[duplicated(tmp2$week)==FALSE,]; tmp2$date <- NULL
+tmp <- merge(x = tmp, y = tmp2, by = "week", all.x = TRUE, all.y = TRUE);
+tmp$y[is.na(tmp$y)==TRUE] <- 0
+tmp$x <- NULL; tmp$sum <- NULL
+message("##########\n  Cámara  \n##########"); summary(tmp$y)
+table(tmp$y==0)
+# sen 
+sel <- which(senUrg$onGraph>dmy("10/03/1998", tz = "chile") & senUrg$onGraph<dmy("11/03/2014", tz = "chile"))
+x <- senUrg$onGraph[sel]
+y <- senUrg$nUrgSes[sel]
+# consolidate session totals for plot
+tmp <- data.frame(x=x, y=abs(y)); tmp <- ddply(tmp, .(x), mutate, max=max(y)) # max urg of each session
+tmp <- tmp[duplicated(tmp$x)==FALSE,]; tmp$y <- tmp$max; tmp$max <- NULL
+# consolidate weekly data
+tmp$week <- year(tmp$x)+week(tmp$x)/100
+tmp <- ddply(tmp, .(week), mutate, sum=sum(y)); tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp$y <- tmp$sum
+# add weeks without urgencies as zeroes
+tmp <- merge(x = tmp, y = tmp2, by = "week", all.x = TRUE, all.y = TRUE);
+tmp$y[is.na(tmp$y)==TRUE] <- 0
+tmp$x <- NULL; tmp$sum <- NULL
+message("##########\n  Senado  \n##########"); summary(tmp$y)
+table(tmp$y==0)
+#
+
+rm(allwed,end,firstwed,i,outl,sel,start,tmp,tmp2,wktmp,x,y,yrs,zemax)
+
+
+

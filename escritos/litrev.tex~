@@ -1,0 +1,14 @@
+\documentclass[letter,12pt]{article}
+
+\usepackage[longnamesfirst, sort]{natbib}\bibpunct[]{(}{)}{,}{a}{}{;} % handles biblio and references 
+
+
+\begin{document}
+
+
+
+
+\bibliographystyle{apsr}
+\bibliography{../bib/magar}
+
+\end{document}
