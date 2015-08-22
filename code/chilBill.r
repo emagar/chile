@@ -2371,7 +2371,7 @@ rm(list=ls())                                                       ##
 datdir <- "/home/eric/Dropbox/data/latAm/chile/data/"               ##
 setwd(datdir)                                                       ##
 load(file = "chilBill.RData")                                       ##
-options(width = 150)                                                ##
+options(width = 140)                                                ##
 ######################################################################
 ######################################################################
 #
@@ -3232,6 +3232,11 @@ for (i in 1:I){
 }
 table(bills$info$drefHda)
 
+#### WILL NEED TO EXTRACT CASES WHERE PRES WITHDREW THE PROJECT... THIS HELPS TOWARDS THAT GOAL
+sel <- grep("[Pp]residen.*[Rr]etir", bills$hitosRaw) # this needs more elaborate regexp to match other patterns
+bills$hitos[sel[374]] # still problematic
+bills$info$status[sel[374]]
+
 ########################################################################################
 # SYSTEMATIZE COMMITTEE REPORTS AND PRODUCE WEEKLY FIGURES WITH URGENCIES FOR ANALYSIS #
 ########################################################################################
@@ -3285,6 +3290,7 @@ allRep$dHda <- 0
 allRep$dHda[grep("Hacienda", allRep$comm)] <- 1
 #
 # sort by date
+#allRep$ordOrig <- 1:nrow(allRep)
 allRep <- allRep[order(allRep$date, allRep$bol),]
 # drop reports before and after these dates
 sel <- which(allRep$date<dmy("11-03-1998", tz = "chile") | allRep$date>dmy("10-03-2014", tz = "chile"))
@@ -3300,6 +3306,8 @@ RepDataNegBin <- list(weeklyHaciendaReportsAndUrgenciasToMensajesInHaciendaComm 
                       weeklyReportsAndUrgenciasToMensajes                       = NA, 
                       weeklyReportsAndUrgenciasToMociones                       = NA, 
                       weeklyReportsAndUrgenciasToAllBills                       = NA)
+
+
 ##########################################################################################################################
 ##########################################################################################################################
 ## PREPARE WEEKLY REPORTS FROM HACIENDA COMMITTEE WITH WEEKLY URGENCIES TO EX-INIT BILLS REFERRED TO HACIENDA COMMITTEE ##
@@ -3330,6 +3338,8 @@ weekRepUrg <- merge(x = weekRepUrg, y = senRep, by = "week", all=TRUE)
 #
 # Add weekly urgencias
 tmp1 <- allUrg
+### added 22Aug2015: problem here, allUrg is now a list of messages and chains... need to select one before continuing...
+tmp1 <- allUrg$messages
 tmp1$week <- year(tmp1$on) + week(tmp1$on)/100
 # distinguish mensaje urgencia from mocion urgencias
 tmp1$dmensaje <- NA
@@ -3341,89 +3351,89 @@ for (i in 1:nrow(tmp1)){
     tmp1$dHda[i] <- bills$info$drefHda[j] # bill was referred to Hacienda committee
 }
 tmp1$count <- 1
-#                                                        ###################################################################################
-tmp1$count <- tmp1$count * tmp1$dHda * tmp1$dmensaje     ###### COUNT ONLY URGENCIAS ON HACIENDA MENSAJES OR ON HACIENDA MOCIONES!!!  ######
-#                                                        ###################################################################################
+#                                                      ###################################################################################
+tmp1$count <- tmp1$count * tmp1$dHda * tmp1$dmensaje   ###### COUNT ONLY URGENCIAS ON HACIENDA MENSAJES OR ON HACIENDA MOCIONES!!!  ######
+#                                                      ###################################################################################
 #
 # aggregate dip discusión inmediata and plug into week object
 tmp <- tmp1[tmp1$typeN==1 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IF GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg1Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg1Dip=sum(count)); tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen discusión inmediata and plug into week object
 tmp <- tmp1[tmp1$typeN==1 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg1Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg1Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip suma and plug into week object
 tmp <- tmp1[tmp1$typeN==2 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg2Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg2Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen suma and plug into week object
 tmp <- tmp1[tmp1$typeN==2 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg2Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg2Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip simple and plug into week object
 tmp <- tmp1[tmp1$typeN==3 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg3Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg3Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen simple and plug into week object
 tmp <- tmp1[tmp1$typeN==3 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg3Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg3Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip reset to discusión inmediata and plug into week object
 tmp <- tmp1[tmp1$typeN==4.1 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg41Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg41Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen reset discusión inmediata and plug into week object
 tmp <- tmp1[tmp1$typeN==4.1 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg41Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg41Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip reset suma and plug into week object
 tmp <- tmp1[tmp1$typeN==4.2 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg42Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg42Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen reset suma and plug into week object
 tmp <- tmp1[tmp1$typeN==4.2 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg42Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg42Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip reset simple and plug into week object
 tmp <- tmp1[tmp1$typeN==4.3 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg43Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg43Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen reset simple and plug into week object
 tmp <- tmp1[tmp1$typeN==4.3 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg43Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg43Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip retire discusión inmediata and plug into week object
 tmp <- tmp1[tmp1$typeN==5.1 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg51Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg51Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen retire discusión inmediata and plug into week object
 tmp <- tmp1[tmp1$typeN==5.1 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg51Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg51Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip retire suma and plug into week object
 tmp <- tmp1[tmp1$typeN==5.2 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg52Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg52Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen retire suma and plug into week object
 tmp <- tmp1[tmp1$typeN==5.2 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg52Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg52Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip retire simple and plug into week object
 tmp <- tmp1[tmp1$typeN==5.3 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg53Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg53Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen retire simple and plug into week object
 tmp <- tmp1[tmp1$typeN==5.3 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg53Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg53Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # add session
@@ -3433,6 +3443,7 @@ tmp <- ddply(tmp, .(week), mutate, ndipses=sum(ddip), nsenses=sum(dsen)); tmp <-
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 weekRepUrg[is.na(weekRepUrg)] <- 0 # fill zeroes
+head(weekRepUrg)
 #
 # WHEN DATE HAD NO SESSION, ADD NUMBERS TO NEXT SESSION
 tmp <- weekRepUrg
@@ -3547,7 +3558,9 @@ weekRepUrg <- merge(x = weekRepUrg, y = dipRep, by = "week", all=TRUE)
 weekRepUrg <- merge(x = weekRepUrg, y = senRep, by = "week", all=TRUE)
 #
 # Add weekly urgencias
-tmp1 <- allUrg
+# old tmp1 <- allUrg
+### added 22Aug2015: problem here, allUrg is now a list of messages and chains... need to select one before continuing...
+tmp1 <- allUrg$messages
 tmp1$week <- year(tmp1$on) + week(tmp1$on)/100
 # distinguish mensaje urgencia from mocion urgencias
 tmp1$dmensaje <- NA
@@ -3559,89 +3572,89 @@ for (i in 1:nrow(tmp1)){
     tmp1$dHda[i] <- bills$info$drefHda[j] # bill was referred to Hacienda committee
 }
 tmp1$count <- 1
-#                                                          ###################################################################################
-tmp1$count <- tmp1$count * tmp1$dHda * (1 - tmp1$dmensaje) ###### COUNT ONLY URGENCIAS ON HACIENDA MENSAJES OR ON HACIENDA MOCIONES!!!  ######
-#                                                          ###################################################################################
+#                                                          ###############################################################################
+tmp1$count <- tmp1$count * tmp1$dHda * (1 - tmp1$dmensaje) #### COUNT ONLY URGENCIAS ON HACIENDA MENSAJES OR ON HACIENDA MOCIONES!!!  ####
+#                                                          ###############################################################################
 #
 # aggregate dip discusión inmediata and plug into week object
 tmp <- tmp1[tmp1$typeN==1 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IF GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg1Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg1Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen discusión inmediata and plug into week object
 tmp <- tmp1[tmp1$typeN==1 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg1Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg1Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip suma and plug into week object
 tmp <- tmp1[tmp1$typeN==2 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg2Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg2Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen suma and plug into week object
 tmp <- tmp1[tmp1$typeN==2 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg2Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg2Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip simple and plug into week object
 tmp <- tmp1[tmp1$typeN==3 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg3Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg3Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen simple and plug into week object
 tmp <- tmp1[tmp1$typeN==3 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg3Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg3Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip reset to discusión inmediata and plug into week object
 tmp <- tmp1[tmp1$typeN==4.1 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg41Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg41Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen reset discusión inmediata and plug into week object
 tmp <- tmp1[tmp1$typeN==4.1 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg41Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg41Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip reset suma and plug into week object
 tmp <- tmp1[tmp1$typeN==4.2 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg42Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg42Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen reset suma and plug into week object
 tmp <- tmp1[tmp1$typeN==4.2 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg42Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg42Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip reset simple and plug into week object
 tmp <- tmp1[tmp1$typeN==4.3 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg43Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg43Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen reset simple and plug into week object
 tmp <- tmp1[tmp1$typeN==4.3 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg43Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg43Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip retire discusión inmediata and plug into week object
 tmp <- tmp1[tmp1$typeN==5.1 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg51Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg51Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen retire discusión inmediata and plug into week object
 tmp <- tmp1[tmp1$typeN==5.1 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg51Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg51Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip retire suma and plug into week object
 tmp <- tmp1[tmp1$typeN==5.2 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg52Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg52Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen retire suma and plug into week object
 tmp <- tmp1[tmp1$typeN==5.2 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg52Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg52Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip retire simple and plug into week object
 tmp <- tmp1[tmp1$typeN==5.3 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg53Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg53Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen retire simple and plug into week object
 tmp <- tmp1[tmp1$typeN==5.3 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg53Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg53Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # add session
@@ -3765,7 +3778,9 @@ weekRepUrg <- merge(x = weekRepUrg, y = dipRep, by = "week", all=TRUE)
 weekRepUrg <- merge(x = weekRepUrg, y = senRep, by = "week", all=TRUE)
 #
 # Add weekly urgencias
-tmp1 <- allUrg
+# old tmp1 <- allUrg
+### added 22Aug2015: problem here, allUrg is now a list of messages and chains... need to select one before continuing...
+tmp1 <- allUrg$messages
 tmp1$week <- year(tmp1$on) + week(tmp1$on)/100
 # distinguish mensaje urgencia from mocion urgencias
 tmp1$dmensaje <- NA
@@ -3783,83 +3798,83 @@ tmp1$count <- tmp1$count * tmp1$dHda                ###### COUNT ONLY URGENCIAS 
 #
 # aggregate dip discusión inmediata and plug into week object
 tmp <- tmp1[tmp1$typeN==1 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IF GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg1Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg1Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen discusión inmediata and plug into week object
 tmp <- tmp1[tmp1$typeN==1 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg1Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg1Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip suma and plug into week object
 tmp <- tmp1[tmp1$typeN==2 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg2Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg2Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen suma and plug into week object
 tmp <- tmp1[tmp1$typeN==2 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg2Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg2Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip simple and plug into week object
 tmp <- tmp1[tmp1$typeN==3 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg3Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg3Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen simple and plug into week object
 tmp <- tmp1[tmp1$typeN==3 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg3Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg3Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip reset to discusión inmediata and plug into week object
 tmp <- tmp1[tmp1$typeN==4.1 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg41Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg41Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen reset discusión inmediata and plug into week object
 tmp <- tmp1[tmp1$typeN==4.1 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg41Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg41Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip reset suma and plug into week object
 tmp <- tmp1[tmp1$typeN==4.2 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg42Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg42Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen reset suma and plug into week object
 tmp <- tmp1[tmp1$typeN==4.2 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg42Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg42Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip reset simple and plug into week object
 tmp <- tmp1[tmp1$typeN==4.3 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg43Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg43Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen reset simple and plug into week object
 tmp <- tmp1[tmp1$typeN==4.3 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg43Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg43Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip retire discusión inmediata and plug into week object
 tmp <- tmp1[tmp1$typeN==5.1 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg51Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg51Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen retire discusión inmediata and plug into week object
 tmp <- tmp1[tmp1$typeN==5.1 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg51Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg51Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip retire suma and plug into week object
 tmp <- tmp1[tmp1$typeN==5.2 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg52Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg52Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen retire suma and plug into week object
 tmp <- tmp1[tmp1$typeN==5.2 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg52Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg52Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip retire simple and plug into week object
 tmp <- tmp1[tmp1$typeN==5.3 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg53Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg53Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen retire simple and plug into week object
 tmp <- tmp1[tmp1$typeN==5.3 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg53Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg53Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # add session
@@ -3983,7 +3998,9 @@ weekRepUrg <- merge(x = weekRepUrg, y = dipRep, by = "week", all=TRUE)
 weekRepUrg <- merge(x = weekRepUrg, y = senRep, by = "week", all=TRUE)
 #
 # Add weekly urgencias
-tmp1 <- allUrg
+# old tmp1 <- allUrg
+### added 22Aug2015: problem here, allUrg is now a list of messages and chains... need to select one before continuing...
+tmp1 <- allUrg$messages
 tmp1$week <- year(tmp1$on) + week(tmp1$on)/100
 # distinguish mensaje urgencia from mocion urgencias
 tmp1$dmensaje <- NA
@@ -4001,83 +4018,83 @@ tmp1$count <- tmp1$count              * tmp1$dmensaje     ###### COUNT ONLY URGE
 #
 # aggregate dip discusión inmediata and plug into week object
 tmp <- tmp1[tmp1$typeN==1 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IF GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg1Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg1Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen discusión inmediata and plug into week object
 tmp <- tmp1[tmp1$typeN==1 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg1Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg1Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip suma and plug into week object
 tmp <- tmp1[tmp1$typeN==2 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg2Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg2Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen suma and plug into week object
 tmp <- tmp1[tmp1$typeN==2 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg2Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg2Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip simple and plug into week object
 tmp <- tmp1[tmp1$typeN==3 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg3Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg3Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen simple and plug into week object
 tmp <- tmp1[tmp1$typeN==3 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg3Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg3Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip reset to discusión inmediata and plug into week object
 tmp <- tmp1[tmp1$typeN==4.1 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg41Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg41Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen reset discusión inmediata and plug into week object
 tmp <- tmp1[tmp1$typeN==4.1 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg41Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg41Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip reset suma and plug into week object
 tmp <- tmp1[tmp1$typeN==4.2 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg42Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg42Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen reset suma and plug into week object
 tmp <- tmp1[tmp1$typeN==4.2 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg42Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg42Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip reset simple and plug into week object
 tmp <- tmp1[tmp1$typeN==4.3 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg43Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg43Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen reset simple and plug into week object
 tmp <- tmp1[tmp1$typeN==4.3 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg43Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg43Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip retire discusión inmediata and plug into week object
 tmp <- tmp1[tmp1$typeN==5.1 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg51Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg51Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen retire discusión inmediata and plug into week object
 tmp <- tmp1[tmp1$typeN==5.1 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg51Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg51Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip retire suma and plug into week object
 tmp <- tmp1[tmp1$typeN==5.2 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg52Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg52Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen retire suma and plug into week object
 tmp <- tmp1[tmp1$typeN==5.2 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg52Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg52Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip retire simple and plug into week object
 tmp <- tmp1[tmp1$typeN==5.3 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg53Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg53Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen retire simple and plug into week object
 tmp <- tmp1[tmp1$typeN==5.3 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg53Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg53Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # add session
@@ -4201,7 +4218,9 @@ weekRepUrg <- merge(x = weekRepUrg, y = dipRep, by = "week", all=TRUE)
 weekRepUrg <- merge(x = weekRepUrg, y = senRep, by = "week", all=TRUE)
 #
 # Add weekly urgencias
-tmp1 <- allUrg
+# old tmp1 <- allUrg
+### added 22Aug2015: problem here, allUrg is now a list of messages and chains... need to select one before continuing...
+tmp1 <- allUrg$messages
 tmp1$week <- year(tmp1$on) + week(tmp1$on)/100
 # distinguish mensaje urgencia from mocion urgencias
 tmp1$dmensaje <- NA
@@ -4219,83 +4238,83 @@ tmp1$count <- tmp1$count        * (1 - tmp1$dmensaje)     ###### COUNT ONLY URGE
 #
 # aggregate dip discusión inmediata and plug into week object
 tmp <- tmp1[tmp1$typeN==1 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IF GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg1Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg1Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen discusión inmediata and plug into week object
 tmp <- tmp1[tmp1$typeN==1 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg1Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg1Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip suma and plug into week object
 tmp <- tmp1[tmp1$typeN==2 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg2Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg2Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen suma and plug into week object
 tmp <- tmp1[tmp1$typeN==2 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg2Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg2Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip simple and plug into week object
 tmp <- tmp1[tmp1$typeN==3 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg3Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg3Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen simple and plug into week object
 tmp <- tmp1[tmp1$typeN==3 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg3Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg3Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip reset to discusión inmediata and plug into week object
 tmp <- tmp1[tmp1$typeN==4.1 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg41Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg41Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen reset discusión inmediata and plug into week object
 tmp <- tmp1[tmp1$typeN==4.1 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg41Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg41Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip reset suma and plug into week object
 tmp <- tmp1[tmp1$typeN==4.2 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg42Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg42Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen reset suma and plug into week object
 tmp <- tmp1[tmp1$typeN==4.2 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg42Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg42Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip reset simple and plug into week object
 tmp <- tmp1[tmp1$typeN==4.3 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg43Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg43Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen reset simple and plug into week object
 tmp <- tmp1[tmp1$typeN==4.3 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg43Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg43Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip retire discusión inmediata and plug into week object
 tmp <- tmp1[tmp1$typeN==5.1 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg51Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg51Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen retire discusión inmediata and plug into week object
 tmp <- tmp1[tmp1$typeN==5.1 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg51Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg51Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip retire suma and plug into week object
 tmp <- tmp1[tmp1$typeN==5.2 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg52Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg52Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen retire suma and plug into week object
 tmp <- tmp1[tmp1$typeN==5.2 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg52Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg52Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip retire simple and plug into week object
 tmp <- tmp1[tmp1$typeN==5.3 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg53Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg53Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen retire simple and plug into week object
 tmp <- tmp1[tmp1$typeN==5.3 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg53Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg53Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # add session
@@ -4419,7 +4438,9 @@ weekRepUrg <- merge(x = weekRepUrg, y = dipRep, by = "week", all=TRUE)
 weekRepUrg <- merge(x = weekRepUrg, y = senRep, by = "week", all=TRUE)
 #
 # Add weekly urgencias
-tmp1 <- allUrg
+# old tmp1 <- allUrg
+### added 22Aug2015: problem here, allUrg is now a list of messages and chains... need to select one before continuing...
+tmp1 <- allUrg$messages
 tmp1$week <- year(tmp1$on) + week(tmp1$on)/100
 # distinguish mensaje urgencia from mocion urgencias
 tmp1$dmensaje <- NA
@@ -4436,83 +4457,83 @@ tmp1$count <- 1                                  ###### COUNT URGENCIAS ON BOTH 
 #
 # aggregate dip discusión inmediata and plug into week object
 tmp <- tmp1[tmp1$typeN==1 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IF GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg1Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg1Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen discusión inmediata and plug into week object
 tmp <- tmp1[tmp1$typeN==1 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg1Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg1Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip suma and plug into week object
 tmp <- tmp1[tmp1$typeN==2 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg2Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg2Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen suma and plug into week object
 tmp <- tmp1[tmp1$typeN==2 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg2Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg2Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip simple and plug into week object
 tmp <- tmp1[tmp1$typeN==3 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg3Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg3Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen simple and plug into week object
 tmp <- tmp1[tmp1$typeN==3 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg3Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg3Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip reset to discusión inmediata and plug into week object
 tmp <- tmp1[tmp1$typeN==4.1 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg41Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg41Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen reset discusión inmediata and plug into week object
 tmp <- tmp1[tmp1$typeN==4.1 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg41Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg41Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip reset suma and plug into week object
 tmp <- tmp1[tmp1$typeN==4.2 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg42Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg42Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen reset suma and plug into week object
 tmp <- tmp1[tmp1$typeN==4.2 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg42Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg42Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip reset simple and plug into week object
 tmp <- tmp1[tmp1$typeN==4.3 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg43Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg43Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen reset simple and plug into week object
 tmp <- tmp1[tmp1$typeN==4.3 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg43Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg43Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip retire discusión inmediata and plug into week object
 tmp <- tmp1[tmp1$typeN==5.1 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg51Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg51Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen retire discusión inmediata and plug into week object
 tmp <- tmp1[tmp1$typeN==5.1 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg51Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg51Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip retire suma and plug into week object
 tmp <- tmp1[tmp1$typeN==5.2 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg52Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg52Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen retire suma and plug into week object
 tmp <- tmp1[tmp1$typeN==5.2 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg52Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg52Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # aggregate dip retire simple and plug into week object
 tmp <- tmp1[tmp1$typeN==5.3 & (tmp1$tramite=="dip"),] # | tmp1$tramite=="conf"),] ## LEAVING CONF OUT OF PICTURE; UNCLEAR IT GOES 2 COMM IN CASE OF URGENCY
-tmp <- ddply(tmp, .(week), mutate, nurg53Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg53Dip=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 # aggregate sen retire simple and plug into week object
 tmp <- tmp1[tmp1$typeN==5.3 & (tmp1$tramite=="sen"),] # | tmp1$tramite=="conf"),]
-tmp <- ddply(tmp, .(week), mutate, nurg53Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,c(-1:-12,-14:-16)]
+tmp <- ddply(tmp, .(week), mutate, nurg53Sen=sum(count)) ; tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp <- tmp[,grep("week|nurg", colnames(tmp))]
 weekRepUrg <- merge(x = weekRepUrg, y = tmp, by = "week", all=TRUE)
 #
 # add session
@@ -4612,10 +4633,29 @@ RepDataNegBin$weekRepUrg <- weekRepUrg
 #
 summary(RepDataNegBin)
 #
-rm(i, dipRep, j, sel, senRep, skip, tmp, tmp1, tmpRep,weekRepUrg)
+rm(i, dipRep, j, sel, senRep, tmp, tmp1, tmpRep,weekRepUrg)
 ################################################################
 ##  COMMITTEE REPORT DATA PREP USED IN REGRESSIONS ENDS HERE  ##
 ################################################################
+
+save.image("tmp.RData")
+
+# save added 22aug2015
+rm(list=ls())
+datdir <- "/home/eric/Dropbox/data/latAm/chile/data/"               ##
+setwd(datdir)                                                       ##
+load(file = "tmp.RData")                                            ##
+options(width = 140)                                                ##
+library(lubridate); library(plyr)
+
+# summarize weekly reports
+tmp <- RepDataNegBin$weeklyReportsAndUrgenciasToAllBills
+date1 <- dmy("10-03-2010", tz="chile")
+date2 <- dmy("10-03-2014", tz="chile")
+sel <- which(tmp$week >= year(date1) + week(date1)/100  & tmp$week < year(date2) + week(date2)/100)
+mean(tmp$nrepMenDip[sel] + tmp$nrepMocDip[sel])
+
+colnames(tmp)
 
 ##########################################################################################
 ## Regression of Hda Reports to Exec bills on Urgencies to Exec bills ref to Hda  DIP   ##
@@ -5636,8 +5676,8 @@ table(tmp$drepInDeadline)
 ## sel <- which(bills$info$drefHda==1)
 ## bills$info$bol[sel[10]] # no reporta primera comisión en iniciadora...
 #
-# Urgency message frequencies (exported directly for latex table, need to add N)
-tmp <- allUrg
+# URGENCY MESSAGE FREQUENCIES (exported directly for latex table, need to add N)
+tmp <- allUrg$messages
 #
 sel <- which(tmp$on >= dmy("11/3/1998", tz = "chile") & tmp$on < dmy("11/3/2002", tz = "chile"))
 tmp1 <- round( table(tmp$typeN[sel]) *100 / length(sel), digits = 1 )
@@ -5655,8 +5695,12 @@ sel <- which(tmp$on >= dmy("11/3/2010", tz = "chile") & tmp$on < dmy("11/3/2014"
 tmp4 <- round( table(tmp$typeN[sel]) *100 / length(sel), digits = 1 )
 length(sel)
 #
+sel <- which(tmp$on >= dmy("11/3/1998", tz = "chile") & tmp$on < dmy("11/3/2014", tz = "chile"))
+tmp5 <- round( table(tmp$typeN[sel]) *100 / length(sel), digits = 1 )
+length(sel)
+
 library(xtable)
-xtable(tmp1, digits=0); xtable(tmp2, digits=0); xtable(tmp3, digits=0); xtable(tmp4, digits=0)
+xtable(tmp1, digits=0); xtable(tmp2, digits=0); xtable(tmp3, digits=0); xtable(tmp4, digits=0); xtable(tmp5, digits=0)
 
 # recode leg year to indicate 1990 for 1990-91, etc
 bills$info$legyr <- bills$info$legyr + 1989
