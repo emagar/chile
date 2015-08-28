@@ -1,4 +1,4 @@
-(TeX-add-style-hook "urge03"
+(TeX-add-style-hook "urge03apsa2015"
  (lambda ()
     (LaTeX-add-bibliographies
      "/home/eric/Dropbox/mydocs/magar")

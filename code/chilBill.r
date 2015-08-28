@@ -4648,14 +4648,16 @@ load(file = "tmp.RData")                                            ##
 options(width = 140)                                                ##
 library(lubridate); library(plyr)
 
-# summarize weekly reports
-tmp <- RepDataNegBin$weeklyReportsAndUrgenciasToAllBills
+### summarize weekly reports
+#tmp <- RepDataNegBin$weeklyReportsAndUrgenciasToAllBills
+tmp <- RepDataNegBin$weeklyHaciendaReportsAndUrgenciasToAllBillsInHaciendaComm
+colnames(tmp)
 date1 <- dmy("10-03-2010", tz="chile")
 date2 <- dmy("10-03-2014", tz="chile")
 sel <- which(tmp$week >= year(date1) + week(date1)/100  & tmp$week < year(date2) + week(date2)/100)
-mean(tmp$nrepMenDip[sel] + tmp$nrepMocDip[sel])
-
-colnames(tmp)
+median(tmp$nrepMenDip[sel] + tmp$nrepMocDip[sel])
+mad(tmp$nrepMenDip[sel] + tmp$nrepMocDip[sel])    # median absolute deviation
+rm(tmp, date1, date2)
 
 ##########################################################################################
 ## Regression of Hda Reports to Exec bills on Urgencies to Exec bills ref to Hda  DIP   ##

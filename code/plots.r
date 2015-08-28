@@ -480,21 +480,25 @@ rm(clr,dipUrg,i,N,outl,outlDtes,sel,sel2,senUrg,smbl,tmp,tmpDip,tmpSen,x,y,yrs,z
 
 # SESSION WEEKLY HISTOGRAMS THAT ARE SMALLER THAN PREVIOUS (RUN PREVIOUS BLOCK'S PREP BLOCK). INCLUDES DESCRIPTIVES AT END
 rm(i,N,sel,tmp,tmpDip,tmpSen)
+# prep column to receive original urgency count (types 1,2,3 only)
+dipUrg$nUrgOrigSes <- as.numeric(dipUrg$typeN==1 | dipUrg$typeN==2 | dipUrg$typeN==3)
+senUrg$nUrgOrigSes <- as.numeric(senUrg$typeN==1 | senUrg$typeN==2 | senUrg$typeN==3)
 #
 ##########################################################
-yrs <- 2013 # <--- select start of legislative year here
+yrs <- 1998 # <--- select start of legislative year here
 ##########################################################
-#for (yrs in 1998:2013){
+for (yrs in 1998:2013){
 sel <- which(dipUrg$onGraph>dmy(paste("10/03/", yrs, sep = ""), tz = "chile") & dipUrg$onGraph<dmy(paste("11/03/", (yrs+1), sep = ""), tz = "chile"))
 # dip positive
 x <- dipUrg$onGraph[sel]
 y <- dipUrg$nUrgSes[sel]
+y2 <- dipUrg$nUrgOrigSes[sel]
 # consolidate session totals for plot
-tmp <- data.frame(x=x, y=abs(y)); tmp <- ddply(tmp, .(x), mutate, max=max(y)) # max urg of each session
-tmp <- tmp[duplicated(tmp$x)==FALSE,]; tmp$y <- tmp$max; tmp$max <- NULL
+tmp <- data.frame(x=x, y=abs(y), y2=y2); tmp <- ddply(tmp, .(x), mutate, max=max(y), sum=sum(y2)) # max urg of each session # sum original urgencia dummy
+tmp <- tmp[duplicated(tmp$x)==FALSE,]; tmp$y <- tmp$max; tmp$y2 <- tmp$sum; tmp$max <- tmp$sum <- NULL
 # consolidate weekly data
 tmp$week <- year(tmp$x)+week(tmp$x)/100
-tmp <- ddply(tmp, .(week), mutate, sum=sum(y)); tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp$y <- tmp$sum
+tmp <- ddply(tmp, .(week), mutate, sum=sum(y), sum2=sum(y2)); tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp$y <- tmp$sum;tmp$y2 <- tmp$sum2
 # identify middle of week
 tmp2 <- seq(from = dmy(paste("05/03/", yrs, sep = ""), tz = "chile"), to = dmy(paste("17/03/", (yrs), sep = ""), tz = "chile"), by = "days")
 tmp2 <- data.frame(date=tmp2)
@@ -509,11 +513,12 @@ tmp <- merge(x = tmp, y = allwed, by = "week", all.x = TRUE, all.y = FALSE);
 tmp$x <- tmp$date
 x <- tmp$x
 y <- tmp$y
+y2 <- tmp$y2
 #
 start <- dmy(paste("11/03/", yrs, sep = ""), tz = "chile")
 end <- dmy(paste("10/03/", (yrs+1), sep = ""), tz = "chile")
-#file <- paste(grdir, "urgenciasHistog", yrs, ".pdf", sep = "")
-file <- paste(grdir, "tmp.pdf", sep = "")
+file <- paste(grdir, "urgenciasHistog", yrs, ".pdf", sep = "")
+#file <- paste(grdir, "tmp.pdf", sep = "")
 Cairo(file = file,
       type = "pdf",
       width = 5.5,
@@ -533,9 +538,10 @@ axis(1, at = tmp + days(14), labels = c("a","m","j","j","a","s","o","n","d","j",
 axis(1, at = tmp[1] - days(14), labels = c("m"), tick = FALSE, line = FALSE)
 axis(2, at = (-2:2)*20, labels = c(40,20,0,20,40), line = FALSE, tick = FALSE)
 for (i in 1:length(x)){
-    lines(rep(x[i],2), c(0,y[i]), lwd = 4)
+    lines(rep(x[i],2), c(0,y[i]), lwd = 4, col = "gray35")
+    lines(rep(x[i],2), c(0,y2[i]), lwd = 4, col = "black")
 }
-# deal with dip outliers
+# deal with dip outliers (possibly y2=orig urg never outside range; if so, will need to deal with y2 outliers too)
 outl <- which(abs(y)>40); 
 if (length(outl)>0){
     outlDtes <- x[outl]; #outlDtes <- outlDtes[duplicated(outlDtes)==FALSE]
@@ -548,19 +554,22 @@ if (length(outl)>0){
 sel <- which(senUrg$onGraph>dmy(paste("10/03/", yrs, sep = ""), tz = "chile") & senUrg$onGraph<dmy(paste("11/03/", (yrs+1), sep = ""), tz = "chile"))
 x <- senUrg$onGraph[sel]
 y <- senUrg$nUrgSes[sel]
+y2 <- senUrg$nUrgOrigSes[sel]
 # consolidate session totals to plot
-tmp <- data.frame(x=x, y=abs(y)); tmp <- ddply(tmp, .(x), mutate, max=max(y)); zemax <- tmp$max # max urg of each session
-tmp <- tmp[duplicated(tmp$x)==FALSE,]; tmp$y <- tmp$max; tmp$max <- NULL
+tmp <- data.frame(x=x, y=abs(y), y2=y2); tmp <- ddply(tmp, .(x), mutate, max=max(y), sum=sum(y2)) # max urg of each session # sum original urgencia dummy
+tmp <- tmp[duplicated(tmp$x)==FALSE,]; tmp$y <- tmp$max; tmp$y2 <- tmp$sum; tmp$max <- tmp$sum <- NULL
 # consolidate weekly data
 tmp$week <- year(tmp$x)+week(tmp$x)/100
-tmp <- ddply(tmp, .(week), mutate, sum=sum(y)); tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp$y <- tmp$sum; #tmp$x <- tmp$week; tmp$sum <- tmp$week <- NULL
+tmp <- ddply(tmp, .(week), mutate, sum=sum(y), sum2=sum(y2)); tmp <- tmp[duplicated(tmp$week)==FALSE,]; tmp$y <- tmp$sum;tmp$y2 <- tmp$sum2
 tmp <- merge(x = tmp, y = allwed, by = "week", all.x = TRUE, all.y = FALSE);
 tmp$x <- tmp$date
 x <- tmp$x
 y <- -tmp$y
+y2 <- -tmp$y2
 #
 for (i in 1:length(x)){
-    lines(rep(x[i],2), c(0,y[i]), lwd = 4)
+    lines(rep(x[i],2), c(0,y[i]), lwd = 4, col = "gray35")
+    lines(rep(x[i],2), c(0,y2[i]), lwd = 4, col = "black")
 }
 # deal with sen outliers
 outl <- which(abs(y)>42); 
@@ -572,9 +581,10 @@ if (length(outl)>0){
     text(x = outlDtes, y = rep(-42, length(outl)), labels="*", cex = 2, col = "red") # put scale change mark
 }
 dev.off()
-#}
+}
 #
 # add space here to run plot block
+
 #
 # descrptive of manipulated data
 sel <- which(dipUrg$onGraph>dmy("10/03/1998", tz = "chile") & dipUrg$onGraph<dmy("11/03/2014", tz = "chile"))
