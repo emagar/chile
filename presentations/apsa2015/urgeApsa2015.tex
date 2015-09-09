@@ -32,7 +32,7 @@
 \useoutertheme[footline=empty]{}  % PUTS COLORED LINE AT FOOT WITH TITLE, AUTHOR, PAGE, etc
 %\usetheme{Berkeley}
 \usetheme[height=7mm]{Rochester}
-\setbeamertemplate{items}[ball]   % ITEMS IN 3D BALLS (alt CIRCLES)
+%\setbeamertemplate{items}[ball]   % ITEMS IN 3D BALLS (alt CIRCLES)
 \setbeamertemplate{navigation symbols}{}  % DROPS NAVIGATION ICONS
 \setbeamertemplate{blocks}[rounded][shadow=true]
 
@@ -97,8 +97,8 @@
 \tikzstyle{nodo} = [circle, draw=black, fill=white, text=black]
 \tikzstyle{end} = [circle, minimum width=3pt,fill, inner sep=0pt]
 
-\title[Agenda obstruction]{Congress skips one turn, again}
-\subtitle{Agenda obstruction in Chile's Congress}
+\title[Agenda obstruction]{Presidential obstruction of the agenda in Chile's Congress}
+\subtitle{\emph{Work in progress}}
 \author[Magar]{Eric Magar \\ITAM}
 \date[4sep15]{\small{APSA annual conference, San Francisco} \\ Sep.~4th, 2015}
 
@@ -110,6 +110,7 @@
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %\section*{Intro}
+
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \frame {                      % SLIDE
 
@@ -123,42 +124,42 @@ The executive can \textbf{interfere with legislative scheduling} at will \\
 
 When a bill declared \alert{urgent}:
 
-\be
+\bi
 
 \item Colombia: it takes precedence over other legislative business immediately
 
 \item Brazil: assembly must act in 45 days, else it takes precedence\\ Since 2001, all \emph{medidas provis\'orias} are urgent
 
-\item Mexico: must be scheduled for floor vote in 30 days \\ 4 bills/year only
+\item Mexico: must be scheduled for floor vote within 30 days \\ 4 bills/year only
+
+\item Chile: chamber must act in less than 30 days
 
 \item Uruguay: must act in a pre-specified, short period, \\ inaction turns bill into law
 
-\item Chile: like Uruguay, but silent on consequences of inaction
-
-\ee
+\ei
 }
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \frame {                      % SLIDE
 
     \frametitle{Urgency authority in Chilean constitution and law}
 
-\be
+\bi
 \item Any bill at any stage can be declared urgent
 
-\item Chamber receiving the message must ``discuss and vote'' before 30 days
+\item Chamber urged must ``discuss and vote'' before 30 days
 
 \item Law sets the breadth of the interference
 
-\bi
+\be
 \item act now (\emph{discusión inmediata}, 6 days)
 \item two weeks notice (\emph{urgencia suma}, 15 days)
 \item four weeks notice (\emph{urgencia simple}, 30 days) 
-\ei
+\ee
 
 \item Can retire the urgency, with immediate effects
 
 \item Non-compliance: reversionary schedule/policy indetermined
-\ee
+\ei
 }
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \frame {                      % SLIDE
@@ -243,180 +244,72 @@ urgent 29.0 weeks~~~~~rest 29.7
 
 }
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Separation of power}
+\section{Modeling urgency authority}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \frame {                      % SLIDE
+    \frametitle{Reversionary policy and scarce time}
+  \centering
+    \tikzstyle{mid}=[circle,draw]
+    \begin{tikzpicture}
+      \node[mid] at (2,0) (e) {\emph{E}}; 
+      \node[mid] at (4,1) (l) {\emph{L}}; 
+      \node at (4,-1) (ee) {$x_0$}; 
+      \node at (6.5,2.5) (le1) {$x_1$};  
+      %\node at (6.5,1) (le3) {$x_0$}; 
+      \node at (6.5,-.5) (le2) {$x_0$}; 
+      \node[right] at (4.25,-1)  {\color{white}{\footnotesize{$(0,+o)$}}};   
+      \node[right] at (6.75,2.5) {\color{white}{\footnotesize{$(a,b)$}}};   
+      \node[right] at (6.75,1)   {\color{white}{\footnotesize{$(0,+o-k)$}}}; 
+      \node[right] at (6.75,-.5) {\color{white}{\footnotesize{$(0,-c)$}}};  
+      \path[-] (e) edge node [above, sloped] {\footnotesize{propose}} (l);
+      \path[] (e) edge node [below, sloped] {\footnotesize{$x_1$}} (l); 
+      \path[-o] (e) edge node [below, sloped] {\footnotesize{not}} (ee) (l) edge node [above, sloped] {\footnotesize{accept}} (le1) (l) edge node [below, sloped] {\footnotesize{reject}} (le2);
+      %\path[-o] (l) edge node [above, sloped] {\footnotesize{ignore}} (le3);
+    \end{tikzpicture}
 
-    \frametitle{In the literature}
+\color{white}{Parentheses are gains v.\ status quo}
 
-\textbf{Presidential} \emph{v.} \textbf{parliamentary} democracy \\
-(Bagehot 1867, Wilson 1884, Lijphart 1984, Linz 1990, Shugart\&Carey 1992, Cheibub 2007)
-
-\bigskip
-
-
-\begin{center}
-Will focus not of pros and cons \\ but on \\ how \alert{decisions} are made \\ under \alert{separation of power}
-\end{center}
-
-\bigskip
-
-Application to presidential system, \\ generalizes to SoP in other forms
-
-}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\frame {                      % SLIDE
-
-    \frametitle{Presidentialism: two principles decision-making}
-
-\be
-\item \alert{Concurrent consent} between the branches
- \bi
- \item executive veto
- \item congressional veto
- \ei
-\item \textcolor{green}{Unilateralism} of one over the other
- \bi
- \item veto override
- \item executive decree
- \ei
-\ee
-
-\bigskip 
-
-Principle 2 restricted, otherwise cancels principle 1
-
-\bigskip 
-
-\begin{block}{}
-Unilateralism overlooked in early literature \\
-pressure boiler with no safety valves (Linz 1990)
-\end{block}
-
-% \makebox(0,0){\put(0,2.2\normalbaselineskip){%
-%                $\left.\rule{0pt}{1.1\normalbaselineskip}\right\}$ foo}}
-
-}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\frame {                      % SLIDE
-
-    \frametitle{Veto \& unilateralism side-by-side}
-
-
-\begin{center}
-\resizebox{\linewidth}{!}{
-\begin{tabular}{c|c|c}
-\emph{Authority}        & \emph{Executive}             &  \emph{Legislative}              \\
-\emph{by which$\ldots$} & \emph{branch}                &  \emph{branch}                   \\ \hline
-$\ldots$ branch rejects & \textbf{executive veto}      & \textbf{legislative veto}    \\
-a proposal              & \textcolor{white}{Ch.3 veto in US states}       &  \textcolor{white}{Ch.8 reacting to executive}    \\
-by the other            & \textcolor{white}{Ch.5 stunts Chile/Mex.}       &  \textcolor{white}{decrees in Argentina}            \\ \hline
-$\ldots$ branch over-   & \textbf{unilateralism}       & \textbf{veto override}         \\
-comes a rejection       & \textcolor{white}{Ch.6 urgency in Chile}        &  \textcolor{white}{(Ch.4 hopeless}           \\
-by the other            & \textcolor{white}{Ch.7 exec.\ coalition}        &  \textcolor{white}{vetoes in Brazil)}                     \\
+\begin{tabular}{rl}
+$o=$ & opportunity cost \\
+$k=$ & obstruction cost (Brazil) \\
+$=$  & persuasion cost (Chile) \\
 \end{tabular}
-%\caption{Veto power and unilateral provisions, side to side}
-}
-\end{center}
+
 }
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\frame {                      % SLIDE
+\frame[noframenumbering] {                      % SLIDE
+    \frametitle{Reversionary policy and scarce time}
+  \centering
+    \tikzstyle{mid}=[circle,draw]
+    \begin{tikzpicture}
+      \node[mid] at (2,0) (e) {\emph{E}}; 
+      \node[mid] at (4,1) (l) {\emph{L}}; 
+      \node at (4,-1) (ee) {$x_0$}; 
+      \node at (6.5,2.5) (le1) {$x_1$};  
+      \node at (6.5,1) (le3) {$r$}; 
+      \node at (6.5,-.5) (le2) {$x_0$}; 
+      \node[right] at (4.25,-1)  {\color{white}{\footnotesize{$(0,+o)$}}};   
+      \node[right] at (6.75,2.5) {\color{white}{\footnotesize{$(a,b)$}}};   
+      \node[right] at (6.75,1)   {\color{white}{\footnotesize{$(0,+o-k)$}}}; 
+      \node[right] at (6.75,-.5) {\color{white}{\footnotesize{$(0,-c)$}}};  
+      \path[-] (e) edge node [above, sloped] {\footnotesize{propose}} (l);
+      \path[] (e) edge node [below, sloped] {\footnotesize{$x_1$}} (l); 
+      \path[-o] (e) edge node [below, sloped] {\footnotesize{not}} (ee) (l) edge node [above, sloped] {\footnotesize{accept}} (le1) (l) edge node [below, sloped] {\footnotesize{reject}} (le2);
+      \path[-o] (l) edge node [above, sloped] {\footnotesize{ignore}} (le3);
+    \end{tikzpicture}
 
-    \frametitle{Veto \& unilateralism side-by-side}
+\color{white}{Parentheses are gains v.\ status quo}
 
-
-\begin{center}
-\resizebox{\linewidth}{!}{
-\begin{tabular}{c|c|c}
-\emph{Authority}        & \emph{Executive}             &  \emph{Legislative}              \\
-\emph{by which$\ldots$} & \emph{branch}                &  \emph{branch}                   \\ \hline
-$\ldots$ branch rejects & \textbf{executive veto}      & \textbf{legislative veto}    \\
-a proposal              & Ch.3 veto in US states       &  Ch.8 reacting to executive    \\
-by the other            & Ch.5 stunts Chile/Mex.       &  decrees in Argentina            \\ \hline
-$\ldots$ branch over-   & \textbf{unilateralism}       & \textbf{veto override}         \\
-comes a rejection       & Ch.6 \alert{urgency in Chile}        &  (Ch.4 hopeless           \\
-by the other            & Ch.7 exec.\ coalition        &  vetoes in Brazil)                     \\
+\begin{tabular}{rl}
+$o=$ & opportunity cost \\
+$k=$ & obstruction cost (Brazil) \\
+$=$  & persuasion cost (Chile) \\
 \end{tabular}
-%\caption{Veto power and unilateral provisions, side to side}
-}
-\end{center}
-}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\frame {                      % SLIDE
-
-    \frametitle{Theme: what are vetoes?}
-\be
-\item Comparative politics: \textcolor<2>{red}{irreconciliable differences} \\
- \bi
- \item<2> Harbingers of democratic breakdown? (Linz\&Valenzuela 1994)
- \item<2> But see Cheibub (2007), Saiegh (2011)... 
- \ei
-\item American politics: tactical maneuvers of normal democracy 
- \bi 
- \item<2> \textcolor{blue}{bargaining ploys}, reputation of toughness (Cameron 2000)
- \item<2> \textcolor{green}{publicity stunts} for voters (Groseclose\&McCarty 2001)
- \item<2> But see Sundquist (1986)...
- \ei
-\ee
-
-\bigskip \pause
-
-\centering
-\textcolor{red}{Polarization}, \textcolor{blue}{incomplete info.}, and \textcolor{green}{position-taking} \\ compete to explain veto incindence
-
-\bigskip \pause
-
-\centering
-American exceptionalism? \\ Shorten gap with comparative field
-
-}
-% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% \frame {                      % SLIDE
-
-%     \frametitle{Themes: American exceptionalism}
-
-% Does the bargaining logic apply outside the U.S.?
-
-% To Latin American governments?
-
-% To sub-national governments?
-
-% \bigskip
-
-% }
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Model searching}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\frame {                      % SLIDE
-
-    \frametitle{Two intuitions}
-
-\begin{center}
-schedule now $\neq$ passage
-\end{center}
-
-\bigskip
-
-\be
-\item Imperfect negative agenda control
-  \bi
-  \item Could majority cartel operate? (Cox\&McCubbins 2005)
-  \item Committee gatekeeking $\rightarrow$ silent death (Weingast\&Marshall 1988)
-  \ei
-\item Dilatory tactics
-  \bi
-  \item Worsen legislative bottleneck (Cox 1987)
-  \item Filibusters: exploit impatience of those next in line (Wawro\&Schickler 2007)
-  \ei
-\ee
 
 }
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-
-\frame {                      % SLIDE
-
-    \frametitle{Costly rejection}
-
+\frame[noframenumbering] {                      % SLIDE
+    \frametitle{Reversionary policy and scarce time}
   \centering
     \tikzstyle{mid}=[circle,draw]
     \begin{tikzpicture}
@@ -426,86 +319,206 @@ schedule now $\neq$ passage
       \node at (6.5,2.5) (le1) {$x_1$};  
       \node at (6.5,1) (le3) {$x_0$}; 
       \node at (6.5,-.5) (le2) {$x_0$}; 
-      \node[right] at (4.25,-1) {\footnotesize{$(0,0)$}};  
-      \node[right] at (6.75,2.5) {\footnotesize{$(a,b)$}};  
-      \node[right] at (6.75,1) {\footnotesize{$(0,0)$}};  
-      \node[right] at (6.75,-.5) {\footnotesize{$(0,c)$}};  
+      \node[right] at (4.25,-1)  {\color{white}{\footnotesize{$(0,+o)$}}};   
+      \node[right] at (6.75,2.5) {\color{white}{\footnotesize{$(a,b)$}}};   
+      \node[right] at (6.75,1)   {\color{white}{\footnotesize{$(0,+o-k)$}}}; 
+      \node[right] at (6.75,-.5) {\color{white}{\footnotesize{$(0,0)$}}};  
       \path[-] (e) edge node [above, sloped] {\footnotesize{propose}} (l);
       \path[] (e) edge node [below, sloped] {\footnotesize{$x_1$}} (l); 
-      \path[-o] (e) edge node [below, sloped] {\footnotesize{not}} (ee) (l) edge node [above, sloped] {\footnotesize{accept}} (le1) (l) edge node [above, sloped] {\footnotesize{pay to}} (le2) (l) edge node [below, sloped] {\footnotesize{reject}} (le2);
-      \path[-o, dashed] (l) edge node [above, sloped] {\footnotesize{ignore}} (le3);
+      \path[-o] (e) edge node [below, sloped] {\footnotesize{not}} (ee) (l) edge node [above, sloped] {\footnotesize{accept}} (le1) (l) edge node [below, sloped] {\footnotesize{reject}} (le2);
+      \path[-o] (l) edge node [above, sloped] {\footnotesize{ignore}} (le3);
+    \end{tikzpicture}
+
+\color{white}{Parentheses are gains v.\ status quo}
+
+\begin{tabular}{rl}
+$o=$ & opportunity cost \\
+$k=$ & obstruction cost (Brazil) \\
+$=$  & persuasion cost (Chile) \\
+\end{tabular}
+
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame[noframenumbering] {                      % SLIDE
+    \frametitle{Reversionary policy and scarce time}
+  \centering
+    \tikzstyle{mid}=[circle,draw]
+    \begin{tikzpicture}
+      \node[mid] at (2,0) (e) {\emph{E}}; 
+      \node[mid] at (4,1) (l) {\emph{L}}; 
+      \node at (4,-1) (ee) {$x_0$}; 
+      \node at (6.5,2.5) (le1) {$x_1$};  
+      \node at (6.5,1) (le3) {$x_0$}; 
+      \node at (6.5,-.5) (le2) {$x_0$}; 
+      \node[right] at (4.25,-1) {\footnotesize{$(0,+o)$}};  
+      \node[right] at (6.75,2.5) {\footnotesize{$(a,b)$}};  
+      \node[right] at (6.75,1) {\footnotesize{$(0,+o-k)$}};  
+      \node[right] at (6.75,-.5) {\footnotesize{$(0,0)$}};  
+      \path[-] (e) edge node [above, sloped] {\footnotesize{propose}} (l);
+      \path[] (e) edge node [below, sloped] {\footnotesize{$x_1$}} (l); 
+      \path[-o] (e) edge node [below, sloped] {\footnotesize{not}} (ee) (l) edge node [above, sloped] {\footnotesize{accept}} (le1) (l) edge node [below, sloped] {\footnotesize{reject}} (le2);
+      \path[-o] (l) edge node [above, sloped] {\footnotesize{ignore}} (le3);
     \end{tikzpicture}
 
 Parentheses are gains v.\ status quo
 
-}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\frame {                      % SLIDE
-
-    \frametitle{Impatience}
-
-\bi
-\item Legislator and executive each each have pet projects 
-\item Two rounds, one project only can be scheduled (rejection takes time)
-\item Policy now better than later
-\ei
-
-\bigskip
-
-\centering
-\begin{tabular}{clcc}
-Case & Agenda (outcomes)           & Policy             &  Discounted payoff \\ \hline
-1    & \emph{abef}~~~(both pass)     & $(a,b,e_0,f_0)$    &  $a + \delta b$    \\
-2    & \emph{eabf}~~~($e$ rejected)  & $(a,b_0,e_0,f_0)$  &  $\delta a$        \\
-3    & \emph{efab}~~~(both rejected) & $(a_0,b_0,e_0,f_0)$ &  0                 \\
-4    & \emph{eabf}~~~(both pass)     & $(a,b_0,e,f_0)$    &  $e + \delta a$    \\  \hline
+\begin{tabular}{rl}
+$o=$ & opportunity cost \\
+$k=$ & obstruction cost (Brazil) \\
+$=$  & persuasion cost (Chile) \\
 \end{tabular}
 
+}
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \frame {                      % SLIDE
+%     \frametitle{Costs and reversionary outcome}
+%   \centering
+%     \tikzstyle{mid}=[circle,draw]
+%     \begin{tikzpicture}
+%       \node[mid] at (2,-.5) (e) {\emph{E}}; 
+%       \node[mid] at (4,1) (l) {\emph{L}}; 
+%       \node[right] at (4,-2) (ee) {$x_0+o$}; 
+%       \node[right] at (6, 2.5) (le1) {$x_1$};  
+%       \node[right] at (6, 1) (le3) {$x_0-c$}; 
+%       \node[right] at (6,-.5) (le2) {$r+o-k$}; 
+%       \path[-]  (e) edge node [above, sloped] {\footnotesize{propose}} (l);
+%       \path[]   (e) edge node [below, sloped] {\footnotesize{$x_1$}}   (l); 
+%       \path[-o] (e) edge node [below, sloped] {\footnotesize{not}}     (ee) 
+%                  (l) edge node [above, sloped] {\footnotesize{accept}} (le1) 
+%                  (l) edge node [below, sloped] {\footnotesize{ignore}} (le2);
+%       \path[-o] (l) edge node [above, sloped] {\footnotesize{reject}} (le3);
+%     \end{tikzpicture}  \\
+%  \footnotesize{
+%  \begin{tabular}{lrrr}
+%   Case                       & $r$   & $c$   & $k$      \\ \hline
+%   Chile                      & $x_0$ & 0     & $>0$     \\
+%   Brazil (urgency), Colombia & $x_0$ & 0     & $> o$    \\
+%   Brazil (MP)                & $x_0$ & $>0$  & $> o$    \\
+%   Brazil (MP up to 2001)     & $x_1$ & $>0$  & 0        \\
+%   Mexico (4 bills yearly)    & $x_0$ & 0     & ?        \\
+%   Uruguay                    & $x_1$ & 0     & 0        \\
+%   \end{tabular}
+%   }
+% }
 
-\begin{equation*}
-e + \delta a >  0 \iff \delta  >   -\frac{e}{a}
-\end{equation*}
-
-
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame{
+    \frametitle{Inconsequential urgency power?}
+\begin{tabular}{c|c}
+   Chile & Uruguay \\
+    \tikzstyle{mid}=[circle,draw]
+    \begin{tikzpicture}[scale=0.7]
+      \node[mid] at (2,-.5) (e) {\emph{E}}; 
+      \node[mid] at (4,1) (l) {\emph{L}}; 
+      \node[right] at (4,-2) (ee) {$x_0+o$}; 
+      \node[right] at (6, 2.5) (le1) {$x_1$};  
+      \node[right] at (6, 1) (le3) {$x_0$}; 
+      \node[right] at (6,-.5) (le2) {$x_0+o-k$}; 
+      \path[-]  (e) edge node [above, sloped] {\footnotesize{prop.}} (l);
+      %\path[]   (e) edge node [below, sloped] {\footnotesize{$x_1$}}   (l); 
+      \path[-o] (e) edge node [below, sloped] {\footnotesize{not}}     (ee) 
+                 (l) edge node [above, sloped] {\footnotesize{acc.}} (le1) 
+                 (l) edge node [below, sloped] {\footnotesize{ign.}} (le2);
+      \path[-o] (l) edge node [above, sloped] {\footnotesize{rej.}} (le3);
+    \end{tikzpicture}
+         &
+    \tikzstyle{mid}=[circle,draw]
+    \begin{tikzpicture}[scale=0.7]
+      \node[mid] at (2,-.5) (e) {\emph{E}}; 
+      \node[mid] at (4,1) (l) {\emph{L}}; 
+      \node[right] at (4,-2) (ee) {$x_0+o$}; 
+      \node[right] at (6, 2.5) (le1) {$x_1$};  
+      \node[right] at (6, 1) (le3) {$x_0$}; 
+      \node[right] at (6,-.5) (le2) {$x_1+o$}; 
+      \path[-]  (e) edge node [above, sloped] {\footnotesize{prop.}} (l);
+      %\path[]   (e) edge node [below, sloped] {\footnotesize{$x_1$}}   (l); 
+      \path[-o] (e) edge node [below, sloped] {\footnotesize{not}}     (ee) 
+                 (l) edge node [above, sloped] {\footnotesize{acc.}} (le1) 
+                 (l) edge node [below, sloped] {\footnotesize{ign.}} (le2);
+      \path[-o] (l) edge node [above, sloped] {\footnotesize{rej.}} (le3);
+    \end{tikzpicture}
+         \\
+  \mc{1}{l|}{Case 1: $o>k$} & \mc{1}{l}{Case 3: $k \equiv 0$} \\
+          \begin{tikzpicture}[scale=0.33]
+          \draw (0,0) -- (11,0) 
+          (2,0) node[below] {$x_0$} -- (4.75,2.75) -- (7.5,0) node[below] {$l_0$}; 
+          \draw[dashed] 
+          (2.75,0) -- (4.75,2) -- (6.75,0); 
+          \draw (4.75,0.1) -- (4.75,-0.1) node[below] {$l$}
+                (10,0.1) -- (10,-0.1) node[below] {$p$};
+          % \draw[->] 
+          %       (7,-1) node[below] {$(l_0+o)$} -- (7,-0.25);
+          \draw[->, thick] 
+                (6.75,1.5) node[above] {\textbf{$x_1^*$}} -- (6.75,0.25);
+        \end{tikzpicture}
+         &
+        \begin{tikzpicture}[scale=0.33]
+          \draw (0,0) -- (11,0) 
+          (2,0) node[below] {$x_0$} -- (4.75,2.75) -- (7.5,0) node[below] {$l_0$}; 
+          \draw[dashed] 
+          (2.75,0) -- (4.75,2) -- (6.75,0); 
+          \draw (4.75,0.1) -- (4.75,-0.1) node[below] {$l$}
+                (11,0.1) -- (11,-0.1) node[below] {$p$}
+                (8.25,0.1) -- (8.25,-0.1) ;
+          % \draw[->] 
+          %       (8,-1) node[below] {$(l_0-o)$} -- (8,-0.25);
+          \draw[->, thick] 
+                (8.25,1.5) node[above] {\textbf{$x_1^*$}} -- (8.25,0.25);
+        \end{tikzpicture}
+         \\
+  \mc{1}{l|}{Case 2: $o \leq k$} &  \\
+        \begin{tikzpicture}[scale=0.33]
+          \draw (0,0) -- (11,0) 
+          (2,0) node[below] {$x_0$} -- (4.75,2.75) -- (7.5,0) node[below] {$l_0$}; 
+          \draw[dashed] 
+          (1.25,0) -- (4.75,3.5) -- (8.25,0); 
+          \draw (4.75,0.1) -- (4.75,-0.1) node[below] {$l$}
+                (10,0.1) -- (10,-0.1) node[below] {$p$};
+          %\draw[->] 
+          %      (8.25,-1) node[below] {$(l_0+(-k+o))$} -- (8.25,-0.25);
+          \draw[->, thick] 
+                (7.5,1.5) node[above] {\textbf{$x_1^*$}} -- (7.5,0.25);
+        \end{tikzpicture}
+         &
+         \\
+       \end{tabular}
 }
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Data}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \frame {                      % SLIDE
+    \frametitle{Urgency degrees and persuasion}
 
-    \frametitle{Original data}
-
-\href{http://www.camara.cl/pley/pley_detalle.aspx?prmID=498&prmBL=2035-06}{\url{www.camara.cl}} very sharp \\
-Scraped with \texttt{Python}'s Selenium library $\rightarrow$ \alert{bill histories 1990--2014}
+Neustadt (1954): Presidential power is ability to \alert{persuade} others that it is in their interest to cooperate \\ (despite no institutional consequences)
 
 \bigskip
 
-\includegraphics[width=\columnwidth]{../../graphs/hit.png} \\
 
+Declaring urgency
+\bi
+\item Signals priority (`Act now' > `2 week' > `4 week')
+\item Media attention, nurtures public debate
+\item Enough for $k>o$?
+\ei
 }
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\frame {                      % SLIDE
-
-    \frametitle{Original data}
-
-\href{http://www.camara.cl/pley/pley_detalle.aspx?prmID=498&prmBL=2035-06}{\url{www.camara.cl}} very sharp \\
-Scraped with \texttt{Python}'s Selenium library $\rightarrow$ \alert{bill histories 1990--2014}
-
-\bigskip
-
-\includegraphics[width=\columnwidth]{../../graphs/urg.png} \\
-
-}
+\section{Data and descriptions}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \frame {                      % SLIDE
 
     \frametitle{The president's status in Congress}
 
+\bi
+\item Original dataset of bill histories 1998--2014
+\item Many missing records before 1998 
+\item Covers 3+ presidencies, variance in president's status\\ 
+(coalition unity, Carey 2002, Alemán\&Saiegh 2007)
+\ei
+
+\bigskip
 
 \begin{center}
 \begin{tabular}{lrrrr}
 Coalition   & 1998--02    & 2002--06 & 2006--10 & 2010--14 \\ \hline
-&\mc{4}{l}{\textbf{~~Chamber of deputies}} \\
+&\mc{4}{l}{\textbf{~~C\'amara de Diputados}} \\
 President's & \color{green}{58}            & \color{green}{53}       & \color{green}{51}       & \color{YellowOrange}{50}       \\
 Opposition  & 42            & 48       & 47       & 48       \\
 Regional    &               &          & 3        & 2        \\ \hdashline
@@ -517,15 +530,11 @@ Total       & 100           & 100      & 100      & 100      \\ \hline
 \end{tabular}
 \end{center}
 
-\bigskip
-
-Coalition unity (Carey 2002, Alemán\&Saiegh 2007)
-
 }
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \frame {                      % SLIDE
 
-    \frametitle{Bills, laws, and urgency 1998--2014}
+    \frametitle{Bills, success, and urgency 1998--2014}
 
 \centering
 \setbeamercovered{invisible} 
@@ -549,16 +558,80 @@ as \% declared urgent    &    \emph{48}  &   \emph{75}  &  \emph{68} \\ \hline
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \frame {                      % SLIDE
 
+    \frametitle{Determinants of bill urgency}
+
+\begin{tabular}{lcc} 
+ & \multicolumn{2}{c}{\textit{DV=1 if urgent, else 0}} \\ 
+ & \multicolumn{1}{c}{(1)} & \multicolumn{1}{c}{(2)}\\ 
+\hline
+ Member bill & $-2.978^{***}$ &  \\ 
+  % & (0.090) &  \\ 
+  % & & \\ 
+ Member bill, opp.-sponsored &  & $-3.597^{***}$ \\ 
+ %  &  & (0.137) \\ 
+ %  & & \\ 
+ Member bill, mix.-sponsored &  & $-2.517^{***}$ \\ 
+ %  &  & (0.114) \\ 
+ %  & & \\ 
+ Member bill, pres. coal.-sp. &  & $-2.969^{***}$ \\ 
+ %  &  & (0.126) \\ 
+ %  & & \\ 
+ Hacienda & $1.761^{***}$ & $1.782^{***}$ \\ 
+ %  & (0.111) & (0.111) \\ 
+ %  & & \\ 
+ Senate majority & $-0.304^{***}$ & $-0.302^{***}$ \\ 
+ %  & (0.086) & (0.086) \\ 
+ %  & & \\ 
+ Introduced Senate & $0.184^{*}$ & $0.415^{***}$ \\ 
+ %  & (0.096) & (0.111) \\ 
+ %  & & \\ 
+ Pres.~term remaining & $0.004^{***}$ & $0.004^{***}$ \\ 
+ %  & (0.002) & (0.002) \\ 
+ %  & & \\ 
+ Year remaining  & $0.003$ & $0.003^{*}$ \\ 
+ %  & (0.002) & (0.002) \\ 
+ %  & & \\ 
+ Constant & $-0.047$ & $-0.113$ \\ 
+ %  & (0.140) & (0.141) \\ 
+ %  & & \\ 
+\hline \\[-1.8ex] 
+N & \multicolumn{1}{c}{6,987} & \multicolumn{1}{c}{6,987} \\ 
+Log$L$ & \multicolumn{1}{c}{$-2,057$} & \multicolumn{1}{c}{$-2,029$} \\ 
+\% predicted correctly & \multicolumn{1}{c}{89} & \multicolumn{1}{c}{89} \\ 
+%\textit{Note:}  & \multicolumn{2}{r}{$^{*}$p$<$0.1; $^{**}$p$<$0.05; $^{***}$p$<$0.01} \\ 
+\end{tabular} 
+
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Message types}
+
+\centering
+
+\resizebox{\linewidth}{!}{
+\begin{tabular}{rrrrr|r}
+      & 1998--2002 & 2002--2006 & 2006--2010 & 2010--2014 & 1998--2014 \\ \hline
+ Act now             & 5  & 6  & 3  & 4  & 4 \\ 
+ 2-week notice       & 16 & 14 & 9  & 23 & 16 \\ 
+ 4-week notice       & 29 & 22 & 13 & 12 & 17 \\ \hdashline
+ Shorten deadline    & 2  & 2  & 2  & 4  &  3 \\ 
+ Extend deadline     & 29 & 33 & 41 & 43 & 39 \\ \hdashline
+ Withdraw (act now)  & 1  & 2  & 2  & 2  &  2 \\ 
+ Withdraw (2-week)   & 7  & 10 & 14 & 8  & 10 \\ 
+ Withdraw (4-week)   & 10 & 11 & 17 & 3  & 10 \\ \hline
+ Total messages      & 100 & 100 & 100 & 100 & 100 \\ 
+(N)                  & (1,268) & (1,881) & (4,941) & (5,643) & (13,733)\\ %\hline
+% Senate status       & \emph{tied} & \emph{tied} & \emph{gov.} & \emph{opp.} & \\
+\end{tabular}
+}
+
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
     \frametitle{Recidivism}
 \begin{center}
-
-\begin{tabular}{lcl}
-Total urgency messages &  $\approx$ &  8,200 \\
-Bills declared urgent  &  $\approx$ &  1,350 only(!) 
-\end{tabular}
-
-\bigskip
-\pause
 
 \begin{tabular}{rr}
 Number of & Bill  \\
@@ -576,50 +649,20 @@ Total    & \emph{100}   \\
 
 \bigskip
 
-\textbf{Q:} Re-declared urgent after non-compliance?
+Micro-managing presidents? Look @ message contents
 
 \end{center}
 }
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \frame {                      % SLIDE
 
-    \frametitle{Message types}
-
-\centering
-
-\textbf{A:} Doesn't seem so, deadlines change/drop a lot
-
-
-\bigskip \pause
-
-\resizebox{\linewidth}{!}{
-\begin{tabular}{rrrrr}
-      & 1998--2002 & 2002--2006 & 2006--2010 & 2010--2014 \\ \hline
- Act now             & 5  & 6  & 3  & 5  \\ 
- 2 weeks notice      & 17 & 16 & 16 & 26 \\ 
- 4 weeks notice      & 30 & 24 & 20 & 13 \\ \hdashline
- Shorten deadline    & 2  & 1  & 1  & 3  \\ 
- Extend deadline     & 26 & 30 & 27 & 39 \\ \hdashline
- Withdraw (act now)  & 1  & 2  & 2  & 2  \\ 
- Withdraw (2-weeks)  & 7  & 10 & 14 & 9  \\ 
- Withdraw (4-weeks)  & 11 & 11 & 17 & 3  \\ \hline
- Total messages      & 100 & 100 & 100 & 100 \\ 
-(N)                  & (1,279) & (1,915) & (4,964) & (5,689) \\ \hline
-% Senate status       & \emph{tied} & \emph{tied} & \emph{gov.} & \emph{opp.} \\
-\end{tabular}
-}
-
-}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\frame {                      % SLIDE
-
-    \frametitle{Micro-managing executive}
+    \frametitle{Urgency message incidence}
 
 
 \begin{center}
-Weekly messages in one legislative year
-    \includegraphics[width=.8\columnwidth]{../../graphs/urgenciasHistog1998.pdf} \\
-(Two histograms: deputies above, senate below \alert{zero} line)
+Weekly messages in one legislative year \\ black = original urgency
+    \includegraphics[width=.8\columnwidth]{../../graphs/urgenciasHistog2010.pdf} \\
+(Two histograms: C\'amara above, Senate below \alert{zero} line)
 
 \end{center}
 
@@ -629,7 +672,7 @@ Weekly messages in one legislative year
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \frame {                      % SLIDE
 
-    \frametitle{When everything is urgent... nothing really is}
+    \frametitle{When all is urgent...}
 
 \begin{center}
 \begin{tabular}{cccc}
@@ -656,111 +699,53 @@ Weekly messages in one legislative year
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \frame {                      % SLIDE
 
-    \frametitle{Daily messages 2009--10}
-
-\begin{center}
-    \includegraphics[width=\columnwidth]{../../graphs/urgencias2009-1.pdf} \\
-
-    \begin{tikzpicture}[scale=.1]
-      \fill[red]          (0,-1   ) circle (.75);
-      \node[right] at     (1.25,-1   ) {\scriptsize{Act now}};  
-      \fill[yellow]       (20  ,-1  ) circle (.75);
-      \node[right] at     (21.25,-1) {\scriptsize{2-week notice}};  
-      \fill[green]        (50  ,-1   ) circle (.75);
-      \node[right] at     (51.25,-1 ) {\scriptsize{4-week notice}};  
-      \draw[red,thick]    (0  ,-4   )  -- (0,-6);
-      \draw[red,thick]    (-1 ,-5   ) -- (1,-5);
-      \draw[yellow,thick] (2  ,-4   )  -- (2,-6);
-      \draw[yellow,thick] (1  ,-5   ) -- (3,-5);
-      \draw[green,thick]  (4  ,-4   )  -- (4,-6);
-      \draw[green,thick]  (3  ,-5   ) -- (5,-5);
-      \node[right] at     (4.5,-5 ) {\scriptsize{Deadline change}};  
-      \fill[red]          (39  ,-4   )  -- (41,-4) -- (40,-6);
-      \fill[yellow]       (41  ,-4   )  -- (43,-4) -- (42,-6);
-      \fill[green]        (43  ,-4   )  -- (45,-4) -- (44,-6);
-      \node[right] at     (44.5,-5  ) {\scriptsize{Withdraw}};  
-    \end{tikzpicture}
-\end{center}
-}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\frame {                      % SLIDE
-
-    \frametitle{Daily messages 2009--10}
-
-\begin{center}
-    \includegraphics[width=\columnwidth]{../../graphs/urgencias2009-2.pdf} \\
-
-    \begin{tikzpicture}[scale=.1]
-      \fill[red]          (0,-1   ) circle (.75);
-      \node[right] at     (1.25,-1   ) {\scriptsize{Act now}};  
-      \fill[yellow]       (20  ,-1  ) circle (.75);
-      \node[right] at     (21.25,-1) {\scriptsize{2-week notice}};  
-      \fill[green]        (50  ,-1   ) circle (.75);
-      \node[right] at     (51.25,-1 ) {\scriptsize{4-week notice}};  
-      \draw[red,thick]    (0  ,-4   )  -- (0,-6);
-      \draw[red,thick]    (-1 ,-5   ) -- (1,-5);
-      \draw[yellow,thick] (2  ,-4   )  -- (2,-6);
-      \draw[yellow,thick] (1  ,-5   ) -- (3,-5);
-      \draw[green,thick]  (4  ,-4   )  -- (4,-6);
-      \draw[green,thick]  (3  ,-5   ) -- (5,-5);
-      \node[right] at     (4.5,-5 ) {\scriptsize{Deadline change}};  
-      \fill[red]          (39  ,-4   )  -- (41,-4) -- (40,-6);
-      \fill[yellow]       (41  ,-4   )  -- (43,-4) -- (42,-6);
-      \fill[green]        (43  ,-4   )  -- (45,-4) -- (44,-6);
-      \node[right] at     (44.5,-5  ) {\scriptsize{Withdraw}};  
-    \end{tikzpicture}
-\end{center}
-}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\frame {                      % SLIDE
-
     \frametitle{Lend a helping hand}
 
 
-25\% urgencies were for MC bills \\ \textbf{Q:} Where these coalition-sponsored? 
+25\% urgencies were for member bills. Vote trading?
 
-\pause
-
-\textbf{A:} Not always!
 
 \begin{center}
 
 \begin{tabular}{rrr}
-                    &  \mc{2}{c}{Urgency raised by} \\
-Concertación        &  Concertación  & Right       \\
-sponsors            &  presidents    & president   \\ \hline
-0\%                 &  \emph{21}     & \emph{26}   \\
-1--25\%             &  \emph{3}      & \emph{4}    \\
-26--50\%            &  \emph{10}     & \emph{18}   \\
-51--75\%            &  \emph{15}     & \emph{12}   \\
-76--99\%            &  \emph{13}     & \emph{12}   \\
-100\%               &  \emph{39}     & \emph{26}   \\ \hline
-Total               &  \emph{100}    & \emph{100}  \\
-(N)                 &      (230)     & (121)       \\
+                    &  \mc{2}{c}{Urgency by} \\
+                    &  \mc{2}{c}{Concertación president} \\
+Concertación sponsors            &  yes           & no          \\ \hline
+all     &  \color{green}{\emph{39}}     & \color{red}{\emph{26}}   \\ 
+some    &  \emph{40}     & \emph{48}   \\
+none    &  \color{red}{\emph{21}}     & \color{green}{\emph{26}}   \\ \hline
+        &  \emph{100}    & \emph{100}  \\
+%(N)                 &      (230)     & (121)       \\
 \end{tabular}
 \end{center}
-Suggests vote trading?
 }
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\section{Prelim analysis}
+\section{Committee reporting}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \frame {                      % SLIDE
 
-    \frametitle{Urgency ripples}
+    \frametitle{Observable effects}
 
-Reversion is indeterminate, so deadline may be pure suggestion \\
-\textbf{Q:} Does action follow an urgency? \\
-\textbf{Q:} Is it punctual?
+Except 
+\be
+\item bills exempt from committee referral 
+\item bills already reported
+\ee
 
 \bigskip
 
-Committee reporting may be good step to trace movement
-\bi
-\item Some urgencies may target bills in post-committee bottleneck---not all/most
-\item Urgency compels a floor vote, so reporting committee(s) must consider and report
-\item Bills with authorization must be referred to Hacienda committee, no exception
-\ei
+\begin{tabular}{lcl}
+consequential urgency & $\longrightarrow$ & committee report follows \\
+                      & $\longrightarrow$ & report before deadline \\
+\end{tabular}
 
+\bigskip
+
+\bi
+\item Any authorization \textbf{must} be referred to Hacienda committee, no exception
+\item (2) above favors $H_0$
+\ei
+                    
 }
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \frame {                      % SLIDE
@@ -768,16 +753,15 @@ Committee reporting may be good step to trace movement
     \frametitle{Committee report after an urgency}
 
 \begin{center}
-\begin{tabular}{lrrr}
-                    &  \mc{3}{c}{Report observed within deadline} \\
-Message             &  ~~~~~~\% yes  &  ~~~~~~\% no   &  N     \\ \hline
-Act now             &  63      &  37      &  475   \\
-2-week notice       &  27      &  73      &  2192  \\
-4-week notice       &  25      &  75      &  1678  \\
-Deadline shortened  &  41      &  59      &  241   \\
-Deadline extended   &  23      &  77      &  3454  \\
-Withdrawn           &  6       &  94      &  211   \\ \hline
-All                 &  27      &  73      &  8251  \\
+\begin{tabular}{lr}
+Message             &  Report w/i deadline (\%) \\ \hline
+Act now             &  63     \\
+2-week notice       &  27     \\
+4-week notice       &  25     \\
+Deadline shortened  &  41     \\
+Deadline extended   &  23     \\
+Withdrawn           &  6      \\ \hline
+All                 &  27     \\
 \end{tabular}
 \end{center}
 
@@ -884,13 +868,13 @@ Negative binomial regression
                  & \mc{5}{c}{Weekly reports}     & \mc{5}{c}{Weekly reports}                      \\
 Type             & $t=0$    & 1        & 2       & 3       & 4         & $t=0$    & 1          & 2         & 3          & 4          \\ \hline
 %\mc{11}{l}{\emph{Urgency targets: exec.~bills referred to Hacienda committee}}                                                                \\
-                 &               \mc{5}{c|}{1: $u^e \rightarrow r^e$}  &           \mc{5}{c}{2: $u^e \rightarrow r^m$}                         \\ 
+                 &               \mc{5}{c|}{$u^e \rightarrow r^e$}  &           \mc{5}{c}{$u^e \rightarrow r^m$}                         \\ 
 Act Now          &   $++$   &  $+$     &   $--$  &         &           &          &  $++$      &           &            &            \\
 2-week notice    &          &  $++$    &         &    $--$ &           &     $++$ &  $-$       &  $++$     &            &            \\
 4-week notice    &          &          &         &    $++$ &      $++$ &          &            &           &            &            \\
 Shorten deadline &          &  $++$    &         &         &           &          &            &           &            &            \\ \hdashline
 %\mc{11}{l}{\emph{Urgency targets: MC~bills referred to Hacienda committee}}                                                                   \\
-                 &           \mc{5}{c|}{3: $u^e \rightarrow r^m$}      &              \mc{5}{c}{4: $u^m \rightarrow r^m$}                     \\ 
+                 &           \mc{5}{c|}{$u^m \rightarrow r^e$}      &              \mc{5}{c}{$u^m \rightarrow r^m$}                     \\ 
 Act Now          &          &          &         &         &           &     $++$ &  $++$      &           &            &            \\           
 2-week notice    & & \mc{3}{c}{\footnotesize{(not estimated)}} &       &          &            &  $++$     &      $++$  &            \\           
 4-week notice    &          &          &         &         &           &          &            &           &            &            \\           
@@ -910,58 +894,10 @@ Shorten deadline &          &          &         &         &           &        
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \frame {                      % SLIDE
 
-    \frametitle{Determinants of bill urgency}
-
-\begin{tabular}{lcc} 
- & \multicolumn{2}{c}{\textit{DV=1 if urgent, else 0}} \\ 
- & \multicolumn{1}{c}{(1)} & \multicolumn{1}{c}{(2)}\\ 
-\hline
- MC bill & $-2.978^{***}$ &  \\ 
-  % & (0.090) &  \\ 
-  % & & \\ 
- MC bill, opp.-sponsored &  & $-3.597^{***}$ \\ 
- %  &  & (0.137) \\ 
- %  & & \\ 
- MC bill, mix.-sponsored &  & $-2.517^{***}$ \\ 
- %  &  & (0.114) \\ 
- %  & & \\ 
- MC bill, pres. coal.-sp. &  & $-2.969^{***}$ \\ 
- %  &  & (0.126) \\ 
- %  & & \\ 
- Hacienda & $1.761^{***}$ & $1.782^{***}$ \\ 
- %  & (0.111) & (0.111) \\ 
- %  & & \\ 
- Senate majority & $-0.304^{***}$ & $-0.302^{***}$ \\ 
- %  & (0.086) & (0.086) \\ 
- %  & & \\ 
- Introduced Senate & $0.184^{*}$ & $0.415^{***}$ \\ 
- %  & (0.096) & (0.111) \\ 
- %  & & \\ 
- Pres.~term remaining & $0.004^{***}$ & $0.004^{***}$ \\ 
- %  & (0.002) & (0.002) \\ 
- %  & & \\ 
- Year remaining  & $0.003$ & $0.003^{*}$ \\ 
- %  & (0.002) & (0.002) \\ 
- %  & & \\ 
- Constant & $-0.047$ & $-0.113$ \\ 
- %  & (0.140) & (0.141) \\ 
- %  & & \\ 
-\hline \\[-1.8ex] 
-N & \multicolumn{1}{c}{6,987} & \multicolumn{1}{c}{6,987} \\ 
-Log$L$ & \multicolumn{1}{c}{$-2,057$} & \multicolumn{1}{c}{$-2,029$} \\ 
-\% predicted correctly & \multicolumn{1}{c}{89} & \multicolumn{1}{c}{89} \\ 
-%\textit{Note:}  & \multicolumn{2}{r}{$^{*}$p$<$0.1; $^{**}$p$<$0.05; $^{***}$p$<$0.01} \\ 
-\end{tabular} 
-
-
-}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\frame {                      % SLIDE
-
     \frametitle{Sequence: Piñera bills}
 
 \begin{tabular}{cc}
-\textbf{Sent to Senate} & \textbf{Sent to Deputies}\\
+\textbf{Sent to Senate} & \textbf{Sent to C\'amara}\\
  ($N=90$) & ($N=314$) \\
 
 \tikzstyle{mid}=[circle,draw]
@@ -970,9 +906,9 @@ Log$L$ & \multicolumn{1}{c}{$-2,057$} & \multicolumn{1}{c}{$-2,029$} \\
 \begin{tikzpicture}[shorten >=1pt,node distance=2cm,auto,scale=.27]
 \node at (-5,6) (st) {\footnotesize{\textbf{\texttt{start}}}};
 \node[mid]       at (0,0)   (p)  {\textbf{Exec.}};
-\node[mid,red]   at (0,6)   (n1) {\textbf{Orig.}};
-\node[mid,green] at (6,0)   (n2) {\textbf{Rev.}};
-\node[mid,red]   at (0,-6)  (n3) {\textbf{Orig.}};
+\node[mid,red]   at (0,6)   (n1) {\textbf{Sen.}};
+\node[mid,green] at (6,0)   (n2) {\textbf{C\'am.}};
+\node[mid,red]   at (0,-6)  (n3) {\textbf{Sen.}};
 \node[mid]       at (-6,0)  (c)  {\textbf{Conf.}};
 %\node[middot]    at (2,3)   (u)  {$u$};
 %\node[middot]    at (3,-2)  (v)  {$u$};
@@ -1014,9 +950,9 @@ Log$L$ & \multicolumn{1}{c}{$-2,057$} & \multicolumn{1}{c}{$-2,029$} \\
 %\draw[help lines] (-6,-6) grid (6,6);
 \node at (-5,6) (st) {\footnotesize{\textbf{\texttt{start}}}};
 \node[mid]     at (0,0)   (p)  {\textbf{Exec.}};
-\node[mid,green] at (0,6)   (n1) {\textbf{Orig.}};
-\node[mid,red]   at (6,0)   (n2) {\textbf{Rev.}};
-\node[mid,green] at (0,-6)  (n3) {\textbf{Orig.}};
+\node[mid,green] at (0,6)   (n1) {\textbf{C\'am.}};
+\node[mid,red]   at (6,0)   (n2) {\textbf{Sen.}};
+\node[mid,green] at (0,-6)  (n3) {\textbf{C\'am.}};
 \node[mid]       at (-6,0)  (c)  {\textbf{Conf.}};
 %\node[middot]    at (2,3)   (u)  {$u$};
 %\node[middot]    at (3,-2)  (v)  {$u$};
@@ -1058,7 +994,7 @@ Log$L$ & \multicolumn{1}{c}{$-2,057$} & \multicolumn{1}{c}{$-2,029$} \\
     \frametitle{Sequence: Piñera bills}
 
 \begin{tabular}{cc}
-\textbf{Sent to Senate} & \textbf{Sent to Deputies}\\
+\textbf{Sent to Senate} & \textbf{Sent to C\'amara}\\
  ($N=90$) & ($N=314$) \\
 
 \tikzstyle{mid}=[circle,draw]
@@ -1068,9 +1004,9 @@ Log$L$ & \multicolumn{1}{c}{$-2,057$} & \multicolumn{1}{c}{$-2,029$} \\
 %\draw[help lines] (-6,-6) grid (6,6);
 \node at (-5,6) (st) {\footnotesize{\textbf{\texttt{start}}}};
 \node[mid]       at (0,0)   (p)  {\textbf{Exec.}};
-\node[mid,red]   at (0,6)   (n1) {\textbf{Orig.}};
-\node[mid,green] at (6,0)   (n2) {\textbf{Rev.}};
-\node[mid,red]   at (0,-6)  (n3) {\textbf{Orig.}};
+\node[mid,red]   at (0,6)   (n1) {\textbf{Sen.}};
+\node[mid,green] at (6,0)   (n2) {\textbf{C\'am.}};
+\node[mid,red]   at (0,-6)  (n3) {\textbf{Sen.}};
 \node[mid]       at (-6,0)  (c)  {\textbf{Conf.}};
 \node[middot]    at (2,3)   (u)  {$u$};
 \node[middot]    at (3,-2)  (v)  {$u$};
@@ -1112,9 +1048,9 @@ Log$L$ & \multicolumn{1}{c}{$-2,057$} & \multicolumn{1}{c}{$-2,029$} \\
 %\draw[help lines] (-6,-6) grid (6,6);
 \node at (-5,6) (st) {\footnotesize{\textbf{\texttt{start}}}};
 \node[mid]     at (0,0)   (p)  {\textbf{Exec.}};
-\node[mid,green] at (0,6)   (n1) {\textbf{Orig.}};
-\node[mid,red]   at (6,0)   (n2) {\textbf{Rev.}};
-\node[mid,green] at (0,-6)  (n3) {\textbf{Orig.}};
+\node[mid,green] at (0,6)   (n1) {\textbf{C\'am.}};
+\node[mid,red]   at (6,0)   (n2) {\textbf{Sen.}};
+\node[mid,green] at (0,-6)  (n3) {\textbf{C\'am.}};
 \node[mid]       at (-6,0)  (c)  {\textbf{Conf.}};
 \node[middot]    at (2,3)   (u)  {$u$};
 \node[middot]    at (3,-2)  (v)  {$u$};
@@ -1153,25 +1089,46 @@ Log$L$ & \multicolumn{1}{c}{$-2,057$} & \multicolumn{1}{c}{$-2,029$} \\
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \section{Where next?}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Two intuitions}
+
+\begin{center}
+schedule now $\neq$ passage \\ certainly, but
+\end{center}
+
+\bigskip
+
+\be
+\item Imperfect negative agenda control
+  \bi
+  \item Committee gatekeeking $\rightarrow$ silent death \\ (Weingast\&Marshall 1988)
+  \item Could majority cartel operate? Must include president \\ (Cox\&McCubbins 2005)
+  \ei
+\item Dilatory tactics
+  \bi
+  \item Worsen legislative bottleneck (Cox 1987)
+  \item Exploit impatience of those next in line \\ (Wawro\&Schickler 2007)
+  \ei
+\ee
+
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 
 \frame {                      % SLIDE
 
-    \frametitle{Wrap up}
+    \frametitle{Wrap-up}
 
 \bi
-\item Monthly bills newly declared urgent went from 8 to 30
-\item One in five messages withdraw an urgency
+\item Chile's urgency auth.~consequential iff $k>o$
+\item Corr(degree,$k$)>0, `4 week' freq.~ puzzling
+\item Urgency triggers timely reports
+\item 2/5 messages extend deadline, 1/5 withdraw urgency
   \be
   \item Which exec.\ proposals not urgent? 
-  \item How do MC proposals become urgent?
+  \item How do member proposals become urgent? Vote trading?
   \ee
-      
-\item Forest out of sight? Model hunting
-  \be
-  \item Gains from trade and credible commitment?
-  \item Dilatory tactics, scheduling?
-  \item ...
-  \ee
+\item Better identification for selection problems
 \ei
 
 
@@ -1190,6 +1147,32 @@ Log$L$ & \multicolumn{1}{c}{$-2,057$} & \multicolumn{1}{c}{$-2,029$} \\
 \Large
 \centering
 \textbf{Extra material}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Original data}
+
+\href{http://www.camara.cl/pley/pley_detalle.aspx?prmID=498&prmBL=2035-06}{\url{www.camara.cl}} very sharp \\
+Scraped with \texttt{Python}'s Selenium library $\rightarrow$ \alert{bill histories 1990--2014}
+
+\bigskip
+
+\includegraphics[width=\columnwidth]{../../graphs/hit.png} \\
+
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Original data}
+
+\href{http://www.camara.cl/pley/pley_detalle.aspx?prmID=498&prmBL=2035-06}{\url{www.camara.cl}} very sharp \\
+Scraped with \texttt{Python}'s Selenium library $\rightarrow$ \alert{bill histories 1990--2014}
+
+\bigskip
+
+\includegraphics[width=\columnwidth]{../../graphs/urg.png} \\
+
 }
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
 \frame {                      % SLIDE
