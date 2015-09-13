@@ -12,7 +12,8 @@
      "T:billFreqByNurg"
      "f:depvarHistog"
      "T:sponsorsOfUrgBills"
-     "t:logit"
+     "t:urgenLogit"
+     "t:chainsRegs"
      "F:billPaths"
      "t:negbin")
     (TeX-add-symbols

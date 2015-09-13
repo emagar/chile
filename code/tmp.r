@@ -144,26 +144,24 @@ sel <- which(chainsAll$on >= dmy("1-7-2010", tz = "chile")); chainsAll$dreform20
 #
 # chain in senate
 chainsAll$dsen <- as.numeric(chainsAll$tramite=="sen")
-
-chainsAll[1,]
-table(year(chainsAll$on), chainsAll$legis)
-
-fit1 <- glm(danyReportwiDeadline ~ d2wk + d4wk + dextend + dwithdr + dmocion + dreform2010, data = chainsHda, family = binomial(link = logit))
-fit2 <- glm(dhdaReportwiDeadline ~ as.factor(typeN) + dmocion + dmajSen + dsen + pterm + legyr + dreform2010, data = chainsHda, family = binomial(link = logit))
-fit3 <- glm(dhdaReportwiDeadline ~ as.factor(typeN) + dmocionAllPdt + dmocionMix + dmocionAllOpp + dmajSen + dsen + pterm + legyr + dreform2010, data = chainsHda, family = binomial(link = logit))
-fit4 <- glm(dhdaReportwiDeadline ~ as.factor(typeN) + dmocionAllPdt + dmocionMix + dmocionAllOpp + dmajSen + dsen + pterm + legyr + dreform2010 + as.factor(legis), data = chainsHda, family = binomial(link = logit))
-library(Zelig) # for clustered errors ### NOT WORKING, SEs IDENTICAL
-fit5 <- zelig(dhdaReportwiDeadline ~ as.factor(typeN) + dmocionAllPdt + dmocionMix + dmocionAllOpp + dmajSen + dsen + pterm + legyr + dreform2010, data = chainsHda, model = "logit", robust = TRUE, cluster = "legis")
 #
-summary(fit3)
-round(table(chainsHda$typeN)/length(chainsHda$typeN), 2)
-
+fit1 <- glm(danyReportwiDeadline ~ d2wk + d4wk + dextend + dwithdr + dmocion                                    + dmajSen + dsen + pterm + legyr + dreform2010                   , data = chainsAll, family = binomial(link = logit))
+fit2 <- glm(danyReportwiDeadline ~ d2wk + d4wk + dextend + dwithdr + dmocionAllPdt + dmocionMix + dmocionAllOpp + dmajSen + dsen + pterm + legyr + dreform2010, data = chainsAll, family = binomial(link = logit))
+fit3 <- glm(danyReportwiDeadline ~ d2wk + d4wk + dextend + dwithdr + dmocionAllPdt + dmocionMix + dmocionAllOpp + dmajSen + dsen + pterm + legyr + dreform2010 + as.factor(legis), data = chainsAll, family = binomial(link = logit))
+fit4 <- glm(danyReportwiDeadline ~ as.factor(typeN)                + dmocion                                    + dmajSen + dsen + pterm + legyr + dreform2010, data = chainsAll, family = binomial(link = logit))
+fit5 <- glm(danyReportwiDeadline ~ as.factor(typeN)                + dmocionAllPdt + dmocionMix + dmocionAllOpp + dmajSen + dsen + pterm + legyr + dreform2010, data = chainsAll, family = binomial(link = logit))
+## library(Zelig) # for clustered errors ### NOT WORKING, SEs IDENTICAL
+## fit6 <- zelig(danyReportwiDeadline ~ as.factor(typeN) + dmocionAllPdt + dmocionMix + dmocionAllOpp + dmajSen + dsen + pterm + legyr + dreform2010, data = chainsAll, model = "logit", robust = TRUE, cluster = "legis")
+#
+summary(fit1)
+round(table(chainsAll$typeN)/length(chainsAll$typeN), 2)
+#
 pred1 <- predict(fit1, type = "response"); pred1[pred1>=.5] <- 1; pred1[pred1<.5] <- 0
-table(chainsHda$dhdaReportwiDeadline - pred1) / nrow(chainsHda) # pct correctly predicted
+table(chainsAll$danyReportwiDeadline - pred1) / nrow(chainsHda) # pct correctly predicted
 pred2 <- predict(fit2, type = "response"); pred2[pred2>=.5] <- 1; pred2[pred2<.5] <- 0
-table(chainsHda$dhdaReportwiDeadline - pred2) / nrow(chainsHda) # pct correctly predicted
+table(chainsAll$danyReportwiDeadline - pred2) / nrow(chainsHda) # pct correctly predicted
 pred3 <- predict(fit3, type = "response"); pred3[pred3>=.5] <- 1; pred3[pred3<.5] <- 0
-table(chainsHda$dhdaReportwiDeadline - pred3) / nrow(chainsHda) # pct correctly predicted
+table(chainsAll$danyReportwiDeadline - pred3) / nrow(chainsHda) # pct correctly predicted
 # export to latex
 library(stargazer)
 stargazer(fit2, fit3, title="Regression results", align=TRUE,
@@ -190,12 +188,11 @@ stargazer(fit2, fit3, title="Regression results", align=TRUE,
    "Post relax",
    "Constant")
           )
-
 #
 # periodize table
-sel <- which(chainsHda$dleg98==1); round(table(chainsHda$typeN[sel])*100/length(chainsHda$typeN[sel]), 0); length(chainsHda$typeN[sel])
-sel <- which(chainsHda$dleg02==1); round(table(chainsHda$typeN[sel])*100/length(chainsHda$typeN[sel]), 0); length(chainsHda$typeN[sel])
-sel <- which(chainsHda$dleg06==1); round(table(chainsHda$typeN[sel])*100/length(chainsHda$typeN[sel]), 0); length(chainsHda$typeN[sel])
-sel <- which(chainsHda$dleg10==1); round(table(chainsHda$typeN[sel])*100/length(chainsHda$typeN[sel]), 0); length(chainsHda$typeN[sel])
+sel <- which(chainsAll$dleg98==1); round(table(chainsAll$typeN[sel])*100/length(chainsAll$typeN[sel]), 0); length(chainsAll$typeN[sel])
+sel <- which(chainsAll$dleg02==1); round(table(chainsAll$typeN[sel])*100/length(chainsAll$typeN[sel]), 0); length(chainsAll$typeN[sel])
+sel <- which(chainsAll$dleg06==1); round(table(chainsAll$typeN[sel])*100/length(chainsAll$typeN[sel]), 0); length(chainsAll$typeN[sel])
+sel <- which(chainsAll$dleg10==1); round(table(chainsAll$typeN[sel])*100/length(chainsAll$typeN[sel]), 0); length(chainsAll$typeN[sel])
 
 

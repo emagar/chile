@@ -2953,7 +2953,7 @@ for (i in 1:nrow(tmpSel)){
     ##     #j <- 2 # debug
     ##     if (tmpBillUrg$on[j]==tmpBillUrg$off[j-1] & tmpBillUrg$tramite[j]==tmpBillUrg$tramite[j-1]) tmpBillUrg$chain2[j] <- 1;
     ## }
-# Computes chains using two criteria: equal on/off dates or equal on/off message numbers (when both info available) and equal on/off dates only (when message number missing)---sometimes on and off dates differ by 1 day, yet same message number indicates that exec is resetting urgency deadline and terms, eg bol=="372-15". [Added 12sep2015: Previous method misses chains that lack off message number (eg. bol=7007-18). Should change tmpBillUrg$on[j]==tmpBillUrg$off[j-1] with tmpBillUrg$on[j]<=tmpBillUrg$off[j-1]?
+# Computes chains using two criteria: equal on/off dates or equal on/off message numbers (when both info available) and equal on/off dates only (when message number missing)---sometimes on and off dates differ by 1 day, yet same message number indicates that exec is resetting urgency deadline and terms, eg bol=="372-15"
     for (j in 2:U){
         #j <- 2 # debug
         if (tmpBillUrg$on[j]==tmpBillUrg$off[j-1] &         # with dates
@@ -5724,6 +5724,8 @@ round(table(allUrg$chains$typeN[sel])*100/length(sel),0); length(sel)
 bills$info$legyr <- bills$info$legyr + 1989
 #
 table(bills$info$dmensaje, bills$info$legyr) # size of pdt's agenda, use to code variable
+
+allUrg$chains$bol[allUrg$chains$links==5]
 
 
 # LOGIT ON WHETHER NOT BILL DECLARED URGENT
