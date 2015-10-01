@@ -475,7 +475,7 @@ dev.off()
 #}
 # add empty line here to run block
 #
-rm(clr,dipUrg,i,N,outl,outlDtes,sel,sel2,senUrg,smbl,tmp,tmpDip,tmpSen,x,y,yrs,ze31s,ze33s,ze34s,ze35s,zemax)
+rm(clr,i,N,outl,outlDtes,sel,sel2,smbl,tmp,tmpDip,tmpSen,x,y,yrs,ze31s,ze33s,ze34s,ze35s,zemax)
 
 
 # SESSION WEEKLY HISTOGRAMS THAT ARE SMALLER THAN PREVIOUS (RUN PREVIOUS BLOCK'S PREP BLOCK). INCLUDES DESCRIPTIVES AT END
@@ -484,9 +484,11 @@ rm(i,N,sel,tmp,tmpDip,tmpSen)
 dipUrg$nUrgOrigSes <- as.numeric(dipUrg$typeN==1 | dipUrg$typeN==2 | dipUrg$typeN==3)
 senUrg$nUrgOrigSes <- as.numeric(senUrg$typeN==1 | senUrg$typeN==2 | senUrg$typeN==3)
 #
+
 ##########################################################
 yrs <- 1998 # <--- select start of legislative year here
 ##########################################################
+prez <- rep(".",2013); prez[1998:1999] <- "Frei"; prez[2000:2005] <- "Lagos"; prez[2006:2009] <- "Bachelet"; prez[2010:2013] <- "Piñera"
 for (yrs in 1998:2013){
 sel <- which(dipUrg$onGraph>dmy(paste("10/03/", yrs, sep = ""), tz = "chile") & dipUrg$onGraph<dmy(paste("11/03/", (yrs+1), sep = ""), tz = "chile"))
 # dip positive
@@ -527,7 +529,7 @@ Cairo(file = file,
       dpi = 72,
       bg = "transparent")
 par(mar=c(3,4,4,2)+0.1) # drop title space
-plot(c(start, end), c(-30,30), type = "n", axes = FALSE, main = paste(yrs, "-", (yrs+1), sep = ""), xlab = "", ylab = "Sen. <- Freq. -> Dep.", ylim = c(-43,43), yaxs = "i") # yaxs = "i" removes pretty extra space beyond ylim
+plot(c(start, end), c(-30,30), type = "n", axes = FALSE, main = paste(yrs, "-", (yrs+1), " (", prez[yrs], ")", sep = ""), xlab = "", ylab = "Sen. <- Freq. -> Cám.", ylim = c(-43,43), yaxs = "i") # yaxs = "i" removes pretty extra space beyond ylim
 abline(h=0, col = "red")
 abline(h=(1:8)*5, col = "grey")
 abline(h=(-1:-8)*5, col = "grey")
@@ -584,6 +586,9 @@ dev.off()
 }
 #
 # add space here to run plot block
+
+dipUrg$nUrgSes
+dipUrg$nUrgOrigSes
 
 #
 # descrptive of manipulated data

@@ -11,7 +11,14 @@
 .Rproj.user/
 
 # emacs backups
-*.*~
+custom.el
+\#*
+org-mode-config.el
+org-clock-save.el
+*~
+.#*
+.DS_Store
+emacs-config.el
 
 # latex files
 *.aux

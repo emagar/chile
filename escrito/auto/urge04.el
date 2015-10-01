@@ -4,21 +4,20 @@
      "/home/eric/Dropbox/mydocs/magar")
     (LaTeX-add-labels
      "f:costly"
-     "t:exBillFail"
      "f:chiUruEql"
      "t:congressSeats"
-     "t:freqUrg"
      "T:billDescriptives"
-     "T:billFreqByNurg"
+     "t:freqUrg"
      "f:depvarHistog"
      "T:sponsorsOfUrgBills"
      "t:urgenLogit"
      "t:chainsRegs"
-     "F:billPaths"
-     "t:negbin")
+     "t:negbin"
+     "F:billPaths")
     (TeX-add-symbols
      '("emm" 1)
-     "mc")
+     "mc"
+     "mygt")
     (TeX-run-style-hooks
      "todonotes"
      "textsize=small"

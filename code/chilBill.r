@@ -2943,7 +2943,7 @@ for (i in 1:nrow(tmpSel)){
     if (U==1) next         # cases with single urgencia 
     for (j in 1:(U-1)){ # recode dretir with on/off dates and same trámite (conf,veto,trib taken as same trámite)
         #j <- 1 #debug
-        if (tmpBillUrg$off[j]==tmpBillUrg$on[j+1] &
+        if (tmpBillUrg$off[j]>=tmpBillUrg$on[j+1] &
             (tmpBillUrg$tramite[j]==tmpBillUrg$tramite[j+1] |
              tmpBillUrg$tramite[j+1]=="conf" |
              tmpBillUrg$tramite[j+1]=="veto" |
@@ -2956,12 +2956,12 @@ for (i in 1:nrow(tmpSel)){
 # Computes chains using two criteria: equal on/off dates or equal on/off message numbers (when both info available) and equal on/off dates only (when message number missing)---sometimes on and off dates differ by 1 day, yet same message number indicates that exec is resetting urgency deadline and terms, eg bol=="372-15". [Added 12sep2015: Previous method misses chains that lack off message number (eg. bol=7007-18). Should change tmpBillUrg$on[j]==tmpBillUrg$off[j-1] with tmpBillUrg$on[j]<=tmpBillUrg$off[j-1]?
     for (j in 2:U){
         #j <- 2 # debug
-        if (tmpBillUrg$on[j]==tmpBillUrg$off[j-1] &         # with dates
+        if (tmpBillUrg$on[j]<=tmpBillUrg$off[j-1] &         # with dates
             (tmpBillUrg$tramite[j]==tmpBillUrg$tramite[j-1] |
              tmpBillUrg$tramite[j]=="conf" |
              tmpBillUrg$tramite[j]=="veto" |
              tmpBillUrg$tramite[j]=="trib")) tmpBillUrg$chain2[j] <- 1;
-        if ((tmpBillUrg$on[j]==tmpBillUrg$off[j-1] |         # with dates
+        if ((tmpBillUrg$on[j]<=tmpBillUrg$off[j-1] |         # with dates
              tmpBillUrg$msgOn[j]==tmpBillUrg$msgOff[j-1]) &  # and message numbers
             (tmpBillUrg$tramite[j]==tmpBillUrg$tramite[j-1] |
              tmpBillUrg$tramite[j]=="conf" |
@@ -4650,14 +4650,17 @@ library(lubridate); library(plyr)
 
 ### summarize weekly reports
 #tmp <- RepDataNegBin$weeklyReportsAndUrgenciasToAllBills
-tmp <- RepDataNegBin$weeklyHaciendaReportsAndUrgenciasToAllBillsInHaciendaComm
+tmp <- RepDataNegBin$weeklyReportsAndUrgenciasToAllBills
 colnames(tmp)
-date1 <- dmy("10-03-2010", tz="chile")
+date1 <- dmy("10-03-1998", tz="chile")
 date2 <- dmy("10-03-2014", tz="chile")
 sel <- which(tmp$week >= year(date1) + week(date1)/100  & tmp$week < year(date2) + week(date2)/100)
+round(table(tmp$nrepMenDip[sel] + tmp$nrepMocDip[sel])/length(sel),2)
 median(tmp$nrepMenDip[sel] + tmp$nrepMocDip[sel])
 mad(tmp$nrepMenDip[sel] + tmp$nrepMocDip[sel])    # median absolute deviation
 rm(tmp, date1, date2)
+
+summary(RepDataNegBin)
 
 ##########################################################################################
 ## Regression of Hda Reports to Exec bills on Urgencies to Exec bills ref to Hda  DIP   ##
@@ -5566,7 +5569,10 @@ bills$info$pctright <- round(bills$info$pctright, digits = 0)
 #
 rm(i, j, mcs, n, sel, tmp, tmphits, tmplook)
 
-
+sel <- which(allUrg$chains$bol=="7007-18")
+allUrg$chains[sel,]
+sel <- which(allUrg$messages$bol=="7007-18")
+allUrg$messages[sel,]
 
 # SOME DESCRIPTIVES (Processed in separate spreadsheet descriptives.ods)
 table(bills$info$dmensaje)
@@ -5719,6 +5725,10 @@ sel <- which(keep==1 & allUrg$chains$on >= tmp[6] & allUrg$chains$on < tmp[7])
 round(table(allUrg$chains$typeN[sel])*100/length(sel),0); length(sel)
 sel <- which(keep==1 & allUrg$chains$on >= tmp[3] & allUrg$chains$on < tmp[7])
 round(table(allUrg$chains$typeN[sel])*100/length(sel),0); length(sel)
+#
+# chains dropped because targeted to bills started before the period
+drop <- which(allUrg$chains$on < tmp[3])
+length(keep[-drop]); sum(keep[-drop]); length(keep[-drop]) - sum(keep[-drop]); 
 
 # recode leg year to indicate 1990 for 1990-91, etc
 bills$info$legyr <- bills$info$legyr + 1989
@@ -5842,14 +5852,19 @@ library(lme4)
 fit4 <- glmer(dv ~ dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda + dmajSen + dinSen + ptermR + legyrR + dreform2010 + (1|legis), data = tmpdat, family = binomial(link ="logit"))
 ## fit5 <- glm(dv1 ~ dmocion                                    + drefHda + dmajSen + dinSen + ptermR + legyrR + dreform2010                   , data = tmpdat, family = binomial(link = logit))
 ## etc...
-
+#
 summary(fit1)
 summary(fit2)
 summary(fit3)
 summary(fit4)
 library(arm)
 display(fit4)            
-            
+#
+# LR tests of overall model fit (vs. intercept-only model, see http://www.ats.ucla.edu/stat/r/dae/logit.htm)
+with(fit1, null.deviance - deviance)
+with(fit1, df.null - df.residual)
+with(fit1, pchisq(null.deviance - deviance, df.null - df.residual, lower.tail = FALSE))
+#
 pred1 <- predict(fit1, type = "response"); pred1[pred1>=.5] <- 1; pred1[pred1<.5] <- 0
 table(tmpdat$dv - pred1) / nrow(tmpdat) # pct correctly predicted
 pred2 <- predict(fit2, type = "response"); pred2[pred2>=.5] <- 1; pred2[pred2<.5] <- 0
@@ -5917,8 +5932,8 @@ for (i in 1:length(target)){ # loop over boletines
     chainsHda$danyReportwiDeadline[sel] <- tmpCh$danyReportwiDeadline
     chainsHda$dhdaReportwiDeadline[sel] <- tmpCh$dhdaReportwiDeadline
 }
-table(chainsHda$danyReportwiDeadline)
-table(chainsHda$dhdaReportwiDeadline)
+table(chainsHda$dhdaReportwiDeadline, chainsHda$typeN)
+round(as.vector(table(chainsHda$dhdaReportwiDeadline[chainsHda$dhdaReportwiDeadline==1], chainsHda$typeN[chainsHda$dhdaReportwiDeadline==1])) / table(chainsHda$typeN), 2)
 #
 # create IVs
 chainsHda$dactNow <- as.numeric(chainsHda$typeN==1 | chainsHda$typeN==1.4 | chainsHda$typeN==1.45 | chainsHda$typeN==1.5)
@@ -6045,8 +6060,15 @@ fit4 <- glmer(dhdaReportwiDeadline ~ d2wk + d4wk + dextend + dwithdr +dmocionAll
 fit5 <- glm(dhdaReportwiDeadline ~ as.factor(typeN)                + dmocion                                    + dmajSen + dsen + pterm + legyr + dreform2010, data = chainsHda, family = binomial(link = logit))
 fit6 <- glm(dhdaReportwiDeadline ~ as.factor(typeN)                + dmocionAllPdt + dmocionMix + dmocionAllOpp + dmajSen + dsen + pterm + legyr + dreform2010, data = chainsHda, family = binomial(link = logit))
 #
-summary(fit4)
+summary(fit5)
 round(table(chainsHda$typeN)/length(chainsHda$typeN), 2)
+library(arm)
+display(fit4)            
+#
+# LR tests of overall model fit (vs. intercept-only model, see http://www.ats.ucla.edu/stat/r/dae/logit.htm)
+with(fit1, null.deviance - deviance)
+with(fit1, df.null - df.residual)
+with(fit1, pchisq(null.deviance - deviance, df.null - df.residual, lower.tail = FALSE))
 #
 pred1 <- predict(fit1, type = "response"); pred1[pred1>=.5] <- 1; pred1[pred1<.5] <- 0
 table(chainsHda$dhdaReportwiDeadline - pred1) / nrow(chainsHda) # pct correctly predicted
@@ -6056,6 +6078,9 @@ pred3 <- predict(fit3, type = "response"); pred3[pred3>=.5] <- 1; pred3[pred3<.5
 table(chainsHda$dhdaReportwiDeadline - pred3) / nrow(chainsHda) # pct correctly predicted
 pred4 <- predict(fit4, type = "response"); pred4[pred4>=.5] <- 1; pred4[pred4<.5] <- 0
 table(chainsHda$dhdaReportwiDeadline - pred4) / nrow(chainsHda) # pct correctly predicted
+#
+# AQUI INTENTO FALLIDO DE HACER SIMULACIONES (lo guardé en postEstSimsReportLogitChains.r)
+#
 # export to latex
 library(stargazer)
 stargazer(fit1, fit2, fit3, fit4, title="Regression results", align=TRUE, report = ('vc*p'),
