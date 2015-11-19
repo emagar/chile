@@ -4660,7 +4660,78 @@ median(tmp$nrepMenDip[sel] + tmp$nrepMocDip[sel])
 mad(tmp$nrepMenDip[sel] + tmp$nrepMocDip[sel])    # median absolute deviation
 rm(tmp, date1, date2)
 
-summary(RepDataNegBin)
+# add presidential approval data (semester measures approx, so midpoints taken to compute from-to intervals)
+from <- c("01/01/1998", "03/17/1998", "11/15/1998", "07/16/1999", "05/01/2000", "03/02/2001", "09/16/2001", "04/01/2002", "09/15/2002", "03/17/2003", "09/15/2003", "03/16/2004", "09/15/2004", "03/17/2005", "08/31/2005", "03/02/2006", "09/15/2006", "03/02/2007", "08/31/2007", "03/01/2008", "08/31/2008", "03/02/2009", "07/01/2009", "08/31/2009", "02/14/2010", "09/15/2010", "03/17/2011", "09/15/2011", "01/31/2012", "06/01/2012", "10/01/2012", "04/01/2013", "08/31/2013")
+to <- c("03/17/1998", "11/15/1998", "07/16/1999", "05/01/2000", "03/02/2001", "09/16/2001", "04/01/2002", "09/15/2002", "03/17/2003", "09/15/2003", "03/16/2004", "09/15/2004", "03/17/2005", "08/31/2005", "03/02/2006", "09/15/2006", "03/02/2007", "08/31/2007", "03/01/2008", "08/31/2008", "03/02/2009", "07/01/2009", "08/31/2009", "02/14/2010", "09/15/2010", "03/17/2011", "09/15/2011", "01/31/2012", "06/01/2012", "10/01/2012", "04/01/2013", "08/31/2013", "03/21/2014")
+from <- mdy(from, tz = "chile"); to <- mdy(to, tz = "chile")
+approv <- data.frame(from=from, to=to); rm(from,to)
+approv$ap <- c(33.3, 37, 32, 28, 48.6, 40.6, 44.4, 42.5, 41.1, 46, 47.4, 57.5, 60.7, 61.2, 58.9, 45.8, 51.7, 40.9, 38.8, 39.6, 43, 66.5, 72.3, 77.6, 45, 44.3, 26.3, 22.8, 23.6, 27.4, 31.4, 31.5, 34.2)
+approv$dis <- c(37.1, 36, 40, 44, 26.3, 36.4, 31.2, 29.4, 30.4, 26.2, 23.7, 21.7, 17.6, 18, 22.7, 30.5, 31.2, 40.7, 42.1, 42.9, 38.1, 17.6, 14.5, 11.3, 28.7, 33.6, 52.6, 62, 59.2, 52.3, 50.6, 43.9, 46.2)
+approv$net <- approv$ap - approv$dis
+approv$fromWeek <- year(approv$from) + week(approv$from)/100
+approv$toWeek <- year(approv$to) + week(approv$to)/100
+tail(approv)
+
+# paste approval data to weekly urgency data
+RepDataNegBin$weeklyHaciendaReportsAndUrgenciasToMensajesInHaciendaComm$netApprov <- NA
+for (i in 1:nrow(approv)){
+    #i <- 1 # debug
+    sel <- which(RepDataNegBin$weeklyHaciendaReportsAndUrgenciasToMensajesInHaciendaComm$week >= approv$fromWeek[i] & RepDataNegBin$weeklyHaciendaReportsAndUrgenciasToMensajesInHaciendaComm$week < approv$toWeek[i])
+    RepDataNegBin$weeklyHaciendaReportsAndUrgenciasToMensajesInHaciendaComm$netApprov[sel] <- approv$net[i]
+}
+#
+RepDataNegBin$weeklyHaciendaReportsAndUrgenciasToMocionesInHaciendaComm$netApprov <- NA
+for (i in 1:nrow(approv)){
+    #i <- 1 # debug
+    sel <- which(RepDataNegBin$weeklyHaciendaReportsAndUrgenciasToMocionesInHaciendaComm$week >= approv$fromWeek[i] & RepDataNegBin$weeklyHaciendaReportsAndUrgenciasToMocionesInHaciendaComm$week < approv$toWeek[i])
+    RepDataNegBin$weeklyHaciendaReportsAndUrgenciasToMocionesInHaciendaComm$netApprov[sel] <- approv$net[i]
+}
+#
+RepDataNegBin$weeklyHaciendaReportsAndUrgenciasToAllBillsInHaciendaComm$netApprov <- NA
+for (i in 1:nrow(approv)){
+    #i <- 1 # debug
+    sel <- which(RepDataNegBin$weeklyHaciendaReportsAndUrgenciasToAllBillsInHaciendaComm$week >= approv$fromWeek[i] & RepDataNegBin$weeklyHaciendaReportsAndUrgenciasToAllBillsInHaciendaComm$week < approv$toWeek[i])
+    RepDataNegBin$weeklyHaciendaReportsAndUrgenciasToAllBillsInHaciendaComm$netApprov[sel] <- approv$net[i]
+}
+#
+RepDataNegBin$weeklyReportsAndUrgenciasToMensajes$netApprov <- NA
+for (i in 1:nrow(approv)){
+    #i <- 1 # debug
+    sel <- which(RepDataNegBin$weeklyReportsAndUrgenciasToMensajes$week >= approv$fromWeek[i] & RepDataNegBin$weeklyReportsAndUrgenciasToMensajes$week < approv$toWeek[i])
+    RepDataNegBin$weeklyReportsAndUrgenciasToMensajes$netApprov[sel] <- approv$net[i]
+}
+#
+RepDataNegBin$weeklyReportsAndUrgenciasToMociones$netApprov <- NA
+for (i in 1:nrow(approv)){
+    #i <- 1 # debug
+    sel <- which(RepDataNegBin$weeklyReportsAndUrgenciasToMociones$week >= approv$fromWeek[i] & RepDataNegBin$weeklyReportsAndUrgenciasToMociones$week < approv$toWeek[i])
+    RepDataNegBin$weeklyReportsAndUrgenciasToMociones$netApprov[sel] <- approv$net[i]
+}
+#
+RepDataNegBin$weeklyReportsAndUrgenciasToAllBills$netApprov <- NA
+for (i in 1:nrow(approv)){
+    #i <- 1 # debug
+    sel <- which(RepDataNegBin$weeklyReportsAndUrgenciasToAllBills$week >= approv$fromWeek[i] & RepDataNegBin$weeklyReportsAndUrgenciasToAllBills$week < approv$toWeek[i])
+    RepDataNegBin$weeklyReportsAndUrgenciasToAllBills$netApprov[sel] <- approv$net[i]
+}
+#
+# paste approval data to bills' info
+bills$info$netApprov <- NA
+for (i in 1:nrow(bills$info)){
+    #i <- 1 # debug
+    message(sprintf("loop %s of %s", i, nrow(bills$info)))
+    sel <- which(bills$info$dateIn >= approv$from[i] & bills$info$dateIn < approv$to[i])
+    bills$info$netApprov[sel] <- approv$net[i]
+}
+#
+# paste approval data to urgency chains
+allUrg$chains$netApprov <- NA
+for (i in 1:nrow(allUrg$chains)){
+    #i <- 1 # debug
+    message(sprintf("loop %s of %s", i, nrow(allUrg$chains)))
+    sel <- which(allUrg$chains$on >= approv$from[i] & allUrg$chains$on < approv$to[i])
+    allUrg$chains$netApprov[sel] <- approv$net[i]
+}
 
 ##########################################################################################
 ## Regression of Hda Reports to Exec bills on Urgencies to Exec bills ref to Hda  DIP   ##
@@ -4755,10 +4826,11 @@ fit <- glm.nb(nrepMen ~ nNow      + nNowl1     + nNowl2
 #                                  + nRetirel1  + nRetirel2  + nRetirel3 
 #                      + dmaj
                       + dterm
+                      + netApprov
                       + dleg10
                         , data=dat)
 #
-#summary.glm(fit)$coefficients
+summary.glm(fit)$coefficients
 #summary.glm(fit)
 message(msg); rm(msg)
 data.frame( coef=ifelse(coef(fit) > 0 & summary.glm(fit)$coefficients[,4]>=.10  & summary.glm(fit)$coefficients[,4]<.20, "+ ",
@@ -4768,6 +4840,8 @@ data.frame( coef=ifelse(coef(fit) > 0 & summary.glm(fit)$coefficients[,4]>=.10  
             ". ")))) )
 #
 # SPACE HERE TO RERUN NEGBIN
+fit11 <- fit
+
 #
 ############################################################################################
 ## Regression of All Reports to Exec bills on Urgencies to Exec bills ref anywhere  DIP   ##
@@ -4859,10 +4933,11 @@ fit <- glm.nb(nrepMen ~ nNow      + nNowl1     + nNowl2
 #                                  + nRetirel1  + nRetirel2  + nRetirel3 
 #                      + dmaj
                       + dterm
+                      + netApprov
                       + dleg10
                         , data=dat)
 #
-#summary.glm(fit)$coefficients
+summary.glm(fit)$coefficients
 #summary.glm(fit)
 message(msg); rm(msg)
 data.frame( coef=ifelse(coef(fit) > 0 & summary.glm(fit)$coefficients[,4]>=.10  & summary.glm(fit)$coefficients[,4]<.20, "+ ",
@@ -4872,6 +4947,8 @@ data.frame( coef=ifelse(coef(fit) > 0 & summary.glm(fit)$coefficients[,4]>=.10  
             ". ")))) )
 #
 # SPACE HERE TO RERUN NEGBIN
+fit15 <- fit
+
 #
 #########################################################################################
 ## Regression of Hda Reports to Leg bills on Urgencies to Exec bills ref to Hda  DIP   ##
@@ -4951,10 +5028,12 @@ colnames(dat) <- sub(pattern = "-", replacement = "l", colnames(dat))
 sel <- which(dat$week < year(dmy("11-03-2006", tz = "chile")) + week(dmy("11-03-2006", tz = "chile"))/100
            | dat$week > year(dmy("10-03-2014", tz = "chile")) + week(dmy("10-03-2014", tz = "chile"))/100 )
 dat <- dat[-sel,]
+
 #dat.bak <- dat
 #dat <- dat.bak
 #
 # ESTE JALA??
+#dat$dtermR <- scale(dat$dterm) # rescale/center continuous variables to aid identification
 fit <- glm.nb(nrepMoc ~ nNow      + nNowl1     #+ nNowl2     
                       + n2wk      + n2wkl1     + n2wkl2     #+ n2wkl3   
 #                      + n4wkl1   
@@ -4963,10 +5042,11 @@ fit <- glm.nb(nrepMoc ~ nNow      + nNowl1     #+ nNowl2
 #                                  + nRetirel1  + nRetirel2  + nRetirel3 
 #                      + dmaj
                       + dterm
-                      + dleg10
+#                      + netApprov
+#                      + dleg10
                         , data=dat)
 #
-#summary.glm(fit)$coefficients
+summary.glm(fit)$coefficients
 #summary.glm(fit)
 message(msg); rm(msg)
 data.frame( coef=ifelse(coef(fit) > 0 & summary.glm(fit)$coefficients[,4]>=.10  & summary.glm(fit)$coefficients[,4]<.20, "+ ",
@@ -4976,6 +5056,8 @@ data.frame( coef=ifelse(coef(fit) > 0 & summary.glm(fit)$coefficients[,4]>=.10  
             ". ")))) )
 #
 # SPACE HERE TO RERUN NEGBIN
+fit12 <- fit
+
 #
 ###########################################################################################
 ## Regression of All Reports to Leg bills on Urgencies to Exec bills ref anywhere  DIP   ##
@@ -5067,6 +5149,7 @@ fit <- glm.nb(nrepMoc ~ nNow      + nNowl1
 #                                  + nRetirel1  + nRetirel2  + nRetirel3 
 #                      + dmaj
                       + dterm
+#                      + netApprov
                       + dleg10
                         , data=dat)
 #
@@ -5080,6 +5163,8 @@ data.frame( coef=ifelse(coef(fit) > 0 & summary.glm(fit)$coefficients[,4]>=.10  
             ". ")))) )
 #
 # SPACE HERE TO RERUN NEGBIN
+fit16 <- fit
+
 #
 ##########################################################################################
 ## Regression of Hda Reports to Leg bills on Urgencies to Leg bills ref Hda Comm  DIP   ##
@@ -5159,10 +5244,11 @@ colnames(dat) <- sub(pattern = "-", replacement = "l", colnames(dat))
 sel <- which(dat$week < year(dmy("11-03-2006", tz = "chile")) + week(dmy("11-03-2006", tz = "chile"))/100
            | dat$week > year(dmy("10-03-2014", tz = "chile")) + week(dmy("10-03-2014", tz = "chile"))/100 )
 dat <- dat[-sel,]
+#data.frame(dat$nrepMoc, dat$nNow)
 #dat.bak <- dat
 #dat <- dat.bak
 #
-# ESTE JALA
+# ESTE JALÓ EN ALGUN MOMENTO...
 fit <- glm.nb(nrepMoc ~ nNow      + nNowl1                  
                                   + n2wkl1     + n2wkl2     + n2wkl3
                                                + n4wkl2     + n4wkl3   + n4wkl4   
@@ -5171,6 +5257,7 @@ fit <- glm.nb(nrepMoc ~ nNow      + nNowl1
 #                                  + nRetirel1  + nRetirel2  + nRetirel3 
 #                      + dmaj
                       + dterm
+                      + netApprov
                       + dleg10
                         , data=dat)
 #
@@ -5184,6 +5271,8 @@ data.frame( coef=ifelse(coef(fit) > 0 & summary.glm(fit)$coefficients[,4]>=.10  
             ". ")))) )
 #
 # SPACE HERE TO RERUN NEGBIN
+fit14 <- fit
+
 #
 ##########################################################################################
 ## Regression of Hda Reports to Ex bills on Urgencies to Leg bills ref Hda Comm  DIP   ##
@@ -5288,6 +5377,33 @@ data.frame( coef=ifelse(coef(fit) > 0 & summary.glm(fit)$coefficients[,4]>=.10  
             ". ")))) )
 #
 # SPACE HERE TO RERUN NEGBIN
+fit13 <- fit
+
+summary.glm(fit15)
+
+# export to latex
+library(stargazer)
+stargazer(fit11, fit15, title="Regression results", align=TRUE, report = ('vc*p')#,
+ ##          covariate.labels=
+ ## c("ActNow",
+ ##   "ActNow-lag1",
+ ##   "ActNow-lag2",
+ ##   "Member bill, mix.-sponsored",
+ ##   "Member bill, pres. coal.-sp.",
+ ##   "Hacienda referral",
+ ##   "Senate majority",
+ ##   "Introduced Senate",
+ ##   "Pres.~term remaining",
+ ##   "Year remaining",
+ ##   "Relax deadlines",
+ ##   "Pres.~approval",
+ ##   "2002-06 Leg.",
+ ##   "2006-10 Leg.",
+ ##   "2010-14 Leg.",
+ ##   "Constant")
+          )
+
+
 #
 ## GRAFICA MATRIZ DE CORRELACIONES: COOL!
 #tmp <- cor(dat[,-grep("Extend|Shorten|Retire|d2010|nses", colnames(dat))])
@@ -5636,7 +5752,7 @@ for (i in 1:nrow(allUrg$messages)){
 #
 # select dates to report
 sel <- which(zeUrg$on >= dmy("11-03-2006", tz = "chile") & zeUrg$on < dmy("11-03-2014", tz = "chile"))
-tmp <- allUrg[sel,]
+tmp <- allUrg$messages[sel,]
 #
 table(tmp$drepInDeadline[ tmp$typeN==1 ] )
 table(tmp$drepInDeadline[ tmp$typeN==2 ] )
@@ -5844,12 +5960,12 @@ tmpdat$dpork [tmpdat$dom=="09-obras púb"] <- 1
 tmpdat$ptermR <- scale(tmpdat$pterm) # rescale/center continuous variables to aid identification of multilevel model
 tmpdat$legyrR <- scale(tmpdat$legyr) # rescale/center continuous variables to aid identification of multilevel model
 #fit <- lm (dv ~ dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda + dmajSen + dinSen + pterm + legyr, data = tmpdat)
-fit1 <- glm(dv ~ dmocion                                    + drefHda + dmajSen + dinSen + ptermR + legyrR + dreform2010                   , data = tmpdat, family = binomial(link = logit))
-fit2 <- glm(dv ~ dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda + dmajSen + dinSen + ptermR + legyrR + dreform2010                   , data = tmpdat, family = binomial(link = logit))
-fit3 <- glm(dv ~ dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda + dmajSen + dinSen + ptermR + legyrR + dreform2010 + as.factor(legis), data = tmpdat, family = binomial(link = logit))
+fit1 <- glm(dv ~ dmocion                                    + drefHda + dmajSen + dinSen + ptermR + legyrR + dreform2010 + netApprov                  , data = tmpdat, family = binomial(link = logit))
+fit2 <- glm(dv ~ dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda + dmajSen + dinSen + ptermR + legyrR + dreform2010 + netApprov                   , data = tmpdat, family = binomial(link = logit))
+fit3 <- glm(dv ~ dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda + dmajSen + dinSen + ptermR + legyrR + dreform2010 + netApprov + as.factor(legis), data = tmpdat, family = binomial(link = logit))
 # multilevel version with error terms clustered by legislatura (Gelman Hill p. 302 from eq 12.13)
 library(lme4)
-fit4 <- glmer(dv ~ dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda + dmajSen + dinSen + ptermR + legyrR + dreform2010 + (1|legis), data = tmpdat, family = binomial(link ="logit"))
+fit4 <- glmer(dv ~ dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda + dmajSen + dinSen + ptermR + legyrR + dreform2010 + netApprov + (1|legis), data = tmpdat, family = binomial(link ="logit"))
 ## fit5 <- glm(dv1 ~ dmocion                                    + drefHda + dmajSen + dinSen + ptermR + legyrR + dreform2010                   , data = tmpdat, family = binomial(link = logit))
 ## etc...
 #
@@ -5876,6 +5992,24 @@ table(tmpdat$dv - pred4) / nrow(tmpdat) # pct correctly predicted
 ## pred5 <- predict(fit5, type = "response"); pred5[pred5>=.5] <- 1; pred5[pred5<.5] <- 0
 ## table(tmpdat$dv - pred5) / nrow(tmpdat) # pct correctly predicted
 
+# predict probabilities for specific scenarios
+tmp <- data.frame(
+    Intercept = 1,
+    dmocionAllOpp= 0,
+    dmocionMix   = 0,
+    dmocionAllPdt= 1,
+    drefHda      = median(tmpdat$drefHda),
+    dmajSen      = median(tmpdat$dmajSen),
+    dinSen       = median(tmpdat$dinSen),
+    ptermR       = median(tmpdat$ptermR),
+    legyrR       = median(tmpdat$legyrR),
+    dreform2010  = median(tmpdat$dreform2010),
+    netApprov    = median(tmpdat$netApprov)
+    )
+predict(fit2, tmp, type = "response") # doesn't work due, re-scaled variables need to be handled differently
+exp(sum(coefficients(fit2)*tmp)) / (1 + exp(sum(coefficients(fit2)*tmp))) # probability urg=1
+
+
 # export to latex
 library(stargazer)
 stargazer(fit1, fit2, fit3, fit4, title="Regression results", align=TRUE, report = ('vc*p'),
@@ -5890,6 +6024,7 @@ stargazer(fit1, fit2, fit3, fit4, title="Regression results", align=TRUE, report
    "Pres.~term remaining",
    "Year remaining",
    "Relax deadlines",
+   "Pres.~approval",
    "2002-06 Leg.",
    "2006-10 Leg.",
    "2010-14 Leg.",
@@ -6049,18 +6184,18 @@ chainsHda$dsen <- as.numeric(chainsHda$tramite=="sen")
 chainsHda$ptermR <- scale(chainsHda$pterm) # rescale/center continuous variables to aid identification of multilevel model
 chainsHda$legyrR <- scale(chainsHda$legyr) # rescale/center continuous variables to aid identification of multilevel model
 #
-fit1 <- glm(dhdaReportwiDeadline ~ d2wk + d4wk + dextend + dwithdr + dmocion                                    + dmajSen + dsen + ptermR + legyrR + dreform2010                   , data = chainsHda, family = binomial(link = logit))
-fit2 <- glm(dhdaReportwiDeadline ~ d2wk + d4wk + dextend + dwithdr + dmocionAllPdt + dmocionMix + dmocionAllOpp + dmajSen + dsen + ptermR + legyrR + dreform2010, data = chainsHda, family = binomial(link = logit))
-fit3 <- glm(dhdaReportwiDeadline ~ d2wk + d4wk + dextend + dwithdr + dmocionAllPdt + dmocionMix + dmocionAllOpp + dmajSen + dsen + ptermR + legyrR + dreform2010 + as.factor(legis), data = chainsHda, family = binomial(link = logit))
+fit1 <- glm(dhdaReportwiDeadline ~ d2wk + d4wk + dextend + dwithdr + dmocion                                    + dmajSen + dsen + ptermR + legyrR + dreform2010 + netApprov                   , data = chainsHda, family = binomial(link = logit))
+fit2 <- glm(dhdaReportwiDeadline ~ d2wk + d4wk + dextend + dwithdr + dmocionAllPdt + dmocionMix + dmocionAllOpp + dmajSen + dsen + ptermR + legyrR + dreform2010 + netApprov, data = chainsHda, family = binomial(link = logit))
+fit3 <- glm(dhdaReportwiDeadline ~ d2wk + d4wk + dextend + dwithdr + dmocionAllPdt + dmocionMix + dmocionAllOpp + dmajSen + dsen + ptermR + legyrR + dreform2010 + netApprov + as.factor(legis), data = chainsHda, family = binomial(link = logit))
 # multilevel version with error terms clustered by legislatura (Gelman Hill p. 302 from eq 12.13)
 library(lme4)
-fit4 <- glmer(dhdaReportwiDeadline ~ d2wk + d4wk + dextend + dwithdr +dmocionAllPdt + dmocionMix + dmocionAllOpp  + dmajSen + dsen + ptermR + legyrR + dreform2010 + (1|legis), data = chainsHda, family = binomial(link ="logit"))
+fit4 <- glmer(dhdaReportwiDeadline ~ d2wk + d4wk + dextend + dwithdr +dmocionAllPdt + dmocionMix + dmocionAllOpp  + dmajSen + dsen + ptermR + legyrR + dreform2010 + netApprov + (1|legis), data = chainsHda, family = binomial(link ="logit"))
 #
 # use mutually-exclusive dummies for each type of urgency message
-fit5 <- glm(dhdaReportwiDeadline ~ as.factor(typeN)                + dmocion                                    + dmajSen + dsen + pterm + legyr + dreform2010, data = chainsHda, family = binomial(link = logit))
-fit6 <- glm(dhdaReportwiDeadline ~ as.factor(typeN)                + dmocionAllPdt + dmocionMix + dmocionAllOpp + dmajSen + dsen + pterm + legyr + dreform2010, data = chainsHda, family = binomial(link = logit))
+fit5 <- glm(dhdaReportwiDeadline ~ as.factor(typeN)                + dmocion                                    + dmajSen + dsen + pterm + legyr + dreform2010 + netApprov, data = chainsHda, family = binomial(link = logit))
+fit6 <- glm(dhdaReportwiDeadline ~ as.factor(typeN)                + dmocionAllPdt + dmocionMix + dmocionAllOpp + dmajSen + dsen + pterm + legyr + dreform2010 + netApprov, data = chainsHda, family = binomial(link = logit))
 #
-summary(fit5)
+summary(fit4)
 round(table(chainsHda$typeN)/length(chainsHda$typeN), 2)
 library(arm)
 display(fit4)            

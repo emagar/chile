@@ -35,7 +35,7 @@
 
 \begin{document}
 
-\title{Presidential obstruction of the agenda \\in Chile's Congress\thanks{Prepared for presentation at the annual meeting of the American Political Science Association, San Francisco, CA, 9/4/2015. The author is grateful to Ernesto Calvo for insights and to Jos\'e Antonio Cheibub, Gisela Sin, and participants at the Comparative Politics Workshop of the University of Illinois at Urbana-Champaign for useful comments and critiques; to the Department of Political Science at Washington University in St.\ Louis, where much of this work was done as visiting scholar; and acknowledges financial support from the Asociaci\'on Mexicana de Cultura A.C.\ and CONACYT's Sistema Nacional de Investigadores. The author bears sole responsibility for mistakes and shortcomings in the study.}}
+\title{Presidential obstruction of the \\agenda in Chile's Congress\thanks{Prepared for presentation at the annual meeting of the American Political Science Association, San Francisco, CA, 9/4/2015. The author is grateful to Ernesto Calvo for insights and to Jos\'e Antonio Cheibub, Gisela Sin, and participants at the Comparative Politics Workshop of the University of Illinois at Urbana-Champaign for useful comments and critiques; to the Department of Political Science at Washington University in St.\ Louis, where much of this work was done as visiting scholar; and acknowledges financial support from the Asociaci\'on Mexicana de Cultura A.C.\ and CONACYT's Sistema Nacional de Investigadores. The author bears sole responsibility for mistakes and shortcomings in the study.}}
 \author{Eric Magar \\ ITAM }
 \date{\today}
 \maketitle
@@ -325,8 +325,6 @@ It is worthwhile to elaborate on two routes towards fulfillment of the balancing
 
 \section{The data}
 
-The remainder of the chapter investigates the Chilean urgency authority empirically under the light of theoretical elements introduced. Data are from the C\'amara de Diputados' web page (\url{www.camara.cl}). The source publishes detailed reports with bills' general traits: who proposed it, when, in what chamber, what it deals with, its status at the time of consultation, and so forth. The report also lists and dates the proposal's milestones in transit through the meanders of the bicameral legislative process: committee referrals, reports to the plenary, floor discussion and voting, navette to the other chamber, and more. Of direct relevance, all urgency messages received by the chambers are listed chronologically.
-
 \begin{table}
 \begin{center}
 \begin{tabular}{lrrrr}
@@ -359,9 +357,11 @@ Total       & $100^{\dagger}$ & 100      & 100      & 100      \\ \hline
 \end{center}
 \end{table}
 
-An original dataset was prepared by scraping the web page in November 2014 in search for the record (\emph{bolet\'in}) of every proposal made between 11 March 1998 and 10 March 2014, inclusive.\footnote{A query was sent to the congressional staff in October 2014 about the existence of an official API or FTP site where this well-structured data could be downloaded en bloc. There was no response, so an automated script was prepared to retrieve the information directly. The C\'amara's web page is javascript-rich, an obstacle surmounted with \texttt{Python}'s Selenium library, putting together the bits and pieces of the scraping process. A commented version of the script and the dataset will be posted online upon publication. Data analysis was done with a multiplicity of \texttt{R}'s libraries.} Years before 1998 antedate Internet publication and were dropped, as data completeness in the primary source remains to be verified. The period fully covers two Senates, four C\'amaras, and three presidencies (plus the last two years of an earlier presidency). The span offers variance in the size and status of the president's coalition in Congress. Given electoral list voting unity since the return to democracy \citep{carey.2002,aleman.saieg.coalUnityChile.2007}, the seats they control are a good indicator of the executive's legislative support. As Table \ref{t:congressSeats} reports, the president's coalition was always in control of the C\'amara, but has controlled Senate majorities between 2006 and 2010 only (coinciding with the first Bachelet administration). By requiring 67, 60, and 57 percent votes of each chamber, respectively, constitutional reform, constitution-interpreting legislation, and organic laws therefore always required votes across the aisle. 
+Original data was collected to investigate the urgency authority in Chile. The C\'amara de Diputados' web page (\url{www.camara.cl}) was scraped in November 2014 in search for the record (\emph{bolet\'in}) of every proposal made between 11 March 1998 and 10 March 2014, inclusive.\footnote{Queries were sent to the congressional staff in October 2014 about the existence of an official API or FTP site where this well-structured data could be downloaded en bloc. There was no response, so an automated script was prepared to retrieve the information directly. The C\'amara's web page is javascript-rich, an obstacle surmounted with \texttt{Python}'s Selenium library, putting together the bits and pieces of the scraping process. A commented version of the script and the dataset will be posted online upon publication. Data analysis was done with a multiplicity of \texttt{R}'s libraries.} Years before 1998 antedate Internet publication and were dropped, as data completeness in the primary source remains to be verified. The period selected fully covers two Senates, four C\'amaras, and three presidencies (plus the last two years of an earlier presidency). 
 
- 
+The span offers variance in the size and status of the president's coalition in Congress. Given electoral list voting unity since the return to democracy \citep{carey.2002,aleman.saieg.coalUnityChile.2007}, the seats they control are a good indicator of the executive's legislative support. As Table \ref{t:congressSeats} reports, the president's coalition was always in control of the C\'amara, but has controlled Senate majorities between 2006 and 2010 only (coinciding with the first Bachelet administration). By requiring 67, 60, and 57 percent votes of each chamber, respectively, constitutional reform, constitution-interpreting legislation, and organic laws therefore always required votes across the aisle. 
+
+The source publishes detailed reports with the general traits of legislation: who proposed the bill, when, in what chamber, what it deals with, its status at the time of consultation, and so forth. The report also lists and dates the proposal's milestones in the bicameral legislative process: committee referrals, reports to the plenary, floor discussion and voting, navette to the other chamber, and more. Of direct relevance, all urgency messages received by the chambers are listed chronologically. All this information was systematized.
 
 % verify numbers in chillBill.r (above xtable command)
 \begin{table}
@@ -381,15 +381,15 @@ declared urgent \& passed       &          167  &         759  &       926  \\
 as \%                           &    \emph{18}  &   \emph{82}  & \emph{100} \\
 as \% of declared urgent        &    \emph{48}  &   \emph{75}  &  \emph{68} \\ \hline
 \end{tabular}
-\caption{Bills, laws, and the urgency authority 1998--2014}\label{T:billDescriptives}
+\caption{Proposals, legislation, and the urgency authority 1998--2014}\label{T:billDescriptives}
 \end{table}
 
-Table \ref{T:billDescriptives} offers a broad summary of bill introduction, bill passage, and urgency incidence in the period. Nearly seven thousand pieces of legislation were proposed, 412 yearly on average. Most proposals came from legislators, presidents introduced one bill for every four by members of Congress (79 vs.\ 21 percent). In terms of success rates, however, branch asymmetry inverts, a member turning one proposal into law for every three by a president (27 vs.\ 73 percent). And while members' success rate was dismal (7 percent), they still managed to add about four hundred statutes in the period due to the sheer volume of proposals made. 
+Table \ref{T:billDescriptives} offers a general summary of bill introduction, passage, and urgency incidence in the period. Nearly seven thousand pieces of legislation were proposed, 412 yearly on average. Most introduction was by members of Congress, who made four proposals for every bill by the president (79 vs.\ 21 percent). In terms of success rates, however, the branch ratio inverts, a member turning one proposal into law for every three by a president (27 vs.\ 73 percent). And while members' success rate was dismal (7 percent), they still managed to add about four hundred statutes in the period due to the sheer volume of proposals made. 
 
-It is striking that one of every five proposals in the period was urgent. The 1,362 bills deemed urgent at some point in the legislative process attest to the Chilean presidents' rather lax definition of urgency. Note the close similarity of relative figures in the second (urgency) and third (passed bills) sets of table rows. The subset of urgent bills overlaps to a very large extent with the subset of bills passed. In other words, coincident with \citet{aleman.navia.UrgChi.2009}, urgency and success correlate strongly: the passage rate of members' bills declared urgent skyrocketed to 48 percent, up from 7 percent altogether (the difference is small for executive bills). It is tempting to conclude that urgency improves bills' odds. But the reverse may hold, proposals with better prospects in Congress strategically receiving the bulk of urgency messages---the problem of selection bias discussed above \citep[cf.][]{jacobson.kernell.1983}. 
+It is striking that one proposal in five was urgent. The 1,362 bills deemed urgent at some point in the legislative process attest to a permissive notion of urgency by Chilean presidents. Also note the close similarity of relative figures in the second (urgency) and third (passed bills) groups of table rows. The large overlap of the urgent bills and bills passed subsets suggests, coincident with \citet{aleman.navia.UrgChi.2009}, that urgency and success correlate strongly: the passage rate of members' bills declared urgent skyrocketed to 48 percent, up from 7 percent altogether (the difference is small for executive bills). But concluding that urgency improves bills' odds misses that the reverse is also possible, proposals with better prospects in Congress strategically receiving the bulk of urgency messages---the problem of selection bias discussed above \citep[cf.][]{jacobson.kernell.1983}. 
 
 % latex table generated in R 3.1.2 by xtable 1.7-4 package
-% Wed Feb  4 17:24:48 2015
+% Wed Feb 4 17:24:48 2015
 \begin{table}
 \centering
 \begin{tabular}{rrrrr|r}
@@ -427,11 +427,11 @@ Messages in mean chain    & 3.3   & 3.0   & 4.2     & 4.7     & 4.1 \\ \hline
 \caption{Urgency messages and urgency chains. Chains (212 in total) initiated in the period but targeting bills proposed before are not considered.}\label{t:freqUrg}
 \end{table}
 
-Table \ref{t:freqUrg} inspects urgency messages to offer finer-grained evidence. The sheer number of messages is appalling: 13,558 in the 16-year period, reaching averages of 71 monthly messages and 10 messages for every bill declared urgent in the period. Message frequency rose substantially from every four-year Legislature reported to the next. President Bachelet (2006--10) was responsible for the steepest hike in urgency incidence, issuing almost three times more messages relative to the previous Legislature and pushing the monthly average above 100. 
+Table \ref{t:freqUrg} offers finer-grained evidence by inspecting urgency messages. The sheer number of messages is appalling: 13,558 in the 16-year period, with averages of 71 monthly messages and 10 messages for every bill declared urgent. Message frequency rose substantially from every four-year Legislature reported to the next. President Bachelet (2006--10) was responsible for the steepest hike, issuing almost three times more urgency messages relative to the previous Legislature and pushing the monthly average above 100. 
 
-Also noteworthy is that just 26 percent of messages in the full period were original urgencies. An \emph{original urgency} is a message compelling action on legislation with non-urgent status in the chamber. Among original urgency messages, `act now' notice frequency (3 percent of messages) was one-fourth the frequency of `two week' and `one month' notices (11 and 12 percent, respectively). Non-original messages are those modifying the terms of a previously issued urgency. The literature has overlooked non-original urgency, which amounted to nearly three out of four messages in the period. Modifications included deadline changes and the withdrawal of the bill's urgent status altogether. Deadline changes mostly involved an extension of the period for bill consideration. Accounting for nearly half of all messages, deadline extensions were the modal message in every Legislature considered. Those cutting deadlines short were much rarer, 4 percent of all. And, with variance across Legislatures, urgency withdrawals were common too, two-fifths overall and nearly one-third in 2006--10. Urgency withdrawal is puzzling and suggests further dimensions of bargaining with the urgency authority not addressed in this chapter, but worth keeping in mind. 
+Also noteworthy is that just 26 percent of messages in the full period were original urgencies. An \emph{original urgency} is a message compelling action on legislation with non-urgent status in the chamber. Among original urgency messages, `act now' notice frequency (3 percent of messages) was one-fourth the frequency of `two week' and `one month' notices (11 and 12 percent, respectively). Non-original messages are those modifying the terms of a previously issued urgency. Research has overlooked non-original urgency, which amounted to nearly three out of four messages in the period. Modifications included deadline changes and the withdrawal of the bill's urgent status altogether. Deadline changes mostly involved an extension of the period for bill consideration. Accounting for nearly half of all messages, deadline extensions were the modal message in every Legislature considered. Cutting deadlines short was much rarer, 4 percent of messages. And, with variance across Legislatures, urgency withdrawals were common too, two-fifths overall and nearly one-third in 2006--10. Urgency withdrawal is puzzling and suggests further dimensions of bargaining through the urgency authority not addressed in this chapter, but worth keeping in mind. 
 
-So many non-original messages imply that urgency chains are common.\footnote{Formally, deadline changes consist of two paired messages in the source: one withdrawing the original urgency, another setting the new deadline. Paired withdrawal messages are excluded from the numbers reported, so as to retain only withdrawals actually terminating a bill's urgent status.} An \emph{urgency chain} is a series of chronologically connected urgency messages on the same piece of legislation, non-original messages adding links by modifying the urgency before the original deadline expires. Declaring legislation urgent is typically not a single shot affair. One example is legislation making split-couple parents equally responsible in rearing their children. The bill received a one month notice on 22 June 2011 (bolet\'in 7007--18). As the deadline neared, the C\'amara's Constitution, Law, and Justice committee requested more time to merge the proposal with two others; on 2 August, the deadline was duly pushed four weeks ahead. (I coded deadlines using working days, so the expiration was still ahead despite more than 30 calendar days had gone by.) Five other similar messages were issued, weaving a seven-link chain with a final deadline in March 2012.\footnote{Messages in the primary source were coded as extra chain links whenever issued on or before a bill's urgency deadline and sent to the same chamber. In most cases, the new message was paired to a withdrawal message, easing chain identification. For (relatively few) cases not reporting the paired withdrawal message's date, using calendar instead of business days might reclassify some messages out of chains.} As the Table's bottom reports, the average chain had 4.1 links (the longest reached 71). 
+Non-original message frequency implies that urgency chains are common.\footnote{Formally, deadline changes consist of two paired messages in the source, easing chain identification: one withdrawing the original urgency, another setting the new deadline. Paired withdrawal messages are excluded from the numbers reported, so as to retain only withdrawals actually terminating a bill's urgent status. In relatively few cases, the paired withdrawal message was not reported in the primary source, coding messages as extra chain links whenever issued on or before a bill's urgency deadline and sent to the same chamber. Using calendar instead of business days might reclassify some of these cases outside chains.} An \emph{urgency chain} is a series of chronologically connected urgency messages on the same piece of legislation, non-original messages adding links by modifying the urgency before the original deadline expired. Declaring legislation urgent is typically not a single shot affair, both because urgency is raised repeatedly in a bill's life, but also due to message concatenation in chains. One example is legislation making split-couple parents equally responsible in rearing their children. The bill received a one month notice on 22 June 2011 (bolet\'in 7007--18). As the deadline neared, the C\'amara's Constitution, Law, and Justice committee requested more time to merge the proposal with two others; on 2 August, the deadline was duly pushed four weeks ahead. (I coded deadlines using working days, so the expiration was still ahead despite more than 30 calendar days had gone by.) Five other similar messages were issued, weaving a seven-link chain with a final deadline in March 2012. As the Table's bottom reports, the average chain had 4.1 links (the longest reached 71). 
 
 % \begin{table}
 % \begin{center}
@@ -491,37 +491,36 @@ So many non-original messages imply that urgency chains are common.\footnote{For
 % \end{center}
 % \end{figure}
 
- 
-
-Chains offer a better perspective of the rise in urgency usage. The 170 percent surge between the 2002--06 and 2006--10 Legislatures was, in fact, due to declaring 90 percent more legislation urgent, the rest attributable to substantially longer chains (4.2 links on average, up from 3). The 2010--14 hike is mostly due to longer chains (4.7 links on average), as the chain frequency increase was negligible. Plotting weekly urgency messages in the period, as Figure \ref{f:depvarHistog} does, reveals how original urgency incidence changed little over the years, unlike non-original messages. Each panel in the figure (one of which is zoomed above to provide detail) reports one legislative year as two super-imposed histograms, one for C\'amara and one for Senate messages (both positive scales, red asterisks marking off-the-chart counts). The black portion of columns count original urgency messages, the gray count deadline changes and withdrawals. Note that the evolution of black central segments had some tendency to grow in both chambers from year to year. But that change looks minute compared to how the gray fringes expanded. Urgency-wise, Presidents Bachelet (2006--10) and Pi\~nera (2010--14) had relatively quiet first years in office, using the authority much more often after the second, and especially after the third year. Pi\~nera's more insistent messages to the Senate than the C\'amara, as seen in the red star asymmetry, coincided with a lack of majority in the chamber. 
-
-Figure \ref{f:depvarHistog} makes the time scarcity very plain. If the urgency authority were consequential, the abundance of messages would pose a genuine scheduling problem for legislators and legislative parties. Is there scheduling time left for member proposals? Not taking the February Summer break into account (when Congress rarely convenes), the C\'amara in the median legislative year had just 4 weeks free of original urgency messages, and none free of urgency messages of either type. **Cite Bond literature in medieval sea trade (Champaign fairs? Weingast? North?)
+Chains offer a better perspective of the evolution of urgency usage than sheer messages. The 170 percent message surge between the 2002--06 and 2006--10 Legislatures was, in fact, due to declaring 90 percent more legislation urgent, the rest attributable to substantially longer chains (4.2 links on average, up from 3). The 2010--14 hike is mostly due to longer chains (4.7 links on average), as the chain frequency increase was negligible. Plotting weekly urgency messages in the period, as Figure \ref{f:depvarHistog} does, reveals how original urgency incidence changed little over the years, unlike non-original message incidence. Each panel in the figure (one of which is zoomed above to provide detail) reports one legislative year as two super-imposed histograms, one for C\'amara and one for Senate messages (both positive scales, red asterisks marking off-the-chart counts). The black portion of columns count original urgency messages, the gray count deadline changes and withdrawals. Note how black central segments had some tendency to grow in both chambers from year to year. But that change looks minute compared to how the gray fringes expanded. Urgency-wise, Presidents Bachelet (2006--10) and Pi\~nera (2010--14) had relatively quiet first years in office, using the authority much more often after the second, and especially after the third year. Pi\~nera's more insistent messages to the Senate than the C\'amara, as seen in the red star asymmetry, coincided with a lack of majority in the chamber. 
 
 \begin{table}
 \begin{center}
-\begin{small}
+%\begin{small}
 \begin{tabular}{lrrrrrrrr}
                          &  \mc{8}{c}{Percent Concertaci\'on sponsors} \\
-Urgency raised by        &  0\%      &  1--25\%  &  26--50\%  &  51--75\%  &  76--99\%  &  100\%      &  All         &  N \\ \hline
+Urgency raised by        &  0\%      &  1--25    &  26--50    &  51--75    &  76--99    &  100\%      &  All         &  N \\ \hline
 Concertaci\'on presidents& \emph{21} & \emph{3}  & \emph{10}  & \emph{15}  & \emph{13}  & \emph{39}   &  \emph{100}  &  228 \\
 Right president          & \emph{26} & \emph{4}  & \emph{18}  & \emph{12}  & \emph{12}  & \emph{26}   &  \emph{100}  &  121 \\
 \end{tabular}
-\caption{Sponsorship of urgent member bills. Entries are relative frequencies of Concertaci\'on sponsors among bills declared urgent by presidents elected by a given list. The first entry reports that 21 percent of bills declared urgent by a Concertaci\'on president had not a single sponsor elected by that list; and so forth.}\label{T:sponsorsOfUrgBills}
-\end{small}
+\caption{Sponsorship of urgent member proposals. Entries are relative frequencies of Concertaci\'on sponsors among bills declared urgent by presidents elected by list given in row. The first entry reports that 21 percent of bills declared urgent by a Concertaci\'on president had not a single co-sponsor elected by that list; and so forth.}\label{T:sponsorsOfUrgBills}
+%\end{small}
 \end{center}
 \end{table}
 
 % ``Para evitar entorpecer el funcionamiento de Congreso, el Ejecutivo procura no tener, al mismo tiempo, más de 10 proyectos con urgencia en cada una de las Cámaras (entrevista Carmona)'' (fn.~25) Carmona citado en berrios gamboa
 
-Saturating the agenda with urgent executive bills inevitably plunders scheduling time to consider members' pet projects.\footnote{\citet{berrios.gamboa.fiscChile.2006} quote the executive's legal chief of staff describing a general goal in the Executive branch to have, at most, ten urgent projects in each chamber at once and thus ``prevent blundering congressional work (\emph{evitar entorpecer el funcionamiento de Congreso})'' (fn.~25). It is an optimistic assessment of presidential self-restraint, to say the least. If the urgency authority were consequential, presidents who have taken the chamber's schedule hostage might be a better analogy than self-restraint.} In such circumstances, the urgency authority gives presidents another asset for vote-buying, granting members' projects urgent status in exchange for supporting presidential proposals short of votes in the chamber. Table \ref{T:sponsorsOfUrgBills} has evidence consistent with this possibility: controlling for the percentage of signatures by legislators belonging to Concertaci\'on parties in the proposal reveals that presidents often granted urgent status to opposition bills. Of member bills declared urgent by Concertaci\'on presidents (1998--2010), 21 percent fell in this category, and 26 percent by the right-of-center administration (2010--2014). Another promising area for future research.
+Also plain in figure \ref{f:depvarHistog} is the time scarcity problem. If the urgency authority were consequential, the abundance of messages would pose a genuine scheduling problem for members and their legislative parties. Not taking the February Summer break into account (when Congress rarely convenes), the C\'amara in the median legislative year had just 4 weeks free of original urgency messages, and none free of urgency messages of either type. Saturating the agenda with urgent executive bills inevitably plunders scheduling time to consider members' pet projects.\footnote{\citet{berrios.gamboa.fiscChile.2006} quote the executive's legal chief of staff describing a general goal in the Executive branch to have, at most, ten urgent projects in each chamber at once and thus ``prevent blundering congressional work (\emph{evitar entorpecer el funcionamiento de Congreso})'' (fn.~25). It is an optimistic assessment of presidential self-restraint, to say the least. If the urgency authority were consequential, presidents who have taken the chamber's schedule hostage might be a better analogy than self-restraint.} The president may be taking the legislative schedule hostage \citep[cf.][]{cox.mccubbins.1994,williamson.1975}. In such circumstances, the urgency authority is another asset for vote-buying, presidents freeing up scheduling time or even granting members' projects urgent status in exchange for support for difficult proposals. The evidencein table \ref{T:sponsorsOfUrgBills} is consistent with this conjecture: controlling for the percentage of signatures by legislators belonging to Concertaci\'on parties in the proposal reveals that presidents often granted urgent status to opposition bills. Of member bills declared urgent by Concertaci\'on presidents (1998--2010), 21 percent fell in this category, and 26 percent by the right-of-center administration that followed (2010--2014). This bonding perspective of scheduling is a promising line of research of executive-legislative negotiation. 
+
 
 \section{Urgency predictors}
 
-A systematic analysis of data in Table \ref{T:billDescriptives} is revealing. The units of observation are individual bills. The dependent variable equals 1 for bills that were urgent at any point, 0 otherwise. Multivariate analysis includes a set of controls for bill features and another for session traits. The first group includes \emph{Member bill}, equal 1 if proposed by a legislator, 0 if by the executive. The strong negative bi-variate association between the proposing branch and the urgency authority should remain when other factors are held constant. \emph{Hacienda referral} equals 1 for bills referred to the powerful Finance committee, 0 otherwise. Standing rules mandate that legislation authorizing expenditures, regardless of issue area, must be referred to and reported by Hacienda (the next section elaborates its status as a control commitee). Hacienda referral therefore controls for a subset of generally important proposals. And \emph{Introduced in Senate} equals 1 for bills initiated in the upper chamber, 0 otherwise. By virtue of being smaller, enjoying longer terms, and not being firmly in the president's coalition control during most of the period, bills sent to the Senate might present systematic differences in urgency usage. 
+A systematic analysis of data in Table \ref{T:billDescriptives} is revealing. The units are individual proposals: the dependent variable equals 1 for bills that became urgent at any point, 0 otherwise. Multivariate analysis includes controls for bill features, for timing, and for the strategic environment. 
 
-Included among session features is \emph{Senate minority}, equal 1 if the president's coalition had fewer than 50 percent of upper chamber seats when the bill was initiated, 0 otherwise.\footnote{Parties in the presidential and opposition coalitions were tied throughout most of the 1998--2006 Senate (majority briefly oscillating back and forth in the first years due to member indictments, impeachments, and deaths in both coalitions). Ties are coded as \emph{Senate minority} = 0.} \emph{Pres.~term remaining} and \emph{Year remaining} measure the percentage of executive and legislative terms, respectively, remaining at bill initiation.\footnote{\emph{Pres.~term remaining} and \emph{Year remaining} were normalized to ease convergence of the mixed effects model (as discussed in \url{http://stackoverflow.com/questions/23478792/warning-messages-when-trying-to-run-glmer-in-r}). Normalized measures were used throughout for model comparability.} With presidential terms cut from six to four years in length starting in 2006, the Bachelet (2006--10) and Pi\~nera (2010--14) terms were both perfectly coincident with concurrently elected C\'amara's term. But the end of the Frei (from 1998 to 2000) and beginning of the Lagos (from 2000 to 2002) terms, however, overlapped a common Legislature, providing leverage to separate effects, if any, of the legistative and executive electoral timetables on the urgency. The temporal trends in the longitudinal urgency incidence plots are so distinctive that they should remain significant when other factors are controlled. And \emph{Relax deadlines} equals 1 for bills initiated in July 2010 or later, 0 otherwise. It ought to capture any systematic shift in urgency usage attributable to the reform relaxing deadlines of `Act now' and `two week notices' five months into the 2010--14 Legislature. 
+The first group includes two variables. \emph{Member bill} equals 1 if proposed by a legislator, 0 if by the executive. The strong negative bi-variate association of the proposing branch and the urgency authority should remain when other factors are held constant. And \emph{Hacienda referral} equals 1 for bills referred to the powerful Finance committee, 0 otherwise. Hacienda referral therefore controls for a subset of generally important proposals: standing rules mandate that legislation authorizing expenditures, regardless of issue area, must be referred to and reported by Hacienda (the next section elaborates its status as a control commitee). 
 
-% Add presidential approval?
+The timing group has controls for the stage of the electoral and legislative cycles when the proposal was made. \emph{Pres.~term remaining} and \emph{Year remaining} measure the percentage of executive and legislative terms, respectively, remaining at bill initiation.\footnote{\emph{Pres.~term remaining} and \emph{Year remaining} were normalized to ease convergence of the mixed effects model (as discussed in \url{http://stackoverflow.com/questions/23478792/warning-messages-when-trying-to-run-glmer-in-r}). Normalized measures were used throughout for model comparability.} With presidential terms cut from six to four years in length starting in 2006, the Bachelet (2006--10) and Pi\~nera (2010--14) terms were both perfectly coincident with concurrently elected C\'amara's term. But the end of the Frei (from 1998 to 2000) and beginning of the Lagos (from 2000 to 2002) terms, however, overlapped a common Legislature, providing leverage to separate effects, if any, of the legistative and executive electoral timetables on the urgency. The temporal trends in the longitudinal urgency incidence plots are so distinctive that they should remain significant when other factors are controlled. 
+
+And the startegic environment group includes four controls. \emph{Pres.~approval} is the net presidential approval at bill initiation---i.e., the percentage who approve of the president's job minus the percentage who disapprove.\footnote{Data are from the Centro de Estudios P\'ublicos bi-yearly face-to-face opinion polls, available at \url{www.cepchile.cl}.} To the extent that presidents with higher public approval are, all else contant, more succesfull in the legislative arena \citep{bond.fleisher.1990,aleman.navia.UrgChi.2009}, they should also need the urgency authority less, and reliance should therefore drop. \emph{Introduced in Senate} equals 1 for bills initiated in the upper chamber, 0 otherwise. By virtue of being smaller, enjoying longer terms, and not being firmly in the president's coalition control during most of the period, bills sent to the Senate might present systematic differences in urgency usage. \emph{Senate minority} equals 1 if the president's coalition had less than 50 percent of upper chamber seats when the bill was initiated, 0 otherwise.\footnote{Parties in the presidential and opposition coalitions were tied throughout most of the 1998--2006 Senate (majority briefly oscillating back and forth in the first years due to member indictments, impeachments, and deaths in both coalitions). Ties are coded as \emph{Senate minority} = 0.} Other things equal, presidents with insufficient partisan legislative resources in one chamber will find it harder to push statutory proposals through Congress, and might be more inclined to use the urgency to get things done. And \emph{Relax deadlines} equals 1 for bills initiated in July 2010 or later, 0 otherwise. It ought to capture any systematic shift in urgency usage attributable to the reform relaxing deadlines of high-degree notices five months into the 2010--14 Legislature. 
 
 % Table created by stargazer v.5.2 by Marek Hlavac, Harvard University. E-mail: hlavac at fas.harvard.edu
 % Date and time: Fri, Sep 11, 2015 - 06:44:19 PM
@@ -534,65 +533,77 @@ Included among session features is \emph{Senate minority}, equal 1 if the presid
 \\[-1.8ex] & \multicolumn{1}{c}{(1)} & \multicolumn{1}{c}{(2)} & \multicolumn{1}{c}{(3)} & \multicolumn{1}{c}{(4)}\\ 
 \\ [-1.8ex] 
 \hline \\[-1.8ex] 
- \emph{Member bill} & -2.990^{***} &  &  &  \\ 
+ \emph{Member bill} & -3.000^{***} &  &  &  \\ 
   & (<.001) &  &  &  \\  [.75ex]
- \emph{Member bill} &  & -2.974^{***} & -3.077^{***} & -3.056^{***} \\ 
+ \emph{Member bill} &  & -2.985^{***} & -3.085^{***} & -3.062^{***} \\ 
  \emph{pres.~coal.-sp}. &  & (<.001) & (<.001) & (<.001) \\  [.75ex]
- \emph{Member bill} &  & -2.530^{***} & -2.646^{***} & -2.622^{***} \\ 
+ \emph{Member bill} &  & -2.541^{***} & -2.652^{***} & -2.627^{***} \\ 
  \emph{mix.-sponsored} &  & (<.001) & (<.001) & (<.001) \\  [.75ex]
- \emph{Member bill} &  & -3.603^{***} & -3.706^{***} & -3.686^{***} \\ 
+ \emph{Member bill} &  & -3.611^{***} & -3.714^{***} & -3.692^{***} \\ 
  \emph{opp.-sponsored} &  & (<.001) & (<.001) & (<.001) \\  [.75ex]
- \emph{Hacienda} & 1.761^{***} & 1.783^{***} & 1.759^{***} & 1.764^{***} \\ 
+ \emph{Hacienda} & 1.754^{***} & 1.775^{***} & 1.754^{***} & 1.758^{***} \\ 
  \emph{referral} & (<.001) & (<.001) & (<.001) & (<.001) \\  [.75ex]
- \emph{Introduced} & 0.182^{*} & 0.412^{***} & 0.395^{***} & 0.398^{***} \\ 
+ \emph{Pres.~term} & .095^{**} & .081^{**} & .083^{*} & .083^{*} \\ 
+ \emph{remaining}  & (.025) & (.017) & (.082) & (.060) \\  [.75ex]
+ \emph{Year} & .075^{*} & .077^{*} & .081^{*} & .080^{*} \\ 
+ \emph{remaining}  & (.076) & (.069) & (.058) & (.061) \\  [.75ex]
+ \emph{Pres.} & -.004^{*} & -.004 & -.002 & -.003 \\ 
+ \emph{approval}  & (.093) & (.107) & (.303) & (.246) \\  [.75ex]
+ \emph{Introduced} & .182^{*} & .411^{***} & .397^{***} & .400^{***} \\ 
  \emph{in Senate} & (.058) & (<.001) & (<.001) & (<.001) \\  [.75ex]
- \emph{Senate} & 0.122 & 0.162 & 0.371^{*} & 0.309^{*} \\ 
- \emph{minority}  & (.444) & (.313) & (.076) & (.089) \\  [.75ex]
- \emph{Pres.~term} & 0.104^{**} & 0.110^{***} & 0.083^{*} & 0.087^{*} \\ 
- \emph{remaining}  & (.014) & (.010) & (.073) & (.051) \\  [.75ex]
- \emph{Year} & 0.078^{*} & 0.080^{*} & 0.085^{**} & 0.083^{*} \\ 
- \emph{remaining}  & (.066) & (.059) & (.049) & (.052) \\  [.75ex]
- \emph{Relax} & 0.229 & 0.176 & 0.174 & 0.138 \\ 
- \emph{deadlines}  & (.172) & (.301) & (.548) & (.508) \\  [.75ex]
- % 2002-06 &  &  & -0.232 &  \\ 
+ \emph{Senate} & .135 & .174 & .384^{*} & .317^{*} \\ 
+ \emph{minority}  & (.397) & (.281) & (.067) & (.081) \\  [.75ex]
+ \emph{Relax} & .097 & .050 & .089 & .042 \\ 
+ \emph{deadlines}  & (.602) & (.788) & (.768) & (.849) \\  [.75ex]
+ % 2002-06 &  &  & -.232 &  \\ 
  % Leg.  &  &  & (.136) &  \\  [.75ex]
- % 2006-10 &  &  & 0.333^{**} &  \\ 
+ % 2006-10 &  &  & .333^{**} &  \\ 
  % Leg. &  &  & (.023) &  \\  [.75ex]
- % 2010-14 &  &  & -0.063 &  \\ 
+ % 2010-14 &  &  & -.063 &  \\ 
  %  Leg. &  &  & (.858) &  \\  [.75ex]
- Constant & 0.117 & 0.113 & 0.262 & 0.234 \\ 
-  & (.468) & (.488) & (.215) & (.223) \\  [.75ex]
+ Constant & .198 & .190 & .286 & .289 \\ 
+  & (.240) & (.264) & (.178) & (.140) \\  [.75ex]
 \hline \\[-1.8ex] 
 Effects & \multicolumn{1}{c}{none} & \multicolumn{1}{c}{none} & \multicolumn{1}{c}{fixed} & \multicolumn{1}{c}{mixed} \\ 
 Observations & \multicolumn{1}{c}{6,987} & \multicolumn{1}{c}{6,987} & \multicolumn{1}{c}{6,987} & \multicolumn{1}{c}{6,987} \\ 
-Log$L$ & \multicolumn{1}{c}{$-2,056$} & \multicolumn{1}{c}{$-2,029$} & \multicolumn{1}{c}{$-2,019$} & \multicolumn{1}{c}{$-2,024$} \\ 
+Log$L$ & \multicolumn{1}{c}{$-2,054$} & \multicolumn{1}{c}{$-2,027$} & \multicolumn{1}{c}{$-2,018$} & \multicolumn{1}{c}{$-2,024$} \\ 
 \% correct & \multicolumn{1}{c}{89} & \multicolumn{1}{c}{89} & \multicolumn{1}{c}{90} & \multicolumn{1}{c}{90} \\ 
 \\ [-1.8ex] 
 \hline \\[-1.8ex] 
   & \multicolumn{4}{r}{\footnotesize $^{*}$p$<$.1; $^{**}$p$<$.05; $^{***}$p$<$.01 (p-values in parentheses)} \\ 
 \end{tabular} 
-  \caption{Urgency determinants. Dependent variable indicates urgent bills. Model 3 includes fixed Legislatura effects (not reported). Model 4 estimates separate error terms by Legislatura. Method of estimation: generalized linear model (model 4), others with logit.}\label{t:urgenLogit}
+  \caption{Urgency predictors. Dependent variable indicates urgent bills. Model 3 includes fixed Legislatura effects (not reported). Model 4 estimates separate error terms by Legislatura. Method of estimation: generalized linear model (model 4), others with logit.}\label{t:urgenLogit}
 \end{table} 
 
-Table \ref{t:urgenLogit} reports model fit.\footnote{Models estimated with \texttt{R} base's \texttt{glm} and library \texttt{lme4}'s \citep{lme4.2015}.} The logit regression model performs satisfactorily: a likelihood-ratio test of overall fit (not reported) rejects the hypothesis that an intercept-only fit is as good as the model with predictors at the .001-level or better. Predictors correctly classifiy 89 percent of the observations. Coefficient estimates confirm that, other things constant, member proposals are less likely to receive urgencies than executive proposals. The negative estimate is significant at the .001-level (p-values are reported in parentheses) and has, by far, the largest in absolute value. Model 2 specifies this variable more finely, distinguishing member bills with presidential coalition sponsors only (i.e., the sole sponsor or all co-sponsors belong to parties in the president's coalition at initiation), with opposition sponsors only, or with a mixture of both. While bills of all three sponsoring profiles were less likely to become urgent than executive bills, differential size varied considerably. Not too surprisingly, opposition-only projects had the largest negative differential relative to executive bills. But, surprisingly, the smallest belongs not to presidential-coalition-only proposals, but to those with \emph{mixed} sponsorship. This is another hint that presidents may buy support for difficult policy accross the aisle while using the urgency authority as a form of payment. **Maybe bring/discuss Table \ref{T:sponsorsOfUrgBills} here!
+Table \ref{t:urgenLogit} reports results.\footnote{Models were fitted with \texttt{R} base's \texttt{glm} and library \texttt{lme4}'s \citep{lme4.2015}.} The logit regression model performs satisfactorily. Predictors in basic model 1 correctly classifiy 89 percent of the observations. And a likelihood-ratio test of overall fit (not reported) rejects the hypothesis that an intercept-only fit is as good as the model with predictors at the .001 level. Coefficient estimates confirm that, controlling other factors in the model, member proposals are significantly less likely to become urgent than executive proposals. The negative estimate is significant at the .001 level (parentheses report p-values) and is, by far, the largest in absolute value in model 1. Model 2 re-specifies this variable with more detail, distinguishing member bills with presidential coalition sponsors only (i.e., the sole sponsor or all co-sponsors belong to parties in the president's coalition at initiation), with opposition sponsors only, or with a mixture of both. While bills of all three sponsoring profiles were significantly less likely to get urgent messages than executive bills, the negative coefficients vary considerably. Opposition-only projects have the largest absolute differential relative to presidential proposals, which is not too surprising. Whay is surprising is that the smallest belongs not to presidential-coalition-only proposals, but to those with \emph{mixed} sponsorship. Setting other variables at their median shows that the probability that a mixed-member sponsored bill gets an urgent message is .073, up from .048 for one with only presidential coalition sponsors. Coincident with evidence in table \ref{T:sponsorsOfUrgBills}, this is another hint that presidents may buy support for difficult policy accross the aisle while using the urgency authority as a form of payment. 
 
-Bills referred to the Hacienda committee also show relatively large, statistically significant, but positive coefficient. This is evidence that projects involving budget authorizations are likelier to be the targets of the urgency authority. The next section inspects this more carefully. And bills initiated in the Senate, where presidents confronted larger opposition contingents that even had majority status, are also likelier urgency targets. Note that the coefficient of Introduced in Senate is the only one achieving a sizeable hike from model 1 to model 2, more than doubling in size when controls for member-bill sponsorship are added. Presidential vote-buying with urgencies seems to have stronger bases in the more difficult Senate. 
+\emph{Hacienda referral} gets a positive, relatively large, and statistically significant coefficient. This is evidence that projects involving budget authorizations are likelier to be the targets of the urgency authority. The next section inspects this bill trait more carefully.
 
-Of session traits at initiation, only the time trends returned significant coefficients. Other things constant, bills were likelier to become urgent earlier in the term and earlier in the legislative year. The apparent contradiction of the patterns in Figure \ref{f:depvarHistog} is explained by the distinction of non-original urgency messages, where most of the temporal growth action is, but are disregarded by a dichotomous measure of the urgency as is analyzed by these models. 
+Both time trend variables returned significant coefficients. Other things constant, bills were likelier to become urgent earlier in the term and earlier in the legislative year. The apparent contradiction of the patterns in Figure \ref{f:depvarHistog} is explained by the distinction of non-original urgency messages---where most of the temporal trend is manifest---which is disregarded by the dichotomous measure of the urgency analyzed here. 
 
-Two more specifications were fitted to check model robustness. Given that observations from four Legislatures with important differences in the types and the volume of proposals considered \citep{aleman.navia.UrgChi.2009} are pooled, heterogeneity could affect inference. So model 3 includes fixed Legislature effects (dummies equal 1 for bills initiated in each Legislatura, not reported in the table). And model 4 estimates separate errors for bills in each Legislature \citep[a so-called mixed effects model,][262,302]{gelman.hill.2007}. With the exception of Senate minority, gaining in size and achieving significance with Legislature effects---evidence that the 2010--14 term, the only one fully with presidential minority status, as opposed to shorter lapses in 1998--2002, had bigger inter-chamber differences in urgency incidence---changes estimates are small. The simpler urgency models are quite robust. 
+The strategic environment variables get mixed results. Presidential approval at initiation associates negatively with the probability of an urgency. The coefficient, however, barely achieves significance at the .1 level (and only in model 1). Proposals initiated in the Senate, where presidents confronted systematically larger opposition contingents that sometimes controlled the chamber, are also likelier urgency targets. Note that the coefficient of \emph{Introduced in Senate} is the only one achieving a sizeable hike from model 1 to model 2, more than doubling in size when controls for member-bill sponsorship are added. Presidential vote-buying with urgencies seems to have stronger bases in the more difficult Senate. And both \emph{Senate minority} and \emph{Relax deadlines} associate positively with the urgency authority, but neither achieved statistical significance to support the cplain that coefficients differ from zero other than by chance alone. 
+
+Two alternative specifications were fitted to check model robustness. Given that observations from four Legislatures with important differences in the types and the volume of proposals considered \citep{aleman.navia.UrgChi.2009} are pooled, heterogeneity could affect inference. So model 3 includes fixed Legislature effects (dummies equal 1 for bills initiated in each Legislatura, zero otherwise, not reported in the table). And model 4 estimates separate errors for bills in each Legislature \citep[a so-called mixed effects model,][262,302]{gelman.hill.2007}. With the exception of \emph{Senate minority}, gaining in size and achieving .1-level significance, estimate changes are negligible. The change attests that the 2010--14 Legislature, with presidential minority status throughout (the 1998--2002 had short lapses only) experienced bigger inter-chamber differences in urgency incidence. The simpler urgency models are quite robust. 
 
 \section{Urgency chains}
 
-Understanding the urgency authority predictors in bills proposed for consideration in Congress will aide the interpretation of the next pieces of analysis. Units here are not bills but urgency instances, in search for observable consequences in the legislation they target. If the urgency authority were consequential, it would prompt action in the chamber where the bill awaits consideration. Moreover, the action should happen within the deadline established by the president. 
+Urgency authority predictors aide the interpretation of the next pieces of analysis. Units here are not individual bills but urgency instances, in search for correlates in the legislation they target. The previous section ignored urgency reiteration, a striking pattern in the data. This section isolates urgency chains in search for one observable consequences in the legislative process. If the urgency authority were consequential, it should prompt action in the chamber where the bill awaited consideration. Moreover, the action should happen within the deadline established by the president. 
 
-Many actions can follow an urgency call: the bill is marked in committee; one or more committee reports (called \emph{informes} in Chile) are drafted and adopted; the bill is reported, with possible revisions or even a negative advise, to the floor; a positively-reported bill is scheduled in the Order (Orden del D\'ia); the plenary considers, possibly amends, and eventually votes the bill's passage; among many more. Analysis will focus on one specific step from the large set: \emph{committee reports}. Reports are observable steps in the bill histories collected. If report contents are, unfortunately, unavailable, the drafting committee and report's date are included. Since urgency messages are also dated, synchronicity can be verified systematically.  
+Several actions might follow an urgency call: the bill is marked in committee; one or more committee reports (called \emph{informes} in Chile) are drafted and adopted; the bill is reported, with possible revisions or even a negative advise, to the floor; a positively-reported bill is scheduled in the Order (\emph{Orden del D\'ia}); the plenary considers, possibly amends, and eventually votes the bill's passage; and possibly others. Analysis here focuses on committee reports. Unlike some of the steps listed, reports are observable in the bill histories collected. If report contents are, unfortunately, unavailable in the data, the drafting committee(s) and report date(s) are included. Since urgency messages are also dated, synchronicity can be verified systematically.  
 
-Committee reports are also a good choice to search for urgency authority effects because only exceptional cases of three kinds should not get one (or several, in case of multiple referrals). Unless the floor votes an exception unanimously, every bill in Chile is referred to a standing or special committee upon first introduction to each chamber. Bills with such exception are one kind. Another are bills previously reported when the urgency call is made. Last are bills discharged from committee for direct floor consideration. No explicit discharge procedure could be found in the congressional standing orders, but presumably is the same---unanimous consent---to consider a bill without prior committee referral. Bills with no such exceptions called urgent will be reported if the authority is indeed consequential. Moreover, taking urgency degrees into consideration, the finer expectation arises that bill reporting should occur \emph{before} the given deadline expires. Inconsequential urgency authority would retain committees potential as formidable gatekeepers in their policy jurisdiction, as failure to draft a report would prevent the proposal from progressing in the legislative process \citep{cox.mccubbins.1993,fenno.1973,shepsle.weingast.1987}. A consequential urgency authority, on the contrary, would undermine committees' negative agenda power, by forcing them to open the gates of bills they would rather not have the floor consider. 
+Committee reports are a good choice to search for urgency authority effects because only exceptional cases should not get one. Unless the floor votes an exception to the rules unanimously, every bill in Chile is referred to a standing or special committee upon first introduction to each chamber. Another exception are bills previously reported at the time the urgency call is made. A last exception are bills discharged from committee for direct floor consideration. No explicit discharge procedure could be found in the congressional standing orders, but presumably it is the same---unanimous consent---to consider a bill without prior committee referral. There is no record in the data to verify it, but the presumption is that such exceptions are rare. At any rate, exceptions play against detecting ripples caused by the urgency authority.
+
+One hypothesis of consequential urgency authority tested is that raising an urgency prompts a committee report. A finer hypothesis involves the chronology of events: if the urgency authority were consequential, bill reporting should occur \emph{before} the given deadline expires. Because the terms of the urgency were modified so often in the period, chains---not individual messages---are considered for analysis, expecting reports on or before the chain's final deadline. Rejecting hypotheses weighs against consequential urgency authority, committees retaining the potential as formidable gatekeepers in their policy jurisdiction---failure to draft a report prevents the proposal from progressing in the legislative process \citep{cox.mccubbins.1993,fenno.1973,shepsle.weingast.1987}. 
+
+%Due to the frequency with which deadlines are adjusted, expecting a timely reports for every message is unreasonable, even if the urgency authority were consequential. The relevant units are therefore not urgency messages but urgency chains: reports should antedate the final deadline set by a chain of messages. 
 
 %This section analyzes bill histories to detect whether or not reports follow urgency messages in the C\'amara de Diputados, and whether or not this occurs in a timely manner. Failure to observe the report is evidence of inconsequential urgency authority.  
 
-As mentioned, the Hacienda committee has special status in the Chilean Congress and deserves attention. Hacienda stands apart from other standing committees as it has jurisdiction over \emph{every} bill authorizing spending in any domain. Moreover, the unanimous exception rule is inapplicable to Hacienda bills.\footnote{Standing rules (Ley org\'anica del Congreso) arts.\ 17 and 21.} So, for instance, a proposal restricting labor benefits to certain among state health workers (bolet\'in xxxx) was referred to both the Public Health and Hacienda committees because a small appropriation for verification by the Labor Bureau was required. Hacienda committee members, working in tandem with Finance Ministry staff \citep{aleman.navia.UrgChi.2009}, may or may not appropriate funds from the budget in their report to the floor. Not unlike the Appropriations and Rules committees in the U.S.\ House, Hacienda has the status of a control committee, a key asset for agenda control \citep{kiewiet.mccubbins.1991}. Because Hacienda reports are mandatory, only previously reported bills would not get one upon an urgency call. 
+As mentioned, the Hacienda committee has special status in the Chilean Congress and deserves attention. Unlike other committees, Hacienda has jurisdiction over \emph{every} bill authorizing spending in any domain. Moreover, the unanimous exception rule is inapplicable to Hacienda bills, which \emph{must} be reported to be considered in the floor.\footnote{Standing rules (Ley org\'anica del Congreso) arts.\ 17 and 21.} So, for instance, a proposal restricting labor benefits to certain state health workers at the municipal level was referred to both the Public Health and Hacienda committees because a small appropriation for verification by the Labor Bureau was required. Hacienda committee members, working in tandem with Finance Ministry staff \citep{aleman.navia.UrgChi.2009}, may or may not appropriate funds from the budget in their report to the floor. Not unlike the Appropriations and Rules committees in the U.S.\ House, Hacienda has the status of a control committee, a key asset for agenda power \citep{kiewiet.mccubbins.1991}. Because Hacienda referral is mandatory, only previously reported bills would not get a Hacienda report following an urgency. 
+
+The assessment of predictors of timely committee reports analyzes the subset of chains from bills that were referred to the Hacienda committee separately from the full set of chains in the period. The dependent variable equals 1 if a report (an Hacienda report in the chain subset) is observed on or before the deadline set by the final message in the chain (business days used for computation); equals 0 otherwise. The multivariate analysis includes predictors in the previous section (defined over chains instead of bills), minus Hacienda referral---a bill trait is controlled differently here---and presidential approval.\footnote{Including \emph{Pres.~approval} returns a statistically insignificant coefficient and produces negligible changes in other predictors.} Also in the right side are indicators for original urgency message types. \emph{2~week~notice} and \emph{1~month~notice} are mutually-exclusive dummies equal 1 if the first, or only, message in the chain is of the said type, respectively, and 0 otherwise. The omitted category are act now messages, which serve as baseline for coefficient interpretation. There are also indicators for reiterated messages. \emph{Change~deadline} equals 1 if at least one message extending or cutting short the original deadline is chained to the first urgency message; equals 0 otherwise. And \emph{Withdraw~urgency} equals 1 if the final message in a chain dropped the bill's urgent status; equals 0 otherwise. An alternative specification with 11 mutually-exclusive dummies (Act now singleton; Act now with deadline modified; Act now withdrawn; and so forth) yielded essentially identical results in a much less parsimonious equation.  
+
+%The predictors used in the urgency models... \emph{Senate minority} and predictors listed below in Table \ref{t:chainsRegs}) are defined for chains instead of bills: Senate minority equals 1 if the opposition had majority status when the chain started and 0 otherwise; and so forth. 
 
 % \begin{table}
 % \begin{center}
@@ -619,7 +630,6 @@ As mentioned, the Hacienda committee has special status in the Chilean Congress 
 % \end{center}
 % \end{table}
 
-Due to the frequency with which deadlines are adjusted, expecting a timely reports for every message is unreasonable, even if the urgency authority were consequential. The relevant units are therefore not urgency messages but urgency chains: reports should antedate the final deadline set by a chain of messages. This section presents multivariate analysis of urgency messages in the period to assess predictors of timely committee reports. A subset of chains from bills that were referred to the Hacienda committee is analyzed separately from the full set of chains. The dependent variable equals 1 if a report (an Hacienda report in the chain subset) is observed on or before the deadline set by the final message in the chain (business days used for computation); equals 0 otherwise. 
 
 
 % Table created by stargazer v.5.2 by Marek Hlavac, Harvard University. E-mail: hlavac at fas.harvard.edu
@@ -633,79 +643,70 @@ Due to the frequency with which deadlines are adjusted, expecting a timely repor
 % \\[-1.8ex]\hline 
 % \hline \\[-1.8ex] 
 \hline \\[-1.8ex] 
- & \multicolumn{4}{c}{Hacienda report before deadline} & \multicolumn{4}{c}{Any committee report before deadline} \\ 
+ && \multicolumn{3}{c}{Hacienda report before deadline} && \multicolumn{3}{c}{Any committee report before deadline} \\ 
 % \\[-1.8ex] & \multicolumn{3}{c}{\textit{logistic}} & \multicolumn{1}{c}{\textit{generalized linear}} & \multicolumn{3}{c}{\textit{logistic}} & \multicolumn{1}{c}{\textit{generalized linear}} \\ 
 %  & \multicolumn{3}{c}{\textit{}} & \multicolumn{1}{c}{\textit{mixed-effects}} & \multicolumn{3}{c}{\textit{}} & \multicolumn{1}{c}{\textit{mixed-effects}} \\ 
-\\[-1.8ex] & \multicolumn{1}{c}{(5)} & \multicolumn{1}{c}{(6)} & \multicolumn{1}{c}{(7)} & \multicolumn{1}{c}{(8)} & \multicolumn{1}{c}{(9)} & \multicolumn{1}{c}{(10)} & \multicolumn{1}{c}{(11)} & \multicolumn{1}{c}{(12)}\\ 
+\\[-1.8ex] && \multicolumn{1}{c}{(5)} & \multicolumn{1}{c}{(6)} & \multicolumn{1}{c}{(7)} && \multicolumn{1}{c}{(8)} & \multicolumn{1}{c}{(9)} & \multicolumn{1}{c}{(10)}\\ 
 \\[-1.8ex] \hline \\[-1.8ex] 
- \emph{2 week} & 0.471^{***} & 0.470^{***} & 0.458^{***} & 0.468^{***} & 0.656^{***} & 0.661^{***} & 0.660^{***} & 0.661^{***} \\ 
- \emph{notice} & (.006) & (.006) & (.008) & (.007) & (<.001) & (<.001) & (<.001) & (<.001) \\ [.75ex]
- \emph{1 month} & 0.028 & 0.033 & 0.016 & 0.030 & 0.203 & 0.206 & 0.202 & 0.206 \\ 
-  \emph{notice} & (.878) & (.856) & (.932) & (.867) & (.152) & (.146) & (.155) & (.146) \\ [.75ex]
- \emph{Change} & 0.457^{***} & 0.455^{***} & 0.472^{***} & 0.458^{***} & 0.392^{***} & 0.388^{***} & 0.394^{***} & 0.388^{***} \\ 
- \emph{deadline} & (.002) & (.002) & (.002) & (.002) & (.001) & (.001) & (.001) & (.001) \\ [.75ex]
- \emph{Withdraw}  & 0.344^{***} & 0.341^{***} & 0.411^{***} & 0.353^{**} & 0.164 & 0.168 & 0.193^{*} & 0.168 \\ 
- \emph{urgency} & (.009) & (.010) & (.003) & (.011) & (.117) & (.107) & (.074) & (.107) \\ [.75ex]
- \emph{Member bill} & 0.631^{**} &  &  &  & -1.075^{***} &  &  &  \\ 
-  & (.050) &  &  &  & (<.001) &  &  &  \\ [.75ex]
- \emph{Member bill}  &  & 0.190 & 0.129 & 0.179 &  & -1.255^{***} & -1.248^{***} & -1.255^{***} \\ 
- \emph{pres. coal.-sp}. &  & (.709) & (.800) & (.726) &  & (<.001) & (<.001) & (<.001) \\ [.75ex]
- \emph{Member bill}  &  & 0.530 & 0.632 & 0.549 &  & -1.088^{***} & -1.074^{***} & -1.088^{***} \\ 
- \emph{mix.-sponsored} &  & (.398) & (.315) & (.384) &  & (<.001) & (<.001) & (<.001) \\ [.75ex]
- \emph{Member bill}  &  & 1.057^{**} & 1.089^{**} & 1.063^{**} &  & -0.746^{***} & -0.731^{***} & -0.746^{***} \\ 
- \emph{opp.-sponsored} &  & (.049) & (.043) & (.048) &  & (<.001) & (<.001) & (<.001) \\ [.75ex]
- \emph{Chain in}  & 0.293^{**} & 0.295^{**} & 0.303^{**} & 0.296^{**} & 0.471^{***} & 0.472^{***} & 0.472^{***} & 0.472^{***} \\ 
- \emph{Senate} & (.021) & (.020) & (.017) & (.020) & (<.001) & (<.001) & (<.001) & (<.001) \\ [.75ex]
- \emph{Senate}  &  0.344 &  0.346 &  0.220 &  0.324 &  0.196 &  0.192 &  0.173 &  0.192 \\ 
- \emph{minority} & (.251) & (.248) & (.532) & (.299) & (.382) & (.393) & (.516) & (.393) \\ [.75ex]
- \emph{Pres.~term}  & 0.274^{***} & 0.275^{***} & 0.289^{***} & 0.277^{***} & 0.303^{***} & 0.308^{***} & 0.315^{***} & 0.308^{***} \\ 
- \emph{remaining} & (<.001) & (<.001) & (<.001) & (<.001) & (<.001) & (<.001) & (<.001) & (<.001) \\ [.75ex]
- \emph{Year} & 0.107^{*} & 0.104 & 0.098 & 0.103 & 0.012 & 0.011 & 0.009 & 0.011 \\ 
- \emph{remaining} & (.092) & (.102) & (.122) & (.106) & (.810) & (.822) & (.847) & (.822) \\ [.75ex]
- \emph{Relax} & -0.589^{*} & -0.605^{*} & -0.463 & -0.589^{*} & -0.057 & -0.088 & 0.080 & -0.088 \\ 
- \emph{deadlines} & (.057) & (.051) & (.468) & (.066) & (.809) & (.708) & (.863) & (.708) \\ [.75ex]
- % 2002--06 Leg. &  &  & 0.084 &  &  &  & 0.051 &  \\ 
- %  &  &  & (.721) &  &  &  & (.781) &  \\ [.75ex]
- % 2006--10 Leg. &  &  & -0.310 &  &  &  & -0.094 &  \\ 
- %  &  &  & (.171) &  &  &  & (.592) &  \\ [.75ex]
- % 2010--14 Leg. &  &  & -0.147 &  &  &  & -0.187 &  \\ 
- %  &  &  & (.839) &  &  &  & (.725) &  \\ [.75ex]
- Constant & 1.015^{***} & 1.022^{***} & 0.995^{***} & 1.002^{***} & 1.041^{***} & 1.044^{***} & 1.047^{***} & 1.044^{***} \\ 
-  & (.002) & (.002) & (.008) & (.002) & (<.001) & (<.001) & (<.001) & (<.001) \\ [.75ex]
+ \emph{2 week} && .470^{***} & .458^{***} & .468^{***} && .661^{***} & .660^{***} & .661^{***} \\ 
+ \emph{notice} && (.006) & (.008) & (.007) && (<.001) & (<.001) & (<.001) \\ [.75ex]
+ \emph{1 month} && .033 & .016 & .030 && .206 & .202 & .206 \\ 
+  \emph{notice} && (.856) & (.932) & (.867) && (.146) & (.155) & (.146) \\ [.75ex]
+ \emph{Change} && .455^{***} & .472^{***} & .458^{***} && .388^{***} & .394^{***} & .388^{***} \\ 
+ \emph{deadline} && (.002) & (.002) & (.002) && (.001) & (.001) & (.001) \\ [.75ex]
+ \emph{Withdraw}  && .341^{***} & .411^{***} & .353^{**} && .168 & .193^{*} & .168 \\ 
+ \emph{urgency} && (.010) & (.003) & (.011) && (.107) & (.074) & (.107) \\ [.75ex]
+ \emph{Member bill}  && .190 & .129 & .179 && -1.255^{***} & -1.248^{***} & -1.255^{***} \\ 
+ \emph{pres. coal.-sp}. && (.709) & (.800) & (.726) && (<.001) & (<.001) & (<.001) \\ [.75ex]
+ \emph{Member bill}  && .530 & .632 & .549 && -1.088^{***} & -1.074^{***} & -1.088^{***} \\ 
+ \emph{mix.-sponsored} && (.398) & (.315) & (.384) && (<.001) & (<.001) & (<.001) \\ [.75ex]
+ \emph{Member bill}  && 1.057^{**} & 1.089^{**} & 1.063^{**} && -.746^{***} & -.731^{***} & -.746^{***} \\ 
+ \emph{opp.-sponsored} && (.049) & (.043) & (.048) && (<.001) & (<.001) & (<.001) \\ [.75ex]
+ \emph{Pres.~term}  && .275^{***} & .289^{***} & .277^{***} && .308^{***} & .315^{***} & .308^{***} \\ 
+ \emph{remaining} && (<.001) & (<.001) & (<.001) && (<.001) & (<.001) & (<.001) \\ [.75ex]
+ \emph{Year} && .104 & .098 & .103 && .011 & .009 & .011 \\ 
+ \emph{remaining} && (.102) & (.122) & (.106) && (.822) & (.847) & (.822) \\ [.75ex]
+ \emph{Chain in}  && .295^{**} & .303^{**} & .296^{**} && .472^{***} & .472^{***} & .472^{***} \\ 
+ \emph{Senate} && (.020) & (.017) & (.020) && (<.001) & (<.001) & (<.001) \\ [.75ex]
+ \emph{Senate}  &&  .346 &  .220 &  .324 &&  .192 &  .173 &  .192 \\ 
+ \emph{minority} && (.248) & (.532) & (.299) && (.393) & (.516) & (.393) \\ [.75ex]
+ \emph{Relax} && -.605^{*} & -.463 & -.589^{*} && -.088 & .080 & -.088 \\ 
+ \emph{deadlines} && (.051) & (.468) & (.066) && (.708) & (.863) & (.708) \\ [.75ex]
+ % 2002--06 Leg. &&  & .084 &  &&  & .051 &  \\ 
+ %  &&  & (.721) &  &&  & (.781) &  \\ [.75ex]
+ % 2006--10 Leg. &&  & -.310 &  &&  & -.094 &  \\ 
+ %  &&  & (.171) &  &&  & (.592) &  \\ [.75ex]
+ % 2010--14 Leg. &&  & -.147 &  &&  & -.187 &  \\ 
+ %  &&  & (.839) &  &&  & (.725) &  \\ [.75ex]
+ Constant && 1.022^{***} & .995^{***} & 1.002^{***} && 1.044^{***} & 1.047^{***} & 1.044^{***} \\ 
+  && (.002) & (.008) & (.002) && (<.001) & (<.001) & (<.001) \\ [.75ex]
 \hline \\[-1.8ex] 
-Effects & \multicolumn{1}{c}{none} & \multicolumn{1}{c}{none} & \multicolumn{1}{c}{fixed} & \multicolumn{1}{c}{mixed} & \multicolumn{1}{c}{none} & \multicolumn{1}{c}{none} & \multicolumn{1}{c}{fixed} & \multicolumn{1}{c}{mixed} \\ 
-Observations & \multicolumn{1}{c}{1,837} & \multicolumn{1}{c}{1,837} & \multicolumn{1}{c}{1,837} & \multicolumn{1}{c}{1,837} & \multicolumn{1}{c}{3,342} & \multicolumn{1}{c}{3,342} & \multicolumn{1}{c}{3,342} & \multicolumn{1}{c}{3,342} \\ 
-Log$L$ & \multicolumn{1}{c}{$-852$} & \multicolumn{1}{c}{$-851$} & \multicolumn{1}{c}{$-849$} & \multicolumn{1}{c}{$-851$} & \multicolumn{1}{c}{$-1,454$} & \multicolumn{1}{c}{$-1,451$} & \multicolumn{1}{c}{$-1,451$} & \multicolumn{1}{c}{$-1,451$} \\ 
-\% correct & \multicolumn{1}{c}{81} & \multicolumn{1}{c}{81} & \multicolumn{1}{c}{81} & \multicolumn{1}{c}{81} & \multicolumn{1}{c}{82} & \multicolumn{1}{c}{82} & \multicolumn{1}{c}{82} & \multicolumn{1}{c}{82} \\ 
+Effects && \multicolumn{1}{c}{none} & \multicolumn{1}{c}{fixed} & \multicolumn{1}{c}{mixed} && \multicolumn{1}{c}{none} & \multicolumn{1}{c}{fixed} & \multicolumn{1}{c}{mixed} \\ 
+Observations && \multicolumn{1}{c}{1,837} & \multicolumn{1}{c}{1,837} & \multicolumn{1}{c}{1,837} && \multicolumn{1}{c}{3,342} & \multicolumn{1}{c}{3,342} & \multicolumn{1}{c}{3,342} \\ 
+Log$L$ && \multicolumn{1}{c}{$-851$} & \multicolumn{1}{c}{$-849$} & \multicolumn{1}{c}{$-851$} && \multicolumn{1}{c}{$-1,451$} & \multicolumn{1}{c}{$-1,451$} & \multicolumn{1}{c}{$-1,451$} \\ 
+\% correct && \multicolumn{1}{c}{81} & \multicolumn{1}{c}{81} & \multicolumn{1}{c}{81} && \multicolumn{1}{c}{82} & \multicolumn{1}{c}{82} & \multicolumn{1}{c}{82} \\ 
 \\[-1.8ex] 
 \hline \\[-1.8ex] 
   & \multicolumn{8}{r}{$^{*}$p$<$.1; $^{**}$p$<$.05; $^{***}$p$<$.01 (p-values in parentheses)} \\ 
 \end{tabular} 
 }
-  \caption{Urgency chains and timely committee reports. Dependent variable indicates committee reports before the urgency chain's final deadline. Models 1--4 include chains of bills referred to Hacienda committee only, models 5--8 all chains. Models 3 and 7 include fixed Legislatura effects (not reported). Method of estimation: generalized linear model (models 4 and 8), others with logit.}\label{t:chainsRegs} 
+  \caption{Urgency chains and timely committee reports. Dependent variable indicates committee reports before the urgency chain's final deadline. Models 5--7 include chains of bills referred to Hacienda committee only, models 8--10 all chains. Models 6 and 9 include fixed Legislatura effects (not reported). Method of estimation: generalized linear model (models 7 and 10), others with logit.}\label{t:chainsRegs} 
 %\end{table} 
 \end{sidewaystable}
 
 % need MCMC simulations: two plots with 4yrs in x-axis and prob(reportHda) in y-axis, one for member bills, the other for exec bills. Plot lines for act now, 2 week, 1 month, change, withdraw. 
 
-The Hacienda speacification, a superior design to assess urgency effects, is discussed first. Overall model performance is satisfactory. The null that predictors do no better than a constant-only estimation is rejected at levels orders of magnitude below .001 (not reported). It predicts correctly 81 percent of the chains observed. And the coefficient estimates in Table \ref{t:chainsRegs} offer an interesting perspective. Predictors in the right side include indicators for urgency message types. Two mutually-exclusive dummies measure the original urgency message's degree: \emph{2~week~notice} and \emph{4~week~notice} (equal 1 if the first, or only, message in the chain is of the said type, respectively, and 0 otherwise). There are also indicators for reiterated messages. \emph{Change~deadline} equals 1 if at least one message extending or cutting short the original deadline is chained to the first urgency message; equals 0 otherwise. And \emph{Withdraw~urgency} equals 1 if the final message in a chain dropped the bill's urgent status; equals 0 otherwise.\footnote{An alternative specification with 11 mutually-exclusive dummies (Act now singleton; Act now with deadline modified; Act now withdrawn; and so forth) produced essentially identical results in a much less parsimonious equation.} Compared to act now messages (the omitted category), two week notices are likelier to trigger an Hacienda report, an effect significant at the .006 level. Given that multi-link messages are controlled separately, this effect is attributable to the original message only so, other things constant, presidents improved the odds of Hacienda reporting the bill through singleton chain more by opting for two week notices instead of act now. And one month notices were no less successfull than act now messages in this respect (effects are statistically indistiguishable). Less surprisingly, changing the deadline had a positive and significant effect in the probability of observing a timely Hacienda report. Most deadline changes brought more time for consideration, often adding several links to the chain, with palpably better odds of getting a report. Withdrawing the bill's urgent status did the same. 
+The Hacienda specification in Table \ref{t:chainsRegs} is discussed first. Overall model performance is satisfactory, predicting correctly 81 percent of the chains observed. The null that predictors do no better than a constant-only estimation is rejected at a level orders of magnitude below .001 (not reported). And coefficient estimates offer an interesting perspective. Compared to act now messages, two week notices are likelier to trigger a timely Hacienda report, an effect significant at the .006 level. Given that multi-link chains are controlled separately, this effect is attributable to the original message only. So, other things constant, presidents improved the odds of Hacienda reporting the bill through singleton urgency chain by opting for two week notices instead of act now. One month notices, however, were no less successfull than act now messages in this respect (effects are statistically indistiguishable). Not surprisingly, changing the deadline had a positive and significant effect in the probability of observing a timely Hacienda report. Most deadline changes brought extra time for consideration, often adding several links to the chain, with palpably better odds of getting a report. Withdrawing the bill's urgent status did the same. 
 
-Also in the right side are the predictors used in the urgency models (minus the Hacienda referral dummy because that is controlled differently here), aiding interpretation of the next set of results. \emph{Senate minority} and predictors listed below in Table \ref{t:chainsRegs}) are defined for chains instead of bills: Senate minority equals 1 if the oppsition had majority status when the chain started and 0 otherwise; and so forth. As in the urgency models, Presidential term and Legislative year remaining were normalized for the sake of the mixed effects estimation. Other things constant, member proposals predict Hacienda reports better than executive ones. With fewer member bills selected for urgent status, those that were received a statistically significant boost in the chances of getting a timely report. And model 6, with controls for bill member sponsorship, reveals that the effect is fully attributable to opposition proposals, as the coefficients for bills sponsored in full or in part by presidential coalition members are statistically indistinguishable from zero. That presidents showed a tendency to choose opposition projects among a select group of member bills called urgent is remarkable, but the effect this had in their progress in the legislative process is even more remarkable (the biggest coefficient in the table, in fact). Presidents systematically rewarded some opposition members and their projects. Rewarding coalition members was possibly done by executive initiation of their pet projects.     
+Other things constant, member proposals are associated with higher likelihood of timely Hacienda reports than executive proposals contingent on the co-sponsoring profile. While all \emph{Member bill} coefficients are positive, only the opposition-only-sponsored are significant. Chains of member proposals were no less successfull in triggering report than presidential project chains, but opposition project chains experienced a substantial boost in the odds of a timely Hacienda report. That presidents chose opposition projects among a select group of member bills to target for urgency is remarkable, but the effect this had in their progress in the legislative process is even more remarkable (the biggest coefficient in the table, in fact). Presidents systematically rewarded some opposition members and their projects. Rewarding coalition members was possibly done by executive initiation of their pet projects.     
 
-Urgency chains had significantly better odds of compelling timely Hacienda action in the Senate than in the C\'amara, even if Senate opposition control of the Senate had no effect. This confirms inter-chamber differences hinted by the urgency models, presidents using the urgency authority not just more often but also with better results in the upper than the lower. Significant time trends are also patent, urgency chains started earlier in the presidential term (and, mostly non-sigificantly, earlier in each legislative year) getting timely Hacienda reports more probably, other things constant, than those started later. And unlike urgency models, the reform relaxing deadlines in 2010 had a significant effect (at the .1-level or better), the likelihood of timely reports \emph{dropping} in the subsequent period. As the institutional change happened just months into the last Legislature and presidency in the dataset, with the opposition always in control of the Senate and the first non-Concertaci\'on post-transition president, the effect is over-determined to jump to conclusions about it. 
+%And model 6, with controls for bill member sponsorship, reveals that the effect is fully attributable to opposition proposals, as the coefficients for bills sponsored in full or in part by presidential coalition members are statistically indistinguishable from zero. 
 
-Analysis of the full set of chains in models 9--12 has mostly similar estimates to the Hacienda chains. This is evidence of model robustness, to different specifications but also to analysis of more numerous and less controlled data. But a difference worth noting are the coefficients of the \emph{Member bills} variables. Compared to those referred to the Hacienda committee, those declared urgent among the full set of member bills in the period were significantly less likely to get a timely committee report than executive bills with the same status, although the least hurt among member bills were those sponsored by the opposition. 
+As in the urgency models, the presidential term and legislative year remaining regressors were normalized for the sake of the mixed effects estimation. Significant time trends are patent, urgency chains started earlier in the presidential term (and, non-sigificantly, earlier in each legislative year) getting timely Hacienda reports more probably, other things constant, than those started later. Urgency chains had significantly better odds of compelling timely Hacienda action in the Senate than in the C\'amara, even if Senate opposition control of the Senate had no effect. This confirms inter-chamber differences hinted by the urgency models, presidents using the urgency authority not just more often but also with improved results in the upper than the lower. And unlike urgency models, the reform relaxing deadlines in 2010 had a significant effect (at the .1-level or better), the likelihood of timely reports \emph{dropping} with longer consideration periods. As the institutional change happened just months into the last Legislature and presidency in the dataset, with the opposition in fiorm control of the Senate and the first non-Concertaci\'on post-transition president, the effect is over-determined to jump to conclusions about it. 
 
-All said, there is evidence that movement in the assembly, in the form of committee reports, follows urgency authority usage, and the timing appear driven by deadlines that presidents set unilaterally. A complement of the findings are regressions of weekly reports on lagged weekly urgency messages.\footnote{The general form is $\mathit{nReports}_t = \beta_0 + \beta_1 \mathit{nUrgencies}_t + \beta_2 \mathit{nUrgencies}_{t-1} + ...$, where \emph{nReports} and \emph{nUrgencies} are weekly reports and urgencies observed, respectively; $t$ is the current week; $t-1$ the week before; and so forth, up to four lags. Also in the right side are controls (reported in the appendix only) for the percentage of the current legislative year remaining at week $t$ and a dummy distinguishing the 2010--2014 legislature from the 2006--2010 baseline. Weeks when the chamber did not meet were dropped, adding any of that week's reports to the closest next week with a session. Bill histories date reports when officially received by chamber staff (when they entered the so-called \emph{cuenta}, the official tally), which may be days before plenary announcement. The algorithm coded these dates incorrectly, explaining reports dated in session-less weeks. The same could happen for weekly urgency messages, corrected likewise.} Using messages instead of chains operates a raise of the bar, yet also detects a signal. Analysis covers the 2006--2014 period (when chains became longer than before) in the C\'amara only (where estimated urgency authority effects are milder in the previous models). As before, Hacienda and all committees regressions were produced. The median C\'amara session week in the period had one bill reported by Hacienda and four by any committee (with deviations of 1.5 and 5.9, respectively). When counting weekly urgency messages, the right side makes a distinction of `act now', `two week', `one month' messages, and messages imposing a shorter deadline than originally set. When a bill receives an `act now' notice, an effect should be observed almost immediately, in the current week or the next at most. Other urgency degree effects should not necessarily be so immediate. Given the limited nature of the dependent variable (a count), negative binomial regression was used for estimation \citep{cameron.trivedi.1998}. % "summarize weekly reports" in allUrg code 
+Unlike the urgency models, the fixed and mixed effects specifications had no effect in Hacienda coefficients. (Only the loss of significance of the \emph{Relax deadlines} coefficient in model 6 is notable; but fully attributable to the high colinearity of the said variable with the 2010--14 fixed effect.) And analysis of the full set of chains in models 9--12 yields mostly similar estimates to the Hacienda chains. All points to model robustness, to different specifications but also to analysis of more numerous and less controlled data. The difference worth noting are coefficients of the \emph{Member bill} battery. Compared to chains of Hacienda-referred bills, those of among the full set of member bills in the period were significantly less likely to get a timely committee report than executive bills with the same status, although the least hurt among member bills were those sponsored by the opposition only. 
 
- 
- 
-
-%It includes the C\'amara's spontaneous reports and reports presumably triggered by urgency message. If the urgency authority is consequential, the number and type of weekly urgency messages should correlate with total weekly reports. 
-
-%Two quantities were aggregated for analysis: weekly Hacienda committee reports, and weekly reports from any committee. The Hacienda aggregate seems preferable, letting analysis search for correlation with urgency messages explicitly targeting bills that were referred to that committee. The total aggregate offers less control, but a more comprehensive picture. 
-
-%Analysis, at this stage, does not control for exceptions to the post-urgency report expectation, such as bills that had been reported before the urgency message was issued. But, unless there is a reason to suspect that most or many urgency messages arrive after the committee has reported---and I see no a priori reason to expect this---a relatively large number of messages should be followed by a report. And the report's timing should bear relation to the degree of the urgency. 
+All said, there is statistical evidence that the urgency successfully puts the assembly in motion, at least in the form of producing committee reports before the deadline. And the timing of the movement appears systematically driven by the rhythm that presidents decide unilaterally. Regressions of weekly reports on lagged weekly urgency messages are a final complement to the findings.\footnote{The general form is $\mathit{nReports}_t = \beta_0 + \beta_1 \mathit{nUrgencies}_t + \beta_2 \mathit{nUrgencies}_{t-1} + ...$, where \emph{nReports} and \emph{nUrgencies} are weekly reports and urgencies observed, respectively; $t$ is the current week; $t-1$ the week before; and so forth, up to four lags. Also in the right side are controls (reported in the appendix only) for presidential approval, the percentage of the current legislative year remaining at week $t$, and a dummy distinguishing the 2010--2014 legislature from the 2006--2010 baseline.} Using messages instead of chains operates a raise of the bar, and also detects a signal. Analysis covers the 2006--2014 period (when chains became longer) in the C\'amara only (where estimated urgency authority effects are milder in the previous models). As before, Hacienda and all committees regressions were produced. When counting weekly urgency messages, the right side makes a distinction of `act now', `two week', `one month' messages, and those imposing a shorter deadline than originally set. When a bill receives an `act now' notice, an effect should be observed almost immediately, in the current week or the next at most. Other urgency degree effects should not necessarily be so immediate. 
 
 %%%% NegBin Regressions from chilBill.r 
 % 1Regression of Hda Reports to Exec bills on Urgencies to Exec bills ref to Hda  DIP
@@ -759,40 +760,35 @@ All said, there is evidence that movement in the assembly, in the form of commit
 \begin{tabular}{l|ccccc|ccccc}
                  & \mc{10}{c}{Effect on committee reports ($t=0$ is current week)}                                      \\
 %                 &   \mc{10}{c}{Dependent variable:} \\ 
-                 & \mc{5}{c|}{Exec.~bills}      & \mc{5}{c}{Member bills}                      \\
-Urgency type     & $t=0$    & 1        & 2       & 3       & 4         & $t=0$    & 1          & 2         & 3          & 4          \\ \hline
-\mc{11}{l}{\textbf{Hacienda-referred executive bills}}  \\
-                 &                    \mc{5}{c|}{(13)}                  &                      \mc{5}{c}{(14)}                         \\ 
-Act Now          &   $++$   &  $+$     &   $--$  &         &           &          &  $++$      &           &            &            \\
-2 week notice    &          &  $++$    &         &    $--$ &           &     $++$ &  $-$       &  $++$     &            &            \\
+Urgency          & \mc{5}{c|}{Exec.~bills}      & \mc{5}{c}{Member bills}                      \\
+target and type  & $t=0$    &    1     &    2    &    3    &    4      & $t=0$    &    1       &    2      &    3       &    4       \\ \hline
+\mc{11}{l}{\textbf{Targets Hacienda-referred executive bills}}  \\
+                 &                    \mc{5}{c|}{(11)}                  &                      \mc{5}{c}{(12)}                         \\ 
+Act Now          &   $++$   &  $++$    &   $--$  &         &           &          &  $++$      &           &            &            \\
+2 week notice    &          &  $++$    &         &    $-$  &           &     $++$ &  $-$       &  $++$     &            &            \\
 1 month notice   &          &          &         &    $++$ &      $++$ &          &            &           &            &            \\
 Shorten deadline &          &  $++$    &         &         &           &          &            &           &            &            \\ \hdashline
-\mc{11}{l}{\textbf{Hacienda-referred member bills}}    \\
-                 &                   \mc{5}{c|}{(15)}                   &                      \mc{5}{c}{(16)}                         \\ 
+\mc{11}{l}{\textbf{Targets Hacienda-referred member bills}}    \\
+                 &                   \mc{5}{c|}{(13)}                   &                      \mc{5}{c}{(14)}                         \\ 
 Act Now          &          &          &         &         &           &     $++$ &  $++$      &           &            &            \\
 2 week notice    &          & \mc{3}{c}{\footnotesize{(not estimated)}} &           &          &            &  $++$     &      $++$  &            \\ 
 1 month notice   &          &          &         &         &           &          &            &           &            &            \\  
 Shorten deadline &          &          &         &         &           &          &            &           &            &            \\ \hdashline
-\mc{11}{l}{\textbf{Any executive bill}}  \\
-                 &                   \mc{5}{c|}{(17)}                   &                      \mc{5}{c}{(18)}                         \\ 
+\mc{11}{l}{\textbf{Targets any executive bill}}  \\
+                 &                   \mc{5}{c|}{(15)}                   &                      \mc{5}{c}{(16)}                         \\ 
 Act Now          &   $++$   &  $++$    &   $--$  &         &           &          &            &           &            &            \\
-2 week notice    &          &  $+$     &   $++$  &         &           &     $+$  &            &           &            &      $--$  \\
+2 week notice    &          &  $++$    &         &  $+$    &           &     $+$  &            &           &            &      $--$  \\
 1 month notice   &          &          &         &         &           &          &            &           &            &      $++$  \\
-Shorten deadline &          &          &         &         &           &          &            &           &            &            \\ \hline
+Shorten deadline &          &  $+$     &         &         &           &          &            &           &            &            \\ \hline
 \mc{11}{r}{\footnotesize{$++,--: p<.05$; $+,-: p<.1$ (one-tailed tests)}}                                                            \\
 \end{tabular}
 \caption{Effect of weekly urgency messages on C\'amara's committee reports, 2006--2014. Entries report sign and significance of selected regression coefficients. Negative binomial method of estimation.}\label{t:negbin}
 \end{table}
 
-% recover regression tables and report in the appendix; estimate senate versions and report
+Table \ref{t:negbin} is a synthesis of five model specifications, reporting just the signs and significance of key coefficients (full results in the appendix). Regressions taking executive and member bills' reports in the left side were fitted separately and appear in each of the table's columns. When regressing Hacienda reports, only messages targeting bills specifically referred to that C\'amara committee were counted in the right side. So model 11 gauges the potential effect that raising urgency for Hacienda-referred executive bills has on Hacienda's reports of executive bills. Model 14 does the same for member bills. In order to investigate if executive bill urgency also has an effect on member bill reports---possibly delaying them, as the president obstructs the top scheduling slots---model 12 takes model 14's dependent variable but model 11's predictors. Models 15 and 16 seek how executive bill urgencies (regardless of referral) potentially affect reports (regardless of committee). Expectations are directional (urgencies should associate with reporting hikes) so one-tailed tests were used---double plus/minus signs indicate standard .05 significance; a single sign .1 significance; and no sign lack of statistical significance. 
 
-Table \ref{t:negbin} is a synthesis of the results of five model specifications, reporting just the signs and significance of key coefficients (see the appendix for the full set of results). Regressions taking executive- and member-initiated bills' reports in the left side were fitted separately. They are reported in each of the table's columns. When regressing Hacienda reports, only messages targeting bills specifically referred to that standing committee in the C\'amara were counted in the right side. So model 13 gauges the potential effect that raising urgency for Hacienda-referred executive bills has on Hacienda's reports of executive bills. Model 16 does the same for member bills. In order to investigate if executive bill urgency also has an effect on member bill reports---possibly delaying them, as the president obstructs the top scheduling slots---model 14 takes model 16's dependent variable but model 13's predictors. Models 17 and 18 seek how executive bill urgencies (regardless of referral) potentially affect reports (regardless of committee).
+Results are consistent with consequential urgency authority. Other things constant, `act now' messages in models 11, 14, and 15 grow in tandem with reports issued the very same week or the next (i.e., weeks 0 and 1). Urging immediate Hacienda committee action is followed quite immediately by above average Hacienda reports. And milder urgency associates with later increments in reporting, very clearly in model 11, less so in models 14 and 15. Week 2's negative sign in model 11 is also notable: a slump follows Hacienda's reporting surge. Once the obstruction is behind, time is not devoted to Hacienda-referred executive bills, but to something else---the item that the executive obstruction stopped, perhaps. And model 12 shows that messages urging Hacienda to schedule executive bills makes ripples in the committee's \emph{member}-bill reporting. `Act now' messages bring member-bill reporting up in week 1, `two week' messages see reporting up in weeks 0 and 2, down in week 1. This is not conclusive evidence, but it does suggest the Hacienda committee squeezes member proposals obstructed by the president's self-prioritizing before and immediately after urgent business is considered. 
 
-Expectations are directional: urgencies should associate with hikes in reporting, so one-tailed tests were used---double plus/minus signs indicate standard .05 significance; a single signs .1 significance; and no sign lack of statistical significance. Results of individual message analysis are consistent with consequential urgency authority. Other things constant, `act now' messages in models 13, 16, and 17 grow in tandem with reports issued the very same week or the next (i.e., weeks 0 and 1). Urging immediate Hacienda committee action is followed quite immediately by above average Hacienda reports of proposals. And softer urgency associates with later increments in reporting, very clearly in model 13, less so in models 16 and 17. Week 2's negative sign in model 13 is notable: a slump follows Hacienda's reporting surge. When the obstruction is behind, time is not devoted to Hacienda-referred executive bills, but to other business. Could that be the item that the executive obstruction stopped? And model 14 shows that messages urging Hacienda to schedule executive bills makes ripples in the committee's \emph{member}-bill reporting. `Act now' messages bring member-bill reporting up in week 1, `two week' messages see reporting up in weeks 0 and 2, down in week 1. This is not conclusive evidence, but it does suggest the Hacienda committee squeezes member proposals obstructed by the president's self-prioritizing before and immediately after urgent business is considered. Inspection of Hacienda committee scheduling and activity should prove illuminating in both respects. 
-
-Close section...
-
-The results of the regression analyses conform with a view that the urgency authority in Chile is consequential. Qualitative inspection of the issues declared urgent, of the urgency messages and their content (especially the recommendations that the messages communicate), and of committee reports themselves will shed light on whether or not, and how cost $k$ is supporting a consequential urgency authority in Chile. The level of urgency results certainly do. 
 
 
 
@@ -926,7 +922,7 @@ The results of the regression analyses conform with a view that the urgency auth
 
 \section{Closing remarks}
 
-Use the flowchart as part of the synthesis...
+Inspection of urgency message predictors and committee reporting within the time frame that presidential messages set forth has uncovered evidence consistent with consequential urgency authority in Chile. The chapter is far from conclusive, however: other than raising an abstract cost of ignoring urgent calls, why members of Congress heed executive cheap talk remains a puzzle. But patterns in the data suggest a promising area for research.  
 
 % %% version without urgency step
 % \begin{sidewaysfigure}
@@ -1112,14 +1108,15 @@ Use the flowchart as part of the synthesis...
 \\
 \end{tabular}
 %\caption{Paths of executive bills (cont.\ distinguishing urgencies)}
-\caption{Paths of executive bills in Congress. C\'am.\, Sen.\, Conf.\, and Exec.\ refer to C\'amara de Diputados, Senate, Conference committee, and executive's desk, respectively. Numbers are all relative to base 100 (i.e., freq.$\times$100/\emph{N}), rounded to nearest integer.}\label{F:billPaths}
+\caption{Paths of executive bills in Congress 2010--14. C\'am.\, Sen.\, Conf.\, and Exec.\ refer to C\'amara de Diputados, Senate, Conference committee, and executive's desk, respectively. Numbers are all relative to base 100 (i.e., freq.$\times$100/\emph{N}), rounded to nearest integer.}\label{F:billPaths}
 \end{sidewaysfigure}
 
-The study of the urgency authority in Chile is inconclusive. From the theoretical perspective, the authority appears inconsequential unless presidents can persuade legislators that it is in their interest to act fast despite no formal penalty for non-compliance. The empirical perspective suggests otherwise. Chilean presidents rely on the urgency authority constantly, so much so that very little scheduling time seems to remain for non-urgent business. And there is evidence that urgencies produce above average committee reports in due time. 
+The big challenge is a method to deal with the selection problem complicating analysis of the urgency--bill passage relation. I close with a look at the bigger picture to give an idea of this obstacle. Figure \ref{F:billPaths} follows President Pi\~nera's proposals ($N=394$) along the full bicameral legislative process, keeping C\'amara- (left panel) and Senate-initiated bills (right) separate. The diagram reports relative numbers of proposals in the different paths (atop arrows), distinguishing proposals that proceeded to the next node (i.e., bills that passed, possibly amended) from those that did not (bills rejected, pending, or never considered). It also separates bills that became urgent (the dashed paths) from those that did not. Plots show that urgencies cannot always overcome obstacles in the process. Pi\~nera faced an opposition-controlled Senate throughout his term, yet declared similar proportions of C\'amara- and Senate-initiated bills urgent (75 and 79 percent, respectively). The key difference is related to presidential anticipation of rougher terrain in the upper chamber, Pi\~nera sending four out of five proposals to the C\'amara. Those he did sent to the Senate were, in fact, less likely to proceed to the next node than the C\'amara-initiated ($17+61=78$ v\ $13+48=61$ percent). Also noteworthy is that half as many urgencies in the C\'amara failed to move the bill forward compared to the Senate  (14 v 31 percent). If urgency messages trigger reports to the Congressional floor in predictable ways, they are certainly no guarantee of executive success: two out of five urgent Senate-initiated bills ($31/79$) never reached the revising stage, and one-fith in the lower chamber ($14/75$). Few chamber of origin differences arised once legislation reached the second node (relative to the traffic arriving there). Only the shares of bills amended in revising chamber, and therefore sent back to the originating, are somewhat different ($(25+6)/78=.4$ for C\'amara-initiated bills, $(23+6)/61=.48$ for Senate-initiated bills). Differences arise again in the third node (when the originating chamber can either concur with amendments by the revising or proceed to conference). Interestingly, the share of urgent bills in third node not proceeding further collapses to zero, regardless of chamber of origin. But the proportion of urgent Senate-initiated bills ($18/(23+6)=.62$) was substantially higher than the C\'amara-initiated ($11/(25+6)=.35$). Urgency and success are more strongly associated at later stages of the legislative process. 
 
-Yet the chapter is far from showing that the costs of ignoring and rejecting presidential proposals are responsible for restoring the urgency authority's bite. Patterns of bolder effects for higher urgency degrees are consistent with a perspective assuming that degrees are directly related to cost size. But that remains to be shown. And the over-use of low-degree urgency remains a mystery.
+The urgency authority in the continent is an institution worth studying more carefully. The next chapter inspects it in Brazil, where it is related to executive unilaterlism. Unlike Chile's, the Brazilian reversionary outcome and agenda play in favor of executive influence, simplifying analysis considerably.
 
-The excursion into urgency authority institutions in the continent reveals an institution worth studying more carefully. The next chapter inspect urgency authority in Brazil, where it is related to executive unilaterlism. Unlike Chile's, the Brazilian reversionary outcome and agenda play in favor of executive influence. 
+%To stimulate debate, I close with a bigger picture of the urgency--bill passage relation. Figure \ref{F:billPaths} follows 394 proposals by President Pi\~nera along the bicameral legislative process. Facing an opposition-controlled Senate throughout his term, Pi\~nera chose to send four out of five bills to the C\'amara. The diagram reports relative numbers of proposals in the different paths (atop arrows), distinguishing proposals that proceeded to the next chamber (i.e., bills that passed, possibly amended) from those that did not (bills rejected, pending, or never considered). It also separates bills that became urgent (the dashed paths) from those that did not. Initial differences across chambers are notable: if shares of bills tagged urgent in the C\'amara and Senate are very similar (75 and 79 percent, respectively), nearly one-fifth more proceeded to the next node in the former than the latter ($17+61=78$ vs.\ $13+48=61$ percent). The failure differential may explain the executive's preference for lower-chamber initiation, but not why Pi\~nera still chose to initiate 90 bills in the Senate. Also noteworthy is that half as many urgencies in the C\'amara failed to move the bill forward compared to the Senate  (14 and 31 percent, respectively). If, as seen in the chapter, urgency messages trigger movement in Congress in predictable ways, they are certainly no guarantee of executive success: two out of five urgent bills in the Senate ($31/79$) never reached the C\'amara, one-fith in the lower chamber ($14/75$) did not make it to the Senate. Moving to the next node in the legislative process reveals that most inter-chamber differences vanish in the revising chamber: proportions of bills passed unamended by the second chamber and therefore sent to the executive's desk are similar ($(12+24=36)/78=.46$ for C\'amara-initiated proposals and $(8+18=26)/61=.43$ for the Senate-initiated), as are shares of proposals declared urgent ($57/78=.73$ and $47/61=.77$, respectively) and shares of urgencies failing to push the bill forward ($7/57=.12$ and $6/47=.13$, respectively). Only the shares of bills amended in second chamber and therefore sent back to the originating chamber change slightly ($(25+6)/78=.4$ for C\'amara-initiated bills, $(23+6)/61=.48$ for Senate-initiated bills). And differences reappear further down, the originating chamber concurring with amendments more often in C\'amara- than in Senate-initiated bills (.77 v .62), less bills calling for urgency (.35 v .62), and fewer going to conference. While the urgency authority is certainly related to success, it is hardly determinant. 
+
 
 % \section{Online appendix}
 %
@@ -1688,6 +1685,157 @@ The excursion into urgency authority institutions in the continent reveals an in
 % AIC = 4044.5, DIC = 4016.5
 % deviance = 4016.5 
 % \end{verbatim}
+
+% finish appendix subssection, then cut and paste after the conclusion
+\section{Appendix}
+
+\subsection{Lagged weekly urgency models}
+
+The models reported in the text consider three proposal subsets separately: executive bills that were referred to the Hacienda committee; members bills that were referred to the Hacienda committee; and all executive bills. The dependent variable is \emph{nReports}, equal to the number of bills from a given subset reported weekly to the C\'amara's floor. The general regression form is $\mathit{nReports}_t = \beta_0 + \beta_1 \mathit{nUrgencies}_t + \beta_2 \mathit{nUrgencies}_{t-1} + ... + \texttt{controls}_t$, where \emph{nUrgencies} are weekly urgencies raised on bills in some subset; $\texttt{controls}$ are regressors not reported in table \ref{t:negbin}; $t$ is the current week, $t-1$ the week before, and so forth, up to four lags. Some specifications count \emph{nReports} and \emph{nUrgencies} over the same proposal subset to evaluate the direct influence of messages over their target proposals: Hacienda-referred executive proposals in model 11, all executive proposals in model 15, and Hacienda-referred member proposals in model 14. The others evaluate cross-over effects by counting \emph{nReports} and \emph{nUrgencies} over different subsets: Hacienda-referred member bills and Hacienda-referred executive bills, respectively, in model 12; Hacienda-referred executive bills and Hacienda-referred member bills, respectively, in model 13; and member bills and executive bills, respectively, in model 16. Figure \ref{f:vennNegBin} offers a summary of subsets and regression designs. 
+
+\begin{figure}
+\centering
+\begin{tabular}{cc}
+Executive proposals & Member proposals \\
+\begin{tikzpicture}[scale=.75]
+\def\circleH{(0,1) circle (1cm)}
+\def\circleU{(1,1) circle (1cm)}
+\def\circleR{(.5,0) circle (1cm)}
+\draw[gray] \circleH;
+\draw[gray] \circleU;
+\draw[gray] \circleR;
+\begin{scope}
+  \clip \circleH;
+  \draw \circleU;
+  \draw \circleR;
+\end{scope}
+\begin{scope}
+  \clip \circleU;
+  \draw \circleH;
+\end{scope}
+\begin{scope}
+  \clip \circleR;
+  \draw \circleH;
+\end{scope}
+\node at (-1.25,1.5) {\footnotesize{$H^e$}};
+\node at (2.5,1.5) {\footnotesize{$U^e$}};
+\node at (-.7,-.7) {\footnotesize{$R^e$}};
+%\node at (.5,2.25) {\footnotesize{$u^e$}};
+%\node at (.5,1.4) {\footnotesize{$\bar{r}_{e}$}};
+%\node at (.5,.55) {\footnotesize{$r^e$}};
+\end{tikzpicture}
+&
+\begin{tikzpicture}[scale=.75]
+\def\circleH{(0,1) circle (1cm)}
+\def\circleU{(1,1) circle (1cm)}
+\def\circleR{(.5,0) circle (1cm)}
+\draw[gray] \circleH;
+\draw[gray] \circleU;
+\draw[gray] \circleR;
+\begin{scope}
+  \clip \circleH;
+  \draw \circleU;
+  \draw \circleR;
+\end{scope}
+\begin{scope}
+  \clip \circleU;
+  \draw \circleH;
+\end{scope}
+\begin{scope}
+  \clip \circleR;
+  \draw \circleH;
+\end{scope}
+\node at (-1.25,1.5) {\footnotesize{$H^m$}};
+\node at (2.5,1.5) {\footnotesize{$U^m$}};
+\node at (-.7,-.7) {\footnotesize{$R^m$}};
+%\node at (.5,2.25) {\footnotesize{$u^e$}};
+%\node at (.5,1.4) {\footnotesize{$\bar{r}_{e}$}};
+%\node at (.5,.55) {\footnotesize{$r^e$}};
+\end{tikzpicture}
+\\
+\mc{2}{c}{Model and regression design:}\\
+\mc{2}{l}{11: $(U^e \cap H^e) \rightarrow (R^e \cap H^e)$}\\
+\mc{2}{l}{12: $(U^e \cap H^e) \rightarrow (R^m \cap H^m)$}\\
+\mc{2}{l}{13: $(U^m \cap H^m) \rightarrow (R^e \cap H^e)$}\\
+\mc{2}{l}{14: $(U^m \cap H^m) \rightarrow (R^m \cap H^m)$}\\
+\mc{2}{l}{15: $U^e \rightarrow R^e$}\\
+\mc{2}{l}{16: $U^e \rightarrow R^m$}\\
+\end{tabular}
+\caption{Proposal subsets analyzed in lagged weekly urgency models}\label{f:vennNegBin}
+\end{figure}
+
+Other controls in the right side, all measured at week $t$, are net presidential aproval, the percentage of the term remaining (executive and C\'amara were elected concurrently in the period), and a dummy distinguishing the 2010--2014 Legislature from the 2006--2010 baseline. Weeks when the chamber did not meet were dropped, adding any of that week's reports to the closest next week with a session. Bill histories date reports when officially received by chamber staff (when they entered the so-called \emph{cuenta}, the official tally), which may be days before plenary announcement. The algorithm coded these dates incorrectly, explaining reports dated in session-less weeks. The same could happen for weekly urgency messages, corrected likewise.
+
+The median C\'amara session week in the period had one bill reported by Hacienda and four by any committee (with deviations of 1.5 and 5.9, respectively). Given the limited nature of the dependent variable (a count), negative binomial regression was used for estimation \citep{cameron.trivedi.1998}. 
+
+Table \ref{t:appendixNreportNegBin} reports regression fit (need to replicate rest of regressions, or drop them from text!)
+
+% Table created by stargazer v.5.2 by Marek Hlavac, Harvard University. E-mail: hlavac at fas.harvard.edu
+% Date and time: Mon, Nov 09, 2015 - 08:20:10 PM
+% Requires LaTeX packages: dcolumn 
+\begin{table} \centering 
+\begin{tabular}{@{\extracolsep{5pt}}lD{.}{.}{-3} D{.}{.}{-3} } 
+ & \multicolumn{1}{c}{(11)} & \multicolumn{1}{c}{(15)}\\ 
+\hline \\[-1.8ex] 
+ \emph{nActNow} & 0.370^{***} & 0.262^{***} \\ 
+  & p = 0.000 & p = 0.000 \\ [.75ex]
+ \emph{nActNowLag1} & 0.189^{**} & 0.099^{**} \\ [.75ex]
+  & p = 0.012 & p = 0.043 \\ 
+ \emph{nActNowLag2} & -0.217^{**} & -0.259^{***} \\ 
+  & p = 0.029 & p = 0.00001 \\ [.75ex]
+ \emph{n2weekLag1} & 0.099^{***} & 0.035^{**} \\ 
+  & p = 0.0002 & p = 0.019 \\ [.75ex]
+ \emph{n2weekLag2} & 0.002 & 0.019 \\ 
+  & p = 0.946 & p = 0.256 \\ [.75ex]
+ \emph{n2weekLag3} & -0.056 & 0.023 \\ 
+  & p = 0.166 & p = 0.168 \\ [.75ex]
+ \emph{n1monthLag2} & -0.026 & 0.001 \\ 
+  & p = 0.520 & p = 0.933 \\ [.75ex]
+ \emph{n1monthLag3} & 0.088^{**} & 0.013 \\ 
+  & p = 0.012 & p = 0.421 \\ [.75ex]
+ \emph{n1monthLag4} & 0.060^{**} & 0.015 \\ 
+  & p = 0.049 & p = 0.279 \\ [.75ex]
+ \emph{nShorten} & 0.086 & 0.065 \\ 
+  & p = 0.202 & p = 0.182 \\ [.75ex]
+ \emph{nShortenLag1} & 0.177^{**} & 0.089^{*} \\ 
+  & p = 0.017 & p = 0.091 \\ [.75ex]
+ \emph{nShortenLag2} & -0.016 & -0.057 \\ 
+  & p = 0.864 & p = 0.330 \\ [.75ex]
+ \emph{Term remaining} & 0.001 & -0.001 \\ 
+  & p = 0.528 & p = 0.636 \\ [.75ex]
+ \emph{Pres.~approval} & -0.006^{**} & -0.006^{***} \\ 
+  & p = 0.023 & p = 0.0002 \\ [.75ex]
+ \emph{2010--14 Leg.} & -0.479^{***} & -0.354^{***} \\ 
+  & p = 0.002 & p = 0.0003 \\ [.75ex]
+ Constant & 0.024 & 1.200^{***} \\ 
+  & p = 0.904 & p = 0.000 \\ [.75ex]
+\hline \\[-1.8ex] 
+Observations & \multicolumn{1}{c}{309} & \multicolumn{1}{c}{309} \\ 
+Log Likelihood & \multicolumn{1}{c}{$-419.3$} & \multicolumn{1}{c}{$-635.6$} \\ 
+%$\theta$ & \multicolumn{1}{c}{11,192.890  (123,036.000)} & \multicolumn{1}{c}{19.122^{*}  (10.630)} \\ 
+%Akaike Inf. Crit. & \multicolumn{1}{c}{870.560} & \multicolumn{1}{c}{1,303.257} \\ 
+\hline \\[-1.8ex] 
+  & \multicolumn{2}{r}{\footnotesize{$^{*}$p$<$.1; $^{**}$p$<$.05; $^{***}$p$<$.01 (two-tailed tests)}} \\ 
+\end{tabular} 
+  \caption{Negative binomial regressions of \emph{nReports}$_t$} 
+  \label{t:appendixNreportNegBin} 
+\end{table} 
+
+
+% recover regression tables and report in the appendix; estimate senate versions and report
+
+%It includes the C\'amara's spontaneous reports and reports presumably triggered by urgency message. If the urgency authority is consequential, the number and type of weekly urgency messages should correlate with total weekly reports. 
+
+%Two quantities were aggregated for analysis: weekly Hacienda committee reports, and weekly reports from any committee. The Hacienda aggregate seems preferable, letting analysis search for correlation with urgency messages explicitly targeting bills that were referred to that committee. The total aggregate offers less control, but a more comprehensive picture. 
+
+%Analysis, at this stage, does not control for exceptions to the post-urgency report expectation, such as bills that had been reported before the urgency message was issued. But, unless there is a reason to suspect that most or many urgency messages arrive after the committee has reported---and I see no a priori reason to expect this---a relatively large number of messages should be followed by a report. And the report's timing should bear relation to the degree of the urgency. 
+
+% Maybe useful to close the appendix subsection
+%Inspection of Hacienda committee scheduling and activity in detail should prove illuminating. Qualitative inspection of the issues declared urgent, of the urgency messages and their content (especially the recommendations that the messages communicate), and of committee reports themselves will shed light on whether or not, and how cost $k$ is supporting a consequential urgency authority in Chile. The level of urgency results certainly do. 
+
+%% APPENDIX SUBSECTION ENDS HERE
+
+
 
 \bibliographystyle{apsr}
 \bibliography{/home/eric/Dropbox/mydocs/magar}
