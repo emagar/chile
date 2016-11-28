@@ -1,0 +1,35 @@
+;; This buffer is for notes you don't want to save, and for Lisp evaluation.
+;; If you want to create a file, visit that file with C-x C-f,
+;; then enter the text in that file's own buffer.
+
+Estimada Blanca Carvacho,
+
+Somos tres profesores que hacemos investigación sobre instituciones políticas.
+
+Dra. Gisela Sin
+Profesora
+Dept. Political Science
+University of Illinois, Urbana-Champaign
+http://publish.illinois.edu/giselasin/
+
+Dra. Valeria Palanza
+Profesora
+Instituto de Ciencia Política
+Universidad Católica, Chile
+http://www.cienciapolitica.uc.cl/profesores/planta-academica/valeria-palanza (linl a Valeria Palanza me)
+
+Dr. Eric Magar Meurs
+Profesor
+Depto. de Ciencia Política
+Instituto Tecnológico Autónomo de México
+http://ericmagar.com
+
+Nos ha recomendado el Dip. Patricio Vallespín. Quisiéramos charlar con el Subsecretario Gabriel de la Fuente acerca de la figura de la urgencia en el proceso legislativo. Chile es un caso interesantísimo porque la urgencia tiene características muy distintas a las que adoptan otros países del continente.
+
+Sería un gran placer contar con la experiencia del Subsecretario para nuestro trabajo académico.
+
+Estaremos disponibles los tres hasta el miércoles 23 de noviembre. La Profesora Palanza radica en Santiago, y estará disponible posteriormente. 
+
+De antemano, muchas gracias por la atención.   
+
+Eric Magar Meurs

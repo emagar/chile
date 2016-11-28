@@ -1,3 +1,7 @@
+# prendientes Ges y Valeria [21-11-2016, santiago]
+# verificar que no esté contando dos veces las urgencias en mis chains (en cámara, luego en senado)
+
+
 rm(list=ls())
 
 # data directory
@@ -11,7 +15,7 @@ files <- paste("boletines/", files, sep = "")
 ## files <- read.csv("boletines/1id-bl.csv", encoding = 'utf-8', stringsAsFactors = FALSE) # reads universe of filenames
 ## files <- files$bl
 ## files <- paste("boletines/bol", files, ".txt", sep = "")
-grep("2397", files)
+# grep("2397", files) # debug
 #
 # prepare object to receive bill histories
 I <- length(files)
@@ -169,7 +173,7 @@ for (i in 1:I){
     }
 }
 
-summary(bills)
+summary(bills) # list
 rm(bill, bol, chunk, end, files, i, start, tmp, tmpD)
 
 ####################################

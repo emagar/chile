@@ -1,0 +1,40 @@
+p es un proyecto con tres artículos
+art 1. se abre partida de $200
+art 2. se divide por mitades
+art 3. un mitad para alumnos, otra para maestros
+
+p1 indica el primer artículo
+art 1. $300
+
+p2 indica el segundo artículo
+art 2. se divide en 1/3 y 2/3
+
+p12 indica ambos
+
+
+
+Tramitación
+
+1 Proyecto de ley
+2 A comisión para 1er informe
+3 A sala para discusión en lo general
+ a) admite o desecha proyecto en totalidad
+ b) Pdte cámara/comisión declaran admisibles/no indicaciones (amendments) recibidas
+ c) Pdte cámara puede revisar veto ex-ante Pdte comisión, no vice versa
+4 2/3 presentes pueden prescindir 2do informe, pasar directo a disc particular
+5 A comisión para 2do informe, nuevas indicaciones posibles (para eliminar/modificar indicaciones previas o añadir artículos)
+6 Discusión particular
+ a) art. x art.
+ b) arts. no modificados en informes 1y2 aprobados sin votación (salvo quórum esp.)
+ c) 
+
+
+Compact versions
+A) Presidente de comisión/cámara tienen veto ex-ante sobre admisibilidad de indicaciones (sustracciones, enmiendas o añadiduras)
+  -importan para discusión particular: todo artículo que no tuvo indicaciones es aceptado sin votación en sala
+B) Discusión única = general y particular simultáneas (del 1er informe de comisión)
+   o
+   Discusión primera = general de admisibilidad del 1er informe y de admisibilidad de las indicaciones
+             segunda = particular (artículo por artículo del 2do o único informe)
+C) En cámara: proyectos con urgencia suma/inmediata --> discusión única
+  -por ende, la discusión particular es take-it-or-leave-it (closed rule)

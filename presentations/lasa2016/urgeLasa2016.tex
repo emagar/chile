@@ -1,0 +1,2117 @@
+%  http://latex-beamer.sourceforge.net/
+
+%\documentclass[landscape]{foils}
+
+%\documentclass{beamer}
+%\documentclass[handout]{beamer}     % TO PRINT PRESENTATION HANDOUT
+\documentclass[xcolor=dvipsnames]{beamer}  % ALLOWS CHANGE IN COLOR
+
+\usepackage{color}
+
+\usepackage{pifont} %para tener la ballot cross \ding{55}
+
+\usepackage{beamerthemesplit}
+\usepackage{url}
+\usepackage{ae} % or {zefonts}
+\usepackage[T1]{fontenc}
+\usepackage[ansinew]{inputenc}
+\usepackage[spanish]{babel}
+\decimalpoint
+
+\usepackage{graphicx}
+%\graphicspath{"c:/data"}
+\usepackage{hyperref}
+\usepackage{tikz} % Easier syntax to draw pgf files (invokes pgf automatically)
+\usetikzlibrary{arrows,shapes.geometric}
+%\usepackage{pgfmath}
+
+%\usecolortheme{crane}     %Color yellow
+%\usetheme{Warsaw}
+\usecolortheme[named=Gray]{structure}
+
+\useoutertheme[footline=empty]{}  % PUTS COLORED LINE AT FOOT WITH TITLE, AUTHOR, PAGE, etc
+%\usetheme{Berkeley}
+\usetheme[height=7mm]{Rochester}
+%\setbeamertemplate{items}[ball]   % ITEMS IN 3D BALLS (alt CIRCLES)
+\setbeamertemplate{navigation symbols}{}  % DROPS NAVIGATION ICONS
+\setbeamertemplate{blocks}[rounded][shadow=true]
+
+\usepackage{multirow} %allows multiple rows in tables
+
+%\setbeamertemplate{footline} {
+%    \begin{beamercolorbox}{section in head/foot}
+%    \insertsectionnavigationhorizontal{\paperwidth}{}{plus1filll
+%    \insertframenumber}
+%    \end{beamercolorbox}
+%}
+
+
+%\setbeamertemplate{navigation symbols}{\insertslidenavigationsymbol,
+%\insertdocnavigationsymbol} \setbeamertemplate{footline} {
+%    \begin{beamercolorbox}{section in head/foot}
+%    \insertsectionnavigationhorizontal{\paperwidth}{}{plus1filll
+%    \insertframenumber}
+%    \end{beamercolorbox}
+%}
+
+% adds frame number
+\expandafter\def\expandafter\insertshorttitle\expandafter{%
+  \insertshorttitle\hfill%
+  \insertframenumber}
+%  \insertframenumber\,/\,\inserttotalframenumber}
+
+
+\setbeamercovered{transparent}
+\setbeamertemplate{caption}{\insertcaption}
+
+\newcommand{\mc}{\multicolumn}
+
+\newcommand{\be}{\begin{enumerate}}
+\newcommand{\ee}{\end{enumerate}}
+\newcommand{\bq}{\begin{quote}}
+\newcommand{\eq}{\end{quote}}
+\newcommand{\bd}{\begin{description}}
+\newcommand{\ed}{\end{description}}
+\newcommand{\bi}{\begin{itemize}}
+\newcommand{\ei}{\end{itemize}}
+\newcommand{\beq}{\begin{equation*}}
+\newcommand{\eeq}{\end{equation*}}
+\newcommand{\bc}{\begin{center}}
+\newcommand{\ec}{\end{center}}
+
+\usepackage{dcolumn}          % needed for apsrtable and stargazer tables from R to compile
+\usepackage{arydshln}         % dashed lines in tables (hdashline, cdashline{3-4}, 
+                              %see http://tex.stackexchange.com/questions/20140/can-a-table-include-a-horizontal-dashed-line)
+                              % must be loaded AFTER dcolumn, 
+                              %see http://tex.stackexchange.com/questions/12672/which-tabular-packages-do-which-tasks-and-which-packages-conflict
+
+
+
+\AtBeginSection[] {
+   \begin{frame}
+       \frametitle{Road map}
+       \tableofcontents[currentsection]
+   \end{frame}
+}
+
+\tikzstyle{nodo} = [circle, draw=black, fill=white, text=black]
+\tikzstyle{end} = [circle, minimum width=3pt,fill, inner sep=0pt]
+
+\title[Agenda obstruction]{Presidential obstruction of the agenda in Chile's Congress}
+\subtitle{\emph{Work in progress}}
+\author[Magar]{Eric Magar \\ITAM}
+\date[4sep15]{\small{LASA meeting, New York City} \\ May~28th, 2016}
+
+\begin{document}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\frame[plain]{\titlepage}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%\section*{Intro}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{What is the urgency authority?}
+
+
+The executive can \textbf{interfere with legislative scheduling} at will \\
+(Carey\&Shugart 1998, Morgenstern 2002)
+
+\bigskip \pause
+
+When a bill declared \alert{urgent}:
+
+\bi
+
+\item Colombia: it takes precedence over other legislative business immediately
+
+\item Brazil: assembly must act in 45 days, else it takes precedence\\ Since 2001, all \emph{medidas provis\'orias} are urgent
+
+\item Mexico: must be scheduled for floor vote within 30 days \\ (but 4 bills/year only)
+
+\item Chile: chamber must act in 30 days or less
+
+\item Uruguay: must act in a pre-specified, short period, \\ inaction turns bill into law
+
+\ei
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Urgency authority in Chilean constitution and law}
+
+\bi
+\item Any bill at any stage can be declared urgent
+
+\item Chamber urged must ``discuss and vote'' before 30 days
+
+\item Law sets the breadth of the interference
+
+\be
+\item act now (\emph{discusión inmediata}, 6 days)
+\item two weeks notice (\emph{urgencia suma}, 15 days)
+\item four weeks notice (\emph{urgencia simple}, 30 days) 
+\ee
+
+\item Can retire the urgency, with immediate effects
+
+\item Non-compliance: reversionary schedule/policy indetermined
+\ei
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Does it matter?}
+
+``... can have \textcolor{green}{dramatic effects} on ex.-leg.\ relations,  \\
+legislative organization, and policy...''  \\ (Morgenstern 2002) 
+
+\bigskip
+
+Or perhaps \alert{irrelevant} in the face of opposition: \\ schedule now $\neq$ passage
+
+\bigskip \pause
+
+Under-investigated (Chile only?):
+
+\bi
+
+\item  60\% exec.~proposals 1990--94 urgent (Siavelis 2002)
+
+\item Speed of consideration: 
+urgent 29.0 weeks~~~~~rest 29.7
+
+\item Strongly associated with likelihood of passage \\ (Alemán\&Navia 2009)
+
+\item Methodological obstacles: right censoring, selection bias...
+
+\ei
+
+}
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \frame {                      % SLIDE
+
+%     \frametitle{Selection bias}
+
+% Legislation targeted by the urgency not a random sample
+
+
+
+% \begin{tabular}{ccc}
+
+%  \begin{tikzpicture}[scale=1,rotate=0]
+%   \draw (-.35,0) -- (-1,0) node [left=2pt,black] {$U$};
+%   \draw [->] (-1,0) -- (-.35,0) node [right=1.35pt,black] {$P$};
+%   \draw (0,.35) -- (0,1) node [above=2pt,black] {$E$};
+%   \draw [->] (0,1) -- (0,.35) ;
+%   % \draw (.35,0) -- (1,0) node [right=2pt,black] {O};
+%   % \draw [->] (1,0) -- (.35,0) ;
+%   \draw [->] (-.35,1) -- (-1,.35) ;
+%   \draw[white] (0,-.35) -- (0,-1) node [below=2pt,white] {C};
+%   \draw[white, ->] (0,-1) -- (0,-.35) ;
+% %  \draw [->] (-.35,-1.15) -- (-1.15,-.35) ;
+%  \end{tikzpicture}
+
+% & ~~~~~~~~~~~~~~~
+% &
+%     \begin{tikzpicture}
+%       \path[-] (0,0) edge node[above,sloped] {\footnotesize{urgency propensity}} (0,3);
+%       \path[-] (0,0) edge node[below,sloped] {\footnotesize{easy~~~~~~~~~hard~~~~~~impossible}} (4,0);
+%       \node at (2,-.75) {\footnotesize{E(passage)}};
+%       \draw[thick, green] (0.1,1.5) -- (3.9,1.5);
+%       \draw[thick, red] (0.1,.25) .. controls +(up:3cm) and +(up:3cm) .. (3.9,.25);
+%     \end{tikzpicture}
+
+%   \end{tabular}
+
+% \bigskip
+
+
+
+% Method leaving $E$ constant required %ok if $\text{cov}(G,O)=0$
+
+% Finding determinants of $U$ should aid
+% }
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Road map}
+
+\tableofcontents%[section=1]
+
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Modeling urgency authority}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+    \frametitle{Reversionary policy and scarce time}
+  \centering
+    \tikzstyle{mid}=[circle,draw]
+    \begin{tikzpicture}
+      \node[mid] at (2,0) (e) {\emph{E}}; 
+      \node[mid] at (4,1) (l) {\emph{L}}; 
+      \node at (4,-1) (ee) {$x_0$}; 
+      \node at (6.5,2.5) (le1) {$x_1$};  
+      %\node at (6.5,1) (le3) {$x_0$}; 
+      \node at (6.5,-.5) (le2) {$x_0$}; 
+      \node[right] at (4.25,-1)  {\color{white}{\footnotesize{$(0,+o)$}}};   
+      \node[right] at (6.75,2.5) {\color{white}{\footnotesize{$(a,b)$}}};   
+      \node[right] at (6.75,1)   {\color{white}{\footnotesize{$(0,+o-k)$}}}; 
+      \node[right] at (6.75,-.5) {\color{white}{\footnotesize{$(0,-c)$}}};  
+      \path[-] (e) edge node [above, sloped] {\footnotesize{propose}} (l);
+      \path[] (e) edge node [below, sloped] {\footnotesize{$x_1$}} (l); 
+      \path[-o] (e) edge node [below, sloped] {\footnotesize{not}} (ee) (l) edge node [above, sloped] {\footnotesize{accept}} (le1) (l) edge node [below, sloped] {\footnotesize{reject}} (le2);
+      %\path[-o] (l) edge node [above, sloped] {\footnotesize{ignore}} (le3);
+    \end{tikzpicture}
+
+\color{white}{Parentheses are gains v.\ status quo}
+
+\begin{tabular}{rl}
+$o=$ & opportunity cost \\
+$k=$ & obstruction cost (Brazil) \\
+$=$  & persuasion cost (Chile) \\
+\end{tabular}
+
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame[noframenumbering] {                      % SLIDE
+    \frametitle{Reversionary policy and scarce time}
+  \centering
+    \tikzstyle{mid}=[circle,draw]
+    \begin{tikzpicture}
+      \node[mid] at (2,0) (e) {\emph{E}}; 
+      \node[mid] at (4,1) (l) {\emph{L}}; 
+      \node at (4,-1) (ee) {$x_0$}; 
+      \node at (6.5,2.5) (le1) {$x_1$};  
+      \node at (6.5,1) (le3) {$r$}; 
+      \node at (6.5,-.5) (le2) {$x_0$}; 
+      \node[right] at (4.25,-1)  {\color{white}{\footnotesize{$(0,+o)$}}};   
+      \node[right] at (6.75,2.5) {\color{white}{\footnotesize{$(a,b)$}}};   
+      \node[right] at (6.75,1)   {\color{white}{\footnotesize{$(0,+o-k)$}}}; 
+      \node[right] at (6.75,-.5) {\color{white}{\footnotesize{$(0,-c)$}}};  
+      \path[-] (e) edge node [above, sloped] {\footnotesize{propose}} (l);
+      \path[] (e) edge node [below, sloped] {\footnotesize{$x_1$}} (l); 
+      \path[-o] (e) edge node [below, sloped] {\footnotesize{not}} (ee) (l) edge node [above, sloped] {\footnotesize{accept}} (le1) (l) edge node [below, sloped] {\footnotesize{reject}} (le2);
+      \path[-o] (l) edge node [above, sloped] {\footnotesize{ignore}} (le3);
+    \end{tikzpicture}
+
+\color{white}{Parentheses are gains v.\ status quo}
+
+\begin{tabular}{rl}
+$o=$ & opportunity cost \\
+$k=$ & obstruction cost (Brazil) \\
+$=$  & persuasion cost (Chile) \\
+\end{tabular}
+
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame[noframenumbering] {                      % SLIDE
+    \frametitle{Reversionary policy and scarce time}
+  \centering
+    \tikzstyle{mid}=[circle,draw]
+    \begin{tikzpicture}
+      \node[mid] at (2,0) (e) {\emph{E}}; 
+      \node[mid] at (4,1) (l) {\emph{L}}; 
+      \node at (4,-1) (ee) {$x_0$}; 
+      \node at (6.5,2.5) (le1) {$x_1$};  
+      \node at (6.5,1) (le3) {$x_0$}; 
+      \node at (6.5,-.5) (le2) {$x_0$}; 
+      \node[right] at (4.25,-1)  {\color{white}{\footnotesize{$(0,+o)$}}};   
+      \node[right] at (6.75,2.5) {\color{white}{\footnotesize{$(a,b)$}}};   
+      \node[right] at (6.75,1)   {\color{white}{\footnotesize{$(0,+o-k)$}}}; 
+      \node[right] at (6.75,-.5) {\color{white}{\footnotesize{$(0,0)$}}};  
+      \path[-] (e) edge node [above, sloped] {\footnotesize{propose}} (l);
+      \path[] (e) edge node [below, sloped] {\footnotesize{$x_1$}} (l); 
+      \path[-o] (e) edge node [below, sloped] {\footnotesize{not}} (ee) (l) edge node [above, sloped] {\footnotesize{accept}} (le1) (l) edge node [below, sloped] {\footnotesize{reject}} (le2);
+      \path[-o] (l) edge node [above, sloped] {\footnotesize{ignore}} (le3);
+    \end{tikzpicture}
+
+\color{white}{Parentheses are gains v.\ status quo}
+
+\begin{tabular}{rl}
+$o=$ & opportunity cost \\
+$k=$ & obstruction cost (Brazil) \\
+$=$  & persuasion cost (Chile) \\
+\end{tabular}
+
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame[noframenumbering] {                      % SLIDE
+    \frametitle{Reversionary policy and scarce time}
+  \centering
+    \tikzstyle{mid}=[circle,draw]
+    \begin{tikzpicture}
+      \node[mid] at (2,0) (e) {\emph{E}}; 
+      \node[mid] at (4,1) (l) {\emph{L}}; 
+      \node at (4,-1) (ee) {$x_0$}; 
+      \node at (6.5,2.5) (le1) {$x_1$};  
+      \node at (6.5,1) (le3) {$x_0$}; 
+      \node at (6.5,-.5) (le2) {$x_0$}; 
+      \node[right] at (4.25,-1) {\footnotesize{$(0,+o)$}};  
+      \node[right] at (6.75,2.5) {\footnotesize{$(a,b)$}};  
+      \node[right] at (6.75,1) {\footnotesize{$(0,+o-k)$}};  
+      \node[right] at (6.75,-.5) {\footnotesize{$(0,0)$}};  
+      \path[-] (e) edge node [above, sloped] {\footnotesize{propose}} (l);
+      \path[] (e) edge node [below, sloped] {\footnotesize{$x_1$}} (l); 
+      \path[-o] (e) edge node [below, sloped] {\footnotesize{not}} (ee) (l) edge node [above, sloped] {\footnotesize{accept}} (le1) (l) edge node [below, sloped] {\footnotesize{reject}} (le2);
+      \path[-o] (l) edge node [above, sloped] {\footnotesize{ignore}} (le3);
+    \end{tikzpicture}
+
+Parentheses are gains v.\ status quo
+
+\begin{tabular}{rl}
+$o=$ & opportunity cost \\
+$k=$ & obstruction cost (Brazil) \\
+$=$  & persuasion cost (Chile) \\
+\end{tabular}
+
+}
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% \frame {                      % SLIDE
+%     \frametitle{Costs and reversionary outcome}
+%   \centering
+%     \tikzstyle{mid}=[circle,draw]
+%     \begin{tikzpicture}
+%       \node[mid] at (2,-.5) (e) {\emph{E}}; 
+%       \node[mid] at (4,1) (l) {\emph{L}}; 
+%       \node[right] at (4,-2) (ee) {$x_0+o$}; 
+%       \node[right] at (6, 2.5) (le1) {$x_1$};  
+%       \node[right] at (6, 1) (le3) {$x_0-c$}; 
+%       \node[right] at (6,-.5) (le2) {$r+o-k$}; 
+%       \path[-]  (e) edge node [above, sloped] {\footnotesize{propose}} (l);
+%       \path[]   (e) edge node [below, sloped] {\footnotesize{$x_1$}}   (l); 
+%       \path[-o] (e) edge node [below, sloped] {\footnotesize{not}}     (ee) 
+%                  (l) edge node [above, sloped] {\footnotesize{accept}} (le1) 
+%                  (l) edge node [below, sloped] {\footnotesize{ignore}} (le2);
+%       \path[-o] (l) edge node [above, sloped] {\footnotesize{reject}} (le3);
+%     \end{tikzpicture}  \\
+%  \footnotesize{
+%  \begin{tabular}{lrrr}
+%   Case                       & $r$   & $c$   & $k$      \\ \hline
+%   Chile                      & $x_0$ & 0     & $>0$     \\
+%   Brazil (urgency), Colombia & $x_0$ & 0     & $> o$    \\
+%   Brazil (MP)                & $x_0$ & $>0$  & $> o$    \\
+%   Brazil (MP up to 2001)     & $x_1$ & $>0$  & 0        \\
+%   Mexico (4 bills yearly)    & $x_0$ & 0     & ?        \\
+%   Uruguay                    & $x_1$ & 0     & 0        \\
+%   \end{tabular}
+%   }
+% }
+
+% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame{
+    \frametitle{Inconsequential urgency power?}
+\begin{tabular}{c|c}
+   Chile & Uruguay \\
+    \tikzstyle{mid}=[circle,draw]
+    \begin{tikzpicture}[scale=0.7]
+      \node[mid] at (2,-.5) (e) {\emph{E}}; 
+      \node[mid] at (4,1) (l) {\emph{L}}; 
+      \node[right] at (4,-2) (ee) {$x_0+o$}; 
+      \node[right] at (6, 2.5) (le1) {$x_1$};  
+      \node[right] at (6, 1) (le3) {$x_0$}; 
+      \node[right] at (6,-.5) (le2) {$x_0+o-k$}; 
+      \path[-]  (e) edge node [above, sloped] {\footnotesize{prop.}} (l);
+      %\path[]   (e) edge node [below, sloped] {\footnotesize{$x_1$}}   (l); 
+      \path[-o] (e) edge node [below, sloped] {\footnotesize{not}}     (ee) 
+                 (l) edge node [above, sloped] {\footnotesize{acc.}} (le1) 
+                 (l) edge node [below, sloped] {\footnotesize{ign.}} (le2);
+      \path[-o] (l) edge node [above, sloped] {\footnotesize{rej.}} (le3);
+    \end{tikzpicture}
+         &
+    \tikzstyle{mid}=[circle,draw]
+    \begin{tikzpicture}[scale=0.7]
+      \node[mid] at (2,-.5) (e) {\emph{E}}; 
+      \node[mid] at (4,1) (l) {\emph{L}}; 
+      \node[right] at (4,-2) (ee) {$x_0+o$}; 
+      \node[right] at (6, 2.5) (le1) {$x_1$};  
+      \node[right] at (6, 1) (le3) {$x_0$}; 
+      \node[right] at (6,-.5) (le2) {$x_1+o$}; 
+      \path[-]  (e) edge node [above, sloped] {\footnotesize{prop.}} (l);
+      %\path[]   (e) edge node [below, sloped] {\footnotesize{$x_1$}}   (l); 
+      \path[-o] (e) edge node [below, sloped] {\footnotesize{not}}     (ee) 
+                 (l) edge node [above, sloped] {\footnotesize{acc.}} (le1) 
+                 (l) edge node [below, sloped] {\footnotesize{ign.}} (le2);
+      \path[-o] (l) edge node [above, sloped] {\footnotesize{rej.}} (le3);
+    \end{tikzpicture}
+         \\
+  \mc{1}{l|}{Case 1: $o>k$} & \mc{1}{l}{Case 3: $k \equiv 0$} \\
+          \begin{tikzpicture}[scale=0.33]
+          \draw (0,0) -- (11,0) 
+          (2,0) node[below] {$x_0$} -- (4.75,2.75) -- (7.5,0) node[below] {$l_0$}; 
+          \draw[dashed] 
+          (2.75,0) -- (4.75,2) -- (6.75,0); 
+          \draw (4.75,0.1) -- (4.75,-0.1) node[below] {$l$}
+                (10,0.1) -- (10,-0.1) node[below] {$p$};
+          % \draw[->] 
+          %       (7,-1) node[below] {$(l_0+o)$} -- (7,-0.25);
+          \draw[->, thick] 
+                (6.75,1.5) node[above] {\textbf{$x_1^*$}} -- (6.75,0.25);
+        \end{tikzpicture}
+         &
+        \begin{tikzpicture}[scale=0.33]
+          \draw (0,0) -- (11,0) 
+          (2,0) node[below] {$x_0$} -- (4.75,2.75) -- (7.5,0) node[below] {$l_0$}; 
+          \draw[dashed] 
+          (2.75,0) -- (4.75,2) -- (6.75,0); 
+          \draw (4.75,0.1) -- (4.75,-0.1) node[below] {$l$}
+                (11,0.1) -- (11,-0.1) node[below] {$p$}
+                (8.25,0.1) -- (8.25,-0.1) ;
+          % \draw[->] 
+          %       (8,-1) node[below] {$(l_0-o)$} -- (8,-0.25);
+          \draw[->, thick] 
+                (8.25,1.5) node[above] {\textbf{$x_1^*$}} -- (8.25,0.25);
+        \end{tikzpicture}
+         \\
+  \mc{1}{l|}{Case 2: $o \leq k$} &  \\
+        \begin{tikzpicture}[scale=0.33]
+          \draw (0,0) -- (11,0) 
+          (2,0) node[below] {$x_0$} -- (4.75,2.75) -- (7.5,0) node[below] {$l_0$}; 
+          \draw[dashed] 
+          (1.25,0) -- (4.75,3.5) -- (8.25,0); 
+          \draw (4.75,0.1) -- (4.75,-0.1) node[below] {$l$}
+                (10,0.1) -- (10,-0.1) node[below] {$p$};
+          %\draw[->] 
+          %      (8.25,-1) node[below] {$(l_0+(-k+o))$} -- (8.25,-0.25);
+          \draw[->, thick] 
+                (7.5,1.5) node[above] {\textbf{$x_1^*$}} -- (7.5,0.25);
+        \end{tikzpicture}
+         &
+         \\
+       \end{tabular}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+    \frametitle{Urgency degrees and persuasion}
+
+Neustadt (1954): Presidential power is ability to \alert{persuade} others that it is in their interest to cooperate \\ (despite no institutional consequences)
+
+\bigskip
+
+
+Declaring urgency
+\bi
+\item Signals priority (`Act now' > `2 week' > `4 week')
+\item Media attention, nurtures public debate
+\item Enough for $k>o$?
+\ei
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Data and descriptions}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{The president's status in Congress}
+
+\bi
+\item Original dataset of bill histories 1998--2014
+\item Many missing records before 1998 
+\item Covers 3+ presidencies, variance in president's status\\ 
+(coalition unity, Carey 2002, Alemán\&Saiegh 2007)
+\ei
+
+\bigskip
+
+\begin{center}
+\begin{tabular}{lrrrr}
+Coalition   & 1998--02    & 2002--06 & 2006--10 & 2010--14 \\ \hline
+&\mc{4}{l}{\textbf{~~C\'amara de Diputados}} \\
+President's & \color{green}{58}            & \color{green}{53}       & \color{green}{51}       & \color{YellowOrange}{50}       \\
+Opposition  & 42            & 48       & 47       & 48       \\
+Regional    &               &          & 3        & 2        \\ \hdashline
+Total       & 100           & 100      & 100      & 100      \\ \hline
+&\mc{4}{l}{\textbf{~~Senate}} \\
+President's & \color{YellowOrange}{50} & \color{YellowOrange}{50}       & \color{green}{55}       & \color{red}{45}       \\
+Opposition  & 50            & 50       & 45       & 55       \\ \hdashline
+Total       & 100           & 100      & 100      & 100      \\ \hline
+\end{tabular}
+\end{center}
+
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Bills, success, and urgency 1998--2014}
+
+\centering
+\setbeamercovered{invisible} 
+\begin{tabular}{lrrr}
+                         &  by           &  by          &    by      \\
+Bills                    &  legislators  &  president   &    ~~~~either  \\ \hline
+introduced               &        5,533  &       1,469  &     7,002  \\
+as \%                    &    \emph{79}  &   \emph{21}  & \emph{100} \onslide<2-> \\ \hdashline
+passed                   &          404  &       1,067  &     1,471  \\
+as \%                    &    \emph{27}  &   \emph{73}  & \emph{100} \\
+as \% introduced         &     \emph{7}  &   \emph{73}  &  \emph{21} \onslide<3-> \\ \hdashline
+declared urgent          &          351  &       1,016  &     1,367  \\
+as \%                    &    \emph{26}  &   \emph{74}  & \emph{100} \\
+as \% introduced         &     \emph{6}  &   \emph{69}  &  \emph{20} \onslide<4-> \\ \hdashline
+declared urgent \& passed&          167  &         762  &       929  \\
+as \%                    &    \emph{18}  &   \emph{82}  & \emph{100} \\
+as \% declared urgent    &    \emph{48}  &   \emph{75}  &  \emph{68} \\ \hline
+\end{tabular}
+
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Determinants of bill urgency}
+
+\begin{tabular}{lcc} 
+ & \multicolumn{2}{c}{\textit{DV=1 if urgent, else 0}} \\ 
+ & \multicolumn{1}{c}{(1)} & \multicolumn{1}{c}{(2)}\\ 
+\hline
+ Member bill & $-2.978^{***}$ &  \\ 
+  % & (0.090) &  \\ 
+  % & & \\ 
+ Member bill, opp.-sponsored &  & $-3.597^{***}$ \\ 
+ %  &  & (0.137) \\ 
+ %  & & \\ 
+ Member bill, mix.-sponsored &  & $-2.517^{***}$ \\ 
+ %  &  & (0.114) \\ 
+ %  & & \\ 
+ Member bill, pres. coal.-sp. &  & $-2.969^{***}$ \\ 
+ %  &  & (0.126) \\ 
+ %  & & \\ 
+ Hacienda & $1.761^{***}$ & $1.782^{***}$ \\ 
+ %  & (0.111) & (0.111) \\ 
+ %  & & \\ 
+ Senate majority & $-0.304^{***}$ & $-0.302^{***}$ \\ 
+ %  & (0.086) & (0.086) \\ 
+ %  & & \\ 
+ Introduced Senate & $0.184^{*}$ & $0.415^{***}$ \\ 
+ %  & (0.096) & (0.111) \\ 
+ %  & & \\ 
+ Pres.~term remaining & $0.004^{***}$ & $0.004^{***}$ \\ 
+ %  & (0.002) & (0.002) \\ 
+ %  & & \\ 
+ Year remaining  & $0.003$ & $0.003^{*}$ \\ 
+ %  & (0.002) & (0.002) \\ 
+ %  & & \\ 
+ Constant & $-0.047$ & $-0.113$ \\ 
+ %  & (0.140) & (0.141) \\ 
+ %  & & \\ 
+\hline \\[-1.8ex] 
+N & \multicolumn{1}{c}{6,987} & \multicolumn{1}{c}{6,987} \\ 
+Log$L$ & \multicolumn{1}{c}{$-2,057$} & \multicolumn{1}{c}{$-2,029$} \\ 
+\% predicted correctly & \multicolumn{1}{c}{89} & \multicolumn{1}{c}{89} \\ 
+%\textit{Note:}  & \multicolumn{2}{r}{$^{*}$p$<$0.1; $^{**}$p$<$0.05; $^{***}$p$<$0.01} \\ 
+\end{tabular} 
+
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Message types}
+
+\centering
+
+\resizebox{\linewidth}{!}{
+\begin{tabular}{rrrrr|r}
+      & 1998--2002 & 2002--2006 & 2006--2010 & 2010--2014 & 1998--2014 \\ \hline
+ Act now             & 5  & 6  & 3  & 4  & 4 \\ 
+ 2-week notice       & 16 & 14 & 9  & 23 & 16 \\ 
+ 4-week notice       & 29 & 22 & 13 & 12 & 17 \\ \hdashline
+ Shorten deadline    & 2  & 2  & 2  & 4  &  3 \\ 
+ Extend deadline     & 29 & 33 & 41 & 43 & 39 \\ \hdashline
+ Withdraw (act now)  & 1  & 2  & 2  & 2  &  2 \\ 
+ Withdraw (2-week)   & 7  & 10 & 14 & 8  & 10 \\ 
+ Withdraw (4-week)   & 10 & 11 & 17 & 3  & 10 \\ \hline
+ Total messages      & 100 & 100 & 100 & 100 & 100 \\ 
+(N)                  & (1,268) & (1,881) & (4,941) & (5,643) & (13,733)\\ %\hline
+% Senate status       & \emph{tied} & \emph{tied} & \emph{gov.} & \emph{opp.} & \\
+\end{tabular}
+}
+
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Recidivism}
+\begin{center}
+
+\begin{tabular}{rr}
+Number of & Bill  \\
+messages  & freq.~\% \\ \hline
+1        &  \emph{16}   \\
+2        &  \emph{18}   \\
+3        &  \emph{11}   \\
+4        &  \emph{8}    \\
+5--10    &  \emph{25}   \\
+11--20   &  \emph{14}   \\
+21--71   &  \emph{9}    \\ \hline
+Total    & \emph{100}   \\ 
+(N)      & (1,367)      \\
+\end{tabular} 
+
+\bigskip
+
+Micro-managing presidents? Look @ message contents
+
+\end{center}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Urgency message incidence}
+
+
+\begin{center}
+Weekly messages in one legislative year \\ black = original urgency
+    \includegraphics[width=.8\columnwidth]{../../graphs/urgenciasHistog2010.pdf} \\
+(Two histograms: C\'amara above, Senate below \alert{zero} line)
+
+\end{center}
+
+
+
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{When all is urgent...}
+
+\begin{center}
+\begin{tabular}{cccc}
+    \includegraphics[width=.22\columnwidth]{../../graphs/urgenciasHistog1998.pdf} &
+    \includegraphics[width=.22\columnwidth]{../../graphs/urgenciasHistog1999.pdf} &
+    \includegraphics[width=.22\columnwidth]{../../graphs/urgenciasHistog2000.pdf} &
+    \includegraphics[width=.22\columnwidth]{../../graphs/urgenciasHistog2001.pdf} \\
+    \includegraphics[width=.22\columnwidth]{../../graphs/urgenciasHistog2002.pdf} &
+    \includegraphics[width=.22\columnwidth]{../../graphs/urgenciasHistog2003.pdf} &
+    \includegraphics[width=.22\columnwidth]{../../graphs/urgenciasHistog2004.pdf} &
+    \includegraphics[width=.22\columnwidth]{../../graphs/urgenciasHistog2005.pdf} \\
+    \includegraphics[width=.22\columnwidth]{../../graphs/urgenciasHistog2006.pdf} &
+    \includegraphics[width=.22\columnwidth]{../../graphs/urgenciasHistog2007.pdf} &
+    \includegraphics[width=.22\columnwidth]{../../graphs/urgenciasHistog2008.pdf} &
+    \includegraphics[width=.22\columnwidth]{../../graphs/urgenciasHistog2009.pdf} \\
+    \includegraphics[width=.22\columnwidth]{../../graphs/urgenciasHistog2010.pdf} &
+    \includegraphics[width=.22\columnwidth]{../../graphs/urgenciasHistog2011.pdf} &
+    \includegraphics[width=.22\columnwidth]{../../graphs/urgenciasHistog2012.pdf} &
+    \includegraphics[width=.22\columnwidth]{../../graphs/urgenciasHistog2013.pdf} \\
+\end{tabular}
+\end{center}
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Lend a helping hand}
+
+
+25\% urgencies were for member bills. Vote trading?
+
+
+\begin{center}
+
+\begin{tabular}{rrr}
+                    &  \mc{2}{c}{Urgency by} \\
+                    &  \mc{2}{c}{Concertación president} \\
+Concertación sponsors            &  yes           & no          \\ \hline
+all     &  \color{green}{\emph{39}}     & \color{red}{\emph{26}}   \\ 
+some    &  \emph{40}     & \emph{48}   \\
+none    &  \color{red}{\emph{21}}     & \color{green}{\emph{26}}   \\ \hline
+        &  \emph{100}    & \emph{100}  \\
+%(N)                 &      (230)     & (121)       \\
+\end{tabular}
+\end{center}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Committee reporting}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Observable effects}
+
+Except 
+\be
+\item bills exempt from committee referral 
+\item bills already reported
+\ee
+
+\bigskip
+
+\begin{tabular}{lcl}
+consequential urgency & $\longrightarrow$ & committee report follows \\
+                      & $\longrightarrow$ & report before deadline \\
+\end{tabular}
+
+\bigskip
+
+\bi
+\item Any authorization \textbf{must} be referred to Hacienda committee, no exception
+\item (2) above favors $H_0$
+\ei
+                    
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Committee report after an urgency}
+
+\begin{center}
+\begin{tabular}{lr}
+Message             &  Report w/i deadline (\%) \\ \hline
+Act now             &  63     \\
+2-week notice       &  27     \\
+4-week notice       &  25     \\
+Deadline shortened  &  41     \\
+Deadline extended   &  23     \\
+Withdrawn           &  6      \\ \hline
+All                 &  27     \\
+\end{tabular}
+\end{center}
+
+
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Three event count models}
+
+% \begin{tabular}{ccc|cc}
+%       & \mc{2}{c}{DV} & \mc{2}{c}{IV} \\
+%       & \mc{2}{c}{N reports of bills} & \mc{2}{c}{N urgencies on bills} \\
+% Model & by           & by     & by     & referred to \\ \hline
+% (a)   & Hacienda     & exec.  & exec.  & Hacienda    \\
+% (b)   & Hacienda     & MC     & exec.  & Hacienda    \\
+% (d)   & Hacienda     & MC     & MC     & Hacienda    \\
+% (e)   & any comm.    & exec.  & exec.  & any         \\
+% (f)   & any comm.    & MC     & exec.  & any         \\
+% \end{tabular}
+
+\begin{center} 
+
+\begin{tabular}{c|c}
+$e$ & $m$ \\
+\begin{tikzpicture}[scale=.6]
+\def\circleH{(0,1) circle (1cm)}
+\def\circleU{(1,1) circle (1cm)}
+\def\circleR{(.5,0) circle (1cm)}
+\draw[gray] \circleH;
+\draw[gray] \circleU;
+\draw[gray] \circleR;
+\begin{scope}
+  \clip \circleH;
+  \draw \circleU;
+\end{scope}
+\begin{scope}
+  \clip \circleU;
+  \draw \circleH;
+\end{scope}
+\node[gray] at (-1.25,1.25) {\footnotesize{$H$}};
+\node[gray] at (2.25,1.25) {\footnotesize{$U$}};
+\node[gray] at (-.7,-.7) {\footnotesize{$R$}};
+\node at (.5,2.25) {\footnotesize{$u^e$}};
+%\node at (.5,1.4) {\footnotesize{$\bar{r}_{e}$}};
+\node at (.5,.55) {\footnotesize{$r^e$}};
+\end{tikzpicture}
+&
+\begin{tikzpicture}[scale=.6]
+\def\circleH{(0,1) circle (1cm)}
+\def\circleU{(1,1) circle (1cm)}
+\def\circleR{(.5,0) circle (1cm)}
+\draw[gray] \circleH;
+\draw[gray] \circleU;
+\draw[gray] \circleR;
+\begin{scope}
+  \clip \circleH;
+  \draw \circleU;
+\end{scope}
+\begin{scope}
+  \clip \circleU;
+  \draw \circleH;
+\end{scope}
+\node[gray] at (-1.25,1.25) {\footnotesize{$H$}};
+\node[gray] at (2.25,1.25) {\footnotesize{$U$}};
+\node[gray] at (-.7,-.7) {\footnotesize{$R$}};
+\node at (.5,2.25) {\footnotesize{$u^m$}};
+%\node at (.5,1.4) {\footnotesize{$\bar{r}_{e}$}};
+\node at (.5,.55) {\footnotesize{$r^m$}};
+\end{tikzpicture}
+\end{tabular}
+
+\bigskip \pause
+
+\begin{tabular}{c|c|c|}
+\mc{1}{c}{ }  & \mc{2}{c}{DepVar} \\
+\mc{1}{c}{IndVar}  &   \mc{1}{c}{$r^e$}  &  \mc{1}{c}{$r^m$}  \\ \cline{2-3}
+$u^e$ &  Mod.~1  & Mod.~2  \\ \cline{2-3}
+$u^m$ &          & Mod.~3  \\ \cline{2-3}
+\end{tabular}
+
+\bigskip
+
+Weekly counts: $r^e_t = \beta_0 + \beta_1 u^e_t + \beta_2 u^e_{t-1} + ... $
+
+\bigskip
+
+Negative binomial regression
+
+\end{center}
+
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Message effects on Hacienda reports, C\'amara}
+
+%\setbeamercovered{invisible} 
+\resizebox{\linewidth}{!}{
+\begin{tabular}{l|ccccc|ccccc}
+ %                & \mc{10}{c}{Effect on committee reports ($t=0$ is current week)}                                      \\
+%                 &   \mc{10}{c}{Dependent variable:} \\ 
+%                 & \mc{5}{c}{Exec.~bill reports $r^e$}     & \mc{5}{c}{MC bill reports $r^m$}                      \\
+                 & \mc{5}{c}{Weekly reports}     & \mc{5}{c}{Weekly reports}                      \\
+Type             & $t=0$    & 1        & 2       & 3       & 4         & $t=0$    & 1          & 2         & 3          & 4          \\ \hline
+%\mc{11}{l}{\emph{Urgency targets: exec.~bills referred to Hacienda committee}}                                                                \\
+                 &               \mc{5}{c|}{$u^e \rightarrow r^e$}  &           \mc{5}{c}{$u^e \rightarrow r^m$}                         \\ 
+Act Now          &   $++$   &  $+$     &   $--$  &         &           &          &  $++$      &           &            &            \\
+2-week notice    &          &  $++$    &         &    $--$ &           &     $++$ &  $-$       &  $++$     &            &            \\
+4-week notice    &          &          &         &    $++$ &      $++$ &          &            &           &            &            \\
+Shorten deadline &          &  $++$    &         &         &           &          &            &           &            &            \\ \hdashline
+%\mc{11}{l}{\emph{Urgency targets: MC~bills referred to Hacienda committee}}                                                                   \\
+                 &           \mc{5}{c|}{$u^m \rightarrow r^e$}      &              \mc{5}{c}{$u^m \rightarrow r^m$}                     \\ 
+Act Now          &          &          &         &         &           &     $++$ &  $++$      &           &            &            \\           
+2-week notice    & & \mc{3}{c}{\footnotesize{(not estimated)}} &       &          &            &  $++$     &      $++$  &            \\           
+4-week notice    &          &          &         &         &           &          &            &           &            &            \\           
+Shorten deadline &          &          &         &         &           &          &            &           &            &            \\ %\hdashline
+%\mc{11}{l}{\emph{Urgency targets: any exec.~bill}}                                                                                            \\
+%                  &          \mc{5}{c}{5: $U^e \rightarrow R^e$}        &         \mc{5}{c}{6: $U^e \rightarrow R^m$}                 \\ 
+% Act Now          &   $++$   &  $++$    &   $--$  &         &           &          &            &           &            &            \\
+% 2-week notice    &          &  $+$     &   $++$  &         &           &     $+$  &            &           &            &      $--$  \\
+% 4-week notice    &          &          &         &         &           &          &            &           &            &      $++$  \\
+% Shorten deadline &          &          &         &         &           &          &            &           &            &            \\ 
+\hline
+%\mc{11}{l}{\footnotesize{$++,--: p<.05$; $+,-: p<.1$ (one-tailed tests)}}                                                             \\
+\end{tabular}
+}
+
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Sequence: Piñera bills}
+
+\begin{tabular}{cc}
+\textbf{Sent to Senate} & \textbf{Sent to C\'amara}\\
+ ($N=90$) & ($N=314$) \\
+
+\tikzstyle{mid}=[circle,draw]
+\tikzstyle{middot}=[circle,draw,dashed]
+\tiny
+\begin{tikzpicture}[shorten >=1pt,node distance=2cm,auto,scale=.27]
+\node at (-5,6) (st) {\footnotesize{\textbf{\texttt{start}}}};
+\node[mid]       at (0,0)   (p)  {\textbf{Exec.}};
+\node[mid,red]   at (0,6)   (n1) {\textbf{Sen.}};
+\node[mid,green] at (6,0)   (n2) {\textbf{C\'am.}};
+\node[mid,red]   at (0,-6)  (n3) {\textbf{Sen.}};
+\node[mid]       at (-6,0)  (c)  {\textbf{Conf.}};
+%\node[middot]    at (2,3)   (u)  {$u$};
+%\node[middot]    at (3,-2)  (v)  {$u$};
+%\node[middot]    at (-2,-3) (w)  {$u$};
+%\node[middot]    at (-3,2)  (x)  {$u$};
+\draw [-stealth] (st)                    edge node {100} (n1);
+\draw [-stealth] (n1) [loop above]       edge node              {39} ();    % l11 $A$
+%\draw [-stealth] (n1) [bend left,dashed] edge node              {79} (u);   % l1u $B$
+\draw [-stealth] (n1) [out=0,in=90]      edge node              {61} (n2);  % l12 $C$
+%\draw [-stealth] (u)  [bend left]        edge node              {31} (n1);  % lu1 $D$
+%\draw [-stealth] (u)                     edge node              {48} (n2);  % lu2 $E$
+\draw [-stealth] (n2) [loop right]       edge node              { 7} ();    % l22 $F$
+\draw [-stealth] (n2) [out=-90,in=0]     edge node              {29} (n3);  % l23 $G$
+%\draw [-stealth] (n2) [bend left,dashed] edge node              {47} (v);   % l2v $H$
+\draw [-stealth] (n2) [out=170, in=10]   edge node [swap]       {26} (p);   % l2p $I$
+%\draw [-stealth] (v)  [bend left]        edge node              { 6} (n2);  % lv2 $J$
+%\draw [-stealth] (v)                     edge node [swap]       {18} (p)    % lvp $K$
+%                 (v)                     edge node              {23} (n3);  % lv3 $L$
+\draw [-stealth] (n3) [loop below]       edge node              { 0} ();    % l33 $N$
+\draw [-stealth] (n3) [out=180,in=-90]   edge node              {11} (c);   % l3c $O$
+%\draw [-stealth] (n3) [bend left,dashed] edge node              {18} (w);   % l3w $P$
+\draw [-stealth] (n3) [out=80, in=-80]   edge node [swap]       {18} (p);   % l3p $Q$
+%\draw [-stealth] (w)  [bend left]        edge node [near start] { 0} (n3);  % lw3 $R$
+%\draw [-stealth] (w)                     edge node              {11} (p)    % lwp $S$
+%                 (w)                     edge node              { 7} (c);   % lwc $U$
+\draw [-stealth] (c)  [loop left]        edge node              { 2} ();    % lcc $V$
+%\draw [-stealth] (c)  [bend left,dashed] edge node              { 8} (x);   % lcx $W$
+\draw [-stealth] (c)  [out=-10, in=-170] edge node [swap]       { 9} (p);   % lcp $X$
+%\draw [-stealth] (x)  [bend left]        edge node              { 1} (c);   % lxc $Y$
+%\draw [-stealth] (x)                     edge node              { 7} (p);   % lcp $Z$
+\end{tikzpicture}
+
+&
+
+\tikzstyle{mid}=[circle,draw]
+\tikzstyle{middot}=[circle,draw,dashed]
+\tiny
+\begin{tikzpicture}[shorten >=1pt,node distance=2cm,auto,scale=.27]
+%\draw[help lines] (-6,-6) grid (6,6);
+\node at (-5,6) (st) {\footnotesize{\textbf{\texttt{start}}}};
+\node[mid]     at (0,0)   (p)  {\textbf{Exec.}};
+\node[mid,green] at (0,6)   (n1) {\textbf{C\'am.}};
+\node[mid,red]   at (6,0)   (n2) {\textbf{Sen.}};
+\node[mid,green] at (0,-6)  (n3) {\textbf{C\'am.}};
+\node[mid]       at (-6,0)  (c)  {\textbf{Conf.}};
+%\node[middot]    at (2,3)   (u)  {$u$};
+%\node[middot]    at (3,-2)  (v)  {$u$};
+%\node[middot]    at (-2,-3) (w)  {$u$};
+%\node[middot]    at (-3,2)  (x)  {$u$};
+\draw [-stealth] (st)                    edge node {100} (n1);
+\draw [-stealth] (n1) [loop above]       edge node              {22} ();    % l11 $A$
+%\draw [-stealth] (n1) [bend left,dashed] edge node              {75} (u);   % l1u $B$
+\draw [-stealth] (n1) [out=0,in=90]      edge node              {78} (n2);  % l12 $C$
+%\draw [-stealth] (u)  [bend left]        edge node              {14} (n1);  % lu1 $D$
+%\draw [-stealth] (u)                     edge node              {61} (n2);  % lu2 $E$
+\draw [-stealth] (n2) [loop right]       edge node              {10} ();    % l22 $F$
+\draw [-stealth] (n2) [out=-90,in=0]     edge node              {31} (n3);  % l23 $G$
+%\draw [-stealth] (n2) [bend left,dashed] edge node              {57} (v);   % l2v $H$
+\draw [-stealth] (n2) [out=170, in=10]   edge node [swap]       {36} (p);   % l2p $I$
+%\draw [-stealth] (v)  [bend left]        edge node              { 7} (n2);  % lv2 $J$
+%\draw [-stealth] (v)                     edge node [swap]       {24} (p)    % lvp $K$
+%                 (v)                     edge node              {25} (n3);  % lv3 $L$
+\draw [-stealth] (n3) [loop below]       edge node              { 0} ();    % l33 $N$
+\draw [-stealth] (n3) [out=180,in=-90]   edge node              { 7} (c);   % l3c $O$
+%\draw [-stealth] (n3) [bend left,dashed] edge node              {11} (w);   % l3w $P$
+\draw [-stealth] (n3) [out=80, in=-80]   edge node [swap]       {24} (p);   % l3p $Q$
+%\draw [-stealth] (w)  [bend left]        edge node [near start] { 0} (n3);  % lw3 $R$
+%\draw [-stealth] (w)                     edge node              { 9} (p)    % lwp $S$
+%                 (w)                     edge node              { 1} (c);   % lwc $U$
+\draw [-stealth] (c)  [loop left]        edge node              { 0} ();    % lcc $V$
+%\draw [-stealth] (c)  [bend left,dashed] edge node              { 5} (x);   % lcx $W$
+\draw [-stealth] (c)  [out=-10, in=-170] edge node [swap]       { 7} (p);   % lcp $X$
+%\draw [-stealth] (x)  [bend left]        edge node              { 0} (c);   % lxc $Y$
+%\draw [-stealth] (x)                     edge node              { 5} (p);   % lcp $Z$
+\end{tikzpicture}
+
+\end{tabular}
+
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Sequence: Piñera bills}
+
+\begin{tabular}{cc}
+\textbf{Sent to Senate} & \textbf{Sent to C\'amara}\\
+ ($N=90$) & ($N=314$) \\
+
+\tikzstyle{mid}=[circle,draw]
+\tikzstyle{middot}=[circle,draw,dashed]
+\tiny
+\begin{tikzpicture}[shorten >=1pt,node distance=2cm,auto,scale=.27]
+%\draw[help lines] (-6,-6) grid (6,6);
+\node at (-5,6) (st) {\footnotesize{\textbf{\texttt{start}}}};
+\node[mid]       at (0,0)   (p)  {\textbf{Exec.}};
+\node[mid,red]   at (0,6)   (n1) {\textbf{Sen.}};
+\node[mid,green] at (6,0)   (n2) {\textbf{C\'am.}};
+\node[mid,red]   at (0,-6)  (n3) {\textbf{Sen.}};
+\node[mid]       at (-6,0)  (c)  {\textbf{Conf.}};
+\node[middot]    at (2,3)   (u)  {$u$};
+\node[middot]    at (3,-2)  (v)  {$u$};
+\node[middot]    at (-2,-3) (w)  {$u$};
+\node[middot]    at (-3,2)  (x)  {$u$};
+\draw [-stealth] (st)                    edge node {100} (n1);
+\draw [-stealth] (n1) [loop above]       edge node              { 8} ();    % l11 $A$
+\draw [-stealth] (n1) [bend left,dashed] edge node              {79} (u);   % l1u $B$
+\draw [-stealth] (n1) [out=0,in=90]      edge node              {13} (n2);  % l12 $C$
+\draw [-stealth] (u)  [bend left]        edge node              {31} (n1);  % lu1 $D$
+\draw [-stealth] (u)                     edge node              {48} (n2);  % lu2 $E$
+\draw [-stealth] (n2) [loop right]       edge node              { 1} ();    % l22 $F$
+\draw [-stealth] (n2) [out=-90,in=0]     edge node              { 6} (n3);  % l23 $G$
+\draw [-stealth] (n2) [bend left,dashed] edge node              {47} (v);   % l2v $H$
+\draw [-stealth] (n2) [out=170, in=10]   edge node [swap]       { 8} (p);   % l2p $I$
+\draw [-stealth] (v)  [bend left]        edge node              { 6} (n2);  % lv2 $J$
+\draw [-stealth] (v)                     edge node [swap]       {18} (p)    % lvp $K$
+                 (v)                     edge node              {23} (n3);  % lv3 $L$
+\draw [-stealth] (n3) [loop below]       edge node              { 0} ();    % l33 $N$
+\draw [-stealth] (n3) [out=180,in=-90]   edge node              { 4} (c);   % l3c $O$
+\draw [-stealth] (n3) [bend left,dashed] edge node              {18} (w);   % l3w $P$
+\draw [-stealth] (n3) [out=80, in=-80]   edge node [swap]       { 7} (p);   % l3p $Q$
+\draw [-stealth] (w)  [bend left]        edge node [near start] { 0} (n3);  % lw3 $R$
+\draw [-stealth] (w)                     edge node              {11} (p)    % lwp $S$
+                 (w)                     edge node              { 7} (c);   % lwc $U$
+\draw [-stealth] (c)  [loop left]        edge node              { 1} ();    % lcc $V$
+\draw [-stealth] (c)  [bend left,dashed] edge node              { 8} (x);   % lcx $W$
+\draw [-stealth] (c)  [out=-10, in=-170] edge node [swap]       { 2} (p);   % lcp $X$
+\draw [-stealth] (x)  [bend left]        edge node              { 1} (c);   % lxc $Y$
+\draw [-stealth] (x)                     edge node              { 7} (p);   % lcp $Z$
+\end{tikzpicture}
+
+&
+
+\tikzstyle{mid}=[circle,draw]
+\tikzstyle{middot}=[circle,draw,dashed]
+\tiny
+\begin{tikzpicture}[shorten >=1pt,node distance=2cm,auto,scale=.27]
+%\draw[help lines] (-6,-6) grid (6,6);
+\node at (-5,6) (st) {\footnotesize{\textbf{\texttt{start}}}};
+\node[mid]     at (0,0)   (p)  {\textbf{Exec.}};
+\node[mid,green] at (0,6)   (n1) {\textbf{C\'am.}};
+\node[mid,red]   at (6,0)   (n2) {\textbf{Sen.}};
+\node[mid,green] at (0,-6)  (n3) {\textbf{C\'am.}};
+\node[mid]       at (-6,0)  (c)  {\textbf{Conf.}};
+\node[middot]    at (2,3)   (u)  {$u$};
+\node[middot]    at (3,-2)  (v)  {$u$};
+\node[middot]    at (-2,-3) (w)  {$u$};
+\node[middot]    at (-3,2)  (x)  {$u$};
+\draw [-stealth] (st)                    edge node {100} (n1);
+\draw [-stealth] (n1) [loop above]       edge node              { 8} ();    % l11 $A$
+\draw [-stealth] (n1) [bend left,dashed] edge node              {75} (u);   % l1u $B$
+\draw [-stealth] (n1) [out=0,in=90]      edge node              {17} (n2);  % l12 $C$
+\draw [-stealth] (u)  [bend left]        edge node              {14} (n1);  % lu1 $D$
+\draw [-stealth] (u)                     edge node              {61} (n2);  % lu2 $E$
+\draw [-stealth] (n2) [loop right]       edge node              { 3} ();    % l22 $F$
+\draw [-stealth] (n2) [out=-90,in=0]     edge node              { 6} (n3);  % l23 $G$
+\draw [-stealth] (n2) [bend left,dashed] edge node              {57} (v);   % l2v $H$
+\draw [-stealth] (n2) [out=170, in=10]   edge node [swap]       {12} (p);   % l2p $I$
+\draw [-stealth] (v)  [bend left]        edge node              { 7} (n2);  % lv2 $J$
+\draw [-stealth] (v)                     edge node [swap]       {24} (p)    % lvp $K$
+                 (v)                     edge node              {25} (n3);  % lv3 $L$
+\draw [-stealth] (n3) [loop below]       edge node              { 0} ();    % l33 $N$
+\draw [-stealth] (n3) [out=180,in=-90]   edge node              { 6} (c);   % l3c $O$
+\draw [-stealth] (n3) [bend left,dashed] edge node              {11} (w);   % l3w $P$
+\draw [-stealth] (n3) [out=80, in=-80]   edge node [swap]       {15} (p);   % l3p $Q$
+\draw [-stealth] (w)  [bend left]        edge node [near start] { 0} (n3);  % lw3 $R$
+\draw [-stealth] (w)                     edge node              { 9} (p)    % lwp $S$
+                 (w)                     edge node              { 1} (c);   % lwc $U$
+\draw [-stealth] (c)  [loop left]        edge node              { 0} ();    % lcc $V$
+\draw [-stealth] (c)  [bend left,dashed] edge node              { 5} (x);   % lcx $W$
+\draw [-stealth] (c)  [out=-10, in=-170] edge node [swap]       { 2} (p);   % lcp $X$
+\draw [-stealth] (x)  [bend left]        edge node              { 0} (c);   % lxc $Y$
+\draw [-stealth] (x)                     edge node              { 5} (p);   % lcp $Z$
+\end{tikzpicture}
+
+\end{tabular}
+
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{Where next?}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Two intuitions}
+
+\begin{center}
+schedule now $\neq$ passage \\ certainly, but
+\end{center}
+
+\bigskip
+
+\be
+\item Imperfect negative agenda control
+  \bi
+  \item Committee gatekeeking $\rightarrow$ silent death \\ (Weingast\&Marshall 1988)
+  \item Could majority cartel operate? Must include president \\ (Cox\&McCubbins 2005)
+  \ei
+\item Dilatory tactics
+  \bi
+  \item Worsen legislative bottleneck (Cox 1987)
+  \item Exploit impatience of those next in line \\ (Wawro\&Schickler 2007)
+  \ei
+\ee
+
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\frame {                      % SLIDE
+
+    \frametitle{Wrap-up}
+
+\bi
+\item Chile's urgency auth.~consequential iff $k>o$
+\item Corr(degree,$k$)>0, `4 week' freq.~ puzzling
+\item Urgency triggers timely reports
+\item 2/5 messages extend deadline, 1/5 withdraw urgency
+  \be
+  \item Which exec.\ proposals not urgent? 
+  \item How do member proposals become urgent? Vote trading?
+  \ee
+\item Better identification for selection problems
+\ei
+
+
+
+\pause
+
+\center{\textbf{Thank you!}}
+
+}
+\end{document}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+\frame[plain] {                      % SLIDE
+
+%    \frametitle{}
+
+\Large
+\centering
+\textbf{Extra material}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Original data}
+
+\href{http://www.camara.cl/pley/pley_detalle.aspx?prmID=498&prmBL=2035-06}{\url{www.camara.cl}} very sharp \\
+Scraped with \texttt{Python}'s Selenium library $\rightarrow$ \alert{bill histories 1990--2014}
+
+\bigskip
+
+\includegraphics[width=\columnwidth]{../../graphs/hit.png} \\
+
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Original data}
+
+\href{http://www.camara.cl/pley/pley_detalle.aspx?prmID=498&prmBL=2035-06}{\url{www.camara.cl}} very sharp \\
+Scraped with \texttt{Python}'s Selenium library $\rightarrow$ \alert{bill histories 1990--2014}
+
+\bigskip
+
+\includegraphics[width=\columnwidth]{../../graphs/urg.png} \\
+
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%% 
+\frame {                      % SLIDE
+
+    \frametitle{Daily messages 1998--99}
+
+\begin{center}
+    \includegraphics[width=\columnwidth]{../../graphs/urgencias1998-1.pdf} \\
+
+    \begin{tikzpicture}[scale=.1]
+      \fill[red]          (0,-1   ) circle (.75);
+      \node[right] at     (1.25,-1   ) {\scriptsize{Act now}};  
+      \fill[yellow]       (20  ,-1  ) circle (.75);
+      \node[right] at     (21.25,-1) {\scriptsize{2-week notice}};  
+      \fill[green]        (50  ,-1   ) circle (.75);
+      \node[right] at     (51.25,-1 ) {\scriptsize{4-week notice}};  
+      \draw[red,thick]    (0  ,-4   )  -- (0,-6);
+      \draw[red,thick]    (-1 ,-5   ) -- (1,-5);
+      \draw[yellow,thick] (2  ,-4   )  -- (2,-6);
+      \draw[yellow,thick] (1  ,-5   ) -- (3,-5);
+      \draw[green,thick]  (4  ,-4   )  -- (4,-6);
+      \draw[green,thick]  (3  ,-5   ) -- (5,-5);
+      \node[right] at     (4.5,-5 ) {\scriptsize{Deadline change}};  
+      \fill[red]          (39  ,-4   )  -- (41,-4) -- (40,-6);
+      \fill[yellow]       (41  ,-4   )  -- (43,-4) -- (42,-6);
+      \fill[green]        (43  ,-4   )  -- (45,-4) -- (44,-6);
+      \node[right] at     (44.5,-5  ) {\scriptsize{Withdraw}};  
+    \end{tikzpicture}
+\end{center}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Daily messages 1998--99}
+
+\begin{center}
+    \includegraphics[width=\columnwidth]{../../graphs/urgencias1998-2.pdf} \\
+
+    \begin{tikzpicture}[scale=.1]
+      \fill[red]          (0,-1   ) circle (.75);
+      \node[right] at     (1.25,-1   ) {\scriptsize{Act now}};  
+      \fill[yellow]       (20  ,-1  ) circle (.75);
+      \node[right] at     (21.25,-1) {\scriptsize{2-week notice}};  
+      \fill[green]        (50  ,-1   ) circle (.75);
+      \node[right] at     (51.25,-1 ) {\scriptsize{4-week notice}};  
+      \draw[red,thick]    (0  ,-4   )  -- (0,-6);
+      \draw[red,thick]    (-1 ,-5   ) -- (1,-5);
+      \draw[yellow,thick] (2  ,-4   )  -- (2,-6);
+      \draw[yellow,thick] (1  ,-5   ) -- (3,-5);
+      \draw[green,thick]  (4  ,-4   )  -- (4,-6);
+      \draw[green,thick]  (3  ,-5   ) -- (5,-5);
+      \node[right] at     (4.5,-5 ) {\scriptsize{Deadline change}};  
+      \fill[red]          (39  ,-4   )  -- (41,-4) -- (40,-6);
+      \fill[yellow]       (41  ,-4   )  -- (43,-4) -- (42,-6);
+      \fill[green]        (43  ,-4   )  -- (45,-4) -- (44,-6);
+      \node[right] at     (44.5,-5  ) {\scriptsize{Withdraw}};  
+    \end{tikzpicture}
+\end{center}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Daily messages 1999--2000}
+
+\begin{center}
+    \includegraphics[width=\columnwidth]{../../graphs/urgencias1999-1.pdf} \\
+
+    \begin{tikzpicture}[scale=.1]
+      \fill[red]          (0,-1   ) circle (.75);
+      \node[right] at     (1.25,-1   ) {\scriptsize{Act now}};  
+      \fill[yellow]       (20  ,-1  ) circle (.75);
+      \node[right] at     (21.25,-1) {\scriptsize{2-week notice}};  
+      \fill[green]        (50  ,-1   ) circle (.75);
+      \node[right] at     (51.25,-1 ) {\scriptsize{4-week notice}};  
+      \draw[red,thick]    (0  ,-4   )  -- (0,-6);
+      \draw[red,thick]    (-1 ,-5   ) -- (1,-5);
+      \draw[yellow,thick] (2  ,-4   )  -- (2,-6);
+      \draw[yellow,thick] (1  ,-5   ) -- (3,-5);
+      \draw[green,thick]  (4  ,-4   )  -- (4,-6);
+      \draw[green,thick]  (3  ,-5   ) -- (5,-5);
+      \node[right] at     (4.5,-5 ) {\scriptsize{Deadline change}};  
+      \fill[red]          (39  ,-4   )  -- (41,-4) -- (40,-6);
+      \fill[yellow]       (41  ,-4   )  -- (43,-4) -- (42,-6);
+      \fill[green]        (43  ,-4   )  -- (45,-4) -- (44,-6);
+      \node[right] at     (44.5,-5  ) {\scriptsize{Withdraw}};  
+    \end{tikzpicture}
+\end{center}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Daily messages 1999--2000}
+
+\begin{center}
+    \includegraphics[width=\columnwidth]{../../graphs/urgencias1999-2.pdf} \\
+
+    \begin{tikzpicture}[scale=.1]
+      \fill[red]          (0,-1   ) circle (.75);
+      \node[right] at     (1.25,-1   ) {\scriptsize{Act now}};  
+      \fill[yellow]       (20  ,-1  ) circle (.75);
+      \node[right] at     (21.25,-1) {\scriptsize{2-week notice}};  
+      \fill[green]        (50  ,-1   ) circle (.75);
+      \node[right] at     (51.25,-1 ) {\scriptsize{4-week notice}};  
+      \draw[red,thick]    (0  ,-4   )  -- (0,-6);
+      \draw[red,thick]    (-1 ,-5   ) -- (1,-5);
+      \draw[yellow,thick] (2  ,-4   )  -- (2,-6);
+      \draw[yellow,thick] (1  ,-5   ) -- (3,-5);
+      \draw[green,thick]  (4  ,-4   )  -- (4,-6);
+      \draw[green,thick]  (3  ,-5   ) -- (5,-5);
+      \node[right] at     (4.5,-5 ) {\scriptsize{Deadline change}};  
+      \fill[red]          (39  ,-4   )  -- (41,-4) -- (40,-6);
+      \fill[yellow]       (41  ,-4   )  -- (43,-4) -- (42,-6);
+      \fill[green]        (43  ,-4   )  -- (45,-4) -- (44,-6);
+      \node[right] at     (44.5,-5  ) {\scriptsize{Withdraw}};  
+    \end{tikzpicture}
+\end{center}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Daily messages 2000--01}
+
+\begin{center}
+    \includegraphics[width=\columnwidth]{../../graphs/urgencias2000-1.pdf} \\
+
+    \begin{tikzpicture}[scale=.1]
+      \fill[red]          (0,-1   ) circle (.75);
+      \node[right] at     (1.25,-1   ) {\scriptsize{Act now}};  
+      \fill[yellow]       (20  ,-1  ) circle (.75);
+      \node[right] at     (21.25,-1) {\scriptsize{2-week notice}};  
+      \fill[green]        (50  ,-1   ) circle (.75);
+      \node[right] at     (51.25,-1 ) {\scriptsize{4-week notice}};  
+      \draw[red,thick]    (0  ,-4   )  -- (0,-6);
+      \draw[red,thick]    (-1 ,-5   ) -- (1,-5);
+      \draw[yellow,thick] (2  ,-4   )  -- (2,-6);
+      \draw[yellow,thick] (1  ,-5   ) -- (3,-5);
+      \draw[green,thick]  (4  ,-4   )  -- (4,-6);
+      \draw[green,thick]  (3  ,-5   ) -- (5,-5);
+      \node[right] at     (4.5,-5 ) {\scriptsize{Deadline change}};  
+      \fill[red]          (39  ,-4   )  -- (41,-4) -- (40,-6);
+      \fill[yellow]       (41  ,-4   )  -- (43,-4) -- (42,-6);
+      \fill[green]        (43  ,-4   )  -- (45,-4) -- (44,-6);
+      \node[right] at     (44.5,-5  ) {\scriptsize{Withdraw}};  
+    \end{tikzpicture}
+\end{center}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Daily messages 2000--01}
+
+\begin{center}
+    \includegraphics[width=\columnwidth]{../../graphs/urgencias2000-2.pdf} \\
+
+    \begin{tikzpicture}[scale=.1]
+      \fill[red]          (0,-1   ) circle (.75);
+      \node[right] at     (1.25,-1   ) {\scriptsize{Act now}};  
+      \fill[yellow]       (20  ,-1  ) circle (.75);
+      \node[right] at     (21.25,-1) {\scriptsize{2-week notice}};  
+      \fill[green]        (50  ,-1   ) circle (.75);
+      \node[right] at     (51.25,-1 ) {\scriptsize{4-week notice}};  
+      \draw[red,thick]    (0  ,-4   )  -- (0,-6);
+      \draw[red,thick]    (-1 ,-5   ) -- (1,-5);
+      \draw[yellow,thick] (2  ,-4   )  -- (2,-6);
+      \draw[yellow,thick] (1  ,-5   ) -- (3,-5);
+      \draw[green,thick]  (4  ,-4   )  -- (4,-6);
+      \draw[green,thick]  (3  ,-5   ) -- (5,-5);
+      \node[right] at     (4.5,-5 ) {\scriptsize{Deadline change}};  
+      \fill[red]          (39  ,-4   )  -- (41,-4) -- (40,-6);
+      \fill[yellow]       (41  ,-4   )  -- (43,-4) -- (42,-6);
+      \fill[green]        (43  ,-4   )  -- (45,-4) -- (44,-6);
+      \node[right] at     (44.5,-5  ) {\scriptsize{Withdraw}};  
+    \end{tikzpicture}
+\end{center}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Daily messages 2001--02}
+
+\begin{center}
+    \includegraphics[width=\columnwidth]{../../graphs/urgencias2001-1.pdf} \\
+
+    \begin{tikzpicture}[scale=.1]
+      \fill[red]          (0,-1   ) circle (.75);
+      \node[right] at     (1.25,-1   ) {\scriptsize{Act now}};  
+      \fill[yellow]       (20  ,-1  ) circle (.75);
+      \node[right] at     (21.25,-1) {\scriptsize{2-week notice}};  
+      \fill[green]        (50  ,-1   ) circle (.75);
+      \node[right] at     (51.25,-1 ) {\scriptsize{4-week notice}};  
+      \draw[red,thick]    (0  ,-4   )  -- (0,-6);
+      \draw[red,thick]    (-1 ,-5   ) -- (1,-5);
+      \draw[yellow,thick] (2  ,-4   )  -- (2,-6);
+      \draw[yellow,thick] (1  ,-5   ) -- (3,-5);
+      \draw[green,thick]  (4  ,-4   )  -- (4,-6);
+      \draw[green,thick]  (3  ,-5   ) -- (5,-5);
+      \node[right] at     (4.5,-5 ) {\scriptsize{Deadline change}};  
+      \fill[red]          (39  ,-4   )  -- (41,-4) -- (40,-6);
+      \fill[yellow]       (41  ,-4   )  -- (43,-4) -- (42,-6);
+      \fill[green]        (43  ,-4   )  -- (45,-4) -- (44,-6);
+      \node[right] at     (44.5,-5  ) {\scriptsize{Withdraw}};  
+    \end{tikzpicture}
+\end{center}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Daily messages 2001--02}
+
+\begin{center}
+    \includegraphics[width=\columnwidth]{../../graphs/urgencias2001-2.pdf} \\
+
+    \begin{tikzpicture}[scale=.1]
+      \fill[red]          (0,-1   ) circle (.75);
+      \node[right] at     (1.25,-1   ) {\scriptsize{Act now}};  
+      \fill[yellow]       (20  ,-1  ) circle (.75);
+      \node[right] at     (21.25,-1) {\scriptsize{2-week notice}};  
+      \fill[green]        (50  ,-1   ) circle (.75);
+      \node[right] at     (51.25,-1 ) {\scriptsize{4-week notice}};  
+      \draw[red,thick]    (0  ,-4   )  -- (0,-6);
+      \draw[red,thick]    (-1 ,-5   ) -- (1,-5);
+      \draw[yellow,thick] (2  ,-4   )  -- (2,-6);
+      \draw[yellow,thick] (1  ,-5   ) -- (3,-5);
+      \draw[green,thick]  (4  ,-4   )  -- (4,-6);
+      \draw[green,thick]  (3  ,-5   ) -- (5,-5);
+      \node[right] at     (4.5,-5 ) {\scriptsize{Deadline change}};  
+      \fill[red]          (39  ,-4   )  -- (41,-4) -- (40,-6);
+      \fill[yellow]       (41  ,-4   )  -- (43,-4) -- (42,-6);
+      \fill[green]        (43  ,-4   )  -- (45,-4) -- (44,-6);
+      \node[right] at     (44.5,-5  ) {\scriptsize{Withdraw}};  
+    \end{tikzpicture}
+\end{center}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Daily messages 2002--03}
+
+\begin{center}
+    \includegraphics[width=\columnwidth]{../../graphs/urgencias2002-1.pdf} \\
+
+    \begin{tikzpicture}[scale=.1]
+      \fill[red]          (0,-1   ) circle (.75);
+      \node[right] at     (1.25,-1   ) {\scriptsize{Act now}};  
+      \fill[yellow]       (20  ,-1  ) circle (.75);
+      \node[right] at     (21.25,-1) {\scriptsize{2-week notice}};  
+      \fill[green]        (50  ,-1   ) circle (.75);
+      \node[right] at     (51.25,-1 ) {\scriptsize{4-week notice}};  
+      \draw[red,thick]    (0  ,-4   )  -- (0,-6);
+      \draw[red,thick]    (-1 ,-5   ) -- (1,-5);
+      \draw[yellow,thick] (2  ,-4   )  -- (2,-6);
+      \draw[yellow,thick] (1  ,-5   ) -- (3,-5);
+      \draw[green,thick]  (4  ,-4   )  -- (4,-6);
+      \draw[green,thick]  (3  ,-5   ) -- (5,-5);
+      \node[right] at     (4.5,-5 ) {\scriptsize{Deadline change}};  
+      \fill[red]          (39  ,-4   )  -- (41,-4) -- (40,-6);
+      \fill[yellow]       (41  ,-4   )  -- (43,-4) -- (42,-6);
+      \fill[green]        (43  ,-4   )  -- (45,-4) -- (44,-6);
+      \node[right] at     (44.5,-5  ) {\scriptsize{Withdraw}};  
+    \end{tikzpicture}
+\end{center}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Daily messages 2002--03}
+
+\begin{center}
+    \includegraphics[width=\columnwidth]{../../graphs/urgencias2002-2.pdf} \\
+
+    \begin{tikzpicture}[scale=.1]
+      \fill[red]          (0,-1   ) circle (.75);
+      \node[right] at     (1.25,-1   ) {\scriptsize{Act now}};  
+      \fill[yellow]       (20  ,-1  ) circle (.75);
+      \node[right] at     (21.25,-1) {\scriptsize{2-week notice}};  
+      \fill[green]        (50  ,-1   ) circle (.75);
+      \node[right] at     (51.25,-1 ) {\scriptsize{4-week notice}};  
+      \draw[red,thick]    (0  ,-4   )  -- (0,-6);
+      \draw[red,thick]    (-1 ,-5   ) -- (1,-5);
+      \draw[yellow,thick] (2  ,-4   )  -- (2,-6);
+      \draw[yellow,thick] (1  ,-5   ) -- (3,-5);
+      \draw[green,thick]  (4  ,-4   )  -- (4,-6);
+      \draw[green,thick]  (3  ,-5   ) -- (5,-5);
+      \node[right] at     (4.5,-5 ) {\scriptsize{Deadline change}};  
+      \fill[red]          (39  ,-4   )  -- (41,-4) -- (40,-6);
+      \fill[yellow]       (41  ,-4   )  -- (43,-4) -- (42,-6);
+      \fill[green]        (43  ,-4   )  -- (45,-4) -- (44,-6);
+      \node[right] at     (44.5,-5  ) {\scriptsize{Withdraw}};  
+    \end{tikzpicture}
+\end{center}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Daily messages 2003--04}
+
+\begin{center}
+    \includegraphics[width=\columnwidth]{../../graphs/urgencias2003-1.pdf} \\
+
+    \begin{tikzpicture}[scale=.1]
+      \fill[red]          (0,-1   ) circle (.75);
+      \node[right] at     (1.25,-1   ) {\scriptsize{Act now}};  
+      \fill[yellow]       (20  ,-1  ) circle (.75);
+      \node[right] at     (21.25,-1) {\scriptsize{2-week notice}};  
+      \fill[green]        (50  ,-1   ) circle (.75);
+      \node[right] at     (51.25,-1 ) {\scriptsize{4-week notice}};  
+      \draw[red,thick]    (0  ,-4   )  -- (0,-6);
+      \draw[red,thick]    (-1 ,-5   ) -- (1,-5);
+      \draw[yellow,thick] (2  ,-4   )  -- (2,-6);
+      \draw[yellow,thick] (1  ,-5   ) -- (3,-5);
+      \draw[green,thick]  (4  ,-4   )  -- (4,-6);
+      \draw[green,thick]  (3  ,-5   ) -- (5,-5);
+      \node[right] at     (4.5,-5 ) {\scriptsize{Deadline change}};  
+      \fill[red]          (39  ,-4   )  -- (41,-4) -- (40,-6);
+      \fill[yellow]       (41  ,-4   )  -- (43,-4) -- (42,-6);
+      \fill[green]        (43  ,-4   )  -- (45,-4) -- (44,-6);
+      \node[right] at     (44.5,-5  ) {\scriptsize{Withdraw}};  
+    \end{tikzpicture}
+\end{center}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Daily messages 2003--04}
+
+\begin{center}
+    \includegraphics[width=\columnwidth]{../../graphs/urgencias2003-2.pdf} \\
+
+    \begin{tikzpicture}[scale=.1]
+      \fill[red]          (0,-1   ) circle (.75);
+      \node[right] at     (1.25,-1   ) {\scriptsize{Act now}};  
+      \fill[yellow]       (20  ,-1  ) circle (.75);
+      \node[right] at     (21.25,-1) {\scriptsize{2-week notice}};  
+      \fill[green]        (50  ,-1   ) circle (.75);
+      \node[right] at     (51.25,-1 ) {\scriptsize{4-week notice}};  
+      \draw[red,thick]    (0  ,-4   )  -- (0,-6);
+      \draw[red,thick]    (-1 ,-5   ) -- (1,-5);
+      \draw[yellow,thick] (2  ,-4   )  -- (2,-6);
+      \draw[yellow,thick] (1  ,-5   ) -- (3,-5);
+      \draw[green,thick]  (4  ,-4   )  -- (4,-6);
+      \draw[green,thick]  (3  ,-5   ) -- (5,-5);
+      \node[right] at     (4.5,-5 ) {\scriptsize{Deadline change}};  
+      \fill[red]          (39  ,-4   )  -- (41,-4) -- (40,-6);
+      \fill[yellow]       (41  ,-4   )  -- (43,-4) -- (42,-6);
+      \fill[green]        (43  ,-4   )  -- (45,-4) -- (44,-6);
+      \node[right] at     (44.5,-5  ) {\scriptsize{Withdraw}};  
+    \end{tikzpicture}
+\end{center}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Daily messages 2004--05}
+
+\begin{center}
+    \includegraphics[width=\columnwidth]{../../graphs/urgencias2004-1.pdf} \\
+
+    \begin{tikzpicture}[scale=.1]
+      \fill[red]          (0,-1   ) circle (.75);
+      \node[right] at     (1.25,-1   ) {\scriptsize{Act now}};  
+      \fill[yellow]       (20  ,-1  ) circle (.75);
+      \node[right] at     (21.25,-1) {\scriptsize{2-week notice}};  
+      \fill[green]        (50  ,-1   ) circle (.75);
+      \node[right] at     (51.25,-1 ) {\scriptsize{4-week notice}};  
+      \draw[red,thick]    (0  ,-4   )  -- (0,-6);
+      \draw[red,thick]    (-1 ,-5   ) -- (1,-5);
+      \draw[yellow,thick] (2  ,-4   )  -- (2,-6);
+      \draw[yellow,thick] (1  ,-5   ) -- (3,-5);
+      \draw[green,thick]  (4  ,-4   )  -- (4,-6);
+      \draw[green,thick]  (3  ,-5   ) -- (5,-5);
+      \node[right] at     (4.5,-5 ) {\scriptsize{Deadline change}};  
+      \fill[red]          (39  ,-4   )  -- (41,-4) -- (40,-6);
+      \fill[yellow]       (41  ,-4   )  -- (43,-4) -- (42,-6);
+      \fill[green]        (43  ,-4   )  -- (45,-4) -- (44,-6);
+      \node[right] at     (44.5,-5  ) {\scriptsize{Withdraw}};  
+    \end{tikzpicture}
+\end{center}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Daily messages 2004--05}
+
+\begin{center}
+    \includegraphics[width=\columnwidth]{../../graphs/urgencias2004-2.pdf} \\
+
+    \begin{tikzpicture}[scale=.1]
+      \fill[red]          (0,-1   ) circle (.75);
+      \node[right] at     (1.25,-1   ) {\scriptsize{Act now}};  
+      \fill[yellow]       (20  ,-1  ) circle (.75);
+      \node[right] at     (21.25,-1) {\scriptsize{2-week notice}};  
+      \fill[green]        (50  ,-1   ) circle (.75);
+      \node[right] at     (51.25,-1 ) {\scriptsize{4-week notice}};  
+      \draw[red,thick]    (0  ,-4   )  -- (0,-6);
+      \draw[red,thick]    (-1 ,-5   ) -- (1,-5);
+      \draw[yellow,thick] (2  ,-4   )  -- (2,-6);
+      \draw[yellow,thick] (1  ,-5   ) -- (3,-5);
+      \draw[green,thick]  (4  ,-4   )  -- (4,-6);
+      \draw[green,thick]  (3  ,-5   ) -- (5,-5);
+      \node[right] at     (4.5,-5 ) {\scriptsize{Deadline change}};  
+      \fill[red]          (39  ,-4   )  -- (41,-4) -- (40,-6);
+      \fill[yellow]       (41  ,-4   )  -- (43,-4) -- (42,-6);
+      \fill[green]        (43  ,-4   )  -- (45,-4) -- (44,-6);
+      \node[right] at     (44.5,-5  ) {\scriptsize{Withdraw}};  
+    \end{tikzpicture}
+\end{center}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Daily messages 2005--06}
+
+\begin{center}
+    \includegraphics[width=\columnwidth]{../../graphs/urgencias2005-1.pdf} \\
+
+    \begin{tikzpicture}[scale=.1]
+      \fill[red]          (0,-1   ) circle (.75);
+      \node[right] at     (1.25,-1   ) {\scriptsize{Act now}};  
+      \fill[yellow]       (20  ,-1  ) circle (.75);
+      \node[right] at     (21.25,-1) {\scriptsize{2-week notice}};  
+      \fill[green]        (50  ,-1   ) circle (.75);
+      \node[right] at     (51.25,-1 ) {\scriptsize{4-week notice}};  
+      \draw[red,thick]    (0  ,-4   )  -- (0,-6);
+      \draw[red,thick]    (-1 ,-5   ) -- (1,-5);
+      \draw[yellow,thick] (2  ,-4   )  -- (2,-6);
+      \draw[yellow,thick] (1  ,-5   ) -- (3,-5);
+      \draw[green,thick]  (4  ,-4   )  -- (4,-6);
+      \draw[green,thick]  (3  ,-5   ) -- (5,-5);
+      \node[right] at     (4.5,-5 ) {\scriptsize{Deadline change}};  
+      \fill[red]          (39  ,-4   )  -- (41,-4) -- (40,-6);
+      \fill[yellow]       (41  ,-4   )  -- (43,-4) -- (42,-6);
+      \fill[green]        (43  ,-4   )  -- (45,-4) -- (44,-6);
+      \node[right] at     (44.5,-5  ) {\scriptsize{Withdraw}};  
+    \end{tikzpicture}
+\end{center}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Daily messages 2005--06}
+
+\begin{center}
+    \includegraphics[width=\columnwidth]{../../graphs/urgencias2005-2.pdf} \\
+
+    \begin{tikzpicture}[scale=.1]
+      \fill[red]          (0,-1   ) circle (.75);
+      \node[right] at     (1.25,-1   ) {\scriptsize{Act now}};  
+      \fill[yellow]       (20  ,-1  ) circle (.75);
+      \node[right] at     (21.25,-1) {\scriptsize{2-week notice}};  
+      \fill[green]        (50  ,-1   ) circle (.75);
+      \node[right] at     (51.25,-1 ) {\scriptsize{4-week notice}};  
+      \draw[red,thick]    (0  ,-4   )  -- (0,-6);
+      \draw[red,thick]    (-1 ,-5   ) -- (1,-5);
+      \draw[yellow,thick] (2  ,-4   )  -- (2,-6);
+      \draw[yellow,thick] (1  ,-5   ) -- (3,-5);
+      \draw[green,thick]  (4  ,-4   )  -- (4,-6);
+      \draw[green,thick]  (3  ,-5   ) -- (5,-5);
+      \node[right] at     (4.5,-5 ) {\scriptsize{Deadline change}};  
+      \fill[red]          (39  ,-4   )  -- (41,-4) -- (40,-6);
+      \fill[yellow]       (41  ,-4   )  -- (43,-4) -- (42,-6);
+      \fill[green]        (43  ,-4   )  -- (45,-4) -- (44,-6);
+      \node[right] at     (44.5,-5  ) {\scriptsize{Withdraw}};  
+    \end{tikzpicture}
+\end{center}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Daily messages 2006--07}
+
+\begin{center}
+    \includegraphics[width=\columnwidth]{../../graphs/urgencias2006-1.pdf} \\
+
+    \begin{tikzpicture}[scale=.1]
+      \fill[red]          (0,-1   ) circle (.75);
+      \node[right] at     (1.25,-1   ) {\scriptsize{Act now}};  
+      \fill[yellow]       (20  ,-1  ) circle (.75);
+      \node[right] at     (21.25,-1) {\scriptsize{2-week notice}};  
+      \fill[green]        (50  ,-1   ) circle (.75);
+      \node[right] at     (51.25,-1 ) {\scriptsize{4-week notice}};  
+      \draw[red,thick]    (0  ,-4   )  -- (0,-6);
+      \draw[red,thick]    (-1 ,-5   ) -- (1,-5);
+      \draw[yellow,thick] (2  ,-4   )  -- (2,-6);
+      \draw[yellow,thick] (1  ,-5   ) -- (3,-5);
+      \draw[green,thick]  (4  ,-4   )  -- (4,-6);
+      \draw[green,thick]  (3  ,-5   ) -- (5,-5);
+      \node[right] at     (4.5,-5 ) {\scriptsize{Deadline change}};  
+      \fill[red]          (39  ,-4   )  -- (41,-4) -- (40,-6);
+      \fill[yellow]       (41  ,-4   )  -- (43,-4) -- (42,-6);
+      \fill[green]        (43  ,-4   )  -- (45,-4) -- (44,-6);
+      \node[right] at     (44.5,-5  ) {\scriptsize{Withdraw}};  
+    \end{tikzpicture}
+\end{center}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Daily messages 2006--07}
+
+\begin{center}
+    \includegraphics[width=\columnwidth]{../../graphs/urgencias2006-2.pdf} \\
+
+    \begin{tikzpicture}[scale=.1]
+      \fill[red]          (0,-1   ) circle (.75);
+      \node[right] at     (1.25,-1   ) {\scriptsize{Act now}};  
+      \fill[yellow]       (20  ,-1  ) circle (.75);
+      \node[right] at     (21.25,-1) {\scriptsize{2-week notice}};  
+      \fill[green]        (50  ,-1   ) circle (.75);
+      \node[right] at     (51.25,-1 ) {\scriptsize{4-week notice}};  
+      \draw[red,thick]    (0  ,-4   )  -- (0,-6);
+      \draw[red,thick]    (-1 ,-5   ) -- (1,-5);
+      \draw[yellow,thick] (2  ,-4   )  -- (2,-6);
+      \draw[yellow,thick] (1  ,-5   ) -- (3,-5);
+      \draw[green,thick]  (4  ,-4   )  -- (4,-6);
+      \draw[green,thick]  (3  ,-5   ) -- (5,-5);
+      \node[right] at     (4.5,-5 ) {\scriptsize{Deadline change}};  
+      \fill[red]          (39  ,-4   )  -- (41,-4) -- (40,-6);
+      \fill[yellow]       (41  ,-4   )  -- (43,-4) -- (42,-6);
+      \fill[green]        (43  ,-4   )  -- (45,-4) -- (44,-6);
+      \node[right] at     (44.5,-5  ) {\scriptsize{Withdraw}};  
+    \end{tikzpicture}
+\end{center}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Daily messages 2007--08}
+
+\begin{center}
+    \includegraphics[width=\columnwidth]{../../graphs/urgencias2007-1.pdf} \\
+
+    \begin{tikzpicture}[scale=.1]
+      \fill[red]          (0,-1   ) circle (.75);
+      \node[right] at     (1.25,-1   ) {\scriptsize{Act now}};  
+      \fill[yellow]       (20  ,-1  ) circle (.75);
+      \node[right] at     (21.25,-1) {\scriptsize{2-week notice}};  
+      \fill[green]        (50  ,-1   ) circle (.75);
+      \node[right] at     (51.25,-1 ) {\scriptsize{4-week notice}};  
+      \draw[red,thick]    (0  ,-4   )  -- (0,-6);
+      \draw[red,thick]    (-1 ,-5   ) -- (1,-5);
+      \draw[yellow,thick] (2  ,-4   )  -- (2,-6);
+      \draw[yellow,thick] (1  ,-5   ) -- (3,-5);
+      \draw[green,thick]  (4  ,-4   )  -- (4,-6);
+      \draw[green,thick]  (3  ,-5   ) -- (5,-5);
+      \node[right] at     (4.5,-5 ) {\scriptsize{Deadline change}};  
+      \fill[red]          (39  ,-4   )  -- (41,-4) -- (40,-6);
+      \fill[yellow]       (41  ,-4   )  -- (43,-4) -- (42,-6);
+      \fill[green]        (43  ,-4   )  -- (45,-4) -- (44,-6);
+      \node[right] at     (44.5,-5  ) {\scriptsize{Withdraw}};  
+    \end{tikzpicture}
+\end{center}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Daily messages 2007--08}
+
+\begin{center}
+    \includegraphics[width=\columnwidth]{../../graphs/urgencias2007-2.pdf} \\
+
+    \begin{tikzpicture}[scale=.1]
+      \fill[red]          (0,-1   ) circle (.75);
+      \node[right] at     (1.25,-1   ) {\scriptsize{Act now}};  
+      \fill[yellow]       (20  ,-1  ) circle (.75);
+      \node[right] at     (21.25,-1) {\scriptsize{2-week notice}};  
+      \fill[green]        (50  ,-1   ) circle (.75);
+      \node[right] at     (51.25,-1 ) {\scriptsize{4-week notice}};  
+      \draw[red,thick]    (0  ,-4   )  -- (0,-6);
+      \draw[red,thick]    (-1 ,-5   ) -- (1,-5);
+      \draw[yellow,thick] (2  ,-4   )  -- (2,-6);
+      \draw[yellow,thick] (1  ,-5   ) -- (3,-5);
+      \draw[green,thick]  (4  ,-4   )  -- (4,-6);
+      \draw[green,thick]  (3  ,-5   ) -- (5,-5);
+      \node[right] at     (4.5,-5 ) {\scriptsize{Deadline change}};  
+      \fill[red]          (39  ,-4   )  -- (41,-4) -- (40,-6);
+      \fill[yellow]       (41  ,-4   )  -- (43,-4) -- (42,-6);
+      \fill[green]        (43  ,-4   )  -- (45,-4) -- (44,-6);
+      \node[right] at     (44.5,-5  ) {\scriptsize{Withdraw}};  
+    \end{tikzpicture}
+\end{center}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Daily messages 2008--09}
+
+\begin{center}
+    \includegraphics[width=\columnwidth]{../../graphs/urgencias2008-1.pdf} \\
+
+    \begin{tikzpicture}[scale=.1]
+      \fill[red]          (0,-1   ) circle (.75);
+      \node[right] at     (1.25,-1   ) {\scriptsize{Act now}};  
+      \fill[yellow]       (20  ,-1  ) circle (.75);
+      \node[right] at     (21.25,-1) {\scriptsize{2-week notice}};  
+      \fill[green]        (50  ,-1   ) circle (.75);
+      \node[right] at     (51.25,-1 ) {\scriptsize{4-week notice}};  
+      \draw[red,thick]    (0  ,-4   )  -- (0,-6);
+      \draw[red,thick]    (-1 ,-5   ) -- (1,-5);
+      \draw[yellow,thick] (2  ,-4   )  -- (2,-6);
+      \draw[yellow,thick] (1  ,-5   ) -- (3,-5);
+      \draw[green,thick]  (4  ,-4   )  -- (4,-6);
+      \draw[green,thick]  (3  ,-5   ) -- (5,-5);
+      \node[right] at     (4.5,-5 ) {\scriptsize{Deadline change}};  
+      \fill[red]          (39  ,-4   )  -- (41,-4) -- (40,-6);
+      \fill[yellow]       (41  ,-4   )  -- (43,-4) -- (42,-6);
+      \fill[green]        (43  ,-4   )  -- (45,-4) -- (44,-6);
+      \node[right] at     (44.5,-5  ) {\scriptsize{Withdraw}};  
+    \end{tikzpicture}
+\end{center}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Daily messages 2008--09}
+
+\begin{center}
+    \includegraphics[width=\columnwidth]{../../graphs/urgencias2008-2.pdf} \\
+
+    \begin{tikzpicture}[scale=.1]
+      \fill[red]          (0,-1   ) circle (.75);
+      \node[right] at     (1.25,-1   ) {\scriptsize{Act now}};  
+      \fill[yellow]       (20  ,-1  ) circle (.75);
+      \node[right] at     (21.25,-1) {\scriptsize{2-week notice}};  
+      \fill[green]        (50  ,-1   ) circle (.75);
+      \node[right] at     (51.25,-1 ) {\scriptsize{4-week notice}};  
+      \draw[red,thick]    (0  ,-4   )  -- (0,-6);
+      \draw[red,thick]    (-1 ,-5   ) -- (1,-5);
+      \draw[yellow,thick] (2  ,-4   )  -- (2,-6);
+      \draw[yellow,thick] (1  ,-5   ) -- (3,-5);
+      \draw[green,thick]  (4  ,-4   )  -- (4,-6);
+      \draw[green,thick]  (3  ,-5   ) -- (5,-5);
+      \node[right] at     (4.5,-5 ) {\scriptsize{Deadline change}};  
+      \fill[red]          (39  ,-4   )  -- (41,-4) -- (40,-6);
+      \fill[yellow]       (41  ,-4   )  -- (43,-4) -- (42,-6);
+      \fill[green]        (43  ,-4   )  -- (45,-4) -- (44,-6);
+      \node[right] at     (44.5,-5  ) {\scriptsize{Withdraw}};  
+    \end{tikzpicture}
+\end{center}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Daily messages 2009--10}
+
+\begin{center}
+    \includegraphics[width=\columnwidth]{../../graphs/urgencias2009-1.pdf} \\
+
+    \begin{tikzpicture}[scale=.1]
+      \fill[red]          (0,-1   ) circle (.75);
+      \node[right] at     (1.25,-1   ) {\scriptsize{Act now}};  
+      \fill[yellow]       (20  ,-1  ) circle (.75);
+      \node[right] at     (21.25,-1) {\scriptsize{2-week notice}};  
+      \fill[green]        (50  ,-1   ) circle (.75);
+      \node[right] at     (51.25,-1 ) {\scriptsize{4-week notice}};  
+      \draw[red,thick]    (0  ,-4   )  -- (0,-6);
+      \draw[red,thick]    (-1 ,-5   ) -- (1,-5);
+      \draw[yellow,thick] (2  ,-4   )  -- (2,-6);
+      \draw[yellow,thick] (1  ,-5   ) -- (3,-5);
+      \draw[green,thick]  (4  ,-4   )  -- (4,-6);
+      \draw[green,thick]  (3  ,-5   ) -- (5,-5);
+      \node[right] at     (4.5,-5 ) {\scriptsize{Deadline change}};  
+      \fill[red]          (39  ,-4   )  -- (41,-4) -- (40,-6);
+      \fill[yellow]       (41  ,-4   )  -- (43,-4) -- (42,-6);
+      \fill[green]        (43  ,-4   )  -- (45,-4) -- (44,-6);
+      \node[right] at     (44.5,-5  ) {\scriptsize{Withdraw}};  
+    \end{tikzpicture}
+\end{center}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Daily messages 2009--10}
+
+\begin{center}
+    \includegraphics[width=\columnwidth]{../../graphs/urgencias2009-2.pdf} \\
+
+    \begin{tikzpicture}[scale=.1]
+      \fill[red]          (0,-1   ) circle (.75);
+      \node[right] at     (1.25,-1   ) {\scriptsize{Act now}};  
+      \fill[yellow]       (20  ,-1  ) circle (.75);
+      \node[right] at     (21.25,-1) {\scriptsize{2-week notice}};  
+      \fill[green]        (50  ,-1   ) circle (.75);
+      \node[right] at     (51.25,-1 ) {\scriptsize{4-week notice}};  
+      \draw[red,thick]    (0  ,-4   )  -- (0,-6);
+      \draw[red,thick]    (-1 ,-5   ) -- (1,-5);
+      \draw[yellow,thick] (2  ,-4   )  -- (2,-6);
+      \draw[yellow,thick] (1  ,-5   ) -- (3,-5);
+      \draw[green,thick]  (4  ,-4   )  -- (4,-6);
+      \draw[green,thick]  (3  ,-5   ) -- (5,-5);
+      \node[right] at     (4.5,-5 ) {\scriptsize{Deadline change}};  
+      \fill[red]          (39  ,-4   )  -- (41,-4) -- (40,-6);
+      \fill[yellow]       (41  ,-4   )  -- (43,-4) -- (42,-6);
+      \fill[green]        (43  ,-4   )  -- (45,-4) -- (44,-6);
+      \node[right] at     (44.5,-5  ) {\scriptsize{Withdraw}};  
+    \end{tikzpicture}
+\end{center}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Daily messages 2010--11}
+
+\begin{center}
+    \includegraphics[width=\columnwidth]{../../graphs/urgencias2010-1.pdf} \\
+
+    \begin{tikzpicture}[scale=.1]
+      \fill[red]          (0,-1   ) circle (.75);
+      \node[right] at     (1.25,-1   ) {\scriptsize{Act now}};  
+      \fill[yellow]       (20  ,-1  ) circle (.75);
+      \node[right] at     (21.25,-1) {\scriptsize{2-week notice}};  
+      \fill[green]        (50  ,-1   ) circle (.75);
+      \node[right] at     (51.25,-1 ) {\scriptsize{4-week notice}};  
+      \draw[red,thick]    (0  ,-4   )  -- (0,-6);
+      \draw[red,thick]    (-1 ,-5   ) -- (1,-5);
+      \draw[yellow,thick] (2  ,-4   )  -- (2,-6);
+      \draw[yellow,thick] (1  ,-5   ) -- (3,-5);
+      \draw[green,thick]  (4  ,-4   )  -- (4,-6);
+      \draw[green,thick]  (3  ,-5   ) -- (5,-5);
+      \node[right] at     (4.5,-5 ) {\scriptsize{Deadline change}};  
+      \fill[red]          (39  ,-4   )  -- (41,-4) -- (40,-6);
+      \fill[yellow]       (41  ,-4   )  -- (43,-4) -- (42,-6);
+      \fill[green]        (43  ,-4   )  -- (45,-4) -- (44,-6);
+      \node[right] at     (44.5,-5  ) {\scriptsize{Withdraw}};  
+    \end{tikzpicture}
+\end{center}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Daily messages 2010--11}
+
+\begin{center}
+    \includegraphics[width=\columnwidth]{../../graphs/urgencias2010-2.pdf} \\
+
+    \begin{tikzpicture}[scale=.1]
+      \fill[red]          (0,-1   ) circle (.75);
+      \node[right] at     (1.25,-1   ) {\scriptsize{Act now}};  
+      \fill[yellow]       (20  ,-1  ) circle (.75);
+      \node[right] at     (21.25,-1) {\scriptsize{2-week notice}};  
+      \fill[green]        (50  ,-1   ) circle (.75);
+      \node[right] at     (51.25,-1 ) {\scriptsize{4-week notice}};  
+      \draw[red,thick]    (0  ,-4   )  -- (0,-6);
+      \draw[red,thick]    (-1 ,-5   ) -- (1,-5);
+      \draw[yellow,thick] (2  ,-4   )  -- (2,-6);
+      \draw[yellow,thick] (1  ,-5   ) -- (3,-5);
+      \draw[green,thick]  (4  ,-4   )  -- (4,-6);
+      \draw[green,thick]  (3  ,-5   ) -- (5,-5);
+      \node[right] at     (4.5,-5 ) {\scriptsize{Deadline change}};  
+      \fill[red]          (39  ,-4   )  -- (41,-4) -- (40,-6);
+      \fill[yellow]       (41  ,-4   )  -- (43,-4) -- (42,-6);
+      \fill[green]        (43  ,-4   )  -- (45,-4) -- (44,-6);
+      \node[right] at     (44.5,-5  ) {\scriptsize{Withdraw}};  
+    \end{tikzpicture}
+\end{center}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Daily messages 2011--12}
+
+\begin{center}
+    \includegraphics[width=\columnwidth]{../../graphs/urgencias2011-1.pdf} \\
+
+    \begin{tikzpicture}[scale=.1]
+      \fill[red]          (0,-1   ) circle (.75);
+      \node[right] at     (1.25,-1   ) {\scriptsize{Act now}};  
+      \fill[yellow]       (20  ,-1  ) circle (.75);
+      \node[right] at     (21.25,-1) {\scriptsize{2-week notice}};  
+      \fill[green]        (50  ,-1   ) circle (.75);
+      \node[right] at     (51.25,-1 ) {\scriptsize{4-week notice}};  
+      \draw[red,thick]    (0  ,-4   )  -- (0,-6);
+      \draw[red,thick]    (-1 ,-5   ) -- (1,-5);
+      \draw[yellow,thick] (2  ,-4   )  -- (2,-6);
+      \draw[yellow,thick] (1  ,-5   ) -- (3,-5);
+      \draw[green,thick]  (4  ,-4   )  -- (4,-6);
+      \draw[green,thick]  (3  ,-5   ) -- (5,-5);
+      \node[right] at     (4.5,-5 ) {\scriptsize{Deadline change}};  
+      \fill[red]          (39  ,-4   )  -- (41,-4) -- (40,-6);
+      \fill[yellow]       (41  ,-4   )  -- (43,-4) -- (42,-6);
+      \fill[green]        (43  ,-4   )  -- (45,-4) -- (44,-6);
+      \node[right] at     (44.5,-5  ) {\scriptsize{Withdraw}};  
+    \end{tikzpicture}
+\end{center}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Daily messages 2011--12}
+
+\begin{center}
+    \includegraphics[width=\columnwidth]{../../graphs/urgencias2011-2.pdf} \\
+
+    \begin{tikzpicture}[scale=.1]
+      \fill[red]          (0,-1   ) circle (.75);
+      \node[right] at     (1.25,-1   ) {\scriptsize{Act now}};  
+      \fill[yellow]       (20  ,-1  ) circle (.75);
+      \node[right] at     (21.25,-1) {\scriptsize{2-week notice}};  
+      \fill[green]        (50  ,-1   ) circle (.75);
+      \node[right] at     (51.25,-1 ) {\scriptsize{4-week notice}};  
+      \draw[red,thick]    (0  ,-4   )  -- (0,-6);
+      \draw[red,thick]    (-1 ,-5   ) -- (1,-5);
+      \draw[yellow,thick] (2  ,-4   )  -- (2,-6);
+      \draw[yellow,thick] (1  ,-5   ) -- (3,-5);
+      \draw[green,thick]  (4  ,-4   )  -- (4,-6);
+      \draw[green,thick]  (3  ,-5   ) -- (5,-5);
+      \node[right] at     (4.5,-5 ) {\scriptsize{Deadline change}};  
+      \fill[red]          (39  ,-4   )  -- (41,-4) -- (40,-6);
+      \fill[yellow]       (41  ,-4   )  -- (43,-4) -- (42,-6);
+      \fill[green]        (43  ,-4   )  -- (45,-4) -- (44,-6);
+      \node[right] at     (44.5,-5  ) {\scriptsize{Withdraw}};  
+    \end{tikzpicture}
+\end{center}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Daily messages 2012--13}
+
+\begin{center}
+    \includegraphics[width=\columnwidth]{../../graphs/urgencias2012-1.pdf} \\
+
+    \begin{tikzpicture}[scale=.1]
+      \fill[red]          (0,-1   ) circle (.75);
+      \node[right] at     (1.25,-1   ) {\scriptsize{Act now}};  
+      \fill[yellow]       (20  ,-1  ) circle (.75);
+      \node[right] at     (21.25,-1) {\scriptsize{2-week notice}};  
+      \fill[green]        (50  ,-1   ) circle (.75);
+      \node[right] at     (51.25,-1 ) {\scriptsize{4-week notice}};  
+      \draw[red,thick]    (0  ,-4   )  -- (0,-6);
+      \draw[red,thick]    (-1 ,-5   ) -- (1,-5);
+      \draw[yellow,thick] (2  ,-4   )  -- (2,-6);
+      \draw[yellow,thick] (1  ,-5   ) -- (3,-5);
+      \draw[green,thick]  (4  ,-4   )  -- (4,-6);
+      \draw[green,thick]  (3  ,-5   ) -- (5,-5);
+      \node[right] at     (4.5,-5 ) {\scriptsize{Deadline change}};  
+      \fill[red]          (39  ,-4   )  -- (41,-4) -- (40,-6);
+      \fill[yellow]       (41  ,-4   )  -- (43,-4) -- (42,-6);
+      \fill[green]        (43  ,-4   )  -- (45,-4) -- (44,-6);
+      \node[right] at     (44.5,-5  ) {\scriptsize{Withdraw}};  
+    \end{tikzpicture}
+\end{center}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Daily messages 2012--13}
+
+\begin{center}
+    \includegraphics[width=\columnwidth]{../../graphs/urgencias2012-2.pdf} \\
+
+    \begin{tikzpicture}[scale=.1]
+      \fill[red]          (0,-1   ) circle (.75);
+      \node[right] at     (1.25,-1   ) {\scriptsize{Act now}};  
+      \fill[yellow]       (20  ,-1  ) circle (.75);
+      \node[right] at     (21.25,-1) {\scriptsize{2-week notice}};  
+      \fill[green]        (50  ,-1   ) circle (.75);
+      \node[right] at     (51.25,-1 ) {\scriptsize{4-week notice}};  
+      \draw[red,thick]    (0  ,-4   )  -- (0,-6);
+      \draw[red,thick]    (-1 ,-5   ) -- (1,-5);
+      \draw[yellow,thick] (2  ,-4   )  -- (2,-6);
+      \draw[yellow,thick] (1  ,-5   ) -- (3,-5);
+      \draw[green,thick]  (4  ,-4   )  -- (4,-6);
+      \draw[green,thick]  (3  ,-5   ) -- (5,-5);
+      \node[right] at     (4.5,-5 ) {\scriptsize{Deadline change}};  
+      \fill[red]          (39  ,-4   )  -- (41,-4) -- (40,-6);
+      \fill[yellow]       (41  ,-4   )  -- (43,-4) -- (42,-6);
+      \fill[green]        (43  ,-4   )  -- (45,-4) -- (44,-6);
+      \node[right] at     (44.5,-5  ) {\scriptsize{Withdraw}};  
+    \end{tikzpicture}
+\end{center}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Daily messages 2013--14}
+
+\begin{center}
+    \includegraphics[width=\columnwidth]{../../graphs/urgencias2013-1.pdf} \\
+
+    \begin{tikzpicture}[scale=.1]
+      \fill[red]          (0,-1   ) circle (.75);
+      \node[right] at     (1.25,-1   ) {\scriptsize{Act now}};  
+      \fill[yellow]       (20  ,-1  ) circle (.75);
+      \node[right] at     (21.25,-1) {\scriptsize{2-week notice}};  
+      \fill[green]        (50  ,-1   ) circle (.75);
+      \node[right] at     (51.25,-1 ) {\scriptsize{4-week notice}};  
+      \draw[red,thick]    (0  ,-4   )  -- (0,-6);
+      \draw[red,thick]    (-1 ,-5   ) -- (1,-5);
+      \draw[yellow,thick] (2  ,-4   )  -- (2,-6);
+      \draw[yellow,thick] (1  ,-5   ) -- (3,-5);
+      \draw[green,thick]  (4  ,-4   )  -- (4,-6);
+      \draw[green,thick]  (3  ,-5   ) -- (5,-5);
+      \node[right] at     (4.5,-5 ) {\scriptsize{Deadline change}};  
+      \fill[red]          (39  ,-4   )  -- (41,-4) -- (40,-6);
+      \fill[yellow]       (41  ,-4   )  -- (43,-4) -- (42,-6);
+      \fill[green]        (43  ,-4   )  -- (45,-4) -- (44,-6);
+      \node[right] at     (44.5,-5  ) {\scriptsize{Withdraw}};  
+    \end{tikzpicture}
+\end{center}
+}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Daily messages 2013--14}
+
+\begin{center}
+    \includegraphics[width=\columnwidth]{../../graphs/urgencias2013-2.pdf} \\
+
+    \begin{tikzpicture}[scale=.1]
+      \fill[red]          (0,-1   ) circle (.75);
+      \node[right] at     (1.25,-1   ) {\scriptsize{Act now}};  
+      \fill[yellow]       (20  ,-1  ) circle (.75);
+      \node[right] at     (21.25,-1) {\scriptsize{2-week notice}};  
+      \fill[green]        (50  ,-1   ) circle (.75);
+      \node[right] at     (51.25,-1 ) {\scriptsize{4-week notice}};  
+      \draw[red,thick]    (0  ,-4   )  -- (0,-6);
+      \draw[red,thick]    (-1 ,-5   ) -- (1,-5);
+      \draw[yellow,thick] (2  ,-4   )  -- (2,-6);
+      \draw[yellow,thick] (1  ,-5   ) -- (3,-5);
+      \draw[green,thick]  (4  ,-4   )  -- (4,-6);
+      \draw[green,thick]  (3  ,-5   ) -- (5,-5);
+      \node[right] at     (4.5,-5 ) {\scriptsize{Deadline change}};  
+      \fill[red]          (39  ,-4   )  -- (41,-4) -- (40,-6);
+      \fill[yellow]       (41  ,-4   )  -- (43,-4) -- (42,-6);
+      \fill[green]        (43  ,-4   )  -- (45,-4) -- (44,-6);
+      \node[right] at     (44.5,-5  ) {\scriptsize{Withdraw}};  
+    \end{tikzpicture}
+\end{center}
+}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%
+\end{document}
+%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
