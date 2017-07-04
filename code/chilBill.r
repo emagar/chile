@@ -498,6 +498,8 @@ for (i in 1:I){
 }
 rm(dat.tram, i, j, sel, these, after, selejec, tmp2)
 
+warnings() # debug
+
 ## loop over hitos in search of urgencia info
 #
 ## # used to prove that text "urgencia" misses no case of discusión inmediata

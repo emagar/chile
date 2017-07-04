@@ -193,11 +193,11 @@ Notation eases exposition of Chile's legislative process. The three-article proj
 \begin{enumerate}
 \item The question of amendment $p_1$'s admissibility into the \textbf{first report} starts it all. The choice is by the chamber's presiding officer, who has final authority to overturn the committee chair's earlier decision. Admitting $p_1$ substantially complicates down the tree. 
 \item The bill's \textbf{first plenary reading} follows (rules call it \emph{discusi\'on general}). The question here is whether the full project should be admitted for consideration or not, ending the legislative process at the status quo: $p$ v. $q$. Next, a vote to also admit the amendment---if any---follows. Project $p_1$ (amendment admitted) or $p$ (not) is immeadiately referred back to committee for a second report. 
-\item If the committee concurs with the floor, then the \textbf{second report} is the outcome of the first reading. But new amendments can be introduced, in committee or by private diputados (with one-third plenary backing). The committee chair and presiding officer can fail to accept these amendments too. For the sake of simplicity, the choice here is just on art.\ 2, although there a many other possibilities---different redefinitions, adding articles, or deleting them. When amended, the second report will be $p_2$ when the outcome of the first reading was $p$, and will be $p_{12}$ when it was $p_1$. 
-\item The \textbf{second reading} proceeds one article at a time (\emph{discusi\'on particular}). Importantly, the reading excludes the subset of articles that were not amended/added/removed in previous steps. This subset (which may include every article if none were amended) is considered adopted with no plenary vote. Rejecting art.\ 1's amendment makes the project lose subindex 1; likewise with art.\ 2. So when $p_{12}$ is the second report, the plenary can accept one amendment, the other, both, or neither---as portrayed in the bottom row of Figure \ref{f:agendaUrg}. 
+\item If the committee concurs with the floor, then the \textbf{second report} is the outcome of the first reading. But new amendments can be introduced, in committee or by private diputados (with one-third plenary backing). The committee chair and presiding officer can fail to admit these amendments too. For the sake of simplicity, the choice here is just on art.\ 2, although there are many other possibilities---different redefinitions, adding articles, or deleting them. When amended, the second report will be $p_2$ when the outcome of the first reading was $p$, and will be $p_{12}$ when it was $p_1$. 
+\item The \textbf{second reading} proceeds one article at a time (\emph{discusi\'on particular}). Importantly, this excludes the subset of articles that were not amended/added/removed in previous steps. This subset (which may include every article if none were amended) is considered adopted with no plenary vote. Rejecting art.\ 1's amendment makes the project lose subindex 1; likewise with art.\ 2. So when $p_{12}$ is the second report, the plenary can accept one amendment, the other, both, or neither---as portrayed in the bottom row of Figure \ref{f:agendaUrg}. 
 \end{enumerate}
 
-An important element is how the process can be shortened when the proposal is declared urgent. The urgency is a form of restrictive procedure. When the executive issues a two week or act now message, \emph{the bill receives no second report} and both plenary readings occur at once. The key here is how urgencies preclude the second round of amendments. 
+An important element is how the process shortens when the proposal is declared urgent. The urgency is a form of restrictive procedure. When the executive issues a two week or act now message, \emph{the bill receives no second report} and both plenary readings occur at once. The key here is how urgencies preclude the second round of amendments. 
 
 Had the presiding officer allowed $p_1$ in, plenary voting on its admissibility becomes the final vote on its adoption. At it most restrictive---when the presiding officer removed $p_1$---the plenary is presented with a take-it-or-leave-it urgent proposal $p$. The Chilean executive is therefore entitled to act as the Rules committee in the U.S.\ House, determining which bills receive a closed rule for plenary consideration. [Hay que regresar a ley org. y reglamento para ver si la caricatura es acertada]. 
 
@@ -206,6 +206,43 @@ Un perfil de preferencia para ilustrar podria ser el siguiente:
 \item La mayoría está cerca de los maestros y ordena las alternativas $p_{12}>p_{2}>p_{1}>p>q$ (de mejor a peor)
 \item El gobierno:  $p>q>p_2>p_1>p_{12}$.
 \end{itemize}
+
+
+\section{Adaptaci\'on de Dion-Huber}
+
+\begin{figure}
+  \begin{center}
+    \tikzstyle{mid}=[circle,draw]
+    \begin{tikzpicture}
+      % \node[rectangle,draw] (n) at (0,0) {Nature};
+      %\node (n) at (0,0) {\footnotesize{(Nature): $\pi$}};
+      \node[mid] at (2,0) (l) {\emph{C}};
+      \node[mid] at (4,1) (e) {\emph{P}};
+      \node[mid] at (6,0) (v) {\emph{F}};
+      \node at (4,-1) (le) {$x_0$};
+      \node at (6,2) (ee) {$x_F$};
+      \node at (8,1) (ve1) {$x_C$};
+      \node at (8,-1) (ve2) {$x_0$};
+      % \node at (0,0.7) {\small{Strategies:}}; \node at (2,0.7)
+      % {\footnotesize{---}}; \node at (4,0.7) {\footnotesize{$x^*$}};
+      % \node at (6,0.7) {\footnotesize{$y^*(x)$}}; \node at (8,0.7)
+      % {\footnotesize{$z^*(x)$}}; \node at (0,-1.7)
+      % {\small{Outcomes:}};
+      %\path[->] (n) edge (l);
+      \path[-] (l) edge node [above, sloped]
+      {\footnotesize{report}} (e) (e) edge node [below, sloped]
+      {\footnotesize{urgent}} (v);
+      % \path[] (n) edge node [below] {\footnotesize{$\pi$}} (l)
+      \path[] (l) edge node [below, sloped] {\footnotesize{$x_C$}} (e);
+      \path[-o] (l) edge node [below, sloped] {\footnotesize{not}} (le)
+                (e) edge node [above, sloped] {\footnotesize{not}} (ee)
+                (v) edge node [above, sloped] {\footnotesize{accept}} (ve1)
+                    %edge node [above, sloped] {\footnotesize{over-}} (ve2)
+                    edge node [below, sloped] {\footnotesize{reject}} (ve2);
+    \end{tikzpicture}
+    \caption{The game}\label{F:game}
+  \end{center}
+\end{figure}
 
 
 
