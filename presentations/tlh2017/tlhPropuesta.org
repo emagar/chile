@@ -1,0 +1,12 @@
+Título
+Un método para obtener texto del internet y analizarlo 
+
+Autor
+Eric Magar Meurs
+
+Adscripción
+Instituto Tecnológico Autónomo de México
+
+Resumen
+Es deseable probar hipótesis de ciencias sociales mendiante análisis sistemático o con un grande volumen de datos. Hasta hace poco, esto era posible sólo con evidencia cuantitativa. La digitalización de textos y el creciente potencial de cómputo de los procesadores informáticos han permitido el desarrollo de métodos capaces de hacer análisis sistemático con evidencia /cualitativa/. Este trabajo describe algunos métodos de esta naturaleza. Repasa la versatilidad de la librería Selenium de la plataforma Python para usar páginas de internet como fuente primaria de texto. Después, repasa el uso de expresiones regulares para detectar patrones en el texto obtenido. Ilustro el método con las historias de iniciativas de ley en los Congresos de Chile y Brasil, y los puntos de acuerdo en la Cámara de Diputados de México. 
+

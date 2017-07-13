@@ -494,11 +494,9 @@ for (i in 1:I){
         dat.tram$to <- dmy("5/11/2014", tz = "chile")
     }
     bills$tramites[[i]] <- dat.tram
-    bills$tramites[[i]]$period <- new_interval(bills$tramites[[i]]$from, bills$tramites[[i]]$to) # adds trámite duration
+    bills$tramites[[i]]$period <- interval(bills$tramites[[i]]$from, bills$tramites[[i]]$to) # adds trámite duration
 }
 rm(dat.tram, i, j, sel, these, after, selejec, tmp2)
-
-warnings() # debug
 
 ## loop over hitos in search of urgencia info
 #
@@ -818,41 +816,41 @@ tmp[2] <- "02 de May. de 2001   Suma 0020501  "; tmp[4] <- "10 de Abr. de 2001 1
 bills$urgRaw[[i]] <- tmp
 #
 i <- which(bills$info$bol=="2121-04")
-tmp <- bills$tramites[[i]]; tmp$to[2] <- dmy("20-01-1998", tz = "chile"); tmp$period[2] <- new_interval(tmp$from[2], tmp$to[2]); tmp <- tmp[-3:-5,]
+tmp <- bills$tramites[[i]]; tmp$to[2] <- dmy("20-01-1998", tz = "chile"); tmp$period[2] <- interval(tmp$from[2], tmp$to[2]); tmp <- tmp[-3:-5,]
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="114-06")
-tmp <- bills$tramites[[i]]; tmp$to[2] <- tmp$to[3]; tmp$from[3] <- tmp$to[3]; tmp$to[3] <- tmp$to[4]; tmp$from[4] <- tmp$to[4]; tmp$tramite[3] <- "ejec"; tmp$tramite[4] <- "veto"; tmp$period <- new_interval(tmp$from, tmp$to) # ojo, infiero veto porque últ hito menciona ingreso de observaciones, sin más
-#old tmp <- bills$tramites[[i]]; tmp$to[4] <- tmp$from[4] + days(1); tmp$period[4] <- new_interval(tmp$from[4], tmp$to[4]); tmp <- tmp[-5,]
+tmp <- bills$tramites[[i]]; tmp$to[2] <- tmp$to[3]; tmp$from[3] <- tmp$to[3]; tmp$to[3] <- tmp$to[4]; tmp$from[4] <- tmp$to[4]; tmp$tramite[3] <- "ejec"; tmp$tramite[4] <- "veto"; tmp$period <- interval(tmp$from, tmp$to) # ojo, infiero veto porque últ hito menciona ingreso de observaciones, sin más
+#old tmp <- bills$tramites[[i]]; tmp$to[4] <- tmp$from[4] + days(1); tmp$period[4] <- interval(tmp$from[4], tmp$to[4]); tmp <- tmp[-5,]
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="1902-17")
-tmp <- bills$tramites[[i]]; tmp$to[2] <- dmy("21-12-2000", tz = "chile"); tmp$from[3] <- dmy("21-12-2000", tz = "chile"); tmp$tramite[3] <- "dip"; tmp <- tmp[-4,]; tmp$period <- new_interval(tmp$from, tmp$to)
+tmp <- bills$tramites[[i]]; tmp$to[2] <- dmy("21-12-2000", tz = "chile"); tmp$from[3] <- dmy("21-12-2000", tz = "chile"); tmp$tramite[3] <- "dip"; tmp <- tmp[-4,]; tmp$period <- interval(tmp$from, tmp$to)
 #old tmp <- bills$tramites[[i]]; tmp <- tmp[c(-3,-4),]
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="2036-11")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[4,]); tmp$to[4] <- tmp$from[4] + days(7); tmp$from[5] <- tmp$to[4]; tmp$tramite[5] <- "veto"; tmp$period <- new_interval(tmp$from, tmp$to) # ojo, infiero veto porque últ hito menciona ingreso de observaciones, sin más
-#old tmp <- bills$tramites[[i]]; tmp$to[4] <- tmp$from[4] + days(1); tmp$from[5] <- tmp$to[4]; tmp$to[5] <- tmp$from[5] + days(1); tmp$period[4] <- new_interval(tmp$from[4], tmp$to[4]); tmp$period[5] <- new_interval(tmp$from[5], tmp$to[5]); 
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[4,]); tmp$to[4] <- tmp$from[4] + days(7); tmp$from[5] <- tmp$to[4]; tmp$tramite[5] <- "veto"; tmp$period <- interval(tmp$from, tmp$to) # ojo, infiero veto porque últ hito menciona ingreso de observaciones, sin más
+#old tmp <- bills$tramites[[i]]; tmp$to[4] <- tmp$from[4] + days(1); tmp$from[5] <- tmp$to[4]; tmp$to[5] <- tmp$from[5] + days(1); tmp$period[4] <- interval(tmp$from[4], tmp$to[4]); tmp$period[5] <- interval(tmp$from[5], tmp$to[5]); 
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="2185-06")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[4,]); tmp$to[4] <- tmp$from[4] + days(7); tmp$from[5] <- tmp$to[4]; tmp$tramite[5] <- "veto"; tmp$period <- new_interval(tmp$from, tmp$to) # ojo, infiero veto porque últ hito menciona ingreso de observaciones, sin más
-#old tmp <- bills$tramites[[i]]; tmp$to[4] <- tmp$from[4] + days(1); tmp$from[5] <- tmp$to[4]; tmp$to[5] <- tmp$from[5] + days(1); tmp$period[4] <- new_interval(tmp$from[4], tmp$to[4]); tmp$period[5] <- new_interval(tmp$from[5], tmp$to[5]); 
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[4,]); tmp$to[4] <- tmp$from[4] + days(7); tmp$from[5] <- tmp$to[4]; tmp$tramite[5] <- "veto"; tmp$period <- interval(tmp$from, tmp$to) # ojo, infiero veto porque últ hito menciona ingreso de observaciones, sin más
+#old tmp <- bills$tramites[[i]]; tmp$to[4] <- tmp$from[4] + days(1); tmp$from[5] <- tmp$to[4]; tmp$to[5] <- tmp$from[5] + days(1); tmp$period[4] <- interval(tmp$from[4], tmp$to[4]); tmp$period[5] <- interval(tmp$from[5], tmp$to[5]); 
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="2361-23")
-tmp <- bills$tramites[[i]]; tmp <- tmp[c(-4,-6:-11,-14,-15),]; tmp$tramite[5] <- "ejec"; tmp$to[4] <- tmp$from[5]; tmp$to[5] <- tmp$to[5] + days(1); tmp$from[6] <- tmp$to[5]; tmp$from[7] <- tmp$to[6]; tmp$period <- new_interval(tmp$from, tmp$to)
+tmp <- bills$tramites[[i]]; tmp <- tmp[c(-4,-6:-11,-14,-15),]; tmp$tramite[5] <- "ejec"; tmp$to[4] <- tmp$from[5]; tmp$to[5] <- tmp$to[5] + days(1); tmp$from[6] <- tmp$to[5]; tmp$from[7] <- tmp$to[6]; tmp$period <- interval(tmp$from, tmp$to)
 #old tmp <- bills$tramites[[i]]; tmp <- tmp[c(-4,-6:-11),]  ## OJO: AQUÍ ME ESTOY COMIENDO UN RENGLON DE MAS... LO ARREGLO MAS ABAJO
 bills$tramites[[i]] <- tmp
 #
 ## i <- which(bills$info$bol=="2496-15")
-## tmp <- bills$tramites[[i]]; tmp$to[4] <- tmp$from[4] + days(1); tmp$from[5] <- tmp$to[4]; tmp$period[4] <- new_interval(tmp$from[4], tmp$to[4]); tmp$period[5] <- new_interval(tmp$from[5], tmp$to[5]); 
+## tmp <- bills$tramites[[i]]; tmp$to[4] <- tmp$from[4] + days(1); tmp$from[5] <- tmp$to[4]; tmp$period[4] <- interval(tmp$from[4], tmp$to[4]); tmp$period[5] <- interval(tmp$from[5], tmp$to[5]); 
 ## bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="737-03")
-tmp <- bills$tramites[[i]]; tmp <- tmp[-4:-5,]; tmp$to[3] <- tmp$from[4]; tmp$period <- new_interval(tmp$from, tmp$to); 
-#old tmp <- bills$tramites[[i]]; tmp$to[7] <- tmp$from[7] + days(1); tmp$from[8] <- tmp$to[7]; tmp$to[8] <- tmp$from[8] + days(1); tmp$period[7] <- new_interval(tmp$from[7], tmp$to[7]); tmp$period[8] <- new_interval(tmp$from[8], tmp$to[8]); 
+tmp <- bills$tramites[[i]]; tmp <- tmp[-4:-5,]; tmp$to[3] <- tmp$from[4]; tmp$period <- interval(tmp$from, tmp$to); 
+#old tmp <- bills$tramites[[i]]; tmp$to[7] <- tmp$from[7] + days(1); tmp$from[8] <- tmp$to[7]; tmp$to[8] <- tmp$from[8] + days(1); tmp$period[7] <- interval(tmp$from[7], tmp$to[7]); tmp$period[8] <- interval(tmp$from[8], tmp$to[8]); 
 bills$tramites[[i]] <- tmp
 #
 # fill missing trámites from urg by hand
@@ -911,7 +909,7 @@ i <- which(bills$info$bol=="3406-03")
 bills$urgRaw[[i]][3] <-  "04 de Nov. de 2003   Discusión inmediata 133-350  "
 bills$tramites[[i]]$to[1] <- dmy("05/11/2003", tz = "chile")
 bills$tramites[[i]]$from[2] <- dmy("05/11/2003", tz = "chile")
-bills$tramites[[i]]$period <- new_interval(bills$tramites[[i]]$from, bills$tramites[[i]]$to)
+bills$tramites[[i]]$period <- interval(bills$tramites[[i]]$from, bills$tramites[[i]]$to)
 #
 i <- which(bills$info$bol=="3447-15")
 bills$urgRaw[[i]] <- bills$urgRaw[[i]][-2]
@@ -1775,7 +1773,7 @@ bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
 ## CONTINUE REVISING TRÁMITES
 # fix tramite date by hand
 i <- which(bills$info$bol=="6041-08")
-bills$tramites[[i]]$to[3] <- bills$tramites[[i]]$from[4]; bills$tramites[[i]]$period <- new_interval(bills$tramites[[i]]$from, bills$tramites[[i]]$to)
+bills$tramites[[i]]$to[3] <- bills$tramites[[i]]$from[4]; bills$tramites[[i]]$period <- interval(bills$tramites[[i]]$from, bills$tramites[[i]]$to)
 #
 #tmp1 <- rep(0, I) # will receive dummy sin modificaciones pointing to índices that need manipulation
 tmp2 <- rep(0, I) # will receive length tramites
@@ -1810,13 +1808,13 @@ tramVerif[i] <- 1
 #
 i <- which(bills$info$bol=="1282-10")
 tmp <- bills$tramites[[i]]
-tmp <- rbind(tmp, tmp[3,]); tmp$tramite[4] <- "veto"; tmp$to[3] <- tmp$from[3]; tmp$period <- new_interval(tmp$from, tmp$to); # assume vetoed
+tmp <- rbind(tmp, tmp[3,]); tmp$tramite[4] <- "veto"; tmp$to[3] <- tmp$from[3]; tmp$period <- interval(tmp$from, tmp$to); # assume vetoed
 bills$tramites[[i]] <- tmp
 tramVerif[i] <- 1
 #
 i <- which(bills$info$bol=="1285-10")
 tmp <- bills$tramites[[i]]
-tmp <- rbind(tmp, tmp[3,]); tmp$tramite[4] <- "veto"; tmp$to[3] <- tmp$from[3]; tmp$period <- new_interval(tmp$from, tmp$to); # assume vetoed
+tmp <- rbind(tmp, tmp[3,]); tmp$tramite[4] <- "veto"; tmp$to[3] <- tmp$from[3]; tmp$period <- interval(tmp$from, tmp$to); # assume vetoed
 bills$tramites[[i]] <- tmp
 tramVerif[i] <- 1
 #
@@ -1828,7 +1826,7 @@ tramVerif[i] <- 1
 #
 i <- which(bills$info$bol=="1854-10")
 tmp <- bills$tramites[[i]]
-tmp <- rbind(tmp, tmp[3,]); tmp$tramite[4] <- "veto"; tmp$to[3] <- tmp$from[3]; tmp$period <- new_interval(tmp$from, tmp$to); # assume vetoed
+tmp <- rbind(tmp, tmp[3,]); tmp$tramite[4] <- "veto"; tmp$to[3] <- tmp$from[3]; tmp$period <- interval(tmp$from, tmp$to); # assume vetoed
 bills$tramites[[i]] <- tmp
 tramVerif[i] <- 1
 #
@@ -1841,13 +1839,13 @@ tramVerif[i] <- 1
 #
 i <- which(bills$info$bol=="3119-10")
 tmp <- bills$tramites[[i]]
-tmp <- rbind(tmp, tmp[3,]); tmp$tramite[4] <- "veto"; tmp$to[3] <- tmp$from[3]; tmp$period <- new_interval(tmp$from, tmp$to); # assume vetoed
+tmp <- rbind(tmp, tmp[3,]); tmp$tramite[4] <- "veto"; tmp$to[3] <- tmp$from[3]; tmp$period <- interval(tmp$from, tmp$to); # assume vetoed
 bills$tramites[[i]] <- tmp
 tramVerif[i] <- 1
 #
 i <- which(bills$info$bol=="5115-10")
 tmp <- bills$tramites[[i]]
-tmp <- rbind(tmp, tmp[3,]); tmp$tramite[4] <- "veto"; tmp$to[3] <- tmp$from[3]; tmp$period <- new_interval(tmp$from, tmp$to); # assume vetoed
+tmp <- rbind(tmp, tmp[3,]); tmp$tramite[4] <- "veto"; tmp$to[3] <- tmp$from[3]; tmp$period <- interval(tmp$from, tmp$to); # assume vetoed
 bills$tramites[[i]] <- tmp
 tramVerif[i] <- 1
 #
@@ -1857,7 +1855,7 @@ tramVerif[i] <- 1
 #
 i <- which(bills$info$bol=="7160-10")
 tmp <- bills$tramites[[i]]
-tmp <- rbind(tmp, tmp[3,]); tmp$tramite[4] <- "veto"; tmp$to[3] <- tmp$from[3]; tmp$period <- new_interval(tmp$from, tmp$to); # assume vetoed
+tmp <- rbind(tmp, tmp[3,]); tmp$tramite[4] <- "veto"; tmp$to[3] <- tmp$from[3]; tmp$period <- interval(tmp$from, tmp$to); # assume vetoed
 bills$tramites[[i]] <- tmp
 tramVerif[i] <- 1
 #
@@ -1982,7 +1980,7 @@ for (i in 1:I){
     #i <- which(bills$info$bol=="372-15") # debug
     message(sprintf("loop %s of %s", i, I))
     tmp <- bills$tramites[[i]]
-    tmp$period <- new_interval(tmp$from, tmp$to)
+    tmp$period <- interval(tmp$from, tmp$to)
     bills$tramites[[i]] <- tmp
 }
 # add tramite number to the object created above
@@ -2904,7 +2902,7 @@ for (i in sel){
     tmpHit <- tmpHit[,c("date","chamber","action")]; tmpHit$action <- substring(tmpHit$action, 1, 40) # simplify object
     tmpHit <- tmpHit[-grep("Oficio (de )*(ley|modificaciones|rechazo|aprobación|aceptación)", tmpHit$action),] # drop oficios that tend to blur seq
     tmp <- tmpHit$date; tmp <- tmp[-1]; tmp <- c(tmp, bills$info$dateOut[tmpIndex]) # lag
-    tmpHit$per <- new_interval(start = tmpHit$date, end = tmp)
+    tmpHit$per <- interval(start = tmpHit$date, end = tmp)
     tmpSel <- tmpOffendingDate %my_within% tmpHit$per # in which period does offending date belong in?
     allUrg$tramite[i] <- tmpHit$chamber[tmpSel] # plug trámite where there was no overlap
 }
@@ -3186,10 +3184,10 @@ for (i in 1:nrow(tmp)){
         tmp$nvotDdln[i] <- tmp$nvotDdln2[i] <- 0;
         next
     } else {
-        tmpPeriod <- new_interval(start = tmp$on[i], end = tmp$off[i])
+        tmpPeriod <- interval(start = tmp$on[i], end = tmp$off[i])
         tmpHit <- allVot$date[tmpVotIndices] %within% tmpPeriod # in which period does date.on belong in?
         tmp$nvotDdln[i] <- length(which(tmpHit==TRUE)) # input number of votes held in period
-        tmpPeriod <- new_interval(start = tmp$on[i], end = tmp$off[i]+weeks(2)) # extend period by 1 week
+        tmpPeriod <- interval(start = tmp$on[i], end = tmp$off[i]+weeks(2)) # extend period by 1 week
         tmpHit <- allVot$date[tmpVotIndices] %within% tmpPeriod # in which period does date.on belong in?
         tmp$nvotDdln2[i] <- length(which(tmpHit==TRUE)) # input number of votes held in period
     }
@@ -3230,13 +3228,217 @@ rm(votInDdl,votInDdl2)
 ## TRUE   77  92   59 100  28  61   57  91  34  62   48  71
 ##       127  37   46  53 358  94  233 110 190  90  236  41
 
-# REFERRED TO HACIENDA COMMITTEE (IE., NEEDS APPROPRIATION)
+# crea dummies de referido a comisiones en info. Includes REFERRED TO HACIENDA COMMITTEE (IE., NEEDS APPROPRIATION)
+bills$info$drefAgric <- 0
+bills$info$drefCiencia <- 0
+bills$info$drefComunic <- 0
+bills$info$drefConst <- 0
+bills$info$drefCultura <- 0
+bills$info$drefDefensa <- 0
+bills$info$drefDDHH <- 0
+bills$info$drefEco <- 0
+bills$info$drefEduc <- 0
+bills$info$drefFamilia <- 0
 bills$info$drefHda <- 0
+bills$info$drefInterior <- 0
+bills$info$drefMedAmb <- 0
+bills$info$drefMineria <- 0
+bills$info$drefObras <- 0
+bills$info$drefPesca <- 0
+bills$info$drefRREE <- 0
+bills$info$drefRecNatur <- 0
+bills$info$drefRegimen <- 0
+bills$info$drefSalud <- 0
+bills$info$drefSegurid <- 0
+bills$info$drefTrabajo <- 0
+bills$info$drefVivienda <- 0
+bills$info$drefZonas <- 0
+bills$info$dcomUnidas <- 0
+bills$info$dcomEspec <- 0
+bills$info$dcomMixta <- 0
+## # deprecated 10jul17: drop if next block works ok
+## for (i in 1:I){
+##     tmp <- bills$hitos[[i]]$action[grep(".*[Pp]asa a [Cc]omisi[óo]n.*", bills$hitos[[i]]$action)]
+##     if (length(grep("[Hh]acienda", tmp))>0) bills$info$drefHda[i] <- 1
+## }
 for (i in 1:I){
-    tmp <- bills$hitos[[i]]$action[grep(".*[Pp]asa a [Cc]omisi[óo]n.*", bills$hitos[[i]]$action)]
-    if (length(grep("[Hh]acienda", tmp))>0) bills$info$drefHda[i] <- 1
+    message(sprintf("iteración %s of %s", i, I))
+    #i <- i+1#i <- 27 # debug
+    tmp <- bills$hitos[[i]]$action[grep(".*pasa a Comisi[óo]n.*", bills$hitos[[i]]$action, ignore.case = TRUE)]  # busca hitos de paso a comisión
+    tmp <- gsub(pattern = "^(?:.*)Pasa a (?:la )*", replacement = "", tmp, ignore.case = TRUE)     # elimina texto precedente
+    #tmp # debug
+    if (length(grep("Agricultura", tmp, ignore.case = TRUE))>0)
+        bills$info$drefAgric[i] <- 1
+    if (length(grep("Ciencias*", tmp, ignore.case = TRUE))>0)
+        bills$info$drefCiencia[i] <- 1
+    if (length(grep("(?:Tele)*comunicaciones", tmp, ignore.case = TRUE))>0)
+        bills$info$drefComunic[i] <- 1
+    if (length(grep("Constitución", tmp, ignore.case = TRUE))>0)
+        bills$info$drefConst[i] <- 1
+    if (length(grep("(?!Es*pecial)Cultura", tmp, ignore.case = TRUE, perl = TRUE))>0)
+        bills$info$drefCultura[i] <- 1
+    if (length(grep("Defensa", tmp, ignore.case = TRUE))>0)
+        bills$info$drefDefensa[i] <- 1
+    if (length(grep("Derechos Humanos|DD.HH", tmp, ignore.case = TRUE))>0)
+        bills$info$drefDDHH[i] <- 1
+    if (length(grep("Economía", tmp, ignore.case = TRUE))>0)
+        bills$info$drefEco[i] <- 1
+    if (length(grep("Educación", tmp, ignore.case = TRUE))>0)
+        bills$info$drefEduc[i] <- 1
+    if (length(grep("Familia", tmp, ignore.case = TRUE))>0)
+        bills$info$drefFamilia[i] <- 1
+    if (length(grep("Hacienda", tmp, ignore.case = TRUE))>0)
+        bills$info$drefHda[i] <- 1
+    if (length(grep("Gobierno", tmp, ignore.case = TRUE))>0)
+        bills$info$drefInterior[i] <- 1
+    if (length(grep("Medio Ambiente", tmp, ignore.case = TRUE))>0)
+        bills$info$drefMedAmb[i] <- 1
+    if (length(grep("Minería", tmp, ignore.case = TRUE))>0)
+        bills$info$drefMineria[i] <- 1
+    if (length(grep("Obras", tmp, ignore.case = TRUE))>0)
+        bills$info$drefObras[i] <- 1
+    if (length(grep("Intereses Marítimos", tmp, ignore.case = TRUE))>0)
+        bills$info$drefPesca[i] <- 1
+    if (length(grep("Relaciones Exteriores", tmp, ignore.case = TRUE))>0)
+        bills$info$drefRREE[i] <- 1
+    if (length(grep("Recursos", tmp, ignore.case = TRUE))>0)
+        bills$info$drefRecNatur[i] <- 1
+    if (length(grep("Régimen", tmp, ignore.case = TRUE))>0)
+        bills$info$drefRegimen[i] <- 1
+    if (length(grep("Salud", tmp, ignore.case = TRUE))>0)
+        bills$info$drefSalud[i] <- 1
+    if (length(grep("Seguridad", tmp, ignore.case = TRUE))>0)
+        bills$info$drefSegurid[i] <- 1
+    if (length(grep("Trabajo", tmp, ignore.case = TRUE))>0)
+        bills$info$drefTrabajo[i] <- 1
+    if (length(grep("Vivienda", tmp, ignore.case = TRUE))>0)
+        bills$info$drefVivienda[i] <- 1
+    if (length(grep("Zonas(?: Extremas)*", tmp, ignore.case = TRUE))>0)
+        bills$info$drefZonas[i] <- 1
+    # fix few cases where committee name is misleading
+    if (length(grep("Senador Horvath.*Comisión de Intereses Marítimos Pesca y Acuicultura", tmp))>0) bills$info$drefPesca[i] <- 1
+    if (length(grep("Senador Horvath.*Comisión de Intereses Marítimos Pesca y Acuicultura", tmp))>0) bills$info$drefMedAmb[i] <- 0
+    if (length(grep("Senador Horvath.*Comisión de Intereses Marítimos Pesca y Acuicultura", tmp))>0) bills$info$drefMedAmb[i] <- 0
+    # comisiones especiales o mixtas
+    if (length(grep("u[nb]idas*", tmp, ignore.case = TRUE))>0) bills$info$dcomUnidas[i] <- 1
+    if (length(grep("es*pecial|PYMES|Hídricos|Turismo|TLC|Deporte|Presupuesto", tmp, ignore.case = TRUE))>0) bills$info$dcomEspec[i] <- 1
+    if (length(grep("Mixta", tmp, ignore.case = TRUE))>0) bills$info$dcomMixta[i] <- 1
 }
-table(bills$info$drefHda)
+#table(bills$info$drefHda)  # debug
+#table(bills$info$drefEduc) # debug
+#
+tmp <-
+    bills$info$drefAgric +
+    bills$info$drefCiencia +
+    bills$info$drefComunic +
+    bills$info$drefConst +
+    bills$info$drefCultura +
+    bills$info$drefDefensa +
+    bills$info$drefDDHH +
+    bills$info$drefEco +
+    bills$info$drefEduc +
+    bills$info$drefFamilia +
+    bills$info$drefInterior +
+    bills$info$drefMedAmb +
+    bills$info$drefMineria +
+    bills$info$drefObras +
+    bills$info$drefPesca +
+    bills$info$drefRREE +
+    bills$info$drefRecNatur +
+    bills$info$drefRegimen +
+    bills$info$drefSalud +
+    bills$info$drefSegurid +
+    bills$info$drefTrabajo +
+    bills$info$drefVivienda +
+    bills$info$dcomEspec +
+    bills$info$dcomMixta +
+    bills$info$dcomUnidas +
+    bills$info$drefHda +
+    bills$info$drefZonas 
+#table(tmp) #debug
+sel <- which(tmp==0) # varios se le escapan. siguiente loop usa versión más laxa para recuperar algunos
+for (i in sel){
+    message(sprintf("iteración %s of %s", i, max(sel)))
+    #i <- i+1#i <- 4 # debug
+    tmp <- bills$hitos[[i]]$action[grep(".*comisi[óo]n.*", bills$hitos[[i]]$action, ignore.case = TRUE)]  # busca hitos de paso a comisión
+    tmp <- gsub(pattern = "^(?:.*)Pasa a (?:la )*", replacement = "", tmp, ignore.case = TRUE)     # elimina texto precedente
+    #tmp # debug
+    if (length(grep("Agricultura", tmp, ignore.case = TRUE))>0)
+        bills$info$drefAgric[i] <- 1
+    if (length(grep("Ciencias*", tmp, ignore.case = TRUE))>0)
+        bills$info$drefCiencia[i] <- 1
+    if (length(grep("(?:Tele)*comunicaciones", tmp, ignore.case = TRUE))>0)
+        bills$info$drefComunic[i] <- 1
+    if (length(grep("Constitución", tmp, ignore.case = TRUE))>0)
+        bills$info$drefConst[i] <- 1
+    if (length(grep("(?!Es*pecial)Cultura", tmp, ignore.case = TRUE, perl = TRUE))>0)
+        bills$info$drefCultura[i] <- 1
+    if (length(grep("Defensa", tmp, ignore.case = TRUE))>0)
+        bills$info$drefDefensa[i] <- 1
+    if (length(grep("Derechos Humanos|DD.HH", tmp, ignore.case = TRUE))>0)
+        bills$info$drefDDHH[i] <- 1
+    if (length(grep("Economía", tmp, ignore.case = TRUE))>0)
+        bills$info$drefEco[i] <- 1
+    if (length(grep("Educación", tmp, ignore.case = TRUE))>0)
+        bills$info$drefEduc[i] <- 1
+    if (length(grep("Familia", tmp, ignore.case = TRUE))>0)
+        bills$info$drefFamilia[i] <- 1
+    if (length(grep("Hacienda", tmp, ignore.case = TRUE))>0)
+        bills$info$drefHda[i] <- 1
+    if (length(grep("Gobierno", tmp, ignore.case = TRUE))>0)
+        bills$info$drefInterior[i] <- 1
+    if (length(grep("Medio Ambiente", tmp, ignore.case = TRUE))>0)
+        bills$info$drefMedAmb[i] <- 1
+    if (length(grep("Minería", tmp, ignore.case = TRUE))>0)
+        bills$info$drefMineria[i] <- 1
+    if (length(grep("Obras", tmp, ignore.case = TRUE))>0)
+        bills$info$drefObras[i] <- 1
+    if (length(grep("Intereses Marítimos", tmp, ignore.case = TRUE))>0)
+        bills$info$drefPesca[i] <- 1
+    if (length(grep("Relaciones Exteriores", tmp, ignore.case = TRUE))>0)
+        bills$info$drefRREE[i] <- 1
+    if (length(grep("Recursos", tmp, ignore.case = TRUE))>0)
+        bills$info$drefRecNatur[i] <- 1
+    if (length(grep("Régimen", tmp, ignore.case = TRUE))>0)
+        bills$info$drefRegimen[i] <- 1
+    if (length(grep("Salud", tmp, ignore.case = TRUE))>0)
+        bills$info$drefSalud[i] <- 1
+    if (length(grep("Seguridad", tmp, ignore.case = TRUE))>0)
+        bills$info$drefSegurid[i] <- 1
+    if (length(grep("Trabajo", tmp, ignore.case = TRUE))>0)
+        bills$info$drefTrabajo[i] <- 1
+    if (length(grep("Vivienda", tmp, ignore.case = TRUE))>0)
+        bills$info$drefVivienda[i] <- 1
+    if (length(grep("Zonas(?: Extremas)*", tmp, ignore.case = TRUE))>0)
+        bills$info$drefZonas[i] <- 1
+}
+tmp <-
+    bills$info$drefAgric +
+    bills$info$drefCiencia +
+    bills$info$drefComunic +
+    bills$info$drefConst +
+    bills$info$drefCultura +
+    bills$info$drefDefensa +
+    bills$info$drefDDHH +
+    bills$info$drefEco +
+    bills$info$drefEduc +
+    bills$info$drefFamilia +
+    bills$info$drefInterior +
+    bills$info$drefMedAmb +
+    bills$info$drefMineria +
+    bills$info$drefObras +
+    bills$info$drefPesca +
+    bills$info$drefRREE +
+    bills$info$drefRecNatur +
+    bills$info$drefRegimen +
+    bills$info$drefSalud +
+    bills$info$drefSegurid +
+    bills$info$drefTrabajo +
+    bills$info$drefVivienda +
+#    bills$info$drefHda +
+    bills$info$drefZonas
+bills$info$dmultiRef <- as.numeric(tmp>1) # excludes hacienda, that is controlled separately in the regressions
+#table(bills$info$dmultiRef)
 
 #### WILL NEED TO EXTRACT CASES WHERE PRES WITHDREW THE PROJECT... THIS HELPS TOWARDS THAT GOAL
 sel <- grep("[Pp]residen.*[Rr]etir", bills$hitosRaw) # this needs more elaborate regexp to match other patterns
@@ -5415,10 +5617,8 @@ stargazer(fit11, fit15, title="Regression results", align=TRUE, report = ('vc*p'
 #tmp <- cor(dat[,-grep("Extend|Shorten|Retire|d2010|nses", colnames(dat))])
 tmp <- cor(dat[,-grep("d2010|dleg|nses|dmaj", colnames(dat))])
 library('corrplot')   # plots correlation matrix!
-corrplot(tmp, method = "circle") #plot matrix
-#
-rm(dat, fit, msg, sel)
-
+corrplot(tmp, color = TRUE) #plot matrix
+#corrplot(tmp, method = "circle") #plot matrix
 
 # drop bills initiated before 11/3/1998
 library(lubridate)
@@ -5690,7 +5890,7 @@ bills$info$pctcon <- round(bills$info$pctcon, digits = 0)
 bills$info$pctright <- round(bills$info$pctright, digits = 0)
 #
 rm(i, j, mcs, n, sel, tmp, tmphits, tmplook)
-
+#
 sel <- which(allUrg$chains$bol=="7007-18")
 allUrg$chains[sel,]
 sel <- which(allUrg$messages$bol=="7007-18")
@@ -5706,6 +5906,31 @@ table(tmp[bills$info$dmensaje==0])
 table(tmp[bills$info$dmensaje==1])
 table(tmp[bills$info$dpassed==1 & bills$info$dmensaje==0])
 table(tmp[bills$info$dpassed==1 & bills$info$dmensaje==1])
+
+tmp <- bills$info$nInmed + bills$info$nSuma; tmp[tmp>0] <- 1; table(tmp); round(table(tmp)*100/I,0) # <-- with at least one act now or 2 wk urgency message
+table(tmp[bills$info$dmensaje==0])
+table(tmp[bills$info$dmensaje==1])
+table(tmp[bills$info$dpassed==1 & bills$info$dmensaje==0])
+table(tmp[bills$info$dpassed==1 & bills$info$dmensaje==1])
+
+tmp <- bills$info$nInmed; tmp[tmp>0] <- 1; table(tmp); round(table(tmp)*100/I,0) # <-- with at least one act now urgency message
+table(tmp[bills$info$dmensaje==0])
+table(tmp[bills$info$dmensaje==1])
+table(tmp[bills$info$dpassed==1 & bills$info$dmensaje==0])
+table(tmp[bills$info$dpassed==1 & bills$info$dmensaje==1])
+
+tmp <- bills$info$nSuma; tmp[tmp>0] <- 1; table(tmp); round(table(tmp)*100/I,0) # <-- with at least one 2 wk urgency message
+table(tmp[bills$info$dmensaje==0])
+table(tmp[bills$info$dmensaje==1])
+table(tmp[bills$info$dpassed==1 & bills$info$dmensaje==0])
+table(tmp[bills$info$dpassed==1 & bills$info$dmensaje==1])
+
+tmp <- bills$info$nSuimple; tmp[tmp>0] <- 1; table(tmp); round(table(tmp)*100/I,0) # <-- with at least one 4 wk urgency message
+table(tmp[bills$info$dmensaje==0])
+table(tmp[bills$info$dmensaje==1])
+table(tmp[bills$info$dpassed==1 & bills$info$dmensaje==0])
+table(tmp[bills$info$dpassed==1 & bills$info$dmensaje==1])
+
 #
 table(bills$info$urgIn)
 table(bills$info$urgIn[bills$info$dpassed==0])
@@ -5752,7 +5977,7 @@ for (i in 1:nrow(allUrg$messages)){
     j <- which(bills$info$bol==allUrg$bol[i])
     if (bills$info$hasReport[j]=="no") next
     tmp2 <- bills$reports[[j]]$date
-    tmp <- new_interval(allUrg$messages$on[i], allUrg$messages$deadline[i])
+    tmp <- interval(allUrg$messages$on[i], allUrg$messages$deadline[i])
     if (any( (tmp2 %within% tmp) == TRUE )==TRUE) allUrg$messages$drepInDeadline[i] <- 1 # if any report within dealine, code 1
 }
 #
@@ -5857,6 +6082,415 @@ bills$info$legyr <- bills$info$legyr + 1989
 #
 table(bills$info$dmensaje, bills$info$legyr) # size of pdt's agenda, use to code variable
 
+## cross committee and referral to code whether bill referred to committee where chair is same party as president
+# LOAD COMMITTEE CHAIR DATA
+comPres <- read.csv(file = "comisiones1990-2014.csv", stringsAsFactors=FALSE)
+comPres$comision <- gsub(pattern = "^ +(.*) +$", replacement = "\\1", comPres$comision)
+comPres$comision <- gsub(pattern = "Á", replacement = "A", comPres$comision)
+comPres$comision <- gsub(pattern = "É", replacement = "E", comPres$comision)
+comPres$comision <- gsub(pattern = "Í", replacement = "I", comPres$comision)
+comPres$comision <- gsub(pattern = "Ó", replacement = "O", comPres$comision)
+comPres$comision <- gsub(pattern = "Ú", replacement = "U", comPres$comision)
+#
+comPres$partido[grep("EN", comPres$partido)] <- "RN" # corrige error
+comPres$partido[grep("PDC", comPres$partido)] <- "DC" # corrige error
+#
+comPres$partido[which(comPres$partido=="IND" & comPres$yr==1998)] <- "UDI" # indep later became UDI
+comPres$partido[which(comPres$partido=="IND" & comPres$yr==2006)] <- "PPD" # indep later became close to PPD
+#
+comPres$date <- dmy(paste("1-3-", comPres$yr, sep = ""), tz = "chile")
+#
+# presidente comisión mismo partido que presidente república
+comPres$dsamePty <- as.numeric(  (comPres$partido=="DC" & comPres$yr==1990)
+                               | (comPres$partido=="DC" & comPres$yr==1994)
+                               | (comPres$partido=="DC" & comPres$yr==1998)
+                               | (comPres$partido=="DC" & comPres$yr==2002)
+                               | (comPres$partido=="PS" & comPres$yr==2006)
+                               | (comPres$partido=="RN" & comPres$yr==2010)
+                               | (comPres$partido=="PS" & comPres$yr==2014)
+                               )
+# presidente comisión misma coalición que presidente república
+comPres$dsameCoal <- as.numeric(  (comPres$partido=="DC" & comPres$yr==1990)
+                                | (comPres$partido=="PPD" & comPres$yr==1990)
+                                | (comPres$partido=="PRSD" & comPres$yr==1990)
+                                | (comPres$partido=="PS" & comPres$yr==1990)
+                                | (comPres$partido=="DC" & comPres$yr==1994)
+                                | (comPres$partido=="PPD" & comPres$yr==1994)
+                                | (comPres$partido=="PRSD" & comPres$yr==1994)
+                                | (comPres$partido=="PS" & comPres$yr==1994)
+                                | (comPres$partido=="DC" & comPres$yr==1998)
+                                | (comPres$partido=="PPD" & comPres$yr==1998)
+                                | (comPres$partido=="PRSD" & comPres$yr==1998)
+                                | (comPres$partido=="PS" & comPres$yr==1998)
+                                | (comPres$partido=="DC" & comPres$yr==2002)
+                                | (comPres$partido=="PPD" & comPres$yr==2002)
+                                | (comPres$partido=="PRSD" & comPres$yr==2002)
+                                | (comPres$partido=="PS" & comPres$yr==2002)
+                                | (comPres$partido=="DC" & comPres$yr==2006)
+                                | (comPres$partido=="PPD" & comPres$yr==2006)
+                                | (comPres$partido=="PRSD" & comPres$yr==2006)
+                                | (comPres$partido=="PS" & comPres$yr==2006)
+                                | (comPres$partido=="PRI" & comPres$yr==2010)
+                                | (comPres$partido=="RN" & comPres$yr==2010)
+                                | (comPres$partido=="UDI" & comPres$yr==2010)
+                                | (comPres$partido=="DC" & comPres$yr==2014)
+                                | (comPres$partido=="PC" & comPres$yr==2014)
+                                | (comPres$partido=="PPD" & comPres$yr==2014)
+                                | (comPres$partido=="PRSD" & comPres$yr==2014)
+                                | (comPres$partido=="PS" & comPres$yr==2014)
+                                )
+# presidente comisión de la oposición
+comPres$doposCom <- as.numeric(  (comPres$partido=="RN" & comPres$yr==1990)
+                               | (comPres$partido=="UDI" & comPres$yr==1990)
+                               | (comPres$partido=="RN" & comPres$yr==1994)
+                               | (comPres$partido=="UDI" & comPres$yr==1994)
+                               | (comPres$partido=="RN" & comPres$yr==1998)
+                               | (comPres$partido=="UDI" & comPres$yr==1998)
+                               | (comPres$partido=="RN" & comPres$yr==2002)
+                               | (comPres$partido=="UDI" & comPres$yr==2002)
+                               | (comPres$partido=="RN" & comPres$yr==2006)
+                               | (comPres$partido=="UDI" & comPres$yr==2006)
+                               | (comPres$partido=="DC" & comPres$yr==2010)
+                               | (comPres$partido=="PC" & comPres$yr==2010)
+                               | (comPres$partido=="PPD" & comPres$yr==2010)
+                               | (comPres$partido=="PRSD" & comPres$yr==2010)
+                               | (comPres$partido=="PS" & comPres$yr==2010)
+                               | (comPres$partido=="PRI" & comPres$yr==2014)
+                               | (comPres$partido=="RN" & comPres$yr==2014)
+                               | (comPres$partido=="UDI" & comPres$yr==2014)
+                               )
+#
+comPres$comLong <- comPres$comision
+comPres$comision[grep("agricultura", comPres$comLong, ignore.case = TRUE)]            <- "Agric"   
+comPres$comision[grep("ciencias*", comPres$comLong, ignore.case = TRUE)]              <- "Ciencia" 
+comPres$comision[grep("constitucion", comPres$comLong, ignore.case = TRUE)]           <- "Const"   
+comPres$comision[grep("cultura y de las artes", comPres$comLong, ignore.case = TRUE)] <- "Cultura" 
+comPres$comision[grep("defensa", comPres$comLong, ignore.case = TRUE)]                <- "Defensa" 
+comPres$comision[grep("derechos", comPres$comLong, ignore.case = TRUE)]               <- "DDHH"    
+comPres$comision[grep("desarrollo social,", comPres$comLong, ignore.case = TRUE)]     <- "Desarr"
+comPres$comision[grep("economia", comPres$comLong, ignore.case = TRUE)]               <- "Eco"     
+comPres$comision[grep("educacion", comPres$comLong, ignore.case = TRUE)]              <- "Educ"    
+comPres$comision[grep("familia", comPres$comLong, ignore.case = TRUE)]                <- "Familia" 
+comPres$comision[grep("interior", comPres$comLong, ignore.case = TRUE)]               <- "Interior"
+comPres$comision[grep("hacienda", comPres$comLong, ignore.case = TRUE)]               <- "Hda"     
+comPres$comision[grep("mineria", comPres$comLong, ignore.case = TRUE)]                <- "Mineria" 
+comPres$comision[grep("obras", comPres$comLong, ignore.case = TRUE)]                  <- "Obras"   
+comPres$comision[grep("pesca,", comPres$comLong, ignore.case = TRUE)]                 <- "Pesca"   
+comPres$comision[grep("recursos", comPres$comLong, ignore.case = TRUE)]               <- "RecNatur"
+comPres$comision[grep("relaciones", comPres$comLong, ignore.case = TRUE)]             <- "RREE"    
+comPres$comision[grep("salud", comPres$comLong, ignore.case = TRUE)]                  <- "Salud"   
+comPres$comision[grep("seguridad ciudadana", comPres$comLong, ignore.case = TRUE)]    <- "Segurid" 
+comPres$comision[grep("trabajo", comPres$comLong, ignore.case = TRUE)]                <- "Trabajo" 
+comPres$comision[grep("vivienda", comPres$comLong, ignore.case = TRUE)]               <- "Vivienda"
+comPres$comision[grep("zonas", comPres$comLong, ignore.case = TRUE)]                  <- "Zonas"   
+#
+# subset by committee
+Agric <- comPres[which(comPres$comision=="Agric"   )   ,]
+Ciencia <- comPres[which(comPres$comision=="Ciencia" ),]
+Const <- comPres[which(comPres$comision=="Const"   ),]
+Cultura <- comPres[which(comPres$comision=="Cultura" ),]
+Defensa <- comPres[which(comPres$comision=="Defensa" ),]
+DDHH <- comPres[which(comPres$comision=="DDHH"    ),]
+Desarr <- comPres[which(comPres$comision=="Desarr"  ),]
+Eco <- comPres[which(comPres$comision=="Eco"     ),]
+Educ <- comPres[which(comPres$comision=="Educ"    ),]
+Familia <- comPres[which(comPres$comision=="Familia" ),]
+Interior <- comPres[which(comPres$comision=="Interior"),]
+Hda <- comPres[which(comPres$comision=="Hda"     ),]
+Mineria <- comPres[which(comPres$comision=="Mineria" ),]
+Obras <- comPres[which(comPres$comision=="Obras"   ),]
+Pesca <- comPres[which(comPres$comision=="Pesca"   ),]
+RecNatur <- comPres[which(comPres$comision=="RecNatur"),]
+RREE <- comPres[which(comPres$comision=="RREE"    ),]
+Salud <- comPres[which(comPres$comision=="Salud"   ),]
+Segurid <- comPres[which(comPres$comision=="Segurid" ),]
+Trabajo <- comPres[which(comPres$comision=="Trabajo" ),]
+Vivienda <- comPres[which(comPres$comision=="Vivienda"),]
+Zonas <- comPres[which(comPres$comision=="Zonas"   ),]
+#
+bills$info$dsamePty <- 0
+bills$info$dsameCoal <- 0
+bills$info$doposCom <- 0
+tmp <- bills$info[which(bills$info$drefAgric   ==1),]
+for (i in 1:nrow(tmp)){
+    message(sprintf("iteración %s of %s", i, nrow(tmp)))
+    #i <- 1 # debug
+    sel <- max(which(Agric$date < tmp$dateIn[i]))
+    if (tmp$dsamePty[i]==0) tmp$dsamePty[i] <- Agric$dsamePty[sel]    # if value is 1 from multiple referrals, skip
+    if (tmp$dsameCoal[i]==0) tmp$dsameCoal[i] <- Agric$dsameCoal[sel] # if value is 1 from multiple referrals, skip
+    if (tmp$doposCom[i]==0) tmp$doposCom[i] <- Agric$doposCom[sel]    # if value is 1 from multiple referrals, skip
+}
+bills$info[which(bills$info$drefAgric   ==1),] <- tmp
+#
+tmp <- bills$info[which(bills$info$drefCiencia ==1),]
+for (i in 1:nrow(tmp)){
+    message(sprintf("iteración %s of %s", i, nrow(tmp)))
+    #i <- 1 # debug
+    sel <- max(which(Ciencia$date < tmp$dateIn[i]))
+    if (tmp$dsamePty[i]==0) tmp$dsamePty[i] <- Ciencia$dsamePty[sel] # if value is 1 from multiple referrals, skip
+    if (tmp$dsameCoal[i]==0) tmp$dsameCoal[i] <- Ciencia$dsameCoal[sel] # if value is 1 from multiple referrals, skip
+    if (tmp$doposCom[i]==0) tmp$doposCom[i] <- Ciencia$doposCom[sel] # if value is 1 from multiple referrals, skip
+}
+bills$info[which(bills$info$drefCiencia   ==1),] <- tmp
+#
+tmp <- bills$info[which(bills$info$drefConst   ==1),]
+for (i in 1:nrow(tmp)){
+    message(sprintf("iteración %s of %s", i, nrow(tmp)))
+    #i <- 1 # debug
+    sel <- max(which(Const$date < tmp$dateIn[i]))
+    if (tmp$dsamePty[i]==0) tmp$dsamePty[i] <- Const$dsamePty[sel] # if value is 1 from multiple referrals, skip
+    if (tmp$dsameCoal[i]==0) tmp$dsameCoal[i] <- Const$dsameCoal[sel] # if value is 1 from multiple referrals, skip
+    if (tmp$doposCom[i]==0) tmp$doposCom[i] <- Const$doposCom[sel] # if value is 1 from multiple referrals, skip
+}
+bills$info[which(bills$info$drefConst   ==1),] <- tmp
+#
+tmp <- bills$info[which(bills$info$drefCultura ==1 & bills$info$dateIn>=dmy("1-3-2010", tz = "chile") & bills$info$dateIn<dmy("1-3-2014", tz = "chile")),] # cultura before 2010 was special committee
+for (i in 1:nrow(tmp)){
+    message(sprintf("iteración %s of %s", i, nrow(tmp)))
+    #i <- i+1#i <- 1 # debug
+    sel <- max(which(Cultura$date < tmp$dateIn[i]))
+    if (tmp$dsamePty[i]==0) tmp$dsamePty[i] <- Cultura$dsamePty[sel] # if value is 1 from multiple referrals, skip
+    if (tmp$dsameCoal[i]==0) tmp$dsameCoal[i] <- Cultura$dsameCoal[sel] # if value is 1 from multiple referrals, skip
+    if (tmp$doposCom[i]==0) tmp$doposCom[i] <- Cultura$doposCom[sel] # if value is 1 from multiple referrals, skip
+}
+bills$info[which(bills$info$drefCultura ==1 & bills$info$dateIn>=dmy("1-3-2010", tz = "chile") & bills$info$dateIn<dmy("1-3-2014", tz = "chile")),] <- tmp
+#
+tmp <- bills$info[which(bills$info$drefDefensa ==1),]
+for (i in 1:nrow(tmp)){
+    message(sprintf("iteración %s of %s", i, nrow(tmp)))
+    #i <- 1 # debug
+    sel <- max(which(Defensa$date < tmp$dateIn[i]))
+    if (tmp$dsamePty[i]==0) tmp$dsamePty[i] <- Defensa$dsamePty[sel] # if value is 1 from multiple referrals, skip
+    if (tmp$dsameCoal[i]==0) tmp$dsameCoal[i] <- Defensa$dsameCoal[sel] # if value is 1 from multiple referrals, skip
+    if (tmp$doposCom[i]==0) tmp$doposCom[i] <- Defensa$doposCom[sel] # if value is 1 from multiple referrals, skip
+}
+bills$info[which(bills$info$drefDefensa   ==1),] <- tmp
+#
+tmp <- bills$info[which(bills$info$drefDDHH    ==1),]
+for (i in 1:nrow(tmp)){
+    message(sprintf("iteración %s of %s", i, nrow(tmp)))
+    #i <- 1 # debug
+    sel <- max(which(DDHH$date < tmp$dateIn[i]))
+    if (tmp$dsamePty[i]==0) tmp$dsamePty[i] <- DDHH$dsamePty[sel] # if value is 1 from multiple referrals, skip
+    if (tmp$dsameCoal[i]==0) tmp$dsameCoal[i] <- DDHH$dsameCoal[sel] # if value is 1 from multiple referrals, skip
+    if (tmp$doposCom[i]==0) tmp$doposCom[i] <- DDHH$doposCom[sel] # if value is 1 from multiple referrals, skip
+}
+bills$info[which(bills$info$drefDDHH   ==1),] <- tmp
+#
+## # no bills referred to desarrollo
+## tmp <- bills$info[which(bills$info$drefDesarr  ==1),]
+## for (i in 1:nrow(tmp)){
+##     message(sprintf("iteración %s of %s", i, nrow(tmp)))
+##     i <- 1 # debug
+##     sel <- max(which(Desarr$date < tmp$dateIn[i]))
+##     tmp$dsamePty[i] <- Desarr$dsamePty[sel]
+##     tmp$dsameCoal[i] <- Desarr$dsameCoal[sel]
+## }
+## bills$info[which(bills$info$drefDesarr   ==1),] <- tmp
+#
+tmp <- bills$info[which(bills$info$drefEco     ==1),]
+for (i in 1:nrow(tmp)){
+    message(sprintf("iteración %s of %s", i, nrow(tmp)))
+    #i <- 1 # debug
+    sel <- max(which(Eco$date < tmp$dateIn[i]))
+    if (tmp$dsamePty[i]==0) tmp$dsamePty[i] <- Eco$dsamePty[sel] # if value is 1 from multiple referrals, skip
+    if (tmp$dsameCoal[i]==0) tmp$dsameCoal[i] <- Eco$dsameCoal[sel] # if value is 1 from multiple referrals, skip
+    if (tmp$doposCom[i]==0) tmp$doposCom[i] <- Eco$doposCom[sel] # if value is 1 from multiple referrals, skip
+}
+bills$info[which(bills$info$drefEco   ==1),] <- tmp
+#
+tmp <- bills$info[which(bills$info$drefEduc    ==1),]
+for (i in 1:nrow(tmp)){
+    message(sprintf("iteración %s of %s", i, nrow(tmp)))
+    #i <- 1 # debug
+    sel <- max(which(Educ$date < tmp$dateIn[i]))
+    if (tmp$dsamePty[i]==0) tmp$dsamePty[i] <- Educ$dsamePty[sel] # if value is 1 from multiple referrals, skip
+    if (tmp$dsameCoal[i]==0) tmp$dsameCoal[i] <- Educ$dsameCoal[sel] # if value is 1 from multiple referrals, skip
+    if (tmp$doposCom[i]==0) tmp$doposCom[i] <- Educ$doposCom[sel] # if value is 1 from multiple referrals, skip
+}
+bills$info[which(bills$info$drefEduc   ==1),] <- tmp
+#
+tmp <- bills$info[which(bills$info$drefFamilia ==1),]
+for (i in 1:nrow(tmp)){
+    message(sprintf("iteración %s of %s", i, nrow(tmp)))
+    #i <- 1 # debug
+    sel <- max(which(Familia$date < tmp$dateIn[i]))
+    if (tmp$dsamePty[i]==0) tmp$dsamePty[i] <- Familia$dsamePty[sel] # if value is 1 from multiple referrals, skip
+    if (tmp$dsameCoal[i]==0) tmp$dsameCoal[i] <- Familia$dsameCoal[sel] # if value is 1 from multiple referrals, skip
+    if (tmp$doposCom[i]==0) tmp$doposCom[i] <- Familia$doposCom[sel] # if value is 1 from multiple referrals, skip
+}
+bills$info[which(bills$info$drefFamilia   ==1),] <- tmp
+#
+tmp <- bills$info[which(bills$info$drefInterior==1),]
+for (i in 1:nrow(tmp)){
+    message(sprintf("iteración %s of %s", i, nrow(tmp)))
+    #i <- 1 # debug
+    sel <- max(which(Interior$date < tmp$dateIn[i]))
+    if (tmp$dsamePty[i]==0) tmp$dsamePty[i] <- Interior$dsamePty[sel] # if value is 1 from multiple referrals, skip
+    if (tmp$dsameCoal[i]==0) tmp$dsameCoal[i] <- Interior$dsameCoal[sel] # if value is 1 from multiple referrals, skip
+}
+bills$info[which(bills$info$drefInterior   ==1),] <- tmp
+#
+tmp <- bills$info[which(bills$info$drefHda     ==1),]
+for (i in 1:nrow(tmp)){
+    message(sprintf("iteración %s of %s", i, nrow(tmp)))
+    #i <- 1 # debug
+    sel <- max(which(Hda$date < tmp$dateIn[i]))
+    if (tmp$dsamePty[i]==0) tmp$dsamePty[i] <- Hda$dsamePty[sel] # if value is 1 from multiple referrals, skip
+    if (tmp$dsameCoal[i]==0) tmp$dsameCoal[i] <- Hda$dsameCoal[sel] # if value is 1 from multiple referrals, skip
+    if (tmp$doposCom[i]==0) tmp$doposCom[i] <- Hda$doposCom[sel] # if value is 1 from multiple referrals, skip
+}
+bills$info[which(bills$info$drefHda   ==1),] <- tmp
+#
+tmp <- bills$info[which(bills$info$drefMineria ==1),]
+for (i in 1:nrow(tmp)){
+    message(sprintf("iteración %s of %s", i, nrow(tmp)))
+    #i <- 1 # debug
+    sel <- max(which(Mineria$date < tmp$dateIn[i]))
+    if (tmp$dsamePty[i]==0) tmp$dsamePty[i] <- Mineria$dsamePty[sel] # if value is 1 from multiple referrals, skip
+    if (tmp$dsameCoal[i]==0) tmp$dsameCoal[i] <- Mineria$dsameCoal[sel] # if value is 1 from multiple referrals, skip
+    if (tmp$doposCom[i]==0) tmp$doposCom[i] <- Mineria$doposCom[sel] # if value is 1 from multiple referrals, skip
+}
+bills$info[which(bills$info$drefMineria   ==1),] <- tmp
+#
+tmp <- bills$info[which(bills$info$drefObras   ==1),]
+for (i in 1:nrow(tmp)){
+    message(sprintf("iteración %s of %s", i, nrow(tmp)))
+    #i <- 1 # debug
+    sel <- max(which(Obras$date < tmp$dateIn[i]))
+    if (tmp$dsamePty[i]==0) tmp$dsamePty[i] <- Obras$dsamePty[sel] # if value is 1 from multiple referrals, skip
+    if (tmp$dsameCoal[i]==0) tmp$dsameCoal[i] <- Obras$dsameCoal[sel] # if value is 1 from multiple referrals, skip
+    if (tmp$doposCom[i]==0) tmp$doposCom[i] <- Obras$doposCom[sel] # if value is 1 from multiple referrals, skip
+}
+bills$info[which(bills$info$drefObras   ==1),] <- tmp
+#
+tmp <- bills$info[which(bills$info$drefPesca   ==1 & bills$info$dateIn>=dmy("1-3-2002", tz = "chile") & bills$info$dateIn<dmy("1-3-2014", tz = "chile")),]
+for (i in 1:nrow(tmp)){
+    message(sprintf("iteración %s of %s", i, nrow(tmp)))
+    i <- 1 # debug
+    sel <- max(which(Pesca$date < tmp$dateIn[i]))
+    if (tmp$dsamePty[i]==0) tmp$dsamePty[i] <- Pesca$dsamePty[sel] # if value is 1 from multiple referrals, skip
+    if (tmp$dsameCoal[i]==0) tmp$dsameCoal[i] <- Pesca$dsameCoal[sel] # if value is 1 from multiple referrals, skip
+    if (tmp$doposCom[i]==0) tmp$doposCom[i] <- Pesca$doposCom[sel] # if value is 1 from multiple referrals, skip
+}
+bills$info[which(bills$info$drefPesca   ==1 & bills$info$dateIn>=dmy("1-3-2002", tz = "chile") & bills$info$dateIn<dmy("1-3-2014", tz = "chile")),] <- tmp
+#
+tmp <- bills$info[which(bills$info$drefRecNatur==1),]
+for (i in 1:nrow(tmp)){
+    message(sprintf("iteración %s of %s", i, nrow(tmp)))
+    #i <- 1 # debug
+    sel <- max(which(RecNatur$date < tmp$dateIn[i]))
+    if (tmp$dsamePty[i]==0) tmp$dsamePty[i] <- RecNatur$dsamePty[sel] # if value is 1 from multiple referrals, skip
+    if (tmp$dsameCoal[i]==0) tmp$dsameCoal[i] <- RecNatur$dsameCoal[sel] # if value is 1 from multiple referrals, skip
+    if (tmp$doposCom[i]==0) tmp$doposCom[i] <- RecNatur$doposCom[sel] # if value is 1 from multiple referrals, skip
+}
+bills$info[which(bills$info$drefRecNatur   ==1),] <- tmp
+#
+tmp <- bills$info[which(bills$info$drefRREE    ==1),]
+for (i in 1:nrow(tmp)){
+    message(sprintf("iteración %s of %s", i, nrow(tmp)))
+    #i <- 1 # debug
+    sel <- max(which(RREE$date < tmp$dateIn[i]))
+    if (tmp$dsamePty[i]==0) tmp$dsamePty[i] <- RREE$dsamePty[sel] # if value is 1 from multiple referrals, skip
+    if (tmp$dsameCoal[i]==0) tmp$dsameCoal[i] <- RREE$dsameCoal[sel] # if value is 1 from multiple referrals, skip
+    if (tmp$doposCom[i]==0) tmp$doposCom[i] <- RREE$doposCom[sel] # if value is 1 from multiple referrals, skip
+}
+bills$info[which(bills$info$drefRREE   ==1),] <- tmp
+#
+tmp <- bills$info[which(bills$info$drefSalud   ==1),]
+for (i in 1:nrow(tmp)){
+    message(sprintf("iteración %s of %s", i, nrow(tmp)))
+    #i <- 1 # debug
+    sel <- max(which(Salud$date < tmp$dateIn[i]))
+    if (tmp$dsamePty[i]==0) tmp$dsamePty[i] <- Salud$dsamePty[sel] # if value is 1 from multiple referrals, skip
+    if (tmp$dsameCoal[i]==0) tmp$dsameCoal[i] <- Salud$dsameCoal[sel] # if value is 1 from multiple referrals, skip
+    if (tmp$doposCom[i]==0) tmp$doposCom[i] <- Salud$doposCom[sel] # if value is 1 from multiple referrals, skip
+}
+bills$info[which(bills$info$drefSalud   ==1),] <- tmp
+#
+tmp <- bills$info[which(bills$info$drefSegurid ==1 & bills$info$dateIn>=dmy("1-3-2010", tz = "chile") & bills$info$dateIn<dmy("1-3-2014", tz = "chile")),] # seguridad before 2010 was special committee
+for (i in 1:nrow(tmp)){
+    message(sprintf("iteración %s of %s", i, nrow(tmp)))
+    #i <- 1 # debug
+    sel <- max(which(Segurid$date < tmp$dateIn[i]))
+    if (tmp$dsamePty[i]==0) tmp$dsamePty[i] <- Segurid$dsamePty[sel] # if value is 1 from multiple referrals, skip
+    if (tmp$dsameCoal[i]==0) tmp$dsameCoal[i] <- Segurid$dsameCoal[sel] # if value is 1 from multiple referrals, skip
+    if (tmp$doposCom[i]==0) tmp$doposCom[i] <- Segurid$doposCom[sel] # if value is 1 from multiple referrals, skip
+}
+bills$info[which(bills$info$drefSegurid ==1 & bills$info$dateIn>=dmy("1-3-2010", tz = "chile") & bills$info$dateIn<dmy("1-3-2014", tz = "chile")),] <- tmp
+#
+tmp <- bills$info[which(bills$info$drefTrabajo ==1),]
+for (i in 1:nrow(tmp)){
+    message(sprintf("iteración %s of %s", i, nrow(tmp)))
+    #i <- 1 # debug
+    sel <- max(which(Trabajo$date < tmp$dateIn[i]))
+    if (tmp$dsamePty[i]==0) tmp$dsamePty[i] <- Trabajo$dsamePty[sel] # if value is 1 from multiple referrals, skip
+    if (tmp$dsameCoal[i]==0) tmp$dsameCoal[i] <- Trabajo$dsameCoal[sel] # if value is 1 from multiple referrals, skip
+    if (tmp$doposCom[i]==0) tmp$doposCom[i] <- Trabajo$doposCom[sel] # if value is 1 from multiple referrals, skip
+}
+bills$info[which(bills$info$drefTrabajo   ==1),] <- tmp
+#
+tmp <- bills$info[which(bills$info$drefVivienda==1),]
+for (i in 1:nrow(tmp)){
+    message(sprintf("iteración %s of %s", i, nrow(tmp)))
+    #i <- 1 # debug
+    sel <- max(which(Vivienda$date < tmp$dateIn[i]))
+    if (tmp$dsamePty[i]==0) tmp$dsamePty[i] <- Vivienda$dsamePty[sel] # if value is 1 from multiple referrals, skip
+    if (tmp$dsameCoal[i]==0) tmp$dsameCoal[i] <- Vivienda$dsameCoal[sel] # if value is 1 from multiple referrals, skip
+    if (tmp$doposCom[i]==0) tmp$doposCom[i] <- Vivienda$doposCom[sel] # if value is 1 from multiple referrals, skip
+}
+bills$info[which(bills$info$drefVivienda   ==1),] <- tmp
+#
+tmp <- bills$info[which(bills$info$drefZonas   ==1 & bills$info$dateIn>=dmy("1-3-2010", tz = "chile") & bills$info$dateIn<dmy("1-3-2014", tz = "chile")),] # zonas before 2010 was special committee
+for (i in 1:nrow(tmp)){
+    message(sprintf("iteración %s of %s", i, nrow(tmp)))
+    #i <- 1 # debug
+    sel <- max(which(Zonas$date < tmp$dateIn[i]))
+    if (tmp$dsamePty[i]==0) tmp$dsamePty[i] <- Zonas$dsamePty[sel] # if value is 1 from multiple referrals, skip
+    if (tmp$dsameCoal[i]==0) tmp$dsameCoal[i] <- Zonas$dsameCoal[sel] # if value is 1 from multiple referrals, skip
+    if (tmp$doposCom[i]==0) tmp$doposCom[i] <- Zonas$doposCom[sel] # if value is 1 from multiple referrals, skip
+}
+bills$info[which(bills$info$drefZonas   ==1 & bills$info$dateIn>=dmy("1-3-2010", tz = "chile") & bills$info$dateIn<dmy("1-3-2014", tz = "chile")),] <- tmp
+#
+rm(Agric, Ciencia, Const, Cultura, Defensa, DDHH, Desarr, Eco, Educ, Familia, Interior, Hda, Mineria, Obras, Pesca, RecNatur, RREE, Salud, Segurid, Trabajo, Vivienda, Zonas)
+#
+tmp <-
+    bills$info$drefAgric +
+    bills$info$drefCiencia +
+    bills$info$drefComunic +
+    bills$info$drefConst +
+    bills$info$drefCultura +
+    bills$info$drefDefensa +
+    bills$info$drefDDHH +
+    bills$info$drefEco +
+    bills$info$drefEduc +
+    bills$info$drefFamilia +
+    bills$info$drefHda +
+    bills$info$drefInterior +
+    bills$info$drefMedAmb +
+    bills$info$drefMineria +
+    bills$info$drefObras +
+    bills$info$drefPesca +
+    bills$info$drefRREE +
+    bills$info$drefRecNatur +
+    bills$info$drefRegimen +
+    bills$info$drefSalud +
+    bills$info$drefSegurid +
+    bills$info$drefTrabajo +
+    bills$info$drefVivienda +
+    bills$info$dcomEspec +
+    bills$info$dcomMixta +
+    bills$info$dcomUnidas +
+    bills$info$drefZonas
+round(table(tmp>1)/length(tmp), 2) # unlike dmultiref, this includes Hda referrals
+round(table(bills$info$dmultiRef)/length(bills$info$dmultiRef), 2) # reported in text: proportion bills with multiple referrals
+#
+rm(i,j,keep,target,sel,tmp,tmp1,tmp2,tmp3,tmp4,tmp5,tmpHit,tmpPeriod,tmpVotIndices)
+
+#describir dsamePres por legislatura...
+table(comPres$yr, comPres$dsamePty)
+table(comPres$yr, comPres$dsameCoal)
+table(comPres$yr, comPres$doposCom)
 
 # LOGIT ON WHETHER NOT BILL DECLARED URGENT
 sel <- which(bills$info$dateIn>=dmy("11/3/1998", tz = "chile") & bills$info$dateIn<dmy("11/3/2014", tz = "chile"))
@@ -5875,8 +6509,9 @@ sel <- which(tmpdat$dateIn >= tmp[6] & tmpdat$dateIn < tmp[7]); tmpdat$dmajSen[s
 sel <- which(tmpdat$dateIn >= tmp[7] & tmpdat$dateIn < tmp[8]); tmpdat$dmajSen[sel] <- 1
 sel <- which(tmpdat$dateIn >= tmp[8] & tmpdat$dateIn < tmp[9]); tmpdat$dmajSen[sel] <- 0
 #
-# dip: always maj=1 (2010-14 50%, coded 1)
+# dip: always maj=1 except jan-march 2010, when PRI left Concertación (2010-14 50%, coded 1)
 tmpdat$dmajDip <- 1
+tmpdat$dmajDip[which(tmpdat$dateIn>=dmy("28-1-2010", tz = "chile") & tmpdat$dateIn<dmy("1-3-2010", tz = "chile"))] <- 0 # but no bills!
 #
 # to end of pdtl term
 tmp <- dmy(c("11-03-1994", "11-03-2000", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
@@ -5943,6 +6578,7 @@ colnames(tmpdat)
 tmpdat$dv <- 0; tmpdat$dv[tmpdat$nUrg>0] <- 1
 tmpdat$dv1 <- 0; tmpdat$dv1[tmpdat$nInmed>0] <- 1
 tmpdat$dv2 <- 0; tmpdat$dv2[tmpdat$nSuma>0] <- 1
+tmpdat$dv12 <- 0; tmpdat$dv12[tmpdat$nInmed>0 | tmpdat$nSuma>0] <- 1
 tmpdat$dv3 <- 0; tmpdat$dv3[tmpdat$nSimple>0] <- 1
 #
 tmpdat$pctpdt <- tmpdat$pctcon; sel <- which(tmpdat$dateIn >= dmy("11-3-2010", tz = "chile")); tmpdat$pctpdt[sel] <- tmpdat$pctright[sel]
@@ -5963,16 +6599,18 @@ tmpdat$deduc [tmpdat$dom=="04-educación"] <- 1
 tmpdat$dpork [tmpdat$dom=="09-obras púb"] <- 1
 #
 # FIT MODELS
-tmpdat$ptermR <- scale(tmpdat$pterm) # rescale/center continuous variables to aid identification of multilevel model
-tmpdat$legyrR <- scale(tmpdat$legyr) # rescale/center continuous variables to aid identification of multilevel model
+tmpdat$ptermR     <- c(scale(tmpdat$pterm))     # rescale/center continuous variables to aid identification of multilevel model ## c() removes class problems for predict() below
+tmpdat$legyrR     <- c(scale(tmpdat$legyr))     # rescale/center continuous variables to aid identification of multilevel model
+tmpdat$netApprovR <- c(scale(tmpdat$netApprov)) # rescale/center continuous variables to aid identification of multilevel model
 #fit <- lm (dv ~ dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda + dmajSen + dinSen + pterm + legyr, data = tmpdat)
-fit1 <- glm(dv ~ dmocion                                    + drefHda + dmajSen + dinSen + ptermR + legyrR + dreform2010 + netApprov                  , data = tmpdat, family = binomial(link = logit))
-fit2 <- glm(dv ~ dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda + dmajSen + dinSen + ptermR + legyrR + dreform2010 + netApprov                   , data = tmpdat, family = binomial(link = logit))
-fit3 <- glm(dv ~ dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda + dmajSen + dinSen + ptermR + legyrR + dreform2010 + netApprov + as.factor(legis), data = tmpdat, family = binomial(link = logit))
+fit1 <- glm(dv12 ~ dsamePty + dmultiRef + dmocion                                    + drefHda + dmajSen + dinSen + legyrR + dreform2010 + netApprovR                  , data = tmpdat, family = binomial(link = logit))
+fit2 <- glm(dv12 ~ dsamePty + dmultiRef + dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda + dmajSen + dinSen + legyrR + dreform2010 + netApprovR                   , data = tmpdat, family = binomial(link = logit))
+fit3 <- glm(dv12 ~ dsamePty + dmultiRef + dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda           + dinSen + legyrR               + netApprovR + as.factor(legis), data = tmpdat, family = binomial(link = logit))
 # multilevel version with error terms clustered by legislatura (Gelman Hill p. 302 from eq 12.13)
+# For non-convergence warnings in glmer, see script nonConv.r. This is from https://rstudio-pubs-static.s3.amazonaws.com/33653_57fc7b8e5d484c909b615d8633c01d51.html (and related Stack overflow http://stackoverflow.com/questions/23478792/warning-messages-when-trying-to-run-glmer-in-r). Re-scaling all continuous ivs took care of the problem...
 library(lme4)
-fit4 <- glmer(dv ~ dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda + dmajSen + dinSen + ptermR + legyrR + dreform2010 + netApprov + (1|legis), data = tmpdat, family = binomial(link ="logit"))
-## fit5 <- glm(dv1 ~ dmocion                                    + drefHda + dmajSen + dinSen + ptermR + legyrR + dreform2010                   , data = tmpdat, family = binomial(link = logit))
+fit4 <- glmer(dv12 ~ dsamePty + dmultiRef + dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda         + dinSen + legyrR               + netApprovR + (1|legis), data = tmpdat, family = binomial(link ="logit"))
+## fit5 <- glm(dv12 ~ dmocion                                    + drefHda + dmajSen + dinSen + ptermR + legyrR + dreform2010                   , data = tmpdat, family = binomial(link = logit))
 ## etc...
 #
 summary(fit1)
@@ -5980,13 +6618,73 @@ summary(fit2)
 summary(fit3)
 summary(fit4)
 library(arm)
-display(fit4)            
+display(fit4)
+
+## GRAFICA MATRIZ DE CORRELACIONES: COOL!
+#tmp <- cor(dat[,-grep("Extend|Shorten|Retire|d2010|nses", colnames(dat))])
+tmp <- cor(tmpdat[, grep("samePty|dmultiRef|dmocionAllOpp|dmocionMix|dmocionAllPdt|drefHda|dmajSen|dinSen|ptermR|legyrR|dreform2010|netApprovR|legis", colnames(tmpdat))])
+library('corrplot')   # plots correlation matrix!
+corrplot(tmp, color = TRUE) #plot matrix
+#corrplot(tmp, method = "circle") #plot matrix
 #
+# descriptives
+# continuous variables
+tmp <- data.frame()
+tmp <- rbind(tmp, summary(tmpdat$pterm))
+tmp <- rbind(tmp, summary(tmpdat$legyr))
+tmp <- rbind(tmp, summary(tmpdat$netApprov))
+tmp <- cbind(c("Presidential term", "Year remaining", "Pres.~approval"), tmp)
+colnames(tmp) <- c("Var.", "Min.","Q1","Med.","Mean","Q3","Max.")
+tmp$sd <- c(sd(tmpdat$pterm), sd(tmpdat$legyr), sd(tmpdat$netApprov))
+tmp
+#
+tmp <- data.frame()
+tmp <- rbind(tmp, table(tmpdat$dv12))
+tmp <- rbind(tmp, round(table(tmpdat$dv12)/nrow(tmpdat), 3))
+tmp <- rbind(tmp, table(tmpdat$dsamePty))
+tmp <- rbind(tmp, round(table(tmpdat$dsamePty)/nrow(tmpdat), 3))
+tmp <- rbind(tmp, table(tmpdat$dmultiRef))
+tmp <- rbind(tmp, round(table(tmpdat$dmultiRef)/nrow(tmpdat), 3))
+tmp <- rbind(tmp, table(tmpdat$dmocion))
+tmp <- rbind(tmp, round(table(tmpdat$dmocion)/nrow(tmpdat), 3))
+tmp <- rbind(tmp, table(tmpdat$dmocionAllOpp))
+tmp <- rbind(tmp, round(table(tmpdat$dmocionAllOpp)/nrow(tmpdat), 3))
+tmp <- rbind(tmp, table(tmpdat$dmocionMix))
+tmp <- rbind(tmp, round(table(tmpdat$dmocionMix)/nrow(tmpdat), 3))
+tmp <- rbind(tmp, table(tmpdat$dmocionAllPdt))
+tmp <- rbind(tmp, round(table(tmpdat$dmocionAllPdt)/nrow(tmpdat), 3))
+tmp <- rbind(tmp, table(tmpdat$drefHda))
+tmp <- rbind(tmp, round(table(tmpdat$drefHda)/nrow(tmpdat), 3))
+tmp <- rbind(tmp, table(tmpdat$dmajSen))
+tmp <- rbind(tmp, round(table(tmpdat$dmajSen)/nrow(tmpdat), 3))
+tmp <- rbind(tmp, table(tmpdat$dinSen))
+tmp <- rbind(tmp, round(table(tmpdat$dinSen)/nrow(tmpdat), 3))
+tmp <- rbind(tmp, table(tmpdat$dreform2010))
+tmp <- rbind(tmp, round(table(tmpdat$dreform2010)/nrow(tmpdat), 3))
+tmp$tot <- rowSums(tmp)
+tmp <- cbind(c("dv12", "dv12", "dsamePty", "dsamePty", "dmultiRef", "dmultiRef", "dmocion", "dmocion", "dmocionAllOpp", "dmocionAllOpp", "dmocionMix", "dmocionMix", "dmocionAllPdt", "dmocionAllPdt", "drefHda", "drefHda", "dmajSen", "dmajSen", "dinSen", "dinSen", "dreform2010", "dreform2010"), tmp)
+colnames(tmp) <- c("var","zero","one","sum")
+tmp
+#
+cor(tmpdat$dsamePty, tmpdat$dmultiRef)
+cor(tmpdat$dinSen, tmpdat$dmocionMix)
+
 # LR tests of overall model fit (vs. intercept-only model, see http://www.ats.ucla.edu/stat/r/dae/logit.htm)
 with(fit1, null.deviance - deviance)
 with(fit1, df.null - df.residual)
 with(fit1, pchisq(null.deviance - deviance, df.null - df.residual, lower.tail = FALSE))
 #
+with(fit2, null.deviance - deviance)
+with(fit2, df.null - df.residual)
+with(fit2, pchisq(null.deviance - deviance, df.null - df.residual, lower.tail = FALSE))
+#
+with(fit3, null.deviance - deviance)
+with(fit3, df.null - df.residual)
+with(fit3, pchisq(null.deviance - deviance, df.null - df.residual, lower.tail = FALSE))
+#
+# LR test not reliable for mixed model, bootsrapping preferable but not straightforward, see http://glmm.wikidot.com/faq
+#
+# percent correctly predicted
 pred1 <- predict(fit1, type = "response"); pred1[pred1>=.5] <- 1; pred1[pred1<.5] <- 0
 table(tmpdat$dv - pred1) / nrow(tmpdat) # pct correctly predicted
 pred2 <- predict(fit2, type = "response"); pred2[pred2>=.5] <- 1; pred2[pred2<.5] <- 0
@@ -6001,18 +6699,21 @@ table(tmpdat$dv - pred4) / nrow(tmpdat) # pct correctly predicted
 # predict probabilities for specific scenarios
 tmp <- data.frame(
     Intercept = 1,
-    dmocionAllOpp= 0,
-    dmocionMix   = 0,
-    dmocionAllPdt= 1,
-    drefHda      = median(tmpdat$drefHda),
+    dsamePty = median(tmpdat$dsamePty),
+    dmultiRef = median(tmpdat$dmultiRef), 
+    dmocion= 0,
+    ## dmocionAllOpp= 0,
+    ## dmocionMix   = 0,
+    ## dmocionAllPdt= 0,
+    drefHda      = 1, #median(tmpdat$drefHda),
     dmajSen      = median(tmpdat$dmajSen),
     dinSen       = median(tmpdat$dinSen),
-    ptermR       = median(tmpdat$ptermR),
+#    ptermR       = median(tmpdat$ptermR),
     legyrR       = median(tmpdat$legyrR),
     dreform2010  = median(tmpdat$dreform2010),
-    netApprov    = median(tmpdat$netApprov)
+    netApprovR   = median(tmpdat$netApprovR)
     )
-predict(fit2, tmp, type = "response") # doesn't work due, re-scaled variables need to be handled differently
+predict(fit1, tmp, type = "response") 
 exp(sum(coefficients(fit2)*tmp)) / (1 + exp(sum(coefficients(fit2)*tmp))) # probability urg=1
 
 
@@ -6020,14 +6721,15 @@ exp(sum(coefficients(fit2)*tmp)) / (1 + exp(sum(coefficients(fit2)*tmp))) # prob
 library(stargazer)
 stargazer(fit1, fit2, fit3, fit4, title="Regression results", align=TRUE, report = ('vc*p'),
           covariate.labels=
- c("Member bill",
+ c("Copartisan comm.~chair",
+   "Multiple referrals",
+   "Member bill",
    "Member bill, opp.-sponsored",
    "Member bill, mix.-sponsored",
    "Member bill, pres. coal.-sp.",
    "Hacienda referral",
    "Senate majority",
    "Introduced Senate",
-   "Pres.~term remaining",
    "Year remaining",
    "Relax deadlines",
    "Pres.~approval",
