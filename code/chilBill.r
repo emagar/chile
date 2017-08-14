@@ -6742,6 +6742,206 @@ stargazer(fit1, fit2, fit3, fit4, title="Regression results", align=TRUE, report
 ## library(apsrtable)
 ## apsrtable(fit1, fit2)
 
+
+
+##########################
+# simulations start here #
+##########################
+# std error version
+sims3 <- with(tmpdat,
+              data.frame(dsamePty=c(0,1),
+                         dmultiRef=0,
+#                         dmocion= 0,
+                         dmocionAllOpp= 0,
+                         dmocionMix   = 0,
+                         dmocionAllPdt= 0,
+                         drefHda=1,
+#                         dmajSen=1,
+                         dinSen=0,
+                         legyrR=seq(from=(min(legyrR)-.05), to=(max(legyrR)+.05), length.out = 100),
+#                         dreform2010=0,
+                         netApprovR=median(netApprovR),
+                         legis = 2010
+                         )
+              )
+sims3$pr <- predict(fit3, newdata = sims3, type = "response")
+sims3 <- cbind(sims3, predict(fit3, newdata = sims3, type="link", se=TRUE))
+sims3 <- within(sims3, {
+  PredictedProb <- plogis(fit)
+  LL <- plogis(fit - (1.96 * se.fit))
+  UL <- plogis(fit + (1.96 * se.fit))
+})
+sims3$legyr <- seq(from=1, to=0, length.out = 100) # for plot
+head(sims3)
+library(ggplot2)
+gr <- "../graphs/"
+#pdf (file = paste(gr, "predictedPr.pdf", sep = ""), width = 7, height = 4)
+ggplot(sims3, aes(x = legyr, y = PredictedProb)) +
+    geom_ribbon(aes(ymin = LL, ymax = UL, fill = factor(dsamePty)), alpha = .2) +
+    geom_line(aes(colour = factor(dsamePty)), size=1) +
+    labs(fill = "Co-partisan chair", colour = "Co-partisan chair",
+         x = "Legislative year remaining (in months)",
+         y = "Predicted probability") +
+    scale_x_continuous(breaks=seq(from=0, to=1, length.out=7), labels=seq(from=12, to=0, by=-2))
+#dev.off()
+
+# for glmer the method above won't work, but method below does
+# see https://stats.stackexchange.com/questions/147836/prediction-interval-for-lmer-mixed-effects-model-in-r
+sims4 <- with(tmpdat,
+              data.frame(dsamePty=c(0,1),
+                         dmultiRef=0,
+#                         dmocion= 0,
+                         dmocionAllOpp= 0,
+                         dmocionMix   = 0,
+                         dmocionAllPdt= 0,
+                         drefHda=1,
+#                         dmajSen=1,
+                         dinSen=0,
+                         legyrR=seq(from=(min(legyrR)-.05), to=(max(legyrR)+.05), length.out = 100),
+#                         dreform2010=0,
+                         netApprovR=median(netApprovR),
+                         legis = 2010
+                         )
+              )
+library(merTools)
+tmp <- predictInterval(fit4, newdata = sims4, n.sims = 999)
+sims4 <- cbind(sims4, antilogit(tmp))
+head(sims4)
+sims4$PredictedProb <- sims4$fit
+#pdf (file = paste(gr, "predictedPr.pdf", sep = ""), width = 7, height = 4)
+ggplot(sims4, aes(x = legyrR, y = PredictedProb)) +
+  geom_ribbon(aes(ymin = lwr, ymax = upr, fill = factor(dsamePty)), alpha = .2) +
+  geom_line(aes(colour = factor(dsamePty)), size=1)
+#dev.off()
+
+
+
+# simulations: bayesian method
+##################################
+##################################
+##  JAGS ESTIMATION OF MODEL 2  ##
+##################################
+##################################
+library(R2jags)
+###########
+## MODEL ##
+###########
+logitModel <- function() {
+    ### OLS regression model
+    for (n in 1:N){                ## loop over observations
+        depvar[n] ~ dbern(p[n]);   
+        logit(p[n]) <- inprod(beta[],X[n,]);  ## FLEXIBLE SPECIFICATION FOR VARYING N OF REGRESSORS, PREPARE depvar AND X IN R
+    }
+    ############################
+    ## NON-INFORMATIVE PRIORS ##
+    ############################
+    for (k in 1:K){                ## loop over regressors
+        beta[k] ~ dnorm(0, .0001);
+    }
+}
+#
+########################################
+### EXTRA DATA PREP FOR JAGS MODEL 2 ###
+########################################
+depvar <- tmpdat$dv12
+N <- length(depvar)
+X <- data.frame(cons=rep(1, N), dsamePty=tmpdat$dsamePty, dmultiRef=tmpdat$dmultiRef, dmocionAllOpp=tmpdat$dmocionAllOpp, dmocionMix=tmpdat$dmocionMix, dmocionAllPdt=tmpdat$dmocionAllPdt, drefHda=tmpdat$drefHda, dmajSen=tmpdat$dmajSen, dinSen=tmpdat$dinSen, legyrR=tmpdat$legyrR, dreform2010=tmpdat$dreform2010, netApprovR=tmpdat$netApprovR)
+# labels to interpret parameters
+var.labels <- colnames(X)
+K <- length(var.labels)
+X <- as.matrix(X)
+### Data, initial values, and parameter vector for jags
+dl.data <- list("N", "K", "depvar", "X")
+dl.inits <- function (){
+    list (
+    #beta=rnorm(K),
+    beta=summary(fit2)$coefficients[,1] # use glm's estimates
+    )
+    }
+dl.parameters <- c("beta")
+#dm.parameters <- c("beta", "sigma", "depvar.hat")
+## test ride
+tmp <- jags (data=dl.data, inits=dl.inits, dl.parameters,
+             model.file=logitModel, n.chains=3,
+             n.iter=100, n.thin=10
+             )
+## estimate
+fit2jags <- jags (data=dl.data, inits=dl.inits, dl.parameters,
+                  model.file=logitModel, n.chains=3,
+                  n.iter=50000, n.thin=100,
+                  )
+#
+tmp <- fit2jags
+fit2jags <- update(fit2jags, 10000) # continue updating to produce 10000 new draws per chain
+#traceplot(fit2jags) # visually check posterior parameter convergence
+#
+fit2jags$var.labels <- var.labels # add object to interpret coefficients
+
+# sims bayesian
+antilogit <- function(X){ exp(X) / (exp(X)+1) }
+## pr(urgent)
+coefs <- fit2jags$BUGSoutput$sims.matrix; coefs <- coefs[,-grep("deviance", colnames(fit2jags$BUGSoutput$sims.matrix))]
+scenario <- c(
+    1, #cons=1,
+    0, #dsamePty <- c(0,1),
+    0, #dmultiRef <- c(0,1),
+    0, #dmocionAllOpp=0,
+    0, #dmocionMix=0,
+    0, #dmocionAllPdt=0,
+    1, #drefHda=1,
+    1, #dmajSen=1,
+    0, #dinSen=0,
+    0, #legyrR= <- range min max,
+    0, #dreform2010=0,
+    median(tmpdat$netApprov) #netApprovR=median
+)
+names(scenario) <- c("cons", "dsamePty", "dmultiRef", "dmocionAllOpp", "dmocionMix", "dmocionAllPdt", "drefHda", "dmajSen", "dinSen", "legyrR", "dreform2010", "netApprovR")
+#
+n <- nrow(coefs)
+sc <- matrix(rep(scenario, n), nrow = n, byrow = TRUE)
+sc <- as.data.frame(sc)
+colnames(sc) <- c("cons", "dsamePty", "dmultiRef", "dmocionAllOpp", "dmocionMix", "dmocionAllPdt", "drefHda", "dmajSen", "dinSen", "legyrR", "dreform2010", "netApprovR")
+# change dsamePty by alternating 0,1
+sc$dsamePty <- rep ( 0:1, n/2)
+sc$legyrR <- seq(from=(min(tmpdat$legyrR)-.05), to=(max(tmpdat$legyrR)+.05), length.out = n)
+tmp <- as.integer(1:n/1000); tmp[tmp==30] <- 0 # create 30 values with n/30=1000 for legyr
+tmp <- tmp/29
+legyr <- tmp # for plot, will plug to sc later
+sc$legyrR <- legyr * ( max(tmpdat$legyrR) - min(tmpdat$legyrR) + .10 ) + (min(tmpdat$legyrR) - .05) # 30 normalized values to predict
+sc <- as.matrix(sc)
+#
+tmp <- fit2jags$BUGSoutput$summary[grep("beta", rownames(fit2jags$BUGSoutput$summary)),1] # coef point pred (mean posterior)
+pointPred <- sc %*% diag(tmp) # right side achieves multiplication of matrix columns by vector
+pointPred <- antilogit(rowSums(pointPred)) # will plug this in sc later
+#
+pred <- sc * coefs
+pred <- antilogit(rowSums(pred)) # will plug this in sc later
+#
+sc <- as.data.frame(sc); colnames(sc) <- c("cons", "dsamePty", "dmultiRef", "dmocionAllOpp", "dmocionMix", "dmocionAllPdt", "drefHda", "dmajSen", "dinSen", "legyrR", "dreform2010", "netApprovR")
+sc$legyr <- legyr; rm(legyr)
+sc$pred <- pred; rm(pred)
+sc$pointPred <- pointPred; rm(pointPred)
+#
+# así se hace en R un by yr mo: egen tmp=sum(invested) de stata
+sc$ll <- ave(sc$pred, as.factor(sc$legyr*290 + sc$dsamePty), FUN=function(x) quantile(x, probs=.025), na.rm=TRUE)
+sc$ul <- ave(sc$pred, as.factor(sc$legyr*290 + sc$dsamePty), FUN=function(x) quantile(x, probs=.975), na.rm=TRUE)
+#
+sc <- sc[-duplicated(as.factor(sc$legyr*290 + sc$dsamePty))==FALSE,]
+#
+library(ggplot2)
+#pdf (file = paste(gr, "predictedPr.pdf", sep = ""), width = 7, height = 4)
+ggplot(sc, aes(x = legyr, y = pointPred)) +
+  geom_ribbon(aes(ymin = ll, ymax = ul, fill = factor(dsamePty)), alpha = .2) +
+  geom_line(aes(colour = factor(dsamePty)), size=1)
+#dev.off()
+
+########################
+# simulations end here #
+########################
+
+
+
+
 # LOGIT ON WHETHER REPORT PROB AFFECTED BY URGENCY OF BILLS REFERRED TO Hda only
 # which boletines referred to Hda comm
 sel <- which(bills$info$drefHda==1)

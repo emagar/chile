@@ -1,3 +1,43 @@
+summary(fit4)
+
+sims4 <- with(tmpdat,
+              data.frame(dsamePty=c(0,1),
+                         dmultiRef=0,
+#                         dmocion= 0,
+                         dmocionAllOpp= 0,
+                         dmocionMix   = 0,
+                         dmocionAllPdt= 0,
+                         drefHda=1,
+#                         dmajSen=1,
+                         dinSen=0,
+                         legyrR=seq(from=(min(legyrR)-.05), to=(max(legyrR)+.05), length.out = 100),
+#                         dreform2010=0,
+                         netApprovR=median(netApprovR),
+                         legis = 2010
+                         )
+              )
+sims4$pr <- predict(fit4, newdata = sims4, type = "response")
+sims4 <- cbind(sims4, predict(fit4, newdata = sims4, type="link", se=TRUE))
+sims4 <- within(sims4, {
+  PredictedProb <- plogis(fit)
+  LL <- plogis(fit - (1.96 * se.fit))
+  UL <- plogis(fit + (1.96 * se.fit))
+})
+library(ggplot2)
+gr <- "../graphs/"
+#pdf (file = paste(gr, "predictedPr.pdf", sep = ""), width = 7, height = 4)
+ggplot(sims3, aes(x = legyrR, y = PredictedProb)) +
+  geom_ribbon(aes(ymin = LL, ymax = UL, fill = factor(dsamePty)), alpha = .2) +
+  geom_line(aes(colour = factor(dsamePty)), size=1)
+#dev.off()
+
+
+
+
+
+
+
+
 ## ESTE SIRVE DE EJEMPLO PARA LA CONFERENCIA DE CHUCHO---LO COMENTADO FUE LO PRIMERO, POCO A POCO VI QUE FORMULA ERA MUCHO MAS SENCILLA
 ## Corre justo arriba del logit, en chilbill.r
 allCom.tmp <- list()
