@@ -6560,6 +6560,26 @@ sel <- which(tmpdat$dateIn >= tmp[13] & tmpdat$dateIn < tmp[14]); tmpdat$legyr[s
 sel <- which(tmpdat$dateIn >= tmp[14] & tmpdat$dateIn < tmp[15]); tmpdat$legyr[sel] <- round((tmp[15] - tmpdat$dateIn[sel]) * 100 / 365, digits = 0)
 sel <- which(tmpdat$dateIn >= tmp[15] & tmpdat$dateIn < tmp[16]); tmpdat$legyr[sel] <- round((tmp[16] - tmpdat$dateIn[sel]) * 100 / 365, digits = 0)
 #
+# for leg year dummies
+tmp <- dmy(c("10-03-1999", "10-03-2000", "10-03-2001", "10-03-2002", "10-03-2003", "10-03-2004", "10-03-2005", "10-03-2006", "10-03-2007", "10-03-2008", "10-03-2009", "10-03-2010", "10-03-2011", "10-03-2012", "10-03-2013", "10-03-2014") , tz = "chile")
+tmpdat$yr <- NA
+sel <- which(                           tmpdat$dateIn < tmp[1]);  tmpdat$yr[sel] <- 1999
+sel <- which(tmpdat$dateIn >= tmp[1]  & tmpdat$dateIn < tmp[2]);  tmpdat$yr[sel] <- 2000
+sel <- which(tmpdat$dateIn >= tmp[2]  & tmpdat$dateIn < tmp[3]);  tmpdat$yr[sel] <- 2001
+sel <- which(tmpdat$dateIn >= tmp[3]  & tmpdat$dateIn < tmp[4]);  tmpdat$yr[sel] <- 2002
+sel <- which(tmpdat$dateIn >= tmp[4]  & tmpdat$dateIn < tmp[5]);  tmpdat$yr[sel] <- 2003
+sel <- which(tmpdat$dateIn >= tmp[5]  & tmpdat$dateIn < tmp[6]);  tmpdat$yr[sel] <- 2004
+sel <- which(tmpdat$dateIn >= tmp[6]  & tmpdat$dateIn < tmp[7]);  tmpdat$yr[sel] <- 2005
+sel <- which(tmpdat$dateIn >= tmp[7]  & tmpdat$dateIn < tmp[8]);  tmpdat$yr[sel] <- 2006
+sel <- which(tmpdat$dateIn >= tmp[8]  & tmpdat$dateIn < tmp[9]);  tmpdat$yr[sel] <- 2007
+sel <- which(tmpdat$dateIn >= tmp[9]  & tmpdat$dateIn < tmp[10]); tmpdat$yr[sel] <- 2008
+sel <- which(tmpdat$dateIn >= tmp[10] & tmpdat$dateIn < tmp[11]); tmpdat$yr[sel] <- 2009
+sel <- which(tmpdat$dateIn >= tmp[11] & tmpdat$dateIn < tmp[12]); tmpdat$yr[sel] <- 2010
+sel <- which(tmpdat$dateIn >= tmp[12] & tmpdat$dateIn < tmp[13]); tmpdat$yr[sel] <- 2011
+sel <- which(tmpdat$dateIn >= tmp[13] & tmpdat$dateIn < tmp[14]); tmpdat$yr[sel] <- 2012
+sel <- which(tmpdat$dateIn >= tmp[14] & tmpdat$dateIn < tmp[15]); tmpdat$yr[sel] <- 2013
+sel <- which(tmpdat$dateIn >= tmp[15] & tmpdat$dateIn < tmp[16]); tmpdat$yr[sel] <- 2014
+#
 # legislature dummies (periodo)
 tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
 tmpdat$dleg90 <- tmpdat$dleg94 <- tmpdat$dleg98 <- tmpdat$dleg02 <- tmpdat$dleg06 <- tmpdat$dleg10 <- tmpdat$legis <- 0
@@ -6601,15 +6621,24 @@ tmpdat$dpork [tmpdat$dom=="09-obras púb"] <- 1
 # FIT MODELS
 tmpdat$ptermR     <- c(scale(tmpdat$pterm))     # rescale/center continuous variables to aid identification of multilevel model ## c() removes class problems for predict() below
 tmpdat$legyrR     <- c(scale(tmpdat$legyr))     # rescale/center continuous variables to aid identification of multilevel model
+tmpdat$legyrR2    <- tmpdat$legyrR^2            # square
 tmpdat$netApprovR <- c(scale(tmpdat$netApprov)) # rescale/center continuous variables to aid identification of multilevel model
+#
+## # recode dsameCoal = 0 if sdamePres = 1
+## sel <- which(tmpdat$dsamePty==1 & tmpdat$dsameCoal==1)
+## tmpdat$dsameCoal[sel] <- 0
+#
 #fit <- lm (dv ~ dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda + dmajSen + dinSen + pterm + legyr, data = tmpdat)
-fit1 <- glm(dv12 ~ dsamePty + dmultiRef + dmocion                                    + drefHda + dmajSen + dinSen + legyrR + dreform2010 + netApprovR                  , data = tmpdat, family = binomial(link = logit))
-fit2 <- glm(dv12 ~ dsamePty + dmultiRef + dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda + dmajSen + dinSen + legyrR + dreform2010 + netApprovR                   , data = tmpdat, family = binomial(link = logit))
-fit3 <- glm(dv12 ~ dsamePty + dmultiRef + dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda           + dinSen + legyrR               + netApprovR + as.factor(legis), data = tmpdat, family = binomial(link = logit))
+fit1 <- glm(dv12 ~ dsamePty  + dmultiRef + dmocion                                    + drefHda + dmajSen + dinSen + legyrR + dreform2010 + netApprovR                  , data = tmpdat, family = binomial(link = logit))
+## fit2 <- glm(dv12 ~ dsamePty + dmultiRef + dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda + dmajSen + dinSen + legyrR + dreform2010 + netApprovR                   , data = tmpdat, family = binomial(link = logit))
+## fit3 <- glm(dv12 ~ dsamePty + dmultiRef + dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda           + dinSen + legyrR               + netApprovR + as.factor(legis), data = tmpdat, family = binomial(link = logit))
+fit2 <- glm(dv12 ~ dsameCoal + dmultiRef + dmocion                                    + drefHda + dmajSen + dinSen + legyrR + dreform2010 + netApprovR                   , data = tmpdat, family = binomial(link = logit))
+fit3 <- glm(dv12 ~ dsameCoal + dmultiRef + dmocion                                    + drefHda           + dinSen + legyrR + legyrR2             + netApprovR + as.factor(legis), data = tmpdat, family = binomial(link = logit))
 # multilevel version with error terms clustered by legislatura (Gelman Hill p. 302 from eq 12.13)
 # For non-convergence warnings in glmer, see script nonConv.r. This is from https://rstudio-pubs-static.s3.amazonaws.com/33653_57fc7b8e5d484c909b615d8633c01d51.html (and related Stack overflow http://stackoverflow.com/questions/23478792/warning-messages-when-trying-to-run-glmer-in-r). Re-scaling all continuous ivs took care of the problem...
 library(lme4)
-fit4 <- glmer(dv12 ~ dsamePty + dmultiRef + dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda         + dinSen + legyrR               + netApprovR + (1|legis), data = tmpdat, family = binomial(link ="logit"))
+## fit4 <- glmer(dv12 ~ dsamePty + dmultiRef + dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda         + dinSen + legyrR               + netApprovR + (1|legis), data = tmpdat, family = binomial(link ="logit"))
+fit4 <- glmer(dv12 ~ dsameCoal + dmultiRef + dmocion                                  + drefHda         + dinSen + legyrR               + netApprovR + (1|legis), data = tmpdat, family = binomial(link ="logit"))
 ## fit5 <- glm(dv12 ~ dmocion                                    + drefHda + dmajSen + dinSen + ptermR + legyrR + dreform2010                   , data = tmpdat, family = binomial(link = logit))
 ## etc...
 #
@@ -6622,7 +6651,7 @@ display(fit4)
 
 ## GRAFICA MATRIZ DE CORRELACIONES: COOL!
 #tmp <- cor(dat[,-grep("Extend|Shorten|Retire|d2010|nses", colnames(dat))])
-tmp <- cor(tmpdat[, grep("samePty|dmultiRef|dmocionAllOpp|dmocionMix|dmocionAllPdt|drefHda|dmajSen|dinSen|ptermR|legyrR|dreform2010|netApprovR|legis", colnames(tmpdat))])
+tmp <- cor(tmpdat[, grep("samePty|sameCoal|dmultiRef|dmocionAllOpp|dmocionMix|dmocionAllPdt|drefHda|dmajSen|dinSen|ptermR|legyrR|dreform2010|netApprovR|legis", colnames(tmpdat))])
 library('corrplot')   # plots correlation matrix!
 corrplot(tmp, color = TRUE) #plot matrix
 #corrplot(tmp, method = "circle") #plot matrix
@@ -6699,7 +6728,8 @@ table(tmpdat$dv - pred4) / nrow(tmpdat) # pct correctly predicted
 # predict probabilities for specific scenarios
 tmp <- data.frame(
     Intercept = 1,
-    dsamePty = median(tmpdat$dsamePty),
+#    dsamePty = median(tmpdat$dsamePty),
+    dsameCoal = median(tmpdat$dsamePty),
     dmultiRef = median(tmpdat$dmultiRef), 
     dmocion= 0,
     ## dmocionAllOpp= 0,
@@ -6713,7 +6743,7 @@ tmp <- data.frame(
     dreform2010  = median(tmpdat$dreform2010),
     netApprovR   = median(tmpdat$netApprovR)
     )
-predict(fit1, tmp, type = "response") 
+predict(fit2, tmp, type = "response") 
 exp(sum(coefficients(fit2)*tmp)) / (1 + exp(sum(coefficients(fit2)*tmp))) # probability urg=1
 
 
@@ -6722,11 +6752,9 @@ library(stargazer)
 stargazer(fit1, fit2, fit3, fit4, title="Regression results", align=TRUE, report = ('vc*p'),
           covariate.labels=
  c("Copartisan comm.~chair",
+   "Coalition comm.~chair",
    "Multiple referrals",
    "Member bill",
-   "Member bill, opp.-sponsored",
-   "Member bill, mix.-sponsored",
-   "Member bill, pres. coal.-sp.",
    "Hacienda referral",
    "Senate majority",
    "Introduced Senate",
@@ -6749,17 +6777,15 @@ stargazer(fit1, fit2, fit3, fit4, title="Regression results", align=TRUE, report
 ##########################
 # std error version
 sims3 <- with(tmpdat,
-              data.frame(dsamePty=c(0,1),
+              data.frame(dsameCoal=c(0,1),
                          dmultiRef=0,
-#                         dmocion= 0,
-                         dmocionAllOpp= 0,
-                         dmocionMix   = 0,
-                         dmocionAllPdt= 0,
+                         dmocion= 0,
                          drefHda=1,
-#                         dmajSen=1,
+#                         dmajSen=0,
                          dinSen=0,
                          legyrR=seq(from=(min(legyrR)-.05), to=(max(legyrR)+.05), length.out = 100),
-#                         dreform2010=0,
+                         legyrR2=seq(from=(min(legyrR)-.05), to=(max(legyrR)+.05), length.out = 100)^2,
+#                         dreform2010=1,
                          netApprovR=median(netApprovR),
                          legis = 2010
                          )
@@ -6777,9 +6803,9 @@ library(ggplot2)
 gr <- "../graphs/"
 #pdf (file = paste(gr, "predictedPr.pdf", sep = ""), width = 7, height = 4)
 ggplot(sims3, aes(x = legyr, y = PredictedProb)) +
-    geom_ribbon(aes(ymin = LL, ymax = UL, fill = factor(dsamePty)), alpha = .2) +
-    geom_line(aes(colour = factor(dsamePty)), size=1) +
-    labs(fill = "Co-partisan chair", colour = "Co-partisan chair",
+    geom_ribbon(aes(ymin = LL, ymax = UL, fill = factor(dsameCoal)), alpha = .2) +
+    geom_line(aes(colour = factor(dsameCoal)), size=1) +
+    labs(fill = "Coalition chair", colour = "Coalition chair",
          x = "Legislative year remaining (in months)",
          y = "Predicted probability") +
     scale_x_continuous(breaks=seq(from=0, to=1, length.out=7), labels=seq(from=12, to=0, by=-2))

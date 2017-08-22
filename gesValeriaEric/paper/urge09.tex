@@ -31,6 +31,8 @@
 %% TO ADD NOTES IN TEXT
 \usepackage[colorinlistoftodos, textsize=small]{todonotes}
 \newcommand{\emm}[1]{\todo[color=red!15, inline]{\textbf{EM:} #1}}
+\newcommand{\vp}[1]{\todo[color=green!15, inline]{\textbf{VP:} #1}}
+\newcommand{\gs}[1]{\todo[color=blue!15, inline]{\textbf{GS:} #1}}
 
 % agradecimientos
 % Sebastián Soto Velasco, ex-director jurídico de del ministerio secretaría general de la presidencia
@@ -43,7 +45,7 @@
 
 \begin{document}
 
-\title{Restrictive rules in the Chilean Cámara: Fighting floor amendments with the urgency authority\thanks{The authors are grateful to Sebastián Soto Velasco for help understanding the urgency authority; to Ernesto Calvo, José Antonio Cheibub (...)  for comments and critiques to previous incarnations of the paper. Eric Magar acknowledges financial support from the Asociación Mexicana de Cultura A.C.\ and CONACYT's Sistema Nacional de Investigadores. Valeria Palanza acknowledges support from Proyecto Fondecyt No. 1140974, and from the Millennium Nucleus for the Study of Stateness and Democracy in Latin America, Project #NS100014. The authors bear sole responsibility for mistakes and shortcomings in the study.}}
+\title{Restrictive rules in the Chilean Cámara: Fighting floor amendments with the urgency authority\thanks{Paper read at the 2017 annual meeting of the American Political Science Association, San Francisco, CA, Sept.~1, 2017. The authors are grateful to Roberto Bustos, Alvaro Villarroel, and the staff of the Senate's Hacienda committee, and especially to Sebastián Soto Velasco for help understanding urgency authority; to Deputy Patricio Vallespín for making calls to schedule interviews with congressional personnel; to Ernesto Calvo and José Antonio Cheibub for comments and critiques to previous incarnations of the paper. Eric Magar acknowledges financial support from the Asociación Mexicana de Cultura A.C.\ and CONACYT's Sistema Nacional de Investigadores. Valeria Palanza acknowledges support from Proyecto Fondecyt No. 1140974, and from the Millennium Nucleus for the Study of Stateness and Democracy in Latin America, Project \#NS100014. The authors bear sole responsibility for mistakes and shortcomings in the study.}}
 \author{Eric Magar \\ ITAM \and
         Valeria Palanza \\ Univ.\ Católica de Chile \and  
         Gisela Sin \\ Univ.\ of Illinois, Urbana-Champaign 
@@ -51,13 +53,11 @@
 \date{\today}
 \maketitle
 
-\begin{center} \textbf{$\rightarrow$~~Preliminary draft~~$\leftarrow$} \\ (please inquire for new version, \small{\url{emagar@itam.mx}})  \end{center}
+%\begin{center} \textbf{$\rightarrow$~~Preliminary draft~~$\leftarrow$} \\ (please inquire for new version, \small{\url{emagar@itam.mx}})  \end{center}
 
 \begin{abstract}
 \noindent Among the formidable proactive legislative powers of Chile's president is urgency authority. Lawmakers face a short deadline to discuss and vote bills declared urgent. Extant research has shown that most executive proposals become urgent at some stage, that urgency correlates with the odds of passage, but found little evidence that it speeds consideration of the president's agenda in Congress. This paper underscores a procedural distinction of this institution that scholars have overlooked: the floor considers urgent bills under \emph{restrictive rules}, giving presidents the ability to shield committee reports from floor amendments. Hypotheses derived from a formal model of restrictive rules are tested with data from the 1998--2014 period. We provide significant evidence that urgency messages associate with the type of restrictive rule correlates found in the U.S.
 \end{abstract}
-
-% para ges y valeria: opción 1 es usar shareLatex; opción 2 es buscar sugerencias para colaborar en web via word; opción 3 es editar en word dándoles unas instrucciones básicas de qué no tocar; opción 4 es sacar los párrafos de texto con menciones de tables y figures (que deben ver en el pdf)... voy por ésta ahora
 
 % comentarios de Calvo
 %Comentarios a Magar: Presidential obstruction of the agenda in Chile’s Congress
@@ -74,14 +74,15 @@
 
 \section{Introduction}
 
-\noindent The prerogative to declare bills urgent gives the president power to interfere, to variable degrees, with congress' voting schedule. Presidents with such power can choose to confront legislators with a deadline to discuss and vote legislation by simply designating it urgent. Seen against the U.S.\ system, where an impatient president has no formal resources to pressure legislators to act on stagnant legislation that he would like to see considered, urgency authority may even seem contradictory to classic notions of separation of powers. The Framers warn against expediting lawmaking and arresting deliberation. ``In the legislature promptitude of decision is oftener an evil than a benefit'' \citep{hamilton70.1788}.
+\noindent The prerogative to declare bills urgent gives the president power to interfere, to variable degrees, with congress' voting schedule. Presidents with such power can choose to confront legislators with a deadline to discuss and vote legislation by simply designating it urgent. Seen against the U.S.\ system, where an impatient president has no formal resources to pressure legislators to act on stagnant legislation that s/he would like to see considered, urgency authority may even seem contradictory to classic notions of separation of powers. The Framers warn against expediting lawmaking and arresting deliberation. ``In the legislature promptitude of decision is oftener an evil than a benefit'' \citep{hamilton70.1788}.
 
 % federalist 70
 % Upon the principles of a free government, inconveniences from the source just mentioned [collective actors] must necessarily be submitted to in the formation of the legislature; but it is unneccessary, and therefore unwise, to introduce them into the constitution of the executive. It is here too that they may be most pernicious. In the legislature promptitude of decision is oftener an evil than a benefit. The differences of opinion and the jarring of parties in that department of the government, though they may sometimes obstruct salutary plans, yet often promote deliberation and circumspection, and serve to check the excesses of the majority. When a resolution too is once taken, the opposition must be at an end. That resolution is a law, and resistance to it is punishable. --> EMM la urgencia opera contra esta delibaración benévola...
 
 Yet, with considerable variation, five constitutions of the Americas have such authority: Brazil, Chile, Colombia, Mexico, and Uruguay \citep{morgenstern.2002b}. In Brazil, the assembly must act on urgent legislation within forty five days, else the bill in question takes precedence over all other legislative business. The president can declare any executive-initiated bill urgent at any time. In Colombia, urgent bills go to the top of the voting schedule immediately. In Uruguay and Chile, legislators must act within a pre-specified, short period, although the consequences of not doing so vary between the two countries. Failure to do so converts the urgent bill into law in Uruguay, \footnote{Although three-fifths of the membership of either chamber can remove the bill's urgent status.} but not in Chile. In Mexico the president can propose up to two urgent bills at the start of each biannual ordinary period, which must be scheduled for floor consideration within 30 days. In Mexico, as in Chile, how to proceed in case of legislative non-compliance is indeterminate.\footnote{Constitutional articles vesting this authority are the following: Brazil articles 62 and 64; Chile article 74; Colombia article 163; Mexico article 71; and Uruguay article 168.7.}
 
-%\emm{How does this compare with special (extra-ordinary) sessions? Some presidents can summon legislators to a special session to discuss, exclusively, a specific bill defined ex-ante. Limits? If few, might resemble urgency authority... Check. VP WILL LOOK INTO THIS }
+\emm{How does this compare with special (extra-ordinary) sessions? Some presidents can summon legislators to a special session to discuss, exclusively, a specific bill defined ex-ante. Limits? If few, might resemble urgency authority... Check.}
+\vp{WILL LOOK INTO THIS}
 
 Urgency authority has received limited attention. \citet{siavelis.2002} stands out given the systematic nature of his study of the urgency prerogative in Chile. Analysis of Chile's first post-transition administration revealed the amazing frequency with which urgency messages were issued by President Aylwin: slightly more than one-third of proposals in Congress received some form of urgency qualification, and about nine out of ten bills marked urgent were initiated by the executive. Seeking whether or not proposals marked urgent had a more expedited legislative process and an improved likelihood of passage, the study found mixed evidence at best. Among executive proposals, those marked urgent underwent shorter considerations than the rest (medians of 134 vs.\ 160 days, respectively). But no palpable difference in success rates could be appreciated (64 vs.\ 63 percent). 
 
@@ -89,22 +90,25 @@ We claim that the poor signal given by bills designated urgent in Chile may bear
 
 This paper argues that the effects of urgency authority are procedural. Proposals the president declares urgent in Chile are considered under restrictive rules by the chamber's plenary. If the rationale is expediting the legislative process, one key consequence is to effectively shield committee reports from amendments by the plenary.
 
-%\emm{VP: Me sigue pareciendo que está faltando una sección que discuta la literatura sobre Chile, sea en la sección 2, antes de cerrar la 1, o una nueva sección 1,5 por decir algo. Yo puedo escribir un par de páginas en ese espíritu post-APSA, y eso engancharía con lo que Ges se comprometió a escribir pre-APSA sobre el puzzle. INCLUIR a Alemán y Navia, y ver qué más}
+\vp{Me sigue pareciendo que está faltando una sección que discuta la literatura sobre Chile, sea en la sección 2, antes de cerrar la 1, o una nueva sección 1,5 por decir algo. Yo puedo escribir un par de páginas en ese espíritu post-APSA, y eso engancharía con lo que Ges se comprometió a escribir pre-APSA sobre el puzzle. INCLUIR a Alemán y Navia, y ver qué más}
 
-The paper proceeds as follows: Section 2 describes our data on urgency incidence. We elaborate on urgency degrees, a distinction of central importance to the study of the institution in Chile. The poorness of the signal, we show, stems partly from overlooking urgency degrees. %no sé cómo hacerlo pero pondría "degrees" en italics
-Section 3 offers our interpretation of the urgency authority as a restrictive rule. Schematizing the sequence of committee reports and plenary readings shows that it is much harder to introduce plenary amendments to urgent than non-urgent bills. Section 4 extends a simple model of restrictive rules from the U.S.\ to the Chilean Congress. The spatial model highlights the logic behind the procedural choice: when the executive anticipates that a palatable committee report is vulnerable to floor amendments, declaring it urgent imposes a take-it-or-leave-it vote on the floor. Section 5 draws testable hypotheses which section 6 tests. Examination of all bills in the 1998--2014 period in search of urgency authority predictors shows that, other features constant, preference similarity between the president and the committee chair (as measured by co-partisanship) associates significantly with urgency messages. Simulations further show that... Section 7 discusses some implications of our findings and section 8 concludes.
+The paper proceeds as follows: Section 2 describes our data on urgency incidence. We elaborate on urgency degrees, a distinction of central importance to the study of the institution in Chile. The poorness of the signal, we show, stems partly from overlooking urgency \emph{degrees}. Section 3 offers our interpretation of the urgency authority as a restrictive rule. Schematizing the sequence of committee reports and plenary readings shows that it is much harder to introduce plenary amendments to urgent than non-urgent bills. Section 4 extends a simple model of restrictive rules from the U.S.\ to the Chilean Congress. The spatial model highlights the logic behind the procedural choice: when the executive anticipates that a palatable committee report is vulnerable to floor amendments, declaring it urgent imposes a take-it-or-leave-it vote on the floor. Section 5 draws testable hypotheses which section 6 tests. Examination of all bills in the 1998--2014 period in search of urgency authority predictors shows that, other features constant, preference similarity between the president and the committee chair (as measured by co-partisanship) associates significantly with urgency messages. Simulations further show that... Section 7 discusses some implications of our findings and section 8 concludes.
 
-%\emm{VP:Come back to this description of the structure later. Looks like we may not need 7-8 sections, 5 may be enough?: 4 and 5 could go together, current 7 and 8 perhaps also, depending}
+\vp{Come back to this description of the structure later. Looks like we may not need 7-8 sections, 5 may be enough?: 4 and 5 could go together, current 7 and 8 perhaps also, depending}
+\emm{I agree, have begun merging sections}
 
 \section{Urgent legislation and urgency degrees}
 
-We collected original data to investigate the urgency authority in Chile between 1998 and 2014.\footnote{The Cámara de Diputados' web page (\url{www.camara.cl}) was scraped in November 2014 to retrieve the record (\emph{boletín}) of every proposal made between 11 March 1998 and 10 March 2014, inclusive. Queries had been sent to congressional staff in October 2014 about the existence of an official API or FTP site where this well-structured data could be downloaded en bloc. There was no response. An automated script was then prepared to retrieve the information directly. The Cámara's web page is JavaScript-rich, an obstacle surmounted with \texttt{Python}'s Selenium library, putting together the bits and pieces of the scraping process. A commented version of the script and the data-set will be posted online upon publication. Data analysis was done with a multiplicity of \texttt{R}'s libraries.} Earlier years antedate Internet publication and were dropped, as data completeness in the primary source remains to be verified. The period selected fully covers two Senates, four Cámaras, and three presidencies (plus the last two years of an earlier presidency). 
+As part of a literature that highlights the extraordinary legislative influence of presidents in Latin America, emphasis has been placed on the Chilean president's capacity to initiate legislation, to veto bills at their final stage, and to propose amendments at different times. Less attention has been devoted to the influence gained by the president when s/he can declare certain bills urgent and affect the pace with which congress deals with its agenda.  We collected original data to investigate urgency authority in Chile between 1998 and 2014.\footnote{The Cámara de Diputados' web page (\url{www.camara.cl}) was scraped in November 2014 to retrieve the record (\emph{boletín}) of every proposal made between 11 March 1998 and 10 March 2014, inclusive.} 
 
-The source reports the general traits of legislation: who introduced the bill, when, in which chamber, what it deals with, its status at the time of consultation, and so forth. It also has chronological detail of the proposal's milestones in the bicameral legislative process: committee referrals and reports, floor discussion and voting, navette to the other chamber, and more. Of direct relevance, all urgency messages received by the chambers are dated. Table \ref{T:billDescriptives} offers a general summary of bill introduction, passage, and urgency incidence.
+%\vp{Sacaría lo siguiente: Queries had been sent to congressional staff in October 2014 about the existence of an official API or FTP site where this well-structured data could be downloaded en bloc. There was no response. An automated script was then prepared to retrieve the information directly. The Cámara's web page is JavaScript-rich, an obstacle surmounted with \texttt{Python}'s Selenium library, putting together the bits and pieces of the scraping process. PERO VERIFICAR QUE LO QUE SIGUE ESTE EN LA FOOTNOTE "A commented version... HASTA ... of an earlier presidency)."} A commented version of the script and the data-set will be posted online upon publication. Data analysis was done with a multiplicity of \texttt{R}'s libraries.} Earlier years antedate Internet publication and were dropped, as data completeness in the primary source remains to be verified. The period selected fully covers two Senates, four Cámaras, and three presidencies (plus the last two years of an earlier presidency). 
+
+The source reports the general traits of legislation: who introduced the bill, when, in which chamber, the issue it deals with, its status at the time of consultation, and so forth. It also has chronological detail of the proposal's milestones in the bicameral legislative process: committee referrals and reports, floor discussion and voting, navette to the other chamber, and more. Of direct relevance, all urgency messages received by the chambers are dated. Table \ref{T:billDescriptives} offers a general summary of bill introduction, passage, and urgency incidence.
 
 % numbers produced in chillBill.r (above xtable command). Verify if changes have occurred since...
 \begin{table}
 \centering
+\caption{Proposals, legislation, and the urgency authority 1998--2014}\label{T:billDescriptives}
 \begin{tabular}{llrrr}
 \multicolumn{5}{c}{\textbf{Part A. All bills}} \\
    &                                 &  by           &  by          &    by      \\
@@ -139,29 +143,29 @@ VII & One month deadline (once at least) &          259  &         583  &       
 \hline
 \multicolumn{5}{r}{\footnotesize{$^\dagger$ Categories V, VI, and VII not mutually-exclusive (see text).}} \\
 \end{tabular}
-\caption{Proposals, legislation, and the urgency authority 1998--2014}\label{T:billDescriptives}
 \end{table}
 
-Almost 7 thousand proposals were made in the period, 412 yearly on average. Most introduction was by members of Congress, who made four proposals for every one by the president (79 vs.\ 21 percent). But when success rates are considered the branch ratio inverts, a member turning one proposal into law for every three by a president (27 vs.\ 73 percent). And while members' success rate was dismal (7 percent), they still managed to add about four hundred statutes in the period due to the sheer volume of legislative proposals made. 
+Almost 7 thousand proposals were made during this period, 412 yearly on average. Most legislative initiatives were by members of Congress, who made four proposals for every one made by the president (79 vs.\ 21 percent). But when considering success rates the branch ratio reverses, each member turning one proposal into law for every three by a president (27 vs.\ 73 percent). And while members' success rate was dismal (7 percent), they still managed to add about four hundred statutes in the period due to the sheer volume of legislative proposals made. 
 
-In total 1,362 bills became urgent at some point of the legislative process. One proposal in five received an urgency message in the period (19 percent). The relative term attests to a quite permissive notion of `urgency' by Chilean presidents. The patterns echo those uncovered by Siavelis for a period before ours: most proposals by the executive (69 percent), and few by members (6 percent) had urgent status. Again, that small percentage represented about one quarter of urgency messages in the period due to the volume of member introductions. 
+In total 1,362 bills became urgent at some point of the legislative process, that is, one proposal in five received an urgency message in the period (19 percent). The relative term attests to a quite permissive notion of `urgency' by Chilean presidents. The patterns echo those uncovered by Siavelis for an earlier period: most proposals by the executive (69 percent), and few by members (6 percent) received urgent status. Again, that small percentage represented about one quarter of urgency messages in the period due to the volume of member introductions. 
 
-A feature of importance for our argument is the distinction of urgency types by \emph{degree}. The congressional organic law (arts.\ 26 and 27) defines the breadth of executive interference in legislative scheduling, giving the president a choice of sending `one month' (\emph{urgencia simple} or 30 days), `two week' (\emph{urgencia suma} or 15 days), or `act now' (\emph{discusión inmediata} or 6 days) notices.\footnote{Congressional practice is well summarized by the library of Congress at \url{http://www.bcn.cl/ecivica/formacion/}. The constitution, it must be noted, sets the urgency authority's floor, defining one month urgency only. Higher degrees are set by the organic law. High-degree urgency is therefore vulnerable to congressional majorities, who might be inclined to relax the deadlines available if that were in their interest---as, in fact, was done once. The organic law was amended in July 2010, four months into the newly elected Legislature (and concurrent presidential administration), substantially relaxing the deadlines for the `act now' and `two week' urgencies, originally set at 10 and 3 days, respectively. `One month' urgencies remained unchanged. But the constitution (art.~66) also raises the bar for relaxing deadlines by requiring the vote of four-sevenths ($\approx 57$ percent) of each chamber's membership for organic law passage and amendment. While below the two-thirds membership needed for constitutional reform, no coalition has exceeded the organic law threshold in both chambers since the return to democracy.} Part B in Table \ref{T:billDescriptives} reports urgency frequencies by type.
+A feature of importance for our argument is the distinction of types of urgency by \emph{degree}. The Constitutional Organic Law on Congress (arts.\ 26 and 27) defines the breadth of executive interference in legislative scheduling, giving the president a choice of designating urgencies of `one month' (\emph{urgencia simple} or 30 days), `two week' (\emph{urgencia suma} or 15 days), or `act now' (\emph{discusión inmediata} or 6 days).\footnote{Congressional practice is well summarized by the library of Congress at \url{http://www.bcn.cl/ecivica/formacion/}. The constitution, it must be noted, sets the urgency authority's floor, defining the simple urgency (one month) only. Higher degrees are set by the organic law. High-degree urgency is therefore vulnerable to congressional majorities, who might be inclined to relax the deadlines available if that were in their interest---as, in fact, was done once. The Constitutional Organic Law was amended in July 2010, four months into the newly elected legislature (and concurrent presidential administration), substantially relaxing the deadlines for the `act now' and `two week' urgencies, originally set at 10 and 3 days, to 15 and 6 days respectively, as described above. `One month' urgencies remained unchanged. But the Constitution (art.~66) also raises the bar for relaxing urgency deadlines by requiring the vote of four-sevenths ($\approx 57$ percent) of each chamber's membership for the passage and amendment of Constitutional Organic Laws\footnote{Constitutional Organic Laws are different to regular laws due to this qualified majority requirement}. While this requirement is below the two-thirds needed for constitutional reform, no coalition has exceeded the organic law threshold in both chambers since the return to democracy.} Part B in Table \ref{T:billDescriptives} reports urgency frequencies by type.
 
+%\vp{We have to decide how to refer to urgencies. Right now we use different forms and in particular, I feel urgency “messages” may be confusing. I would delete the message wording altogether, and refer to urgencies or bills denoted/marked urgent --que en chile eso se haga mediante un instrumento que se llama mensaje es trivial, y de hecho a las iniciativas de ley del presidente también se las llama "mensajes", asi que esto podría resultra muy confuso para el lector chilensis}
 
-Proposals can receive more than a single urgency message---e.g., one message to the Cámara, then one to the Senate when the approved bill shuttles there---so the absolute frequencies of the degree breakdown do not add up to the total in panel III.\footnote{The modal urgent bill in the period received several messages. Multiple messages were often sent to the same chamber (\emph{trámite}), sometimes renewing the urgency that a prior message had withdrawn for a given bill. Others times the deadline for consideration was reset by a new message before the original expired. Most of these extended the deadline once or more. Less common, but observed, were messages imposing a shorter deadline. We plan to investigate the puzzling patterns of repeated urgency messages in a separate project.} Least frequent were bills with `act now' deadlines, 6 percent of proposals overall. These are heavily tilted towards executive introductions, one in four (26 percent) of which had some `act now' deadline. Bills with some `two week' or some `one month' deadline were, each, about twice as frequent (13 and 12 percent overall, respectively).
+Proposals can receive more than a single urgency message---e.g., one message to the Lower Chamber, then one to the Senate when the approved bill shuttles there---so the absolute frequencies of the breakdown by urgency types do not add up to the total in panel III.\footnote{The modal urgent bill in the period received several messages. Multiple messages were often sent over a bill to the same chamber), sometimes re-tagging as urgent a bill whose urgency was previously withdrawn. Other times the deadline for consideration was reset before the original expired. Most of these extended the deadline one or more times. Less common, but still observed, were cases changing to a shorter deadline. We plan to investigate the puzzling patterns of repeated urgency messages in a separate project.} Least frequent were bills with `act now' deadlines, 6 percent of proposals overall. These tend to fall upon executive bill proposals, one in four (26 percent) of which had some `act now' deadline. Bills with at least one `two week' or at least one `one month' deadline were, each, about twice as frequent (13 and 12 percent overall, respectively).
 
- %Inspection of original data on urgency incidence to investigate the decision to declare or not legislation urgent, an aspect that has received less scholarly attention. Analysis of original data distinguishes messages in the 1998--2014 period that set forth urgency (40\% of 20 thousand), messages that changed the deadline (29\%), and messages that withdrew the bill's urgency (31\%). Isolating bill and session traits that correlate with urgencies sheds light on the president's power to constantly obstruct the legislative agenda and its use in executive-legislative negotiation with separation of power. 
+%Inspection of original data on urgency incidence to investigate the decision to declare or not legislation urgent, an aspect that has received less scholarly attention. Analysis of original data distinguishes messages in the 1998--2014 period that set forth urgency (40\% of 20 thousand), messages that changed the deadline (29\%), and messages that withdrew the bill's urgency (31\%). Isolating bill and session traits that correlate with urgencies sheds light on the president's power to constantly obstruct the legislative agenda and its use in executive-legislative negotiation with separation of power. 
 
-And urgency types matter, too. \citeauthor{aleman.navia.UrgChi.2009}'s \citeyearpar{aleman.navia.UrgChi.2009} study of executive success in Congress in three post-transition presidencies finds some of the evidence sought by \citet{siavelis.2002}. Controlling for relevant features (such as the bill's policy domain, the government's seat margin, or the presidential agenda size), urgency degrees had quite different effects in success rates. Higher degrees strongly and significantly associate with better probability of executive success, but the lower made no statistical difference. Since low-degree urgencies were also much more prevalent, conflating them with the rest washed off the effect of the higher-degree in Siavelis' analysis. 
+We devote attention to urgency types because they are consequential. \citeauthor{aleman.navia.UrgChi.2009}'s \citeyearpar{aleman.navia.UrgChi.2009} study of executive success in Congress in three post-transition presidencies finds some of the evidence sought by \citet{siavelis.2002}. Controlling for relevant features (such as the bill's policy domain, the government's seat margin, or the presidential agenda size), urgency degrees had quite different effects on success rates. Higher degrees strongly and significantly associate with higher probability of executive success, but the lower made no statistical difference. Since low-degree urgencies were also much more prevalent, conflating them with the rest washed off the effect of the higher-degree in Siavelis' analysis. 
 
 %The president may remove the urgency at will, with immediate effects. With the exception of messages to the conference, the deadline is for the receiving chamber only, and urgency messages expire at the end of the ordinary period on March 10th every year.
 
 %% The similarity between relative figures in panels II (passed bills) and III (urgency) suggests, coincident with \citet{aleman.navia.UrgChi.2009}, that urgency and success correlate strongly: the passage rate of members' bills declared urgent skyrocketed to 48 percent, up from 7 percent altogether (the difference is small for executive bills). But concluding that urgency improves bills' odds misses that the reverse is also possible, proposals with better prospects in Congress strategically receiving the bulk of urgency messages---the problem of selection bias \citep[cf.][]{jacobson.kernell.1983}. 
 
-What remains less clear is the mechanism improving the odds of bills targeted by higher-degree urgency. Scholars have speculated that the value of the urgency authority lies in its signaling capacity. Quoting a former legal chief of staff at the Presidency, \citeauthor{berrios.gamboa.fiscChile.2006} describe `one month' notices as ``merely symbolic, exerting no real pressure on Congress'' (p.~117). Likewise, \citeauthor{aleman.navia.UrgChi.2009} see degrees of urgency as ``signals of presidential attention'' (p.~404). The assembly may face political costs of ignoring or rejecting salient proposals. 
+What remains less clear is the mechanism improving the odds of bills targeted by higher-degree urgency. Scholars have speculated that the value of the urgency authority lies in its signaling capacity. Quoting a former legal chief of staff at the Presidency, \citeauthor{berrios.gamboa.fiscChile.2006} describe `one month' notices as ``merely symbolic, exerting no real pressure on Congress'' (p.~117). Likewise, \citeauthor{aleman.navia.UrgChi.2009} see degrees of urgency as ``signals of presidential attention'' (p.~404). The assembly may face political costs by ignoring or rejecting salient proposals. 
 
-Our argument is different. The next section advances the notion that the urgency authority's importance lies not in expediting the legislative process, nor in signaling proposal salience for the executive. In Chile, the urgency authority matters because it gives the bills it targets a key procedural distinction: restrictive floor consideration rules.  
+We present a different argument. The next section advances the notion that the importance of urgency authority lies not in expediting the legislative process, nor in signaling proposal salience. In Chile, urgency authority gives the bills it targets a key procedural distinction: restrictive floor consideration rules.
 
 %% % THIS IS A PUZZLE FOR ANOTHER PAPER
 %% % latex table generated in R 3.1.2 by xtable 1.7-4 package
@@ -211,24 +215,24 @@ Our argument is different. The next section advances the notion that the urgency
 
 \section{Restrictive rules}
 
-In the remainder and unless otherwise noted, by urgency we mean `act now' and `two week' messages only (`one month' messages do not attach a restrictive rule in the plenary). Our argument here joins a growing literature on restrictive rules in legislatures worldwide.\footnote{See \citet{dion.huber.1996,doring.restrictiveRules.2003,huber.1996a,krehbielRestrictiveRules1997,heller.2001,weingast.1992,schickler.richRules1997,cox.mccubbins.1997,amorim.cox.mccubbins.2003,calvo.2014argBook,sin.2014,denhartog.2004phd}, among others.} 
+In the remainder and unless otherwise noted, by urgency we mean `act now' and `two week' messages only, as these are the only types that are consequential (`one month' messages do not attach a restrictive rule in the plenary). Our argument here joins a growing literature on restrictive rules in legislatures worldwide.\footnote{See \citet{dion.huber.1996,doring.restrictiveRules.2003,huber.1996a,krehbielRestrictiveRules1997,heller.2001,weingast.1992,schickler.richRules1997,cox.mccubbins.1997,amorim.cox.mccubbins.2003,calvo.2014argBook,sin.2014,denhartog.2004phd}, among others.} 
 
 \begin{table}
-\begin{center}
+\centering
+\caption{One proposal and two amendments}\label{T:example}
 \noindent \begin{tabular}{llc}
        & original version                   & amendment                                        \\ \hline
 Art 1. & appropriate \$200                  & \$300                                            \\
-Art 2. & split in two equal parts           & $(\frac{1}{4}, \frac{3}{4})$ split \\
+Art 2. & split in two equal parts $(\frac{1}{2}, \frac{1}{2})$          & $(\frac{1}{4}, \frac{3}{4})$ split \\
 Art 3. & one for students, one for teachers & ---                                              \\
 \end{tabular}
-\end{center}
-\caption{One proposal and two amendments}\label{T:example}
 \end{table}
 
-A simple illustrative example of a bill and two amendments will ease exposition. The proposal is executive-initiated and aims at offering student grants while also paying for teacher compensations. Three articles, summarized in Table \ref{T:example}, make it up. The first funds the program, appropriating a total \$200. The second splits the funds into equal parts. And the third allocates the parts. So, if approved, students and teachers would receive \$100 each. To add tension, assume a prior commitment of \$150 for teachers. To honor this, a member offers an amendment (\emph{indicación}) to article 1. If approved, this would beef up funds to \$300. One problem immediately arises: the Chilean executive has exclusive power to introduce legislation increasing spending (Const.\ art.\ 65). Since the bill itself has already been introduced, it takes some interpretation to determine if the amendment is in fact constitutional or not. Committee chairs decide on the admissibility of amendments on such grounds---a decision that the Cámara's presiding officer can override.\footnote{Congress' organic law (arts.\ 24 and 25) leaves discretion to committee chairs and the presiding officer to declare amendments inadmissible. Non-germane amendments, or that increase spending, or those falling in areas of exclusive executive initiative, are explicitly mentioned as inadmissible.} This is a form of \emph{ex-ante} veto: if unwilling to appropriate extra money, the committee chair or the presiding officer could simply declare the amendment inadmissible. In which case, the distributive route remains practicable: less for students, more for teachers. An amendment to article 2, such that teachers get three-fourths of the \$200 fund, would honor the commitment---at the students' expense. And by leaving spending untouched, it should also make it harder for the chair and presiding officer to argue against admitting the second amendment. 
+A simple illustrative example of a bill and two amendments will ease exposition. In our example, we consider a proposal made by the executive that aims to offer student grants while also paying for teacher compensations. Three articles, summarized in Table \ref{T:example}, make it up. The first funds the program, appropriating a total \$200. The second splits the funds into equal parts. And the third allocates the parts. So, if approved, students and teachers would receive \$100 each. To add tension, assume a prior commitment of \$150 for teachers. To honor this, a member offers an amendment (\emph{indicación}) to article 1. If approved, this would beef up funds to \$300. One problem immediately arises: the Chilean executive has exclusive power to introduce legislation increasing spending (Const.\ art.\ 65). Since the bill itself has already been introduced, it takes some interpretation to determine if the amendment is in fact constitutional or not. Committee chairs decide on the admissibility of amendments on such grounds---a decision that the Lower Chamber's presiding officer can override.\footnote{The Constitutional Organic Law on Congress (arts.\ 24 and 25) leaves discretion to committee chairs and the presiding officer to declare amendments inadmissible. Non-germane amendments, or those that increase spending, or those falling in areas of exclusive executive initiative, are explicitly mentioned as inadmissible.} This is a form of \emph{ex-ante} veto: if unwilling to appropriate extra money, the committee chair or the presiding officer could simply declare the amendment inadmissible. In which case, the distributive route remains practicable: less for students, more for teachers. An amendment to article 2, such that teachers get three-fourths of the \$200 fund, would honor the commitment---at the students' expense. And by leaving spending untouched, it should also make it harder for the chair and presiding officer to argue against admitting the second amendment. 
 
 \begin{sidewaysfigure}
   \centering
+\caption{The voting agenda. Notation: $p$ is a project; $q$ the status quo; $p_1$, $p_2$, and $p_{12}$ are amendments, see text.}\label{f:agendaUrg}
     \begin{tikzpicture}
       \node[text width=10cm, text centered, anchor=north,fill=white] at (8.8125,-11) {\textbf{End}}; 
       %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
@@ -283,11 +287,11 @@ A simple illustrative example of a bill and two amendments will ease exposition.
       \node[below] at (7.25,-5) (g12) {$p_1$}; 
       \node[below] at (4.625,-3.5) (g1) {$p$}; 
       \node[below] at (7,-3.5) (g2) {$q$}; 
-      \node[below] at (13,-3.5) (g3) {$p$}; 
-      \node[below] at (10.625,-3.5) (g4) {$q$}; 
+      \node[below] at (13,-5) (g3) {$p$}; 
+      \node[below] at (10.625,-5) (g4) {$q$}; 
       \draw (4.625,-4.25) -- (g11)
             (4.625,-4.25) -- (g12)
-            (13,-4.25) -- (13,-5.25)
+%            (13,-4.25) -- (13,-5.25)
             (5.8125,-2.75) -- (g1)
             (5.8125,-2.75) -- (g2)
             (11.8125,-2.75) -- (g3)
@@ -307,20 +311,19 @@ A simple illustrative example of a bill and two amendments will ease exposition.
       \node[text width=10cm, text centered, anchor=north,fill=white] at (8.8125,1) {\textbf{Start}}; 
       %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
     \end{tikzpicture}  \\
-\caption{The voting agenda. Notation: $p$ is a project; $q$ the status quo; $p_1$, $p_2$, and $p_{12}$ are amendments, see text.}\label{f:agendaUrg}
 \end{sidewaysfigure}
 
-We use the example to stylize the evolution of legislative proposals, from introduction to passage, in order to see how urgencies affect it. We introduce some notation. The three-article project is $p$, and $q$ the status quo (where students and teachers get \$0 from this particular subsidy). Sub-indexes distinguish versions of $p$ with articles amended: $p_1$ has article 1 amended, $p_2$ has article 2 amended, and $p_{12}$ has both articles amended. Negotiation proceeds in four steps, schematized in Figure \ref{f:agendaUrg} as per \citet[]{schwartz.2008}.\footnote{See the Cámara's standing rules (\emph{Reglamento}), especially arts.\ 118--189.} 
+We use the example to stylize the evolution of legislative proposals, from introduction to passage, in order to illustrate how urgencies affect bills. We introduce some notation. The three-article project is $p$, and $q$ the status quo (where students and teachers get \$0 from this particular subsidy). Sub-indexes distinguish versions of $p$ with articles amended: $p_1$ has article 1 amended, $p_2$ has article 2 amended, and $p_{12}$ has both articles amended. Negotiation proceeds in four steps, schematized in Figure \ref{f:agendaUrg} as per \citet[]{schwartz.2008}.\footnote{See the Cámara's standing rules (\emph{Reglamento}), especially arts.\ 118--189.} 
 
 \begin{enumerate}
-\item The question of amendment $p_1$'s admissibility into the \textbf{first report} starts it all. The choice is by the chamber's presiding officer, who has final authority to overturn the committee chair's prior decision. Admitting $p_1$ substantially complicates down the tree. 
-\item The bill's \textbf{first plenary reading} follows (rules call it \emph{discusión general}). The question here is whether the full project should be admitted for consideration or not, ending the legislative process at the status quo: $p$ v. $q$. Next, a vote to also admit the amendment (if any) follows. Project $p_1$ (amendment admitted) or $p$ (not) is immediately referred back to committee for a second report. 
-\item If the committee concurs, then the \textbf{second report} is the outcome of the first reading. But this is an opportunity to offer new amendments, by committee members or by private diputados (with one-third plenary backing). The committee chair and presiding officer can fail to admit these amendments too. For the sake of simplicity, the choice here is just on article 2, but there is a world of possibilities---more re-definitions, more articles, or fewer. When amended, the second report is $p_2$ or $p_{12}$, depending on the first reading being $p$ or $p_1$, respectively. 
+\item The question of amendment $p_1$'s admissibility into the \textbf{first report} starts it all. The choice is by the chamber's presiding officer, who has final authority to overturn the committee chair's prior decision. Admitting $p_1$ gives way to a course of play that substantially complicates down the tree. 
+\item The bill's \textbf{first plenary reading} follows (rules call it \emph{discusión general}). The question here is whether the full project should be admitted for consideration or not. If not, the legislative process ends and the status quo prevails: $p$ v. $q$. Next, a vote to also admit the amendment (if any) follows. Project $p_1$ (amendment admitted) or $p$ (not) is immediately referred back to committee for a second report. 
+\item If the committee concurs, then the \textbf{second report} is the outcome of the first reading. But this is an opportunity to offer new amendments, by committee members or by legislators external to the committee (with one-third plenary backing). The committee chair and the presiding officer can fail to admit these amendments too. For the sake of simplicity, the choice here is just on article 2, but there is a world of possibilities---more re-definitions, more articles, or fewer. When amended, the second report is $p_2$ or $p_{12}$, depending on the first reading being $p$ or $p_1$, respectively. 
 \item The \textbf{second reading} proceeds one article at a time (\emph{discusión particular}). Importantly, this excludes the subset of articles that were not amended/added/removed in previous steps. This subset (which may include every article if none were amended) is considered adopted with no plenary vote. Rejecting article 1's amendment makes the project lose sub-index 1; likewise with article 2. So when $p_{12}$ is the second report, the plenary can accept one amendment, the other, both, or neither---as in the bottom row of Figure \ref{f:agendaUrg}. 
 \end{enumerate}
 
 
-We underline how the process shortens and becomes simpler when the proposal is urgent. This is a key intuition from \citet{sotoCongChile2015}: when the executive issues an urgency message, \emph{the bill takes a procedural shortcut}. As per the Cámara's standing rules (arts.~188--9), urgent bills receive no second committee report, and the first and second plenary readings (\emph{discusiones general y particular} take place at once. An additional caveat, which we do not elaborate, is that amendments rejected in committee will only be admitted for plenary reading if signed by thirty deputies, including at least three committee chairs.
+We underline how the process shortens and becomes simpler when the proposal is urgent. This is a key intuition from \citet{sotoCongChile2015}: when the executive issues an urgency message, \emph{the bill takes a procedural shortcut}. As per the Lower Chamber's standing rules (arts.~188--9), urgent bills receive no second committee report, and the first and second plenary readings (\emph{discusiones general y particular} take place at once.\footnote{An additional caveat, which we do not elaborate, is that amendments rejected by the committee will only be admitted for plenary reading if signed by thirty deputies, including at least three committee chairs.} 
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% ReglamDip arts 188 y 189: %%
@@ -342,9 +345,9 @@ We underline how the process shortens and becomes simpler when the proposal is u
 %% La discusión de estos proyectos se hará en general y particular a la vez. No serán sometidos a segundo informe.
 %% La Ley Orgánica no menciona nada acerca de restrictive rules. 
 
-The urgency authority therefore equips the executive with the ability to apply a restrictive rule towards plenary consideration. The restriction consists of precluding the second round of amendments. Figure \ref{f:agendaUrg} portrays this as a break mid-way in the consideration process. With urgent consideration, when the presiding officer admits $p_1$ the plenary's choice set includes $q$, $p$, and $p_1$ only. At it most restrictive---when the presiding officer removed $p_1$ from the menu---the plenary is presented with a take-it-or-leave-it urgent proposal $p$.
+The urgency authority therefore equips the executive with the ability to apply a restrictive rule towards plenary consideration. The restriction consists of precluding the second round of amendments. Figure \ref{f:agendaUrg} portrays this as a break mid-way in the consideration process. With urgent consideration, when the presiding officer admits $p_1$ the plenary's choice set includes $q$, $p$, and $p_1$ only. At its most restrictive---when the presiding officer removes $p_1$ from the menu---the plenary is presented with a take-it-or-leave-it urgent proposal $p$.
 
-The toolbox of formidable legislative powers of the Chilean executive includes restrictive floor consideration rules. The president therefore plays the role of the Rules committee in the U.S.\ House---something we elaborate in the closing section. We next offer an explanation of the president's choice of rules in the legislative process.
+This is to say, therefore, that the toolbox of formidable legislative powers of the Chilean president includes the ability to impose restrictive floor consideration rules. In Chile, the president plays the role played by the powerful Rules Committee in the U.S.\ House. We elaborate on this in the closing section. In the next section we offer an explanation of the Chilean president's choice of rules in the legislative process. 
 
 %% Un perfil de preferencia para ilustrar podria ser el siguiente:
 %% \begin{itemize}
@@ -354,8 +357,12 @@ The toolbox of formidable legislative powers of the Chilean executive includes r
 
 \section{Extending a model of restrictive rules to Chile}
 
+\vp{En el pdf version 09 la figura queda antes del título de esta sección, debería quedar después porque si bien no importa dónde dentro de una sección, entre secciones me parece que confunde}
+\emm{En principio, ya lo he cambiado.}
+
 \begin{figure}
-  \begin{center}
+  \centering
+    \caption{The president rules game. The dashed branch may be practicable, or not.}\label{F:game}
     \tikzstyle{mid}=[circle,draw]
     \begin{tikzpicture}
       % \node[rectangle,draw] (n) at (0,0) {Nature};
@@ -363,11 +370,11 @@ The toolbox of formidable legislative powers of the Chilean executive includes r
       \node[mid] at (1.5,-0.25) (c) {\emph{C}};
       \node[mid] at (4,1) (p) {\emph{P}};
       \node[mid] at (6.5,1) (f) {\emph{F}};
-      \node at (4,-1.5) (ce) {$x_0$};
+      \node at (4,-1.5) (ce) {$q$};
       \node at (6.5,2.25) (pe1) {$x_F$};
-      \node at (6.5,-0.25) (pe2) {$x_0$};
+      \node at (6.5,-0.25) (pe2) {$q$};
       \node at (9,2.25) (fe1) {$x_C$};
-      \node at (9,-0.25) (fe2) {$x_0$};
+      \node at (9,-0.25) (fe2) {$q$};
       % \node at (0,0.7) {\small{Strategies:}}; \node at (2,0.7)
       % {\footnotesize{---}}; \node at (4,0.7) {\footnotesize{$x^*$}};
       % \node at (6,0.7) {\footnotesize{$y^*(x)$}}; \node at (8,0.7)
@@ -387,25 +394,130 @@ The toolbox of formidable legislative powers of the Chilean executive includes r
                     edge node [below, sloped] {\footnotesize{reject}} (fe2);
       \path[-o, dashed] (p) edge node [below, sloped] {\footnotesize{veto}} (pe2);
     \end{tikzpicture}
-    \caption{The president rules game. The dashed branch may be practicable, or not.}\label{F:game}
-  \end{center}
 \end{figure}
 
-We stylize the Chilean urgency authority as a game of restrictive procedures inspired by \citet{dion.huber.1996}, with the president in the role of the Rules committee in the U.S.\ House of Representatives. Figure \ref{F:game} portrays the game's extended form.
+We stylize the Chilean urgency authority as a game of restrictive procedures inspired by \citet{dion.huber.1996}, with the president in the role that the Rules Committee has in the U.S.\ House of Representatives. Figure \ref{F:game} portrays the game's extended form.
 
-Unless there is unanimous support to suspend the chamber's rules, every proposal requires a committee report prior to floor consideration. The committee with jurisdiction on a given proposal starts the game, choosing whether or not to report the bill to the floor. No explicit discharge procedure was found in the congressional standing orders, suggesting it is the same---unanimous consent---to consider a bill without prior committee referral. This confers gate-keeping power to committees over policy in their jurisdiction: when the committee withholds the report, the game ends with policy at the status quo $x_0$. Chilean committees are no different in this respect from those in the U.S./ Congress. If a report is produced, the committee can approve the proposal in whole or in part, amend it, make additions, or reject it (Cámara standing rule 287.8). We interpret this as (positive) agenda power to locate the proposal in policy space: $x_C \in [0,1]$. The president moves next. 
+The main features of this game are as follows. Unless there is unanimous support to suspend the chamber's rules, every proposal requires a committee report prior to floor consideration (Organic Law, art.~21). The committee with jurisdiction over a given proposal starts the game, choosing whether or not to report the bill to the floor. No explicit discharge procedure was found in the congressional standing orders, suggesting it is the same---unanimous consent---to consider a bill without prior committee referral. This confers gate-keeping power to committees over policy in their jurisdiction: when the committee withholds a report, the game ends with policy at the status quo $q$. Chilean committees are no different in this respect from those in the U.S.\ Congress. If a report is produced, the committee can approve the proposal in whole or in part, amend it, make additions, or reject it (Cámara standing rule 287.8). We interpret this as (positive) agenda power to locate the proposal in policy space: $x_C \in [0,1]$. The president moves next. 
 
-The president's choice set has three alternatives: let the bill proceed under standard floor consideration; declare it urgent; or issue a veto. Standard consideration ends the game with policy at $x_F$. By navigating the plenary session with an open rule, amendments reshape the bill to the floor's liking. As in \citet{shepsle.1979}, we take $x_F$ to be the floor median's ideal point, corresponding to a game of full plenary influence. The next alternative, urgency, invokes the restrictive consideration rule and presents the floor with a take-it-or-leave-it offer. Unable to amend the proposal, the floor, who moves after the urgency, must choose between the reported bill $x_C$ or the status quo, as in \citep{romer.rosenthal.1978}. The final presidential alternative, the veto, ends the game at the status quo---the formal equivalent of the rule denial in Dion and Huber's procedural stage.
+The president's choice set has three alternatives: let the bill proceed under standard floor consideration; declare it urgent; or issue a veto. Standard consideration ends the game with policy at $x_F$. By navigating the plenary session with an open rule, amendments reshape the bill to the floor's liking. As in \citet{shepsle.1979}, we take $x_F$ to be the floor median's ideal point, corresponding to a game of full plenary influence. The next alternative, urgency, invokes the restrictive consideration rule and presents the floor with a take-it-or-leave-it offer. Unable to amend the proposal, the floor, which moves after the bill was marked urgent, must choose between the reported bill $x_C$ or the status quo, as in \citep{romer.rosenthal.1978}. The final presidential alternative, the veto, may end the game at the status quo---the formal equivalent of the rule denial in Dion and Huber's procedural stage.
 
-This ``veto'' is a stylization of events taking place much later in the actual legislative process, after the approved bill lands in the president's desk. For the executive veto to exert an influence so much earlier in the game, players must entertain the expectation that it will be sustained, effectively reinstating the status quo. This branch will therefore not be practicable when there is no way to fully discard the possibility of a veto override. The dashed line in Figure \ref{F:game} indicates that the branch may or may not be part of the president's choice set. We analyze versions of the game with and without the dashed line. 
+\vp{But this [open rule] returns the bill to the committee, no?}
+\emm{Presumably... but model totally ignores this. Simplistic? Justifiable? May need some elaboration.}
+
+%This ``veto'' is a stylization of events taking place much later in the actual legislative process, after the approved bill lands on the president's desk. For the executive veto to exert an influence so much earlier in the process, players must entertain the expectation that it will be sustained, effectively reinstating the status quo. This tree branch will therefore not be practicable when there is no way to fully discard the possibility of a veto override. The dashed line in Figure \ref{F:game} indicates that the branch may or may not be part of the president's choice set. We analyze versions of the game with (``veto will be sustained'') and without (``veto will be overridden'') the dashed line. 
+
+This ``veto'' is a stylization of events taking place much later in the actual legislative process, after the approved bill lands on the president's desk. The specific features of the presidential veto in Chile call for a caveat. The veto takes on different forms in Chile, such that the president may choose to veto the bill completely (total veto), or do a number of things to alter the bill partially.\footnote{The presidnet may delete parts of the bill, add parts to the bill, and also change parts of the bill (which combines deleting and adding).} For the executive veto to exert an influence so much earlier in the game, players must entertain the expectation that it will be sustained, effectively reinstating the status quo. In Chile, between 1990 and 2014 only one total veto took place, and it was not overridden---so while the likelihood of total vetoes and of overrides are both low, neither cannot be completely discarded. This branch will therefore not be practicable when there is no way to fully discard the possibility of a veto override. The dashed line in Figure \ref{F:game} indicates that the branch may or may not be part of the president's choice set. We analyze versions of the game with and without the dashed line. 
 
 \begin{figure}
-  \begin{center}
+  \centering
+  \caption{Illustration of the equilibrium proposal when the veto is practicable (v) or not (\~v)}\label{F:example}
+  \begin{tikzpicture}[scale=.9]
+    \draw (0,0) -- (13,0);% node[right] {$q \in X$};
+    \draw[dashed] (2,0) -- (3,0.5) -- (4,0);
+    \draw[dashed] (2,0) -- (7.25,2.625) -- (12.5,0);
+    \draw (0,0.1) -- (0,-0.1) node[below=-0.1] {$0$}
+    (1,0.1) -- (1,-0.1) node[below=-0.1] {\textcolor{gray}{$P_C$}}
+    (2,0.1) -- (2,-0.1) node[below=-0.1] {$q$}
+    (3,0.1) -- (3,-0.1) node[below=-0.1] {$P$}
+    (4,0.1) -- (4,-0.1) node[below=-0.1] {$P_q$}
+    (5,0.1) -- (5,-0.1) node[below=-0.1] {$C$}
+    (7.25,0.1) -- (7.25,-0.1) node[below=-0.1] {$F$}
+    (9.5,0.1) -- (9.5,-0.1) node[below=-0.1] {\textcolor{gray}{$F_C$}}
+    (12.5,0.1) -- (12.5,-0.1) node[below=-0.1] {$F_q$}
+    (13,0.1) -- (13,-0.1) node[below=-0.1] {$1$};
+    \draw[->] (4,.5) node[above=-0.1] {v} -- (4,.15);
+    \draw[->] (5,.5) node[above=-0.1] {\~v} -- (5,.15);
+  \end{tikzpicture}
+\end{figure}
+
+Model analysis is analogous to \citet{dion.huber.1996}. The game has a unique, sub-game perfect equilibrium that we do not derive formally here.\footnote{Equilibrium is akin to \citet{magar.nd,romer.rosenthal.1978,cox.mccubbins.2005,gerber.1996}. There seem to be minor inconsistencies between the equilibrium that Dion and Huber portray in their Figure 1 and ours here. If this paper is well-received, we might elaborate the full analysis and track inconsistencies in a technical appendix.} We elaborate the bargaining logic with the example in Figure \ref{F:example}. $P$, $C$, and $F$ represent the ideal points of the president, the committee, and the floor, respectively, while $q$ is the status quo. $F_q$ is the reflection of $q$ on $F$ (more precisely, the symmetric reflection of $q$ in space using $F$ as axis). Other relevant reflections are noted likewise; some appear in gray and will be relevant later. As the model assumes standard Euclidian preferences and reflections point to equidistance in the opposite side of an ideal point, preference is easily gauged: the floor finds policy under the larger dashed pyramid ($x_C \in [q,F_q]$) preferable to the status quo; likewise, the president prefers policy under the smaller pyramid ($x_C \in [q,P_q]$) to the status quo. 
+
+Deriving optimal proposal and consideration regime is trivial. Proceeding backwards in the game tree, the floor will accept proposals under the larger pyramid, reject the rest. So everyone anticipates that urgent consideration of proposal $x_C \in [q,F_q]$ beats the status quo. Also, because in the example $F$ is outside the smaller pyramid, all anticipate that the president discards standard consideration ($x_F=F$ would be the outcome). Therefore, when (1) $x_C$ is inside the smaller pyramid, or (2) the veto branch is impracticable, the president chooses urgent consideration; otherwise s/he vetoes. Proposal $x_C=P_q$ meets conditions to avoid a practicable veto while maximizing committee welfare (the arrow with a v above points to it in the Figure). With impracticable veto the committee can afford to send $x_C=C$ (the arrow with \~v on top).
+
+\begin{figure}
+  \centering
+    \caption{Comparative statics with variable status quo}\label{F:predictions}
     \scalebox{.85}{
       \begin{tabular}{l} 
-        \textbf{Profile I:} $C< P< F$ \\ 
+        \textbf{Profile I:} $P < C < F$ \\ 
         \begin{tikzpicture}[scale=.9]
-          \draw (0,0) -- (13,0);% node[right] {$x_0 \in X$};
+          \draw (0,0) -- (13,0);% node[right] {$q \in X$};
+          \draw[dashed] (1.75,0) -- (3.75,0.67) -- (5.75,0);
+          \draw[dashed] (5.75,0) -- (8,.75) -- (10.25,0);
+          \draw (0,0.1) -- (0,-0.1) node[below=-0.1] {$0$}
+          (1.75,0.1) -- (1.75,-0.1) node[below=-0.1] {$P_C$}
+          (3.75,0.1) -- (3.75,-0.1) node[below=-0.1] {$P$}
+          (5.75,0.1) -- (5.75,-0.1) node[below=-0.1] {$C$}
+          (8,0.1) -- (8,-0.1) node[below=-0.1] {$F$}
+          (10.25,0.1) -- (10.25,-0.1) node[below=-0.1] {$F_C$}
+          (13,0.1) -- (13,-0.1) node[below=-0.1] {$1$};
+          \node at (-2,-2.7) {\footnotesize{Outcome}};
+          \node at (-2,-2.2) {\footnotesize{Consideration}};
+          \node at (-2,-1.7)  {\footnotesize{Proposal}};
+          \node at (-2,-1.2)  {\footnotesize{Status quo}};
+          \node at (15,-1.2)  {\footnotesize{$\leftarrow$ veto will}};
+          \node at (15,-1.7)  {\footnotesize{be sustained}};
+          \node at (1,-2.7)   {\footnotesize{$C$}};        % Outcome      
+          \node at (1,-2.2) {\footnotesize{urgent}};       % Consideration
+          \node at (1,-1.7)   {\footnotesize{$C$}};        % Proposal     
+          \node at (2.75,-2.7)   {\footnotesize{$P_q$}};        % Outcome      
+          \node at (2.75,-2.2) {\footnotesize{urgent}};       % Consideration
+          \node at (2.75,-1.7)   {\footnotesize{$P_q$}};        % Proposal     
+          \node at (5.875,-2.7)   {\footnotesize{$q$}};       % Outcome      
+          \node at (5.875,-2.2) {\footnotesize{---}};           % Consideration
+          \node at (5.875,-1.7)   {\footnotesize{gate-keep}};    % Proposal     
+          \node at (9.125,-2.7)   {\footnotesize{$F_q$}};       % Outcome      
+          \node at (9.125,-2.2) {\footnotesize{urgent}};        % Consideration
+          \node at (9.125,-1.7)   {\footnotesize{$F_q$}};       % Proposal     
+          \node at (11.625,-2.7)   {\footnotesize{$C$}};          % Outcome      
+          \node at (11.625,-2.2) {\footnotesize{urgent}};         % Consideration
+          \node at (11.625,-1.7)   {\footnotesize{$C$}};          % Proposal     
+          \filldraw[fill=black!50,draw=black!30]   (0,-1.35) rectangle node {\scriptsize{$0 \leq q < P_C$}} (1.75,-0.85);
+          \filldraw[fill=black!50,draw=black!30]   (1.75,-1.35) rectangle node {\scriptsize{$P_C \leq q < P$}} (3.75,-0.85);
+          \filldraw[fill=black!30,draw=black!30]  (3.75,-1.35) rectangle node {\scriptsize{$P \leq q < F$}} (8,-0.85);
+          \filldraw[fill=black!50,draw=black!30]  (8,-1.35) rectangle node {\scriptsize{$F \leq q < F_C$}} (10.25,-0.85);
+          \filldraw[fill=black!50,draw=black!30]  (10.25,-1.35) rectangle node {\scriptsize{$F_C \leq q \leq 1$}} (13,-0.85);
+        \end{tikzpicture} \\ \\
+
+        \begin{tikzpicture}[scale=.9]
+          %% \draw (0,0) -- (13,0);% node[right] {$q \in X$};
+          %% \draw[dashed] (1.75,0) -- (3.75,0.67) -- (5.75,0);
+          %% \draw[dashed] (5.75,0) -- (8,.75) -- (10.25,0);
+          %% \draw (0,0.1) -- (0,-0.1) node[below=-0.1] {$0$}
+          %% (1.75,0.1) -- (1.75,-0.1) node[below=-0.1] {$P_C$}
+          %% (3.75,0.1) -- (3.75,-0.1) node[below=-0.1] {$P$}
+          %% (5.75,0.1) -- (5.75,-0.1) node[below=-0.1] {$C$}
+          %% (8,0.1) -- (8,-0.1) node[below=-0.1] {$F$}
+          %% (10.25,0.1) -- (10.25,-0.1) node[below=-0.1] {$F_C$}
+          %% (13,0.1) -- (13,-0.1) node[below=-0.1] {$1$};
+          \node at (-2,-2.7) {\footnotesize{Outcome}};
+          \node at (-2,-2.2) {\footnotesize{Consideration}};
+          \node at (-2,-1.7)  {\footnotesize{Proposal}};
+          \node at (-2,-1.2)  {\footnotesize{Status quo}};
+          \node at (15,-1.2)  {\footnotesize{$\leftarrow$ veto will}};
+          \node at (15,-1.7)  {\footnotesize{be overridden}};
+          \node at (2.875,-2.7)   {\footnotesize{$C$}};          % Outcome      
+          \node at (2.875,-2.2) {\footnotesize{urgent}};         % Consideration
+          \node at (2.875,-1.7)   {\footnotesize{$C$}};          % Proposal     
+          \node at (6.875,-2.7)   {\footnotesize{$q$}};        % Outcome      
+          \node at (6.875,-2.2) {\footnotesize{---}};            % Consideration
+          \node at (6.875,-1.7)   {\footnotesize{gate-keep}};     % Proposal     
+          \node at (9.125,-2.7)   {\footnotesize{$F_q$}};        % Outcome      
+          \node at (9.125,-2.2) {\footnotesize{urgent}};         % Consideration
+          \node at (9.125,-1.7)   {\footnotesize{$F_q$}};        % Proposal     
+          \node at (11.625,-2.7)   {\footnotesize{$C$}};          % Outcome      
+          \node at (11.625,-2.2) {\footnotesize{urgent}};         % Consideration
+          \node at (11.625,-1.7)   {\footnotesize{$C$}};          % Proposal     
+          \filldraw[fill=black!50,draw=black!30]   (0,-1.35) rectangle node {\scriptsize{$0 \leq q < C$}} (5.75,-0.85);
+          \filldraw[fill=black!30,draw=black!30]  (5.75,-1.35) rectangle node {\scriptsize{$C \leq q < F$}} (8,-0.85);
+          \filldraw[fill=black!50,draw=black!30]  (8,-1.35) rectangle node {\scriptsize{$F \leq q < F_C$}} (10.25,-0.85);
+          \filldraw[fill=black!50,draw=black!30]  (10.25,-1.35) rectangle node {\scriptsize{$F_C \leq q \leq 1$}} (13,-0.85);
+        \end{tikzpicture} \\ \\
+
+        \textbf{Profile II:} $C \leq P \leq F$ \\ 
+        \begin{tikzpicture}[scale=.9]
+          \draw (0,0) -- (13,0);% node[right] {$q \in X$};
           \draw[dashed] (1.75,0) -- (3.5,0.65) -- (5.25,0);
           \draw[dashed] (3.5,0) -- (7.35,1.285) -- (11.25,0);
           \draw[dashed] (5.25,0) -- (7.35,.7) -- (9.45,0);
@@ -427,27 +539,27 @@ This ``veto'' is a stylization of events taking place much later in the actual l
           \node at (1,-2.7)   {\footnotesize{$P_F$}};           % Outcome      
           \node at (1,-2.2) {\footnotesize{urgent}};            % Consideration
           \node at (1,-1.7)   {\footnotesize{$P_F$}};           % Proposal     
-          \node at (4.55,-2.7)   {\footnotesize{$x_0$}};           % Outcome      
+          \node at (4.55,-2.7)   {\footnotesize{$q$}};           % Outcome      
           \node at (4.55,-2.2) {\footnotesize{---}};               % Consideration
           \node at (4.55,-1.7)   {\footnotesize{gate-keep}};        % Proposal     
-          \node at (8.425,-2.7)   {\footnotesize{$F_0$}};           % Outcome      
+          \node at (8.425,-2.7)   {\footnotesize{$F_q$}};           % Outcome      
           \node at (8.425,-2.2) {\footnotesize{urgent}};            % Consideration
-          \node at (8.425,-1.7)   {\footnotesize{$F_0$}};           % Proposal     
+          \node at (8.425,-1.7)   {\footnotesize{$F_q$}};           % Proposal     
           \node at (10.35,-2.7)   {\footnotesize{$P_F$}};           % Outcome      
           \node at (10.35,-2.2) {\footnotesize{urgent}};            % Consideration
           \node at (10.35,-1.7)   {\footnotesize{$P_F$}};           % Proposal     
           \node at (12,-2.7)   {\footnotesize{$C$}};             % Outcome      
           \node at (12,-2.2) {\footnotesize{urgent}};            % Consideration
           \node at (12,-1.7)   {\footnotesize{$C$}};             % Proposal     
-          \filldraw[fill=black!50,draw=black!30]   (0,-1.35) rectangle node {\scriptsize{$0 \leq x_0 < C_{P_F}$}} (1.75,-0.85);
-          \filldraw[fill=black!30,draw=black!30]  (1.75,-1.35) rectangle node {\scriptsize{$C_{P_F} \leq x_0 < F$}} (7.35,-0.85);
-          \filldraw[fill=black!50,draw=black!30]  (7.35,-1.35) rectangle node {\scriptsize{$F \leq x_0 < F_{P_F}$}} (9.5,-0.85);
-          \filldraw[fill=black!50,draw=black!30]  (9.5,-1.35) rectangle node {\scriptsize{$F_{P_F} \leq x_0 < F_C$}} (11.25,-0.85);
-          \filldraw[fill=black!50,draw=black!30]  (11.25,-1.35) rectangle node {\scriptsize{$F_C \leq x_0 \leq 1$}} (13,-0.85);
+          \filldraw[fill=black!50,draw=black!30]   (0,-1.35) rectangle node {\scriptsize{$0 \leq q < C_{P_F}$}} (1.75,-0.85);
+          \filldraw[fill=black!30,draw=black!30]  (1.75,-1.35) rectangle node {\scriptsize{$C_{P_F} \leq q < F$}} (7.35,-0.85);
+          \filldraw[fill=black!50,draw=black!30]  (7.35,-1.35) rectangle node {\scriptsize{$F \leq q < F_{P_F}$}} (9.5,-0.85);
+          \filldraw[fill=black!50,draw=black!30]  (9.5,-1.35) rectangle node {\scriptsize{$F_{P_F} \leq q < F_C$}} (11.25,-0.85);
+          \filldraw[fill=black!50,draw=black!30]  (11.25,-1.35) rectangle node {\scriptsize{$F_C \leq q \leq 1$}} (13,-0.85);
         \end{tikzpicture} \\ \\
 
         \begin{tikzpicture}[scale=.9]
-          \draw (0,0) -- (13,0);% node[right] {$x_0 \in X$};
+          \draw (0,0) -- (13,0);% node[right] {$q \in X$};
           \draw[dashed] (5,0) -- (6.5,0.5) -- (8,0);
           \draw[dashed] (5.75,0) -- (8,.78) -- (10.25,0);
           \draw (0,0.1) -- (0,-0.1) node[below=-0.1] {$0$}
@@ -465,99 +577,24 @@ This ``veto'' is a stylization of events taking place much later in the actual l
           \node at (2.9,-2.7)   {\footnotesize{$C$}};        % Outcome      
           \node at (2.9,-2.2) {\footnotesize{urgent}};       % Consideration
           \node at (2.9,-1.7)   {\footnotesize{$C$}};        % Proposal     
-          \node at (6.9,-2.7)   {\footnotesize{$x_0$}};      % Outcome      
+          \node at (6.9,-2.7)   {\footnotesize{$q$}};      % Outcome      
           \node at (6.9,-2.2) {\footnotesize{---}};          % Consideration
           \node at (6.9,-1.7)   {\footnotesize{gate-keep}};   % Proposal     
-          \node at (9.1,-2.7)   {\footnotesize{$F_0$}};      % Outcome      
+          \node at (9.1,-2.7)   {\footnotesize{$F_q$}};      % Outcome      
           \node at (9.1,-2.2) {\footnotesize{urgent}};       % Consideration
-          \node at (9.1,-1.7)   {\footnotesize{$F_0$}};      % Proposal     
+          \node at (9.1,-1.7)   {\footnotesize{$F_q$}};      % Proposal     
           \node at (11.625,-2.7)   {\footnotesize{$C$}};         % Outcome      
           \node at (11.626,-2.2) {\footnotesize{urgent}};        % Consideration
           \node at (11.625,-1.7)   {\footnotesize{$C$}};         % Proposal     
-          \filldraw[fill=black!50,draw=black!30]   (0,-1.35) rectangle node {\scriptsize{$0 \leq x_0 < C$}} (5.75,-0.85);
-          \filldraw[fill=black!30,draw=black!30]  (5.75,-1.35) rectangle node {\scriptsize{$C \leq x_0 < F$}} (8,-0.85);
-          \filldraw[fill=black!50,draw=black!30]  (8,-1.35) rectangle node {\scriptsize{$F \leq x_0 < F_C$}} (10.25,-0.85);
-          \filldraw[fill=black!50,draw=black!30]  (10.25,-1.35) rectangle node {\scriptsize{$F_C \leq x_0 \leq 1$}} (13,-0.85);
-        \end{tikzpicture} \\ \\
-
-        \textbf{Profile II:} $P \leq C \leq F$ \\ 
-        \begin{tikzpicture}[scale=.9]
-          \draw (0,0) -- (13,0);% node[right] {$x_0 \in X$};
-          \draw[dashed] (1.75,0) -- (3.75,0.67) -- (5.75,0);
-          \draw[dashed] (5.75,0) -- (8,.75) -- (10.25,0);
-          \draw (0,0.1) -- (0,-0.1) node[below=-0.1] {$0$}
-          (1.75,0.1) -- (1.75,-0.1) node[below=-0.1] {$P_C$}
-          (3.75,0.1) -- (3.75,-0.1) node[below=-0.1] {$P$}
-          (5.75,0.1) -- (5.75,-0.1) node[below=-0.1] {$C$}
-          (8,0.1) -- (8,-0.1) node[below=-0.1] {$F$}
-          (10.25,0.1) -- (10.25,-0.1) node[below=-0.1] {$F_C$}
-          (13,0.1) -- (13,-0.1) node[below=-0.1] {$1$};
-          \node at (-2,-2.7) {\footnotesize{Outcome}};
-          \node at (-2,-2.2) {\footnotesize{Consideration}};
-          \node at (-2,-1.7)  {\footnotesize{Proposal}};
-          \node at (-2,-1.2)  {\footnotesize{Status quo}};
-          \node at (15,-1.2)  {\footnotesize{$\leftarrow$ veto will}};
-          \node at (15,-1.7)  {\footnotesize{be sustained}};
-          \node at (1,-2.7)   {\footnotesize{$C$}};        % Outcome      
-          \node at (1,-2.2) {\footnotesize{urgent}};       % Consideration
-          \node at (1,-1.7)   {\footnotesize{$C$}};        % Proposal     
-          \node at (2.75,-2.7)   {\footnotesize{$P_0$}};        % Outcome      
-          \node at (2.75,-2.2) {\footnotesize{urgent}};       % Consideration
-          \node at (2.75,-1.7)   {\footnotesize{$P_0$}};        % Proposal     
-          \node at (5.875,-2.7)   {\footnotesize{$x_0$}};       % Outcome      
-          \node at (5.875,-2.2) {\footnotesize{---}};           % Consideration
-          \node at (5.875,-1.7)   {\footnotesize{gate-keep}};    % Proposal     
-          \node at (9.125,-2.7)   {\footnotesize{$F_0$}};       % Outcome      
-          \node at (9.125,-2.2) {\footnotesize{urgent}};        % Consideration
-          \node at (9.125,-1.7)   {\footnotesize{$F_0$}};       % Proposal     
-          \node at (11.625,-2.7)   {\footnotesize{$C$}};          % Outcome      
-          \node at (11.625,-2.2) {\footnotesize{urgent}};         % Consideration
-          \node at (11.625,-1.7)   {\footnotesize{$C$}};          % Proposal     
-          \filldraw[fill=black!50,draw=black!30]   (0,-1.35) rectangle node {\scriptsize{$0 \leq x_0 < P_C$}} (1.75,-0.85);
-          \filldraw[fill=black!50,draw=black!30]   (1.75,-1.35) rectangle node {\scriptsize{$P_C \leq x_0 < P$}} (3.75,-0.85);
-          \filldraw[fill=black!30,draw=black!30]  (3.75,-1.35) rectangle node {\scriptsize{$P \leq x_0 < F$}} (8,-0.85);
-          \filldraw[fill=black!50,draw=black!30]  (8,-1.35) rectangle node {\scriptsize{$F \leq x_0 < F_C$}} (10.25,-0.85);
-          \filldraw[fill=black!50,draw=black!30]  (10.25,-1.35) rectangle node {\scriptsize{$F_C \leq x_0 \leq 1$}} (13,-0.85);
-        \end{tikzpicture} \\ \\
-
-        \begin{tikzpicture}[scale=.9]
-          %% \draw (0,0) -- (13,0);% node[right] {$x_0 \in X$};
-          %% \draw[dashed] (1.75,0) -- (3.75,0.67) -- (5.75,0);
-          %% \draw[dashed] (5.75,0) -- (8,.75) -- (10.25,0);
-          %% \draw (0,0.1) -- (0,-0.1) node[below=-0.1] {$0$}
-          %% (1.75,0.1) -- (1.75,-0.1) node[below=-0.1] {$P_C$}
-          %% (3.75,0.1) -- (3.75,-0.1) node[below=-0.1] {$P$}
-          %% (5.75,0.1) -- (5.75,-0.1) node[below=-0.1] {$C$}
-          %% (8,0.1) -- (8,-0.1) node[below=-0.1] {$F$}
-          %% (10.25,0.1) -- (10.25,-0.1) node[below=-0.1] {$F_C$}
-          %% (13,0.1) -- (13,-0.1) node[below=-0.1] {$1$};
-          \node at (-2,-2.7) {\footnotesize{Outcome}};
-          \node at (-2,-2.2) {\footnotesize{Consideration}};
-          \node at (-2,-1.7)  {\footnotesize{Proposal}};
-          \node at (-2,-1.2)  {\footnotesize{Status quo}};
-          \node at (15,-1.2)  {\footnotesize{$\leftarrow$ veto will}};
-          \node at (15,-1.7)  {\footnotesize{be overridden}};
-          \node at (2.875,-2.7)   {\footnotesize{$C$}};          % Outcome      
-          \node at (2.875,-2.2) {\footnotesize{urgent}};         % Consideration
-          \node at (2.875,-1.7)   {\footnotesize{$C$}};          % Proposal     
-          \node at (6.875,-2.7)   {\footnotesize{$x_0$}};        % Outcome      
-          \node at (6.875,-2.2) {\footnotesize{---}};            % Consideration
-          \node at (6.875,-1.7)   {\footnotesize{gate-keep}};     % Proposal     
-          \node at (9.125,-2.7)   {\footnotesize{$F_0$}};        % Outcome      
-          \node at (9.125,-2.2) {\footnotesize{urgent}};         % Consideration
-          \node at (9.125,-1.7)   {\footnotesize{$F_0$}};        % Proposal     
-          \node at (11.625,-2.7)   {\footnotesize{$C$}};          % Outcome      
-          \node at (11.625,-2.2) {\footnotesize{urgent}};         % Consideration
-          \node at (11.625,-1.7)   {\footnotesize{$C$}};          % Proposal     
-          \filldraw[fill=black!50,draw=black!30]   (0,-1.35) rectangle node {\scriptsize{$0 \leq x_0 < C$}} (5.75,-0.85);
-          \filldraw[fill=black!30,draw=black!30]  (5.75,-1.35) rectangle node {\scriptsize{$C \leq x_0 < F$}} (8,-0.85);
-          \filldraw[fill=black!50,draw=black!30]  (8,-1.35) rectangle node {\scriptsize{$F \leq x_0 < F_C$}} (10.25,-0.85);
-          \filldraw[fill=black!50,draw=black!30]  (10.25,-1.35) rectangle node {\scriptsize{$F_C \leq x_0 \leq 1$}} (13,-0.85);
+          \filldraw[fill=black!50,draw=black!30]   (0,-1.35) rectangle node {\scriptsize{$0 \leq q < C$}} (5.75,-0.85);
+          \filldraw[fill=black!30,draw=black!30]  (5.75,-1.35) rectangle node {\scriptsize{$C \leq q < F$}} (8,-0.85);
+          \filldraw[fill=black!50,draw=black!30]  (8,-1.35) rectangle node {\scriptsize{$F \leq q < F_C$}} (10.25,-0.85);
+          \filldraw[fill=black!50,draw=black!30]  (10.25,-1.35) rectangle node {\scriptsize{$F_C \leq q \leq 1$}} (13,-0.85);
         \end{tikzpicture} \\ \\
 
         \textbf{Profile III:} $C <  F <  P$ \\ 
         \begin{tikzpicture}[scale=.9]
-          \draw (0,0) -- (13,0);% node[right] {$x_0 \in X$};
+          \draw (0,0) -- (13,0);% node[right] {$q \in X$};
           \draw[dashed] (1.75,0) -- (3.75,0.67) -- (5.75,0);
           \draw[dashed] (5.75,0) -- (8,.75) -- (10.25,0);
           \draw (0,0.1) -- (0,-0.1) node[below=-0.1] {$0$}
@@ -576,27 +613,27 @@ This ``veto'' is a stylization of events taking place much later in the actual l
           \node at (1,-2.7)   {\footnotesize{$F$}};              % Outcome      
           \node at (1,-2.2) {\footnotesize{standard}};           % Consideration
           \node at (1,-1.7)   {\footnotesize{$C$ or $F$}};       % Proposal     
-          \node at (3.75,-2.7)   {\footnotesize{$x_0$}};         % Outcome      
+          \node at (3.75,-2.7)   {\footnotesize{$q$}};         % Outcome      
           \node at (3.75,-2.2) {\footnotesize{---}};             % Consideration
           \node at (3.75,-1.7)   {\footnotesize{gate-keep}};      % Proposal     
           \node at (6.875,-2.7)   {\footnotesize{$F$}};          % Outcome      
           \node at (6.875,-2.2) {\footnotesize{standard}};       % Consideration
           \node at (6.875,-1.7)   {\footnotesize{$C$ or $F$}};   % Proposal     
-          \node at (9.125,-2.7)   {\footnotesize{$P_0$}};        % Outcome      
+          \node at (9.125,-2.7)   {\footnotesize{$P_q$}};        % Outcome      
           \node at (9.125,-2.2) {\footnotesize{urgent}};         % Consideration
-          \node at (9.125,-1.7)   {\footnotesize{$P_0$}};        % Proposal     
+          \node at (9.125,-1.7)   {\footnotesize{$P_q$}};        % Proposal     
           \node at (11.625,-2.7)   {\footnotesize{$F$}};         % Outcome      
           \node at (11.625,-2.2) {\footnotesize{standard}};        % Consideration
           \node at (11.625,-1.7)   {\footnotesize{$C$ or $F$}};     % Proposal     
-          \filldraw[fill=black!0,draw=black!30]   (0,-1.35) rectangle node {\scriptsize{$0 \leq x_0 < C_F$}} (1.75,-0.85);
-          \filldraw[fill=black!30,draw=black!30]  (1.75,-1.35) rectangle node {\scriptsize{$C_F \leq x_0 < F$}} (5.75,-0.85);
-          \filldraw[fill=black!0,draw=black!30]  (5.75,-1.35) rectangle node {\scriptsize{$F \leq x_0 < P$}} (8,-0.85);
-          \filldraw[fill=black!50,draw=black!30]  (8,-1.35) rectangle node {\scriptsize{$P \leq x_0 < P_F$}} (10.25,-0.85);
-          \filldraw[fill=black!0,draw=black!30]  (10.25,-1.35) rectangle node {\scriptsize{$P_F \leq x_0 \leq 1$}} (13,-0.85);
+          \filldraw[fill=black!0,draw=black!30]   (0,-1.35) rectangle node {\scriptsize{$0 \leq q < C_F$}} (1.75,-0.85);
+          \filldraw[fill=black!30,draw=black!30]  (1.75,-1.35) rectangle node {\scriptsize{$C_F \leq q < F$}} (5.75,-0.85);
+          \filldraw[fill=black!0,draw=black!30]  (5.75,-1.35) rectangle node {\scriptsize{$F \leq q < P$}} (8,-0.85);
+          \filldraw[fill=black!50,draw=black!30]  (8,-1.35) rectangle node {\scriptsize{$P \leq q < P_F$}} (10.25,-0.85);
+          \filldraw[fill=black!0,draw=black!30]  (10.25,-1.35) rectangle node {\scriptsize{$P_F \leq q \leq 1$}} (13,-0.85);
         \end{tikzpicture} \\ \\
 
         \begin{tikzpicture}[scale=.9]
-          %% \draw (0,0) -- (13,0);% node[right] {$x_0 \in X$};
+          %% \draw (0,0) -- (13,0);% node[right] {$q \in X$};
           %% \draw[dashed] (1.75,0) -- (3.75,0.67) -- (5.75,0);
           %% \draw[dashed] (5.75,0) -- (8,.75) -- (10.25,0);
           %% \draw (0,0.1) -- (0,-0.1) node[below=-0.1] {$0$}
@@ -615,39 +652,36 @@ This ``veto'' is a stylization of events taking place much later in the actual l
           \node at (1,-2.7)   {\footnotesize{$F$}};              % Outcome      
           \node at (1,-2.2) {\footnotesize{standard}};           % Consideration
           \node at (1,-1.7)   {\footnotesize{$C$ or $F$}};              % Proposal     
-          \node at (4.875,-2.7)   {\footnotesize{$x_0$}};         % Outcome      
+          \node at (4.875,-2.7)   {\footnotesize{$q$}};         % Outcome      
           \node at (4.875,-2.2) {\footnotesize{---}};             % Consideration
           \node at (4.875,-1.7)   {\footnotesize{gate-keep}};      % Proposal     
           \node at (10.5,-2.7)   {\footnotesize{$F$}};          % Outcome      
           \node at (10.5,-2.2) {\footnotesize{standard}};       % Consideration
           \node at (10.5,-1.7)   {\footnotesize{$C$ or $F$}};   % Proposal     
-          \filldraw[fill=black!0,draw=black!30]   (0,-1.35) rectangle node {\scriptsize{$0 \leq x_0 < C_F$}} (1.75,-0.85);
-          \filldraw[fill=black!30,draw=black!30]  (1.75,-1.35) rectangle node {\scriptsize{$C_F \leq x_0 < P$}} (8,-0.85);
-          \filldraw[fill=black!0,draw=black!30]  (8,-1.35) rectangle node {\scriptsize{$P \leq x_0 \leq 1$}} (13,-0.85);
+          \filldraw[fill=black!0,draw=black!30]   (0,-1.35) rectangle node {\scriptsize{$0 \leq q < C_F$}} (1.75,-0.85);
+          \filldraw[fill=black!30,draw=black!30]  (1.75,-1.35) rectangle node {\scriptsize{$C_F \leq q < P$}} (8,-0.85);
+          \filldraw[fill=black!0,draw=black!30]  (8,-1.35) rectangle node {\scriptsize{$P \leq q \leq 1$}} (13,-0.85);
         \end{tikzpicture} \\ \\
 
       \end{tabular}
     }
-    \caption{Comparative statics: equilibrium proposal and consideration}\label{F:predictions}
-  \end{center}
 \end{figure}
 
-The game's analysis is analogous to \citet{magar.nd} and \citet{dion.huber.1996} and will not be elaborated here.\footnote{There seem to be  inconsistencies between the equilibrium that Dion and Huber portray in their Figure 1 and that discussed here. If this paper is well-received, we might elaborate the full analysis and track inconsistencies in a technical appendix.} The game is solvable by backwards induction in order to derive a unique sub-game perfect equilibrium \citep[cf.][]{romer.rosenthal.1978,cox.mccubbins.2005,gerber.1996}. We instead perform comparative statics analysis to derive the equilibrium proposal and equilibrium consideration regime in Figure \ref{F:predictions}. We then use these for the derivation of empirical implications from our theoretical model. 
+We now derive empirical implications from our theoretical model by generalizing the bargaining logic across preference profiles in Figure \ref{F:predictions} and do comparative statics analysis. A preference profile is an ordering of players' ideal points in space. Only three of six mutually-exclusive and exhaustive profiles are portrayed: $P<C<F$, $C \leq P \leq F$, and $C<F<P$ (the other three are mirror-images). In each, the status quo is treated as a continuous variable $q \in [0,1]$. We aim to trace how changes in $q$ affect equilibrium elements---the proposal, the consideration regime, and the outcome---in each profile.
 
-\emm{Aquí faltará elaborar la descripción del equilibrio y los supuestos subyacentes. También explicar con pelos y señales la estática comparativa---que es muy similar a Dion y Huber, revisen el paper.}
+The example discussed falls under profile I (the status quo falls where $P_C \leq q < P$). The top panel in profile I represents situations where the veto branch of the game tree is practicable (the expectation is a sustained veto, as indicated at the right end), the lower panel situations where it is impracticable (a veto override is expected). The equilibrium proposal and consideration regime discussed above, and the equilibrium outcome are listed accordingly. The discrete zones into which the policy space subdivides (the dark-gray, light-gray, and white rectangles) isolate status quos with unchanging equilibrium elements. One or more equilibrium elements mutate for status quos falling in the adjacent zone(s).
 
+We pay attention to consideration regimes: in equilibrium, status quos in dark-gray zones trigger urgent consideration, and those in white zones trigger standard consideration. Status quos in light-gray zones lack a consideration regime because they push the committee to defend the status quo by withholding the bill's report (gate-keeping). Aided by auxiliary assumptions, empirical implications follow from comparative statics. We discuss three; many more hypotheses could be derived.
 
-\section{Hypotheses}
+\emm{Eric working here. Maybe drop hyp 1 and add one on co-coalition chair.}
 
-Comparative statics analysis of the game's equilibrium generates testable hypotheses. We discuss two, along with the auxiliary assumptions that are required. Many more could be derived.
-
-To start, note how the dark-gray zones predominate in Figure \ref{F:predictions} over the light-gray and white. Urgent consideration regime correspond to dark-gray, and the first theoretical prediction follows.
+To start, note how the dark-gray zones predominate in Figure \ref{F:predictions} over the light-gray and white. Urgent status corresponds to dark-gray, and the first theoretical prediction follows.
 
 \begin{description}
   \item [Hypothesis 1] Other things constant, urgent bill consideration is likelier than standard bill consideration. 
 \end{description}
     
-\noindent The supporting auxiliary assumptions are two: (1) a stochastic status quo with uniform probability density in $[0,1]$ is assumed; and (2) that preference profiles I, II, and III in the Figure are equiprobable. Auxiliary assumption can be relaxed, within limits, without invalidating this prediction. 
+\noindent The supporting auxiliary assumptions are two: (1) a stochastic status quo with uniform probability density in $[0,1]$ is assumed; and that (2) preference profiles I, II, and III in the Figure are equiprobable. Auxiliary assumption can be relaxed, within limits, without invalidating this prediction. 
 
 Also plain in the Figure is that white areas, corresponding to standard bill consideration, occur under profile III only. The president's and the committee's ideal points stand on either side of the floor median in profile III, but on the same side in I and II.
 
@@ -659,7 +693,13 @@ If these conditions are easy to see in theory, preference unobservability is an 
 
 \noindent Given presidential coalition discipline in Chile \citep{aleman.saiegh.coalUnityChile.2007,carey.2002}, an alternative version of Hypothesis 2 replaces `party' by `coalition' as measure of preferences. 
 
-%\emm{podríamos también discutir/probar una Hypothesis 3 sobre Pr(gatekeeping|co-partisan chair)?} 
+For the next implication, see what happens when the distance separating C and P remains fixed while the distance between C and F shrinks. The size of the gate-keeping light-gray zone either remains unchanged (in Figure \ref{F:predictions}'s top panel) or also shrinks (in the remainder). The latter is quite plain in the second to next-to-last panels, where F is the upper limit of the light-gray zone. In the bottom panel, F is within the light-gray zone, but its symmetric projection over C ($C_F$) is the lower limit: sliding $F$ towards $C$ achieves the same, sliding $C_F$ towards $C$ too. This projection game in the top panel involves both $P_F$ and $C_{p_F}$, sliding symmetrically in opposite directions to leave the size of the light-gray area unchanged. Reliance on the similar auxiliary assumptions generates the next theoretical prediction.
+
+\begin{description}
+  \item [Hypothesis 3] Other things constant, the likelihood of gate-keeping is never larger when the bill's reporting committee chair belongs to to the president's coalition than to the opposition. 
+\end{description}
+
+\noindent 
 
 \section{Urgency predictors}
 
@@ -669,7 +709,8 @@ The preference group includes two regressors. \emph{Co-partisan comm. chair} equ
 
 
 \begin{table}
-\begin{center}
+\centering
+\caption{The president's status in Congress and its committees. Percent chairs/seats by party. The president's coalition in 1998--2010 was Concertación; it was Alianza afterwards. Regional includes major-party splinters (from Christian Democrats and UDI). President's status in the Senate slightly and briefly oscillated above and below majority due to vacant seats. Source: prepared with information from \protect\url{www.camara.cl}.}\label{T:chairsSeats}
 \begin{tabular}{lrrrr}
                       & 1998--2002 & 2002--06 & 2006--10 & 2010--14 \\ \hline
 \mc{5}{c}{\textbf{~~Part A. Committee chairs, Cámara}} \\
@@ -702,8 +743,6 @@ Total                 & \emph{100}$^{\dagger}$ & \emph{100}      & \emph{100}  &
 % Total       & $100^*$  & $100^*$  & $100^{*\dagger}$ & 100      & 100      & 100      \\ \hline
 % \mc{7}{l}{\footnotesize{Notes: $^*$ vacant seats dropped; $^\dagger$ margin varied above and below 50/50 due to vacancies.}}
 % \end{tabular}
-\caption{The president's status in Congress and its committees. Percent chairs/seats by party. The president's coalition in 1998--2010 was Concertación; it was Alianza afterwards. Regional includes major-party splinters (from Christian Democrats and UDI). President's status in the Senate slightly and briefly oscillated above and below majority due to vacant seats. Source: prepared with information from \protect\url{www.camara.cl}.}\label{T:chairsSeats}
-\end{center}
 \end{table}
 
 Nearly one quarter (24 percent) of bills in the period were referred to more than one standing committee. The `other committee' count excludes the Finance committee, with jurisdiction over any form of new spending (and discussed next; multiple referrals go up to 32 percent of bills when the Finance committee is considered). Also excluded are special and bicameral committees. Since a single co-partisan chair among multiple referees suffices for our indicator to equal 1, we also include a dummy \emph{Multiple referrals} in the right side. It should capture any effect of agenda control sharing among several committee chairs in the proposal's negotiation. 
@@ -712,7 +751,7 @@ The bill features group includes two variables. \emph{Hacienda referral} equals 
 
 The other is \emph{Member bill}, equal 1 for legislator proposals, 0 for executive proposals. The strong negative bi-variate association of the proposing branch and the urgency authority should remain when other factors are held constant. An alternative specification of this variable consists of three separate dummies instead of one, with more precise control: \emph{Member bill, pres.~coal.-sp.} indicates legislator proposals with presidential coalition sponsors only (i.e., the sole sponsor or all co-sponsors belong to parties in the president's coalition at initiation), \emph{Member bill, opp.-sp.} those with opposition sponsors only, and \emph{Member bill, mix-sp.} those with a mixture of both. 
 
-The strategic environment group includes three controls. \emph{Pres.~approval} is the net presidential approval at bill initiation (i.e., the percentage who approve of the president's job minus the percentage who disapprove).\footnote{Data are from the Centro de Estudios Públicos bi-yearly face-to-face opinion polls, available at \url{www.cepchile.cl}.} To the extent that presidents with higher public approval are, all else constant, more successful in the legislative arena \citep{bond.fleisher.1990,aleman.navia.UrgChi.2009}, they should also need the urgency authority less often, and reliance should therefore drop. \emph{Introduced in Senate} equals 1 for bills initiated in the upper chamber, 0 otherwise. By virtue of being smaller, enjoying longer terms, and not being firmly in the president's coalition control during most of the period, bills sent or initiated in the Senate might present systematic differences in urgency usage. And \emph{Senate minority} equals 1 if the president's coalition had less than 50 percent of upper chamber seats when the bill was initiated, 0 otherwise.\footnote{Parties in the presidential and opposition coalitions were tied throughout most of the 1998--2006 Senate (majority briefly oscillating back and forth in the first years due to member indictments, impeachments, and deaths in both coalitions). Ties are coded as \emph{Senate minority} = 0.} Other things equal, presidents with insufficient partisan legislative resources in one chamber will find it harder to push statutory proposals through Congress, and might be more inclined to use the urgency to successfully navigate log-rolls through the plenary session.
+The strategic environment group includes three controls. \emph{Pres.~approval} is the net presidential approval at bill initiation (i.e., the percentage who approve of the president's job minus the percentage who disapprove).\footnote{Data are from the Centro de Estudios Públicos bi-yearly face-to-face opinion polls, available at \url{www.cepchile.cl}.} To the extent that presidents with higher public approval are, all else constant, more successful in the legislative arena \citep{bond.fleisher.1990,aleman.navia.UrgChi.2009}, they should also need the urgency authority less often, and reliance should therefore drop. \emph{Introduced in Senate} equals 1 for bills initiated in the upper chamber, 0 otherwise. By virtue of being smaller, enjoying longer terms, and not being firmly in the president's coalition control during most of the period, bills sent or initiated in the Senate might present systematic differences in urgency usage. And \emph{Senate majority} equals 1 if the president's coalition had 50 percent or more of upper chamber seats when the bill was initiated, 0 otherwise.\footnote{Parties in the presidential and opposition coalitions were tied throughout most of the 1998--2006 Senate (majority briefly oscillating back and forth in the first years due to member indictments, impeachments, and deaths in both coalitions). Ties are coded as \emph{Senate minority} = 0.} Other things equal, presidents with sufficient partisan legislative resources in both chambers will find it easier to push proposals through Congress, and might be less inclined to use the urgency to successfully navigate log-rolls through the plenary session.
 
 The timing group controls for the congressional cycle. \emph{Year remaining} measures the percentage of legislative year remaining at bill initiation. Legislative years in Chile begin at the end of the Summer break. So the variable adopts value 100 for proposals made on March 1 (the first day of the legislative year), and value 0 for proposals made February 28. Stationary effects should be captured by it. And \emph{Relax deadlines} equals 1 for bills initiated in July 2010 or later, 0 otherwise. It ought to capture any systematic shift in urgency usage attributable to the reform relaxing deadlines of high-degree notices five months into the 2010--14 Legislature. 
 
@@ -725,57 +764,53 @@ Given that observations from four Legislaturas with important differences in the
 % Date and time: Tue, Jul 11, 2017 - 03:17:40 AM
 % Requires LaTeX packages: dcolumn 
 \begin{table}%[!htbp]
-\centering 
-\begin{tabular}{@{\extracolsep{0pt}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} } 
-\hline \\[-1.8ex] 
- & \multicolumn{4}{c}{DV: Bill received urgency message} \\ 
-\\[-1.8ex] & \multicolumn{1}{c}{(1)} & \multicolumn{1}{c}{(2)} & \multicolumn{1}{c}{(3)} & \multicolumn{1}{c}{(4)}\\ 
-\\ [-1.8ex] 
-\hline \\[-1.8ex] 
- \emph{Co-partisan}     & .193^{**} & .172^{*} & .411^{***} & .381^{***} \\           
- \emph{comm.~chair}     & (.046) & (.076) & (<.001) & (.001) \\ [.75ex]               
- \emph{Multiple}        & .801^{***} & .776^{***} & .743^{***} & .748^{***} \\        
- \emph{referrals}       & (<.001) & (<.001) & (<.001) & (<.001) \\ [.75ex]            
- \emph{Hacienda}        & 1.787^{***} & 1.805^{***} & 1.738^{***} & 1.746^{***} \\    
- \emph{referral}        & (<.001) & (<.001) & (<.001) & (<.001) \\ [.75ex]            
- \emph{Member bill}     & -2.906^{***} &  &  &  \\                                    
-                        & (<.001) &  &  &  \\ [.75ex]                                 
- \emph{Member bill,}    &  & -2.757^{***} & -2.904^{***} & -2.888^{***} \\            
- \emph{pres. coal.-sp.} &  & (<.001) & (<.001) & (<.001) \\ [.75ex]                   
- \emph{Member bill,}    &  & -2.533^{***} & -2.691^{***} & -2.671^{***} \\            
- \emph{mix.-sponsored}  &  & (<.001) & (<.001) & (<.001) \\ [.75ex]                   
- \emph{Member bill,}    &  & -3.540^{***} & -3.686^{***} & -3.668^{***} \\            
- \emph{opp.-sponsored}  &  & (<.001) & (<.001) & (<.001) \\ [.75ex]                   
- \emph{Pres.}           & -.002 & -.001 & .022 & .009 \\                              
- \emph{approval}        & (.968) & (.992) & (.708) & (.882) \\ [.75ex]                
- \emph{Introduced}      & .303^{***} & .441^{***} & .428^{***} & .430^{***} \\        
- \emph{in Senate}       & (.006) & (<.001) & (.001) & (<.001) \\ [.75ex]              
- \emph{Senate}          & .118 & .151 &  &  \\                                    
- \emph{minority}        & (.488) & (.378) &  &  \\ [.75ex]                      
- \emph{Year}            & .094^{**} & .096^{**} & .087^{*} & .088^{*} \\              
- \emph{remaining}       & (.039) & (.036) & (.054) & (.051) \\ [.75ex]                
- \emph{Relax}           & .360^{*} & .326 &  &  \\                               
- \emph{deadlines}       & (.076) & (.110) &  & \\ [.75ex]                      
- %% \emph{2002-06 Leg.} &  &  & .075 &  \\                                            
- %%                     &  &  & (.668) &  \\ [.75ex]                                  
- %% \emph{2006-10 Leg.} &  &  & .646^{***} &  \\                                      
- %%                     &  &  & (<.001) &  \\ [.75ex]                                 
- %% \emph{2010-14 Leg.} &  &  & .948^{***} &  \\                                      
- %%                     &  &  & (<.001) &  \\ [.75ex]                                 
- Intercept              & -.864^{***} & -.850^{***} & -1.382^{***} & -.951^{***} \\   
-                        & (<.001) & (<.001) & (<.001) & (<.001) \\ [.75ex]             
-\hline \\[-1.8ex] 
-Effects & \multicolumn{1}{c}{none} & \multicolumn{1}{c}{none} & \multicolumn{1}{c}{fixed} & \multicolumn{1}{c}{mixed} \\ 
-Observations & \multicolumn{1}{c}{6,987} & \multicolumn{1}{c}{6,987} & \multicolumn{1}{c}{6,987} & \multicolumn{1}{c}{6,987} \\ 
-Log$L$ & \multicolumn{1}{c}{-1,718} & \multicolumn{1}{c}{-1,702} & \multicolumn{1}{c}{-1,688} & \multicolumn{1}{c}{-1,696} \\ 
-\% correct & \multicolumn{1}{c}{89} & \multicolumn{1}{c}{89} & \multicolumn{1}{c}{89} & \multicolumn{1}{c}{89} \\ 
-%% Akaike Inf. Crit. & \multicolumn{1}{c}{3,456.650} & \multicolumn{1}{c}{3,428.021} & \multicolumn{1}{c}{3,402.008} & \multicolumn{1}{c}{3,415.824} \\ 
-%% Bayesian Inf. Crit. &  &  &  & \multicolumn{1}{c}{3,504.898} \\ 
-\\ [-1.8ex] 
-\hline \\[-1.8ex] 
-  & \multicolumn{4}{r}{\footnotesize $^{*}$p$<$.1; $^{**}$p$<$.05; $^{***}$p$<$.01 (p-values in parentheses)} \\ 
-\end{tabular} 
+  \centering 
   \caption{Urgency predictors. Dependent variable indicates urgent bills. Model 3 includes fixed Legislatura effects (not reported). Model 4 estimates separate error terms by Legislatura. Method of estimation: generalized linear model (model 4), others with logit.}\label{t:urgenLogit}
+  \begin{tabular}{@{\extracolsep{0pt}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} } 
+    \hline \\[-1.8ex] 
+    & \multicolumn{4}{c}{DV: Bill received urgency message} \\ 
+    \\[-1.8ex] & \multicolumn{1}{c}{(1)} & \multicolumn{1}{c}{(2)} & \multicolumn{1}{c}{(3)} & \multicolumn{1}{c}{(4)}\\ 
+    \\ [-1.8ex] 
+    \hline \\[-1.8ex] 
+    \emph{Co-partisan}     &  .193^{**} &  &  &                                        \\
+    \emph{comm.~chair}     & (.046)    &  &  &                                         \\ [.75ex]
+    \emph{Coalition}       &  &  .403^{**} &  .429^{**} &  .414^{**}                   \\
+    \emph{comm.~chair}     &  & (.031)    & (.023)    & (.027)                         \\ [.75ex]
+    \emph{Multiple}        &  .801^{***} &  .829^{***} &  .845^{***} &  .842^{***}     \\
+    \emph{referrals}       & (<.001)    & (<.001)    & (<.001)    & (<.001)            \\ [.75ex] 
+    \emph{Hacienda}        & 1.787^{***} & 1.762^{***} & 1.743^{***} & 1.746^{***}     \\
+    \emph{referral}        & (<.001)   & (<.001)   & (<.001)   & (<.001)               \\ [.75ex]
+    \emph{Member bill}     & -2.906^{***} & -2.935^{***} & -3.040^{***} & -3.022^{***}  \\ 
+                           & (<.001)   & (<.001)   & (<.001)   & (<.001)               \\ [.75ex]
+    \emph{Pres.}           &  -.002 &  -.016 &  .011 &  -.010                          \\
+    \emph{approval}        & (.968)    & (.778)    & (.860)    & (.865)                \\ [.75ex]
+    \emph{Introduced}      &  .303^{***} &  .322^{***} &  .313^{***} &  .318^{***}     \\
+    \emph{in Senate}       & (.006)    & (.004)    & (.005)    & (.004)                \\ [.75ex]
+    \emph{Senate}          &  -.118 &  -.152 &  &                                      \\
+    \emph{majority}        & (.488)    & (.371)    &  &                                \\ [.75ex]
+    \emph{Year}            &  .094^{**} &  .091^{**} &  .083^{*} &  .084^{*}           \\
+    \emph{remaining}       & (.039)    & (.046)    & (.066)    & (.063)                \\ [.75ex]
+    \emph{Relax}           &  .360^{*} &  .318 &  &                                    \\
+    \emph{deadlines}       & (.076)    & (.111)    &  &                                \\ [.75ex]
+    %% \emph{2002-06 Leg.} &  &  &  -.054 &                                            \\
+    %%                     &  &  & (.749)    &                                         \\ [.75ex]
+    %% \emph{2006-10 Leg.} &  &  &  .380^{**} &                                        \\
+    %%                     &  &  & (.014)    &                                         \\ [.75ex]
+    %% \emph{2010-14 Leg.} &  &  &  .713^{***} &                                       \\
+    %%                     &  &  & (<.001)   &                                         \\ [.75ex]
+    Intercept              &  -.864^{***} & -1.117^{***} & -1.435^{***} & -1.159^{***}\\
+                           & (<.001)   & (<.001)   & (<.001)   & (<.001)             \\ [.75ex]
+    \hline \\[-1.8ex] 
+    Effects & \multicolumn{1}{c}{none} & \multicolumn{1}{c}{none} & \multicolumn{1}{c}{fixed} & \multicolumn{1}{c}{mixed} \\ 
+    Observations & \multicolumn{1}{c}{6,987} & \multicolumn{1}{c}{6,987} & \multicolumn{1}{c}{6,987} & \multicolumn{1}{c}{6,987} \\ 
+    Log$L$ & \multicolumn{1}{c}{-1,718} & \multicolumn{1}{c}{-1,718} & \multicolumn{1}{c}{-1,709} & \multicolumn{1}{c}{-1,716} \\ 
+    \% correct & \multicolumn{1}{c}{89} & \multicolumn{1}{c}{89} & \multicolumn{1}{c}{89} & \multicolumn{1}{c}{89} \\ 
+    %% Akaike Inf. Crit. & \multicolumn{1}{c}{3,456.650} & \multicolumn{1}{c}{3,455.668} & \multicolumn{1}{c}{3,440.519} & \multicolumn{1}{c}{3,449.989} \\ 
+    %% Bayesian Inf. Crit. &  &  &  & \multicolumn{1}{c}{3,511.655} \\ 
+    \\ [-1.8ex] 
+    \hline \\[-1.8ex] 
+    & \multicolumn{4}{r}{\footnotesize $^{*}$p$<$.1; $^{**}$p$<$.05; $^{***}$p$<$.01 (p-values in parentheses)} \\ 
+  \end{tabular} 
 \end{table} 
 
 Table \ref{t:urgenLogit} reports results.\footnote{Models were fitted with \texttt{R} base's \texttt{glm} and library \texttt{lme4}'s \citep{lme4.2015}.} The regression model performs satisfactorily. Predictors in the basic model 1 correctly classify 89 percent of the observations. A likelihood-ratio test of overall fit rejects the hypothesis that an intercept-only fit is as good as the model with predictors at below the .001 level. Coefficient estimates confirm that, controlling other factors in the model, \emph{Co-partisan comm.~chair} has a positive coefficient, as expected. And the effect achieves statistical significance at the .05 level (parentheses in the table report p-values). The predicted probability that an executive bill is declared urgent when referred to a committee with no co-partisan chair, holding all other regressors at their median, is .27, and goes up to .30 when referred to a committee chaired by a co-partisan of the president---a one-tenth hike. The effect conditional on other values of the control variables is illustrated more clearly through simulations performed below. There is statistical evidence in support of Hypothesis 2.  
@@ -801,11 +836,9 @@ Timing controls... not much. urgency more common at beginning than end of year. 
 The preliminary empirical model requires improvements. While the co-partisan chair coefficient is positive and significant, simulations reveal that there remains a good deal of noise in the estimation. Figure \ref{F:sims} portrays the predicted probability that a bill gets urgent status. Regressors in model 3 are held constant to simulate a bill sent by the executive to the Cámara in the 2010--14 Legislature, referred to Hacienda and just one standing committee. The president's approval is set to the median throughout the period. 
 
 \begin{figure}
-\begin{center}
- \includegraphics[width=.75\columnwidth]{../graphs/predictedPr.pdf}
-\end{center}
-\caption{Probability that bill declared urgent. Predictions from model 3. Scenario is...}
-\label{F:sims}
+  \centering
+    \caption{Probability that bill declared urgent. Predictions from model 3. Scenario is...}\label{F:sims}
+    \includegraphics[width=.75\columnwidth]{../graphs/predictedPr.pdf}
 \end{figure}
 
 It is clear that much uncertainty surrounds the predictions. If the signal of a co-partisan committee chair on urgency likelihood is statistically significant, the noise in the data remains important relative to the model's prediction ability. So much so that Monte Carlo simulation with model 3,\footnote{Simulations using model 4 requires procedures that we have not uncovered, as the standard variance-covariance matrix does not account for the full mixed-effects... will deal with this in a future iteration.} while allowing the legislative \emph{Year remaining} to vary along its range, cannot confidently distinguish the effect of a co-partisan committee chair on the predicted probability of an urgency message from random noise. The 80 percent confidence intervals of predicted probabilities in red (for a co-partisan committee chair) and blue (not) have substantial overlap. Clearly, the empirical model needs refinements.

@@ -1,3 +1,5 @@
+
+
 summary(fit4)
 
 sims4 <- with(tmpdat,

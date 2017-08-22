@@ -1,14 +1,18 @@
 * Minuta conference call <2017-08-14 Mon>
 
-1) *DONE* [ERIC] Sección de hipótesis
+0) NOTA: Ahora se pueden poner comentarios con \vp{}, con \gs{} o con \emm{}. Aparecerán en colores distintos.
 
-2) [ERIC] En análisis empírico, usar también dummy coCoalitionChair
+1) [ERIC] Sección de hipótesis
+   a) *DONE* Primeras dos hips.
+   b) *DONE* Tercera hip
+
+2) [ERIC] En análisis empírico, usar también dummy coCoalitionChair, quizás usar sólo dmember
 
 3) Non-findings de la literatura en términos de speed: discutir con esto
 
 4) Verificar si Soto habla sólo Discusión Inmediata o de Suma urgencia también (como nosotros)
 
-5) Verificar si solamente el ejecutivo puede poner una closed rule o si hay alguien más que pueda hacerlo
+5) Verificar en ley orgánica y reglamento si solamente el ejecutivo puede poner una closed rule o si hay alguien más que pueda hacerlo
 
 6) [VALE] Sección 4: desarrollar la conexión del veto parcial/enmendatorio con la urgencia
 
@@ -30,3 +34,11 @@
 More TO DOs (some minor)
 13) Q(EMM) How does urgency compare/relate to special/extraordinary sessions in Chile?
    A(VP) will look into practice, how it works.
+
+14) [ERIC] Reduce number of sections
+   a) *DONE* Merged hypotheses section to model section
+   b) Merge simulation section to either results section or to Discussion section
+
+15) El argumento opera sólo en la Cámara o también en el Senado? Qué nos dijeron los entrevistados?
+
+16) *DONE* [ERIC] Develop comparative statics 
