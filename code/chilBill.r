@@ -6580,6 +6580,26 @@ sel <- which(tmpdat$dateIn >= tmp[13] & tmpdat$dateIn < tmp[14]); tmpdat$yr[sel]
 sel <- which(tmpdat$dateIn >= tmp[14] & tmpdat$dateIn < tmp[15]); tmpdat$yr[sel] <- 2013
 sel <- which(tmpdat$dateIn >= tmp[15] & tmpdat$dateIn < tmp[16]); tmpdat$yr[sel] <- 2014
 #
+# for year 1,2,3,4 dummies
+tmp <- dmy(c("10-03-1999", "10-03-2000", "10-03-2001", "10-03-2002", "10-03-2003", "10-03-2004", "10-03-2005", "10-03-2006", "10-03-2007", "10-03-2008", "10-03-2009", "10-03-2010", "10-03-2011", "10-03-2012", "10-03-2013", "10-03-2014") , tz = "chile")
+tmpdat$yr14 <- NA
+sel <- which(                           tmpdat$dateIn < tmp[1]);  tmpdat$yr14[sel] <- 5
+sel <- which(tmpdat$dateIn >= tmp[1]  & tmpdat$dateIn < tmp[2]);  tmpdat$yr14[sel] <- 6
+sel <- which(tmpdat$dateIn >= tmp[2]  & tmpdat$dateIn < tmp[3]);  tmpdat$yr14[sel] <- 1
+sel <- which(tmpdat$dateIn >= tmp[3]  & tmpdat$dateIn < tmp[4]);  tmpdat$yr14[sel] <- 2
+sel <- which(tmpdat$dateIn >= tmp[4]  & tmpdat$dateIn < tmp[5]);  tmpdat$yr14[sel] <- 3
+sel <- which(tmpdat$dateIn >= tmp[5]  & tmpdat$dateIn < tmp[6]);  tmpdat$yr14[sel] <- 4
+sel <- which(tmpdat$dateIn >= tmp[6]  & tmpdat$dateIn < tmp[7]);  tmpdat$yr14[sel] <- 5
+sel <- which(tmpdat$dateIn >= tmp[7]  & tmpdat$dateIn < tmp[8]);  tmpdat$yr14[sel] <- 6
+sel <- which(tmpdat$dateIn >= tmp[8]  & tmpdat$dateIn < tmp[9]);  tmpdat$yr14[sel] <- 1
+sel <- which(tmpdat$dateIn >= tmp[9]  & tmpdat$dateIn < tmp[10]); tmpdat$yr14[sel] <- 2
+sel <- which(tmpdat$dateIn >= tmp[10] & tmpdat$dateIn < tmp[11]); tmpdat$yr14[sel] <- 3
+sel <- which(tmpdat$dateIn >= tmp[11] & tmpdat$dateIn < tmp[12]); tmpdat$yr14[sel] <- 4
+sel <- which(tmpdat$dateIn >= tmp[12] & tmpdat$dateIn < tmp[13]); tmpdat$yr14[sel] <- 1
+sel <- which(tmpdat$dateIn >= tmp[13] & tmpdat$dateIn < tmp[14]); tmpdat$yr14[sel] <- 2
+sel <- which(tmpdat$dateIn >= tmp[14] & tmpdat$dateIn < tmp[15]); tmpdat$yr14[sel] <- 3
+sel <- which(tmpdat$dateIn >= tmp[15] & tmpdat$dateIn < tmp[16]); tmpdat$yr14[sel] <- 4
+#
 # legislature dummies (periodo)
 tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
 tmpdat$dleg90 <- tmpdat$dleg94 <- tmpdat$dleg98 <- tmpdat$dleg02 <- tmpdat$dleg06 <- tmpdat$dleg10 <- tmpdat$legis <- 0
@@ -6627,18 +6647,26 @@ tmpdat$netApprovR <- c(scale(tmpdat$netApprov)) # rescale/center continuous vari
 ## # recode dsameCoal = 0 if sdamePres = 1
 ## sel <- which(tmpdat$dsamePty==1 & tmpdat$dsameCoal==1)
 ## tmpdat$dsameCoal[sel] <- 0
-#
+colnames(tmpdat)
+
+# [EM 23ago2017] Dentro del grupo dsameCoal==0 aún hay mucha varianza en el uso de urgencias. Falta hacer exploración descriptiva para detectar elementos que se correlacionan, y añadir más controles...
 #fit <- lm (dv ~ dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda + dmajSen + dinSen + pterm + legyr, data = tmpdat)
-fit1 <- glm(dv12 ~ dsamePty  + dmultiRef + dmocion                                    + drefHda + dmajSen + dinSen + legyrR + dreform2010 + netApprovR                  , data = tmpdat, family = binomial(link = logit))
+fit1 <- glm(dv12 ~ dsamePty  + dmultiRef + dmocion + drefHda + dmajSen + dinSen + legyrR + legyrR2 + dreform2010 + netApprovR                  , data = tmpdat, family = binomial(link = logit))
 ## fit2 <- glm(dv12 ~ dsamePty + dmultiRef + dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda + dmajSen + dinSen + legyrR + dreform2010 + netApprovR                   , data = tmpdat, family = binomial(link = logit))
 ## fit3 <- glm(dv12 ~ dsamePty + dmultiRef + dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda           + dinSen + legyrR               + netApprovR + as.factor(legis), data = tmpdat, family = binomial(link = logit))
-fit2 <- glm(dv12 ~ dsameCoal + dmultiRef + dmocion                                    + drefHda + dmajSen + dinSen + legyrR + dreform2010 + netApprovR                   , data = tmpdat, family = binomial(link = logit))
-fit3 <- glm(dv12 ~ dsameCoal + dmultiRef + dmocion                                    + drefHda           + dinSen + legyrR + legyrR2             + netApprovR + as.factor(legis), data = tmpdat, family = binomial(link = logit))
+## fit2 <- glm(dv12 ~ dmultiRef + dmocion + drefHda + dmajSen + dinSen + legyrR + legyrR2 + dreform2010 + netApprovR               + drefCiencia + drefComunic  + drefConst   
+## + drefCultura + drefDefensa + drefDDHH     + drefEco
+## + drefEduc    + drefFamilia +              + drefInterior
+## + drefMedAmb  + drefMineria + drefObras    + drefPesca
+## + drefRREE    + drefRecNatur+ drefRegimen  + drefSalud   
+## + drefSegurid + drefTrabajo + drefVivienda + drefZonas                  , data = tmpdat, family = binomial(link = logit))
+fit2 <- glm(dv12 ~ dsameCoal + dmultiRef + dmocion + drefHda + dmajSen + dinSen + legyrR + legyrR2 + dreform2010 + netApprovR                  , data = tmpdat, family = binomial(link = logit))
+fit3 <- glm(dv12 ~ dsameCoal + dmultiRef + dmocion + drefHda           + dinSen + legyrR + legyrR2             + netApprovR + as.factor(legis), data = tmpdat, family = binomial(link = logit))
 # multilevel version with error terms clustered by legislatura (Gelman Hill p. 302 from eq 12.13)
 # For non-convergence warnings in glmer, see script nonConv.r. This is from https://rstudio-pubs-static.s3.amazonaws.com/33653_57fc7b8e5d484c909b615d8633c01d51.html (and related Stack overflow http://stackoverflow.com/questions/23478792/warning-messages-when-trying-to-run-glmer-in-r). Re-scaling all continuous ivs took care of the problem...
 library(lme4)
 ## fit4 <- glmer(dv12 ~ dsamePty + dmultiRef + dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda         + dinSen + legyrR               + netApprovR + (1|legis), data = tmpdat, family = binomial(link ="logit"))
-fit4 <- glmer(dv12 ~ dsameCoal + dmultiRef + dmocion                                  + drefHda         + dinSen + legyrR               + netApprovR + (1|legis), data = tmpdat, family = binomial(link ="logit"))
+fit4 <- glmer(dv12 ~ dsameCoal + dmultiRef + dmocion + drefHda         + dinSen + legyrR + legyrR2            + netApprovR + (1|legis), data = tmpdat, family = binomial(link ="logit"))
 ## fit5 <- glm(dv12 ~ dmocion                                    + drefHda + dmajSen + dinSen + ptermR + legyrR + dreform2010                   , data = tmpdat, family = binomial(link = logit))
 ## etc...
 #
@@ -6749,22 +6777,22 @@ exp(sum(coefficients(fit2)*tmp)) / (1 + exp(sum(coefficients(fit2)*tmp))) # prob
 
 # export to latex
 library(stargazer)
-stargazer(fit1, fit2, fit3, fit4, title="Regression results", align=TRUE, report = ('vc*p'),
-          covariate.labels=
- c("Copartisan comm.~chair",
-   "Coalition comm.~chair",
-   "Multiple referrals",
-   "Member bill",
-   "Hacienda referral",
-   "Senate majority",
-   "Introduced Senate",
-   "Year remaining",
-   "Relax deadlines",
-   "Pres.~approval",
-   "2002-06 Leg.",
-   "2006-10 Leg.",
-   "2010-14 Leg.",
-   "Constant")
+stargazer(fit1, fit2, fit3, fit4, title="Regression results", align=TRUE, report = ('vc*p')#,
+ ##          covariate.labels=
+ ## c("Copartisan comm.~chair",
+ ##   "Coalition comm.~chair",
+ ##   "Multiple referrals",
+ ##   "Member bill",
+ ##   "Hacienda referral",
+ ##   "Senate majority",
+ ##   "Introduced Senate",
+ ##   "Year remaining",
+ ##   "Relax deadlines",
+ ##   "Pres.~approval",
+ ##   "2002-06 Leg.",
+ ##   "2006-10 Leg.",
+ ##   "2010-14 Leg.",
+ ##   "Constant")
           )
 
 ## library(apsrtable)
@@ -6775,6 +6803,72 @@ stargazer(fit1, fit2, fit3, fit4, title="Regression results", align=TRUE, report
 ##########################
 # simulations start here #
 ##########################
+# std error version
+sims2 <- with(tmpdat,
+              data.frame(dsameCoal=c(0,1),
+                         dmultiRef=0,
+                         dmocion= 0,
+                         drefHda=1,
+                         dmajSen=0,
+                         dinSen=0,
+                         legyrR=seq(from=(min(legyrR)-.05), to=(max(legyrR)+.05), length.out = 100),
+                         legyrR2=seq(from=(min(legyrR)-.05), to=(max(legyrR)+.05), length.out = 100)^2,
+                         dreform2010=1,
+                         netApprovR=median(netApprovR),
+                         ## yr14 = 3,
+                         ## legis = 2010,
+                         ## drefCiencia =0,
+                         ## drefComunic  =0,
+                         ## drefConst =0,
+                         ## drefCultura =0,
+                         ## drefDefensa =0,
+                         ## drefDDHH     =1,
+                         ## drefEco =0,
+                         ## drefEduc    =0,
+                         ## drefFamilia =0,
+                         ## drefInterior =c(0,1),
+                         ## drefMedAmb  =0,
+                         ## drefMineria =0,
+                         ## drefObras    =0,
+                         ## drefPesca =0,
+                         ## drefRREE    =0,
+                         ## drefRecNatur=0,
+                         ## drefRegimen  =0,
+                         ## drefSalud =0,
+                         ## drefSegurid =0,
+                         ## drefTrabajo =0,
+                         ## drefVivienda =0,
+                         ## drefZonas =0                 
+                         )
+              )
+sims2$pr <- predict(fit2, newdata = sims2, type = "response")
+sims2 <- cbind(sims2, predict(fit2, newdata = sims2, type="link", se=TRUE))
+sims2 <- within(sims2, {
+  PredictedProb <- plogis(fit)
+  LL <- plogis(fit - (1.96 * se.fit))
+  UL <- plogis(fit + (1.96 * se.fit))
+})
+sims2$legyr <- seq(from=1, to=0, length.out = 100) # for plot
+head(sims2)
+library(ggplot2)
+gr <- "../graphs/"
+#pdf (file = paste(gr, "predictedPr.pdf", sep = ""), width = 7, height = 4)
+## ggplot(sims2, aes(x = legyr, y = PredictedProb)) +
+##     geom_ribbon(aes(ymin = LL, ymax = UL, fill = factor(dsameCoal)), alpha = .2) +
+##     geom_line(aes(colour = factor(dsameCoal)), size=1) +
+##     labs(fill = "Coalition chair", colour = "Coalition chair",
+##          x = "Legislative year remaining (in months)",
+##          y = "Predicted probability") +
+##     scale_x_continuous(breaks=seq(from=0, to=1, length.out=7), labels=seq(from=12, to=0, by=-2))
+ggplot(sims2, aes(x = legyr, y = PredictedProb)) +
+    geom_ribbon(aes(ymin = LL, ymax = UL, fill = factor(drefInterior)), alpha = .2) +
+    geom_line(aes(colour = factor(drefInterior)), size=1) +
+    labs(fill = "Coalition chair", colour = "Coalition chair",
+         x = "Legislative year remaining (in months)",
+         y = "Predicted probability") +
+    scale_x_continuous(breaks=seq(from=0, to=1, length.out=7), labels=seq(from=12, to=0, by=-2))
+#dev.off()
+
 # std error version
 sims3 <- with(tmpdat,
               data.frame(dsameCoal=c(0,1),
@@ -6787,6 +6881,7 @@ sims3 <- with(tmpdat,
                          legyrR2=seq(from=(min(legyrR)-.05), to=(max(legyrR)+.05), length.out = 100)^2,
 #                         dreform2010=1,
                          netApprovR=median(netApprovR),
+#                         yr14 = 3,
                          legis = 2010
                          )
               )
