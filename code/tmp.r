@@ -1,78 +1,59 @@
-
-
-summary(fit4)
-
-sims4 <- with(tmpdat,
-              data.frame(dsamePty=c(0,1),
-                         dmultiRef=0,
-#                         dmocion= 0,
-                         dmocionAllOpp= 0,
-                         dmocionMix   = 0,
-                         dmocionAllPdt= 0,
-                         drefHda=1,
-#                         dmajSen=1,
-                         dinSen=0,
-                         legyrR=seq(from=(min(legyrR)-.05), to=(max(legyrR)+.05), length.out = 100),
-#                         dreform2010=0,
-                         netApprovR=median(netApprovR),
-                         legis = 2010
-                         )
-              )
-sims4$pr <- predict(fit4, newdata = sims4, type = "response")
-sims4 <- cbind(sims4, predict(fit4, newdata = sims4, type="link", se=TRUE))
-sims4 <- within(sims4, {
-  PredictedProb <- plogis(fit)
-  LL <- plogis(fit - (1.96 * se.fit))
-  UL <- plogis(fit + (1.96 * se.fit))
-})
-library(ggplot2)
-gr <- "../graphs/"
-#pdf (file = paste(gr, "predictedPr.pdf", sep = ""), width = 7, height = 4)
-ggplot(sims3, aes(x = legyrR, y = PredictedProb)) +
-  geom_ribbon(aes(ymin = LL, ymax = UL, fill = factor(dsamePty)), alpha = .2) +
-  geom_line(aes(colour = factor(dsamePty)), size=1)
-#dev.off()
-
-
-
-
-
-
-
-
-## ESTE SIRVE DE EJEMPLO PARA LA CONFERENCIA DE CHUCHO---LO COMENTADO FUE LO PRIMERO, POCO A POCO VI QUE FORMULA ERA MUCHO MAS SENCILLA
-## Corre justo arriba del logit, en chilbill.r
-allCom.tmp <- list()
-for (i in 1:I){
-    message(sprintf("iteración %s of %s", i, I))
-    #i <- 1 # debug
-    tmp <- bills$hitos[[i]]$action[grep(".*[Pp]asa a [Cc]omisi[óo]n.*", bills$hitos[[i]]$action)]
-    #tmp <- bills$hitos[[i]]$action[grep(".*[Cc]omisi[óo]n.*", bills$hitos[[i]]$action)] # versión más laxa, demasiado permisiva
-    allCom.tmp[[i]] <- tmp
-    #if (length(grep("[Hh]acienda", tmp))>0) bills$info$drefHda[i] <- 1
+# Average marginal effects
+# https://www.r-bloggers.com/probitlogit-marginal-effects-in-r/
+mfxboot <- function(modform,dist,data,boot=1000,digits=3){
+  x <- glm(modform, family=binomial(link=dist),data)
+  # get marginal effects
+  pdf <- ifelse(dist=="probit",
+                mean(dnorm(predict(x, type = "link"))),
+                mean(dlogis(predict(x, type = "link"))))
+  marginal.effects <- pdf*coef(x)
+  # start bootstrap
+  bootvals <- matrix(rep(NA,boot*length(coef(x))), nrow=boot)
+  set.seed(1111)
+  for(i in 1:boot){
+    samp1 <- data[sample(1:dim(data)[1],replace=T,dim(data)[1]),]
+    x1 <- glm(modform, family=binomial(link=dist),samp1)
+    pdf1 <- ifelse(dist=="probit",
+                   mean(dnorm(predict(x, type = "link"))),
+                   mean(dlogis(predict(x, type = "link"))))
+    bootvals[i,] <- pdf1*coef(x1)
+  }
+  res <- cbind(marginal.effects,apply(bootvals,2,sd),marginal.effects/apply(bootvals,2,sd))
+  if(names(x$coefficients[1])=="(Intercept)"){
+    res1 <- res[2:nrow(res),]
+    res2 <- matrix(as.numeric(sprintf(paste("%.",paste(digits,"f",sep=""),sep=""),res1)),nrow=dim(res1)[1])     
+    rownames(res2) <- rownames(res1)
+    } else {
+    res2 <- matrix(as.numeric(sprintf(paste("%.",paste(digits,"f",sep=""),sep="")),nrow=dim(res)[1]))
+    rownames(res2) <- rownames(res)
+    }
+  colnames(res2) <- c("marginal.effect","standard.error","z.ratio")  
+  return(res2)
 }
-allCom.tmp <- unlist(allCom.tmp)
-allCom.tmp <- gsub(pattern = "^(?:.*)Pasa a (?:la )*", replacement = "", allCom.tmp, ignore.case = TRUE)
-## allCom.tmp <- gsub(pattern = "Ingreso de proyecto. (?:Cuenta:|Pasa a) ", replacement = "", allCom.tmp, ignore.case = TRUE)
-## allCom.tmp <- gsub(pattern = "Cuent*a.*proyecto.+Pasa a ", replacement = "", allCom.tmp, ignore.case = TRUE)
-## allCom.tmp <- gsub(pattern = "Cuenta.+Pasa a ", replacement = "", allCom.tmp, ignore.case = TRUE)
-## allCom.tmp <- gsub(pattern = "Desarchivado.+Pasa a ", replacement = "", allCom.tmp, ignore.case = TRUE)
-## allCom.tmp <- gsub(pattern = "Eximido del trámite ante Comisión.+Pasa a ", replacement = "", allCom.tmp, ignore.case = TRUE)
-## allCom.tmp <- gsub(pattern = "(?:Nuevo p|P)rimer informe (?:de comisión|complementario). *(?:Cuenta de informe(?: de Comisión)*. *)*Pasa a ", replacement = "", allCom.tmp, ignore.case = TRUE)
-## allCom.tmp <- gsub(pattern = "(?:Nuevo s|S)egundo informe (?:de comisión|complementario). (?:. )*Pasa a ", replacement = "", allCom.tmp, ignore.case = TRUE)
-## allCom.tmp <- gsub(pattern = "Por acuerdo de la Sala pasa a ", replacement = "", allCom.tmp, ignore.case = TRUE)
-## allCom.tmp <- gsub(pattern = "Nuevo informe de comisión. Pasa a ", replacement = "", allCom.tmp, ignore.case = TRUE)
-## allCom.tmp <- gsub(pattern = "Oficio rechazo modificaciones a.+pasa a ", replacement = "", allCom.tmp, ignore.case = TRUE)
-## allCom.tmp <- gsub(pattern = "Informe de comisión. Pasa a", replacement = "", allCom.tmp, ignore.case = TRUE)
-## allCom.tmp <- gsub(pattern = "Discusión (?:general|particular).+pasa a ", replacement = "", allCom.tmp, ignore.case = TRUE)
-## allCom.tmp <- gsub(pattern = "Discusión única. Rechazadas las modificaciones Pasa a", replacement = "", allCom.tmp, ignore.case = TRUE)
-## allCom.tmp <- gsub(pattern = "Discusión única. Se aprueban unas y rechazan otras modificaciones de la Cámara. Pasa a", replacement = "", allCom.tmp, ignore.case = TRUE)
-## allCom.tmp <- gsub(pattern = "^(?:. )*Pasa a ", replacement = "", allCom.tmp)
 
-table(allCom.tmp)
-head(allCom.tmp)
 
-table(bills$info$drefHda)
+library(AER)
+data(SwissLabor)
+mfx1 <- mfxboot(participation ~ . + I(age^2),"probit",SwissLabor)
+mfx2 <- mfxboot(participation ~ . + I(age^2),"logit",SwissLabor)
+mfx3 <- mfxboot(participation ~ . + I(age^2),"probit",SwissLabor,boot=100,digits=4)
+ 
+mfxdat <- data.frame(cbind(rownames(mfx1),mfx1))
+mfxdat$me <- as.numeric(as.character(mfxdat$marginal.effect))
+mfxdat$se <- as.numeric(as.character(mfxdat$standard.error))
 
-summary(bills$info)
+mfx1
+
+# coefplot
+library(ggplot2)
+ggplot(mfxdat, aes(V1, marginal.effect,ymin = me - 2*se,ymax= me + 2*se)) +
+  scale_x_discrete('Variable') +
+  scale_y_continuous('Marginal Effect',limits=c(-0.5,1)) +
+  theme_bw() + 
+  geom_errorbar(aes(x = V1, y = me),size=.3,width=.2) + 
+  geom_point(aes(x = V1, y = me)) +
+  geom_hline(yintercept=0) + 
+  coord_flip()
+## +
+##   opts(title="Marginal Effects with 95% Confidence Intervals")
 

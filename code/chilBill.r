@@ -6799,6 +6799,44 @@ stargazer(fit1, fit2, fit3, fit4, title="Regression results", align=TRUE, report
 ## apsrtable(fit1, fit2)
 
 
+# Average marginal effects
+library(margins)
+mar3 <- margins(fit3)
+mar3 <- summary(mar3)
+tmp <- c(6,4,2,3,1,9,10,11,7,8,5); mar3 <- mar3[order(tmp),] # sort rows so coefs appear in same order as in table
+mar3
+tmp <- c("Coal. comm. chair",
+         "Multiple referrals",
+         "Hacienda referral",
+         "Member bill",
+         "Pres. approval",
+         "Introd. in Senate",
+         "Year remaining",
+         "Sq. year remaining",
+         "2002-06",
+         "2006-10",
+         "2010-14")
+#library(ggplot2)
+gr <- "../graphs/"
+#pdf (file = paste(gr, "avgMgEffects.pdf", sep = ""), width = 7, height = 5)
+par(mar=c(4,2,2,2)+0.1) # drop title space and left space
+plot(x=c(-.35,.15),
+     y=-c(1,nrow(mar3)),
+     type="n", axes = FALSE,
+     xlab = "Average marginal effect",
+     ylab = "")
+abline(v=seq(-.25, .15, .05), col = "gray70")
+abline(v=0, lty=2)
+axis(1, at = seq(-.25, .15, .05), labels = FALSE)
+axis(1, at = seq(-.2, .1, .1))
+for (i in c(-1:-nrow(mar3))){
+    points(y=i, x=mar3$AME[-i], pch=20, cex=1.5, col = "black")
+    lines(y=rep(i, 2), x=c(mar3$lower[-i],mar3$upper[-i]), lwd = 2, col = "black")
+}
+#mar3$factor
+text(x=-.375, y=-1:-nrow(mar3), labels=tmp, pos=4)
+#dev.off()
+
 
 ##########################
 # simulations start here #
