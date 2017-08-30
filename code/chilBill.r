@@ -6492,8 +6492,26 @@ table(comPres$yr, comPres$dsamePty)
 table(comPres$yr, comPres$dsameCoal)
 table(comPres$yr, comPres$doposCom)
 
+#####################################################################
+rm(drop, fit, fit11, fit12, fit13, fit14, fit15, fit16, RepDataNegBin)
+save.image("dataForUrgencyRegressions.RData")
+# save added 30aug2017
+
+#####################################
+# AQUÍ EMPIEZA EL ANÁLISIS PARA     #
+# EL PAPER DE URGENCIAS=CLOSED RULE #
+# CON VALERIA Y GES                 #
+#####################################
+rm(list=ls())
+datdir <- "/home/eric/Dropbox/data/latAm/chile/data/"               ##
+setwd(datdir)                                                       ##
+load(file = "dataForUrgencyRegressions.RData")                      ##
+options(width = 140)                                                ##
+library(lubridate); library(plyr)
+
 # LOGIT ON WHETHER NOT BILL DECLARED URGENT
 sel <- which(bills$info$dateIn>=dmy("11/3/1998", tz = "chile") & bills$info$dateIn<dmy("11/3/2014", tz = "chile"))
+#sel <- which(bills$info$dateIn>=dmy("11/3/1998", tz = "chile") & bills$info$dateIn<dmy("11/3/2014", tz = "chile") & bills$info$dmensaje==1)
 tmpdat <- bills$info[sel,]
 #
 # Add president's maj status in chamber
@@ -6651,7 +6669,9 @@ colnames(tmpdat)
 
 # [EM 23ago2017] Dentro del grupo dsameCoal==0 aún hay mucha varianza en el uso de urgencias. Falta hacer exploración descriptiva para detectar elementos que se correlacionan, y añadir más controles...
 #fit <- lm (dv ~ dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda + dmajSen + dinSen + pterm + legyr, data = tmpdat)
-fit1 <- glm(dv12 ~ dsamePty  + dmultiRef + dmocion + drefHda + dmajSen + dinSen + legyrR + legyrR2 + dreform2010 + netApprovR                  , data = tmpdat, family = binomial(link = logit))
+fit1 <-  glm(dv12 ~ dsamePty  + dmultiRef + dmocion + drefHda + dmajSen + dinSen + legyrR + legyrR2 + dreform2010 + netApprovR                  , data = tmpdat,                      family = binomial(link = logit))
+fit1e <- glm(dv12 ~ dsamePty  + dmultiRef +         + drefHda + dmajSen + dinSen + legyrR + legyrR2 + dreform2010 + netApprovR                  , data = tmpdat, subset = dmocion==0, family = binomial(link = logit))
+fit1m <- glm(dv12 ~ dsamePty  + dmultiRef +         + drefHda + dmajSen + dinSen + legyrR + legyrR2 + dreform2010 + netApprovR                  , data = tmpdat, subset = dmocion==1, family = binomial(link = logit))
 ## fit2 <- glm(dv12 ~ dsamePty + dmultiRef + dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda + dmajSen + dinSen + legyrR + dreform2010 + netApprovR                   , data = tmpdat, family = binomial(link = logit))
 ## fit3 <- glm(dv12 ~ dsamePty + dmultiRef + dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda           + dinSen + legyrR               + netApprovR + as.factor(legis), data = tmpdat, family = binomial(link = logit))
 ## fit2 <- glm(dv12 ~ dmultiRef + dmocion + drefHda + dmajSen + dinSen + legyrR + legyrR2 + dreform2010 + netApprovR               + drefCiencia + drefComunic  + drefConst   
@@ -6660,22 +6680,28 @@ fit1 <- glm(dv12 ~ dsamePty  + dmultiRef + dmocion + drefHda + dmajSen + dinSen 
 ## + drefMedAmb  + drefMineria + drefObras    + drefPesca
 ## + drefRREE    + drefRecNatur+ drefRegimen  + drefSalud   
 ## + drefSegurid + drefTrabajo + drefVivienda + drefZonas                  , data = tmpdat, family = binomial(link = logit))
-fit2 <- glm(dv12 ~ dsameCoal + dmultiRef + dmocion + drefHda + dmajSen + dinSen + legyrR + legyrR2 + dreform2010 + netApprovR                  , data = tmpdat, family = binomial(link = logit))
-fit3 <- glm(dv12 ~ dsameCoal + dmultiRef + dmocion + drefHda           + dinSen + legyrR + legyrR2             + netApprovR + as.factor(legis), data = tmpdat, family = binomial(link = logit))
+fit2 <-  glm(dv12 ~ dsameCoal + dmultiRef + dmocion + drefHda + dmajSen + dinSen + legyrR + legyrR2 + dreform2010 + netApprovR                  , data = tmpdat,                      family = binomial(link = logit))
+fit2e <- glm(dv12 ~ dsameCoal + dmultiRef           + drefHda + dmajSen + dinSen + legyrR + legyrR2 + dreform2010 + netApprovR                  , data = tmpdat, subset = dmocion==0, family = binomial(link = logit))
+fit2m <- glm(dv12 ~ dsameCoal + dmultiRef           + drefHda + dmajSen + dinSen + legyrR + legyrR2 + dreform2010 + netApprovR                  , data = tmpdat, subset = dmocion==1, family = binomial(link = logit))
+fit3 <-  glm(dv12 ~ dsameCoal + dmultiRef + dmocion + drefHda           + dinSen + legyrR + legyrR2             + netApprovR + as.factor(legis), data = tmpdat,                      family = binomial(link = logit))
+fit3e <- glm(dv12 ~ dsameCoal + dmultiRef           + drefHda           + dinSen + legyrR + legyrR2             + netApprovR + as.factor(legis), data = tmpdat, subset = dmocion==0, family = binomial(link = logit))
+fit3m <- glm(dv12 ~ dsameCoal + dmultiRef           + drefHda           + dinSen + legyrR + legyrR2             + netApprovR + as.factor(legis), data = tmpdat, subset = dmocion==1, family = binomial(link = logit))
 # multilevel version with error terms clustered by legislatura (Gelman Hill p. 302 from eq 12.13)
 # For non-convergence warnings in glmer, see script nonConv.r. This is from https://rstudio-pubs-static.s3.amazonaws.com/33653_57fc7b8e5d484c909b615d8633c01d51.html (and related Stack overflow http://stackoverflow.com/questions/23478792/warning-messages-when-trying-to-run-glmer-in-r). Re-scaling all continuous ivs took care of the problem...
 library(lme4)
 ## fit4 <- glmer(dv12 ~ dsamePty + dmultiRef + dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda         + dinSen + legyrR               + netApprovR + (1|legis), data = tmpdat, family = binomial(link ="logit"))
-fit4 <- glmer(dv12 ~ dsameCoal + dmultiRef + dmocion + drefHda         + dinSen + legyrR + legyrR2            + netApprovR + (1|legis), data = tmpdat, family = binomial(link ="logit"))
+fit4 <-  glmer(dv12 ~ dsameCoal + dmultiRef + dmocion + drefHda         + dinSen + legyrR + legyrR2            + netApprovR + (1|legis), data = tmpdat,                      family = binomial(link ="logit"))
+fit4e <- glmer(dv12 ~ dsameCoal + dmultiRef           + drefHda         + dinSen + legyrR + legyrR2            + netApprovR + (1|legis), data = tmpdat, subset = dmocion==0, family = binomial(link ="logit"))
+fit4m <- glmer(dv12 ~ dsameCoal + dmultiRef           + drefHda         + dinSen + legyrR + legyrR2            + netApprovR + (1|legis), data = tmpdat, subset = dmocion==1, family = binomial(link ="logit"))
 ## fit5 <- glm(dv12 ~ dmocion                                    + drefHda + dmajSen + dinSen + ptermR + legyrR + dreform2010                   , data = tmpdat, family = binomial(link = logit))
 ## etc...
 #
-summary(fit1)
-summary(fit2)
-summary(fit3)
-summary(fit4)
+summary(fit1e)
+summary(fit2e)
+summary(fit3e)
+summary(fit4e)
 library(arm)
-display(fit4)
+display(fit4e)
 
 ## GRAFICA MATRIZ DE CORRELACIONES: COOL!
 #tmp <- cor(dat[,-grep("Extend|Shorten|Retire|d2010|nses", colnames(dat))])
@@ -6777,12 +6803,12 @@ exp(sum(coefficients(fit2)*tmp)) / (1 + exp(sum(coefficients(fit2)*tmp))) # prob
 
 # export to latex
 library(stargazer)
-stargazer(fit1, fit2, fit3, fit4, title="Regression results", align=TRUE, report = ('vc*p')#,
+stargazer(fit1e, fit2e, fit3e, fit4e, title="Regression results", align=TRUE, report = ('vc*p')#,
  ##          covariate.labels=
  ## c("Copartisan comm.~chair",
  ##   "Coalition comm.~chair",
  ##   "Multiple referrals",
- ##   "Member bill",
+ ## #  "Member bill",
  ##   "Hacienda referral",
  ##   "Senate majority",
  ##   "Introduced Senate",
@@ -6801,14 +6827,15 @@ stargazer(fit1, fit2, fit3, fit4, title="Regression results", align=TRUE, report
 
 # Average marginal effects
 library(margins)
-mar3 <- margins(fit3)
+mar3 <- margins(fit3e)
 mar3 <- summary(mar3)
-tmp <- c(6,4,2,3,1,9,10,11,7,8,5); mar3 <- mar3[order(tmp),] # sort rows so coefs appear in same order as in table
+#tmp <- c(6,4,2,3,1,9,10,11,7,8,5); mar3 <- mar3[order(tmp),] # sort rows so coefs appear in same order as in table  *with dmocion*
+tmp <-  c(5,  2,3,1,8, 9,10,6,7,4); mar3 <- mar3[order(tmp),] # sort rows so coefs appear in same order as in table   *w/o dmocion*
 mar3
 tmp <- c("Coal. comm. chair",
          "Multiple referrals",
          "Hacienda referral",
-         "Member bill",
+#         "Member bill",
          "Pres. approval",
          "Introd. in Senate",
          "Year remaining",
@@ -6816,25 +6843,46 @@ tmp <- c("Coal. comm. chair",
          "2002-06",
          "2006-10",
          "2010-14")
-#library(ggplot2)
+#library(ggplot2) -- for ggplot see https://www.r-bloggers.com/probitlogit-marginal-effects-in-r/
 gr <- "../graphs/"
+## #pdf (file = paste(gr, "avgMgEffects.pdf", sep = ""), width = 7, height = 5)
+## par(mar=c(4,2,2,2)+0.1) # drop title space and left space
+## plot(x=c(-.35,.15),
+##      y=-c(1,nrow(mar3)),
+##      type="n", axes = FALSE,
+##      xlab = "Average marginal effect",
+##      ylab = "")
+## abline(v=seq(-.25, .15, .05), col = "gray70")
+## abline(v=0, lty=2)
+## axis(1, at = seq(-.25, .15, .05), labels = FALSE)
+## axis(1, at = seq(-.2, .1, .1))
+## for (i in c(-1:-nrow(mar3))){
+##     points(y=i, x=mar3$AME[-i], pch=20, cex=1.5, col = "black")
+##     lines(y=rep(i, 2), x=c(mar3$lower[-i],mar3$upper[-i]), lwd = 2, col = "black")
+## }
+## #mar3$factor
+## text(x=-.375, y=-1:-nrow(mar3), labels=tmp, pos=4)
+## #dev.off()
+#
 #pdf (file = paste(gr, "avgMgEffects.pdf", sep = ""), width = 7, height = 5)
 par(mar=c(4,2,2,2)+0.1) # drop title space and left space
-plot(x=c(-.35,.15),
+plot(x=c(-.3,.35),
      y=-c(1,nrow(mar3)),
      type="n", axes = FALSE,
      xlab = "Average marginal effect",
      ylab = "")
-abline(v=seq(-.25, .15, .05), col = "gray70")
+abline(v=seq(-.1, .35, .05), col = "gray70")
 abline(v=0, lty=2)
-axis(1, at = seq(-.25, .15, .05), labels = FALSE)
-axis(1, at = seq(-.2, .1, .1))
+abline(h=seq(-1,-nrow(mar3),-1), col = "gray70")
+axis(1, at = seq(-.1, .35, .05), labels = FALSE)
+axis(1, at = seq(-.1, .3, .1))
 for (i in c(-1:-nrow(mar3))){
     points(y=i, x=mar3$AME[-i], pch=20, cex=1.5, col = "black")
     lines(y=rep(i, 2), x=c(mar3$lower[-i],mar3$upper[-i]), lwd = 2, col = "black")
 }
 #mar3$factor
-text(x=-.375, y=-1:-nrow(mar3), labels=tmp, pos=4)
+polygon(x= c(-.35,-.12,-.12,-.35), y=c(-11,-11,0,0), col = "white", border = "white")
+text(x=-.3, y=-1:-nrow(mar3), labels=tmp, pos=4)
 #dev.off()
 
 
@@ -6911,8 +6959,8 @@ ggplot(sims2, aes(x = legyr, y = PredictedProb)) +
 sims3 <- with(tmpdat,
               data.frame(dsameCoal=c(0,1),
                          dmultiRef=0,
-                         dmocion= 0,
-                         drefHda=1,
+#                         dmocion= 0,
+                         drefHda=0,
 #                         dmajSen=0,
                          dinSen=0,
                          legyrR=seq(from=(min(legyrR)-.05), to=(max(legyrR)+.05), length.out = 100),
@@ -6920,11 +6968,11 @@ sims3 <- with(tmpdat,
 #                         dreform2010=1,
                          netApprovR=median(netApprovR),
 #                         yr14 = 3,
-                         legis = 2010
+                         legis = 2006
                          )
               )
-sims3$pr <- predict(fit3, newdata = sims3, type = "response")
-sims3 <- cbind(sims3, predict(fit3, newdata = sims3, type="link", se=TRUE))
+sims3$pr <- predict(fit3e, newdata = sims3, type = "response")
+sims3 <- cbind(sims3, predict(fit3e, newdata = sims3, type="link", se=TRUE))
 sims3 <- within(sims3, {
   PredictedProb <- plogis(fit)
   LL <- plogis(fit - (1.96 * se.fit))

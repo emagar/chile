@@ -1,7 +1,7 @@
 (eval-after-load "latex-mode" '(fset 'tex-font-lock-suscript 'ignore))
 
 % Table created by stargazer v.5.2 by Marek Hlavac, Harvard University. E-mail: hlavac at fas.harvard.edu
-% Date and time: Wed, Aug 23, 2017 - 09:15:00 AM
+% Date and time: Mon, Aug 28, 2017 - 06:11:37 PM
 % Requires LaTeX packages: dcolumn 
 \begin{table}[!htbp] \centering 
   \caption{Regression results} 
@@ -16,41 +16,39 @@
  & \multicolumn{3}{c}{\textit{}} & \multicolumn{1}{c}{\textit{mixed-effects}} \\ 
 \\[-1.8ex] & \multicolumn{1}{c}{(1)} & \multicolumn{1}{c}{(2)} & \multicolumn{1}{c}{(3)} & \multicolumn{1}{c}{(4)}\\ 
 \hline \\[-1.8ex] 
- dsamePty             &      \\ 
-                      &      \\ 
- dsameCoal            &      \\ 
-                      &      \\ 
- dmultiRef            &      \\ 
-                      &      \\ 
- drefHda              &      \\ 
-                      &      \\ 
- dmocion              &      \\ 
-                      &      \\ 
- netApprovR           &      \\ 
-                      &      \\ 
- dinSen               &      \\ 
-                      &      \\ 
- dmajSen              &      \\ 
-                      &      \\ 
- legyrR               &      \\ 
-                      &      \\ 
- legyrR2              &      \\ 
-                      &      \\ 
- dreform2010          &      \\ 
-                      &      \\ 
- as.factor(legis)2002 &      \\ 
-                      &      \\ 
- as.factor(legis)2006 &      \\ 
-                      &      \\ 
- as.factor(legis)2010 &      \\ 
-                      &      \\ 
- Constant             &      \\ 
-                      &      \\ 
+ dsamePty    &  .221^{*} &  &  &                                         \\ 
+             & (.092) &  &  &                                             \\ 
+ dsameCoal   &  &  .746^{***} &  .831^{***} &  .800^{***}                    \\ 
+             &  & (.004) & (.002) & (.002)                             \\ 
+ dmultiRef   &  .856^{***} &  .867^{***} &  .883^{***} &  .882^{***}       \\ 
+             & (<.001) & (<.001) & (<.001) & (<.001)                   \\ 
+ drefHda     & 1.755^{***} & 1.695^{***} & 1.664^{***} & 1.668^{***}        \\ 
+             & (<.001) & (<.001) & (<.001) & (<.001)                    \\ 
+ netApprovR  &  .024 &  .004 &  .031 &  .011                            \\ 
+             & (.741) & (.960) & (.698) & (.893)                        \\ 
+ dinSen      &  .211 &  .239 &  .248 &  .255                            \\ 
+             & (.198) & (.147) & (.141) & (.129)                        \\ 
+ dmajSen     &  -.244 &  -.298 &  &                                     \\ 
+             & (.246) & (.151) &  &                                     \\ 
+ legyrR      &  .053 &  .048 &  .020 &  .021                            \\ 
+             & (.371) & (.416) & (.738) & (.719)                        \\ 
+ legyrR2     &  -.217^{***} &  -.228^{***} &  -.245^{***} &  -.243^{***}    \\ 
+             & (<.001) & (<.001) & (<.001) & (<.001)                    \\ 
+ dreform2010 &  .696^{***} &  .696^{***} &  &                             \\ 
+             & (.010) & (.008) &  &                                     \\ 
+ 2002        &  &  &  .012 &                                             \\ 
+             &  &  & (.952) &                                             \\ 
+ 2006        &  &  &  .621^{***} &                                         \\ 
+             &  &  & (.001) &                                             \\ 
+ 2010        &  &  & 1.352^{***} &                                         \\ 
+             &  &  & (<.001) &                                             \\ 
+ Constant    &  -.628^{***} & -1.148^{***} & -1.754^{***} & -1.231^{***}        \\ 
+             & (.009) & (<.001) & (<.001) & (.001)                        \\ 
 \hline \\[-1.8ex] 
-Observations & \multicolumn{1}{c}{6,987} & \multicolumn{1}{c}{6,987} & \multicolumn{1}{c}{6,987} & \multicolumn{1}{c}{6,987} \\ 
-Log Likelihood & \multicolumn{1}{c}{-1,715.036} & \multicolumn{1}{c}{-1,714.279} & \multicolumn{1}{c}{-1,705.253} & \multicolumn{1}{c}{-1,712.037} \\ 
-Akaike Inf. Crit. & \multicolumn{1}{c}{3,452.072} & \multicolumn{1}{c}{3,450.558} & \multicolumn{1}{c}{3,434.505} & \multicolumn{1}{c}{3,444.074} \\ 
-Bayesian Inf. Crit. &  &  &  & \multicolumn{1}{c}{3,512.592} \\ 
+Observations & \multicolumn{1}{c}{1,461} & \multicolumn{1}{c}{1,461} & \multicolumn{1}{c}{1,461} & \multicolumn{1}{c}{1,461} \\ 
+Log Likelihood & \multicolumn{1}{c}{-826.465} & \multicolumn{1}{c}{-823.276} & \multicolumn{1}{c}{-808.244} & \multicolumn{1}{c}{-816.261} \\ 
+Akaike Inf. Crit. & \multicolumn{1}{c}{1,672.929} & \multicolumn{1}{c}{1,666.552} & \multicolumn{1}{c}{1,638.488} & \multicolumn{1}{c}{1,650.522} \\ 
+Bayesian Inf. Crit. &  &  &  & \multicolumn{1}{c}{1,698.104} \\ 
 \hline 
 \hline \\[-1.8ex] 
 \textit{Note:}  & \multicolumn{4}{r}{$^{*}$p$<$0.1; $^{**}$p$<$0.05; $^{***}$p$<$0.01} \\ 

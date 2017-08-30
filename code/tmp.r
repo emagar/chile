@@ -1,3 +1,5 @@
+
+
 # Average marginal effects
 # https://www.r-bloggers.com/probitlogit-marginal-effects-in-r/
 mfxboot <- function(modform,dist,data,boot=1000,digits=3){

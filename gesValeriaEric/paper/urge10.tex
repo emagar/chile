@@ -43,10 +43,21 @@
 % Dip. Patricio Vallespín
 % Dip. 1er vice-presidente de la Cámara de Diputados
 
+% [28-8-2017] improvements for logit
+% a. drop member bills or analyze separately
+% b  control whether or not bill was reported: this is gatekeeping
+% b.1  analyze this as a separate DV
+% b.2  use a conditional model: not reported are not same type
+%    |    | U   | ~U  |
+%    |----+-----+-----|
+%    | G  | g_u | g_s |
+%    | ~G | u   | s   |
+%    |----+-----+-----|
+ 
 
 \begin{document}
 
-\title{Restrictive rules in the Chilean Cámara: Fighting floor amendments with the urgency authority\thanks{Paper read at the 2017 annual meeting of the American Political Science Association, San Francisco, CA, Sept.~1, 2017. The authors are grateful to Roberto Bustos, Alvaro Villarroel, and the staff of the Senate's Hacienda committee, and especially to Sebastián Soto Velasco for help understanding urgency authority; to Deputy Patricio Vallespín for making calls to schedule interviews with congressional personnel; to Ernesto Calvo and José Antonio Cheibub for comments and critiques to previous incarnations of the paper. Eric Magar acknowledges financial support from the Asociación Mexicana de Cultura A.C.\ and CONACYT's Sistema Nacional de Investigadores. Valeria Palanza acknowledges support from Proyecto Fondecyt No. 1140974, and from the Millennium Nucleus for the Study of Stateness and Democracy in Latin America, Project \#NS100014. The authors bear sole responsibility for mistakes and shortcomings in the study.}}
+\title{Restrictive rules in the Chilean Cámara: Fighting floor amendments with urgency authority\thanks{Paper read at the 2017 annual meeting of the American Political Science Association, San Francisco, CA, Sept.~1, 2017. The authors are grateful to Roberto Bustos, Alvaro Villarroel, and the staff of the Senate's Hacienda committee, and especially to Sebastián Soto Velasco for help understanding urgency authority; to Deputy Patricio Vallespín for making calls to schedule interviews with congressional personnel; to Ernesto Calvo and José Antonio Cheibub for comments and critiques to previous incarnations of the paper. Eric Magar acknowledges financial support from the Asociación Mexicana de Cultura A.C.\ and CONACYT's Sistema Nacional de Investigadores. Valeria Palanza acknowledges support from Proyecto Fondecyt No. 1140974, and from the Millennium Nucleus for the Study of Stateness and Democracy in Latin America, Project \#NS100014. The authors bear sole responsibility for mistakes and shortcomings in the study.}}
 \author{Eric Magar \\ ITAM \and
         Valeria Palanza \\ Univ.\ Católica de Chile \and  
         Gisela Sin \\ Univ.\ of Illinois, Urbana-Champaign 
@@ -777,63 +788,78 @@ The timing group controls for the congressional cycle. \emph{Year remaining} (an
 
 Given that observations from four elected Legislaturas, with important differences in the types and the volume of proposals considered \citep{aleman.navia.UrgChi.2009} are pooled, heterogeneity might interfere. So we fit two additional model specifications for robustness verification. One includes fixed Legislatura effects---i.e., three dummies for bills initiated in the 2002--06, 2006--10, and 2010--14 periods, respectively; the excluded 1998--2002 dummy is the baseline. Another adds further flexibility by also estimating separate errors for bills initiated in in each Legislatura \citep[a so-called mixed effects model,][:262,302]{gelman.hill.2007}. Estimation is with a generalized linear model for the mixed effects fit, and logit for the rest. We normalized continuous variables \emph{Pres.~approval} and \emph{Year remaining} to speed the GLM's convergence.\footnote{As suggested in \url{http://stackoverflow.com/questions/23478792/warning-messages-when-trying-to-run-glmer-in-r} and \url{https://rstudio-pubs-static.s3.amazonaws.com/33653_57fc7b8e5d484c909b615d8633c01d51.html}. Normalization re-scales and centers the measures in order to improve parameter identification.} Normalized measures were used throughout for model comparability.
 
-% dv12 controlling for comm chair
+% next command removes proportional font in table's superscripts
+%(eval-after-load "latex-mode" '(fset 'tex-font-lock-suscript 'ignore)) 
+
+% dv12 controlling for comm chair, executive bills only
 % Table created by stargazer v.5.2 by Marek Hlavac, Harvard University. E-mail: hlavac at fas.harvard.edu
 % Date and time: Wed, Aug 23, 2017 - 09:15:00 AM
 % Requires LaTeX packages: dcolumn 
 \begin{table}%[!htbp]
   \centering 
-  \caption{Urgency predictors. Dependent variable indicates urgent bills. Model 3 includes fixed Legislatura effects (not reported). Model 4 estimates separate error terms by Legislatura. Method of estimation: generalized linear model (model 4), others with logit.}\label{t:urgenLogit}
+  \caption{Urgency predictors among executive bills. Dependent variable indicates urgent bills. Model 3 includes fixed Legislatura effects (not reported). Model 4 estimates separate error terms by Legislatura. Method of estimation: generalized linear model (model 4), others with logit.}\label{t:urgenLogit}
   \begin{tabular}{@{\extracolsep{0pt}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} } 
     \hline \\[-1.8ex] 
     & \multicolumn{4}{c}{DV: Bill received urgency message} \\ 
     \\[-1.8ex] & \multicolumn{1}{c}{(1)} & \multicolumn{1}{c}{(2)} & \multicolumn{1}{c}{(3)} & \multicolumn{1}{c}{(4)}\\ 
     \\ [-1.8ex] 
     \hline \\[-1.8ex] 
-    \emph{Co-partisan}     &  .184^{*} &  &  &                                        \\
-    \emph{comm.~chair}     &     (.057)&  &  &                                        \\ [.75ex]
-    \emph{Coalition}       &  &  .409^{**} &  .437^{**} &  .422^{**}                  \\
-    \emph{comm.~chair}     &  &     (.028)&     (.020)&     (.025)                    \\ [.75ex]
-    \emph{Multiple}        &  .800^{***} &  .825^{***} &  .842^{***} &  .839^{***}    \\
-    \emph{referrals}       &    (<.001)&    (<.001)&    (<.001)&    (<.001)           \\ [.75ex]
-    \emph{Hacienda}        & 1.799^{***} & 1.773^{***} & 1.753^{***} & 1.757^{***}    \\
-    \emph{referral}        &    (<.001)&    (<.001)&    (<.001)&    (<.001)           \\ [.75ex]
-    \emph{Member bill}     & -2.916^{***} & -2.946^{***} & -3.056^{***} & -3.038^{***}\\ 
-                           &    (<.001)&    (<.001)&    (<.001)&    (<.001)           \\ [.75ex]
-    \emph{Pres.}           &  -.008 &  -.022 &  .008 &  -.012                         \\
-    \emph{approval}        &     (.888)&     (.703)&     (.894)&     (.836)           \\ [.75ex]
-    \emph{Introduced}      &  .312^{***} &  .331^{***} &  .323^{***} &  .327^{***}    \\
-    \emph{in Senate}       &     (.005)&     (.003)&     (.004)&     (.003)           \\ [.75ex]
-    \emph{Senate}          &  -.144 &  -.177 &  &                                     \\
-    \emph{majority}        &     (.400)&     (.296)&  &                               \\ [.75ex]
-    \emph{Year}            &  .088^{*} &  .085^{*} &  .077^{*} &  .078^{*}            \\
-    \emph{remaining}       &     (.057)&     (.068)&     (.094)&     (.089)           \\ [.75ex]
-    \emph{(Year}    &  -.121^{**} &  -.126^{***} &  -.135^{***} &  -.134^{***} \\
-    \emph{remaining)$^2$}  &     (.011)&     (.009)&     (.006)&     (.006)           \\ [.75ex]
-    \emph{Relax}           &  .327 &  .287 &  &                                       \\
-    \emph{deadlines}       &     (.108)&     (.151)&  &                               \\ [.75ex]
-    %% \emph{2002-06 Leg.} &  &  &  -.062 &                                           \\
-    %%                     &  &  &     (.715)&                                        \\ [.75ex]
-    %% \emph{2006-10 Leg.} &  &  &  .388^{**} &                                       \\
-    %%                     &  &  &     (.012)&                                        \\ [.75ex]
-    %% \emph{2010-14 Leg.} &  &  &  .716^{***} &                                      \\
-    %%                     &  &  &     (<.001)&                                       \\ [.75ex]
-    Intercept              &  -.713^{***} &  -.970^{***} & -1.307^{***} & -1.031^{***}\\
-                           &     (<.001) &     (<.001) &    (<.001)  &     (<.001)    \\ [.75ex]
+    \emph{Co-partisan}     &   .221^{*} &  &  &                                         \\
+    \emph{comm.~chair}     &  (.092) &  &  &                                            \\ [.75ex]
+    \emph{Coalition}       &   &  .746^{***} &  .831^{***} &  .800^{***}                \\
+    \emph{comm.~chair}     &   & (.004) & (.002) & (.002)                               \\ [.75ex]
+    \emph{Multiple}        &   .856^{***} &  .867^{***} &  .883^{***} &  .882^{***}     \\
+    \emph{referrals}       &  (<.001) & (<.001) & (<.001) & (<.001)                     \\ [.75ex]
+    \emph{Hacienda}        &  1.755^{***} & 1.695^{***} & 1.664^{***} & 1.668^{***}     \\
+    \emph{referral}        &  (<.001) & (<.001) & (<.001) & (<.001)                     \\ [.75ex]
+    \emph{Pres.}           &   .024 &  .004 &  .031 &  .011                             \\
+    \emph{approval}        &  (.741) & (.960) & (.698) & (.893)                         \\ [.75ex]
+    \emph{Introduced}      &   .211 &  .239 &  .248 &  .255                             \\
+    \emph{in Senate}       &  (.198) & (.147) & (.141) & (.129)                         \\ [.75ex]
+    \emph{Senate}          &   -.244 &  -.298 &  &                                      \\
+    \emph{majority}        &  (.246) & (.151) &  &                                      \\ [.75ex]
+    \emph{Year}            &   .053 &  .048 &  .020 &  .021                             \\
+    \emph{remaining}       &  (.371) & (.416) & (.738) & (.719)                         \\ [.75ex]
+    \emph{(Year}           &   -.217^{***} &  -.228^{***} &  -.245^{***} &  -.243^{***} \\
+    \emph{remaining)$^2$}  &  (<.001) & (<.001) & (<.001) & (<.001)                     \\ [.75ex]
+    \emph{Relax}           &   .696^{***} &  .696^{***} &  &                            \\
+    \emph{deadlines}       &  (.010) & (.008) &  &                                      \\ [.75ex]
+    %% \emph{2002-06 Leg.} &   &  &  .012 &                                             \\
+    %%                     &   &  & (.952) &                                            \\ [.75ex]
+    %% \emph{2006-10 Leg.} &   &  &  .621^{***} &                                       \\
+    %%                     &   &  & (.001) &                                            \\ [.75ex]
+    %% \emph{2010-14 Leg.} &   &  & 1.352^{***} &                                       \\
+    %%                     &   &  & (<.001) &                                           \\ [.75ex]
+    Intercept              &   -.628^{***} & -1.148^{***} & -1.754^{***} & -1.231^{***} \\
+                           &  (.009) & (<.001) & (<.001) & (.001)                       \\ [.75ex]
     \hline \\[-1.8ex] 
     Effects & \multicolumn{1}{c}{none} & \multicolumn{1}{c}{none} & \multicolumn{1}{c}{fixed} & \multicolumn{1}{c}{mixed} \\ 
-    Observations & \multicolumn{1}{c}{6,987} & \multicolumn{1}{c}{6,987} & \multicolumn{1}{c}{6,987} & \multicolumn{1}{c}{6,987} \\ 
-    Log$L$ & \multicolumn{1}{c}{-1,715} & \multicolumn{1}{c}{-1,714} & \multicolumn{1}{c}{-1,705} & \multicolumn{1}{c}{-1,712} \\ 
+    Observations & \multicolumn{1}{c}{1,461} & \multicolumn{1}{c}{1,461} & \multicolumn{1}{c}{1,461} & \multicolumn{1}{c}{1,461} \\ 
+    Log$L$ & \multicolumn{1}{c}{-826} & \multicolumn{1}{c}{-823} & \multicolumn{1}{c}{-808} & \multicolumn{1}{c}{-816} \\ 
     \% correct & \multicolumn{1}{c}{89} & \multicolumn{1}{c}{89} & \multicolumn{1}{c}{90} & \multicolumn{1}{c}{89} \\ 
-%% Akaike Inf. Crit. & \multicolumn{1}{c}{3,452.072} & \multicolumn{1}{c}{3,450.558} & \multicolumn{1}{c}{3,434.505} & \multicolumn{1}{c}{3,444.074} \\ 
-%% Bayesian Inf. Crit. &  &  &  & \multicolumn{1}{c}{3,512.592} \\ 
+%% Akaike Inf. Crit.   & \multicolumn{1}{c}{1,672.929} & \multicolumn{1}{c}{1,666.552} & \multicolumn{1}{c}{1,638.488} & \multicolumn{1}{c}{1,650.522} \\ 
+%% Bayesian Inf. Crit. &   &  &  & \multicolumn{1}{c}{1,698.104} \\ 
     \\ [-1.8ex] 
     \hline \\[-1.8ex] 
     & \multicolumn{4}{r}{\footnotesize $^{*}$p$<$.1; $^{**}$p$<$.05; $^{***}$p$<$.01 (p-values in parentheses)} \\ 
   \end{tabular} 
 \end{table} 
 
+\emm{New model, includes executive bills only. Could report member bills model separately (coalition chair doesn't work)}
+
 Table \ref{t:urgenLogit} reports results.\footnote{Models fitted with \texttt{R} base's \texttt{glm} and library \texttt{lme4}'s \citep{lme4.2015}.} The regression model performs satisfactorily. A likelihood-ratio test of overall fit rejects the hypothesis, at below the .001 level, that an intercept-only fit is as good as our models. Predictors across model specifications correctly classify between 89 and 90 percent of the observations. Coefficient estimates confirm that, controlling other factors in the model, \emph{Co-partisan comm.~chair} has a positive coefficient in model 1, as expected. The effect achieves borderline conventional statistical significance, just above the .05 level (parentheses in the table report p-values). The evidence is stronger for the variable's other specification. The coefficient for \emph{Coalition comm.~chair} in models 2--4 is also positive, more than doubles in size, and achieves p-values between .02 and .03. As scholars have documented, the coalition is as good a predictor of presidential support in Congress---or better, in our case---as the party. The finding is robust across model specifications. In general, all model coefficients remain pretty much unchanged in size and significance when fixed and mixed effects are included in the right side (we are forced to drop variables \emph{Senate majority} and \emph{Relax deadlines} due to colinearity with Legislatura dummies). 
+
+ %%     factor     AME     SE       z      p   lower   upper
+ %%  dsameCoal  0.1547 0.0469  3.3007 0.0010  0.0628  0.2465
+ %%  dmultiRef  0.1645 0.0262  6.2735 0.0000  0.1131  0.2159
+ %%    drefHda  0.3098 0.0186 16.6926 0.0000  0.2734  0.3462
+ %% netApprovR  0.0058 0.0149  0.3892 0.6971 -0.0234  0.0350
+ %%     dinSen  0.0461 0.0313  1.4766 0.1398 -0.0151  0.1074
+ %%     legyrR  0.0037 0.0111  0.3354 0.7373 -0.0180  0.0255
+ %%    legyrR2 -0.0456 0.0114 -3.9828 0.0001 -0.0680 -0.0232
+ %%  legis2002  0.0024 0.0390  0.0605 0.9518 -0.0740  0.0787
+ %%  legis2006  0.1234 0.0366  3.3738 0.0007  0.0517  0.1952
+ %%  legis2010  0.2559 0.0364  7.0316 0.0000  0.1846  0.3272
 
 \begin{figure}
   \centering
@@ -855,7 +881,7 @@ Another control worth highlighting is \emph{Senate majority} (the other strategi
 
 \begin{figure}
   \centering
-    \caption{Probability of urgent bill consideration. Predictions are from from model 3 letting \emph{Year remaining} vary in full range, with 95-percent confidence bands. Other variables set at the following values: $\text{\emph{Multiple referrals}}=0$, $\text{\emph{Hacienda referral}}=1$, $\text{\emph{Member bill}}=0$, \emph{Pres.~approval} at its median, $\text{\emph{Introd.~in~Senate}}=0$, and $\text{\emph{2010-14}}=1$.}\label{F:sims}
+    \caption{Probability of urgent bill consideration. Predictions are from from model 3 letting \emph{Year remaining} vary in full range, with 95-percent confidence bands. Other variables set at the following values: $\text{\emph{Multiple referrals}}=0$, $\text{\emph{Hacienda referral}}=1$, \emph{Pres.~approval} at its median, $\text{\emph{Introd.~in~Senate}}=0$, and $\text{\emph{2006-10}}=1$.}\label{F:sims}
     \includegraphics[width=.75\columnwidth]{../graphs/predictedPr.pdf}
 \end{figure}
 
