@@ -29,8 +29,8 @@
 \newcommand{\mc}{\multicolumn}
 
 %% TO ADD NOTES IN TEXT, PUT % BEFORE THE ONE YOU WANT DISBALED
-\usepackage[disable]{todonotes}                            % notes not showed
-%\usepackage[colorinlistoftodos, textsize=small]{todonotes} % show notes
+%\usepackage[disable]{todonotes}                            % notes not showed
+\usepackage[colorinlistoftodos, textsize=small]{todonotes} % show notes
 \newcommand{\emm}[1]{\todo[color=red!15, inline]{\textbf{Eric:} #1}}
 \newcommand{\vp}[1]{\todo[color=green!15, inline]{\textbf{Vale:} #1}}
 \newcommand{\ges}[1]{\todo[color=blue!15, inline]{\textbf{Ges:} #1}}
@@ -57,7 +57,7 @@
 
 \begin{document}
 
-\title{Restrictive rules in the Chilean Cámara: Fighting floor amendments with urgency authority\thanks{Paper read at the 2017 annual meeting of the American Political Science Association, San Francisco, CA, Sept.~1, 2017. The authors are grateful to Roberto Bustos, Alvaro Villarroel, and the staff of the Senate's Hacienda committee, and especially to Sebastián Soto Velasco for help understanding urgency authority; to Deputy Patricio Vallespín for making calls to schedule interviews with congressional personnel; to Ernesto Calvo and José Antonio Cheibub for comments and critiques to previous incarnations of the paper. Eric Magar acknowledges financial support from the Asociación Mexicana de Cultura A.C.\ and CONACYT's Sistema Nacional de Investigadores. Valeria Palanza acknowledges support from Proyecto Fondecyt No. 1140974, and from the Millennium Nucleus for the Study of Stateness and Democracy in Latin America, Project \#NS100014. The authors bear sole responsibility for mistakes and shortcomings in the study.}}
+\title{Restrictive rules in the Chilean Cámara: Fighting floor amendments with urgency authority\thanks{An earlier version was readd at the 2017 annual meeting of the American Political Science Association, San Francisco, CA. The authors are grateful to Roberto Bustos, Alvaro Villarroel, and the staff of the Senate's Hacienda committee, and especially to Sebastián Soto Velasco for help understanding urgency authority; to Deputy Patricio Vallespín for making the calls that scheduled interviews with key congressional personnel; to Mónica Arretche, Ernesto Calvo, José Antonio Cheibub, and Michelle Taylor-Robinson for comments and critiques to previous incarnations of the paper. Eric Magar acknowledges financial support from the Asociación Mexicana de Cultura A.C.\ and CONACYT's Sistema Nacional de Investigadores. Valeria Palanza acknowledges support from Proyecto Fondecyt No. 1140974, and from the Millennium Nucleus for the Study of Stateness and Democracy in Latin America, Project \#NS100014. The authors are responsible for mistakes and shortcomings in the study.}}
 \author{Eric Magar \\ ITAM \and
         Valeria Palanza \\ Univ.\ Católica de Chile \and  
         Gisela Sin \\ Univ.\ of Illinois, Urbana-Champaign 
@@ -735,9 +735,9 @@ For the next implication, see what happens when the distance separating $C$ and 
 
 \section{Urgency predictors}
 
-A systematic analysis of data in Table \ref{T:billDescriptives} is revealing. The units are individual proposals: the dependent variable \emph{Urgent bill} equals 1 for proposals that became urgent at any point of the legislative process, 0 otherwise. It excludes `one month' deadlines, which do not trigger restrictive rules (including them does not change the reported results in a fundamental way, see the appendix). Multivariate analysis controls for president--reporting committee preference coincidence, for bill features, for timing, and for the strategic environment. Formal variable definitions and descriptive statistics appear in the appendix.
+A systematic analysis of data in Table \ref{T:billDescriptives} is revealing. The units are individual executive proposals: the dependent variable \emph{Urgent bill} equals 1 for proposals declared urgent while in the cámara, 0 otherwise. It excludes `one month' deadlines, which do not trigger the closed rule, and urgencies declared when the bill was in the Senate. Multivariate analysis controls for preference coincidence between the president and the reporting committee, for bill features, for timing, and for the strategic environment. Formal variable definitions and descriptive statistics appear in the appendix. \todo{Need to filter this in code, redo descriptives for Table 1, and re-run regressions.}
 
-The preference group includes two regressors. The first has two alternative specifications: \emph{Co-partisan comm.\ chair}, equal 1 if the bill was referred to a standing committee presided by a member of the president's party, 0 otherwise; or \emph{Coalition comm.\ chair}, equal 1 for bills referred to committees chaired by members of any party in the presidential coalition, 0 otherwise. This is our key explanatory variable, measuring spatial proximity between the chief executive and the reporting committee. Other things constant, we expect the variable to associate positively with the dependent variable under both specifications. Table \ref{T:chairsSeats} shows in part A how the number of standing committee chairs from the president's party oscillated sharply in the period, from a high of 53 percent in the 1998--2002 Legislatura, to a low of 17 percent in 2006--10. And the opposition was \todo{Check why dcoal dummy won't drop in model 3?} absent among standing committee chairs in 2006--10 only, controlling up to 24 and 27 percent in 2002--06 and 2010--14, respectively.\footnote{\emph{Largesse} towards opposition parties was probably aimed at beefing up the president's legislative support. The Table's parts B and C report variance in the size and status of the president's coalition in Congress. Given electoral list voting unity since the return to democracy \citep{carey.2002,aleman.saiegh.coalUnityChile.2007}, the seats they control are a good indicator of the executive's legislative support. The coalition remained in control of the Cámara throughout the period, but controlled Senate majorities between 2006 and 2010 only (coinciding with the first Bachelet administration). By requiring 67, 60, and 57 percent votes of each chamber, respectively, constitutional reform, constitution-interpreting legislation, and organic laws therefore always required support across the aisle.} 
+The preference group includes two regressors. The first has two alternative specifications: \emph{Co-partisan comm.\ chair}, equal 1 if the bill was referred to a standing committee presided by a member of the president's party, 0 otherwise; or \emph{Coalition comm.\ chair}, equal 1 for bills referred to committees chaired by members of any party in the presidential coalition, 0 otherwise. This is our key explanatory variable, measuring spatial proximity between the chief executive and the reporting committee. Other things constant, we expect the variable to associate positively with the dependent variable under both specifications (hypotheses 2.a and 2.b). Table \ref{T:chairsSeats} shows, in part A, that standing committee chairs from the president's party varied in the period, from a high of 53 percent in the 1998--2002 Legislatura to a low of 17 percent in 2006--10. And the opposition chaired \todo{Check why dcoal dummy won't drop in model 3?} no standing committee in 2006--10 only, but up to 24 and 27 percent in 2002--06 and 2010--14, respectively.\footnote{\emph{Largesse} towards opposition parties was probably aimed at beefing up the president's legislative support. The Table's parts B and C report variance in the size and status of the president's coalition in Congress. Given electoral list voting unity since the return to democracy \citep{carey.2002,aleman.saiegh.coalUnityChile.2007}, the seats they control are a good indicator of the executive's legislative support. The coalition remained in control of the Cámara throughout the period, but controlled Senate majorities between 2006 and 2010 only (coinciding with the first Bachelet administration). By requiring 67, 60, and 57 percent votes of each chamber, respectively, constitutional reform, constitution-interpreting legislation, and organic laws therefore always required support across the aisle.} 
 
 \begin{table}
 \centering
@@ -776,20 +776,20 @@ Total                 & \emph{100}$^{\dagger}$ & \emph{100}      & \emph{100}  &
 % \end{tabular}
 \end{table}
 
-The other regressor controls for multiple referrals. Nearly one quarter (24 percent) of bills in the period were referred to more than one standing committee. The `other committee' count excludes the Finance committee, with jurisdiction over any form of new spending (and discussed next; multiple referrals go up to 32 percent of bills when the Finance committee is considered). Also excluded are special and bicameral committees. A single co-partisan or coalition chair among multiple referees suffices for the indicator previously discussed to equal 1, so we also include dummy \emph{Multiple referrals} in the right side. It should capture any effect of agenda control sharing among several committee chairs in the proposal's negotiation. 
+Then there is a control for multiple referrals. Nearly one quarter (24 percent) of bills in the period were referred to more than one standing committee. The `other committee' count excludes the Finance committee, with jurisdiction over any form of new spending (and discussed next; multiple referrals rise to 32 percent when the Finance committee is considered). Also excluded are special and bicameral committees. A single co-partisan or coalition chair among multiple referees suffices for the indicator previously discussed to equal 1, so we include dummy \emph{Multiple referrals} in the right side. It should capture any effect of agenda control sharing among several committee chairs in the proposal's negotiation. 
 
-The bill features group also includes two explanatory variables. \emph{Hacienda referral} equals 1 for bills referred to the powerful Finance committee, 0 otherwise. The Hacienda committee has special status in the Chilean Congress and deserves a separate control. Unlike other standing committees, it has jurisdiction over \emph{every} bill authorizing spending in any domain. Moreover, the unanimous exception rule discussed earlier is inapplicable to Hacienda bills, which \emph{must} be reported prior to floor consideration.\footnote{Standing rules (Ley orgánica del Congreso) arts.\ 17 and 21.} So, for instance, a proposal restricting labor benefits to municipal health workers was referred to both the Public Health and Hacienda committees because a small appropriation for verification by the Labor Bureau was \todo{Find bill's date} required. Hacienda committee members, working in tandem with Finance Ministry staff, may or may not appropriate funds from the budget in their report to the floor \citep{aleman.navia.UrgChi.2009}. Not unlike the Appropriations and Rules committees in the U.S.\ House, Hacienda has the status of a control committee, a key asset for agenda power \citep{kiewiet.mccubbins.1991}. Hacienda referral therefore controls for a subset of generally important proposals, and should associate positively with the urgency authority. Next is \emph{Member bill}, equal 1 for legislator proposals (\emph{mociones}), 0 for executive proposals (\emph{mensajes}). The strong negative bi-variate association of the proposing branch and the urgency authority should remain when other factors are held constant. %An alternative specification of this variable consists of three separate dummies instead of one, with more precise control: \emph{Member bill, pres.~coal.-sp.} indicates legislator proposals with presidential coalition sponsors only (i.e., the sole sponsor or all co-sponsors belong to parties in the president's coalition at initiation), \emph{Member bill, opp.-sp.} those with opposition sponsors only, and \emph{Member bill, mix-sp.} those with a mixture of both. 
+The bill features group consists of \emph{Hacienda referral}, equal 1 for bills referred to the powerful Finance committee, 0 otherwise. The Hacienda committee has special status in the Chilean Congress and deserves a separate control. Unlike other standing committees, it has jurisdiction over \emph{every} bill authorizing spending in any domain. Moreover, the unanimous exception rule discussed earlier is inapplicable to Hacienda bills, which \emph{must} be reported prior to floor consideration.\footnote{Standing rules (Ley orgánica del Congreso) arts.\ 17 and 21.} So, for instance, a proposal restricting labor benefits to municipal health workers was referred to both the Public Health and Hacienda committees because a small appropriation for verification by the Labor Bureau was \todo{Find bill's date} required. Hacienda committee members, working in tandem with Finance Ministry staff, may or may not appropriate funds from the budget in their report to the floor \citep{aleman.navia.UrgChi.2009}. Not unlike the Appropriations and Rules committees in the U.S.\ House, Hacienda has the status of a control committee, a key asset for agenda power \citep{kiewiet.mccubbins.1991}. Hacienda referral therefore controls for a subset of generally important proposals, and should associate positively with the urgency authority. %Next is \emph{Member bill}, equal 1 for legislator proposals (\emph{mociones}), 0 for executive proposals (\emph{mensajes}). The strong negative bi-variate association of the proposing branch and the urgency authority should remain when other factors are held constant. %An alternative specification of this variable consists of three separate dummies instead of one, with more precise control: \emph{Member bill, pres.~coal.-sp.} indicates legislator proposals with presidential coalition sponsors only (i.e., the sole sponsor or all co-sponsors belong to parties in the president's coalition at initiation), \emph{Member bill, opp.-sp.} those with opposition sponsors only, and \emph{Member bill, mix-sp.} those with a mixture of both. 
 
 The strategic environment group includes three controls. \emph{Pres.~approval} is the net presidential approval at bill initiation (i.e., the percentage who approve of the president's job minus the percentage who disapprove).\footnote{Data are from the Centro de Estudios Públicos bi-yearly face-to-face opinion polls, available at \url{www.cepchile.cl}.} To the extent that presidents with higher public opinion rating are, other things constant, more successful in the legislative arena \citep{bond.fleisher.1990,aleman.navia.UrgChi.2009}, they should also need the urgency authority less often, and reliance might therefore drop. \emph{Introduced in Senate} equals 1 for bills initiated in the upper chamber, 0 otherwise. By virtue of being smaller, enjoying longer terms, and not being firmly in the president's coalition control during most of the period, bills sent or initiated in the Senate might present systematic differences in urgency usage. And \emph{Senate majority} \todo{check coding of =50} equals 1 if the president's coalition more than half of upper chamber seats when the bill was initiated, 0 otherwise.\footnote{Parties in the presidential and opposition coalitions were tied throughout most of the 1998--2006 Senate (majority briefly oscillating back and forth in the first years due to member indictments, impeachments, and deaths in both coalitions). Ties are coded as \emph{Senate minority} = 0.} Other things equal, presidents with sufficient partisan legislative resources in both chambers will find it easier to push proposals through Congress, and might be less inclined to use the urgency to successfully navigate log-rolls through the plenary session.
 
-The timing group controls for the congressional cycle. \emph{Year remaining} (and its squared value to capture non-linearity, if any) measures the percentage of legislative year remaining at bill initiation. Chilean legislative years begin at the end of the Summer break. So the variable adopts value 100 for proposals made on March 1 (the first day of the legislative year), and value 0 for proposals made February 28. It should control for stationarity in the data. And \emph{Relax deadlines} equals 1 for bills initiated in July 2010 or later, 0 otherwise. Any systematic shift in urgency usage attributable to the reform extending deadlines of high-degree notices five months into the 2010--14 Legislature should reflect in this coefficient. 
+The timing group controls for the congressional cycle. \emph{Year remaining} (and its squared value to capture non-linearity, if any) measures the percentage of legislative year remaining at bill initiation. Chilean legislative years begin after the (meridional) Summer break. So the variable adopts value 100 for proposals introduced on March 1 (the first day of the legislative year), and value 0 for proposals introduced the last day of February. It should control for stationarity in the data. And \emph{Relax deadlines} equals 1 for bills initiated in July 2010 or later, 0 otherwise. Any systematic shift in urgency usage attributable to the reform extending deadlines of high-degree notices five months into the 2010--14 Legislature should reflect in this coefficient. 
 
 %With presidential terms cut from six to four years in length starting in 2006, the Bachelet (2006--10) and Piñera (2010--14) terms were both perfectly coincident with concurrently elected Cámara's term. But the end of the Frei (from 1998 to 2000) and beginning of the Lagos (from 2000 to 2002) terms, however, overlapped a common Legislature, providing leverage to separate effects, if any, of the legistative and executive electoral timetables on the urgency. The temporal trends in the longitudinal urgency incidence plots are so distinctive that they should remain significant when other factors are controlled. 
 
 Given that observations from four elected Legislaturas, with important differences in the types and the volume of proposals considered \citep{aleman.navia.UrgChi.2009} are pooled, heterogeneity might interfere. So we fit two additional model specifications for robustness verification. One includes fixed Legislatura effects---i.e., three dummies for bills initiated in the 2002--06, 2006--10, and 2010--14 periods, respectively; the excluded 1998--2002 dummy is the baseline. Another adds further flexibility by also estimating separate errors for bills initiated in in each Legislatura \citep[a so-called mixed effects model,][:262,302]{gelman.hill.2007}. Estimation is with a generalized linear model for the mixed effects fit, and logit for the rest. We normalized continuous variables \emph{Pres.~approval} and \emph{Year remaining} to speed the GLM's convergence.\footnote{As suggested in \url{http://stackoverflow.com/questions/23478792/warning-messages-when-trying-to-run-glmer-in-r} and \url{https://rstudio-pubs-static.s3.amazonaws.com/33653_57fc7b8e5d484c909b615d8633c01d51.html}. Normalization re-scales and centers the measures in order to improve parameter identification.} Normalized measures were used throughout for model comparability.
 
 % next command removes proportional font in table's superscripts
-%(eval-after-load "latex-mode" '(fset 'tex-font-lock-suscript 'ignore)) 
+%(eval-after-load "tex-mode" '(fset 'tex-font-lock-suscript 'ignore)) 
 
 % dv12 controlling for comm chair, executive bills only
 % Table created by stargazer v.5.2 by Marek Hlavac, Harvard University. E-mail: hlavac at fas.harvard.edu
@@ -797,55 +797,55 @@ Given that observations from four elected Legislaturas, with important differenc
 % Requires LaTeX packages: dcolumn 
 \begin{table}%[!htbp]
   \centering 
-  \caption{Urgency predictors among executive bills. Dependent variable indicates urgent bills. Model 3 includes fixed Legislatura effects (not reported). Model 4 estimates separate error terms by Legislatura. Method of estimation: generalized linear model (model 4), others with logit.}\label{t:urgenLogit}
+  \caption{Executive bill urgency predictors. Model 3 includes fixed Legislatura effects (not reported). Model 4 estimates separate error terms by Legislatura. Method of estimation: generalized linear model (model 4), others with logit.}\label{t:urgenLogit}
   \begin{tabular}{@{\extracolsep{0pt}}lD{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} D{.}{.}{-3} } 
     \hline \\[-1.8ex] 
-    & \multicolumn{4}{c}{DV: Bill received urgency message} \\ 
+    & \multicolumn{4}{c}{DV: Bill received urgency (1) or not (0)} \\ 
     \\[-1.8ex] & \multicolumn{1}{c}{(1)} & \multicolumn{1}{c}{(2)} & \multicolumn{1}{c}{(3)} & \multicolumn{1}{c}{(4)}\\ 
     \\ [-1.8ex] 
     \hline \\[-1.8ex] 
-    \emph{Co-partisan}     &   .221^{*} &  &  &                                         \\
-    \emph{comm.~chair}     &  (.092) &  &  &                                            \\ [.75ex]
-    \emph{Coalition}       &   &  .746^{***} &  .831^{***} &  .800^{***}                \\
-    \emph{comm.~chair}     &   & (.004) & (.002) & (.002)                               \\ [.75ex]
-    \emph{Multiple}        &   .856^{***} &  .867^{***} &  .883^{***} &  .882^{***}     \\
-    \emph{referrals}       &  (<.001) & (<.001) & (<.001) & (<.001)                     \\ [.75ex]
-    \emph{Hacienda}        &  1.755^{***} & 1.695^{***} & 1.664^{***} & 1.668^{***}     \\
-    \emph{referral}        &  (<.001) & (<.001) & (<.001) & (<.001)                     \\ [.75ex]
-    \emph{Pres.}           &   .024 &  .004 &  .031 &  .011                             \\
-    \emph{approval}        &  (.741) & (.960) & (.698) & (.893)                         \\ [.75ex]
-    \emph{Introduced}      &   .211 &  .239 &  .248 &  .255                             \\
-    \emph{in Senate}       &  (.198) & (.147) & (.141) & (.129)                         \\ [.75ex]
-    \emph{Senate}          &   -.244 &  -.298 &  &                                      \\
-    \emph{majority}        &  (.246) & (.151) &  &                                      \\ [.75ex]
-    \emph{Year}            &   .053 &  .048 &  .020 &  .021                             \\
-    \emph{remaining}       &  (.371) & (.416) & (.738) & (.719)                         \\ [.75ex]
-    \emph{(Year}           &   -.217^{***} &  -.228^{***} &  -.245^{***} &  -.243^{***} \\
-    \emph{remaining)$^2$}  &  (<.001) & (<.001) & (<.001) & (<.001)                     \\ [.75ex]
-    \emph{Relax}           &   .696^{***} &  .696^{***} &  &                            \\
-    \emph{deadlines}       &  (.010) & (.008) &  &                                      \\ [.75ex]
-    %% \emph{2002-06 Leg.} &   &  &  .012 &                                             \\
-    %%                     &   &  & (.952) &                                            \\ [.75ex]
-    %% \emph{2006-10 Leg.} &   &  &  .621^{***} &                                       \\
-    %%                     &   &  & (.001) &                                            \\ [.75ex]
-    %% \emph{2010-14 Leg.} &   &  & 1.352^{***} &                                       \\
-    %%                     &   &  & (<.001) &                                           \\ [.75ex]
-    Intercept              &   -.628^{***} & -1.148^{***} & -1.754^{***} & -1.231^{***} \\
-                           &  (.009) & (<.001) & (<.001) & (.001)                       \\ [.75ex]
+    \emph{Co-partisan}     &  .333^{***} &  &  &                                        \\
+    \emph{comm.~chair}     & (.009) &  &  &                                             \\ [.75ex]
+    \emph{Coalition}       &  & 1.056^{***} & 1.139^{***} & 1.110^{***}                 \\
+    \emph{comm.~chair}     &  & (<.001) & (<.001) & (<.001)                             \\ [.75ex]
+    \emph{Multiple}        &  .603^{***} &  .623^{***} &  .631^{***} &  .631^{***}      \\
+    \emph{referrals}       & (<.001) & (<.001) & (<.001) & (<.001)                      \\ [.75ex]
+    \emph{Hacienda}        & 1.403^{***} & 1.324^{***} & 1.304^{***} & 1.308^{***}      \\
+    \emph{referral}        & (<.001) & (<.001) & (<.001) & (<.001)                      \\ [.75ex]
+    \emph{Pres.}           &  -.015 &  -.041 &  .029 &  .005                            \\
+    \emph{approval}        & (.837) & (.567) & (.710) & (.945)                          \\ [.75ex]
+    \emph{Introduced}      &  -.747^{***} &  -.733^{***} &  -.784^{***} &  -.771^{***}  \\
+    \emph{in Senate}       & (<.001) & (<.001) & (<.001) & (<.001)                      \\ [.75ex]
+    \emph{Senate}          &  -.303 &  -.382^{*} &  &                                   \\
+    \emph{majority}        & (.136) & (.057) &  &                                       \\ [.75ex]
+    \emph{Year}            &  .028 &  .020 &  .001 &  .002                              \\
+    \emph{remaining}       & (.627) & (.737) & (.983) & (.974)                          \\ [.75ex]
+    \emph{(Year}           &  -.242^{***} &  -.259^{***} &  -.275^{***} &  -.273^{***}  \\
+    \emph{remaining)$^2$}  & (<.001) & (<.001) & (<.001) & (<.001)                      \\ [.75ex]
+    \emph{Relax}           &  .647^{**} &  .591^{**} &  &                               \\
+    \emph{deadlines}       & (.012) & (.018) &  &                                       \\ [.75ex]
+    %% \emph{2002-06 Leg.} &  &  &  -.203 &                                             \\
+    %%                     &  &  & (.298) &                                             \\ [.75ex]
+    %% \emph{2006-10 Leg.} &  &  &  .302^{*} &                                          \\
+    %%                     &  &  & (.097) &                                             \\ [.75ex]
+    %% \emph{2010-14 Leg.} &  &  & 1.200^{***} &                                        \\
+    %%                     &  &  & (<.001) &                                            \\ [.75ex]
+    Intercept              &  -.743^{***} & -1.465^{***} & -1.977^{***} & -1.627^{***}  \\
+                           & (.002) & (<.001) & (<.001) & (<.001)                       \\ [.75ex]
     \hline \\[-1.8ex] 
     Effects & \multicolumn{1}{c}{none} & \multicolumn{1}{c}{none} & \multicolumn{1}{c}{fixed} & \multicolumn{1}{c}{mixed} \\ 
     Observations & \multicolumn{1}{c}{1,461} & \multicolumn{1}{c}{1,461} & \multicolumn{1}{c}{1,461} & \multicolumn{1}{c}{1,461} \\ 
-    Log$L$ & \multicolumn{1}{c}{-826} & \multicolumn{1}{c}{-823} & \multicolumn{1}{c}{-808} & \multicolumn{1}{c}{-816} \\ 
-    \% correct & \multicolumn{1}{c}{89} & \multicolumn{1}{c}{89} & \multicolumn{1}{c}{90} & \multicolumn{1}{c}{89} \\ 
-%% Akaike Inf. Crit.   & \multicolumn{1}{c}{1,672.929} & \multicolumn{1}{c}{1,666.552} & \multicolumn{1}{c}{1,638.488} & \multicolumn{1}{c}{1,650.522} \\ 
-%% Bayesian Inf. Crit. &   &  &  & \multicolumn{1}{c}{1,698.104} \\ 
+    Log$L$ & \multicolumn{1}{c}{-864} & \multicolumn{1}{c}{-860} & \multicolumn{1}{c}{-849} & \multicolumn{1}{c}{-857} \\ 
+    \% correct & \multicolumn{1}{c}{90} & \multicolumn{1}{c}{90} & \multicolumn{1}{c}{90} & \multicolumn{1}{c}{90} \\ 
+%%Akaike Inf. Crit. & \multicolumn{1}{c}{1,748.896} & \multicolumn{1}{c}{1,740.400} & \multicolumn{1}{c}{1,719.057} & \multicolumn{1}{c}{1,731.050} \\ 
+%%Bayesian Inf. Crit. &  &  &  & \multicolumn{1}{c}{1,778.632} \\ 
     \\ [-1.8ex] 
     \hline \\[-1.8ex] 
     & \multicolumn{4}{r}{\footnotesize $^{*}$p$<$.1; $^{**}$p$<$.05; $^{***}$p$<$.01 (p-values in parentheses)} \\ 
   \end{tabular} 
 \end{table} 
 
-\emm{New model, includes executive bills only. Could report member bills model separately (coalition chair doesn't work)}
+%\emm{New model, includes executive bills only. Excludes urgency messages in Senate (previously conflated with Cámara urgencias). Could report member bills model in the appendix (coalition chair doesn't work, but co-partisan does!), but adds little to our argument---urgent member bills seem to respond to a different logic.}
 
 Table \ref{t:urgenLogit} reports results.\footnote{Models fitted with \texttt{R} base's \texttt{glm} and library \texttt{lme4}'s \citep{lme4.2015}.} The regression model performs satisfactorily. A likelihood-ratio test of overall fit rejects the hypothesis, at below the .001 level, that an intercept-only fit is as good as our models. Predictors across model specifications correctly classify between 89 and 90 percent of the observations. Coefficient estimates confirm that, controlling other factors in the model, \emph{Co-partisan comm.~chair} has a positive coefficient in model 1, as expected. The effect achieves borderline conventional statistical significance, just above the .05 level (parentheses in the table report p-values). The evidence is stronger for the variable's other specification. The coefficient for \emph{Coalition comm.~chair} in models 2--4 is also positive, more than doubles in size, and achieves p-values between .02 and .03. As scholars have documented, the coalition is as good a predictor of presidential support in Congress---or better, in our case---as the party. The finding is robust across model specifications. In general, all model coefficients remain pretty much unchanged in size and significance when fixed and mixed effects are included in the right side (we are forced to drop variables \emph{Senate majority} and \emph{Relax deadlines} due to colinearity with Legislatura dummies). 
 
@@ -945,6 +945,38 @@ In this paper we elaborated some implications of this peculiar, inter-branch ins
 \emph{Year remaining}&      &  0   &  31 & 53   & 53.2 & 75   & 100   & 26.4 \\
 \emph{Pres.~approval}&      &-39.2 & -12 &  4.9 &  6.1 & 19.8 &  66.3 & 24   \\
 \end{tabular}
+
+\subsection{Act-now and two-week urgencies}
+
+The cámara's standing rules explicitly preclude the second committee report for bills tagged with a two-week or an act-now urgency, and rule out the bill's second reading by mandating that ``general'' (i.e., first reading) and ``particular'' (i.e., second reading) consideration take place simultaneously. 
+
+The text of the relevant Reglamento articles (in Spanish) follows. Excerpts are from the standing rules adopted in March 10, 2002 (with text updated to March 2010).  
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% ReglamDip arts 188 y 189: %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\singlespacing
+
+Art.~188. \emph{Cuando un proyecto sea declarado de ``\textbf{suma urgencia}'', se procederá a su discusión en la siguiente forma: \textbf{No habrá segundo informe de Comisión} y el proyecto deberá ser despachado por la Cámara en diez días, que se distribuirán así:
+$1^o$ Cinco días para el informe de Comisión.
+$2^o$ Tres días para el informe de la Comisión de Hacienda, si procediere.
+$3^o$ Dos días para la discusión y votación en la Sala.
+\textbf{La discusión se hará en general y particular a la vez}. Sólo se admitirán a discusión y votación las indicaciones o disposiciones que, rechazadas por la Comisiones informantes, sean renovadas con las firmas de treinta Diputados que incluyan, a lo menos, a tres Jefes de Comités. Para tal efecto, los informes consignarán expresamente estas circunstancias.} [...]
+%Lo dispuesto en este número se debe entender sin perjuicio de lo establecido en el inciso segundo del artículo 132 (declaratoria de terminada la discusión).
+
+Art.~189. \emph{Cuando un proyecto sea declarado de ``\textbf{discusión inmediata}'', se procederá a su discusión y votación en la forma siguiente:
+El proyecto deberá ser despachado por la Cámara en tres días, que se distribuirán así:
+$1^o$ Un día para el informe de la Comisión competente, que puede ser verbal o escrito.
+$2^o$ Un día para el informe de la Comisión de Hacienda, si procediere, que puede ser verbal o escrito.
+$3^o$ Un día para la discusión y votación del proyecto.
+Lo dispuesto en este N$^o$ 3 deberá entenderse sin perjuicio de lo establecido en el inciso segundo del artículo 132 (renuncia de Comités a su tiempo).
+Para los demás trámites Constitucionales tendrá la Cámara un día adicional.
+\textbf{La discusión de estos proyectos se hará en general y particular a la vez. No serán sometidos a segundo informe.}}
+
+\onehalfspacing
+
+
 
 
 %% TODO ESTO VIENE DE ANTERIOR VERSION... DESCOMENTAR PARA VER QUE ES RESCATABLE

@@ -1,0 +1,128 @@
+#+TITLE: Legislative Activity and Output panel comments
+#+SUBTITLE: APSA meeting, SF
+#+AUTHOR: Eric Magar
+#+DATE:  <2017-09-02 Sat>
+#+OPTIONS: toc:nil # don't place toc in default location
+
+* Chris Kam and Oli Proksch paper  
+
+- Builds upon the classic Westminster dichotomy:
+
+a. government = sets the agenda
+
+b. opposition = checks govt: vocal critique, votes against
+
+- Growing evidence that circumstances actually matter. Authors seek to verify how well this holds empirically. 
+
+- Goal: conditions of opposition disagreement variance
+
+- Approach: sentiment analysis of govt bill debates in plenary session in Canada and Germany
+
+- Measure: positive/negative terms ratio in speech --- using fixed dictionnaries
+
+- Finding: systematic patterns controlling for 
+
+a. maj/coal/min government
+
+b. electoral cycle
+
+c. party/country idiosyncracies
+
+- *Comments*
+
+** Offer illustration of speech coding
+
+One in German, one in English (what about Québecois MPs?)
+
+** Govt type perfectly predicts cases selected
+
+|            | Canada | Germany |
+|------------+--------+---------|
+| maj        | Y      | N       |
+| coal       | N      | Y       |
+| grand coal | N      | Y       |
+| min        | Y      | N       |
+
+Add other (English- and German-speaking) cases for variance: Autralia, New Zealand, Caribbean? Austria, German Landtags, Switzerland?
+
+** Offer discussion of w/i govt and w/i pty variance
+Maybe different paper, but focus on intra-coalition or inter-party variance would be interesting.
+
+Eg. H3a: minGov opposition sentiment should be differentiated, some (supporting bill) positive, others (rest) negative/neutral
+
+Eg. coalGov some parties ought to be more enthusiastic than others on quid pro quo legislation.
+
+** Agenda power and restrictions on speech content
+
+Check Bryce Dietrich's analysis of audio and video speech: variation in voice pitch to detect enthusiasm, sarcasm, etc. in positive or negative words. Should be useful to deal with hypotheses of w/i variation. 
+
+** Elaborate on electoral calendar endogeneity
+
+Are snap elections considered in coding? Even if snap election unobserved, threat may hang and have systematic effect.
+
+** Another hypothesis 
+
+H3b: minGov positive opposition sentiment should drop as election cycle progresses.
+
+
+* Craig Volden and Alan Wiseman paper
+
+- Paper extends the Legislative Effectiveness Score methodology to the Senate, with appication to the 93--113th Congresses.
+
+- The measure has joint scholarly and journalistic appeal.
+
+- Harder for me to comment on this paper.
+
+(a) method is well-established and elaborated elsewhere in detail
+
+(b) as a comparative politics scholar, not familiar with the book (sorry!)
+
+- *Comments*
+
+** The method
+
+In the House, score results from number of five subsequent septs that the bill navigated
+
+1. proposal
+2. comm. action
+3. post-comm. action
+4. pass House
+5. become law
+
+while categorizing bill as
+
+1. commemorative
+2. substantive
+3. substantive and significant
+
+-> (b) are 5x more important that (a), (c) are 2x more important than (b)... How sensible are results to this (arbitrary) convention? Elaborate on robustness.
+
+** Sequential steps
+
+Does it make sense to earn "effectiveness" points for intermediate steps of the leg. process? 
+
+Despite not beating Harvard and Stanford as top department, Yale or UofM remain in top-10. 
+
+Can't say the same of member who systematically passes Senate but never becomes law. You can't deliver unless you reach the end.
+
+** Senate Rule XIV
+
+To bypass committee reporting. Offer illustration of how this is coded/handled. Does the bill "lose" the points from 2nd step?
+
+** In a less hierarchical assembly
+
+Negative influence matters more, it is more visible (dilatory actions can't be prevented). Authors recognize that this is something that LES fails to consider. Fine for House, but for Senate too? Please expand on measure validity in more horizontal/open-skies assembly.
+
+Same for amendments when fewer restrictive rules apply.
+
+** How well does LES travel?
+
+To systems with less incentives to cultivate a personal vote?
+
+With more party discipline? 
+
+How does the measure look for UK MPs? Or Canada's? In Israel? Mexico?
+
+Could the "trip" from House to Senate inform the latter? Would a trip to 19th Centtury House help?
+
+ 
