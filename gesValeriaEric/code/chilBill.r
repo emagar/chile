@@ -6509,6 +6509,36 @@ load(file = "dataForUrgencyRegressions.RData")                      ##
 options(width = 140)                                                ##
 library(lubridate); library(plyr)
 
+# recode new urgencia dummy to control for chamber where it happened
+bills$info$nSimpleSen <- bills$info$nSumaSen <- bills$info$nInmedSen <- bills$info$nUrgSen <- bills$info$nSimpleCam <- bills$info$nSumaCam <- bills$info$nInmedCam <- bills$info$nUrgCam <- NA # open slots
+sel <- which(bills$info$hasUrg=="yes") # index rows with some urgency
+bills$info$nSimpleSen[-sel] <- bills$info$nSumaSen[-sel] <- bills$info$nInmedSen[-sel] <- bills$info$nSimpleCam[-sel] <- bills$info$nSumaCam[-sel] <- bills$info$nInmedCam[-sel] <- 0 # rest have zero urgency
+for(i in sel){
+    #i <- 6985 # debug
+    message(sprintf("loop %s of %s", i, max(sel)))
+    tmp <- bills$urg[[i]]
+    sel2 <- which(tmp$tramite=="dip"|tmp$tramite=="conf")
+    bills$info$nUrgCam[i] <- length(sel2) 
+    sel2 <- which( (tmp$tramite=="dip"|tmp$tramite=="conf") & tmp$type=="Simple")
+    bills$info$nSimpleCam[i] <- length(sel2) 
+    sel2 <- which( (tmp$tramite=="dip"|tmp$tramite=="conf") & tmp$type=="Suma")
+    bills$info$nSumaCam[i] <- length(sel2)
+    sel2 <- which( (tmp$tramite=="dip"|tmp$tramite=="conf") & tmp$type=="Discusión inmediata")
+    bills$info$nInmedCam[i] <- length(sel2) 
+    sel2 <- which(tmp$tramite=="sen"|tmp$tramite=="conf")
+    bills$info$nUrgSen[i] <- length(sel2) 
+    sel2 <- which( (tmp$tramite=="sen"|tmp$tramite=="conf") & tmp$type=="Simple")
+    bills$info$nSimpleSen[i] <- length(sel2) 
+    sel2 <- which( (tmp$tramite=="sen"|tmp$tramite=="conf") & tmp$type=="Suma")
+    bills$info$nSumaSen[i] <- length(sel2)
+    sel2 <- which( (tmp$tramite=="sen"|tmp$tramite=="conf") & tmp$type=="Discusión inmediata")
+    bills$info$nInmedSen[i] <- length(sel2)
+}
+## # many urgencias in senate only...
+## table(bills$info$nInmedCam>0, bills$info$nInmed>0)
+## table(bills$info$nSumaCam>0, bills$info$nSuma>0)
+## table(bills$info$nSimpleCam>0, bills$info$nSimple>0)
+
 # LOGIT ON WHETHER NOT BILL DECLARED URGENT
 sel <- which(bills$info$dateIn>=dmy("11/3/1998", tz = "chile") & bills$info$dateIn<dmy("11/3/2014", tz = "chile"))
 #sel <- which(bills$info$dateIn>=dmy("11/3/1998", tz = "chile") & bills$info$dateIn<dmy("11/3/2014", tz = "chile") & bills$info$dmensaje==1)
@@ -6633,11 +6663,11 @@ tmpdat$dreform2010 <- 0
 sel <- which(tmpdat$dateIn >= dmy("1-7-2010", tz = "chile")); tmpdat$dreform2010[sel] <- 1
 #
 colnames(tmpdat)
-tmpdat$dv <- 0; tmpdat$dv[tmpdat$nUrg>0] <- 1
-tmpdat$dv1 <- 0; tmpdat$dv1[tmpdat$nInmed>0] <- 1
-tmpdat$dv2 <- 0; tmpdat$dv2[tmpdat$nSuma>0] <- 1
-tmpdat$dv12 <- 0; tmpdat$dv12[tmpdat$nInmed>0 | tmpdat$nSuma>0] <- 1
-tmpdat$dv3 <- 0; tmpdat$dv3[tmpdat$nSimple>0] <- 1
+tmpdat$dv <- 0; tmpdat$dv[tmpdat$nUrgCam>0] <- 1
+tmpdat$dv1 <- 0; tmpdat$dv1[tmpdat$nInmedCam>0] <- 1
+tmpdat$dv2 <- 0; tmpdat$dv2[tmpdat$nSumaCam>0] <- 1
+tmpdat$dv12 <- 0; tmpdat$dv12[tmpdat$nInmedCam>0 | tmpdat$nSumaCam>0] <- 1
+tmpdat$dv3 <- 0; tmpdat$dv3[tmpdat$nSimpleCam>0] <- 1
 #
 tmpdat$pctpdt <- tmpdat$pctcon; sel <- which(tmpdat$dateIn >= dmy("11-3-2010", tz = "chile")); tmpdat$pctpdt[sel] <- tmpdat$pctright[sel]
 tmpdat$dmocion <- (1 - tmpdat$dmensaje)
@@ -6703,30 +6733,6 @@ summary(fit4e)
 library(arm)
 display(fit4e)
 
-# recode new urgencia dummy to control for chamber where it happened
-bills$info$nSimpleSen <- bills$info$nSumaSen <- bills$info$nInmedSen <- bills$info$nSimpleCam <- bills$info$nSumaCam <- bills$info$nInmedCam <- NA # open slots
-sel <- which(bills$info$hasUrg=="yes") # index rows with some urgency
-bills$info$nSimpleSen[-sel] <- bills$info$nSumaSen[-sel] <- bills$info$nInmedSen[-sel] <- bills$info$nSimpleCam[-sel] <- bills$info$nSumaCam[-sel] <- bills$info$nInmedCam[-sel] <- 0 # rest have zero urgency
-for(i in sel){
-    #i <- 6985 # debug
-    message(sprintf("loop %s of %s", i, max(sel)))
-    tmp <- bills$urg[[i]]
-    sel2 <- which( (tmp$tramite=="dip"|tmp$tramite=="conf") & tmp$type=="Simple")
-    bills$info$nSimpleCam==length(sel2) 
-    sel2 <- which( (tmp$tramite=="dip"|tmp$tramite=="conf") & tmp$type=="Suma")
-    bills$info$nSumaCam==length(sel2)
-    sel2 <- which( (tmp$tramite=="dip"|tmp$tramite=="conf") & tmp$type=="Discusión inmediata")
-    bills$info$nInmedCam==length(sel2) 
-    sel2 <- which( (tmp$tramite=="sen"|tmp$tramite=="conf") & tmp$type=="Simple")
-    bills$info$nSimpleSen==length(sel2) 
-    sel2 <- which( (tmp$tramite=="sen"|tmp$tramite=="conf") & tmp$type=="Suma")
-    bills$info$nSumaSen==length(sel2)
-    sel2 <- which( (tmp$tramite=="sen"|tmp$tramite=="conf") & tmp$type=="Discusión inmediata")
-    bills$info$nInmedSen==length(sel2)
-}
-
-
-    
 
 ## GRAFICA MATRIZ DE CORRELACIONES: COOL!
 #tmp <- cor(dat[,-grep("Extend|Shorten|Retire|d2010|nses", colnames(dat))])
@@ -6891,95 +6897,29 @@ gr <- "../graphs/"
 #
 #pdf (file = paste(gr, "avgMgEffects.pdf", sep = ""), width = 7, height = 5)
 par(mar=c(4,2,2,2)+0.1) # drop title space and left space
-plot(x=c(-.3,.35),
+plot(x=c(-.4,.35),
      y=-c(1,nrow(mar3)),
      type="n", axes = FALSE,
      xlab = "Average marginal effect",
      ylab = "")
-abline(v=seq(-.1, .35, .05), col = "gray70")
+abline(v=seq(-.2, .35, .05), col = "gray70")
 abline(v=0, lty=2)
 abline(h=seq(-1,-nrow(mar3),-1), col = "gray70")
-axis(1, at = seq(-.1, .35, .05), labels = FALSE)
-axis(1, at = seq(-.1, .3, .1))
+axis(1, at = seq(-.2, .35, .05), labels = FALSE)
+axis(1, at = seq(-.2, .3, .1))
 for (i in c(-1:-nrow(mar3))){
     points(y=i, x=mar3$AME[-i], pch=20, cex=1.5, col = "black")
     lines(y=rep(i, 2), x=c(mar3$lower[-i],mar3$upper[-i]), lwd = 2, col = "black")
 }
 #mar3$factor
-polygon(x= c(-.35,-.12,-.12,-.35), y=c(-11,-11,0,0), col = "white", border = "white")
-text(x=-.3, y=-1:-nrow(mar3), labels=tmp, pos=4)
+polygon(x= c(-.45,-.22,-.22,-.45), y=c(-11,-11,0,0), col = "white", border = "white")
+text(x=-.425, y=-1:-nrow(mar3), labels=tmp, pos=4)
 #dev.off()
 
 
 ##########################
 # simulations start here #
 ##########################
-# std error version
-sims2 <- with(tmpdat,
-              data.frame(dsameCoal=c(0,1),
-                         dmultiRef=0,
-                         dmocion= 0,
-                         drefHda=1,
-                         dmajSen=0,
-                         dinSen=0,
-                         legyrR=seq(from=(min(legyrR)-.05), to=(max(legyrR)+.05), length.out = 100),
-                         legyrR2=seq(from=(min(legyrR)-.05), to=(max(legyrR)+.05), length.out = 100)^2,
-                         dreform2010=1,
-                         netApprovR=median(netApprovR),
-                         ## yr14 = 3,
-                         ## legis = 2010,
-                         ## drefCiencia =0,
-                         ## drefComunic  =0,
-                         ## drefConst =0,
-                         ## drefCultura =0,
-                         ## drefDefensa =0,
-                         ## drefDDHH     =1,
-                         ## drefEco =0,
-                         ## drefEduc    =0,
-                         ## drefFamilia =0,
-                         ## drefInterior =c(0,1),
-                         ## drefMedAmb  =0,
-                         ## drefMineria =0,
-                         ## drefObras    =0,
-                         ## drefPesca =0,
-                         ## drefRREE    =0,
-                         ## drefRecNatur=0,
-                         ## drefRegimen  =0,
-                         ## drefSalud =0,
-                         ## drefSegurid =0,
-                         ## drefTrabajo =0,
-                         ## drefVivienda =0,
-                         ## drefZonas =0                 
-                         )
-              )
-sims2$pr <- predict(fit2, newdata = sims2, type = "response")
-sims2 <- cbind(sims2, predict(fit2, newdata = sims2, type="link", se=TRUE))
-sims2 <- within(sims2, {
-  PredictedProb <- plogis(fit)
-  LL <- plogis(fit - (1.96 * se.fit))
-  UL <- plogis(fit + (1.96 * se.fit))
-})
-sims2$legyr <- seq(from=1, to=0, length.out = 100) # for plot
-head(sims2)
-library(ggplot2)
-gr <- "../graphs/"
-#pdf (file = paste(gr, "predictedPr.pdf", sep = ""), width = 7, height = 4)
-## ggplot(sims2, aes(x = legyr, y = PredictedProb)) +
-##     geom_ribbon(aes(ymin = LL, ymax = UL, fill = factor(dsameCoal)), alpha = .2) +
-##     geom_line(aes(colour = factor(dsameCoal)), size=1) +
-##     labs(fill = "Coalition chair", colour = "Coalition chair",
-##          x = "Legislative year remaining (in months)",
-##          y = "Predicted probability") +
-##     scale_x_continuous(breaks=seq(from=0, to=1, length.out=7), labels=seq(from=12, to=0, by=-2))
-ggplot(sims2, aes(x = legyr, y = PredictedProb)) +
-    geom_ribbon(aes(ymin = LL, ymax = UL, fill = factor(drefInterior)), alpha = .2) +
-    geom_line(aes(colour = factor(drefInterior)), size=1) +
-    labs(fill = "Coalition chair", colour = "Coalition chair",
-         x = "Legislative year remaining (in months)",
-         y = "Predicted probability") +
-    scale_x_continuous(breaks=seq(from=0, to=1, length.out=7), labels=seq(from=12, to=0, by=-2))
-#dev.off()
-
 # std error version
 sims3 <- with(tmpdat,
               data.frame(dsameCoal=c(0,1),

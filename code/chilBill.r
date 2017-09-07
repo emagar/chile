@@ -4856,6 +4856,11 @@ load(file = "tmp.RData")                                            ##
 options(width = 140)                                                ##
 library(lubridate); library(plyr)
 
+tmp <- bills$info
+sel <- which(tmp$drefSalud==1 & tmp$drefHda==1)
+grep("[Mm]unicip", tmp$titulo[sel])
+tmp$bol[sel[23]]
+
 ### summarize weekly reports
 #tmp <- RepDataNegBin$weeklyReportsAndUrgenciasToAllBills
 tmp <- RepDataNegBin$weeklyReportsAndUrgenciasToAllBills
@@ -5896,167 +5901,6 @@ allUrg$chains[sel,]
 sel <- which(allUrg$messages$bol=="7007-18")
 allUrg$messages[sel,]
 
-# SOME DESCRIPTIVES (Processed in separate spreadsheet descriptives.ods)
-table(bills$info$dmensaje)
-table(bills$info$dpassed)
-table(bills$info$dpassed[bills$info$dmensaje==0])
-table(bills$info$dpassed[bills$info$dmensaje==1])
-tmp <- bills$info$nUrg; tmp[tmp>0] <- 1; table(tmp); round(table(tmp)*100/I,0) # <-- with at least one urgency message
-table(tmp[bills$info$dmensaje==0])
-table(tmp[bills$info$dmensaje==1])
-table(tmp[bills$info$dpassed==1 & bills$info$dmensaje==0])
-table(tmp[bills$info$dpassed==1 & bills$info$dmensaje==1])
-
-tmp <- bills$info$nInmed + bills$info$nSuma; tmp[tmp>0] <- 1; table(tmp); round(table(tmp)*100/I,0) # <-- with at least one act now or 2 wk urgency message
-table(tmp[bills$info$dmensaje==0])
-table(tmp[bills$info$dmensaje==1])
-table(tmp[bills$info$dpassed==1 & bills$info$dmensaje==0])
-table(tmp[bills$info$dpassed==1 & bills$info$dmensaje==1])
-
-tmp <- bills$info$nInmed; tmp[tmp>0] <- 1; table(tmp); round(table(tmp)*100/I,0) # <-- with at least one act now urgency message
-table(tmp[bills$info$dmensaje==0])
-table(tmp[bills$info$dmensaje==1])
-table(tmp[bills$info$dpassed==1 & bills$info$dmensaje==0])
-table(tmp[bills$info$dpassed==1 & bills$info$dmensaje==1])
-
-tmp <- bills$info$nSuma; tmp[tmp>0] <- 1; table(tmp); round(table(tmp)*100/I,0) # <-- with at least one 2 wk urgency message
-table(tmp[bills$info$dmensaje==0])
-table(tmp[bills$info$dmensaje==1])
-table(tmp[bills$info$dpassed==1 & bills$info$dmensaje==0])
-table(tmp[bills$info$dpassed==1 & bills$info$dmensaje==1])
-
-tmp <- bills$info$nSuimple; tmp[tmp>0] <- 1; table(tmp); round(table(tmp)*100/I,0) # <-- with at least one 4 wk urgency message
-table(tmp[bills$info$dmensaje==0])
-table(tmp[bills$info$dmensaje==1])
-table(tmp[bills$info$dpassed==1 & bills$info$dmensaje==0])
-table(tmp[bills$info$dpassed==1 & bills$info$dmensaje==1])
-
-#
-table(bills$info$urgIn)
-table(bills$info$urgIn[bills$info$dpassed==0])
-table(bills$info$urgIn[bills$info$dpassed==1])
-#
-table(bills$info$urgIn[bills$info$dpassed==0 & bills$info$dmensaje==0])
-table(bills$info$urgIn[bills$info$dpassed==1 & bills$info$dmensaje==0])
-table(bills$info$urgIn[bills$info$dpassed==0 & bills$info$dmensaje==1])
-table(bills$info$urgIn[bills$info$dpassed==1 & bills$info$dmensaje==1])
-#
-table(bills$info$nUrg)
-#
-# Whose leg-init bills are declared urgent?
-# cut % sponsors into categories of Concertación sponsors
-tmp <- cut(x = bills$info$pctcon, breaks = c(0, 1, 25, 50, 75, 99, 100), labels = c("0","1-25","25-50","51-75","76-99","100"), include.lowest = TRUE)
-# select pre-piñera
-sel <- which(bills$info$dmensaje==0 & bills$info$dateIn<dmy("1/3/2010", tz = "chile") & bills$info$nUrg>0)
-round(table(tmp[sel]) / length(sel), digits = 2)
-length(sel)
-# select piñera
-sel <- which(bills$info$dmensaje==0 & bills$info$dateIn>=dmy("1/3/2010", tz = "chile") & bills$info$dateIn<dmy("1/3/2014", tz = "chile")  & bills$info$nUrg>0) # piñera
-round(table(tmp[sel]) / length(sel), digits = 2)
-length(sel)
-# select all
-sel <- which(bills$info$dmensaje==0 & bills$info$nUrg>0)
-round(table(tmp[sel]) / length(sel), digits = 2)
-length(sel)
-#
-# INITIATION OF EXEC BILLS TAKES ADVANTAGE OF FRIENDLIER SENATE
-# select lagos first two years (con sen, large con maj in dip)
-sel <- which(bills$info$dmensaje==1 & bills$info$dateIn>=dmy("1/3/2000", tz = "chile") & bills$info$dateIn<dmy("1/3/2002", tz = "chile"))
-round(table(bills$info$init[sel]) / length(sel), digits = 2)
-length(sel)
-# select lagos four last years (tied sen, con maj in dip)
-sel <- which(bills$info$dmensaje==1 & bills$info$dateIn>=dmy("1/3/2002", tz = "chile") & bills$info$dateIn<dmy("1/3/2006", tz = "chile"))
-round(table(bills$info$init[sel]) / length(sel), digits = 2)
-length(sel)
-#
-## BILLS WITH REPORT OBSERVED WITHIN URGENCY DEADLINE
-allUrg$messages$drepInDeadline <- 0 # add column for data
-for (i in 1:nrow(allUrg$messages)){
-    #i <- 2 # debug
-    message(sprintf("loop %s of %s", i, nrow(allUrg)))
-    j <- which(bills$info$bol==allUrg$bol[i])
-    if (bills$info$hasReport[j]=="no") next
-    tmp2 <- bills$reports[[j]]$date
-    tmp <- interval(allUrg$messages$on[i], allUrg$messages$deadline[i])
-    if (any( (tmp2 %within% tmp) == TRUE )==TRUE) allUrg$messages$drepInDeadline[i] <- 1 # if any report within dealine, code 1
-}
-#
-# select dates to report
-sel <- which(zeUrg$on >= dmy("11-03-2006", tz = "chile") & zeUrg$on < dmy("11-03-2014", tz = "chile"))
-tmp <- allUrg$messages[sel,]
-#
-table(tmp$drepInDeadline[ tmp$typeN==1 ] )
-table(tmp$drepInDeadline[ tmp$typeN==2 ] )
-table(tmp$drepInDeadline[ tmp$typeN==3 ] )
-table(tmp$drepInDeadline[ tmp$typeN==4.1 ] )
-table(tmp$drepInDeadline[ tmp$typeN==4.2 | tmp$typeN==4.3 ] )
-table(tmp$drepInDeadline[ tmp$typeN > 5 ] )
-table(tmp$drepInDeadline)
-#
-## # COMMITTEE REFERRAL---UNFINISHED, needs to clean comm to extract second committee and extraneous stuff, see table(
-## ref <- bills$hitos
-## for (i in 1:I){
-## #    i <- 110 # debug
-##     message(sprintf("loop %s of %s", i, I))
-##     tmp <- ref[[i]]
-##     tmp <- tmp[grep(pattern = "[Cc]uenta (de )*[Pp]royecto. Pasa a [Cc]om", x = tmp$action),] # subset lines
-##     tmp$comm <- sub(pattern = "[Cc]uenta.*[Pp]asa a (.*)", replacement = "\\1", tmp$action)   # extract committee
-##     tmp$comm <- sub(pattern = "^la (.*)", replacement = "\\1", tmp$comm)                      # filter extract
-##     tmp$comm <- sub(pattern = "(.*). Se manda poner en conocimiento de la Corte Suprema", replacement = "\\1", tmp$comm)   # filter extract
-##     tmp$comm <- sub(pattern = "(.*). Se remite el proyecto a la Corte Suprema.", replacement = "\\1", tmp$comm)            # filter extract
-##     tmp$comm <- sub(pattern = "(.*); y a la Excma. Corte Suprema.", replacement = "\\1", tmp$comm)                         # filter extract
-##     tmp$comm <- sub(pattern = "(.*) Ver$", replacement = "\\1", tmp$comm)                                                  # filter extract
-##     tmp <- tmp[,c("date","chamber","tramite","bol", "comm")]
-##     ref[[i]] <- tmp
-## }
-## #
-## # CREATE ONE LARGE DATA FRAME WITH ALL REFERRALS
-## tmp <- ldply(ref, data.frame) # unlist the data.frames into one large data.frame
-## tmp$comm <- sub(pattern = "(.*). Este proyecto no podrá tratarse hasta que no sea incluido en la convocatoria a Legislatura Extraordinaria.", replacement = "\\1", tmp$comm)                                                  # filter comm
-## tmp$comm <- sub(pattern = "(.*). No podrá ser tratado mientras Pdte. Rep. no lo incluya en la convocatoria a L.Ext. ", replacement = "\\1", tmp$comm)                                                  # filter comm
-## # slot for 2nd comm
-## tmp$comm2 <- ""
-## sel <- grep("y a la de Hacienda", tmp$comm)
-## tmp$comm2[sel] <- sub(pattern = ".*y a la de (Hacienda.*)", replacement = "\\1", tmp$comm[sel])
-## tmp$comm[sel] <- sub(pattern = "(.*)y a la de Hacienda.*", replacement = "\\1", tmp$comm[sel])
-## sel <- grep("y a Comisión", tmp$comm)
-## tmp$comm2[sel] <- sub(pattern = ".*y a (Comisión.*)", replacement = "\\1", tmp$comm[sel])
-## tmp$comm[sel] <- sub(pattern = "(.*)y a Comisión.*", replacement = "\\1", tmp$comm[sel])
-## sel <- grep("y a la Comisión", tmp$comm)
-## tmp$comm2[sel] <- sub(pattern = ".*y a la (Comisión.*)", replacement = "\\1", tmp$comm[sel])
-## tmp$comm[sel] <- sub(pattern = "(.*)y a la Comisión.*", replacement = "\\1", tmp$comm[sel])
-## #
-## table(tmp$comm)
-## #
-## sel <- which(bills$info$drefHda==1)
-## bills$info$bol[sel[10]] # no reporta primera comisión en iniciadora...
-#
-# URGENCY MESSAGE FREQUENCIES (exported directly for latex table, need to add N)
-tmp <- allUrg$messages
-#
-sel <- which(tmp$on >= dmy("11/3/1998", tz = "chile") & tmp$on < dmy("11/3/2002", tz = "chile"))
-tmp1 <- round( table(tmp$typeN[sel]) *100 / length(sel), digits = 1 )
-length(sel)
-#
-sel <- which(tmp$on >= dmy("11/3/2002", tz = "chile") & tmp$on < dmy("11/3/2006", tz = "chile"))
-tmp2 <- round( table(tmp$typeN[sel]) *100 / length(sel), digits = 1 )
-length(sel)
-#
-sel <- which(tmp$on >= dmy("11/3/2006", tz = "chile") & tmp$on < dmy("11/3/2010", tz = "chile"))
-tmp3 <- round( table(tmp$typeN[sel]) *100 / length(sel), digits = 1 )
-length(sel)
-#
-sel <- which(tmp$on >= dmy("11/3/2010", tz = "chile") & tmp$on < dmy("11/3/2014", tz = "chile"))
-tmp4 <- round( table(tmp$typeN[sel]) *100 / length(sel), digits = 1 )
-length(sel)
-#
-sel <- which(tmp$on >= dmy("11/3/1998", tz = "chile") & tmp$on < dmy("11/3/2014", tz = "chile"))
-tmp5 <- round( table(tmp$typeN[sel]) *100 / length(sel), digits = 1 )
-length(sel)
-
-library(xtable)
-xtable(tmp1, digits=0); xtable(tmp2, digits=0); xtable(tmp3, digits=0); xtable(tmp4, digits=0); xtable(tmp5, digits=0)
-
 # summarize urgency chain types
 # OJO: drops messages in period that referred to bills proposed before the period, in order to match the N with chain regressions
 tmp <- dmy(c("11-03-1990", "11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
@@ -6539,6 +6383,170 @@ for(i in sel){
 ## table(bills$info$nSumaCam>0, bills$info$nSuma>0)
 ## table(bills$info$nSimpleCam>0, bills$info$nSimple>0)
 
+# SOME DESCRIPTIVES (Processed in separate spreadsheet descriptives.ods)
+table(bills$info$dmensaje)
+table(bills$info$dpassed)
+table(bills$info$dpassed[bills$info$dmensaje==0])
+table(bills$info$dpassed[bills$info$dmensaje==1])
+tmp <- bills$info$nUrgCam; tmp[tmp>0] <- 1; table(tmp); round(table(tmp)*100/I,0) # <-- with at least one urgency message
+table(tmp[bills$info$dmensaje==0])
+table(tmp[bills$info$dmensaje==1])
+table(tmp[bills$info$dpassed==1 & bills$info$dmensaje==0])
+table(tmp[bills$info$dpassed==1 & bills$info$dmensaje==1])
+
+tmp <- bills$info$nInmedCam + bills$info$nSumaCam; tmp[tmp>0] <- 1; table(tmp); round(table(tmp)*100/I,0) # <-- with at least one act now or 2 wk urgency message
+table(tmp[bills$info$dmensaje==0])
+table(tmp[bills$info$dmensaje==1])
+table(tmp[bills$info$dpassed==1 & bills$info$dmensaje==0])
+table(tmp[bills$info$dpassed==1 & bills$info$dmensaje==1])
+
+tmp <- bills$info$nInmedCam; tmp[tmp>0] <- 1; table(tmp); round(table(tmp)*100/I,0) # <-- with at least one act now urgency message
+table(tmp[bills$info$dmensaje==0])
+table(tmp[bills$info$dmensaje==1])
+table(tmp[bills$info$dpassed==1 & bills$info$dmensaje==0])
+table(tmp[bills$info$dpassed==1 & bills$info$dmensaje==1])
+
+tmp <- bills$info$nSumaCam; tmp[tmp>0] <- 1; table(tmp); round(table(tmp)*100/I,0) # <-- with at least one 2 wk urgency message
+table(tmp[bills$info$dmensaje==0])
+table(tmp[bills$info$dmensaje==1])
+table(tmp[bills$info$dpassed==1 & bills$info$dmensaje==0])
+table(tmp[bills$info$dpassed==1 & bills$info$dmensaje==1])
+
+tmp <- bills$info$nSimpleCam; tmp[tmp>0] <- 1; table(tmp); round(table(tmp)*100/I,0) # <-- with at least one 4 wk urgency message
+table(tmp[bills$info$dmensaje==0])
+table(tmp[bills$info$dmensaje==1])
+table(tmp[bills$info$dpassed==1 & bills$info$dmensaje==0])
+table(tmp[bills$info$dpassed==1 & bills$info$dmensaje==1])
+
+#
+table(bills$info$urgIn)
+table(bills$info$urgIn[bills$info$dpassed==0])
+table(bills$info$urgIn[bills$info$dpassed==1])
+#
+table(bills$info$urgIn[bills$info$dpassed==0 & bills$info$dmensaje==0])
+table(bills$info$urgIn[bills$info$dpassed==1 & bills$info$dmensaje==0])
+table(bills$info$urgIn[bills$info$dpassed==0 & bills$info$dmensaje==1])
+table(bills$info$urgIn[bills$info$dpassed==1 & bills$info$dmensaje==1])
+#
+table(bills$info$nUrg)
+#
+# Whose leg-init bills are declared urgent?
+# cut % sponsors into categories of Concertación sponsors
+tmp <- cut(x = bills$info$pctcon, breaks = c(0, 1, 25, 50, 75, 99, 100), labels = c("0","1-25","25-50","51-75","76-99","100"), include.lowest = TRUE)
+# select pre-piñera
+sel <- which(bills$info$dmensaje==0 & bills$info$dateIn<dmy("1/3/2010", tz = "chile") & bills$info$nUrg>0)
+round(table(tmp[sel]) / length(sel), digits = 2)
+length(sel)
+# select piñera
+sel <- which(bills$info$dmensaje==0 & bills$info$dateIn>=dmy("1/3/2010", tz = "chile") & bills$info$dateIn<dmy("1/3/2014", tz = "chile")  & bills$info$nUrg>0) # piñera
+round(table(tmp[sel]) / length(sel), digits = 2)
+length(sel)
+# select all
+sel <- which(bills$info$dmensaje==0 & bills$info$nUrg>0)
+round(table(tmp[sel]) / length(sel), digits = 2)
+length(sel)
+#
+# INITIATION OF EXEC BILLS TAKES ADVANTAGE OF FRIENDLIER SENATE
+# select lagos first two years (con sen, large con maj in dip)
+sel <- which(bills$info$dmensaje==1 & bills$info$dateIn>=dmy("1/3/2000", tz = "chile") & bills$info$dateIn<dmy("1/3/2002", tz = "chile"))
+round(table(bills$info$init[sel]) / length(sel), digits = 2)
+length(sel)
+# select lagos four last years (tied sen, con maj in dip)
+sel <- which(bills$info$dmensaje==1 & bills$info$dateIn>=dmy("1/3/2002", tz = "chile") & bills$info$dateIn<dmy("1/3/2006", tz = "chile"))
+round(table(bills$info$init[sel]) / length(sel), digits = 2)
+length(sel)
+#
+## BILLS WITH REPORT OBSERVED WITHIN URGENCY DEADLINE
+allUrg$messages$drepInDeadline <- 0 # add column for data
+for (i in 1:nrow(allUrg$messages)){
+    #i <- 2 # debug
+    message(sprintf("loop %s of %s", i, nrow(allUrg)))
+    j <- which(bills$info$bol==allUrg$bol[i])
+    if (bills$info$hasReport[j]=="no") next
+    tmp2 <- bills$reports[[j]]$date
+    tmp <- interval(allUrg$messages$on[i], allUrg$messages$deadline[i])
+    if (any( (tmp2 %within% tmp) == TRUE )==TRUE) allUrg$messages$drepInDeadline[i] <- 1 # if any report within dealine, code 1
+}
+#
+# select dates to report
+sel <- which(zeUrg$on >= dmy("11-03-2006", tz = "chile") & zeUrg$on < dmy("11-03-2014", tz = "chile"))
+tmp <- allUrg$messages[sel,]
+#
+table(tmp$drepInDeadline[ tmp$typeN==1 ] )
+table(tmp$drepInDeadline[ tmp$typeN==2 ] )
+table(tmp$drepInDeadline[ tmp$typeN==3 ] )
+table(tmp$drepInDeadline[ tmp$typeN==4.1 ] )
+table(tmp$drepInDeadline[ tmp$typeN==4.2 | tmp$typeN==4.3 ] )
+table(tmp$drepInDeadline[ tmp$typeN > 5 ] )
+table(tmp$drepInDeadline)
+#
+## # COMMITTEE REFERRAL---UNFINISHED, needs to clean comm to extract second committee and extraneous stuff, see table(
+## ref <- bills$hitos
+## for (i in 1:I){
+## #    i <- 110 # debug
+##     message(sprintf("loop %s of %s", i, I))
+##     tmp <- ref[[i]]
+##     tmp <- tmp[grep(pattern = "[Cc]uenta (de )*[Pp]royecto. Pasa a [Cc]om", x = tmp$action),] # subset lines
+##     tmp$comm <- sub(pattern = "[Cc]uenta.*[Pp]asa a (.*)", replacement = "\\1", tmp$action)   # extract committee
+##     tmp$comm <- sub(pattern = "^la (.*)", replacement = "\\1", tmp$comm)                      # filter extract
+##     tmp$comm <- sub(pattern = "(.*). Se manda poner en conocimiento de la Corte Suprema", replacement = "\\1", tmp$comm)   # filter extract
+##     tmp$comm <- sub(pattern = "(.*). Se remite el proyecto a la Corte Suprema.", replacement = "\\1", tmp$comm)            # filter extract
+##     tmp$comm <- sub(pattern = "(.*); y a la Excma. Corte Suprema.", replacement = "\\1", tmp$comm)                         # filter extract
+##     tmp$comm <- sub(pattern = "(.*) Ver$", replacement = "\\1", tmp$comm)                                                  # filter extract
+##     tmp <- tmp[,c("date","chamber","tramite","bol", "comm")]
+##     ref[[i]] <- tmp
+## }
+## #
+## # CREATE ONE LARGE DATA FRAME WITH ALL REFERRALS
+## tmp <- ldply(ref, data.frame) # unlist the data.frames into one large data.frame
+## tmp$comm <- sub(pattern = "(.*). Este proyecto no podrá tratarse hasta que no sea incluido en la convocatoria a Legislatura Extraordinaria.", replacement = "\\1", tmp$comm)                                                  # filter comm
+## tmp$comm <- sub(pattern = "(.*). No podrá ser tratado mientras Pdte. Rep. no lo incluya en la convocatoria a L.Ext. ", replacement = "\\1", tmp$comm)                                                  # filter comm
+## # slot for 2nd comm
+## tmp$comm2 <- ""
+## sel <- grep("y a la de Hacienda", tmp$comm)
+## tmp$comm2[sel] <- sub(pattern = ".*y a la de (Hacienda.*)", replacement = "\\1", tmp$comm[sel])
+## tmp$comm[sel] <- sub(pattern = "(.*)y a la de Hacienda.*", replacement = "\\1", tmp$comm[sel])
+## sel <- grep("y a Comisión", tmp$comm)
+## tmp$comm2[sel] <- sub(pattern = ".*y a (Comisión.*)", replacement = "\\1", tmp$comm[sel])
+## tmp$comm[sel] <- sub(pattern = "(.*)y a Comisión.*", replacement = "\\1", tmp$comm[sel])
+## sel <- grep("y a la Comisión", tmp$comm)
+## tmp$comm2[sel] <- sub(pattern = ".*y a la (Comisión.*)", replacement = "\\1", tmp$comm[sel])
+## tmp$comm[sel] <- sub(pattern = "(.*)y a la Comisión.*", replacement = "\\1", tmp$comm[sel])
+## #
+## table(tmp$comm)
+## #
+## sel <- which(bills$info$drefHda==1)
+## bills$info$bol[sel[10]] # no reporta primera comisión en iniciadora...
+#
+# URGENCY MESSAGE FREQUENCIES (exported directly for latex table, need to add N)
+tmp <- allUrg$messages
+#
+sel <- which(tmp$on >= dmy("11/3/1998", tz = "chile") & tmp$on < dmy("11/3/2002", tz = "chile"))
+tmp1 <- round( table(tmp$typeN[sel]) *100 / length(sel), digits = 1 )
+length(sel)
+#
+sel <- which(tmp$on >= dmy("11/3/2002", tz = "chile") & tmp$on < dmy("11/3/2006", tz = "chile"))
+tmp2 <- round( table(tmp$typeN[sel]) *100 / length(sel), digits = 1 )
+length(sel)
+#
+sel <- which(tmp$on >= dmy("11/3/2006", tz = "chile") & tmp$on < dmy("11/3/2010", tz = "chile"))
+tmp3 <- round( table(tmp$typeN[sel]) *100 / length(sel), digits = 1 )
+length(sel)
+#
+sel <- which(tmp$on >= dmy("11/3/2010", tz = "chile") & tmp$on < dmy("11/3/2014", tz = "chile"))
+tmp4 <- round( table(tmp$typeN[sel]) *100 / length(sel), digits = 1 )
+length(sel)
+#
+sel <- which(tmp$on >= dmy("11/3/1998", tz = "chile") & tmp$on < dmy("11/3/2014", tz = "chile"))
+tmp5 <- round( table(tmp$typeN[sel]) *100 / length(sel), digits = 1 )
+length(sel)
+
+library(xtable)
+xtable(tmp1, digits=0); xtable(tmp2, digits=0); xtable(tmp3, digits=0); xtable(tmp4, digits=0); xtable(tmp5, digits=0)
+
+
+
+
 # LOGIT ON WHETHER NOT BILL DECLARED URGENT
 sel <- which(bills$info$dateIn>=dmy("11/3/1998", tz = "chile") & bills$info$dateIn<dmy("11/3/2014", tz = "chile"))
 #sel <- which(bills$info$dateIn>=dmy("11/3/1998", tz = "chile") & bills$info$dateIn<dmy("11/3/2014", tz = "chile") & bills$info$dmensaje==1)
@@ -6733,10 +6741,23 @@ summary(fit4e)
 library(arm)
 display(fit4e)
 
+# descriptives of variables in model
+summary(tmpdat[tmpdat$dmocion==0, c("legyr", "netApprov")])
+sd(tmpdat$legyr[tmpdat$dmocion==0])
+sd(tmpdat$netApprov[tmpdat$dmocion==0])
+#
+table(tmpdat$legis[tmpdat$dmocion==0])
+round(table(tmpdat$legis[tmpdat$dmocion==0])/1461, 3)
 
 ## GRAFICA MATRIZ DE CORRELACIONES: COOL!
 #tmp <- cor(dat[,-grep("Extend|Shorten|Retire|d2010|nses", colnames(dat))])
-tmp <- cor(tmpdat[, grep("samePty|sameCoal|dmultiRef|dmocionAllOpp|dmocionMix|dmocionAllPdt|drefHda|dmajSen|dinSen|ptermR|legyrR|dreform2010|netApprovR|legis", colnames(tmpdat))])
+tmp <- tmpdat[tmpdat$dmocion==0, grep("samePty|sameCoal|dmultiRef|drefHda|dmajSen|dinSen|ptermR|legyrR|dreform2010|netApprovR|legis", colnames(tmpdat))]
+tmp$leg98 <- as.numeric(tmp$legis==1998)
+tmp$leg02 <- as.numeric(tmp$legis==2002)
+tmp$leg06 <- as.numeric(tmp$legis==2006)
+tmp$leg10 <- as.numeric(tmp$legis==2010)
+tmp$legis <- NULL
+tmp <- cor(tmp)
 library('corrplot')   # plots correlation matrix!
 corrplot(tmp, color = TRUE) #plot matrix
 #corrplot(tmp, method = "circle") #plot matrix
