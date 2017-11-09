@@ -1,0 +1,39 @@
+* * Bill summary * *
+"emmStart Summary 9256-27","Legislatura: 361
+Fecha de ingreso: martes 04 de marzo de 2014
+Estado: Primer trámite constitucional .
+Numero de boletín: 9256-27
+Materia: Estatuto Chileno Antártico
+Iniciativa: Mensaje
+Cámara de origen: Cámara de Diputados","Summary emmEnd"
+Downloaded 09-11-2017 05:10:45
+* * Hitos de tramitación * *
+"emmStart Hitos 9256-27","Fecha Sesión Etapa Sub-etapa Documento
+04 de Mar. de 2014   Primer trámite constitucional / C. Diputados Ingreso de proyecto Ver
+04 de Mar. de 2014 121ª / 361 Primer trámite constitucional / C. Diputados Cuenta de proyecto. Pasa a Comisión Zonas Extremas y a Comisión de Hacienda Ver
+12 de Ago. de 2014 54ª / 362 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 370-362 que hace presente la urgencia Simple Ver
+13 de Ago. de 2014 55ª / 362 Primer trámite constitucional / C. Diputados Cuenta del Mensaje 375-362 que retira la urgencia Simple Ver
+08 de Mar. de 2017   Primer trámite constitucional / C. Diputados Oficio N° 361-364. Oficio de S. E. la Presidenta de la República, por el cual formula indicaciones al proyecto con su respectivo informe financiero. (361-364). Se envía a la Comisión de Zonas Extremas y Antártica Chilena Ver","Hitos emmEnd"
+
+* * Informes * *
+"emmStart Informes 9256-27","No record","Informes emmEnd"
+
+* * Urgencias * *
+"emmStart Urgencias 9256-27","Fecha Inicio Fecha término N°Oficio N°Mensaje ingreso N°Mensaje retiro
+12 de Ago. de 2014 13 de Ago. de 2014 Simple 370-362 375-362","Urgencias emmEnd"
+
+* * Autores * *
+"emmStart Autores 9256-27","Nombre Región Distrito Partido
+Ministerio de Defensa Nacional      
+Ministerio de Economía, Fomento y Turism      
+Ministerio de Hacienda      
+Ministerio de Interior y Seguridad Públi      
+Ministerio de Justicia      
+Ministerio de Relaciones Exteriores      
+Ministerio del Medio Ambiente      ","Autores emmEnd"
+
+* * Votaciones * *
+"emmStart Votaciones 9256-27","No record","Votaciones emmEnd"
+
+* * Veto * *
+"emmStart Veto 9256-27","No record","Veto emmEnd"

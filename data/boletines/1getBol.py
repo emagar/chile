@@ -1,6 +1,13 @@
 # -*- coding: utf-8 -*-
-# Code prepared by Eric Magar, 30oct2014
+# Code prepared by Eric Magar, 30oct2014 (updated 9nov2017)
 # email emagar at gmail dot com
+
+# ## Install Selenium driver for Firefox
+# ## See https://pypi.python.org/pypi/selenium
+# from selenium import webdriver
+
+# browser = webdriver.Firefox()
+# browser.get('http://seleniumhq.org/')
 
 ## Urgencias and vetos reached with Selenium
 ## from http://stackoverflow.com/questions/6116023/screenscaping-aspx-with-python-mechanize-javascript-form-submission

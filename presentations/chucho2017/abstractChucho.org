@@ -1,7 +1,0 @@
-Título: 
-
-Autor: 
-Eric Magar, ITAM
-
-Resumen:
-El estudio de muchos aspectos del proceso legislativo en el congreso chileno requiere de la historia de todas las proposiciones de ley presentadas en un periodo de interés. Si el sitio web del Congreso publica información relevante y muy detallada, no ofrece en cambio un XXX para la descarga de la información. Además, al recurrir al uso de /javascript/, el sitio complica un ejercicio de /scraping/. Este trabajo propone un método para llevar a cabo dicho ejercicio de modo automatizado. Consiste en una rutina en la librería /Selenium/ de la plataforma libre /Python/. A partir de los identificadores de las proposiciones de ley cuyas historias desea el analista, emula la conducta del mouse en la pantalla para descargar los datos y guardarlos en disco. La rutina puede adaptarse fácilmente a otras fuentes primarias en sitios web ricos en /javascript/.
