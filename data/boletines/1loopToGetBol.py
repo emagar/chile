@@ -31,7 +31,7 @@ for i, j in enumerate(fileExists):
         indices2work.append(i)
 
 # subset if so desired to work by chunks (recommended)
-n = 5
+n = 50
 indices2work = indices2work[0:n] # pick first n elements
 
 # loop starts by cutting first element to work on it

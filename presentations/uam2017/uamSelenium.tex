@@ -97,13 +97,11 @@
 \tikzstyle{nodo} = [circle, draw=black, fill=white, text=black]
 \tikzstyle{end} = [circle, minimum width=3pt,fill, inner sep=0pt]
 
-\title[Restrictive rules]{Restrictive rules in the Chilean Cámara}
-\subtitle{Fighting floor amendments with urgency authority}
-\author[Magar, Palanza, Sin]{Eric Magar\inst{1} \and Valeria Palanza\inst{2} \and Gisela Sin\inst{3}}
-\institute[ITAM-UC-UI]{\inst{1} ITAM, Mexico \and 
-                       \inst{2} Univ.~Católica, Chile \and
-                       \inst{3} U.\ of Illinois, Urbana-Champaign}
-\date[1sep17]{\small{APSA, San Francisco} \\ Sept.\ $1^{st}$, 2017}
+\title[Espátula]{Un método para obtener texto del internet y analizarlo}
+\subtitle{\emph{Selenium} y las páginas ricas en \emph{javascript}}
+\author[Magar]{Eric Magar}
+\institute[ITAM]{ITAM}
+\date[9nov17]{\small{1er Simposio TLH en las ciencias sociales} \\ 9/11/2017}
 
 
 
@@ -114,46 +112,54 @@
 \frame[plain]{\titlepage}
 
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-%\section*{Intro}
+\frame {                      % SLIDE
 
+    \frametitle{Objetivo}
+
+    Obtener/sistematizar historia legislativa de iniciativas en Chile
+
+    \begin{enumerate}
+    \item fecha de introducción
+    \item autor
+    \item comisión
+    \item informe
+    \item ...
+\end{enumerate}
+  
+}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \frame {                      % SLIDE
 
-    \frametitle{What is urgency authority?}
+    \frametitle{Fuente}
 
+    Página web de la Cámara de Diputados de Chile \url{http://camara.cl}
 
-Lets the executive \textbf{interfere with legislative scheduling} at will \\
-(Carey\&Shugart 1998, Morgenstern 2002)
+    \bigskip
 
-\bigskip \pause
+    \textbf{Obstáculo}
 
-When a bill declared \alert{urgent}:
+    \bigskip
 
-\bi
-
-%% \item Colombia: it goes to the top of the schedule and all voting activity in the floor stops
-
-%% \item Brazil: assembly must act in 45 days, else it takes precedence\\ Since 2001, all \emph{medidas provis\'orias} are urgent
-
-%% \item Mexico: must be scheduled for floor vote within 30 days \\ (but 4 bills/year only)
-
-%% \item Chile: chamber must act in 30 days or less
-
-%% \item Uruguay: must act in a pre-specified, short period, \\ inaction turns bill into law
-
-\item Colombia and Brazil: it goes to the top of the schedule and all voting activity in the floor stops
-
-\item Uruguay: must act in a pre-specified, short period, \\ inaction turns bill into law
-
-\item Chile and Mexico: chamber must act in 30 days or less
-
-  \ei
-
-  \bigskip \pause
-
-Howell\&Moe (2016) argue for constitutional reform to grant U.S.\ presidents \textbf{universal fast track authority}
+    javascript: información ausente del código, se ``contruye'' a través de solicitudes
 
 }
+%% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\frame {                      % SLIDE
+
+    \frametitle{Solución}
+
+    \alert{Selenium}
+
+        \bigskip
+
+        Módulo de Python que permite abrir un navegador, hacer login, emular el mouse y sus clics, etc.
+
+        \bigskip
+
+Solución no es eficiente, pero es eficaz
+        
+    }
+\end{document}
 %% %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 %% \frame {                      % SLIDE
 
