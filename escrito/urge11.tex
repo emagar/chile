@@ -360,19 +360,19 @@ This is to say, therefore, that the toolbox of formidable legislative powers of 
 
 \begin{figure}
   \centering
-    \caption{The president rules game. The dashed branch may be practicable, or not.}\label{F:game}
+    \caption{The president rules game}\label{F:game}
     \tikzstyle{mid}=[circle,draw]
     \begin{tikzpicture}
       % \node[rectangle,draw] (n) at (0,0) {Nature};
       %\node (n) at (0,0) {\footnotesize{(Nature): $\pi$}};
       \node[mid] at (1.5,-0.25) (c) {\emph{C}};
       \node[mid] at (4,1) (p) {\emph{P}};
-      \node[mid] at (6.5,1) (f) {\emph{F}};
+      \node[mid] at (6.5,-0.25) (f) {\emph{F}};
       \node at (4,-1.5) (ce) {$q$};
       \node at (6.5,2.25) (pe1) {$x_F$};
-      \node at (6.5,-0.25) (pe2) {$q$};
-      \node at (9,2.25) (fe1) {$x_C$};
-      \node at (9,-0.25) (fe2) {$q$};
+      %\node at (6.5,-0.25) (pe2) {$q$};
+      \node at (9,1) (fe1) {$x_C$};
+      \node at (9,-1.5) (fe2) {$q$};
       % \node at (0,0.7) {\small{Strategies:}}; \node at (2,0.7)
       % {\footnotesize{---}}; \node at (4,0.7) {\footnotesize{$x^*$}};
       % \node at (6,0.7) {\footnotesize{$y^*(x)$}}; \node at (8,0.7)
@@ -390,25 +390,27 @@ This is to say, therefore, that the toolbox of formidable legislative powers of 
                 (f) edge node [above, sloped] {\footnotesize{accept}} (fe1)
                     %edge node [above, sloped] {\footnotesize{ofer-}} (fe2)
                     edge node [below, sloped] {\footnotesize{reject}} (fe2);
-      \path[-o, dashed] (p) edge node [below, sloped] {\footnotesize{veto}} (pe2);
+      %\path[-o, dashed] (p) edge node [below, sloped] {\footnotesize{veto}} (pe2);
     \end{tikzpicture}
 \end{figure}
 
-We stylize the Chilean urgency authority as a game of restrictive procedures inspired by \citet{dion.huber.1996}, with the president in the role of the Rules Committee. Figure \ref{F:game} portrays the game's extended form. The main features of this game are as follows. Unless there is unanimous support to suspend the chamber's rules, every proposal requires a committee report prior to floor consideration (Organic Law, art.~21). HERE HERE HERE HERE The committee with jurisdiction over a given proposal starts the game, choosing whether or not to report the bill to the floor. No explicit discharge procedure exists in Chile. This confers gate-keeping power to committees over policy in their jurisdiction: when the committee withholds a report, the game ends with policy at the status quo $q$. Chilean committees are no different in this respect from those in the U.S.\ Congress. If a report is produced, the committee can approve the proposal in whole or in part, amend it, make additions, or reject it (Cámara standing rule 287.8). We interpret this as (positive) agenda power to locate the proposal in policy space: $x_C \in [0,1]$. The president moves next. 
+\emm{He quitado el veto del modelo [25-abr]. Queda mejor así, más simple.}
 
-The president's choice set has three alternatives: let the bill proceed under standard floor consideration; declare it urgent; or issue a veto. Standard consideration ends the game with policy at $x_F$. By navigating the plenary session with an open rule, amendments reshape the bill to the floor's liking. As in \citet{shepsle.1979}, we take $x_F$ to be the floor median's ideal point, corresponding to a game of full plenary influence. The next alternative, urgency, invokes the restrictive consideration rule and presents the floor with a take-it-or-leave-it offer. Unable to amend the proposal, the floor, which moves after the bill was marked urgent, must choose between the reported bill $x_C$ or the status quo, as in \citep{romer.rosenthal.1978}. The final presidential alternative, the veto, may end the game at the status quo---the formal equivalent of the rule denial in Dion and Huber's procedural stage.
+We stylize the Chilean urgency authority as a game of restrictive procedures inspired by \citet{dion.huber.1996}, with the president in the role of the Rules Committee. Figure \ref{F:game} portrays the game's extended form. The main features of this game are as follows. Unless there is unanimous support to suspend the chamber's rules, every proposal requires a committee report prior to floor consideration (Organic Law, art.~21). The committee $C$ with jurisdiction over a given proposal starts the game, choosing whether or not to report the bill $x_C$ to the floor. No explicit discharge procedure exists in Chile. This confers committees gate-keeping power over policy in their jurisdiction: when the committee withholds a report, the game ends with policy at the status quo $q$. Chilean committees are no different in this respect from those in the U.S.\ Congress. When producing a report, the committee can approve the proposal in whole or in part, amend it, make additions, or reject it (Cámara standing rule 287.8). We interpret this as (positive) agenda power to locate the proposal in policy space: $x_C \in [0,1]$. The president moves next. 
 
-\vp{But this [open rule] returns the bill to the committee, no?}
-\emm{It does, but only id amendments were in fact introduced. Model totally ignores this. Simplistic? Justifiable? May need some elaboration.}
+During the legislative process, the president's choice set has two alternatives: let the bill proceed under standard floor consideration, or qualify it as urgent. Standard consideration ends the game with policy at $x_F$. By navigating the plenary session with an open rule, legislators' amendments reshape the bill to the floor median's liking. As in \citet{shepsle.1979}, we take $x_F$ to be the floor median's ideal point, corresponding to a game of full plenary influence. However, if the president marks the bill ``urgent'', this invokes the restrictive consideration rule and presents the floor with a take-it-or-leave-it offer. Unable to amend the proposal, the floor, which moves after the bill was marked urgent, must choose between the reported bill $x_C$ or the status quo, as in \citep{romer.rosenthal.1978}.\footnote{Unlike Dion and Huber's, our game excludes the procedural stage. A rule denial, which ends the game at the status quo, is not available to the Chilean president.}
+  
+%\vp{But this [open rule] returns the bill to the committee, no?}
+%\emm{It does, but only if amendments were in fact introduced. Model totally ignores this. Simplistic? Justifiable? May need some elaboration.}
 \ges{I think is good as is, although I'm still not clear in the type of amendments that legislators can introduce in the consideracion en general. Con el ejemplo pareciera que es cualquier tipo de amendment? Me imagino que no, pero no me queda claro como es el tema en la votacion en general.  Si, se vota toda la ley, y los legisladores pueden ofrecer una ley alternativa? si ? no?}
 
 %This ``veto'' is a stylization of events taking place much later in the actual legislative process, after the approved bill lands on the president's desk. For the executive veto to exert an influence so much earlier in the process, players must entertain the expectation that it will be sustained, effectively reinstating the status quo. This tree branch will therefore not be practicable when there is no way to fully discard the possibility of a veto override. The dashed line in Figure \ref{F:game} indicates that the branch may or may not be part of the president's choice set. We analyze versions of the game with (``veto will be sustained'') and without (``veto will be overridden'') the dashed line. 
 
-This ``veto'' is a stylization of events taking place much later in the actual legislative process, after the approved bill lands on the president's desk. The specific features of the presidential veto in Chile call for a caveat. The veto takes on different forms in Chile, such that the president may choose to veto the bill completely (total veto), or do a number of things to alter the bill partially.\footnote{The president may delete parts of the bill, add parts to the bill, and also change parts of the bill (which combines deleting and adding).} For the executive veto to exert an influence so much earlier in the game, players must entertain the expectation that it will be sustained, effectively reinstating the status quo. In Chile, between 1990 and 2014 only one total veto took place, and it was not overridden---so while the likelihood of total vetoes and of overrides are both low, neither can be completely discarded. This branch will therefore not be practicable when there is no way to fully discard the possibility of a veto override. The dashed line in Figure \ref{F:game} indicates that the branch may or may not be part of the president's choice set. We analyze versions of the game with and without the dashed line. 
+%This ``veto'' is a stylization of events taking place much later in the actual legislative process, after the approved bill lands on the president's desk. The specific features of the presidential veto in Chile call for a caveat. The veto takes on different forms in Chile, such that the president may choose to veto the bill completely (total veto), or do a number of things to alter the bill partially.\footnote{The president may delete parts of the bill, add parts to the bill, and also change parts of the bill (which combines deleting and adding).} For the executive veto to exert an influence so much earlier in the game, players must entertain the expectation that it will be sustained, effectively reinstating the status quo. In Chile, between 1990 and 2014 only one total veto took place, and it was not overridden---so while the likelihood of total vetoes and of overrides are both low, neither can be completely discarded. This branch will therefore not be practicable when there is no way to fully discard the possibility of a veto override. The dashed line in Figure \ref{F:game} indicates that the branch may or may not be part of the president's choice set. We analyze versions of the game with and without the dashed line. 
 
 \begin{figure}
   \centering
-  \caption{Illustration of the equilibrium proposal when the veto is practicable (v) or not (\~v)}\label{F:example}
+  \caption{Illustration of the equilibrium proposal}\label{F:example}
   \begin{tikzpicture}[scale=.9]
     \draw (0,0) -- (13,0);% node[right] {$q \in X$};
     \draw[dashed] (2,0) -- (3,0.5) -- (4,0);
@@ -423,14 +425,18 @@ This ``veto'' is a stylization of events taking place much later in the actual l
     (9.5,0.1) -- (9.5,-0.1) node[below=-0.1] {\textcolor{gray}{$F_C$}}
     (12.5,0.1) -- (12.5,-0.1) node[below=-0.1] {$F_q$}
     (13,0.1) -- (13,-0.1) node[below=-0.1] {$1$};
-    \draw[->] (4,.5) node[above=-0.1] {v} -- (4,.15);
-    \draw[->] (5,.5) node[above=-0.1] {\~v} -- (5,.15);
+    %\draw[->] (4,.5) node[above=-0.1] {v} -- (4,.15);
+    \draw[->] (5,.5) node[above=-0.1] {$x_C$} -- (5,.15);
   \end{tikzpicture}
 \end{figure}
 
-Model analysis is analogous to \citet{dion.huber.1996}. The game has a unique, sub-game perfect equilibrium that we do not derive formally here.\footnote{Equilibrium is akin to \citet{magar.nd,romer.rosenthal.1978,cox.mccubbins.2005,gerber.1996}. There seem to be minor inconsistencies between the equilibrium that Dion and Huber portray in their Figure 1 and ours here.} We elaborate the bargaining logic with the example in Figure \ref{F:example}. $P$, $C$, and $F$ represent the ideal points of the president, the committee, and the floor, respectively, while $q$ is the status quo. $F_q$ is the reflection of $q$ on $F$ (more precisely, the symmetric reflection of $q$ in space using $F$ as axis). Other relevant reflections are noted likewise; some appear in gray and will be relevant later. As the model assumes standard Euclidian preferences and reflections point to equidistance in the opposite side of an ideal point, preference is easily gauged: the floor finds policy under the larger dashed pyramid ($x_C \in [q,F_q]$) preferable to the status quo; likewise, the president prefers policy under the smaller pyramid ($x_C \in [q,P_q]$) to the status quo. 
+Model analysis is analogous to \citet{dion.huber.1996}. The game has a unique, sub-game perfect equilibrium that we do not derive formally here.\footnote{Equilibrium is akin to \citet{magar.nd,romer.rosenthal.1978,cox.mccubbins.2005,gerber.1996}.} We elaborate the bargaining logic with the example in Figure \ref{F:example}. The points $P$, $C$, and $F$ on the line represent the ideal points of the president, the committee, and the floor median, respectively, while $q$ is the status quo. We assume Euclidean single-peaked and symmetric preferences, so $F_q$ is the symmetric reflection of $q$ on the unidimensional line using $F$ as mirror, i.e, it is the floor median's point of indifference given the location of the status quo. Other relevant reflections are noted likewise; some appear in gray and will be relevant later. Given the model's assumptions, preferred sets are easily gauged: the floor median finds policy under the larger dashed pyramid ($x_C \in [q,F_q]$) preferable to the status quo; likewise, the president prefers policy under the smaller pyramid ($x_C \in [q,P_q]$) to the status quo.
 
-Deriving optimal proposal and consideration regime is trivial. Proceeding backwards in the game tree, the floor will accept proposals under the larger pyramid, reject the rest. So everyone anticipates that urgent consideration of proposal $x_C \in [q,F_q]$ beats the status quo. Also, because in the example $F$ is outside the smaller pyramid, all anticipate that the president discards standard consideration ($x_F=F$ would be the outcome). Therefore, when (1) $x_C$ is inside the smaller pyramid, or (2) the veto branch is impracticable, the president chooses urgent consideration; otherwise s/he vetoes. Proposal $x_C=P_q$ meets conditions to avoid a practicable veto while maximizing committee welfare (the arrow with a v above points to it in the Figure). With impracticable veto the committee can afford to send $x_C=C$ (the arrow with \~v on top).
+%As the model assumes standard Euclidian preferences and reflections point to equidistance in the opposite side of an ideal point, preference is easily gauged: the floor finds policy under the larger dashed pyramid ($x_C \in [q,F_q]$) preferable to the status quo; likewise, the president prefers policy under the smaller pyramid ($x_C \in [q,P_q]$) to the status quo. 
+
+/emm{There seem to be minor inconsistencies between the equilibrium that Dion and Huber portray in their Figure 1 and ours here. Might revise for RnR.}
+
+Deriving optimal proposal and consideration regime is trivial. Proceeding backwards in the game tree, the floor will accept proposals under the larger pyramid, reject the rest. So everyone anticipates that urgent consideration of proposal $x_C \in [q,F_q]$ beats the status quo. Also, because in the example $F$ is outside the smaller pyramid, all anticipate that the president discards standard consideration ($x_F=F$ would be the outcome). Therefore, in the example the committee can afford to send $x_C=C$.
 
 \begin{figure}
   \centering
@@ -438,6 +444,45 @@ Deriving optimal proposal and consideration regime is trivial. Proceeding backwa
     \scalebox{.85}{
       \begin{tabular}{l} 
         \textbf{Profile I:} $P < C < F$ \\ 
+        %% \begin{tikzpicture}[scale=.9]
+        %%   \draw (0,0) -- (13,0);% node[right] {$q \in X$};
+        %%   \draw[dashed] (1.75,0) -- (3.75,0.67) -- (5.75,0);
+        %%   \draw[dashed] (5.75,0) -- (8,.75) -- (10.25,0);
+        %%   \draw (0,0.1) -- (0,-0.1) node[below=-0.1] {$0$}
+        %%   (1.75,0.1) -- (1.75,-0.1) node[below=-0.1] {$P_C$}
+        %%   (3.75,0.1) -- (3.75,-0.1) node[below=-0.1] {$P$}
+        %%   (5.75,0.1) -- (5.75,-0.1) node[below=-0.1] {$C$}
+        %%   (8,0.1) -- (8,-0.1) node[below=-0.1] {$F$}
+        %%   (10.25,0.1) -- (10.25,-0.1) node[below=-0.1] {$F_C$}
+        %%   (13,0.1) -- (13,-0.1) node[below=-0.1] {$1$};
+        %%   \node at (-2,-2.7) {\footnotesize{Outcome}};
+        %%   \node at (-2,-2.2) {\footnotesize{Consideration}};
+        %%   \node at (-2,-1.7)  {\footnotesize{Proposal}};
+        %%   \node at (-2,-1.2)  {\footnotesize{Status quo}};
+        %%   \node at (15,-1.2)  {\footnotesize{$\leftarrow$ veto will}};
+        %%   \node at (15,-1.7)  {\footnotesize{be sustained}};
+        %%   \node at (1,-2.7)   {\footnotesize{$C$}};        % Outcome      
+        %%   \node at (1,-2.2) {\footnotesize{urgent}};       % Consideration
+        %%   \node at (1,-1.7)   {\footnotesize{$C$}};        % Proposal     
+        %%   \node at (2.75,-2.7)   {\footnotesize{$P_q$}};        % Outcome      
+        %%   \node at (2.75,-2.2) {\footnotesize{urgent}};       % Consideration
+        %%   \node at (2.75,-1.7)   {\footnotesize{$P_q$}};        % Proposal     
+        %%   \node at (5.875,-2.7)   {\footnotesize{$q$}};       % Outcome      
+        %%   \node at (5.875,-2.2) {\footnotesize{---}};           % Consideration
+        %%   \node at (5.875,-1.7)   {\footnotesize{gate-keep}};    % Proposal     
+        %%   \node at (9.125,-2.7)   {\footnotesize{$F_q$}};       % Outcome      
+        %%   \node at (9.125,-2.2) {\footnotesize{urgent}};        % Consideration
+        %%   \node at (9.125,-1.7)   {\footnotesize{$F_q$}};       % Proposal     
+        %%   \node at (11.625,-2.7)   {\footnotesize{$C$}};          % Outcome      
+        %%   \node at (11.625,-2.2) {\footnotesize{urgent}};         % Consideration
+        %%   \node at (11.625,-1.7)   {\footnotesize{$C$}};          % Proposal     
+        %%   \filldraw[fill=black!50,draw=black!30]   (0,-1.35) rectangle node {\scriptsize{$0 \leq q < P_C$}} (1.75,-0.85);
+        %%   \filldraw[fill=black!50,draw=black!30]   (1.75,-1.35) rectangle node {\scriptsize{$P_C \leq q < P$}} (3.75,-0.85);
+        %%   \filldraw[fill=black!30,draw=black!30]  (3.75,-1.35) rectangle node {\scriptsize{$P \leq q < F$}} (8,-0.85);
+        %%   \filldraw[fill=black!50,draw=black!30]  (8,-1.35) rectangle node {\scriptsize{$F \leq q < F_C$}} (10.25,-0.85);
+        %%   \filldraw[fill=black!50,draw=black!30]  (10.25,-1.35) rectangle node {\scriptsize{$F_C \leq q \leq 1$}} (13,-0.85);
+        %% \end{tikzpicture} \\ \\
+
         \begin{tikzpicture}[scale=.9]
           \draw (0,0) -- (13,0);% node[right] {$q \in X$};
           \draw[dashed] (1.75,0) -- (3.75,0.67) -- (5.75,0);
@@ -453,47 +498,8 @@ Deriving optimal proposal and consideration regime is trivial. Proceeding backwa
           \node at (-2,-2.2) {\footnotesize{Consideration}};
           \node at (-2,-1.7)  {\footnotesize{Proposal}};
           \node at (-2,-1.2)  {\footnotesize{Status quo}};
-          \node at (15,-1.2)  {\footnotesize{$\leftarrow$ veto will}};
-          \node at (15,-1.7)  {\footnotesize{be sustained}};
-          \node at (1,-2.7)   {\footnotesize{$C$}};        % Outcome      
-          \node at (1,-2.2) {\footnotesize{urgent}};       % Consideration
-          \node at (1,-1.7)   {\footnotesize{$C$}};        % Proposal     
-          \node at (2.75,-2.7)   {\footnotesize{$P_q$}};        % Outcome      
-          \node at (2.75,-2.2) {\footnotesize{urgent}};       % Consideration
-          \node at (2.75,-1.7)   {\footnotesize{$P_q$}};        % Proposal     
-          \node at (5.875,-2.7)   {\footnotesize{$q$}};       % Outcome      
-          \node at (5.875,-2.2) {\footnotesize{---}};           % Consideration
-          \node at (5.875,-1.7)   {\footnotesize{gate-keep}};    % Proposal     
-          \node at (9.125,-2.7)   {\footnotesize{$F_q$}};       % Outcome      
-          \node at (9.125,-2.2) {\footnotesize{urgent}};        % Consideration
-          \node at (9.125,-1.7)   {\footnotesize{$F_q$}};       % Proposal     
-          \node at (11.625,-2.7)   {\footnotesize{$C$}};          % Outcome      
-          \node at (11.625,-2.2) {\footnotesize{urgent}};         % Consideration
-          \node at (11.625,-1.7)   {\footnotesize{$C$}};          % Proposal     
-          \filldraw[fill=black!50,draw=black!30]   (0,-1.35) rectangle node {\scriptsize{$0 \leq q < P_C$}} (1.75,-0.85);
-          \filldraw[fill=black!50,draw=black!30]   (1.75,-1.35) rectangle node {\scriptsize{$P_C \leq q < P$}} (3.75,-0.85);
-          \filldraw[fill=black!30,draw=black!30]  (3.75,-1.35) rectangle node {\scriptsize{$P \leq q < F$}} (8,-0.85);
-          \filldraw[fill=black!50,draw=black!30]  (8,-1.35) rectangle node {\scriptsize{$F \leq q < F_C$}} (10.25,-0.85);
-          \filldraw[fill=black!50,draw=black!30]  (10.25,-1.35) rectangle node {\scriptsize{$F_C \leq q \leq 1$}} (13,-0.85);
-        \end{tikzpicture} \\ \\
-
-        \begin{tikzpicture}[scale=.9]
-          %% \draw (0,0) -- (13,0);% node[right] {$q \in X$};
-          %% \draw[dashed] (1.75,0) -- (3.75,0.67) -- (5.75,0);
-          %% \draw[dashed] (5.75,0) -- (8,.75) -- (10.25,0);
-          %% \draw (0,0.1) -- (0,-0.1) node[below=-0.1] {$0$}
-          %% (1.75,0.1) -- (1.75,-0.1) node[below=-0.1] {$P_C$}
-          %% (3.75,0.1) -- (3.75,-0.1) node[below=-0.1] {$P$}
-          %% (5.75,0.1) -- (5.75,-0.1) node[below=-0.1] {$C$}
-          %% (8,0.1) -- (8,-0.1) node[below=-0.1] {$F$}
-          %% (10.25,0.1) -- (10.25,-0.1) node[below=-0.1] {$F_C$}
-          %% (13,0.1) -- (13,-0.1) node[below=-0.1] {$1$};
-          \node at (-2,-2.7) {\footnotesize{Outcome}};
-          \node at (-2,-2.2) {\footnotesize{Consideration}};
-          \node at (-2,-1.7)  {\footnotesize{Proposal}};
-          \node at (-2,-1.2)  {\footnotesize{Status quo}};
-          \node at (15,-1.2)  {\footnotesize{$\leftarrow$ veto will}};
-          \node at (15,-1.7)  {\footnotesize{be overridden}};
+          %\node at (15,-1.2)  {\footnotesize{$\leftarrow$ veto will}};
+          %\node at (15,-1.7)  {\footnotesize{be overridden}};
           \node at (2.875,-2.7)   {\footnotesize{$C$}};          % Outcome      
           \node at (2.875,-2.2) {\footnotesize{urgent}};         % Consideration
           \node at (2.875,-1.7)   {\footnotesize{$C$}};          % Proposal     
@@ -590,6 +596,45 @@ Deriving optimal proposal and consideration regime is trivial. Proceeding backwa
         \end{tikzpicture} \\ \\
 
         \textbf{Profile III:} $C <  F <  P$ \\ 
+        %% \begin{tikzpicture}[scale=.9]
+        %%   \draw (0,0) -- (13,0);% node[right] {$q \in X$};
+        %%   \draw[dashed] (1.75,0) -- (3.75,0.67) -- (5.75,0);
+        %%   \draw[dashed] (5.75,0) -- (8,.75) -- (10.25,0);
+        %%   \draw (0,0.1) -- (0,-0.1) node[below=-0.1] {$0$}
+        %%   (1.75,0.1) -- (1.75,-0.1) node[below=-0.1] {$C_F$}
+        %%   (3.75,0.1) -- (3.75,-0.1) node[below=-0.1] {$C$}
+        %%   (5.75,0.1) -- (5.75,-0.1) node[below=-0.1] {$F$}
+        %%   (8,0.1) -- (8,-0.1) node[below=-0.1] {$P$}
+        %%   (10.25,0.1) -- (10.25,-0.1) node[below=-0.1] {$P_F$}
+        %%   (13,0.1) -- (13,-0.1) node[below=-0.1] {$1$};
+        %%   \node at (-2,-2.7) {\footnotesize{Outcome}};
+        %%   \node at (-2,-2.2) {\footnotesize{Consideration}};
+        %%   \node at (-2,-1.7)  {\footnotesize{Proposal}};
+        %%   \node at (-2,-1.2)  {\footnotesize{Status quo}};
+        %%   \node at (15,-1.2)  {\footnotesize{$\leftarrow$ veto will}};
+        %%   \node at (15,-1.7)  {\footnotesize{be sustained}};
+        %%   \node at (1,-2.7)   {\footnotesize{$F$}};              % Outcome      
+        %%   \node at (1,-2.2) {\footnotesize{standard}};           % Consideration
+        %%   \node at (1,-1.7)   {\footnotesize{$C$ or $F$}};       % Proposal     
+        %%   \node at (3.75,-2.7)   {\footnotesize{$q$}};         % Outcome      
+        %%   \node at (3.75,-2.2) {\footnotesize{---}};             % Consideration
+        %%   \node at (3.75,-1.7)   {\footnotesize{gate-keep}};      % Proposal     
+        %%   \node at (6.875,-2.7)   {\footnotesize{$F$}};          % Outcome      
+        %%   \node at (6.875,-2.2) {\footnotesize{standard}};       % Consideration
+        %%   \node at (6.875,-1.7)   {\footnotesize{$C$ or $F$}};   % Proposal     
+        %%   \node at (9.125,-2.7)   {\footnotesize{$P_q$}};        % Outcome      
+        %%   \node at (9.125,-2.2) {\footnotesize{urgent}};         % Consideration
+        %%   \node at (9.125,-1.7)   {\footnotesize{$P_q$}};        % Proposal     
+        %%   \node at (11.625,-2.7)   {\footnotesize{$F$}};         % Outcome      
+        %%   \node at (11.625,-2.2) {\footnotesize{standard}};        % Consideration
+        %%   \node at (11.625,-1.7)   {\footnotesize{$C$ or $F$}};     % Proposal     
+        %%   \filldraw[fill=black!0,draw=black!30]   (0,-1.35) rectangle node {\scriptsize{$0 \leq q < C_F$}} (1.75,-0.85);
+        %%   \filldraw[fill=black!30,draw=black!30]  (1.75,-1.35) rectangle node {\scriptsize{$C_F \leq q < F$}} (5.75,-0.85);
+        %%   \filldraw[fill=black!0,draw=black!30]  (5.75,-1.35) rectangle node {\scriptsize{$F \leq q < P$}} (8,-0.85);
+        %%   \filldraw[fill=black!50,draw=black!30]  (8,-1.35) rectangle node {\scriptsize{$P \leq q < P_F$}} (10.25,-0.85);
+        %%   \filldraw[fill=black!0,draw=black!30]  (10.25,-1.35) rectangle node {\scriptsize{$P_F \leq q \leq 1$}} (13,-0.85);
+        %% \end{tikzpicture} \\ \\
+
         \begin{tikzpicture}[scale=.9]
           \draw (0,0) -- (13,0);% node[right] {$q \in X$};
           \draw[dashed] (1.75,0) -- (3.75,0.67) -- (5.75,0);
@@ -605,47 +650,8 @@ Deriving optimal proposal and consideration regime is trivial. Proceeding backwa
           \node at (-2,-2.2) {\footnotesize{Consideration}};
           \node at (-2,-1.7)  {\footnotesize{Proposal}};
           \node at (-2,-1.2)  {\footnotesize{Status quo}};
-          \node at (15,-1.2)  {\footnotesize{$\leftarrow$ veto will}};
-          \node at (15,-1.7)  {\footnotesize{be sustained}};
-          \node at (1,-2.7)   {\footnotesize{$F$}};              % Outcome      
-          \node at (1,-2.2) {\footnotesize{standard}};           % Consideration
-          \node at (1,-1.7)   {\footnotesize{$C$ or $F$}};       % Proposal     
-          \node at (3.75,-2.7)   {\footnotesize{$q$}};         % Outcome      
-          \node at (3.75,-2.2) {\footnotesize{---}};             % Consideration
-          \node at (3.75,-1.7)   {\footnotesize{gate-keep}};      % Proposal     
-          \node at (6.875,-2.7)   {\footnotesize{$F$}};          % Outcome      
-          \node at (6.875,-2.2) {\footnotesize{standard}};       % Consideration
-          \node at (6.875,-1.7)   {\footnotesize{$C$ or $F$}};   % Proposal     
-          \node at (9.125,-2.7)   {\footnotesize{$P_q$}};        % Outcome      
-          \node at (9.125,-2.2) {\footnotesize{urgent}};         % Consideration
-          \node at (9.125,-1.7)   {\footnotesize{$P_q$}};        % Proposal     
-          \node at (11.625,-2.7)   {\footnotesize{$F$}};         % Outcome      
-          \node at (11.625,-2.2) {\footnotesize{standard}};        % Consideration
-          \node at (11.625,-1.7)   {\footnotesize{$C$ or $F$}};     % Proposal     
-          \filldraw[fill=black!0,draw=black!30]   (0,-1.35) rectangle node {\scriptsize{$0 \leq q < C_F$}} (1.75,-0.85);
-          \filldraw[fill=black!30,draw=black!30]  (1.75,-1.35) rectangle node {\scriptsize{$C_F \leq q < F$}} (5.75,-0.85);
-          \filldraw[fill=black!0,draw=black!30]  (5.75,-1.35) rectangle node {\scriptsize{$F \leq q < P$}} (8,-0.85);
-          \filldraw[fill=black!50,draw=black!30]  (8,-1.35) rectangle node {\scriptsize{$P \leq q < P_F$}} (10.25,-0.85);
-          \filldraw[fill=black!0,draw=black!30]  (10.25,-1.35) rectangle node {\scriptsize{$P_F \leq q \leq 1$}} (13,-0.85);
-        \end{tikzpicture} \\ \\
-
-        \begin{tikzpicture}[scale=.9]
-          %% \draw (0,0) -- (13,0);% node[right] {$q \in X$};
-          %% \draw[dashed] (1.75,0) -- (3.75,0.67) -- (5.75,0);
-          %% \draw[dashed] (5.75,0) -- (8,.75) -- (10.25,0);
-          %% \draw (0,0.1) -- (0,-0.1) node[below=-0.1] {$0$}
-          %% (1.75,0.1) -- (1.75,-0.1) node[below=-0.1] {$C_F$}
-          %% (3.75,0.1) -- (3.75,-0.1) node[below=-0.1] {$C$}
-          %% (5.75,0.1) -- (5.75,-0.1) node[below=-0.1] {$F$}
-          %% (8,0.1) -- (8,-0.1) node[below=-0.1] {$P$}
-          %% (10.25,0.1) -- (10.25,-0.1) node[below=-0.1] {$P_F$}
-          %% (13,0.1) -- (13,-0.1) node[below=-0.1] {$1$};
-          \node at (-2,-2.7) {\footnotesize{Outcome}};
-          \node at (-2,-2.2) {\footnotesize{Consideration}};
-          \node at (-2,-1.7)  {\footnotesize{Proposal}};
-          \node at (-2,-1.2)  {\footnotesize{Status quo}};
-          \node at (15,-1.2)  {\footnotesize{$\leftarrow$ veto will}};
-          \node at (15,-1.7)  {\footnotesize{be overridden}};
+          %\node at (15,-1.2)  {\footnotesize{$\leftarrow$ veto will}};
+          %\node at (15,-1.7)  {\footnotesize{be overridden}};
           \node at (1,-2.7)   {\footnotesize{$F$}};              % Outcome      
           \node at (1,-2.2) {\footnotesize{standard}};           % Consideration
           \node at (1,-1.7)   {\footnotesize{$C$ or $F$}};              % Proposal     
@@ -666,17 +672,15 @@ Deriving optimal proposal and consideration regime is trivial. Proceeding backwa
 
 We now derive empirical implications from our theoretical model by generalizing the bargaining logic across preference profiles in Figure \ref{F:predictions} and do comparative statics analysis. A preference profile is an ordering of players' ideal points in space. Only three of six mutually-exclusive and exhaustive profiles are portrayed: $P<C<F$, $C \leq P \leq F$, and $C<F<P$ (the other three are mirror-images). In each, the status quo is treated as a continuous variable $q \in [0,1]$. We aim to trace how changes in $q$ affect equilibrium elements---the proposal, the consideration regime, and the outcome---in each profile.
 
-The example discussed falls under profile I (the status quo falls where $P_C \leq q < P$). The top panel in profile I represents situations where the veto branch of the game tree is practicable (the expectation is a sustained veto, as indicated at the right end), the lower panel situations where it is impracticable (a veto override is expected). The equilibrium proposal and consideration regime discussed above, and the equilibrium outcome are listed accordingly. The discrete zones into which the policy space subdivides (the dark-gray, light-gray, and white rectangles) isolate status quos with unchanging equilibrium elements. One or more equilibrium elements mutate for status quos falling in the adjacent zone(s).
+The example discussed falls under profile I (the status quo falls where $P_C \leq q < P$). The equilibrium proposal and consideration regime discussed above, and the equilibrium outcome are listed accordingly. The discrete zones into which the policy space subdivides (the dark-gray, light-gray, and white rectangles) isolate status quos with unchanging equilibrium elements. One or more equilibrium elements mutate for status quos falling in the adjacent zone(s).
 
-We pay attention to consideration regimes: in equilibrium, status quos in dark-gray zones trigger urgent consideration, and those in white zones trigger standard consideration. Status quos in light-gray zones lack a consideration regime because they push the committee to defend the status quo by withholding the bill's report (gate-keeping). Aided by auxiliary assumptions, empirical implications follow from comparative statics. We discuss three; many more hypotheses could be derived.
-
-To start, note how the dark-gray zones predominate in Figure \ref{F:predictions} over the light-gray and white. Urgent status corresponds to dark-gray, and the first theoretical prediction follows.
+We pay attention to consideration regimes: in equilibrium, status quos in dark-gray zones trigger urgent consideration, and those in white zones trigger standard consideration. Status quos in light-gray zones lack a consideration regime because they push the committee to defend the status quo by withholding the bill (gate-keeping). Aided by auxiliary assumptions, empirical implications follow from comparative statics; we discuss three. To start, note that dark-gray zones predominate in Figure \ref{F:predictions} HERE HERE HERE HERE over the light-gray and white. Urgent status corresponds to dark-gray, and the first theoretical prediction follows.
 
 \begin{description}
-  \item [Hypothesis 1] Other things constant, urgent bill consideration is likelier than standard bill consideration. 
+  \item [Hypothesis 1] Other things constant, urgent bill consideration is more likely than standard bill consideration. 
 \end{description}
     
-\noindent The supporting auxiliary assumptions are two: (1) a stochastic status quo with uniform probability density in $[0,1]$ is assumed; and that (2) preference profiles I, II, and III in the Figure are equiprobable. Auxiliary assumption can be relaxed, within limits, without invalidating this prediction. 
+\noindent The supporting auxiliary assumptions are two: (1) a stochastic status quo with uniform probability density in $[0,1]$, and (2) preference profiles I, II, and III in the Figure are equiprobable. Auxiliary assumption can be relaxed, within limits, without invalidating this prediction. 
 
 Also plain in the Figure is that white areas, corresponding to standard bill consideration, occur under profile III only. The president's and the committee's ideal points stand on either side of the floor median in profile III, but on the same side in I and II. If these conditions are readily visible in theory, preference unobservability is an obstacle towards a test. Auxiliary assumptions therefore need discussion before putting a hypothesis forth: (1) chairs are dictators in their committee's jurisdiction; and (2) party determines ideal points. The first auxiliary assumption sets procedure in such way that the committee can be construed as a unitary actor. The second associates player preferences to something observable: parties. The next theoretical prediction follows. 
 
