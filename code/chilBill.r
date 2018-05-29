@@ -63,7 +63,7 @@ for (i in 1:I){
     tmp <- gsub(pattern = "octubre"   , replacement = "10", x = tmp)
     tmp <- gsub(pattern = "noviembre" , replacement = "11", x = tmp)
     tmp <- gsub(pattern = "diciembre" , replacement = "12", x = tmp)
-    bill$dateIn <- dmy(tmp, tz = "chile")
+    bill$dateIn <- dmy(tmp)
                                         #
     tmp <- chunk[grep("Estado:", chunk)]
     tmp <- sub(pattern = "Estado: (.*)", replacement = "\\1", x = tmp)
@@ -213,7 +213,7 @@ for (i in sel){
     tmp2 <- gsub(pattern = "Oct.", replacement = "10", x = tmp2)
     tmp2 <- gsub(pattern = "Nov.", replacement = "11", x = tmp2)
     tmp2 <- gsub(pattern = "Dic.", replacement = "12", x = tmp2)
-    output$date <- dmy(tmp2, quiet = TRUE, tz = "chile")
+    output$date <- dmy(tmp2, quiet = TRUE)
                                         #
     tmp <- sub(pattern = "^[0-9]{2}[ .A-Za-z]+[0-9]{4}(.*)", replacement = "\\1", tmp, perl = TRUE) # crops object
     tmp <- sub(pattern = "^[ ]+", replacement = "", tmp) # removes spaces at start of line
@@ -443,7 +443,7 @@ bills$info$status <- sub(pattern = ".*[Ii]nsistencia.*", replacement = "pending:
 bills$info$status <- sub(pattern = ".*aprobaci[óo]n presidencial.*", replacement = "pending: to executive", bills$info$status)
 bills$info$status <- sub(pattern = ".*finalización en Cámara.*", replacement = "pending", bills$info$status)
 #
-bills$info$dateOut <- dmy(bills$info$dateOut, quiet = TRUE, tz = "chile")
+bills$info$dateOut <- dmy(bills$info$dateOut, quiet = TRUE)
 table(bills$info$status) # debug
 
 # compact bicameral sequence with dates (may still miss comisión mixta, revise bills$hitos$chamber above SEEMS OK NOW)
@@ -480,18 +480,18 @@ for (i in 1:I){
         if (nrow(dat.tram)>1){
             dat.tram$to[1:(nrow(dat.tram)-1)] <- dat.tram$to[2:nrow(dat.tram)] # plug end of tramite -- multiline
         } else {
-            dat.tram$to <- dmy("5/11/2014", tz = "chile")                                    # -- uniline assumed pending
+            dat.tram$to <- dmy("5/11/2014")                                    # -- uniline assumed pending
         }
         if (bills$info$status[i]=="statute"){
             dat.tram$to[nrow(dat.tram)] <- bills$info$dateOut[i] # use date published if so
         } else {
-            dat.tram$to[nrow(dat.tram)] <- dmy("5/11/2014", tz = "chile")      # else date when data downloaded (pending)
+            dat.tram$to[nrow(dat.tram)] <- dmy("5/11/2014")      # else date when data downloaded (pending)
         }
         # minute(dat.tram$date) <- minute(dat.tram$date) +1 # adds 1 minute to remove overlap with last "to"
     }
     colnames(dat.tram)[1:2] <- c("from","tramite")
     if (nrow(bills$hitos[[i]])==1){
-        dat.tram$to <- dmy("5/11/2014", tz = "chile")
+        dat.tram$to <- dmy("5/11/2014")
     }
     bills$tramites[[i]] <- dat.tram
     bills$tramites[[i]]$period <- interval(bills$tramites[[i]]$from, bills$tramites[[i]]$to) # adds trámite duration
@@ -635,40 +635,40 @@ rm(i, tmp, tmp1, tmp2)
 # preliminary analysis
 library(lubridate)
 # compare urgencia report in Urgencias and in Hitos
-table(bills$info$debug[bills$info$dateIn>=dmy("1/3/1990", tz = "chile") & bills$info$dateIn<dmy("1/3/1994", tz = "chile")])
-table(bills$info$debug[bills$info$dateIn>=dmy("1/3/1994", tz = "chile") & bills$info$dateIn<dmy("1/3/1998", tz = "chile")])
-table(bills$info$debug[bills$info$dateIn>=dmy("1/3/1998", tz = "chile") & bills$info$dateIn<dmy("1/3/2002", tz = "chile")])
-table(bills$info$debug[bills$info$dateIn>=dmy("1/3/2002", tz = "chile") & bills$info$dateIn<dmy("1/3/2006", tz = "chile")])
-table(bills$info$debug[bills$info$dateIn>=dmy("1/3/2006", tz = "chile") & bills$info$dateIn<dmy("1/3/2010", tz = "chile")])
-table(bills$info$debug[bills$info$dateIn>=dmy("1/3/2010", tz = "chile")])
+table(bills$info$debug[bills$info$dateIn>=dmy("1/3/1990") & bills$info$dateIn<dmy("1/3/1994")])
+table(bills$info$debug[bills$info$dateIn>=dmy("1/3/1994") & bills$info$dateIn<dmy("1/3/1998")])
+table(bills$info$debug[bills$info$dateIn>=dmy("1/3/1998") & bills$info$dateIn<dmy("1/3/2002")])
+table(bills$info$debug[bills$info$dateIn>=dmy("1/3/2002") & bills$info$dateIn<dmy("1/3/2006")])
+table(bills$info$debug[bills$info$dateIn>=dmy("1/3/2006") & bills$info$dateIn<dmy("1/3/2010")])
+table(bills$info$debug[bills$info$dateIn>=dmy("1/3/2010")])
 table(bills$info$debug)
 #
 # crosstabs of urgencias and mensajes by yr
 bills$info$legyr <- 0
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/1990", tz = "chile") & bills$info$dateIn<dmy("1/3/1991", tz = "chile")] <- 1
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/1991", tz = "chile") & bills$info$dateIn<dmy("1/3/1992", tz = "chile")] <- 2
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/1992", tz = "chile") & bills$info$dateIn<dmy("1/3/1993", tz = "chile")] <- 3
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/1993", tz = "chile") & bills$info$dateIn<dmy("1/3/1994", tz = "chile")] <- 4
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/1994", tz = "chile") & bills$info$dateIn<dmy("1/3/1995", tz = "chile")] <- 5
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/1995", tz = "chile") & bills$info$dateIn<dmy("1/3/1996", tz = "chile")] <- 6
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/1996", tz = "chile") & bills$info$dateIn<dmy("1/3/1997", tz = "chile")] <- 7
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/1997", tz = "chile") & bills$info$dateIn<dmy("1/3/1998", tz = "chile")] <- 8
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/1998", tz = "chile") & bills$info$dateIn<dmy("1/3/1999", tz = "chile")] <- 9
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/1999", tz = "chile") & bills$info$dateIn<dmy("1/3/2000", tz = "chile")] <- 10
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/2000", tz = "chile") & bills$info$dateIn<dmy("1/3/2001", tz = "chile")] <- 11
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/2001", tz = "chile") & bills$info$dateIn<dmy("1/3/2002", tz = "chile")] <- 12
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/2002", tz = "chile") & bills$info$dateIn<dmy("1/3/2003", tz = "chile")] <- 13
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/2003", tz = "chile") & bills$info$dateIn<dmy("1/3/2004", tz = "chile")] <- 14
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/2004", tz = "chile") & bills$info$dateIn<dmy("1/3/2005", tz = "chile")] <- 15
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/2005", tz = "chile") & bills$info$dateIn<dmy("1/3/2006", tz = "chile")] <- 16
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/2006", tz = "chile") & bills$info$dateIn<dmy("1/3/2007", tz = "chile")] <- 17
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/2007", tz = "chile") & bills$info$dateIn<dmy("1/3/2008", tz = "chile")] <- 18
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/2008", tz = "chile") & bills$info$dateIn<dmy("1/3/2009", tz = "chile")] <- 19
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/2009", tz = "chile") & bills$info$dateIn<dmy("1/3/2010", tz = "chile")] <- 20
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/2010", tz = "chile") & bills$info$dateIn<dmy("1/3/2011", tz = "chile")] <- 21
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/2011", tz = "chile") & bills$info$dateIn<dmy("1/3/2012", tz = "chile")] <- 22
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/2012", tz = "chile") & bills$info$dateIn<dmy("1/3/2013", tz = "chile")] <- 23
-bills$info$legyr[bills$info$dateIn>=dmy("1/3/2013", tz = "chile") & bills$info$dateIn<dmy("1/3/2014", tz = "chile")] <- 24
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/1990") & bills$info$dateIn<dmy("1/3/1991")] <- 1
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/1991") & bills$info$dateIn<dmy("1/3/1992")] <- 2
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/1992") & bills$info$dateIn<dmy("1/3/1993")] <- 3
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/1993") & bills$info$dateIn<dmy("1/3/1994")] <- 4
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/1994") & bills$info$dateIn<dmy("1/3/1995")] <- 5
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/1995") & bills$info$dateIn<dmy("1/3/1996")] <- 6
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/1996") & bills$info$dateIn<dmy("1/3/1997")] <- 7
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/1997") & bills$info$dateIn<dmy("1/3/1998")] <- 8
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/1998") & bills$info$dateIn<dmy("1/3/1999")] <- 9
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/1999") & bills$info$dateIn<dmy("1/3/2000")] <- 10
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/2000") & bills$info$dateIn<dmy("1/3/2001")] <- 11
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/2001") & bills$info$dateIn<dmy("1/3/2002")] <- 12
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/2002") & bills$info$dateIn<dmy("1/3/2003")] <- 13
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/2003") & bills$info$dateIn<dmy("1/3/2004")] <- 14
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/2004") & bills$info$dateIn<dmy("1/3/2005")] <- 15
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/2005") & bills$info$dateIn<dmy("1/3/2006")] <- 16
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/2006") & bills$info$dateIn<dmy("1/3/2007")] <- 17
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/2007") & bills$info$dateIn<dmy("1/3/2008")] <- 18
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/2008") & bills$info$dateIn<dmy("1/3/2009")] <- 19
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/2009") & bills$info$dateIn<dmy("1/3/2010")] <- 20
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/2010") & bills$info$dateIn<dmy("1/3/2011")] <- 21
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/2011") & bills$info$dateIn<dmy("1/3/2012")] <- 22
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/2012") & bills$info$dateIn<dmy("1/3/2013")] <- 23
+bills$info$legyr[bills$info$dateIn>=dmy("1/3/2013") & bills$info$dateIn<dmy("1/3/2014")] <- 24
 #
 for (i in 1:24){ # loop over legislative years
     sel <- which(bills$info$legyr==i); tmp <- table(bills$info$dmensaje[sel], bills$info$hasUrgH[sel], useNA = "ifany")
@@ -677,27 +677,27 @@ for (i in 1:24){ # loop over legislative years
 tmp <- table(bills$info$dmensaje, bills$info$hasUrgH, useNA = "ifany") # whole period
 print(cbind(round(prop.table(tmp, 1), digits = 2), margin.table(tmp, 1))) # crosstab with shares and column margins
 #
-sel <- which(bills$info$dateIn>=dmy("1/3/1990", tz = "chile") & bills$info$dateIn<dmy("1/3/2006", tz = "chile")) # period in Alemán and Navia
+sel <- which(bills$info$dateIn>=dmy("1/3/1990") & bills$info$dateIn<dmy("1/3/2006")) # period in Alemán and Navia
 tmp <- table(bills$info$dmensaje[sel], bills$info$hasUrgH[sel], useNA = "ifany")
 print(cbind(round(prop.table(tmp, 1), digits = 2), margin.table(tmp, 1))) # crosstab with shares and column margins
 #
 # by legislature
-sel <- which(bills$info$dateIn>=dmy("1/3/1990", tz = "chile") & bills$info$dateIn<dmy("1/3/1994", tz = "chile")) # period in Alemán and Navia
+sel <- which(bills$info$dateIn>=dmy("1/3/1990") & bills$info$dateIn<dmy("1/3/1994")) # period in Alemán and Navia
 tmp <- table(bills$info$dmensaje[sel], bills$info$hasUrgH[sel], useNA = "ifany")
 print(cbind(round(prop.table(tmp, 1), digits = 2), margin.table(tmp, 1))) # crosstab with shares and column margins
-sel <- which(bills$info$dateIn>=dmy("1/3/1994", tz = "chile") & bills$info$dateIn<dmy("1/3/1998", tz = "chile")) # period in Alemán and Navia
+sel <- which(bills$info$dateIn>=dmy("1/3/1994") & bills$info$dateIn<dmy("1/3/1998")) # period in Alemán and Navia
 tmp <- table(bills$info$dmensaje[sel], bills$info$hasUrgH[sel], useNA = "ifany")
 print(cbind(round(prop.table(tmp, 1), digits = 2), margin.table(tmp, 1))) # crosstab with shares and column margins
-sel <- which(bills$info$dateIn>=dmy("1/3/1998", tz = "chile") & bills$info$dateIn<dmy("1/3/2002", tz = "chile")) # period in Alemán and Navia
+sel <- which(bills$info$dateIn>=dmy("1/3/1998") & bills$info$dateIn<dmy("1/3/2002")) # period in Alemán and Navia
 tmp <- table(bills$info$dmensaje[sel], bills$info$hasUrgH[sel], useNA = "ifany")
 print(cbind(round(prop.table(tmp, 1), digits = 2), margin.table(tmp, 1))) # crosstab with shares and column margins
-sel <- which(bills$info$dateIn>=dmy("1/3/2002", tz = "chile") & bills$info$dateIn<dmy("1/3/2006", tz = "chile")) # period in Alemán and Navia
+sel <- which(bills$info$dateIn>=dmy("1/3/2002") & bills$info$dateIn<dmy("1/3/2006")) # period in Alemán and Navia
 tmp <- table(bills$info$dmensaje[sel], bills$info$hasUrgH[sel], useNA = "ifany")
 print(cbind(round(prop.table(tmp, 1), digits = 2), margin.table(tmp, 1))) # crosstab with shares and column margins
-sel <- which(bills$info$dateIn>=dmy("1/3/2006", tz = "chile") & bills$info$dateIn<dmy("1/3/2010", tz = "chile")) # period in Alemán and Navia
+sel <- which(bills$info$dateIn>=dmy("1/3/2006") & bills$info$dateIn<dmy("1/3/2010")) # period in Alemán and Navia
 tmp <- table(bills$info$dmensaje[sel], bills$info$hasUrgH[sel], useNA = "ifany")
 print(cbind(round(prop.table(tmp, 1), digits = 2), margin.table(tmp, 1))) # crosstab with shares and column margins
-sel <- which(bills$info$dateIn>=dmy("1/3/2006", tz = "chile") & bills$info$dateIn<dmy("1/3/2014", tz = "chile")) # period in Alemán and Navia
+sel <- which(bills$info$dateIn>=dmy("1/3/2006") & bills$info$dateIn<dmy("1/3/2014")) # period in Alemán and Navia
 tmp <- table(bills$info$dmensaje[sel], bills$info$hasUrgH[sel], useNA = "ifany")
 print(cbind(round(prop.table(tmp, 1), digits = 2), margin.table(tmp, 1))) # crosstab with shares and column margins
 
@@ -816,7 +816,7 @@ tmp[2] <- "02 de May. de 2001   Suma 0020501  "; tmp[4] <- "10 de Abr. de 2001 1
 bills$urgRaw[[i]] <- tmp
 #
 i <- which(bills$info$bol=="2121-04")
-tmp <- bills$tramites[[i]]; tmp$to[2] <- dmy("20-01-1998", tz = "chile"); tmp$period[2] <- interval(tmp$from[2], tmp$to[2]); tmp <- tmp[-3:-5,]
+tmp <- bills$tramites[[i]]; tmp$to[2] <- dmy("20-01-1998"); tmp$period[2] <- interval(tmp$from[2], tmp$to[2]); tmp <- tmp[-3:-5,]
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="114-06")
@@ -825,7 +825,7 @@ tmp <- bills$tramites[[i]]; tmp$to[2] <- tmp$to[3]; tmp$from[3] <- tmp$to[3]; tm
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="1902-17")
-tmp <- bills$tramites[[i]]; tmp$to[2] <- dmy("21-12-2000", tz = "chile"); tmp$from[3] <- dmy("21-12-2000", tz = "chile"); tmp$tramite[3] <- "dip"; tmp <- tmp[-4,]; tmp$period <- interval(tmp$from, tmp$to)
+tmp <- bills$tramites[[i]]; tmp$to[2] <- dmy("21-12-2000"); tmp$from[3] <- dmy("21-12-2000"); tmp$tramite[3] <- "dip"; tmp <- tmp[-4,]; tmp$period <- interval(tmp$from, tmp$to)
 #old tmp <- bills$tramites[[i]]; tmp <- tmp[c(-3,-4),]
 bills$tramites[[i]] <- tmp
 #
@@ -887,7 +887,7 @@ bills$urgRaw[[i]][8] <-     "02 de Sep. de 1999   Suma   25-340  " # decía 1997
 #
 i <- which(bills$info$bol=="2361-23")
 bills$urgRaw[[i]][2] <- "28 de Ago. de 2004 31 de Ago. de 2004 Suma 286-351 333-351"
-#old bills$tramites[[i]]$from[5] <- dmy("19/10/2004", tz = "chile")
+#old bills$tramites[[i]]$from[5] <- dmy("19/10/2004")
 #
 i <- which(bills$info$bol=="2374-07")
 bills$urgRaw[[i]][2] <- "04 de Nov. de 1999   Suma 110-342  "
@@ -907,8 +907,8 @@ bills$urgRaw[[i]][4] <- "15 de Abr. de 2003   Simple 536-348  "
 #
 i <- which(bills$info$bol=="3406-03")
 bills$urgRaw[[i]][3] <-  "04 de Nov. de 2003   Discusión inmediata 133-350  "
-bills$tramites[[i]]$to[1] <- dmy("05/11/2003", tz = "chile")
-bills$tramites[[i]]$from[2] <- dmy("05/11/2003", tz = "chile")
+bills$tramites[[i]]$to[1] <- dmy("05/11/2003")
+bills$tramites[[i]]$from[2] <- dmy("05/11/2003")
 bills$tramites[[i]]$period <- interval(bills$tramites[[i]]$from, bills$tramites[[i]]$to)
 #
 i <- which(bills$info$bol=="3447-15")
@@ -1005,9 +1005,9 @@ bills$urgRaw[[i]] <- gsub(pattern = "0010", replacement = "2010", bills$urgRaw[[
 #
 i <- which(bills$info$bol=="6443-07")
 tmp <- bills$tramites[[i]]; tmp <- tmp[-3,]; bills$tramites[[i]] <- tmp
-##old bills$tramites[[i]]$to[4] <- dmy("04/06/2009", tz = "chile")
-##old bills$tramites[[i]]$from[5] <- dmy("04/06/2009", tz = "chile")
-##old bills$tramites[[i]]$to[5] <- dmy("12/06/2009", tz = "chile")
+##old bills$tramites[[i]]$to[4] <- dmy("04/06/2009")
+##old bills$tramites[[i]]$from[5] <- dmy("04/06/2009")
+##old bills$tramites[[i]]$to[5] <- dmy("12/06/2009")
 bills$urgRaw[[i]] <- gsub(pattern = "Ago.", replacement = "Jun.", bills$urgRaw[[i]])
 #
 i <- which(bills$info$bol=="6562-07")
@@ -1101,7 +1101,7 @@ tmp <- bills$tramites[[i]]; tmp <- tmp[-3,]; tmp$to[2] <- tmp$from[3]; tmp$trami
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="6690-10")
-tmp <- bills$tramites[[i]]; tmp$from[4] <- dmy("03-03-2011", tz = "chile"); tmp$tramite[3] <- "trib"; tmp$tramite[4] <- "ejec"; tmp$to[3] <- tmp$from[4]
+tmp <- bills$tramites[[i]]; tmp$from[4] <- dmy("03-03-2011"); tmp$tramite[3] <- "trib"; tmp$tramite[4] <- "ejec"; tmp$to[3] <- tmp$from[4]
 bills$tramites[[i]] <- tmp
 #
 tmp1[sel] <- 0
@@ -1110,235 +1110,235 @@ tramVerif[sel] <- 1
 sel <- c(1:I)[tmp1==1 & tmp2==2] # select indices of hitos mentioning no amendment by 2nd chamber and with nrow(tramites)==2 that all need work
 # change by hand
 i <- which(bills$info$bol=="140-10")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,], tmp[2,]); tmp$to[1] <- dmy("04-12-1990", tz = "chile"); tmp$from[2] <- tmp$to[1]; tmp$to[2] <- dmy("05-03-1991", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$to[3] <- tmp$from[3] + days(1); tmp$from[4] <- tmp$to[3]; tmp$tramite[2] <- "dip"; tmp$tramite[4] <- "veto"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,], tmp[2,]); tmp$to[1] <- dmy("04-12-1990"); tmp$from[2] <- tmp$to[1]; tmp$to[2] <- dmy("05-03-1991"); tmp$from[3] <- tmp$to[2]; tmp$to[3] <- tmp$from[3] + days(1); tmp$from[4] <- tmp$to[3]; tmp$tramite[2] <- "dip"; tmp$tramite[4] <- "veto"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="147-13")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("24-04-1991", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("24-04-1991"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="1711-10")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("22-05-1996", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("22-05-1996"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="218-05")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("20-12-1990", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("20-12-1990"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="257-10")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("17-04-1991", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("17-04-1991"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="258-10")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("05-11-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("05-11-1992"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="291-10")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("10-04-1991", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("10-04-1991"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="292-10")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("01-09-1993", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("01-09-1993"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="321-10")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("01-09-1993", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("01-09-1993"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="322-10")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("02-07-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("02-07-1992"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="323-10")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("22-01-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("22-01-1992"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="337-07")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("12-08-1991", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("12-08-1991"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="347-13")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("16-05-1991", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("16-05-1991"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="3517-10")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("19-10-2004", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[2] <- "sen"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("19-10-2004"); tmp$from[3] <- tmp$to[2]; tmp$tramite[2] <- "sen"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="356-04")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("14-06-1994", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("14-06-1994"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="366-10")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("08-10-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("08-10-1992"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="367-10")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("28-01-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("28-01-1992"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="377-06")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("04-12-1991", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("04-12-1991"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="379-10")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("12-09-1991", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("12-09-1991"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="387-04")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("22-04-1993", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("22-04-1993"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="388-07")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("15-12-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("15-12-1992"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="403-07")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("01-04-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("01-04-1992"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="417-10")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("24-07-1991", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("24-07-1991"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="440-10")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("01-04-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("01-04-1992"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="657-02")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("28-05-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("28-05-1992"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="664-06")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("18-08-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("18-08-1992"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="665-06")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("18-08-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("18-08-1992"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="666-06")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("18-08-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("18-08-1992"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="671-06")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("17-06-1993", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("17-06-1993"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="681-13")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("20-05-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("20-05-1992"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="697-13")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("16-09-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("16-09-1992"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="700-06")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("16-06-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("16-06-1992"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="716-10")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("15-09-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("15-09-1992"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="728-10")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("09-09-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("09-09-1992"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="729-10")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("15-06-1993", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("15-06-1993"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="744-10")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("01-06-1994", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("01-06-1994"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="753-10")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("01-02-1993", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("01-02-1993"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="762-10")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("15-12-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("15-12-1992"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="768-04")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("22-04-1993", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("22-04-1993"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="769-13")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("09-11-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("09-11-1992"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="770-05")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("25-08-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("25-08-1992"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="777-10")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("24-03-1993", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("24-03-1993"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="778-07")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("21-12-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("21-12-1992"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="803-01")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("22-12-1994", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("22-12-1994"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="822-10")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("22-12-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("22-12-1992"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="848-02")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("11-07-1994", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("11-07-1994"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="852-05")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("19-11-1992", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("19-11-1992"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="865-10")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("01-07-1993", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("01-07-1993"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="866-10")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("15-06-1993", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("15-06-1993"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="879-10")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("01-07-1993", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("01-07-1993"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="880-10")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("28-04-1993", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("28-04-1993"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="906-05")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("22-04-1993", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("22-04-1993"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="931-10")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("24-05-1993", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("24-05-1993"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="932-10")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("01-07-1993", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("01-07-1993"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="933-10")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("07-09-1993", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("07-09-1993"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="941-10")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("23-11-1993", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("23-11-1993"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="951-06")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("07-04-1993", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("07-04-1993"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="959-10")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("07-09-1995", tz = "chile"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$to[2] <- dmy("07-09-1995"); tmp$from[3] <- tmp$to[2]; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp
 #
 tmp1[sel] <- 0 # remove indices
@@ -1377,7 +1377,7 @@ tmp <- bills$tramites[[i]]; tmp <- tmp[-3:-4,]; tmp$to[2] <- tmp$from[3]; tmp$tr
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="5500-10")
-tmp <- bills$tramites[[i]]; tmp <- tmp[-3:-4,]; tmp$to[2] <- tmp$from[3]; tmp <- rbind(tmp, tmp[3,]); tmp$tramite[4] <- "ejec"; tmp$to[3] <- dmy("06-10-2009", tz = "chile"); tmp$from[4] <- tmp$to[3]
+tmp <- bills$tramites[[i]]; tmp <- tmp[-3:-4,]; tmp$to[2] <- tmp$from[3]; tmp <- rbind(tmp, tmp[3,]); tmp$tramite[4] <- "ejec"; tmp$to[3] <- dmy("06-10-2009"); tmp$from[4] <- tmp$to[3]
 bills$tramites[[i]] <- tmp
 #
 tmp1[sel] <- 0
@@ -1399,7 +1399,7 @@ sel <- c(1:I)[tmp1==1 & tmp2==6] # select indices of hitos mentioning no amendme
 #
 # change by hand
 i <- which(bills$info$bol=="2689-06")
-tmp <- bills$tramites[[i]]; tmp$to[4] <- dmy("05-06-2001", tz = "chile"); tmp <- tmp[c(-3,-5,-6),]; tmp$to[2] <- tmp$from[3]
+tmp <- bills$tramites[[i]]; tmp$to[4] <- dmy("05-06-2001"); tmp <- tmp[c(-3,-5,-6),]; tmp$to[2] <- tmp$from[3]
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="2718-02")
@@ -1411,7 +1411,7 @@ tmp <- bills$tramites[[i]]; tmp <- tmp[c(-3,-6),]; tmp$to[2] <- tmp$from[3]
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="3178-07")
-tmp <- bills$tramites[[i]]; tmp <- tmp[c(-3,-4),]; tmp$to[2] <- tmp$from[3]; tmp$to[4] <- dmy("04-03-2003", tz = "chile")
+tmp <- bills$tramites[[i]]; tmp <- tmp[c(-3,-4),]; tmp$to[2] <- tmp$from[3]; tmp$to[4] <- dmy("04-03-2003")
 bills$tramites[[i]] <- tmp
 #
 i <- which(bills$info$bol=="3729-13")
@@ -1503,27 +1503,27 @@ for (i in 1:I){
 sel <- which(tmp2==1 & bills$info$status=="statute")
 # change by hand
 i <- which(bills$info$bol=="133-05")
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp, tmp); tmp$to[1] <- tmp$from[2] <- dmy("29-08-1990", tz = "chile"); tmp$to[2] <- tmp$from[3] <- dmy("30-08-1990", tz = "chile"); tmp$to[3] <- dmy("04-09-1990", tz = "chile"); tmp$tramite[1] <- "dip"; tmp$tramite[2] <- "sen"; 
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp, tmp); tmp$to[1] <- tmp$from[2] <- dmy("29-08-1990"); tmp$to[2] <- tmp$from[3] <- dmy("30-08-1990"); tmp$to[3] <- dmy("04-09-1990"); tmp$tramite[1] <- "dip"; tmp$tramite[2] <- "sen"; 
 bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
 #
 i <- which(bills$info$bol=="1381-05") # a éste le estoy inventando las fechas...
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp, tmp); tmp$to[1] <- tmp$from[2] <- dmy("04-11-1994", tz = "chile"); tmp$to[2] <- tmp$from[3] <- dmy("04-12-1994", tz = "chile"); tmp$to[3] <- dmy("06-12-1994", tz = "chile"); tmp$tramite[1] <- "dip"; tmp$tramite[2] <- "sen"; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp, tmp); tmp$to[1] <- tmp$from[2] <- dmy("04-11-1994"); tmp$to[2] <- tmp$from[3] <- dmy("04-12-1994"); tmp$to[3] <- dmy("06-12-1994"); tmp$tramite[1] <- "dip"; tmp$tramite[2] <- "sen"; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
 #
 i <- which(bills$info$bol=="397-05") # a éste le estoy inventando las fechas...
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp, tmp); tmp$to[1] <- tmp$from[2] <- dmy("04-08-1991", tz = "chile"); tmp$to[2] <- tmp$from[3] <- dmy("04-09-1991", tz = "chile"); tmp$to[3] <- dmy("10-09-1991", tz = "chile"); tmp$tramite[1] <- "dip"; tmp$tramite[2] <- "sen"; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp, tmp); tmp$to[1] <- tmp$from[2] <- dmy("04-08-1991"); tmp$to[2] <- tmp$from[3] <- dmy("04-09-1991"); tmp$to[3] <- dmy("10-09-1991"); tmp$tramite[1] <- "dip"; tmp$tramite[2] <- "sen"; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
 #
 i <- which(bills$info$bol=="471-10") # a éste le estoy inventando las fechas...
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp, tmp); tmp$to[1] <- tmp$from[2] <- dmy("04-10-1991", tz = "chile"); tmp$to[2] <- tmp$from[3] <- dmy("04-11-1991", tz = "chile"); tmp$to[3] <- dmy("29-09-1991", tz = "chile"); tmp$tramite[1] <- "dip"; tmp$tramite[2] <- "sen"; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp, tmp); tmp$to[1] <- tmp$from[2] <- dmy("04-10-1991"); tmp$to[2] <- tmp$from[3] <- dmy("04-11-1991"); tmp$to[3] <- dmy("29-09-1991"); tmp$tramite[1] <- "dip"; tmp$tramite[2] <- "sen"; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
 #
 i <- which(bills$info$bol=="642-10") # a éste le estoy inventando las fechas...
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp, tmp); tmp$to[1] <- tmp$from[2] <- dmy("26-03-1994", tz = "chile"); tmp$to[2] <- tmp$from[3] <- dmy("26-03-1995", tz = "chile"); tmp$to[3] <- dmy("26-03-1997", tz = "chile"); tmp$tramite[1] <- "dip"; tmp$tramite[2] <- "sen"; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp, tmp); tmp$to[1] <- tmp$from[2] <- dmy("26-03-1994"); tmp$to[2] <- tmp$from[3] <- dmy("26-03-1995"); tmp$to[3] <- dmy("26-03-1997"); tmp$tramite[1] <- "dip"; tmp$tramite[2] <- "sen"; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
 #
 i <- which(bills$info$bol=="981-13") # a éste le estoy inventando las fechas...
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp, tmp); tmp$to[1] <- tmp$from[2] <- dmy("13-05-1993", tz = "chile"); tmp$to[2] <- tmp$from[3] <- dmy("23-05-1993", tz = "chile"); tmp$to[3] <- dmy("31-05-1997", tz = "chile"); tmp$tramite[1] <- "dip"; tmp$tramite[2] <- "sen"; tmp$tramite[3] <- "ejec"
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp, tmp); tmp$to[1] <- tmp$from[2] <- dmy("13-05-1993"); tmp$to[2] <- tmp$from[3] <- dmy("23-05-1993"); tmp$to[3] <- dmy("31-05-1997"); tmp$tramite[1] <- "dip"; tmp$tramite[2] <- "sen"; tmp$tramite[3] <- "ejec"
 bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
 #
 sel <- which(tmp2==1 & bills$info$status=="pending: 3er trámite")
@@ -1583,7 +1583,7 @@ for (i in sel){
 # miscoded case
 i <- which(bills$info$bol=="334-07") # a éste le estoy inventando las fechas...
 tmp <- bills$tramites[[i]]; tmp$tramite[3] <- "dip"; tmp <- rbind(tmp, tmp[4,], tmp[4,]); tmp$tramite[5] <- "ejec"; tmp$tramite[6] <- "veto"
-tmp$to[4] <- tmp$from[5] <- dmy("21-07-1992", tz = "chile"); tmp$to[5] <- tmp$from[6] <- dmy("08-10-1992", tz = "chile"); 
+tmp$to[4] <- tmp$from[5] <- dmy("21-07-1992"); tmp$to[5] <- tmp$from[6] <- dmy("08-10-1992"); 
 bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
 #
 # cases missing return to iniciadora when project was modified by revisora
@@ -1686,15 +1686,15 @@ tramVerif[sel] <- 1
 #
 # by hand
 i <- which(bills$info$bol=="171-02") 
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$tramite[2] <- "dip"; tmp$to[1] <- tmp$from[2] <- dmy("31-10-1990", tz = "chile"); tmp$to[2] <- tmp$from[3] <- dmy("05-12-1990", tz = "chile")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[2,]); tmp$tramite[2] <- "dip"; tmp$to[1] <- tmp$from[2] <- dmy("31-10-1990"); tmp$to[2] <- tmp$from[3] <- dmy("05-12-1990")
 bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
 #
 i <- which(bills$info$bol=="825-03") 
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp); tmp$tramite[2] <- "dip"; tmp$to[1] <- tmp$from[2] <- dmy("09-06-1993", tz = "chile"); tmp$to[2] <- tmp$from[3] <- dmy("04-08-1993", tz = "chile"); tmp$to[3] <- tmp$from[4] <- dmy("17-08-1993", tz = "chile")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp); tmp$tramite[2] <- "dip"; tmp$to[1] <- tmp$from[2] <- dmy("09-06-1993"); tmp$to[2] <- tmp$from[3] <- dmy("04-08-1993"); tmp$to[3] <- tmp$from[4] <- dmy("17-08-1993")
 bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
 #
 i <- which(bills$info$bol=="2247-05") 
-tmp <- bills$tramites[[i]]; tmp$tramite[2] <- "sen"; tmp$to[1] <- tmp$from[2] <- dmy("18-11-1998", tz = "chile"); tmp$to[2] <- tmp$from[3] <- dmy("19-11-1998", tz = "chile"); tmp$to[3] <- tmp$from[4]
+tmp <- bills$tramites[[i]]; tmp$tramite[2] <- "sen"; tmp$to[1] <- tmp$from[2] <- dmy("18-11-1998"); tmp$to[2] <- tmp$from[3] <- dmy("19-11-1998"); tmp$to[3] <- tmp$from[4]
 bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
 #
 i <- which(bills$info$bol=="5058-07") 
@@ -1702,11 +1702,11 @@ tmp <- bills$tramites[[i]]; tmp$to[1] <- tmp$to[3]; tmp <- tmp[1,]
 bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
 #
 i <- which(bills$info$bol=="674-14") 
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp[1,], tmp[1,], tmp); tmp$tramite[2] <- "dip"; tmp$tramite[5] <- "trib"; tmp$tramite[6] <- "ejec"; tmp$to[1] <- tmp$from[2] <- dmy("22-03-1993", tz = "chile"); tmp$to[2] <- tmp$from[3] <- dmy("04-10-1995", tz = "chile"); tmp$to[4] <- tmp$from[5] <- dmy("13-06-1996", tz = "chile")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp[1,], tmp[1,], tmp); tmp$tramite[2] <- "dip"; tmp$tramite[5] <- "trib"; tmp$tramite[6] <- "ejec"; tmp$to[1] <- tmp$from[2] <- dmy("22-03-1993"); tmp$to[2] <- tmp$from[3] <- dmy("04-10-1995"); tmp$to[4] <- tmp$from[5] <- dmy("13-06-1996")
 bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
 #
 i <- which(bills$info$bol=="2093-05") 
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp[1,], tmp[1,], tmp); tmp$tramite[2] <- "sen"; tmp$to[1] <- tmp$from[2] <- tmp$to[2] <- tmp$from[3] <- dmy("18-11-1997", tz = "chile"); tmp$to[3] <- tmp$from[4] <- tmp$to[4] <- tmp$from[5] <- dmy("25-11-1997", tz = "chile")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp[1,], tmp[1,], tmp); tmp$tramite[2] <- "sen"; tmp$to[1] <- tmp$from[2] <- tmp$to[2] <- tmp$from[3] <- dmy("18-11-1997"); tmp$to[3] <- tmp$from[4] <- tmp$to[4] <- tmp$from[5] <- dmy("25-11-1997")
 bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
 #
 i <- which(bills$info$bol=="3993-05") 
@@ -1714,15 +1714,15 @@ tmp <- bills$tramites[[i]]; tmp$tramite[2] <- "sen";
 bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
 #
 i <- which(bills$info$bol=="603-13") 
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp[1,], tmp[1,], tmp); tmp$tramite[2] <- "dip"; tmp$to[1] <- tmp$from[2] <- dmy("07-09-1992", tz = "chile");  tmp$to[2] <- tmp$from[3] <- dmy("20-03-1993", tz = "chile");
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp[1,], tmp[1,], tmp); tmp$tramite[2] <- "dip"; tmp$to[1] <- tmp$from[2] <- dmy("07-09-1992");  tmp$to[2] <- tmp$from[3] <- dmy("20-03-1993");
 bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
 #
 i <- which(bills$info$bol=="7308-06") 
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[5,]); tmp$tramite[5] <- "ejec"; tmp$from[5] <- tmp$to[4]; tmp$to[5] <- tmp$from[6] <- dmy("18-12-2012", tz = "chile")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp, tmp[5,]); tmp$tramite[5] <- "ejec"; tmp$from[5] <- tmp$to[4]; tmp$to[5] <- tmp$from[6] <- dmy("18-12-2012")
 bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
 #
 i <- which(bills$info$bol=="1035-07") 
-tmp <- bills$tramites[[i]]; tmp$tramite[5] <- "ejec"; tmp$tramite[6] <- "veto"; tmp$to[1] <- tmp$from[2] <- dmy("12-09-1995", tz = "chile"); tmp$to[4] <- tmp$from[5] <- dmy("04-07-2000", tz = "chile"); tmp$to[5] <- tmp$from[6] <- dmy("16-08-2000", tz = "chile")
+tmp <- bills$tramites[[i]]; tmp$tramite[5] <- "ejec"; tmp$tramite[6] <- "veto"; tmp$to[1] <- tmp$from[2] <- dmy("12-09-1995"); tmp$to[4] <- tmp$from[5] <- dmy("04-07-2000"); tmp$to[5] <- tmp$from[6] <- dmy("16-08-2000")
 bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
 #
 i <- which(bills$info$bol=="111-06")
@@ -1730,7 +1730,7 @@ i <- which(bills$info$bol=="111-06")
 tramVerif[i] <- 1
 #
 i <- which(bills$info$bol=="1251-18") 
-tmp <- bills$tramites[[i]]; tmp$tramite[3] <- "dip"; tmp$tramite[4] <- "ejec"; tmp$tramite[5] <- "veto"; tmp$tramite[6] <- "trib"; tmp$to[3] <- tmp$from[4] <- dmy("04-04-2000", tz = "chile"); tmp$to[4] <- tmp$from[5] <- dmy("04-05-2000", tz = "chile"); tmp$to[5] <- tmp$from[6] <- dmy("21-06-2000", tz = "chile"); tmp$to[6] <- dmy("05-08-2000", tz = "chile")
+tmp <- bills$tramites[[i]]; tmp$tramite[3] <- "dip"; tmp$tramite[4] <- "ejec"; tmp$tramite[5] <- "veto"; tmp$tramite[6] <- "trib"; tmp$to[3] <- tmp$from[4] <- dmy("04-04-2000"); tmp$to[4] <- tmp$from[5] <- dmy("04-05-2000"); tmp$to[5] <- tmp$from[6] <- dmy("21-06-2000"); tmp$to[6] <- dmy("05-08-2000")
 bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
 #
 i <- which(bills$info$bol=="259-07")
@@ -1742,7 +1742,7 @@ i <- which(bills$info$bol=="446-03")
 tramVerif[i] <- 1
 #
 i <- which(bills$info$bol=="5724-26") 
-tmp <- bills$tramites[[i]]; tmp$tramite[4] <- "ejec"; tmp$tramite[5] <- "veto"; tmp$tramite[6] <- "trib";  tmp$from[4] <- tmp$to[3] <- dmy("04-11-2009", tz = "chile"); tmp$to[4] <- tmp$from[5] <- dmy("10-11-2009", tz = "chile"); tmp$to[5] <- tmp$from[6] <- dmy("01-12-2009", tz = "chile"); 
+tmp <- bills$tramites[[i]]; tmp$tramite[4] <- "ejec"; tmp$tramite[5] <- "veto"; tmp$tramite[6] <- "trib";  tmp$from[4] <- tmp$to[3] <- dmy("04-11-2009"); tmp$to[4] <- tmp$from[5] <- dmy("10-11-2009"); tmp$to[5] <- tmp$from[6] <- dmy("01-12-2009"); 
 bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
 #
 i <- which(bills$info$bol=="628-11")
@@ -1750,23 +1750,23 @@ i <- which(bills$info$bol=="628-11")
 tramVerif[i] <- 1
 #
 i <- which(bills$info$bol=="111-06") 
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp[1,], tmp); tmp[2,] <- tmp[3,]; tmp$tramite[3] <- "dip"; tmp$from[3] <- tmp$to[2] <- dmy("09-11-1993", tz = "chile")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp[1,], tmp); tmp[2,] <- tmp[3,]; tmp$tramite[3] <- "dip"; tmp$from[3] <- tmp$to[2] <- dmy("09-11-1993")
 bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
 #
 i <- which(bills$info$bol=="1502-02") 
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp[1,], tmp); tmp[2,] <- tmp[3,]; tmp$tramite[3] <- "dip"; tmp$to[2] <- tmp$from[3] <- dmy("17-11-1999", tz = "chile"); tmp$from[4] <- tmp$to[3] <- dmy("04-01-2000", tz = "chile")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp[1,], tmp); tmp[2,] <- tmp[3,]; tmp$tramite[3] <- "dip"; tmp$to[2] <- tmp$from[3] <- dmy("17-11-1999"); tmp$from[4] <- tmp$to[3] <- dmy("04-01-2000")
 bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
 #
 i <- which(bills$info$bol=="1516-02") 
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp[1,], tmp); tmp[2,] <- tmp[3,]; tmp$tramite[3] <- "dip"; tmp$to[2] <- tmp$from[3] <- dmy("17-11-1999", tz = "chile"); tmp$from[4] <- tmp$to[3] <- dmy("04-01-2000", tz = "chile")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp[1,], tmp); tmp[2,] <- tmp[3,]; tmp$tramite[3] <- "dip"; tmp$to[2] <- tmp$from[3] <- dmy("17-11-1999"); tmp$from[4] <- tmp$to[3] <- dmy("04-01-2000")
 bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
 #
 i <- which(bills$info$bol=="1867-06") 
-tmp <- bills$tramites[[i]]; tmp[4,] <- tmp[3,]; tmp$tramite[3] <- "sen"; tmp$to[3] <- tmp$from[4] <- dmy("04-08-1999", tz = "chile"); tmp$to[4] <- dmy("04-11-2014", tz = "chile")
+tmp <- bills$tramites[[i]]; tmp[4,] <- tmp[3,]; tmp$tramite[3] <- "sen"; tmp$to[3] <- tmp$from[4] <- dmy("04-08-1999"); tmp$to[4] <- dmy("04-11-2014")
 bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
 #
 i <- which(bills$info$bol=="195-08") 
-tmp <- bills$tramites[[i]]; tmp <- rbind(tmp[1,], tmp); tmp[2,] <- tmp[3,]; tmp$tramite[3] <- "dip"; tmp$to[2] <- tmp$from[3] <- dmy("05-12-1990", tz = "chile")
+tmp <- bills$tramites[[i]]; tmp <- rbind(tmp[1,], tmp); tmp[2,] <- tmp[3,]; tmp$tramite[3] <- "dip"; tmp$to[2] <- tmp$from[3] <- dmy("05-12-1990")
 bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
 #
 # ************** BLOCK MOVED BEGINS *******************
@@ -1914,15 +1914,15 @@ tmp <- bills$tramites[[i]]; tmp <- tmp[-3,]; tmp$to[2] <- bills$hitos[[i]]$date[
 bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
 #
 i <- which(bills$info$bol=="1707-18")
-tmp <- bills$tramites[[i]]; tmp$to[1] <- tmp$from[2] <- tmp$to[3]; tmp$to[2] <- dmy("11-11-2014", tz = "chile"); tmp$tramite[2] <- "sen"; tmp <- tmp[-3,]
+tmp <- bills$tramites[[i]]; tmp$to[1] <- tmp$from[2] <- tmp$to[3]; tmp$to[2] <- dmy("11-11-2014"); tmp$tramite[2] <- "sen"; tmp <- tmp[-3,]
 bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
 #
 i <- which(bills$info$bol=="5697-29")
-tmp <- bills$tramites[[i]]; tmp <- tmp[-3,]; tmp$to[2] <- dmy("19-01-2010", tz = "chile")
+tmp <- bills$tramites[[i]]; tmp <- tmp[-3,]; tmp$to[2] <- dmy("19-01-2010")
 bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
 #
 i <- which(bills$info$bol=="6417-07")
-tmp <- bills$tramites[[i]]; tmp <- tmp[-3,]; tmp$to[2] <- dmy("31-07-2009", tz = "chile")
+tmp <- bills$tramites[[i]]; tmp <- tmp[-3,]; tmp$to[2] <- dmy("31-07-2009")
 bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
 #
 i <- which(bills$info$bol=="6979-06")
@@ -1930,23 +1930,23 @@ tmp <- bills$tramites[[i]]; tmp$to[2] <- tmp$to[3]; tmp <- tmp[-3,];
 bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
 #
 i <- which(bills$info$bol=="8149-09")
-tmp <- bills$tramites[[i]]; tmp <- tmp[-3,]; tmp$to[2] <- dmy("01-10-2013", tz = "chile")
+tmp <- bills$tramites[[i]]; tmp <- tmp[-3,]; tmp$to[2] <- dmy("01-10-2013")
 bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
 #
 i <- which(bills$info$bol=="8612-02")
-tmp <- bills$tramites[[i]]; tmp <- tmp[-3,]; tmp$to[2] <- dmy("16-10-2013", tz = "chile")
+tmp <- bills$tramites[[i]]; tmp <- tmp[-3,]; tmp$to[2] <- dmy("16-10-2013")
 bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
 #
 i <- which(bills$info$bol=="8618-11")
-tmp <- bills$tramites[[i]]; tmp$to[3] <- dmy("11-11-2014", tz = "chile")
+tmp <- bills$tramites[[i]]; tmp$to[3] <- dmy("11-11-2014")
 bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
 #
 i <- which(bills$info$bol=="922-15")
-tmp <- bills$tramites[[i]]; tmp <- tmp[-3,]; tmp$to[2] <- dmy("11-11-2014", tz = "chile")
+tmp <- bills$tramites[[i]]; tmp <- tmp[-3,]; tmp$to[2] <- dmy("11-11-2014")
 bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
 #
 i <- which(bills$info$bol=="995-15")
-tmp <- bills$tramites[[i]]; tmp <- tmp[-3,]; tmp$to[2] <- dmy("11-11-2014", tz = "chile")
+tmp <- bills$tramites[[i]]; tmp <- tmp[-3,]; tmp$to[2] <- dmy("11-11-2014")
 bills$tramites[[i]] <- tmp; tramVerif[i] <- 1
 #
 # FIND EMPTY STRINGS IN TRAMITE --- WOULD BE PREFERABLE TO DO THIS WHEN EXTRACTING FROM HITOS
@@ -2044,7 +2044,7 @@ for (i in work){
     tmp <- gsub(pattern = ",[ ]+", replacement = ",", tmp) # drops spaces after commas
                                         #
     output <- data.frame(type=character(U)) # initialize output object
-    output$on <- dmy(gsub(pattern = "^([0-9/]*),.*", "\\1", tmp, perl = TRUE), tz = "chile") # adds date urgencia introduced
+    output$on <- dmy(gsub(pattern = "^([0-9/]*),.*", "\\1", tmp, perl = TRUE)) # adds date urgencia introduced
                                         #
     tmp3 <- sub(pattern = ".*(Sin urgencia).*", replacement = "\\1", tmp, perl = TRUE)
     tmp3 <- sub(pattern = ".*(Simple).*", replacement = "\\1", tmp3, perl = TRUE)
@@ -2065,7 +2065,7 @@ for (i in work){
     tmp3 <- sub(pattern = ".*(Suma).*", replacement = 15, tmp3, perl = TRUE)
     tmp3 <- sub(pattern = ".*(Discusión inmediata).*", replacement = 6, tmp3, perl = TRUE)
     tmp3 <- as.numeric(tmp3)
-    select <- which(output$on < dmy("3/7/2010", tz = "chile")) # change urgencias before constitutional reform
+    select <- which(output$on < dmy("3/7/2010")) # change urgencias before constitutional reform
     tmp3[select] <- mapvalues(tmp3[select], from = c(6,15), to = c(3,10), warn_missing = FALSE)
                                         #
     output$deadline <- output$on # inherits format for NAs
@@ -2085,7 +2085,7 @@ for (i in work){
     output$off <- output$deadline
     select <- which(tmp2==2)
     if (length(select)>0){
-        output$off[tmp2==2] <- dmy(gsub(pattern = ".*[0-9],([0-9/]*),.*", "\\1", tmp[tmp2==2], perl = TRUE), tz = "chile")
+        output$off[tmp2==2] <- dmy(gsub(pattern = ".*[0-9],([0-9/]*),.*", "\\1", tmp[tmp2==2], perl = TRUE))
     }
     ##
     ##
@@ -2292,7 +2292,7 @@ tmp <- gsub(pattern = "Sep.", replacement = "9", x = tmp)
 tmp <- gsub(pattern = "Oct."   , replacement = "10", x = tmp)
 tmp <- gsub(pattern = "Nov." , replacement = "11", x = tmp)
 tmp <- gsub(pattern = "Dic." , replacement = "12", x = tmp)
-ses$date <- dmy(tmp, tz = "chile")
+ses$date <- dmy(tmp)
 ## # compare date in string to date column: ALL OK
 ## tmp <- ses$txt
 ## tmp <- sub(pattern = "Sesión [0-9].* en (.*)", replacement = "\\1", tmp)       # drop start
@@ -2313,7 +2313,7 @@ ses$date <- dmy(tmp, tz = "chile")
 ## tmp <- gsub(pattern = "octubre"   , replacement = "10", x = tmp)
 ## tmp <- gsub(pattern = "noviembre" , replacement = "11", x = tmp)
 ## tmp <- gsub(pattern = "diciembre" , replacement = "12", x = tmp)
-## tmp <- dmy(tmp, tz = "chile")
+## tmp <- dmy(tmp)
 ## table(tmp == ses$date)
 #
 # sort and keep dates only --- if something else needed it can be added from ses here
@@ -2342,7 +2342,7 @@ tmp <- gsub(pattern = "Septiembre", replacement = "9", x = tmp)
 tmp <- gsub(pattern = "Octubre"   , replacement = "10", x = tmp)
 tmp <- gsub(pattern = "Noviembre" , replacement = "11", x = tmp)
 tmp <- gsub(pattern = "Diciembre" , replacement = "12", x = tmp)
-tmp <- dmy(tmp, tz = "chile")
+tmp <- dmy(tmp)
 ses$fch <- tmp # needed to recover cong pleno below
 #
 tmp <- tmp[order(tmp)]
@@ -2502,8 +2502,8 @@ sel <- which(tmp$bol=="112");  tmp$bol[sel] <- "7972-05"
 #
 library(lubridate)
 sel <- grep(pattern = "[0-9]+/[0-9]+/20", tmp$Date) # cases with four-digit years
-tmp$date <- mdy(tmp$Date, tz = "chile") # compute all dates
-tmp$date[-sel] <- mdy(tmp$Date[-sel], tz = "chile") # fix two-digit ones
+tmp$date <- mdy(tmp$Date) # compute all dates
+tmp$date[-sel] <- mdy(tmp$Date[-sel]) # fix two-digit ones
 tmp$Date <- NULL
 #
 # sort chrono
@@ -2886,7 +2886,7 @@ allUrg$msgOff <- tmp2
 #
 # drop urgencias after 10/3/2014
 library(lubridate)
-sel <- which(allUrg$on>dmy("10/03/2014", tz = "chile"))
+sel <- which(allUrg$on>dmy("10/03/2014"))
 allUrg <- allUrg[-sel,]
 #
 # ATTEMPT TO CORRECT NO OVERLAPS IN URGENCIAS WITHOUT FIXING ALL FROM:TO DATES IN TRAMITES---CHERRY-PICK CASES WITH NO OVERLAP
@@ -2999,19 +2999,19 @@ tmp$change <- tmp$change2
 tmp$chain2 <- tmp$chain3 <- tmp$dretir2 <- tmp$change2 <- NULL
 #
 # correction by hand (similar cases must be all over the place: retired messages after chamber has passed bill to other chamber are not retired!
-sel <- which(tmp$bol=="8612-02" & tmp$tramite=="dip" & tmp$off==dmy("08-01-2013", tz = "chile"))
-tmp$off[sel] <- dmy("13-12-2012", tz = "chile") # approved, moved to senate
+sel <- which(tmp$bol=="8612-02" & tmp$tramite=="dip" & tmp$off==dmy("08-01-2013"))
+tmp$off[sel] <- dmy("13-12-2012") # approved, moved to senate
 tmp$dretir[sel] <- 0
 ## ## ALL THIS SHOULD BE NO LONGER NEEDED
 ## # check/fix chain info in manual corrections
 ## sel <- which(tmp$bol=="8149-09"); tmp[sel,]
-## sel <- which(tmp$bol=="8149-09" & tmp$tramite=="dip" & tmp$on==dmy("12-06-2012", tz = "chile"))
+## sel <- which(tmp$bol=="8149-09" & tmp$tramite=="dip" & tmp$on==dmy("12-06-2012"))
 ## tmp <- tmp[-sel,]
-## sel <- which(tmp$bol=="8612-02" & tmp$tramite=="dip" & tmp$on==dmy("08-01-2013", tz = "chile"))
+## sel <- which(tmp$bol=="8612-02" & tmp$tramite=="dip" & tmp$on==dmy("08-01-2013"))
 ## tmp <- tmp[-sel,]
-## sel <- which(tmp$bol=="8612-02" & tmp$tramite=="sen" & tmp$on==dmy("16-10-2013", tz = "chile") & tmp$off==dmy("16-10-2013", tz = "chile"))
+## sel <- which(tmp$bol=="8612-02" & tmp$tramite=="sen" & tmp$on==dmy("16-10-2013") & tmp$off==dmy("16-10-2013"))
 ## tmp <- tmp[-sel,]
-## sel <- which(tmp$bol=="5458-07" & tmp$tramite=="dip" & tmp$on==dmy("08-09-2009", tz = "chile"))
+## sel <- which(tmp$bol=="5458-07" & tmp$tramite=="dip" & tmp$on==dmy("08-09-2009"))
 ## tmp$tramite[sel] <- "sen"
 #
 # replace object with manipulates dretir, chain, change
@@ -3026,14 +3026,14 @@ sel <- which(allUrg$bol=="2111-10" & year(allUrg$off)==1997)
 year(allUrg$off[sel]) <- 1998;
 allUrg$dretir[which(allUrg$bol=="2111-10")] <- 0 # none retired, all passed to other chamber
 #
-sel <- which(allUrg$bol=="4369-05" & allUrg$off==dmy("10-08-2006" ,tz = "chile"))
+sel <- which(allUrg$bol=="4369-05" & allUrg$off==dmy("10-08-2006"))
 allUrg$on[sel] <- allUrg$on[sel] - days(7)
 allUrg$deadline[sel] <- allUrg$deadline[sel] - days(7)
 allUrg$type[sel] <- "Discusión inmediata"
 allUrg$tramite[sel] <- "dip"; allUrg$trNum[sel] <- 1
-sel <- which(allUrg$bol=="4369-05" & allUrg$off==dmy("27-09-2006" ,tz = "chile"));
+sel <- which(allUrg$bol=="4369-05" & allUrg$off==dmy("27-09-2006"));
 allUrg$dretir[sel] <- 0 # not retired
-allUrg$off[sel] <- dmy("3-10-2006" ,tz = "chile") # seem to be a chain link
+allUrg$off[sel] <- dmy("3-10-2006") # seem to be a chain link
 #
 # add numeric type: 1,2,3 for di, su, si; 4.1,4.2,4.3 for resets of each type; 5.1,5.2,5.3 will be for retired of each type, added below
 allUrg$typeN <- 0; allUrg$typeN[allUrg$type=="Discusión inmediata"] <- 1; allUrg$typeN[allUrg$type=="Suma"] <- 2; allUrg$typeN[allUrg$type=="Simple"] <- 3;
@@ -3052,7 +3052,7 @@ allUrg <- allUrg[order(allUrg$bol, allUrg$on, tmp),]
 allUrg$chain[allUrg$typeN>5] <- allUrg$chain[allUrg$typeN>5] + 1 # fix chain number of retiro messages (they are copies of message they withdraw)
 #
 # drop urgencias after 10/3/2014 (repeat, since off messages were added)
-sel <- which(allUrg$on>dmy("10/03/2014", tz = "chile"))
+sel <- which(allUrg$on>dmy("10/03/2014"))
 allUrg <- allUrg[-sel,]
 table(allUrg$typeN, useNA = "ifany")
 # exports csv of allUrg to process in plots.r
@@ -3083,10 +3083,9 @@ allUrg$deadline2 <- allUrg$deadline + days(tmp2)
 ## sel <- which(allUrg$typeN==1 | allUrg$typeN==4.1); tmp2[sel] <- 6
 ## sel <- which(allUrg$typeN==2 | allUrg$typeN==4.2); tmp2[sel] <- 15
 ## sel <- which(allUrg$typeN==3 | allUrg$typeN==4.3); tmp2[sel] <- 30
-## sel <- which(allUrg$on2  < dmy("3/7/2010", tz = "chile")); tmp2[sel] <- mapvalues(tmp2[sel], from = c(6,15), to = c(3,10), warn_missing = FALSE) #pre-reform
+## sel <- which(allUrg$on2  < dmy("3/7/2010")); tmp2[sel] <- mapvalues(tmp2[sel], from = c(6,15), to = c(3,10), warn_missing = FALSE) #pre-reform
 ## library(timeDate)
 ## sel <- which(tmp2>0); allUrg$deadline2[sel] <- deadline(allUrg$on2[sel], tmp2[sel])
-## tz(allUrg$deadline2[sel]) <- "chile"
 #
 allUrg$on <- allUrg$on2; allUrg$deadline <- allUrg$deadline2; allUrg$on2 <- allUrg$deadline2 <- NULL # recode on and deadline dates
 # remove off date from mensajes caducados---coded as expired with deadline (none were retired)
@@ -3171,7 +3170,7 @@ rm(i,j,sel,tmp,tmp1,tmp2,tmpBillUrg,tmpD,tmpS,tmpD1,tmpS1,tmpSel)
 
 # ADD WHETHER OR NOT A VOTE FOLLOWED URGENCIAS IN DIPUTADOS
 tmp <- allUrg$chains # extract object for manipulation
-sel <- which(tmp$on > dmy("11-03-2002", tz = "chile") & tmp$tramite!="sen") # only have diputado votes since 2002
+sel <- which(tmp$on > dmy("11-03-2002") & tmp$tramite!="sen") # only have diputado votes since 2002
 tmp$nvotDdln2 <- tmp$nvotDdln <- NA                                         # add slots for new data
 #
 tmp <- tmp[sel,] # subset for manipulation
@@ -3475,7 +3474,7 @@ for (i in sel){
     tmp1 <- gsub(pattern = "Oct.", replacement = "10", x = tmp1)
     tmp1 <- gsub(pattern = "Nov.", replacement = "11", x = tmp1)
     tmp1 <- gsub(pattern = "Dic.", replacement = "12", x = tmp1)
-    tmpRep$date <- dmy(tmp1, tz = "chile")
+    tmpRep$date <- dmy(tmp1)
     tmp1 <- sub(pattern = ".*(Senado|Diputados).*", replacement = "\\1", tmp)
     tmpRep$chamber <- tmp1
     tmpRep$chamber[tmpRep$chamber=="Senado"] <- "sen"
@@ -3501,7 +3500,7 @@ allRep$dHda[grep("Hacienda", allRep$comm)] <- 1
 #allRep$ordOrig <- 1:nrow(allRep)
 allRep <- allRep[order(allRep$date, allRep$bol),]
 # drop reports before and after these dates
-sel <- which(allRep$date<dmy("11-03-1998", tz = "chile") | allRep$date>dmy("10-03-2014", tz = "chile"))
+sel <- which(allRep$date<dmy("11-03-1998") | allRep$date>dmy("10-03-2014"))
 allRep <- allRep[-sel,]
 #
 # add moción dummy for aggregates
@@ -3537,7 +3536,7 @@ tmp <- ddply(senRep, .(week), mutate, nrepMenSen=sum(dmensaje*dHda), nrepMocSen=
 senRep <- tmp
 #
 # object with all weeks in period
-tmp <- data.frame(date = seq(from = dmy("11-03-1990", tz = "chile"), to = dmy("10-03-2014", tz = "chile"), by = 'weeks'))
+tmp <- data.frame(date = seq(from = dmy("11-03-1990"), to = dmy("10-03-2014"), by = 'weeks'))
 tmp$week <- year(tmp$date) + week(tmp$date)/100; tmp$date <- NULL
 weekRepUrg <- tmp
 #
@@ -3679,7 +3678,7 @@ weekRepUrg <- tmp
 # Add president's maj status in chamber
 weekRepUrg$dmajDip <- weekRepUrg$dmajSen <- 0
 # sen
-tmp <- dmy(c("11-03-1990", "22-01-1999", "11-03-2000", "11-01-2002", "27-01-2005", "30-08-2005", "11-03-2006", "11-03-2010") , tz = "chile")
+tmp <- dmy(c("11-03-1990", "22-01-1999", "11-03-2000", "11-01-2002", "27-01-2005", "30-08-2005", "11-03-2006", "11-03-2010") )
 tmp <- year(tmp) + week(tmp)/100
 sel <- which(weekRepUrg$week >= tmp[1] & weekRepUrg$week < tmp[2]); weekRepUrg$dmajSen[sel] <- 0
 sel <- which(weekRepUrg$week >= tmp[2] & weekRepUrg$week < tmp[3]); weekRepUrg$dmajSen[sel] <- 1 # tie coded as maj for pdt
@@ -3694,7 +3693,7 @@ sel <- which(weekRepUrg$week >= tmp[8] & weekRepUrg$week < tmp[9]); weekRepUrg$d
 weekRepUrg$dmajDip <- 1
 #
 # weeks to end of pdtl term
-tmp <- dmy(c("11-03-1994", "11-03-2000", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- dmy(c("11-03-1994", "11-03-2000", "11-03-2006", "11-03-2010", "11-03-2014") )
 tmp <- year(tmp) + week(tmp)/100
 weekRepUrg$pterm <- NA
 sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$pterm[sel] <- round((tmp[1] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
@@ -3704,7 +3703,7 @@ sel <- which(weekRepUrg$week >= tmp[3] & weekRepUrg$week < tmp[4]); weekRepUrg$p
 sel <- which(weekRepUrg$week >= tmp[4] & weekRepUrg$week < tmp[5]); weekRepUrg$pterm[sel] <- round((tmp[5] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
 #
 # weeks to end of dip term
-tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") )
 tmp <- year(tmp) + week(tmp)/100
 weekRepUrg$dterm <- NA
 sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$dterm[sel] <- round((tmp[1] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
@@ -3715,7 +3714,7 @@ sel <- which(weekRepUrg$week >= tmp[4] & weekRepUrg$week < tmp[5]); weekRepUrg$d
 sel <- which(weekRepUrg$week >= tmp[5] & weekRepUrg$week < tmp[6]); weekRepUrg$dterm[sel] <- round((tmp[6] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
 #
 # weeks to end of sen term
-tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2006", "11-03-2014") , tz = "chile")
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2006", "11-03-2014") )
 tmp <- year(tmp) + week(tmp)/100
 weekRepUrg$sterm <- NA
 sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$sterm[sel] <- round((tmp[1] - weekRepUrg$week[sel]) * 100 / 8, digits = 0)
@@ -3724,7 +3723,7 @@ sel <- which(weekRepUrg$week >= tmp[2] & weekRepUrg$week < tmp[3]); weekRepUrg$s
 sel <- which(weekRepUrg$week >= tmp[3] & weekRepUrg$week < tmp[4]); weekRepUrg$sterm[sel] <- round((tmp[4] - weekRepUrg$week[sel]) * 100 / 8, digits = 0)
 #
 # legislature dummies (periodo)
-tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") )
 tmp <- year(tmp) + week(tmp)/100
 weekRepUrg$dleg90 <- weekRepUrg$dleg94 <- weekRepUrg$dleg98 <- weekRepUrg$dleg02 <- weekRepUrg$dleg06 <- weekRepUrg$dleg10 <- 0
 sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$dleg90[sel] <- 1
@@ -3758,7 +3757,7 @@ tmp <- ddply(senRep, .(week), mutate, nrepMenSen=sum(dmensaje*dHda), nrepMocSen=
 senRep <- tmp
 #
 # object with all weeks in period
-tmp <- data.frame(date = seq(from = dmy("11-03-1990", tz = "chile"), to = dmy("10-03-2014", tz = "chile"), by = 'weeks'))
+tmp <- data.frame(date = seq(from = dmy("11-03-1990"), to = dmy("10-03-2014"), by = 'weeks'))
 tmp$week <- year(tmp$date) + week(tmp$date)/100; tmp$date <- NULL
 weekRepUrg <- tmp
 #
@@ -3899,7 +3898,7 @@ weekRepUrg <- tmp
 # Add president's maj status in chamber
 weekRepUrg$dmajDip <- weekRepUrg$dmajSen <- 0
 # sen
-tmp <- dmy(c("11-03-1990", "22-01-1999", "11-03-2000", "11-01-2002", "27-01-2005", "30-08-2005", "11-03-2006", "11-03-2010") , tz = "chile")
+tmp <- dmy(c("11-03-1990", "22-01-1999", "11-03-2000", "11-01-2002", "27-01-2005", "30-08-2005", "11-03-2006", "11-03-2010") )
 tmp <- year(tmp) + week(tmp)/100
 sel <- which(weekRepUrg$week >= tmp[1] & weekRepUrg$week < tmp[2]); weekRepUrg$dmajSen[sel] <- 0
 sel <- which(weekRepUrg$week >= tmp[2] & weekRepUrg$week < tmp[3]); weekRepUrg$dmajSen[sel] <- 1 # tie coded as maj for pdt
@@ -3914,7 +3913,7 @@ sel <- which(weekRepUrg$week >= tmp[8] & weekRepUrg$week < tmp[9]); weekRepUrg$d
 weekRepUrg$dmajDip <- 1
 #
 # weeks to end of pdtl term
-tmp <- dmy(c("11-03-1994", "11-03-2000", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- dmy(c("11-03-1994", "11-03-2000", "11-03-2006", "11-03-2010", "11-03-2014") )
 tmp <- year(tmp) + week(tmp)/100
 weekRepUrg$pterm <- NA
 sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$pterm[sel] <- round((tmp[1] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
@@ -3924,7 +3923,7 @@ sel <- which(weekRepUrg$week >= tmp[3] & weekRepUrg$week < tmp[4]); weekRepUrg$p
 sel <- which(weekRepUrg$week >= tmp[4] & weekRepUrg$week < tmp[5]); weekRepUrg$pterm[sel] <- round((tmp[5] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
 #
 # weeks to end of dip term
-tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") )
 tmp <- year(tmp) + week(tmp)/100
 weekRepUrg$dterm <- NA
 sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$dterm[sel] <- round((tmp[1] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
@@ -3935,7 +3934,7 @@ sel <- which(weekRepUrg$week >= tmp[4] & weekRepUrg$week < tmp[5]); weekRepUrg$d
 sel <- which(weekRepUrg$week >= tmp[5] & weekRepUrg$week < tmp[6]); weekRepUrg$dterm[sel] <- round((tmp[6] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
 #
 # weeks to end of sen term
-tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2006", "11-03-2014") , tz = "chile")
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2006", "11-03-2014") )
 tmp <- year(tmp) + week(tmp)/100
 weekRepUrg$sterm <- NA
 sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$sterm[sel] <- round((tmp[1] - weekRepUrg$week[sel]) * 100 / 8, digits = 0)
@@ -3944,7 +3943,7 @@ sel <- which(weekRepUrg$week >= tmp[2] & weekRepUrg$week < tmp[3]); weekRepUrg$s
 sel <- which(weekRepUrg$week >= tmp[3] & weekRepUrg$week < tmp[4]); weekRepUrg$sterm[sel] <- round((tmp[4] - weekRepUrg$week[sel]) * 100 / 8, digits = 0)
 #
 # legislature dummies (periodo)
-tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") )
 tmp <- year(tmp) + week(tmp)/100
 weekRepUrg$dleg90 <- weekRepUrg$dleg94 <- weekRepUrg$dleg98 <- weekRepUrg$dleg02 <- weekRepUrg$dleg06 <- weekRepUrg$dleg10 <- 0
 sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$dleg90[sel] <- 1
@@ -3978,7 +3977,7 @@ tmp <- ddply(senRep, .(week), mutate, nrepMenSen=sum(dmensaje*dHda), nrepMocSen=
 senRep <- tmp
 #
 # object with all weeks in period
-tmp <- data.frame(date = seq(from = dmy("11-03-1990", tz = "chile"), to = dmy("10-03-2014", tz = "chile"), by = 'weeks'))
+tmp <- data.frame(date = seq(from = dmy("11-03-1990"), to = dmy("10-03-2014"), by = 'weeks'))
 tmp$week <- year(tmp$date) + week(tmp$date)/100; tmp$date <- NULL
 weekRepUrg <- tmp
 #
@@ -4119,7 +4118,7 @@ weekRepUrg <- tmp
 # Add president's maj status in chamber
 weekRepUrg$dmajDip <- weekRepUrg$dmajSen <- 0
 # sen
-tmp <- dmy(c("11-03-1990", "22-01-1999", "11-03-2000", "11-01-2002", "27-01-2005", "30-08-2005", "11-03-2006", "11-03-2010") , tz = "chile")
+tmp <- dmy(c("11-03-1990", "22-01-1999", "11-03-2000", "11-01-2002", "27-01-2005", "30-08-2005", "11-03-2006", "11-03-2010") )
 tmp <- year(tmp) + week(tmp)/100
 sel <- which(weekRepUrg$week >= tmp[1] & weekRepUrg$week < tmp[2]); weekRepUrg$dmajSen[sel] <- 0
 sel <- which(weekRepUrg$week >= tmp[2] & weekRepUrg$week < tmp[3]); weekRepUrg$dmajSen[sel] <- 1 # tie coded as maj for pdt
@@ -4134,7 +4133,7 @@ sel <- which(weekRepUrg$week >= tmp[8] & weekRepUrg$week < tmp[9]); weekRepUrg$d
 weekRepUrg$dmajDip <- 1
 #
 # weeks to end of pdtl term
-tmp <- dmy(c("11-03-1994", "11-03-2000", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- dmy(c("11-03-1994", "11-03-2000", "11-03-2006", "11-03-2010", "11-03-2014") )
 tmp <- year(tmp) + week(tmp)/100
 weekRepUrg$pterm <- NA
 sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$pterm[sel] <- round((tmp[1] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
@@ -4144,7 +4143,7 @@ sel <- which(weekRepUrg$week >= tmp[3] & weekRepUrg$week < tmp[4]); weekRepUrg$p
 sel <- which(weekRepUrg$week >= tmp[4] & weekRepUrg$week < tmp[5]); weekRepUrg$pterm[sel] <- round((tmp[5] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
 #
 # weeks to end of dip term
-tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") )
 tmp <- year(tmp) + week(tmp)/100
 weekRepUrg$dterm <- NA
 sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$dterm[sel] <- round((tmp[1] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
@@ -4155,7 +4154,7 @@ sel <- which(weekRepUrg$week >= tmp[4] & weekRepUrg$week < tmp[5]); weekRepUrg$d
 sel <- which(weekRepUrg$week >= tmp[5] & weekRepUrg$week < tmp[6]); weekRepUrg$dterm[sel] <- round((tmp[6] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
 #
 # weeks to end of sen term
-tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2006", "11-03-2014") , tz = "chile")
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2006", "11-03-2014") )
 tmp <- year(tmp) + week(tmp)/100
 weekRepUrg$sterm <- NA
 sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$sterm[sel] <- round((tmp[1] - weekRepUrg$week[sel]) * 100 / 8, digits = 0)
@@ -4164,7 +4163,7 @@ sel <- which(weekRepUrg$week >= tmp[2] & weekRepUrg$week < tmp[3]); weekRepUrg$s
 sel <- which(weekRepUrg$week >= tmp[3] & weekRepUrg$week < tmp[4]); weekRepUrg$sterm[sel] <- round((tmp[4] - weekRepUrg$week[sel]) * 100 / 8, digits = 0)
 #
 # legislature dummies (periodo)
-tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") )
 tmp <- year(tmp) + week(tmp)/100
 weekRepUrg$dleg90 <- weekRepUrg$dleg94 <- weekRepUrg$dleg98 <- weekRepUrg$dleg02 <- weekRepUrg$dleg06 <- weekRepUrg$dleg10 <- 0
 sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$dleg90[sel] <- 1
@@ -4198,7 +4197,7 @@ tmp <- ddply(senRep, .(week), mutate, nrepMenSen=sum(dmensaje     ), nrepMocSen=
 senRep <- tmp
 #
 # object with all weeks in period
-tmp <- data.frame(date = seq(from = dmy("11-03-1990", tz = "chile"), to = dmy("10-03-2014", tz = "chile"), by = 'weeks'))
+tmp <- data.frame(date = seq(from = dmy("11-03-1990"), to = dmy("10-03-2014"), by = 'weeks'))
 tmp$week <- year(tmp$date) + week(tmp$date)/100; tmp$date <- NULL
 weekRepUrg <- tmp
 #
@@ -4339,7 +4338,7 @@ weekRepUrg <- tmp
 # Add president's maj status in chamber
 weekRepUrg$dmajDip <- weekRepUrg$dmajSen <- 0
 # sen
-tmp <- dmy(c("11-03-1990", "22-01-1999", "11-03-2000", "11-01-2002", "27-01-2005", "30-08-2005", "11-03-2006", "11-03-2010") , tz = "chile")
+tmp <- dmy(c("11-03-1990", "22-01-1999", "11-03-2000", "11-01-2002", "27-01-2005", "30-08-2005", "11-03-2006", "11-03-2010") )
 tmp <- year(tmp) + week(tmp)/100
 sel <- which(weekRepUrg$week >= tmp[1] & weekRepUrg$week < tmp[2]); weekRepUrg$dmajSen[sel] <- 0
 sel <- which(weekRepUrg$week >= tmp[2] & weekRepUrg$week < tmp[3]); weekRepUrg$dmajSen[sel] <- 1 # tie coded as maj for pdt
@@ -4354,7 +4353,7 @@ sel <- which(weekRepUrg$week >= tmp[8] & weekRepUrg$week < tmp[9]); weekRepUrg$d
 weekRepUrg$dmajDip <- 1
 #
 # weeks to end of pdtl term
-tmp <- dmy(c("11-03-1994", "11-03-2000", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- dmy(c("11-03-1994", "11-03-2000", "11-03-2006", "11-03-2010", "11-03-2014") )
 tmp <- year(tmp) + week(tmp)/100
 weekRepUrg$pterm <- NA
 sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$pterm[sel] <- round((tmp[1] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
@@ -4364,7 +4363,7 @@ sel <- which(weekRepUrg$week >= tmp[3] & weekRepUrg$week < tmp[4]); weekRepUrg$p
 sel <- which(weekRepUrg$week >= tmp[4] & weekRepUrg$week < tmp[5]); weekRepUrg$pterm[sel] <- round((tmp[5] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
 #
 # weeks to end of dip term
-tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") )
 tmp <- year(tmp) + week(tmp)/100
 weekRepUrg$dterm <- NA
 sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$dterm[sel] <- round((tmp[1] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
@@ -4375,7 +4374,7 @@ sel <- which(weekRepUrg$week >= tmp[4] & weekRepUrg$week < tmp[5]); weekRepUrg$d
 sel <- which(weekRepUrg$week >= tmp[5] & weekRepUrg$week < tmp[6]); weekRepUrg$dterm[sel] <- round((tmp[6] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
 #
 # weeks to end of sen term
-tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2006", "11-03-2014") , tz = "chile")
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2006", "11-03-2014") )
 tmp <- year(tmp) + week(tmp)/100
 weekRepUrg$sterm <- NA
 sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$sterm[sel] <- round((tmp[1] - weekRepUrg$week[sel]) * 100 / 8, digits = 0)
@@ -4384,7 +4383,7 @@ sel <- which(weekRepUrg$week >= tmp[2] & weekRepUrg$week < tmp[3]); weekRepUrg$s
 sel <- which(weekRepUrg$week >= tmp[3] & weekRepUrg$week < tmp[4]); weekRepUrg$sterm[sel] <- round((tmp[4] - weekRepUrg$week[sel]) * 100 / 8, digits = 0)
 #
 # legislature dummies (periodo)
-tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") )
 tmp <- year(tmp) + week(tmp)/100
 weekRepUrg$dleg90 <- weekRepUrg$dleg94 <- weekRepUrg$dleg98 <- weekRepUrg$dleg02 <- weekRepUrg$dleg06 <- weekRepUrg$dleg10 <- 0
 sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$dleg90[sel] <- 1
@@ -4418,7 +4417,7 @@ tmp <- ddply(senRep, .(week), mutate, nrepMenSen=sum(dmensaje     ), nrepMocSen=
 senRep <- tmp
 #
 # object with all weeks in period
-tmp <- data.frame(date = seq(from = dmy("11-03-1990", tz = "chile"), to = dmy("10-03-2014", tz = "chile"), by = 'weeks'))
+tmp <- data.frame(date = seq(from = dmy("11-03-1990"), to = dmy("10-03-2014"), by = 'weeks'))
 tmp$week <- year(tmp$date) + week(tmp$date)/100; tmp$date <- NULL
 weekRepUrg <- tmp
 #
@@ -4559,7 +4558,7 @@ weekRepUrg <- tmp
 # Add president's maj status in chamber
 weekRepUrg$dmajDip <- weekRepUrg$dmajSen <- 0
 # sen
-tmp <- dmy(c("11-03-1990", "22-01-1999", "11-03-2000", "11-01-2002", "27-01-2005", "30-08-2005", "11-03-2006", "11-03-2010") , tz = "chile")
+tmp <- dmy(c("11-03-1990", "22-01-1999", "11-03-2000", "11-01-2002", "27-01-2005", "30-08-2005", "11-03-2006", "11-03-2010") )
 tmp <- year(tmp) + week(tmp)/100
 sel <- which(weekRepUrg$week >= tmp[1] & weekRepUrg$week < tmp[2]); weekRepUrg$dmajSen[sel] <- 0
 sel <- which(weekRepUrg$week >= tmp[2] & weekRepUrg$week < tmp[3]); weekRepUrg$dmajSen[sel] <- 1 # tie coded as maj for pdt
@@ -4574,7 +4573,7 @@ sel <- which(weekRepUrg$week >= tmp[8] & weekRepUrg$week < tmp[9]); weekRepUrg$d
 weekRepUrg$dmajDip <- 1
 #
 # weeks to end of pdtl term
-tmp <- dmy(c("11-03-1994", "11-03-2000", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- dmy(c("11-03-1994", "11-03-2000", "11-03-2006", "11-03-2010", "11-03-2014") )
 tmp <- year(tmp) + week(tmp)/100
 weekRepUrg$pterm <- NA
 sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$pterm[sel] <- round((tmp[1] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
@@ -4584,7 +4583,7 @@ sel <- which(weekRepUrg$week >= tmp[3] & weekRepUrg$week < tmp[4]); weekRepUrg$p
 sel <- which(weekRepUrg$week >= tmp[4] & weekRepUrg$week < tmp[5]); weekRepUrg$pterm[sel] <- round((tmp[5] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
 #
 # weeks to end of dip term
-tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") )
 tmp <- year(tmp) + week(tmp)/100
 weekRepUrg$dterm <- NA
 sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$dterm[sel] <- round((tmp[1] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
@@ -4595,7 +4594,7 @@ sel <- which(weekRepUrg$week >= tmp[4] & weekRepUrg$week < tmp[5]); weekRepUrg$d
 sel <- which(weekRepUrg$week >= tmp[5] & weekRepUrg$week < tmp[6]); weekRepUrg$dterm[sel] <- round((tmp[6] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
 #
 # weeks to end of sen term
-tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2006", "11-03-2014") , tz = "chile")
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2006", "11-03-2014") )
 tmp <- year(tmp) + week(tmp)/100
 weekRepUrg$sterm <- NA
 sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$sterm[sel] <- round((tmp[1] - weekRepUrg$week[sel]) * 100 / 8, digits = 0)
@@ -4604,7 +4603,7 @@ sel <- which(weekRepUrg$week >= tmp[2] & weekRepUrg$week < tmp[3]); weekRepUrg$s
 sel <- which(weekRepUrg$week >= tmp[3] & weekRepUrg$week < tmp[4]); weekRepUrg$sterm[sel] <- round((tmp[4] - weekRepUrg$week[sel]) * 100 / 8, digits = 0)
 #
 # legislature dummies (periodo)
-tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") )
 tmp <- year(tmp) + week(tmp)/100
 weekRepUrg$dleg90 <- weekRepUrg$dleg94 <- weekRepUrg$dleg98 <- weekRepUrg$dleg02 <- weekRepUrg$dleg06 <- weekRepUrg$dleg10 <- 0
 sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$dleg90[sel] <- 1
@@ -4638,7 +4637,7 @@ tmp <- ddply(senRep, .(week), mutate, nrepMenSen=sum(dmensaje     ), nrepMocSen=
 senRep <- tmp
 #
 # object with all weeks in period
-tmp <- data.frame(date = seq(from = dmy("11-03-1990", tz = "chile"), to = dmy("10-03-2014", tz = "chile"), by = 'weeks'))
+tmp <- data.frame(date = seq(from = dmy("11-03-1990"), to = dmy("10-03-2014"), by = 'weeks'))
 tmp$week <- year(tmp$date) + week(tmp$date)/100; tmp$date <- NULL
 weekRepUrg <- tmp
 #
@@ -4778,7 +4777,7 @@ weekRepUrg <- tmp
 # Add president's maj status in chamber
 weekRepUrg$dmajDip <- weekRepUrg$dmajSen <- 0
 # sen
-tmp <- dmy(c("11-03-1990", "22-01-1999", "11-03-2000", "11-01-2002", "27-01-2005", "30-08-2005", "11-03-2006", "11-03-2010") , tz = "chile")
+tmp <- dmy(c("11-03-1990", "22-01-1999", "11-03-2000", "11-01-2002", "27-01-2005", "30-08-2005", "11-03-2006", "11-03-2010") )
 tmp <- year(tmp) + week(tmp)/100
 sel <- which(weekRepUrg$week >= tmp[1] & weekRepUrg$week < tmp[2]); weekRepUrg$dmajSen[sel] <- 0
 sel <- which(weekRepUrg$week >= tmp[2] & weekRepUrg$week < tmp[3]); weekRepUrg$dmajSen[sel] <- 1 # tie coded as maj for pdt
@@ -4793,7 +4792,7 @@ sel <- which(weekRepUrg$week >= tmp[8] & weekRepUrg$week < tmp[9]); weekRepUrg$d
 weekRepUrg$dmajDip <- 1
 #
 # weeks to end of pdtl term
-tmp <- dmy(c("11-03-1994", "11-03-2000", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- dmy(c("11-03-1994", "11-03-2000", "11-03-2006", "11-03-2010", "11-03-2014") )
 tmp <- year(tmp) + week(tmp)/100
 weekRepUrg$pterm <- NA
 sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$pterm[sel] <- round((tmp[1] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
@@ -4803,7 +4802,7 @@ sel <- which(weekRepUrg$week >= tmp[3] & weekRepUrg$week < tmp[4]); weekRepUrg$p
 sel <- which(weekRepUrg$week >= tmp[4] & weekRepUrg$week < tmp[5]); weekRepUrg$pterm[sel] <- round((tmp[5] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
 #
 # weeks to end of dip term
-tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") )
 tmp <- year(tmp) + week(tmp)/100
 weekRepUrg$dterm <- NA
 sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$dterm[sel] <- round((tmp[1] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
@@ -4814,7 +4813,7 @@ sel <- which(weekRepUrg$week >= tmp[4] & weekRepUrg$week < tmp[5]); weekRepUrg$d
 sel <- which(weekRepUrg$week >= tmp[5] & weekRepUrg$week < tmp[6]); weekRepUrg$dterm[sel] <- round((tmp[6] - weekRepUrg$week[sel]) * 100 / 4, digits = 0)
 #
 # weeks to end of sen term
-tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2006", "11-03-2014") , tz = "chile")
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2006", "11-03-2014") )
 tmp <- year(tmp) + week(tmp)/100
 weekRepUrg$sterm <- NA
 sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$sterm[sel] <- round((tmp[1] - weekRepUrg$week[sel]) * 100 / 8, digits = 0)
@@ -4823,7 +4822,7 @@ sel <- which(weekRepUrg$week >= tmp[2] & weekRepUrg$week < tmp[3]); weekRepUrg$s
 sel <- which(weekRepUrg$week >= tmp[3] & weekRepUrg$week < tmp[4]); weekRepUrg$sterm[sel] <- round((tmp[4] - weekRepUrg$week[sel]) * 100 / 8, digits = 0)
 #
 # legislature dummies (periodo)
-tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") )
 tmp <- year(tmp) + week(tmp)/100
 weekRepUrg$dleg90 <- weekRepUrg$dleg94 <- weekRepUrg$dleg98 <- weekRepUrg$dleg02 <- weekRepUrg$dleg06 <- weekRepUrg$dleg10 <- 0
 sel <- which(                            weekRepUrg$week < tmp[1]); weekRepUrg$dleg90[sel] <- 1
@@ -4865,8 +4864,8 @@ tmp$bol[sel[23]]
 #tmp <- RepDataNegBin$weeklyReportsAndUrgenciasToAllBills
 tmp <- RepDataNegBin$weeklyReportsAndUrgenciasToAllBills
 colnames(tmp)
-date1 <- dmy("10-03-1998", tz="chile")
-date2 <- dmy("10-03-2014", tz="chile")
+date1 <- dmy("10-03-1998")
+date2 <- dmy("10-03-2014")
 sel <- which(tmp$week >= year(date1) + week(date1)/100  & tmp$week < year(date2) + week(date2)/100)
 round(table(tmp$nrepMenDip[sel] + tmp$nrepMocDip[sel])/length(sel),2)
 median(tmp$nrepMenDip[sel] + tmp$nrepMocDip[sel])
@@ -4876,7 +4875,7 @@ rm(tmp, date1, date2)
 # add presidential approval data (semester measures approx, so midpoints taken to compute from-to intervals)
 from <- c("01/01/1998", "03/17/1998", "11/15/1998", "07/16/1999", "05/01/2000", "03/02/2001", "09/16/2001", "04/01/2002", "09/15/2002", "03/17/2003", "09/15/2003", "03/16/2004", "09/15/2004", "03/17/2005", "08/31/2005", "03/02/2006", "09/15/2006", "03/02/2007", "08/31/2007", "03/01/2008", "08/31/2008", "03/02/2009", "07/01/2009", "08/31/2009", "02/14/2010", "09/15/2010", "03/17/2011", "09/15/2011", "01/31/2012", "06/01/2012", "10/01/2012", "04/01/2013", "08/31/2013")
 to <- c("03/17/1998", "11/15/1998", "07/16/1999", "05/01/2000", "03/02/2001", "09/16/2001", "04/01/2002", "09/15/2002", "03/17/2003", "09/15/2003", "03/16/2004", "09/15/2004", "03/17/2005", "08/31/2005", "03/02/2006", "09/15/2006", "03/02/2007", "08/31/2007", "03/01/2008", "08/31/2008", "03/02/2009", "07/01/2009", "08/31/2009", "02/14/2010", "09/15/2010", "03/17/2011", "09/15/2011", "01/31/2012", "06/01/2012", "10/01/2012", "04/01/2013", "08/31/2013", "03/21/2014")
-from <- mdy(from, tz = "chile"); to <- mdy(to, tz = "chile")
+from <- mdy(from); to <- mdy(to)
 approv <- data.frame(from=from, to=to); rm(from,to)
 approv$ap <- c(33.3, 37, 32, 28, 48.6, 40.6, 44.4, 42.5, 41.1, 46, 47.4, 57.5, 60.7, 61.2, 58.9, 45.8, 51.7, 40.9, 38.8, 39.6, 43, 66.5, 72.3, 77.6, 45, 44.3, 26.3, 22.8, 23.6, 27.4, 31.4, 31.5, 34.2)
 approv$dis <- c(37.1, 36, 40, 44, 26.3, 36.4, 31.2, 29.4, 30.4, 26.2, 23.7, 21.7, 17.6, 18, 22.7, 30.5, 31.2, 40.7, 42.1, 42.9, 38.1, 17.6, 14.5, 11.3, 28.7, 33.6, 52.6, 62, 59.2, 52.3, 50.6, 43.9, 46.2)
@@ -4978,7 +4977,7 @@ dat$nurg41Sen <- dat$nurg42Sen <- dat$nurg43Sen <- dat$nurg51Sen <- dat$nurg52Se
 #
 # add post 2010 dummy (when urgencias relaxed)
 dat$d2010on <- 0
-sel <- which(dat$week > (year(dmy("11-07-2010", tz = "chile")) + week(dmy("11-07-2010", tz = "chile"))/100))
+sel <- which(dat$week > (year(dmy("11-07-2010")) + week(dmy("11-07-2010"))/100))
 dat$d2010on[sel] <- 1
 #
 #                   #############
@@ -5024,8 +5023,8 @@ colnames(dat) <- sub(pattern = "-", replacement = "l", colnames(dat))
 #                                                         ################
 # drop weeks before and after these dates in regression   <--- OJO   #####
 #                                                         ################
-sel <- which(dat$week < year(dmy("11-03-2006", tz = "chile")) + week(dmy("11-03-2006", tz = "chile"))/100
-           | dat$week > year(dmy("10-03-2014", tz = "chile")) + week(dmy("10-03-2014", tz = "chile"))/100 )
+sel <- which(dat$week < year(dmy("11-03-2006")) + week(dmy("11-03-2006"))/100
+           | dat$week > year(dmy("10-03-2014")) + week(dmy("10-03-2014"))/100 )
 dat <- dat[-sel,]
 #dat.bak <- dat
 #dat <- dat.bak
@@ -5085,7 +5084,7 @@ dat$nurg41Sen <- dat$nurg42Sen <- dat$nurg43Sen <- dat$nurg51Sen <- dat$nurg52Se
 #
 # add post 2010 dummy (when urgencias relaxed)
 dat$d2010on <- 0
-sel <- which(dat$week > (year(dmy("11-07-2010", tz = "chile")) + week(dmy("11-07-2010", tz = "chile"))/100))
+sel <- which(dat$week > (year(dmy("11-07-2010")) + week(dmy("11-07-2010"))/100))
 dat$d2010on[sel] <- 1
 #
 #                   #############
@@ -5131,8 +5130,8 @@ colnames(dat) <- sub(pattern = "-", replacement = "l", colnames(dat))
 #                                                         ################
 # drop weeks before and after these dates in regression   <--- OJO   #####
 #                                                         ################
-sel <- which(dat$week < year(dmy("11-03-2006", tz = "chile")) + week(dmy("11-03-2006", tz = "chile"))/100
-           | dat$week > year(dmy("10-03-2014", tz = "chile")) + week(dmy("10-03-2014", tz = "chile"))/100 )
+sel <- which(dat$week < year(dmy("11-03-2006")) + week(dmy("11-03-2006"))/100
+           | dat$week > year(dmy("10-03-2014")) + week(dmy("10-03-2014"))/100 )
 dat <- dat[-sel,]
 #dat.bak <- dat
 #dat <- dat.bak
@@ -5192,7 +5191,7 @@ dat$nurg41Sen <- dat$nurg42Sen <- dat$nurg43Sen <- dat$nurg51Sen <- dat$nurg52Se
 #
 # add post 2010 dummy (when urgencias relaxed)
 dat$d2010on <- 0
-sel <- which(dat$week > (year(dmy("11-07-2010", tz = "chile")) + week(dmy("11-07-2010", tz = "chile"))/100))
+sel <- which(dat$week > (year(dmy("11-07-2010")) + week(dmy("11-07-2010"))/100))
 dat$d2010on[sel] <- 1
 #
 #                   #############
@@ -5238,8 +5237,8 @@ colnames(dat) <- sub(pattern = "-", replacement = "l", colnames(dat))
 #                                                         ################
 # drop weeks before and after these dates in regression   <--- OJO   #####
 #                                                         ################
-sel <- which(dat$week < year(dmy("11-03-2006", tz = "chile")) + week(dmy("11-03-2006", tz = "chile"))/100
-           | dat$week > year(dmy("10-03-2014", tz = "chile")) + week(dmy("10-03-2014", tz = "chile"))/100 )
+sel <- which(dat$week < year(dmy("11-03-2006")) + week(dmy("11-03-2006"))/100
+           | dat$week > year(dmy("10-03-2014")) + week(dmy("10-03-2014"))/100 )
 dat <- dat[-sel,]
 
 #dat.bak <- dat
@@ -5301,7 +5300,7 @@ dat$nurg41Sen <- dat$nurg42Sen <- dat$nurg43Sen <- dat$nurg51Sen <- dat$nurg52Se
 #
 # add post 2010 dummy (when urgencias relaxed)
 dat$d2010on <- 0
-sel <- which(dat$week > (year(dmy("11-07-2010", tz = "chile")) + week(dmy("11-07-2010", tz = "chile"))/100))
+sel <- which(dat$week > (year(dmy("11-07-2010")) + week(dmy("11-07-2010"))/100))
 dat$d2010on[sel] <- 1
 #
 #                   #############
@@ -5347,8 +5346,8 @@ colnames(dat) <- sub(pattern = "-", replacement = "l", colnames(dat))
 #                                                         ################
 # drop weeks before and after these dates in regression   <--- OJO   #####
 #                                                         ################
-sel <- which(dat$week < year(dmy("11-03-2006", tz = "chile")) + week(dmy("11-03-2006", tz = "chile"))/100
-           | dat$week > year(dmy("10-03-2014", tz = "chile")) + week(dmy("10-03-2014", tz = "chile"))/100 )
+sel <- which(dat$week < year(dmy("11-03-2006")) + week(dmy("11-03-2006"))/100
+           | dat$week > year(dmy("10-03-2014")) + week(dmy("10-03-2014"))/100 )
 dat <- dat[-sel,]
 #dat.bak <- dat
 #dat <- dat.bak
@@ -5408,7 +5407,7 @@ dat$nurg41Sen <- dat$nurg42Sen <- dat$nurg43Sen <- dat$nurg51Sen <- dat$nurg52Se
 #
 # add post 2010 dummy (when urgencias relaxed)
 dat$d2010on <- 0
-sel <- which(dat$week > (year(dmy("11-07-2010", tz = "chile")) + week(dmy("11-07-2010", tz = "chile"))/100))
+sel <- which(dat$week > (year(dmy("11-07-2010")) + week(dmy("11-07-2010"))/100))
 dat$d2010on[sel] <- 1
 #
 #                   #############
@@ -5454,8 +5453,8 @@ colnames(dat) <- sub(pattern = "-", replacement = "l", colnames(dat))
 #                                                         ################
 # drop weeks before and after these dates in regression   <--- OJO   #####
 #                                                         ################
-sel <- which(dat$week < year(dmy("11-03-2006", tz = "chile")) + week(dmy("11-03-2006", tz = "chile"))/100
-           | dat$week > year(dmy("10-03-2014", tz = "chile")) + week(dmy("10-03-2014", tz = "chile"))/100 )
+sel <- which(dat$week < year(dmy("11-03-2006")) + week(dmy("11-03-2006"))/100
+           | dat$week > year(dmy("10-03-2014")) + week(dmy("10-03-2014"))/100 )
 dat <- dat[-sel,]
 #data.frame(dat$nrepMoc, dat$nNow)
 #dat.bak <- dat
@@ -5516,7 +5515,7 @@ dat$nurg41Sen <- dat$nurg42Sen <- dat$nurg43Sen <- dat$nurg51Sen <- dat$nurg52Se
 #
 # add post 2010 dummy (when urgencias relaxed)
 dat$d2010on <- 0
-sel <- which(dat$week > (year(dmy("11-07-2010", tz = "chile")) + week(dmy("11-07-2010", tz = "chile"))/100))
+sel <- which(dat$week > (year(dmy("11-07-2010")) + week(dmy("11-07-2010"))/100))
 dat$d2010on[sel] <- 1
 #
 #                   #############
@@ -5562,8 +5561,8 @@ colnames(dat) <- sub(pattern = "-", replacement = "l", colnames(dat))
 #                                                         ################
 # drop weeks before and after these dates in regression   <--- OJO   #####
 #                                                         ################
-sel <- which(dat$week < year(dmy("11-03-2006", tz = "chile")) + week(dmy("11-03-2006", tz = "chile"))/100
-           | dat$week > year(dmy("10-03-2014", tz = "chile")) + week(dmy("10-03-2014", tz = "chile"))/100 )
+sel <- which(dat$week < year(dmy("11-03-2006")) + week(dmy("11-03-2006"))/100
+           | dat$week > year(dmy("10-03-2014")) + week(dmy("10-03-2014"))/100 )
 dat <- dat[-sel,]
 #dat.bak <- dat
 #dat <- dat.bak
@@ -5627,7 +5626,7 @@ corrplot(tmp, color = TRUE) #plot matrix
 
 # drop bills initiated before 11/3/1998
 library(lubridate)
-drop <- -which(bills$info$dateIn<dmy("11/3/1998", tz = "chile"))
+drop <- -which(bills$info$dateIn<dmy("11/3/1998"))
 bills <- lapply(bills, function(x, drop) {
       if (is.data.frame(x)) return(x[drop,])
       return(x[drop])
@@ -5879,7 +5878,7 @@ bills$info$pctcon <- bills$info$pctright <- NA
 sel <- which(bills$info$dmensaje==1)
 bills$info$pctcon[sel] <- 100
 bills$info$pctright[sel] <- 0
-sel <- which(bills$info$dmensaje==1 & bills$info$dateIn>=dmy("1/3/2010", tz = "chile") & bills$info$dateIn<dmy("1/3/2014", tz = "chile")) # piñera
+sel <- which(bills$info$dmensaje==1 & bills$info$dateIn>=dmy("1/3/2010") & bills$info$dateIn<dmy("1/3/2014")) # piñera
 bills$info$pctcon[sel] <- 0
 bills$info$pctright[sel] <- 100
 # mc-init
@@ -5903,7 +5902,7 @@ allUrg$messages[sel,]
 
 # summarize urgency chain types
 # OJO: drops messages in period that referred to bills proposed before the period, in order to match the N with chain regressions
-tmp <- dmy(c("11-03-1990", "11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- dmy(c("11-03-1990", "11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") )
 sel <- which(bills$info$dateIn >= tmp[3] & bills$info$dateIn < tmp[7]); target <- bills$info$bol[sel]
 keep <- rep(0, nrow(allUrg$chains)); keep[which(allUrg$chains$bol %in% target)] <- 1; table(keep)
 sel <- which(keep==1 & allUrg$chains$on >= tmp[3] & allUrg$chains$on < tmp[4])
@@ -5942,7 +5941,7 @@ comPres$partido[grep("PDC", comPres$partido)] <- "DC" # corrige error
 comPres$partido[which(comPres$partido=="IND" & comPres$yr==1998)] <- "UDI" # indep later became UDI
 comPres$partido[which(comPres$partido=="IND" & comPres$yr==2006)] <- "PPD" # indep later became close to PPD
 #
-comPres$date <- dmy(paste("1-3-", comPres$yr, sep = ""), tz = "chile")
+comPres$date <- dmy(paste("1-3-", comPres$yr, sep = ""))
 #
 # presidente comisión mismo partido que presidente república
 comPres$dsamePty <- as.numeric(  (comPres$partido=="DC" & comPres$yr==1990)
@@ -6088,7 +6087,7 @@ for (i in 1:nrow(tmp)){
 }
 bills$info[which(bills$info$drefConst   ==1),] <- tmp
 #
-tmp <- bills$info[which(bills$info$drefCultura ==1 & bills$info$dateIn>=dmy("1-3-2010", tz = "chile") & bills$info$dateIn<dmy("1-3-2014", tz = "chile")),] # cultura before 2010 was special committee
+tmp <- bills$info[which(bills$info$drefCultura ==1 & bills$info$dateIn>=dmy("1-3-2010") & bills$info$dateIn<dmy("1-3-2014")),] # cultura before 2010 was special committee
 for (i in 1:nrow(tmp)){
     message(sprintf("iteración %s of %s", i, nrow(tmp)))
     #i <- i+1#i <- 1 # debug
@@ -6097,7 +6096,7 @@ for (i in 1:nrow(tmp)){
     if (tmp$dsameCoal[i]==0) tmp$dsameCoal[i] <- Cultura$dsameCoal[sel] # if value is 1 from multiple referrals, skip
     if (tmp$doposCom[i]==0) tmp$doposCom[i] <- Cultura$doposCom[sel] # if value is 1 from multiple referrals, skip
 }
-bills$info[which(bills$info$drefCultura ==1 & bills$info$dateIn>=dmy("1-3-2010", tz = "chile") & bills$info$dateIn<dmy("1-3-2014", tz = "chile")),] <- tmp
+bills$info[which(bills$info$drefCultura ==1 & bills$info$dateIn>=dmy("1-3-2010") & bills$info$dateIn<dmy("1-3-2014")),] <- tmp
 #
 tmp <- bills$info[which(bills$info$drefDefensa ==1),]
 for (i in 1:nrow(tmp)){
@@ -6208,7 +6207,7 @@ for (i in 1:nrow(tmp)){
 }
 bills$info[which(bills$info$drefObras   ==1),] <- tmp
 #
-tmp <- bills$info[which(bills$info$drefPesca   ==1 & bills$info$dateIn>=dmy("1-3-2002", tz = "chile") & bills$info$dateIn<dmy("1-3-2014", tz = "chile")),]
+tmp <- bills$info[which(bills$info$drefPesca   ==1 & bills$info$dateIn>=dmy("1-3-2002") & bills$info$dateIn<dmy("1-3-2014")),]
 for (i in 1:nrow(tmp)){
     message(sprintf("iteración %s of %s", i, nrow(tmp)))
     i <- 1 # debug
@@ -6217,7 +6216,7 @@ for (i in 1:nrow(tmp)){
     if (tmp$dsameCoal[i]==0) tmp$dsameCoal[i] <- Pesca$dsameCoal[sel] # if value is 1 from multiple referrals, skip
     if (tmp$doposCom[i]==0) tmp$doposCom[i] <- Pesca$doposCom[sel] # if value is 1 from multiple referrals, skip
 }
-bills$info[which(bills$info$drefPesca   ==1 & bills$info$dateIn>=dmy("1-3-2002", tz = "chile") & bills$info$dateIn<dmy("1-3-2014", tz = "chile")),] <- tmp
+bills$info[which(bills$info$drefPesca   ==1 & bills$info$dateIn>=dmy("1-3-2002") & bills$info$dateIn<dmy("1-3-2014")),] <- tmp
 #
 tmp <- bills$info[which(bills$info$drefRecNatur==1),]
 for (i in 1:nrow(tmp)){
@@ -6252,7 +6251,7 @@ for (i in 1:nrow(tmp)){
 }
 bills$info[which(bills$info$drefSalud   ==1),] <- tmp
 #
-tmp <- bills$info[which(bills$info$drefSegurid ==1 & bills$info$dateIn>=dmy("1-3-2010", tz = "chile") & bills$info$dateIn<dmy("1-3-2014", tz = "chile")),] # seguridad before 2010 was special committee
+tmp <- bills$info[which(bills$info$drefSegurid ==1 & bills$info$dateIn>=dmy("1-3-2010") & bills$info$dateIn<dmy("1-3-2014")),] # seguridad before 2010 was special committee
 for (i in 1:nrow(tmp)){
     message(sprintf("iteración %s of %s", i, nrow(tmp)))
     #i <- 1 # debug
@@ -6261,7 +6260,7 @@ for (i in 1:nrow(tmp)){
     if (tmp$dsameCoal[i]==0) tmp$dsameCoal[i] <- Segurid$dsameCoal[sel] # if value is 1 from multiple referrals, skip
     if (tmp$doposCom[i]==0) tmp$doposCom[i] <- Segurid$doposCom[sel] # if value is 1 from multiple referrals, skip
 }
-bills$info[which(bills$info$drefSegurid ==1 & bills$info$dateIn>=dmy("1-3-2010", tz = "chile") & bills$info$dateIn<dmy("1-3-2014", tz = "chile")),] <- tmp
+bills$info[which(bills$info$drefSegurid ==1 & bills$info$dateIn>=dmy("1-3-2010") & bills$info$dateIn<dmy("1-3-2014")),] <- tmp
 #
 tmp <- bills$info[which(bills$info$drefTrabajo ==1),]
 for (i in 1:nrow(tmp)){
@@ -6285,7 +6284,7 @@ for (i in 1:nrow(tmp)){
 }
 bills$info[which(bills$info$drefVivienda   ==1),] <- tmp
 #
-tmp <- bills$info[which(bills$info$drefZonas   ==1 & bills$info$dateIn>=dmy("1-3-2010", tz = "chile") & bills$info$dateIn<dmy("1-3-2014", tz = "chile")),] # zonas before 2010 was special committee
+tmp <- bills$info[which(bills$info$drefZonas   ==1 & bills$info$dateIn>=dmy("1-3-2010") & bills$info$dateIn<dmy("1-3-2014")),] # zonas before 2010 was special committee
 for (i in 1:nrow(tmp)){
     message(sprintf("iteración %s of %s", i, nrow(tmp)))
     #i <- 1 # debug
@@ -6294,7 +6293,7 @@ for (i in 1:nrow(tmp)){
     if (tmp$dsameCoal[i]==0) tmp$dsameCoal[i] <- Zonas$dsameCoal[sel] # if value is 1 from multiple referrals, skip
     if (tmp$doposCom[i]==0) tmp$doposCom[i] <- Zonas$doposCom[sel] # if value is 1 from multiple referrals, skip
 }
-bills$info[which(bills$info$drefZonas   ==1 & bills$info$dateIn>=dmy("1-3-2010", tz = "chile") & bills$info$dateIn<dmy("1-3-2014", tz = "chile")),] <- tmp
+bills$info[which(bills$info$drefZonas   ==1 & bills$info$dateIn>=dmy("1-3-2010") & bills$info$dateIn<dmy("1-3-2014")),] <- tmp
 #
 rm(Agric, Ciencia, Const, Cultura, Defensa, DDHH, Desarr, Eco, Educ, Familia, Interior, Hda, Mineria, Obras, Pesca, RecNatur, RREE, Salud, Segurid, Trabajo, Vivienda, Zonas)
 #
@@ -6434,11 +6433,11 @@ table(bills$info$nUrg)
 # cut % sponsors into categories of Concertación sponsors
 tmp <- cut(x = bills$info$pctcon, breaks = c(0, 1, 25, 50, 75, 99, 100), labels = c("0","1-25","25-50","51-75","76-99","100"), include.lowest = TRUE)
 # select pre-piñera
-sel <- which(bills$info$dmensaje==0 & bills$info$dateIn<dmy("1/3/2010", tz = "chile") & bills$info$nUrg>0)
+sel <- which(bills$info$dmensaje==0 & bills$info$dateIn<dmy("1/3/2010") & bills$info$nUrg>0)
 round(table(tmp[sel]) / length(sel), digits = 2)
 length(sel)
 # select piñera
-sel <- which(bills$info$dmensaje==0 & bills$info$dateIn>=dmy("1/3/2010", tz = "chile") & bills$info$dateIn<dmy("1/3/2014", tz = "chile")  & bills$info$nUrg>0) # piñera
+sel <- which(bills$info$dmensaje==0 & bills$info$dateIn>=dmy("1/3/2010") & bills$info$dateIn<dmy("1/3/2014")  & bills$info$nUrg>0) # piñera
 round(table(tmp[sel]) / length(sel), digits = 2)
 length(sel)
 # select all
@@ -6448,11 +6447,11 @@ length(sel)
 #
 # INITIATION OF EXEC BILLS TAKES ADVANTAGE OF FRIENDLIER SENATE
 # select lagos first two years (con sen, large con maj in dip)
-sel <- which(bills$info$dmensaje==1 & bills$info$dateIn>=dmy("1/3/2000", tz = "chile") & bills$info$dateIn<dmy("1/3/2002", tz = "chile"))
+sel <- which(bills$info$dmensaje==1 & bills$info$dateIn>=dmy("1/3/2000") & bills$info$dateIn<dmy("1/3/2002"))
 round(table(bills$info$init[sel]) / length(sel), digits = 2)
 length(sel)
 # select lagos four last years (tied sen, con maj in dip)
-sel <- which(bills$info$dmensaje==1 & bills$info$dateIn>=dmy("1/3/2002", tz = "chile") & bills$info$dateIn<dmy("1/3/2006", tz = "chile"))
+sel <- which(bills$info$dmensaje==1 & bills$info$dateIn>=dmy("1/3/2002") & bills$info$dateIn<dmy("1/3/2006"))
 round(table(bills$info$init[sel]) / length(sel), digits = 2)
 length(sel)
 #
@@ -6469,7 +6468,7 @@ for (i in 1:nrow(allUrg$messages)){
 }
 #
 # select dates to report
-sel <- which(zeUrg$on >= dmy("11-03-2006", tz = "chile") & zeUrg$on < dmy("11-03-2014", tz = "chile"))
+sel <- which(zeUrg$on >= dmy("11-03-2006") & zeUrg$on < dmy("11-03-2014"))
 tmp <- allUrg$messages[sel,]
 #
 table(tmp$drepInDeadline[ tmp$typeN==1 ] )
@@ -6521,23 +6520,23 @@ table(tmp$drepInDeadline)
 # URGENCY MESSAGE FREQUENCIES (exported directly for latex table, need to add N)
 tmp <- allUrg$messages
 #
-sel <- which(tmp$on >= dmy("11/3/1998", tz = "chile") & tmp$on < dmy("11/3/2002", tz = "chile"))
+sel <- which(tmp$on >= dmy("11/3/1998") & tmp$on < dmy("11/3/2002"))
 tmp1 <- round( table(tmp$typeN[sel]) *100 / length(sel), digits = 1 )
 length(sel)
 #
-sel <- which(tmp$on >= dmy("11/3/2002", tz = "chile") & tmp$on < dmy("11/3/2006", tz = "chile"))
+sel <- which(tmp$on >= dmy("11/3/2002") & tmp$on < dmy("11/3/2006"))
 tmp2 <- round( table(tmp$typeN[sel]) *100 / length(sel), digits = 1 )
 length(sel)
 #
-sel <- which(tmp$on >= dmy("11/3/2006", tz = "chile") & tmp$on < dmy("11/3/2010", tz = "chile"))
+sel <- which(tmp$on >= dmy("11/3/2006") & tmp$on < dmy("11/3/2010"))
 tmp3 <- round( table(tmp$typeN[sel]) *100 / length(sel), digits = 1 )
 length(sel)
 #
-sel <- which(tmp$on >= dmy("11/3/2010", tz = "chile") & tmp$on < dmy("11/3/2014", tz = "chile"))
+sel <- which(tmp$on >= dmy("11/3/2010") & tmp$on < dmy("11/3/2014"))
 tmp4 <- round( table(tmp$typeN[sel]) *100 / length(sel), digits = 1 )
 length(sel)
 #
-sel <- which(tmp$on >= dmy("11/3/1998", tz = "chile") & tmp$on < dmy("11/3/2014", tz = "chile"))
+sel <- which(tmp$on >= dmy("11/3/1998") & tmp$on < dmy("11/3/2014"))
 tmp5 <- round( table(tmp$typeN[sel]) *100 / length(sel), digits = 1 )
 length(sel)
 
@@ -6548,14 +6547,14 @@ xtable(tmp1, digits=0); xtable(tmp2, digits=0); xtable(tmp3, digits=0); xtable(t
 
 
 # LOGIT ON WHETHER NOT BILL DECLARED URGENT
-sel <- which(bills$info$dateIn>=dmy("11/3/1998", tz = "chile") & bills$info$dateIn<dmy("11/3/2014", tz = "chile"))
-#sel <- which(bills$info$dateIn>=dmy("11/3/1998", tz = "chile") & bills$info$dateIn<dmy("11/3/2014", tz = "chile") & bills$info$dmensaje==1)
+sel <- which(bills$info$dateIn>=dmy("11/3/1998") & bills$info$dateIn<dmy("11/3/2014"))
+#sel <- which(bills$info$dateIn>=dmy("11/3/1998") & bills$info$dateIn<dmy("11/3/2014") & bills$info$dmensaje==1)
 tmpdat <- bills$info[sel,]
 #
 # Add president's maj status in chamber
 tmpdat$dmajDip <- tmpdat$dmajSen <- 0
 # sen
-tmp <- dmy(c("11-03-1990", "22-01-1999", "11-03-2000", "11-01-2002", "27-01-2005", "30-08-2005", "11-03-2006", "11-03-2010") , tz = "chile")
+tmp <- dmy(c("11-03-1990", "22-01-1999", "11-03-2000", "11-01-2002", "27-01-2005", "30-08-2005", "11-03-2006", "11-03-2010") )
 sel <- which(tmpdat$dateIn >= tmp[1] & tmpdat$dateIn < tmp[2]); tmpdat$dmajSen[sel] <- 0
 sel <- which(tmpdat$dateIn >= tmp[2] & tmpdat$dateIn < tmp[3]); tmpdat$dmajSen[sel] <- 1 # tie coded as maj for pdt
 sel <- which(tmpdat$dateIn >= tmp[3] & tmpdat$dateIn < tmp[4]); tmpdat$dmajSen[sel] <- 1 
@@ -6567,10 +6566,10 @@ sel <- which(tmpdat$dateIn >= tmp[8] & tmpdat$dateIn < tmp[9]); tmpdat$dmajSen[s
 #
 # dip: always maj=1 except jan-march 2010, when PRI left Concertación (2010-14 50%, coded 1)
 tmpdat$dmajDip <- 1
-tmpdat$dmajDip[which(tmpdat$dateIn>=dmy("28-1-2010", tz = "chile") & tmpdat$dateIn<dmy("1-3-2010", tz = "chile"))] <- 0 # but no bills!
+tmpdat$dmajDip[which(tmpdat$dateIn>=dmy("28-1-2010") & tmpdat$dateIn<dmy("1-3-2010"))] <- 0 # but no bills!
 #
 # to end of pdtl term
-tmp <- dmy(c("11-03-1994", "11-03-2000", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- dmy(c("11-03-1994", "11-03-2000", "11-03-2006", "11-03-2010", "11-03-2014") )
 tmpdat$pterm <- NA
 sel <- which(                          tmpdat$dateIn < tmp[1]); tmpdat$pterm[sel] <- round((tmp[1] - tmpdat$dateIn[sel]) * 100 / (365*4), digits = 0)
 sel <- which(tmpdat$dateIn >= tmp[1] & tmpdat$dateIn < tmp[2]); tmpdat$pterm[sel] <- round((tmp[2] - tmpdat$dateIn[sel]) * 100 / (365*6), digits = 0)
@@ -6579,7 +6578,7 @@ sel <- which(tmpdat$dateIn >= tmp[3] & tmpdat$dateIn < tmp[4]); tmpdat$pterm[sel
 sel <- which(tmpdat$dateIn >= tmp[4] & tmpdat$dateIn < tmp[5]); tmpdat$pterm[sel] <- round((tmp[5] - tmpdat$dateIn[sel]) * 100 / (365*4), digits = 0)
 #
 # to end of dip term
-tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") )
 tmpdat$dterm <- NA
 sel <- which(                            tmpdat$dateIn < tmp[1]); tmpdat$dterm[sel] <- round((tmp[1] - tmpdat$dateIn[sel]) * 100 / (365*4), digits = 0)
 sel <- which(tmpdat$dateIn >= tmp[1] & tmpdat$dateIn < tmp[2]); tmpdat$dterm[sel] <- round((tmp[2] - tmpdat$dateIn[sel]) * 100 / (365*4), digits = 0)
@@ -6589,7 +6588,7 @@ sel <- which(tmpdat$dateIn >= tmp[4] & tmpdat$dateIn < tmp[5]); tmpdat$dterm[sel
 sel <- which(tmpdat$dateIn >= tmp[5] & tmpdat$dateIn < tmp[6]); tmpdat$dterm[sel] <- round((tmp[6] - tmpdat$dateIn[sel]) * 100 / (365*4), digits = 0)
 #
 # to end of sen term
-tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2006", "11-03-2014") , tz = "chile")
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2006", "11-03-2014") )
 tmpdat$sterm <- NA
 sel <- which(                          tmpdat$dateIn < tmp[1]); tmpdat$sterm[sel] <- round((tmp[1] - tmpdat$dateIn[sel]) * 100 / (365*8), digits = 0)
 sel <- which(tmpdat$dateIn >= tmp[1] & tmpdat$dateIn < tmp[2]); tmpdat$sterm[sel] <- round((tmp[2] - tmpdat$dateIn[sel]) * 100 / (365*8), digits = 0)
@@ -6597,7 +6596,7 @@ sel <- which(tmpdat$dateIn >= tmp[2] & tmpdat$dateIn < tmp[3]); tmpdat$sterm[sel
 sel <- which(tmpdat$dateIn >= tmp[3] & tmpdat$dateIn < tmp[4]); tmpdat$sterm[sel] <- round((tmp[4] - tmpdat$dateIn[sel]) * 100 / (365*8), digits = 0)
 #
 # to end of leg year
-tmp <- dmy(c("10-03-1999", "10-03-2000", "10-03-2001", "10-03-2002", "10-03-2003", "10-03-2004", "10-03-2005", "10-03-2006", "10-03-2007", "10-03-2008", "10-03-2009", "10-03-2010", "10-03-2011", "10-03-2012", "10-03-2013", "10-03-2014") , tz = "chile")
+tmp <- dmy(c("10-03-1999", "10-03-2000", "10-03-2001", "10-03-2002", "10-03-2003", "10-03-2004", "10-03-2005", "10-03-2006", "10-03-2007", "10-03-2008", "10-03-2009", "10-03-2010", "10-03-2011", "10-03-2012", "10-03-2013", "10-03-2014") )
 tmpdat$legyr <- NA
 sel <- which(                           tmpdat$dateIn < tmp[1]);  tmpdat$legyr[sel] <- round((tmp[1]  - tmpdat$dateIn[sel]) * 100 / 365, digits = 0)
 sel <- which(tmpdat$dateIn >= tmp[1]  & tmpdat$dateIn < tmp[2]);  tmpdat$legyr[sel] <- round((tmp[2]  - tmpdat$dateIn[sel]) * 100 / 365, digits = 0)
@@ -6617,7 +6616,7 @@ sel <- which(tmpdat$dateIn >= tmp[14] & tmpdat$dateIn < tmp[15]); tmpdat$legyr[s
 sel <- which(tmpdat$dateIn >= tmp[15] & tmpdat$dateIn < tmp[16]); tmpdat$legyr[sel] <- round((tmp[16] - tmpdat$dateIn[sel]) * 100 / 365, digits = 0)
 #
 # for leg year dummies
-tmp <- dmy(c("10-03-1999", "10-03-2000", "10-03-2001", "10-03-2002", "10-03-2003", "10-03-2004", "10-03-2005", "10-03-2006", "10-03-2007", "10-03-2008", "10-03-2009", "10-03-2010", "10-03-2011", "10-03-2012", "10-03-2013", "10-03-2014") , tz = "chile")
+tmp <- dmy(c("10-03-1999", "10-03-2000", "10-03-2001", "10-03-2002", "10-03-2003", "10-03-2004", "10-03-2005", "10-03-2006", "10-03-2007", "10-03-2008", "10-03-2009", "10-03-2010", "10-03-2011", "10-03-2012", "10-03-2013", "10-03-2014") )
 tmpdat$yr <- NA
 sel <- which(                           tmpdat$dateIn < tmp[1]);  tmpdat$yr[sel] <- 1999
 sel <- which(tmpdat$dateIn >= tmp[1]  & tmpdat$dateIn < tmp[2]);  tmpdat$yr[sel] <- 2000
@@ -6637,7 +6636,7 @@ sel <- which(tmpdat$dateIn >= tmp[14] & tmpdat$dateIn < tmp[15]); tmpdat$yr[sel]
 sel <- which(tmpdat$dateIn >= tmp[15] & tmpdat$dateIn < tmp[16]); tmpdat$yr[sel] <- 2014
 #
 # for year 1,2,3,4 dummies
-tmp <- dmy(c("10-03-1999", "10-03-2000", "10-03-2001", "10-03-2002", "10-03-2003", "10-03-2004", "10-03-2005", "10-03-2006", "10-03-2007", "10-03-2008", "10-03-2009", "10-03-2010", "10-03-2011", "10-03-2012", "10-03-2013", "10-03-2014") , tz = "chile")
+tmp <- dmy(c("10-03-1999", "10-03-2000", "10-03-2001", "10-03-2002", "10-03-2003", "10-03-2004", "10-03-2005", "10-03-2006", "10-03-2007", "10-03-2008", "10-03-2009", "10-03-2010", "10-03-2011", "10-03-2012", "10-03-2013", "10-03-2014") )
 tmpdat$yr14 <- NA
 sel <- which(                           tmpdat$dateIn < tmp[1]);  tmpdat$yr14[sel] <- 5
 sel <- which(tmpdat$dateIn >= tmp[1]  & tmpdat$dateIn < tmp[2]);  tmpdat$yr14[sel] <- 6
@@ -6657,7 +6656,7 @@ sel <- which(tmpdat$dateIn >= tmp[14] & tmpdat$dateIn < tmp[15]); tmpdat$yr14[se
 sel <- which(tmpdat$dateIn >= tmp[15] & tmpdat$dateIn < tmp[16]); tmpdat$yr14[sel] <- 4
 #
 # legislature dummies (periodo)
-tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") )
 tmpdat$dleg90 <- tmpdat$dleg94 <- tmpdat$dleg98 <- tmpdat$dleg02 <- tmpdat$dleg06 <- tmpdat$dleg10 <- tmpdat$legis <- 0
 sel <- which(                          tmpdat$dateIn < tmp[1]); tmpdat$dleg90[sel] <- 1; tmpdat$legis[sel] <- 1990
 sel <- which(tmpdat$dateIn >= tmp[1] & tmpdat$dateIn < tmp[2]); tmpdat$dleg94[sel] <- 1; tmpdat$legis[sel] <- 1994
@@ -6668,7 +6667,7 @@ sel <- which(tmpdat$dateIn >= tmp[5] & tmpdat$dateIn < tmp[6]); tmpdat$dleg10[se
 #
 # bill introduced after ley orgánica relaxed urgency deadlines
 tmpdat$dreform2010 <- 0
-sel <- which(tmpdat$dateIn >= dmy("1-7-2010", tz = "chile")); tmpdat$dreform2010[sel] <- 1
+sel <- which(tmpdat$dateIn >= dmy("1-7-2010")); tmpdat$dreform2010[sel] <- 1
 #
 colnames(tmpdat)
 tmpdat$dv <- 0; tmpdat$dv[tmpdat$nUrgCam>0] <- 1
@@ -6677,7 +6676,7 @@ tmpdat$dv2 <- 0; tmpdat$dv2[tmpdat$nSumaCam>0] <- 1
 tmpdat$dv12 <- 0; tmpdat$dv12[tmpdat$nInmedCam>0 | tmpdat$nSumaCam>0] <- 1
 tmpdat$dv3 <- 0; tmpdat$dv3[tmpdat$nSimpleCam>0] <- 1
 #
-tmpdat$pctpdt <- tmpdat$pctcon; sel <- which(tmpdat$dateIn >= dmy("11-3-2010", tz = "chile")); tmpdat$pctpdt[sel] <- tmpdat$pctright[sel]
+tmpdat$pctpdt <- tmpdat$pctcon; sel <- which(tmpdat$dateIn >= dmy("11-3-2010")); tmpdat$pctpdt[sel] <- tmpdat$pctright[sel]
 tmpdat$dmocion <- (1 - tmpdat$dmensaje)
 tmpdat$dmocionAllOpp <- tmpdat$dmocionMix <- tmpdat$dmocionAllPdt <- tmpdat$dmocion
 tmpdat$dmocionAllOpp[tmpdat$pctpdt>0] <- 0
@@ -7192,7 +7191,7 @@ for(i in 1:nrow(chainsHda)){
     chainsHda$dom[i] <- bills$info$dom[target]
     # para versión con todos las comisiones, hay bills$info$drefHda
 }
-chainsHda$pctpdt <- chainsHda$pctcon; sel <- which(chainsHda$on >= dmy("11-3-2010", tz = "chile")); chainsHda$pctpdt[sel] <- chainsHda$pctright[sel]
+chainsHda$pctpdt <- chainsHda$pctcon; sel <- which(chainsHda$on >= dmy("11-3-2010")); chainsHda$pctpdt[sel] <- chainsHda$pctright[sel]
 chainsHda$dmocionAllOpp <- chainsHda$dmocionMix <- chainsHda$dmocionAllPdt <- chainsHda$dmocion
 chainsHda$dmocionAllOpp[chainsHda$pctpdt>0] <- 0
 chainsHda$dmocionAllPdt[chainsHda$pctpdt<100] <- 0
@@ -7201,7 +7200,7 @@ chainsHda$dmocionMix[chainsHda$pctpdt==0 | chainsHda$pctpdt==100] <- 0
 # Add president's maj status in chamber
 chainsHda$dmajDip <- chainsHda$dmajSen <- 0
 # sen
-tmp <- dmy(c("11-03-1990", "22-01-1999", "11-03-2000", "11-01-2002", "27-01-2005", "30-08-2005", "11-03-2006", "11-03-2010") , tz = "chile")
+tmp <- dmy(c("11-03-1990", "22-01-1999", "11-03-2000", "11-01-2002", "27-01-2005", "30-08-2005", "11-03-2006", "11-03-2010") )
 sel <- which(chainsHda$on >= tmp[1] & chainsHda$on < tmp[2]); chainsHda$dmajSen[sel] <- 0
 sel <- which(chainsHda$on >= tmp[2] & chainsHda$on < tmp[3]); chainsHda$dmajSen[sel] <- 1 # tie coded as maj for pdt
 sel <- which(chainsHda$on >= tmp[3] & chainsHda$on < tmp[4]); chainsHda$dmajSen[sel] <- 1 
@@ -7215,7 +7214,7 @@ sel <- which(chainsHda$on >= tmp[8] & chainsHda$on < tmp[9]); chainsHda$dmajSen[
 chainsHda$dmajDip <- 1
 #
 # to end of pdtl term
-tmp <- dmy(c("11-03-1994", "11-03-2000", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- dmy(c("11-03-1994", "11-03-2000", "11-03-2006", "11-03-2010", "11-03-2014") )
 chainsHda$pterm <- NA
 sel <- which(                          chainsHda$on < tmp[1]); chainsHda$pterm[sel] <- round((tmp[1] - chainsHda$on[sel]) * 100 / (365*4), digits = 0)
 sel <- which(chainsHda$on >= tmp[1] & chainsHda$on < tmp[2]); chainsHda$pterm[sel] <- round((tmp[2] - chainsHda$on[sel]) * 100 / (365*6), digits = 0)
@@ -7224,7 +7223,7 @@ sel <- which(chainsHda$on >= tmp[3] & chainsHda$on < tmp[4]); chainsHda$pterm[se
 sel <- which(chainsHda$on >= tmp[4] & chainsHda$on < tmp[5]); chainsHda$pterm[sel] <- round((tmp[5] - chainsHda$on[sel]) * 100 / (365*4), digits = 0)
 #
 # to end of dip term
-tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") )
 chainsHda$dterm <- NA
 sel <- which(                            chainsHda$on < tmp[1]); chainsHda$dterm[sel] <- round((tmp[1] - chainsHda$on[sel]) * 100 / (365*4), digits = 0)
 sel <- which(chainsHda$on >= tmp[1] & chainsHda$on < tmp[2]); chainsHda$dterm[sel] <- round((tmp[2] - chainsHda$on[sel]) * 100 / (365*4), digits = 0)
@@ -7234,7 +7233,7 @@ sel <- which(chainsHda$on >= tmp[4] & chainsHda$on < tmp[5]); chainsHda$dterm[se
 sel <- which(chainsHda$on >= tmp[5] & chainsHda$on < tmp[6]); chainsHda$dterm[sel] <- round((tmp[6] - chainsHda$on[sel]) * 100 / (365*4), digits = 0)
 #
 # to end of sen term
-tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2006", "11-03-2014") , tz = "chile")
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2006", "11-03-2014") )
 chainsHda$sterm <- NA
 sel <- which(                          chainsHda$on < tmp[1]); chainsHda$sterm[sel] <- round((tmp[1] - chainsHda$on[sel]) * 100 / (365*8), digits = 0)
 sel <- which(chainsHda$on >= tmp[1] & chainsHda$on < tmp[2]); chainsHda$sterm[sel] <- round((tmp[2] - chainsHda$on[sel]) * 100 / (365*8), digits = 0)
@@ -7242,7 +7241,7 @@ sel <- which(chainsHda$on >= tmp[2] & chainsHda$on < tmp[3]); chainsHda$sterm[se
 sel <- which(chainsHda$on >= tmp[3] & chainsHda$on < tmp[4]); chainsHda$sterm[sel] <- round((tmp[4] - chainsHda$on[sel]) * 100 / (365*8), digits = 0)
 #
 # to end of leg year
-tmp <- dmy(c("10-03-1999", "10-03-2000", "10-03-2001", "10-03-2002", "10-03-2003", "10-03-2004", "10-03-2005", "10-03-2006", "10-03-2007", "10-03-2008", "10-03-2009", "10-03-2010", "10-03-2011", "10-03-2012", "10-03-2013", "10-03-2014") , tz = "chile")
+tmp <- dmy(c("10-03-1999", "10-03-2000", "10-03-2001", "10-03-2002", "10-03-2003", "10-03-2004", "10-03-2005", "10-03-2006", "10-03-2007", "10-03-2008", "10-03-2009", "10-03-2010", "10-03-2011", "10-03-2012", "10-03-2013", "10-03-2014") )
 chainsHda$legyr <- NA
 sel <- which(                           chainsHda$on < tmp[1]);  chainsHda$legyr[sel] <- round((tmp[1]  - chainsHda$on[sel]) * 100 / 365, digits = 0)
 sel <- which(chainsHda$on >= tmp[1]  & chainsHda$on < tmp[2]);  chainsHda$legyr[sel] <- round((tmp[2]  - chainsHda$on[sel]) * 100 / 365, digits = 0)
@@ -7262,7 +7261,7 @@ sel <- which(chainsHda$on >= tmp[14] & chainsHda$on < tmp[15]); chainsHda$legyr[
 sel <- which(chainsHda$on >= tmp[15] & chainsHda$on < tmp[16]); chainsHda$legyr[sel] <- round((tmp[16] - chainsHda$on[sel]) * 100 / 365, digits = 0)
 #
 # legislature dummies (periodo)
-tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") )
 chainsHda$dleg90 <- chainsHda$dleg94 <- chainsHda$dleg98 <- chainsHda$dleg02 <- chainsHda$dleg06 <- chainsHda$dleg10 <- 0
 chainsHda$legis <- 0
 sel <- which(                         chainsHda$on < tmp[1]); chainsHda$dleg90[sel] <- 1; chainsHda$legis[sel] <- 1990
@@ -7276,7 +7275,7 @@ table(chainsHda$legis) # hay dos cadenas iniciadas el 10-3-1998... ¿cómo se ha
 #
 # bill introduced after ley orgánica relaxed urgency deadlines
 chainsHda$dreform2010 <- 0
-sel <- which(chainsHda$on >= dmy("1-7-2010", tz = "chile")); chainsHda$dreform2010[sel] <- 1
+sel <- which(chainsHda$on >= dmy("1-7-2010")); chainsHda$dreform2010[sel] <- 1
 #
 # chain in senate
 chainsHda$dsen <- as.numeric(chainsHda$tramite=="sen")
@@ -7405,7 +7404,7 @@ for(i in 1:nrow(chainsAll)){
     chainsAll$dom[i] <- bills$info$dom[target]
     # para versión con todos las comisiones, hay bills$info$drefAll
 }
-chainsAll$pctpdt <- chainsAll$pctcon; sel <- which(chainsAll$on >= dmy("11-3-2010", tz = "chile")); chainsAll$pctpdt[sel] <- chainsAll$pctright[sel]
+chainsAll$pctpdt <- chainsAll$pctcon; sel <- which(chainsAll$on >= dmy("11-3-2010")); chainsAll$pctpdt[sel] <- chainsAll$pctright[sel]
 chainsAll$dmocionAllOpp <- chainsAll$dmocionMix <- chainsAll$dmocionAllPdt <- chainsAll$dmocion
 chainsAll$dmocionAllOpp[chainsAll$pctpdt>0] <- 0
 chainsAll$dmocionAllPdt[chainsAll$pctpdt<100] <- 0
@@ -7414,7 +7413,7 @@ chainsAll$dmocionMix[chainsAll$pctpdt==0 | chainsAll$pctpdt==100] <- 0
 # Add president's maj status in chamber
 chainsAll$dmajDip <- chainsAll$dmajSen <- 0
 # sen
-tmp <- dmy(c("11-03-1990", "22-01-1999", "11-03-2000", "11-01-2002", "27-01-2005", "30-08-2005", "11-03-2006", "11-03-2010") , tz = "chile")
+tmp <- dmy(c("11-03-1990", "22-01-1999", "11-03-2000", "11-01-2002", "27-01-2005", "30-08-2005", "11-03-2006", "11-03-2010") )
 sel <- which(chainsAll$on >= tmp[1] & chainsAll$on < tmp[2]); chainsAll$dmajSen[sel] <- 0
 sel <- which(chainsAll$on >= tmp[2] & chainsAll$on < tmp[3]); chainsAll$dmajSen[sel] <- 1 # tie coded as maj for pdt
 sel <- which(chainsAll$on >= tmp[3] & chainsAll$on < tmp[4]); chainsAll$dmajSen[sel] <- 1 
@@ -7428,7 +7427,7 @@ sel <- which(chainsAll$on >= tmp[8] & chainsAll$on < tmp[9]); chainsAll$dmajSen[
 chainsAll$dmajDip <- 1
 #
 # to end of pdtl term
-tmp <- dmy(c("11-03-1994", "11-03-2000", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- dmy(c("11-03-1994", "11-03-2000", "11-03-2006", "11-03-2010", "11-03-2014") )
 chainsAll$pterm <- NA
 sel <- which(                          chainsAll$on < tmp[1]); chainsAll$pterm[sel] <- round((tmp[1] - chainsAll$on[sel]) * 100 / (365*4), digits = 0)
 sel <- which(chainsAll$on >= tmp[1] & chainsAll$on < tmp[2]); chainsAll$pterm[sel] <- round((tmp[2] - chainsAll$on[sel]) * 100 / (365*6), digits = 0)
@@ -7437,7 +7436,7 @@ sel <- which(chainsAll$on >= tmp[3] & chainsAll$on < tmp[4]); chainsAll$pterm[se
 sel <- which(chainsAll$on >= tmp[4] & chainsAll$on < tmp[5]); chainsAll$pterm[sel] <- round((tmp[5] - chainsAll$on[sel]) * 100 / (365*4), digits = 0)
 #
 # to end of dip term
-tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") )
 chainsAll$dterm <- NA
 sel <- which(                            chainsAll$on < tmp[1]); chainsAll$dterm[sel] <- round((tmp[1] - chainsAll$on[sel]) * 100 / (365*4), digits = 0)
 sel <- which(chainsAll$on >= tmp[1] & chainsAll$on < tmp[2]); chainsAll$dterm[sel] <- round((tmp[2] - chainsAll$on[sel]) * 100 / (365*4), digits = 0)
@@ -7447,7 +7446,7 @@ sel <- which(chainsAll$on >= tmp[4] & chainsAll$on < tmp[5]); chainsAll$dterm[se
 sel <- which(chainsAll$on >= tmp[5] & chainsAll$on < tmp[6]); chainsAll$dterm[sel] <- round((tmp[6] - chainsAll$on[sel]) * 100 / (365*4), digits = 0)
 #
 # to end of sen term
-tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2006", "11-03-2014") , tz = "chile")
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2006", "11-03-2014") )
 chainsAll$sterm <- NA
 sel <- which(                          chainsAll$on < tmp[1]); chainsAll$sterm[sel] <- round((tmp[1] - chainsAll$on[sel]) * 100 / (365*8), digits = 0)
 sel <- which(chainsAll$on >= tmp[1] & chainsAll$on < tmp[2]); chainsAll$sterm[sel] <- round((tmp[2] - chainsAll$on[sel]) * 100 / (365*8), digits = 0)
@@ -7455,7 +7454,7 @@ sel <- which(chainsAll$on >= tmp[2] & chainsAll$on < tmp[3]); chainsAll$sterm[se
 sel <- which(chainsAll$on >= tmp[3] & chainsAll$on < tmp[4]); chainsAll$sterm[sel] <- round((tmp[4] - chainsAll$on[sel]) * 100 / (365*8), digits = 0)
 #
 # to end of leg year
-tmp <- dmy(c("10-03-1999", "10-03-2000", "10-03-2001", "10-03-2002", "10-03-2003", "10-03-2004", "10-03-2005", "10-03-2006", "10-03-2007", "10-03-2008", "10-03-2009", "10-03-2010", "10-03-2011", "10-03-2012", "10-03-2013", "10-03-2014") , tz = "chile")
+tmp <- dmy(c("10-03-1999", "10-03-2000", "10-03-2001", "10-03-2002", "10-03-2003", "10-03-2004", "10-03-2005", "10-03-2006", "10-03-2007", "10-03-2008", "10-03-2009", "10-03-2010", "10-03-2011", "10-03-2012", "10-03-2013", "10-03-2014") )
 chainsAll$legyr <- NA
 sel <- which(                           chainsAll$on < tmp[1]);  chainsAll$legyr[sel] <- round((tmp[1]  - chainsAll$on[sel]) * 100 / 365, digits = 0)
 sel <- which(chainsAll$on >= tmp[1]  & chainsAll$on < tmp[2]);  chainsAll$legyr[sel] <- round((tmp[2]  - chainsAll$on[sel]) * 100 / 365, digits = 0)
@@ -7475,7 +7474,7 @@ sel <- which(chainsAll$on >= tmp[14] & chainsAll$on < tmp[15]); chainsAll$legyr[
 sel <- which(chainsAll$on >= tmp[15] & chainsAll$on < tmp[16]); chainsAll$legyr[sel] <- round((tmp[16] - chainsAll$on[sel]) * 100 / 365, digits = 0)
 #
 # legislature dummies (periodo)
-tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") , tz = "chile")
+tmp <- dmy(c("11-03-1994", "11-03-1998", "11-03-2002", "11-03-2006", "11-03-2010", "11-03-2014") )
 chainsAll$dleg90 <- chainsAll$dleg94 <- chainsAll$dleg98 <- chainsAll$dleg02 <- chainsAll$dleg06 <- chainsAll$dleg10 <- 0
 chainsAll$legis <- 0
 sel <- which(                         chainsAll$on < tmp[1]); chainsAll$dleg90[sel] <- 1; chainsAll$legis[sel] <- 1990
@@ -7489,7 +7488,7 @@ table(chainsAll$legis) # hay dos cadenas iniciadas el 10-3-1998... ¿cómo se ha
 #
 # bill introduced after ley orgánica relaxed urgency deadlines
 chainsAll$dreform2010 <- 0
-sel <- which(chainsAll$on >= dmy("1-7-2010", tz = "chile")); chainsAll$dreform2010[sel] <- 1
+sel <- which(chainsAll$on >= dmy("1-7-2010")); chainsAll$dreform2010[sel] <- 1
 #
 # chain in senate
 chainsAll$dsen <- as.numeric(chainsAll$tramite=="sen")
@@ -7572,7 +7571,7 @@ head(allUrg$chains)
 # SHOULD WORK WITH PREVIOUS DATA PREP
 ls()
 
-sel <- which(bills$info$dateIn>=dmy("11/3/1998", tz = "chile") & bills$info$dateIn<dmy("11/3/2014", tz = "chile"))
+sel <- which(bills$info$dateIn>=dmy("11/3/1998") & bills$info$dateIn<dmy("11/3/2014"))
 tmpdat <- bills$info[sel,]
 
 need to recode deadline in case of chains extending/cutting/removing deadline
@@ -7992,7 +7991,7 @@ bills$info$lastTram <- lastTram; bills$info$path <- path
 sel <- which(bills$info$dmensaje==1)        ####### select cases for plot ##########
 sel <- which(bills$info$dmensaje==1
              & bills$info$init=="sen"
-             & bills$info$dateIn>=dmy("1/3/2010", tz = "chile") & bills$info$dateIn<dmy("1/3/2014", tz = "chile"))
+             & bills$info$dateIn>=dmy("1/3/2010") & bills$info$dateIn<dmy("1/3/2014"))
 trans <- rep(NA,26) # will receive freqs
 names(trans) <- c("A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z")
 #
@@ -8105,7 +8104,7 @@ table(bills$info$status)
 # has urgency v not
 tmp <- bills$info$nUrg; tmp[tmp>0] <- 1; table(tmp); round(table(tmp)*100/I,0)
 # since 1998
-post98 <- rep(0,I); post98[which(bills$info$dateIn>=dmy("1/3/1998", tz = "chile"))] <- 1
+post98 <- rep(0,I); post98[which(bills$info$dateIn>=dmy("1/3/1998"))] <- 1
 table(tmp[post98==1])
 myXtab(post98, tmp)
 
@@ -8154,7 +8153,7 @@ print(cbind(round(prop.table(tmp, 1), digits = 2), margin.table(tmp, 1))) # cros
 ## select <- grep("urg15", tmp2$urg); tmp2$type[select] <- "Suma"; tmp3[select] <- 15
 ## select <- grep("urg6", tmp2$urg); tmp2$type[select] <- "Discusión inmediata"; tmp3[select] <- 6
 ## tmp3 <- as.numeric(tmp3)
-## select <- which(tmp2$on < dmy("3/7/2010", tz = "chile")) # change urgencias before constitutional reform
+## select <- which(tmp2$on < dmy("3/7/2010")) # change urgencias before constitutional reform
 ## tmp3[select] <- mapvalues(tmp3[select], from = c(6,15), to = c(3,10), warn_missing = FALSE)
 ## tmp2$deadline <- tmp2$on # inherits format for NAs
 ## tmp2$deadline <- deadline(tmp2$on, tmp3)
