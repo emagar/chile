@@ -6547,8 +6547,8 @@ xtable(tmp1, digits=0); xtable(tmp2, digits=0); xtable(tmp3, digits=0); xtable(t
 
 
 # LOGIT ON WHETHER NOT BILL DECLARED URGENT
-sel <- which(bills$info$dateIn>=dmy("11/3/1998") & bills$info$dateIn<dmy("11/3/2014"))
-#sel <- which(bills$info$dateIn>=dmy("11/3/1998") & bills$info$dateIn<dmy("11/3/2014") & bills$info$dmensaje==1)
+#sel <- which(bills$info$dateIn>=dmy("11/3/1998") & bills$info$dateIn<dmy("11/3/2014"))
+sel <- which(bills$info$dateIn>=dmy("11/3/1998") & bills$info$dateIn<dmy("11/3/2014") & bills$info$dmensaje==1)
 tmpdat <- bills$info[sel,]
 #
 # Add president's maj status in chamber
@@ -6706,31 +6706,41 @@ colnames(tmpdat)
 
 # [EM 23ago2017] Dentro del grupo dsameCoal==0 aún hay mucha varianza en el uso de urgencias. Falta hacer exploración descriptiva para detectar elementos que se correlacionan, y añadir más controles...
 #fit <- lm (dv ~ dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda + dmajSen + dinSen + pterm + legyr, data = tmpdat)
-fit1 <-  glm(dv12 ~ dsamePty  + dmultiRef + dmocion + drefHda + dmajSen + dinSen + legyrR + legyrR2 + dreform2010 + netApprovR                  , data = tmpdat,                      family = binomial(link = logit))
-fit1e <- glm(dv12 ~ dsamePty  + dmultiRef +         + drefHda + dmajSen + dinSen + legyrR + legyrR2 + dreform2010 + netApprovR                  , data = tmpdat, subset = dmocion==0, family = binomial(link = logit))
-fit1m <- glm(dv12 ~ dsamePty  + dmultiRef +         + drefHda + dmajSen + dinSen + legyrR + legyrR2 + dreform2010 + netApprovR                  , data = tmpdat, subset = dmocion==1, family = binomial(link = logit))
-## fit2 <- glm(dv12 ~ dsamePty + dmultiRef + dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda + dmajSen + dinSen + legyrR + dreform2010 + netApprovR                   , data = tmpdat, family = binomial(link = logit))
-## fit3 <- glm(dv12 ~ dsamePty + dmultiRef + dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda           + dinSen + legyrR               + netApprovR + as.factor(legis), data = tmpdat, family = binomial(link = logit))
-## fit2 <- glm(dv12 ~ dmultiRef + dmocion + drefHda + dmajSen + dinSen + legyrR + legyrR2 + dreform2010 + netApprovR               + drefCiencia + drefComunic  + drefConst   
+# 
+# select one DV here
+tmpdat$dv <- tmpdat$dv1 # discusión inmediata only
+tmpdat$dv <- tmpdat$dv2 # suma urgencia only
+tmpdat$dv <- tmpdat$dv12 # discusión inmediata and urgencia suma
+
+colnames(tmpdat)
+table(tmpdat$yr)
+
+fit1 <-  glm(dv ~ dsamePty  + dmultiRef + dmocion + drefHda + dmajSen + dinSen + legyrR + legyrR2 + dreform2010 + netApprovR                  , data = tmpdat,                      family = binomial(link = logit))
+fit1e <- glm(dv ~ dsamePty  + dmultiRef +         + drefHda + dmajSen + dinSen + legyrR + legyrR2 + dreform2010 + netApprovR                  , data = tmpdat, subset = dmocion==0, family = binomial(link = logit))
+fit1m <- glm(dv ~ dsamePty  + dmultiRef +         + drefHda + dmajSen + dinSen + legyrR + legyrR2 + dreform2010 + netApprovR                  , data = tmpdat, subset = dmocion==1, family = binomial(link = logit))
+## fit2 <- glm(dv ~ dsamePty + dmultiRef + dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda + dmajSen + dinSen + legyrR + dreform2010 + netApprovR                   , data = tmpdat, family = binomial(link = logit))
+## fit3 <- glm(dv ~ dsamePty + dmultiRef + dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda           + dinSen + legyrR               + netApprovR + as.factor(legis), data = tmpdat, family = binomial(link = logit))
+## fit2 <- glm(dv ~ dmultiRef + dmocion + drefHda + dmajSen + dinSen + legyrR + legyrR2 + dreform2010 + netApprovR               + drefCiencia + drefComunic  + drefConst   
 ## + drefCultura + drefDefensa + drefDDHH     + drefEco
 ## + drefEduc    + drefFamilia +              + drefInterior
 ## + drefMedAmb  + drefMineria + drefObras    + drefPesca
 ## + drefRREE    + drefRecNatur+ drefRegimen  + drefSalud   
 ## + drefSegurid + drefTrabajo + drefVivienda + drefZonas                  , data = tmpdat, family = binomial(link = logit))
-fit2 <-  glm(dv12 ~ dsameCoal + dmultiRef + dmocion + drefHda + dmajSen + dinSen + legyrR + legyrR2 + dreform2010 + netApprovR                  , data = tmpdat,                      family = binomial(link = logit))
-fit2e <- glm(dv12 ~ dsameCoal + dmultiRef           + drefHda + dmajSen + dinSen + legyrR + legyrR2 + dreform2010 + netApprovR                  , data = tmpdat, subset = dmocion==0, family = binomial(link = logit))
-fit2m <- glm(dv12 ~ dsameCoal + dmultiRef           + drefHda + dmajSen + dinSen + legyrR + legyrR2 + dreform2010 + netApprovR                  , data = tmpdat, subset = dmocion==1, family = binomial(link = logit))
-fit3 <-  glm(dv12 ~ dsameCoal + dmultiRef + dmocion + drefHda           + dinSen + legyrR + legyrR2             + netApprovR + as.factor(legis), data = tmpdat,                      family = binomial(link = logit))
-fit3e <- glm(dv12 ~ dsameCoal + dmultiRef           + drefHda           + dinSen + legyrR + legyrR2             + netApprovR + as.factor(legis), data = tmpdat, subset = dmocion==0, family = binomial(link = logit))
-fit3m <- glm(dv12 ~ dsameCoal + dmultiRef           + drefHda           + dinSen + legyrR + legyrR2             + netApprovR + as.factor(legis), data = tmpdat, subset = dmocion==1, family = binomial(link = logit))
+fit2 <-  glm(dv ~ dsameCoal + dmultiRef + dmocion + drefHda + dmajSen + dinSen + legyrR + legyrR2 + dreform2010 + netApprovR                  , data = tmpdat,                      family = binomial(link = logit))
+fit2e <- glm(dv ~ dsameCoal + dmultiRef           + drefHda + dmajSen + dinSen + legyrR + legyrR2 + dreform2010 + netApprovR                  , data = tmpdat, subset = dmocion==0, family = binomial(link = logit))
+fit2m <- glm(dv ~ dsameCoal + dmultiRef           + drefHda + dmajSen + dinSen + legyrR + legyrR2 + dreform2010 + netApprovR                  , data = tmpdat, subset = dmocion==1, family = binomial(link = logit))
+#
+fit3 <-  glm(dv ~ dsameCoal + dmultiRef + dmocion + drefHda           + dinSen + legyrR + legyrR2             + netApprovR + as.factor(legis), data = tmpdat,                      family = binomial(link = logit))
+fit3e <- glm(dv ~ dsameCoal + dmultiRef           + drefHda           + dinSen + legyrR + legyrR2             + netApprovR + as.factor(legis), data = tmpdat, subset = dmocion==0, family = binomial(link = logit))
+fit3m <- glm(dv ~ dsameCoal + dmultiRef           + drefHda           + dinSen + legyrR + legyrR2             + netApprovR + as.factor(legis), data = tmpdat, subset = dmocion==1, family = binomial(link = logit))
 # multilevel version with error terms clustered by legislatura (Gelman Hill p. 302 from eq 12.13)
 # For non-convergence warnings in glmer, see script nonConv.r. This is from https://rstudio-pubs-static.s3.amazonaws.com/33653_57fc7b8e5d484c909b615d8633c01d51.html (and related Stack overflow http://stackoverflow.com/questions/23478792/warning-messages-when-trying-to-run-glmer-in-r). Re-scaling all continuous ivs took care of the problem...
 library(lme4)
-## fit4 <- glmer(dv12 ~ dsamePty + dmultiRef + dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda         + dinSen + legyrR               + netApprovR + (1|legis), data = tmpdat, family = binomial(link ="logit"))
-fit4 <-  glmer(dv12 ~ dsameCoal + dmultiRef + dmocion + drefHda         + dinSen + legyrR + legyrR2            + netApprovR + (1|legis), data = tmpdat,                      family = binomial(link ="logit"))
-fit4e <- glmer(dv12 ~ dsameCoal + dmultiRef           + drefHda         + dinSen + legyrR + legyrR2            + netApprovR + (1|legis), data = tmpdat, subset = dmocion==0, family = binomial(link ="logit"))
-fit4m <- glmer(dv12 ~ dsameCoal + dmultiRef           + drefHda         + dinSen + legyrR + legyrR2            + netApprovR + (1|legis), data = tmpdat, subset = dmocion==1, family = binomial(link ="logit"))
-## fit5 <- glm(dv12 ~ dmocion                                    + drefHda + dmajSen + dinSen + ptermR + legyrR + dreform2010                   , data = tmpdat, family = binomial(link = logit))
+## fit4 <- glmer(dv ~ dsamePty + dmultiRef + dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda         + dinSen + legyrR               + netApprovR + (1|legis), data = tmpdat, family = binomial(link ="logit"))
+fit4 <-  glmer(dv ~ dsameCoal + dmultiRef + dmocion + drefHda         + dinSen + legyrR + legyrR2            + netApprovR + (1|legis), data = tmpdat,                      family = binomial(link ="logit"))
+fit4e <- glmer(dv ~ dsameCoal + dmultiRef           + drefHda         + dinSen + legyrR + legyrR2            + netApprovR + (1|legis), data = tmpdat, subset = dmocion==0, family = binomial(link ="logit"))
+fit4m <- glmer(dv ~ dsameCoal + dmultiRef           + drefHda         + dinSen + legyrR + legyrR2            + netApprovR + (1|legis), data = tmpdat, subset = dmocion==1, family = binomial(link ="logit"))
+## fit5 <- glm(dv ~ dmocion                                    + drefHda + dmajSen + dinSen + ptermR + legyrR + dreform2010                   , data = tmpdat, family = binomial(link = logit))
 ## etc...
 #
 summary(fit1e)
@@ -6740,13 +6750,25 @@ summary(fit4e)
 library(arm)
 display(fit4e)
 
+# log likelihood
+logLik(fit1e)
+logLik(fit2e)
+logLik(fit3e)
+logLik(fit4e)
+
+# n
+nobs(fit1e)
+nobs(fit2e)
+nobs(fit3e)
+nobs(fit4e)
+
 # descriptives of variables in model
 summary(tmpdat[tmpdat$dmocion==0, c("legyr", "netApprov")])
 sd(tmpdat$legyr[tmpdat$dmocion==0])
 sd(tmpdat$netApprov[tmpdat$dmocion==0])
 #
 table(tmpdat$legis[tmpdat$dmocion==0])
-round(table(tmpdat$legis[tmpdat$dmocion==0])/1461, 3)
+round(table(tmpdat$legis[tmpdat$dmocion==0])/1467, 3)
 
 ## GRAFICA MATRIZ DE CORRELACIONES: COOL!
 #tmp <- cor(dat[,-grep("Extend|Shorten|Retire|d2010|nses", colnames(dat))])
@@ -6764,39 +6786,41 @@ corrplot(tmp, color = TRUE) #plot matrix
 # descriptives
 # continuous variables
 tmp <- data.frame()
-tmp <- rbind(tmp, summary(tmpdat$pterm))
-tmp <- rbind(tmp, summary(tmpdat$legyr))
-tmp <- rbind(tmp, summary(tmpdat$netApprov))
+tmp <- rbind(tmp, summary(tmpdat$pterm[tmpdat$dmensaje==1]))
+tmp <- rbind(tmp, summary(tmpdat$legyr[tmpdat$dmensaje==1]))
+tmp <- rbind(tmp, summary(tmpdat$netApprov[tmpdat$dmensaje==1]))
 tmp <- cbind(c("Presidential term", "Year remaining", "Pres.~approval"), tmp)
 colnames(tmp) <- c("Var.", "Min.","Q1","Med.","Mean","Q3","Max.")
-tmp$sd <- c(sd(tmpdat$pterm), sd(tmpdat$legyr), sd(tmpdat$netApprov))
+tmp$sd <- c(sd(tmpdat$pterm[tmpdat$dmensaje==1]), sd(tmpdat$legyr[tmpdat$dmensaje==1]), sd(tmpdat$netApprov[tmpdat$dmensaje==1]))
 tmp
-#
+
 tmp <- data.frame()
-tmp <- rbind(tmp, table(tmpdat$dv12))
-tmp <- rbind(tmp, round(table(tmpdat$dv12)/nrow(tmpdat), 3))
-tmp <- rbind(tmp, table(tmpdat$dsamePty))
+tmp <- rbind(tmp, table(tmpdat$dv[tmpdat$dmensaje==1]))
+tmp <- rbind(tmp, round(table(tmpdat$dv)/nrow(tmpdat), 3))
+tmp <- rbind(tmp, table(tmpdat$dsamePty[tmpdat$dmensaje==1]))
 tmp <- rbind(tmp, round(table(tmpdat$dsamePty)/nrow(tmpdat), 3))
-tmp <- rbind(tmp, table(tmpdat$dmultiRef))
+tmp <- rbind(tmp, table(tmpdat$dsameCoal[tmpdat$dmensaje==1]))
+tmp <- rbind(tmp, round(table(tmpdat$dsameCoal)/nrow(tmpdat), 3))
+tmp <- rbind(tmp, table(tmpdat$dmultiRef[tmpdat$dmensaje==1]))
 tmp <- rbind(tmp, round(table(tmpdat$dmultiRef)/nrow(tmpdat), 3))
-tmp <- rbind(tmp, table(tmpdat$dmocion))
+tmp <- rbind(tmp, table(tmpdat$dmocion[tmpdat$dmensaje==1]))
 tmp <- rbind(tmp, round(table(tmpdat$dmocion)/nrow(tmpdat), 3))
-tmp <- rbind(tmp, table(tmpdat$dmocionAllOpp))
+tmp <- rbind(tmp, table(tmpdat$dmocionAllOpp[tmpdat$dmensaje==1]))
 tmp <- rbind(tmp, round(table(tmpdat$dmocionAllOpp)/nrow(tmpdat), 3))
-tmp <- rbind(tmp, table(tmpdat$dmocionMix))
+tmp <- rbind(tmp, table(tmpdat$dmocionMix[tmpdat$dmensaje==1]))
 tmp <- rbind(tmp, round(table(tmpdat$dmocionMix)/nrow(tmpdat), 3))
-tmp <- rbind(tmp, table(tmpdat$dmocionAllPdt))
+tmp <- rbind(tmp, table(tmpdat$dmocionAllPdt[tmpdat$dmensaje==1]))
 tmp <- rbind(tmp, round(table(tmpdat$dmocionAllPdt)/nrow(tmpdat), 3))
-tmp <- rbind(tmp, table(tmpdat$drefHda))
+tmp <- rbind(tmp, table(tmpdat$drefHda[tmpdat$dmensaje==1]))
 tmp <- rbind(tmp, round(table(tmpdat$drefHda)/nrow(tmpdat), 3))
-tmp <- rbind(tmp, table(tmpdat$dmajSen))
+tmp <- rbind(tmp, table(tmpdat$dmajSen[tmpdat$dmensaje==1]))
 tmp <- rbind(tmp, round(table(tmpdat$dmajSen)/nrow(tmpdat), 3))
-tmp <- rbind(tmp, table(tmpdat$dinSen))
+tmp <- rbind(tmp, table(tmpdat$dinSen[tmpdat$dmensaje==1]))
 tmp <- rbind(tmp, round(table(tmpdat$dinSen)/nrow(tmpdat), 3))
-tmp <- rbind(tmp, table(tmpdat$dreform2010))
+tmp <- rbind(tmp, table(tmpdat$dreform2010[tmpdat$dmensaje==1]))
 tmp <- rbind(tmp, round(table(tmpdat$dreform2010)/nrow(tmpdat), 3))
 tmp$tot <- rowSums(tmp)
-tmp <- cbind(c("dv12", "dv12", "dsamePty", "dsamePty", "dmultiRef", "dmultiRef", "dmocion", "dmocion", "dmocionAllOpp", "dmocionAllOpp", "dmocionMix", "dmocionMix", "dmocionAllPdt", "dmocionAllPdt", "drefHda", "drefHda", "dmajSen", "dmajSen", "dinSen", "dinSen", "dreform2010", "dreform2010"), tmp)
+tmp <- cbind(c("dv", "dv", "dsamePty", "dsamePty", "dsameCoal", "dsameCoal", "dmultiRef", "dmultiRef", "dmocion", "dmocion", "dmocionAllOpp", "dmocionAllOpp", "dmocionMix", "dmocionMix", "dmocionAllPdt", "dmocionAllPdt", "drefHda", "drefHda", "dmajSen", "dmajSen", "dinSen", "dinSen", "dreform2010", "dreform2010"), tmp)
 colnames(tmp) <- c("var","zero","one","sum")
 tmp
 #
@@ -6804,29 +6828,30 @@ cor(tmpdat$dsamePty, tmpdat$dmultiRef)
 cor(tmpdat$dinSen, tmpdat$dmocionMix)
 
 # LR tests of overall model fit (vs. intercept-only model, see http://www.ats.ucla.edu/stat/r/dae/logit.htm)
-with(fit1, null.deviance - deviance)
-with(fit1, df.null - df.residual)
-with(fit1, pchisq(null.deviance - deviance, df.null - df.residual, lower.tail = FALSE))
+with(fit1e, null.deviance - deviance)
+with(fit1e, df.null - df.residual)
+with(fit1e, pchisq(null.deviance - deviance, df.null - df.residual, lower.tail = FALSE))
 #
-with(fit2, null.deviance - deviance)
-with(fit2, df.null - df.residual)
-with(fit2, pchisq(null.deviance - deviance, df.null - df.residual, lower.tail = FALSE))
+with(fit2e, null.deviance - deviance)
+with(fit2e, df.null - df.residual)
+with(fit2e, pchisq(null.deviance - deviance, df.null - df.residual, lower.tail = FALSE))
 #
-with(fit3, null.deviance - deviance)
-with(fit3, df.null - df.residual)
-with(fit3, pchisq(null.deviance - deviance, df.null - df.residual, lower.tail = FALSE))
+with(fit3e, null.deviance - deviance)
+with(fit3e, df.null - df.residual)
+with(fit3e, pchisq(null.deviance - deviance, df.null - df.residual, lower.tail = FALSE))
 #
 # LR test not reliable for mixed model, bootsrapping preferable but not straightforward, see http://glmm.wikidot.com/faq
 #
 # percent correctly predicted
-pred1 <- predict(fit1, type = "response"); pred1[pred1>=.5] <- 1; pred1[pred1<.5] <- 0
-table(tmpdat$dv - pred1) / nrow(tmpdat) # pct correctly predicted
-pred2 <- predict(fit2, type = "response"); pred2[pred2>=.5] <- 1; pred2[pred2<.5] <- 0
-table(tmpdat$dv - pred2) / nrow(tmpdat) # pct correctly predicted
-pred3 <- predict(fit3, type = "response"); pred3[pred3>=.5] <- 1; pred3[pred3<.5] <- 0
-table(tmpdat$dv - pred3) / nrow(tmpdat) # pct correctly predicted
-pred4 <- predict(fit4, type = "response"); pred4[pred4>=.5] <- 1; pred4[pred4<.5] <- 0
-table(tmpdat$dv - pred4) / nrow(tmpdat) # pct correctly predicted
+sel <- which(tmpdat$dmensaje==1)
+pred1 <- predict(fit1e, type = "response"); pred1[pred1>=.5] <- 1; pred1[pred1<.5] <- 0
+table(tmpdat$dv[sel] - pred1) / nrow(tmpdat) # pct correctly predicted
+pred2 <- predict(fit2e, type = "response"); pred2[pred2>=.5] <- 1; pred2[pred2<.5] <- 0
+table(tmpdat$dv[sel] - pred2) / nrow(tmpdat) # pct correctly predicted
+pred3 <- predict(fit3e, type = "response"); pred3[pred3>=.5] <- 1; pred3[pred3<.5] <- 0
+table(tmpdat$dv[sel] - pred3) / nrow(tmpdat) # pct correctly predicted
+pred4 <- predict(fit4e, type = "response"); pred4[pred4>=.5] <- 1; pred4[pred4<.5] <- 0
+table(tmpdat$dv[sel] - pred4) / nrow(tmpdat) # pct correctly predicted
 ## pred5 <- predict(fit5, type = "response"); pred5[pred5>=.5] <- 1; pred5[pred5<.5] <- 0
 ## table(tmpdat$dv - pred5) / nrow(tmpdat) # pct correctly predicted
 
@@ -6845,6 +6870,7 @@ tmp <- data.frame(
     dinSen       = median(tmpdat$dinSen),
 #    ptermR       = median(tmpdat$ptermR),
     legyrR       = median(tmpdat$legyrR),
+    legyrR2      = (median(tmpdat$legyrR))^2,
     dreform2010  = median(tmpdat$dreform2010),
     netApprovR   = median(tmpdat$netApprovR)
     )
@@ -6936,6 +6962,8 @@ polygon(x= c(-.45,-.22,-.22,-.45), y=c(-11,-11,0,0), col = "white", border = "wh
 text(x=-.425, y=-1:-nrow(mar3), labels=tmp, pos=4)
 #dev.off()
 
+sel <- which(tmpdat$yr==2006)
+summary(tmpdat$netApprovR[sel])
 
 ##########################
 # simulations start here #
@@ -6951,8 +6979,9 @@ sims3 <- with(tmpdat,
                          legyrR=seq(from=(min(legyrR)-.05), to=(max(legyrR)+.05), length.out = 100),
                          legyrR2=seq(from=(min(legyrR)-.05), to=(max(legyrR)+.05), length.out = 100)^2,
 #                         dreform2010=1,
-                         netApprovR=median(netApprovR),
+                         netApprovR= 0.33, # <- mean during legis 2006 median(netApprovR),
 #                         yr14 = 3,
+#                         yr = 2003
                          legis = 2006
                          )
               )
@@ -6960,8 +6989,8 @@ sims3$pr <- predict(fit3e, newdata = sims3, type = "response")
 sims3 <- cbind(sims3, predict(fit3e, newdata = sims3, type="link", se=TRUE))
 sims3 <- within(sims3, {
   PredictedProb <- plogis(fit)
-  LL <- plogis(fit - (1.96 * se.fit))
-  UL <- plogis(fit + (1.96 * se.fit))
+  LL <- plogis(fit - (1.96 * se.fit)) ## use 1.645 for 90 percent
+  UL <- plogis(fit + (1.96 * se.fit)) ## use 1.645 for 90 percent
 })
 sims3$legyr <- seq(from=1, to=0, length.out = 100) # for plot
 head(sims3)
@@ -6977,33 +7006,73 @@ ggplot(sims3, aes(x = legyr, y = PredictedProb)) +
     scale_x_continuous(breaks=seq(from=0, to=1, length.out=7), labels=seq(from=12, to=0, by=-2))
 #dev.off()
 
-# for glmer the method above won't work, but method below does
-# see https://stats.stackexchange.com/questions/147836/prediction-interval-for-lmer-mixed-effects-model-in-r
-sims4 <- with(tmpdat,
-              data.frame(dsamePty=c(0,1),
+# std error version
+sims2 <- with(tmpdat,
+              data.frame(dsameCoal=c(0,1),
                          dmultiRef=0,
 #                         dmocion= 0,
-                         dmocionAllOpp= 0,
-                         dmocionMix   = 0,
-                         dmocionAllPdt= 0,
+                         drefHda=0,
+                         dmajSen=0,
+                         dinSen=0,
+                         legyrR=seq(from=(min(legyrR)-.05), to=(max(legyrR)+.05), length.out = 100),
+                         legyrR2=seq(from=(min(legyrR)-.05), to=(max(legyrR)+.05), length.out = 100)^2,
+                         dreform2010=0,
+                         netApprovR=0.33, # median(netApprovR),
+#                         yr14 = 3,
+                         legis = 2006
+                         )
+              )
+sims2$pr <- predict(fit2e, newdata = sims2, type = "response")
+sims2 <- cbind(sims2, predict(fit2e, newdata = sims2, type="link", se=TRUE))
+sims2 <- within(sims2, {
+  PredictedProb <- plogis(fit)
+  LL <- plogis(fit - (1.96 * se.fit))
+  UL <- plogis(fit + (1.96 * se.fit))
+})
+sims2$legyr <- seq(from=1, to=0, length.out = 100) # for plot
+head(sims2)
+library(ggplot2)
+gr <- "../graphs/"
+#pdf (file = paste(gr, "predictedPr.pdf", sep = ""), width = 7, height = 4)
+ggplot(sims2, aes(x = legyr, y = PredictedProb)) +
+    geom_ribbon(aes(ymin = LL, ymax = UL, fill = factor(dsameCoal)), alpha = .2) +
+    geom_line(aes(colour = factor(dsameCoal)), size=1) +
+    labs(fill = "Coalition chair", colour = "Coalition chair",
+         x = "Legislative year remaining (in months)",
+         y = "Predicted probability") +
+    scale_x_continuous(breaks=seq(from=0, to=1, length.out=7), labels=seq(from=12, to=0, by=-2))
+#dev.off()
+
+
+# for glmer the method above won't work, but method below does
+# see https://stats.stackexchange.com/questions/147836/prediction-interval-for-lmer-mixed-effects-model-in-r
+antilogit <- function(X){ exp(X) / (exp(X)+1) }
+sims4 <- with(tmpdat,
+              data.frame(dsameCoal=c(0,1),
+                         dmultiRef=0,
+#                         dmocion= 0,
+#                         dmocionAllOpp= 0,
+#                         dmocionMix   = 0,
+#                         dmocionAllPdt= 0,
                          drefHda=1,
 #                         dmajSen=1,
                          dinSen=0,
                          legyrR=seq(from=(min(legyrR)-.05), to=(max(legyrR)+.05), length.out = 100),
+                         legyrR2=seq(from=(min(legyrR)-.05), to=(max(legyrR)+.05), length.out = 100)^2,
 #                         dreform2010=0,
                          netApprovR=median(netApprovR),
-                         legis = 2010
+                         legis = 2006
                          )
               )
 library(merTools)
-tmp <- predictInterval(fit4, newdata = sims4, n.sims = 999)
+tmp <- predictInterval(fit4e, newdata = sims4, n.sims = 999)
 sims4 <- cbind(sims4, antilogit(tmp))
 head(sims4)
 sims4$PredictedProb <- sims4$fit
 #pdf (file = paste(gr, "predictedPr.pdf", sep = ""), width = 7, height = 4)
 ggplot(sims4, aes(x = legyrR, y = PredictedProb)) +
-  geom_ribbon(aes(ymin = lwr, ymax = upr, fill = factor(dsamePty)), alpha = .2) +
-  geom_line(aes(colour = factor(dsamePty)), size=1)
+  geom_ribbon(aes(ymin = lwr, ymax = upr, fill = factor(dsameCoal)), alpha = .2) +
+  geom_line(aes(colour = factor(dsameCoal)), size=1)
 #dev.off()
 
 
