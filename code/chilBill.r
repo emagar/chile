@@ -6411,6 +6411,8 @@ table(tmp[bills$info$dmensaje==1])
 table(tmp[bills$info$dpassed==1 & bills$info$dmensaje==0])
 table(tmp[bills$info$dpassed==1 & bills$info$dmensaje==1])
 
+415/540
+
 tmp <- bills$info$nSimpleCam; tmp[tmp>0] <- 1; table(tmp); round(table(tmp)*100/I,0) # <-- with at least one 4 wk urgency message
 table(tmp[bills$info$dmensaje==0])
 table(tmp[bills$info$dmensaje==1])
@@ -6708,9 +6710,9 @@ colnames(tmpdat)
 #fit <- lm (dv ~ dmocionAllOpp + dmocionMix + dmocionAllPdt + drefHda + dmajSen + dinSen + pterm + legyr, data = tmpdat)
 # 
 # select one DV here
-tmpdat$dv <- tmpdat$dv1 # discusión inmediata only
+#tmpdat$dv <- tmpdat$dv1 # discusión inmediata only
 tmpdat$dv <- tmpdat$dv2 # suma urgencia only
-tmpdat$dv <- tmpdat$dv12 # discusión inmediata and urgencia suma
+#tmpdat$dv <- tmpdat$dv12 # discusión inmediata and urgencia suma
 
 colnames(tmpdat)
 table(tmpdat$yr)
