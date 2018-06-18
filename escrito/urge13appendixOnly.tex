@@ -1,0 +1,158 @@
+\documentclass[letter,12pt]{article}
+\usepackage[letterpaper,right=1.25in,left=1.25in,top=1in,bottom=1in]{geometry}
+\usepackage{setspace}
+
+\usepackage[utf8]{inputenc}   % allows input of special characters from keyboard (input encoding)
+\usepackage[T1]{fontenc}      % what fonts to use when printing characters       (output encoding)
+\usepackage{amsmath}          % facilitates writing math formulas and improves the typographical quality of their output
+\usepackage[hyphens]{url}     % adds line breaks to long urls
+\usepackage[pdftex]{graphicx} % enhanced support for graphics
+\usepackage{tikz}             % Easier syntax to draw pgf files (invokes pgf automatically)
+\usetikzlibrary{arrows}
+
+\usepackage{mathptmx}           % set font type to Times
+\usepackage[scaled=.90]{helvet} % set font type to Times (Helvetica for some special characters)
+\usepackage{courier}            % set font type to Times (Courier for other special characters)
+
+\usepackage[longnamesfirst, sort]{natbib}\bibpunct[]{(}{)}{,}{a}{}{;} % handles biblio and references 
+
+\usepackage{rotating}         % sideway tables and figures that take a full page
+\usepackage{caption}          % allows multipage figures and tables with same caption (\ContinuedFloat)
+
+\usepackage{dcolumn}          % needed for apsrtable and stargazer tables from R to compile
+\usepackage{arydshln}         % dashed lines in tables (hdashline, cdashline{3-4}, 
+                              %see http://tex.stackexchange.com/questions/20140/can-a-table-include-a-horizontal-dashed-line)
+                              % must be loaded AFTER dcolumn, 
+                              %see http://tex.stackexchange.com/questions/12672/which-tabular-packages-do-which-tasks-and-which-packages-conflict
+
+
+\newcommand{\mc}{\multicolumn}
+
+%% TO ADD NOTES IN TEXT, PUT % BEFORE THE ONE YOU WANT DISABLED
+\usepackage[disable]{todonotes}                            % no show
+%\usepackage[colorinlistoftodos, textsize=small]{todonotes} % show notes
+\newcommand{\emm}[1]{\todo[color=red!15, inline]{\textbf{Eric:} #1}}
+\newcommand{\vp}[1]{\todo[color=green!15, inline]{\textbf{Vale:} #1}}
+\newcommand{\ges}[1]{\todo[color=blue!15, inline]{\textbf{Ges:} #1}}
+
+\begin{document}
+
+\title{Online Appendix for ``Presidents on the Fast Track''}
+\author{Eric Magar \\ ITAM \and
+        Valeria Palanza \\ Univ.\ Católica de Chile \and  
+        Gisela Sin \\ University of Illinois
+}
+\date{\today}
+\maketitle
+
+%\begin{center} \textbf{$\rightarrow$~~Preliminary draft~~$\leftarrow$} \\ (please inquire for new version, \small{\url{emagar@itam.mx}})  \end{center}
+
+\doublespacing
+
+\section{Dichotomous variables}
+
+%\begin{footnotesize}
+\begin{tabular}{llrrr}
+ Variable                      & Definition &       =0 &       =1 & Total  \\ \hline
+\emph{Fast track bill} (Dep.~Var.) &     &    927 &   540 & 1,467 \\ [-.75ex]
+                               &     &   .632 &  .368 &   1   \\
+\emph{Co-partisan comm.~chair} &     &    832 &   635 & 1,467 \\ [-.75ex]
+                               &     &   .567 &  .433 &   1   \\
+\emph{Coalition comm.~chair}   &     &     99 & 1,368 & 1,467 \\ [-.75ex]
+                               &     &   .067 &  .933 &   1   \\
+\emph{Multiple referrals}      &     &  1,096 &   371 & 1,467 \\ [-.75ex]
+                               &     &   .747 &  .253 &   1   \\
+\emph{Hacienda referral}       &     &    732 &   735 & 1,467 \\ [-.75ex]
+                               &     &   .499 &  .501 &   1   \\
+\emph{Introduced in Senate}    &     &  1,224 &   243 & 1,467 \\ [-.75ex]
+                               &     &   .834 &  .166 &   1   \\
+\emph{Senate majority}         &     &    512 &   955 & 1,467 \\ [-.75ex]
+                               &     &   .349 &  .651 &   1   \\
+\emph{Relax deadlines}         &     &  1,094 &   373 & 1,467 \\ [-.75ex]
+                               &     &   .746 &  .254 &   1   \\
+\emph{1998--2002}              &     &  1,195 &   272 & 1,467 \\ [-.75ex]
+                               &     &   .815 &  .185 &   1   \\
+\emph{2002--2006}              &     &  1,067 &   400 & 1,467 \\ [-.75ex]
+                               &     &   .727 &  .273 &   1   \\
+\emph{2006--2010}              &     &  1,075 &   392 & 1,467 \\ [-.75ex]
+                               &     &   .733 &  .267 &   1   \\
+\emph{2010--2014}              &     &  1,064 &   403 & 1,467 \\ [-.75ex]
+                               &     &   .725 &  .275 &   1   \\
+\end{tabular}
+%\end{footnotesize}
+  
+\section{Continuous variables}
+
+%\begin{footnotesize}
+  \begin{tabular}{llrrrrrrr}
+               Var.  & Def. &  Min.&  Q1 & Med. & Mean &  Q3  &  Max. &   sd \\ \hline
+\emph{Year remaining}&      &  0   &  27 & 51   & 51.5 & 75   & 100   &   27.1 \\
+\emph{Pres.~approval}&      &-39.2 & -8 &  10.7 &  9.5 & 22.3 &  66.3 &   24.2 \\
+\end{tabular}
+%\end{footnotesize}
+  
+\section{Chilean urgency types}
+
+Congressional practice is well summarized by the library of Congress at \url{http://www.bcn.cl/ecivica/formacion/}. The congressional organic law (\emph{Ley Orgánica del Congreso}, arts.\ 26 and 27) gives presidents the following choices to qualify urgent bills:
+
+\begin{enumerate}
+\item simple (\emph{urgencia simple}), providing Congress with 30 calendar days for bill consideration;
+\item supreme (\emph{urgencia suma}), providing 15 calendar days for consideration); and
+\item immediate discussion (\emph{discusión inmediata}), providing 6 calendar days.
+\end{enumerate}
+
+By defining what amounts to `simple urgency' only, the constitution sets a floor for the authority, and higher degrees in the organic law are vulnerable to congressional majorities, who might be inclined to relax the deadlines available if that were in their interest. As, in fact, was done once. The organic law was amended in July 2010, four months into the newly elected legislature (and concurrent Piñera presidential administration), substantially relaxing the deadlines for the `immediate discussion' and `supreme urgency' types, originally set at 10 and 3 days, to 15 and 6 days respectively. `Simple urgency' remained unchanged. But the Constitution (art.~66) also raises the bar for relaxing urgency deadlines by requiring the vote of four-sevenths ($\approx 57$ percent) of each chamber's membership for the passage and amendment of constitutional organic laws. While this qualified requirement is below the two-thirds needed for constitutional reform, no coalition has exceeded the organic law threshold in both chambers since the return to democracy.
+
+\section{Supreme urgency and the closed rule}
+
+In the period we examine, the \emph{Cámara}'s standing rules explicitly precluded the second committee report for bills qualified with supreme urgency (\emph{urgencia suma}), ruling out the bill's second reading by mandating that general (i.e., first reading) and particular (i.e., second reading) considerations take place simultaneously. In other words, supreme urgency mandated a closed floor consideration rule, whereas other urgency types did not.
+
+The text of the relevant Reglamento articles follows. Excerpts are from the standing rules adopted in March 10, 2002 (with text updated to March 2010).  
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% ReglamDip arts 188 y 189: %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% Art. 188. Cuando un proyecto sea declarado de "suma urgencia", se procederá a su discusión en la siguiente forma: No habrá segundo informe de Comisión y el proyecto deberá ser despachado por la Cámara en diez días, que se distribuirán así:
+%% 1° Cinco días para el informe de Comisión.
+%% 2° Tres días para el informe de la Comisión de Hacienda, si procediere.
+%% 3° Dos días para la discusión y votación en la Sala.
+%% La discusión se hará en general y particular a la vez. Sólo se admitirán a discusión y votación las indicaciones o disposiciones que, rechazadas por la Comisiones informantes, sean renovadas con las firmas de treinta Diputados que incluyan, a lo menos, a tres Jefes de Comités. Para tal efecto, los informes consignarán expresamente estas circunstancias.
+%% Lo dispuesto en este número se debe entender sin perjuicio de lo establecido en el inciso segundo del artículo 132 (declaratoria de terminada la discusión).
+%% ...
+%% Art. 189. Cuando un proyecto sea declarado de "discusión inmediata", se procederá a su discusión y votación en la forma siguiente:
+%% El proyecto deberá ser despachado por la Cámara en tres días, que se distribuirán así:
+%% 1$^o$ Un día para el informe de la Comisión competente, que puede ser verbal o escrito.
+%% 2$^o$ Un día para el informe de la Comisión de Hacienda, si procediere, que puede ser verbal o escrito.
+%% 3$^o$ Un día para la discusión y votación del proyecto.
+%% Lo dispuesto en este N$^o$ 3 deberá entenderse sin perjuicio de lo establecido en el inciso segundo del artículo 132 (renuncia de Comités a su tiempo).
+%% Para los demás trámites Constitucionales tendrá la Cámara un día adicional.
+%% La discusión de estos proyectos se hará en general y particular a la vez. No serán sometidos a segundo informe.
+%% La Ley Orgánica no menciona nada acerca de restrictive rules.
+
+\singlespacing
+
+Art.~188. When a project is qualified as ``\textbf{supreme urgency}'', its discussion shall proceed thus: \textbf{There will be no second committee report} and the project shall be dispatched by the Chamber in ten days [...] \textbf{Discussion shall be general and particular at once}. Only amendments and additions rejected in committee, but renewed with the signature of thirty Deputies, including at least three committee chairs, shall be admitted for discussion and vote [...]
+
+(In Spanish: Art.~188. \emph{Cuando un proyecto sea declarado de ``\textbf{suma urgencia}'', se procederá a su discusión en la siguiente forma: \textbf{No habrá segundo informe de Comisión} y el proyecto deberá ser despachado por la Cámara en diez días [...]
+\textbf{La discusión se hará en general y particular a la vez}. Sólo se admitirán a discusión y votación las indicaciones o disposiciones que, rechazadas por la Comisiones informantes, sean renovadas con las firmas de treinta Diputados que incluyan, a lo menos, a tres Jefes de Comités [...]})
+
+\bigskip
+
+Art.~189. When a project is qualified as ``\textbf{immediate discussion}'', its discussion shall proceed thus: The project shall be dispatched by the Chamber in three days [...]
+\textbf{Discussion of these projects shall be general and particular at once. They will not be subject to a second committee report.}
+
+(In Spanish: Art.~189. \emph{Cuando un proyecto sea declarado de ``\textbf{discusión inmediata}'', se procederá a su discusión y votación en la forma siguiente:
+El proyecto deberá ser despachado por la Cámara en tres días [...]
+\textbf{La discusión de estos proyectos se hará en general y particular a la vez. No serán sometidos a segundo informe.}})
+
+\doublespacing
+
+\emph{Cámara} rules were amended in 2014 to generalize closed consideration rules for urgencies regardless of degree. This, however, falls outside the time span of the data we analyze.
+
+% \singlespacing
+
+%% \bibliographystyle{apsr}
+%% \bibliography{../bib/magar}
+
+\end{document}
+
